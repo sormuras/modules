@@ -1,2 +1,2 @@
-# module-names-database
-Store modulescanner reports in a local zip archives
+# modules
+Well-known Java modules published at Maven Central
