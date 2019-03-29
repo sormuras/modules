@@ -1,17 +1,17 @@
 # sormuras/modules
-3838 Java modules published at Maven Central
+3839 Java modules published at Maven Central
 
-## Summary 2019-03-29T11:49:30.729967600Z
+## Summary 2019-03-29T17:55:22.630450100Z
 
 ```
-Modules summary of 2019-03-29T11:49:30.729967600Z
+Modules summary of 2019-03-29T17:55:22.630450100Z
 
-Scanned 17430 files in 2 seconds
+Scanned 17460 files in 2 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_29_11_38_09.csv
+    last -> modulescanner-report-2019_03_29_17_48_27.csv
 
-Counted 38677 module-related lines.
-Collected 3838 unique modules.
+Counted 38708 module-related lines.
+Collected 3839 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -27,11 +27,11 @@ com.google.common -> com.google.guava:guava:27.1-jre
 
 Modules listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module name: [4540](suspicious/syntax.md)
+- Invalid module name: [4542](suspicious/syntax.md)
 - Naming is _off_...: [7929](suspicious/naming.md)
-- Module name thief: [1474](suspicious/impostors.md)
+- Module name thief: [1492](suspicious/impostors.md)
 
-## Modules (3838)
+## Modules (3839)
 
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
@@ -43,7 +43,7 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.1`
 - :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.3`
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.4`
-- :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.5`
+- :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.3`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.3`
 - :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.2`
@@ -221,11 +221,11 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.5`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.5`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.3`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.3`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.1`
-- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.3`
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.0`
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.3`
@@ -580,9 +580,9 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.1.0`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.0`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.0`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.0`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.1`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.1`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.1`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.1`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.2`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.2`
@@ -605,10 +605,10 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.1`
 - :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.1`
 - :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.3`
-- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.4`
-- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.4`
-- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.4`
-- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.4`
+- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.5`
+- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.5`
+- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.5`
+- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.5`
 - :cd: `com.holonplatform.vaadin.flow.test.utils` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-test:5.2.0-rc1`
 - :cd: `com.holonplatform.vaadin.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-navigator:5.2.3`
 - :cd: `com.holonplatform.vaadin.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring:5.2.3`
@@ -2175,6 +2175,7 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :cd: `org.apache.openejb.itests.itests.legacy.client` :left_right_arrow: `org.apache.openejb.itests:legacy-client:8.0.0-M2`
 - :cd: `org.apache.openejb.itests.itests.legacy.server` :left_right_arrow: `org.apache.openejb.itests:legacy-server:8.0.0-M2`
 - :cd: `org.apache.opennlp.tools` :left_right_arrow: `org.apache.opennlp:opennlp-tools:1.9.1`
+- :cd: `org.apache.santuario.xmlsec` :left_right_arrow: `org.apache.santuario:xmlsec:2.1.3`
 - :cd: `org.apache.tika.app` :left_right_arrow: `org.apache.tika:tika-app:1.20`
 - :cd: `org.apache.tika.batch` :left_right_arrow: `org.apache.tika:tika-batch:1.20`
 - :cd: `org.apache.tika.core` :left_right_arrow: `org.apache.tika:tika-core:1.20`
