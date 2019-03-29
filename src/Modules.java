@@ -114,7 +114,7 @@ public class Modules {
 
   private static List<Path> paths(Path root) throws Exception {
     try (var stream = Files.walk(root)) {
-      return stream.filter(Files::isRegularFile).collect(Collectors.toList());
+      return stream.filter(Files::isRegularFile).sorted().collect(Collectors.toList());
     }
   }
 
