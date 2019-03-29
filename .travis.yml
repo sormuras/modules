@@ -15,6 +15,6 @@ install:
 script:
   - mkdir --parents bucket
   - du bucket
-  - aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request
+  - aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --exclude "*" --include "*2018_08*"
   - du bucket
   - java src/Modules.java bucket
