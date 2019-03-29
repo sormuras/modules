@@ -1,17 +1,17 @@
 # sormuras/modules
-3824 Java modules published at Maven Central
+3838 Java modules published at Maven Central
 
-## Summary 2019-03-29T11:12:50.263457200Z
+## Summary 2019-03-29T11:49:30.729967600Z
 
 ```
-Modules summary of 2019-03-29T11:12:50.263457200Z
+Modules summary of 2019-03-29T11:49:30.729967600Z
 
-Scanned 17424 files in 2 seconds
+Scanned 17430 files in 2 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_29_10_14_08.csv
+    last -> modulescanner-report-2019_03_29_11_38_09.csv
 
-Counted 38672 module-related lines.
-Collected 3824 unique modules.
+Counted 38677 module-related lines.
+Collected 3838 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -25,13 +25,13 @@ com.google.common -> com.google.guava:guava:27.1-jre
 
 ## Suspicious Modules
 
-Modules listed below didn't make it into the `modules.properties` database.
+Modules listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid Java module name: [4540](suspicious/syntax.md)
-- Naming is _off_...: [7978](suspicious/naming.md)
-- Pretends to be another module: [1473](suspicious/impostors.md)
+- Invalid module name: [4540](suspicious/syntax.md)
+- Naming is _off_...: [7929](suspicious/naming.md)
+- Module name thief: [1474](suspicious/impostors.md)
 
-## Modules (3824)
+## Modules (3838)
 
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
@@ -217,6 +217,20 @@ Modules listed below didn't make it into the `modules.properties` database.
 - :cd: `com.emarsys.rdb.connector.postgresql` :left_right_arrow: `com.emarsys:rdb-connector-postgresql_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
+- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.5`
+- :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.5`
+- :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.5`
+- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.5`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.1`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.0`
+- :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.3`
+- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.5`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
 - :cd: `com.envimate.webmate.integrations.jetty` :left_right_arrow: `com.envimate.webmate.integrations:webmate-jetty:1.0.7`
