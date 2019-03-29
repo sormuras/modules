@@ -248,14 +248,19 @@ public class Modules {
           String.format("Counted %d module-related lines.", lines.size()),
           String.format("Collected %d unique modules.", modules.size()),
           "",
-          String.format("            junit -> %s", modules.get("junit").toMaven()),
-          String.format("org.junit.jupiter -> %s", modules.get("org.junit.jupiter").toMaven()),
-          String.format("org.objectweb.asm -> %s", modules.get("org.objectweb.asm").toMaven()),
-          String.format("com.google.common -> %s", modules.get("com.google.common").toMaven()),
-          String.format("   org.joda.beans -> %s", modules.get("org.joda.beans").toMaven()),
-          String.format(" org.joda.collect -> %s", modules.get("org.joda.collect").toMaven()),
-          String.format(" org.joda.convert -> %s", modules.get("org.joda.convert").toMaven()),
+          sample("junit"),
+          sample("org.junit.jupiter"),
+          sample("org.objectweb.asm"),
+          sample("com.google.common"),
+          sample("org.joda.beans"),
+          sample("org.joda.collect"),
+          sample("org.joda.convert"),
           "");
+    }
+
+    String sample(String name) {
+      var module = modules.get(name);
+      return String.format("%17s -> %s", name, module == null ? "?" : module.toMaven());
     }
 
     List<String> toMarkdown(List<String> summaryLines) {
