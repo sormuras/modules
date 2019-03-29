@@ -1,17 +1,17 @@
 # sormuras/modules
-3839 Java modules published at Maven Central
+3849 Java modules published at Maven Central
 
-## Summary 2019-03-29T17:55:22.630450100Z
+## Summary 2019-03-29T17:58:08.948796300Z
 
 ```
-Modules summary of 2019-03-29T17:55:22.630450100Z
+Modules summary of 2019-03-29T17:58:08.948796300Z
 
 Scanned 17460 files in 2 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
     last -> modulescanner-report-2019_03_29_17_48_27.csv
 
 Counted 38708 module-related lines.
-Collected 3839 unique modules.
+Collected 3849 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -28,10 +28,10 @@ com.google.common -> com.google.guava:guava:27.1-jre
 Modules listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module name: [4542](suspicious/syntax.md)
-- Naming is _off_...: [7929](suspicious/naming.md)
-- Module name thief: [1492](suspicious/impostors.md)
+- Naming is _off_...: [7907](suspicious/naming.md)
+- Module name thief: [1494](suspicious/impostors.md)
 
-## Modules (3839)
+## Modules (3849)
 
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
@@ -1678,6 +1678,16 @@ Modules listed in this section didn't make it into the `modules.properties` data
 - :cd: `it.unimi.dsi.fastutil` :left_right_arrow: `it.unimi.dsi:fastutil:8.2.2`
 - :cd: `jakarta.activation` :left_right_arrow: `jakarta.activation:jakarta.activation-api:1.2.1`
 - :dvd: `javax.jws` :left_right_arrow: `javax.jws:javax.jws-api:1.1`
+- :dvd: `jfxtras.agenda` :left_right_arrow: `org.jfxtras:jfxtras-agenda:10.0-r1`
+- :dvd: `jfxtras.common` :left_right_arrow: `org.jfxtras:jfxtras-common:10.0-r1`
+- :dvd: `jfxtras.controls` :left_right_arrow: `org.jfxtras:jfxtras-controls:10.0-r1`
+- :dvd: `jfxtras.font.roboto` :left_right_arrow: `org.jfxtras:jfxtras-font-roboto:10.0-r1`
+- :dvd: `jfxtras.fxml` :left_right_arrow: `org.jfxtras:jfxtras-fxml:10.0-r1`
+- :dvd: `jfxtras.gauge.linear` :left_right_arrow: `org.jfxtras:jfxtras-gauge-linear:10.0-r1`
+- :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-all:10.0-r1`
+- :dvd: `jfxtras.icalendarfx` :left_right_arrow: `org.jfxtras:jfxtras-icalendarfx:10.0-r1`
+- :dvd: `jfxtras.menu` :left_right_arrow: `org.jfxtras:jfxtras-menu:10.0-r1`
+- :dvd: `jfxtras.window` :left_right_arrow: `org.jfxtras:jfxtras-window:10.0-r1`
 - :cd: `junit` :left_right_arrow: `junit:junit:4.13-beta-2`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.95`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.95`
