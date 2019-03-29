@@ -1,0 +1,20 @@
+dist: xenial
+language: java
+
+cache:
+  directories:
+    - $HOME/.local
+    - bucket
+
+install:
+  - java --version
+  - pip install --user awscli
+  - export PATH=$PATH:$HOME/.local/bin
+  - aws --version
+
+script:
+  - mkdir --parents bucket
+  - du bucket
+  - aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request
+  - du bucket
+  - java src/Modules.java bucket
