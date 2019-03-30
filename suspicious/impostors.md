@@ -1239,16 +1239,19 @@
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.3.0` // `org.lamblin,lamblin-local-runner,0.3.0,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.3.1` // `org.lamblin,lamblin-local-runner,0.3.1,org.lamblin,-,automatic,-,false,-`
+- :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.3.2` // `org.lamblin,lamblin-local-runner,0.3.2,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.1.5` // `org.lamblin,lamblin-plugin-core,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.1.6` // `org.lamblin,lamblin-plugin-core,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.2.3` // `org.lamblin,lamblin-plugin-core,0.2.3,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.3.0` // `org.lamblin,lamblin-plugin-core,0.3.0,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.3.1` // `org.lamblin,lamblin-plugin-core,0.3.1,org.lamblin,-,automatic,-,false,-`
+- :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-plugin-core:0.3.2` // `org.lamblin,lamblin-plugin-core,0.3.2,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.1.5` // `org.lamblin,lamblin-test,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.1.6` // `org.lamblin,lamblin-test,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.2.3` // `org.lamblin,lamblin-test,0.2.3,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.3.0` // `org.lamblin,lamblin-test,0.3.0,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.3.1` // `org.lamblin,lamblin-test,0.3.1,org.lamblin,-,automatic,-,false,-`
+- :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-test:0.3.2` // `org.lamblin,lamblin-test,0.3.2,org.lamblin,-,automatic,-,false,-`
 - :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.lwjgl:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.lwjgl,3.2.1.1,org.lwjgl,-,explicit,java.base + jdk.unsupported,false,-`
 - :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1.1,org.lwjgl.assimp,-,explicit,java.base + org.lwjgl,false,-`
 - :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.bgfx:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.bgfx,3.2.1.1,org.lwjgl.bgfx,-,explicit,java.base + org.lwjgl,false,-`

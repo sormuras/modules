@@ -1105,6 +1105,10 @@
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.19.0.Final` // `org.optaplanner,optaplanner-docs,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics:metrics-logback:4.1.0-rc2` // `io.dropwizard.metrics,metrics-logback,4.1.0-rc2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-matchers,4.0.0-beta.0,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-model,4.0.0-beta.0,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-pact-broker,4.0.0-beta.0,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-support,4.0.0-beta.0,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.0.0-RC4` // `org.apereo.cas,cas-mgmt-api-configuration,6.0.0-RC4,cas-mgmt-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.0.1` // `org.apereo.cas,cas-mgmt-api-configuration,6.0.1,cas-mgmt-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.1.0-RC2` // `org.apereo.cas,cas-mgmt-api-configuration,6.1.0-RC2,cas-mgmt-api-configuration,-,automatic,-,false,-`
@@ -3839,6 +3843,7 @@
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.2` // `com.blackducksoftware.integration,phone-home-client,0.21.2,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.10.0` // `com.synopsys.integration,polaris-common,0.10.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.10.1` // `com.synopsys.integration,polaris-common,0.10.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.11.0` // `com.synopsys.integration,polaris-common,0.11.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
