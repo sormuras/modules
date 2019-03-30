@@ -1,6 +1,6 @@
 ## About Java module names
 
-@jodastephen writes about Java module naming:
+[@jodastephen](https://github.com/jodastephen) writes about Java module naming:
 
 > Java SE 9 brought a new feature, the Java Platform Module System (JPMS).
 > Due to certain constraints in the design, it is important for there to be an agreed naming strategy across open source projects.
