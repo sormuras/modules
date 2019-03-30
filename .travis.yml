@@ -30,4 +30,4 @@ after_success:
   - git commit --message "[skip ci] Update modules (${TRAVIS_BUILD_NUMBER})"
   - git remote rm origin
   - git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-  - git push --dry-run origin $TRAVIS_BRANCH
+  - git push origin $TRAVIS_BRANCH
