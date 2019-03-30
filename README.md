@@ -1,16 +1,16 @@
 # sormuras/modules
 Counted 3853 Java modules published at Maven Central
 
-## Summary 2019-03-30T07:01:43.209886200Z
+## Summary 2019-03-30T14:09:11.299771Z
 
 ```
-Modules summary of 2019-03-30T07:01:43.209886200Z
+Modules summary of 2019-03-30T14:09:11.299771Z
 
-Scanned 17526 files in 2 seconds
+Scanned 17562 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_30_06_42_33.csv
+    last -> modulescanner-report-2019_03_30_13_51_47.csv
 
-Counted 38928 module-related lines.
+Counted 38955 module-related lines.
 Collected 3853 unique modules.
 
             junit -> junit:junit:4.13-beta-2
@@ -25,7 +25,7 @@ com.google.common -> com.google.guava:guava:27.1-jre
 
 ## About Java module names
 
-@jodastephen writes about Java module naming:
+[@jodastephen](https://github.com/jodastephen) writes about Java module naming:
 
 > Java SE 9 brought a new feature, the Java Platform Module System (JPMS).
 > Due to certain constraints in the design, it is important for there to be an agreed naming strategy across open source projects.
@@ -70,7 +70,7 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [4547](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [7926](suspicious/naming.md)
-- Modular impostors: [1497](suspicious/impostors.md)
+- Modular impostors: [1508](suspicious/impostors.md)
 
 ## Unique Modules (3853)
 
@@ -269,7 +269,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.3`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.1`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.5`
 - :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.3`
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.0`
@@ -1313,10 +1313,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
 - :cd: `info.kuechler.bmf.taxapi` :left_right_arrow: `info.kuechler.bmf.taxapi:taxapi:2019.0.0`
 - :cd: `info.kuechler.bmf.taxcalculator` :left_right_arrow: `info.kuechler.bmf.taxcalculator:taxcalculator:2019.0.0`
-- :cd: `info.picocli` :left_right_arrow: `info.picocli:picocli:3.9.5`
-- :cd: `info.picocli.codegen` :left_right_arrow: `info.picocli:picocli-codegen:3.9.5`
-- :cd: `info.picocli.shell.jline2` :left_right_arrow: `info.picocli:picocli-shell-jline2:3.9.5`
-- :cd: `info.picocli.shell.jline3` :left_right_arrow: `info.picocli:picocli-shell-jline3:3.9.5`
+- :cd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.0.0-alpha-1`
+- :cd: `info.picocli.codegen` :left_right_arrow: `info.picocli:picocli-codegen:4.0.0-alpha-1`
+- :cd: `info.picocli.shell.jline2` :left_right_arrow: `info.picocli:picocli-shell-jline2:4.0.0-alpha-1`
+- :cd: `info.picocli.shell.jline3` :left_right_arrow: `info.picocli:picocli-shell-jline3:4.0.0-alpha-1`
 - :cd: `io.aeron.agent` :left_right_arrow: `io.aeron:aeron-agent:1.17.0`
 - :cd: `io.aeron.archive` :left_right_arrow: `io.aeron:aeron-archive:1.17.0`
 - :cd: `io.aeron.client` :left_right_arrow: `io.aeron:aeron-client:1.17.0`
@@ -1810,12 +1810,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.javacrumbs.futureconverter.springjava` :left_right_arrow: `net.javacrumbs.future-converter:future-converter-spring-java8:1.2.0`
 - :cd: `net.javacrumbs.futureconverter.springrx` :left_right_arrow: `net.javacrumbs.future-converter:future-converter-spring-rxjava:1.2.0`
 - :cd: `net.javacrumbs.futureconverter.springrx2` :left_right_arrow: `net.javacrumbs.future-converter:future-converter-spring-rxjava2:1.2.0`
-- :cd: `net.javacrumbs.jsonunit.assertj` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-assertj:2.5.1`
-- :cd: `net.javacrumbs.jsonunit.classic` :left_right_arrow: `net.javacrumbs.json-unit:json-unit:2.5.1`
-- :cd: `net.javacrumbs.jsonunit.core` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-core:2.5.1`
-- :cd: `net.javacrumbs.jsonunit.fluent` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-fluent:2.5.1`
-- :cd: `net.javacrumbs.jsonunit.jsonpath` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-json-path:2.5.1`
-- :cd: `net.javacrumbs.jsonunit.spring` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-spring:2.5.1`
+- :cd: `net.javacrumbs.jsonunit.assertj` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-assertj:2.6.1`
+- :cd: `net.javacrumbs.jsonunit.classic` :left_right_arrow: `net.javacrumbs.json-unit:json-unit:2.6.1`
+- :cd: `net.javacrumbs.jsonunit.core` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-core:2.6.1`
+- :cd: `net.javacrumbs.jsonunit.fluent` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-fluent:2.6.1`
+- :cd: `net.javacrumbs.jsonunit.jsonpath` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-json-path:2.6.1`
+- :cd: `net.javacrumbs.jsonunit.spring` :left_right_arrow: `net.javacrumbs.json-unit:json-unit-spring:2.6.1`
 - :cd: `net.javacrumbs.shedlock.core` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-core:2.4.0`
 - :cd: `net.javacrumbs.shedlock.provider.couchbase.javaclient` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-couchbase-javaclient:2.4.0`
 - :cd: `net.javacrumbs.shedlock.provider.dynamodb` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-dynamodb:2.4.0`
@@ -2141,14 +2141,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.geronimo.opentracing.osgi` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing-osgi:1.0.2`
 - :cd: `org.apache.httpcomponents.httpasyncclient` :left_right_arrow: `org.apache.httpcomponents:httpasyncclient:4.1.4`
 - :cd: `org.apache.httpcomponents.httpasyncclient.cache` :left_right_arrow: `org.apache.httpcomponents:httpasyncclient-cache:4.1.4`
-- :cd: `org.apache.httpcomponents.httpclient` :left_right_arrow: `org.apache.httpcomponents:httpclient:4.5.7`
-- :cd: `org.apache.httpcomponents.httpclient.cache` :left_right_arrow: `org.apache.httpcomponents:httpclient-cache:4.5.7`
-- :cd: `org.apache.httpcomponents.httpclient.fluent` :left_right_arrow: `org.apache.httpcomponents:fluent-hc:4.5.7`
-- :cd: `org.apache.httpcomponents.httpclient.win` :left_right_arrow: `org.apache.httpcomponents:httpclient-win:4.5.7`
+- :cd: `org.apache.httpcomponents.httpclient` :left_right_arrow: `org.apache.httpcomponents:httpclient:4.5.8`
+- :cd: `org.apache.httpcomponents.httpclient.cache` :left_right_arrow: `org.apache.httpcomponents:httpclient-cache:4.5.8`
+- :cd: `org.apache.httpcomponents.httpclient.fluent` :left_right_arrow: `org.apache.httpcomponents:fluent-hc:4.5.8`
+- :cd: `org.apache.httpcomponents.httpclient.win` :left_right_arrow: `org.apache.httpcomponents:httpclient-win:4.5.8`
 - :cd: `org.apache.httpcomponents.httpcore` :left_right_arrow: `org.apache.httpcomponents:httpcore:4.4.11`
 - :cd: `org.apache.httpcomponents.httpcore.ab` :left_right_arrow: `org.apache.httpcomponents:httpcore-ab:4.4.11`
 - :cd: `org.apache.httpcomponents.httpcore.nio` :left_right_arrow: `org.apache.httpcomponents:httpcore-nio:4.4.11`
-- :cd: `org.apache.httpcomponents.httpmime` :left_right_arrow: `org.apache.httpcomponents:httpmime:4.5.7`
+- :cd: `org.apache.httpcomponents.httpmime` :left_right_arrow: `org.apache.httpcomponents:httpmime:4.5.8`
 - :cd: `org.apache.isis.core` :left_right_arrow: `org.apache.isis.core:isis-webdocker:2.0.0-M2`
 - :cd: `org.apache.isis.core.integtestsupport` :left_right_arrow: `org.apache.isis.core:isis-core-integtestsupport:2.0.0-M2`
 - :cd: `org.apache.isis.core.log4j` :left_right_arrow: `org.apache.isis.core:isis-core-log4j:2.0.0-M2`
