@@ -15,9 +15,6 @@ install:
   - export PATH=$PATH:$HOME/.local/bin
   - aws --version
 
-before_script:
-  - git fetch --unshallow
-
 script:
   - mkdir --parents bucket
   - du --bytes bucket
@@ -26,6 +23,9 @@ script:
   - java src/Modules.java bucket
 
 after_success:
+  - git status
+  - git remote rm origin
+  - git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
   - git status
   - git commit --message "[skip ci] Update modules (${TRAVIS_BUILD_NUMBER})"
   - git status
