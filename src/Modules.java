@@ -263,10 +263,10 @@ public class Modules {
       return String.format("%17s -> %s", name, module == null ? "?" : module.toMaven());
     }
 
-    List<String> toMarkdown(List<String> summaryLines) {
+    List<String> toMarkdown(List<String> summaryLines) throws Exception {
       var md = new ArrayList<String>();
       md.add("# sormuras/modules");
-      md.add(modules.size() + " Java modules published at Maven Central");
+      md.add("Counted " + modules.size() + " Java modules published at Maven Central");
       md.add("");
       md.add("## Summary " + startInstant);
       md.add("");
@@ -274,16 +274,24 @@ public class Modules {
       md.addAll(summaryLines);
       md.add("```");
       md.add("");
+      md.addAll(Files.readAllLines(Path.of("README_ABOUT.md")));
+      md.add("");
       md.add("## Suspicious Modules");
       md.add("");
       md.add(
-          "Modules listed in this section didn't make it into the `modules.properties` database.");
+          "Module names listed in this section didn't make it into the `modules.properties` database.");
       md.add("");
-      md.add("- Invalid module name: [" + suspiciousSyntax.size() + "](suspicious/syntax.md)");
-      md.add("- Naming is _off_...: [" + suspiciousNaming.size() + "](suspicious/naming.md)");
-      md.add("- Module name thief: [" + suspiciousImpostors.size() + "](suspicious/impostors.md)");
+      md.add("- Invalid module names: [" + suspiciousSyntax.size() + "](suspicious/syntax.md)");
+      md.add(
+          "- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): ["
+              + suspiciousNaming.size()
+              + "](suspicious/naming.md)");
+      md.add("- Modular impostors: [" + suspiciousImpostors.size() + "](suspicious/impostors.md)");
       md.add("");
-      md.add("## Modules (" + modules.size() + ")");
+      md.add("## Unique Modules (" + modules.size() + ")");
+      md.add("");
+      md.add("Module names listed in this section are unique and well-formed.");
+      md.add("Include them in your `module-info.java` module descriptors.");
       md.add("");
       modules.values().forEach(it -> md.add(it.toMarkdown()));
       return md;
