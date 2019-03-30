@@ -11,10 +11,12 @@ cache:
     - bucket
 
 install:
-  - java --version
   - pip install --user awscli
   - export PATH=$PATH:$HOME/.local/bin
   - aws --version
+
+before_script:
+  - git fetch --unshallow
 
 script:
   - mkdir --parents bucket
