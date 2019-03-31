@@ -1,14 +1,14 @@
 # sormuras/modules
 Counted 3860 Java modules published at Maven Central
 
-## Summary 2019-03-31T21:52:29.004917Z
+## Summary 2019-03-31T22:03:50.012351Z
 
 ```
-Modules summary of 2019-03-31T21:52:29.004917Z
+Modules summary of 2019-03-31T22:03:50.012351Z
 
-Scanned 17691 files in 1 seconds
+Scanned 17692 files in 2 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_31_21_37_25.csv
+    last -> modulescanner-report-2019_03_31_21_50_27.csv
 
 Counted 39049 module-related lines.
 Collected 3860 unique modules.
