@@ -13,4 +13,4 @@ git add .
 git commit --file .travis-commit-message.md
 git remote rm origin
 git remote add origin https://${GH_TOKEN}@github.com/sormuras/modules.git
-git push origin master --dry-run
+git push origin master
