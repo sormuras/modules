@@ -3,3 +3,4 @@
 bucket/
 .classpath
 .project
+.travis-commit-message.md

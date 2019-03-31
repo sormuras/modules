@@ -302,6 +302,13 @@ public class Modules {
       var summaryStrings = toStrings();
       summaryStrings.forEach(System.out::println);
 
+      // generate commit message file...
+      var commitMessage = new ArrayList<String>();
+      commitMessage.add(modules.size() + " modules [skip ci]");
+      commitMessage.add("");
+      commitMessage.addAll(summaryStrings);
+      Files.write(Path.of(".travis-commit-message.md"), commitMessage);
+
       // to markdown...
       Files.write(Path.of("README.md"), toMarkdown(summaryStrings));
 
