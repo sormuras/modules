@@ -41,6 +41,10 @@ public class Repository {
   Repository(Path root) {
     this.root = root;
     this.references = new HashMap<>();
+
+    if (Files.notExists(root)) {
+      return;
+    }
     try (var stream = Files.walk(root)) {
       stream
           .filter(path -> path.getFileName().toString().endsWith(".jar"))
