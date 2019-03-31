@@ -1,10 +1,6 @@
 dist: xenial
 language: java
 
-env:
-  global:
-    secure: "UzDSPvvCq6PfzxbF1TQlIAKgZEdGT/8zjoLeL7GbtxopuOMIUVhRWEDiiHpfbdd19JUmM0HhAg1yOpU/3gNhR22yZHeqRtwJ3IMBSfPy8Ek2V+3p/3k0/huiSKxS08jqqTFSTaLVCppbi+7wj+Ak++2BKAhx2EFL5NUO8iEn6mg4lg++PZL6Saji8lLXRK03wXNpES/UYTwCiKfObA/Ncnn0GZYJFCq0DDHHO1ADgEBDGAI+0l3EfblQeNNfP7nIDGQs02WKkdwr6bn8S3XMHKaii1oRMXKWOq1NNylWz8BcfSu5yF29ZjTQUNNY0jG7N+xtsRZNzih+AQGRynaKF9SDSSwD2pgr5FwhBT32VrxMwJXFX3G2XNC7dQqDEQxr1IFE4gCQ9yrmRqXkwGAjiovw+svfEpSPSsELso65AghdDPIahkFQMDvl3U1lr8RUvl7+tBmXqf6zl1YXkrBV3RPFzNPhdT3j2vCCRCDzy86nZRxAb8LYsth4mGXecxbfNkMZdc1j1oMdrSDor5x65IFcTZUSKTQ/az8MeiQuPh6GwGs4HDp3SbxKpkTQLaXgpn7FZUVGvhl3pv2v3nXxwUgoeCg2IGxZb8U4wpCIWX7GROlcFfGbt1AfjuPxDBHdug91Kmv1PMTHxPS94bW/1WcEVeF1Fy3t0Hdwz6mEZXM="
-
 cache:
   directories:
     - $HOME/.local
@@ -22,12 +18,14 @@ script:
   - du --bytes bucket
   - java src/Modules.java bucket
 
-after_success:
-  - git config --global user.email "build@travis-ci.com"
-  - git config --global user.name "Travis CI"
-  - git checkout $TRAVIS_BRANCH
-  - git add . suspicious
-  - git commit --message "[skip ci] Update modules (${TRAVIS_BUILD_NUMBER})"
-  - git remote rm origin
-  - git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-  - git push origin $TRAVIS_BRANCH
+deploy:
+  - provider: script
+    script: bash .travis-deploy.sh
+    on:
+      repo: sormuras/modules
+      branch: master
+
+env:
+  global:
+    secure: "UzDSPvvCq6PfzxbF1TQlIAKgZEdGT/8zjoLeL7GbtxopuOMIUVhRWEDiiHpfbdd19JUmM0HhAg1yOpU/3gNhR22yZHeqRtwJ3IMBSfPy8Ek2V+3p/3k0/huiSKxS08jqqTFSTaLVCppbi+7wj+Ak++2BKAhx2EFL5NUO8iEn6mg4lg++PZL6Saji8lLXRK03wXNpES/UYTwCiKfObA/Ncnn0GZYJFCq0DDHHO1ADgEBDGAI+0l3EfblQeNNfP7nIDGQs02WKkdwr6bn8S3XMHKaii1oRMXKWOq1NNylWz8BcfSu5yF29ZjTQUNNY0jG7N+xtsRZNzih+AQGRynaKF9SDSSwD2pgr5FwhBT32VrxMwJXFX3G2XNC7dQqDEQxr1IFE4gCQ9yrmRqXkwGAjiovw+svfEpSPSsELso65AghdDPIahkFQMDvl3U1lr8RUvl7+tBmXqf6zl1YXkrBV3RPFzNPhdT3j2vCCRCDzy86nZRxAb8LYsth4mGXecxbfNkMZdc1j1oMdrSDor5x65IFcTZUSKTQ/az8MeiQuPh6GwGs4HDp3SbxKpkTQLaXgpn7FZUVGvhl3pv2v3nXxwUgoeCg2IGxZb8U4wpCIWX7GROlcFfGbt1AfjuPxDBHdug91Kmv1PMTHxPS94bW/1WcEVeF1Fy3t0Hdwz6mEZXM="
+
