@@ -1,17 +1,17 @@
 # sormuras/modules
-Counted 3859 Java modules published at Maven Central
+Counted 3860 Java modules published at Maven Central
 
-## Summary 2019-03-31T07:16:03.712789Z
+## Summary 2019-03-31T21:52:29.004917Z
 
 ```
-Modules summary of 2019-03-31T07:16:03.712789Z
+Modules summary of 2019-03-31T21:52:29.004917Z
 
-Scanned 17629 files in 1 seconds
+Scanned 17691 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_31_07_02_51.csv
+    last -> modulescanner-report-2019_03_31_21_37_25.csv
 
-Counted 39015 module-related lines.
-Collected 3859 unique modules.
+Counted 39049 module-related lines.
+Collected 3860 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -69,10 +69,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [4565](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [7931](suspicious/naming.md)
-- Modular impostors: [1508](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [7934](suspicious/naming.md)
+- Modular impostors: [1510](suspicious/impostors.md)
 
-## Unique Modules (3859)
+## Unique Modules (3860)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -379,6 +379,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
+- :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:0.7.0`
 - :cd: `com.github.mjeanroy.junit.servers.core` :left_right_arrow: `com.github.mjeanroy:junit-servers-core:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.jetty` :left_right_arrow: `com.github.mjeanroy:junit-servers-jetty:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.tomcat` :left_right_arrow: `com.github.mjeanroy:junit-servers-tomcat:0.11.0`
@@ -539,7 +540,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.http` :left_right_arrow: `com.helger:ph-http:9.1.1`
 - :cd: `com.helger.httpclient` :left_right_arrow: `com.helger:ph-httpclient:9.1.1`
 - :cd: `com.helger.jaxb` :left_right_arrow: `com.helger:ph-jaxb:9.3.2`
-- :cd: `com.helger.jcodemodel` :left_right_arrow: `com.helger:jcodemodel:3.2.2`
+- :cd: `com.helger.jcodemodel` :left_right_arrow: `com.helger:jcodemodel:3.2.3`
 - :cd: `com.helger.jdmc.core` :left_right_arrow: `com.helger:ph-jdmc-core:0.0.3`
 - :cd: `com.helger.jdmc.example` :left_right_arrow: `com.helger:ph-jdmc-example:0.0.3`
 - :cd: `com.helger.json` :left_right_arrow: `com.helger:ph-json:9.3.2`
@@ -1125,12 +1126,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.3.0`
 - :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.3.0`
 - :cd: `com.thoughtworks.qdox` :left_right_arrow: `com.thoughtworks.qdox:qdox:2.0-M10`
-- :cd: `com.threeleaf.common.test` :left_right_arrow: `com.threeleaf:random4test:1.0.3`
-- :cd: `com.tngtech.archunit` :left_right_arrow: `com.tngtech.archunit:archunit:0.10.1`
-- :cd: `com.tngtech.archunit.junit4` :left_right_arrow: `com.tngtech.archunit:archunit-junit4:0.10.1`
-- :cd: `com.tngtech.archunit.junit5.api` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-api:0.10.1`
-- :cd: `com.tngtech.archunit.junit5.engine` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine:0.10.1`
-- :cd: `com.tngtech.archunit.junit5.engineapi` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine-api:0.10.1`
+- :cd: `com.threeleaf.common.test` :left_right_arrow: `com.threeleaf:random4test:1.0.4`
+- :cd: `com.tngtech.archunit` :left_right_arrow: `com.tngtech.archunit:archunit:0.10.2`
+- :cd: `com.tngtech.archunit.junit4` :left_right_arrow: `com.tngtech.archunit:archunit-junit4:0.10.2`
+- :cd: `com.tngtech.archunit.junit5.api` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-api:0.10.2`
+- :cd: `com.tngtech.archunit.junit5.engine` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine:0.10.2`
+- :cd: `com.tngtech.archunit.junit5.engineapi` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine-api:0.10.2`
 - :cd: `com.tngtech.junit.dataprovider.core` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-dataprovider-core:2.4`
 - :cd: `com.tngtech.junit.dataprovider.junit4` :left_right_arrow: `com.tngtech.junit.dataprovider:junit4-dataprovider:2.4`
 - :cd: `com.tngtech.junit.dataprovider.jupiter` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-jupiter-dataprovider:2.4`
@@ -3895,33 +3896,33 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `software.amazon.awssdk.utils` :left_right_arrow: `software.amazon.awssdk:utils:2.5.20`
 - :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon:flow:1.7`
 - :cd: `software.amazon.ion` :left_right_arrow: `software.amazon.ion:ion-java:1.3.1`
-- :cd: `spring.aop` :left_right_arrow: `org.springframework:spring-aop:5.1.5.RELEASE`
-- :cd: `spring.aspects` :left_right_arrow: `org.springframework:spring-aspects:5.1.5.RELEASE`
-- :cd: `spring.beans` :left_right_arrow: `org.springframework:spring-beans:5.1.5.RELEASE`
-- :cd: `spring.context` :left_right_arrow: `org.springframework:spring-context:5.1.5.RELEASE`
-- :cd: `spring.context.indexer` :left_right_arrow: `org.springframework:spring-context-indexer:5.1.5.RELEASE`
-- :cd: `spring.context.support` :left_right_arrow: `org.springframework:spring-context-support:5.1.5.RELEASE`
-- :cd: `spring.core` :left_right_arrow: `org.springframework:spring-core:5.1.5.RELEASE`
-- :cd: `spring.expression` :left_right_arrow: `org.springframework:spring-expression:5.1.5.RELEASE`
-- :cd: `spring.instrument` :left_right_arrow: `org.springframework:spring-instrument:5.1.5.RELEASE`
-- :cd: `spring.jcl` :left_right_arrow: `org.springframework:spring-jcl:5.1.5.RELEASE`
-- :cd: `spring.jdbc` :left_right_arrow: `org.springframework:spring-jdbc:5.1.5.RELEASE`
-- :cd: `spring.jms` :left_right_arrow: `org.springframework:spring-jms:5.1.5.RELEASE`
-- :cd: `spring.messaging` :left_right_arrow: `org.springframework:spring-messaging:5.1.5.RELEASE`
-- :cd: `spring.orm` :left_right_arrow: `org.springframework:spring-orm:5.1.5.RELEASE`
-- :cd: `spring.oxm` :left_right_arrow: `org.springframework:spring-oxm:5.1.5.RELEASE`
+- :cd: `spring.aop` :left_right_arrow: `org.springframework:spring-aop:5.1.6.RELEASE`
+- :cd: `spring.aspects` :left_right_arrow: `org.springframework:spring-aspects:5.1.6.RELEASE`
+- :cd: `spring.beans` :left_right_arrow: `org.springframework:spring-beans:5.1.6.RELEASE`
+- :cd: `spring.context` :left_right_arrow: `org.springframework:spring-context:5.1.6.RELEASE`
+- :cd: `spring.context.indexer` :left_right_arrow: `org.springframework:spring-context-indexer:5.1.6.RELEASE`
+- :cd: `spring.context.support` :left_right_arrow: `org.springframework:spring-context-support:5.1.6.RELEASE`
+- :cd: `spring.core` :left_right_arrow: `org.springframework:spring-core:5.1.6.RELEASE`
+- :cd: `spring.expression` :left_right_arrow: `org.springframework:spring-expression:5.1.6.RELEASE`
+- :cd: `spring.instrument` :left_right_arrow: `org.springframework:spring-instrument:5.1.6.RELEASE`
+- :cd: `spring.jcl` :left_right_arrow: `org.springframework:spring-jcl:5.1.6.RELEASE`
+- :cd: `spring.jdbc` :left_right_arrow: `org.springframework:spring-jdbc:5.1.6.RELEASE`
+- :cd: `spring.jms` :left_right_arrow: `org.springframework:spring-jms:5.1.6.RELEASE`
+- :cd: `spring.messaging` :left_right_arrow: `org.springframework:spring-messaging:5.1.6.RELEASE`
+- :cd: `spring.orm` :left_right_arrow: `org.springframework:spring-orm:5.1.6.RELEASE`
+- :cd: `spring.oxm` :left_right_arrow: `org.springframework:spring-oxm:5.1.6.RELEASE`
 - :cd: `spring.session.core` :left_right_arrow: `org.springframework.session:spring-session-core:2.1.4.RELEASE`
 - :cd: `spring.session.data.gemfire` :left_right_arrow: `org.springframework.session:spring-session-data-gemfire:2.1.2.RELEASE`
 - :cd: `spring.session.data.geode` :left_right_arrow: `org.springframework.session:spring-session-data-geode:2.1.2.RELEASE`
 - :cd: `spring.session.data.redis` :left_right_arrow: `org.springframework.session:spring-session-data-redis:2.1.4.RELEASE`
 - :cd: `spring.session.hazelcast` :left_right_arrow: `org.springframework.session:spring-session-hazelcast:2.1.4.RELEASE`
 - :cd: `spring.session.jdbc` :left_right_arrow: `org.springframework.session:spring-session-jdbc:2.1.4.RELEASE`
-- :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.5.RELEASE`
-- :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.5.RELEASE`
-- :cd: `spring.web` :left_right_arrow: `org.springframework:spring-web:5.1.5.RELEASE`
-- :cd: `spring.webflux` :left_right_arrow: `org.springframework:spring-webflux:5.1.5.RELEASE`
-- :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.5.RELEASE`
-- :cd: `spring.websocket` :left_right_arrow: `org.springframework:spring-websocket:5.1.5.RELEASE`
+- :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.6.RELEASE`
+- :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.6.RELEASE`
+- :cd: `spring.web` :left_right_arrow: `org.springframework:spring-web:5.1.6.RELEASE`
+- :cd: `spring.webflux` :left_right_arrow: `org.springframework:spring-webflux:5.1.6.RELEASE`
+- :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.6.RELEASE`
+- :cd: `spring.websocket` :left_right_arrow: `org.springframework:spring-websocket:5.1.6.RELEASE`
 - :cd: `st.extreme.math.fraction` :left_right_arrow: `st.extreme:fractions:1.1`
 - :cd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.5`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0-EDR`
