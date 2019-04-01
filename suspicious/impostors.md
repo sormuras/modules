@@ -1027,6 +1027,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jswitcher-ui:1.2` // `com.github.xincao9,jswitcher-ui,1.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.spotify.ffwd:ffwd-agent:0.4.1` // `com.spotify.ffwd,ffwd-agent,0.4.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.spotify.ffwd:ffwd-agent:0.4.2` // `com.spotify.ffwd,ffwd-agent,0.4.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.spotify.ffwd:ffwd-agent:0.4.3` // `com.spotify.ffwd,ffwd-agent,0.4.3,org.apache.logging.log4j,-,explicit,java.base,false,-`

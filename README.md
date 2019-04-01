@@ -1,16 +1,16 @@
 # sormuras/modules
 Counted 3860 Java modules published at Maven Central
 
-## Summary 2019-03-31T22:03:50.012351Z
+## Summary 2019-04-01T07:16:55.491682Z
 
 ```
-Modules summary of 2019-03-31T22:03:50.012351Z
+Modules summary of 2019-04-01T07:16:55.491682Z
 
-Scanned 17692 files in 2 seconds
+Scanned 17733 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_03_31_21_50_27.csv
+    last -> modulescanner-report-2019_04_01_06_41_48.csv
 
-Counted 39049 module-related lines.
+Counted 39054 module-related lines.
 Collected 3860 unique modules.
 
             junit -> junit:junit:4.13-beta-2
@@ -70,7 +70,7 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [4565](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [7934](suspicious/naming.md)
-- Modular impostors: [1510](suspicious/impostors.md)
+- Modular impostors: [1511](suspicious/impostors.md)
 
 ## Unique Modules (3860)
 
@@ -80,11 +80,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `au.com.dius.core` :left_right_arrow: `au.com.dius:core:4.0.0-beta.0`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
-- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:2.0.4`
+- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.0`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.3`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.2`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
-- :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.3`
+- :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.4`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.1`
 - :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.3`
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.4`
@@ -1637,8 +1637,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.norberg.rut` :left_right_arrow: `io.norberg:rut:1.0.1`
 - :cd: `io.norberg.rut.benchmark` :left_right_arrow: `io.norberg:rut-benchmark:1.0.1`
 - :cd: `io.opentracing.api` :left_right_arrow: `io.opentracing:opentracing-api:0.32.0`
-- :cd: `io.opentracing.contrib.jms1` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-1:0.0.11`
-- :cd: `io.opentracing.contrib.jms2` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-2:0.0.11`
+- :cd: `io.opentracing.contrib.jms1` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-1:0.1.0`
+- :cd: `io.opentracing.contrib.jms2` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-2:0.1.0`
 - :cd: `io.opentracing.mock` :left_right_arrow: `io.opentracing:opentracing-mock:0.32.0`
 - :cd: `io.opentracing.noop` :left_right_arrow: `io.opentracing:opentracing-noop:0.32.0`
 - :cd: `io.opentracing.util` :left_right_arrow: `io.opentracing:opentracing-util:0.32.0`
