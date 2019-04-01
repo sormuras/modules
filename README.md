@@ -1,14 +1,14 @@
 # sormuras/modules
 Counted 3860 Java modules published at Maven Central
 
-## Summary 2019-04-01T07:16:55.491682Z
+## Summary 2019-04-01T07:32:43.515359Z
 
 ```
-Modules summary of 2019-04-01T07:16:55.491682Z
+Modules summary of 2019-04-01T07:32:43.515359Z
 
-Scanned 17733 files in 1 seconds
+Scanned 17735 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_01_06_41_48.csv
+    last -> modulescanner-report-2019_04_01_07_20_54.csv
 
 Counted 39054 module-related lines.
 Collected 3860 unique modules.
@@ -22,6 +22,8 @@ com.google.common -> com.google.guava:guava:27.1-jre
  org.joda.convert -> org.joda:joda-convert:2.2.0
 
 ```
+
+[![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
 
 ## About Java module names
 
