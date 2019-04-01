@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
+
 ## About Java module names
 
 [@jodastephen](https://github.com/jodastephen) writes about Java module naming:
