@@ -1024,7 +1024,10 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.4` // `com.github.xincao9,jsonrpc-benchmark,1.2.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jswitcher-sample:1.2.1` // `com.github.xincao9,jswitcher-sample,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jswitcher-ui:1.2` // `com.github.xincao9,jswitcher-ui,1.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jswitcher-ui:1.2.1` // `com.github.xincao9,jswitcher-ui,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -1377,6 +1380,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:3.1` // `com.github.collinalpert,java2db,3.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.0.1` // `com.github.collinalpert,java2db,4.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1` // `com.github.collinalpert,java2db,4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1.1` // `com.github.collinalpert,java2db,4.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`

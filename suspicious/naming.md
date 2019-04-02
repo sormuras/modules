@@ -3226,6 +3226,7 @@
 - :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.14` // `de.gurkenlabs,litiengine,0.4.14,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.15` // `de.gurkenlabs,litiengine,0.4.15,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.16` // `de.gurkenlabs,litiengine,0.4.16,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
+- :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.16.1` // `de.gurkenlabs,litiengine,0.4.16.1,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.0` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.0,java.xml.bind,-,explicit,java.activation + java.base + java.xml + java.desktop + java.logging,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.0` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.0,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.1` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.1,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
@@ -3743,13 +3744,18 @@
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.2.1` // `com.squareup.okio,okio,2.2.1,okio,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.2.2` // `com.squareup.okio,okio,2.2.2,okio,-,automatic,-,false,-`
 - :cd: `orbit.codegen` :left_right_arrow: `cloud.orbit:orbit-codegen:2.0.0a2` // `cloud.orbit,orbit-codegen,2.0.0a2,orbit.codegen,-,automatic,-,false,-`
+- :cd: `orbit.codegen` :left_right_arrow: `cloud.orbit:orbit-codegen:2.0.0a3` // `cloud.orbit,orbit-codegen,2.0.0a3,orbit.codegen,-,automatic,-,false,-`
 - :cd: `orbit.codegen.dsl` :left_right_arrow: `cloud.orbit:orbit-codegen-dsl:2.0.0a2` // `cloud.orbit,orbit-codegen-dsl,2.0.0a2,orbit.codegen.dsl,-,automatic,-,false,-`
+- :cd: `orbit.codegen.dsl` :left_right_arrow: `cloud.orbit:orbit-codegen-dsl:2.0.0a3` // `cloud.orbit,orbit-codegen-dsl,2.0.0a3,orbit.codegen.dsl,-,automatic,-,false,-`
 - :cd: `orbit.commons` :left_right_arrow: `cloud.orbit:orbit-commons:2.0.0a1` // `cloud.orbit,orbit-commons,2.0.0a1,orbit.commons,-,automatic,-,false,-`
 - :cd: `orbit.commons` :left_right_arrow: `cloud.orbit:orbit-commons:2.0.0a2` // `cloud.orbit,orbit-commons,2.0.0a2,orbit.commons,-,automatic,-,false,-`
+- :cd: `orbit.commons` :left_right_arrow: `cloud.orbit:orbit-commons:2.0.0a3` // `cloud.orbit,orbit-commons,2.0.0a3,orbit.commons,-,automatic,-,false,-`
 - :cd: `orbit.core` :left_right_arrow: `cloud.orbit:orbit-core:2.0.0a1` // `cloud.orbit,orbit-core,2.0.0a1,orbit.core,-,automatic,-,false,-`
 - :cd: `orbit.core` :left_right_arrow: `cloud.orbit:orbit-core:2.0.0a2` // `cloud.orbit,orbit-core,2.0.0a2,orbit.core,-,automatic,-,false,-`
+- :cd: `orbit.core` :left_right_arrow: `cloud.orbit:orbit-core:2.0.0a3` // `cloud.orbit,orbit-core,2.0.0a3,orbit.core,-,automatic,-,false,-`
 - :cd: `orbit.runtime` :left_right_arrow: `cloud.orbit:orbit-runtime:2.0.0a1` // `cloud.orbit,orbit-runtime,2.0.0a1,orbit.runtime,-,automatic,-,false,-`
 - :cd: `orbit.runtime` :left_right_arrow: `cloud.orbit:orbit-runtime:2.0.0a2` // `cloud.orbit,orbit-runtime,2.0.0a2,orbit.runtime,-,automatic,-,false,-`
+- :cd: `orbit.runtime` :left_right_arrow: `cloud.orbit:orbit-runtime:2.0.0a3` // `cloud.orbit,orbit-runtime,2.0.0a3,orbit.runtime,-,automatic,-,false,-`
 - :cd: `org.apache.commons.codec` :left_right_arrow: `commons-codec:commons-codec:1.12` // `commons-codec,commons-codec,1.12,org.apache.commons.codec,-,automatic,-,false,-`
 - :cd: `org.apache.commons.codec` :left_right_arrow: `de.knightsoft-net:gwt-commons-codec:1.11-0` // `de.knightsoft-net,gwt-commons-codec,1.11-0,org.apache.commons.codec,-,automatic,-,false,-`
 - :dvd: `org.apache.commons.csv` :left_right_arrow: `io.github.pustike:commons-csv:1.6.0` // `io.github.pustike,commons-csv,1.6.0,org.apache.commons.csv,-,explicit,java.base,false,-`
@@ -6591,6 +6597,7 @@
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.2.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.2.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.3.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.3.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.4.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.4.RELEASE,spring.amqp,-,automatic,-,false,-`
+- :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.5.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.5.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.boot` :left_right_arrow: `org.springframework.boot:spring-boot:2.0.4.RELEASE` // `org.springframework.boot,spring-boot,2.0.4.RELEASE,spring.boot,-,automatic,-,false,-`
 - :cd: `spring.boot` :left_right_arrow: `org.springframework.boot:spring-boot:2.0.5.RELEASE` // `org.springframework.boot,spring-boot,2.0.5.RELEASE,spring.boot,-,automatic,-,false,-`
 - :cd: `spring.boot` :left_right_arrow: `org.springframework.boot:spring-boot:2.0.6.RELEASE` // `org.springframework.boot,spring-boot,2.0.6.RELEASE,spring.boot,-,automatic,-,false,-`
@@ -7085,6 +7092,7 @@
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.3.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.3.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.4.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.4.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.5.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.5.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
+- :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.6.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.6.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.0.10.RELEASE` // `org.springframework.data,spring-data-commons,2.0.10.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.0.9.RELEASE` // `org.springframework.data,spring-data-commons,2.0.9.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.0.RELEASE` // `org.springframework.data,spring-data-commons,2.1.0.RELEASE,spring.data.commons,-,automatic,-,false,-`
@@ -7093,6 +7101,7 @@
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.3.RELEASE` // `org.springframework.data,spring-data-commons,2.1.3.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.4.RELEASE` // `org.springframework.data,spring-data-commons,2.1.4.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.5.RELEASE` // `org.springframework.data,spring-data-commons,2.1.5.RELEASE,spring.data.commons,-,automatic,-,false,-`
+- :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.6.RELEASE` // `org.springframework.data,spring-data-commons,2.1.6.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.0.10.RELEASE` // `org.springframework.data,spring-data-couchbase,3.0.10.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.0.9.RELEASE` // `org.springframework.data,spring-data-couchbase,3.0.9.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.0.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.0.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
@@ -7101,6 +7110,7 @@
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.3.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.3.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.4.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.4.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.5.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.5.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
+- :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.6.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.6.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.0.10.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.0.10.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.0.9.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.0.9.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.0.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.0.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
@@ -7109,6 +7119,7 @@
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.3.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.3.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.4.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.4.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.5.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.5.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
+- :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.6.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.6.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.0.10.RELEASE` // `org.springframework.data,spring-data-envers,2.0.10.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.0.9.RELEASE` // `org.springframework.data,spring-data-envers,2.0.9.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.0.RELEASE` // `org.springframework.data,spring-data-envers,2.1.0.RELEASE,spring.data.envers,-,automatic,-,false,-`
@@ -7117,6 +7128,7 @@
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.3.RELEASE` // `org.springframework.data,spring-data-envers,2.1.3.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.4.RELEASE` // `org.springframework.data,spring-data-envers,2.1.4.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.5.RELEASE` // `org.springframework.data,spring-data-envers,2.1.5.RELEASE,spring.data.envers,-,automatic,-,false,-`
+- :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.6.RELEASE` // `org.springframework.data,spring-data-envers,2.1.6.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.0.10.RELEASE` // `org.springframework.data,spring-data-gemfire,2.0.10.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.0.9.RELEASE` // `org.springframework.data,spring-data-gemfire,2.0.9.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.0.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.0.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
@@ -7125,6 +7137,7 @@
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.3.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.3.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.4.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.4.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.5.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.5.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
+- :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.6.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.6.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.0.10.RELEASE` // `org.springframework.data,spring-data-geode,2.0.10.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.0.9.RELEASE` // `org.springframework.data,spring-data-geode,2.0.9.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.0.RELEASE` // `org.springframework.data,spring-data-geode,2.1.0.RELEASE,spring.data.geode,-,automatic,-,false,-`
@@ -7133,12 +7146,14 @@
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.3.RELEASE` // `org.springframework.data,spring-data-geode,2.1.3.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.4.RELEASE` // `org.springframework.data,spring-data-geode,2.1.4.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.5.RELEASE` // `org.springframework.data,spring-data-geode,2.1.5.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.6.RELEASE` // `org.springframework.data,spring-data-geode,2.1.6.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.0.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.0.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.1.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.1.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.2.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.2.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.3.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.3.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.4.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.4.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.5.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.5.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
+- :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.6.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.6.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.0.10.RELEASE` // `org.springframework.data,spring-data-jpa,2.0.10.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.0.9.RELEASE` // `org.springframework.data,spring-data-jpa,2.0.9.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.0.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.0.RELEASE,spring.data.jpa,-,automatic,-,false,-`
@@ -7147,6 +7162,7 @@
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.3.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.3.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.4.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.4.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.5.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.5.RELEASE,spring.data.jpa,-,automatic,-,false,-`
+- :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.6.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.6.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.0.10.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.0.10.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.0.9.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.0.9.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.0.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.0.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
@@ -7155,6 +7171,7 @@
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.3.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.3.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.4.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.4.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.5.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.5.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
+- :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.6.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.6.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.0.10.RELEASE` // `org.springframework.data,spring-data-ldap,2.0.10.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.0.9.RELEASE` // `org.springframework.data,spring-data-ldap,2.0.9.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.0.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.0.RELEASE,spring.data.ldap,-,automatic,-,false,-`
@@ -7163,6 +7180,7 @@
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.3.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.3.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.4.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.4.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.5.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.5.RELEASE,spring.data.ldap,-,automatic,-,false,-`
+- :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.6.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.6.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.0.10.RELEASE` // `org.springframework.data,spring-data-mongodb,2.0.10.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.0.9.RELEASE` // `org.springframework.data,spring-data-mongodb,2.0.9.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.0.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.0.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
@@ -7171,6 +7189,7 @@
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.3.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.3.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.4.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.4.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.5.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.5.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
+- :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.6.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.6.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.0.10.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.0.10.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.0.9.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.0.9.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.0.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.0.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
@@ -7179,6 +7198,7 @@
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.3.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.3.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.4.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.4.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.5.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.5.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
+- :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.6.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.6.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.0.10.RELEASE` // `org.springframework.data,spring-data-neo4j,5.0.10.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.0.9.RELEASE` // `org.springframework.data,spring-data-neo4j,5.0.9.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.0.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.0.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
@@ -7187,6 +7207,7 @@
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.3.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.3.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.4.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.4.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.5.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.5.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
+- :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.6.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.6.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.0.10.RELEASE` // `org.springframework.data,spring-data-redis,2.0.10.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.0.9.RELEASE` // `org.springframework.data,spring-data-redis,2.0.9.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.0.RELEASE` // `org.springframework.data,spring-data-redis,2.1.0.RELEASE,spring.data.redis,-,automatic,-,false,-`
@@ -7195,6 +7216,7 @@
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.3.RELEASE` // `org.springframework.data,spring-data-redis,2.1.3.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.4.RELEASE` // `org.springframework.data,spring-data-redis,2.1.4.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.5.RELEASE` // `org.springframework.data,spring-data-redis,2.1.5.RELEASE,spring.data.redis,-,automatic,-,false,-`
+- :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.6.RELEASE` // `org.springframework.data,spring-data-redis,2.1.6.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-core,3.0.10.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-core,3.0.9.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.0.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
@@ -7203,6 +7225,7 @@
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.3.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.3.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.4.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.5.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
+- :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.6.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.0.10.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.0.9.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.0.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
@@ -7211,6 +7234,7 @@
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.3.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.3.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.4.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.5.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
+- :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.6.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.0.10.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.0.9.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.0.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
@@ -7219,6 +7243,7 @@
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.3.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.3.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.4.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.5.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
+- :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.6.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:3.0.10.RELEASE` // `org.springframework.data,spring-data-solr,3.0.10.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:3.0.9.RELEASE` // `org.springframework.data,spring-data-solr,3.0.9.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.0.RELEASE` // `org.springframework.data,spring-data-solr,4.0.0.RELEASE,spring.data.solr,-,automatic,-,false,-`
@@ -7227,6 +7252,7 @@
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.3.RELEASE` // `org.springframework.data,spring-data-solr,4.0.3.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.4.RELEASE` // `org.springframework.data,spring-data-solr,4.0.4.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.5.RELEASE` // `org.springframework.data,spring-data-solr,4.0.5.RELEASE,spring.data.solr,-,automatic,-,false,-`
+- :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.6.RELEASE` // `org.springframework.data,spring-data-solr,4.0.6.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.integration.amqp` :left_right_arrow: `org.springframework.integration:spring-integration-amqp:5.0.7.RELEASE` // `org.springframework.integration,spring-integration-amqp,5.0.7.RELEASE,spring.integration.amqp,-,automatic,-,false,-`
 - :cd: `spring.integration.amqp` :left_right_arrow: `org.springframework.integration:spring-integration-amqp:5.0.8.RELEASE` // `org.springframework.integration,spring-integration-amqp,5.0.8.RELEASE,spring.integration.amqp,-,automatic,-,false,-`
 - :cd: `spring.integration.amqp` :left_right_arrow: `org.springframework.integration:spring-integration-amqp:5.0.9.RELEASE` // `org.springframework.integration,spring-integration-amqp,5.0.9.RELEASE,spring.integration.amqp,-,automatic,-,false,-`
@@ -7487,6 +7513,7 @@
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.2.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.3.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.4.RELEASE,spring.rabbit,-,automatic,-,false,-`
+- :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.5.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.5.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.5.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.6.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.7.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
@@ -7495,6 +7522,7 @@
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.2.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.3.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.4.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
+- :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.5.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.5.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.5.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.6.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.7.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
@@ -7503,6 +7531,7 @@
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.2.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.3.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.4.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
+- :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.5.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.5.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.security.acl` :left_right_arrow: `org.springframework.security:spring-security-acl:5.0.7.RELEASE` // `org.springframework.security,spring-security-acl,5.0.7.RELEASE,spring.security.acl,-,automatic,-,false,-`
 - :cd: `spring.security.acl` :left_right_arrow: `org.springframework.security:spring-security-acl:5.0.8.RELEASE` // `org.springframework.security,spring-security-acl,5.0.8.RELEASE,spring.security.acl,-,automatic,-,false,-`
 - :cd: `spring.security.acl` :left_right_arrow: `org.springframework.security:spring-security-acl:5.1.0.RELEASE` // `org.springframework.security,spring-security-acl,5.1.0.RELEASE,spring.security.acl,-,automatic,-,false,-`
@@ -7858,6 +7887,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.4` // `io.zipkin.zipkin2,zipkin,2.12.4,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.5` // `io.zipkin.zipkin2,zipkin,2.12.5,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.6` // `io.zipkin.zipkin2,zipkin,2.12.6,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.7` // `io.zipkin.zipkin2,zipkin,2.12.7,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`
@@ -7867,6 +7897,7 @@
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.9` // `io.zipkin.reporter2,zipkin-reporter,2.7.9,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.0` // `io.zipkin.reporter2,zipkin-reporter,2.8.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.1` // `io.zipkin.reporter2,zipkin-reporter,2.8.1,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.2` // `io.zipkin.reporter2,zipkin-reporter,2.8.2,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.10` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.10,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.13` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.13,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.14` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.14,zipkin2.reporter.amqp,-,automatic,-,false,-`
@@ -7876,6 +7907,7 @@
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.9` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.9,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.1` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.1,zipkin2.reporter.amqp,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.2` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.2,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.10` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.10,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.13` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.13,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.14` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.14,zipkin2.reporter.beans,-,automatic,-,false,-`
@@ -7885,6 +7917,7 @@
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.9` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.9,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.1,zipkin2.reporter.beans,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.2,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.10,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.13,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.14` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.14,zipkin2.reporter.kafka08,-,automatic,-,false,-`
@@ -7894,6 +7927,7 @@
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.9` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.9,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.0` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.0,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.1` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.1,zipkin2.reporter.kafka08,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.2` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.2,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.10,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.13,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.14` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.14,zipkin2.reporter.kafka11,-,automatic,-,false,-`
@@ -7903,6 +7937,7 @@
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.9` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.9,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.0` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.0,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.1` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.1,zipkin2.reporter.kafka11,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.2` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.2,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.10` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.10,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.13` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.13,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.14` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.14,zipkin2.reporter.libthrift,-,automatic,-,false,-`
@@ -7912,8 +7947,10 @@
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.9` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.9,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.1` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.1,zipkin2.reporter.libthrift,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.2` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.2,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.10` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.10,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.13` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.13,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.14` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.14,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
@@ -7923,6 +7960,7 @@
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.9` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.9,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.1` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.1,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.2` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.2,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.10` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.10,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.13` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.13,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.14` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.14,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
@@ -7932,3 +7970,4 @@
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.9` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.9,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.0` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.0,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.1` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.1,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.2` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.2,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
