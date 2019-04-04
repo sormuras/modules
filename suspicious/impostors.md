@@ -1155,9 +1155,11 @@
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.5.8` // `org.checkerframework,checker-qual,2.5.8,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.6.0` // `org.checkerframework,checker-qual,2.6.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.7.0` // `org.checkerframework,checker-qual,2.7.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
+- :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.8.0` // `org.checkerframework,checker-qual,2.8.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:1.4.1` // `org.conscrypt,conscrypt-openjdk-uber,1.4.1,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:1.4.2` // `org.conscrypt,conscrypt-openjdk-uber,1.4.2,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:2.0.0` // `org.conscrypt,conscrypt-openjdk-uber,2.0.0,org.conscrypt,-,automatic,-,false,-`
+- :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:2.1.0` // `org.conscrypt,conscrypt-openjdk-uber,2.1.0,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.12.0.Final` // `org.drools,drools-verifier-drl,7.12.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.13.0.Final` // `org.drools,drools-verifier-drl,7.13.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.14.0.Final` // `org.drools,drools-verifier-drl,7.14.0.Final,org.drools.verifier,-,automatic,-,false,-`
@@ -1496,6 +1498,10 @@
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.38` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.38,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-curves4:2.12.01` // `io.virtdata,virtdata-lib-curves4,2.12.01,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-random:2.12.01` // `io.virtdata,virtdata-lib-random,2.12.01,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-realer:2.12.01` // `io.virtdata,virtdata-lib-realer,2.12.01,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-realdata:2.12.01` // `io.virtdata,virtdata-realdata,2.12.01,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.wizzie:enricher-base:0.5.1` // `io.wizzie,enricher-base,0.5.1,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.wizzie:enricher-base:0.5.1.1` // `io.wizzie,enricher-base,0.5.1.1,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.wizzie:enricher-model:0.5.1` // `io.wizzie,enricher-model,0.5.1,org.slf4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
