@@ -1,16 +1,16 @@
 # sormuras/modules
 Counted 3874 Java modules published at Maven Central
 
-## Summary 2019-04-05T07:18:26.660129Z
+## Summary 2019-04-05T09:51:08.027766Z
 
 ```
-Modules summary of 2019-04-05T07:18:26.660129Z
+Modules summary of 2019-04-05T09:51:08.027766Z
 
-Scanned 18153 files in 1 seconds
+Scanned 18162 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_05_06_57_46.csv
+    last -> modulescanner-report-2019_04_05_09_40_38.csv
 
-Counted 40915 module-related lines.
+Counted 40949 module-related lines.
 Collected 3874 unique modules.
 
             junit -> junit:junit:4.13-beta-2
@@ -61,6 +61,9 @@ java src/Modules.java {path}
 
 The program reads [maven-group-alias.properties](maven-group-alias.properties) to cherry-pick some non reverse-DNS aliases for well-known projects.
 
+- :cd: is ["an automatic module"](http://branchandbound.net/blog/java/2017/12/automatic-module-name), i.e. it declares a stable module name via an `AUTOMATIC-MODULE-NAME` entry in its `META-INF/MANIFEST.MF` file.
+- :dvd: denotes an explicit containing a compile `module-info.class` module descriptor.
+
 ### Suspicious modules found on Maven Central
 
 Modules listed in the **Suspicious Modules** section ([suspicious/](suspicious)) are suspicious and need manual correction.
@@ -71,7 +74,7 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [4686](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8444](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8454](suspicious/naming.md)
 - Modular impostors: [1548](suspicious/impostors.md)
 
 ## Unique Modules (3874)
@@ -82,9 +85,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `au.com.dius.core` :left_right_arrow: `au.com.dius:core:4.0.0-beta.0`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
-- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.0`
+- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.1`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.3`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.2`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.3`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.4`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.1`
@@ -266,10 +269,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
 - :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.6`
-- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.6`
+- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.7`
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.6`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.6`
-- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.6`
+- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.7`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.6`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.6`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.6`
@@ -633,7 +636,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.1`
 - :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.1`
 - :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.1`
-- :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.1`
+- :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.2`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.2`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.2`
 - :cd: `com.holonplatform.jaxrs.client.reactor` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client-reactor:5.2.2`
@@ -651,9 +654,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.holonplatform.jpa.spring` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa-spring:5.2.2`
 - :cd: `com.holonplatform.jpa.spring.boot` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa-spring-boot:5.2.2`
 - :cd: `com.holonplatform.json` :left_right_arrow: `com.holon-platform.json:holon-json:5.2.1`
-- :cd: `com.holonplatform.reactor.datastore` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-datastore:5.2.1`
-- :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.1`
-- :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.1`
+- :cd: `com.holonplatform.reactor.datastore` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-datastore:5.2.2`
+- :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.2`
+- :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.2`
 - :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.3`
 - :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.5`
 - :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.5`
@@ -1092,7 +1095,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.powsybl.triplestore.test` :left_right_arrow: `com.powsybl:powsybl-triple-store-test:2.4.1`
 - :cd: `com.powsybl.ucte.converter` :left_right_arrow: `com.powsybl:powsybl-ucte-converter:2.4.1`
 - :cd: `com.powsybl.ucte.network` :left_right_arrow: `com.powsybl:powsybl-ucte-network:2.4.1`
-- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.6.0`
+- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.7.0`
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
 - :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.7.0`
@@ -2772,22 +2775,22 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.pde.ui` :left_right_arrow: `org.eclipse.pde:org.eclipse.pde.ui:3.10.600`
 - :cd: `org.eclipse.pde.ui.templates` :left_right_arrow: `org.eclipse.pde:org.eclipse.pde.ui.templates:3.6.500`
 - :cd: `org.eclipse.platform` :left_right_arrow: `org.eclipse.platform:org.eclipse.platform:4.11.0`
-- :cd: `org.eclipse.tycho.core.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.core.shared:1.3.0`
-- :cd: `org.eclipse.tycho.core.shared.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.core.shared.tests:1.3.0`
-- :cd: `org.eclipse.tycho.embedder.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.embedder.shared:1.3.0`
-- :cd: `org.eclipse.tycho.noopsecurity` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.noopsecurity:1.3.0`
-- :cd: `org.eclipse.tycho.p2.maven.repository` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.maven.repository:1.3.0`
-- :cd: `org.eclipse.tycho.p2.maven.repository.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.maven.repository.tests:1.3.0`
-- :cd: `org.eclipse.tycho.p2.resolver.impl` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.impl:1.3.0`
-- :cd: `org.eclipse.tycho.p2.resolver.impl.test` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.impl.test:1.3.0`
-- :cd: `org.eclipse.tycho.p2.resolver.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared:1.3.0`
-- :cd: `org.eclipse.tycho.p2.resolver.shared.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared.tests:1.3.0`
-- :cd: `org.eclipse.tycho.p2.tools.impl` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.impl:1.3.0`
-- :cd: `org.eclipse.tycho.p2.tools.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.shared:1.3.0`
-- :cd: `org.eclipse.tycho.p2.tools.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.tests:1.3.0`
-- :cd: `org.eclipse.tycho.surefire.osgibooter` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.surefire.osgibooter:1.3.0`
+- :cd: `org.eclipse.tycho.core.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.core.shared:1.4.0`
+- :cd: `org.eclipse.tycho.core.shared.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.core.shared.tests:1.4.0`
+- :cd: `org.eclipse.tycho.embedder.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.embedder.shared:1.4.0`
+- :cd: `org.eclipse.tycho.noopsecurity` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.noopsecurity:1.4.0`
+- :cd: `org.eclipse.tycho.p2.maven.repository` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.maven.repository:1.4.0`
+- :cd: `org.eclipse.tycho.p2.maven.repository.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.maven.repository.tests:1.4.0`
+- :cd: `org.eclipse.tycho.p2.resolver.impl` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.impl:1.4.0`
+- :cd: `org.eclipse.tycho.p2.resolver.impl.test` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.impl.test:1.4.0`
+- :cd: `org.eclipse.tycho.p2.resolver.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared:1.4.0`
+- :cd: `org.eclipse.tycho.p2.resolver.shared.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.resolver.shared.tests:1.4.0`
+- :cd: `org.eclipse.tycho.p2.tools.impl` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.impl:1.4.0`
+- :cd: `org.eclipse.tycho.p2.tools.shared` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.shared:1.4.0`
+- :cd: `org.eclipse.tycho.p2.tools.tests` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.p2.tools.tests:1.4.0`
+- :cd: `org.eclipse.tycho.surefire.osgibooter` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.surefire.osgibooter:1.4.0`
 - :cd: `org.eclipse.tycho.surefire.testnghelper` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.surefire.testnghelper:1.1.0`
-- :cd: `org.eclipse.tycho.test.utils` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.test.utils:1.3.0`
+- :cd: `org.eclipse.tycho.test.utils` :left_right_arrow: `org.eclipse.tycho:org.eclipse.tycho.test.utils:1.4.0`
 - :cd: `org.eclipse.vorto.codegen` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.bosch` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.bosch:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.bosch.gateway` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.bosch.gateway:0.10.0.M7`
