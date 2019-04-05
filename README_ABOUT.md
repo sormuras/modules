@@ -36,6 +36,9 @@ java src/Modules.java {path}
 
 The program reads [maven-group-alias.properties](maven-group-alias.properties) to cherry-pick some non reverse-DNS aliases for well-known projects.
 
+- :cd: is ["an automatic module"](http://branchandbound.net/blog/java/2017/12/automatic-module-name), i.e. it declares a stable module name via an `AUTOMATIC-MODULE-NAME` entry in its `META-INF/MANIFEST.MF` file.
+- :dvd: denotes an explicit containing a compile `module-info.class` module descriptor.
+
 ### Suspicious modules found on Maven Central
 
 Modules listed in the **Suspicious Modules** section ([suspicious/](suspicious)) are suspicious and need manual correction.
