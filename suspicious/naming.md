@@ -3839,6 +3839,7 @@
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.4.0` // `net.morimekta.utils,io-util,3.4.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.5.0` // `net.morimekta.utils,io-util,3.5.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.6.0` // `net.morimekta.utils,io-util,3.6.0,net.morimekta.util,-,automatic,-,false,-`
+- :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.7.0` // `net.morimekta.utils,io-util,3.7.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.nanquanyuhao.codeanalysis4j` :left_right_arrow: `io.github.nanquanyuhao:codeanalysis4j:0.0.1` // `io.github.nanquanyuhao,codeanalysis4j,0.0.1,net.nanquanyuhao.codeanalysis4j,-,automatic,-,false,-`
 - :cd: `net.nanquanyuhao.codeanalysis4j` :left_right_arrow: `io.github.nanquanyuhao:codeanalysis4j:0.0.2` // `io.github.nanquanyuhao,codeanalysis4j,0.0.2,net.nanquanyuhao.codeanalysis4j,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.0.0` // `net.officefloor.eclipse,net.officefloor.core,3.0.0,net.officefloor.core,-,automatic,-,false,-`
@@ -4919,6 +4920,7 @@
 - :cd: `org.eclipse.xsd` :left_right_arrow: `org.eclipse.emf:org.eclipse.xsd:2.15.0` // `org.eclipse.emf,org.eclipse.xsd,2.15.0,org.eclipse.xsd,-,automatic,-,false,-`
 - :cd: `org.eclipse.xsd.edit` :left_right_arrow: `org.eclipse.emf:org.eclipse.xsd.edit:2.10.0` // `org.eclipse.emf,org.eclipse.xsd.edit,2.10.0,org.eclipse.xsd.edit,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk16:2.2.14` // `org.firebirdsql.jdbc,jaybird-jdk16,2.2.14,org.firebirdsql.jaybird,-,automatic,-,false,-`
+- :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk16:2.2.15` // `org.firebirdsql.jdbc,jaybird-jdk16,2.2.15,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk17:3.0.4` // `org.firebirdsql.jdbc,jaybird-jdk17,3.0.4,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk17:3.0.5` // `org.firebirdsql.jdbc,jaybird-jdk17,3.0.5,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk18:3.0.4` // `org.firebirdsql.jdbc,jaybird-jdk18,3.0.4,org.firebirdsql.jaybird,-,automatic,-,false,-`

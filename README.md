@@ -1,17 +1,17 @@
 # sormuras/modules
-Counted 3877 Java modules published at Maven Central
+Counted 3879 Java modules published at Maven Central
 
-## Summary 2019-04-06T07:19:41.467899Z
+## Summary 2019-04-07T07:19:55.730934Z
 
 ```
-Modules summary of 2019-04-06T07:19:41.467899Z
+Modules summary of 2019-04-07T07:19:55.730934Z
 
-Scanned 18247 files in 1 seconds
+Scanned 18346 files in 2 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_06_07_13_24.csv
+    last -> modulescanner-report-2019_04_07_07_05_34.csv
 
-Counted 41303 module-related lines.
-Collected 3877 unique modules.
+Counted 41344 module-related lines.
+Collected 3879 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -74,10 +74,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [4705](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8493](suspicious/naming.md)
-- Modular impostors: [1565](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8495](suspicious/naming.md)
+- Modular impostors: [1568](suspicious/impostors.md)
 
-## Unique Modules (3877)
+## Unique Modules (3879)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1100,6 +1100,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
 - :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.7.0`
+- :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.0.1`
 - :cd: `com.remondis.remap` :left_right_arrow: `com.remondis:remap:4.1.8`
 - :cd: `com.reprezen.rapidml` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml:0.0.9`
 - :cd: `com.reprezen.rapidml.model` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml.model:0.0.9`
@@ -1191,7 +1192,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.vladmihalcea.flexypool.tomcatcp` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomcatcp:2.1.1`
 - :cd: `com.vladmihalcea.flexypool.tomee` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomee:2.1.1`
 - :cd: `com.vladmihalcea.flexypool.vibur` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-vibur:2.1.1`
-- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.4.2`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.4.3`
 - :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.3`
 - :dvd: `com.zarbosoft.interface1` :left_right_arrow: `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.5`
@@ -1748,11 +1749,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.95`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.95`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.95`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.95`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.95`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.97`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.97`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.97`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.97`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.97`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.2.1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.12`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.12`
@@ -3521,6 +3522,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.shredzone.commons.text` :left_right_arrow: `org.shredzone.commons:commons-text:2.5`
 - :cd: `org.shredzone.commons.view` :left_right_arrow: `org.shredzone.commons:commons-view:1.4`
 - :cd: `org.shredzone.commons.xml` :left_right_arrow: `org.shredzone.commons:commons-xml:1.2`
+- :cd: `org.shredzone.shariff` :left_right_arrow: `org.shredzone.shariff:backend:1.9`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter:6.6.1`
 - :cd: `org.simpleflatmapper.converter.joda` :left_right_arrow: `org.simpleflatmapper:sfm-converter-joda-time:6.6.1`
 - :cd: `org.simpleflatmapper.converter.protobuf` :left_right_arrow: `org.simpleflatmapper:sfm-converter-protobuf:6.6.1`
@@ -3628,46 +3630,46 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.3.8`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`
-- :cd: `org.trellisldp.agent` :left_right_arrow: `org.trellisldp:trellis-agent:0.8.0`
-- :cd: `org.trellisldp.amqp` :left_right_arrow: `org.trellisldp:trellis-amqp:0.8.0`
-- :cd: `org.trellisldp.api` :left_right_arrow: `org.trellisldp:trellis-api:0.8.0`
-- :cd: `org.trellisldp.app` :left_right_arrow: `org.trellisldp:trellis-app:0.8.0`
-- :cd: `org.trellisldp.app.triplestore` :left_right_arrow: `org.trellisldp:trellis-app-triplestore:0.8.0`
-- :cd: `org.trellisldp.audit` :left_right_arrow: `org.trellisldp:trellis-audit:0.8.0`
-- :cd: `org.trellisldp.auth.basic` :left_right_arrow: `org.trellisldp:trellis-auth-basic:0.8.0`
-- :cd: `org.trellisldp.auth.oauth` :left_right_arrow: `org.trellisldp:trellis-auth-oauth:0.8.0`
+- :cd: `org.trellisldp.agent` :left_right_arrow: `org.trellisldp:trellis-agent:0.8.1`
+- :cd: `org.trellisldp.amqp` :left_right_arrow: `org.trellisldp:trellis-amqp:0.8.1`
+- :cd: `org.trellisldp.api` :left_right_arrow: `org.trellisldp:trellis-api:0.8.1`
+- :cd: `org.trellisldp.app` :left_right_arrow: `org.trellisldp:trellis-app:0.8.1`
+- :cd: `org.trellisldp.app.triplestore` :left_right_arrow: `org.trellisldp:trellis-app-triplestore:0.8.1`
+- :cd: `org.trellisldp.audit` :left_right_arrow: `org.trellisldp:trellis-audit:0.8.1`
+- :cd: `org.trellisldp.auth.basic` :left_right_arrow: `org.trellisldp:trellis-auth-basic:0.8.1`
+- :cd: `org.trellisldp.auth.oauth` :left_right_arrow: `org.trellisldp:trellis-auth-oauth:0.8.1`
 - :cd: `org.trellisldp.binary` :left_right_arrow: `org.trellisldp:trellis-binary:0.5.2`
 - :cd: `org.trellisldp.camel` :left_right_arrow: `org.trellisldp:camel-ldp:0.1.1`
-- :cd: `org.trellisldp.constraint` :left_right_arrow: `org.trellisldp:trellis-constraint-rules:0.8.0`
-- :cd: `org.trellisldp.event` :left_right_arrow: `org.trellisldp:trellis-event-serialization:0.8.0`
+- :cd: `org.trellisldp.constraint` :left_right_arrow: `org.trellisldp:trellis-constraint-rules:0.8.1`
+- :cd: `org.trellisldp.event` :left_right_arrow: `org.trellisldp:trellis-event-serialization:0.8.1`
 - :cd: `org.trellisldp.ext.app.db` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.1.1`
-- :cd: `org.trellisldp.ext.aws` :left_right_arrow: `org.trellisldp.ext:trellis-aws:0.1.0`
-- :cd: `org.trellisldp.ext.aws.neptune.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-app:0.1.0`
-- :cd: `org.trellisldp.ext.aws.neptune.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-lambda:0.1.0`
-- :cd: `org.trellisldp.ext.aws.rds.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-app:0.1.0`
-- :cd: `org.trellisldp.ext.aws.rds.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-lambda:0.1.0`
-- :cd: `org.trellisldp.ext.db` :left_right_arrow: `org.trellisldp.ext:trellis-db:0.2.0`
-- :cd: `org.trellisldp.ext.db.app` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.2.0`
+- :cd: `org.trellisldp.ext.aws` :left_right_arrow: `org.trellisldp.ext:trellis-aws:0.1.1`
+- :cd: `org.trellisldp.ext.aws.neptune.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-app:0.1.1`
+- :cd: `org.trellisldp.ext.aws.neptune.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-lambda:0.1.1`
+- :cd: `org.trellisldp.ext.aws.rds.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-app:0.1.1`
+- :cd: `org.trellisldp.ext.aws.rds.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-lambda:0.1.1`
+- :cd: `org.trellisldp.ext.db` :left_right_arrow: `org.trellisldp.ext:trellis-db:0.2.1`
+- :cd: `org.trellisldp.ext.db.app` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.2.1`
 - :cd: `org.trellisldp.ext.elasticsearch` :left_right_arrow: `org.trellisldp.ext:camel-ldp-elasticsearch:0.1.0`
 - :cd: `org.trellisldp.ext.ldpath` :left_right_arrow: `org.trellisldp.ext:camel-ldp-ldpath:0.1.0`
 - :cd: `org.trellisldp.ext.triplestore` :left_right_arrow: `org.trellisldp.ext:camel-ldp-triplestore:0.1.0`
 - :cd: `org.trellisldp.ext.websub` :left_right_arrow: `org.trellisldp.ext:camel-ldp-websub:0.1.0`
-- :cd: `org.trellisldp.file` :left_right_arrow: `org.trellisldp:trellis-file:0.8.0`
-- :cd: `org.trellisldp.http` :left_right_arrow: `org.trellisldp:trellis-http:0.8.0`
+- :cd: `org.trellisldp.file` :left_right_arrow: `org.trellisldp:trellis-file:0.8.1`
+- :cd: `org.trellisldp.http` :left_right_arrow: `org.trellisldp:trellis-http:0.8.1`
 - :cd: `org.trellisldp.id` :left_right_arrow: `org.trellisldp:trellis-id:0.7.3`
-- :cd: `org.trellisldp.io` :left_right_arrow: `org.trellisldp:trellis-io-jena:0.8.0`
-- :cd: `org.trellisldp.jms` :left_right_arrow: `org.trellisldp:trellis-jms:0.8.0`
-- :cd: `org.trellisldp.kafka` :left_right_arrow: `org.trellisldp:trellis-kafka:0.8.0`
-- :cd: `org.trellisldp.namespaces` :left_right_arrow: `org.trellisldp:trellis-namespaces:0.8.0`
+- :cd: `org.trellisldp.io` :left_right_arrow: `org.trellisldp:trellis-io-jena:0.8.1`
+- :cd: `org.trellisldp.jms` :left_right_arrow: `org.trellisldp:trellis-jms:0.8.1`
+- :cd: `org.trellisldp.kafka` :left_right_arrow: `org.trellisldp:trellis-kafka:0.8.1`
+- :cd: `org.trellisldp.namespaces` :left_right_arrow: `org.trellisldp:trellis-namespaces:0.8.1`
 - :cd: `org.trellisldp.osgi` :left_right_arrow: `org.trellisldp:trellis-osgi:0.7.3`
-- :cd: `org.trellisldp.rdfa` :left_right_arrow: `org.trellisldp:trellis-rdfa:0.8.0`
+- :cd: `org.trellisldp.rdfa` :left_right_arrow: `org.trellisldp:trellis-rdfa:0.8.1`
 - :cd: `org.trellisldp.rosid.common` :left_right_arrow: `org.trellisldp:trellis-rosid-common:0.3.1`
 - :cd: `org.trellisldp.rosid.file` :left_right_arrow: `org.trellisldp:trellis-rosid-file:0.3.1`
 - :cd: `org.trellisldp.spi` :left_right_arrow: `org.trellisldp:trellis-spi:0.1.5`
-- :cd: `org.trellisldp.test` :left_right_arrow: `org.trellisldp:trellis-test:0.8.0`
-- :cd: `org.trellisldp.triplestore` :left_right_arrow: `org.trellisldp:trellis-triplestore:0.8.0`
-- :cd: `org.trellisldp.vocabulary` :left_right_arrow: `org.trellisldp:trellis-vocabulary:0.8.0`
-- :cd: `org.trellisldp.webac` :left_right_arrow: `org.trellisldp:trellis-webac:0.8.0`
+- :cd: `org.trellisldp.test` :left_right_arrow: `org.trellisldp:trellis-test:0.8.1`
+- :cd: `org.trellisldp.triplestore` :left_right_arrow: `org.trellisldp:trellis-triplestore:0.8.1`
+- :cd: `org.trellisldp.vocabulary` :left_right_arrow: `org.trellisldp:trellis-vocabulary:0.8.1`
+- :cd: `org.trellisldp.webac` :left_right_arrow: `org.trellisldp:trellis-webac:0.8.1`
 - :cd: `org.tukaani.xz` :left_right_arrow: `org.tukaani:xz:1.8`
 - :cd: `org.twinnation.superassert` :left_right_arrow: `org.twinnation:super-assert:1.0.2`
 - :cd: `org.twitter4j.core` :left_right_arrow: `org.twitter4j:twitter4j-core:4.0.7`
