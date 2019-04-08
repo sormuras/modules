@@ -6654,6 +6654,7 @@
 - :cd: `org.mortbay.apache.jasper` :left_right_arrow: `org.mortbay.jasper:apache-jsp:8.5.35.1` // `org.mortbay.jasper,apache-jsp,8.5.35.1,org.mortbay.apache.jasper,-,automatic,-,false,-`
 - :cd: `org.mortbay.apache.jasper` :left_right_arrow: `org.mortbay.jasper:apache-jsp:9.0.14` // `org.mortbay.jasper,apache-jsp,9.0.14,org.mortbay.apache.jasper,-,automatic,-,false,-`
 - :cd: `org.mortbay.apache.jasper` :left_right_arrow: `org.mortbay.jasper:apache-jsp:9.0.14.1` // `org.mortbay.jasper,apache-jsp,9.0.14.1,org.mortbay.apache.jasper,-,automatic,-,false,-`
+- :cd: `org.mybatis.dynamic.sql` :left_right_arrow: `org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.1.1` // `org.mybatis.dynamic-sql,mybatis-dynamic-sql,1.1.1,org.mybatis.dynamic.sql,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0` // `org.neo4j.test,neo4j-harness,3.5.0,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0-alpha07` // `org.neo4j.test,neo4j-harness,3.5.0-alpha07,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0-alpha08` // `org.neo4j.test,neo4j-harness,3.5.0-alpha08,org.neo4j.harness,-,automatic,-,false,-`
