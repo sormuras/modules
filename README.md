@@ -1,17 +1,17 @@
 # sormuras/modules
-Counted 3880 Java modules published at Maven Central
+Counted 3917 Java modules published at Maven Central
 
-## Summary 2019-04-08T07:19:56.038012Z
+## Summary 2019-04-09T07:20:25.242386Z
 
 ```
-Modules summary of 2019-04-08T07:19:56.038012Z
+Modules summary of 2019-04-09T07:20:25.242386Z
 
-Scanned 18438 files in 1 seconds
+Scanned 18526 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_08_06_51_31.csv
+    last -> modulescanner-report-2019_04_09_07_09_28.csv
 
-Counted 41400 module-related lines.
-Collected 3880 unique modules.
+Counted 41529 module-related lines.
+Collected 3917 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -74,10 +74,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [4705](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8496](suspicious/naming.md)
-- Modular impostors: [1568](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8528](suspicious/naming.md)
+- Modular impostors: [1588](suspicious/impostors.md)
 
-## Unique Modules (3880)
+## Unique Modules (3917)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -269,12 +269,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
 - :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.7`
-- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.7`
+- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.8`
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.7`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.7`
-- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.12`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.8`
+- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.14`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.9`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.7`
 - :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.8`
@@ -282,7 +282,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.7`
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.7`
+- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.8`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
 - :cd: `com.envimate.webmate.integrations.jetty` :left_right_arrow: `com.envimate.webmate.integrations:webmate-jetty:1.0.7`
@@ -290,7 +290,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.envimate.webmate.integrations.multipart` :left_right_arrow: `com.envimate.webmate.integrations:webmate-multipart:1.0.7`
 - :cd: `com.envimate.webmate.integrations.servlet` :left_right_arrow: `com.envimate.webmate.integrations:webmate-servlet:1.0.7`
 - :cd: `com.envimate.webmate.integrations.spark` :left_right_arrow: `com.envimate.webmate.integrations:webmate-spark:1.0.7`
-- :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC2`
+- :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC3`
 - :cd: `com.esotericsoftware.minlog` :left_right_arrow: `com.esotericsoftware:minlog:1.3.1`
 - :cd: `com.esotericsoftware.reflectasm` :left_right_arrow: `com.esotericsoftware:reflectasm:1.11.9`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.0`
@@ -334,7 +334,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.0`
 - :cd: `com.github.akarnokd.rxjava2jdk9interop` :left_right_arrow: `com.github.akarnokd:rxjava2-jdk9-interop:0.2.4`
-- :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.5`
+- :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
 - :dvd: `com.github.akurilov.confuse.io.yaml` :left_right_arrow: `com.github.akurilov:confuse-io-yaml:1.0.0`
@@ -386,7 +386,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:0.7.0`
+- :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:1.0.0`
 - :cd: `com.github.mjeanroy.junit.servers.core` :left_right_arrow: `com.github.mjeanroy:junit-servers-core:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.jetty` :left_right_arrow: `com.github.mjeanroy:junit-servers-jetty:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.tomcat` :left_right_arrow: `com.github.mjeanroy:junit-servers-tomcat:0.11.0`
@@ -486,8 +486,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.3.24`
 - :cd: `com.hack23.cia.testfoundation` :left_right_arrow: `com.hack23.cia:testfoundation:2019.3.24`
 - :cd: `com.hack23.cia.web.widgets` :left_right_arrow: `com.hack23.cia:web-widgets:2019.3.24`
-- :cd: `com.hazelcast.client` :left_right_arrow: `com.hazelcast:hazelcast-client:3.12-BETA-2`
-- :cd: `com.hazelcast.core` :left_right_arrow: `com.hazelcast:hazelcast:3.12-BETA-2`
+- :cd: `com.hazelcast.client` :left_right_arrow: `com.hazelcast:hazelcast-client:3.12`
+- :cd: `com.hazelcast.core` :left_right_arrow: `com.hazelcast:hazelcast:3.12`
 - :cd: `com.hazelcast.jet` :left_right_arrow: `com.hazelcast.jet:hazelcast-jet:0.7.2`
 - :cd: `com.hazelcast.jet.avro` :left_right_arrow: `com.hazelcast.jet:hazelcast-jet-avro:0.7.2`
 - :cd: `com.hazelcast.jet.core` :left_right_arrow: `com.hazelcast.jet:hazelcast-jet-core:0.7.2`
@@ -657,19 +657,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.holonplatform.reactor.datastore` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-datastore:5.2.2`
 - :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.2`
 - :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.2`
-- :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.3`
-- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.5`
-- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.5`
-- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.5`
-- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.5`
+- :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.4`
+- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.6`
+- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.6`
+- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.6`
+- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.6`
 - :cd: `com.holonplatform.vaadin.flow.test.utils` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-test:5.2.0-rc1`
-- :cd: `com.holonplatform.vaadin.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-navigator:5.2.3`
-- :cd: `com.holonplatform.vaadin.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring:5.2.3`
-- :cd: `com.holonplatform.vaadin.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring-boot:5.2.3`
-- :cd: `com.holonplatform.vaadin7` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin:5.2.2`
-- :cd: `com.holonplatform.vaadin7.navigator` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-navigator:5.2.2`
-- :cd: `com.holonplatform.vaadin7.spring` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-spring:5.2.2`
-- :cd: `com.holonplatform.vaadin7.spring.boot` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-spring-boot:5.2.2`
+- :cd: `com.holonplatform.vaadin.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-navigator:5.2.4`
+- :cd: `com.holonplatform.vaadin.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring:5.2.4`
+- :cd: `com.holonplatform.vaadin.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring-boot:5.2.4`
+- :cd: `com.holonplatform.vaadin7` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin:5.2.3`
+- :cd: `com.holonplatform.vaadin7.navigator` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-navigator:5.2.3`
+- :cd: `com.holonplatform.vaadin7.spring` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-spring:5.2.3`
+- :cd: `com.holonplatform.vaadin7.spring.boot` :left_right_arrow: `com.holon-platform.vaadin7:holon-vaadin-spring-boot:5.2.3`
 - :cd: `com.ibm.icu` :left_right_arrow: `com.ibm.icu:icu4j:64.1`
 - :cd: `com.ibm.icu.charset` :left_right_arrow: `com.ibm.icu:icu4j-charset:64.1`
 - :cd: `com.ibm.icu.localespi` :left_right_arrow: `com.ibm.icu:icu4j-localespi:64.1`
@@ -1309,8 +1309,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.1`
 - :cd: `eu.mihosoft.vcollections` :left_right_arrow: `eu.mihosoft.vcollections:vcollections:0.3.3`
 - :cd: `eu.mihosoft.vmf` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.0.1`
-- :cd: `eu.mihosoft.vmf.core` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.5`
-- :cd: `eu.mihosoft.vmf.runtime` :left_right_arrow: `eu.mihosoft.vmf:vmf-runtime:0.2.5`
+- :cd: `eu.mihosoft.vmf.core` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.6`
+- :cd: `eu.mihosoft.vmf.runtime` :left_right_arrow: `eu.mihosoft.vmf:vmf-runtime:0.2.6`
 - :cd: `eu.toop.commons` :left_right_arrow: `eu.toop:toop-commons:0.10.0`
 - :cd: `eu.toop.commons.schematron` :left_right_arrow: `eu.toop:toop-schematron:0.10.0`
 - :cd: `eu.toop.connector.api` :left_right_arrow: `eu.toop:toop-connector-api:0.10.1`
@@ -1559,6 +1559,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.configuration.hibernate_gorm` :left_right_arrow: `io.micronaut.configuration:hibernate-gorm:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.hibernate_jpa` :left_right_arrow: `io.micronaut.configuration:hibernate-jpa:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:hibernate-validator:1.0.0.RC2`
+- :cd: `io.micronaut.configuration.jasync_sql` :left_right_arrow: `io.micronaut.configuration:micronaut-jasync-sql:1.1.0`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` :left_right_arrow: `io.micronaut.configuration:jdbc-dbcp:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.jdbc_hikari` :left_right_arrow: `io.micronaut.configuration:jdbc-hikari:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` :left_right_arrow: `io.micronaut.configuration:jdbc-tomcat:1.0.0.RC2`
@@ -1567,7 +1568,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.configuration.kafka_streams` :left_right_arrow: `io.micronaut.configuration:kafka-streams:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micrometer-core:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-atlas:1.0.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.1.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.1.0`
 - :cd: `io.micronaut.configuration.micrometer_registry_graphite` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-graphite:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_prometheus` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-prometheus:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_statsd` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-statsd:1.0.0.RC2`
@@ -1592,13 +1593,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:function-client:1.0.0.RC2`
 - :cd: `io.micronaut.function_groovy` :left_right_arrow: `io.micronaut:function-groovy:1.0.0.RC2`
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:function-web:1.0.0.RC2`
-- :cd: `io.micronaut.gcp.gcp_common` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-common:1.0.0.RC1`
-- :cd: `io.micronaut.gcp.gcp_tracing` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-tracing:1.0.0.RC1`
+- :cd: `io.micronaut.gcp.gcp_common` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-common:1.0.0`
+- :cd: `io.micronaut.gcp.gcp_tracing` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-tracing:1.0.0`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:graal:1.0.0.RC2`
 - :cd: `io.micronaut.graphql.graphql` :left_right_arrow: `io.micronaut.graphql:micronaut-graphql:1.0.0.RC2`
-- :cd: `io.micronaut.grpc.grpc_annotation` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-annotation:1.0.0.RC1`
-- :cd: `io.micronaut.grpc.grpc_runtime` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-runtime:1.0.0.RC1`
-- :cd: `io.micronaut.grpc.protobuff_support` :left_right_arrow: `io.micronaut.grpc:micronaut-protobuff-support:1.0.0.RC1`
+- :cd: `io.micronaut.grpc.grpc_annotation` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-annotation:1.0.0`
+- :cd: `io.micronaut.grpc.grpc_runtime` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-runtime:1.0.0`
+- :cd: `io.micronaut.grpc.protobuff_support` :left_right_arrow: `io.micronaut.grpc:micronaut-protobuff-support:1.0.0`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:http:1.0.0.RC2`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:http-client:1.0.0.RC2`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:http-netty:1.0.0.RC2`
@@ -1622,12 +1623,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:security-session:1.0.0.RC2`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:session:1.0.0.RC2`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:spring:1.0.0.RC2`
-- :cd: `io.micronaut.spring.spring_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-annotation:1.0.0.RC1`
-- :cd: `io.micronaut.spring.spring_boot` :left_right_arrow: `io.micronaut.spring:micronaut-spring-boot:1.0.0.RC1`
-- :cd: `io.micronaut.spring.spring_boot_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-boot-annotation:1.0.0.RC1`
-- :cd: `io.micronaut.spring.spring_context` :left_right_arrow: `io.micronaut.spring:micronaut-spring-context:1.0.0.RC1`
-- :cd: `io.micronaut.spring.spring_web` :left_right_arrow: `io.micronaut.spring:micronaut-spring-web:1.0.0.RC1`
-- :cd: `io.micronaut.spring.spring_web_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-web-annotation:1.0.0.RC1`
+- :cd: `io.micronaut.spring.spring_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-annotation:1.0.0`
+- :cd: `io.micronaut.spring.spring_boot` :left_right_arrow: `io.micronaut.spring:micronaut-spring-boot:1.0.0`
+- :cd: `io.micronaut.spring.spring_boot_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-boot-annotation:1.0.0`
+- :cd: `io.micronaut.spring.spring_context` :left_right_arrow: `io.micronaut.spring:micronaut-spring-context:1.0.0`
+- :cd: `io.micronaut.spring.spring_web` :left_right_arrow: `io.micronaut.spring:micronaut-spring-web:1.0.0`
+- :cd: `io.micronaut.spring.spring_web_annotation` :left_right_arrow: `io.micronaut.spring:micronaut-spring-web-annotation:1.0.0`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:test-core:1.0.0.M4`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:test-junit5:1.0.0.M4`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:test-spock:1.0.0.M4`
@@ -1784,7 +1785,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.6.0`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.6.1`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
@@ -1900,7 +1901,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.8.0`
 - :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.8.0`
 - :cd: `net.reini.junit` :left_right_arrow: `net.reini:junit-compat:1.3`
-- :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.0.0`
+- :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.1.0`
 - :cd: `net.sf.flatpack` :left_right_arrow: `net.sf.flatpack:flatpack:4.0.4`
 - :cd: `net.sf.flatpack.excel` :left_right_arrow: `net.sf.flatpack:flatpack-excel:4.0.4`
 - :cd: `net.sf.jtreemap` :left_right_arrow: `net.sf.jtreemap:jtreemap:1.1.3`
@@ -3361,6 +3362,42 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
 - :cd: `org.objenesis` :left_right_arrow: `org.objenesis:objenesis:3.0.1`
 - :cd: `org.objenesis.tck` :left_right_arrow: `org.objenesis:objenesis-tck:3.0.1`
+- :cd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:3.0.0`
+- :cd: `org.opendaylight.yangtools.odlext.model.api` :left_right_arrow: `org.opendaylight.yangtools:odlext-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.odlext.parser.support` :left_right_arrow: `org.opendaylight.yangtools:odlext-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.openconfig.model.api` :left_right_arrow: `org.opendaylight.yangtools:openconfig-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.openconfig.parser.support` :left_right_arrow: `org.opendaylight.yangtools:openconfig-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc6241.model.api` :left_right_arrow: `org.opendaylight.yangtools:rfc6241-model-api:1.0.0`
+- :cd: `org.opendaylight.yangtools.rfc6241.parser.support` :left_right_arrow: `org.opendaylight.yangtools:rfc6241-parser-support:1.0.0`
+- :cd: `org.opendaylight.yangtools.rfc6536.model.api` :left_right_arrow: `org.opendaylight.yangtools:rfc6536-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc6536.parser.support` :left_right_arrow: `org.opendaylight.yangtools:rfc6536-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc7952.data.api` :left_right_arrow: `org.opendaylight.yangtools:rfc7952-data-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc7952.data.util` :left_right_arrow: `org.opendaylight.yangtools:rfc7952-data-util:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc7952.model.api` :left_right_arrow: `org.opendaylight.yangtools:rfc7952-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc7952.parser.support` :left_right_arrow: `org.opendaylight.yangtools:rfc7952-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc8040.model.api` :left_right_arrow: `org.opendaylight.yangtools:rfc8040-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc8040.parser.support` :left_right_arrow: `org.opendaylight.yangtools:rfc8040-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc8528.model.api` :left_right_arrow: `org.opendaylight.yangtools:rfc8528-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.rfc8528.parser.support` :left_right_arrow: `org.opendaylight.yangtools:rfc8528-parser-support:3.0.0`
+- :cd: `org.opendaylight.yangtools.util` :left_right_arrow: `org.opendaylight.yangtools:util:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.api` :left_right_arrow: `org.opendaylight.yangtools:yang-data-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.codec.gson` :left_right_arrow: `org.opendaylight.yangtools:yang-data-codec-gson:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.codec.xml` :left_right_arrow: `org.opendaylight.yangtools:yang-data-codec-xml:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.impl` :left_right_arrow: `org.opendaylight.yangtools:yang-data-impl:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.jaxen` :left_right_arrow: `org.opendaylight.yangtools:yang-data-jaxen:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.transform` :left_right_arrow: `org.opendaylight.yangtools:yang-data-transform:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.util` :left_right_arrow: `org.opendaylight.yangtools:yang-data-util:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.data.xpath.api` :left_right_arrow: `org.opendaylight.yangtools:yang-data-xpath-api:0.1.0`
+- :cd: `org.opendaylight.yangtools.yang.model.api` :left_right_arrow: `org.opendaylight.yangtools:yang-model-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.model.export` :left_right_arrow: `org.opendaylight.yangtools:yang-model-export:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.model.util` :left_right_arrow: `org.opendaylight.yangtools:yang-model-util:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.parser.api` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-api:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.parser.impl` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-impl:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.parser.reactor` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-reactor:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.parser.spi` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-spi:3.0.0`
+- :cd: `org.opendaylight.yangtools.yang.xpath.api` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-api:1.0.0`
+- :cd: `org.opendaylight.yangtools.yang.xpath.impl` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-impl:1.0.0`
 - :cd: `org.openestate.io.casa_it` :left_right_arrow: `org.openestate.io:OpenEstate-IO-CasaIT:1.4`
 - :cd: `org.openestate.io.core` :left_right_arrow: `org.openestate.io:OpenEstate-IO-Core:1.4`
 - :cd: `org.openestate.io.daft_ie` :left_right_arrow: `org.openestate.io:OpenEstate-IO-DaftIE:1.4`
