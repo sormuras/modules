@@ -3852,6 +3852,7 @@
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.12` // `com.github.librepdf,pdf-html,1.2.12,com.github.librepdf.pdf-html,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.14` // `com.github.librepdf,pdf-html,1.2.14,com.github.librepdf.pdf-html,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.15` // `com.github.librepdf,pdf-html,1.2.15,com.github.librepdf.pdf-html,-,automatic,-,false,-`
+- :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.16` // `com.github.librepdf,pdf-html,1.2.16,com.github.librepdf.pdf-html,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.4` // `com.github.librepdf,pdf-html,1.2.4,com.github.librepdf.pdf-html,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.5` // `com.github.librepdf,pdf-html,1.2.5,com.github.librepdf.pdf-html,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.7` // `com.github.librepdf,pdf-html,1.2.7,com.github.librepdf.pdf-html,-,automatic,-,false,-`
@@ -3862,6 +3863,7 @@
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.12` // `com.github.librepdf,pdf-swing,1.2.12,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.14` // `com.github.librepdf,pdf-swing,1.2.14,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.15` // `com.github.librepdf,pdf-swing,1.2.15,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
+- :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.16` // `com.github.librepdf,pdf-swing,1.2.16,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.4` // `com.github.librepdf,pdf-swing,1.2.4,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.5` // `com.github.librepdf,pdf-swing,1.2.5,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-swing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.7` // `com.github.librepdf,pdf-swing,1.2.7,com.github.librepdf.pdf-swing,-,automatic,-,false,-`
@@ -3872,6 +3874,7 @@
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.12` // `com.github.librepdf,pdf-toolbox,1.2.12,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.14` // `com.github.librepdf,pdf-toolbox,1.2.14,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.15` // `com.github.librepdf,pdf-toolbox,1.2.15,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
+- :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.16` // `com.github.librepdf,pdf-toolbox,1.2.16,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.4` // `com.github.librepdf,pdf-toolbox,1.2.4,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.5` // `com.github.librepdf,pdf-toolbox,1.2.5,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-toolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.7` // `com.github.librepdf,pdf-toolbox,1.2.7,com.github.librepdf.pdf-toolbox,-,automatic,-,false,-`
@@ -3882,6 +3885,7 @@
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.12` // `com.github.librepdf,pdf-xml,1.2.12,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.14` // `com.github.librepdf,pdf-xml,1.2.14,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.15` // `com.github.librepdf,pdf-xml,1.2.15,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
+- :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.16` // `com.github.librepdf,pdf-xml,1.2.16,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.4` // `com.github.librepdf,pdf-xml,1.2.4,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.5` // `com.github.librepdf,pdf-xml,1.2.5,com.github.librepdf.pdf-xml,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-xml` :left_right_arrow: `com.github.librepdf:pdf-xml:1.2.7` // `com.github.librepdf,pdf-xml,1.2.7,com.github.librepdf.pdf-xml,-,automatic,-,false,-`

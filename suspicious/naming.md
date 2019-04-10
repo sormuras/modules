@@ -3748,6 +3748,7 @@
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.0.3` // `org.joinfaces,joinfaces-test,4.0.3,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joptsimple` :left_right_arrow: `net.sf.jopt-simple:jopt-simple:6.0-alpha-3` // `net.sf.jopt-simple,jopt-simple,6.0-alpha-3,joptsimple,-,automatic,-,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.7` // `net.sf.jt400,jt400-jdk9,9.7,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
+- :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.8` // `net.sf.jt400,jt400-jdk9,9.8,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta4` // `org.slf4j,jul-to-slf4j,1.8.0-beta4,jul.to.slf4j,-,automatic,-,true,-`
 - :cd: `jul_to_slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta2` // `org.slf4j,jul-to-slf4j,1.8.0-beta2,jul_to_slf4j,-,automatic,-,false,-`
 - :cd: `junit.params.generated` :left_right_arrow: `com.wesleyhome.test:junit-jupiter-params-generated:1.0.3` // `com.wesleyhome.test,junit-jupiter-params-generated,1.0.3,junit.params.generated,-,automatic,-,false,-`
@@ -6645,6 +6646,7 @@
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.1.0` // `org.kordamp.ikonli,ikonli-core,11.1.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.2.0` // `org.kordamp.ikonli,ikonli-core,11.2.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1` // `org.rotstan.jts,jts-lab,1.16.1,org.locationtech.jts.lab,-,automatic,-,false,-`
+- :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1.1` // `org.rotstan.jts,jts-lab,1.16.1.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :dvd: `org.lwjgl.assimp.natives` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1,org.lwjgl.assimp.natives,-,explicit,java.base + org.lwjgl.assimp,false,-`
 - :dvd: `org.lwjgl.bgfx.natives` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.bgfx:3.2.1` // `org.lwjgl.osgi,org.lwjgl.bgfx,3.2.1,org.lwjgl.bgfx.natives,-,explicit,java.base + org.lwjgl.bgfx,false,-`
 - :dvd: `org.lwjgl.cuda` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.cuda:3.2.1` // `org.lwjgl.osgi,org.lwjgl.cuda,3.2.1,org.lwjgl.cuda,-,explicit,java.base + org.lwjgl,false,-`

@@ -107,6 +107,7 @@
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `org.jruby:jruby-complete:9.2.4.0` // `org.jruby,jruby-complete,9.2.4.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `org.jruby:jruby-complete:9.2.5.0` // `org.jruby,jruby-complete,9.2.5.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `org.jruby:jruby-complete:9.2.6.0` // `org.jruby,jruby-complete,9.2.6.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
+- :dvd: `com.headius.invokebinder` :left_right_arrow: `org.jruby:jruby-complete:9.2.7.0` // `org.jruby,jruby-complete,9.2.7.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` :left_right_arrow: `com.helger:ph-oton-bootstrap4-pages:8.1.0` // `com.helger,ph-oton-bootstrap4-pages,8.1.0,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` :left_right_arrow: `com.helger:ph-oton-bootstrap4-pages:8.1.1` // `com.helger,ph-oton-bootstrap4-pages,8.1.1,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` :left_right_arrow: `com.helger:ph-oton-bootstrap4-pages:8.1.2` // `com.helger,ph-oton-bootstrap4-pages,8.1.2,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
@@ -1419,6 +1420,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.6.0` // `com.bmuschko,gradle-docker-plugin,4.6.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.6.1` // `com.bmuschko,gradle-docker-plugin,4.6.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.6.2` // `com.bmuschko,gradle-docker-plugin,4.6.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.7.0` // `com.bmuschko,gradle-docker-plugin,4.7.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:1.5.1` // `com.github.collinalpert,java2db,1.5.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -1496,6 +1498,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.1.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.1.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.2.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.2.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.3.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.3.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.4.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.4.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:10.5.2` // `com.netflix.nebula,gradle-lint-plugin,10.5.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:10.5.3` // `com.netflix.nebula,gradle-lint-plugin,10.5.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.0.0` // `com.netflix.nebula,gradle-lint-plugin,11.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`

@@ -1,17 +1,17 @@
 # sormuras/modules
-Counted 3917 Java modules published at Maven Central
+Counted 3918 Java modules published at Maven Central
 
-## Summary 2019-04-09T07:20:25.242386Z
+## Summary 2019-04-10T07:21:01.649600Z
 
 ```
-Modules summary of 2019-04-09T07:20:25.242386Z
+Modules summary of 2019-04-10T07:21:01.649600Z
 
-Scanned 18526 files in 1 seconds
+Scanned 18620 files in 1 seconds
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_09_07_09_28.csv
+    last -> modulescanner-report-2019_04_10_06_57_36.csv
 
-Counted 41529 module-related lines.
-Collected 3917 unique modules.
+Counted 41577 module-related lines.
+Collected 3918 unique modules.
 
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
@@ -73,11 +73,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4705](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8528](suspicious/naming.md)
-- Modular impostors: [1588](suspicious/impostors.md)
+- Invalid module names: [4709](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8530](suspicious/naming.md)
+- Modular impostors: [1591](suspicious/impostors.md)
 
-## Unique Modules (3917)
+## Unique Modules (3918)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -255,7 +255,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.couchbase.client.core` :left_right_arrow: `com.couchbase.client:core-io:1.7.4`
 - :cd: `com.couchbase.client.java` :left_right_arrow: `com.couchbase.client:java-client:2.7.4`
 - :cd: `com.digitalascent.common` :left_right_arrow: `com.digitalascent:digitalascent-common:1.0.1`
-- :cd: `com.digitalascent.errorprone.flogger` :left_right_arrow: `com.digitalascent:digitalascent-errorprone-flogger:0.5.0`
+- :cd: `com.digitalascent.errorprone.flogger` :left_right_arrow: `com.digitalascent:digitalascent-errorprone-flogger:0.5.8`
 - :cd: `com.digitalascent.logger` :left_right_arrow: `com.digitalascent:digitalascent-fluent-logger:1.0.3`
 - :cd: `com.digitalascent.servlet` :left_right_arrow: `com.digitalascent:digitalascent-servlet:1.0.2`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.3.2`
@@ -268,19 +268,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emarsys.rdb.connector.postgresql` :left_right_arrow: `com.emarsys:rdb-connector-postgresql_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
-- :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.7`
+- :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.8`
 - :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.8`
-- :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.7`
-- :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.7`
-- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.14`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.9`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.9`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.7`
-- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.7`
-- :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.8`
+- :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.8`
+- :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.8`
+- :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.16`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.12`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.12`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.9`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.8`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.10`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.9`
+- :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.8`
+- :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.8`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
@@ -374,7 +374,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.0`
-- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.15`
+- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.16`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.3.8-6`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
@@ -1596,7 +1596,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.gcp.gcp_common` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-common:1.0.0`
 - :cd: `io.micronaut.gcp.gcp_tracing` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-tracing:1.0.0`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:graal:1.0.0.RC2`
-- :cd: `io.micronaut.graphql.graphql` :left_right_arrow: `io.micronaut.graphql:micronaut-graphql:1.0.0.RC2`
+- :cd: `io.micronaut.graphql.graphql` :left_right_arrow: `io.micronaut.graphql:micronaut-graphql:1.0.0`
 - :cd: `io.micronaut.grpc.grpc_annotation` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-annotation:1.0.0`
 - :cd: `io.micronaut.grpc.grpc_runtime` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-runtime:1.0.0`
 - :cd: `io.micronaut.grpc.protobuff_support` :left_right_arrow: `io.micronaut.grpc:micronaut-protobuff-support:1.0.0`
@@ -1789,7 +1789,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
-- :dvd: `net.dongliu.xhttp` :left_right_arrow: `net.dongliu:xhttp:2.4.1`
+- :dvd: `net.dongliu.xhttp` :left_right_arrow: `net.dongliu:xhttp:2.4.2`
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` :left_right_arrow: `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` :left_right_arrow: `net.dongliu:xhttp-json-jsonb:2.1.1`
@@ -1955,13 +1955,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `nl.ulso.sprox` :left_right_arrow: `nl.ulso.sprox:sprox:4.0.0`
 - :cd: `no.gorandalum.fluentresult` :left_right_arrow: `no.gorandalum:fluent-result:1.2.0`
 - :dvd: `no.ssb.concurrent.futureselector` :left_right_arrow: `no.ssb.concurrent.futureselector:future-selector:0.2`
-- :dvd: `no.ssb.lds.core` :left_right_arrow: `no.ssb.lds:linked-data-store-core:0.9`
-- :dvd: `no.ssb.lds.persistence.api` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-api:0.10`
-- :dvd: `no.ssb.lds.persistence.foundationdb` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-foundationdb:0.6`
-- :dvd: `no.ssb.lds.persistence.memory` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-memory:0.6`
-- :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.7`
-- :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.5`
-- :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.2`
+- :dvd: `no.ssb.lds.core` :left_right_arrow: `no.ssb.lds:linked-data-store-core:0.10`
+- :dvd: `no.ssb.lds.persistence.api` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-api:0.11`
+- :dvd: `no.ssb.lds.persistence.foundationdb` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-foundationdb:0.7`
+- :dvd: `no.ssb.lds.persistence.memory` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-memory:0.7`
+- :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.8`
+- :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.6`
+- :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.3`
 - :dvd: `no.ssb.saga.execution` :left_right_arrow: `no.ssb.saga:distributed-saga-execution:0.2`
 - :cd: `one.util.streamex` :left_right_arrow: `one.util:streamex:0.6.8`
 - :cd: `org.adoptopenjdk.jsplitpkgscan` :left_right_arrow: `org.adoptopenjdk:jsplitpkgscan:1.0.0`
@@ -2910,8 +2910,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jacoco.ant` :left_right_arrow: `org.jacoco:org.jacoco.ant:0.8.3`
 - :cd: `org.jacoco.core` :left_right_arrow: `org.jacoco:org.jacoco.core:0.8.3`
 - :cd: `org.jacoco.report` :left_right_arrow: `org.jacoco:org.jacoco.report:0.8.3`
-- :dvd: `org.javacord.api` :left_right_arrow: `org.javacord:javacord-api:3.0.3`
-- :dvd: `org.javacord.core` :left_right_arrow: `org.javacord:javacord-core:3.0.3`
+- :dvd: `org.javacord.api` :left_right_arrow: `org.javacord:javacord-api:3.0.4`
+- :dvd: `org.javacord.core` :left_right_arrow: `org.javacord:javacord-core:3.0.4`
 - :cd: `org.javafp.parsecj` :left_right_arrow: `org.javafp:parsecj:0.6`
 - :cd: `org.javamoney.moneta` :left_right_arrow: `org.javamoney.moneta:moneta-core:1.3`
 - :cd: `org.javamoney.moneta.convert` :left_right_arrow: `org.javamoney.moneta:moneta-convert:1.3`
@@ -3006,19 +3006,19 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.0`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
 - :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.13`
-- :cd: `org.jooq` :left_right_arrow: `org.jooq:jooq:3.11.10`
-- :cd: `org.jooq.checker` :left_right_arrow: `org.jooq:jooq-checker:3.11.10`
-- :cd: `org.jooq.codegen` :left_right_arrow: `org.jooq:jooq-codegen:3.11.10`
-- :cd: `org.jooq.codegen.maven` :left_right_arrow: `org.jooq:jooq-codegen-maven:3.11.10`
+- :cd: `org.jooq` :left_right_arrow: `org.jooq:jooq:3.11.11`
+- :cd: `org.jooq.checker` :left_right_arrow: `org.jooq:jooq-checker:3.11.11`
+- :cd: `org.jooq.codegen` :left_right_arrow: `org.jooq:jooq-codegen:3.11.11`
+- :cd: `org.jooq.codegen.maven` :left_right_arrow: `org.jooq:jooq-codegen-maven:3.11.11`
 - :dvd: `org.jooq.jool` :left_right_arrow: `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` :left_right_arrow: `org.jooq:joor:0.9.11`
 - :dvd: `org.jooq.joou` :left_right_arrow: `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.1`
-- :cd: `org.jooq.meta` :left_right_arrow: `org.jooq:jooq-meta:3.11.10`
-- :cd: `org.jooq.meta.extensions` :left_right_arrow: `org.jooq:jooq-meta-extensions:3.11.10`
+- :cd: `org.jooq.meta` :left_right_arrow: `org.jooq:jooq-meta:3.11.11`
+- :cd: `org.jooq.meta.extensions` :left_right_arrow: `org.jooq:jooq-meta-extensions:3.11.11`
 - :cd: `org.jparsec` :left_right_arrow: `org.jparsec:jparsec:3.1`
 - :cd: `org.jpos.jpos` :left_right_arrow: `org.jpos:jpos:2.1.2`
-- :cd: `org.jruby` :left_right_arrow: `org.jruby:jruby-core:9.2.6.0`
+- :cd: `org.jruby` :left_right_arrow: `org.jruby:jruby-core:9.2.7.0`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.43`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.26`
 - :cd: `org.json` :left_right_arrow: `org.json:json:20180813`
@@ -3223,6 +3223,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct:1.3.0.Final`
 - :cd: `org.mapstruct.processor` :left_right_arrow: `org.mapstruct:mapstruct-processor:1.3.0.Final`
 - :cd: `org.mariadb.jdbc` :left_right_arrow: `org.mariadb.jdbc:mariadb-java-client:2.4.1`
+- :cd: `org.meteothink.jts` :left_right_arrow: `org.meteothink:jts-core:1.15.1`
 - :cd: `org.microbean.configuration` :left_right_arrow: `org.microbean:microbean-configuration:0.4.4`
 - :cd: `org.microbean.configuration.api` :left_right_arrow: `org.microbean:microbean-configuration-api:0.4.4`
 - :cd: `org.microbean.configuration.cdi` :left_right_arrow: `org.microbean:microbean-configuration-cdi:0.4.5`
