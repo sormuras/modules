@@ -29,10 +29,10 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
 
 import static java.lang.System.Logger.Level.DEBUG;
 import static java.util.Comparator.comparing;
+import static java.util.stream.Collectors.toList;
 
 public class Modules {
 
@@ -130,7 +130,7 @@ public class Modules {
 
   private static List<Path> paths(Path root) throws Exception {
     try (var stream = Files.walk(root)) {
-      return stream.filter(Files::isRegularFile).sorted().collect(Collectors.toList());
+      return stream.filter(Files::isRegularFile).sorted().collect(toList());
     }
   }
 
@@ -196,6 +196,14 @@ public class Modules {
       return Objects.hashCode(line);
     }
 
+    boolean isAutomatic() {
+      return "automatic".equals(moduleMode);
+    }
+
+    boolean isExplicit() {
+      return "explicit".equals(moduleMode);
+    }
+
     String name() {
       return moduleName;
     }
@@ -254,16 +262,25 @@ public class Modules {
 
     List<String> toStrings() {
       var duration = Duration.between(startInstant, Instant.now()).toSeconds();
+      var automatics = modules.values().stream().filter(Module::isAutomatic).collect(toList());
+      var explicits = modules.values().stream().filter(Module::isExplicit).collect(toList());
+      if (modules.size() != explicits.size() + automatics.size()) {
+        throw new AssertionError("Sum mismatch!");
+      }
       return List.of(
-          "Modules summary of " + startInstant,
+          "## Summary",
           "",
-          String.format("Scanned %d files in %d seconds", paths.size(), duration),
+          String.format("Started scan at %s", startInstant),
+          String.format("Scanned %d files in %d seconds.", paths.size(), duration),
           String.format("   first -> %s", paths.get(0).getFileName()),
           String.format("    last -> %s", paths.get(paths.size() - 1).getFileName()),
           "",
           String.format("Counted %d module-related lines.", lines.size()),
           String.format("Collected %d unique modules.", modules.size()),
+          String.format("Found %d automatic modules. :cd:", automatics.size()),
+          String.format("Found %d explicit modules. :dvd:", explicits.size()),
           "",
+          "## Samples",
           sample("junit"),
           sample("org.junit.jupiter"),
           sample("org.objectweb.asm"),
@@ -320,7 +337,7 @@ public class Modules {
 
       // generate commit message file...
       var commitMessage = new ArrayList<String>();
-      commitMessage.add(modules.size() + " modules [skip ci]");
+      commitMessage.add(modules.size() + " Java modules at Maven Central [skip ci]");
       commitMessage.add("");
       commitMessage.addAll(summaryStrings);
       Files.write(Path.of(".travis-commit-message.md"), commitMessage);
@@ -349,19 +366,19 @@ public class Modules {
           suspiciousSyntax.stream()
               .sorted(comparing(Module::name))
               .map(it -> it.toMarkdown() + " // `" + it.line + "`")
-              .collect(Collectors.toList()));
+              .collect(toList()));
       Files.write(
           suspicious.resolve("impostors.md"),
           suspiciousImpostors.stream()
               .sorted(comparing(Module::name))
               .map(it -> it.toMarkdown() + " // `" + it.line + "`")
-              .collect(Collectors.toList()));
+              .collect(toList()));
       Files.write(
           suspicious.resolve("naming.md"),
           suspiciousNaming.stream()
               .sorted(comparing(Module::name))
               .map(it -> it.toMarkdown() + " // `" + it.line + "`")
-              .collect(Collectors.toList()));
+              .collect(toList()));
     }
   }
 }
