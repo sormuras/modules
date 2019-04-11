@@ -1,18 +1,22 @@
 # sormuras/modules
-Counted 3918 Java modules published at Maven Central
+Counted 4017 Java modules published at Maven Central
 
-## Summary 2019-04-10T07:21:01.649600Z
+## Summary 2019-04-11T07:21:49.931119Z
 
 ```
-Modules summary of 2019-04-10T07:21:01.649600Z
+## Summary
 
-Scanned 18620 files in 1 seconds
+Started scan at 2019-04-11T07:21:49.931119Z
+Scanned 18704 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_10_06_57_36.csv
+    last -> modulescanner-report-2019_04_11_06_54_25.csv
 
-Counted 41577 module-related lines.
-Collected 3918 unique modules.
+Counted 41858 module-related lines.
+Collected 4017 unique modules.
+Found 3122 automatic modules. :cd:
+Found 895 explicit modules. :dvd:
 
+## Samples
             junit -> junit:junit:4.13-beta-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:7.1
@@ -73,11 +77,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4709](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8530](suspicious/naming.md)
-- Modular impostors: [1591](suspicious/impostors.md)
+- Invalid module names: [4714](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8558](suspicious/naming.md)
+- Modular impostors: [1597](suspicious/impostors.md)
 
-## Unique Modules (3918)
+## Unique Modules (4017)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -86,7 +90,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.5`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.1`
-- :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.3`
+- :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.4`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.3`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.4`
@@ -96,14 +100,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.3`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.3`
-- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.2`
+- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.3`
 - :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.1.1`
 - :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.2`
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.5`
 - :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
 - :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.4`
 - :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.4`
-- :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.6`
+- :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
 - :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.2`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
 - :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.4`
@@ -129,9 +133,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.feature.player.shared` :left_right_arrow: `be.yildiz-games:feature-player-shared:1.0.3`
 - :dvd: `be.yildizgames.feature.research.server` :left_right_arrow: `be.yildiz-games:feature-research-server:1.0.2`
 - :dvd: `be.yildizgames.feature.research.shared` :left_right_arrow: `be.yildiz-games:feature-research-shared:1.0.1`
-- :dvd: `be.yildizgames.feature.resource.shared` :left_right_arrow: `be.yildiz-games:feature-resource-shared:1.0.3`
+- :dvd: `be.yildizgames.feature.resource.shared` :left_right_arrow: `be.yildiz-games:feature-resource-shared:1.0.4`
 - :dvd: `be.yildizgames.launcher.shared` :left_right_arrow: `be.yildiz-games:launcher-shared:1.0.3`
-- :dvd: `be.yildizgames.module.audio` :left_right_arrow: `be.yildiz-games:module-audio:2.0.4`
+- :dvd: `be.yildizgames.module.audio` :left_right_arrow: `be.yildiz-games:module-audio:2.0.5`
 - :dvd: `be.yildizgames.module.audio.openal` :left_right_arrow: `be.yildiz-games:module-audio-openal:2.0.7`
 - :dvd: `be.yildizgames.module.database` :left_right_arrow: `be.yildiz-games:module-database:2.0.3`
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.2`
@@ -188,7 +192,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.assylias.jbloomberg` :left_right_arrow: `com.assylias:jbloomberg:3.7`
 - :cd: `com.athaydes.protobuf_tcp_rpc` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rpc:0.2.1`
 - :cd: `com.athaydes.protobuf_tcp_rsa_provider` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rsa-provider:0.2.1`
-- :cd: `com.athaydes.spock.reports` :left_right_arrow: `com.athaydes:spock-reports:1.6.1`
+- :cd: `com.athaydes.spock.reports` :left_right_arrow: `com.athaydes:spock-reports:1.6.2`
 - :cd: `com.blazebit.ai.utils` :left_right_arrow: `com.blazebit:blaze-ai-utils:0.1.16`
 - :cd: `com.blazebit.apt.utils` :left_right_arrow: `com.blazebit:blaze-apt-utils:0.1.16`
 - :cd: `com.blazebit.common.utils` :left_right_arrow: `com.blazebit:blaze-common-utils:0.1.16`
@@ -786,114 +790,114 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.common` :left_right_arrow: `com.jongsoft.lang:commons:0.0.2`
 - :dvd: `com.jongsoft.lang.functional` :left_right_arrow: `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
-- :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` :left_right_arrow: `com.jwebmp:jwebmp-sb2-admin-theme:0.65.0.3`
-- :dvd: `com.jwebmp.core` :left_right_arrow: `com.jwebmp:jwebmp-core:0.65.0.3`
-- :dvd: `com.jwebmp.core.angularjs` :left_right_arrow: `com.jwebmp:jwebmp-angularjs:0.65.0.3`
+- :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` :left_right_arrow: `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
+- :dvd: `com.jwebmp.core` :left_right_arrow: `com.jwebmp:jwebmp-core:0.66.0.1`
+- :dvd: `com.jwebmp.core.angularjs` :left_right_arrow: `com.jwebmp:jwebmp-angularjs:0.66.0.1`
 - :dvd: `com.jwebmp.entityassist` :left_right_arrow: `com.jwebmp:entity-assist:0.65.0.3`
-- :dvd: `com.jwebmp.guiced.rest` :left_right_arrow: `com.jwebmp:guiced-rest-services:0.65.0.3`
-- :dvd: `com.jwebmp.guiced.swagger` :left_right_arrow: `com.jwebmp:guiced-swagger:0.65.0.3`
-- :dvd: `com.jwebmp.guicedhazelcast` :left_right_arrow: `com.jwebmp:guiced-hazelcast:0.65.0.3`
-- :dvd: `com.jwebmp.guicedinjection` :left_right_arrow: `com.jwebmp:guiced-injection:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence` :left_right_arrow: `com.jwebmp:guiced-persistence:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.btm` :left_right_arrow: `com.jwebmp:guiced-persistence-btm:0.65.0.3`
+- :dvd: `com.jwebmp.guiced.rest` :left_right_arrow: `com.jwebmp:guiced-rest-services:0.66.0.1`
+- :dvd: `com.jwebmp.guiced.swagger` :left_right_arrow: `com.jwebmp:guiced-swagger:0.66.0.1`
+- :dvd: `com.jwebmp.guicedhazelcast` :left_right_arrow: `com.jwebmp:guiced-hazelcast:0.66.0.1`
+- :dvd: `com.jwebmp.guicedinjection` :left_right_arrow: `com.jwebmp:guiced-injection:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence` :left_right_arrow: `com.jwebmp:guiced-persistence:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.btm` :left_right_arrow: `com.jwebmp:guiced-persistence-btm:0.66.0.1`
 - :dvd: `com.jwebmp.guicedpersistence.c3p0` :left_right_arrow: `com.jwebmp:guiced-persistence-c3p0:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.ehcache` :left_right_arrow: `com.jwebmp:guiced-persistence-ehcache:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.jpa` :left_right_arrow: `com.jwebmp:guiced-persistence-jpa:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.readers.eclipselink` :left_right_arrow: `com.jwebmp:guiced-persistence-eclipselink-reader:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.readers.hibernateproperties` :left_right_arrow: `com.jwebmp:guiced-persistence-hibernateproperties-reader:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.readers.systemproperties` :left_right_arrow: `com.jwebmp:guiced-persistence-systemproperties-reader:0.65.0.3`
-- :dvd: `com.jwebmp.guicedpersistence.wildfly` :left_right_arrow: `com.jwebmp:guiced-persistence-wildfly:0.65.0.3`
-- :dvd: `com.jwebmp.guicedservlets` :left_right_arrow: `com.jwebmp:guiced-servlets:0.65.0.3`
-- :dvd: `com.jwebmp.guicedservlets.jsf` :left_right_arrow: `com.jwebmp:guiced-servlets-jsf:0.65.0.3`
-- :dvd: `com.jwebmp.guicedservlets.requestscoped` :left_right_arrow: `com.jwebmp:guiced-servlets-request-scoper:0.65.0.3`
-- :dvd: `com.jwebmp.interception` :left_right_arrow: `com.jwebmp:jwebmp-interception:0.65.0.3`
-- :dvd: `com.jwebmp.logmaster` :left_right_arrow: `com.jwebmp:jwebmp-log-master:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularanimate` :left_right_arrow: `com.jwebmp:jwebmp-angular-animate:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularanimatedchange` :left_right_arrow: `com.jwebmp:jwebmp-angular-animated-change:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularautoexpand` :left_right_arrow: `com.jwebmp:jwebmp-angular-auto-expand:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularautofocus` :left_right_arrow: `com.jwebmp:jwebmp-angular-auto-focus:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularbootstrapdatetimepicker` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-date-time-picker:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularfastclick` :left_right_arrow: `com.jwebmp:jwebmp-angular-fastclick:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularfileupload` :left_right_arrow: `com.jwebmp:jwebmp-angular-file-upload:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularionslider` :left_right_arrow: `com.jwebmp:jwebmp-angular-ion-slider:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularnyabootstrapselector` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-nya-select:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularprettycheckboxes` :left_right_arrow: `com.jwebmp:jwebmp-angular-pretty-checkboxes:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularprogressbuttonstyles` :left_right_arrow: `com.jwebmp:jwebmp-angular-progress-button-styles:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularroute` :left_right_arrow: `com.jwebmp:jwebmp-angular-route:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularsanitize` :left_right_arrow: `com.jwebmp:jwebmp-angular-sanitize:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularscrollposition` :left_right_arrow: `com.jwebmp:jwebmp-angular-scroll-position:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularslimscroll` :left_right_arrow: `com.jwebmp:jwebmp-angular-slim-scroll:0.65.0.3`
+- :dvd: `com.jwebmp.guicedpersistence.ehcache` :left_right_arrow: `com.jwebmp:guiced-persistence-ehcache:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.jpa` :left_right_arrow: `com.jwebmp:guiced-persistence-jpa:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.readers.eclipselink` :left_right_arrow: `com.jwebmp:guiced-persistence-eclipselink-reader:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.readers.hibernateproperties` :left_right_arrow: `com.jwebmp:guiced-persistence-hibernateproperties-reader:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.readers.systemproperties` :left_right_arrow: `com.jwebmp:guiced-persistence-systemproperties-reader:0.66.0.1`
+- :dvd: `com.jwebmp.guicedpersistence.wildfly` :left_right_arrow: `com.jwebmp:guiced-persistence-wildfly:0.66.0.1`
+- :dvd: `com.jwebmp.guicedservlets` :left_right_arrow: `com.jwebmp:guiced-servlets:0.66.0.1`
+- :dvd: `com.jwebmp.guicedservlets.jsf` :left_right_arrow: `com.jwebmp:guiced-servlets-jsf:0.66.0.1`
+- :dvd: `com.jwebmp.guicedservlets.requestscoped` :left_right_arrow: `com.jwebmp:guiced-servlets-request-scoper:0.66.0.1`
+- :dvd: `com.jwebmp.interception` :left_right_arrow: `com.jwebmp:jwebmp-interception:0.66.0.1`
+- :dvd: `com.jwebmp.logmaster` :left_right_arrow: `com.jwebmp:jwebmp-log-master:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularanimate` :left_right_arrow: `com.jwebmp:jwebmp-angular-animate:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularanimatedchange` :left_right_arrow: `com.jwebmp:jwebmp-angular-animated-change:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularautoexpand` :left_right_arrow: `com.jwebmp:jwebmp-angular-auto-expand:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularautofocus` :left_right_arrow: `com.jwebmp:jwebmp-angular-auto-focus:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularbootstrapdatetimepicker` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-date-time-picker:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularfastclick` :left_right_arrow: `com.jwebmp:jwebmp-angular-fastclick:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularfileupload` :left_right_arrow: `com.jwebmp:jwebmp-angular-file-upload:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularionslider` :left_right_arrow: `com.jwebmp:jwebmp-angular-ion-slider:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularnyabootstrapselector` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-nya-select:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularprettycheckboxes` :left_right_arrow: `com.jwebmp:jwebmp-angular-pretty-checkboxes:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularprogressbuttonstyles` :left_right_arrow: `com.jwebmp:jwebmp-angular-progress-button-styles:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularroute` :left_right_arrow: `com.jwebmp:jwebmp-angular-route:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularsanitize` :left_right_arrow: `com.jwebmp:jwebmp-angular-sanitize:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularscrollposition` :left_right_arrow: `com.jwebmp:jwebmp-angular-scroll-position:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularslimscroll` :left_right_arrow: `com.jwebmp:jwebmp-angular-slim-scroll:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.angulartouch` :left_right_arrow: `com.jwebmp:jwebmp-angular-touch:0.65.0.3`
 - :dvd: `com.jwebmp.plugins.angulartrackwidth` :left_right_arrow: `com.jwebmp:jwebmp-angular-track-width:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularuibootstrap` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-bootstrap:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularuiselect` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-select:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularuisortable` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-sortable:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.angularzoomanimation` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-zoom:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bit6` :left_right_arrow: `com.jwebmp:jwebmp-bit6:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.blockui` :left_right_arrow: `com.jwebmp:jwebmp-block-ui:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.blueimp.fileupload` :left_right_arrow: `com.jwebmp:jwebmp-blueimp-fileupload:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.blueimp.gallery` :left_right_arrow: `com.jwebmp:jwebmp-blueimp-gallery:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bluradmin` :left_right_arrow: `com.jwebmp:jwebmp-blur-admin-theme:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstrap` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstrap.dialog` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-dialog:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstrap4` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap4:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstrapselect` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-select:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstrapswitch` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-switch:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bootstraptagsinput` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-tags-input:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bs4.dialog` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-dialog4:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.bsquickforms` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-quick-forms:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.c3` :left_right_arrow: `com.jwebmp:jwebmp-c3:0.65.0.2`
-- :dvd: `com.jwebmp.plugins.cordovify` :left_right_arrow: `com.jwebmp:jwebmp-cordovify:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.d3` :left_right_arrow: `com.jwebmp:jwebmp-d3:0.65.0.2`
-- :dvd: `com.jwebmp.plugins.d3.reingoldtilfordtree` :left_right_arrow: `com.jwebmp:jwebmp-d3-reigngold-tilford-tree:0.65.0.2`
-- :dvd: `com.jwebmp.plugins.datatable` :left_right_arrow: `com.jwebmp:jwebmp-data-tables:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.dynamicsourcecode` :left_right_arrow: `com.jwebmp:jwebmp-dynamic-source-code-viewer:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.easypiechart` :left_right_arrow: `com.jwebmp:jwebmp-easy-pie-chart:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.fontawesome` :left_right_arrow: `com.jwebmp:jwebmp-font-awesome:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.fontawesome5` :left_right_arrow: `com.jwebmp:jwebmp-font-awesome5:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.fullcalendar` :left_right_arrow: `com.jwebmp:jwebmp-full-calendar:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.globalize.cultures` :left_right_arrow: `com.jwebmp:jwebmp-globalize:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.glyphicons` :left_right_arrow: `com.jwebmp:jwebmp-glyphicons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.google.sourceprettify` :left_right_arrow: `com.jwebmp:jwebmp-google-source-code-prettify:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.imagemap` :left_right_arrow: `com.jwebmp:jwebmp-image-map-heatmap:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.ionic.ionicons` :left_right_arrow: `com.jwebmp:jwebmp-ion-icons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.ionrangeslider` :left_right_arrow: `com.jwebmp:jwebmp-ion-range-slider:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqgradientlinear` :left_right_arrow: `com.jwebmp:jwebmp-gradients-linear-ie6:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqlayout` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-layout:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqplot` :left_right_arrow: `com.jwebmp:jwebmp-jqplot:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqruler` :left_right_arrow: `com.jwebmp:jwebmp-jqruler:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.materialdesignicons` :left_right_arrow: `com.jwebmp:jwebmp-material-design-icons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.metrojs` :left_right_arrow: `com.jwebmp:jwebmp-metro-tiles:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.modernizr` :left_right_arrow: `com.jwebmp:jwebmp-modernizr:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.moment` :left_right_arrow: `com.jwebmp:jwebmp-momentjs:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.ngslimscroll` :left_right_arrow: `com.jwebmp:jwebmp-ng-slim-scroll:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.pace` :left_right_arrow: `com.jwebmp:jwebmp-pace-plugin:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.particlejs` :left_right_arrow: `com.jwebmp:jwebmp-particlesjs:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.softhistorychange` :left_right_arrow: `com.jwebmp:jwebmp-soft-history-change:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.spectrum.colourpicker` :left_right_arrow: `com.jwebmp:jwebmp-spectrum-colour-picker:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.textangular` :left_right_arrow: `com.jwebmp:jwebmp-text-angular:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.textinputeffects` :left_right_arrow: `com.jwebmp:jwebmp-text-input-effects:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.themify.icons` :left_right_arrow: `com.jwebmp:jwebmp-themify-icons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.toastr` :left_right_arrow: `com.jwebmp:jwebmp-toastr:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.verticaltimeline` :left_right_arrow: `com.jwebmp:jwebmp-vertical-timeline-css:0.65.0.2`
-- :dvd: `com.jwebmp.plugins.waveseffect` :left_right_arrow: `com.jwebmp:jwebmp-waveseffect:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.weathericons` :left_right_arrow: `com.jwebmp:jwebmp-weathericons:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.weblogappender` :left_right_arrow: `com.jwebmp:jwebmp-web-log-appender:0.65.0.3`
-- :dvd: `com.jwebmp.plugins.xeditable` :left_right_arrow: `com.jwebmp:jwebmp-xeditable:0.65.0.3`
-- :dvd: `com.jwebmp.undertow` :left_right_arrow: `com.jwebmp:jwebmp-undertow:0.65.0.3`
-- :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp:jwebmp-websockets:0.65.0.3`
+- :dvd: `com.jwebmp.plugins.angularuibootstrap` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-bootstrap:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularuiselect` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-select:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularuisortable` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-sortable:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.angularzoomanimation` :left_right_arrow: `com.jwebmp:jwebmp-angular-ui-zoom:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bit6` :left_right_arrow: `com.jwebmp:jwebmp-bit6:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.blockui` :left_right_arrow: `com.jwebmp:jwebmp-block-ui:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.blueimp.fileupload` :left_right_arrow: `com.jwebmp:jwebmp-blueimp-fileupload:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.blueimp.gallery` :left_right_arrow: `com.jwebmp:jwebmp-blueimp-gallery:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bluradmin` :left_right_arrow: `com.jwebmp:jwebmp-blur-admin-theme:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstrap` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstrap.dialog` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-dialog:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstrap4` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap4:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstrapselect` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-select:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstrapswitch` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-switch:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bootstraptagsinput` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-tags-input:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bs4.dialog` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-dialog4:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.bsquickforms` :left_right_arrow: `com.jwebmp:jwebmp-bootstrap-quick-forms:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.c3` :left_right_arrow: `com.jwebmp:jwebmp-c3:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.cordovify` :left_right_arrow: `com.jwebmp:jwebmp-cordovify:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.d3` :left_right_arrow: `com.jwebmp:jwebmp-d3:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.d3.reingoldtilfordtree` :left_right_arrow: `com.jwebmp:jwebmp-d3-reigngold-tilford-tree:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.datatable` :left_right_arrow: `com.jwebmp:jwebmp-data-tables:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.dynamicsourcecode` :left_right_arrow: `com.jwebmp:jwebmp-dynamic-source-code-viewer:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.easypiechart` :left_right_arrow: `com.jwebmp:jwebmp-easy-pie-chart:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.fontawesome` :left_right_arrow: `com.jwebmp:jwebmp-font-awesome:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.fontawesome5` :left_right_arrow: `com.jwebmp:jwebmp-font-awesome5:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.fullcalendar` :left_right_arrow: `com.jwebmp:jwebmp-full-calendar:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.globalize.cultures` :left_right_arrow: `com.jwebmp:jwebmp-globalize:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.glyphicons` :left_right_arrow: `com.jwebmp:jwebmp-glyphicons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.google.sourceprettify` :left_right_arrow: `com.jwebmp:jwebmp-google-source-code-prettify:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.imagemap` :left_right_arrow: `com.jwebmp:jwebmp-image-map-heatmap:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.ionic.ionicons` :left_right_arrow: `com.jwebmp:jwebmp-ion-icons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.ionrangeslider` :left_right_arrow: `com.jwebmp:jwebmp-ion-range-slider:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqgradientlinear` :left_right_arrow: `com.jwebmp:jwebmp-gradients-linear-ie6:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqlayout` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-layout:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqplot` :left_right_arrow: `com.jwebmp:jwebmp-jqplot:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqruler` :left_right_arrow: `com.jwebmp:jwebmp-jqruler:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.materialdesignicons` :left_right_arrow: `com.jwebmp:jwebmp-material-design-icons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.metrojs` :left_right_arrow: `com.jwebmp:jwebmp-metro-tiles:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.modernizr` :left_right_arrow: `com.jwebmp:jwebmp-modernizr:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.moment` :left_right_arrow: `com.jwebmp:jwebmp-momentjs:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.ngslimscroll` :left_right_arrow: `com.jwebmp:jwebmp-ng-slim-scroll:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.pace` :left_right_arrow: `com.jwebmp:jwebmp-pace-plugin:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.particlejs` :left_right_arrow: `com.jwebmp:jwebmp-particlesjs:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.softhistorychange` :left_right_arrow: `com.jwebmp:jwebmp-soft-history-change:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.spectrum.colourpicker` :left_right_arrow: `com.jwebmp:jwebmp-spectrum-colour-picker:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.textangular` :left_right_arrow: `com.jwebmp:jwebmp-text-angular:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.textinputeffects` :left_right_arrow: `com.jwebmp:jwebmp-text-input-effects:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.themify.icons` :left_right_arrow: `com.jwebmp:jwebmp-themify-icons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.toastr` :left_right_arrow: `com.jwebmp:jwebmp-toastr:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.verticaltimeline` :left_right_arrow: `com.jwebmp:jwebmp-vertical-timeline-css:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.waveseffect` :left_right_arrow: `com.jwebmp:jwebmp-waveseffect:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.weathericons` :left_right_arrow: `com.jwebmp:jwebmp-weathericons:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.weblogappender` :left_right_arrow: `com.jwebmp:jwebmp-web-log-appender:0.66.0.1`
+- :dvd: `com.jwebmp.plugins.xeditable` :left_right_arrow: `com.jwebmp:jwebmp-xeditable:0.66.0.1`
+- :dvd: `com.jwebmp.undertow` :left_right_arrow: `com.jwebmp:jwebmp-undertow:0.66.0.1`
+- :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp:jwebmp-websockets:0.66.0.1`
 - :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.0`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.0`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.0`
@@ -902,13 +906,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.0.jre11-preview`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.1.1`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
-- :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.25`
-- :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.25`
-- :cd: `com.netflix.servo.aws` :left_right_arrow: `com.netflix.servo:servo-aws:0.12.25`
-- :cd: `com.netflix.servo.core` :left_right_arrow: `com.netflix.servo:servo-core:0.12.25`
-- :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.25`
-- :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.25`
-- :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.25`
+- :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.26`
+- :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.26`
+- :cd: `com.netflix.servo.aws` :left_right_arrow: `com.netflix.servo:servo-aws:0.12.26`
+- :cd: `com.netflix.servo.core` :left_right_arrow: `com.netflix.servo:servo-core:0.12.26`
+- :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.26`
+- :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.26`
+- :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.26`
 - :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.88.0`
 - :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.88.0`
 - :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.88.0`
@@ -1193,7 +1197,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.vladmihalcea.flexypool.tomee` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomee:2.1.2`
 - :cd: `com.vladmihalcea.flexypool.vibur` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-vibur:2.1.2`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.4.3`
-- :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.3`
+- :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.4`
 - :dvd: `com.zarbosoft.interface1` :left_right_arrow: `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.5`
 - :dvd: `com.zarbosoft.pidgoon` :left_right_arrow: `com.zarbosoft:pidgoon:0.0.4`
@@ -1546,10 +1550,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.kodokojo.property.configurer` :left_right_arrow: `io.kodokojo:property-configurer:0.2.0`
 - :dvd: `io.lindstrom.mpd` :left_right_arrow: `io.lindstrom:mpd-parser:0.7`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:aop:1.0.0.RC2`
-- :cd: `io.micronaut.aws.function_aws` :left_right_arrow: `io.micronaut:micronaut-function-aws:1.1.0.RC3`
-- :cd: `io.micronaut.aws.function_aws_alexa` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-alexa:1.1.0.RC3`
-- :cd: `io.micronaut.aws.function_aws_api_proxy` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-api-proxy:1.1.0.RC3`
-- :cd: `io.micronaut.aws.function_aws_custom_runtime` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-custom-runtime:1.1.0.RC3`
+- :cd: `io.micronaut.aws.function_aws` :left_right_arrow: `io.micronaut:micronaut-function-aws:1.1.0`
+- :cd: `io.micronaut.aws.function_aws_alexa` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-alexa:1.1.0`
+- :cd: `io.micronaut.aws.function_aws_api_proxy` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-api-proxy:1.1.0`
+- :cd: `io.micronaut.aws.function_aws_custom_runtime` :left_right_arrow: `io.micronaut.aws:micronaut-function-aws-custom-runtime:1.1.0`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:bom:1.0.0.RC2`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:buffer-netty:1.0.0.RC2`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:cli:1.0.0.RC2`
@@ -2413,6 +2417,87 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk14:1.61`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk14:1.60`
 - :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.61`
+- :dvd: `org.bytedeco.ale` :left_right_arrow: `org.bytedeco:ale:0.6.0-1.5`
+- :dvd: `org.bytedeco.ale.platform` :left_right_arrow: `org.bytedeco:ale-platform:0.6.0-1.5`
+- :dvd: `org.bytedeco.arpackng` :left_right_arrow: `org.bytedeco:arpack-ng:3.7.0-1.5`
+- :dvd: `org.bytedeco.arpackng.platform` :left_right_arrow: `org.bytedeco:arpack-ng-platform:3.7.0-1.5`
+- :dvd: `org.bytedeco.artoolkitplus` :left_right_arrow: `org.bytedeco:artoolkitplus:2.3.1-1.5`
+- :dvd: `org.bytedeco.artoolkitplus.platform` :left_right_arrow: `org.bytedeco:artoolkitplus-platform:2.3.1-1.5`
+- :dvd: `org.bytedeco.caffe` :left_right_arrow: `org.bytedeco:caffe:1.0-1.5`
+- :dvd: `org.bytedeco.caffe.platform` :left_right_arrow: `org.bytedeco:caffe-platform:1.0-1.5`
+- :dvd: `org.bytedeco.chilitags` :left_right_arrow: `org.bytedeco:chilitags:master-1.5`
+- :dvd: `org.bytedeco.chilitags.platform` :left_right_arrow: `org.bytedeco:chilitags-platform:master-1.5`
+- :dvd: `org.bytedeco.cminpack` :left_right_arrow: `org.bytedeco:cminpack:1.3.6-1.5`
+- :dvd: `org.bytedeco.cminpack.platform` :left_right_arrow: `org.bytedeco:cminpack-platform:1.3.6-1.5`
+- :dvd: `org.bytedeco.cpu_features` :left_right_arrow: `org.bytedeco:cpu_features:0.2.0-1.5`
+- :dvd: `org.bytedeco.cpu_features.platform` :left_right_arrow: `org.bytedeco:cpu_features-platform:0.2.0-1.5`
+- :dvd: `org.bytedeco.cpython` :left_right_arrow: `org.bytedeco:cpython:3.6-1.5`
+- :dvd: `org.bytedeco.cpython.platform` :left_right_arrow: `org.bytedeco:cpython-platform:3.6-1.5`
+- :dvd: `org.bytedeco.cuda` :left_right_arrow: `org.bytedeco:cuda:10.1-7.5-1.5`
+- :dvd: `org.bytedeco.cuda.platform` :left_right_arrow: `org.bytedeco:cuda-platform:10.1-7.5-1.5`
+- :dvd: `org.bytedeco.ffmpeg` :left_right_arrow: `org.bytedeco:ffmpeg:4.1.3-1.5`
+- :dvd: `org.bytedeco.ffmpeg.platform` :left_right_arrow: `org.bytedeco:ffmpeg-platform:4.1.3-1.5`
+- :dvd: `org.bytedeco.fftw` :left_right_arrow: `org.bytedeco:fftw:3.3.8-1.5`
+- :dvd: `org.bytedeco.fftw.platform` :left_right_arrow: `org.bytedeco:fftw-platform:3.3.8-1.5`
+- :dvd: `org.bytedeco.flandmark` :left_right_arrow: `org.bytedeco:flandmark:1.07-1.5`
+- :dvd: `org.bytedeco.flandmark.platform` :left_right_arrow: `org.bytedeco:flandmark-platform:1.07-1.5`
+- :dvd: `org.bytedeco.flycapture` :left_right_arrow: `org.bytedeco:flycapture:2.13.3.31-1.5`
+- :dvd: `org.bytedeco.flycapture.platform` :left_right_arrow: `org.bytedeco:flycapture-platform:2.13.3.31-1.5`
+- :dvd: `org.bytedeco.gsl` :left_right_arrow: `org.bytedeco:gsl:2.5-1.5`
+- :dvd: `org.bytedeco.gsl.platform` :left_right_arrow: `org.bytedeco:gsl-platform:2.5-1.5`
+- :dvd: `org.bytedeco.hdf5` :left_right_arrow: `org.bytedeco:hdf5:1.10.5-1.5`
+- :dvd: `org.bytedeco.hdf5.platform` :left_right_arrow: `org.bytedeco:hdf5-platform:1.10.5-1.5`
+- :dvd: `org.bytedeco.javacpp` :left_right_arrow: `org.bytedeco:javacpp:1.5`
+- :dvd: `org.bytedeco.javacv` :left_right_arrow: `org.bytedeco:javacv:1.5`
+- :dvd: `org.bytedeco.javacv.platform` :left_right_arrow: `org.bytedeco:javacv-platform:1.5`
+- :dvd: `org.bytedeco.leptonica` :left_right_arrow: `org.bytedeco:leptonica:1.78.0-1.5`
+- :dvd: `org.bytedeco.leptonica.platform` :left_right_arrow: `org.bytedeco:leptonica-platform:1.78.0-1.5`
+- :dvd: `org.bytedeco.libdc1394` :left_right_arrow: `org.bytedeco:libdc1394:2.2.5-1.5`
+- :dvd: `org.bytedeco.libdc1394.platform` :left_right_arrow: `org.bytedeco:libdc1394-platform:2.2.5-1.5`
+- :dvd: `org.bytedeco.libfreenect` :left_right_arrow: `org.bytedeco:libfreenect:0.5.7-1.5`
+- :dvd: `org.bytedeco.libfreenect.platform` :left_right_arrow: `org.bytedeco:libfreenect-platform:0.5.7-1.5`
+- :dvd: `org.bytedeco.libfreenect2` :left_right_arrow: `org.bytedeco:libfreenect2:0.2.0-1.5`
+- :dvd: `org.bytedeco.libfreenect2.platform` :left_right_arrow: `org.bytedeco:libfreenect2-platform:0.2.0-1.5`
+- :dvd: `org.bytedeco.libpostal` :left_right_arrow: `org.bytedeco:libpostal:1.1-alpha-1.5`
+- :dvd: `org.bytedeco.libpostal.platform` :left_right_arrow: `org.bytedeco:libpostal-platform:1.1-alpha-1.5`
+- :dvd: `org.bytedeco.librealsense` :left_right_arrow: `org.bytedeco:librealsense:1.12.1-1.5`
+- :dvd: `org.bytedeco.librealsense.platform` :left_right_arrow: `org.bytedeco:librealsense-platform:1.12.1-1.5`
+- :dvd: `org.bytedeco.liquidfun` :left_right_arrow: `org.bytedeco:liquidfun:master-1.5`
+- :dvd: `org.bytedeco.liquidfun.platform` :left_right_arrow: `org.bytedeco:liquidfun-platform:master-1.5`
+- :dvd: `org.bytedeco.llvm` :left_right_arrow: `org.bytedeco:llvm:8.0.0-1.5`
+- :dvd: `org.bytedeco.llvm.platform` :left_right_arrow: `org.bytedeco:llvm-platform:8.0.0-1.5`
+- :dvd: `org.bytedeco.mkl` :left_right_arrow: `org.bytedeco:mkl:2019.3-1.5`
+- :dvd: `org.bytedeco.mkl.platform` :left_right_arrow: `org.bytedeco:mkl-platform:2019.3-1.5`
+- :dvd: `org.bytedeco.mkldnn` :left_right_arrow: `org.bytedeco:mkl-dnn:0.18.1-1.5`
+- :dvd: `org.bytedeco.mkldnn.platform` :left_right_arrow: `org.bytedeco:mkl-dnn-platform:0.18.1-1.5`
+- :dvd: `org.bytedeco.mxnet` :left_right_arrow: `org.bytedeco:mxnet:1.4.0-1.5`
+- :dvd: `org.bytedeco.mxnet.platform` :left_right_arrow: `org.bytedeco:mxnet-platform:1.4.0-1.5`
+- :dvd: `org.bytedeco.ngraph` :left_right_arrow: `org.bytedeco:ngraph:0.15.0-1.5`
+- :dvd: `org.bytedeco.ngraph.platform` :left_right_arrow: `org.bytedeco:ngraph-platform:0.15.0-1.5`
+- :dvd: `org.bytedeco.numpy` :left_right_arrow: `org.bytedeco:numpy:1.16.2-1.5`
+- :dvd: `org.bytedeco.numpy.platform` :left_right_arrow: `org.bytedeco:numpy-platform:1.16.2-1.5`
+- :dvd: `org.bytedeco.onnx` :left_right_arrow: `org.bytedeco:onnx:1.4.1-1.5`
+- :dvd: `org.bytedeco.onnx.platform` :left_right_arrow: `org.bytedeco:onnx-platform:1.4.1-1.5`
+- :dvd: `org.bytedeco.openblas` :left_right_arrow: `org.bytedeco:openblas:0.3.5-1.5`
+- :dvd: `org.bytedeco.openblas.platform` :left_right_arrow: `org.bytedeco:openblas-platform:0.3.5-1.5`
+- :dvd: `org.bytedeco.opencv` :left_right_arrow: `org.bytedeco:opencv:4.0.1-1.5`
+- :dvd: `org.bytedeco.opencv.platform` :left_right_arrow: `org.bytedeco:opencv-platform:4.0.1-1.5`
+- :dvd: `org.bytedeco.qt` :left_right_arrow: `org.bytedeco:qt:5.12.2-1.5`
+- :dvd: `org.bytedeco.qt.platform` :left_right_arrow: `org.bytedeco:qt-platform:5.12.2-1.5`
+- :dvd: `org.bytedeco.skia` :left_right_arrow: `org.bytedeco:skia:1.68.0-1.5`
+- :dvd: `org.bytedeco.skia.platform` :left_right_arrow: `org.bytedeco:skia-platform:1.68.0-1.5`
+- :dvd: `org.bytedeco.spinnaker` :left_right_arrow: `org.bytedeco:spinnaker:1.19.0.22-1.5`
+- :dvd: `org.bytedeco.spinnaker.platform` :left_right_arrow: `org.bytedeco:spinnaker-platform:1.19.0.22-1.5`
+- :dvd: `org.bytedeco.systems` :left_right_arrow: `org.bytedeco:systems:1.5`
+- :dvd: `org.bytedeco.systems.platform` :left_right_arrow: `org.bytedeco:systems-platform:1.5`
+- :dvd: `org.bytedeco.tensorflow` :left_right_arrow: `org.bytedeco:tensorflow:1.13.1-1.5`
+- :dvd: `org.bytedeco.tensorflow.platform` :left_right_arrow: `org.bytedeco:tensorflow-platform:1.13.1-1.5`
+- :dvd: `org.bytedeco.tensorrt` :left_right_arrow: `org.bytedeco:tensorrt:5.1-1.5`
+- :dvd: `org.bytedeco.tensorrt.platform` :left_right_arrow: `org.bytedeco:tensorrt-platform:5.1-1.5`
+- :dvd: `org.bytedeco.tesseract` :left_right_arrow: `org.bytedeco:tesseract:4.0.0-1.5`
+- :dvd: `org.bytedeco.tesseract.platform` :left_right_arrow: `org.bytedeco:tesseract-platform:4.0.0-1.5`
+- :dvd: `org.bytedeco.videoinput` :left_right_arrow: `org.bytedeco:videoinput:0.200-1.5`
+- :dvd: `org.bytedeco.videoinput.platform` :left_right_arrow: `org.bytedeco:videoinput-platform:0.200-1.5`
 - :cd: `org.checkerframework.checker` :left_right_arrow: `org.checkerframework:checker:2.8.0`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-compat-qual:2.5.5`
 - :cd: `org.checkerframework.checker.qual.android` :left_right_arrow: `org.checkerframework:checker-qual-android:2.8.0`
@@ -2837,7 +2922,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.fusesource.hawtjni.runtime` :left_right_arrow: `org.fusesource.hawtjni:hawtjni-runtime:1.17`
 - :cd: `org.fusesource.jansi` :left_right_arrow: `org.fusesource.jansi:jansi:1.18`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:1.0.0-rc14`
+- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:1.0.0-rc15`
 - :cd: `org.greencheek.caching.herdcache` :left_right_arrow: `org.greencheek.caching:herdcache:2.0.14`
 - :cd: `org.hamcrest` :left_right_arrow: `org.hamcrest:hamcrest:2.1`
 - :cd: `org.hibernate.commons.annotations` :left_right_arrow: `org.hibernate.common:hibernate-commons-annotations:5.1.0.Final`
@@ -2988,6 +3073,24 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jbpm.workitem.jms` :left_right_arrow: `org.jbpm:jbpm-workitems-jms:7.20.0.Final`
 - :cd: `org.jbpm.workitem.rest` :left_right_arrow: `org.jbpm:jbpm-workitems-rest:7.20.0.Final`
 - :cd: `org.jbpm.workitem.webservice` :left_right_arrow: `org.jbpm:jbpm-workitems-webservice:7.20.0.Final`
+- :cd: `org.jdbi.v3.commonstext` :left_right_arrow: `org.jdbi:jdbi3-commons-text:3.7.1`
+- :cd: `org.jdbi.v3.core` :left_right_arrow: `org.jdbi:jdbi3-core:3.7.1`
+- :cd: `org.jdbi.v3.freemarker` :left_right_arrow: `org.jdbi:jdbi3-freemarker:3.7.1`
+- :cd: `org.jdbi.v3.gson2` :left_right_arrow: `org.jdbi:jdbi3-gson2:3.7.1`
+- :cd: `org.jdbi.v3.guava` :left_right_arrow: `org.jdbi:jdbi3-guava:3.7.1`
+- :cd: `org.jdbi.v3.jackson2` :left_right_arrow: `org.jdbi:jdbi3-jackson2:3.7.1`
+- :cd: `org.jdbi.v3.jodatime2` :left_right_arrow: `org.jdbi:jdbi3-jodatime2:3.7.1`
+- :cd: `org.jdbi.v3.jpa` :left_right_arrow: `org.jdbi:jdbi3-jpa:3.7.1`
+- :cd: `org.jdbi.v3.json` :left_right_arrow: `org.jdbi:jdbi3-json:3.7.1`
+- :cd: `org.jdbi.v3.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin:3.7.1`
+- :cd: `org.jdbi.v3.postgres` :left_right_arrow: `org.jdbi:jdbi3-postgres:3.7.1`
+- :cd: `org.jdbi.v3.spring4` :left_right_arrow: `org.jdbi:jdbi3-spring4:3.7.1`
+- :cd: `org.jdbi.v3.sqlite` :left_right_arrow: `org.jdbi:jdbi3-sqlite:3.7.1`
+- :cd: `org.jdbi.v3.sqlobject` :left_right_arrow: `org.jdbi:jdbi3-sqlobject:3.7.1`
+- :cd: `org.jdbi.v3.sqlobject.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin-sqlobject:3.7.1`
+- :cd: `org.jdbi.v3.stringtemplate4` :left_right_arrow: `org.jdbi:jdbi3-stringtemplate4:3.7.1`
+- :cd: `org.jdbi.v3.testing` :left_right_arrow: `org.jdbi:jdbi3-testing:3.7.1`
+- :cd: `org.jdbi.v3.vavr` :left_right_arrow: `org.jdbi:jdbi3-vavr:3.7.1`
 - :cd: `org.jetbrains.annotations` :left_right_arrow: `org.jetbrains:annotations:17.0.0`
 - :cd: `org.jfree.fxgraphics2d` :left_right_arrow: `org.jfree:fxgraphics2d:1.8`
 - :cd: `org.jfree.jfreesvg` :left_right_arrow: `org.jfree:jfreesvg:3.4`
@@ -3239,7 +3342,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.microbean.narayana.cdi` :left_right_arrow: `org.microbean:microbean-narayana-jta-cdi:0.3.0`
 - :cd: `org.microbean.narayana.jta.openwebbeans` :left_right_arrow: `org.microbean:microbean-narayana-jta-openwebbeans:0.1.1`
 - :cd: `org.microbean.narayana.jta.weld.se` :left_right_arrow: `org.microbean:microbean-narayana-jta-weld-se:0.2.4`
-- :cd: `org.mockito` :left_right_arrow: `org.mockito:mockito-core:2.26.0`
+- :cd: `org.mockito` :left_right_arrow: `org.mockito:mockito-core:2.27.0`
 - :cd: `org.mongodb.bson` :left_right_arrow: `org.mongodb:bson:3.11.0-beta2`
 - :cd: `org.mongodb.driver.async.client` :left_right_arrow: `org.mongodb:mongodb-driver-async:3.11.0-beta2`
 - :cd: `org.mongodb.driver.core` :left_right_arrow: `org.mongodb:mongodb-driver-core:3.11.0-beta2`
@@ -3562,25 +3665,25 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.shredzone.commons.view` :left_right_arrow: `org.shredzone.commons:commons-view:1.4`
 - :cd: `org.shredzone.commons.xml` :left_right_arrow: `org.shredzone.commons:commons-xml:1.2`
 - :cd: `org.shredzone.shariff` :left_right_arrow: `org.shredzone.shariff:backend:1.9`
-- :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter:6.6.1`
-- :cd: `org.simpleflatmapper.converter.joda` :left_right_arrow: `org.simpleflatmapper:sfm-converter-joda-time:6.6.1`
-- :cd: `org.simpleflatmapper.converter.protobuf` :left_right_arrow: `org.simpleflatmapper:sfm-converter-protobuf:6.6.1`
-- :cd: `org.simpleflatmapper.csv` :left_right_arrow: `org.simpleflatmapper:sfm-csv:6.6.1`
-- :cd: `org.simpleflatmapper.datastax` :left_right_arrow: `org.simpleflatmapper:sfm-datastax:6.6.1`
-- :cd: `org.simpleflatmapper.jdbc` :left_right_arrow: `org.simpleflatmapper:sfm-jdbc:6.6.1`
-- :cd: `org.simpleflatmapper.jdbc.spring` :left_right_arrow: `org.simpleflatmapper:sfm-springjdbc:6.6.1`
-- :cd: `org.simpleflatmapper.jdbi` :left_right_arrow: `org.simpleflatmapper:sfm-jdbi:6.6.1`
-- :cd: `org.simpleflatmapper.jdbi3` :left_right_arrow: `org.simpleflatmapper:sfm-jdbi3:6.6.1`
-- :cd: `org.simpleflatmapper.jooq` :left_right_arrow: `org.simpleflatmapper:sfm-jooq:6.6.1`
-- :cd: `org.simpleflatmapper.lightningcsv` :left_right_arrow: `org.simpleflatmapper:lightning-csv:6.6.1`
-- :cd: `org.simpleflatmapper.map` :left_right_arrow: `org.simpleflatmapper:sfm-map:6.6.1`
+- :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter:6.6.2`
+- :cd: `org.simpleflatmapper.converter.joda` :left_right_arrow: `org.simpleflatmapper:sfm-converter-joda-time:6.6.2`
+- :cd: `org.simpleflatmapper.converter.protobuf` :left_right_arrow: `org.simpleflatmapper:sfm-converter-protobuf:6.6.2`
+- :cd: `org.simpleflatmapper.csv` :left_right_arrow: `org.simpleflatmapper:sfm-csv:6.6.2`
+- :cd: `org.simpleflatmapper.datastax` :left_right_arrow: `org.simpleflatmapper:sfm-datastax:6.6.2`
+- :cd: `org.simpleflatmapper.jdbc` :left_right_arrow: `org.simpleflatmapper:sfm-jdbc:6.6.2`
+- :cd: `org.simpleflatmapper.jdbc.spring` :left_right_arrow: `org.simpleflatmapper:sfm-springjdbc:6.6.2`
+- :cd: `org.simpleflatmapper.jdbi` :left_right_arrow: `org.simpleflatmapper:sfm-jdbi:6.6.2`
+- :cd: `org.simpleflatmapper.jdbi3` :left_right_arrow: `org.simpleflatmapper:sfm-jdbi3:6.6.2`
+- :cd: `org.simpleflatmapper.jooq` :left_right_arrow: `org.simpleflatmapper:sfm-jooq:6.6.2`
+- :cd: `org.simpleflatmapper.lightningcsv` :left_right_arrow: `org.simpleflatmapper:lightning-csv:6.6.2`
+- :cd: `org.simpleflatmapper.map` :left_right_arrow: `org.simpleflatmapper:sfm-map:6.6.2`
 - :cd: `org.simpleflatmapper.ow2asm` :left_right_arrow: `org.simpleflatmapper:ow2-asm:6.2`
-- :cd: `org.simpleflatmapper.poi` :left_right_arrow: `org.simpleflatmapper:sfm-poi:6.6.1`
-- :cd: `org.simpleflatmapper.querydsl` :left_right_arrow: `org.simpleflatmapper:sfm-querydsl:6.6.1`
-- :cd: `org.simpleflatmapper.reflect` :left_right_arrow: `org.simpleflatmapper:sfm-reflect:6.6.1`
-- :cd: `org.simpleflatmapper.sql2o` :left_right_arrow: `org.simpleflatmapper:sfm-sql2o:6.6.1`
-- :cd: `org.simpleflatmapper.tuple` :left_right_arrow: `org.simpleflatmapper:sfm-tuples:6.6.1`
-- :cd: `org.simpleflatmapper.util` :left_right_arrow: `org.simpleflatmapper:sfm-util:6.6.1`
+- :cd: `org.simpleflatmapper.poi` :left_right_arrow: `org.simpleflatmapper:sfm-poi:6.6.2`
+- :cd: `org.simpleflatmapper.querydsl` :left_right_arrow: `org.simpleflatmapper:sfm-querydsl:6.6.2`
+- :cd: `org.simpleflatmapper.reflect` :left_right_arrow: `org.simpleflatmapper:sfm-reflect:6.6.2`
+- :cd: `org.simpleflatmapper.sql2o` :left_right_arrow: `org.simpleflatmapper:sfm-sql2o:6.6.2`
+- :cd: `org.simpleflatmapper.tuple` :left_right_arrow: `org.simpleflatmapper:sfm-tuples:6.6.2`
+- :cd: `org.simpleflatmapper.util` :left_right_arrow: `org.simpleflatmapper:sfm-util:6.6.2`
 - :dvd: `org.slf4j` :left_right_arrow: `org.slf4j:slf4j-api:1.8.0-beta4`
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:1.8.0-beta4`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:1.8.0-beta4`
@@ -3605,7 +3708,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.starchartlabs.calamari.core` :left_right_arrow: `org.starchartlabs.calamari:calamari-core:0.3.2`
 - :cd: `org.starchartlabs.machete.machete.sns` :left_right_arrow: `org.starchartlabs.machete:machete-sns:0.2.0`
 - :cd: `org.starchartlabs.machete.machete.ssm` :left_right_arrow: `org.starchartlabs.machete:machete-ssm:0.2.0`
-- :cd: `org.talend.sdk.component.api` :left_right_arrow: `org.talend.sdk.component:component-api:1.1.5`
+- :cd: `org.talend.sdk.component.api` :left_right_arrow: `org.talend.sdk.component:component-api:1.1.6`
 - :cd: `org.talend.sdk.component.runtime.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam:1.1.8`
 - :cd: `org.talend.sdk.component.runtime.container` :left_right_arrow: `org.talend.sdk.component:container-core:1.1.8`
 - :cd: `org.talend.sdk.component.runtime.container.maven` :left_right_arrow: `org.talend.sdk.component:nested-maven-repository:1.1.8`
