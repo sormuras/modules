@@ -3895,6 +3895,7 @@
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.6.2` // `net.officefloor.eclipse,net.officefloor.core,3.6.2,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.7.0` // `net.officefloor.eclipse,net.officefloor.core,3.7.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.8.0` // `net.officefloor.eclipse,net.officefloor.core,3.8.0,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.0` // `net.officefloor.eclipse,net.officefloor.core,3.9.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.0.0` // `net.officefloor.eclipse,net.officefloor.woof,3.0.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.1.0` // `net.officefloor.eclipse,net.officefloor.woof,3.1.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.2.0` // `net.officefloor.eclipse,net.officefloor.woof,3.2.0,net.officefloor.woof,-,automatic,-,false,-`
@@ -3906,6 +3907,7 @@
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.6.2` // `net.officefloor.eclipse,net.officefloor.woof,3.6.2,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.7.0` // `net.officefloor.eclipse,net.officefloor.woof,3.7.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.8.0` // `net.officefloor.eclipse,net.officefloor.woof,3.8.0,net.officefloor.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.0` // `net.officefloor.eclipse,net.officefloor.woof,3.9.0,net.officefloor.woof,-,automatic,-,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.54` // `com.jwebmp,uadetector-core,0.63.0.54,net.sf.uadetector.core,0.63.0.54,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.60` // `com.jwebmp,uadetector-core,0.63.0.60,net.sf.uadetector.core,0.63.0.60,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.61` // `com.jwebmp,uadetector-core,0.63.0.61,net.sf.uadetector.core,0.63.0.61,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
@@ -6673,6 +6675,7 @@
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.0.2` // `org.kordamp.ikonli,ikonli-core,11.0.2,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.1.0` // `org.kordamp.ikonli,ikonli-core,11.1.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.2.0` // `org.kordamp.ikonli,ikonli-core,11.2.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
+- :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.0` // `org.kordamp.ikonli,ikonli-core,11.3.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1` // `org.rotstan.jts,jts-lab,1.16.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1.1` // `org.rotstan.jts,jts-lab,1.16.1.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :dvd: `org.lwjgl.assimp.natives` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1,org.lwjgl.assimp.natives,-,explicit,java.base + org.lwjgl.assimp,false,-`
