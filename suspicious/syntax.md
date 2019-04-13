@@ -4089,6 +4089,7 @@
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.121` // `name.remal,gradle-plugins,1.0.121,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.122` // `name.remal,gradle-plugins,1.0.122,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.123` // `name.remal,gradle-plugins,1.0.123,name.remal.gradle-plugins,-,automatic,-,false,-`
+- :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.124` // `name.remal,gradle-plugins,1.0.124,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.82.1-rc1` // `name.remal,gradle-plugins,1.0.82.1-rc1,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.82.1-rc2` // `name.remal,gradle-plugins,1.0.82.1-rc2,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.82.1-rc5` // `name.remal,gradle-plugins,1.0.82.1-rc5,name.remal.gradle-plugins,-,automatic,-,false,-`
@@ -4113,6 +4114,7 @@
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.121` // `name.remal,gradle-plugins-api,1.0.121,name.remal.gradle-plugins-api,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.122` // `name.remal,gradle-plugins-api,1.0.122,name.remal.gradle-plugins-api,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.123` // `name.remal,gradle-plugins-api,1.0.123,name.remal.gradle-plugins-api,-,automatic,-,false,-`
+- :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.124` // `name.remal,gradle-plugins-api,1.0.124,name.remal.gradle-plugins-api,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.82.1-rc1` // `name.remal,gradle-plugins-api,1.0.82.1-rc1,name.remal.gradle-plugins-api,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.82.1-rc2` // `name.remal,gradle-plugins-api,1.0.82.1-rc2,name.remal.gradle-plugins-api,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.82.1-rc5` // `name.remal,gradle-plugins-api,1.0.82.1-rc5,name.remal.gradle-plugins-api,-,automatic,-,false,-`
@@ -4137,6 +4139,7 @@
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.121` // `name.remal,gradle-plugins-kotlin-dsl,1.0.121,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.122` // `name.remal,gradle-plugins-kotlin-dsl,1.0.122,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.123` // `name.remal,gradle-plugins-kotlin-dsl,1.0.123,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
+- :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.124` // `name.remal,gradle-plugins-kotlin-dsl,1.0.124,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.82.1-rc1` // `name.remal,gradle-plugins-kotlin-dsl,1.0.82.1-rc1,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.82.1-rc2` // `name.remal,gradle-plugins-kotlin-dsl,1.0.82.1-rc2,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.82.1-rc5` // `name.remal,gradle-plugins-kotlin-dsl,1.0.82.1-rc5,name.remal.gradle-plugins-kotlin-dsl,-,automatic,-,false,-`
@@ -4161,6 +4164,7 @@
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.121` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.121,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.122` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.122,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.123` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.123,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
+- :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.124` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.124,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.82.1-rc1` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.82.1-rc1,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.82.1-rc2` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.82.1-rc2,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins-kotlin-testing-dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.82.1-rc5` // `name.remal,gradle-plugins-kotlin-testing-dsl,1.0.82.1-rc5,name.remal.gradle-plugins-kotlin-testing-dsl,-,automatic,-,false,-`

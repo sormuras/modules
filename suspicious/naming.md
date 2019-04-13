@@ -3542,6 +3542,7 @@
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+2` // `org.openjfx,javafx-base,13-ea+2,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+3` // `org.openjfx,javafx-base,13-ea+3,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+4` // `org.openjfx,javafx-base,13-ea+4,javafx.baseEmpty,-,automatic,-,false,-`
+- :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+5` // `org.openjfx,javafx-base,13-ea+5,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11-ea+24` // `org.openjfx,javafx-controls,11-ea+24,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11-ea+25` // `org.openjfx,javafx-controls,11-ea+25,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11.0.1-ea+1` // `org.openjfx,javafx-controls,11.0.1-ea+1,javafx.controlsEmpty,-,automatic,-,false,-`
@@ -3560,6 +3561,7 @@
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+2` // `org.openjfx,javafx-controls,13-ea+2,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+3` // `org.openjfx,javafx-controls,13-ea+3,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+4` // `org.openjfx,javafx-controls,13-ea+4,javafx.controlsEmpty,-,automatic,-,false,-`
+- :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+5` // `org.openjfx,javafx-controls,13-ea+5,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11-ea+24` // `org.openjfx,javafx-fxml,11-ea+24,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11-ea+25` // `org.openjfx,javafx-fxml,11-ea+25,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11.0.1-ea+1` // `org.openjfx,javafx-fxml,11.0.1-ea+1,javafx.fxmlEmpty,-,automatic,-,false,-`
@@ -3578,6 +3580,7 @@
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+2` // `org.openjfx,javafx-fxml,13-ea+2,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+3` // `org.openjfx,javafx-fxml,13-ea+3,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+4` // `org.openjfx,javafx-fxml,13-ea+4,javafx.fxmlEmpty,-,automatic,-,false,-`
+- :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+5` // `org.openjfx,javafx-fxml,13-ea+5,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11-ea+24` // `org.openjfx,javafx-graphics,11-ea+24,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11-ea+25` // `org.openjfx,javafx-graphics,11-ea+25,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11.0.1-ea+1` // `org.openjfx,javafx-graphics,11.0.1-ea+1,javafx.graphicsEmpty,-,automatic,-,false,-`
@@ -3596,6 +3599,7 @@
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+2` // `org.openjfx,javafx-graphics,13-ea+2,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+3` // `org.openjfx,javafx-graphics,13-ea+3,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+4` // `org.openjfx,javafx-graphics,13-ea+4,javafx.graphicsEmpty,-,automatic,-,false,-`
+- :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+5` // `org.openjfx,javafx-graphics,13-ea+5,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11-ea+24` // `org.openjfx,javafx-media,11-ea+24,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11-ea+25` // `org.openjfx,javafx-media,11-ea+25,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11.0.1-ea+1` // `org.openjfx,javafx-media,11.0.1-ea+1,javafx.mediaEmpty,-,automatic,-,false,-`
@@ -3614,6 +3618,7 @@
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+2` // `org.openjfx,javafx-media,13-ea+2,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+3` // `org.openjfx,javafx-media,13-ea+3,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+4` // `org.openjfx,javafx-media,13-ea+4,javafx.mediaEmpty,-,automatic,-,false,-`
+- :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+5` // `org.openjfx,javafx-media,13-ea+5,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11-ea+24` // `org.openjfx,javafx-swing,11-ea+24,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11-ea+25` // `org.openjfx,javafx-swing,11-ea+25,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11.0.1-ea+1` // `org.openjfx,javafx-swing,11.0.1-ea+1,javafx.swingEmpty,-,automatic,-,false,-`
@@ -3632,6 +3637,7 @@
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+2` // `org.openjfx,javafx-swing,13-ea+2,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+3` // `org.openjfx,javafx-swing,13-ea+3,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+4` // `org.openjfx,javafx-swing,13-ea+4,javafx.swingEmpty,-,automatic,-,false,-`
+- :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+5` // `org.openjfx,javafx-swing,13-ea+5,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11-ea+24` // `org.openjfx,javafx-web,11-ea+24,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11-ea+25` // `org.openjfx,javafx-web,11-ea+25,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11.0.1-ea+1` // `org.openjfx,javafx-web,11.0.1-ea+1,javafx.webEmpty,-,automatic,-,false,-`
@@ -3650,6 +3656,7 @@
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+2` // `org.openjfx,javafx-web,13-ea+2,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+3` // `org.openjfx,javafx-web,13-ea+3,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+4` // `org.openjfx,javafx-web,13-ea+4,javafx.webEmpty,-,automatic,-,false,-`
+- :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+5` // `org.openjfx,javafx-web,13-ea+5,javafx.webEmpty,-,automatic,-,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp:javax.inject:1.1` // `com.jwebmp,javax.inject,1.1,javax.inject,1.1,explicit,java.base,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp.jre11:javax.inject:0.63.0.11` // `com.jwebmp.jre11,javax.inject,0.63.0.11,javax.inject,-,explicit,java.base,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp.jre11:javax.inject:0.63.0.12` // `com.jwebmp.jre11,javax.inject,0.63.0.12,javax.inject,-,explicit,java.base,false,-`
@@ -8476,6 +8483,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.6` // `io.zipkin.zipkin2,zipkin,2.12.6,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.7` // `io.zipkin.zipkin2,zipkin,2.12.7,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.8` // `io.zipkin.zipkin2,zipkin,2.12.8,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.9` // `io.zipkin.zipkin2,zipkin,2.12.9,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`

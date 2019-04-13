@@ -1,17 +1,17 @@
 # sormuras/modules
 Counted 4019 Java modules published at Maven Central
 
-## Summary 2019-04-12T07:22:37.414017Z
+## Summary 2019-04-13T07:22:23.649367Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-12T07:22:37.414017Z
-Scanned 18787 files in 1 seconds.
+Started scan at 2019-04-13T07:22:23.649367Z
+Scanned 18861 files in 1 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_12_06_51_01.csv
+    last -> modulescanner-report-2019_04_13_07_04_46.csv
 
-Counted 41957 module-related lines.
+Counted 42076 module-related lines.
 Collected 4019 unique modules.
 Found 3124 automatic modules. :cd:
 Found 895 explicit modules. :dvd:
@@ -87,9 +87,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4729](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8561](suspicious/naming.md)
-- Modular impostors: [1610](suspicious/impostors.md)
+- Invalid module names: [4733](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8569](suspicious/naming.md)
+- Modular impostors: [1634](suspicious/impostors.md)
 
 ## Unique Modules (4019)
 
@@ -288,14 +288,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.8`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.17`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.12`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.12`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.13`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.13`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.10`
-- :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.9`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.11`
+- :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.10`
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.8`
-- :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.9`
+- :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.10`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.8`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
@@ -390,7 +390,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.0`
 - :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.16`
-- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.3.8-6`
+- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.3.8-8`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
 - :dvd: `com.github.marschall.jfrjdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.1.0`
@@ -648,10 +648,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.1.0`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.2`
-- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.0.2`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.2`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.2`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.3`
+- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.0.3`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.3`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.3`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.2`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.3`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.3`
@@ -693,7 +693,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.illucit.lucene.utils` :left_right_arrow: `com.illucit:lucene-utils:1.1.2`
 - :cd: `com.imsweb.algorithms` :left_right_arrow: `com.imsweb:algorithms:1.21`
 - :cd: `com.imsweb.algorithms.staging` :left_right_arrow: `com.imsweb:staging-client-java:4.5`
-- :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.9`
+- :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.10`
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.11`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.18`
 - :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.12`
@@ -2754,78 +2754,78 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.jdt.launching.macosx` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.launching.macosx:3.4.200`
 - :cd: `org.eclipse.jdt.launching.ui.macosx` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.launching.ui.macosx:1.2.200`
 - :cd: `org.eclipse.jdt.ui` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.ui:3.17.0`
-- :cd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.openjdk8.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.openjdk8.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.ant` :left_right_arrow: `org.eclipse.jetty:jetty-ant:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.apache.jstl` :left_right_arrow: `org.eclipse.jetty:apache-jstl:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.cdi.cdi2` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-2:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.cdi.core` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-core:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.cdi.servlet` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-servlet:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.cdi.websocket` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-websocket:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.continuation` :left_right_arrow: `org.eclipse.jetty:jetty-continuation:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:9.4.15.v20190215`
+- :cd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.openjdk8.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.openjdk8.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.ant` :left_right_arrow: `org.eclipse.jetty:jetty-ant:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.apache.jstl` :left_right_arrow: `org.eclipse.jetty:apache-jstl:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.cdi.cdi2` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-2:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.cdi.core` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-core:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.cdi.servlet` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-servlet:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.cdi.websocket` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-websocket:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.continuation` :left_right_arrow: `org.eclipse.jetty:jetty-continuation:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:9.4.16.v20190411`
 - :cd: `org.eclipse.jetty.embedded` :left_right_arrow: `org.eclipse.jetty:example-jetty-embedded:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.gcloud.session` :left_right_arrow: `org.eclipse.jetty.gcloud:jetty-gcloud-session-manager:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.hazelcast` :left_right_arrow: `org.eclipse.jetty:jetty-hazelcast:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http.spi` :left_right_arrow: `org.eclipse.jetty:jetty-http-spi:9.4.15.v20190215`
+- :cd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.gcloud.session` :left_right_arrow: `org.eclipse.jetty.gcloud:jetty-gcloud-session-manager:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.hazelcast` :left_right_arrow: `org.eclipse.jetty:jetty-hazelcast:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http.spi` :left_right_arrow: `org.eclipse.jetty:jetty-http-spi:9.4.16.v20190411`
 - :cd: `org.eclipse.jetty.http2.alpn.tests` :left_right_arrow: `org.eclipse.jetty.http2:http2-alpn-tests:9.4.13.v20181111`
-- :cd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http2.client.http` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.infinispan` :left_right_arrow: `org.eclipse.jetty:jetty-infinispan:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.jspc.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-jspc-maven-plugin:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.maven.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-maven-plugin:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.memcached.session` :left_right_arrow: `org.eclipse.jetty.memcached:jetty-memcached-sessions:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.nosql` :left_right_arrow: `org.eclipse.jetty:jetty-nosql:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.alpn.fragment` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-alpn:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.boot` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.boot.jsp` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.boot.test.osgi` :left_right_arrow: `org.eclipse.jetty.osgi:test-jetty-osgi:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.boot.warurl` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-warurl:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.osgi.httpservice` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-httpservice:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.runner` :left_right_arrow: `org.eclipse.jetty:jetty-runner:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.start` :left_right_arrow: `org.eclipse.jetty:jetty-start:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.unixsocket` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-api:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.client` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-client:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.common` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-common:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.javax.websocket` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.javax.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-server:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:9.4.15.v20190215`
+- :cd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http2.client.http` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.infinispan` :left_right_arrow: `org.eclipse.jetty:jetty-infinispan:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.jspc.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-jspc-maven-plugin:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.maven.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-maven-plugin:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.memcached.session` :left_right_arrow: `org.eclipse.jetty.memcached:jetty-memcached-sessions:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.nosql` :left_right_arrow: `org.eclipse.jetty:jetty-nosql:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.alpn.fragment` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-alpn:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.boot` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.boot.jsp` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.boot.test.osgi` :left_right_arrow: `org.eclipse.jetty.osgi:test-jetty-osgi:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.boot.warurl` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-warurl:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.osgi.httpservice` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-httpservice:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.runner` :left_right_arrow: `org.eclipse.jetty:jetty-runner:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.start` :left_right_arrow: `org.eclipse.jetty:jetty-start:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.unixsocket` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-api:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.client` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-client:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.common` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-common:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.javax.websocket` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.javax.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-server:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.16.v20190411`
+- :cd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:9.4.16.v20190411`
 - :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.3.0.201903130848-r`
 - :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.3.0.201903130848-r`
 - :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.3.0.201903130848-r`
@@ -3015,7 +3015,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.javamoney.moneta.convert.ecb` :left_right_arrow: `org.javamoney.moneta:moneta-convert-ecb:1.3`
 - :cd: `org.javamoney.moneta.convert.imf` :left_right_arrow: `org.javamoney.moneta:moneta-convert-imf:1.3`
 - :cd: `org.jboss.dmr` :left_right_arrow: `org.jboss:jboss-dmr:1.5.0.Final`
-- :cd: `org.jboss.logging` :left_right_arrow: `org.jboss.logging:jboss-logging:3.3.2.Final`
+- :cd: `org.jboss.logging` :left_right_arrow: `org.jboss.logging:jboss-logging:3.4.0.Final`
 - :cd: `org.jbpm.bpmn2` :left_right_arrow: `org.jbpm:jbpm-bpmn2:7.20.0.Final`
 - :cd: `org.jbpm.bpmn2.emfextmodel` :left_right_arrow: `org.jbpm:jbpm-bpmn2-emfextmodel:7.20.0.Final`
 - :cd: `org.jbpm.casemgmt.api` :left_right_arrow: `org.jbpm:jbpm-case-mgmt-api:7.20.0.Final`
