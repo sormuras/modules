@@ -1,17 +1,17 @@
 # sormuras/modules
 Counted 4020 Java modules published at Maven Central
 
-## Summary 2019-04-14T07:23:13.075179Z
+## Summary 2019-04-15T07:23:38.802945Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-14T07:23:13.075179Z
-Scanned 18964 files in 1 seconds.
+Started scan at 2019-04-15T07:23:38.802945Z
+Scanned 19049 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_14_07_08_37.csv
+    last -> modulescanner-report-2019_04_15_06_47_17.csv
 
-Counted 42113 module-related lines.
+Counted 42166 module-related lines.
 Collected 4020 unique modules.
 Found 3125 automatic modules. :cd:
 Found 895 explicit modules. :dvd:
@@ -87,9 +87,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4733](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8574](suspicious/naming.md)
-- Modular impostors: [1648](suspicious/impostors.md)
+- Invalid module names: [4734](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8575](suspicious/naming.md)
+- Modular impostors: [1653](suspicious/impostors.md)
 
 ## Unique Modules (4020)
 
@@ -127,7 +127,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.engine.client.addon.statemachine` :left_right_arrow: `be.yildiz-games:engine-client-addon-statemachine:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.ui` :left_right_arrow: `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` :left_right_arrow: `be.yildiz-games:engine-server:1.0.9`
-- :dvd: `be.yildizgames.engine.shared` :left_right_arrow: `be.yildiz-games:engine-shared:2.0.1`
+- :dvd: `be.yildizgames.engine.shared` :left_right_arrow: `be.yildiz-games:engine-shared:2.0.2`
 - :dvd: `be.yildizgames.feature.city.server` :left_right_arrow: `be.yildiz-games:feature-city-server:1.0.0`
 - :dvd: `be.yildizgames.feature.city.shared` :left_right_arrow: `be.yildiz-games:feature-city-shared:2.0.0`
 - :dvd: `be.yildizgames.feature.construction.shared` :left_right_arrow: `be.yildiz-games:feature-construction-shared:1.0.0`
@@ -154,7 +154,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.1`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.5`
-- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.3`
+- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.4`
 - :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.4`
 - :dvd: `be.yildizgames.module.physics.bullet` :left_right_arrow: `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.3`
@@ -306,7 +306,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.envimate.webmate.integrations.multipart` :left_right_arrow: `com.envimate.webmate.integrations:webmate-multipart:1.0.7`
 - :cd: `com.envimate.webmate.integrations.servlet` :left_right_arrow: `com.envimate.webmate.integrations:webmate-servlet:1.0.7`
 - :cd: `com.envimate.webmate.integrations.spark` :left_right_arrow: `com.envimate.webmate.integrations:webmate-spark:1.0.7`
-- :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC3`
+- :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC4`
 - :cd: `com.esotericsoftware.minlog` :left_right_arrow: `com.esotericsoftware:minlog:1.3.1`
 - :cd: `com.esotericsoftware.reflectasm` :left_right_arrow: `com.esotericsoftware:reflectasm:1.11.9`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.0`
@@ -391,7 +391,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.0`
 - :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.16`
-- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.3.8-8`
+- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.3.8-9`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
 - :dvd: `com.github.marschall.jfrjdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.1.0`
@@ -705,7 +705,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.seerutilsgui` :left_right_arrow: `com.imsweb:seerutils-gui:1.14`
 - :cd: `com.imsweb.staging.cs` :left_right_arrow: `com.imsweb:staging-algorithm-cs:02.05.50.2`
 - :cd: `com.imsweb.staging.tnm` :left_right_arrow: `com.imsweb:staging-algorithm-tnm:1.9.1`
-- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.5`
+- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.6`
 - :cd: `com.imsweb.x12` :left_right_arrow: `com.imsweb:x12-parser:1.5`
 - :cd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0011`
 - :cd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0011`
@@ -926,28 +926,28 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.26`
 - :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.26`
 - :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.26`
-- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.88.0`
-- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.88.0`
-- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.88.0`
-- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.88.0`
-- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.88.0`
-- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.88.0`
-- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.88.0`
-- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.88.0`
-- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.88.0`
-- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.88.0`
-- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.88.0`
-- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.88.0`
-- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.88.0`
-- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.88.0`
-- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.88.0`
-- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.88.0`
-- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.88.0`
-- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.88.0`
-- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.88.0`
-- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.88.0`
-- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.88.0`
-- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.88.0`
+- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.90.0`
+- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.90.0`
+- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.90.0`
+- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.90.0`
+- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.90.0`
+- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.90.0`
+- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.90.0`
+- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.90.0`
+- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.90.0`
+- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.90.0`
+- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.90.0`
+- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.90.0`
+- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.90.0`
+- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.90.0`
+- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.90.0`
+- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.90.0`
+- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.90.0`
+- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.90.0`
+- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.90.0`
+- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.90.0`
+- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.90.0`
+- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.90.0`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
 - :dvd: `com.networknt.basic.auth` :left_right_arrow: `com.networknt:basic-auth:2.0.0`
@@ -1882,23 +1882,23 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
-- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:1.10.1`
-- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:1.10.1`
-- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:1.10.1`
-- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:1.10.1`
-- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:1.10.1`
-- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:1.10.1`
-- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:1.10.1`
-- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:1.10.1`
-- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:1.10.1`
-- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:1.10.1`
-- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:1.10.1`
-- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:1.10.1`
-- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:1.10.1`
-- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:1.10.1`
-- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:1.10.1`
-- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:1.10.1`
-- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:1.10.1`
+- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:1.10.2`
+- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:1.10.2`
+- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:1.10.2`
+- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:1.10.2`
+- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:1.10.2`
+- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:1.10.2`
+- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:1.10.2`
+- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:1.10.2`
+- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:1.10.2`
+- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:1.10.2`
+- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:1.10.2`
+- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:1.10.2`
+- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:1.10.2`
+- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:1.10.2`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:1.10.2`
+- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:1.10.2`
+- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:1.10.2`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8-osgi:1.4.1`
 - :cd: `net.objectlab.kit.datecalc.common` :left_right_arrow: `net.objectlab.kit:datecalc-common:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
@@ -1990,7 +1990,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.commons.collections4` :left_right_arrow: `org.apache.commons:commons-collections4:4.3`
 - :cd: `org.apache.commons.compress` :left_right_arrow: `org.apache.commons:commons-compress:1.18`
 - :cd: `org.apache.commons.configuration2` :left_right_arrow: `org.apache.commons:commons-configuration2:2.4`
-- :cd: `org.apache.commons.lang3` :left_right_arrow: `org.apache.commons:commons-lang3:3.8.1`
+- :cd: `org.apache.commons.lang3` :left_right_arrow: `org.apache.commons:commons-lang3:3.9`
 - :cd: `org.apache.commons.rdf.api` :left_right_arrow: `org.apache.commons:commons-rdf-api:0.5.0`
 - :cd: `org.apache.commons.rdf.jena` :left_right_arrow: `org.apache.commons:commons-rdf-jena:0.5.0`
 - :cd: `org.apache.commons.rdf.jsonldjava` :left_right_arrow: `org.apache.commons:commons-rdf-jsonld-java:0.5.0`
