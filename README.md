@@ -1,19 +1,19 @@
 # sormuras/modules
-Counted 4020 Java modules published at Maven Central
+Counted 4021 Java modules published at Maven Central
 
-## Summary 2019-04-15T07:23:38.802945Z
+## Summary 2019-04-16T07:24:06.712872Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-15T07:23:38.802945Z
-Scanned 19049 files in 2 seconds.
+Started scan at 2019-04-16T07:24:06.712872Z
+Scanned 19128 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_15_06_47_17.csv
+    last -> modulescanner-report-2019_04_16_06_52_52.csv
 
-Counted 42166 module-related lines.
-Collected 4020 unique modules.
-Found 3125 automatic modules. :cd:
+Counted 42210 module-related lines.
+Collected 4021 unique modules.
+Found 3126 automatic modules. :cd:
 Found 895 explicit modules. :dvd:
 
 ## Samples
@@ -87,11 +87,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4734](suspicious/syntax.md)
+- Invalid module names: [4736](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8575](suspicious/naming.md)
-- Modular impostors: [1653](suspicious/impostors.md)
+- Modular impostors: [1654](suspicious/impostors.md)
 
-## Unique Modules (4020)
+## Unique Modules (4021)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -265,6 +265,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.2`
+- :cd: `com.codemonkeylab.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.0.3`
 - :cd: `com.cosium.spring.data.jpa.entity.graph` :left_right_arrow: `com.cosium.spring.data:spring-data-jpa-entity-graph:2.0.7`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.19`
 - :cd: `com.couchbase.client.core` :left_right_arrow: `com.couchbase.client:core-io:1.7.4`
@@ -289,7 +290,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.17`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-netty:4.2.13`
-- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.13`
+- :cd: `com.emc.mongoose.storage.driver.coop.netty.http` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-http:4.2.14`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.atmos` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-atmos:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.coop.netty.http.s3` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-s3:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.coop.nio` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-nio:4.2.11`
@@ -1117,7 +1118,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
 - :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.7.0`
-- :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.0.1`
+- :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.0.2`
 - :cd: `com.remondis.remap` :left_right_arrow: `com.remondis:remap:4.1.8`
 - :cd: `com.reprezen.rapidml` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml:0.0.9`
 - :cd: `com.reprezen.rapidml.model` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml.model:0.0.9`
@@ -1326,8 +1327,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.1`
 - :cd: `eu.mihosoft.vcollections` :left_right_arrow: `eu.mihosoft.vcollections:vcollections:0.3.3`
 - :cd: `eu.mihosoft.vmf` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.0.1`
-- :cd: `eu.mihosoft.vmf.core` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.6`
-- :cd: `eu.mihosoft.vmf.runtime` :left_right_arrow: `eu.mihosoft.vmf:vmf-runtime:0.2.6`
+- :cd: `eu.mihosoft.vmf.core` :left_right_arrow: `eu.mihosoft.vmf:vmf:0.2.6.1`
+- :cd: `eu.mihosoft.vmf.runtime` :left_right_arrow: `eu.mihosoft.vmf:vmf-runtime:0.2.6.1`
 - :cd: `eu.toop.commons` :left_right_arrow: `eu.toop:toop-commons:0.10.0`
 - :cd: `eu.toop.commons.schematron` :left_right_arrow: `eu.toop:toop-schematron:0.10.0`
 - :cd: `eu.toop.connector.api` :left_right_arrow: `eu.toop:toop-connector-api:0.10.1`
@@ -1458,7 +1459,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`
 - :cd: `io.github.scambon.cliwrapper4j` :left_right_arrow: `io.github.scambon:io.github.scambon.cliwrapper4j:1.0.1`
 - :cd: `io.github.soc.directories` :left_right_arrow: `io.github.soc:directories:11`
-- :dvd: `io.github.sskorol.testdatasupplier` :left_right_arrow: `io.github.sskorol:test-data-supplier:1.8.3`
+- :dvd: `io.github.sskorol.testdatasupplier` :left_right_arrow: `io.github.sskorol:test-data-supplier:1.8.5`
 - :dvd: `io.github.threetenjaxb.core` :left_right_arrow: `io.github.threeten-jaxb:threeten-jaxb-core:1.2`
 - :dvd: `io.github.tomdw.java.modules.spring.integration.tests` :left_right_arrow: `io.github.tomdw.java.modules.spring:integration-tests:0.0.1`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.1`
@@ -1550,7 +1551,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.webserver.netty` :left_right_arrow: `io.helidon.webserver:helidon-webserver-netty:0.10.5`
 - :dvd: `io.helidon.webserver.prometheus` :left_right_arrow: `io.helidon.webserver:helidon-webserver-prometheus:0.10.5`
 - :dvd: `io.helidon.webserver.zipkin` :left_right_arrow: `io.helidon.webserver:helidon-webserver-zipkin:0.10.5`
-- :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.8.6`
+- :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
 - :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:2.8.0`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:4.4.0`
 - :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:4.4.0`
@@ -1707,11 +1708,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.qameta.allure.springweb` :left_right_arrow: `io.qameta.allure:allure-spring-web:2.10.0`
 - :cd: `io.qameta.allure.testng` :left_right_arrow: `io.qameta.allure:allure-testng:2.10.0`
 - :cd: `io.reactivex.rxjava2` :left_right_arrow: `io.reactivex.rxjava2:rxjava:2.2.8`
-- :cd: `io.sarl.core` :left_right_arrow: `io.sarl:io.sarl.core:0.8.6`
-- :cd: `io.sarl.javafx` :left_right_arrow: `io.sarl:io.sarl.javafx:0.8.6`
-- :cd: `io.sarl.lang` :left_right_arrow: `io.sarl.lang:io.sarl.lang:0.8.6`
-- :cd: `io.sarl.lang.core` :left_right_arrow: `io.sarl.lang:io.sarl.lang.core:0.8.6`
-- :cd: `io.sarl.util` :left_right_arrow: `io.sarl:io.sarl.util:0.8.6`
+- :cd: `io.sarl.core` :left_right_arrow: `io.sarl:io.sarl.core:0.9.0`
+- :cd: `io.sarl.javafx` :left_right_arrow: `io.sarl:io.sarl.javafx:0.9.0`
+- :cd: `io.sarl.lang` :left_right_arrow: `io.sarl.lang:io.sarl.lang:0.9.0`
+- :cd: `io.sarl.lang.core` :left_right_arrow: `io.sarl.lang:io.sarl.lang.core:0.9.0`
+- :cd: `io.sarl.util` :left_right_arrow: `io.sarl:io.sarl.util:0.9.0`
 - :cd: `io.sentry` :left_right_arrow: `io.sentry:sentry:1.7.22`
 - :cd: `io.sentry.android` :left_right_arrow: `io.sentry:sentry-android:1.7.22`
 - :cd: `io.sentry.log4j` :left_right_arrow: `io.sentry:sentry-log4j:1.7.22`
@@ -1802,7 +1803,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.6.1`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.6.3`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
@@ -2908,27 +2909,27 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.0`
 - :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.0`
 - :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.0`
-- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.17.1`
-- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.17.1`
-- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.17.1`
-- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.17.1`
-- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.17.1`
-- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.17.1`
-- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.17.1`
-- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.17.1`
-- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.17.1`
-- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.17.1`
-- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.17.1`
-- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.17.1`
-- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.17.1`
-- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.17.1`
-- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.17.1`
-- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.17.1`
-- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.17.1`
-- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.17.1`
-- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.17.1`
-- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.17.1`
-- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.17.1`
+- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M1`
+- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M1`
+- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M1`
+- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.18.0.M1`
+- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.18.0.M1`
+- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.18.0.M1`
+- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.18.0.M1`
+- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.18.0.M1`
+- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.18.0.M1`
+- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.18.0.M1`
+- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.18.0.M1`
+- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.18.0.M1`
+- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.18.0.M1`
+- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.18.0.M1`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.3`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.9`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta`
@@ -3139,12 +3140,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.26`
 - :cd: `org.json` :left_right_arrow: `org.json:json:20180813`
 - :cd: `org.jsoup` :left_right_arrow: `org.jsoup:jsoup:1.11.3`
-- :cd: `org.jtransfo` :left_right_arrow: `org.jtransfo:jtransfo-core:2.8`
-- :cd: `org.jtransfo.cdi` :left_right_arrow: `org.jtransfo:jtransfo-cdi:2.8`
-- :cd: `org.jtransfo.demo` :left_right_arrow: `org.jtransfo:jtransfo-demo:2.8`
-- :cd: `org.jtransfo.hibernate` :left_right_arrow: `org.jtransfo:jtransfo-hibernate:2.8`
-- :cd: `org.jtransfo.jodatime` :left_right_arrow: `org.jtransfo:jtransfo-joda-time:2.8`
-- :cd: `org.jtransfo.spring` :left_right_arrow: `org.jtransfo:jtransfo-spring:2.8`
+- :cd: `org.jtransfo` :left_right_arrow: `org.jtransfo:jtransfo-core:2.9`
+- :cd: `org.jtransfo.cdi` :left_right_arrow: `org.jtransfo:jtransfo-cdi:2.9`
+- :cd: `org.jtransfo.demo` :left_right_arrow: `org.jtransfo:jtransfo-demo:2.9`
+- :cd: `org.jtransfo.hibernate` :left_right_arrow: `org.jtransfo:jtransfo-hibernate:2.9`
+- :cd: `org.jtransfo.jodatime` :left_right_arrow: `org.jtransfo:jtransfo-joda-time:2.9`
+- :cd: `org.jtransfo.spring` :left_right_arrow: `org.jtransfo:jtransfo-spring:2.9`
 - :cd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.0-M1`
 - :cd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.0-M1`
 - :cd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.0-M1`
@@ -3702,7 +3703,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:1.8.0-beta4`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:1.8.0-beta4`
 - :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.1.0`
-- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.1.0`
+- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.1.1`
 - :cd: `org.softsmithy.devlib.core` :left_right_arrow: `org.softsmithy.devlib:softsmithy-devlib-core:2.0`
 - :cd: `org.softsmithy.lib.awt` :left_right_arrow: `org.softsmithy.lib:softsmithy-lib-awt:2.0`
 - :cd: `org.softsmithy.lib.beans` :left_right_arrow: `org.softsmithy.lib:softsmithy-lib-beans:2.0`
