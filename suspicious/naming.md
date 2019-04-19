@@ -1366,6 +1366,7 @@
 - :cd: `beta.jboss.concurrency.api_1_0` :left_right_arrow: `org.jboss.spec.javax.enterprise.concurrent:jboss-concurrency-api_1.0_spec:1.0.2.Final` // `org.jboss.spec.javax.enterprise.concurrent,jboss-concurrency-api_1.0_spec,1.0.2.Final,beta.jboss.concurrency.api_1_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.connector.api_1_7` :left_right_arrow: `org.jboss.spec.javax.resource:jboss-connector-api_1.7_spec:1.0.1.Final` // `org.jboss.spec.javax.resource,jboss-connector-api_1.7_spec,1.0.1.Final,beta.jboss.connector.api_1_7,-,automatic,-,false,-`
 - :cd: `beta.jboss.ejb.api_3_2` :left_right_arrow: `org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.1.Final` // `org.jboss.spec.javax.ejb,jboss-ejb-api_3.2_spec,1.0.1.Final,beta.jboss.ejb.api_3_2,-,automatic,-,false,-`
+- :cd: `beta.jboss.ejb.api_3_2` :left_right_arrow: `org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.2.Final` // `org.jboss.spec.javax.ejb,jboss-ejb-api_3.2_spec,1.0.2.Final,beta.jboss.ejb.api_3_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.el.api_3_0` :left_right_arrow: `org.jboss.spec.javax.el:jboss-el-api_3.0_spec:1.0.12.Final` // `org.jboss.spec.javax.el,jboss-el-api_3.0_spec,1.0.12.Final,beta.jboss.el.api_3_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.el.api_3_0` :left_right_arrow: `org.jboss.spec.javax.el:jboss-el-api_3.0_spec:1.0.13.Final` // `org.jboss.spec.javax.el,jboss-el-api_3.0_spec,1.0.13.Final,beta.jboss.el.api_3_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.interceptor.api_1_2` :left_right_arrow: `org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec:1.0.1.Final` // `org.jboss.spec.javax.interceptor,jboss-interceptors-api_1.2_spec,1.0.1.Final,beta.jboss.interceptor.api_1_2,-,automatic,-,false,-`
@@ -3987,6 +3988,7 @@
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.7.0` // `net.officefloor.eclipse,net.officefloor.core,3.7.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.8.0` // `net.officefloor.eclipse,net.officefloor.core,3.8.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.0` // `net.officefloor.eclipse,net.officefloor.core,3.9.0,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.1` // `net.officefloor.eclipse,net.officefloor.core,3.9.1,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.0.0` // `net.officefloor.eclipse,net.officefloor.woof,3.0.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.1.0` // `net.officefloor.eclipse,net.officefloor.woof,3.1.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.2.0` // `net.officefloor.eclipse,net.officefloor.woof,3.2.0,net.officefloor.woof,-,automatic,-,false,-`
@@ -3999,6 +4001,7 @@
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.7.0` // `net.officefloor.eclipse,net.officefloor.woof,3.7.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.8.0` // `net.officefloor.eclipse,net.officefloor.woof,3.8.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.0` // `net.officefloor.eclipse,net.officefloor.woof,3.9.0,net.officefloor.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.1` // `net.officefloor.eclipse,net.officefloor.woof,3.9.1,net.officefloor.woof,-,automatic,-,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.54` // `com.jwebmp,uadetector-core,0.63.0.54,net.sf.uadetector.core,0.63.0.54,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.60` // `com.jwebmp,uadetector-core,0.63.0.60,net.sf.uadetector.core,0.63.0.60,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
 - :dvd: `net.sf.uadetector.core` :left_right_arrow: `com.jwebmp:uadetector-core:0.63.0.61` // `com.jwebmp,uadetector-core,0.63.0.61,net.sf.uadetector.core,0.63.0.61,explicit,java.activation + java.base + java.logging + java.validation + java.xml,false,-`
@@ -6786,6 +6789,7 @@
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.2.0` // `org.kordamp.ikonli,ikonli-core,11.2.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.0` // `org.kordamp.ikonli,ikonli-core,11.3.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.1` // `org.kordamp.ikonli,ikonli-core,11.3.1,org.kordamp.iconli.core,-,explicit,java.base,false,-`
+- :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.3` // `org.kordamp.ikonli,ikonli-core,11.3.3,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1` // `org.rotstan.jts,jts-lab,1.16.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1.1` // `org.rotstan.jts,jts-lab,1.16.1.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :dvd: `org.lwjgl.assimp.natives` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1,org.lwjgl.assimp.natives,-,explicit,java.base + org.lwjgl.assimp,false,-`
@@ -7043,22 +7047,27 @@
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:7.0.2.java7legacy` // `org.protelis,protelis.parser,7.0.2.java7legacy,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:8.0.0.java7legacy` // `org.protelis,protelis.parser,8.0.0.java7legacy,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:8.1.0.java7legacy` // `org.protelis,protelis.parser,8.1.0.java7legacy,protelis.parser,-,automatic,-,false,-`
+- :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:8.2.0.java7legacy` // `org.protelis,protelis.parser,8.2.0.java7legacy,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:7.0.0.java7legacy` // `org.protelis,protelis.parser.ide,7.0.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:7.0.2.java7legacy` // `org.protelis,protelis.parser.ide,7.0.2.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:8.0.0.java7legacy` // `org.protelis,protelis.parser.ide,8.0.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:8.1.0.java7legacy` // `org.protelis,protelis.parser.ide,8.1.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
+- :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:8.2.0.java7legacy` // `org.protelis,protelis.parser.ide,8.2.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:7.0.0.java7legacy` // `org.protelis,protelis.parser.tests,7.0.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:7.0.2.java7legacy` // `org.protelis,protelis.parser.tests,7.0.2.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:8.0.0.java7legacy` // `org.protelis,protelis.parser.tests,8.0.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:8.1.0.java7legacy` // `org.protelis,protelis.parser.tests,8.1.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
+- :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:8.2.0.java7legacy` // `org.protelis,protelis.parser.tests,8.2.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:7.0.0.java7legacy` // `org.protelis,protelis.parser.ui,7.0.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:7.0.2.java7legacy` // `org.protelis,protelis.parser.ui,7.0.2.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:8.0.0.java7legacy` // `org.protelis,protelis.parser.ui,8.0.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:8.1.0.java7legacy` // `org.protelis,protelis.parser.ui,8.1.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
+- :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:8.2.0.java7legacy` // `org.protelis,protelis.parser.ui,8.2.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:7.0.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,7.0.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:7.0.2.java7legacy` // `org.protelis,protelis.parser.ui.tests,7.0.2.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:8.0.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,8.0.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:8.1.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,8.1.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
+- :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:8.2.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,8.2.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `purej.cfg` :left_right_arrow: `com.purej:purej-cfg:1.2` // `com.purej,purej-cfg,1.2,purej.cfg,-,automatic,-,false,-`
 - :cd: `purej.jrobin` :left_right_arrow: `com.purej:jrobin:1.7.0` // `com.purej,jrobin,1.7.0,purej.jrobin,-,automatic,-,false,-`
 - :cd: `purej.jrobin` :left_right_arrow: `com.purej:jrobin:1.7.1` // `com.purej,jrobin,1.7.1,purej.jrobin,-,automatic,-,false,-`
@@ -8532,6 +8541,7 @@
 - :dvd: `tm.bitronix.btm` :left_right_arrow: `com.jwebmp.jre11:btm:0.63.0.19` // `com.jwebmp.jre11,btm,0.63.0.19,tm.bitronix.btm,-,explicit,beta.jboss.rmi.api_1_0 + cglib + java.base + java.management + java.management.rmi + java.naming + java.sql + java.transaction + java.transaction.xa + javassist + jms,false,-`
 - :dvd: `toberkoe.pluto` :left_right_arrow: `de.toberkoe:pluto:0.3` // `de.toberkoe,pluto,0.3,toberkoe.pluto,-,explicit,log4j + hibernate.core + org.mockito + org.junit.jupiter.api + java.base + java.sql + java.annotation + hsqldb + java.persistence + javax.inject + javafx.base + java.naming + javax.ejb.api,true,-`
 - :cd: `typesafe.config` :left_right_arrow: `com.typesafe:config:1.3.3` // `com.typesafe,config,1.3.3,typesafe.config,-,automatic,-,false,-`
+- :cd: `typesafe.config` :left_right_arrow: `com.typesafe:config:1.3.4` // `com.typesafe,config,1.3.4,typesafe.config,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.1` // `uk.co.real-logic,sbe-all,1.12.1,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.2` // `uk.co.real-logic,sbe-all,1.12.2,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.3` // `uk.co.real-logic,sbe-all,1.12.3,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
