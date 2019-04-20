@@ -2988,9 +2988,11 @@
 - :cd: `com.sun.jna` :left_right_arrow: `net.java.dev.jna:jna:5.0.0` // `net.java.dev.jna,jna,5.0.0,com.sun.jna,-,automatic,-,false,-`
 - :cd: `com.sun.jna` :left_right_arrow: `net.java.dev.jna:jna:5.1.0` // `net.java.dev.jna,jna,5.1.0,com.sun.jna,-,automatic,-,false,-`
 - :cd: `com.sun.jna` :left_right_arrow: `net.java.dev.jna:jna:5.2.0` // `net.java.dev.jna,jna,5.2.0,com.sun.jna,-,automatic,-,false,-`
+- :cd: `com.sun.jna` :left_right_arrow: `net.java.dev.jna:jna:5.3.0` // `net.java.dev.jna,jna,5.3.0,com.sun.jna,-,automatic,-,false,-`
 - :cd: `com.sun.jna.platform` :left_right_arrow: `net.java.dev.jna:jna-platform:5.0.0` // `net.java.dev.jna,jna-platform,5.0.0,com.sun.jna.platform,-,automatic,-,false,-`
 - :cd: `com.sun.jna.platform` :left_right_arrow: `net.java.dev.jna:jna-platform:5.1.0` // `net.java.dev.jna,jna-platform,5.1.0,com.sun.jna.platform,-,automatic,-,false,-`
 - :cd: `com.sun.jna.platform` :left_right_arrow: `net.java.dev.jna:jna-platform:5.2.0` // `net.java.dev.jna,jna-platform,5.2.0,com.sun.jna.platform,-,automatic,-,false,-`
+- :cd: `com.sun.jna.platform` :left_right_arrow: `net.java.dev.jna:jna-platform:5.3.0` // `net.java.dev.jna,jna-platform,5.3.0,com.sun.jna.platform,-,automatic,-,false,-`
 - :dvd: `com.sun.tools.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-tools:2.3.1` // `com.sun.xml.ws,jaxws-tools,2.3.1,com.sun.tools.jaxws,-,explicit,java.xml.ws + java.xml.bind + java.base + javax.jws + com.sun.tools.xjc + com.sun.istack.tools + java.logging + java.compiler + java.xml + com.sun.tools.jxc + com.sun.istack.runtime + com.sun.codemodel + com.sun.xml.ws.policy + com.sun.xml.ws + java.rmi + com.sun.xml.xsom,true,-`
 - :dvd: `com.sun.tools.jaxws` :left_right_arrow: `org.glassfish.metro:webservices-tools:2.4.2` // `org.glassfish.metro,webservices-tools,2.4.2,com.sun.tools.jaxws,-,explicit,java.xml.ws + java.xml.bind + java.base + javax.jws + com.sun.tools.xjc + com.sun.istack.tools + java.logging + java.compiler + java.xml + com.sun.tools.jxc + com.sun.istack.runtime + com.sun.codemodel + com.sun.xml.ws.policy + com.sun.xml.ws + java.rmi + com.sun.xml.xsom,true,-`
 - :dvd: `com.sun.tools.jaxws` :left_right_arrow: `org.glassfish.metro:webservices-tools:2.4.2` // `org.glassfish.metro,webservices-tools,2.4.2,com.sun.tools.jaxws,-,explicit,java.xml.ws + java.xml.bind + javax.jws + com.sun.tools.xjc + com.sun.istack.tools + java.logging + java.base + java.compiler + java.xml + com.sun.tools.jxc + com.sun.istack.runtime + com.sun.codemodel + com.sun.xml.ws.policy + com.sun.xml.ws + java.rmi + com.sun.xml.xsom,true,-`
@@ -3226,6 +3228,7 @@
 - :cd: `igormaznitsa.jbbp` :left_right_arrow: `com.igormaznitsa:jbbp:1.4.1` // `com.igormaznitsa,jbbp,1.4.1,igormaznitsa.jbbp,-,automatic,-,false,-`
 - :cd: `igormaznitsa.jcp` :left_right_arrow: `com.igormaznitsa:jcp:6.1.4` // `com.igormaznitsa,jcp,6.1.4,igormaznitsa.jcp,-,automatic,-,false,-`
 - :cd: `igormaznitsa.jcp` :left_right_arrow: `com.igormaznitsa:jcp:7.0.0` // `com.igormaznitsa,jcp,7.0.0,igormaznitsa.jcp,-,automatic,-,false,-`
+- :cd: `igormaznitsa.jcp` :left_right_arrow: `com.igormaznitsa:jcp:7.0.1` // `com.igormaznitsa,jcp,7.0.1,igormaznitsa.jcp,-,automatic,-,false,-`
 - :cd: `igormaznitsa.meta.annotations` :left_right_arrow: `com.igormaznitsa:meta-annotations:1.1.3` // `com.igormaznitsa,meta-annotations,1.1.3,igormaznitsa.meta.annotations,-,automatic,-,false,-`
 - :cd: `igormaznitsa.meta.utils` :left_right_arrow: `com.igormaznitsa:meta-utils:1.1.3` // `com.igormaznitsa,meta-utils,1.1.3,igormaznitsa.meta.utils,-,automatic,-,false,-`
 - :cd: `igormaznitsa.mmd.model` :left_right_arrow: `com.igormaznitsa:mind-map-model:1.2.5` // `com.igormaznitsa,mind-map-model,1.2.5,igormaznitsa.mmd.model,-,automatic,-,false,-`
@@ -3493,6 +3496,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.91.0` // `org.finra.herd,herd-downloader,0.91.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.92.0` // `org.finra.herd,herd-downloader,0.92.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.93.0` // `org.finra.herd,herd-downloader,0.93.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.94.0` // `org.finra.herd,herd-downloader,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -3501,6 +3505,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.91.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.91.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.92.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.92.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.93.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.93.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.94.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -3509,6 +3514,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.91.0` // `org.finra.herd,herd-retention-expiration-exporter,0.91.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.92.0` // `org.finra.herd,herd-retention-expiration-exporter,0.92.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.93.0` // `org.finra.herd,herd-retention-expiration-exporter,0.93.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.94.0` // `org.finra.herd,herd-retention-expiration-exporter,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -3517,6 +3523,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.91.0` // `org.finra.herd,herd-uploader,0.91.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.92.0` // `org.finra.herd,herd-uploader,0.92.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.93.0` // `org.finra.herd,herd-uploader,0.93.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.94.0` // `org.finra.herd,herd-uploader,0.94.0,java.json,-,explicit,java.base,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:jakarta.json:1.1.5` // `org.glassfish,jakarta.json,1.1.5,java.json,-,automatic,-,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.4` // `org.glassfish,javax.json,1.1.4,java.json,-,automatic,-,false,-`
 - :dvd: `java.json.bind` :left_right_arrow: `io.zeleo.application:zeleo-application-library:1.0.1` // `io.zeleo.application,zeleo-application-library,1.0.1,java.json.bind,-,explicit,java.base + java.json + java.logging,false,-`
@@ -3752,6 +3759,7 @@
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp.thirdparty:javax.inject:0.67.0.3` // `com.jwebmp.thirdparty,javax.inject,0.67.0.3,javax.inject,0.67.0.3,explicit,java.base,false,-`
 - :cd: `javax.jdo` :left_right_arrow: `org.datanucleus:javax.jdo:3.2.0-m10` // `org.datanucleus,javax.jdo,3.2.0-m10,javax.jdo,-,automatic,-,false,-`
 - :cd: `javax.jdo` :left_right_arrow: `org.datanucleus:javax.jdo:3.2.0-m11` // `org.datanucleus,javax.jdo,3.2.0-m11,javax.jdo,-,automatic,-,false,-`
+- :cd: `javax.jdo` :left_right_arrow: `org.datanucleus:javax.jdo:3.2.0-m12` // `org.datanucleus,javax.jdo,3.2.0-m12,javax.jdo,-,automatic,-,false,-`
 - :cd: `javax.jdo` :left_right_arrow: `org.datanucleus:javax.jdo:3.2.0-m9` // `org.datanucleus,javax.jdo,3.2.0-m9,javax.jdo,-,automatic,-,false,-`
 - :cd: `javax.persistence` :left_right_arrow: `org.datanucleus:javax.persistence:2.2.2` // `org.datanucleus,javax.persistence,2.2.2,javax.persistence,-,automatic,-,false,-`
 - :cd: `jbase` :left_right_arrow: `net.sf.xtext-jbase:jbase:0.9.0` // `net.sf.xtext-jbase,jbase,0.9.0,jbase,-,automatic,-,false,-`
