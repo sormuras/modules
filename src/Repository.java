@@ -29,9 +29,12 @@ public class Repository {
   public static void main(String... args) throws Exception {
     var repository = new Repository(HOME.resolve(".java/modules"));
     // repository.putAll(HOME.resolve(".m2/repository"));
+    // repository.putAll(HOME.resolve(".gradle/caches/modules-2/files-2.1"));
     System.out.println();
-    repository.references.forEach((key, value) -> System.out.println("  " + key + " -> " + value + " + " + value.descriptor()));
+    repository.references.forEach(
+        (key, ref) -> System.out.println("  " + key + " -> " + ref + " + " + ref.descriptor()));
     System.out.println();
+    System.out.println(repository.references.size() + " modules in " + repository.root.toUri());
     System.out.println(repository.get("org.objectweb.asm", "7.0.0"));
   }
 
