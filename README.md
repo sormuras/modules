@@ -1,20 +1,23 @@
 # sormuras/modules
-Counted 4057 Java modules published at Maven Central
+Counted 4058 Java modules published at Maven Central
 
-## Summary 2019-04-21T22:04:34.026450Z
+## Summary 2019-04-22T22:04:46.182279Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-21T22:04:34.026450Z
-Scanned 19609 files in 2 seconds.
+Started scan at 2019-04-22T22:04:46.182279Z
+Scanned 19,693 files in 1 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_21_21_50_23.csv
+    last -> modulescanner-report-2019_04_22_21_54_32.csv
 
-Counted 43880 module-related lines.
-Collected 4057 unique modules.
-Found 3160 automatic modules. :cd:
-Found 897 explicit modules. :dvd:
+Parsed 1,180,662 lines in total.
+  69,689 -> duplicates skipped
+  43,892 -> module related
+
+Collected 4,058 unique modules.
+  automatic :cd: -> 3,160
+  explicit :dvd: -> 898
 
 ## Samples
             junit -> junit:junit:4.13-beta-2
@@ -89,9 +92,9 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [4772](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8726](suspicious/naming.md)
-- Modular impostors: [2050](suspicious/impostors.md)
+- Modular impostors: [2053](suspicious/impostors.md)
 
-## Unique Modules (4057)
+## Unique Modules (4058)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -110,7 +113,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.3`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.3`
-- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.3`
+- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.4`
 - :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.1.1`
 - :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.2`
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.5`
@@ -383,11 +386,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.13.6`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.13.6`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.13.6`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.13.6`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.13.6`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.13.9`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.13.9`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.13.9`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.13.9`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.13.9`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.0`
@@ -465,7 +468,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.6`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.1`
-- :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.9.0`
+- :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.9.1`
 - :cd: `com.google.common` :left_right_arrow: `com.google.guava:guava:27.1-jre`
 - :cd: `com.google.googlejavaformat` :left_right_arrow: `com.google.googlejavaformat:google-java-format:1.7`
 - :cd: `com.h2database` :left_right_arrow: `com.h2database:h2:1.4.199`
@@ -696,7 +699,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` :left_right_arrow: `com.illucit:lucene-utils:1.1.2`
 - :cd: `com.imsweb.algorithms` :left_right_arrow: `com.imsweb:algorithms:1.21`
-- :cd: `com.imsweb.algorithms.staging` :left_right_arrow: `com.imsweb:staging-client-java:4.5`
+- :cd: `com.imsweb.algorithms.staging` :left_right_arrow: `com.imsweb:staging-client-java:4.6`
 - :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.11`
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.11`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.19`
@@ -1748,6 +1751,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.vavr.match.processor` :left_right_arrow: `io.vavr:vavr-match-processor:0.10.0`
 - :cd: `io.vavr.test` :left_right_arrow: `io.vavr:vavr-test:0.10.0`
 - :dvd: `io.vulpine.lib.http` :left_right_arrow: `io.vulpine.lib:http:0.3.0`
+- :dvd: `io.vulpine.lib.json.schema.builder` :left_right_arrow: `io.vulpine.lib:json-schema-builder:1.1.0`
 - :dvd: `io.vulpine.lib.sql.load` :left_right_arrow: `io.vulpine.lib:java-sql-import:0.2.0`
 - :cd: `io.webfolder.cdp4j` :left_right_arrow: `io.webfolder:cdp4j:3.0.8`
 - :cd: `io.webfolder.edp4j` :left_right_arrow: `io.webfolder:edp4j:1.0.0`
