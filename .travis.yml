@@ -32,4 +32,6 @@ env:
 
 notifications:
   email:
+    recipients:
+      - sormuras@gmail.com
     on_success: always

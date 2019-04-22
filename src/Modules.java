@@ -53,14 +53,16 @@ public class Modules {
     for (var path : summary.paths) {
       logger.log(DEBUG, "Reading all lines: {0}", path);
       for (var line : Files.readAllLines(path)) {
+        summary.linesCounter++;
         if (line.equals(
             "groupId,artifactId,version,moduleName,moduleVersion,moduleMode,moduleDependencies,jdepsToolError,jdepsViolations")) {
           continue; // skip caption line
         }
-        if (line.contains(",?,")) {
+        if (line.contains(",-,-,?,-,")) {
           continue; // skip plain jars - not automatic, nor explicit
         }
         if (summary.lines.contains(line)) {
+          summary.linesDuplicateCounter++;
           continue; // skip duplicated line
         }
         summary.lines.add(line);
@@ -252,6 +254,9 @@ public class Modules {
     /** Unique line set. */
     final Set<String> lines = new HashSet<>();
 
+    long linesCounter = 0L;
+    long linesDuplicateCounter = 0L;
+
     final Set<Module> suspiciousImpostors = new TreeSet<>();
     final Set<Module> suspiciousNaming = new TreeSet<>();
     final Set<Module> suspiciousSyntax = new TreeSet<>();
@@ -271,14 +276,17 @@ public class Modules {
           "## Summary",
           "",
           String.format("Started scan at %s", startInstant),
-          String.format("Scanned %d files in %d seconds.", paths.size(), duration),
+          String.format("Scanned %,d files in %d seconds.", paths.size(), duration),
           String.format("   first -> %s", paths.get(0).getFileName()),
           String.format("    last -> %s", paths.get(paths.size() - 1).getFileName()),
           "",
-          String.format("Counted %d module-related lines.", lines.size()),
-          String.format("Collected %d unique modules.", modules.size()),
-          String.format("Found %d automatic modules. :cd:", automatics.size()),
-          String.format("Found %d explicit modules. :dvd:", explicits.size()),
+          String.format("Parsed %,d lines in total.", linesCounter),
+          String.format("  %,d -> duplicates skipped", linesDuplicateCounter),
+          String.format("  %,d -> module related", lines.size()),
+          "",
+          String.format("Collected %,d unique modules.", modules.size()),
+          String.format("  automatic :cd: -> %,d", automatics.size()),
+          String.format("  explicit :dvd: -> %,d", explicits.size()),
           "",
           "## Samples",
           sample("junit"),
