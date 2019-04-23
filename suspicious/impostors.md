@@ -1313,6 +1313,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.01` // `com.proofpoint.platform,jaxrs,2.01,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.02` // `com.proofpoint.platform,jaxrs,2.02,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.03` // `com.proofpoint.platform,jaxrs,2.03,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.04` // `com.proofpoint.platform,jaxrs,2.04,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2016,6 +2017,7 @@
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.70` // `com.rookout,rook,0.1.70,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.71` // `com.rookout,rook,0.1.71,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.72` // `com.rookout,rook,0.1.72,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.73` // `com.rookout,rook,0.1.73,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :cd: `org.opendaylight.yangtools.yang.parser.reactor` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-rfc7950:3.0.0` // `org.opendaylight.yangtools,yang-parser-rfc7950,3.0.0,org.opendaylight.yangtools.yang.parser.reactor,-,automatic,-,false,-`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` :left_right_arrow: `org.rapidpm.vaadin:rapidpm-vaadin-cdi-m-impl:00.07.04-RPM` // `org.rapidpm.vaadin,rapidpm-vaadin-cdi-m-impl,00.07.04-RPM,org.rapidpm.vaadin.cdi_addon,-,explicit,flow.server + org.apache.meecrowave.specs + rapidpm.dependencies.core.logger + java.naming + java.base,true,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2051,3 +2053,4 @@
 - :dvd: `org.slf4j` :left_right_arrow: `io.wizzie.normalizer:service:0.7.3` // `io.wizzie.normalizer,service,0.7.3,org.slf4j,-,explicit,java.base,false,-`
 - :cd: `org.tukaani.xz` :left_right_arrow: `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-guice:1.1.0` // `se.l4.commons,commons-guice,1.1.0,se.l4.commons.guice,-,explicit,java.base + se.l4.commons.types + com.google.guice,true,-`
+- :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon.eventstream:eventstream:1.0.0` // `software.amazon.eventstream,eventstream,1.0.0,software.amazon.eventstream,-,automatic,-,false,-`

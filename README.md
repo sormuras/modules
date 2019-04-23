@@ -1,19 +1,19 @@
 # sormuras/modules
 Counted 4058 Java modules published at Maven Central
 
-## Summary 2019-04-22T22:04:46.182279Z
+## Summary 2019-04-23T22:05:03.030986Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-22T22:04:46.182279Z
-Scanned 19,693 files in 1 seconds.
+Started scan at 2019-04-23T22:05:03.030986Z
+Scanned 19,779 files in 1 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_22_21_54_32.csv
+    last -> modulescanner-report-2019_04_23_21_57_08.csv
 
-Parsed 1,180,662 lines in total.
-  69,689 -> duplicates skipped
-  43,892 -> module related
+Parsed 1,185,196 lines in total.
+  69,820 -> duplicates skipped
+  43,947 -> module related
 
 Collected 4,058 unique modules.
   automatic :cd: -> 3,160
@@ -90,9 +90,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4772](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8726](suspicious/naming.md)
-- Modular impostors: [2053](suspicious/impostors.md)
+- Invalid module names: [4776](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8735](suspicious/naming.md)
+- Modular impostors: [2056](suspicious/impostors.md)
 
 ## Unique Modules (4058)
 
@@ -589,9 +589,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.peppol.sbdh` :left_right_arrow: `com.helger:peppol-sbdh:6.2.3`
 - :cd: `com.helger.peppol.smlclient` :left_right_arrow: `com.helger:peppol-sml-client:6.2.3`
 - :cd: `com.helger.peppol.smpclient` :left_right_arrow: `com.helger:peppol-smp-client:6.2.3`
-- :cd: `com.helger.peppol.smpserver` :left_right_arrow: `com.helger:peppol-smp-server-library:5.1.0`
-- :cd: `com.helger.peppol.smpserver.data.sql` :left_right_arrow: `com.helger:peppol-smp-server-sql:5.1.0`
-- :cd: `com.helger.peppol.smpserver.data.xml` :left_right_arrow: `com.helger:peppol-smp-server-xml:5.1.0`
+- :cd: `com.helger.peppol.smpserver` :left_right_arrow: `com.helger:peppol-smp-server-library:5.1.1`
+- :cd: `com.helger.peppol.smpserver.data.sql` :left_right_arrow: `com.helger:peppol-smp-server-sql:5.1.1`
+- :cd: `com.helger.peppol.smpserver.data.xml` :left_right_arrow: `com.helger:peppol-smp-server-xml:5.1.1`
 - :cd: `com.helger.peppol.testfiles` :left_right_arrow: `com.helger:peppol-testfiles:6.2.3`
 - :cd: `com.helger.photon.atom` :left_right_arrow: `com.helger:ph-oton-atom:8.1.3`
 - :cd: `com.helger.photon.basic` :left_right_arrow: `com.helger:ph-oton-basic:8.1.3`
@@ -655,10 +655,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.1.0`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.5`
-- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.0.5`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.5`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.5`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.7`
+- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.0.7`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.7`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.7`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.2`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.3`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.3`
@@ -711,7 +711,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.seerutilsgui` :left_right_arrow: `com.imsweb:seerutils-gui:1.14`
 - :cd: `com.imsweb.staging.cs` :left_right_arrow: `com.imsweb:staging-algorithm-cs:02.05.50.2`
 - :cd: `com.imsweb.staging.tnm` :left_right_arrow: `com.imsweb:staging-algorithm-tnm:1.9.1`
-- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.6`
+- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.7`
 - :cd: `com.imsweb.x12` :left_right_arrow: `com.imsweb:x12-parser:1.5`
 - :cd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0011`
 - :cd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0011`
@@ -924,7 +924,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.6`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.0.jre11-preview`
-- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.1.1`
+- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.2.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.26`
 - :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.26`
@@ -933,28 +933,28 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.26`
 - :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.26`
 - :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.26`
-- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.90.0`
-- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.90.0`
-- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.90.0`
-- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.90.0`
-- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.90.0`
-- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.90.0`
-- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.90.0`
-- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.90.0`
-- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.90.0`
-- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.90.0`
-- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.90.0`
-- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.90.0`
-- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.90.0`
-- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.90.0`
-- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.90.0`
-- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.90.0`
-- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.90.0`
-- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.90.0`
-- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.90.0`
-- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.90.0`
-- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.90.0`
-- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.90.0`
+- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.91.0`
+- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.91.0`
+- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.91.0`
+- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.91.0`
+- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.91.0`
+- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.91.0`
+- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.91.0`
+- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.91.0`
+- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.91.0`
+- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.91.0`
+- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.91.0`
+- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.91.0`
+- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.91.0`
+- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.91.0`
+- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.91.0`
+- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.91.0`
+- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.91.0`
+- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.91.0`
+- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.91.0`
+- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.91.0`
+- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.91.0`
+- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.91.0`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
 - :dvd: `com.networknt.basic.auth` :left_right_arrow: `com.networknt:basic-auth:2.0.0`
@@ -1018,8 +1018,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.nextbreakpoint.sqltemplate` :left_right_arrow: `com.nextbreakpoint:com.nextbreakpoint.sqltemplate:1.5.2`
 - :cd: `com.nextbreakpoint.try4java` :left_right_arrow: `com.nextbreakpoint:com.nextbreakpoint.try4java:2.0.4`
 - :cd: `com.opengamma.elsql` :left_right_arrow: `com.opengamma:elsql:1.3`
-- :cd: `com.opengamma.sdk.common` :left_right_arrow: `com.opengamma.sdk:sdk-common:3.4.0`
-- :cd: `com.opengamma.sdk.margin` :left_right_arrow: `com.opengamma.sdk:sdk-margin:3.4.0`
+- :cd: `com.opengamma.sdk.common` :left_right_arrow: `com.opengamma.sdk:sdk-common:3.5.0`
+- :cd: `com.opengamma.sdk.margin` :left_right_arrow: `com.opengamma.sdk:sdk-margin:3.5.0`
 - :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.2.1`
 - :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.2.1`
 - :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.2.1`
@@ -2974,7 +2974,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.fusesource.hawtjni.runtime` :left_right_arrow: `org.fusesource.hawtjni:hawtjni-runtime:1.17`
 - :cd: `org.fusesource.jansi` :left_right_arrow: `org.fusesource.jansi:jansi:1.18`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:1.0.0-rc15`
+- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:1.0.0-rc16`
 - :cd: `org.greencheek.caching.herdcache` :left_right_arrow: `org.greencheek.caching:herdcache:2.0.14`
 - :cd: `org.hamcrest` :left_right_arrow: `org.hamcrest:hamcrest:2.1`
 - :cd: `org.hibernate.commons.annotations` :left_right_arrow: `org.hibernate.common:hibernate-commons-annotations:5.1.0.Final`
@@ -3174,7 +3174,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jparsec` :left_right_arrow: `org.jparsec:jparsec:3.1`
 - :cd: `org.jpos.jpos` :left_right_arrow: `org.jpos:jpos:2.1.2`
 - :cd: `org.jruby` :left_right_arrow: `org.jruby:jruby-core:9.2.7.0`
-- :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.43`
+- :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.44`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.26`
 - :cd: `org.json` :left_right_arrow: `org.json:json:20180813`
 - :cd: `org.jsoup` :left_right_arrow: `org.jsoup:jsoup:1.11.3`

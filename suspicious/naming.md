@@ -3656,6 +3656,7 @@
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+3` // `org.openjfx,javafx-base,13-ea+3,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+4` // `org.openjfx,javafx-base,13-ea+4,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+5` // `org.openjfx,javafx-base,13-ea+5,javafx.baseEmpty,-,automatic,-,false,-`
+- :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+6` // `org.openjfx,javafx-base,13-ea+6,javafx.baseEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11-ea+24` // `org.openjfx,javafx-controls,11-ea+24,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11-ea+25` // `org.openjfx,javafx-controls,11-ea+25,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:11.0.1-ea+1` // `org.openjfx,javafx-controls,11.0.1-ea+1,javafx.controlsEmpty,-,automatic,-,false,-`
@@ -3675,6 +3676,7 @@
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+3` // `org.openjfx,javafx-controls,13-ea+3,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+4` // `org.openjfx,javafx-controls,13-ea+4,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+5` // `org.openjfx,javafx-controls,13-ea+5,javafx.controlsEmpty,-,automatic,-,false,-`
+- :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+6` // `org.openjfx,javafx-controls,13-ea+6,javafx.controlsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11-ea+24` // `org.openjfx,javafx-fxml,11-ea+24,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11-ea+25` // `org.openjfx,javafx-fxml,11-ea+25,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:11.0.1-ea+1` // `org.openjfx,javafx-fxml,11.0.1-ea+1,javafx.fxmlEmpty,-,automatic,-,false,-`
@@ -3694,6 +3696,7 @@
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+3` // `org.openjfx,javafx-fxml,13-ea+3,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+4` // `org.openjfx,javafx-fxml,13-ea+4,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+5` // `org.openjfx,javafx-fxml,13-ea+5,javafx.fxmlEmpty,-,automatic,-,false,-`
+- :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+6` // `org.openjfx,javafx-fxml,13-ea+6,javafx.fxmlEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11-ea+24` // `org.openjfx,javafx-graphics,11-ea+24,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11-ea+25` // `org.openjfx,javafx-graphics,11-ea+25,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:11.0.1-ea+1` // `org.openjfx,javafx-graphics,11.0.1-ea+1,javafx.graphicsEmpty,-,automatic,-,false,-`
@@ -3713,6 +3716,7 @@
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+3` // `org.openjfx,javafx-graphics,13-ea+3,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+4` // `org.openjfx,javafx-graphics,13-ea+4,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+5` // `org.openjfx,javafx-graphics,13-ea+5,javafx.graphicsEmpty,-,automatic,-,false,-`
+- :cd: `javafx.graphicsEmpty` :left_right_arrow: `org.openjfx:javafx-graphics:13-ea+6` // `org.openjfx,javafx-graphics,13-ea+6,javafx.graphicsEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11-ea+24` // `org.openjfx,javafx-media,11-ea+24,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11-ea+25` // `org.openjfx,javafx-media,11-ea+25,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:11.0.1-ea+1` // `org.openjfx,javafx-media,11.0.1-ea+1,javafx.mediaEmpty,-,automatic,-,false,-`
@@ -3732,6 +3736,7 @@
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+3` // `org.openjfx,javafx-media,13-ea+3,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+4` // `org.openjfx,javafx-media,13-ea+4,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+5` // `org.openjfx,javafx-media,13-ea+5,javafx.mediaEmpty,-,automatic,-,false,-`
+- :cd: `javafx.mediaEmpty` :left_right_arrow: `org.openjfx:javafx-media:13-ea+6` // `org.openjfx,javafx-media,13-ea+6,javafx.mediaEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11-ea+24` // `org.openjfx,javafx-swing,11-ea+24,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11-ea+25` // `org.openjfx,javafx-swing,11-ea+25,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:11.0.1-ea+1` // `org.openjfx,javafx-swing,11.0.1-ea+1,javafx.swingEmpty,-,automatic,-,false,-`
@@ -3751,6 +3756,7 @@
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+3` // `org.openjfx,javafx-swing,13-ea+3,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+4` // `org.openjfx,javafx-swing,13-ea+4,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+5` // `org.openjfx,javafx-swing,13-ea+5,javafx.swingEmpty,-,automatic,-,false,-`
+- :cd: `javafx.swingEmpty` :left_right_arrow: `org.openjfx:javafx-swing:13-ea+6` // `org.openjfx,javafx-swing,13-ea+6,javafx.swingEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11-ea+24` // `org.openjfx,javafx-web,11-ea+24,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11-ea+25` // `org.openjfx,javafx-web,11-ea+25,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:11.0.1-ea+1` // `org.openjfx,javafx-web,11.0.1-ea+1,javafx.webEmpty,-,automatic,-,false,-`
@@ -3770,6 +3776,7 @@
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+3` // `org.openjfx,javafx-web,13-ea+3,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+4` // `org.openjfx,javafx-web,13-ea+4,javafx.webEmpty,-,automatic,-,false,-`
 - :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+5` // `org.openjfx,javafx-web,13-ea+5,javafx.webEmpty,-,automatic,-,false,-`
+- :cd: `javafx.webEmpty` :left_right_arrow: `org.openjfx:javafx-web:13-ea+6` // `org.openjfx,javafx-web,13-ea+6,javafx.webEmpty,-,automatic,-,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp:javax.inject:1.1` // `com.jwebmp,javax.inject,1.1,javax.inject,1.1,explicit,java.base,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp.jre11:javax.inject:0.63.0.11` // `com.jwebmp.jre11,javax.inject,0.63.0.11,javax.inject,-,explicit,java.base,false,-`
 - :dvd: `javax.inject` :left_right_arrow: `com.jwebmp.jre11:javax.inject:0.63.0.12` // `com.jwebmp.jre11,javax.inject,0.63.0.12,javax.inject,-,explicit,java.base,false,-`
@@ -3796,6 +3803,7 @@
 - :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc13` // `org.graalvm.compiler,compiler,1.0.0-rc13,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
 - :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc14` // `org.graalvm.compiler,compiler,1.0.0-rc14,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
 - :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc15` // `org.graalvm.compiler,compiler,1.0.0-rc15,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
+- :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc16` // `org.graalvm.compiler,compiler,1.0.0-rc16,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
 - :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc9` // `org.graalvm.compiler,compiler,1.0.0-rc9,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
 - :cd: `jetty.servlet.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.1` // `org.eclipse.jetty.toolchain,jetty-servlet-api,4.0.1,jetty.servlet.api,-,automatic,-,false,-`
 - :cd: `jetty.servlet.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.2` // `org.eclipse.jetty.toolchain,jetty-servlet-api,4.0.2,jetty.servlet.api,-,automatic,-,false,-`
@@ -6972,6 +6980,7 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.0.1` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.0.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.1.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.1.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.1.1` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.1.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.2.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.2.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.14.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.14.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,true,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.5` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.5,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
