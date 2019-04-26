@@ -41,6 +41,7 @@
 - :cd: `` :left_right_arrow: `com.github.celldynamics.quimp:QuimP_:18.10.01` // `com.github.celldynamics.quimp,QuimP_,18.10.01,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.github.celldynamics.quimp:QuimP_:19.01.01` // `com.github.celldynamics.quimp,QuimP_,19.01.01,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.github.celldynamics.quimp:QuimP_:19.03.01` // `com.github.celldynamics.quimp,QuimP_,19.03.01,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `com.github.celldynamics.quimp:QuimP_:19.04.02` // `com.github.celldynamics.quimp,QuimP_,19.04.02,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.0` // `com.hazelcast,spring-data-hazelcast,2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.1` // `com.hazelcast,spring-data-hazelcast,2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2` // `com.hazelcast,spring-data-hazelcast,2.2,-,-,automatic,-,false,-`
@@ -3976,6 +3977,7 @@
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.0.0` // `com.helger,en16931-cii2ubl,1.0.0,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.0` // `com.helger,en16931-cii2ubl,1.1.0,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.1` // `com.helger,en16931-cii2ubl,1.1.1,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
+- :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.2` // `com.helger,en16931-cii2ubl,1.1.2,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.0.2` // `com.helger,parser-generator-cc,1.0.2,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.0` // `com.helger,parser-generator-cc,1.1.0,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.1` // `com.helger,parser-generator-cc,1.1.1,com.helger.parser-generator-cc,-,automatic,-,false,-`
