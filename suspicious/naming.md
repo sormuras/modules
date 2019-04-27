@@ -3993,6 +3993,15 @@
 - :dvd: `matrix.support.jackson` :left_right_arrow: `io.github.ma1uta.matrix:jackson-support:0.2.0-rc1` // `io.github.ma1uta.matrix,jackson-support,0.2.0-rc1,matrix.support.jackson,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + matrix.common.api,false,-`
 - :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.1.0` // `io.github.ma1uta.matrix,jsonb-support,0.1.0,matrix.support.jsonb,-,explicit,java.base + java.json + matrix.common.api,false,-`
 - :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.2.0-rc1` // `io.github.ma1uta.matrix,jsonb-support,0.2.0-rc1,matrix.support.jsonb,-,explicit,java.base + java.json + matrix.common.api,false,-`
+- :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.0` // `net.dreamlu,mica-boot,1.1.0,mica.boot,-,automatic,-,false,-`
+- :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.0` // `net.dreamlu,mica-boot-test,1.1.0,mica.boot.test,-,automatic,-,false,-`
+- :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.0` // `net.dreamlu,mica-captcha,1.1.0,mica.captcha,-,automatic,-,false,-`
+- :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.0` // `net.dreamlu,mica-cloud,1.1.0,mica.cloud,-,automatic,-,false,-`
+- :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.0` // `net.dreamlu,mica-core,1.1.0,mica.core,-,automatic,-,false,-`
+- :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.0` // `net.dreamlu,mica-launcher,1.1.0,mica.launcher,-,automatic,-,false,-`
+- :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.0` // `net.dreamlu,mica-log4j2,1.1.0,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.0` // `net.dreamlu,mica-plus-mongo,1.1.0,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.0` // `net.dreamlu,mica-plus-redis,1.1.0,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.0` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.0,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.1` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.1,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.disable` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:disable-extension:1.1.0` // `name.falgout.jeffrey.testing.junit5,disable-extension,1.1.0,name.falgout.jeffrey.testing.junit.disable,-,automatic,-,false,-`
@@ -5169,12 +5178,15 @@
 - :cd: `org.eclipse.urischeme` :left_right_arrow: `org.eclipse.platform:org.eclipse.urischeme:1.0.200` // `org.eclipse.platform,org.eclipse.urischeme,1.0.200,org.eclipse.urischeme,-,automatic,-,false,-`
 - :cd: `org.eclipse.xsd` :left_right_arrow: `org.eclipse.emf:org.eclipse.xsd:2.15.0` // `org.eclipse.emf,org.eclipse.xsd,2.15.0,org.eclipse.xsd,-,automatic,-,false,-`
 - :cd: `org.eclipse.xsd.edit` :left_right_arrow: `org.eclipse.emf:org.eclipse.xsd.edit:2.10.0` // `org.eclipse.emf,org.eclipse.xsd.edit,2.10.0,org.eclipse.xsd.edit,-,automatic,-,false,-`
+- :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-java11:4.0.0-beta-1` // `org.firebirdsql.jdbc,jaybird-java11,4.0.0-beta-1,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk16:2.2.14` // `org.firebirdsql.jdbc,jaybird-jdk16,2.2.14,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk16:2.2.15` // `org.firebirdsql.jdbc,jaybird-jdk16,2.2.15,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk17:3.0.4` // `org.firebirdsql.jdbc,jaybird-jdk17,3.0.4,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk17:3.0.5` // `org.firebirdsql.jdbc,jaybird-jdk17,3.0.5,org.firebirdsql.jaybird,-,automatic,-,false,-`
+- :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk17:4.0.0-beta-1` // `org.firebirdsql.jdbc,jaybird-jdk17,4.0.0-beta-1,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk18:3.0.4` // `org.firebirdsql.jdbc,jaybird-jdk18,3.0.4,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk18:3.0.5` // `org.firebirdsql.jdbc,jaybird-jdk18,3.0.5,org.firebirdsql.jaybird,-,automatic,-,false,-`
+- :cd: `org.firebirdsql.jaybird` :left_right_arrow: `org.firebirdsql.jdbc:jaybird-jdk18:4.0.0-beta-1` // `org.firebirdsql.jdbc,jaybird-jdk18,4.0.0-beta-1,org.firebirdsql.jaybird,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `com.github.mibo:jaxrsdoc:1.1.0` // `com.github.mibo,jaxrsdoc,1.1.0,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `com.sebastian-daschner:jaxrs-analyzer:0.16` // `com.sebastian-daschner,jaxrs-analyzer,0.16,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :cd: `org.incode.platform.dom.settings` :left_right_arrow: `org.incode.module.settings:incode-module-settings-dom:1.17.0` // `org.incode.module.settings,incode-module-settings-dom,1.17.0,org.incode.platform.dom.settings,-,automatic,-,false,-`
@@ -7016,6 +7028,8 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.1.1` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.1.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:11.2.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,11.2.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:12.0.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,12.0.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:12.0.1` // `ru.sbtqa.tag.pagefactory,page-factory-core,12.0.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:12.0.2` // `ru.sbtqa.tag.pagefactory,page-factory-core,12.0.2,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.14.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.14.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,true,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.5` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.5,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
@@ -8659,6 +8673,8 @@
 - :dvd: `xaos.ui.plot` :left_right_arrow: `se.europeanspallationsource:xaos.ui.plot:0.3.0` // `se.europeanspallationsource,xaos.ui.plot,0.3.0,xaos.ui.plot,-,explicit,java.base,false,-`
 - :dvd: `xerj.commandstack` :left_right_arrow: `io.github.xerprojects:xerj.commandstack:0.0.1` // `io.github.xerprojects,xerj.commandstack,0.0.1,xerj.commandstack,-,explicit,java.base,false,-`
 - :dvd: `xerj.commandstack.providers.springcontext` :left_right_arrow: `io.github.xerprojects:xerj.commandstack.providers.springcontext:0.0.1` // `io.github.xerprojects,xerj.commandstack.providers.springcontext,0.0.1,xerj.commandstack.providers.springcontext,-,explicit,java.base + spring.context + spring.core + xerj.commandstack,false,-`
+- :dvd: `xerj.eventstack` :left_right_arrow: `io.github.xerprojects:xerj.eventstack:0.0.1` // `io.github.xerprojects,xerj.eventstack,0.0.1,xerj.eventstack,-,explicit,java.base,false,-`
+- :dvd: `xerj.eventstack.providers.springcontext` :left_right_arrow: `io.github.xerprojects:xerj.eventstack.providers.springcontext:0.0.1` // `io.github.xerprojects,xerj.eventstack.providers.springcontext,0.0.1,xerj.eventstack.providers.springcontext,-,explicit,java.base + spring.context + spring.core + xerj.eventstack,false,-`
 - :cd: `xpath.to.json.gson` :left_right_arrow: `com.github.simy4.xpath:xpath-to-json-gson:1.2.2` // `com.github.simy4.xpath,xpath-to-json-gson,1.2.2,xpath.to.json.gson,-,automatic,-,false,-`
 - :cd: `xpath.to.json.gson` :left_right_arrow: `com.github.simy4.xpath:xpath-to-json-gson:1.2.3` // `com.github.simy4.xpath,xpath-to-json-gson,1.2.3,xpath.to.json.gson,-,automatic,-,false,-`
 - :cd: `xpath.to.json.gson` :left_right_arrow: `com.github.simy4.xpath:xpath-to-json-gson:1.2.4` // `com.github.simy4.xpath,xpath-to-json-gson,1.2.4,xpath.to.json.gson,-,automatic,-,false,-`

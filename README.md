@@ -1,19 +1,19 @@
 # sormuras/modules
 Counted 4063 Java modules published at Maven Central
 
-## Summary 2019-04-26T22:06:54.872952Z
+## Summary 2019-04-27T22:07:49.112244Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-26T22:06:54.872952Z
-Scanned 20,042 files in 1 seconds.
+Started scan at 2019-04-27T22:07:49.112244Z
+Scanned 20,142 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_26_21_42_25.csv
+    last -> modulescanner-report-2019_04_27_21_49_26.csv
 
-Parsed 1,208,392 lines in total.
-  70,967 -> duplicates skipped
-  44,734 -> module related
+Parsed 1,212,879 lines in total.
+  71,028 -> duplicates skipped
+  44,766 -> module related
 
 Collected 4,063 unique modules.
   automatic :cd: -> 3,163
@@ -90,8 +90,8 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4819](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8784](suspicious/naming.md)
+- Invalid module names: [4820](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8800](suspicious/naming.md)
 - Modular impostors: [2080](suspicious/impostors.md)
 
 ## Unique Modules (4063)
@@ -1140,7 +1140,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :cd: `com.senacor.elasticsearch.evolution.core` :left_right_arrow: `com.senacor.elasticsearch.evolution:elasticsearch-evolution-core:0.1.2`
 - :cd: `com.senacor.elasticsearch.evolution.spring.boot.starter` :left_right_arrow: `com.senacor.elasticsearch.evolution:spring-boot-starter-elasticsearch-evolution:0.1.2`
-- :cd: `com.sothawo.mapjfx` :left_right_arrow: `com.sothawo:mapjfx:2.6.0`
+- :cd: `com.sothawo.mapjfx` :left_right_arrow: `com.sothawo:mapjfx:2.7.0`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.0`
 - :cd: `com.spotify.sparkey` :left_right_arrow: `com.spotify.sparkey:sparkey:3.0.0`
 - :cd: `com.squareup.javapoet` :left_right_arrow: `com.squareup:javapoet:1.11.1`
@@ -1780,11 +1780,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.98`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.98`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.98`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.98`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.98`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.101`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.101`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.101`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.101`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.101`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.2.1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.12`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.12`
@@ -1872,9 +1872,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.javacrumbs.shedlock.provider.redis.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-redis-spring:2.4.0`
 - :cd: `net.javacrumbs.shedlock.provider.zookeeper.curator` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-zookeeper-curator:2.4.0`
 - :cd: `net.javacrumbs.shedlock.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-spring:2.4.0`
-- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.2`
-- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.2`
-- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.2`
+- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.3`
+- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.3`
+- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.3`
 - :cd: `net.kyori.ana` :left_right_arrow: `net.kyori:ana:1.0.0`
 - :cd: `net.kyori.blizzard` :left_right_arrow: `net.kyori:blizzard:1.0.5`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
@@ -2945,13 +2945,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.codegen.hono.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.java:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.hono.python` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.python:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.templates.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.templates.java:0.10.0.M7`
-- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.10.0`
-- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.10.0`
+- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.10.1`
+- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.10.1`
 - :cd: `org.eclipse.vorto.editor.datatype` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype:0.10.0.M10`
-- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.10.0`
-- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.0`
-- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.0`
-- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.0`
+- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.10.1`
+- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.1`
+- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.1`
+- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.1`
 - :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M1`
 - :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M1`
 - :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M1`
