@@ -1,22 +1,22 @@
 # sormuras/modules
-Counted 4063 Java modules published at Maven Central
+Counted 4070 Java modules published at Maven Central
 
-## Summary 2019-04-27T22:07:49.112244Z
+## Summary 2019-04-28T22:07:36.903922Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-27T22:07:49.112244Z
-Scanned 20,142 files in 2 seconds.
+Started scan at 2019-04-28T22:07:36.903922Z
+Scanned 20,221 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_27_21_49_26.csv
+    last -> modulescanner-report-2019_04_28_21_56_45.csv
 
-Parsed 1,212,879 lines in total.
-  71,028 -> duplicates skipped
-  44,766 -> module related
+Parsed 1,216,832 lines in total.
+  71,346 -> duplicates skipped
+  44,897 -> module related
 
-Collected 4,063 unique modules.
-  automatic :cd: -> 3,163
+Collected 4,070 unique modules.
+  automatic :cd: -> 3,170
   explicit :dvd: -> 900
 
 ## Samples
@@ -90,11 +90,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [4820](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8800](suspicious/naming.md)
-- Modular impostors: [2080](suspicious/impostors.md)
+- Invalid module names: [4821](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8819](suspicious/naming.md)
+- Modular impostors: [2081](suspicious/impostors.md)
 
-## Unique Modules (4063)
+## Unique Modules (4070)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -265,6 +265,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.longmapper` :left_right_arrow: `com.codahale:longmapper:0.1.1`
 - :cd: `com.codahale.passpol` :left_right_arrow: `com.codahale:passpol:0.6.2`
 - :cd: `com.codahale.shamir` :left_right_arrow: `com.codahale:shamir:0.7.0`
+- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.1.0`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.2`
@@ -301,7 +302,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.10`
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.11`
 - :cd: `com.emc.mongoose.storage.driver.kafka` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-kafka:4.2.6`
-- :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.10`
+- :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.11`
 - :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.9`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
@@ -386,14 +387,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.13.9`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.13.9`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.13.9`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.13.9`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.13.9`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.13.10`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.13.10`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.13.10`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.13.10`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.13.10`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
-- :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.0`
+- :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
 - :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.16`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.0-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
@@ -438,6 +439,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.1.1`
 - :cd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.1.1`
 - :cd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.1.1`
+- :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:2.1.0`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.2`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.0`
@@ -1780,6 +1782,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.127`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.127`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.127`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.127`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.101`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.101`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.101`
@@ -1917,19 +1923,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk8` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.joda` :left_right_arrow: `net.objectlab.kit:datecalc-joda:1.4.2`
-- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.9.1`
-- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.9.1`
-- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.9.1`
-- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.9.1`
-- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.9.1`
-- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.9.1`
-- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.9.1`
-- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.9.1`
-- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.9.1`
-- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.9.1`
-- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.9.1`
-- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.9.1`
-- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.9.1`
+- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.9.2`
+- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.9.2`
+- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.9.2`
+- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.9.2`
+- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.9.2`
+- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.9.2`
+- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.9.2`
+- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.9.2`
+- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.9.2`
+- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.9.2`
+- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.9.2`
+- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.9.2`
+- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.9.2`
 - :cd: `net.reini.junit` :left_right_arrow: `net.reini:junit-compat:1.3`
 - :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.1.0`
 - :cd: `net.sf.flatpack` :left_right_arrow: `net.sf.flatpack:flatpack:4.0.4`
@@ -2871,19 +2877,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:9.4.17.v20190418`
 - :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.17.v20190418`
 - :cd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:9.4.17.v20190418`
-- :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.http.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.apache:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.http.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.server:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.junit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.junit.http` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.http:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.junit.ssh` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.ssh:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.lfs` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.lfs.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs.server:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.pgm` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.pgm:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.ssh.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ssh.apache:5.3.0.201903130848-r`
-- :cd: `org.eclipse.jgit.ui` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ui:5.3.0.201903130848-r`
+- :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.http.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.apache:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.http.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.server:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.junit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.junit.http` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.http:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.junit.ssh` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.ssh:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.lfs` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.lfs.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs.server:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.pgm` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.pgm:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.ssh.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ssh.apache:5.3.1.201904271842-r`
+- :cd: `org.eclipse.jgit.ui` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ui:5.3.1.201904271842-r`
 - :cd: `org.eclipse.packagedrone.utils` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils:0.14.6`
 - :cd: `org.eclipse.packagedrone.utils.rpm` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils.rpm:0.14.6`
 - :cd: `org.eclipse.packagedrone.utils.security` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils.security:0.14.6`
@@ -3616,76 +3622,77 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reactivestreams.flowadapters` :left_right_arrow: `org.reactivestreams:reactive-streams-flow-adapters:1.0.2`
 - :cd: `org.reactivestreams.tck` :left_right_arrow: `org.reactivestreams:reactive-streams-tck:1.0.2`
 - :cd: `org.reactivestreams.tckflow` :left_right_arrow: `org.reactivestreams:reactive-streams-tck-flow:1.0.2`
-- :cd: `org.refcodes.boulderdash` :left_right_arrow: `org.refcodes:refcodes-boulderdash:2.0.0`
-- :cd: `org.refcodes.checkerboard` :left_right_arrow: `org.refcodes:refcodes-checkerboard:2.0.0`
-- :cd: `org.refcodes.checkerboard.alt.javafx` :left_right_arrow: `org.refcodes:refcodes-checkerboard-alt-javafx:2.0.0`
-- :cd: `org.refcodes.checkerboard.ext.javafx.boulderdash` :left_right_arrow: `org.refcodes:refcodes-checkerboard-ext-javafx-boulderdash:2.0.0`
-- :cd: `org.refcodes.checkerboard.ext.javafx.chess` :left_right_arrow: `org.refcodes:refcodes-checkerboard-ext-javafx-chess:2.0.0`
-- :cd: `org.refcodes.codec` :left_right_arrow: `org.refcodes:refcodes-codec:2.0.0`
-- :cd: `org.refcodes.command` :left_right_arrow: `org.refcodes:refcodes-command:2.0.0`
-- :cd: `org.refcodes.component` :left_right_arrow: `org.refcodes:refcodes-component:2.0.0`
-- :cd: `org.refcodes.component.ext.observer` :left_right_arrow: `org.refcodes:refcodes-component-ext-observer:2.0.0`
-- :cd: `org.refcodes.configuration` :left_right_arrow: `org.refcodes:refcodes-configuration:2.0.0`
-- :cd: `org.refcodes.configuration.ext.console` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-console:2.0.0`
-- :cd: `org.refcodes.configuration.ext.obfuscation` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-obfuscation:2.0.0`
-- :cd: `org.refcodes.configuration.ext.observer` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-observer:2.0.0`
-- :cd: `org.refcodes.configuration.ext.runtime` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-runtime:2.0.0`
-- :cd: `org.refcodes.console` :left_right_arrow: `org.refcodes:refcodes-console:2.0.0`
-- :cd: `org.refcodes.controlflow` :left_right_arrow: `org.refcodes:refcodes-controlflow:2.0.0`
-- :cd: `org.refcodes.criteria` :left_right_arrow: `org.refcodes:refcodes-criteria:2.0.0`
-- :cd: `org.refcodes.daemon` :left_right_arrow: `org.refcodes:refcodes-daemon:2.0.0`
-- :cd: `org.refcodes.data` :left_right_arrow: `org.refcodes:refcodes-data:2.0.0`
-- :cd: `org.refcodes.data.ext.boulderdash` :left_right_arrow: `org.refcodes:refcodes-data-ext-boulderdash:2.0.0`
-- :cd: `org.refcodes.data.ext.checkers` :left_right_arrow: `org.refcodes:refcodes-data-ext-checkers:2.0.0`
-- :cd: `org.refcodes.data.ext.chess` :left_right_arrow: `org.refcodes:refcodes-data-ext-chess:2.0.0`
-- :cd: `org.refcodes.data.ext.corporate` :left_right_arrow: `org.refcodes:refcodes-data-ext-corporate:2.0.0`
-- :cd: `org.refcodes.data.ext.symbols` :left_right_arrow: `org.refcodes:refcodes-data-ext-symbols:2.0.0`
-- :cd: `org.refcodes.eventbus` :left_right_arrow: `org.refcodes:refcodes-eventbus:2.0.0`
-- :cd: `org.refcodes.eventbus.ext.application` :left_right_arrow: `org.refcodes:refcodes-eventbus-ext-application:2.0.0`
-- :cd: `org.refcodes.exception` :left_right_arrow: `org.refcodes:refcodes-exception:2.0.0`
-- :cd: `org.refcodes.factory` :left_right_arrow: `org.refcodes:refcodes-factory:2.0.0`
-- :cd: `org.refcodes.factory.alt.spring` :left_right_arrow: `org.refcodes:refcodes-factory-alt-spring:2.0.0`
-- :cd: `org.refcodes.filesystem` :left_right_arrow: `org.refcodes:refcodes-filesystem:2.0.0`
-- :cd: `org.refcodes.filesystem.alt.s3` :left_right_arrow: `org.refcodes:refcodes-filesystem-alt-s3:2.0.0`
-- :cd: `org.refcodes.forwardsecrecy` :left_right_arrow: `org.refcodes:refcodes-forwardsecrecy:2.0.0`
-- :cd: `org.refcodes.forwardsecrecy.alt.filesystem` :left_right_arrow: `org.refcodes:refcodes-forwardsecrecy-alt-filesystem:2.0.0`
-- :cd: `org.refcodes.generator` :left_right_arrow: `org.refcodes:refcodes-generator:2.0.0`
-- :cd: `org.refcodes.graphical` :left_right_arrow: `org.refcodes:refcodes-graphical:2.0.0`
-- :cd: `org.refcodes.graphical.ext.javafx` :left_right_arrow: `org.refcodes:refcodes-graphical-ext-javafx:2.0.0`
-- :cd: `org.refcodes.interceptor` :left_right_arrow: `org.refcodes:refcodes-interceptor:2.0.0`
-- :cd: `org.refcodes.io` :left_right_arrow: `org.refcodes:refcodes-io:2.0.0`
-- :cd: `org.refcodes.io.ext.observable` :left_right_arrow: `org.refcodes:refcodes-io-ext-observable:2.0.0`
-- :cd: `org.refcodes.jobbus` :left_right_arrow: `org.refcodes:refcodes-jobbus:2.0.0`
-- :cd: `org.refcodes.logger` :left_right_arrow: `org.refcodes:refcodes-logger:2.0.0`
-- :cd: `org.refcodes.logger.alt.async` :left_right_arrow: `org.refcodes:refcodes-logger-alt-async:2.0.0`
-- :cd: `org.refcodes.logger.alt.console` :left_right_arrow: `org.refcodes:refcodes-logger-alt-console:2.0.0`
-- :cd: `org.refcodes.logger.alt.io` :left_right_arrow: `org.refcodes:refcodes-logger-alt-io:2.0.0`
-- :cd: `org.refcodes.logger.alt.simpledb` :left_right_arrow: `org.refcodes:refcodes-logger-alt-simpledb:2.0.0`
-- :cd: `org.refcodes.logger.alt.slf4j` :left_right_arrow: `org.refcodes:refcodes-logger-alt-slf4j:2.0.0`
-- :cd: `org.refcodes.logger.alt.spring` :left_right_arrow: `org.refcodes:refcodes-logger-alt-spring:2.0.0`
-- :cd: `org.refcodes.logger.ext.slf4j` :left_right_arrow: `org.refcodes:refcodes-logger-ext-slf4j:2.0.0`
-- :cd: `org.refcodes.matcher` :left_right_arrow: `org.refcodes:refcodes-matcher:2.0.0`
-- :cd: `org.refcodes.mixin` :left_right_arrow: `org.refcodes:refcodes-mixin:2.0.0`
-- :cd: `org.refcodes.net` :left_right_arrow: `org.refcodes:refcodes-net:2.0.0`
-- :cd: `org.refcodes.numerical` :left_right_arrow: `org.refcodes:refcodes-numerical:2.0.0`
-- :cd: `org.refcodes.observer` :left_right_arrow: `org.refcodes:refcodes-observer:2.0.0`
-- :cd: `org.refcodes.remoting` :left_right_arrow: `org.refcodes:refcodes-remoting:2.0.0`
-- :cd: `org.refcodes.remoting.ext.observer` :left_right_arrow: `org.refcodes:refcodes-remoting-ext-observer:2.0.0`
-- :cd: `org.refcodes.rest` :left_right_arrow: `org.refcodes:refcodes-rest:2.0.0`
-- :cd: `org.refcodes.rest.ext.eureka` :left_right_arrow: `org.refcodes:refcodes-rest-ext-eureka:2.0.0`
-- :cd: `org.refcodes.runtime` :left_right_arrow: `org.refcodes:refcodes-runtime:2.0.0`
-- :cd: `org.refcodes.security` :left_right_arrow: `org.refcodes:refcodes-security:2.0.0`
-- :cd: `org.refcodes.security.alt.chaos` :left_right_arrow: `org.refcodes:refcodes-security-alt-chaos:2.0.0`
-- :cd: `org.refcodes.security.ext.chaos` :left_right_arrow: `org.refcodes:refcodes-security-ext-chaos:2.0.0`
-- :cd: `org.refcodes.security.ext.spring` :left_right_arrow: `org.refcodes:refcodes-security-ext-spring:2.0.0`
-- :cd: `org.refcodes.servicebus` :left_right_arrow: `org.refcodes:refcodes-servicebus:2.0.0`
-- :cd: `org.refcodes.servicebus.alt.spring` :left_right_arrow: `org.refcodes:refcodes-servicebus-alt-spring:2.0.0`
-- :cd: `org.refcodes.structure` :left_right_arrow: `org.refcodes:refcodes-structure:2.0.0`
-- :cd: `org.refcodes.structure.ext.factory` :left_right_arrow: `org.refcodes:refcodes-structure-ext-factory:2.0.0`
-- :cd: `org.refcodes.tabular` :left_right_arrow: `org.refcodes:refcodes-tabular:2.0.0`
-- :cd: `org.refcodes.tabular.alt.forwardsecrecy` :left_right_arrow: `org.refcodes:refcodes-tabular-alt-forwardsecrecy:2.0.0`
-- :cd: `org.refcodes.textual` :left_right_arrow: `org.refcodes:refcodes-textual:2.0.0`
-- :cd: `org.refcodes.time` :left_right_arrow: `org.refcodes:refcodes-time:2.0.0`
+- :cd: `org.refcodes.boulderdash` :left_right_arrow: `org.refcodes:refcodes-boulderdash:2.0.1`
+- :cd: `org.refcodes.checkerboard` :left_right_arrow: `org.refcodes:refcodes-checkerboard:2.0.1`
+- :cd: `org.refcodes.checkerboard.alt.javafx` :left_right_arrow: `org.refcodes:refcodes-checkerboard-alt-javafx:2.0.1`
+- :cd: `org.refcodes.checkerboard.ext.javafx.boulderdash` :left_right_arrow: `org.refcodes:refcodes-checkerboard-ext-javafx-boulderdash:2.0.1`
+- :cd: `org.refcodes.checkerboard.ext.javafx.chess` :left_right_arrow: `org.refcodes:refcodes-checkerboard-ext-javafx-chess:2.0.1`
+- :cd: `org.refcodes.codec` :left_right_arrow: `org.refcodes:refcodes-codec:2.0.1`
+- :cd: `org.refcodes.command` :left_right_arrow: `org.refcodes:refcodes-command:2.0.1`
+- :cd: `org.refcodes.component` :left_right_arrow: `org.refcodes:refcodes-component:2.0.1`
+- :cd: `org.refcodes.component.ext.observer` :left_right_arrow: `org.refcodes:refcodes-component-ext-observer:2.0.1`
+- :cd: `org.refcodes.configuration` :left_right_arrow: `org.refcodes:refcodes-configuration:2.0.1`
+- :cd: `org.refcodes.configuration.ext.console` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-console:2.0.1`
+- :cd: `org.refcodes.configuration.ext.obfuscation` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-obfuscation:2.0.1`
+- :cd: `org.refcodes.configuration.ext.observer` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-observer:2.0.1`
+- :cd: `org.refcodes.configuration.ext.runtime` :left_right_arrow: `org.refcodes:refcodes-configuration-ext-runtime:2.0.1`
+- :cd: `org.refcodes.console` :left_right_arrow: `org.refcodes:refcodes-console:2.0.1`
+- :cd: `org.refcodes.controlflow` :left_right_arrow: `org.refcodes:refcodes-controlflow:2.0.1`
+- :cd: `org.refcodes.criteria` :left_right_arrow: `org.refcodes:refcodes-criteria:2.0.1`
+- :cd: `org.refcodes.daemon` :left_right_arrow: `org.refcodes:refcodes-daemon:2.0.1`
+- :cd: `org.refcodes.data` :left_right_arrow: `org.refcodes:refcodes-data:2.0.1`
+- :cd: `org.refcodes.data.ext.boulderdash` :left_right_arrow: `org.refcodes:refcodes-data-ext-boulderdash:2.0.1`
+- :cd: `org.refcodes.data.ext.checkers` :left_right_arrow: `org.refcodes:refcodes-data-ext-checkers:2.0.1`
+- :cd: `org.refcodes.data.ext.chess` :left_right_arrow: `org.refcodes:refcodes-data-ext-chess:2.0.1`
+- :cd: `org.refcodes.data.ext.corporate` :left_right_arrow: `org.refcodes:refcodes-data-ext-corporate:2.0.1`
+- :cd: `org.refcodes.data.ext.symbols` :left_right_arrow: `org.refcodes:refcodes-data-ext-symbols:2.0.1`
+- :cd: `org.refcodes.eventbus` :left_right_arrow: `org.refcodes:refcodes-eventbus:2.0.1`
+- :cd: `org.refcodes.eventbus.ext.application` :left_right_arrow: `org.refcodes:refcodes-eventbus-ext-application:2.0.1`
+- :cd: `org.refcodes.exception` :left_right_arrow: `org.refcodes:refcodes-exception:2.0.1`
+- :cd: `org.refcodes.factory` :left_right_arrow: `org.refcodes:refcodes-factory:2.0.1`
+- :cd: `org.refcodes.factory.alt.spring` :left_right_arrow: `org.refcodes:refcodes-factory-alt-spring:2.0.1`
+- :cd: `org.refcodes.filesystem` :left_right_arrow: `org.refcodes:refcodes-filesystem:2.0.1`
+- :cd: `org.refcodes.filesystem.alt.s3` :left_right_arrow: `org.refcodes:refcodes-filesystem-alt-s3:2.0.1`
+- :cd: `org.refcodes.forwardsecrecy` :left_right_arrow: `org.refcodes:refcodes-forwardsecrecy:2.0.1`
+- :cd: `org.refcodes.forwardsecrecy.alt.filesystem` :left_right_arrow: `org.refcodes:refcodes-forwardsecrecy-alt-filesystem:2.0.1`
+- :cd: `org.refcodes.generator` :left_right_arrow: `org.refcodes:refcodes-generator:2.0.1`
+- :cd: `org.refcodes.graphical` :left_right_arrow: `org.refcodes:refcodes-graphical:2.0.1`
+- :cd: `org.refcodes.graphical.ext.javafx` :left_right_arrow: `org.refcodes:refcodes-graphical-ext-javafx:2.0.1`
+- :cd: `org.refcodes.hal` :left_right_arrow: `org.refcodes:refcodes-hal:2.0.1`
+- :cd: `org.refcodes.interceptor` :left_right_arrow: `org.refcodes:refcodes-interceptor:2.0.1`
+- :cd: `org.refcodes.io` :left_right_arrow: `org.refcodes:refcodes-io:2.0.1`
+- :cd: `org.refcodes.io.ext.observable` :left_right_arrow: `org.refcodes:refcodes-io-ext-observable:2.0.1`
+- :cd: `org.refcodes.jobbus` :left_right_arrow: `org.refcodes:refcodes-jobbus:2.0.1`
+- :cd: `org.refcodes.logger` :left_right_arrow: `org.refcodes:refcodes-logger:2.0.1`
+- :cd: `org.refcodes.logger.alt.async` :left_right_arrow: `org.refcodes:refcodes-logger-alt-async:2.0.1`
+- :cd: `org.refcodes.logger.alt.console` :left_right_arrow: `org.refcodes:refcodes-logger-alt-console:2.0.1`
+- :cd: `org.refcodes.logger.alt.io` :left_right_arrow: `org.refcodes:refcodes-logger-alt-io:2.0.1`
+- :cd: `org.refcodes.logger.alt.simpledb` :left_right_arrow: `org.refcodes:refcodes-logger-alt-simpledb:2.0.1`
+- :cd: `org.refcodes.logger.alt.slf4j` :left_right_arrow: `org.refcodes:refcodes-logger-alt-slf4j:2.0.1`
+- :cd: `org.refcodes.logger.alt.spring` :left_right_arrow: `org.refcodes:refcodes-logger-alt-spring:2.0.1`
+- :cd: `org.refcodes.logger.ext.slf4j` :left_right_arrow: `org.refcodes:refcodes-logger-ext-slf4j:2.0.1`
+- :cd: `org.refcodes.matcher` :left_right_arrow: `org.refcodes:refcodes-matcher:2.0.1`
+- :cd: `org.refcodes.mixin` :left_right_arrow: `org.refcodes:refcodes-mixin:2.0.1`
+- :cd: `org.refcodes.net` :left_right_arrow: `org.refcodes:refcodes-net:2.0.1`
+- :cd: `org.refcodes.numerical` :left_right_arrow: `org.refcodes:refcodes-numerical:2.0.1`
+- :cd: `org.refcodes.observer` :left_right_arrow: `org.refcodes:refcodes-observer:2.0.1`
+- :cd: `org.refcodes.remoting` :left_right_arrow: `org.refcodes:refcodes-remoting:2.0.1`
+- :cd: `org.refcodes.remoting.ext.observer` :left_right_arrow: `org.refcodes:refcodes-remoting-ext-observer:2.0.1`
+- :cd: `org.refcodes.rest` :left_right_arrow: `org.refcodes:refcodes-rest:2.0.1`
+- :cd: `org.refcodes.rest.ext.eureka` :left_right_arrow: `org.refcodes:refcodes-rest-ext-eureka:2.0.1`
+- :cd: `org.refcodes.runtime` :left_right_arrow: `org.refcodes:refcodes-runtime:2.0.1`
+- :cd: `org.refcodes.security` :left_right_arrow: `org.refcodes:refcodes-security:2.0.1`
+- :cd: `org.refcodes.security.alt.chaos` :left_right_arrow: `org.refcodes:refcodes-security-alt-chaos:2.0.1`
+- :cd: `org.refcodes.security.ext.chaos` :left_right_arrow: `org.refcodes:refcodes-security-ext-chaos:2.0.1`
+- :cd: `org.refcodes.security.ext.spring` :left_right_arrow: `org.refcodes:refcodes-security-ext-spring:2.0.1`
+- :cd: `org.refcodes.servicebus` :left_right_arrow: `org.refcodes:refcodes-servicebus:2.0.1`
+- :cd: `org.refcodes.servicebus.alt.spring` :left_right_arrow: `org.refcodes:refcodes-servicebus-alt-spring:2.0.1`
+- :cd: `org.refcodes.structure` :left_right_arrow: `org.refcodes:refcodes-structure:2.0.1`
+- :cd: `org.refcodes.structure.ext.factory` :left_right_arrow: `org.refcodes:refcodes-structure-ext-factory:2.0.1`
+- :cd: `org.refcodes.tabular` :left_right_arrow: `org.refcodes:refcodes-tabular:2.0.1`
+- :cd: `org.refcodes.tabular.alt.forwardsecrecy` :left_right_arrow: `org.refcodes:refcodes-tabular-alt-forwardsecrecy:2.0.1`
+- :cd: `org.refcodes.textual` :left_right_arrow: `org.refcodes:refcodes-textual:2.0.1`
+- :cd: `org.refcodes.time` :left_right_arrow: `org.refcodes:refcodes-time:2.0.1`
 - :cd: `org.revapi` :left_right_arrow: `org.revapi:revapi:0.11.0`
 - :cd: `org.revapi.ant` :left_right_arrow: `org.revapi:revapi-ant-task:0.9.0`
 - :cd: `org.revapi.basic` :left_right_arrow: `org.revapi:revapi-basic-features:0.8.0`
