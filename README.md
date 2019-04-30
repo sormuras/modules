@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4074 Java modules published at Maven Central
+Counted 4077 Java modules published at Maven Central
 
-## Summary 2019-04-29T22:08:00.779998Z
+## Summary 2019-04-30T22:08:33.193033Z
 
 ```
 ## Summary
 
-Started scan at 2019-04-29T22:08:00.779998Z
-Scanned 20,315 files in 2 seconds.
+Started scan at 2019-04-30T22:08:33.193033Z
+Scanned 20,402 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_04_29_21_42_47.csv
+    last -> modulescanner-report-2019_04_30_21_30_51.csv
 
-Parsed 1,223,042 lines in total.
-  72,304 -> duplicates skipped
-  45,653 -> module related
+Parsed 1,228,966 lines in total.
+  72,558 -> duplicates skipped
+  45,825 -> module related
 
-Collected 4,074 unique modules.
-  automatic :cd: -> 3,170
-  explicit :dvd: -> 904
+Collected 4,077 unique modules.
+  automatic :cd: -> 3,171
+  explicit :dvd: -> 906
 
 ## Samples
             junit -> junit:junit:4.13-beta-2
@@ -90,11 +90,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5161](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8879](suspicious/naming.md)
-- Modular impostors: [2182](suspicious/impostors.md)
+- Invalid module names: [5166](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8908](suspicious/naming.md)
+- Modular impostors: [2194](suspicious/impostors.md)
 
-## Unique Modules (4074)
+## Unique Modules (4077)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -265,7 +265,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.longmapper` :left_right_arrow: `com.codahale:longmapper:0.1.1`
 - :cd: `com.codahale.passpol` :left_right_arrow: `com.codahale:passpol:0.6.2`
 - :cd: `com.codahale.shamir` :left_right_arrow: `com.codahale:shamir:0.7.0`
-- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.1.1`
+- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.2.0`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.2`
@@ -408,6 +408,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
 - :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:2.0.0`
+- :cd: `com.github.mjeanroy.exiftool` :left_right_arrow: `com.github.mjeanroy:exiftool-lib:2.5.0`
 - :cd: `com.github.mjeanroy.junit.servers.core` :left_right_arrow: `com.github.mjeanroy:junit-servers-core:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.jetty` :left_right_arrow: `com.github.mjeanroy:junit-servers-jetty:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.tomcat` :left_right_arrow: `com.github.mjeanroy:junit-servers-tomcat:0.11.0`
@@ -1026,17 +1027,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.opengamma.elsql` :left_right_arrow: `com.opengamma:elsql:1.3`
 - :cd: `com.opengamma.sdk.common` :left_right_arrow: `com.opengamma.sdk:sdk-common:3.5.0`
 - :cd: `com.opengamma.sdk.margin` :left_right_arrow: `com.opengamma.sdk:sdk-margin:3.5.0`
-- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.3.1`
-- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.3.1`
-- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.3.1`
-- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.3.1`
-- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.3.1`
-- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.3.1`
-- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.3.1`
-- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.3.1`
-- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.3.1`
-- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.3.1`
-- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.3.1`
+- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.3.2`
+- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.3.2`
+- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.3.2`
+- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.3.2`
+- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.3.2`
+- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.3.2`
+- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.3.2`
+- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.3.2`
+- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.3.2`
+- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.3.2`
+- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.3.2`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.11`
@@ -1459,12 +1460,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.earcam.utilitarian.site.search.offline` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.search.offline:1.2.1`
 - :cd: `io.earcam.utilitarian.site.sitemap` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.sitemap:1.2.1`
 - :cd: `io.earcam.utilitarian.web.jaxrs` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.web.jaxrs:1.2.1`
-- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.37.1`
-- :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.9`
+- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.38.1`
+- :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.10`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.14.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.27`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.28`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
@@ -1668,12 +1669,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:validation:1.0.0.RC2`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:views:1.0.0.RC2`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:websocket:1.0.0.RC2`
-- :cd: `io.netty.codec.redis` :left_right_arrow: `io.netty:netty-codec-redis:4.1.35.Final`
-- :cd: `io.netty.codec.smtp` :left_right_arrow: `io.netty:netty-codec-smtp:4.1.35.Final`
+- :cd: `io.netty.codec.redis` :left_right_arrow: `io.netty:netty-codec-redis:4.1.36.Final`
+- :cd: `io.netty.codec.smtp` :left_right_arrow: `io.netty:netty-codec-smtp:4.1.36.Final`
 - :cd: `io.netty.tcnative.boringssl` :left_right_arrow: `io.netty:netty-tcnative-boringssl-static:2.0.25.Final`
 - :cd: `io.netty.tcnative.openssl.dynamic` :left_right_arrow: `io.netty:netty-tcnative:2.0.25.Final`
-- :cd: `io.netty.transport.kqueue` :left_right_arrow: `io.netty:netty-transport-native-kqueue:4.1.35.Final`
-- :cd: `io.netty.transport.unix.common` :left_right_arrow: `io.netty:netty-transport-native-unix-common:4.1.35.Final`
+- :cd: `io.netty.transport.kqueue` :left_right_arrow: `io.netty:netty-transport-native-kqueue:4.1.36.Final`
+- :cd: `io.netty.transport.unix.common` :left_right_arrow: `io.netty:netty-transport-native-unix-common:4.1.36.Final`
 - :cd: `io.norberg.automatter` :left_right_arrow: `io.norberg:auto-matter-annotation:0.15.2`
 - :cd: `io.norberg.automatter.gson` :left_right_arrow: `io.norberg:auto-matter-gson:0.15.2`
 - :cd: `io.norberg.automatter.jackson` :left_right_arrow: `io.norberg:auto-matter-jackson:0.15.2`
@@ -1757,7 +1758,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.vavr.match.processor` :left_right_arrow: `io.vavr:vavr-match-processor:0.10.0`
 - :cd: `io.vavr.test` :left_right_arrow: `io.vavr:vavr-test:0.10.0`
 - :dvd: `io.vulpine.lib.http` :left_right_arrow: `io.vulpine.lib:http:0.3.0`
-- :dvd: `io.vulpine.lib.json.schema.builder` :left_right_arrow: `io.vulpine.lib:json-schema-builder:2.1.0`
+- :dvd: `io.vulpine.lib.json.schema.builder` :left_right_arrow: `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` :left_right_arrow: `io.vulpine.lib:java-sql-import:0.2.0`
 - :cd: `io.webfolder.cdp4j` :left_right_arrow: `io.webfolder:cdp4j:3.0.8`
 - :cd: `io.webfolder.edp4j` :left_right_arrow: `io.webfolder:edp4j:1.0.0`
@@ -1999,7 +2000,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.8`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.6`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.3`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.1`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
 - :dvd: `no.ssb.rawdata.storage.provider.filesystem` :left_right_arrow: `no.ssb.rawdata:rawdata-storage-provider-local-filesystem:0.2`
 - :dvd: `no.ssb.saga.execution` :left_right_arrow: `no.ssb.saga:distributed-saga-execution:0.2`
@@ -2231,32 +2232,32 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.isis.core.wrapper` :left_right_arrow: `org.apache.isis.core:isis-core-wrapper:2.0.0-M1`
 - :cd: `org.apache.isis.tool.mavenplugin` :left_right_arrow: `org.apache.isis.tool:isis-maven-plugin:2.0.0-M2`
 - :cd: `org.apache.ivy` :left_right_arrow: `org.apache.ivy:ivy:2.5.0-rc1`
-- :cd: `org.apache.jena.arq` :left_right_arrow: `org.apache.jena:jena-arq:3.10.0`
-- :cd: `org.apache.jena.base` :left_right_arrow: `org.apache.jena:jena-base:3.10.0`
-- :cd: `org.apache.jena.cmds` :left_right_arrow: `org.apache.jena:jena-cmds:3.10.0`
-- :cd: `org.apache.jena.core` :left_right_arrow: `org.apache.jena:jena-core:3.10.0`
+- :cd: `org.apache.jena.arq` :left_right_arrow: `org.apache.jena:jena-arq:3.11.0`
+- :cd: `org.apache.jena.base` :left_right_arrow: `org.apache.jena:jena-base:3.11.0`
+- :cd: `org.apache.jena.cmds` :left_right_arrow: `org.apache.jena:jena-cmds:3.11.0`
+- :cd: `org.apache.jena.core` :left_right_arrow: `org.apache.jena:jena-core:3.11.0`
 - :cd: `org.apache.jena.csv` :left_right_arrow: `org.apache.jena:jena-csv:3.9.0`
-- :cd: `org.apache.jena.dboe` :left_right_arrow: `org.apache.jena:jena-dboe-base:3.10.0`
-- :cd: `org.apache.jena.dboe.index` :left_right_arrow: `org.apache.jena:jena-dboe-index:3.10.0`
-- :cd: `org.apache.jena.dboe.index.test` :left_right_arrow: `org.apache.jena:jena-dboe-index-test:3.10.0`
-- :cd: `org.apache.jena.dboe.trans.data` :left_right_arrow: `org.apache.jena:jena-dboe-trans-data:3.10.0`
-- :cd: `org.apache.jena.dboe.transaction` :left_right_arrow: `org.apache.jena:jena-dboe-transaction:3.10.0`
-- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-mapreduce:3.10.0`
-- :cd: `org.apache.jena.ext.com.google` :left_right_arrow: `org.apache.jena:jena-shaded-guava:3.10.0`
-- :cd: `org.apache.jena.fuseki.access` :left_right_arrow: `org.apache.jena:jena-fuseki-access:3.10.0`
-- :cd: `org.apache.jena.fuseki.core` :left_right_arrow: `org.apache.jena:jena-fuseki-core:3.10.0`
-- :cd: `org.apache.jena.fuseki.main` :left_right_arrow: `org.apache.jena:jena-fuseki-main:3.10.0`
+- :cd: `org.apache.jena.dboe` :left_right_arrow: `org.apache.jena:jena-dboe-base:3.11.0`
+- :cd: `org.apache.jena.dboe.index` :left_right_arrow: `org.apache.jena:jena-dboe-index:3.11.0`
+- :cd: `org.apache.jena.dboe.index.test` :left_right_arrow: `org.apache.jena:jena-dboe-index-test:3.11.0`
+- :cd: `org.apache.jena.dboe.trans.data` :left_right_arrow: `org.apache.jena:jena-dboe-trans-data:3.11.0`
+- :cd: `org.apache.jena.dboe.transaction` :left_right_arrow: `org.apache.jena:jena-dboe-transaction:3.11.0`
+- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-mapreduce:3.11.0`
+- :cd: `org.apache.jena.ext.com.google` :left_right_arrow: `org.apache.jena:jena-shaded-guava:3.11.0`
+- :cd: `org.apache.jena.fuseki.access` :left_right_arrow: `org.apache.jena:jena-fuseki-access:3.11.0`
+- :cd: `org.apache.jena.fuseki.core` :left_right_arrow: `org.apache.jena:jena-fuseki-core:3.11.0`
+- :cd: `org.apache.jena.fuseki.main` :left_right_arrow: `org.apache.jena:jena-fuseki-main:3.11.0`
 - :cd: `org.apache.jena.fuseki1` :left_right_arrow: `org.apache.jena:jena-fuseki1:3.9.0`
-- :cd: `org.apache.jena.iri` :left_right_arrow: `org.apache.jena:jena-iri:3.10.0`
-- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-remote:3.10.0`
-- :cd: `org.apache.jena.permissions` :left_right_arrow: `org.apache.jena:jena-permissions:3.10.0`
-- :cd: `org.apache.jena.rdfconnection` :left_right_arrow: `org.apache.jena:jena-rdfconnection:3.10.0`
-- :cd: `org.apache.jena.sdb` :left_right_arrow: `org.apache.jena:jena-sdb:3.10.0`
-- :cd: `org.apache.jena.spatial` :left_right_arrow: `org.apache.jena:jena-spatial:3.10.0`
-- :cd: `org.apache.jena.tdb` :left_right_arrow: `org.apache.jena:jena-tdb:3.10.0`
-- :cd: `org.apache.jena.tdb2` :left_right_arrow: `org.apache.jena:jena-tdb2:3.10.0`
-- :cd: `org.apache.jena.text` :left_right_arrow: `org.apache.jena:jena-text:3.10.0`
-- :cd: `org.apache.jena.text.es` :left_right_arrow: `org.apache.jena:jena-text-es:3.10.0`
+- :cd: `org.apache.jena.iri` :left_right_arrow: `org.apache.jena:jena-iri:3.11.0`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-remote:3.11.0`
+- :cd: `org.apache.jena.permissions` :left_right_arrow: `org.apache.jena:jena-permissions:3.11.0`
+- :cd: `org.apache.jena.rdfconnection` :left_right_arrow: `org.apache.jena:jena-rdfconnection:3.11.0`
+- :cd: `org.apache.jena.sdb` :left_right_arrow: `org.apache.jena:jena-sdb:3.11.0`
+- :cd: `org.apache.jena.spatial` :left_right_arrow: `org.apache.jena:jena-spatial:3.11.0`
+- :cd: `org.apache.jena.tdb` :left_right_arrow: `org.apache.jena:jena-tdb:3.11.0`
+- :cd: `org.apache.jena.tdb2` :left_right_arrow: `org.apache.jena:jena-tdb2:3.11.0`
+- :cd: `org.apache.jena.text` :left_right_arrow: `org.apache.jena:jena-text:3.11.0`
+- :cd: `org.apache.jena.text.es` :left_right_arrow: `org.apache.jena:jena-text-es:3.11.0`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.11.2`
 - :cd: `org.apache.logging.log4j.appserver` :left_right_arrow: `org.apache.logging.log4j:log4j-appserver:2.11.2`
 - :cd: `org.apache.logging.log4j.cassandra` :left_right_arrow: `org.apache.logging.log4j:log4j-cassandra:2.11.2`
@@ -2618,7 +2619,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.daisy.braille.utils.pef` :left_right_arrow: `org.daisy.braille:braille-utils.pef-tools:5.0.2`
 - :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:4.6.0`
 - :cd: `org.daisy.dotify.common` :left_right_arrow: `org.daisy.dotify:dotify.common:4.3.1`
-- :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:4.5.0`
+- :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:4.5.1`
 - :cd: `org.daisy.dotify.hyphenator` :left_right_arrow: `org.daisy.dotify:dotify.hyphenator.impl:4.0.0`
 - :cd: `org.daisy.dotify.tasks` :left_right_arrow: `org.daisy.dotify:dotify.task.impl:4.7.0`
 - :cd: `org.daisy.dotify.text` :left_right_arrow: `org.daisy.dotify:dotify.text.impl:4.0.0`
@@ -2806,81 +2807,81 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.jdt.launching.macosx` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.launching.macosx:3.4.200`
 - :cd: `org.eclipse.jdt.launching.ui.macosx` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.launching.ui.macosx:1.2.200`
 - :cd: `org.eclipse.jdt.ui` :left_right_arrow: `org.eclipse.jdt:org.eclipse.jdt.ui:3.17.0`
-- :cd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.openjdk8.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.openjdk8.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.ant` :left_right_arrow: `org.eclipse.jetty:jetty-ant:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.apache.jstl` :left_right_arrow: `org.eclipse.jetty:apache-jstl:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.cdi.cdi2` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-2:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.cdi.core` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-core:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.cdi.servlet` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-servlet:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.cdi.websocket` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-websocket:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.continuation` :left_right_arrow: `org.eclipse.jetty:jetty-continuation:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:9.4.17.v20190418`
+- :cd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.openjdk8.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.openjdk8.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-openjdk8-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.ant` :left_right_arrow: `org.eclipse.jetty:jetty-ant:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.apache.jstl` :left_right_arrow: `org.eclipse.jetty:apache-jstl:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.cdi.cdi2` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-2:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.cdi.core` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-core:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.cdi.servlet` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-servlet:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.cdi.websocket` :left_right_arrow: `org.eclipse.jetty.cdi:cdi-websocket:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.continuation` :left_right_arrow: `org.eclipse.jetty:jetty-continuation:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:9.4.18.v20190429`
 - :cd: `org.eclipse.jetty.embedded` :left_right_arrow: `org.eclipse.jetty:example-jetty-embedded:9.4.15.v20190215`
-- :cd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.gcloud.session` :left_right_arrow: `org.eclipse.jetty.gcloud:jetty-gcloud-session-manager:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.hazelcast` :left_right_arrow: `org.eclipse.jetty:jetty-hazelcast:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http.spi` :left_right_arrow: `org.eclipse.jetty:jetty-http-spi:9.4.17.v20190418`
+- :cd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.gcloud.session` :left_right_arrow: `org.eclipse.jetty.gcloud:jetty-gcloud-session-manager:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.hazelcast` :left_right_arrow: `org.eclipse.jetty:jetty-hazelcast:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http.spi` :left_right_arrow: `org.eclipse.jetty:jetty-http-spi:9.4.18.v20190429`
 - :cd: `org.eclipse.jetty.http2.alpn.tests` :left_right_arrow: `org.eclipse.jetty.http2:http2-alpn-tests:9.4.13.v20181111`
-- :cd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http2.client.http` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:9.4.17.v20190418`
+- :cd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http2.client.http` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:9.4.18.v20190429`
 - :cd: `org.eclipse.jetty.infinispan` :left_right_arrow: `org.eclipse.jetty:jetty-infinispan:9.4.16.v20190411`
-- :cd: `org.eclipse.jetty.infinispan.common` :left_right_arrow: `org.eclipse.jetty:infinispan-common:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.infinispan.embedded.query` :left_right_arrow: `org.eclipse.jetty:infinispan-embedded-query:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.infinispan.remote.query` :left_right_arrow: `org.eclipse.jetty:infinispan-remote-query:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.jspc.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-jspc-maven-plugin:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.maven.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-maven-plugin:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.memcached.session` :left_right_arrow: `org.eclipse.jetty.memcached:jetty-memcached-sessions:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.nosql` :left_right_arrow: `org.eclipse.jetty:jetty-nosql:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.alpn.fragment` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-alpn:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.boot` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.boot.jsp` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.boot.test.osgi` :left_right_arrow: `org.eclipse.jetty.osgi:test-jetty-osgi:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.boot.warurl` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-warurl:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.osgi.httpservice` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-httpservice:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.runner` :left_right_arrow: `org.eclipse.jetty:jetty-runner:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.start` :left_right_arrow: `org.eclipse.jetty:jetty-start:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.unixsocket` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-api:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.client` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-client:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.common` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-common:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.javax.websocket` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.javax.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-server:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.17.v20190418`
-- :cd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:9.4.17.v20190418`
+- :cd: `org.eclipse.jetty.infinispan.common` :left_right_arrow: `org.eclipse.jetty:infinispan-common:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.infinispan.embedded.query` :left_right_arrow: `org.eclipse.jetty:infinispan-embedded-query:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.infinispan.remote.query` :left_right_arrow: `org.eclipse.jetty:infinispan-remote-query:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.jspc.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-jspc-maven-plugin:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.maven.plugin` :left_right_arrow: `org.eclipse.jetty:jetty-maven-plugin:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.memcached.session` :left_right_arrow: `org.eclipse.jetty.memcached:jetty-memcached-sessions:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.nosql` :left_right_arrow: `org.eclipse.jetty:jetty-nosql:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.alpn.fragment` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-alpn:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.boot` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.boot.jsp` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.boot.test.osgi` :left_right_arrow: `org.eclipse.jetty.osgi:test-jetty-osgi:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.boot.warurl` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-osgi-boot-warurl:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.osgi.httpservice` :left_right_arrow: `org.eclipse.jetty.osgi:jetty-httpservice:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.runner` :left_right_arrow: `org.eclipse.jetty:jetty-runner:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.start` :left_right_arrow: `org.eclipse.jetty:jetty-start:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.unixsocket` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-api:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.client` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-client:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.common` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-common:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.javax.websocket` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client-impl:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.javax.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.server` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-server:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.18.v20190429`
+- :cd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:9.4.18.v20190429`
 - :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.3.1.201904271842-r`
 - :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.3.1.201904271842-r`
 - :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.3.1.201904271842-r`
@@ -2988,6 +2989,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta`
 - :cd: `org.fusesource.hawtjni.runtime` :left_right_arrow: `org.fusesource.hawtjni:hawtjni-runtime:1.17`
 - :cd: `org.fusesource.jansi` :left_right_arrow: `org.fusesource.jansi:jansi:1.18`
+- :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.0`
+- :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
 - :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:1.0.0-rc16`
 - :cd: `org.greencheek.caching.herdcache` :left_right_arrow: `org.greencheek.caching:herdcache:2.0.14`
@@ -3009,18 +3012,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.hibernate.orm.vibur` :left_right_arrow: `org.hibernate:hibernate-vibur:5.4.2.Final`
 - :cd: `org.hibernate.search.backend.elasticsearch` :left_right_arrow: `org.hibernate:hibernate-search-elasticsearch:5.11.1.Final`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` :left_right_arrow: `org.hibernate:hibernate-search-elasticsearch-aws:5.11.1.Final`
-- :cd: `org.hibernate.search.backend.lucene` :left_right_arrow: `org.hibernate.search:hibernate-search-backend-lucene:6.0.0.Alpha4`
+- :cd: `org.hibernate.search.backend.lucene` :left_right_arrow: `org.hibernate.search:hibernate-search-backend-lucene:6.0.0.Alpha5`
 - :cd: `org.hibernate.search.clustering.jgroups` :left_right_arrow: `org.hibernate:hibernate-search-backend-jgroups:5.11.1.Final`
 - :cd: `org.hibernate.search.clustering.jms` :left_right_arrow: `org.hibernate:hibernate-search-backend-jms:5.11.1.Final`
 - :cd: `org.hibernate.search.engine` :left_right_arrow: `org.hibernate:hibernate-search-engine:5.11.1.Final`
 - :cd: `org.hibernate.search.jsr352.core` :left_right_arrow: `org.hibernate:hibernate-search-jsr352-core:5.11.1.Final`
 - :cd: `org.hibernate.search.jsr352.jberet` :left_right_arrow: `org.hibernate:hibernate-search-jsr352-jberet:5.11.1.Final`
-- :cd: `org.hibernate.search.mapper.javabean` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-javabean:6.0.0.Alpha4`
-- :cd: `org.hibernate.search.mapper.orm` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-orm:6.0.0.Alpha4`
-- :cd: `org.hibernate.search.mapper.pojo` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-pojo:6.0.0.Alpha4`
+- :cd: `org.hibernate.search.mapper.javabean` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-javabean:6.0.0.Alpha5`
+- :cd: `org.hibernate.search.mapper.orm` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-orm:6.0.0.Alpha5`
+- :cd: `org.hibernate.search.mapper.pojo` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-pojo:6.0.0.Alpha5`
 - :cd: `org.hibernate.search.orm` :left_right_arrow: `org.hibernate:hibernate-search-orm:5.11.1.Final`
 - :cd: `org.hibernate.search.serialization.avro` :left_right_arrow: `org.hibernate:hibernate-search-serialization-avro:5.11.1.Final`
-- :cd: `org.hibernate.search.util.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-common:6.0.0.Alpha4`
+- :cd: `org.hibernate.search.util.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-common:6.0.0.Alpha5`
 - :cd: `org.hibernate.search.util.internal.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-internal-common:6.0.0.Alpha2`
 - :cd: `org.hibernate.validator` :left_right_arrow: `org.hibernate.validator:hibernate-validator:6.1.0.Alpha4`
 - :cd: `org.hibernate.validator.annotationprocessor` :left_right_arrow: `org.hibernate.validator:hibernate-validator-annotation-processor:6.1.0.Alpha4`

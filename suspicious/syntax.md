@@ -146,6 +146,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.33.Final` // `io.netty,netty-microbench,4.1.33.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.34.Final` // `io.netty,netty-microbench,4.1.34.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.35.Final` // `io.netty,netty-microbench,4.1.35.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.36.Final` // `io.netty,netty-microbench,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.29.Final` // `io.netty,netty-testsuite-autobahn,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.30.Final` // `io.netty,netty-testsuite-autobahn,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.31.Final` // `io.netty,netty-testsuite-autobahn,4.1.31.Final,-,-,automatic,-,false,-`
@@ -153,6 +154,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.33.Final` // `io.netty,netty-testsuite-autobahn,4.1.33.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.34.Final` // `io.netty,netty-testsuite-autobahn,4.1.34.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.35.Final` // `io.netty,netty-testsuite-autobahn,4.1.35.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.36.Final` // `io.netty,netty-testsuite-autobahn,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.29.Final` // `io.netty,netty-testsuite-http2,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.30.Final` // `io.netty,netty-testsuite-http2,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.31.Final` // `io.netty,netty-testsuite-http2,4.1.31.Final,-,-,automatic,-,false,-`
@@ -160,6 +162,8 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.33.Final` // `io.netty,netty-testsuite-http2,4.1.33.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.34.Final` // `io.netty,netty-testsuite-http2,4.1.34.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.35.Final` // `io.netty,netty-testsuite-http2,4.1.35.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.36.Final` // `io.netty,netty-testsuite-http2,4.1.36.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.36.Final` // `io.netty,netty-testsuite-native-image,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.29.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.30.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.31.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.31.Final,-,-,automatic,-,false,-`
@@ -167,6 +171,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.33.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.33.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.34.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.34.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.35.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.35.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.36.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52f` // `net.imagej,ij,1.52f,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52g` // `net.imagej,ij,1.52g,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52h` // `net.imagej,ij,1.52h,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
