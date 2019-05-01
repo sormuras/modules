@@ -1274,6 +1274,7 @@
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.1.0.M2` // `io.micronaut,micronaut-security,1.1.0.M2,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.1.0.RC1` // `io.micronaut,micronaut-security,1.1.0.RC1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.1.0.RC2` // `io.micronaut,micronaut-security,1.1.0.RC2,io.micronaut.security,-,automatic,-,false,-`
+- :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.1.1` // `io.micronaut,micronaut-security,1.1.1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0` // `io.micronaut,micronaut-security-jwt,1.0.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0.RC3` // `io.micronaut,micronaut-security-jwt,1.0.0.RC3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.1` // `io.micronaut,micronaut-security-jwt,1.0.1,io.micronaut.security_jwt,-,automatic,-,false,-`
@@ -1285,6 +1286,7 @@
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.1.0.M2` // `io.micronaut,micronaut-security-jwt,1.1.0.M2,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.1.0.RC1` // `io.micronaut,micronaut-security-jwt,1.1.0.RC1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.1.0.RC2` // `io.micronaut,micronaut-security-jwt,1.1.0.RC2,io.micronaut.security_jwt,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.1.1` // `io.micronaut,micronaut-security-jwt,1.1.1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0` // `io.micronaut,micronaut-security-session,1.0.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0.RC3` // `io.micronaut,micronaut-security-session,1.0.0.RC3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.1` // `io.micronaut,micronaut-security-session,1.0.1,io.micronaut.security_session,-,automatic,-,false,-`
@@ -1296,6 +1298,7 @@
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.1.0.M2` // `io.micronaut,micronaut-security-session,1.1.0.M2,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.1.0.RC1` // `io.micronaut,micronaut-security-session,1.1.0.RC1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.1.0.RC2` // `io.micronaut,micronaut-security-session,1.1.0.RC2,io.micronaut.security_session,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.1.1` // `io.micronaut,micronaut-security-session,1.1.1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0` // `io.micronaut,micronaut-session,1.0.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0.RC3` // `io.micronaut,micronaut-session,1.0.0.RC3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.1` // `io.micronaut,micronaut-session,1.0.1,io.micronaut.session,-,automatic,-,false,-`
@@ -1593,6 +1596,7 @@
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.11.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.11.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.8.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.8.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.9.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.9.0,org.apache.jena.jdbc,-,automatic,-,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.ardikars.jxnet:jxnet-example:1.5.5.RC5` // `com.ardikars.jxnet,jxnet-example,1.5.5.RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.arpitos:artos:0.0.1` // `com.arpitos,artos,0.0.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.criteo.java:garmadon-readers-elasticsearch:0.0.1` // `com.criteo.java,garmadon-readers-elasticsearch,0.0.1,org.apache.logging.log4j,-,explicit,java.base,false,java.awt.peer.ComponentPeer              Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.criteo.java:garmadon-readers-elasticsearch:1.0.0` // `com.criteo.java,garmadon-readers-elasticsearch,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,java.awt.peer.ComponentPeer              Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
@@ -1754,6 +1758,7 @@
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.6.0` // `org.checkerframework,checker-qual,2.6.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.7.0` // `org.checkerframework,checker-qual,2.7.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.8.0` // `org.checkerframework,checker-qual,2.8.0,org.checkerframework.checker.qual,-,automatic,-,false,-`
+- :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-qual:2.8.1` // `org.checkerframework,checker-qual,2.8.1,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:1.4.1` // `org.conscrypt,conscrypt-openjdk-uber,1.4.1,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:1.4.2` // `org.conscrypt,conscrypt-openjdk-uber,1.4.2,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` :left_right_arrow: `org.conscrypt:conscrypt-openjdk-uber:2.0.0` // `org.conscrypt,conscrypt-openjdk-uber,2.0.0,org.conscrypt,-,automatic,-,false,-`

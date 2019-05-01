@@ -3570,6 +3570,7 @@
 - :cd: `io.micronaut.neo4j_gorm` :left_right_arrow: `io.micronaut.configuration:micronaut-neo4j-gorm:1.1.0` // `io.micronaut.configuration,micronaut-neo4j-gorm,1.1.0,io.micronaut.neo4j_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.neo4j_gorm` :left_right_arrow: `io.micronaut.configuration:micronaut-neo4j-gorm:1.1.0.RC1` // `io.micronaut.configuration,micronaut-neo4j-gorm,1.1.0.RC1,io.micronaut.neo4j_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.neo4j_gorm` :left_right_arrow: `io.micronaut.configuration:micronaut-neo4j-gorm:1.1.0.RC2` // `io.micronaut.configuration,micronaut-neo4j-gorm,1.1.0.RC2,io.micronaut.neo4j_gorm,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_ldap` :left_right_arrow: `io.micronaut.configuration:micronaut-security-ldap:1.1.1` // `io.micronaut.configuration,micronaut-security-ldap,1.1.1,io.micronaut.security_ldap,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.core` :left_right_arrow: `io.swagger.core.v3:swagger-core:2.0.8` // `io.swagger.core.v3,swagger-core,2.0.8,io.swagger.v3.core,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.jaxrs2` :left_right_arrow: `io.swagger.core.v3:swagger-jaxrs2:2.0.8` // `io.swagger.core.v3,swagger-jaxrs2,2.0.8,io.swagger.v3.jaxrs2,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.jaxrs2.integration` :left_right_arrow: `io.swagger.core.v3:swagger-jaxrs2-servlet-initializer:2.0.8` // `io.swagger.core.v3,swagger-jaxrs2-servlet-initializer,2.0.8,io.swagger.v3.jaxrs2.integration,-,automatic,-,false,-`
