@@ -4326,6 +4326,7 @@
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.0.2` // `com.helger,parser-generator-cc,1.0.2,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.0` // `com.helger,parser-generator-cc,1.1.0,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.1` // `com.helger,parser-generator-cc,1.1.1,com.helger.parser-generator-cc,-,automatic,-,false,-`
+- :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.2` // `com.helger,parser-generator-cc,1.1.2,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.4.1` // `com.imsweb,staging-algorithm-eod-public,1.4.1,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.5` // `com.imsweb,staging-algorithm-eod-public,1.5,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.6` // `com.imsweb,staging-algorithm-eod-public,1.6,com.imsweb.staging.eod.public,-,automatic,-,false,-`
