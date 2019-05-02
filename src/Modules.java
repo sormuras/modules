@@ -39,6 +39,22 @@ public class Modules {
   private static final System.Logger logger = System.getLogger(Modules.class.getName());
   private static final Properties mavenGroupAlias = new Properties();
 
+  private static boolean isModuleRelatedLine(String line, Summary summary) {
+    if (line.equals(
+        "groupId,artifactId,version,moduleName,moduleVersion,moduleMode,moduleDependencies,jdepsToolError,jdepsViolations")) {
+      summary.linesCaptionCounter++;
+      return false; // skip caption line
+    }
+    if (line.contains(",-,-,?,-,")) {
+      return false; // skip plain jars - not automatic, nor explicit
+    }
+    if (summary.lines.contains(line)) {
+      summary.linesDuplicateCounter++;
+      return false; // skip duplicated line
+    }
+    return true;
+  }
+
   public static void main(String... args) throws Exception {
     var folder = Path.of(args.length == 0 ? "." : args[0]).normalize().toAbsolutePath();
     logger.log(DEBUG, "folder = {0}", folder);
@@ -47,26 +63,19 @@ public class Modules {
     }
     logger.log(DEBUG, "aliases = {0}", mavenGroupAlias);
 
-    var summary = new Summary(paths(folder));
+    var summary = new Summary(folder);
     System.out.printf("%nScanning %s files in %s for modules...%n%n", summary.paths.size(), folder);
 
     for (var path : summary.paths) {
       logger.log(DEBUG, "Reading all lines: {0}", path);
       for (var line : Files.readAllLines(path)) {
         summary.linesCounter++;
-        if (line.equals(
-            "groupId,artifactId,version,moduleName,moduleVersion,moduleMode,moduleDependencies,jdepsToolError,jdepsViolations")) {
-          continue; // skip caption line
+        if (isModuleRelatedLine(line, summary)) {
+          summary.lines.add(line);
+          logger.log(DEBUG, "Parsing line: {0}", line);
+        } else {
+          continue;
         }
-        if (line.contains(",-,-,?,-,")) {
-          continue; // skip plain jars - not automatic, nor explicit
-        }
-        if (summary.lines.contains(line)) {
-          summary.linesDuplicateCounter++;
-          continue; // skip duplicated line
-        }
-        summary.lines.add(line);
-        logger.log(DEBUG, "Parsing line: {0}", line);
 
         var candidate = new Module(line);
         var name = candidate.moduleName;
@@ -128,12 +137,6 @@ public class Modules {
     }
 
     summary.write();
-  }
-
-  private static List<Path> paths(Path root) throws Exception {
-    try (var stream = Files.walk(root)) {
-      return stream.filter(Files::isRegularFile).sorted().collect(toList());
-    }
   }
 
   static class Module implements Comparable<Module> {
@@ -255,14 +258,17 @@ public class Modules {
     final Set<String> lines = new HashSet<>();
 
     long linesCounter = 0L;
+    long linesCaptionCounter = 0L;
     long linesDuplicateCounter = 0L;
 
     final Set<Module> suspiciousImpostors = new TreeSet<>();
     final Set<Module> suspiciousNaming = new TreeSet<>();
     final Set<Module> suspiciousSyntax = new TreeSet<>();
 
-    Summary(List<Path> paths) {
-      this.paths = paths;
+    Summary(Path root) throws Exception {
+      try (var stream = Files.walk(root)) {
+        this.paths = stream.filter(Files::isRegularFile).sorted().collect(toList());
+      }
     }
 
     List<String> toStrings() {
@@ -281,6 +287,7 @@ public class Modules {
           String.format("    last -> %s", paths.get(paths.size() - 1).getFileName()),
           "",
           String.format("Parsed %,d lines in total.", linesCounter),
+          String.format("  %,d -> captions skipped", linesCaptionCounter),
           String.format("  %,d -> duplicates skipped", linesDuplicateCounter),
           String.format("  %,d -> module related", lines.size()),
           "",
