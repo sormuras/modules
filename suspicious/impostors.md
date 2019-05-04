@@ -1491,6 +1491,7 @@
 - :cd: `net.hamnaberg.json.jackson` :left_right_arrow: `net.hamnaberg.json:immutable-json-jackson:6.2.0` // `net.hamnaberg.json,immutable-json-jackson,6.2.0,net.hamnaberg.json.jackson,-,automatic,-,false,-`
 - :cd: `net.kyori.event` :left_right_arrow: `net.kyori:event-api:3.0.0` // `net.kyori,event-api,3.0.0,net.kyori.event,-,automatic,-,false,-`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:2.0.0` // `net.kyori,text-api,2.0.0,net.kyori.text,-,automatic,-,false,-`
+- :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:3.0.0` // `net.kyori,text-api,3.0.0,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
@@ -1539,6 +1540,7 @@
 - :cd: `org.apache.commons.lang3` :left_right_arrow: `de.knightsoft-net:gwt-commons-lang3:3.7-0` // `de.knightsoft-net,gwt-commons-lang3,3.7-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` :left_right_arrow: `de.knightsoft-net:gwt-commons-lang3:3.8-0` // `de.knightsoft-net,gwt-commons-lang3,3.8-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` :left_right_arrow: `de.knightsoft-net:gwt-commons-lang3:3.8.1-0` // `de.knightsoft-net,gwt-commons-lang3,3.8.1-0,org.apache.commons.lang3,-,automatic,-,false,-`
+- :cd: `org.apache.commons.lang3` :left_right_arrow: `de.knightsoft-net:gwt-commons-lang3:3.9-0` // `de.knightsoft-net,gwt-commons-lang3,3.9-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.text` :left_right_arrow: `com.jwebmp:commons-text:0.63.0.12` // `com.jwebmp,commons-text,0.63.0.12,org.apache.commons.text,-,automatic,-,false,-`
 - :cd: `org.apache.commons.text` :left_right_arrow: `com.jwebmp:commons-text:0.63.0.13` // `com.jwebmp,commons-text,0.63.0.13,org.apache.commons.text,-,automatic,-,false,-`
 - :cd: `org.apache.commons.text` :left_right_arrow: `com.jwebmp:commons-text:0.63.0.14` // `com.jwebmp,commons-text,0.63.0.14,org.apache.commons.text,-,automatic,-,false,-`

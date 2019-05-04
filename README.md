@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4090 Java modules published at Maven Central
 
-## Summary 2019-05-03T22:11:17.057475Z
+## Summary 2019-05-04T22:09:35.967352Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-03T22:11:17.057475Z
-Scanned 20,657 files in 2 seconds.
+Started scan at 2019-05-04T22:09:35.967352Z
+Scanned 20,726 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_03_21_39_56.csv
+    last -> modulescanner-report-2019_05_04_21_49_38.csv
 
-Parsed 1,251,024 lines in total.
-  24,579 -> captions skipped
-  74,023 -> duplicates skipped
-  46,840 -> module related
+Parsed 1,254,497 lines in total.
+  24,648 -> captions skipped
+  74,165 -> duplicates skipped
+  46,912 -> module related
 
 Collected 4,090 unique modules.
   automatic :cd: -> 3,172
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5167](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9013](suspicious/naming.md)
-- Modular impostors: [2225](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9015](suspicious/naming.md)
+- Modular impostors: [2227](suspicious/impostors.md)
 
 ## Unique Modules (4090)
 
@@ -150,7 +150,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.feature.resource.shared` :left_right_arrow: `be.yildiz-games:feature-resource-shared:1.0.4`
 - :dvd: `be.yildizgames.launcher.shared` :left_right_arrow: `be.yildiz-games:launcher-shared:1.0.3`
 - :dvd: `be.yildizgames.module.audio` :left_right_arrow: `be.yildiz-games:module-audio:2.0.6`
-- :dvd: `be.yildizgames.module.audio.openal` :left_right_arrow: `be.yildiz-games:module-audio-openal:2.0.8`
+- :dvd: `be.yildizgames.module.audio.openal` :left_right_arrow: `be.yildiz-games:module-audio-openal:2.0.11`
 - :dvd: `be.yildizgames.module.database` :left_right_arrow: `be.yildiz-games:module-database:2.0.4`
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.4`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
@@ -268,7 +268,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.longmapper` :left_right_arrow: `com.codahale:longmapper:0.1.1`
 - :cd: `com.codahale.passpol` :left_right_arrow: `com.codahale:passpol:0.6.2`
 - :cd: `com.codahale.shamir` :left_right_arrow: `com.codahale:shamir:0.7.0`
-- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.3.3`
+- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.1`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.2`
@@ -292,7 +292,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
 - :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.9`
-- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.10`
+- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.11`
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.9`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.18`
@@ -411,7 +411,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:2.0.0`
+- :cd: `com.github.mjeanroy.dbunit` :left_right_arrow: `com.github.mjeanroy:dbunit-plus:2.0.1`
 - :cd: `com.github.mjeanroy.exiftool` :left_right_arrow: `com.github.mjeanroy:exiftool-lib:2.5.0`
 - :cd: `com.github.mjeanroy.junit.servers.core` :left_right_arrow: `com.github.mjeanroy:junit-servers-core:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.jetty` :left_right_arrow: `com.github.mjeanroy:junit-servers-jetty:0.11.0`
@@ -716,7 +716,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.11`
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.11`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.19`
-- :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.12`
+- :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.13`
 - :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:5.2`
 - :cd: `com.imsweb.seerapi.client` :left_right_arrow: `com.imsweb:seerapi-client-java:3.14`
 - :cd: `com.imsweb.seerdata` :left_right_arrow: `com.imsweb:seerdata-utility:1.13`
@@ -1795,11 +1795,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.127`
 - :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.127`
 - :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.127`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.101`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.101`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.101`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.101`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.101`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.102`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.102`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.102`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.102`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.102`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.2.1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.12`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.12`
@@ -1904,9 +1904,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.regionfile` :left_right_arrow: `net.kyori:regionfile:1.0.1`
 - :cd: `net.kyori.storm` :left_right_arrow: `net.kyori:storm:1.0.0`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text:1.12-1.6.5`
-- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:2.0.0`
-- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:2.0.0`
-- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:2.0.0`
+- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:3.0.0`
+- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:3.0.0`
+- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:3.0.0`
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
@@ -2733,8 +2733,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.droolsjbpm.integration.examples` :left_right_arrow: `org.drools:droolsjbpm-integration-examples:7.20.0.Final`
 - :dvd: `org.dyn4j` :left_right_arrow: `org.dyn4j:dyn4j:3.3.0`
 - :cd: `org.easymock` :left_right_arrow: `org.easymock:easymock:4.0.2`
-- :cd: `org.eclipse.collections.api` :left_right_arrow: `org.eclipse.collections:eclipse-collections-api:10.0.0.M2`
-- :cd: `org.eclipse.collections.impl` :left_right_arrow: `org.eclipse.collections:eclipse-collections:10.0.0.M2`
+- :cd: `org.eclipse.collections.api` :left_right_arrow: `org.eclipse.collections:eclipse-collections-api:10.0.0.M3`
+- :cd: `org.eclipse.collections.impl` :left_right_arrow: `org.eclipse.collections:eclipse-collections:10.0.0.M3`
 - :cd: `org.eclipse.ecf` :left_right_arrow: `org.eclipse.ecf:org.eclipse.ecf:3.9.3`
 - :cd: `org.eclipse.ecf.console` :left_right_arrow: `org.eclipse.ecf:org.eclipse.ecf.console:1.3.0`
 - :cd: `org.eclipse.ecf.discovery` :left_right_arrow: `org.eclipse.ecf:org.eclipse.ecf.discovery:5.0.300`
@@ -3156,24 +3156,24 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jbpm.workitem.jms` :left_right_arrow: `org.jbpm:jbpm-workitems-jms:7.20.0.Final`
 - :cd: `org.jbpm.workitem.rest` :left_right_arrow: `org.jbpm:jbpm-workitems-rest:7.20.0.Final`
 - :cd: `org.jbpm.workitem.webservice` :left_right_arrow: `org.jbpm:jbpm-workitems-webservice:7.20.0.Final`
-- :cd: `org.jdbi.v3.commonstext` :left_right_arrow: `org.jdbi:jdbi3-commons-text:3.8.1`
-- :cd: `org.jdbi.v3.core` :left_right_arrow: `org.jdbi:jdbi3-core:3.8.1`
-- :cd: `org.jdbi.v3.freemarker` :left_right_arrow: `org.jdbi:jdbi3-freemarker:3.8.1`
-- :cd: `org.jdbi.v3.gson2` :left_right_arrow: `org.jdbi:jdbi3-gson2:3.8.1`
-- :cd: `org.jdbi.v3.guava` :left_right_arrow: `org.jdbi:jdbi3-guava:3.8.1`
-- :cd: `org.jdbi.v3.jackson2` :left_right_arrow: `org.jdbi:jdbi3-jackson2:3.8.1`
-- :cd: `org.jdbi.v3.jodatime2` :left_right_arrow: `org.jdbi:jdbi3-jodatime2:3.8.1`
-- :cd: `org.jdbi.v3.jpa` :left_right_arrow: `org.jdbi:jdbi3-jpa:3.8.1`
-- :cd: `org.jdbi.v3.json` :left_right_arrow: `org.jdbi:jdbi3-json:3.8.1`
-- :cd: `org.jdbi.v3.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin:3.8.1`
-- :cd: `org.jdbi.v3.postgres` :left_right_arrow: `org.jdbi:jdbi3-postgres:3.8.1`
-- :cd: `org.jdbi.v3.spring4` :left_right_arrow: `org.jdbi:jdbi3-spring4:3.8.1`
-- :cd: `org.jdbi.v3.sqlite` :left_right_arrow: `org.jdbi:jdbi3-sqlite:3.8.1`
-- :cd: `org.jdbi.v3.sqlobject` :left_right_arrow: `org.jdbi:jdbi3-sqlobject:3.8.1`
-- :cd: `org.jdbi.v3.sqlobject.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin-sqlobject:3.8.1`
-- :cd: `org.jdbi.v3.stringtemplate4` :left_right_arrow: `org.jdbi:jdbi3-stringtemplate4:3.8.1`
-- :cd: `org.jdbi.v3.testing` :left_right_arrow: `org.jdbi:jdbi3-testing:3.8.1`
-- :cd: `org.jdbi.v3.vavr` :left_right_arrow: `org.jdbi:jdbi3-vavr:3.8.1`
+- :cd: `org.jdbi.v3.commonstext` :left_right_arrow: `org.jdbi:jdbi3-commons-text:3.8.2`
+- :cd: `org.jdbi.v3.core` :left_right_arrow: `org.jdbi:jdbi3-core:3.8.2`
+- :cd: `org.jdbi.v3.freemarker` :left_right_arrow: `org.jdbi:jdbi3-freemarker:3.8.2`
+- :cd: `org.jdbi.v3.gson2` :left_right_arrow: `org.jdbi:jdbi3-gson2:3.8.2`
+- :cd: `org.jdbi.v3.guava` :left_right_arrow: `org.jdbi:jdbi3-guava:3.8.2`
+- :cd: `org.jdbi.v3.jackson2` :left_right_arrow: `org.jdbi:jdbi3-jackson2:3.8.2`
+- :cd: `org.jdbi.v3.jodatime2` :left_right_arrow: `org.jdbi:jdbi3-jodatime2:3.8.2`
+- :cd: `org.jdbi.v3.jpa` :left_right_arrow: `org.jdbi:jdbi3-jpa:3.8.2`
+- :cd: `org.jdbi.v3.json` :left_right_arrow: `org.jdbi:jdbi3-json:3.8.2`
+- :cd: `org.jdbi.v3.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin:3.8.2`
+- :cd: `org.jdbi.v3.postgres` :left_right_arrow: `org.jdbi:jdbi3-postgres:3.8.2`
+- :cd: `org.jdbi.v3.spring4` :left_right_arrow: `org.jdbi:jdbi3-spring4:3.8.2`
+- :cd: `org.jdbi.v3.sqlite` :left_right_arrow: `org.jdbi:jdbi3-sqlite:3.8.2`
+- :cd: `org.jdbi.v3.sqlobject` :left_right_arrow: `org.jdbi:jdbi3-sqlobject:3.8.2`
+- :cd: `org.jdbi.v3.sqlobject.kotlin` :left_right_arrow: `org.jdbi:jdbi3-kotlin-sqlobject:3.8.2`
+- :cd: `org.jdbi.v3.stringtemplate4` :left_right_arrow: `org.jdbi:jdbi3-stringtemplate4:3.8.2`
+- :cd: `org.jdbi.v3.testing` :left_right_arrow: `org.jdbi:jdbi3-testing:3.8.2`
+- :cd: `org.jdbi.v3.vavr` :left_right_arrow: `org.jdbi:jdbi3-vavr:3.8.2`
 - :cd: `org.jetbrains.annotations` :left_right_arrow: `org.jetbrains:annotations:17.0.0`
 - :cd: `org.jfree.fxgraphics2d` :left_right_arrow: `org.jfree:fxgraphics2d:1.8`
 - :cd: `org.jfree.jfreesvg` :left_right_arrow: `org.jfree:jfreesvg:3.4`
@@ -3324,38 +3324,38 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kordamp.gipsy` :left_right_arrow: `org.kordamp.gipsy:gipsy:0.6.0`
 - :cd: `org.kordamp.harmonicfx.core` :left_right_arrow: `org.kordamp.harmonicfx:harmonicfx-core:0.2.0`
 - :cd: `org.kordamp.ikonli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:2.3.0`
-- :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.elusive` :left_right_arrow: `org.kordamp.ikonli:ikonli-elusive-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.entypo` :left_right_arrow: `org.kordamp.ikonli:ikonli-entypo-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.feather` :left_right_arrow: `org.kordamp.ikonli:ikonli-feather-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.fontawesome` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.fontawesome5` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.fontelico` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontelico-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.foundation` :left_right_arrow: `org.kordamp.ikonli:ikonli-foundation-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.hawconsfilled` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.hawconsstroke` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.icomoon` :left_right_arrow: `org.kordamp.ikonli:ikonli-icomoon-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.ionicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.ionicons4` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons4-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.javafx` :left_right_arrow: `org.kordamp.ikonli:ikonli-javafx:11.3.3`
-- :dvd: `org.kordamp.ikonli.ligaturesymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.maki` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.maki2` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki2-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.mapicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-mapicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.material` :left_right_arrow: `org.kordamp.ikonli:ikonli-material-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.materialdesign` :left_right_arrow: `org.kordamp.ikonli:ikonli-materialdesign-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.metrizeicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.octicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-octicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.openiconic` :left_right_arrow: `org.kordamp.ikonli:ikonli-openiconic-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.paymentfont` :left_right_arrow: `org.kordamp.ikonli:ikonli-paymentfont-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.runestroicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-runestroicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.swing` :left_right_arrow: `org.kordamp.ikonli:ikonli-swing:11.3.3`
-- :dvd: `org.kordamp.ikonli.themify` :left_right_arrow: `org.kordamp.ikonli:ikonli-themify-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.typicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-typicons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.weathericons` :left_right_arrow: `org.kordamp.ikonli:ikonli-weathericons-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.3`
-- :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.3`
+- :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.elusive` :left_right_arrow: `org.kordamp.ikonli:ikonli-elusive-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.entypo` :left_right_arrow: `org.kordamp.ikonli:ikonli-entypo-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.feather` :left_right_arrow: `org.kordamp.ikonli:ikonli-feather-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.fontawesome` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.fontawesome5` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.fontelico` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontelico-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.foundation` :left_right_arrow: `org.kordamp.ikonli:ikonli-foundation-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.hawconsfilled` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.hawconsstroke` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.icomoon` :left_right_arrow: `org.kordamp.ikonli:ikonli-icomoon-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.ionicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.ionicons4` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons4-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.javafx` :left_right_arrow: `org.kordamp.ikonli:ikonli-javafx:11.3.4`
+- :dvd: `org.kordamp.ikonli.ligaturesymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.maki` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.maki2` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki2-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.mapicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-mapicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.material` :left_right_arrow: `org.kordamp.ikonli:ikonli-material-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.materialdesign` :left_right_arrow: `org.kordamp.ikonli:ikonli-materialdesign-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.metrizeicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.octicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-octicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.openiconic` :left_right_arrow: `org.kordamp.ikonli:ikonli-openiconic-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.paymentfont` :left_right_arrow: `org.kordamp.ikonli:ikonli-paymentfont-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.runestroicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-runestroicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.swing` :left_right_arrow: `org.kordamp.ikonli:ikonli-swing:11.3.4`
+- :dvd: `org.kordamp.ikonli.themify` :left_right_arrow: `org.kordamp.ikonli:ikonli-themify-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.typicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-typicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.weathericons` :left_right_arrow: `org.kordamp.ikonli:ikonli-weathericons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.4`
 - :cd: `org.kordamp.jipsy` :left_right_arrow: `org.kordamp.jipsy:jipsy:0.6.0`
 - :cd: `org.kordamp.jipsy.annotations` :left_right_arrow: `org.kordamp.jipsy:jipsy-annotations:0.6.0`
 - :cd: `org.kordamp.jipsy.util` :left_right_arrow: `org.kordamp.jipsy:jipsy-util:0.6.0`

@@ -3158,6 +3158,7 @@
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp.jre10:jwebmp-websockets:0.59.0.14` // `com.jwebmp.jre10,jwebmp-websockets,0.59.0.14,com.jwebmp.websockets,-,explicit,javax.servlet.api + javax.websocket.api + com.jwebmp.core + com.fasterxml.jackson.annotation + com.jwebmp.guicedinjection + java.logging + java.base + com.jwebmp.logmaster,true,-`
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp.jre11:jwebmp-websockets:0.62.0.1` // `com.jwebmp.jre11,jwebmp-websockets,0.62.0.1,com.jwebmp.websockets,-,explicit,com.fasterxml.jackson.annotation + com.jwebmp.core + com.jwebmp.guicedinjection + com.jwebmp.logmaster + java.base + java.logging + java.validation + javax.servlet.api + javax.websocket.api,false,-`
 - :cd: `com.novell.ldapchai` :left_right_arrow: `com.github.ldapchai:ldapchai:0.7.4` // `com.github.ldapchai,ldapchai,0.7.4,com.novell.ldapchai,-,automatic,-,false,-`
+- :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.14.0` // `net.sf.j8583,j8583,1.14.0,com.solab.j8583,-,automatic,-,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.3.2` // `org.glassfish.jaxb,codemodel,2.3.2,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180725.0644` // `org.glassfish.jaxb,codemodel,2.4.0-b180725.0644,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180830.0438` // `org.glassfish.jaxb,codemodel,2.4.0-b180830.0438,com.sun.codemodel,-,explicit,java.base,false,-`
@@ -7048,6 +7049,7 @@
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.0` // `org.kordamp.ikonli,ikonli-core,11.3.0,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.1` // `org.kordamp.ikonli,ikonli-core,11.3.1,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.3` // `org.kordamp.ikonli,ikonli-core,11.3.3,org.kordamp.iconli.core,-,explicit,java.base,false,-`
+- :dvd: `org.kordamp.iconli.core` :left_right_arrow: `org.kordamp.ikonli:ikonli-core:11.3.4` // `org.kordamp.ikonli,ikonli-core,11.3.4,org.kordamp.iconli.core,-,explicit,java.base,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1` // `org.rotstan.jts,jts-lab,1.16.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :cd: `org.locationtech.jts.lab` :left_right_arrow: `org.rotstan.jts:jts-lab:1.16.1.1` // `org.rotstan.jts,jts-lab,1.16.1.1,org.locationtech.jts.lab,-,automatic,-,false,-`
 - :dvd: `org.lwjgl.assimp.natives` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1,org.lwjgl.assimp.natives,-,explicit,java.base + org.lwjgl.assimp,false,-`
