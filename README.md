@@ -1,27 +1,27 @@
 # sormuras/modules
-Counted 4090 Java modules published at Maven Central
+Counted 4092 Java modules published at Maven Central
 
-## Summary 2019-05-04T22:09:35.967352Z
+## Summary 2019-05-05T22:10:44.746694Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-04T22:09:35.967352Z
-Scanned 20,726 files in 2 seconds.
+Started scan at 2019-05-05T22:10:44.746694Z
+Scanned 20,783 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_04_21_49_38.csv
+    last -> modulescanner-report-2019_05_05_21_52_13.csv
 
-Parsed 1,254,497 lines in total.
-  24,648 -> captions skipped
-  74,165 -> duplicates skipped
-  46,912 -> module related
+Parsed 1,257,171 lines in total.
+  24,702 -> captions skipped
+  74,269 -> duplicates skipped
+  46,980 -> module related
 
-Collected 4,090 unique modules.
-  automatic :cd: -> 3,172
+Collected 4,092 unique modules.
+  automatic :cd: -> 3,174
   explicit :dvd: -> 918
 
 ## Samples
-            junit -> junit:junit:4.13-beta-2
+            junit -> junit:junit:4.13-beta-3
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:7.1
 com.google.common -> com.google.guava:guava:27.1-jre
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5167](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9015](suspicious/naming.md)
+- Invalid module names: [5183](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9030](suspicious/naming.md)
 - Modular impostors: [2227](suspicious/impostors.md)
 
-## Unique Modules (4090)
+## Unique Modules (4092)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -189,10 +189,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `ch.rasc.wampspring.security` :left_right_arrow: `ch.rasc:wampspring-security:1.1.2`
 - :cd: `ch.rasc.wampspring.session` :left_right_arrow: `ch.rasc:wampspring-session:1.1.2`
 - :cd: `ch.rasc.xodusqueue` :left_right_arrow: `ch.rasc:xodus-queue:1.0.1`
-- :cd: `ch.softappeal.yass` :left_right_arrow: `ch.softappeal.yass:yass:65.0.1`
-- :cd: `ch.softappeal.yass.generate` :left_right_arrow: `ch.softappeal.yass:yass-generate:65.0.1`
-- :cd: `ch.softappeal.yass.transport.ktor` :left_right_arrow: `ch.softappeal.yass:yass-transport-ktor:65.0.1`
-- :cd: `ch.softappeal.yass.transport.ws` :left_right_arrow: `ch.softappeal.yass:yass-transport-ws:65.0.1`
+- :cd: `ch.softappeal.yass` :left_right_arrow: `ch.softappeal.yass:yass:65.0.2`
+- :cd: `ch.softappeal.yass.generate` :left_right_arrow: `ch.softappeal.yass:yass-generate:65.0.2`
+- :cd: `ch.softappeal.yass.transport.ktor` :left_right_arrow: `ch.softappeal.yass:yass-transport-ktor:65.0.2`
+- :cd: `ch.softappeal.yass.transport.ws` :left_right_arrow: `ch.softappeal.yass:yass-transport-ws:65.0.2`
 - :cd: `cn.nextop.gadget.etcd` :left_right_arrow: `cn.nextop:gadget-etcd:1.0.0-RC1`
 - :dvd: `cn.nextop.lite.pool` :left_right_arrow: `cn.nextop:lite-pool:1.0.0-RC3`
 - :cd: `co.elastic.apm.agent` :left_right_arrow: `co.elastic.apm:elastic-apm-agent:1.6.1`
@@ -268,7 +268,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.longmapper` :left_right_arrow: `com.codahale:longmapper:0.1.1`
 - :cd: `com.codahale.passpol` :left_right_arrow: `com.codahale:passpol:0.6.2`
 - :cd: `com.codahale.shamir` :left_right_arrow: `com.codahale:shamir:0.7.0`
-- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.1`
+- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.3`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.2`
@@ -391,11 +391,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.13.10`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.13.10`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.13.10`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.13.10`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.13.10`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.0`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.0`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.0`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.0`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.0`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -476,7 +476,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.vebqa.vebtaltestdata` :left_right_arrow: `com.github.vebqa:vebtal-testdata:0.9.1`
 - :cd: `com.github.vlsi.mxgraph.jgraphx` :left_right_arrow: `com.github.vlsi.mxgraph:jgraphx:3.9.8.1`
 - :cd: `com.github.wumpz.diffutils` :left_right_arrow: `com.github.wumpz:diffutils:3.0`
-- :cd: `com.github.zxhr.gradle_provider_enhancements` :left_right_arrow: `com.github.zxhr:gradle-provider-enhancements:0.2.0`
+- :cd: `com.github.zxhr.gradle_provider_enhancements` :left_right_arrow: `com.github.zxhr:gradle-provider-enhancements:0.3.0`
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.6`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.1`
@@ -596,16 +596,16 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.pd.client` :left_right_arrow: `com.helger:peppol-directory-client:0.7.1`
 - :cd: `com.helger.pd.indexer` :left_right_arrow: `com.helger:peppol-directory-indexer:0.7.1`
 - :cd: `com.helger.pdflayout4` :left_right_arrow: `com.helger:ph-pdf-layout4:5.0.9`
-- :cd: `com.helger.peppol` :left_right_arrow: `com.helger:peppol-commons:6.2.3`
+- :cd: `com.helger.peppol` :left_right_arrow: `com.helger:peppol-commons:6.2.4`
 - :cd: `com.helger.peppol.as2client` :left_right_arrow: `com.helger:as2-peppol-client:3.0.4`
 - :cd: `com.helger.peppol.as2servlet` :left_right_arrow: `com.helger:as2-peppol-servlet:5.0.3`
-- :cd: `com.helger.peppol.sbdh` :left_right_arrow: `com.helger:peppol-sbdh:6.2.3`
-- :cd: `com.helger.peppol.smlclient` :left_right_arrow: `com.helger:peppol-sml-client:6.2.3`
-- :cd: `com.helger.peppol.smpclient` :left_right_arrow: `com.helger:peppol-smp-client:6.2.3`
+- :cd: `com.helger.peppol.sbdh` :left_right_arrow: `com.helger:peppol-sbdh:6.2.4`
+- :cd: `com.helger.peppol.smlclient` :left_right_arrow: `com.helger:peppol-sml-client:6.2.4`
+- :cd: `com.helger.peppol.smpclient` :left_right_arrow: `com.helger:peppol-smp-client:6.2.4`
 - :cd: `com.helger.peppol.smpserver` :left_right_arrow: `com.helger:peppol-smp-server-library:5.1.1`
 - :cd: `com.helger.peppol.smpserver.data.sql` :left_right_arrow: `com.helger:peppol-smp-server-sql:5.1.1`
 - :cd: `com.helger.peppol.smpserver.data.xml` :left_right_arrow: `com.helger:peppol-smp-server-xml:5.1.1`
-- :cd: `com.helger.peppol.testfiles` :left_right_arrow: `com.helger:peppol-testfiles:6.2.3`
+- :cd: `com.helger.peppol.testfiles` :left_right_arrow: `com.helger:peppol-testfiles:6.2.4`
 - :cd: `com.helger.photon.atom` :left_right_arrow: `com.helger:ph-oton-atom:8.1.3`
 - :cd: `com.helger.photon.basic` :left_right_arrow: `com.helger:ph-oton-basic:8.1.3`
 - :cd: `com.helger.photon.bootstrap3` :left_right_arrow: `com.helger:ph-oton-bootstrap3:8.1.3`
@@ -661,11 +661,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xml` :left_right_arrow: `com.helger:ph-xml:9.3.2`
 - :cd: `com.helger.xmldsig` :left_right_arrow: `com.helger:ph-xmldsig:4.3.0`
 - :cd: `com.helger.xpath2` :left_right_arrow: `com.helger:ph-xpath2:0.1.0`
-- :cd: `com.helger.xsds.ccts.cct.schemamodule` :left_right_arrow: `com.helger:ph-xsds-ccts-cct-schemamodule:2.1.0`
-- :cd: `com.helger.xsds.xades132` :left_right_arrow: `com.helger:ph-xsds-xades132:2.1.0`
-- :cd: `com.helger.xsds.xades141` :left_right_arrow: `com.helger:ph-xsds-xades141:2.1.0`
-- :cd: `com.helger.xsds.xmldsig` :left_right_arrow: `com.helger:ph-xsds-xmldsig:2.1.0`
-- :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.1.0`
+- :cd: `com.helger.xsds.bdxr.smp1` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp1:2.2.1`
+- :cd: `com.helger.xsds.bdxr.smp2` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp2:2.2.1`
+- :cd: `com.helger.xsds.ccts.cct.schemamodule` :left_right_arrow: `com.helger:ph-xsds-ccts-cct-schemamodule:2.2.1`
+- :cd: `com.helger.xsds.xades132` :left_right_arrow: `com.helger:ph-xsds-xades132:2.2.1`
+- :cd: `com.helger.xsds.xades141` :left_right_arrow: `com.helger:ph-xsds-xades141:2.2.1`
+- :cd: `com.helger.xsds.xmldsig` :left_right_arrow: `com.helger:ph-xsds-xmldsig:2.2.1`
+- :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.1`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
 - :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.9`
@@ -1787,14 +1789,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.icalendarfx` :left_right_arrow: `org.jfxtras:jfxtras-icalendarfx:10.0-r1`
 - :dvd: `jfxtras.menu` :left_right_arrow: `org.jfxtras:jfxtras-menu:10.0-r1`
 - :dvd: `jfxtras.window` :left_right_arrow: `org.jfxtras:jfxtras-window:10.0-r1`
-- :cd: `junit` :left_right_arrow: `junit:junit:4.13-beta-2`
+- :cd: `junit` :left_right_arrow: `junit:junit:4.13-beta-3`
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.127`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.127`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.127`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.127`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.128`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.128`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.128`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.128`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.102`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.102`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.102`
@@ -1830,7 +1832,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.0`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.1`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
