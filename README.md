@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4092 Java modules published at Maven Central
+Counted 4094 Java modules published at Maven Central
 
-## Summary 2019-05-05T22:10:44.746694Z
+## Summary 2019-05-06T22:11:23.597264Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-05T22:10:44.746694Z
-Scanned 20,783 files in 2 seconds.
+Started scan at 2019-05-06T22:11:23.597264Z
+Scanned 20,857 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_05_21_52_13.csv
+    last -> modulescanner-report-2019_05_06_22_01_46.csv
 
-Parsed 1,257,171 lines in total.
-  24,702 -> captions skipped
-  74,269 -> duplicates skipped
-  46,980 -> module related
+Parsed 1,262,809 lines in total.
+  24,776 -> captions skipped
+  74,774 -> duplicates skipped
+  47,248 -> module related
 
-Collected 4,092 unique modules.
-  automatic :cd: -> 3,174
+Collected 4,094 unique modules.
+  automatic :cd: -> 3,176
   explicit :dvd: -> 918
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5183](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9030](suspicious/naming.md)
-- Modular impostors: [2227](suspicious/impostors.md)
+- Invalid module names: [5187](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9090](suspicious/naming.md)
+- Modular impostors: [2327](suspicious/impostors.md)
 
-## Unique Modules (4092)
+## Unique Modules (4094)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -356,7 +356,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8`
 - :cd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.9.8`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
-- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.0`
+- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.1`
 - :cd: `com.github.akarnokd.rxjava2jdk9interop` :left_right_arrow: `com.github.akarnokd:rxjava2-jdk9-interop:0.2.4`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
@@ -399,7 +399,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
-- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.16`
+- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.17`
+- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.17`
+- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.17`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.0-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
@@ -476,7 +478,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.vebqa.vebtaltestdata` :left_right_arrow: `com.github.vebqa:vebtal-testdata:0.9.1`
 - :cd: `com.github.vlsi.mxgraph.jgraphx` :left_right_arrow: `com.github.vlsi.mxgraph:jgraphx:3.9.8.1`
 - :cd: `com.github.wumpz.diffutils` :left_right_arrow: `com.github.wumpz:diffutils:3.0`
-- :cd: `com.github.zxhr.gradle_provider_enhancements` :left_right_arrow: `com.github.zxhr:gradle-provider-enhancements:0.3.0`
+- :cd: `com.github.zxhr.gradle_provider_enhancements` :left_right_arrow: `com.github.zxhr:gradle-provider-enhancements:0.3.1`
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.6`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.1`
@@ -537,7 +539,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.as4.esens` :left_right_arrow: `com.helger:ph-as4-esens:0.8.2`
 - :cd: `com.helger.as4.servlet` :left_right_arrow: `com.helger:ph-as4-servlet:0.8.2`
 - :cd: `com.helger.asic` :left_right_arrow: `com.helger:ph-asic:1.3.0`
-- :cd: `com.helger.bc` :left_right_arrow: `com.helger:ph-bc:9.3.2`
+- :cd: `com.helger.bc` :left_right_arrow: `com.helger:ph-bc:9.3.3`
 - :cd: `com.helger.bde` :left_right_arrow: `com.helger:ph-bde:2.1.0`
 - :cd: `com.helger.bdve` :left_right_arrow: `com.helger:ph-bdve:5.1.6`
 - :cd: `com.helger.bdve.cii` :left_right_arrow: `com.helger:ph-bdve-cii:5.1.6`
@@ -551,16 +553,16 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.bdve.teapps` :left_right_arrow: `com.helger:ph-bdve-teapps:5.1.6`
 - :cd: `com.helger.bdve.ubl` :left_right_arrow: `com.helger:ph-bdve-ubl:5.1.6`
 - :cd: `com.helger.bdve.ublbe` :left_right_arrow: `com.helger:ph-bdve-ublbe:5.1.6`
-- :cd: `com.helger.charset` :left_right_arrow: `com.helger:ph-charset:9.3.2`
+- :cd: `com.helger.charset` :left_right_arrow: `com.helger:ph-charset:9.3.3`
 - :cd: `com.helger.cii.d16a1` :left_right_arrow: `com.helger:ph-cii-d16a-1:2.1.1`
 - :cd: `com.helger.cii.d16b` :left_right_arrow: `com.helger:ph-cii-d16b:2.1.1`
 - :cd: `com.helger.cii.testfiles` :left_right_arrow: `com.helger:ph-cii-testfiles:2.1.1`
-- :cd: `com.helger.cli` :left_right_arrow: `com.helger:ph-cli:9.3.2`
-- :cd: `com.helger.collection` :left_right_arrow: `com.helger:ph-collection:9.3.2`
-- :cd: `com.helger.commons` :left_right_arrow: `com.helger:ph-commons:9.3.2`
+- :cd: `com.helger.cli` :left_right_arrow: `com.helger:ph-cli:9.3.3`
+- :cd: `com.helger.collection` :left_right_arrow: `com.helger:ph-collection:9.3.3`
+- :cd: `com.helger.commons` :left_right_arrow: `com.helger:ph-commons:9.3.3`
 - :cd: `com.helger.css` :left_right_arrow: `com.helger:ph-css:6.1.2`
-- :cd: `com.helger.dao` :left_right_arrow: `com.helger:ph-dao:9.3.2`
-- :cd: `com.helger.datetime` :left_right_arrow: `com.helger:ph-datetime:9.3.2`
+- :cd: `com.helger.dao` :left_right_arrow: `com.helger:ph-dao:9.3.3`
+- :cd: `com.helger.datetime` :left_right_arrow: `com.helger:ph-datetime:9.3.3`
 - :cd: `com.helger.db.api` :left_right_arrow: `com.helger:ph-db-api:6.1.4`
 - :cd: `com.helger.db.jdbc` :left_right_arrow: `com.helger:ph-db-jdbc:6.1.4`
 - :cd: `com.helger.db.jpa` :left_right_arrow: `com.helger:ph-db-jpa:6.1.4`
@@ -576,20 +578,20 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.font.roboto` :left_right_arrow: `com.helger:ph-fonts-roboto:4.0.1`
 - :cd: `com.helger.font.source_sans_pro` :left_right_arrow: `com.helger:ph-fonts-source-sans-pro:4.0.1`
 - :cd: `com.helger.genericode` :left_right_arrow: `com.helger:ph-genericode:6.1.0`
-- :cd: `com.helger.graph` :left_right_arrow: `com.helger:ph-graph:9.3.2`
+- :cd: `com.helger.graph` :left_right_arrow: `com.helger:ph-graph:9.3.3`
 - :cd: `com.helger.holiday` :left_right_arrow: `com.helger:ph-holiday:6.0.1`
 - :cd: `com.helger.http` :left_right_arrow: `com.helger:ph-http:9.1.1`
 - :cd: `com.helger.httpclient` :left_right_arrow: `com.helger:ph-httpclient:9.1.1`
-- :cd: `com.helger.jaxb` :left_right_arrow: `com.helger:ph-jaxb:9.3.2`
+- :cd: `com.helger.jaxb` :left_right_arrow: `com.helger:ph-jaxb:9.3.3`
 - :cd: `com.helger.jcodemodel` :left_right_arrow: `com.helger:jcodemodel:3.2.3`
 - :cd: `com.helger.jdmc.core` :left_right_arrow: `com.helger:ph-jdmc-core:0.0.3`
 - :cd: `com.helger.jdmc.example` :left_right_arrow: `com.helger:ph-jdmc-example:0.0.3`
-- :cd: `com.helger.json` :left_right_arrow: `com.helger:ph-json:9.3.2`
-- :cd: `com.helger.lesscommons` :left_right_arrow: `com.helger:ph-less-commons:9.3.2`
+- :cd: `com.helger.json` :left_right_arrow: `com.helger:ph-json:9.3.3`
+- :cd: `com.helger.lesscommons` :left_right_arrow: `com.helger:ph-less-commons:9.3.3`
 - :cd: `com.helger.mail` :left_right_arrow: `com.helger:ph-mail:9.1.1`
 - :cd: `com.helger.masterdata` :left_right_arrow: `com.helger:ph-masterdata:6.1.3`
 - :cd: `com.helger.math` :left_right_arrow: `com.helger:ph-math:4.0.0`
-- :cd: `com.helger.matrix` :left_right_arrow: `com.helger:ph-matrix:9.3.2`
+- :cd: `com.helger.matrix` :left_right_arrow: `com.helger:ph-matrix:9.3.3`
 - :cd: `com.helger.network` :left_right_arrow: `com.helger:ph-network:9.1.1`
 - :cd: `com.helger.pd` :left_right_arrow: `com.helger:peppol-directory-api:0.7.0`
 - :cd: `com.helger.pd.businesscard` :left_right_arrow: `com.helger:peppol-directory-businesscard:0.7.1`
@@ -637,14 +639,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.schematron.testfiles` :left_right_arrow: `com.helger:ph-schematron-testfiles:5.0.9`
 - :cd: `com.helger.schematron.validator` :left_right_arrow: `com.helger:ph-schematron-validator:5.0.9`
 - :cd: `com.helger.scope` :left_right_arrow: `com.helger:ph-scopes:9.2.1`
-- :cd: `com.helger.scopes` :left_right_arrow: `com.helger:ph-scopes:9.3.2`
-- :cd: `com.helger.security` :left_right_arrow: `com.helger:ph-security:9.3.2`
+- :cd: `com.helger.scopes` :left_right_arrow: `com.helger:ph-scopes:9.3.3`
+- :cd: `com.helger.security` :left_right_arrow: `com.helger:ph-security:9.3.3`
 - :cd: `com.helger.servlet` :left_right_arrow: `com.helger:ph-servlet:9.1.1`
-- :cd: `com.helger.settings` :left_right_arrow: `com.helger:ph-settings:9.3.2`
+- :cd: `com.helger.settings` :left_right_arrow: `com.helger:ph-settings:9.3.3`
 - :cd: `com.helger.sitemap` :left_right_arrow: `com.helger:ph-sitemap:9.1.1`
 - :cd: `com.helger.smtp` :left_right_arrow: `com.helger:ph-smtp:9.1.1`
 - :cd: `com.helger.tenancy` :left_right_arrow: `com.helger:ph-tenancy:6.1.3`
-- :cd: `com.helger.tree` :left_right_arrow: `com.helger:ph-tree:9.3.2`
+- :cd: `com.helger.tree` :left_right_arrow: `com.helger:ph-tree:9.3.3`
 - :cd: `com.helger.ubl.api` :left_right_arrow: `com.helger:ph-ubl-api:6.1.1`
 - :cd: `com.helger.ubl.testfiles` :left_right_arrow: `com.helger:ph-ubl-testfiles:6.1.1`
 - :cd: `com.helger.ubl20` :left_right_arrow: `com.helger:ph-ubl20:6.1.1`
@@ -657,17 +659,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.ubltr` :left_right_arrow: `com.helger:ph-ubltr:6.1.1`
 - :cd: `com.helger.useragent` :left_right_arrow: `com.helger:ph-useragent:9.1.1`
 - :cd: `com.helger.web` :left_right_arrow: `com.helger:ph-web:9.1.1`
-- :cd: `com.helger.wsclient` :left_right_arrow: `com.helger:ph-wsclient:9.3.2`
-- :cd: `com.helger.xml` :left_right_arrow: `com.helger:ph-xml:9.3.2`
+- :cd: `com.helger.wsclient` :left_right_arrow: `com.helger:ph-wsclient:9.3.3`
+- :cd: `com.helger.xml` :left_right_arrow: `com.helger:ph-xml:9.3.3`
 - :cd: `com.helger.xmldsig` :left_right_arrow: `com.helger:ph-xmldsig:4.3.0`
 - :cd: `com.helger.xpath2` :left_right_arrow: `com.helger:ph-xpath2:0.1.0`
-- :cd: `com.helger.xsds.bdxr.smp1` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp1:2.2.1`
-- :cd: `com.helger.xsds.bdxr.smp2` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp2:2.2.1`
-- :cd: `com.helger.xsds.ccts.cct.schemamodule` :left_right_arrow: `com.helger:ph-xsds-ccts-cct-schemamodule:2.2.1`
-- :cd: `com.helger.xsds.xades132` :left_right_arrow: `com.helger:ph-xsds-xades132:2.2.1`
-- :cd: `com.helger.xsds.xades141` :left_right_arrow: `com.helger:ph-xsds-xades141:2.2.1`
-- :cd: `com.helger.xsds.xmldsig` :left_right_arrow: `com.helger:ph-xsds-xmldsig:2.2.1`
-- :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.1`
+- :cd: `com.helger.xsds.bdxr.smp1` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp1:2.2.2`
+- :cd: `com.helger.xsds.bdxr.smp2` :left_right_arrow: `com.helger:ph-xsds-bdxr-smp2:2.2.2`
+- :cd: `com.helger.xsds.ccts.cct.schemamodule` :left_right_arrow: `com.helger:ph-xsds-ccts-cct-schemamodule:2.2.2`
+- :cd: `com.helger.xsds.xades132` :left_right_arrow: `com.helger:ph-xsds-xades132:2.2.2`
+- :cd: `com.helger.xsds.xades141` :left_right_arrow: `com.helger:ph-xsds-xades141:2.2.2`
+- :cd: `com.helger.xsds.xmldsig` :left_right_arrow: `com.helger:ph-xsds-xmldsig:2.2.2`
+- :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.2`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
 - :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.9`
@@ -903,7 +905,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.5`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.7`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -917,7 +919,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.5`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.7`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -1690,12 +1692,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.norberg.automatter.processor` :left_right_arrow: `io.norberg:auto-matter:0.15.2`
 - :dvd: `io.norberg.rut` :left_right_arrow: `io.norberg:rut:1.0.1`
 - :cd: `io.norberg.rut.benchmark` :left_right_arrow: `io.norberg:rut-benchmark:1.0.1`
-- :cd: `io.opentracing.api` :left_right_arrow: `io.opentracing:opentracing-api:0.32.0`
+- :cd: `io.opentracing.api` :left_right_arrow: `io.opentracing:opentracing-api:0.33.0`
 - :cd: `io.opentracing.contrib.jms1` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-1:0.1.0`
 - :cd: `io.opentracing.contrib.jms2` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-2:0.1.0`
-- :cd: `io.opentracing.mock` :left_right_arrow: `io.opentracing:opentracing-mock:0.32.0`
-- :cd: `io.opentracing.noop` :left_right_arrow: `io.opentracing:opentracing-noop:0.32.0`
-- :cd: `io.opentracing.util` :left_right_arrow: `io.opentracing:opentracing-util:0.32.0`
+- :cd: `io.opentracing.mock` :left_right_arrow: `io.opentracing:opentracing-mock:0.33.0`
+- :cd: `io.opentracing.noop` :left_right_arrow: `io.opentracing:opentracing-noop:0.33.0`
+- :cd: `io.opentracing.util` :left_right_arrow: `io.opentracing:opentracing-util:0.33.0`
 - :cd: `io.pebbletemplates` :left_right_arrow: `io.pebbletemplates:pebble:3.0.9`
 - :cd: `io.pebbletemplates.spring` :left_right_arrow: `io.pebbletemplates:pebble-spring3:3.0.9`
 - :cd: `io.pebbletemplates.spring.boot` :left_right_arrow: `io.pebbletemplates:pebble-spring-boot-2-starter:3.0.9`
@@ -1832,7 +1834,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.1`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.3`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
@@ -2627,7 +2629,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.daisy.braille.utils.api` :left_right_arrow: `org.daisy.braille:braille-utils.api:5.1.1`
 - :cd: `org.daisy.braille.utils.impl` :left_right_arrow: `org.daisy.braille:braille-utils.impl:6.0.0`
 - :cd: `org.daisy.braille.utils.pef` :left_right_arrow: `org.daisy.braille:braille-utils.pef-tools:5.0.2`
-- :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:4.6.0`
+- :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:4.7.0`
 - :cd: `org.daisy.dotify.common` :left_right_arrow: `org.daisy.dotify:dotify.common:4.3.1`
 - :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:4.5.1`
 - :cd: `org.daisy.dotify.hyphenator` :left_right_arrow: `org.daisy.dotify:dotify.hyphenator.impl:4.0.0`
@@ -2977,27 +2979,27 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.1`
 - :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.1`
 - :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.1`
-- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M1`
-- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M1`
-- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M1`
-- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.18.0.M1`
-- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.18.0.M1`
-- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.18.0.M1`
-- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.18.0.M1`
-- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.18.0.M1`
-- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.18.0.M1`
-- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.18.0.M1`
-- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.18.0.M1`
-- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.18.0.M1`
-- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.18.0.M1`
-- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.18.0.M1`
+- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M2`
+- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M2`
+- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M2`
+- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.18.0.M2`
+- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.18.0.M2`
+- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.18.0.M2`
+- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.18.0.M2`
+- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.18.0.M2`
+- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.18.0.M2`
+- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.18.0.M2`
+- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.18.0.M2`
+- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.18.0.M2`
+- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.18.0.M2`
+- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.18.0.M2`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.3`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.9`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta`
@@ -3373,43 +3375,43 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.linguafranca.pwdb.kdbx.simple` :left_right_arrow: `org.linguafranca.pwdb:KeePassJava2-simple:2.1.4`
 - :cd: `org.locationtech.jts` :left_right_arrow: `org.locationtech.jts:jts-core:1.16.1`
 - :cd: `org.locationtech.jts.io` :left_right_arrow: `org.locationtech.jts.io:jts-io-common:1.16.1`
-- :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.1`
-- :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.1`
-- :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl:lwjgl-bgfx:3.2.1`
-- :dvd: `org.lwjgl.cuda` :left_right_arrow: `org.lwjgl:lwjgl-cuda:3.2.1`
-- :dvd: `org.lwjgl.egl` :left_right_arrow: `org.lwjgl:lwjgl-egl:3.2.1`
-- :dvd: `org.lwjgl.glfw` :left_right_arrow: `org.lwjgl:lwjgl-glfw:3.2.1`
-- :dvd: `org.lwjgl.jawt` :left_right_arrow: `org.lwjgl:lwjgl-jawt:3.2.1`
-- :dvd: `org.lwjgl.jemalloc` :left_right_arrow: `org.lwjgl:lwjgl-jemalloc:3.2.1`
-- :dvd: `org.lwjgl.libdivide` :left_right_arrow: `org.lwjgl:lwjgl-libdivide:3.2.1`
-- :dvd: `org.lwjgl.llvm` :left_right_arrow: `org.lwjgl:lwjgl-llvm:3.2.1`
-- :dvd: `org.lwjgl.lmdb` :left_right_arrow: `org.lwjgl:lwjgl-lmdb:3.2.1`
-- :dvd: `org.lwjgl.lz4` :left_right_arrow: `org.lwjgl:lwjgl-lz4:3.2.1`
-- :dvd: `org.lwjgl.meow` :left_right_arrow: `org.lwjgl:lwjgl-meow:3.2.1`
-- :dvd: `org.lwjgl.nanovg` :left_right_arrow: `org.lwjgl:lwjgl-nanovg:3.2.1`
-- :dvd: `org.lwjgl.nfd` :left_right_arrow: `org.lwjgl:lwjgl-nfd:3.2.1`
-- :dvd: `org.lwjgl.nuklear` :left_right_arrow: `org.lwjgl:lwjgl-nuklear:3.2.1`
-- :dvd: `org.lwjgl.odbc` :left_right_arrow: `org.lwjgl:lwjgl-odbc:3.2.1`
-- :dvd: `org.lwjgl.openal` :left_right_arrow: `org.lwjgl:lwjgl-openal:3.2.1`
-- :dvd: `org.lwjgl.opencl` :left_right_arrow: `org.lwjgl:lwjgl-opencl:3.2.1`
-- :dvd: `org.lwjgl.opengl` :left_right_arrow: `org.lwjgl:lwjgl-opengl:3.2.1`
-- :dvd: `org.lwjgl.opengles` :left_right_arrow: `org.lwjgl:lwjgl-opengles:3.2.1`
-- :dvd: `org.lwjgl.openvr` :left_right_arrow: `org.lwjgl:lwjgl-openvr:3.2.1`
-- :dvd: `org.lwjgl.opus` :left_right_arrow: `org.lwjgl:lwjgl-opus:3.2.1`
-- :dvd: `org.lwjgl.ovr` :left_right_arrow: `org.lwjgl:lwjgl-ovr:3.2.1`
-- :dvd: `org.lwjgl.par` :left_right_arrow: `org.lwjgl:lwjgl-par:3.2.1`
-- :dvd: `org.lwjgl.remotery` :left_right_arrow: `org.lwjgl:lwjgl-remotery:3.2.1`
-- :dvd: `org.lwjgl.rpmalloc` :left_right_arrow: `org.lwjgl:lwjgl-rpmalloc:3.2.1`
-- :dvd: `org.lwjgl.sse` :left_right_arrow: `org.lwjgl:lwjgl-sse:3.2.1`
-- :dvd: `org.lwjgl.stb` :left_right_arrow: `org.lwjgl:lwjgl-stb:3.2.1`
-- :dvd: `org.lwjgl.tinyexr` :left_right_arrow: `org.lwjgl:lwjgl-tinyexr:3.2.1`
-- :dvd: `org.lwjgl.tinyfd` :left_right_arrow: `org.lwjgl:lwjgl-tinyfd:3.2.1`
-- :dvd: `org.lwjgl.tootle` :left_right_arrow: `org.lwjgl:lwjgl-tootle:3.2.1`
-- :dvd: `org.lwjgl.vma` :left_right_arrow: `org.lwjgl:lwjgl-vma:3.2.1`
-- :dvd: `org.lwjgl.vulkan` :left_right_arrow: `org.lwjgl:lwjgl-vulkan:3.2.1`
-- :dvd: `org.lwjgl.xxhash` :left_right_arrow: `org.lwjgl:lwjgl-xxhash:3.2.1`
-- :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.1`
-- :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.1`
+- :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.2`
+- :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.2`
+- :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl:lwjgl-bgfx:3.2.2`
+- :dvd: `org.lwjgl.cuda` :left_right_arrow: `org.lwjgl:lwjgl-cuda:3.2.2`
+- :dvd: `org.lwjgl.egl` :left_right_arrow: `org.lwjgl:lwjgl-egl:3.2.2`
+- :dvd: `org.lwjgl.glfw` :left_right_arrow: `org.lwjgl:lwjgl-glfw:3.2.2`
+- :dvd: `org.lwjgl.jawt` :left_right_arrow: `org.lwjgl:lwjgl-jawt:3.2.2`
+- :dvd: `org.lwjgl.jemalloc` :left_right_arrow: `org.lwjgl:lwjgl-jemalloc:3.2.2`
+- :dvd: `org.lwjgl.libdivide` :left_right_arrow: `org.lwjgl:lwjgl-libdivide:3.2.2`
+- :dvd: `org.lwjgl.llvm` :left_right_arrow: `org.lwjgl:lwjgl-llvm:3.2.2`
+- :dvd: `org.lwjgl.lmdb` :left_right_arrow: `org.lwjgl:lwjgl-lmdb:3.2.2`
+- :dvd: `org.lwjgl.lz4` :left_right_arrow: `org.lwjgl:lwjgl-lz4:3.2.2`
+- :dvd: `org.lwjgl.meow` :left_right_arrow: `org.lwjgl:lwjgl-meow:3.2.2`
+- :dvd: `org.lwjgl.nanovg` :left_right_arrow: `org.lwjgl:lwjgl-nanovg:3.2.2`
+- :dvd: `org.lwjgl.nfd` :left_right_arrow: `org.lwjgl:lwjgl-nfd:3.2.2`
+- :dvd: `org.lwjgl.nuklear` :left_right_arrow: `org.lwjgl:lwjgl-nuklear:3.2.2`
+- :dvd: `org.lwjgl.odbc` :left_right_arrow: `org.lwjgl:lwjgl-odbc:3.2.2`
+- :dvd: `org.lwjgl.openal` :left_right_arrow: `org.lwjgl:lwjgl-openal:3.2.2`
+- :dvd: `org.lwjgl.opencl` :left_right_arrow: `org.lwjgl:lwjgl-opencl:3.2.2`
+- :dvd: `org.lwjgl.opengl` :left_right_arrow: `org.lwjgl:lwjgl-opengl:3.2.2`
+- :dvd: `org.lwjgl.opengles` :left_right_arrow: `org.lwjgl:lwjgl-opengles:3.2.2`
+- :dvd: `org.lwjgl.openvr` :left_right_arrow: `org.lwjgl:lwjgl-openvr:3.2.2`
+- :dvd: `org.lwjgl.opus` :left_right_arrow: `org.lwjgl:lwjgl-opus:3.2.2`
+- :dvd: `org.lwjgl.ovr` :left_right_arrow: `org.lwjgl:lwjgl-ovr:3.2.2`
+- :dvd: `org.lwjgl.par` :left_right_arrow: `org.lwjgl:lwjgl-par:3.2.2`
+- :dvd: `org.lwjgl.remotery` :left_right_arrow: `org.lwjgl:lwjgl-remotery:3.2.2`
+- :dvd: `org.lwjgl.rpmalloc` :left_right_arrow: `org.lwjgl:lwjgl-rpmalloc:3.2.2`
+- :dvd: `org.lwjgl.sse` :left_right_arrow: `org.lwjgl:lwjgl-sse:3.2.2`
+- :dvd: `org.lwjgl.stb` :left_right_arrow: `org.lwjgl:lwjgl-stb:3.2.2`
+- :dvd: `org.lwjgl.tinyexr` :left_right_arrow: `org.lwjgl:lwjgl-tinyexr:3.2.2`
+- :dvd: `org.lwjgl.tinyfd` :left_right_arrow: `org.lwjgl:lwjgl-tinyfd:3.2.2`
+- :dvd: `org.lwjgl.tootle` :left_right_arrow: `org.lwjgl:lwjgl-tootle:3.2.2`
+- :dvd: `org.lwjgl.vma` :left_right_arrow: `org.lwjgl:lwjgl-vma:3.2.2`
+- :dvd: `org.lwjgl.vulkan` :left_right_arrow: `org.lwjgl:lwjgl-vulkan:3.2.2`
+- :dvd: `org.lwjgl.xxhash` :left_right_arrow: `org.lwjgl:lwjgl-xxhash:3.2.2`
+- :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.2`
+- :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.2`
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct:1.3.0.Final`
 - :cd: `org.mapstruct.processor` :left_right_arrow: `org.mapstruct:mapstruct-processor:1.3.0.Final`
 - :cd: `org.mariadb.jdbc` :left_right_arrow: `org.mariadb.jdbc:mariadb-java-client:2.4.1`
@@ -3715,15 +3717,15 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.refcodes.tabular.alt.forwardsecrecy` :left_right_arrow: `org.refcodes:refcodes-tabular-alt-forwardsecrecy:2.0.1`
 - :cd: `org.refcodes.textual` :left_right_arrow: `org.refcodes:refcodes-textual:2.0.1`
 - :cd: `org.refcodes.time` :left_right_arrow: `org.refcodes:refcodes-time:2.0.1`
-- :cd: `org.revapi` :left_right_arrow: `org.revapi:revapi:0.11.0`
-- :cd: `org.revapi.ant` :left_right_arrow: `org.revapi:revapi-ant-task:0.9.0`
-- :cd: `org.revapi.basic` :left_right_arrow: `org.revapi:revapi-basic-features:0.8.0`
-- :cd: `org.revapi.java` :left_right_arrow: `org.revapi:revapi-java:0.19.0`
+- :cd: `org.revapi` :left_right_arrow: `org.revapi:revapi:0.11.1`
+- :cd: `org.revapi.ant` :left_right_arrow: `org.revapi:revapi-ant-task:0.9.1`
+- :cd: `org.revapi.basic` :left_right_arrow: `org.revapi:revapi-basic-features:0.8.1`
+- :cd: `org.revapi.java` :left_right_arrow: `org.revapi:revapi-java:0.19.1`
 - :cd: `org.revapi.java.test.support` :left_right_arrow: `org.revapi:revapi-java-test-support:0.2.2`
-- :cd: `org.revapi.maven.plugin` :left_right_arrow: `org.revapi:revapi-maven-plugin:0.11.0`
+- :cd: `org.revapi.maven.plugin` :left_right_arrow: `org.revapi:revapi-maven-plugin:0.11.1`
 - :cd: `org.revapi.maven.utils` :left_right_arrow: `org.revapi:revapi-maven-utils:0.9.1`
-- :cd: `org.revapi.reporter.text` :left_right_arrow: `org.revapi:revapi-reporter-text:0.10.0`
-- :cd: `org.revapi.standalone` :left_right_arrow: `org.revapi:revapi-standalone:0.9.0`
+- :cd: `org.revapi.reporter.text` :left_right_arrow: `org.revapi:revapi-reporter-text:0.10.1`
+- :cd: `org.revapi.standalone` :left_right_arrow: `org.revapi:revapi-standalone:0.9.1`
 - :cd: `org.revapi.testjars.core` :left_right_arrow: `org.revapi.testjars:testjars-core:0.1.0`
 - :cd: `org.revapi.testjars.junit4` :left_right_arrow: `org.revapi.testjars:testjars-junit4:0.1.0`
 - :cd: `org.revapi.testjars.junit5` :left_right_arrow: `org.revapi.testjars:testjars-junit5:0.1.0`
