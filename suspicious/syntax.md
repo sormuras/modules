@@ -202,6 +202,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.18.0.Final` // `org.drools,camel-container-integration-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.19.0.Final` // `org.drools,camel-container-integration-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.20.0.Final` // `org.drools,camel-container-integration-tests,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.21.0.Final` // `org.drools,camel-container-integration-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.14.0.Final` // `org.drools,camel-container-tests-api,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.15.0.Final` // `org.drools,camel-container-tests-api,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.16.0.Final` // `org.drools,camel-container-tests-api,7.16.0.Final,-,-,automatic,-,false,-`
@@ -209,11 +210,13 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.18.0.Final` // `org.drools,camel-container-tests-api,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.19.0.Final` // `org.drools,camel-container-tests-api,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.20.0.Final` // `org.drools,camel-container-tests-api,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.21.0.Final` // `org.drools,camel-container-tests-api,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.16.0.Final` // `org.drools,camel-container-tests-model,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.17.0.Final` // `org.drools,camel-container-tests-model,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.18.0.Final` // `org.drools,camel-container-tests-model,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.19.0.Final` // `org.drools,camel-container-tests-model,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.20.0.Final` // `org.drools,camel-container-tests-model,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.21.0.Final` // `org.drools,camel-container-tests-model,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -225,6 +228,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -236,6 +240,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -247,6 +252,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -258,6 +264,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -269,6 +276,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -280,6 +288,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.18.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.19.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.20.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -291,6 +300,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.18.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.19.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.20.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.21.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -302,6 +312,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.18.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.19.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.20.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.21.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.10.0.Final` // `org.drools.testcoverage,kie-spring-test,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.11.0.Final` // `org.drools.testcoverage,kie-spring-test,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.12.0.Final` // `org.drools.testcoverage,kie-spring-test,7.12.0.Final,-,-,automatic,-,false,-`
@@ -313,6 +324,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.18.0.Final` // `org.drools.testcoverage,kie-spring-test,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.19.0.Final` // `org.drools.testcoverage,kie-spring-test,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.20.0.Final` // `org.drools.testcoverage,kie-spring-test,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.21.0.Final` // `org.drools.testcoverage,kie-spring-test,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -324,6 +336,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.18.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.19.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.20.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.21.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -335,6 +348,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.18.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.19.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.20.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.21.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.10.0.Final` // `org.drools.testcoverage,model-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.11.0.Final` // `org.drools.testcoverage,model-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.12.0.Final` // `org.drools.testcoverage,model-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -346,6 +360,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.18.0.Final` // `org.drools.testcoverage,model-wrapper,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.19.0.Final` // `org.drools.testcoverage,model-wrapper,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.20.0.Final` // `org.drools.testcoverage,model-wrapper,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.21.0.Final` // `org.drools.testcoverage,model-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.3` // `org.hortonmachine,hm-apps,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-dbs:0.9.3` // `org.hortonmachine,hm-dbs,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-gears:0.9.3` // `org.hortonmachine,hm-gears,0.9.3,-,-,automatic,-,false,-`
@@ -361,6 +376,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.18.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.19.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.20.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.21.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.10.0.Final` // `org.jbpm,jbpm-executor-ejb,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.11.0.Final` // `org.jbpm,jbpm-executor-ejb,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.12.0.Final` // `org.jbpm,jbpm-executor-ejb,7.12.0.Final,-,-,automatic,-,false,-`
@@ -372,12 +388,15 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.18.0.Final` // `org.jbpm,jbpm-executor-ejb,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.19.0.Final` // `org.jbpm,jbpm-executor-ejb,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.20.0.Final` // `org.jbpm,jbpm-executor-ejb,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.21.0.Final` // `org.jbpm,jbpm-executor-ejb,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.17.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.18.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.19.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.20.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.21.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.19.0.Final` // `org.jbpm,jbpm-xes,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.20.0.Final` // `org.jbpm,jbpm-xes,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.21.0.Final` // `org.jbpm,jbpm-xes,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.10.0.Final` // `org.jbpm.contrib,archive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.11.0.Final` // `org.jbpm.contrib,archive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.12.0.Final` // `org.jbpm.contrib,archive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -389,10 +408,12 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.18.0.Final` // `org.jbpm.contrib,archive-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.19.0.Final` // `org.jbpm.contrib,archive-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.20.0.Final` // `org.jbpm.contrib,archive-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.21.0.Final` // `org.jbpm.contrib,archive-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.17.0.Final` // `org.jbpm.contrib,docker-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.18.0.Final` // `org.jbpm.contrib,docker-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.19.0.Final` // `org.jbpm.contrib,docker-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.20.0.Final` // `org.jbpm.contrib,docker-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.21.0.Final` // `org.jbpm.contrib,docker-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.10.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.11.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.12.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -404,6 +425,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.18.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.19.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.20.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.21.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.10.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.11.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.12.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -415,6 +437,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.18.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.19.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.20.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.21.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.10.0.Final` // `org.jbpm.contrib,exec-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.11.0.Final` // `org.jbpm.contrib,exec-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.12.0.Final` // `org.jbpm.contrib,exec-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -426,6 +449,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.18.0.Final` // `org.jbpm.contrib,exec-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.19.0.Final` // `org.jbpm.contrib,exec-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.20.0.Final` // `org.jbpm.contrib,exec-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.21.0.Final` // `org.jbpm.contrib,exec-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.12.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.13.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.14.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -435,6 +459,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.18.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.19.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.20.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.21.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.10.0.Final` // `org.jbpm.contrib,ftp-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.11.0.Final` // `org.jbpm.contrib,ftp-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.12.0.Final` // `org.jbpm.contrib,ftp-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -446,6 +471,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.18.0.Final` // `org.jbpm.contrib,ftp-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.19.0.Final` // `org.jbpm.contrib,ftp-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.20.0.Final` // `org.jbpm.contrib,ftp-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.21.0.Final` // `org.jbpm.contrib,ftp-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.10.0.Final` // `org.jbpm.contrib,github-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.11.0.Final` // `org.jbpm.contrib,github-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.12.0.Final` // `org.jbpm.contrib,github-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -457,6 +483,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.18.0.Final` // `org.jbpm.contrib,github-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.19.0.Final` // `org.jbpm.contrib,github-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.20.0.Final` // `org.jbpm.contrib,github-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.21.0.Final` // `org.jbpm.contrib,github-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.10.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.11.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.12.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -468,6 +495,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.18.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.19.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.20.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.21.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.10.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.11.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.12.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -479,6 +507,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.18.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.19.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.20.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.21.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.10.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.11.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.12.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -490,12 +519,14 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.18.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.19.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.20.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.21.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.15.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.16.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.17.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.18.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.19.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.20.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.21.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.10.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.11.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.12.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -507,6 +538,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.18.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.19.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.20.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.21.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.10.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.11.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.12.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -518,6 +550,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.18.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.19.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.20.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.21.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.10.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.11.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.12.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -529,6 +562,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.18.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.19.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.20.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.21.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.10.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.11.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.12.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -540,6 +574,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.18.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.19.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.20.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.21.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.10.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.11.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.12.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -551,6 +586,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.18.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.19.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.20.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.21.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.10.0.Final` // `org.jbpm.contrib,jabber-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.11.0.Final` // `org.jbpm.contrib,jabber-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.12.0.Final` // `org.jbpm.contrib,jabber-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -562,6 +598,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.18.0.Final` // `org.jbpm.contrib,jabber-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.19.0.Final` // `org.jbpm.contrib,jabber-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.20.0.Final` // `org.jbpm.contrib,jabber-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.21.0.Final` // `org.jbpm.contrib,jabber-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.10.0.Final` // `org.jbpm.contrib,java-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.11.0.Final` // `org.jbpm.contrib,java-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.12.0.Final` // `org.jbpm.contrib,java-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -573,6 +610,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.18.0.Final` // `org.jbpm.contrib,java-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.19.0.Final` // `org.jbpm.contrib,java-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.20.0.Final` // `org.jbpm.contrib,java-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.21.0.Final` // `org.jbpm.contrib,java-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.10.0.Final` // `org.jbpm.contrib,jira-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.11.0.Final` // `org.jbpm.contrib,jira-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.12.0.Final` // `org.jbpm.contrib,jira-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -584,6 +622,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.18.0.Final` // `org.jbpm.contrib,jira-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.19.0.Final` // `org.jbpm.contrib,jira-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.20.0.Final` // `org.jbpm.contrib,jira-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.21.0.Final` // `org.jbpm.contrib,jira-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.10.0.Final` // `org.jbpm.contrib,jpa-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.11.0.Final` // `org.jbpm.contrib,jpa-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.12.0.Final` // `org.jbpm.contrib,jpa-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -595,12 +634,14 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.18.0.Final` // `org.jbpm.contrib,jpa-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.19.0.Final` // `org.jbpm.contrib,jpa-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.20.0.Final` // `org.jbpm.contrib,jpa-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.21.0.Final` // `org.jbpm.contrib,jpa-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.15.0.Final` // `org.jbpm.contrib,kafka-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.16.0.Final` // `org.jbpm.contrib,kafka-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.17.0.Final` // `org.jbpm.contrib,kafka-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.18.0.Final` // `org.jbpm.contrib,kafka-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.19.0.Final` // `org.jbpm.contrib,kafka-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.20.0.Final` // `org.jbpm.contrib,kafka-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.21.0.Final` // `org.jbpm.contrib,kafka-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.10.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.11.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.12.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -612,11 +653,13 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.18.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.19.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.20.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.21.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.16.0.Final` // `org.jbpm.contrib,okta-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.17.0.Final` // `org.jbpm.contrib,okta-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.18.0.Final` // `org.jbpm.contrib,okta-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.19.0.Final` // `org.jbpm.contrib,okta-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.20.0.Final` // `org.jbpm.contrib,okta-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.21.0.Final` // `org.jbpm.contrib,okta-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.10.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.11.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.12.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -628,6 +671,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.18.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.19.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.20.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.21.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.10.0.Final` // `org.jbpm.contrib,parser-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.11.0.Final` // `org.jbpm.contrib,parser-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.12.0.Final` // `org.jbpm.contrib,parser-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -639,12 +683,14 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.18.0.Final` // `org.jbpm.contrib,parser-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.19.0.Final` // `org.jbpm.contrib,parser-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.20.0.Final` // `org.jbpm.contrib,parser-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.21.0.Final` // `org.jbpm.contrib,parser-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.15.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.16.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.17.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.18.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.19.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.20.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.21.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.12.0.Final` // `org.jbpm.contrib,pdf-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.13.0.Final` // `org.jbpm.contrib,pdf-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.14.0.Final` // `org.jbpm.contrib,pdf-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -654,6 +700,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.18.0.Final` // `org.jbpm.contrib,pdf-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.19.0.Final` // `org.jbpm.contrib,pdf-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.20.0.Final` // `org.jbpm.contrib,pdf-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.21.0.Final` // `org.jbpm.contrib,pdf-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.10.0.Final` // `org.jbpm.contrib,repository,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.11.0.Final` // `org.jbpm.contrib,repository,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.12.0.Final` // `org.jbpm.contrib,repository,7.12.0.Final,-,-,automatic,-,false,-`
@@ -665,6 +712,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.18.0.Final` // `org.jbpm.contrib,repository,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.19.0.Final` // `org.jbpm.contrib,repository,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.20.0.Final` // `org.jbpm.contrib,repository,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.21.0.Final` // `org.jbpm.contrib,repository,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.10.0.Final` // `org.jbpm.contrib,repository-springboot,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.11.0.Final` // `org.jbpm.contrib,repository-springboot,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.12.0.Final` // `org.jbpm.contrib,repository-springboot,7.12.0.Final,-,-,automatic,-,false,-`
@@ -676,6 +724,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.18.0.Final` // `org.jbpm.contrib,repository-springboot,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.19.0.Final` // `org.jbpm.contrib,repository-springboot,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.20.0.Final` // `org.jbpm.contrib,repository-springboot,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.21.0.Final` // `org.jbpm.contrib,repository-springboot,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.12.0.Final` // `org.jbpm.contrib,riot-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.13.0.Final` // `org.jbpm.contrib,riot-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.14.0.Final` // `org.jbpm.contrib,riot-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -685,6 +734,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.18.0.Final` // `org.jbpm.contrib,riot-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.19.0.Final` // `org.jbpm.contrib,riot-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.20.0.Final` // `org.jbpm.contrib,riot-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.21.0.Final` // `org.jbpm.contrib,riot-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.10.0.Final` // `org.jbpm.contrib,rss-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.11.0.Final` // `org.jbpm.contrib,rss-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.12.0.Final` // `org.jbpm.contrib,rss-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -696,6 +746,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.18.0.Final` // `org.jbpm.contrib,rss-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.19.0.Final` // `org.jbpm.contrib,rss-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.20.0.Final` // `org.jbpm.contrib,rss-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.21.0.Final` // `org.jbpm.contrib,rss-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.10.0.Final` // `org.jbpm.contrib,slack-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.11.0.Final` // `org.jbpm.contrib,slack-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.12.0.Final` // `org.jbpm.contrib,slack-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -707,6 +758,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.18.0.Final` // `org.jbpm.contrib,slack-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.19.0.Final` // `org.jbpm.contrib,slack-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.20.0.Final` // `org.jbpm.contrib,slack-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.21.0.Final` // `org.jbpm.contrib,slack-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.10.0.Final` // `org.jbpm.contrib,template-resources,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.11.0.Final` // `org.jbpm.contrib,template-resources,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.12.0.Final` // `org.jbpm.contrib,template-resources,7.12.0.Final,-,-,automatic,-,false,-`
@@ -718,6 +770,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.18.0.Final` // `org.jbpm.contrib,template-resources,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.19.0.Final` // `org.jbpm.contrib,template-resources,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.20.0.Final` // `org.jbpm.contrib,template-resources,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.21.0.Final` // `org.jbpm.contrib,template-resources,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.10.0.Final` // `org.jbpm.contrib,transform-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.11.0.Final` // `org.jbpm.contrib,transform-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.12.0.Final` // `org.jbpm.contrib,transform-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -729,6 +782,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.18.0.Final` // `org.jbpm.contrib,transform-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.19.0.Final` // `org.jbpm.contrib,transform-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.20.0.Final` // `org.jbpm.contrib,transform-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.21.0.Final` // `org.jbpm.contrib,transform-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.10.0.Final` // `org.jbpm.contrib,twitter-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.11.0.Final` // `org.jbpm.contrib,twitter-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.12.0.Final` // `org.jbpm.contrib,twitter-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -740,30 +794,35 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.18.0.Final` // `org.jbpm.contrib,twitter-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.19.0.Final` // `org.jbpm.contrib,twitter-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.20.0.Final` // `org.jbpm.contrib,twitter-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.21.0.Final` // `org.jbpm.contrib,twitter-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.15.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.16.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.17.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.18.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.19.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.20.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.21.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.15.0.Final` // `org.kie,business-central-deployment-validation,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.16.0.Final` // `org.kie,business-central-deployment-validation,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.17.0.Final` // `org.kie,business-central-deployment-validation,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.18.0.Final` // `org.kie,business-central-deployment-validation,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.19.0.Final` // `org.kie,business-central-deployment-validation,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.20.0.Final` // `org.kie,business-central-deployment-validation,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.21.0.Final` // `org.kie,business-central-deployment-validation,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.15.0.Final` // `org.kie,business-central-tests-gui,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.16.0.Final` // `org.kie,business-central-tests-gui,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.17.0.Final` // `org.kie,business-central-tests-gui,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.18.0.Final` // `org.kie,business-central-tests-gui,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.19.0.Final` // `org.kie,business-central-tests-gui,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.20.0.Final` // `org.kie,business-central-tests-gui,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:business-central-tests-gui:7.21.0.Final` // `org.kie,business-central-tests-gui,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.15.0.Final` // `org.kie,business-central-tests-rest,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.16.0.Final` // `org.kie,business-central-tests-rest,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.17.0.Final` // `org.kie,business-central-tests-rest,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.18.0.Final` // `org.kie,business-central-tests-rest,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.19.0.Final` // `org.kie,business-central-tests-rest,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.20.0.Final` // `org.kie,business-central-tests-rest,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:business-central-tests-rest:7.21.0.Final` // `org.kie,business-central-tests-rest,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.10.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.11.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.12.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -775,11 +834,13 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.18.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.19.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.20.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.21.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.16.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.17.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.18.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.19.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.20.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.21.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -791,6 +852,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.18.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.19.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.20.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.21.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -802,6 +864,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.18.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.19.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.20.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.21.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -813,6 +876,7 @@
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.18.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.19.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.20.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.21.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-gwthelper-maven-plugin:1.0` // `org.kie,kie-gwthelper-maven-plugin,1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.14.0.Final` // `org.kie,kie-maven-plugin,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.15.0.Final` // `org.kie,kie-maven-plugin,7.15.0.Final,-,-,automatic,-,false,-`
@@ -821,6 +885,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.18.0.Final` // `org.kie,kie-maven-plugin,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.19.0.Final` // `org.kie,kie-maven-plugin,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.20.0.Final` // `org.kie,kie-maven-plugin,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.21.0.Final` // `org.kie,kie-maven-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -832,6 +897,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.18.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.19.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.20.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -843,6 +909,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.18.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.19.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.20.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -854,6 +921,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.18.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.19.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.20.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -865,6 +933,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.18.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.19.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.20.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.13.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.14.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.14.0.Final,-,-,automatic,-,false,-`
@@ -874,6 +943,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.18.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.19.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.20.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.21.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -885,6 +955,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.18.0.Final` // `org.kie,kie-server-spring-boot-sample,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.19.0.Final` // `org.kie,kie-server-spring-boot-sample,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.20.0.Final` // `org.kie,kie-server-spring-boot-sample,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.21.0.Final` // `org.kie,kie-server-spring-boot-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter,7.12.0.Final,-,-,automatic,-,false,-`
@@ -896,6 +967,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.18.0.Final` // `org.kie,kie-server-spring-boot-starter,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.19.0.Final` // `org.kie,kie-server-spring-boot-starter,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.20.0.Final` // `org.kie,kie-server-spring-boot-starter,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -907,6 +979,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.18.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.19.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.20.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -918,6 +991,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.18.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.19.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.20.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -929,6 +1003,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.18.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.19.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.20.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.10.0.Final` // `org.kie,kie-wb-deployment-validation,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.11.0.Final` // `org.kie,kie-wb-deployment-validation,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.12.0.Final` // `org.kie,kie-wb-deployment-validation,7.12.0.Final,-,-,automatic,-,false,-`
@@ -956,6 +1031,7 @@
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.18.0.Final` // `org.kie.server,kie-server-controller-plugin,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.19.0.Final` // `org.kie.server,kie-server-controller-plugin,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.20.0.Final` // `org.kie.server,kie-server-controller-plugin,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.21.0.Final` // `org.kie.server,kie-server-controller-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.10.0.Final` // `org.kie.server,kie-server-maven-plugin,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.11.0.Final` // `org.kie.server,kie-server-maven-plugin,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.12.0.Final` // `org.kie.server,kie-server-maven-plugin,7.12.0.Final,-,-,automatic,-,false,-`
@@ -967,6 +1043,7 @@
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.18.0.Final` // `org.kie.server,kie-server-maven-plugin,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.19.0.Final` // `org.kie.server,kie-server-maven-plugin,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.20.0.Final` // `org.kie.server,kie-server-maven-plugin,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.21.0.Final` // `org.kie.server,kie-server-maven-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.12.0.Final,-,-,automatic,-,false,-`
@@ -978,6 +1055,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -989,6 +1067,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-forms-migration:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1000,6 +1079,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-migration-tool:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1011,6 +1091,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-pom-migration:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1022,6 +1103,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-project-migration:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1033,6 +1115,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.18.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.19.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.20.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.21.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.12.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.13.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.14.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1042,6 +1125,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.18.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.19.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.20.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-command-api:7.21.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.10.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.11.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.12.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1053,6 +1137,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.18.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.19.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.20.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.21.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.10.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.11.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.12.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1064,9 +1149,11 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.18.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.19.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.20.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-testing-utils:7.21.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.18.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.19.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.20.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.21.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.10.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.11.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.12.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1078,6 +1165,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.18.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.19.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.20.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.21.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.10.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.11.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.12.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1089,6 +1177,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.18.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.19.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.20.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.21.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.10.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.11.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.12.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1100,6 +1189,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.18.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.19.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.20.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:curriculumcourse:7.21.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.10.0.Final` // `org.kie.workbench.playground,dinnerparty,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.11.0.Final` // `org.kie.workbench.playground,dinnerparty,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.12.0.Final` // `org.kie.workbench.playground,dinnerparty,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1111,6 +1201,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.18.0.Final` // `org.kie.workbench.playground,dinnerparty,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.19.0.Final` // `org.kie.workbench.playground,dinnerparty,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.20.0.Final` // `org.kie.workbench.playground,dinnerparty,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:dinnerparty:7.21.0.Final` // `org.kie.workbench.playground,dinnerparty,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.10.0.Final` // `org.kie.workbench.playground,employeerostering,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.11.0.Final` // `org.kie.workbench.playground,employeerostering,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.12.0.Final` // `org.kie.workbench.playground,employeerostering,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1122,6 +1213,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.18.0.Final` // `org.kie.workbench.playground,employeerostering,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.19.0.Final` // `org.kie.workbench.playground,employeerostering,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.20.0.Final` // `org.kie.workbench.playground,employeerostering,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:employeerostering:7.21.0.Final` // `org.kie.workbench.playground,employeerostering,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.10.0.Final` // `org.kie.workbench.playground,evaluation,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.11.0.Final` // `org.kie.workbench.playground,evaluation,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.12.0.Final` // `org.kie.workbench.playground,evaluation,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1133,6 +1225,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.18.0.Final` // `org.kie.workbench.playground,evaluation,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.19.0.Final` // `org.kie.workbench.playground,evaluation,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.20.0.Final` // `org.kie.workbench.playground,evaluation,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:evaluation:7.21.0.Final` // `org.kie.workbench.playground,evaluation,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.10.0.Final` // `org.kie.workbench.playground,itorders,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.11.0.Final` // `org.kie.workbench.playground,itorders,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.12.0.Final` // `org.kie.workbench.playground,itorders,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1144,6 +1237,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.18.0.Final` // `org.kie.workbench.playground,itorders,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.19.0.Final` // `org.kie.workbench.playground,itorders,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.20.0.Final` // `org.kie.workbench.playground,itorders,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:itorders:7.21.0.Final` // `org.kie.workbench.playground,itorders,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.10.0.Final` // `org.kie.workbench.playground,mortgage-process,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.11.0.Final` // `org.kie.workbench.playground,mortgage-process,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.12.0.Final` // `org.kie.workbench.playground,mortgage-process,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1155,6 +1249,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.18.0.Final` // `org.kie.workbench.playground,mortgage-process,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.19.0.Final` // `org.kie.workbench.playground,mortgage-process,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.20.0.Final` // `org.kie.workbench.playground,mortgage-process,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgage-process:7.21.0.Final` // `org.kie.workbench.playground,mortgage-process,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.10.0.Final` // `org.kie.workbench.playground,mortgages,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.11.0.Final` // `org.kie.workbench.playground,mortgages,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.12.0.Final` // `org.kie.workbench.playground,mortgages,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1166,6 +1261,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.18.0.Final` // `org.kie.workbench.playground,mortgages,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.19.0.Final` // `org.kie.workbench.playground,mortgages,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.20.0.Final` // `org.kie.workbench.playground,mortgages,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:mortgages:7.21.0.Final` // `org.kie.workbench.playground,mortgages,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.10.0.Final` // `org.kie.workbench.playground,optacloud,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.11.0.Final` // `org.kie.workbench.playground,optacloud,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.12.0.Final` // `org.kie.workbench.playground,optacloud,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1177,6 +1273,8 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.18.0.Final` // `org.kie.workbench.playground,optacloud,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.19.0.Final` // `org.kie.workbench.playground,optacloud,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.20.0.Final` // `org.kie.workbench.playground,optacloud,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.playground:optacloud:7.21.0.Final` // `org.kie.workbench.playground,optacloud,7.21.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.21.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1188,6 +1286,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.18.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.19.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.20.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.21.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1199,6 +1298,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.18.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.19.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.20.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.21.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1210,6 +1310,7 @@
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.18.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.19.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.20.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.21.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.1` // `org.neo4j,neo4j-ast-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.2` // `org.neo4j,neo4j-ast-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.3` // `org.neo4j,neo4j-ast-3.5,3.5.3,-,-,automatic,-,false,-`
@@ -1256,6 +1357,7 @@
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.18.0.Final` // `org.optaplanner,optaplanner-docs,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.19.0.Final` // `org.optaplanner,optaplanner-docs,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.20.0.Final` // `org.optaplanner,optaplanner-docs,7.20.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.21.0.Final` // `org.optaplanner,optaplanner-docs,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics:metrics-logback:4.1.0-rc2` // `io.dropwizard.metrics,metrics-logback,4.1.0-rc2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.1,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -4688,8 +4790,10 @@
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.18.0.Final` // `org.drools,drools-canonical-model,7.18.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.19.0.Final` // `org.drools,drools-canonical-model,7.19.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.20.0.Final` // `org.drools,drools-canonical-model,7.20.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.21.0.Final` // `org.drools,drools-canonical-model,7.21.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.19.0.Final` // `org.drools,drools-constraint-parser,7.19.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.20.0.Final` // `org.drools,drools-constraint-parser,7.20.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
+- :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.21.0.Final` // `org.drools,drools-constraint-parser,7.21.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.10.0.Final` // `org.drools,drools-model-compiler,7.10.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.11.0.Final` // `org.drools,drools-model-compiler,7.11.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.12.0.Final` // `org.drools,drools-model-compiler,7.12.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
@@ -4701,6 +4805,7 @@
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.18.0.Final` // `org.drools,drools-model-compiler,7.18.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.19.0.Final` // `org.drools,drools-model-compiler,7.19.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.20.0.Final` // `org.drools,drools-model-compiler,7.20.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.21.0.Final` // `org.drools,drools-model-compiler,7.21.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.10.0.Final` // `org.drools,drools-wb-enum-editor-api,7.10.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.11.0.Final` // `org.drools,drools-wb-enum-editor-api,7.11.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.12.0.Final` // `org.drools,drools-wb-enum-editor-api,7.12.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
@@ -4712,6 +4817,7 @@
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.18.0.Final` // `org.drools,drools-wb-enum-editor-api,7.18.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.19.0.Final` // `org.drools,drools-wb-enum-editor-api,7.19.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.20.0.Final` // `org.drools,drools-wb-enum-editor-api,7.20.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.21.0.Final` // `org.drools,drools-wb-enum-editor-api,7.21.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.10.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.10.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.11.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.11.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.12.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.12.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
@@ -4723,6 +4829,7 @@
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.18.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.18.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.19.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.19.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.20.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.20.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.21.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.21.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.10.0.Final` // `org.drools,drools-wb-enum-editor-client,7.10.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.11.0.Final` // `org.drools,drools-wb-enum-editor-client,7.11.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.12.0.Final` // `org.drools,drools-wb-enum-editor-client,7.12.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
@@ -4734,6 +4841,7 @@
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.18.0.Final` // `org.drools,drools-wb-enum-editor-client,7.18.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.19.0.Final` // `org.drools,drools-wb-enum-editor-client,7.19.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.20.0.Final` // `org.drools,drools-wb-enum-editor-client,7.20.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.21.0.Final` // `org.drools,drools-wb-enum-editor-client,7.21.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` :left_right_arrow: `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.13.v20181111` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.13.v20181111,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` :left_right_arrow: `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.14.v20181114` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.14.v20181114,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.001_Simrel_2019_03_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.001_Simrel_2019_03_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
@@ -4742,24 +4850,28 @@
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.007_Simrel_2019_03_RC1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.007_Simrel_2019_03_RC1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.009_Simrel_2019_03` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.009_Simrel_2019_03,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.011_Simrel_2019_06_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.011_Simrel_2019_06_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.013_Simrel_2019_06_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.013_Simrel_2019_06_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.001_Simrel_2019_03_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.001_Simrel_2019_03_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.003_Simrel_2019_03_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.003_Simrel_2019_03_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.006_Simrel_2019_03_M3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.006_Simrel_2019_03_M3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.007_Simrel_2019_03_RC1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.007_Simrel_2019_03_RC1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.009_Simrel_2019_03` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.009_Simrel_2019_03,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.011_Simrel_2019_06_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.011_Simrel_2019_06_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:9.0.0.013_Simrel_2019_06_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,9.0.0.013_Simrel_2019_06_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.001_Simrel_2019_03_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.001_Simrel_2019_03_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.003_Simrel_2019_03_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.003_Simrel_2019_03_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.006_Simrel_2019_03_M3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.006_Simrel_2019_03_M3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.007_Simrel_2019_03_RC1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.007_Simrel_2019_03_RC1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.009_Simrel_2019_03` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.009_Simrel_2019_03,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.011_Simrel_2019_06_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.011_Simrel_2019_06_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.013_Simrel_2019_06_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.013_Simrel_2019_06_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.001_Simrel_2019_03_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.001_Simrel_2019_03_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.003_Simrel_2019_03_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.003_Simrel_2019_03_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.006_Simrel_2019_03_M3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.006_Simrel_2019_03_M3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.007_Simrel_2019_03_RC1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.007_Simrel_2019_03_RC1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.009_Simrel_2019_03` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.009_Simrel_2019_03,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.011_Simrel_2019_06_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.011_Simrel_2019_06_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:9.0.0.013_Simrel_2019_06_M2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,9.0.0.013_Simrel_2019_06_M2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.3.0.Beta1` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.3.0.Beta1,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.3.5.Final` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.3.5.Final,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.3.6.Final` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.3.6.Final,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
@@ -4829,6 +4941,7 @@
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.18.0.Final` // `org.jbpm.contrib,camel-workitem,7.18.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.19.0.Final` // `org.jbpm.contrib,camel-workitem,7.19.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.20.0.Final` // `org.jbpm.contrib,camel-workitem,7.20.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
+- :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.21.0.Final` // `org.jbpm.contrib,camel-workitem,7.21.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jetbrains.annotations-java5` :left_right_arrow: `org.jetbrains:annotations-java5:16.0.3` // `org.jetbrains,annotations-java5,16.0.3,org.jetbrains.annotations-java5,-,automatic,-,false,-`
 - :cd: `org.jetbrains.annotations-java5` :left_right_arrow: `org.jetbrains:annotations-java5:17.0.0` // `org.jetbrains,annotations-java5,17.0.0,org.jetbrains.annotations-java5,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.10.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
@@ -4842,6 +4955,7 @@
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.18.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.18.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.19.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.19.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.20.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.20.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.21.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.21.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.10.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.11.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.12.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
@@ -4853,6 +4967,7 @@
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.18.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.18.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.19.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.19.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.20.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.20.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.backend` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.21.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.21.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.10.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.11.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.12.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
@@ -4864,6 +4979,7 @@
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.18.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.18.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.19.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.19.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.20.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.20.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.client` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.21.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.21.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway` :left_right_arrow: `org.lambdify:lambdify-apigateway:0.1.0.Final` // `org.lambdify,lambdify-apigateway,0.1.0.Final,org.lambdify.lambdify-apigateway,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway-java` :left_right_arrow: `org.lambdify:lambdify-apigateway-java:0.7.1.Final` // `org.lambdify,lambdify-apigateway-java,0.7.1.Final,org.lambdify.lambdify-apigateway-java,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway-java` :left_right_arrow: `org.lambdify:lambdify-apigateway-java:0.7.2.Final` // `org.lambdify,lambdify-apigateway-java,0.7.2.Final,org.lambdify.lambdify-apigateway-java,-,automatic,-,false,-`
