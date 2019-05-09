@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4110 Java modules published at Maven Central
+Counted 4111 Java modules published at Maven Central
 
-## Summary 2019-05-08T22:12:22.003039Z
+## Summary 2019-05-09T22:13:06.042881Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-08T22:12:22.003039Z
-Scanned 21,006 files in 2 seconds.
+Started scan at 2019-05-09T22:13:06.042881Z
+Scanned 21,075 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_08_22_03_04.csv
+    last -> modulescanner-report-2019_05_09_21_56_51.csv
 
-Parsed 1,278,861 lines in total.
-  24,917 -> captions skipped
-  75,981 -> duplicates skipped
-  48,442 -> module related
+Parsed 1,284,523 lines in total.
+  24,986 -> captions skipped
+  76,240 -> duplicates skipped
+  48,532 -> module related
 
-Collected 4,110 unique modules.
-  automatic :cd: -> 3,191
+Collected 4,111 unique modules.
+  automatic :cd: -> 3,192
   explicit :dvd: -> 919
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5304](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9270](suspicious/naming.md)
-- Modular impostors: [2341](suspicious/impostors.md)
+- Invalid module names: [5307](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9283](suspicious/naming.md)
+- Modular impostors: [2384](suspicious/impostors.md)
 
-## Unique Modules (4110)
+## Unique Modules (4111)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -469,6 +469,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.tinosteinort.flda.accessor` :left_right_arrow: `com.github.tinosteinort:flda-core:2.0.0`
 - :cd: `com.github.tinosteinort.flda.fixedlengthstring` :left_right_arrow: `com.github.tinosteinort:flda-fixedlengthstring:1.0.0`
 - :cd: `com.github.tinosteinort.flda.stringlist` :left_right_arrow: `com.github.tinosteinort:flda-stringlist:1.0.0`
+- :cd: `com.github.tomtung.latex2unicode` :left_right_arrow: `com.github.tomtung:latex2unicode_2.11:0.2.5`
 - :cd: `com.github.tonivade.purefun` :left_right_arrow: `com.github.tonivade:purefun:0.9.4`
 - :cd: `com.github.vebqa.vebtal3270` :left_right_arrow: `com.github.vebqa:vebtal-3270:1.0.0`
 - :cd: `com.github.vebqa.vebtal5250` :left_right_arrow: `com.github.vebqa:vebtal-5250:1.0.0`
@@ -720,7 +721,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.algorithms` :left_right_arrow: `com.imsweb:algorithms:1.21`
 - :cd: `com.imsweb.algorithms.staging` :left_right_arrow: `com.imsweb:staging-client-java:4.6`
 - :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.11`
-- :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.11`
+- :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.12`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.19`
 - :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.13`
 - :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:5.2`
@@ -1643,9 +1644,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.gcp.gcp_tracing` :left_right_arrow: `io.micronaut.gcp:micronaut-gcp-tracing:1.0.0`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:graal:1.0.0.RC2`
 - :cd: `io.micronaut.graphql.graphql` :left_right_arrow: `io.micronaut.graphql:micronaut-graphql:1.0.1`
-- :cd: `io.micronaut.grpc.grpc_annotation` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-annotation:1.0.0`
-- :cd: `io.micronaut.grpc.grpc_runtime` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-runtime:1.0.0`
-- :cd: `io.micronaut.grpc.protobuff_support` :left_right_arrow: `io.micronaut.grpc:micronaut-protobuff-support:1.0.0`
+- :cd: `io.micronaut.grpc.grpc_annotation` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-annotation:1.0.1`
+- :cd: `io.micronaut.grpc.grpc_runtime` :left_right_arrow: `io.micronaut.grpc:micronaut-grpc-runtime:1.0.1`
+- :cd: `io.micronaut.grpc.protobuff_support` :left_right_arrow: `io.micronaut.grpc:micronaut-protobuff-support:1.0.1`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:http:1.0.0.RC2`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:http-client:1.0.0.RC2`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:http-netty:1.0.0.RC2`
@@ -1836,11 +1837,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.4`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.7.5`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :cd: `net.dongliu.gson.java8type` :left_right_arrow: `net.dongliu:gson-java8-datatype:1.1.0`
 - :cd: `net.dongliu.requests` :left_right_arrow: `net.dongliu:requests:5.0.7`
-- :dvd: `net.dongliu.xhttp` :left_right_arrow: `net.dongliu:xhttp:2.4.2`
+- :dvd: `net.dongliu.xhttp` :left_right_arrow: `net.dongliu:xhttp:2.4.3`
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` :left_right_arrow: `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` :left_right_arrow: `net.dongliu:xhttp-json-jsonb:2.1.1`
@@ -2219,7 +2220,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.geronimo.microprofile.metrics.extension.common` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-extension-common:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.sigar` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-sigar:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.tomcat` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-tomcat:1.0.3`
-- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.7`
+- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.8`
 - :cd: `org.apache.geronimo.microprofile.reporter` :left_right_arrow: `org.apache.geronimo:geronimo-microprofile-reporter:1.0.2`
 - :cd: `org.apache.geronimo.opentracing` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing:1.0.2`
 - :cd: `org.apache.geronimo.opentracing.common` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing-common:1.0.2`
@@ -2446,8 +2447,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.axonframework.extensions.springcloud` :left_right_arrow: `org.axonframework.extensions.springcloud:axon-springcloud:4.1`
 - :cd: `org.axonframework.extensions.springcloud.commandbus` :left_right_arrow: `org.axonframework.extensions.springcloud:axon-distributed-commandbus-springcloud:4.0-RC1`
 - :cd: `org.axonframework.extensions.springcloud.springboot` :left_right_arrow: `org.axonframework.extensions.springcloud:axon-springcloud-spring-boot-autoconfigure:4.1`
-- :cd: `org.axonframework.extensions.tracing` :left_right_arrow: `org.axonframework.extensions.tracing:axon-tracing:4.0-M1`
-- :cd: `org.axonframework.extensions.tracing.springboot` :left_right_arrow: `org.axonframework.extensions.tracing:axon-tracing-spring-boot-autoconfigure:4.0-M1`
+- :cd: `org.axonframework.extensions.tracing` :left_right_arrow: `org.axonframework.extensions.tracing:axon-tracing:4.1-M1`
+- :cd: `org.axonframework.extensions.tracing.springboot` :left_right_arrow: `org.axonframework.extensions.tracing:axon-tracing-spring-boot-autoconfigure:4.1-M1`
 - :cd: `org.axonframework.jgroups.commandhandling` :left_right_arrow: `org.axonframework:axon-distributed-commandbus-jgroups:4.0-M2`
 - :cd: `org.axonframework.kafka` :left_right_arrow: `org.axonframework:axon-kafka:4.0-M2`
 - :cd: `org.axonframework.messaging` :left_right_arrow: `org.axonframework:axon-messaging:4.1.1`
@@ -4169,33 +4170,33 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `software.amazon.awssdk.utils` :left_right_arrow: `software.amazon.awssdk:utils:2.5.40`
 - :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon:flow:1.7`
 - :cd: `software.amazon.ion` :left_right_arrow: `software.amazon.ion:ion-java:1.4.0`
-- :cd: `spring.aop` :left_right_arrow: `org.springframework:spring-aop:5.1.6.RELEASE`
-- :cd: `spring.aspects` :left_right_arrow: `org.springframework:spring-aspects:5.1.6.RELEASE`
-- :cd: `spring.beans` :left_right_arrow: `org.springframework:spring-beans:5.1.6.RELEASE`
-- :cd: `spring.context` :left_right_arrow: `org.springframework:spring-context:5.1.6.RELEASE`
-- :cd: `spring.context.indexer` :left_right_arrow: `org.springframework:spring-context-indexer:5.1.6.RELEASE`
-- :cd: `spring.context.support` :left_right_arrow: `org.springframework:spring-context-support:5.1.6.RELEASE`
-- :cd: `spring.core` :left_right_arrow: `org.springframework:spring-core:5.1.6.RELEASE`
-- :cd: `spring.expression` :left_right_arrow: `org.springframework:spring-expression:5.1.6.RELEASE`
-- :cd: `spring.instrument` :left_right_arrow: `org.springframework:spring-instrument:5.1.6.RELEASE`
-- :cd: `spring.jcl` :left_right_arrow: `org.springframework:spring-jcl:5.1.6.RELEASE`
-- :cd: `spring.jdbc` :left_right_arrow: `org.springframework:spring-jdbc:5.1.6.RELEASE`
-- :cd: `spring.jms` :left_right_arrow: `org.springframework:spring-jms:5.1.6.RELEASE`
-- :cd: `spring.messaging` :left_right_arrow: `org.springframework:spring-messaging:5.1.6.RELEASE`
-- :cd: `spring.orm` :left_right_arrow: `org.springframework:spring-orm:5.1.6.RELEASE`
-- :cd: `spring.oxm` :left_right_arrow: `org.springframework:spring-oxm:5.1.6.RELEASE`
+- :cd: `spring.aop` :left_right_arrow: `org.springframework:spring-aop:5.1.7.RELEASE`
+- :cd: `spring.aspects` :left_right_arrow: `org.springframework:spring-aspects:5.1.7.RELEASE`
+- :cd: `spring.beans` :left_right_arrow: `org.springframework:spring-beans:5.1.7.RELEASE`
+- :cd: `spring.context` :left_right_arrow: `org.springframework:spring-context:5.1.7.RELEASE`
+- :cd: `spring.context.indexer` :left_right_arrow: `org.springframework:spring-context-indexer:5.1.7.RELEASE`
+- :cd: `spring.context.support` :left_right_arrow: `org.springframework:spring-context-support:5.1.7.RELEASE`
+- :cd: `spring.core` :left_right_arrow: `org.springframework:spring-core:5.1.7.RELEASE`
+- :cd: `spring.expression` :left_right_arrow: `org.springframework:spring-expression:5.1.7.RELEASE`
+- :cd: `spring.instrument` :left_right_arrow: `org.springframework:spring-instrument:5.1.7.RELEASE`
+- :cd: `spring.jcl` :left_right_arrow: `org.springframework:spring-jcl:5.1.7.RELEASE`
+- :cd: `spring.jdbc` :left_right_arrow: `org.springframework:spring-jdbc:5.1.7.RELEASE`
+- :cd: `spring.jms` :left_right_arrow: `org.springframework:spring-jms:5.1.7.RELEASE`
+- :cd: `spring.messaging` :left_right_arrow: `org.springframework:spring-messaging:5.1.7.RELEASE`
+- :cd: `spring.orm` :left_right_arrow: `org.springframework:spring-orm:5.1.7.RELEASE`
+- :cd: `spring.oxm` :left_right_arrow: `org.springframework:spring-oxm:5.1.7.RELEASE`
 - :cd: `spring.session.core` :left_right_arrow: `org.springframework.session:spring-session-core:2.1.5.RELEASE`
 - :cd: `spring.session.data.gemfire` :left_right_arrow: `org.springframework.session:spring-session-data-gemfire:2.1.3.RELEASE`
 - :cd: `spring.session.data.geode` :left_right_arrow: `org.springframework.session:spring-session-data-geode:2.1.3.RELEASE`
 - :cd: `spring.session.data.redis` :left_right_arrow: `org.springframework.session:spring-session-data-redis:2.1.5.RELEASE`
 - :cd: `spring.session.hazelcast` :left_right_arrow: `org.springframework.session:spring-session-hazelcast:2.1.5.RELEASE`
 - :cd: `spring.session.jdbc` :left_right_arrow: `org.springframework.session:spring-session-jdbc:2.1.5.RELEASE`
-- :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.6.RELEASE`
-- :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.6.RELEASE`
-- :cd: `spring.web` :left_right_arrow: `org.springframework:spring-web:5.1.6.RELEASE`
-- :cd: `spring.webflux` :left_right_arrow: `org.springframework:spring-webflux:5.1.6.RELEASE`
-- :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.6.RELEASE`
-- :cd: `spring.websocket` :left_right_arrow: `org.springframework:spring-websocket:5.1.6.RELEASE`
+- :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.7.RELEASE`
+- :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.7.RELEASE`
+- :cd: `spring.web` :left_right_arrow: `org.springframework:spring-web:5.1.7.RELEASE`
+- :cd: `spring.webflux` :left_right_arrow: `org.springframework:spring-webflux:5.1.7.RELEASE`
+- :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.7.RELEASE`
+- :cd: `spring.websocket` :left_right_arrow: `org.springframework:spring-websocket:5.1.7.RELEASE`
 - :cd: `st.extreme.math.fraction` :left_right_arrow: `st.extreme:fractions:1.1`
 - :cd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.5`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0-EDR`
