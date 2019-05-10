@@ -2713,6 +2713,7 @@
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.1` // `com.holon-platform.core,holon-test,5.2.1,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.2` // `com.holon-platform.core,holon-test,5.2.2,com.holonplatform.test,-,automatic,-,false,-`
 - :dvd: `com.io7m.checkstyle.rules` :left_right_arrow: `com.io7m.checkstyle_rules:com.io7m.checkstyle_rules:0.0.2` // `com.io7m.checkstyle_rules,com.io7m.checkstyle_rules,0.0.2,com.io7m.checkstyle.rules,-,explicit,java.base,false,-`
+- :dvd: `com.jiggawatt.jt.oddl` :left_right_arrow: `com.github.mdzhb:jt-oddl:1.0.1` // `com.github.mdzhb,jt-oddl,1.0.1,com.jiggawatt.jt.oddl,-,explicit,java.base,false,-`
 - :cd: `com.jmatio` :left_right_arrow: `com.diffplug.matsim:matfilerw:3.1.0` // `com.diffplug.matsim,matfilerw,3.1.0,com.jmatio,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.jmatio` :left_right_arrow: `com.diffplug.matsim:matfilerw:3.1.1` // `com.diffplug.matsim,matfilerw,3.1.1,com.jmatio,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` :left_right_arrow: `com.jwebmp.jre10:jwebmp-sb2-admin-theme:0.58.0.21-RCTEST` // `com.jwebmp.jre10,jwebmp-sb2-admin-theme,0.58.0.21-RCTEST,com.jwebmp.components.bootstrap.themes.sbadmin2,-,explicit,com.jwebmp.plugins.moment + com.jwebmp.plugins.bootstrap + java.validation + com.jwebmp.core + com.fasterxml.jackson.annotation + java.logging + java.base + com.jwebmp.logmaster,true,-`
@@ -4061,6 +4062,7 @@
 - :dvd: `jdk.internal.vm.compiler` :left_right_arrow: `org.graalvm.compiler:compiler:1.0.0-rc9` // `org.graalvm.compiler,compiler,1.0.0-rc9,jdk.internal.vm.compiler,-,explicit,java.base + jdk.internal.vm.ci + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle,false,-`
 - :cd: `jetty.servlet.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.1` // `org.eclipse.jetty.toolchain,jetty-servlet-api,4.0.1,jetty.servlet.api,-,automatic,-,false,-`
 - :cd: `jetty.servlet.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.2` // `org.eclipse.jetty.toolchain,jetty-servlet-api,4.0.2,jetty.servlet.api,-,automatic,-,false,-`
+- :cd: `jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-javax-websocket-api:1.1.1` // `org.eclipse.jetty.toolchain,jetty-javax-websocket-api,1.1.1,jetty.websocket.api,-,automatic,-,false,-`
 - :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.20` // `com.github.jnr,jnr-enxio,0.20,jnr.enxio,-,automatic,-,false,-`
 - :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.22` // `com.github.jnr,jnr-unixsocket,0.22,jnr.unixsocket,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.0` // `org.joinfaces,joinfaces-autoconfigure,4.0.0,joinfaces.autoconfigure,-,automatic,-,false,-`
@@ -8284,6 +8286,7 @@
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.4.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.4.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.5.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.5.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.6.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.6.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
+- :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.7.RELEASE` // `org.springframework.data,spring-data-cassandra,2.1.7.RELEASE,spring.data.cassandra,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.0.10.RELEASE` // `org.springframework.data,spring-data-commons,2.0.10.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.0.9.RELEASE` // `org.springframework.data,spring-data-commons,2.0.9.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.0.RELEASE` // `org.springframework.data,spring-data-commons,2.1.0.RELEASE,spring.data.commons,-,automatic,-,false,-`
@@ -8293,6 +8296,7 @@
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.4.RELEASE` // `org.springframework.data,spring-data-commons,2.1.4.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.5.RELEASE` // `org.springframework.data,spring-data-commons,2.1.5.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.6.RELEASE` // `org.springframework.data,spring-data-commons,2.1.6.RELEASE,spring.data.commons,-,automatic,-,false,-`
+- :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.7.RELEASE` // `org.springframework.data,spring-data-commons,2.1.7.RELEASE,spring.data.commons,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.0.10.RELEASE` // `org.springframework.data,spring-data-couchbase,3.0.10.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.0.9.RELEASE` // `org.springframework.data,spring-data-couchbase,3.0.9.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.0.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.0.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
@@ -8302,6 +8306,7 @@
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.4.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.4.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.5.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.5.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.6.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.6.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
+- :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.7.RELEASE` // `org.springframework.data,spring-data-couchbase,3.1.7.RELEASE,spring.data.couchbase,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.0.10.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.0.10.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.0.9.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.0.9.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.0.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.0.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
@@ -8311,6 +8316,7 @@
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.4.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.4.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.5.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.5.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.6.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.6.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
+- :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.7.RELEASE` // `org.springframework.data,spring-data-elasticsearch,3.1.7.RELEASE,spring.data.elasticsearch,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.0.10.RELEASE` // `org.springframework.data,spring-data-envers,2.0.10.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.0.9.RELEASE` // `org.springframework.data,spring-data-envers,2.0.9.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.0.RELEASE` // `org.springframework.data,spring-data-envers,2.1.0.RELEASE,spring.data.envers,-,automatic,-,false,-`
@@ -8320,6 +8326,7 @@
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.4.RELEASE` // `org.springframework.data,spring-data-envers,2.1.4.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.5.RELEASE` // `org.springframework.data,spring-data-envers,2.1.5.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.6.RELEASE` // `org.springframework.data,spring-data-envers,2.1.6.RELEASE,spring.data.envers,-,automatic,-,false,-`
+- :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.7.RELEASE` // `org.springframework.data,spring-data-envers,2.1.7.RELEASE,spring.data.envers,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.0.10.RELEASE` // `org.springframework.data,spring-data-gemfire,2.0.10.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.0.9.RELEASE` // `org.springframework.data,spring-data-gemfire,2.0.9.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.0.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.0.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
@@ -8329,6 +8336,7 @@
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.4.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.4.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.5.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.5.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.6.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.6.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
+- :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.7.RELEASE` // `org.springframework.data,spring-data-gemfire,2.1.7.RELEASE,spring.data.gemfire,-,automatic,-,false,-`
 - :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.1.RELEASE` // `org.springframework.data,spring-data-gemfire-test,0.0.1.RELEASE,spring.data.gemfire.test,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.0.10.RELEASE` // `org.springframework.data,spring-data-geode,2.0.10.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.0.9.RELEASE` // `org.springframework.data,spring-data-geode,2.0.9.RELEASE,spring.data.geode,-,automatic,-,false,-`
@@ -8339,6 +8347,7 @@
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.4.RELEASE` // `org.springframework.data,spring-data-geode,2.1.4.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.5.RELEASE` // `org.springframework.data,spring-data-geode,2.1.5.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.6.RELEASE` // `org.springframework.data,spring-data-geode,2.1.6.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.7.RELEASE` // `org.springframework.data,spring-data-geode,2.1.7.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.1.RELEASE` // `org.springframework.data,spring-data-geode-test,0.0.1.RELEASE,spring.data.geode.test,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.0.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.0.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.1.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.1.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
@@ -8347,6 +8356,7 @@
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.4.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.4.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.5.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.5.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.6.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.6.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
+- :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.7.RELEASE` // `org.springframework.data,spring-data-jdbc,1.0.7.RELEASE,spring.data.jdbc,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.0.10.RELEASE` // `org.springframework.data,spring-data-jpa,2.0.10.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.0.9.RELEASE` // `org.springframework.data,spring-data-jpa,2.0.9.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.0.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.0.RELEASE,spring.data.jpa,-,automatic,-,false,-`
@@ -8356,6 +8366,7 @@
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.4.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.4.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.5.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.5.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.6.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.6.RELEASE,spring.data.jpa,-,automatic,-,false,-`
+- :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.7.RELEASE` // `org.springframework.data,spring-data-jpa,2.1.7.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.0.10.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.0.10.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.0.9.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.0.9.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.0.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.0.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
@@ -8365,6 +8376,7 @@
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.4.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.4.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.5.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.5.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.6.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.6.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
+- :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.7.RELEASE` // `org.springframework.data,spring-data-keyvalue,2.1.7.RELEASE,spring.data.keyvalue,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.0.10.RELEASE` // `org.springframework.data,spring-data-ldap,2.0.10.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.0.9.RELEASE` // `org.springframework.data,spring-data-ldap,2.0.9.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.0.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.0.RELEASE,spring.data.ldap,-,automatic,-,false,-`
@@ -8374,6 +8386,7 @@
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.4.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.4.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.5.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.5.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.6.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.6.RELEASE,spring.data.ldap,-,automatic,-,false,-`
+- :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.7.RELEASE` // `org.springframework.data,spring-data-ldap,2.1.7.RELEASE,spring.data.ldap,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.0.10.RELEASE` // `org.springframework.data,spring-data-mongodb,2.0.10.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.0.9.RELEASE` // `org.springframework.data,spring-data-mongodb,2.0.9.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.0.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.0.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
@@ -8383,6 +8396,7 @@
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.4.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.4.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.5.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.5.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.6.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.6.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
+- :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.7.RELEASE` // `org.springframework.data,spring-data-mongodb,2.1.7.RELEASE,spring.data.mongodb,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.0.10.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.0.10.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.0.9.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.0.9.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.0.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.0.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
@@ -8392,6 +8406,7 @@
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.4.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.4.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.5.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.5.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.6.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.6.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
+- :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.7.RELEASE` // `org.springframework.data,spring-data-mongodb-cross-store,2.1.7.RELEASE,spring.data.mongodb.cross.store,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.0.10.RELEASE` // `org.springframework.data,spring-data-neo4j,5.0.10.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.0.9.RELEASE` // `org.springframework.data,spring-data-neo4j,5.0.9.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.0.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.0.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
@@ -8401,6 +8416,7 @@
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.4.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.4.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.5.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.5.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.6.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.6.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
+- :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.7.RELEASE` // `org.springframework.data,spring-data-neo4j,5.1.7.RELEASE,spring.data.neo4j,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.0.10.RELEASE` // `org.springframework.data,spring-data-redis,2.0.10.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.0.9.RELEASE` // `org.springframework.data,spring-data-redis,2.0.9.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.0.RELEASE` // `org.springframework.data,spring-data-redis,2.1.0.RELEASE,spring.data.redis,-,automatic,-,false,-`
@@ -8410,6 +8426,7 @@
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.4.RELEASE` // `org.springframework.data,spring-data-redis,2.1.4.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.5.RELEASE` // `org.springframework.data,spring-data-redis,2.1.5.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.6.RELEASE` // `org.springframework.data,spring-data-redis,2.1.6.RELEASE,spring.data.redis,-,automatic,-,false,-`
+- :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.7.RELEASE` // `org.springframework.data,spring-data-redis,2.1.7.RELEASE,spring.data.redis,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-core,3.0.10.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-core,3.0.9.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.0.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
@@ -8419,6 +8436,7 @@
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.4.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.5.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.6.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
+- :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.7.RELEASE` // `org.springframework.data,spring-data-rest-core,3.1.7.RELEASE,spring.data.rest.core,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.0.10.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.0.9.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.0.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
@@ -8428,6 +8446,7 @@
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.4.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.5.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.6.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
+- :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.7.RELEASE` // `org.springframework.data,spring-data-rest-hal-browser,3.1.7.RELEASE,spring.data.rest.hal.browser,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.0.10.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.0.10.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.0.9.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.0.9.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.0.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.0.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
@@ -8437,6 +8456,7 @@
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.4.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.4.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.5.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.5.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.6.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.6.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
+- :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.7.RELEASE` // `org.springframework.data,spring-data-rest-webmvc,3.1.7.RELEASE,spring.data.rest.webmvc,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:3.0.10.RELEASE` // `org.springframework.data,spring-data-solr,3.0.10.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:3.0.9.RELEASE` // `org.springframework.data,spring-data-solr,3.0.9.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.0.RELEASE` // `org.springframework.data,spring-data-solr,4.0.0.RELEASE,spring.data.solr,-,automatic,-,false,-`
@@ -8446,6 +8466,7 @@
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.4.RELEASE` // `org.springframework.data,spring-data-solr,4.0.4.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.5.RELEASE` // `org.springframework.data,spring-data-solr,4.0.5.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.6.RELEASE` // `org.springframework.data,spring-data-solr,4.0.6.RELEASE,spring.data.solr,-,automatic,-,false,-`
+- :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.7.RELEASE` // `org.springframework.data,spring-data-solr,4.0.7.RELEASE,spring.data.solr,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.0.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.0.0.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.0.0.RELEASE` // `org.springframework.geode,spring-geode,1.0.0.RELEASE,spring.geode,-,automatic,-,false,-`
@@ -8736,6 +8757,7 @@
 - :cd: `spring.kafka` :left_right_arrow: `org.springframework.kafka:spring-kafka:2.2.3.RELEASE` // `org.springframework.kafka,spring-kafka,2.2.3.RELEASE,spring.kafka,-,automatic,-,false,-`
 - :cd: `spring.kafka` :left_right_arrow: `org.springframework.kafka:spring-kafka:2.2.4.RELEASE` // `org.springframework.kafka,spring-kafka,2.2.4.RELEASE,spring.kafka,-,automatic,-,false,-`
 - :cd: `spring.kafka` :left_right_arrow: `org.springframework.kafka:spring-kafka:2.2.5.RELEASE` // `org.springframework.kafka,spring-kafka,2.2.5.RELEASE,spring.kafka,-,automatic,-,false,-`
+- :cd: `spring.kafka` :left_right_arrow: `org.springframework.kafka:spring-kafka:2.2.6.RELEASE` // `org.springframework.kafka,spring-kafka,2.2.6.RELEASE,spring.kafka,-,automatic,-,false,-`
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.1.10.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.1.10.RELEASE,spring.kafka.test,-,automatic,-,false,-`
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.1.9.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.1.9.RELEASE,spring.kafka.test,-,automatic,-,false,-`
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.0.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.2.0.RELEASE,spring.kafka.test,-,automatic,-,false,-`
@@ -8743,6 +8765,7 @@
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.3.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.2.3.RELEASE,spring.kafka.test,-,automatic,-,false,-`
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.4.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.2.4.RELEASE,spring.kafka.test,-,automatic,-,false,-`
 - :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.5.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.2.5.RELEASE,spring.kafka.test,-,automatic,-,false,-`
+- :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.6.RELEASE` // `org.springframework.kafka,spring-kafka-test,2.2.6.RELEASE,spring.kafka.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.5.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.6.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.7.RELEASE,spring.rabbit,-,automatic,-,false,-`
@@ -9198,6 +9221,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.7` // `io.zipkin.zipkin2,zipkin,2.12.7,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.8` // `io.zipkin.zipkin2,zipkin,2.12.8,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.9` // `io.zipkin.zipkin2,zipkin,2.12.9,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`
