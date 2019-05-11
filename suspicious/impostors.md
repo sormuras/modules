@@ -1631,6 +1631,7 @@
 - :cd: `net.kyori.event` :left_right_arrow: `net.kyori:event-api:3.0.0` // `net.kyori,event-api,3.0.0,net.kyori.event,-,automatic,-,false,-`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:2.0.0` // `net.kyori,text-api,2.0.0,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:3.0.0` // `net.kyori,text-api,3.0.0,net.kyori.text,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta1` // `net.morimekta.providence,providence-testing-junit4,2.0-beta1,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
@@ -2185,6 +2186,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.7.0` // `com.bmuschko,gradle-docker-plugin,4.7.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.7.1` // `com.bmuschko,gradle-docker-plugin,4.7.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.8.0` // `com.bmuschko,gradle-docker-plugin,4.8.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:4.8.1` // `com.bmuschko,gradle-docker-plugin,4.8.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:1.5.1` // `com.github.collinalpert,java2db,1.5.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`

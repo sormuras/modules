@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4119 Java modules published at Maven Central
+Counted 4121 Java modules published at Maven Central
 
-## Summary 2019-05-10T22:13:52.417690Z
+## Summary 2019-05-11T22:14:29.702987Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-10T22:13:52.417690Z
-Scanned 21,146 files in 2 seconds.
+Started scan at 2019-05-11T22:14:29.702987Z
+Scanned 21,217 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_10_22_04_42.csv
+    last -> modulescanner-report-2019_05_11_21_56_35.csv
 
-Parsed 1,291,583 lines in total.
-  25,057 -> captions skipped
-  76,931 -> duplicates skipped
-  48,848 -> module related
+Parsed 1,294,500 lines in total.
+  25,128 -> captions skipped
+  77,243 -> duplicates skipped
+  49,131 -> module related
 
-Collected 4,119 unique modules.
-  automatic :cd: -> 3,198
+Collected 4,121 unique modules.
+  automatic :cd: -> 3,200
   explicit :dvd: -> 921
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5334](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9307](suspicious/naming.md)
-- Modular impostors: [2384](suspicious/impostors.md)
+- Invalid module names: [5335](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9529](suspicious/naming.md)
+- Modular impostors: [2386](suspicious/impostors.md)
 
-## Unique Modules (4119)
+## Unique Modules (4121)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -130,7 +130,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` :left_right_arrow: `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
 - :dvd: `be.yildizgames.engine.client.addon.statemachine` :left_right_arrow: `be.yildiz-games:engine-client-addon-statemachine:2.1.2`
 - :dvd: `be.yildizgames.engine.client.addon.ui` :left_right_arrow: `be.yildiz-games:engine-client-addon-ui:2.1.1`
-- :dvd: `be.yildizgames.engine.server` :left_right_arrow: `be.yildiz-games:engine-server:1.0.9`
+- :dvd: `be.yildizgames.engine.server` :left_right_arrow: `be.yildiz-games:engine-server:1.0.10`
 - :dvd: `be.yildizgames.engine.shared` :left_right_arrow: `be.yildiz-games:engine-shared:2.0.3`
 - :dvd: `be.yildizgames.feature.city.server` :left_right_arrow: `be.yildiz-games:feature-city-server:1.0.0`
 - :dvd: `be.yildizgames.feature.city.shared` :left_right_arrow: `be.yildiz-games:feature-city-shared:2.0.0`
@@ -1485,7 +1485,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.15.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.31`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.32`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
@@ -1804,15 +1804,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.128`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.128`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.128`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.128`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.102`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.102`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.102`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.102`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.102`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.129`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.129`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.129`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.129`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.103`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.103`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.103`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.103`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.103`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.2.1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.12`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.12`
@@ -1925,23 +1925,25 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
-- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:1.10.3`
-- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:1.10.3`
-- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:1.10.3`
-- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:1.10.3`
-- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:1.10.3`
-- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:1.10.3`
-- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:1.10.3`
-- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:1.10.3`
-- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:1.10.3`
-- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:1.10.3`
-- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:1.10.3`
-- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:1.10.3`
-- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:1.10.3`
-- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:1.10.3`
-- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:1.10.3`
-- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:1.10.3`
-- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:1.10.3`
+- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:2.0-beta1`
+- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:2.0-beta1`
+- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:2.0-beta1`
+- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:2.0-beta1`
+- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:2.0-beta1`
+- :cd: `net.morimekta.providence.graphql` :left_right_arrow: `net.morimekta.providence:providence-graphql:2.0-beta1`
+- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:2.0-beta1`
+- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:2.0-beta1`
+- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:2.0-beta1`
+- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:2.0-beta1`
+- :cd: `net.morimekta.providence.logging` :left_right_arrow: `net.morimekta.providence:providence-logging:2.0-beta1`
+- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:2.0-beta1`
+- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:2.0-beta1`
+- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:2.0-beta1`
+- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:2.0-beta1`
+- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:2.0-beta1`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:2.0-beta1`
+- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:2.0-beta1`
+- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:2.0-beta1`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8-osgi:1.4.1`
 - :cd: `net.objectlab.kit.datecalc.common` :left_right_arrow: `net.objectlab.kit:datecalc-common:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
@@ -3887,46 +3889,46 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.4.0`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`
-- :cd: `org.trellisldp.agent` :left_right_arrow: `org.trellisldp:trellis-agent:0.8.1`
-- :cd: `org.trellisldp.amqp` :left_right_arrow: `org.trellisldp:trellis-amqp:0.8.1`
-- :cd: `org.trellisldp.api` :left_right_arrow: `org.trellisldp:trellis-api:0.8.1`
-- :cd: `org.trellisldp.app` :left_right_arrow: `org.trellisldp:trellis-app:0.8.1`
-- :cd: `org.trellisldp.app.triplestore` :left_right_arrow: `org.trellisldp:trellis-app-triplestore:0.8.1`
-- :cd: `org.trellisldp.audit` :left_right_arrow: `org.trellisldp:trellis-audit:0.8.1`
-- :cd: `org.trellisldp.auth.basic` :left_right_arrow: `org.trellisldp:trellis-auth-basic:0.8.1`
-- :cd: `org.trellisldp.auth.oauth` :left_right_arrow: `org.trellisldp:trellis-auth-oauth:0.8.1`
+- :cd: `org.trellisldp.agent` :left_right_arrow: `org.trellisldp:trellis-agent:0.8.2`
+- :cd: `org.trellisldp.amqp` :left_right_arrow: `org.trellisldp:trellis-amqp:0.8.2`
+- :cd: `org.trellisldp.api` :left_right_arrow: `org.trellisldp:trellis-api:0.8.2`
+- :cd: `org.trellisldp.app` :left_right_arrow: `org.trellisldp:trellis-app:0.8.2`
+- :cd: `org.trellisldp.app.triplestore` :left_right_arrow: `org.trellisldp:trellis-app-triplestore:0.8.2`
+- :cd: `org.trellisldp.audit` :left_right_arrow: `org.trellisldp:trellis-audit:0.8.2`
+- :cd: `org.trellisldp.auth.basic` :left_right_arrow: `org.trellisldp:trellis-auth-basic:0.8.2`
+- :cd: `org.trellisldp.auth.oauth` :left_right_arrow: `org.trellisldp:trellis-auth-oauth:0.8.2`
 - :cd: `org.trellisldp.binary` :left_right_arrow: `org.trellisldp:trellis-binary:0.5.2`
 - :cd: `org.trellisldp.camel` :left_right_arrow: `org.trellisldp:camel-ldp:0.1.1`
-- :cd: `org.trellisldp.constraint` :left_right_arrow: `org.trellisldp:trellis-constraint-rules:0.8.1`
-- :cd: `org.trellisldp.event` :left_right_arrow: `org.trellisldp:trellis-event-serialization:0.8.1`
+- :cd: `org.trellisldp.constraint` :left_right_arrow: `org.trellisldp:trellis-constraint-rules:0.8.2`
+- :cd: `org.trellisldp.event` :left_right_arrow: `org.trellisldp:trellis-event-serialization:0.8.2`
 - :cd: `org.trellisldp.ext.app.db` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.1.1`
-- :cd: `org.trellisldp.ext.aws` :left_right_arrow: `org.trellisldp.ext:trellis-aws:0.1.1`
-- :cd: `org.trellisldp.ext.aws.neptune.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-app:0.1.1`
-- :cd: `org.trellisldp.ext.aws.neptune.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-lambda:0.1.1`
-- :cd: `org.trellisldp.ext.aws.rds.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-app:0.1.1`
-- :cd: `org.trellisldp.ext.aws.rds.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-lambda:0.1.1`
-- :cd: `org.trellisldp.ext.db` :left_right_arrow: `org.trellisldp.ext:trellis-db:0.2.1`
-- :cd: `org.trellisldp.ext.db.app` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.2.1`
+- :cd: `org.trellisldp.ext.aws` :left_right_arrow: `org.trellisldp.ext:trellis-aws:0.1.2`
+- :cd: `org.trellisldp.ext.aws.neptune.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-app:0.1.2`
+- :cd: `org.trellisldp.ext.aws.neptune.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-neptune-lambda:0.1.2`
+- :cd: `org.trellisldp.ext.aws.rds.app` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-app:0.1.2`
+- :cd: `org.trellisldp.ext.aws.rds.lambda` :left_right_arrow: `org.trellisldp.ext:trellis-aws-rds-lambda:0.1.2`
+- :cd: `org.trellisldp.ext.db` :left_right_arrow: `org.trellisldp.ext:trellis-db:0.2.2`
+- :cd: `org.trellisldp.ext.db.app` :left_right_arrow: `org.trellisldp.ext:trellis-db-app:0.2.2`
 - :cd: `org.trellisldp.ext.elasticsearch` :left_right_arrow: `org.trellisldp.ext:camel-ldp-elasticsearch:0.1.0`
 - :cd: `org.trellisldp.ext.ldpath` :left_right_arrow: `org.trellisldp.ext:camel-ldp-ldpath:0.1.0`
 - :cd: `org.trellisldp.ext.triplestore` :left_right_arrow: `org.trellisldp.ext:camel-ldp-triplestore:0.1.0`
 - :cd: `org.trellisldp.ext.websub` :left_right_arrow: `org.trellisldp.ext:camel-ldp-websub:0.1.0`
-- :cd: `org.trellisldp.file` :left_right_arrow: `org.trellisldp:trellis-file:0.8.1`
-- :cd: `org.trellisldp.http` :left_right_arrow: `org.trellisldp:trellis-http:0.8.1`
+- :cd: `org.trellisldp.file` :left_right_arrow: `org.trellisldp:trellis-file:0.8.2`
+- :cd: `org.trellisldp.http` :left_right_arrow: `org.trellisldp:trellis-http:0.8.2`
 - :cd: `org.trellisldp.id` :left_right_arrow: `org.trellisldp:trellis-id:0.7.3`
-- :cd: `org.trellisldp.io` :left_right_arrow: `org.trellisldp:trellis-io-jena:0.8.1`
-- :cd: `org.trellisldp.jms` :left_right_arrow: `org.trellisldp:trellis-jms:0.8.1`
-- :cd: `org.trellisldp.kafka` :left_right_arrow: `org.trellisldp:trellis-kafka:0.8.1`
-- :cd: `org.trellisldp.namespaces` :left_right_arrow: `org.trellisldp:trellis-namespaces:0.8.1`
+- :cd: `org.trellisldp.io` :left_right_arrow: `org.trellisldp:trellis-io-jena:0.8.2`
+- :cd: `org.trellisldp.jms` :left_right_arrow: `org.trellisldp:trellis-jms:0.8.2`
+- :cd: `org.trellisldp.kafka` :left_right_arrow: `org.trellisldp:trellis-kafka:0.8.2`
+- :cd: `org.trellisldp.namespaces` :left_right_arrow: `org.trellisldp:trellis-namespaces:0.8.2`
 - :cd: `org.trellisldp.osgi` :left_right_arrow: `org.trellisldp:trellis-osgi:0.7.3`
-- :cd: `org.trellisldp.rdfa` :left_right_arrow: `org.trellisldp:trellis-rdfa:0.8.1`
+- :cd: `org.trellisldp.rdfa` :left_right_arrow: `org.trellisldp:trellis-rdfa:0.8.2`
 - :cd: `org.trellisldp.rosid.common` :left_right_arrow: `org.trellisldp:trellis-rosid-common:0.3.1`
 - :cd: `org.trellisldp.rosid.file` :left_right_arrow: `org.trellisldp:trellis-rosid-file:0.3.1`
 - :cd: `org.trellisldp.spi` :left_right_arrow: `org.trellisldp:trellis-spi:0.1.5`
-- :cd: `org.trellisldp.test` :left_right_arrow: `org.trellisldp:trellis-test:0.8.1`
-- :cd: `org.trellisldp.triplestore` :left_right_arrow: `org.trellisldp:trellis-triplestore:0.8.1`
-- :cd: `org.trellisldp.vocabulary` :left_right_arrow: `org.trellisldp:trellis-vocabulary:0.8.1`
-- :cd: `org.trellisldp.webac` :left_right_arrow: `org.trellisldp:trellis-webac:0.8.1`
+- :cd: `org.trellisldp.test` :left_right_arrow: `org.trellisldp:trellis-test:0.8.2`
+- :cd: `org.trellisldp.triplestore` :left_right_arrow: `org.trellisldp:trellis-triplestore:0.8.2`
+- :cd: `org.trellisldp.vocabulary` :left_right_arrow: `org.trellisldp:trellis-vocabulary:0.8.2`
+- :cd: `org.trellisldp.webac` :left_right_arrow: `org.trellisldp:trellis-webac:0.8.2`
 - :cd: `org.tukaani.xz` :left_right_arrow: `org.tukaani:xz:1.8`
 - :cd: `org.twinnation.superassert` :left_right_arrow: `org.twinnation:super-assert:1.0.2`
 - :cd: `org.twitter4j.core` :left_right_arrow: `org.twitter4j:twitter4j-core:4.0.7`

@@ -4576,6 +4576,7 @@
 - :cd: `io.skullabs.kikaha.kikaha-uworkers` :left_right_arrow: `io.skullabs.kikaha:kikaha-uworkers:2.1.7.Final` // `io.skullabs.kikaha,kikaha-uworkers,2.1.7.Final,io.skullabs.kikaha.kikaha-uworkers,-,automatic,-,false,-`
 - :cd: `io.skullabs.kikaha.kikaha-uworkers` :left_right_arrow: `io.skullabs.kikaha:kikaha-uworkers:2.1.8.Final` // `io.skullabs.kikaha,kikaha-uworkers,2.1.8.Final,io.skullabs.kikaha.kikaha-uworkers,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.0` // `net.dreamlu,mica-plus-error-catch,1.1.0,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.1` // `net.dreamlu,mica-plus-error-catch,1.1.1,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
