@@ -4312,6 +4312,7 @@
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.6` // `com.github.h908714124,jbock,2.6.6,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.8` // `com.github.h908714124,jbock,2.6.8,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.9` // `com.github.h908714124,jbock,2.6.9,net.jbock.compiler,-,automatic,-,false,-`
+- :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.0` // `com.github.h908714124,jbock,2.7.0,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.0.1` // `net.morimekta.utils,io-util,3.0.1,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.1.0` // `net.morimekta.utils,io-util,3.1.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.2.0` // `net.morimekta.utils,io-util,3.2.0,net.morimekta.util,-,automatic,-,false,-`
@@ -4326,6 +4327,7 @@
 - :cd: `net.nanquanyuhao.codeanalysis4j` :left_right_arrow: `io.github.nanquanyuhao:codeanalysis4j:0.0.2` // `io.github.nanquanyuhao,codeanalysis4j,0.0.2,net.nanquanyuhao.codeanalysis4j,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.0.0` // `net.officefloor.eclipse,net.officefloor.core,3.0.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.1.0` // `net.officefloor.eclipse,net.officefloor.core,3.1.0,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.10.0` // `net.officefloor.eclipse,net.officefloor.core,3.10.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.2.0` // `net.officefloor.eclipse,net.officefloor.core,3.2.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.4.0` // `net.officefloor.eclipse,net.officefloor.core,3.4.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.5.0` // `net.officefloor.eclipse,net.officefloor.core,3.5.0,net.officefloor.core,-,automatic,-,false,-`
@@ -4340,6 +4342,7 @@
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.2` // `net.officefloor.eclipse,net.officefloor.core,3.9.2,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.0.0` // `net.officefloor.eclipse,net.officefloor.woof,3.0.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.1.0` // `net.officefloor.eclipse,net.officefloor.woof,3.1.0,net.officefloor.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.0` // `net.officefloor.eclipse,net.officefloor.woof,3.10.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.2.0` // `net.officefloor.eclipse,net.officefloor.woof,3.2.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.4.0` // `net.officefloor.eclipse,net.officefloor.woof,3.4.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.5.0` // `net.officefloor.eclipse,net.officefloor.woof,3.5.0,net.officefloor.woof,-,automatic,-,false,-`

@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4121 Java modules published at Maven Central
+Counted 4165 Java modules published at Maven Central
 
-## Summary 2019-05-11T22:14:29.702987Z
+## Summary 2019-05-12T22:15:00.756263Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-11T22:14:29.702987Z
-Scanned 21,217 files in 2 seconds.
+Started scan at 2019-05-12T22:15:00.756263Z
+Scanned 21,283 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_11_21_56_35.csv
+    last -> modulescanner-report-2019_05_12_21_58_49.csv
 
-Parsed 1,294,500 lines in total.
-  25,128 -> captions skipped
-  77,243 -> duplicates skipped
-  49,131 -> module related
+Parsed 1,297,479 lines in total.
+  25,190 -> captions skipped
+  77,290 -> duplicates skipped
+  49,225 -> module related
 
-Collected 4,121 unique modules.
-  automatic :cd: -> 3,200
+Collected 4,165 unique modules.
+  automatic :cd: -> 3,244
   explicit :dvd: -> 921
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5335](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9529](suspicious/naming.md)
+- Invalid module names: [5358](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9532](suspicious/naming.md)
 - Modular impostors: [2386](suspicious/impostors.md)
 
-## Unique Modules (4121)
+## Unique Modules (4165)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -392,11 +392,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.0`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.0`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.0`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.0`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.0`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.1`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.1`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.1`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.1`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.1`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -1485,7 +1485,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.15.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.32`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.34`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
@@ -1804,10 +1804,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.129`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.129`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.129`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.129`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.130`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.130`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.130`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.130`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.103`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.103`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.103`
@@ -1949,19 +1949,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk8` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.joda` :left_right_arrow: `net.objectlab.kit:datecalc-joda:1.4.2`
-- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.9.2`
-- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.9.2`
-- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.9.2`
-- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.9.2`
-- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.9.2`
-- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.9.2`
-- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.9.2`
-- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.9.2`
-- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.9.2`
-- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.9.2`
-- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.9.2`
-- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.9.2`
-- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.9.2`
+- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.10.0`
+- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.10.0`
+- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.10.0`
+- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.10.0`
+- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.10.0`
+- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.10.0`
+- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.10.0`
+- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.10.0`
+- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.10.0`
+- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.10.0`
+- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.10.0`
+- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.10.0`
+- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.10.0`
 - :cd: `net.reini.junit` :left_right_arrow: `net.reini:junit-compat:1.3`
 - :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.1.0`
 - :cd: `net.sf.flatpack` :left_right_arrow: `net.sf.flatpack:flatpack:4.0.4`
@@ -1970,6 +1970,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.sf.nachocalendar` :left_right_arrow: `net.sf.nachocalendar:nachocalendar:0.25`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
 - :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.0`
+- :cd: `net.tangly.fsm` :left_right_arrow: `net.tangly:net.tangly.fsm:0.2.0`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.0.1`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.0.1`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.0.1`
@@ -3102,6 +3103,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.javamoney.moneta.convert` :left_right_arrow: `org.javamoney.moneta:moneta-convert:1.3`
 - :cd: `org.javamoney.moneta.convert.ecb` :left_right_arrow: `org.javamoney.moneta:moneta-convert-ecb:1.3`
 - :cd: `org.javamoney.moneta.convert.imf` :left_right_arrow: `org.javamoney.moneta:moneta-convert-imf:1.3`
+- :cd: `org.jaxdb.ddlx` :left_right_arrow: `org.jaxdb:ddlx:0.3.9`
+- :cd: `org.jaxdb.jsql` :left_right_arrow: `org.jaxdb:jsql:0.3.9`
+- :cd: `org.jaxdb.sqlx` :left_right_arrow: `org.jaxdb:sqlx:0.3.9`
+- :cd: `org.jaxsb.compiler` :left_right_arrow: `org.jaxsb:compiler:2.1.4`
+- :cd: `org.jaxsb.generator` :left_right_arrow: `org.jaxsb:generator:2.1.4`
+- :cd: `org.jaxsb.runtime` :left_right_arrow: `org.jaxsb:runtime:2.1.4`
+- :cd: `org.jaxsb.sample` :left_right_arrow: `org.jaxsb:sample:2.1.4`
+- :cd: `org.jaxsb.tutorial` :left_right_arrow: `org.jaxsb:tutorial:2.1.4`
 - :cd: `org.jboss.dmr` :left_right_arrow: `org.jboss:jboss-dmr:1.5.0.Final`
 - :cd: `org.jboss.logging` :left_right_arrow: `org.jboss.logging:jboss-logging:3.4.0.Final`
 - :cd: `org.jbpm.bpmn2` :left_right_arrow: `org.jbpm:jbpm-bpmn2:7.21.0.Final`
@@ -3192,6 +3201,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jdbi.v3.testing` :left_right_arrow: `org.jdbi:jdbi3-testing:3.8.2`
 - :cd: `org.jdbi.v3.vavr` :left_right_arrow: `org.jdbi:jdbi3-vavr:3.8.2`
 - :cd: `org.jetbrains.annotations` :left_right_arrow: `org.jetbrains:annotations:17.0.0`
+- :cd: `org.jetrs.server` :left_right_arrow: `org.jetrs:server:2.1.0-alpha-1`
 - :cd: `org.jfree.fxgraphics2d` :left_right_arrow: `org.jfree:fxgraphics2d:1.8`
 - :cd: `org.jfree.jfreesvg` :left_right_arrow: `org.jfree:jfreesvg:3.4`
 - :cd: `org.jgrapht.core` :left_right_arrow: `org.jgrapht:jgrapht-core:1.3.0`
@@ -3225,6 +3235,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.44`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.26`
 - :cd: `org.json` :left_right_arrow: `org.json:json:20180813`
+- :cd: `org.jsonx.binding` :left_right_arrow: `org.jsonx:binding:0.2.2`
+- :cd: `org.jsonx.generator` :left_right_arrow: `org.jsonx:generator:0.2.2`
+- :cd: `org.jsonx.json` :left_right_arrow: `org.jsonx:json:0.2.2`
+- :cd: `org.jsonx.rs` :left_right_arrow: `org.jsonx:rs:0.2.2`
+- :cd: `org.jsonx.schema` :left_right_arrow: `org.jsonx:schema:0.2.2`
 - :cd: `org.jsoup` :left_right_arrow: `org.jsoup:jsoup:1.11.3`
 - :cd: `org.jtransfo` :left_right_arrow: `org.jtransfo:jtransfo-core:2.9`
 - :cd: `org.jtransfo.cdi` :left_right_arrow: `org.jtransfo:jtransfo-cdi:2.9`
@@ -3380,6 +3395,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-core:0.3.2`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:0.16.0`
+- :cd: `org.libj.exec` :left_right_arrow: `org.libj:exec:0.8.9`
+- :cd: `org.libj.io` :left_right_arrow: `org.libj:io:0.7.5`
+- :cd: `org.libj.jci` :left_right_arrow: `org.libj:jci:0.8.3`
+- :cd: `org.libj.lang` :left_right_arrow: `org.libj:lang:0.7.3`
+- :cd: `org.libj.logging` :left_right_arrow: `org.libj:logging:0.4.1`
+- :cd: `org.libj.mail` :left_right_arrow: `org.libj:mail:0.4.1`
+- :cd: `org.libj.math` :left_right_arrow: `org.libj:math:0.6.4`
+- :cd: `org.libj.net` :left_right_arrow: `org.libj:net:0.5.0`
+- :cd: `org.libj.sql` :left_right_arrow: `org.libj:sql:0.4.5`
+- :cd: `org.libj.test` :left_right_arrow: `org.libj:test:0.6.9`
+- :cd: `org.libj.util` :left_right_arrow: `org.libj:util:0.7.9`
 - :cd: `org.linguafranca.pwdb.database` :left_right_arrow: `org.linguafranca.pwdb:database:2.1.4`
 - :cd: `org.linguafranca.pwdb.kdb` :left_right_arrow: `org.linguafranca.pwdb:KeePassJava2-kdb:2.1.4`
 - :cd: `org.linguafranca.pwdb.kdbx` :left_right_arrow: `org.linguafranca.pwdb:KeePassJava2-kdbx:2.1.4`
@@ -3622,6 +3648,24 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.openestate.is24.restapi.examples` :left_right_arrow: `org.openestate.is24:OpenEstate-IS24-REST-Examples:0.5`
 - :cd: `org.openestate.is24.restapi.hc42` :left_right_arrow: `org.openestate.is24:OpenEstate-IS24-REST-HC42:0.5`
 - :cd: `org.openestate.is24.restapi.hc43` :left_right_arrow: `org.openestate.is24:OpenEstate-IS24-REST-HC43:0.5`
+- :cd: `org.openjax.cdm` :left_right_arrow: `org.openjax:cdm:0.0.7`
+- :cd: `org.openjax.cli` :left_right_arrow: `org.openjax:cli:1.1.7`
+- :cd: `org.openjax.codegen.radixtree` :left_right_arrow: `org.openjax.codegen:radixtree:0.2.3`
+- :cd: `org.openjax.dbcp` :left_right_arrow: `org.openjax:dbcp:1.0.4`
+- :cd: `org.openjax.expect` :left_right_arrow: `org.openjax:expect:0.2.12`
+- :cd: `org.openjax.jaxb.xjc` :left_right_arrow: `org.openjax.jaxb:xjc:0.8.1`
+- :cd: `org.openjax.jetty` :left_right_arrow: `org.openjax:jetty:9.4.16`
+- :cd: `org.openjax.json` :left_right_arrow: `org.openjax:json:0.9.1`
+- :cd: `org.openjax.maven.mojo` :left_right_arrow: `org.openjax.maven:mojo:0.3.5`
+- :cd: `org.openjax.measure` :left_right_arrow: `org.openjax:measure:0.9.3`
+- :cd: `org.openjax.security.crypto` :left_right_arrow: `org.openjax.security:crypto:0.2.1`
+- :cd: `org.openjax.security.nacl` :left_right_arrow: `org.openjax.security:nacl:0.1.0`
+- :cd: `org.openjax.security.otp` :left_right_arrow: `org.openjax.security:otp:0.3.1`
+- :cd: `org.openjax.xml.api` :left_right_arrow: `org.openjax.xml:api:0.9.2`
+- :cd: `org.openjax.xml.datatype` :left_right_arrow: `org.openjax.xml:datatype:0.9.2`
+- :cd: `org.openjax.xml.dom` :left_right_arrow: `org.openjax.xml:dom:0.9.2`
+- :cd: `org.openjax.xml.sax` :left_right_arrow: `org.openjax.xml:sax:0.9.2`
+- :cd: `org.openjax.xml.transform` :left_right_arrow: `org.openjax.xml:transform:0.9.2`
 - :cd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.1.1`
 - :cd: `org.optaplanner.benchmark` :left_right_arrow: `org.optaplanner:optaplanner-benchmark:7.21.0.Final`
 - :cd: `org.optaplanner.core` :left_right_arrow: `org.optaplanner:optaplanner-core:7.21.0.Final`
