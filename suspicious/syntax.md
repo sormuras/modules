@@ -193,6 +193,7 @@
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.2.7` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.2.7,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.0` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.1` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.1,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.2` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.1` // `org.apache.logging.log4j,log4j-liquibase,2.11.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.2` // `org.apache.logging.log4j,log4j-liquibase,2.11.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.14.0.Final` // `org.drools,camel-container-integration-tests,7.14.0.Final,-,-,automatic,-,false,-`
