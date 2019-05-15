@@ -122,10 +122,12 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.2.0` // `io.cucumber,cucumber-scala_2.11,4.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.2.6` // `io.cucumber,cucumber-scala_2.11,4.2.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.3.0` // `io.cucumber,cucumber-scala_2.11,4.3.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.3.1` // `io.cucumber,cucumber-scala_2.11,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.1.0` // `io.cucumber,cucumber-scala_2.12,4.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.0` // `io.cucumber,cucumber-scala_2.12,4.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.6` // `io.cucumber,cucumber-scala_2.12,4.2.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.3.0` // `io.cucumber,cucumber-scala_2.12,4.3.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.3.1` // `io.cucumber,cucumber-scala_2.12,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.1` // `io.cucumber,cucumber-spring,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.2` // `io.cucumber,cucumber-spring,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.3` // `io.cucumber,cucumber-spring,4.2.3,-,-,automatic,-,false,-`
@@ -4466,6 +4468,7 @@
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.0` // `com.helger,en16931-cii2ubl,1.1.0,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.1` // `com.helger,en16931-cii2ubl,1.1.1,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.2` // `com.helger,en16931-cii2ubl,1.1.2,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
+- :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.3` // `com.helger,en16931-cii2ubl,1.1.3,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.0.2` // `com.helger,parser-generator-cc,1.0.2,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.0` // `com.helger,parser-generator-cc,1.1.0,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.1` // `com.helger,parser-generator-cc,1.1.1,com.helger.parser-generator-cc,-,automatic,-,false,-`

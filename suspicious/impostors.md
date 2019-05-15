@@ -1065,6 +1065,7 @@
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-core:1.1.0` // `io.micronaut.configuration,micronaut-micrometer-core,1.1.0,io.micronaut.configuration.micrometer_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-core:1.1.0.RC1` // `io.micronaut.configuration,micronaut-micrometer-core,1.1.0.RC1,io.micronaut.configuration.micrometer_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-core:1.1.0.RC2` // `io.micronaut.configuration,micronaut-micrometer-core,1.1.0.RC2,io.micronaut.configuration.micrometer_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-core:1.2.0.RC1` // `io.micronaut.configuration,micronaut-micrometer-core,1.2.0.RC1,io.micronaut.configuration.micrometer_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-atlas:1.0.0` // `io.micronaut.configuration,micronaut-micrometer-registry-atlas,1.0.0,io.micronaut.configuration.micrometer_registry_atlas,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-atlas:1.0.0.RC3` // `io.micronaut.configuration,micronaut-micrometer-registry-atlas,1.0.0.RC3,io.micronaut.configuration.micrometer_registry_atlas,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-atlas:1.0.1` // `io.micronaut.configuration,micronaut-micrometer-registry-atlas,1.0.1,io.micronaut.configuration.micrometer_registry_atlas,-,automatic,-,false,-`
@@ -1985,6 +1986,7 @@
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk14:1.61` // `org.bouncycastle,bcprov-jdk14,1.61,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.60` // `org.bouncycastle,bcprov-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.61` // `org.bouncycastle,bcprov-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0` // `org.eclipse.milo,server-examples,0.3.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:basicauth-security:2.7.0` // `org.wso2.msf4j,basicauth-security,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:msf4j-all:2.7.0` // `org.wso2.msf4j,msf4j-all,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -2063,15 +2065,25 @@
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.21.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.21.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.0` // `org.eclipse.milo,bsd-parser-gson,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.0-M1` // `org.eclipse.milo,bsd-parser-gson,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.0` // `org.eclipse.milo,client-examples,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.0-M1` // `org.eclipse.milo,client-examples,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.0` // `org.eclipse.milo,sdk-client,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.0-M1` // `org.eclipse.milo,sdk-client,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.0` // `org.eclipse.milo,sdk-core,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.0-M1` // `org.eclipse.milo,sdk-core,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.0` // `org.eclipse.milo,sdk-server,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.0-M1` // `org.eclipse.milo,sdk-server,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.0` // `org.eclipse.milo,sdk-tests,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.0-M1` // `org.eclipse.milo,sdk-tests,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.0` // `org.eclipse.milo,stack-client,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.0-M1` // `org.eclipse.milo,stack-client,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.0` // `org.eclipse.milo,stack-core,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.0-M1` // `org.eclipse.milo,stack-core,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.0` // `org.eclipse.milo,stack-server,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.0-M1` // `org.eclipse.milo,stack-server,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.0` // `org.eclipse.milo,stack-tests,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.0-M1` // `org.eclipse.milo,stack-tests,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
@@ -2359,6 +2371,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16.5` // `com.google.gerrit,gerrit-acceptance-framework,2.16.5,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16.6` // `com.google.gerrit,gerrit-acceptance-framework,2.16.6,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16.7` // `com.google.gerrit,gerrit-acceptance-framework,2.16.7,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.0` // `com.google.gerrit,gerrit-acceptance-framework,3.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.0.0-rc0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.0-rc1` // `com.google.gerrit,gerrit-acceptance-framework,3.0.0-rc1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.0-rc2` // `com.google.gerrit,gerrit-acceptance-framework,3.0.0-rc2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -2375,6 +2388,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16.5` // `com.google.gerrit,gerrit-plugin-api,2.16.5,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16.6` // `com.google.gerrit,gerrit-plugin-api,2.16.6,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16.7` // `com.google.gerrit,gerrit-plugin-api,2.16.7,org.objectweb.asm,6.2.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.0` // `com.google.gerrit,gerrit-plugin-api,3.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.0-rc0` // `com.google.gerrit,gerrit-plugin-api,3.0.0-rc0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.0-rc1` // `com.google.gerrit,gerrit-plugin-api,3.0.0-rc1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.0-rc2` // `com.google.gerrit,gerrit-plugin-api,3.0.0-rc2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
