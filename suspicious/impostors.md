@@ -1557,18 +1557,21 @@
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.1` // `io.micronaut.test,micronaut-test-core,1.0.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.2` // `io.micronaut.test,micronaut-test-core,1.0.2,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.3` // `io.micronaut.test,micronaut-test-core,1.0.3,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.4` // `io.micronaut.test,micronaut-test-core,1.0.4,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.1` // `io.micronaut.test,micronaut-test-junit5,1.0.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.2` // `io.micronaut.test,micronaut-test-junit5,1.0.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.3` // `io.micronaut.test,micronaut-test-junit5,1.0.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.4` // `io.micronaut.test,micronaut-test-junit5,1.0.4,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.1` // `io.micronaut.test,micronaut-test-spock,1.0.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.2` // `io.micronaut.test,micronaut-test-spock,1.0.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.3` // `io.micronaut.test,micronaut-test-spock,1.0.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.4` // `io.micronaut.test,micronaut-test-spock,1.0.4,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -1662,6 +1665,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.2-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.2-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.2-beta.3` // `com.undefinedlabs.scope,scope-agent,0.1.2-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.2-beta.4` // `com.undefinedlabs.scope,scope-agent,0.1.2-beta.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.3-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.3-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -1671,6 +1675,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.16.0` // `io.aeron,aeron-all,1.16.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.17.0` // `io.aeron,aeron-all,1.17.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.18.0` // `io.aeron,aeron-all,1.18.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `io.github.lomom:agent-logger:1.0.1-Release` // `io.github.lomom,agent-logger,1.0.1-Release,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-M1` // `io.kamon,kanela-agent,1.0.0-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:0.9.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,0.9.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -1728,6 +1733,7 @@
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.2` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -1755,6 +1761,7 @@
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-utils-report:1.4.2` // `net.objectlab.kit,objectlab-utils-report,1.4.2,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.sf.jtreemap` :left_right_arrow: `net.sf.jtreemap:jtreemap-example:1.1.3` // `net.sf.jtreemap,jtreemap-example,1.1.3,net.sf.jtreemap,-,automatic,-,false,-`
 - :cd: `net.tangly.fsm` :left_right_arrow: `net.tangly:fsm:0.2.1` // `net.tangly,fsm,0.2.1,net.tangly.fsm,-,automatic,-,false,-`
+- :cd: `net.tangly.fsm` :left_right_arrow: `net.tangly:fsm:0.2.2` // `net.tangly,fsm,0.2.2,net.tangly.fsm,-,automatic,-,false,-`
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.8.0` // `net.tascalate,net.tascalate.concurrent,0.8.0,net.tascalate.concurrent,0.8.0,explicit,java.base,false,-`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework:commons-bcel:0.0.1` // `org.checkerframework,commons-bcel,0.0.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework.annotatedlib:bcel:6.2.0.2` // `org.checkerframework.annotatedlib,bcel,6.2.0.2,org.apache.bcel,-,automatic,-,false,-`
