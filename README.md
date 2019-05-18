@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4193 Java modules published at Maven Central
+Counted 4222 Java modules published at Maven Central
 
-## Summary 2019-05-17T22:17:21.073353Z
+## Summary 2019-05-18T22:17:26.232163Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-17T22:17:21.073353Z
-Scanned 21,632 files in 2 seconds.
+Started scan at 2019-05-18T22:17:26.232163Z
+Scanned 21,705 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_17_21_38_30.csv
+    last -> modulescanner-report-2019_05_18_22_05_31.csv
 
-Parsed 1,331,587 lines in total.
-  25,528 -> captions skipped
-  80,859 -> duplicates skipped
-  51,382 -> module related
+Parsed 1,335,980 lines in total.
+  25,601 -> captions skipped
+  81,060 -> duplicates skipped
+  51,428 -> module related
 
-Collected 4,193 unique modules.
-  automatic :cd: -> 3,252
+Collected 4,222 unique modules.
+  automatic :cd: -> 3,281
   explicit :dvd: -> 941
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5405](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9874](suspicious/naming.md)
-- Modular impostors: [2521](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9875](suspicious/naming.md)
+- Modular impostors: [2526](suspicious/impostors.md)
 
-## Unique Modules (4193)
+## Unique Modules (4222)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -307,7 +307,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.11`
 - :cd: `com.emc.mongoose.storage.driver.kafka` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-kafka:4.2.6`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.12`
-- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.12`
+- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.13`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
 - :cd: `com.envimate.webmate.integrations.jetty` :left_right_arrow: `com.envimate.webmate.integrations:webmate-jetty:1.0.7`
@@ -423,10 +423,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.nruzic.extensions.eclipse.model.ad` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.ad:1.1.0`
 - :cd: `com.github.nruzic.extensions.eclipse.model.profile.prototype` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.profile.prototype:1.1.0`
 - :cd: `com.github.nullterminated.trylambda` :left_right_arrow: `com.github.nullterminated:trylambda:1.1`
-- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.5`
-- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.5`
-- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.5`
-- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.5`
+- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.6`
+- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.6`
+- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.6`
+- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.6`
 - :cd: `com.github.panga.beans` :left_right_arrow: `com.github.panga:java-beans-lite:1.0.2`
 - :cd: `com.github.pukkaone.grapid.compiler` :left_right_arrow: `com.github.pukkaone:grapid-compiler:0.3.0`
 - :cd: `com.github.pukkaone.grapid.core` :left_right_arrow: `com.github.pukkaone:grapid-core:0.3.0`
@@ -489,6 +489,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.9.2`
 - :cd: `com.google.common` :left_right_arrow: `com.google.guava:guava:27.1-jre`
 - :cd: `com.google.googlejavaformat` :left_right_arrow: `com.google.googlejavaformat:google-java-format:1.7`
+- :cd: `com.google.zxing` :left_right_arrow: `com.google.zxing:core:3.4.0`
+- :cd: `com.google.zxing.javase` :left_right_arrow: `com.google.zxing:javase:3.4.0`
 - :cd: `com.h2database` :left_right_arrow: `com.h2database:h2:1.4.199`
 - :cd: `com.h2database.mvstore` :left_right_arrow: `com.h2database:h2-mvstore:1.4.199`
 - :cd: `com.hack23.cia.encrypt.properties` :left_right_arrow: `com.hack23.cia:encrypt.properties:2019.3.24`
@@ -1073,11 +1075,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.11`
 - :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.11`
 - :cd: `com.orsonpdf.orsonpdf` :left_right_arrow: `com.orsonpdf:orsonpdf:1.9`
-- :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.1`
-- :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.1`
-- :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-stripe:0.0.1`
-- :cd: `com.peruncs.gwt.utils` :left_right_arrow: `com.peruncs.gwt:gwt-utils:0.0.1`
-- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.7`
+- :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.2`
+- :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.2`
+- :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-stripe:0.0.2`
+- :cd: `com.peruncs.gwt.uikit` :left_right_arrow: `com.peruncs.gwt:gwt-uikit:0.0.2`
+- :cd: `com.peruncs.gwt.utils` :left_right_arrow: `com.peruncs.gwt:gwt-utils:0.0.2`
+- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.8`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-api:0.0.1`
 - :dvd: `com.pgssoft.httpclient` :left_right_arrow: `com.pgs-soft:HttpClientMock:1.0.0`
 - :cd: `com.powsybl.action.dsl` :left_right_arrow: `com.powsybl:powsybl-action-dsl:2.5.0`
@@ -1486,7 +1489,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.38.1`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.10`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
-- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.15.1`
+- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.16.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.36`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
@@ -1510,6 +1513,29 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
+- :cd: `io.github.resilience4j.all` :left_right_arrow: `io.github.resilience4j:resilience4j-all:0.15.0`
+- :cd: `io.github.resilience4j.annotations` :left_right_arrow: `io.github.resilience4j:resilience4j-annotations:0.15.0`
+- :cd: `io.github.resilience4j.bulkhead` :left_right_arrow: `io.github.resilience4j:resilience4j-bulkhead:0.15.0`
+- :cd: `io.github.resilience4j.cache` :left_right_arrow: `io.github.resilience4j:resilience4j-cache:0.15.0`
+- :cd: `io.github.resilience4j.circuitbreaker` :left_right_arrow: `io.github.resilience4j:resilience4j-circuitbreaker:0.15.0`
+- :cd: `io.github.resilience4j.circularbuffer` :left_right_arrow: `io.github.resilience4j:resilience4j-circularbuffer:0.15.0`
+- :cd: `io.github.resilience4j.consumer` :left_right_arrow: `io.github.resilience4j:resilience4j-consumer:0.15.0`
+- :cd: `io.github.resilience4j.core` :left_right_arrow: `io.github.resilience4j:resilience4j-core:0.15.0`
+- :cd: `io.github.resilience4j.feign` :left_right_arrow: `io.github.resilience4j:resilience4j-feign:0.15.0`
+- :cd: `io.github.resilience4j.metrics` :left_right_arrow: `io.github.resilience4j:resilience4j-metrics:0.15.0`
+- :cd: `io.github.resilience4j.micrometer` :left_right_arrow: `io.github.resilience4j:resilience4j-micrometer:0.15.0`
+- :cd: `io.github.resilience4j.prometheus` :left_right_arrow: `io.github.resilience4j:resilience4j-prometheus:0.15.0`
+- :cd: `io.github.resilience4j.ratelimiter` :left_right_arrow: `io.github.resilience4j:resilience4j-ratelimiter:0.15.0`
+- :cd: `io.github.resilience4j.ratpack` :left_right_arrow: `io.github.resilience4j:resilience4j-ratpack:0.15.0`
+- :cd: `io.github.resilience4j.reactor` :left_right_arrow: `io.github.resilience4j:resilience4j-reactor:0.15.0`
+- :cd: `io.github.resilience4j.retrofit` :left_right_arrow: `io.github.resilience4j:resilience4j-retrofit:0.15.0`
+- :cd: `io.github.resilience4j.retry` :left_right_arrow: `io.github.resilience4j:resilience4j-retry:0.15.0`
+- :cd: `io.github.resilience4j.rxjava2` :left_right_arrow: `io.github.resilience4j:resilience4j-rxjava2:0.15.0`
+- :cd: `io.github.resilience4j.spring` :left_right_arrow: `io.github.resilience4j:resilience4j-spring:0.15.0`
+- :cd: `io.github.resilience4j.springboot` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-boot:0.15.0`
+- :cd: `io.github.resilience4j.springboot2` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-boot2:0.15.0`
+- :cd: `io.github.resilience4j.timelimiter` :left_right_arrow: `io.github.resilience4j:resilience4j-timelimiter:0.15.0`
+- :cd: `io.github.resilience4j.vertx` :left_right_arrow: `io.github.resilience4j:resilience4j-vertx:0.15.0`
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`
 - :cd: `io.github.scambon.cliwrapper4j` :left_right_arrow: `io.github.scambon:io.github.scambon.cliwrapper4j:1.0.1`
 - :cd: `io.github.soc.directories` :left_right_arrow: `io.github.soc:directories:11`
@@ -1646,7 +1672,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micrometer-core:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-atlas:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.2.0.RC1`
+- :cd: `io.micronaut.configuration.micrometer_registry_datadog` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-datadog:1.2.0.RC1`
+- :cd: `io.micronaut.configuration.micrometer_registry_elastic` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-elastic:1.2.0.RC1`
 - :cd: `io.micronaut.configuration.micrometer_registry_graphite` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-graphite:1.0.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_influx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-influx:1.2.0.RC1`
 - :cd: `io.micronaut.configuration.micrometer_registry_prometheus` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-prometheus:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_statsd` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-statsd:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.mongo_gorm` :left_right_arrow: `io.micronaut.configuration:mongo-gorm:1.0.0.RC2`
