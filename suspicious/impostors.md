@@ -2349,6 +2349,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.0.1` // `com.github.collinalpert,java2db,4.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1` // `com.github.collinalpert,java2db,4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1.1` // `com.github.collinalpert,java2db,4.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.2` // `com.github.collinalpert,java2db,4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -2419,6 +2420,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.2.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.2.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.3.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.3.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.4.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.4.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.5.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.5.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:10.5.2` // `com.netflix.nebula,gradle-lint-plugin,10.5.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:10.5.3` // `com.netflix.nebula,gradle-lint-plugin,10.5.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.0.0` // `com.netflix.nebula,gradle-lint-plugin,11.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`

@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4222 Java modules published at Maven Central
 
-## Summary 2019-05-18T22:17:26.232163Z
+## Summary 2019-05-19T22:17:50.047036Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-18T22:17:26.232163Z
-Scanned 21,705 files in 2 seconds.
+Started scan at 2019-05-19T22:17:50.047036Z
+Scanned 21,769 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_18_22_05_31.csv
+    last -> modulescanner-report-2019_05_19_21_56_06.csv
 
-Parsed 1,335,980 lines in total.
-  25,601 -> captions skipped
-  81,060 -> duplicates skipped
-  51,428 -> module related
+Parsed 1,339,365 lines in total.
+  25,665 -> captions skipped
+  81,137 -> duplicates skipped
+  51,450 -> module related
 
 Collected 4,222 unique modules.
   automatic :cd: -> 3,281
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5405](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9875](suspicious/naming.md)
-- Modular impostors: [2526](suspicious/impostors.md)
+- Invalid module names: [5406](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9886](suspicious/naming.md)
+- Modular impostors: [2528](suspicious/impostors.md)
 
 ## Unique Modules (4222)
 
@@ -203,7 +203,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :cd: `co.paralleluniverse.quasar.kotlin` :left_right_arrow: `co.paralleluniverse:quasar-kotlin:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
-- :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.1.0`
+- :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.0`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
 - :cd: `com.amazon.ion` :left_right_arrow: `com.amazon.ion:ion-java:1.4.0`
@@ -269,7 +269,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.longmapper` :left_right_arrow: `com.codahale:longmapper:0.1.1`
 - :cd: `com.codahale.passpol` :left_right_arrow: `com.codahale:passpol:0.6.2`
 - :cd: `com.codahale.shamir` :left_right_arrow: `com.codahale:shamir:0.7.0`
-- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.3`
+- :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.5`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.3`
@@ -1637,7 +1637,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.webserver.zipkin` :left_right_arrow: `io.helidon.webserver:helidon-webserver-zipkin:0.10.5`
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.0.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
-- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.0.0.ALPHA0`
+- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.0.0.RC0`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:4.4.0`
 - :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:4.4.0`
 - :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.4.0`
@@ -1857,10 +1857,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.132`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.132`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.132`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.132`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.133`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.133`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.133`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.133`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.105`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.105`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.105`
