@@ -2191,6 +2191,7 @@
 - :dvd: `org.joda.convert` :left_right_arrow: `com.expedia.www:haystack-service-graph-node-finder:1.0.7` // `com.expedia.www,haystack-service-graph-node-finder,1.0.7,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` :left_right_arrow: `com.expedia.www:haystack-service-graph-node-finder:1.0.8` // `com.expedia.www,haystack-service-graph-node-finder,1.0.8,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` :left_right_arrow: `com.expedia.www:haystack-service-graph-node-finder:1.0.9` // `com.expedia.www,haystack-service-graph-node-finder,1.0.9,org.joda.convert,-,explicit,java.base,false,-`
+- :dvd: `org.jruby.joni` :left_right_arrow: `net.thisptr:jackson-jq-cli:0.0.10` // `net.thisptr,jackson-jq-cli,0.0.10,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings,false,-`
 - :dvd: `org.json` :left_right_arrow: `com.jwebmp:json:0.63.0.60` // `com.jwebmp,json,0.63.0.60,org.json,0.63.0.60,explicit,java.base,false,-`
 - :dvd: `org.json` :left_right_arrow: `com.jwebmp:json:0.63.0.61` // `com.jwebmp,json,0.63.0.61,org.json,0.63.0.61,explicit,java.base,false,-`
 - :dvd: `org.json` :left_right_arrow: `com.jwebmp:json:0.65.0.1` // `com.jwebmp,json,0.65.0.1,org.json,0.65.0.1,explicit,java.base,false,-`
