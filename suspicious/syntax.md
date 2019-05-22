@@ -4574,6 +4574,7 @@
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.6` // `com.synopsys.integration,polaris-common-api,0.0.6,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.7` // `com.synopsys.integration,polaris-common-api,0.0.7,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.8` // `com.synopsys.integration,polaris-common-api,0.0.8,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.9` // `com.synopsys.integration,polaris-common-api,0.0.9,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-cdi` :left_right_arrow: `de.saxsys:mvvmfx-cdi:1.8.0` // `de.saxsys,mvvmfx-cdi,1.8.0,de.saxsys.mvvmfx-cdi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-easydi` :left_right_arrow: `de.saxsys:mvvmfx-easydi:1.8.0` // `de.saxsys,mvvmfx-easydi,1.8.0,de.saxsys.mvvmfx-easydi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-guice` :left_right_arrow: `de.saxsys:mvvmfx-guice:1.8.0` // `de.saxsys,mvvmfx-guice,1.8.0,de.saxsys.mvvmfx-guice,-,automatic,-,false,-`
