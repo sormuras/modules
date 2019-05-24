@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4236 Java modules published at Maven Central
+Counted 4245 Java modules published at Maven Central
 
-## Summary 2019-05-22T22:20:00.380991Z
+## Summary 2019-05-24T02:36:01.212687Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-22T22:20:00.380991Z
-Scanned 21,936 files in 2 seconds.
+Started scan at 2019-05-24T02:36:01.212687Z
+Scanned 22,002 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_22_22_03_51.csv
+    last -> modulescanner-report-2019_05_24_02_15_01.csv
 
-Parsed 1,358,739 lines in total.
-  25,832 -> captions skipped
-  82,619 -> duplicates skipped
-  52,320 -> module related
+Parsed 1,367,483 lines in total.
+  25,892 -> captions skipped
+  82,967 -> duplicates skipped
+  52,739 -> module related
 
-Collected 4,236 unique modules.
-  automatic :cd: -> 3,288
-  explicit :dvd: -> 948
+Collected 4,245 unique modules.
+  automatic :cd: -> 3,293
+  explicit :dvd: -> 952
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5414](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9995](suspicious/naming.md)
-- Modular impostors: [2579](suspicious/impostors.md)
+- Invalid module names: [5487](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10148](suspicious/naming.md)
+- Modular impostors: [2592](suspicious/impostors.md)
 
-## Unique Modules (4236)
+## Unique Modules (4245)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -208,6 +208,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
 - :cd: `com.amazon.ion` :left_right_arrow: `com.amazon.ion:ion-java:1.4.0`
+- :cd: `com.appslandia.common` :left_right_arrow: `com.appslandia:appslandia-common:5.8`
+- :cd: `com.appslandia.javafx` :left_right_arrow: `com.appslandia:appslandia-javafx:3.5`
+- :cd: `com.appslandia.jspprocessor` :left_right_arrow: `com.appslandia:appslandia-jsp-processor:1.0`
+- :cd: `com.appslandia.plum` :left_right_arrow: `com.appslandia:appslandia-plum-javaee8:3.1`
+- :cd: `com.appslandia.scaling` :left_right_arrow: `com.appslandia:appslandia-scaling:1.1`
 - :cd: `com.assylias.jbloomberg` :left_right_arrow: `com.assylias:jbloomberg:3.7`
 - :cd: `com.athaydes.protobuf_tcp_rpc` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rpc:0.2.1`
 - :cd: `com.athaydes.protobuf_tcp_rsa_provider` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rsa-provider:0.2.1`
@@ -705,10 +710,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.3`
 - :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.3`
 - :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.5`
-- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.9`
-- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.9`
-- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.9`
-- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.9`
+- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.10`
+- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.10`
+- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.10`
+- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.10`
 - :cd: `com.holonplatform.vaadin.flow.test.utils` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-test:5.2.0-rc1`
 - :cd: `com.holonplatform.vaadin.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-navigator:5.2.5`
 - :cd: `com.holonplatform.vaadin.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring:5.2.5`
@@ -1434,8 +1439,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:2.1.2`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
-- :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.4`
-- :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.4`
+- :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.5`
+- :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.5`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
 - :cd: `io.dropwizard.metrics5.annotation` :left_right_arrow: `io.dropwizard.metrics5:metrics-annotation:5.0.0`
 - :cd: `io.dropwizard.metrics5.collectd` :left_right_arrow: `io.dropwizard.metrics5:metrics-collectd:5.0.0`
@@ -1547,50 +1552,51 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.1`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.1`
 - :cd: `io.glutamate` :left_right_arrow: `io.glutamate:glutamate:0.1.0`
-- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.1.0`
-- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.1.0`
-- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.1.0`
-- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.1.0`
-- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.1.0`
-- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.1.0`
-- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.1.0`
-- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.1.0`
-- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.1.0`
-- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.1.0`
-- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.1.0`
+- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.1.1`
+- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.1.1`
+- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.1.1`
+- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.1.1`
+- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.1.1`
+- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.1.1`
+- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.1.1`
+- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.1.1`
+- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.1.1`
+- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.1.1`
+- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.1.1`
 - :dvd: `io.helidon.config.bundle` :left_right_arrow: `io.helidon.config:helidon-config-bundle:0.10.5`
-- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.1.0`
-- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.1.0`
-- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.1.0`
-- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.1.0`
-- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.1.0`
-- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.1.0`
-- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.1.0`
-- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.1.0`
-- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.1.0`
-- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.1.0`
-- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.1.0`
-- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.1.0`
-- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.1.0`
-- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.1.0`
-- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.1.0`
-- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.1.0`
-- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.1.0`
-- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.1.0`
-- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.1.0`
-- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.1.0`
-- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.1.0`
-- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.1.0`
-- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.1.0`
-- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.1.0`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.1.0`
-- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.1.0`
-- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.1.0`
-- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.1.0`
-- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.1.0`
-- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.1.0`
-- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.1.0`
-- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.1.0`
+- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.1.1`
+- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.1.1`
+- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.1.1`
+- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.1.1`
+- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.1.1`
+- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.1.1`
+- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.1.1`
+- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.1.1`
+- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.1.1`
+- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.1.1`
+- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.1.1`
+- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.1.1`
+- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.1.1`
+- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.1.1`
+- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.1.1`
+- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.1.1`
+- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.1.1`
+- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.1.1`
+- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.1.1`
+- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.1.1`
+- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.1.1`
+- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.1.1`
+- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.1.1`
+- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.1.1`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.1.1`
+- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.1.1`
+- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.1.1`
+- :dvd: `io.helidon.microprofile.openapi` :left_right_arrow: `io.helidon.microprofile.openapi:helidon-microprofile-openapi:1.1.1`
+- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.1.1`
+- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.1.1`
+- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.1.1`
+- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.1.1`
+- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.1.1`
 - :dvd: `io.helidon.security.abac.policy` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy:0.10.5`
 - :dvd: `io.helidon.security.abac.policy.el` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy-el:0.10.5`
 - :dvd: `io.helidon.security.abac.role` :left_right_arrow: `io.helidon.security:helidon-security-abac-role:0.10.5`
@@ -1598,12 +1604,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.abac.time` :left_right_arrow: `io.helidon.security:helidon-security-abac-time:0.10.5`
 - :dvd: `io.helidon.security.adapter.jersey` :left_right_arrow: `io.helidon.security:helidon-security-integration-jersey:0.10.5`
 - :dvd: `io.helidon.security.adapter.webserver` :left_right_arrow: `io.helidon.security:helidon-security-integration-webserver:0.10.5`
-- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.1.0`
+- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.1.1`
 - :dvd: `io.helidon.security.bundle` :left_right_arrow: `io.helidon.security:helidon-security-bundle:0.10.5`
 - :dvd: `io.helidon.security.integration.annotations` :left_right_arrow: `io.helidon.security:helidon-security-integration-annotations:0.10.5`
-- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.1.0`
-- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.1.0`
-- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.1.0`
+- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.1.1`
+- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.1.1`
+- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.1.1`
 - :dvd: `io.helidon.security.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.10.5`
 - :dvd: `io.helidon.security.oidc.common` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc-common:0.10.5`
 - :dvd: `io.helidon.security.provider.abac` :left_right_arrow: `io.helidon.security:helidon-security-provider-abac:0.10.5`
@@ -1614,32 +1620,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.provider.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.9.1`
 - :dvd: `io.helidon.security.provider.signature` :left_right_arrow: `io.helidon.security:helidon-security-provider-http-signature:0.10.5`
 - :dvd: `io.helidon.security.providers` :left_right_arrow: `io.helidon.security:helidon-security-providers-common:0.10.5`
-- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.1.0`
-- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.1.0`
-- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.1.0`
-- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.1.0`
-- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.1.0`
-- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.1.0`
-- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.1.0`
-- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.1.0`
-- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.1.0`
-- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.1.0`
+- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.1.1`
+- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.1.1`
+- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.1.1`
+- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.1.1`
+- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.1.1`
+- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.1.1`
+- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.1.1`
+- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.1.1`
+- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.1.1`
+- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.1.1`
 - :dvd: `io.helidon.security.tools.config` :left_right_arrow: `io.helidon.security:helidon-security-tools-config:0.10.5`
-- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.1.0`
-- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.1.0`
-- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.1.0`
-- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.1.0`
-- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.1.0`
-- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.1.0`
-- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.1.0`
-- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.1.0`
+- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.1.1`
+- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.1.1`
+- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.1.1`
+- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.1.1`
+- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.1.1`
+- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.1.1`
+- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.1.1`
+- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.1.1`
 - :dvd: `io.helidon.webserver.json` :left_right_arrow: `io.helidon.webserver:helidon-webserver-json:0.11.0`
 - :dvd: `io.helidon.webserver.netty` :left_right_arrow: `io.helidon.webserver:helidon-webserver-netty:0.10.5`
 - :dvd: `io.helidon.webserver.prometheus` :left_right_arrow: `io.helidon.webserver:helidon-webserver-prometheus:0.10.5`
 - :dvd: `io.helidon.webserver.zipkin` :left_right_arrow: `io.helidon.webserver:helidon-webserver-zipkin:0.10.5`
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.0.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
-- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.0.0.RC0`
+- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.0.0.RC1`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:4.4.0`
 - :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:4.4.0`
 - :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.4.0`
@@ -1856,9 +1862,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.menu` :left_right_arrow: `org.jfxtras:jfxtras-menu:10.0-r1`
 - :dvd: `jfxtras.window` :left_right_arrow: `org.jfxtras:jfxtras-window:10.0-r1`
 - :cd: `junit` :left_right_arrow: `junit:junit:4.13-beta-3`
-- :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.1.6`
-- :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.1.6`
-- :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.1.6`
+- :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.2.0`
+- :dvd: `moe.tristan.easyfxml.fxkit` :left_right_arrow: `moe.tristan:easyfxml-fxkit:3.2.0`
+- :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.2.0`
+- :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
+- :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
+- :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
 - :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.133`
 - :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.133`
 - :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.133`
@@ -2701,7 +2710,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.daisy.braille.utils.impl` :left_right_arrow: `org.daisy.braille:braille-utils.impl:6.0.0`
 - :cd: `org.daisy.braille.utils.pef` :left_right_arrow: `org.daisy.braille:braille-utils.pef-tools:5.0.2`
 - :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:4.7.0`
-- :cd: `org.daisy.dotify.common` :left_right_arrow: `org.daisy.dotify:dotify.common:4.3.1`
+- :cd: `org.daisy.dotify.common` :left_right_arrow: `org.daisy.dotify:dotify.common:4.4.0`
 - :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:4.6.0`
 - :cd: `org.daisy.dotify.hyphenator` :left_right_arrow: `org.daisy.dotify:dotify.hyphenator.impl:4.0.0`
 - :cd: `org.daisy.dotify.tasks` :left_right_arrow: `org.daisy.dotify:dotify.task.impl:4.7.0`
@@ -2724,7 +2733,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.drools.compiler` :left_right_arrow: `org.drools:drools-compiler:7.22.0.t042`
 - :cd: `org.drools.core` :left_right_arrow: `org.drools:drools-core:7.22.0.t042`
 - :cd: `org.drools.decisiontables` :left_right_arrow: `org.drools:drools-decisiontables:7.22.0.t042`
-- :cd: `org.drools.docs` :left_right_arrow: `org.drools:drools-docs:7.21.0.Final`
+- :cd: `org.drools.docs` :left_right_arrow: `org.drools:drools-docs:7.22.0.Final`
 - :cd: `org.drools.examples.api.defaultkiesessionfromfile` :left_right_arrow: `org.drools:default-kiesession-from-file:7.22.0.t042`
 - :cd: `org.drools.examples.api.defaultkiession` :left_right_arrow: `org.drools:default-kiesession:7.22.0.t042`
 - :cd: `org.drools.examples.api.kiebaseinclusion` :left_right_arrow: `org.drools:kiebase-inclusion:7.22.0.t042`
@@ -2752,52 +2761,52 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier:7.11.0.Final`
 - :cd: `org.drools.verifier.api` :left_right_arrow: `org.drools:drools-verifier-api:7.22.0.t042`
 - :cd: `org.drools.verifier.core` :left_right_arrow: `org.drools:drools-verifier-core:7.22.0.t042`
-- :cd: `org.drools.wb.drl.text.editor.api` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.drl.text.editor.backend` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.drl.text.editor.client` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.dsl.text.editor.api` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.dsl.text.editor.backend` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.dsl.text.editor.client` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.dtable.xls.editor.api` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.dtable.xls.editor.backend` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.dtable.xls.editor.client` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.extension.drl.server` :left_right_arrow: `org.drools:drools-wb-drl-extension-server:7.21.0.Final`
-- :cd: `org.drools.wb.factmodel.editor.api` :left_right_arrow: `org.drools:drools-wb-factmodel-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.factmodel.editor.backend` :left_right_arrow: `org.drools:drools-wb-factmodel-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.globals.editor.api` :left_right_arrow: `org.drools:drools-wb-globals-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.globals.editor.backend` :left_right_arrow: `org.drools:drools-wb-globals-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.globals.editor.client` :left_right_arrow: `org.drools:drools-wb-globals-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtable.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtable.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtable.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtree.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtree.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.guided.dtree.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.guided.rule.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.guided.rule.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.guided.rule.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.guided.scorecard.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.guided.scorecard.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.guided.scorecard.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.guided.template.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.guided.template.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.guided.template.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.scenariosimulation.editor.api` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.scenariosimulation.editor.backend` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.scenariosimulation.editor.client` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.scorecard.xls.editor.api` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.scorecard.xls.editor.backend` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.scorecard.xls.editor.client` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-client:7.21.0.Final`
-- :cd: `org.drools.wb.testscenario.editor.api` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.testscenario.editor.backend` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.testscenario.editor.client` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-client:7.21.0.Final`
+- :cd: `org.drools.wb.drl.text.editor.api` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.drl.text.editor.backend` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.drl.text.editor.client` :left_right_arrow: `org.drools:drools-wb-drl-text-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.dsl.text.editor.api` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.dsl.text.editor.backend` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.dsl.text.editor.client` :left_right_arrow: `org.drools:drools-wb-dsl-text-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.dtable.xls.editor.api` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.dtable.xls.editor.backend` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.dtable.xls.editor.client` :left_right_arrow: `org.drools:drools-wb-dtable-xls-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.extension.drl.server` :left_right_arrow: `org.drools:drools-wb-drl-extension-server:7.22.0.Final`
+- :cd: `org.drools.wb.factmodel.editor.api` :left_right_arrow: `org.drools:drools-wb-factmodel-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.factmodel.editor.backend` :left_right_arrow: `org.drools:drools-wb-factmodel-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.globals.editor.api` :left_right_arrow: `org.drools:drools-wb-globals-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.globals.editor.backend` :left_right_arrow: `org.drools:drools-wb-globals-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.globals.editor.client` :left_right_arrow: `org.drools:drools-wb-globals-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtable.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtable.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtable.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-dtable-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtree.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtree.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.guided.dtree.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-dtree-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.guided.rule.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.guided.rule.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.guided.rule.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-rule-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.guided.scorecard.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.guided.scorecard.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.guided.scorecard.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-scorecard-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.guided.template.editor.api` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.guided.template.editor.backend` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.guided.template.editor.client` :left_right_arrow: `org.drools:drools-wb-guided-template-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.scenariosimulation.editor.api` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.scenariosimulation.editor.backend` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.scenariosimulation.editor.client` :left_right_arrow: `org.drools:drools-wb-scenario-simulation-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.scorecard.xls.editor.api` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.scorecard.xls.editor.backend` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.scorecard.xls.editor.client` :left_right_arrow: `org.drools:drools-wb-scorecard-xls-editor-client:7.22.0.Final`
+- :cd: `org.drools.wb.testscenario.editor.api` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.testscenario.editor.backend` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.testscenario.editor.client` :left_right_arrow: `org.drools:drools-wb-test-scenario-editor-client:7.22.0.Final`
 - :cd: `org.drools.wb.verifier.api` :left_right_arrow: `org.drools:drools-wb-verifier-api:7.11.0.Final`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-backend:7.11.0.Final`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-client:7.11.0.Final`
 - :cd: `org.drools.wb.verifier.core` :left_right_arrow: `org.drools:drools-wb-verifier-core:7.11.0.Final`
-- :cd: `org.drools.wb.workitem.editor.api` :left_right_arrow: `org.drools:drools-wb-workitems-editor-api:7.21.0.Final`
-- :cd: `org.drools.wb.workitem.editor.backend` :left_right_arrow: `org.drools:drools-wb-workitems-editor-backend:7.21.0.Final`
-- :cd: `org.drools.wb.workitem.editor.client` :left_right_arrow: `org.drools:drools-wb-workitems-editor-client:7.21.0.Final`
+- :cd: `org.drools.wb.workitem.editor.api` :left_right_arrow: `org.drools:drools-wb-workitems-editor-api:7.22.0.Final`
+- :cd: `org.drools.wb.workitem.editor.backend` :left_right_arrow: `org.drools:drools-wb-workitems-editor-backend:7.22.0.Final`
+- :cd: `org.drools.wb.workitem.editor.client` :left_right_arrow: `org.drools:drools-wb-workitems-editor-client:7.22.0.Final`
 - :cd: `org.drools.workbench.models.commons` :left_right_arrow: `org.drools:drools-workbench-models-commons:7.22.0.t042`
 - :cd: `org.drools.workbench.models.datamodel` :left_right_arrow: `org.drools:drools-workbench-models-datamodel-api:7.22.0.t042`
 - :cd: `org.drools.workbench.models.guided.dtable` :left_right_arrow: `org.drools:drools-workbench-models-guided-dtable:7.22.0.t042`
@@ -3175,11 +3184,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jbpm.casemgmt.api` :left_right_arrow: `org.jbpm:jbpm-case-mgmt-api:7.22.0.t042`
 - :cd: `org.jbpm.casemgmt.cmmn` :left_right_arrow: `org.jbpm:jbpm-case-mgmt-cmmn:7.22.0.t042`
 - :cd: `org.jbpm.casemgmt.impl` :left_right_arrow: `org.jbpm:jbpm-case-mgmt-impl:7.22.0.t042`
-- :cd: `org.jbpm.designer.api` :left_right_arrow: `org.jbpm:jbpm-designer-api:7.21.0.Final`
-- :cd: `org.jbpm.designer.backend` :left_right_arrow: `org.jbpm:jbpm-designer-backend:7.21.0.Final`
-- :cd: `org.jbpm.designer.client` :left_right_arrow: `org.jbpm:jbpm-designer-client:7.21.0.Final`
-- :cd: `org.jbpm.designer.util` :left_right_arrow: `org.jbpm:jbpm-designer-utilities:7.21.0.Final`
-- :cd: `org.jbpm.docs` :left_right_arrow: `org.jbpm:jbpm-docs:7.21.0.Final`
+- :cd: `org.jbpm.designer.api` :left_right_arrow: `org.jbpm:jbpm-designer-api:7.22.0.Final`
+- :cd: `org.jbpm.designer.backend` :left_right_arrow: `org.jbpm:jbpm-designer-backend:7.22.0.Final`
+- :cd: `org.jbpm.designer.client` :left_right_arrow: `org.jbpm:jbpm-designer-client:7.22.0.Final`
+- :cd: `org.jbpm.designer.util` :left_right_arrow: `org.jbpm:jbpm-designer-utilities:7.22.0.Final`
+- :cd: `org.jbpm.docs` :left_right_arrow: `org.jbpm:jbpm-docs:7.22.0.Final`
 - :cd: `org.jbpm.document` :left_right_arrow: `org.jbpm:jbpm-document:7.22.0.t042`
 - :cd: `org.jbpm.examples` :left_right_arrow: `org.jbpm:jbpm-examples:7.22.0.t042`
 - :cd: `org.jbpm.executor.cdi` :left_right_arrow: `org.jbpm:jbpm-executor-cdi:7.22.0.t042`
@@ -3207,32 +3216,32 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jbpm.test` :left_right_arrow: `org.jbpm:jbpm-test:7.22.0.t042`
 - :cd: `org.jbpm.testcoverage` :left_right_arrow: `org.jbpm:jbpm-test-coverage:7.22.0.t042`
 - :cd: `org.jbpm.testutil` :left_right_arrow: `org.jbpm:jbpm-test-util:7.22.0.t042`
-- :cd: `org.jbpm.wb.casemgmt.api` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.casemgmt.backend` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.casemgmt.client` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.common.api` :left_right_arrow: `org.jbpm:jbpm-wb-common-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.common.client` :left_right_arrow: `org.jbpm:jbpm-wb-common-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.dashboard.api` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.dashboard.backend` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.dashboard.client` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.data.filters.client` :left_right_arrow: `org.jbpm:jbpm-wb-data-filters-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.executor.service.api` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.executor.service.backend` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.executor.service.client` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.forms.api` :left_right_arrow: `org.jbpm:jbpm-wb-forms-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.forms.backend` :left_right_arrow: `org.jbpm:jbpm-wb-forms-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.forms.client` :left_right_arrow: `org.jbpm:jbpm-wb-forms-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.integration.api` :left_right_arrow: `org.jbpm:jbpm-wb-integration-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.integration.backend` :left_right_arrow: `org.jbpm:jbpm-wb-integration-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.integration.client` :left_right_arrow: `org.jbpm:jbpm-wb-integration-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.kie.server.api` :left_right_arrow: `org.jbpm:jbpm-wb-kie-server-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.kie.server.backend` :left_right_arrow: `org.jbpm:jbpm-wb-kie-server-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.process.runtime.api` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.process.runtime.backend` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.process.runtime.client` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-client:7.21.0.Final`
-- :cd: `org.jbpm.wb.task.api` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-api:7.21.0.Final`
-- :cd: `org.jbpm.wb.task.backend` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-backend:7.21.0.Final`
-- :cd: `org.jbpm.wb.task.client` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-client:7.21.0.Final`
+- :cd: `org.jbpm.wb.casemgmt.api` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.casemgmt.backend` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.casemgmt.client` :left_right_arrow: `org.jbpm:jbpm-wb-case-mgmt-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.common.api` :left_right_arrow: `org.jbpm:jbpm-wb-common-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.common.client` :left_right_arrow: `org.jbpm:jbpm-wb-common-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.dashboard.api` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.dashboard.backend` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.dashboard.client` :left_right_arrow: `org.jbpm:jbpm-wb-dashboard-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.data.filters.client` :left_right_arrow: `org.jbpm:jbpm-wb-data-filters-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.executor.service.api` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.executor.service.backend` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.executor.service.client` :left_right_arrow: `org.jbpm:jbpm-wb-executor-service-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.forms.api` :left_right_arrow: `org.jbpm:jbpm-wb-forms-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.forms.backend` :left_right_arrow: `org.jbpm:jbpm-wb-forms-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.forms.client` :left_right_arrow: `org.jbpm:jbpm-wb-forms-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.integration.api` :left_right_arrow: `org.jbpm:jbpm-wb-integration-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.integration.backend` :left_right_arrow: `org.jbpm:jbpm-wb-integration-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.integration.client` :left_right_arrow: `org.jbpm:jbpm-wb-integration-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.kie.server.api` :left_right_arrow: `org.jbpm:jbpm-wb-kie-server-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.kie.server.backend` :left_right_arrow: `org.jbpm:jbpm-wb-kie-server-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.process.runtime.api` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.process.runtime.backend` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.process.runtime.client` :left_right_arrow: `org.jbpm:jbpm-wb-process-runtime-client:7.22.0.Final`
+- :cd: `org.jbpm.wb.task.api` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-api:7.22.0.Final`
+- :cd: `org.jbpm.wb.task.backend` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-backend:7.22.0.Final`
+- :cd: `org.jbpm.wb.task.client` :left_right_arrow: `org.jbpm:jbpm-wb-human-tasks-client:7.22.0.Final`
 - :cd: `org.jbpm.workitem.bpmn2` :left_right_arrow: `org.jbpm:jbpm-workitems-bpmn2:7.22.0.t042`
 - :cd: `org.jbpm.workitem.core` :left_right_arrow: `org.jbpm:jbpm-workitems-core:7.22.0.t042`
 - :cd: `org.jbpm.workitem.email` :left_right_arrow: `org.jbpm:jbpm-workitems-email:7.22.0.t042`
@@ -3402,7 +3411,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kie.swagger` :left_right_arrow: `org.kie:kie-swagger-ui:7.22.0.t042`
 - :cd: `org.kie.testutil` :left_right_arrow: `org.kie:kie-test-util:7.22.0.t042`
 - :cd: `org.kie.tomcat` :left_right_arrow: `org.kie:kie-tomcat-integration:7.22.0.t042`
-- :cd: `org.kie.uberfire.i18ntaglib` :left_right_arrow: `org.kie.uberfire:i18n-taglib:7.21.0.Final`
+- :cd: `org.kie.uberfire.i18ntaglib` :left_right_arrow: `org.kie.uberfire:i18n-taglib:7.22.0.Final`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:kie-wb-home-page-community:7.14.0.Final`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:kie-wb-theme-community:7.14.0.Final`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:kie-wb-theme-product:7.14.0.Final`
@@ -3735,16 +3744,16 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.optaplanner.persistence.jpa` :left_right_arrow: `org.optaplanner:optaplanner-persistence-jpa:7.22.0.t042`
 - :cd: `org.optaplanner.persistence.xstream` :left_right_arrow: `org.optaplanner:optaplanner-persistence-xstream:7.22.0.t042`
 - :cd: `org.optaplanner.test` :left_right_arrow: `org.optaplanner:optaplanner-test:7.22.0.t042`
-- :cd: `org.optaplanner.wb.domain.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-api:7.21.0.Final`
-- :cd: `org.optaplanner.wb.domain.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-backend:7.21.0.Final`
-- :cd: `org.optaplanner.wb.domain.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-client:7.21.0.Final`
-- :cd: `org.optaplanner.wb.guided.rule.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-api:7.21.0.Final`
-- :cd: `org.optaplanner.wb.guided.rule.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-backend:7.21.0.Final`
-- :cd: `org.optaplanner.wb.guided.rule.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-client:7.21.0.Final`
-- :cd: `org.optaplanner.wb.solver.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-api:7.21.0.Final`
-- :cd: `org.optaplanner.wb.solver.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-backend:7.21.0.Final`
-- :cd: `org.optaplanner.wb.solver.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-client:7.21.0.Final`
-- :cd: `org.optaplanner.wbes.docs` :left_right_arrow: `org.optaplanner:optaplanner-wb-es-guide:7.21.0.Final`
+- :cd: `org.optaplanner.wb.domain.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-api:7.22.0.Final`
+- :cd: `org.optaplanner.wb.domain.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-backend:7.22.0.Final`
+- :cd: `org.optaplanner.wb.domain.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-domain-editor-client:7.22.0.Final`
+- :cd: `org.optaplanner.wb.guided.rule.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-api:7.22.0.Final`
+- :cd: `org.optaplanner.wb.guided.rule.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-backend:7.22.0.Final`
+- :cd: `org.optaplanner.wb.guided.rule.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-guided-rule-editor-client:7.22.0.Final`
+- :cd: `org.optaplanner.wb.solver.editor.api` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-api:7.22.0.Final`
+- :cd: `org.optaplanner.wb.solver.editor.backend` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-backend:7.22.0.Final`
+- :cd: `org.optaplanner.wb.solver.editor.client` :left_right_arrow: `org.optaplanner:optaplanner-wb-solver-editor-client:7.22.0.Final`
+- :cd: `org.optaplanner.wbes.docs` :left_right_arrow: `org.optaplanner:optaplanner-wb-es-guide:7.22.0.Final`
 - :cd: `org.optaplanner.workbench.models.core` :left_right_arrow: `org.optaplanner:optaplanner-workbench-models-core:7.22.0.t042`
 - :cd: `org.optaplanner.workbench.models.datamodel` :left_right_arrow: `org.optaplanner:optaplanner-workbench-models-datamodel-api:7.22.0.t042`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
@@ -3865,17 +3874,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.scijava` :left_right_arrow: `org.scijava:scijava-common:2.77.0`
 - :cd: `org.scijava.maven` :left_right_arrow: `org.scijava:scijava-maven-plugin:1.1.0`
 - :cd: `org.scijava.nativelib` :left_right_arrow: `org.scijava:native-lib-loader:2.3.4`
-- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.75`
+- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.76`
 - :dvd: `org.sejda.commons` :left_right_arrow: `org.sejda:sejda-commons:1.0.1`
-- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.75`
-- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.75`
-- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.75`
-- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.75`
-- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.75`
-- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.75`
-- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.75`
+- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.76`
+- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.76`
+- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.76`
+- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.76`
+- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.76`
+- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.76`
+- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.76`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
-- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.75`
+- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.76`
 - :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.53`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
