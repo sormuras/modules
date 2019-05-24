@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4245 Java modules published at Maven Central
 
-## Summary 2019-05-24T02:36:01.212687Z
+## Summary 2019-05-24T22:20:54.683123Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-24T02:36:01.212687Z
-Scanned 22,002 files in 4 seconds.
+Started scan at 2019-05-24T22:20:54.683123Z
+Scanned 22,062 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_24_02_15_01.csv
+    last -> modulescanner-report-2019_05_24_21_43_21.csv
 
-Parsed 1,367,483 lines in total.
-  25,892 -> captions skipped
-  82,967 -> duplicates skipped
-  52,739 -> module related
+Parsed 1,372,677 lines in total.
+  25,952 -> captions skipped
+  83,213 -> duplicates skipped
+  52,871 -> module related
 
 Collected 4,245 unique modules.
   automatic :cd: -> 3,293
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5487](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10148](suspicious/naming.md)
-- Modular impostors: [2592](suspicious/impostors.md)
+- Invalid module names: [5505](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10204](suspicious/naming.md)
+- Modular impostors: [2599](suspicious/impostors.md)
 
 ## Unique Modules (4245)
 
@@ -208,7 +208,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
 - :cd: `com.amazon.ion` :left_right_arrow: `com.amazon.ion:ion-java:1.4.0`
-- :cd: `com.appslandia.common` :left_right_arrow: `com.appslandia:appslandia-common:5.8`
+- :cd: `com.appslandia.common` :left_right_arrow: `com.appslandia:appslandia-common:5.9`
 - :cd: `com.appslandia.javafx` :left_right_arrow: `com.appslandia:appslandia-javafx:3.5`
 - :cd: `com.appslandia.jspprocessor` :left_right_arrow: `com.appslandia:appslandia-jsp-processor:1.0`
 - :cd: `com.appslandia.plum` :left_right_arrow: `com.appslandia:appslandia-plum-javaee8:3.1`
@@ -1907,7 +1907,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.8.0`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.8.1`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.0`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.0`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
@@ -1966,9 +1966,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.javacrumbs.shedlock.provider.redis.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-redis-spring:2.5.0`
 - :cd: `net.javacrumbs.shedlock.provider.zookeeper.curator` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-zookeeper-curator:2.5.0`
 - :cd: `net.javacrumbs.shedlock.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-spring:2.5.0`
-- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.3`
-- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.3`
-- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.3`
+- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.4`
+- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.4`
+- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.4`
 - :cd: `net.kyori.ana` :left_right_arrow: `net.kyori:ana:1.0.0`
 - :cd: `net.kyori.blizzard` :left_right_arrow: `net.kyori:blizzard:1.0.5`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
@@ -3555,78 +3555,78 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.mybatis.spring.boot.test.autoconfigure` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-test-autoconfigure:2.0.1`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.1`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
-- :cd: `org.neo4j.annotation_processors` :left_right_arrow: `org.neo4j:neo4j-annotation-processors:3.5.5`
+- :cd: `org.neo4j.annotation_processors` :left_right_arrow: `org.neo4j:neo4j-annotation-processors:3.5.6`
 - :cd: `org.neo4j.backup` :left_right_arrow: `org.neo4j:neo4j-backup:3.5.0-beta03`
-- :cd: `org.neo4j.bolt` :left_right_arrow: `org.neo4j:neo4j-bolt:3.5.5`
+- :cd: `org.neo4j.bolt` :left_right_arrow: `org.neo4j:neo4j-bolt:3.5.6`
 - :cd: `org.neo4j.causalclustering` :left_right_arrow: `org.neo4j:neo4j-causal-clustering:3.5.0-beta03`
 - :cd: `org.neo4j.cluster` :left_right_arrow: `org.neo4j:neo4j-cluster:3.5.0-beta03`
-- :cd: `org.neo4j.codegen` :left_right_arrow: `org.neo4j:neo4j-codegen:3.5.5`
-- :cd: `org.neo4j.collection` :left_right_arrow: `org.neo4j:neo4j-collections:3.5.5`
-- :cd: `org.neo4j.collection.concurrent` :left_right_arrow: `org.neo4j:neo4j-concurrent:3.5.5`
+- :cd: `org.neo4j.codegen` :left_right_arrow: `org.neo4j:neo4j-codegen:3.5.6`
+- :cd: `org.neo4j.collection` :left_right_arrow: `org.neo4j:neo4j-collections:3.5.6`
+- :cd: `org.neo4j.collection.concurrent` :left_right_arrow: `org.neo4j:neo4j-concurrent:3.5.6`
 - :cd: `org.neo4j.collection.primitive` :left_right_arrow: `org.neo4j:neo4j-primitive-collections:3.4.14`
 - :cd: `org.neo4j.com` :left_right_arrow: `org.neo4j:neo4j-com:3.5.0-beta03`
-- :cd: `org.neo4j.commandline` :left_right_arrow: `org.neo4j:neo4j-command-line:3.5.5`
-- :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-common:3.5.5`
-- :cd: `org.neo4j.community` :left_right_arrow: `org.neo4j:neo4j:3.5.5`
-- :cd: `org.neo4j.configuration` :left_right_arrow: `org.neo4j:neo4j-configuration:3.5.5`
-- :cd: `org.neo4j.consistency` :left_right_arrow: `org.neo4j:neo4j-consistency-check:3.5.5`
-- :cd: `org.neo4j.csv` :left_right_arrow: `org.neo4j:neo4j-csv:3.5.5`
-- :cd: `org.neo4j.cypher` :left_right_arrow: `org.neo4j:neo4j-cypher:3.5.5`
+- :cd: `org.neo4j.commandline` :left_right_arrow: `org.neo4j:neo4j-command-line:3.5.6`
+- :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-common:3.5.6`
+- :cd: `org.neo4j.community` :left_right_arrow: `org.neo4j:neo4j:3.5.6`
+- :cd: `org.neo4j.configuration` :left_right_arrow: `org.neo4j:neo4j-configuration:3.5.6`
+- :cd: `org.neo4j.consistency` :left_right_arrow: `org.neo4j:neo4j-consistency-check:3.5.6`
+- :cd: `org.neo4j.csv` :left_right_arrow: `org.neo4j:neo4j-csv:3.5.6`
+- :cd: `org.neo4j.cypher` :left_right_arrow: `org.neo4j:neo4j-cypher:3.5.6`
 - :cd: `org.neo4j.cypher.enterprise` :left_right_arrow: `org.neo4j:neo4j-enterprise-cypher:3.5.0-beta03`
-- :cd: `org.neo4j.cypher.internal` :left_right_arrow: `org.neo4j:neo4j-cypher-expression-evaluator:3.5.5`
+- :cd: `org.neo4j.cypher.internal` :left_right_arrow: `org.neo4j:neo4j-cypher-expression-evaluator:3.5.6`
 - :cd: `org.neo4j.cypher.internal.compatibility.v3_5.runtime` :left_right_arrow: `org.neo4j:neo4j-cypher-physical-planning:3.5.0-beta03`
 - :cd: `org.neo4j.cypher.internal.compatibility.v3_5.runtime.slotted` :left_right_arrow: `org.neo4j:neo4j-cypher-slotted-runtime:3.5.0-beta03`
 - :cd: `org.neo4j.cypher.internal.compiler.v3_4` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-3.4:3.4.14`
-- :cd: `org.neo4j.cypher.internal.compiler.v3_5` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-3.5:3.5.5`
+- :cd: `org.neo4j.cypher.internal.compiler.v3_5` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-3.5:3.5.6`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_4` :left_right_arrow: `org.neo4j:openCypher-frontend-1:3.4.14`
-- :cd: `org.neo4j.cypher.internal.frontend.v3_5` :left_right_arrow: `org.neo4j:neo4j-front-end-3.5:3.5.5`
+- :cd: `org.neo4j.cypher.internal.frontend.v3_5` :left_right_arrow: `org.neo4j:neo4j-front-end-3.5:3.5.6`
 - :cd: `org.neo4j.cypher.internal.ir.v3_4` :left_right_arrow: `org.neo4j:neo4j-cypher-ir-3.4:3.4.14`
-- :cd: `org.neo4j.cypher.internal.ir.v3_5` :left_right_arrow: `org.neo4j:neo4j-cypher-ir-3.5:3.5.5`
+- :cd: `org.neo4j.cypher.internal.ir.v3_5` :left_right_arrow: `org.neo4j:neo4j-cypher-ir-3.5:3.5.6`
 - :cd: `org.neo4j.cypher.internal.planner.v3_4.spi` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-spi-3.4:3.4.14`
-- :cd: `org.neo4j.cypher.internal.planner.v3_5.spi` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-spi-3.5:3.5.5`
+- :cd: `org.neo4j.cypher.internal.planner.v3_5.spi` :left_right_arrow: `org.neo4j:neo4j-cypher-planner-spi-3.5:3.5.6`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` :left_right_arrow: `org.neo4j:neo4j-cypher-compiled-expressions:3.5.0-beta03`
-- :cd: `org.neo4j.cypher.internal.runtime.interpreted` :left_right_arrow: `org.neo4j:neo4j-cypher-interpreted-runtime:3.5.5`
-- :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-runtime-util:3.5.5`
+- :cd: `org.neo4j.cypher.internal.runtime.interpreted` :left_right_arrow: `org.neo4j:neo4j-cypher-interpreted-runtime:3.5.6`
+- :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-runtime-util:3.5.6`
 - :cd: `org.neo4j.cypher.internal.runtime.vectorized` :left_right_arrow: `org.neo4j:neo4j-cypher-morsel-runtime:3.5.0-beta03`
 - :cd: `org.neo4j.cypher.internal.util.v3_4` :left_right_arrow: `org.neo4j:neo4j-cypher-util-3.4:3.4.14`
 - :cd: `org.neo4j.cypher.internal.v3_4.expressions` :left_right_arrow: `org.neo4j:neo4j-cypher-expression-3.4:3.4.14`
 - :cd: `org.neo4j.cypher.internal.v3_4.logical.plans` :left_right_arrow: `org.neo4j:neo4j-cypher-logical-plans-3.4:3.4.14`
-- :cd: `org.neo4j.cypher.internal.v3_5.logical.plans` :left_right_arrow: `org.neo4j:neo4j-cypher-logical-plans-3.5:3.5.5`
-- :cd: `org.neo4j.cypher.internal.v3_5.util` :left_right_arrow: `org.neo4j:neo4j-util-3.5:3.5.5`
+- :cd: `org.neo4j.cypher.internal.v3_5.logical.plans` :left_right_arrow: `org.neo4j:neo4j-cypher-logical-plans-3.5:3.5.6`
+- :cd: `org.neo4j.cypher.internal.v3_5.util` :left_right_arrow: `org.neo4j:neo4j-util-3.5:3.5.6`
 - :cd: `org.neo4j.cypher.internal.v4_0.ast` :left_right_arrow: `org.neo4j:neo4j-ast-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.cypher.internal.v4_0.expressions` :left_right_arrow: `org.neo4j:neo4j-expressions-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.cypher.internal.v4_0.parser` :left_right_arrow: `org.neo4j:neo4j-parser-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.cypher.internal.v4_0.rewriting` :left_right_arrow: `org.neo4j:neo4j-rewriting-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.cypher.internal.v4_0.util` :left_right_arrow: `org.neo4j:neo4j-util-4.0:4.0-alpha0-20190301`
-- :cd: `org.neo4j.dbms` :left_right_arrow: `org.neo4j:neo4j-dbms:3.5.5`
+- :cd: `org.neo4j.dbms` :left_right_arrow: `org.neo4j:neo4j-dbms:3.5.6`
 - :cd: `org.neo4j.driver` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver:2.0.0-alpha02`
 - :cd: `org.neo4j.enterprise` :left_right_arrow: `org.neo4j:neo4j-enterprise:3.5.0-beta03`
-- :cd: `org.neo4j.ext.udc` :left_right_arrow: `org.neo4j:neo4j-udc:3.5.5`
-- :cd: `org.neo4j.gis.spatial.index` :left_right_arrow: `org.neo4j:neo4j-spatial-index:3.5.5`
-- :cd: `org.neo4j.graphalgo` :left_right_arrow: `org.neo4j:neo4j-graph-algo:3.5.5`
-- :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-graphdb-api:3.5.5`
-- :cd: `org.neo4j.graphdb.resource` :left_right_arrow: `org.neo4j:neo4j-resource:3.5.5`
-- :cd: `org.neo4j.index` :left_right_arrow: `org.neo4j:neo4j-index:3.5.5`
-- :cd: `org.neo4j.index.lucene` :left_right_arrow: `org.neo4j:neo4j-lucene-index:3.5.5`
+- :cd: `org.neo4j.ext.udc` :left_right_arrow: `org.neo4j:neo4j-udc:3.5.6`
+- :cd: `org.neo4j.gis.spatial.index` :left_right_arrow: `org.neo4j:neo4j-spatial-index:3.5.6`
+- :cd: `org.neo4j.graphalgo` :left_right_arrow: `org.neo4j:neo4j-graph-algo:3.5.6`
+- :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-graphdb-api:3.5.6`
+- :cd: `org.neo4j.graphdb.resource` :left_right_arrow: `org.neo4j:neo4j-resource:3.5.6`
+- :cd: `org.neo4j.index` :left_right_arrow: `org.neo4j:neo4j-index:3.5.6`
+- :cd: `org.neo4j.index.lucene` :left_right_arrow: `org.neo4j:neo4j-lucene-index:3.5.6`
 - :cd: `org.neo4j.integrationtests` :left_right_arrow: `org.neo4j:neo4j-integrationtests:3.5.0-beta03`
 - :cd: `org.neo4j.internal.cypher.acceptance.spec.suite` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.0-beta01`
 - :cd: `org.neo4j.internal.cypher.compatibility.spec.suite` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.0-beta01`
 - :cd: `org.neo4j.internal.cypher.spec.suite.tools` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.0-beta01`
-- :cd: `org.neo4j.internal.diagnostics` :left_right_arrow: `org.neo4j:neo4j-diagnostics:3.5.5`
+- :cd: `org.neo4j.internal.diagnostics` :left_right_arrow: `org.neo4j:neo4j-diagnostics:3.5.6`
 - :cd: `org.neo4j.internal.enterprise.cypher.acceptance.spec.suite` :left_right_arrow: `org.neo4j:neo4j-enterprise-cypher-acceptance-spec-suite:3.5.0-beta03`
 - :cd: `org.neo4j.internal.enterprise.cypher.compatibility.spec.suite` :left_right_arrow: `org.neo4j:neo4j-enterprise-cypher-compatibility-spec-suite:3.5.0-beta03`
-- :cd: `org.neo4j.internal.kernel.api` :left_right_arrow: `org.neo4j:neo4j-kernel-api:3.5.5`
-- :cd: `org.neo4j.io` :left_right_arrow: `org.neo4j:neo4j-io:3.5.5`
-- :cd: `org.neo4j.jmx` :left_right_arrow: `org.neo4j:neo4j-jmx:3.5.5`
-- :cd: `org.neo4j.kernel` :left_right_arrow: `org.neo4j:neo4j-kernel:3.5.5`
+- :cd: `org.neo4j.internal.kernel.api` :left_right_arrow: `org.neo4j:neo4j-kernel-api:3.5.6`
+- :cd: `org.neo4j.io` :left_right_arrow: `org.neo4j:neo4j-io:3.5.6`
+- :cd: `org.neo4j.jmx` :left_right_arrow: `org.neo4j:neo4j-jmx:3.5.6`
+- :cd: `org.neo4j.kernel` :left_right_arrow: `org.neo4j:neo4j-kernel:3.5.6`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-addon:3.5.0-alpha01`
 - :cd: `org.neo4j.kernel.enterprise` :left_right_arrow: `org.neo4j:neo4j-enterprise-kernel:3.5.0-beta03`
 - :cd: `org.neo4j.kernel.ha` :left_right_arrow: `org.neo4j:neo4j-ha:3.5.0-beta03`
 - :cd: `org.neo4j.kernel.impl.locking.deferred` :left_right_arrow: `org.neo4j:neo4j-deferred-locks:3.5.0-beta03`
 - :cd: `org.neo4j.kernel.impl.query` :left_right_arrow: `org.neo4j:neo4j-query-logging:3.5.0-beta03`
-- :cd: `org.neo4j.legacy` :left_right_arrow: `org.neo4j:neo4j-legacy:3.5.5`
-- :cd: `org.neo4j.logging` :left_right_arrow: `org.neo4j:neo4j-logging:3.5.5`
-- :cd: `org.neo4j.logging.slf4j` :left_right_arrow: `org.neo4j:neo4j-slf4j:3.5.5`
+- :cd: `org.neo4j.legacy` :left_right_arrow: `org.neo4j:neo4j-legacy:3.5.6`
+- :cd: `org.neo4j.logging` :left_right_arrow: `org.neo4j:neo4j-logging:3.5.6`
+- :cd: `org.neo4j.logging.slf4j` :left_right_arrow: `org.neo4j:neo4j-slf4j:3.5.6`
 - :cd: `org.neo4j.management` :left_right_arrow: `org.neo4j:neo4j-management:3.5.0-beta03`
 - :cd: `org.neo4j.metrics` :left_right_arrow: `org.neo4j:neo4j-metrics:3.5.0-beta03`
 - :cd: `org.neo4j.ogm.core` :left_right_arrow: `org.neo4j:neo4j-ogm-core:3.2.0-alpha05`
@@ -3635,20 +3635,20 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.neo4j.ogm.drivers.embedded` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-driver:3.2.0-alpha05`
 - :cd: `org.neo4j.ogm.drivers.http` :left_right_arrow: `org.neo4j:neo4j-ogm-http-driver:3.2.0-alpha05`
 - :cd: `org.neo4j.ogm.testutil` :left_right_arrow: `org.neo4j:neo4j-ogm-test:3.2.0-alpha02`
-- :cd: `org.neo4j.random.values` :left_right_arrow: `org.neo4j:neo4j-random-values:3.5.5`
-- :cd: `org.neo4j.server.api` :left_right_arrow: `org.neo4j:server-api:3.5.5`
-- :cd: `org.neo4j.server.plugins` :left_right_arrow: `org.neo4j:server-plugin-test:3.5.5`
-- :cd: `org.neo4j.server.security` :left_right_arrow: `org.neo4j:neo4j-security:3.5.5`
+- :cd: `org.neo4j.random.values` :left_right_arrow: `org.neo4j:neo4j-random-values:3.5.6`
+- :cd: `org.neo4j.server.api` :left_right_arrow: `org.neo4j:server-api:3.5.6`
+- :cd: `org.neo4j.server.plugins` :left_right_arrow: `org.neo4j:server-plugin-test:3.5.6`
+- :cd: `org.neo4j.server.security` :left_right_arrow: `org.neo4j:neo4j-security:3.5.6`
 - :cd: `org.neo4j.server.security.enterprise` :left_right_arrow: `org.neo4j:neo4j-security-enterprise:3.5.0-beta03`
 - :cd: `org.neo4j.server.security.enterprise.auth.plugin` :left_right_arrow: `org.neo4j:neo4j-auth-plugin-api:3.5.0-beta03`
 - :cd: `org.neo4j.shell` :left_right_arrow: `org.neo4j:neo4j-shell:3.5.0-beta01`
-- :cd: `org.neo4j.ssl` :left_right_arrow: `org.neo4j:neo4j-ssl:3.5.5`
+- :cd: `org.neo4j.ssl` :left_right_arrow: `org.neo4j:neo4j-ssl:3.5.6`
 - :cd: `org.neo4j.stresstests` :left_right_arrow: `org.neo4j:neo4j-stresstests:3.5.0-beta03`
-- :cd: `org.neo4j.tooling.procedure` :left_right_arrow: `org.neo4j:procedure-compiler:3.5.5`
+- :cd: `org.neo4j.tooling.procedure` :left_right_arrow: `org.neo4j:procedure-compiler:3.5.6`
 - :cd: `org.neo4j.tooling.procedure.enterprise.tests` :left_right_arrow: `org.neo4j:neo4j-procedure-compiler-enterprise-tests:3.5.0-beta03`
 - :cd: `org.neo4j.tools` :left_right_arrow: `org.neo4j:neo4j-tools:3.5.0-beta03`
-- :cd: `org.neo4j.unsafe` :left_right_arrow: `org.neo4j:neo4j-unsafe:3.5.5`
-- :cd: `org.neo4j.values` :left_right_arrow: `org.neo4j:neo4j-values:3.5.5`
+- :cd: `org.neo4j.unsafe` :left_right_arrow: `org.neo4j:neo4j-unsafe:3.5.6`
+- :cd: `org.neo4j.values` :left_right_arrow: `org.neo4j:neo4j-values:3.5.6`
 - :cd: `org.nibor.autolink` :left_right_arrow: `org.nibor.autolink:autolink:0.10.0`
 - :cd: `org.objecttrouve.testing.conveniencematchers` :left_right_arrow: `org.objecttrouve:convenience-matchers:0.5.0`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.1`
@@ -3885,7 +3885,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.76`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
 - :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.76`
-- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.53`
+- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.54`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
 - :cd: `org.shredzone.acme4j` :left_right_arrow: `org.shredzone.acme4j:acme4j-client:2.7`
