@@ -40,6 +40,9 @@ public class Modules {
   private static final Properties mavenGroupAlias = new Properties();
 
   private static boolean isModuleRelatedLine(String line, Summary summary) {
+    if (line.chars().filter(ch -> ch == ',').count() < 8) {
+      return false; // skip "garbage" line, mostly overflows from jdeps errors/violations
+    }
     if (line.equals(
         "groupId,artifactId,version,moduleName,moduleVersion,moduleMode,moduleDependencies,jdepsToolError,jdepsViolations")) {
       summary.linesCaptionCounter++;
