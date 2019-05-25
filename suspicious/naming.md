@@ -27,6 +27,7 @@
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.11` // `com.github.jhg023,SimpleNet,1.4.11,SimpleNet,-,explicit,Pbbl + java.base,false,-`
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.12` // `com.github.jhg023,SimpleNet,1.4.12,SimpleNet,-,explicit,Pbbl + java.base,false,-`
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.13` // `com.github.jhg023,SimpleNet,1.4.13,SimpleNet,-,explicit,Pbbl + java.base,false,-`
+- :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.14` // `com.github.jhg023,SimpleNet,1.4.14,SimpleNet,-,explicit,Pbbl + java.base,false,-`
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.2` // `com.github.jhg023,SimpleNet,1.4.2,SimpleNet,-,explicit,java.base,false,-`
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.3` // `com.github.jhg023,SimpleNet,1.4.3,SimpleNet,-,explicit,java.base,false,-`
 - :dvd: `SimpleNet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.4.4` // `com.github.jhg023,SimpleNet,1.4.4,SimpleNet,-,explicit,java.base,false,-`
@@ -4634,6 +4635,7 @@
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.8` // `com.github.h908714124,jbock,2.6.8,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.9` // `com.github.h908714124,jbock,2.6.9,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.0` // `com.github.h908714124,jbock,2.7.0,net.jbock.compiler,-,automatic,-,false,-`
+- :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.1` // `com.github.h908714124,jbock,2.7.1,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.0.1` // `net.morimekta.utils,io-util,3.0.1,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.1.0` // `net.morimekta.utils,io-util,3.1.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.2.0` // `net.morimekta.utils,io-util,3.2.0,net.morimekta.util,-,automatic,-,false,-`
@@ -5126,6 +5128,7 @@
 - :cd: `org.commonmark.testutil` :left_right_arrow: `com.atlassian.commonmark:commonmark-test-util:0.12.1` // `com.atlassian.commonmark,commonmark-test-util,0.12.1,org.commonmark.testutil,-,automatic,-,false,-`
 - :cd: `org.custommonkey.xmlunit` :left_right_arrow: `org.xmlunit:xmlunit-legacy:2.6.2` // `org.xmlunit,xmlunit-legacy,2.6.2,org.custommonkey.xmlunit,-,automatic,-,false,-`
 - :cd: `org.dhcp4java` :left_right_arrow: `com.helger:dhcp4java:1.1.0` // `com.helger,dhcp4java,1.1.0,org.dhcp4java,-,automatic,-,false,-`
+- :cd: `org.dnsjava` :left_right_arrow: `dnsjava:dnsjava:2.1.9` // `dnsjava,dnsjava,2.1.9,org.dnsjava,-,automatic,-,false,-`
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.10.0.Final` // `org.drools.testcoverage,test-compiler-integration,7.10.0.Final,org.drools.compiler.integrationtests,-,automatic,-,false,-`
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.11.0.Final` // `org.drools.testcoverage,test-compiler-integration,7.11.0.Final,org.drools.compiler.integrationtests,-,automatic,-,false,-`
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.12.0.Final` // `org.drools.testcoverage,test-compiler-integration,7.12.0.Final,org.drools.compiler.integrationtests,-,automatic,-,false,-`
@@ -10056,11 +10059,13 @@
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.3` // `uk.co.real-logic,sbe-all,1.12.3,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.4` // `uk.co.real-logic,sbe-all,1.12.4,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.5` // `uk.co.real-logic,sbe-all,1.12.5,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.6` // `uk.co.real-logic,sbe-all,1.12.6,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.1` // `uk.co.real-logic,sbe-tool,1.12.1,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.2` // `uk.co.real-logic,sbe-tool,1.12.2,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.3` // `uk.co.real-logic,sbe-tool,1.12.3,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.4` // `uk.co.real-logic,sbe-tool,1.12.4,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.5` // `uk.co.real-logic,sbe-tool,1.12.5,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
+- :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.6` // `uk.co.real-logic,sbe-tool,1.12.6,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel,4.8.0,uk.co.spudsoft.birt.emitters.excel,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel.tests` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel.tests:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel.tests,4.8.0,uk.co.spudsoft.birt.emitters.excel.tests,-,automatic,-,false,-`
 - :cd: `unbescape` :left_right_arrow: `org.unbescape:unbescape:1.1.6.RELEASE` // `org.unbescape,unbescape,1.1.6.RELEASE,unbescape,-,automatic,-,false,-`
