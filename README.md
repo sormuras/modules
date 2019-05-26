@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4245 Java modules published at Maven Central
+Counted 4246 Java modules published at Maven Central
 
-## Summary 2019-05-25T22:22:30.776222Z
+## Summary 2019-05-26T22:21:43.086285Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-25T22:22:30.776222Z
-Scanned 22,119 files in 3 seconds.
+Started scan at 2019-05-26T22:21:43.086285Z
+Scanned 22,174 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_25_22_06_33.csv
+    last -> modulescanner-report-2019_05_26_21_56_58.csv
 
-Parsed 1,376,178 lines in total.
-  26,009 -> captions skipped
-  83,714 -> duplicates skipped
-  53,311 -> module related
+Parsed 1,379,818 lines in total.
+  26,064 -> captions skipped
+  84,308 -> duplicates skipped
+  53,488 -> module related
 
-Collected 4,245 unique modules.
-  automatic :cd: -> 3,293
+Collected 4,246 unique modules.
+  automatic :cd: -> 3,294
   explicit :dvd: -> 952
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5505](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10209](suspicious/naming.md)
-- Modular impostors: [2607](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10260](suspicious/naming.md)
+- Modular impostors: [2711](suspicious/impostors.md)
 
-## Unique Modules (4245)
+## Unique Modules (4246)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -284,6 +284,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.19`
 - :cd: `com.couchbase.client.core` :left_right_arrow: `com.couchbase.client:core-io:1.7.6`
 - :cd: `com.couchbase.client.java` :left_right_arrow: `com.couchbase.client:java-client:2.7.6`
+- :cd: `com.damnhandy.uri.template` :left_right_arrow: `com.damnhandy:handy-uri-templates:2.1.8`
 - :cd: `com.digitalascent.common` :left_right_arrow: `com.digitalascent:digitalascent-common:1.0.1`
 - :cd: `com.digitalascent.errorprone.flogger` :left_right_arrow: `com.digitalascent:digitalascent-errorprone-flogger:0.8.1`
 - :cd: `com.digitalascent.logger` :left_right_arrow: `com.digitalascent:digitalascent-fluent-logger:1.0.3`
@@ -398,11 +399,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.2`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.2`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.2`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.2`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.2`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.3`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.3`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.3`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.3`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.3`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -443,19 +444,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.pukkaone.grapid.maven.plugin` :left_right_arrow: `com.github.pukkaone:grapid-maven-plugin:0.3.0`
 - :cd: `com.github.pukkaone.grapid.web.spring.boot.starter` :left_right_arrow: `com.github.pukkaone:grapid-web-spring-boot-starter:0.3.0`
 - :cd: `com.github.richardroda.util.closeit` :left_right_arrow: `com.github.richardroda.util:closeit:1.4`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.0-cr-3`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.0`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.0`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.0`
+- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.0`
 - :cd: `com.github.robozonky.installer` :left_right_arrow: `com.github.robozonky:robozonky-installer:5.1.1`
 - :cd: `com.github.robozonky.installer.panels` :left_right_arrow: `com.github.robozonky.installer:robozonky-installer-panels:4.5.3`
-- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.0-cr-3`
+- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.0`
+- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.0`
 - :cd: `com.github.robozonky.integrations.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.1.1`
 - :cd: `com.github.robozonky.marketplaces` :left_right_arrow: `com.github.robozonky:robozonky-marketplaces:4.3.4`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.0-cr-3`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.0-cr-3`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.0`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.0`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.0`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:2.2.0`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.3`
@@ -922,7 +923,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.9`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.12`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -936,7 +937,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.9`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.12`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -1391,11 +1392,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `info.picocli.codegen` :left_right_arrow: `info.picocli:picocli-codegen:4.0.0-alpha-3`
 - :cd: `info.picocli.shell.jline2` :left_right_arrow: `info.picocli:picocli-shell-jline2:4.0.0-alpha-3`
 - :cd: `info.picocli.shell.jline3` :left_right_arrow: `info.picocli:picocli-shell-jline3:4.0.0-alpha-3`
-- :cd: `io.aeron.agent` :left_right_arrow: `io.aeron:aeron-agent:1.19.0`
-- :cd: `io.aeron.archive` :left_right_arrow: `io.aeron:aeron-archive:1.19.0`
-- :cd: `io.aeron.client` :left_right_arrow: `io.aeron:aeron-client:1.19.0`
-- :cd: `io.aeron.cluster` :left_right_arrow: `io.aeron:aeron-cluster:1.19.0`
-- :cd: `io.aeron.driver` :left_right_arrow: `io.aeron:aeron-driver:1.19.0`
+- :cd: `io.aeron.agent` :left_right_arrow: `io.aeron:aeron-agent:1.19.1`
+- :cd: `io.aeron.archive` :left_right_arrow: `io.aeron:aeron-archive:1.19.1`
+- :cd: `io.aeron.client` :left_right_arrow: `io.aeron:aeron-client:1.19.1`
+- :cd: `io.aeron.cluster` :left_right_arrow: `io.aeron:aeron-cluster:1.19.1`
+- :cd: `io.aeron.driver` :left_right_arrow: `io.aeron:aeron-driver:1.19.1`
 - :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.2.0`
 - :dvd: `io.annot8.common.implementations` :left_right_arrow: `io.annot8:annot8-common-implementations:0.2.0`
 - :dvd: `io.annot8.common.jackson.serialisation` :left_right_arrow: `io.annot8:annot8-common-jackson-serialisation:0.2.0`
