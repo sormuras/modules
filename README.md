@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4246 Java modules published at Maven Central
 
-## Summary 2019-05-26T22:21:43.086285Z
+## Summary 2019-05-27T22:22:49.588418Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-26T22:21:43.086285Z
-Scanned 22,174 files in 3 seconds.
+Started scan at 2019-05-27T22:22:49.588418Z
+Scanned 22,250 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_26_21_56_58.csv
+    last -> modulescanner-report-2019_05_27_22_08_09.csv
 
-Parsed 1,379,818 lines in total.
-  26,064 -> captions skipped
-  84,308 -> duplicates skipped
-  53,488 -> module related
+Parsed 1,384,583 lines in total.
+  26,140 -> captions skipped
+  84,353 -> duplicates skipped
+  53,530 -> module related
 
 Collected 4,246 unique modules.
   automatic :cd: -> 3,294
@@ -91,7 +91,7 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5505](suspicious/syntax.md)
+- Invalid module names: [5512](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10260](suspicious/naming.md)
 - Modular impostors: [2711](suspicious/impostors.md)
 
@@ -312,9 +312,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.coop.nio.fs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-fs:4.2.11`
 - :cd: `com.emc.mongoose.storage.driver.coop.swift` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-swift:4.2.10`
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.11`
-- :cd: `com.emc.mongoose.storage.driver.kafka` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-kafka:4.2.6`
+- :cd: `com.emc.mongoose.storage.driver.kafka` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-kafka:4.2.7`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.13`
-- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.13`
+- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.14`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
 - :cd: `com.envimate.webmate.integrations.jetty` :left_right_arrow: `com.envimate.webmate.integrations:webmate-jetty:1.0.7`
@@ -405,7 +405,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.3`
 - :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.3`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
-- :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.1`
+- :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
 - :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.17`
 - :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.17`
@@ -685,10 +685,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.2`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.0.12`
-- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.0.12`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.0.12`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.0.12`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.1.0`
+- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.1.0`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.1.0`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.1.0`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.3`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.4`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.4`
@@ -1158,10 +1158,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.powsybl.triplestore.test` :left_right_arrow: `com.powsybl:powsybl-triple-store-test:2.5.0`
 - :cd: `com.powsybl.ucte.converter` :left_right_arrow: `com.powsybl:powsybl-ucte-converter:2.5.0`
 - :cd: `com.powsybl.ucte.network` :left_right_arrow: `com.powsybl:powsybl-ucte-network:2.5.0`
-- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.7.0`
+- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.7.1`
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
-- :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.7.0`
+- :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.8.0`
 - :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.0.6`
 - :cd: `com.remondis.remap` :left_right_arrow: `com.remondis:remap:4.1.13`
 - :cd: `com.reprezen.rapidml` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml:0.0.9`
@@ -1653,7 +1653,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.jenetics.prngine` :left_right_arrow: `io.jenetics:prngine:1.0.1`
 - :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:4.4.0`
 - :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:4.4.0`
-- :cd: `io.jhdf` :left_right_arrow: `io.jhdf:jhdf:0.4.3`
+- :cd: `io.jhdf` :left_right_arrow: `io.jhdf:jhdf:0.4.4`
 - :cd: `io.jitstatic.client` :left_right_arrow: `io.jitstatic:jitstatic-client:0.11.0`
 - :dvd: `io.kodokojo.property.configurer` :left_right_arrow: `io.kodokojo:property-configurer:0.2.0`
 - :dvd: `io.lindstrom.mpd` :left_right_arrow: `io.lindstrom:mpd-parser:0.7`
@@ -1869,10 +1869,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.134`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.134`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.134`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.134`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.135`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.135`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.135`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.135`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.105`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.105`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.105`
@@ -2119,7 +2119,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.bcel` :left_right_arrow: `org.apache.bcel:bcel:6.3.1`
 - :cd: `org.apache.commons.collections4` :left_right_arrow: `org.apache.commons:commons-collections4:4.3`
 - :cd: `org.apache.commons.compress` :left_right_arrow: `org.apache.commons:commons-compress:1.18`
-- :cd: `org.apache.commons.configuration2` :left_right_arrow: `org.apache.commons:commons-configuration2:2.4`
+- :cd: `org.apache.commons.configuration2` :left_right_arrow: `org.apache.commons:commons-configuration2:2.5`
 - :cd: `org.apache.commons.imaging` :left_right_arrow: `org.apache.commons:commons-imaging:1.0-alpha1`
 - :cd: `org.apache.commons.lang3` :left_right_arrow: `org.apache.commons:commons-lang3:3.9`
 - :cd: `org.apache.commons.rdf.api` :left_right_arrow: `org.apache.commons:commons-rdf-api:0.5.0`
@@ -2490,18 +2490,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.wss4j.web` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-web:2.2.3`
 - :cd: `org.apache.xbean.asm6.shaded` :left_right_arrow: `org.apache.xbean:xbean-asm6-shaded:4.10`
 - :cd: `org.apache.xbean.asm6.util` :left_right_arrow: `org.apache.xbean:xbean-asm-util:4.10`
-- :cd: `org.apache.xbean.asm7.shaded` :left_right_arrow: `org.apache.xbean:xbean-asm7-shaded:4.13`
-- :cd: `org.apache.xbean.asm7.util` :left_right_arrow: `org.apache.xbean:xbean-asm-util:4.13`
-- :cd: `org.apache.xbean.blueprint` :left_right_arrow: `org.apache.xbean:xbean-blueprint:4.13`
-- :cd: `org.apache.xbean.classloader` :left_right_arrow: `org.apache.xbean:xbean-classloader:4.13`
-- :cd: `org.apache.xbean.classpath` :left_right_arrow: `org.apache.xbean:xbean-classpath:4.13`
-- :cd: `org.apache.xbean.finder` :left_right_arrow: `org.apache.xbean:xbean-finder:4.13`
-- :cd: `org.apache.xbean.finder.shaded` :left_right_arrow: `org.apache.xbean:xbean-finder-shaded:4.13`
-- :cd: `org.apache.xbean.naming` :left_right_arrow: `org.apache.xbean:xbean-naming:4.13`
-- :cd: `org.apache.xbean.osgi.utilities` :left_right_arrow: `org.apache.xbean:xbean-bundleutils:4.13`
-- :cd: `org.apache.xbean.reflect` :left_right_arrow: `org.apache.xbean:xbean-reflect:4.13`
-- :cd: `org.apache.xbean.spring` :left_right_arrow: `org.apache.xbean:xbean-spring:4.13`
-- :cd: `org.apache.xbean.telnet` :left_right_arrow: `org.apache.xbean:xbean-telnet:4.13`
+- :cd: `org.apache.xbean.asm7.shaded` :left_right_arrow: `org.apache.xbean:xbean-asm7-shaded:4.14`
+- :cd: `org.apache.xbean.asm7.util` :left_right_arrow: `org.apache.xbean:xbean-asm-util:4.14`
+- :cd: `org.apache.xbean.blueprint` :left_right_arrow: `org.apache.xbean:xbean-blueprint:4.14`
+- :cd: `org.apache.xbean.classloader` :left_right_arrow: `org.apache.xbean:xbean-classloader:4.14`
+- :cd: `org.apache.xbean.classpath` :left_right_arrow: `org.apache.xbean:xbean-classpath:4.14`
+- :cd: `org.apache.xbean.finder` :left_right_arrow: `org.apache.xbean:xbean-finder:4.14`
+- :cd: `org.apache.xbean.finder.shaded` :left_right_arrow: `org.apache.xbean:xbean-finder-shaded:4.14`
+- :cd: `org.apache.xbean.naming` :left_right_arrow: `org.apache.xbean:xbean-naming:4.14`
+- :cd: `org.apache.xbean.osgi.utilities` :left_right_arrow: `org.apache.xbean:xbean-bundleutils:4.14`
+- :cd: `org.apache.xbean.reflect` :left_right_arrow: `org.apache.xbean:xbean-reflect:4.14`
+- :cd: `org.apache.xbean.spring` :left_right_arrow: `org.apache.xbean:xbean-spring:4.14`
+- :cd: `org.apache.xbean.telnet` :left_right_arrow: `org.apache.xbean:xbean-telnet:4.14`
 - :cd: `org.apiguardian.api` :left_right_arrow: `org.apiguardian:apiguardian-api:1.0.0`
 - :cd: `org.aspectj.runtime` :left_right_arrow: `org.aspectj:aspectjrt:1.9.4`
 - :cd: `org.aspectj.tools` :left_right_arrow: `org.aspectj:aspectjtools:1.9.4`
@@ -2708,15 +2708,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.spring` :left_right_arrow: `org.copper-engine:copper-spring:5.0.2`
 - :dvd: `org.cryptomator.siv` :left_right_arrow: `org.cryptomator:siv-mode:1.3.1`
 - :cd: `org.daisy.braille.utils.api` :left_right_arrow: `org.daisy.braille:braille-utils.api:5.1.1`
-- :cd: `org.daisy.braille.utils.impl` :left_right_arrow: `org.daisy.braille:braille-utils.impl:6.0.0`
-- :cd: `org.daisy.braille.utils.pef` :left_right_arrow: `org.daisy.braille:braille-utils.pef-tools:5.0.2`
-- :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:4.7.0`
+- :cd: `org.daisy.braille.utils.impl` :left_right_arrow: `org.daisy.braille:braille-utils.impl:7.0.0`
+- :cd: `org.daisy.braille.utils.pef` :left_right_arrow: `org.daisy.braille:braille-utils.pef-tools:6.0.0`
+- :cd: `org.daisy.dotify.api` :left_right_arrow: `org.daisy.dotify:dotify.api:5.0.0`
 - :cd: `org.daisy.dotify.common` :left_right_arrow: `org.daisy.dotify:dotify.common:4.4.0`
-- :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:4.6.0`
-- :cd: `org.daisy.dotify.hyphenator` :left_right_arrow: `org.daisy.dotify:dotify.hyphenator.impl:4.0.0`
+- :cd: `org.daisy.dotify.formatter` :left_right_arrow: `org.daisy.dotify:dotify.formatter.impl:5.0.0`
+- :cd: `org.daisy.dotify.hyphenator` :left_right_arrow: `org.daisy.dotify:dotify.hyphenator.impl:5.0.0`
 - :cd: `org.daisy.dotify.tasks` :left_right_arrow: `org.daisy.dotify:dotify.task.impl:4.7.0`
-- :cd: `org.daisy.dotify.text` :left_right_arrow: `org.daisy.dotify:dotify.text.impl:4.0.0`
-- :cd: `org.daisy.dotify.translator` :left_right_arrow: `org.daisy.dotify:dotify.translator.impl:4.2.1`
+- :cd: `org.daisy.dotify.text` :left_right_arrow: `org.daisy.dotify:dotify.text.impl:5.0.0`
+- :cd: `org.daisy.dotify.translator` :left_right_arrow: `org.daisy.dotify:dotify.translator.impl:5.0.0`
 - :cd: `org.daisy.streamline.api` :left_right_arrow: `org.daisy.streamline:streamline-api:1.4.0`
 - :cd: `org.daisy.streamline.cli` :left_right_arrow: `org.daisy.streamline:streamline-cli:1.0.0`
 - :cd: `org.daisy.streamline.engine` :left_right_arrow: `org.daisy.streamline:streamline-engine:1.2.0`
@@ -3886,7 +3886,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.76`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
 - :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.76`
-- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.54`
+- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.55`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
 - :cd: `org.shredzone.acme4j` :left_right_arrow: `org.shredzone.acme4j:acme4j-client:2.7`
