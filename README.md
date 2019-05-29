@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4249 Java modules published at Maven Central
+Counted 4253 Java modules published at Maven Central
 
-## Summary 2019-05-28T22:23:15.650332Z
+## Summary 2019-05-29T22:24:16.514641Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-28T22:23:15.650332Z
-Scanned 22,319 files in 4 seconds.
+Started scan at 2019-05-29T22:24:16.514641Z
+Scanned 22,396 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_28_21_48_44.csv
+    last -> modulescanner-report-2019_05_29_21_37_51.csv
 
-Parsed 1,390,074 lines in total.
-  26,209 -> captions skipped
-  84,887 -> duplicates skipped
-  53,800 -> module related
+Parsed 1,397,589 lines in total.
+  26,281 -> captions skipped
+  85,304 -> duplicates skipped
+  54,137 -> module related
 
-Collected 4,249 unique modules.
-  automatic :cd: -> 3,297
-  explicit :dvd: -> 952
+Collected 4,253 unique modules.
+  automatic :cd: -> 3,300
+  explicit :dvd: -> 953
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5516](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10263](suspicious/naming.md)
-- Modular impostors: [2717](suspicious/impostors.md)
+- Invalid module names: [5558](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10382](suspicious/naming.md)
+- Modular impostors: [2732](suspicious/impostors.md)
 
-## Unique Modules (4249)
+## Unique Modules (4253)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -223,49 +223,49 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.blazebit.ee.apt` :left_right_arrow: `com.blazebit:blaze-ee-apt:0.1.16`
 - :cd: `com.blazebit.ee.utils` :left_right_arrow: `com.blazebit:blaze-ee-utils:0.1.16`
 - :cd: `com.blazebit.mail.utils` :left_right_arrow: `com.blazebit:blaze-mail-utils:0.1.16`
-- :cd: `com.blazebit.persistence.checkstyle.rules` :left_right_arrow: `com.blazebit:blaze-persistence-checkstyle-rules:1.3.2`
-- :cd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.3.2`
-- :cd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.3.2`
-- :cd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.3.2`
-- :cd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.3.2`
-- :cd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.3.2`
-- :cd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.3.2`
-- :cd: `com.blazebit.persistence.criteria.jpa2compatibility` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility:1.3.2`
-- :cd: `com.blazebit.persistence.criteria.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-testsuite:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.base` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-base:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.fragments.basic` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-basic:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.fragments.cte` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-cte:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.fragments.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-spring-data:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.runner.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-runner-cdi:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.runner.spring` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-runner-spring:1.3.2`
-- :cd: `com.blazebit.persistence.examples.showcase.spi` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-spi:1.3.2`
-- :cd: `com.blazebit.persistence.examples.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-examples-spring-data-rest:1.3.2`
-- :cd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.3.2`
-- :cd: `com.blazebit.persistence.integration.deltaspike.data.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-testsuite:1.3.2`
-- :cd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.3.2`
-- :cd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.3.2`
-- :cd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.3.2`
-- :cd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.3.2`
-- :cd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.3.2`
-- :cd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.3.2`
-- :cd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.3.2`
-- :cd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.3.2`
-- :cd: `com.blazebit.persistence.integration.spring.data.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-testsuite:1.3.2`
-- :cd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.3.2`
-- :cd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.3.2`
-- :cd: `com.blazebit.persistence.testsuite.base.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-datanucleus:1.3.2`
-- :cd: `com.blazebit.persistence.testsuite.base.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-eclipselink:1.3.2`
-- :cd: `com.blazebit.persistence.testsuite.base.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-hibernate:1.3.2`
-- :cd: `com.blazebit.persistence.testsuite.base.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-jpa:1.3.2`
-- :cd: `com.blazebit.persistence.testsuite.base.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-openjpa:1.3.2`
-- :cd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.3.2`
-- :cd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.3.2`
-- :cd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.3.2`
+- :cd: `com.blazebit.persistence.checkstyle.rules` :left_right_arrow: `com.blazebit:blaze-persistence-checkstyle-rules:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.criteria.jpa2compatibility` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.criteria.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-testsuite:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.base` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-base:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.fragments.basic` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-basic:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.fragments.cte` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-cte:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.fragments.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-fragments-spring-data:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.runner.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-runner-cdi:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.runner.spring` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-runner-spring:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.showcase.spi` :left_right_arrow: `com.blazebit:blaze-persistence-examples-showcase-spi:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.examples.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-examples-spring-data-rest:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.deltaspike.data.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-testsuite:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.spring.data.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-testsuite:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.testsuite.base.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-datanucleus:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.testsuite.base.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-eclipselink:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.testsuite.base.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-hibernate:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.testsuite.base.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-jpa:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.testsuite.base.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-testsuite-base-openjpa:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha1`
+- :cd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha1`
 - :cd: `com.blazebit.template.utils` :left_right_arrow: `com.blazebit:blaze-template-utils:0.1.16`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:10.5.0`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:10.5.0`
@@ -458,7 +458,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.0`
 - :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.0`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
-- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:2.2.0`
+- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.0.0`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.3`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.0`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.0`
@@ -686,10 +686,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.3`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.1`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.1`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.1.0`
-- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.1.0`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.1.0`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.1.0`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.1.1`
+- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.1.1`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.1.1`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.1.1`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.3`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.4`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.4`
@@ -712,10 +712,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.holonplatform.reactor.http` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-http:5.2.3`
 - :cd: `com.holonplatform.reactor.spring` :left_right_arrow: `com.holon-platform.reactor:holon-reactor-spring:5.2.3`
 - :cd: `com.holonplatform.vaadin` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin:5.2.5`
-- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.10`
-- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.10`
-- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.10`
-- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.10`
+- :cd: `com.holonplatform.vaadin.flow` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow:5.2.11`
+- :cd: `com.holonplatform.vaadin.flow.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-navigator:5.2.11`
+- :cd: `com.holonplatform.vaadin.flow.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring:5.2.11`
+- :cd: `com.holonplatform.vaadin.flow.spring.boot` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-spring-boot:5.2.11`
 - :cd: `com.holonplatform.vaadin.flow.test.utils` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-flow-test:5.2.0-rc1`
 - :cd: `com.holonplatform.vaadin.navigator` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-navigator:5.2.5`
 - :cd: `com.holonplatform.vaadin.spring` :left_right_arrow: `com.holon-platform.vaadin:holon-vaadin-spring:5.2.5`
@@ -1668,6 +1668,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:cli:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.aws_common` :left_right_arrow: `io.micronaut.configuration:aws-common:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.cassandra` :left_right_arrow: `io.micronaut.configuration:cassandra:1.0.0.RC2`
+- :cd: `io.micronaut.configuration.flyway` :left_right_arrow: `io.micronaut.configuration:micronaut-flyway:1.0.0`
 - :cd: `io.micronaut.configuration.gorm_common` :left_right_arrow: `io.micronaut.configuration:gorm-common:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.hibernate_gorm` :left_right_arrow: `io.micronaut.configuration:hibernate-gorm:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.hibernate_jpa` :left_right_arrow: `io.micronaut.configuration:hibernate-jpa:1.0.0.RC2`
@@ -1679,6 +1680,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.configuration.jmx` :left_right_arrow: `io.micronaut.configuration:jmx:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.kafka` :left_right_arrow: `io.micronaut.configuration:kafka:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.kafka_streams` :left_right_arrow: `io.micronaut.configuration:kafka-streams:1.0.0.RC2`
+- :cd: `io.micronaut.configuration.liquibase` :left_right_arrow: `io.micronaut.configuration:micronaut-liquibase:1.0.1`
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micrometer-core:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-atlas:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.2.0.RC1`
@@ -2096,6 +2098,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.rawdata.storage.provider.filesystem` :left_right_arrow: `no.ssb.rawdata:rawdata-storage-provider-local-filesystem:0.2`
 - :dvd: `no.ssb.saga.execution` :left_right_arrow: `no.ssb.saga:distributed-saga-execution:0.2`
 - :dvd: `no.ssb.sagalog` :left_right_arrow: `no.ssb.saga:sagalog-api:0.1`
+- :dvd: `no.ssb.sagalog.file` :left_right_arrow: `no.ssb.saga:sagalog-file:0.1`
 - :cd: `one.irradia.mime.api` :left_right_arrow: `one.irradia.mime:one.irradia.mime.api:0.0.6`
 - :cd: `one.irradia.mime.tests` :left_right_arrow: `one.irradia.mime:one.irradia.mime.tests:0.0.6`
 - :cd: `one.irradia.mime.vanilla` :left_right_arrow: `one.irradia.mime:one.irradia.mime.vanilla:0.0.6`
@@ -2381,22 +2384,22 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.maven.resolver.transport.http` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-http:1.3.3`
 - :cd: `org.apache.maven.resolver.transport.wagon` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-wagon:1.3.3`
 - :cd: `org.apache.maven.resolver.util` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-util:1.3.3`
-- :cd: `org.apache.meecrowave.arquillian` :left_right_arrow: `org.apache.meecrowave:meecrowave-arquillian:1.2.7`
-- :cd: `org.apache.meecrowave.core` :left_right_arrow: `org.apache.meecrowave:meecrowave-core:1.2.7`
-- :cd: `org.apache.meecrowave.gradle` :left_right_arrow: `org.apache.meecrowave:meecrowave-gradle-plugin:1.2.7`
-- :cd: `org.apache.meecrowave.jolokia` :left_right_arrow: `org.apache.meecrowave:meecrowave-jolokia:1.2.7`
-- :cd: `org.apache.meecrowave.jpa` :left_right_arrow: `org.apache.meecrowave:meecrowave-jpa:1.2.7`
-- :cd: `org.apache.meecrowave.jta` :left_right_arrow: `org.apache.meecrowave:meecrowave-jta:1.2.7`
-- :cd: `org.apache.meecrowave.junit` :left_right_arrow: `org.apache.meecrowave:meecrowave-junit:1.2.7`
-- :cd: `org.apache.meecrowave.letsencrypt` :left_right_arrow: `org.apache.meecrowave:meecrowave-letsencrypt:1.2.7`
-- :cd: `org.apache.meecrowave.maven` :left_right_arrow: `org.apache.meecrowave:meecrowave-maven-plugin:1.2.7`
-- :cd: `org.apache.meecrowave.oauth2` :left_right_arrow: `org.apache.meecrowave:meecrowave-oauth2:1.2.7`
-- :cd: `org.apache.meecrowave.specs` :left_right_arrow: `org.apache.meecrowave:meecrowave-specs-api:1.2.7`
+- :cd: `org.apache.meecrowave.arquillian` :left_right_arrow: `org.apache.meecrowave:meecrowave-arquillian:1.2.8`
+- :cd: `org.apache.meecrowave.core` :left_right_arrow: `org.apache.meecrowave:meecrowave-core:1.2.8`
+- :cd: `org.apache.meecrowave.gradle` :left_right_arrow: `org.apache.meecrowave:meecrowave-gradle-plugin:1.2.8`
+- :cd: `org.apache.meecrowave.jolokia` :left_right_arrow: `org.apache.meecrowave:meecrowave-jolokia:1.2.8`
+- :cd: `org.apache.meecrowave.jpa` :left_right_arrow: `org.apache.meecrowave:meecrowave-jpa:1.2.8`
+- :cd: `org.apache.meecrowave.jta` :left_right_arrow: `org.apache.meecrowave:meecrowave-jta:1.2.8`
+- :cd: `org.apache.meecrowave.junit` :left_right_arrow: `org.apache.meecrowave:meecrowave-junit:1.2.8`
+- :cd: `org.apache.meecrowave.letsencrypt` :left_right_arrow: `org.apache.meecrowave:meecrowave-letsencrypt:1.2.8`
+- :cd: `org.apache.meecrowave.maven` :left_right_arrow: `org.apache.meecrowave:meecrowave-maven-plugin:1.2.8`
+- :cd: `org.apache.meecrowave.oauth2` :left_right_arrow: `org.apache.meecrowave:meecrowave-oauth2:1.2.8`
+- :cd: `org.apache.meecrowave.specs` :left_right_arrow: `org.apache.meecrowave:meecrowave-specs-api:1.2.8`
 - :cd: `org.apache.myfaces.tobago` :left_right_arrow: `org.apache.myfaces.tobago:tobago-core:4.4.1`
-- :cd: `org.apache.openejb.itests.itests.failover` :left_right_arrow: `org.apache.openejb.itests:failover:8.0.0-M2`
-- :cd: `org.apache.openejb.itests.itests.failover.ejb` :left_right_arrow: `org.apache.openejb.itests:failover-ejb:8.0.0-M2`
-- :cd: `org.apache.openejb.itests.itests.legacy.client` :left_right_arrow: `org.apache.openejb.itests:legacy-client:8.0.0-M2`
-- :cd: `org.apache.openejb.itests.itests.legacy.server` :left_right_arrow: `org.apache.openejb.itests:legacy-server:8.0.0-M2`
+- :cd: `org.apache.openejb.itests.itests.failover` :left_right_arrow: `org.apache.openejb.itests:failover:8.0.0-M3`
+- :cd: `org.apache.openejb.itests.itests.failover.ejb` :left_right_arrow: `org.apache.openejb.itests:failover-ejb:8.0.0-M3`
+- :cd: `org.apache.openejb.itests.itests.legacy.client` :left_right_arrow: `org.apache.openejb.itests:legacy-client:8.0.0-M3`
+- :cd: `org.apache.openejb.itests.itests.legacy.server` :left_right_arrow: `org.apache.openejb.itests:legacy-server:8.0.0-M3`
 - :cd: `org.apache.opennlp.tools` :left_right_arrow: `org.apache.opennlp:opennlp-tools:1.9.1`
 - :cd: `org.apache.santuario.xmlsec` :left_right_arrow: `org.apache.santuario:xmlsec:2.1.3`
 - :cd: `org.apache.tika.app` :left_right_arrow: `org.apache.tika:tika-app:1.21`
@@ -2410,67 +2413,68 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.tika.server` :left_right_arrow: `org.apache.tika:tika-server:1.21`
 - :cd: `org.apache.tika.translate` :left_right_arrow: `org.apache.tika:tika-translate:1.21`
 - :cd: `org.apache.tika.xmp` :left_right_arrow: `org.apache.tika:tika-xmp:1.21`
-- :cd: `org.apache.tomee.arquillian.common` :left_right_arrow: `org.apache.tomee:arquillian-common:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.openejb.embedded` :left_right_arrow: `org.apache.tomee:arquillian-openejb-embedded:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.openejb.transaction.provider` :left_right_arrow: `org.apache.tomee:arquillian-openejb-transaction-provider:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.tck` :left_right_arrow: `org.apache.tomee:arquillian-tck:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.tomee.common` :left_right_arrow: `org.apache.tomee:arquillian-tomee-common:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.tomee.embedded` :left_right_arrow: `org.apache.tomee:arquillian-tomee-embedded:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.tomee.remote` :left_right_arrow: `org.apache.tomee:arquillian-tomee-remote:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.tomee.webapp.remote` :left_right_arrow: `org.apache.tomee:arquillian-tomee-webapp-remote:8.0.0-M2`
-- :cd: `org.apache.tomee.arquillian.ziplock` :left_right_arrow: `org.apache.tomee:ziplock:8.0.0-M2`
-- :cd: `org.apache.tomee.container.api` :left_right_arrow: `org.apache.tomee:openejb-api:8.0.0-M2`
-- :cd: `org.apache.tomee.container.core` :left_right_arrow: `org.apache.tomee:openejb-core:8.0.0-M2`
-- :cd: `org.apache.tomee.container.javaagent` :left_right_arrow: `org.apache.tomee:openejb-javaagent:8.0.0-M2`
-- :cd: `org.apache.tomee.container.jee.accessors` :left_right_arrow: `org.apache.tomee:openejb-jee-accessors:8.0.0-M2`
-- :cd: `org.apache.tomee.container.jpa` :left_right_arrow: `org.apache.tomee:openejb-jpa-integration:8.0.0-M2`
-- :cd: `org.apache.tomee.container.junit` :left_right_arrow: `org.apache.tomee:openejb-junit:8.0.0-M2`
-- :cd: `org.apache.tomee.container.loader` :left_right_arrow: `org.apache.tomee:openejb-loader:8.0.0-M2`
-- :cd: `org.apache.tomee.container.mbean.api` :left_right_arrow: `org.apache.tomee:mbean-annotation-api:8.0.0-M2`
-- :cd: `org.apache.tomee.itests.beans` :left_right_arrow: `org.apache.tomee:openejb-itests-beans:8.0.0-M2`
-- :cd: `org.apache.tomee.itests.client` :left_right_arrow: `org.apache.tomee:openejb-itests-client:8.0.0-M2`
-- :cd: `org.apache.tomee.itests.interceptors` :left_right_arrow: `org.apache.tomee:openejb-itests-interceptor-beans:8.0.0-M2`
-- :cd: `org.apache.tomee.itests.servlets` :left_right_arrow: `org.apache.tomee:openejb-itests-servlets:8.0.0-M2`
-- :cd: `org.apache.tomee.microprofile.jwt` :left_right_arrow: `org.apache.tomee:mp-jwt:8.0.0-M2`
-- :cd: `org.apache.tomee.server.activemq` :left_right_arrow: `org.apache.tomee:openejb-activemq:8.0.0-M2`
-- :cd: `org.apache.tomee.server.axis` :left_right_arrow: `org.apache.tomee:openejb-axis:8.0.0-M2`
-- :cd: `org.apache.tomee.server.bonecp` :left_right_arrow: `org.apache.tomee:openejb-bonecp:8.0.0-M2`
-- :cd: `org.apache.tomee.server.client` :left_right_arrow: `org.apache.tomee:openejb-client:8.0.0-M2`
-- :cd: `org.apache.tomee.server.common.cli` :left_right_arrow: `org.apache.tomee:openejb-common-cli:8.0.0-M2`
-- :cd: `org.apache.tomee.server.core` :left_right_arrow: `org.apache.tomee:openejb-server:8.0.0-M2`
-- :cd: `org.apache.tomee.server.cxf` :left_right_arrow: `org.apache.tomee:openejb-cxf:8.0.0-M2`
-- :cd: `org.apache.tomee.server.cxf.rs` :left_right_arrow: `org.apache.tomee:openejb-cxf-rs:8.0.0-M2`
-- :cd: `org.apache.tomee.server.cxf.transport` :left_right_arrow: `org.apache.tomee:openejb-cxf-transport:8.0.0-M2`
-- :cd: `org.apache.tomee.server.daemon` :left_right_arrow: `org.apache.tomee:openejb-daemon:8.0.0-M2`
-- :cd: `org.apache.tomee.server.derbynet` :left_right_arrow: `org.apache.tomee:openejb-derbynet:8.0.0-M2`
-- :cd: `org.apache.tomee.server.ejbd` :left_right_arrow: `org.apache.tomee:openejb-ejbd:8.0.0-M2`
-- :cd: `org.apache.tomee.server.hessian` :left_right_arrow: `org.apache.tomee:openejb-hessian:8.0.0-M2`
-- :cd: `org.apache.tomee.server.hsql` :left_right_arrow: `org.apache.tomee:openejb-hsql:8.0.0-M2`
-- :cd: `org.apache.tomee.server.http` :left_right_arrow: `org.apache.tomee:openejb-http:8.0.0-M2`
-- :cd: `org.apache.tomee.server.multicast` :left_right_arrow: `org.apache.tomee:openejb-multicast:8.0.0-M2`
-- :cd: `org.apache.tomee.server.rest` :left_right_arrow: `org.apache.tomee:openejb-rest:8.0.0-M2`
-- :cd: `org.apache.tomee.server.ssh` :left_right_arrow: `org.apache.tomee:openejb-ssh:8.0.0-M2`
-- :cd: `org.apache.tomee.server.webservices` :left_right_arrow: `org.apache.tomee:openejb-webservices:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.catalina` :left_right_arrow: `org.apache.tomee:tomee-catalina:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.common` :left_right_arrow: `org.apache.tomee:tomee-common:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.config` :left_right_arrow: `org.apache.tomee:tomee-config:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.jaxrs` :left_right_arrow: `org.apache.tomee:tomee-jaxrs:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.jdbc` :left_right_arrow: `org.apache.tomee:tomee-jdbc:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.juli` :left_right_arrow: `org.apache.tomee:tomee-juli:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.loader` :left_right_arrow: `org.apache.tomee:tomee-loader:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.mojorra` :left_right_arrow: `org.apache.tomee:tomee-mojarra:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.myfaces` :left_right_arrow: `org.apache.tomee:tomee-myfaces:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.overlay.runner` :left_right_arrow: `org.apache.tomee:tomee-overlay-runner:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.tomee` :left_right_arrow: `org.apache.tomee:apache-tomee:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.util` :left_right_arrow: `org.apache.tomee:tomee-util:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.webapp` :left_right_arrow: `org.apache.tomee:tomee-webapp:8.0.0-M2`
-- :cd: `org.apache.tomee.tomee.webservices` :left_right_arrow: `org.apache.tomee:tomee-webservices:8.0.0-M2`
-- :cd: `org.apache.tomee.util.eclipselink` :left_right_arrow: `org.apache.tomee:openejb-core-eclipselink:8.0.0-M2`
-- :cd: `org.apache.tomee.util.livereload` :left_right_arrow: `org.apache.tomee:livereload-tomee:8.0.0-M2`
-- :cd: `org.apache.tomee.util.log4j2` :left_right_arrow: `org.apache.tomee:log4j2-tomee:8.0.0-M2`
-- :cd: `org.apache.tomee.util.mockito` :left_right_arrow: `org.apache.tomee:openejb-mockito:8.0.0-M2`
-- :cd: `org.apache.tomee.util.provisionning` :left_right_arrow: `org.apache.tomee:openejb-provisionning:8.0.0-M2`
-- :cd: `org.apache.tomee.webdeployer` :left_right_arrow: `org.apache.tomee:webdeployer:8.0.0-M2`
+- :cd: `org.apache.tomee.arquillian.common` :left_right_arrow: `org.apache.tomee:arquillian-common:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.openejb.embedded` :left_right_arrow: `org.apache.tomee:arquillian-openejb-embedded:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.openejb.transaction.provider` :left_right_arrow: `org.apache.tomee:arquillian-openejb-transaction-provider:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.tck` :left_right_arrow: `org.apache.tomee:arquillian-tck:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.tomee.common` :left_right_arrow: `org.apache.tomee:arquillian-tomee-common:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.tomee.embedded` :left_right_arrow: `org.apache.tomee:arquillian-tomee-embedded:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.tomee.remote` :left_right_arrow: `org.apache.tomee:arquillian-tomee-remote:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.tomee.webapp.remote` :left_right_arrow: `org.apache.tomee:arquillian-tomee-webapp-remote:8.0.0-M3`
+- :cd: `org.apache.tomee.arquillian.ziplock` :left_right_arrow: `org.apache.tomee:ziplock:8.0.0-M3`
+- :cd: `org.apache.tomee.container.api` :left_right_arrow: `org.apache.tomee:openejb-api:8.0.0-M3`
+- :cd: `org.apache.tomee.container.core` :left_right_arrow: `org.apache.tomee:openejb-core:8.0.0-M3`
+- :cd: `org.apache.tomee.container.javaagent` :left_right_arrow: `org.apache.tomee:openejb-javaagent:8.0.0-M3`
+- :cd: `org.apache.tomee.container.jee.accessors` :left_right_arrow: `org.apache.tomee:openejb-jee-accessors:8.0.0-M3`
+- :cd: `org.apache.tomee.container.jpa` :left_right_arrow: `org.apache.tomee:openejb-jpa-integration:8.0.0-M3`
+- :cd: `org.apache.tomee.container.junit` :left_right_arrow: `org.apache.tomee:openejb-junit:8.0.0-M3`
+- :cd: `org.apache.tomee.container.loader` :left_right_arrow: `org.apache.tomee:openejb-loader:8.0.0-M3`
+- :cd: `org.apache.tomee.container.mbean.api` :left_right_arrow: `org.apache.tomee:mbean-annotation-api:8.0.0-M3`
+- :cd: `org.apache.tomee.itests.beans` :left_right_arrow: `org.apache.tomee:openejb-itests-beans:8.0.0-M3`
+- :cd: `org.apache.tomee.itests.client` :left_right_arrow: `org.apache.tomee:openejb-itests-client:8.0.0-M3`
+- :cd: `org.apache.tomee.itests.failover` :left_right_arrow: `org.apache.tomee:tomee-server-composer:8.0.0-M3`
+- :cd: `org.apache.tomee.itests.interceptors` :left_right_arrow: `org.apache.tomee:openejb-itests-interceptor-beans:8.0.0-M3`
+- :cd: `org.apache.tomee.itests.servlets` :left_right_arrow: `org.apache.tomee:openejb-itests-servlets:8.0.0-M3`
+- :cd: `org.apache.tomee.microprofile.jwt` :left_right_arrow: `org.apache.tomee:mp-jwt:8.0.0-M3`
+- :cd: `org.apache.tomee.server.activemq` :left_right_arrow: `org.apache.tomee:openejb-activemq:8.0.0-M3`
+- :cd: `org.apache.tomee.server.axis` :left_right_arrow: `org.apache.tomee:openejb-axis:8.0.0-M3`
+- :cd: `org.apache.tomee.server.bonecp` :left_right_arrow: `org.apache.tomee:openejb-bonecp:8.0.0-M3`
+- :cd: `org.apache.tomee.server.client` :left_right_arrow: `org.apache.tomee:openejb-client:8.0.0-M3`
+- :cd: `org.apache.tomee.server.common.cli` :left_right_arrow: `org.apache.tomee:openejb-common-cli:8.0.0-M3`
+- :cd: `org.apache.tomee.server.core` :left_right_arrow: `org.apache.tomee:openejb-server:8.0.0-M3`
+- :cd: `org.apache.tomee.server.cxf` :left_right_arrow: `org.apache.tomee:openejb-cxf:8.0.0-M3`
+- :cd: `org.apache.tomee.server.cxf.rs` :left_right_arrow: `org.apache.tomee:openejb-cxf-rs:8.0.0-M3`
+- :cd: `org.apache.tomee.server.cxf.transport` :left_right_arrow: `org.apache.tomee:openejb-cxf-transport:8.0.0-M3`
+- :cd: `org.apache.tomee.server.daemon` :left_right_arrow: `org.apache.tomee:openejb-daemon:8.0.0-M3`
+- :cd: `org.apache.tomee.server.derbynet` :left_right_arrow: `org.apache.tomee:openejb-derbynet:8.0.0-M3`
+- :cd: `org.apache.tomee.server.ejbd` :left_right_arrow: `org.apache.tomee:openejb-ejbd:8.0.0-M3`
+- :cd: `org.apache.tomee.server.hessian` :left_right_arrow: `org.apache.tomee:openejb-hessian:8.0.0-M3`
+- :cd: `org.apache.tomee.server.hsql` :left_right_arrow: `org.apache.tomee:openejb-hsql:8.0.0-M3`
+- :cd: `org.apache.tomee.server.http` :left_right_arrow: `org.apache.tomee:openejb-http:8.0.0-M3`
+- :cd: `org.apache.tomee.server.multicast` :left_right_arrow: `org.apache.tomee:openejb-multicast:8.0.0-M3`
+- :cd: `org.apache.tomee.server.rest` :left_right_arrow: `org.apache.tomee:openejb-rest:8.0.0-M3`
+- :cd: `org.apache.tomee.server.ssh` :left_right_arrow: `org.apache.tomee:openejb-ssh:8.0.0-M3`
+- :cd: `org.apache.tomee.server.webservices` :left_right_arrow: `org.apache.tomee:openejb-webservices:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.catalina` :left_right_arrow: `org.apache.tomee:tomee-catalina:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.common` :left_right_arrow: `org.apache.tomee:tomee-common:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.config` :left_right_arrow: `org.apache.tomee:tomee-config:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.jaxrs` :left_right_arrow: `org.apache.tomee:tomee-jaxrs:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.jdbc` :left_right_arrow: `org.apache.tomee:tomee-jdbc:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.juli` :left_right_arrow: `org.apache.tomee:tomee-juli:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.loader` :left_right_arrow: `org.apache.tomee:tomee-loader:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.mojorra` :left_right_arrow: `org.apache.tomee:tomee-mojarra:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.myfaces` :left_right_arrow: `org.apache.tomee:tomee-myfaces:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.overlay.runner` :left_right_arrow: `org.apache.tomee:tomee-overlay-runner:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.tomee` :left_right_arrow: `org.apache.tomee:apache-tomee:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.util` :left_right_arrow: `org.apache.tomee:tomee-util:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.webapp` :left_right_arrow: `org.apache.tomee:tomee-webapp:8.0.0-M3`
+- :cd: `org.apache.tomee.tomee.webservices` :left_right_arrow: `org.apache.tomee:tomee-webservices:8.0.0-M3`
+- :cd: `org.apache.tomee.util.eclipselink` :left_right_arrow: `org.apache.tomee:openejb-core-eclipselink:8.0.0-M3`
+- :cd: `org.apache.tomee.util.livereload` :left_right_arrow: `org.apache.tomee:livereload-tomee:8.0.0-M3`
+- :cd: `org.apache.tomee.util.log4j2` :left_right_arrow: `org.apache.tomee:log4j2-tomee:8.0.0-M3`
+- :cd: `org.apache.tomee.util.mockito` :left_right_arrow: `org.apache.tomee:openejb-mockito:8.0.0-M3`
+- :cd: `org.apache.tomee.util.provisionning` :left_right_arrow: `org.apache.tomee:openejb-provisionning:8.0.0-M3`
+- :cd: `org.apache.tomee.webdeployer` :left_right_arrow: `org.apache.tomee:webdeployer:8.0.0-M3`
 - :cd: `org.apache.wicket.cdi` :left_right_arrow: `org.apache.wicket:wicket-cdi:9.0.0-M1`
 - :cd: `org.apache.wicket.core` :left_right_arrow: `org.apache.wicket:wicket-core:9.0.0-M1`
 - :cd: `org.apache.wicket.devutils` :left_right_arrow: `org.apache.wicket:wicket-devutils:9.0.0-M1`
@@ -2718,10 +2722,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.daisy.dotify.tasks` :left_right_arrow: `org.daisy.dotify:dotify.task.impl:4.7.0`
 - :cd: `org.daisy.dotify.text` :left_right_arrow: `org.daisy.dotify:dotify.text.impl:5.0.0`
 - :cd: `org.daisy.dotify.translator` :left_right_arrow: `org.daisy.dotify:dotify.translator.impl:5.0.0`
-- :cd: `org.daisy.streamline.api` :left_right_arrow: `org.daisy.streamline:streamline-api:1.4.0`
+- :cd: `org.daisy.streamline.api` :left_right_arrow: `org.daisy.streamline:streamline-api:1.5.0`
 - :cd: `org.daisy.streamline.cli` :left_right_arrow: `org.daisy.streamline:streamline-cli:1.0.0`
-- :cd: `org.daisy.streamline.engine` :left_right_arrow: `org.daisy.streamline:streamline-engine:1.2.0`
-- :cd: `org.daisy.streamline.formats` :left_right_arrow: `org.daisy.streamline:format-catalog:1.0.0`
+- :cd: `org.daisy.streamline.engine` :left_right_arrow: `org.daisy.streamline:streamline-engine:1.3.0`
+- :cd: `org.daisy.streamline.formats` :left_right_arrow: `org.daisy.streamline:format-catalog:1.1.0`
 - :cd: `org.dalesbred` :left_right_arrow: `org.dalesbred:dalesbred:1.3.0`
 - :cd: `org.dalesbred.junit` :left_right_arrow: `org.dalesbred:dalesbred-junit:1.3.0`
 - :cd: `org.datanucleus` :left_right_arrow: `org.datanucleus:datanucleus-core:5.2.1`
@@ -3062,27 +3066,27 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.1`
 - :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.1`
 - :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.1`
-- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M2`
-- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M2`
-- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M2`
-- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.18.0.M2`
-- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.18.0.M2`
-- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.18.0.M2`
-- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.18.0.M2`
-- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.18.0.M2`
-- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.18.0.M2`
-- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.18.0.M2`
-- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.18.0.M2`
-- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.18.0.M2`
-- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.18.0.M2`
-- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.18.0.M2`
+- :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.18.0.M3`
+- :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.18.0.M3`
+- :cd: `org.eclipse.xtend.lib.macro` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.macro:2.18.0.M3`
+- :cd: `org.eclipse.xtext` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext:2.18.0.M3`
+- :cd: `org.eclipse.xtext.builder.standalone` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.builder.standalone:2.18.0.M3`
+- :cd: `org.eclipse.xtext.common.types` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.common.types:2.18.0.M3`
+- :cd: `org.eclipse.xtext.ecore` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ecore:2.18.0.M3`
+- :cd: `org.eclipse.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.generator:2.18.0.M3`
+- :cd: `org.eclipse.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.ide:2.18.0.M3`
+- :cd: `org.eclipse.xtext.java` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.java:2.18.0.M3`
+- :cd: `org.eclipse.xtext.smap` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.smap:2.18.0.M3`
+- :cd: `org.eclipse.xtext.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.testing:2.18.0.M3`
+- :cd: `org.eclipse.xtext.util` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.util:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xbase` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xbase.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.ide:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xbase.lib` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xbase.lib.gwt` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.lib.gwt:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xbase.testing` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xbase.testing:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xtext.generator` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.generator:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.18.0.M3`
+- :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.18.0.M3`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.3`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.9`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta`
@@ -3540,7 +3544,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.microbean.narayana.cdi` :left_right_arrow: `org.microbean:microbean-narayana-jta-cdi:0.3.0`
 - :cd: `org.microbean.narayana.jta.openwebbeans` :left_right_arrow: `org.microbean:microbean-narayana-jta-openwebbeans:0.1.1`
 - :cd: `org.microbean.narayana.jta.weld.se` :left_right_arrow: `org.microbean:microbean-narayana-jta-weld-se:0.2.4`
-- :cd: `org.mockito` :left_right_arrow: `org.mockito:mockito-core:2.27.0`
+- :cd: `org.mockito` :left_right_arrow: `org.mockito:mockito-core:2.28.2`
 - :cd: `org.mongodb.bson` :left_right_arrow: `org.mongodb:bson:3.11.0-beta3`
 - :cd: `org.mongodb.driver.async.client` :left_right_arrow: `org.mongodb:mongodb-driver-async:3.11.0-beta3`
 - :cd: `org.mongodb.driver.core` :left_right_arrow: `org.mongodb:mongodb-driver-core:3.11.0-beta3`
@@ -3782,9 +3786,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reaktivity.nukleus.echo` :left_right_arrow: `org.reaktivity:nukleus-echo:0.6`
 - :cd: `org.reaktivity.nukleus.fan` :left_right_arrow: `org.reaktivity:nukleus-fan:0.7`
 - :cd: `org.reaktivity.nukleus.flow` :left_right_arrow: `org.reaktivity:nukleus-flow:0.5`
-- :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.82`
-- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.88`
-- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.98`
+- :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.83`
+- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.89`
+- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.99`
 - :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.154`
 - :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.44`
 - :cd: `org.reaktivity.nukleus.tcp` :left_right_arrow: `org.reaktivity:nukleus-tcp:0.78`
