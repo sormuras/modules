@@ -3707,19 +3707,28 @@
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.6.0` // `de.carne.common,java-default,8.6.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.7.0` // `de.carne.common,java-default,8.7.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.8.0` // `de.carne.common,java-default,8.8.0,de.carne,-,automatic,-,false,-`
+- :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.9.0` // `de.carne.common,java-default,8.9.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne.boot` :left_right_arrow: `de.carne.common:java-boot:2.5.0` // `de.carne.common,java-boot,2.5.0,de.carne.boot,-,automatic,-,false,-`
 - :cd: `de.carne.boot` :left_right_arrow: `de.carne.common:java-boot:2.6.0` // `de.carne.common,java-boot,2.6.0,de.carne.boot,-,automatic,-,false,-`
 - :cd: `de.carne.boot` :left_right_arrow: `de.carne.common:java-boot:2.7.0` // `de.carne.common,java-boot,2.7.0,de.carne.boot,-,automatic,-,false,-`
+- :cd: `de.carne.boot` :left_right_arrow: `de.carne.common:java-boot:2.8.0` // `de.carne.common,java-boot,2.8.0,de.carne.boot,-,automatic,-,false,-`
 - :cd: `de.carne.compression` :left_right_arrow: `de.carne.common:java-compression:4.0.0` // `de.carne.common,java-compression,4.0.0,de.carne.compression,-,automatic,-,false,-`
 - :cd: `de.carne.compression` :left_right_arrow: `de.carne.common:java-compression:4.1.0` // `de.carne.common,java-compression,4.1.0,de.carne.compression,-,automatic,-,false,-`
+- :cd: `de.carne.compression` :left_right_arrow: `de.carne.common:java-compression:4.2.0` // `de.carne.common,java-compression,4.2.0,de.carne.compression,-,automatic,-,false,-`
 - :cd: `de.carne.security` :left_right_arrow: `de.carne.common:java-security:1.0.0` // `de.carne.common,java-security,1.0.0,de.carne.security,-,automatic,-,false,-`
 - :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-cocoa-macosx-x86_64:3.0.0` // `de.carne.common,java-swt-cocoa-macosx-x86_64,3.0.0,de.carne.swt,-,automatic,-,false,-`
+- :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-cocoa-macosx-x86_64:3.1.0` // `de.carne.common,java-swt-cocoa-macosx-x86_64,3.1.0,de.carne.swt,-,automatic,-,false,-`
 - :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-gtk-linux-x86_64:3.0.0` // `de.carne.common,java-swt-gtk-linux-x86_64,3.0.0,de.carne.swt,-,automatic,-,false,-`
+- :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-gtk-linux-x86_64:3.1.0` // `de.carne.common,java-swt-gtk-linux-x86_64,3.1.0,de.carne.swt,-,automatic,-,false,-`
 - :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-win32-win32-x86_64:3.0.0` // `de.carne.common,java-swt-win32-win32-x86_64,3.0.0,de.carne.swt,-,automatic,-,false,-`
+- :cd: `de.carne.swt` :left_right_arrow: `de.carne.common:java-swt-win32-win32-x86_64:3.1.0` // `de.carne.common,java-swt-win32-win32-x86_64,3.1.0,de.carne.swt,-,automatic,-,false,-`
 - :cd: `de.carne.test` :left_right_arrow: `de.carne.common:java-test:1.1.0` // `de.carne.common,java-test,1.1.0,de.carne.test,-,automatic,-,false,-`
 - :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-cocoa-macosx-x86_64:3.0.0` // `de.carne.common,java-test-swt-cocoa-macosx-x86_64,3.0.0,de.carne.test.swt,-,automatic,-,false,-`
+- :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-cocoa-macosx-x86_64:3.1.0` // `de.carne.common,java-test-swt-cocoa-macosx-x86_64,3.1.0,de.carne.test.swt,-,automatic,-,false,-`
 - :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-gtk-linux-x86_64:3.0.0` // `de.carne.common,java-test-swt-gtk-linux-x86_64,3.0.0,de.carne.test.swt,-,automatic,-,false,-`
+- :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-gtk-linux-x86_64:3.1.0` // `de.carne.common,java-test-swt-gtk-linux-x86_64,3.1.0,de.carne.test.swt,-,automatic,-,false,-`
 - :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-win32-win32-x86_64:3.0.0` // `de.carne.common,java-test-swt-win32-win32-x86_64,3.0.0,de.carne.test.swt,-,automatic,-,false,-`
+- :cd: `de.carne.test.swt` :left_right_arrow: `de.carne.common:java-test-swt-win32-win32-x86_64:3.1.0` // `de.carne.common,java-test-swt-win32-win32-x86_64,3.1.0,de.carne.test.swt,-,automatic,-,false,-`
 - :dvd: `de.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:1.7.6` // `io.github.factoryfx,copperBridge,1.7.6,de.factoryfx.copperBridge,-,explicit,de.factoryfx.data + de.factoryfx.factory + java.base + org.copperengine.core + org.copperengine.ext,false,-`
 - :dvd: `de.factoryfx.data` :left_right_arrow: `io.github.factoryfx:data:1.7.6` // `io.github.factoryfx,data,1.7.6,de.factoryfx.data,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.datatype.jdk8 + com.fasterxml.jackson.datatype.jsr310 + com.google.common + jackson.annotations + java.base,false,-`
 - :dvd: `de.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:1.7.6` // `io.github.factoryfx,factory,1.7.6,de.factoryfx.factory,-,explicit,com.google.common + de.factoryfx.data + jackson.annotations + java.base + org.slf4j,false,-`
@@ -8191,6 +8200,7 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `com.infotel.seleniumRobot:core:4.2.2` // `com.infotel.seleniumRobot,core,4.2.2,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `com.infotel.seleniumRobot:core:4.3.0` // `com.infotel.seleniumRobot,core,4.3.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `io.sitoolkit.wt:sit-wt-app:3.0.0-alpha.2` // `io.sitoolkit.wt,sit-wt-app,3.0.0-alpha.2,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `io.sitoolkit.wt:sit-wt-app:3.0.0-beta.1` // `io.sitoolkit.wt,sit-wt-app,3.0.0-beta.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:3.14.0` // `org.seleniumhq.selenium,selenium-api,3.14.0,org.openqa.selenium.core,-,explicit,java.logging + java.base,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:3.141.0` // `org.seleniumhq.selenium,selenium-api,3.141.0,org.openqa.selenium.core,-,explicit,java.logging + java.base,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:3.141.5` // `org.seleniumhq.selenium,selenium-api,3.141.5,org.openqa.selenium.core,-,explicit,java.logging + java.base,false,-`
@@ -8213,6 +8223,7 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:12.0.4` // `ru.sbtqa.tag.pagefactory,page-factory-core,12.0.4,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.1` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.1,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.2` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.2,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.14.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.14.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,true,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.5` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.5,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
