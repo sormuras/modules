@@ -881,6 +881,8 @@
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_sjs0.6_2.11:0.1.6` // `com.lihaoyi,sourcecode_sjs0.6_2.11,0.1.6,com.lihaoyi.sourcecode,-,automatic,-,false,-`
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_sjs0.6_2.12:0.1.6` // `com.lihaoyi,sourcecode_sjs0.6_2.12,0.1.6,com.lihaoyi.sourcecode,-,automatic,-,false,-`
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_sjs0.6_2.13.0-RC1:0.1.6` // `com.lihaoyi,sourcecode_sjs0.6_2.13.0-RC1,0.1.6,com.lihaoyi.sourcecode,-,automatic,-,false,-`
+- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:jarexec.plugin:0.4.9` // `com.lingocoder,jarexec.plugin,0.4.9,com.lingocoder.core,-,automatic,-,true,-`
+- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:jarexec.plugin:0.5.0` // `com.lingocoder,jarexec.plugin,0.5.0,com.lingocoder.core,-,automatic,-,true,-`
 - :dvd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.jwebmp.jpms.sqlserver:mssql-jdbc:0.67.0.12` // `com.jwebmp.jpms.sqlserver,mssql-jdbc,0.67.0.12,com.microsoft.sqlserver.jdbc,0.67.0.12,explicit,adal4j + azure.client.runtime + azure.keyvault + azure.keyvault.webkey + client.runtime + java.base + java.naming + java.security.jgss + java.sql + okhttp3 + retrofit2,false,-`
 - :dvd: `com.nexitia.emaginplatform.coreview.definition` :left_right_arrow: `com.nexitia.emaginplatform:emagin-jfxcore-viewdefinition-json:11.1` // `com.nexitia.emaginplatform,emagin-jfxcore-viewdefinition-json,11.1,com.nexitia.emaginplatform.coreview.definition,-,explicit,java.base,false,-`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.10` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.10,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -1904,6 +1906,7 @@
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.2` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.2.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.2.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -1914,8 +1917,10 @@
 - :cd: `net.kyori.event` :left_right_arrow: `net.kyori:event-api:3.0.0` // `net.kyori,event-api,3.0.0,net.kyori.event,-,automatic,-,false,-`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:2.0.0` // `net.kyori,text-api,2.0.0,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:3.0.0` // `net.kyori,text-api,3.0.0,net.kyori.text,-,automatic,-,false,-`
+- :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text-api:3.0.1` // `net.kyori,text-api,3.0.1,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta1` // `net.morimekta.providence,providence-testing-junit4,2.0-beta1,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta3` // `net.morimekta.providence,providence-testing-junit4,2.0-beta3,net.morimekta.providence.testing,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta4` // `net.morimekta.providence,providence-testing-junit4,2.0-beta4,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`

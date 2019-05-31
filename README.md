@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4265 Java modules published at Maven Central
+Counted 4266 Java modules published at Maven Central
 
-## Summary 2019-05-30T22:24:29.946296Z
+## Summary 2019-05-31T22:25:12.754945Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-30T22:24:29.946296Z
-Scanned 22,473 files in 3 seconds.
+Started scan at 2019-05-31T22:25:12.754945Z
+Scanned 22,548 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_30_22_10_30.csv
+    last -> modulescanner-report-2019_05_31_21_58_07.csv
 
-Parsed 1,404,286 lines in total.
-  26,358 -> captions skipped
-  85,879 -> duplicates skipped
-  54,636 -> module related
+Parsed 1,411,416 lines in total.
+  26,433 -> captions skipped
+  86,149 -> duplicates skipped
+  54,734 -> module related
 
-Collected 4,265 unique modules.
+Collected 4,266 unique modules.
   automatic :cd: -> 3,312
-  explicit :dvd: -> 953
+  explicit :dvd: -> 954
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5560](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10239](suspicious/naming.md)
-- Modular impostors: [2752](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10299](suspicious/naming.md)
+- Modular impostors: [2757](suspicious/impostors.md)
 
-## Unique Modules (4265)
+## Unique Modules (4266)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -325,7 +325,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC4`
 - :cd: `com.esotericsoftware.minlog` :left_right_arrow: `com.esotericsoftware:minlog:1.3.1`
 - :cd: `com.esotericsoftware.reflectasm` :left_right_arrow: `com.esotericsoftware:reflectasm:1.11.9`
-- :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.0`
+- :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.1`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
 - :cd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.9.9`
 - :cd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.9.9`
@@ -407,9 +407,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
-- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.17`
-- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.17`
-- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.17`
+- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.18`
+- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.18`
+- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.18`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.0-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
@@ -458,7 +458,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.0`
 - :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.0`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
-- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.0.0`
+- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.0.1`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.3`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.0`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.0`
@@ -839,7 +839,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
 - :dvd: `com.jamesratzlaff.bitmanip` :left_right_arrow: `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` :left_right_arrow: `com.jamesratzlaff:byte-functions:2019.04.01`
-- :dvd: `com.jfoenix` :left_right_arrow: `com.jfoenix:jfoenix:9.0.8`
+- :dvd: `com.jfoenix` :left_right_arrow: `com.jfoenix:jfoenix:9.0.9`
 - :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.5`
 - :dvd: `com.jongsoft.lang.collection` :left_right_arrow: `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` :left_right_arrow: `com.jongsoft.lang:commons:0.0.2`
@@ -959,7 +959,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.0`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.0`
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.6`
-- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.4.9`
+- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.0`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.0.jre11-preview`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.2.1`
@@ -1995,31 +1995,31 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.regionfile` :left_right_arrow: `net.kyori:regionfile:1.0.1`
 - :cd: `net.kyori.storm` :left_right_arrow: `net.kyori:storm:1.0.0`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text:1.12-1.6.5`
-- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:3.0.0`
-- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:3.0.0`
-- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:3.0.0`
+- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:3.0.1`
+- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:3.0.1`
+- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:3.0.1`
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
-- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:2.0-beta3`
-- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:2.0-beta3`
-- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:2.0-beta3`
-- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:2.0-beta3`
-- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:2.0-beta3`
-- :cd: `net.morimekta.providence.graphql` :left_right_arrow: `net.morimekta.providence:providence-graphql:2.0-beta3`
-- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:2.0-beta3`
-- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:2.0-beta3`
-- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:2.0-beta3`
-- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:2.0-beta3`
-- :cd: `net.morimekta.providence.logging` :left_right_arrow: `net.morimekta.providence:providence-logging:2.0-beta3`
-- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:2.0-beta3`
-- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:2.0-beta3`
-- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:2.0-beta3`
-- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:2.0-beta3`
-- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:2.0-beta3`
-- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:2.0-beta3`
-- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:2.0-beta3`
-- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:2.0-beta3`
+- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:2.0-beta4`
+- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:2.0-beta4`
+- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:2.0-beta4`
+- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:2.0-beta4`
+- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:2.0-beta4`
+- :cd: `net.morimekta.providence.graphql` :left_right_arrow: `net.morimekta.providence:providence-graphql:2.0-beta4`
+- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:2.0-beta4`
+- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:2.0-beta4`
+- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:2.0-beta4`
+- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:2.0-beta4`
+- :cd: `net.morimekta.providence.logging` :left_right_arrow: `net.morimekta.providence:providence-logging:2.0-beta4`
+- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:2.0-beta4`
+- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:2.0-beta4`
+- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:2.0-beta4`
+- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:2.0-beta4`
+- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:2.0-beta4`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:2.0-beta4`
+- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:2.0-beta4`
+- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:2.0-beta4`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8-osgi:1.4.1`
 - :cd: `net.objectlab.kit.datecalc.common` :left_right_arrow: `net.objectlab.kit:datecalc-common:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
@@ -2736,6 +2736,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.daisy.streamline.formats` :left_right_arrow: `org.daisy.streamline:format-catalog:1.1.0`
 - :cd: `org.dalesbred` :left_right_arrow: `org.dalesbred:dalesbred:1.3.0`
 - :cd: `org.dalesbred.junit` :left_right_arrow: `org.dalesbred:dalesbred-junit:1.3.0`
+- :dvd: `org.danekja.jdk.serializable.functional` :left_right_arrow: `org.danekja:jdk-serializable-functional:1.9.0`
 - :cd: `org.datanucleus` :left_right_arrow: `org.datanucleus:datanucleus-core:5.2.1`
 - :cd: `org.datanucleus.api.jdo` :left_right_arrow: `org.datanucleus:datanucleus-api-jdo:5.2.1`
 - :cd: `org.datanucleus.api.jpa` :left_right_arrow: `org.datanucleus:datanucleus-api-jpa:5.2.0-release`
@@ -3801,7 +3802,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.154`
 - :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.44`
 - :cd: `org.reaktivity.nukleus.tcp` :left_right_arrow: `org.reaktivity:nukleus-tcp:0.78`
-- :cd: `org.reaktivity.nukleus.tls` :left_right_arrow: `org.reaktivity:nukleus-tls:0.99`
+- :cd: `org.reaktivity.nukleus.tls` :left_right_arrow: `org.reaktivity:nukleus-tls:0.100`
 - :cd: `org.reaktivity.nukleus.ws` :left_right_arrow: `org.reaktivity:nukleus-ws:0.63`
 - :cd: `org.reaktivity.reaktor` :left_right_arrow: `org.reaktivity:reaktor:0.92`
 - :cd: `org.refcodes.boulderdash` :left_right_arrow: `org.refcodes:refcodes-boulderdash:2.0.1`
@@ -3936,8 +3937,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:1.8.0-beta4`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:1.8.0-beta4`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:1.8.0-beta4`
-- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.1.0`
-- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.0`
+- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.2.0`
+- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.1`
 - :cd: `org.softsmithy.devlib.core` :left_right_arrow: `org.softsmithy.devlib:softsmithy-devlib-core:2.0`
 - :cd: `org.softsmithy.lib.awt` :left_right_arrow: `org.softsmithy.lib:softsmithy-lib-awt:2.0`
 - :cd: `org.softsmithy.lib.beans` :left_right_arrow: `org.softsmithy.lib:softsmithy-lib-beans:2.0`
