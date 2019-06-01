@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4266 Java modules published at Maven Central
+Counted 4267 Java modules published at Maven Central
 
-## Summary 2019-05-31T22:25:12.754945Z
+## Summary 2019-06-01T11:59:54.165133Z
 
 ```
 ## Summary
 
-Started scan at 2019-05-31T22:25:12.754945Z
-Scanned 22,548 files in 3 seconds.
+Started scan at 2019-06-01T11:59:54.165133Z
+Scanned 22,578 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_05_31_21_58_07.csv
+    last -> modulescanner-report-2019_06_01_11_50_15.csv
 
-Parsed 1,411,416 lines in total.
-  26,433 -> captions skipped
-  86,149 -> duplicates skipped
-  54,734 -> module related
+Parsed 1,413,538 lines in total.
+  26,463 -> captions skipped
+  86,158 -> duplicates skipped
+  54,740 -> module related
 
-Collected 4,266 unique modules.
+Collected 4,267 unique modules.
   automatic :cd: -> 3,312
-  explicit :dvd: -> 954
+  explicit :dvd: -> 955
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5560](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10299](suspicious/naming.md)
-- Modular impostors: [2757](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10248](suspicious/naming.md)
+- Modular impostors: [2808](suspicious/impostors.md)
 
-## Unique Modules (4266)
+## Unique Modules (4267)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1855,6 +1855,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ytcode.pathfinding` :left_right_arrow: `io.ytcode:pathfinding:1.4.0`
 - :cd: `it.unimi.dsi.fastutil` :left_right_arrow: `it.unimi.dsi:fastutil:8.2.2`
 - :cd: `jakarta.activation` :left_right_arrow: `jakarta.activation:jakarta.activation-api:1.2.1`
+- :dvd: `java.json` :left_right_arrow: `javax.json:javax.json-api:1.1.4`
 - :cd: `javafx.baseEmpty` :left_right_arrow: `org.openjfx:javafx-base:13-ea+8`
 - :cd: `javafx.controlsEmpty` :left_right_arrow: `org.openjfx:javafx-controls:13-ea+8`
 - :cd: `javafx.fxmlEmpty` :left_right_arrow: `org.openjfx:javafx-fxml:13-ea+8`
@@ -1978,9 +1979,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.javacrumbs.shedlock.provider.redis.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-redis-spring:2.5.0`
 - :cd: `net.javacrumbs.shedlock.provider.zookeeper.curator` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-zookeeper-curator:2.5.0`
 - :cd: `net.javacrumbs.shedlock.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-spring:2.5.0`
-- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.4`
-- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.4`
-- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.4`
+- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.5`
+- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.5`
+- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.5`
 - :cd: `net.kyori.ana` :left_right_arrow: `net.kyori:ana:1.0.0`
 - :cd: `net.kyori.blizzard` :left_right_arrow: `net.kyori:blizzard:1.0.5`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
@@ -3301,7 +3302,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` :left_right_arrow: `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.14`
+- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.15`
 - :cd: `org.jooq` :left_right_arrow: `org.jooq:jooq:3.11.11`
 - :cd: `org.jooq.checker` :left_right_arrow: `org.jooq:jooq-checker:3.11.11`
 - :cd: `org.jooq.codegen` :left_right_arrow: `org.jooq:jooq-codegen:3.11.11`
