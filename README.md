@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4267 Java modules published at Maven Central
 
-## Summary 2019-06-01T11:59:54.165133Z
+## Summary 2019-06-01T22:25:26.706759Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-01T11:59:54.165133Z
-Scanned 22,578 files in 3 seconds.
+Started scan at 2019-06-01T22:25:26.706759Z
+Scanned 22,608 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_01_11_50_15.csv
+    last -> modulescanner-report-2019_06_01_21_59_00.csv
 
-Parsed 1,413,538 lines in total.
-  26,463 -> captions skipped
-  86,158 -> duplicates skipped
-  54,740 -> module related
+Parsed 1,414,794 lines in total.
+  26,493 -> captions skipped
+  86,172 -> duplicates skipped
+  54,787 -> module related
 
 Collected 4,267 unique modules.
   automatic :cd: -> 3,312
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5560](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10248](suspicious/naming.md)
-- Modular impostors: [2808](suspicious/impostors.md)
+- Invalid module names: [5563](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10249](suspicious/naming.md)
+- Modular impostors: [2826](suspicious/impostors.md)
 
 ## Unique Modules (4267)
 
@@ -2338,32 +2338,32 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.isis.core.wrapper` :left_right_arrow: `org.apache.isis.core:isis-core-wrapper:2.0.0-M1`
 - :cd: `org.apache.isis.tool.mavenplugin` :left_right_arrow: `org.apache.isis.tool:isis-maven-plugin:2.0.0-M2`
 - :cd: `org.apache.ivy` :left_right_arrow: `org.apache.ivy:ivy:2.5.0-rc1`
-- :cd: `org.apache.jena.arq` :left_right_arrow: `org.apache.jena:jena-arq:3.11.0`
-- :cd: `org.apache.jena.base` :left_right_arrow: `org.apache.jena:jena-base:3.11.0`
-- :cd: `org.apache.jena.cmds` :left_right_arrow: `org.apache.jena:jena-cmds:3.11.0`
-- :cd: `org.apache.jena.core` :left_right_arrow: `org.apache.jena:jena-core:3.11.0`
+- :cd: `org.apache.jena.arq` :left_right_arrow: `org.apache.jena:jena-arq:3.12.0`
+- :cd: `org.apache.jena.base` :left_right_arrow: `org.apache.jena:jena-base:3.12.0`
+- :cd: `org.apache.jena.cmds` :left_right_arrow: `org.apache.jena:jena-cmds:3.12.0`
+- :cd: `org.apache.jena.core` :left_right_arrow: `org.apache.jena:jena-core:3.12.0`
 - :cd: `org.apache.jena.csv` :left_right_arrow: `org.apache.jena:jena-csv:3.9.0`
-- :cd: `org.apache.jena.dboe` :left_right_arrow: `org.apache.jena:jena-dboe-base:3.11.0`
-- :cd: `org.apache.jena.dboe.index` :left_right_arrow: `org.apache.jena:jena-dboe-index:3.11.0`
-- :cd: `org.apache.jena.dboe.index.test` :left_right_arrow: `org.apache.jena:jena-dboe-index-test:3.11.0`
-- :cd: `org.apache.jena.dboe.trans.data` :left_right_arrow: `org.apache.jena:jena-dboe-trans-data:3.11.0`
-- :cd: `org.apache.jena.dboe.transaction` :left_right_arrow: `org.apache.jena:jena-dboe-transaction:3.11.0`
-- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-mapreduce:3.11.0`
-- :cd: `org.apache.jena.ext.com.google` :left_right_arrow: `org.apache.jena:jena-shaded-guava:3.11.0`
-- :cd: `org.apache.jena.fuseki.access` :left_right_arrow: `org.apache.jena:jena-fuseki-access:3.11.0`
-- :cd: `org.apache.jena.fuseki.core` :left_right_arrow: `org.apache.jena:jena-fuseki-core:3.11.0`
-- :cd: `org.apache.jena.fuseki.main` :left_right_arrow: `org.apache.jena:jena-fuseki-main:3.11.0`
+- :cd: `org.apache.jena.dboe` :left_right_arrow: `org.apache.jena:jena-dboe-base:3.12.0`
+- :cd: `org.apache.jena.dboe.index` :left_right_arrow: `org.apache.jena:jena-dboe-index:3.12.0`
+- :cd: `org.apache.jena.dboe.index.test` :left_right_arrow: `org.apache.jena:jena-dboe-index-test:3.12.0`
+- :cd: `org.apache.jena.dboe.trans.data` :left_right_arrow: `org.apache.jena:jena-dboe-trans-data:3.12.0`
+- :cd: `org.apache.jena.dboe.transaction` :left_right_arrow: `org.apache.jena:jena-dboe-transaction:3.12.0`
+- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-mapreduce:3.12.0`
+- :cd: `org.apache.jena.ext.com.google` :left_right_arrow: `org.apache.jena:jena-shaded-guava:3.12.0`
+- :cd: `org.apache.jena.fuseki.access` :left_right_arrow: `org.apache.jena:jena-fuseki-access:3.12.0`
+- :cd: `org.apache.jena.fuseki.core` :left_right_arrow: `org.apache.jena:jena-fuseki-core:3.12.0`
+- :cd: `org.apache.jena.fuseki.main` :left_right_arrow: `org.apache.jena:jena-fuseki-main:3.12.0`
 - :cd: `org.apache.jena.fuseki1` :left_right_arrow: `org.apache.jena:jena-fuseki1:3.9.0`
-- :cd: `org.apache.jena.iri` :left_right_arrow: `org.apache.jena:jena-iri:3.11.0`
-- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-remote:3.11.0`
-- :cd: `org.apache.jena.permissions` :left_right_arrow: `org.apache.jena:jena-permissions:3.11.0`
-- :cd: `org.apache.jena.rdfconnection` :left_right_arrow: `org.apache.jena:jena-rdfconnection:3.11.0`
-- :cd: `org.apache.jena.sdb` :left_right_arrow: `org.apache.jena:jena-sdb:3.11.0`
-- :cd: `org.apache.jena.spatial` :left_right_arrow: `org.apache.jena:jena-spatial:3.11.0`
-- :cd: `org.apache.jena.tdb` :left_right_arrow: `org.apache.jena:jena-tdb:3.11.0`
-- :cd: `org.apache.jena.tdb2` :left_right_arrow: `org.apache.jena:jena-tdb2:3.11.0`
-- :cd: `org.apache.jena.text` :left_right_arrow: `org.apache.jena:jena-text:3.11.0`
-- :cd: `org.apache.jena.text.es` :left_right_arrow: `org.apache.jena:jena-text-es:3.11.0`
+- :cd: `org.apache.jena.iri` :left_right_arrow: `org.apache.jena:jena-iri:3.12.0`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-remote:3.12.0`
+- :cd: `org.apache.jena.permissions` :left_right_arrow: `org.apache.jena:jena-permissions:3.12.0`
+- :cd: `org.apache.jena.rdfconnection` :left_right_arrow: `org.apache.jena:jena-rdfconnection:3.12.0`
+- :cd: `org.apache.jena.sdb` :left_right_arrow: `org.apache.jena:jena-sdb:3.12.0`
+- :cd: `org.apache.jena.spatial` :left_right_arrow: `org.apache.jena:jena-spatial:3.12.0`
+- :cd: `org.apache.jena.tdb` :left_right_arrow: `org.apache.jena:jena-tdb:3.12.0`
+- :cd: `org.apache.jena.tdb2` :left_right_arrow: `org.apache.jena:jena-tdb2:3.12.0`
+- :cd: `org.apache.jena.text` :left_right_arrow: `org.apache.jena:jena-text:3.12.0`
+- :cd: `org.apache.jena.text.es` :left_right_arrow: `org.apache.jena:jena-text-es:3.12.0`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.11.2`
 - :cd: `org.apache.logging.log4j.appserver` :left_right_arrow: `org.apache.logging.log4j:log4j-appserver:2.11.2`
 - :cd: `org.apache.logging.log4j.cassandra` :left_right_arrow: `org.apache.logging.log4j:log4j-cassandra:2.11.2`
@@ -3007,7 +3007,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.jgit.pgm` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.pgm:5.3.1.201904271842-r`
 - :cd: `org.eclipse.jgit.ssh.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ssh.apache:5.3.1.201904271842-r`
 - :cd: `org.eclipse.jgit.ui` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ui:5.3.1.201904271842-r`
-- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-core:0.3.1-M1`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-core:0.3.1`
 - :cd: `org.eclipse.packagedrone.utils` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils:0.14.6`
 - :cd: `org.eclipse.packagedrone.utils.rpm` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils.rpm:0.14.6`
 - :cd: `org.eclipse.packagedrone.utils.security` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils.security:0.14.6`

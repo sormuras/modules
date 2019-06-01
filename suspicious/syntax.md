@@ -206,6 +206,7 @@
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.0` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.1` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.2` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.2,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.apache.jena:jena-dboe-storage:3.12.0` // `org.apache.jena,jena-dboe-storage,3.12.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.1` // `org.apache.logging.log4j,log4j-liquibase,2.11.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.2` // `org.apache.logging.log4j,log4j-liquibase,2.11.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.14.0.Final` // `org.drools,camel-container-integration-tests,7.14.0.Final,-,-,automatic,-,false,-`
@@ -4917,7 +4918,9 @@
 - :cd: `org.apache.isis.plugins.jdo-datanucleus-5` :left_right_arrow: `org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2` // `org.apache.isis.core,isis-core-plugins-jdo-datanucleus-5,2.0.0-M2,org.apache.isis.plugins.jdo-datanucleus-5,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jena-fuseki-access` :left_right_arrow: `org.apache.jena:jena-fuseki-access:3.9.0` // `org.apache.jena,jena-fuseki-access,3.9.0,org.apache.jena.jena-fuseki-access,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jena-fuseki-core` :left_right_arrow: `org.apache.jena:jena-fuseki-core:3.9.0` // `org.apache.jena,jena-fuseki-core,3.9.0,org.apache.jena.jena-fuseki-core,-,automatic,-,false,-`
+- :cd: `org.apache.jena.jena-fuseki-geosparql` :left_right_arrow: `org.apache.jena:jena-fuseki-geosparql:3.12.0` // `org.apache.jena,jena-fuseki-geosparql,3.12.0,org.apache.jena.jena-fuseki-geosparql,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jena-fuseki-main` :left_right_arrow: `org.apache.jena:jena-fuseki-main:3.9.0` // `org.apache.jena,jena-fuseki-main,3.9.0,org.apache.jena.jena-fuseki-main,-,automatic,-,false,-`
+- :cd: `org.apache.jena.jena-geosparql` :left_right_arrow: `org.apache.jena:jena-geosparql:3.12.0` // `org.apache.jena,jena-geosparql,3.12.0,org.apache.jena.jena-geosparql,-,automatic,-,false,-`
 - :cd: `org.apache.tomee.arquillian-tomee-codi-tests` :left_right_arrow: `org.apache.tomee:arquillian-tomee-codi-tests:8.0.0-M2` // `org.apache.tomee,arquillian-tomee-codi-tests,8.0.0-M2,org.apache.tomee.arquillian-tomee-codi-tests,-,automatic,-,false,-`
 - :cd: `org.apache.tomee.arquillian-tomee-codi-tests` :left_right_arrow: `org.apache.tomee:arquillian-tomee-codi-tests:8.0.0-M3` // `org.apache.tomee,arquillian-tomee-codi-tests,8.0.0-M3,org.apache.tomee.arquillian-tomee-codi-tests,-,automatic,-,false,-`
 - :cd: `org.apache.tomee.arquillian-tomee-config-tests` :left_right_arrow: `org.apache.tomee:arquillian-tomee-config-tests:8.0.0-M2` // `org.apache.tomee,arquillian-tomee-config-tests,8.0.0-M2,org.apache.tomee.arquillian-tomee-config-tests,-,automatic,-,false,-`

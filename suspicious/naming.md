@@ -3691,6 +3691,7 @@
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp.jre11:jwebmp-websockets:0.62.0.1` // `com.jwebmp.jre11,jwebmp-websockets,0.62.0.1,com.jwebmp.websockets,-,explicit,com.fasterxml.jackson.annotation + com.jwebmp.core + com.jwebmp.guicedinjection + com.jwebmp.logmaster + java.base + java.logging + java.validation + javax.servlet.api + javax.websocket.api,false,-`
 - :cd: `com.novell.ldapchai` :left_right_arrow: `com.github.ldapchai:ldapchai:0.7.4` // `com.github.ldapchai,ldapchai,0.7.4,com.novell.ldapchai,-,automatic,-,false,-`
 - :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.14.0` // `net.sf.j8583,j8583,1.14.0,com.solab.j8583,-,automatic,-,false,-`
+- :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.14.1` // `net.sf.j8583,j8583,1.14.1,com.solab.j8583,-,automatic,-,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.3.2` // `org.glassfish.jaxb,codemodel,2.3.2,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180725.0644` // `org.glassfish.jaxb,codemodel,2.4.0-b180725.0644,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180830.0438` // `org.glassfish.jaxb,codemodel,2.4.0-b180830.0438,com.sun.codemodel,-,explicit,java.base,false,-`
