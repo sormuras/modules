@@ -1,13 +1,13 @@
 # sormuras/modules
-Counted 4309 Java modules published at Maven Central
+Counted 4310 Java modules published at Maven Central
 
-## Summary 2019-06-02T07:00:21.892914Z
+## Summary 2019-06-02T07:06:26.082776Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T07:00:21.892914Z
-Scanned 22,630 files in 2 seconds.
+Started scan at 2019-06-02T07:06:26.082776Z
+Scanned 22,630 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
     last -> modulescanner-report-2019_06_02_06_45_00.csv
 
@@ -16,8 +16,8 @@ Parsed 1,415,386 lines in total.
   86,177 -> duplicates skipped
   54,794 -> module related
 
-Collected 4,309 unique modules.
-  automatic :cd: -> 3,312
+Collected 4,310 unique modules.
+  automatic :cd: -> 3,313
   explicit :dvd: -> 997
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10058](suspicious/naming.md)
-- Modular impostors: [2826](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10041](suspicious/naming.md)
+- Modular impostors: [2840](suspicious/impostors.md)
 
-## Unique Modules (4309)
+## Unique Modules (4310)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -538,6 +538,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.9.2`
 - :cd: `com.google.common` :left_right_arrow: `com.google.guava:guava:27.1-jre`
 - :cd: `com.google.googlejavaformat` :left_right_arrow: `com.google.googlejavaformat:google-java-format:1.7`
+- :cd: `com.google.guice` :left_right_arrow: `com.google.inject:guice:4.2.2`
 - :cd: `com.google.zxing` :left_right_arrow: `com.google.zxing:core:3.4.0`
 - :cd: `com.google.zxing.javase` :left_right_arrow: `com.google.zxing:javase:3.4.0`
 - :cd: `com.h2database` :left_right_arrow: `com.h2database:h2:1.4.199`
