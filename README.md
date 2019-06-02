@@ -1,13 +1,13 @@
 # sormuras/modules
-Counted 4283 Java modules published at Maven Central
+Counted 4309 Java modules published at Maven Central
 
-## Summary 2019-06-02T06:55:37.919074Z
+## Summary 2019-06-02T07:00:21.892914Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T06:55:37.919074Z
-Scanned 22,630 files in 3 seconds.
+Started scan at 2019-06-02T07:00:21.892914Z
+Scanned 22,630 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
     last -> modulescanner-report-2019_06_02_06_45_00.csv
 
@@ -16,9 +16,9 @@ Parsed 1,415,386 lines in total.
   86,177 -> duplicates skipped
   54,794 -> module related
 
-Collected 4,283 unique modules.
+Collected 4,309 unique modules.
   automatic :cd: -> 3,312
-  explicit :dvd: -> 971
+  explicit :dvd: -> 997
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10233](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10058](suspicious/naming.md)
 - Modular impostors: [2826](suspicious/impostors.md)
 
-## Unique Modules (4283)
+## Unique Modules (4309)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -204,6 +204,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :cd: `co.paralleluniverse.quasar.kotlin` :left_right_arrow: `co.paralleluniverse:quasar-kotlin:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
+- :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.7.2`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:1.7.2`
+- :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:1.7.2`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:1.7.2`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:1.7.2`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:1.7.2`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:1.7.2`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:1.7.2`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:1.7.2`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:1.7.2`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:1.7.2`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:1.7.2`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:1.7.2`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:1.7.2`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:1.7.2`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:1.7.2`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:1.7.2`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:1.7.2`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:1.7.2`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:1.7.2`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:1.7.2`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:1.7.2`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:1.7.2`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:1.7.2`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:1.7.2`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
