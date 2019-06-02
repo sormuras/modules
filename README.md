@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4267 Java modules published at Maven Central
+Counted 4283 Java modules published at Maven Central
 
-## Summary 2019-06-01T22:25:26.706759Z
+## Summary 2019-06-02T06:55:37.919074Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-01T22:25:26.706759Z
-Scanned 22,608 files in 3 seconds.
+Started scan at 2019-06-02T06:55:37.919074Z
+Scanned 22,630 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_01_21_59_00.csv
+    last -> modulescanner-report-2019_06_02_06_45_00.csv
 
-Parsed 1,414,794 lines in total.
-  26,493 -> captions skipped
-  86,172 -> duplicates skipped
-  54,787 -> module related
+Parsed 1,415,386 lines in total.
+  26,515 -> captions skipped
+  86,177 -> duplicates skipped
+  54,794 -> module related
 
-Collected 4,267 unique modules.
+Collected 4,283 unique modules.
   automatic :cd: -> 3,312
-  explicit :dvd: -> 955
+  explicit :dvd: -> 971
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5563](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10249](suspicious/naming.md)
+- Invalid module names: [5564](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10233](suspicious/naming.md)
 - Modular impostors: [2826](suspicious/impostors.md)
 
-## Unique Modules (4267)
+## Unique Modules (4283)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -120,7 +120,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.5`
 - :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
 - :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.4`
-- :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.4`
+- :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.5`
 - :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
 - :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.2`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
@@ -207,6 +207,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
+- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.3`
+- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.3`
+- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.3`
+- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.3`
+- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.3`
+- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.3`
+- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.3`
+- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.3`
+- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.3`
+- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.3`
+- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.3`
+- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.3`
+- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.3`
+- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.3`
+- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.3`
+- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.3`
 - :cd: `com.amazon.ion` :left_right_arrow: `com.amazon.ion:ion-java:1.4.0`
 - :cd: `com.appslandia.common` :left_right_arrow: `com.appslandia:appslandia-common:6.0`
 - :cd: `com.appslandia.javafx` :left_right_arrow: `com.appslandia:appslandia-javafx:3.6`
@@ -1885,11 +1901,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.136`
 - :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.136`
 - :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.136`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.105`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.105`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.105`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.105`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.105`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.106`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.106`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.106`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.106`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.106`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.2.1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.13`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.13`
