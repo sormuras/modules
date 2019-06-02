@@ -1,13 +1,13 @@
 # sormuras/modules
-Counted 4314 Java modules published at Maven Central
+Counted 4462 Java modules published at Maven Central
 
-## Summary 2019-06-02T07:15:15.790977Z
+## Summary 2019-06-02T07:20:44.314682Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T07:15:15.790977Z
-Scanned 22,631 files in 3 seconds.
+Started scan at 2019-06-02T07:20:44.314682Z
+Scanned 22,631 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
     last -> modulescanner-report-2019_06_02_07_05_29.csv
 
@@ -16,8 +16,8 @@ Parsed 1,415,435 lines in total.
   86,179 -> duplicates skipped
   54,794 -> module related
 
-Collected 4,314 unique modules.
-  automatic :cd: -> 3,317
+Collected 4,462 unique modules.
+  automatic :cd: -> 3,465
   explicit :dvd: -> 997
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10013](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8703](suspicious/naming.md)
 - Modular impostors: [2840](suspicious/impostors.md)
 
-## Unique Modules (4314)
+## Unique Modules (4462)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -4373,18 +4373,165 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.aop` :left_right_arrow: `org.springframework:spring-aop:5.1.7.RELEASE`
 - :cd: `spring.aspects` :left_right_arrow: `org.springframework:spring-aspects:5.1.7.RELEASE`
 - :cd: `spring.beans` :left_right_arrow: `org.springframework:spring-beans:5.1.7.RELEASE`
+- :cd: `spring.boot` :left_right_arrow: `org.springframework.boot:spring-boot:2.1.5.RELEASE`
+- :cd: `spring.boot.actuator` :left_right_arrow: `org.springframework.boot:spring-boot-actuator:2.1.5.RELEASE`
+- :cd: `spring.boot.actuator.autoconfigure` :left_right_arrow: `org.springframework.boot:spring-boot-actuator-autoconfigure:2.1.5.RELEASE`
+- :cd: `spring.boot.antlib` :left_right_arrow: `org.springframework.boot:spring-boot-antlib:2.1.5.RELEASE`
+- :cd: `spring.boot.autoconfigure` :left_right_arrow: `org.springframework.boot:spring-boot-autoconfigure:2.1.5.RELEASE`
+- :cd: `spring.boot.autoconfigure.processor` :left_right_arrow: `org.springframework.boot:spring-boot-autoconfigure-processor:2.1.5.RELEASE`
+- :cd: `spring.boot.cli` :left_right_arrow: `org.springframework.boot:spring-boot-cli:2.1.5.RELEASE`
+- :cd: `spring.boot.configuration.metadata` :left_right_arrow: `org.springframework.boot:spring-boot-configuration-metadata:2.1.5.RELEASE`
+- :cd: `spring.boot.configuration.processor` :left_right_arrow: `org.springframework.boot:spring-boot-configuration-processor:2.1.5.RELEASE`
+- :cd: `spring.boot.devtools` :left_right_arrow: `org.springframework.boot:spring-boot-devtools:2.1.5.RELEASE`
+- :cd: `spring.boot.docs` :left_right_arrow: `org.springframework.boot:spring-boot-docs:2.1.5.RELEASE`
+- :cd: `spring.boot.loader` :left_right_arrow: `org.springframework.boot:spring-boot-loader:2.1.5.RELEASE`
+- :cd: `spring.boot.loader.tools` :left_right_arrow: `org.springframework.boot:spring-boot-loader-tools:2.1.5.RELEASE`
+- :cd: `spring.boot.maven.plugin` :left_right_arrow: `org.springframework.boot:spring-boot-maven-plugin:2.1.5.RELEASE`
+- :cd: `spring.boot.properties.migrator` :left_right_arrow: `org.springframework.boot:spring-boot-properties-migrator:2.1.5.RELEASE`
+- :cd: `spring.boot.starter` :left_right_arrow: `org.springframework.boot:spring-boot-starter:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.activemq` :left_right_arrow: `org.springframework.boot:spring-boot-starter-activemq:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.actuator` :left_right_arrow: `org.springframework.boot:spring-boot-starter-actuator:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.amqp` :left_right_arrow: `org.springframework.boot:spring-boot-starter-amqp:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.aop` :left_right_arrow: `org.springframework.boot:spring-boot-starter-aop:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.artemis` :left_right_arrow: `org.springframework.boot:spring-boot-starter-artemis:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.batch` :left_right_arrow: `org.springframework.boot:spring-boot-starter-batch:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.cache` :left_right_arrow: `org.springframework.boot:spring-boot-starter-cache:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.cloud.connectors` :left_right_arrow: `org.springframework.boot:spring-boot-starter-cloud-connectors:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.cassandra` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-cassandra:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.cassandra.reactive` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-cassandra-reactive:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.couchbase` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-couchbase:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.couchbase.reactive` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-couchbase-reactive:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.elasticsearch` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-elasticsearch:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.jdbc` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-jdbc:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.jpa` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-jpa:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.ldap` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-ldap:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.mongodb` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-mongodb:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.mongodb.reactive` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-mongodb-reactive:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.neo4j` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-neo4j:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.redis` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-redis:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.redis.reactive` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-redis-reactive:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.rest` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-rest:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.data.solr` :left_right_arrow: `org.springframework.boot:spring-boot-starter-data-solr:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.freemarker` :left_right_arrow: `org.springframework.boot:spring-boot-starter-freemarker:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.groovy.templates` :left_right_arrow: `org.springframework.boot:spring-boot-starter-groovy-templates:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.hateoas` :left_right_arrow: `org.springframework.boot:spring-boot-starter-hateoas:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.integration` :left_right_arrow: `org.springframework.boot:spring-boot-starter-integration:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jdbc` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jdbc:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jersey` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jersey:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jetty` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jetty:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jooq` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jooq:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.json` :left_right_arrow: `org.springframework.boot:spring-boot-starter-json:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jta.atomikos` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jta-atomikos:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jta.bitronix` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jta-bitronix:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.jta.narayana` :left_right_arrow: `org.springframework.boot:spring-boot-starter-jta-narayana:2.0.9.RELEASE`
+- :cd: `spring.boot.starter.log4j2` :left_right_arrow: `org.springframework.boot:spring-boot-starter-log4j2:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.logging` :left_right_arrow: `org.springframework.boot:spring-boot-starter-logging:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.mail` :left_right_arrow: `org.springframework.boot:spring-boot-starter-mail:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.mustache` :left_right_arrow: `org.springframework.boot:spring-boot-starter-mustache:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.oauth2.client` :left_right_arrow: `org.springframework.boot:spring-boot-starter-oauth2-client:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.oauth2.resource.server` :left_right_arrow: `org.springframework.boot:spring-boot-starter-oauth2-resource-server:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.quartz` :left_right_arrow: `org.springframework.boot:spring-boot-starter-quartz:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.reactor.netty` :left_right_arrow: `org.springframework.boot:spring-boot-starter-reactor-netty:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.security` :left_right_arrow: `org.springframework.boot:spring-boot-starter-security:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.test` :left_right_arrow: `org.springframework.boot:spring-boot-starter-test:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.thymeleaf` :left_right_arrow: `org.springframework.boot:spring-boot-starter-thymeleaf:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.tomcat` :left_right_arrow: `org.springframework.boot:spring-boot-starter-tomcat:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.undertow` :left_right_arrow: `org.springframework.boot:spring-boot-starter-undertow:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.validation` :left_right_arrow: `org.springframework.boot:spring-boot-starter-validation:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.web` :left_right_arrow: `org.springframework.boot:spring-boot-starter-web:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.web.services` :left_right_arrow: `org.springframework.boot:spring-boot-starter-web-services:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.webflux` :left_right_arrow: `org.springframework.boot:spring-boot-starter-webflux:2.1.5.RELEASE`
+- :cd: `spring.boot.starter.websocket` :left_right_arrow: `org.springframework.boot:spring-boot-starter-websocket:2.1.5.RELEASE`
+- :cd: `spring.boot.test` :left_right_arrow: `org.springframework.boot:spring-boot-test:2.1.5.RELEASE`
+- :cd: `spring.boot.test.autoconfigure` :left_right_arrow: `org.springframework.boot:spring-boot-test-autoconfigure:2.1.5.RELEASE`
 - :cd: `spring.context` :left_right_arrow: `org.springframework:spring-context:5.1.7.RELEASE`
 - :cd: `spring.context.indexer` :left_right_arrow: `org.springframework:spring-context-indexer:5.1.7.RELEASE`
 - :cd: `spring.context.support` :left_right_arrow: `org.springframework:spring-context-support:5.1.7.RELEASE`
 - :cd: `spring.core` :left_right_arrow: `org.springframework:spring-core:5.1.7.RELEASE`
+- :cd: `spring.data.cassandra` :left_right_arrow: `org.springframework.data:spring-data-cassandra:2.1.8.RELEASE`
+- :cd: `spring.data.commons` :left_right_arrow: `org.springframework.data:spring-data-commons:2.1.8.RELEASE`
+- :cd: `spring.data.couchbase` :left_right_arrow: `org.springframework.data:spring-data-couchbase:3.1.8.RELEASE`
+- :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.8.RELEASE`
+- :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.8.RELEASE`
+- :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.8.RELEASE`
+- :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.2.RELEASE`
+- :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.8.RELEASE`
+- :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.2.RELEASE`
+- :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.8.RELEASE`
+- :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.8.RELEASE`
+- :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.8.RELEASE`
+- :cd: `spring.data.ldap` :left_right_arrow: `org.springframework.data:spring-data-ldap:2.1.8.RELEASE`
+- :cd: `spring.data.mongodb` :left_right_arrow: `org.springframework.data:spring-data-mongodb:2.1.8.RELEASE`
+- :cd: `spring.data.mongodb.cross.store` :left_right_arrow: `org.springframework.data:spring-data-mongodb-cross-store:2.1.8.RELEASE`
+- :cd: `spring.data.neo4j` :left_right_arrow: `org.springframework.data:spring-data-neo4j:5.1.8.RELEASE`
+- :cd: `spring.data.redis` :left_right_arrow: `org.springframework.data:spring-data-redis:2.1.8.RELEASE`
+- :cd: `spring.data.rest.core` :left_right_arrow: `org.springframework.data:spring-data-rest-core:3.1.8.RELEASE`
+- :cd: `spring.data.rest.hal.browser` :left_right_arrow: `org.springframework.data:spring-data-rest-hal-browser:3.1.8.RELEASE`
+- :cd: `spring.data.rest.webmvc` :left_right_arrow: `org.springframework.data:spring-data-rest-webmvc:3.1.8.RELEASE`
+- :cd: `spring.data.solr` :left_right_arrow: `org.springframework.data:spring-data-solr:4.0.8.RELEASE`
 - :cd: `spring.expression` :left_right_arrow: `org.springframework:spring-expression:5.1.7.RELEASE`
 - :cd: `spring.instrument` :left_right_arrow: `org.springframework:spring-instrument:5.1.7.RELEASE`
+- :cd: `spring.integration.amqp` :left_right_arrow: `org.springframework.integration:spring-integration-amqp:5.1.5.RELEASE`
+- :cd: `spring.integration.core` :left_right_arrow: `org.springframework.integration:spring-integration-core:5.1.5.RELEASE`
+- :cd: `spring.integration.event` :left_right_arrow: `org.springframework.integration:spring-integration-event:5.1.5.RELEASE`
+- :cd: `spring.integration.feed` :left_right_arrow: `org.springframework.integration:spring-integration-feed:5.1.5.RELEASE`
+- :cd: `spring.integration.file` :left_right_arrow: `org.springframework.integration:spring-integration-file:5.1.5.RELEASE`
+- :cd: `spring.integration.ftp` :left_right_arrow: `org.springframework.integration:spring-integration-ftp:5.1.5.RELEASE`
+- :cd: `spring.integration.gemfire` :left_right_arrow: `org.springframework.integration:spring-integration-gemfire:5.1.5.RELEASE`
+- :cd: `spring.integration.groovy` :left_right_arrow: `org.springframework.integration:spring-integration-groovy:5.1.5.RELEASE`
+- :cd: `spring.integration.http` :left_right_arrow: `org.springframework.integration:spring-integration-http:5.1.5.RELEASE`
+- :cd: `spring.integration.ip` :left_right_arrow: `org.springframework.integration:spring-integration-ip:5.1.5.RELEASE`
+- :cd: `spring.integration.jdbc` :left_right_arrow: `org.springframework.integration:spring-integration-jdbc:5.1.5.RELEASE`
+- :cd: `spring.integration.jms` :left_right_arrow: `org.springframework.integration:spring-integration-jms:5.1.5.RELEASE`
+- :cd: `spring.integration.jmx` :left_right_arrow: `org.springframework.integration:spring-integration-jmx:5.1.5.RELEASE`
+- :cd: `spring.integration.jpa` :left_right_arrow: `org.springframework.integration:spring-integration-jpa:5.1.5.RELEASE`
+- :cd: `spring.integration.kafka` :left_right_arrow: `org.springframework.integration:spring-integration-kafka:3.1.3.RELEASE`
+- :cd: `spring.integration.mail` :left_right_arrow: `org.springframework.integration:spring-integration-mail:5.1.5.RELEASE`
+- :cd: `spring.integration.mongodb` :left_right_arrow: `org.springframework.integration:spring-integration-mongodb:5.1.5.RELEASE`
+- :cd: `spring.integration.mqtt` :left_right_arrow: `org.springframework.integration:spring-integration-mqtt:5.1.5.RELEASE`
+- :cd: `spring.integration.redis` :left_right_arrow: `org.springframework.integration:spring-integration-redis:5.1.5.RELEASE`
+- :cd: `spring.integration.rmi` :left_right_arrow: `org.springframework.integration:spring-integration-rmi:5.1.5.RELEASE`
+- :cd: `spring.integration.scripting` :left_right_arrow: `org.springframework.integration:spring-integration-scripting:5.1.5.RELEASE`
+- :cd: `spring.integration.security` :left_right_arrow: `org.springframework.integration:spring-integration-security:5.1.5.RELEASE`
+- :cd: `spring.integration.sftp` :left_right_arrow: `org.springframework.integration:spring-integration-sftp:5.1.5.RELEASE`
+- :cd: `spring.integration.stomp` :left_right_arrow: `org.springframework.integration:spring-integration-stomp:5.1.5.RELEASE`
+- :cd: `spring.integration.stream` :left_right_arrow: `org.springframework.integration:spring-integration-stream:5.1.5.RELEASE`
+- :cd: `spring.integration.syslog` :left_right_arrow: `org.springframework.integration:spring-integration-syslog:5.1.5.RELEASE`
+- :cd: `spring.integration.test` :left_right_arrow: `org.springframework.integration:spring-integration-test:5.1.5.RELEASE`
+- :cd: `spring.integration.test.support` :left_right_arrow: `org.springframework.integration:spring-integration-test-support:5.1.5.RELEASE`
+- :cd: `spring.integration.twitter` :left_right_arrow: `org.springframework.integration:spring-integration-twitter:5.0.13.RELEASE`
+- :cd: `spring.integration.webflux` :left_right_arrow: `org.springframework.integration:spring-integration-webflux:5.1.5.RELEASE`
+- :cd: `spring.integration.websocket` :left_right_arrow: `org.springframework.integration:spring-integration-websocket:5.1.5.RELEASE`
+- :cd: `spring.integration.ws` :left_right_arrow: `org.springframework.integration:spring-integration-ws:5.1.5.RELEASE`
+- :cd: `spring.integration.xml` :left_right_arrow: `org.springframework.integration:spring-integration-xml:5.1.5.RELEASE`
+- :cd: `spring.integration.xmpp` :left_right_arrow: `org.springframework.integration:spring-integration-xmpp:5.1.5.RELEASE`
+- :cd: `spring.integration.zookeeper` :left_right_arrow: `org.springframework.integration:spring-integration-zookeeper:5.1.5.RELEASE`
 - :cd: `spring.jcl` :left_right_arrow: `org.springframework:spring-jcl:5.1.7.RELEASE`
 - :cd: `spring.jdbc` :left_right_arrow: `org.springframework:spring-jdbc:5.1.7.RELEASE`
 - :cd: `spring.jms` :left_right_arrow: `org.springframework:spring-jms:5.1.7.RELEASE`
+- :cd: `spring.kafka` :left_right_arrow: `org.springframework.kafka:spring-kafka:2.2.6.RELEASE`
+- :cd: `spring.kafka.test` :left_right_arrow: `org.springframework.kafka:spring-kafka-test:2.2.6.RELEASE`
 - :cd: `spring.messaging` :left_right_arrow: `org.springframework:spring-messaging:5.1.7.RELEASE`
 - :cd: `spring.orm` :left_right_arrow: `org.springframework:spring-orm:5.1.7.RELEASE`
 - :cd: `spring.oxm` :left_right_arrow: `org.springframework:spring-oxm:5.1.7.RELEASE`
+- :cd: `spring.security.acl` :left_right_arrow: `org.springframework.security:spring-security-acl:5.1.5.RELEASE`
+- :cd: `spring.security.aspects` :left_right_arrow: `org.springframework.security:spring-security-aspects:5.1.5.RELEASE`
+- :cd: `spring.security.cas` :left_right_arrow: `org.springframework.security:spring-security-cas:5.1.5.RELEASE`
+- :cd: `spring.security.config` :left_right_arrow: `org.springframework.security:spring-security-config:5.1.5.RELEASE`
+- :cd: `spring.security.core` :left_right_arrow: `org.springframework.security:spring-security-core:5.1.5.RELEASE`
+- :cd: `spring.security.crypto` :left_right_arrow: `org.springframework.security:spring-security-crypto:5.1.5.RELEASE`
+- :cd: `spring.security.data` :left_right_arrow: `org.springframework.security:spring-security-data:5.1.5.RELEASE`
+- :cd: `spring.security.ldap` :left_right_arrow: `org.springframework.security:spring-security-ldap:5.1.5.RELEASE`
+- :cd: `spring.security.messaging` :left_right_arrow: `org.springframework.security:spring-security-messaging:5.1.5.RELEASE`
+- :cd: `spring.security.oauth2.client` :left_right_arrow: `org.springframework.security:spring-security-oauth2-client:5.1.5.RELEASE`
+- :cd: `spring.security.oauth2.core` :left_right_arrow: `org.springframework.security:spring-security-oauth2-core:5.1.5.RELEASE`
+- :cd: `spring.security.oauth2.jose` :left_right_arrow: `org.springframework.security:spring-security-oauth2-jose:5.1.5.RELEASE`
+- :cd: `spring.security.oauth2.resource.server` :left_right_arrow: `org.springframework.security:spring-security-oauth2-resource-server:5.1.5.RELEASE`
+- :cd: `spring.security.openid` :left_right_arrow: `org.springframework.security:spring-security-openid:5.1.5.RELEASE`
+- :cd: `spring.security.remoting` :left_right_arrow: `org.springframework.security:spring-security-remoting:5.1.5.RELEASE`
+- :cd: `spring.security.taglibs` :left_right_arrow: `org.springframework.security:spring-security-taglibs:5.1.5.RELEASE`
+- :cd: `spring.security.test` :left_right_arrow: `org.springframework.security:spring-security-test:5.1.5.RELEASE`
+- :cd: `spring.security.web` :left_right_arrow: `org.springframework.security:spring-security-web:5.1.5.RELEASE`
 - :cd: `spring.session.core` :left_right_arrow: `org.springframework.session:spring-session-core:2.1.6.RELEASE`
 - :cd: `spring.session.data.gemfire` :left_right_arrow: `org.springframework.session:spring-session-data-gemfire:2.1.3.RELEASE`
 - :cd: `spring.session.data.geode` :left_right_arrow: `org.springframework.session:spring-session-data-geode:2.1.3.RELEASE`
@@ -4393,6 +4540,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.session.jdbc` :left_right_arrow: `org.springframework.session:spring-session-jdbc:2.1.6.RELEASE`
 - :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.7.RELEASE`
 - :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.7.RELEASE`
+- :cd: `spring.vault.core` :left_right_arrow: `org.springframework.vault:spring-vault-core:2.1.2.RELEASE`
 - :cd: `spring.web` :left_right_arrow: `org.springframework:spring-web:5.1.7.RELEASE`
 - :cd: `spring.webflux` :left_right_arrow: `org.springframework:spring-webflux:5.1.7.RELEASE`
 - :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.7.RELEASE`
