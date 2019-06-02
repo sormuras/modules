@@ -1,13 +1,13 @@
 # sormuras/modules
-Counted 4462 Java modules published at Maven Central
+Counted 4500 Java modules published at Maven Central
 
-## Summary 2019-06-02T07:20:44.314682Z
+## Summary 2019-06-02T07:24:55.711817Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T07:20:44.314682Z
-Scanned 22,631 files in 4 seconds.
+Started scan at 2019-06-02T07:24:55.711817Z
+Scanned 22,631 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
     last -> modulescanner-report-2019_06_02_07_05_29.csv
 
@@ -16,9 +16,9 @@ Parsed 1,415,435 lines in total.
   86,179 -> duplicates skipped
   54,794 -> module related
 
-Collected 4,462 unique modules.
+Collected 4,500 unique modules.
   automatic :cd: -> 3,465
-  explicit :dvd: -> 997
+  explicit :dvd: -> 1,035
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8703](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8551](suspicious/naming.md)
 - Modular impostors: [2840](suspicious/impostors.md)
 
-## Unique Modules (4462)
+## Unique Modules (4500)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -4546,6 +4546,44 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.webmvc` :left_right_arrow: `org.springframework:spring-webmvc:5.1.7.RELEASE`
 - :cd: `spring.websocket` :left_right_arrow: `org.springframework:spring-websocket:5.1.7.RELEASE`
 - :cd: `st.extreme.math.fraction` :left_right_arrow: `st.extreme:fractions:1.1`
+- :dvd: `swim.api` :left_right_arrow: `ai.swim:swim-api:3.9.3`
+- :dvd: `swim.args` :left_right_arrow: `ai.swim:swim-args:3.9.3`
+- :dvd: `swim.cli` :left_right_arrow: `ai.swim:swim-cli:3.9.3`
+- :dvd: `swim.client` :left_right_arrow: `ai.swim:swim-client:3.9.3`
+- :dvd: `swim.codec` :left_right_arrow: `ai.swim:swim-codec:3.9.3`
+- :dvd: `swim.collections` :left_right_arrow: `ai.swim:swim-collections:3.9.3`
+- :dvd: `swim.concurrent` :left_right_arrow: `ai.swim:swim-concurrent:3.9.3`
+- :dvd: `swim.dataflow` :left_right_arrow: `ai.swim:swim-dataflow:3.9.3`
+- :dvd: `swim.decipher` :left_right_arrow: `ai.swim:swim-decipher:3.9.3`
+- :dvd: `swim.deflate` :left_right_arrow: `ai.swim:swim-deflate:3.9.3`
+- :dvd: `swim.http` :left_right_arrow: `ai.swim:swim-http:3.9.3`
+- :dvd: `swim.io` :left_right_arrow: `ai.swim:swim-io:3.9.3`
+- :dvd: `swim.io.http` :left_right_arrow: `ai.swim:swim-io-http:3.9.3`
+- :dvd: `swim.io.mqtt` :left_right_arrow: `ai.swim:swim-io-mqtt:3.9.3`
+- :dvd: `swim.io.warp` :left_right_arrow: `ai.swim:swim-io-warp:3.9.3`
+- :dvd: `swim.io.ws` :left_right_arrow: `ai.swim:swim-io-ws:3.9.3`
+- :dvd: `swim.json` :left_right_arrow: `ai.swim:swim-json:3.9.3`
+- :dvd: `swim.linker` :left_right_arrow: `ai.swim:swim-linker:3.9.3`
+- :dvd: `swim.loader` :left_right_arrow: `ai.swim:swim-loader:3.9.3`
+- :dvd: `swim.math` :left_right_arrow: `ai.swim:swim-math:3.9.3`
+- :dvd: `swim.mqtt` :left_right_arrow: `ai.swim:swim-mqtt:3.9.3`
+- :dvd: `swim.observable` :left_right_arrow: `ai.swim:swim-observable:3.9.3`
+- :dvd: `swim.protobuf` :left_right_arrow: `ai.swim:swim-protobuf:3.9.3`
+- :dvd: `swim.recon` :left_right_arrow: `ai.swim:swim-recon:3.9.3`
+- :dvd: `swim.remote` :left_right_arrow: `ai.swim:swim-remote:3.9.3`
+- :dvd: `swim.runtime` :left_right_arrow: `ai.swim:swim-runtime:3.9.3`
+- :dvd: `swim.security` :left_right_arrow: `ai.swim:swim-security:3.9.3`
+- :dvd: `swim.server` :left_right_arrow: `ai.swim:swim-server:3.9.3`
+- :dvd: `swim.spatial` :left_right_arrow: `ai.swim:swim-spatial:3.9.3`
+- :dvd: `swim.store` :left_right_arrow: `ai.swim:swim-store:3.9.3`
+- :dvd: `swim.store.mem` :left_right_arrow: `ai.swim:swim-store-mem:3.9.3`
+- :dvd: `swim.streamlet` :left_right_arrow: `ai.swim:swim-streamlet:3.9.3`
+- :dvd: `swim.structure` :left_right_arrow: `ai.swim:swim-structure:3.9.3`
+- :dvd: `swim.uri` :left_right_arrow: `ai.swim:swim-uri:3.9.3`
+- :dvd: `swim.util` :left_right_arrow: `ai.swim:swim-util:3.9.3`
+- :dvd: `swim.warp` :left_right_arrow: `ai.swim:swim-warp:3.9.3`
+- :dvd: `swim.ws` :left_right_arrow: `ai.swim:swim-ws:3.9.3`
+- :dvd: `swim.xml` :left_right_arrow: `ai.swim:swim-xml:3.9.3`
 - :cd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.5`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0-PRD`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-EDR`
