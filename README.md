@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4310 Java modules published at Maven Central
+Counted 4314 Java modules published at Maven Central
 
-## Summary 2019-06-02T07:06:26.082776Z
+## Summary 2019-06-02T07:15:15.790977Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T07:06:26.082776Z
-Scanned 22,630 files in 3 seconds.
+Started scan at 2019-06-02T07:15:15.790977Z
+Scanned 22,631 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_02_06_45_00.csv
+    last -> modulescanner-report-2019_06_02_07_05_29.csv
 
-Parsed 1,415,386 lines in total.
-  26,515 -> captions skipped
-  86,177 -> duplicates skipped
+Parsed 1,415,435 lines in total.
+  26,516 -> captions skipped
+  86,179 -> duplicates skipped
   54,794 -> module related
 
-Collected 4,310 unique modules.
-  automatic :cd: -> 3,313
+Collected 4,314 unique modules.
+  automatic :cd: -> 3,317
   explicit :dvd: -> 997
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10041](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10013](suspicious/naming.md)
 - Modular impostors: [2840](suspicious/impostors.md)
 
-## Unique Modules (4310)
+## Unique Modules (4314)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -4162,6 +4162,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `rocks.xmpp.nio.netty.codec` :left_right_arrow: `rocks.xmpp:xmpp-nio-netty-common:0.8.1`
 - :cd: `rocks.xmpp.websocket.client` :left_right_arrow: `rocks.xmpp:xmpp-websocket-client:0.8.1`
 - :cd: `rocks.xmpp.websocket.common` :left_right_arrow: `rocks.xmpp:xmpp-websocket-common:0.8.1`
+- :cd: `scala.library` :left_right_arrow: `org.scala-lang:scala-library:2.13.0-RC3`
+- :cd: `scala.partest` :left_right_arrow: `org.scala-lang:scala-partest:2.13.0-RC3`
+- :cd: `scala.reflect` :left_right_arrow: `org.scala-lang:scala-reflect:2.13.0-RC3`
+- :cd: `scala.tools.nsc` :left_right_arrow: `org.scala-lang:scala-compiler:2.13.0-RC3`
 - :cd: `se.europeanspallationsource.javafx.control.controlledknobs` :left_right_arrow: `se.europeanspallationsource:javafx.control.controlled-knobs:1.0.8`
 - :cd: `se.europeanspallationsource.javafx.control.knobs` :left_right_arrow: `se.europeanspallationsource:javafx.control.knobs:1.0.15`
 - :cd: `se.europeanspallationsource.javafx.control.medusa` :left_right_arrow: `se.europeanspallationsource:javafx.control.medusa:8.3.0`
