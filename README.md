@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4500 Java modules published at Maven Central
+Counted 4509 Java modules published at Maven Central
 
-## Summary 2019-06-02T07:24:55.711817Z
+## Summary 2019-06-02T22:25:59.277334Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-02T07:24:55.711817Z
-Scanned 22,631 files in 3 seconds.
+Started scan at 2019-06-02T22:25:59.277334Z
+Scanned 22,674 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_02_07_05_29.csv
+    last -> modulescanner-report-2019_06_02_21_40_05.csv
 
-Parsed 1,415,435 lines in total.
-  26,516 -> captions skipped
-  86,179 -> duplicates skipped
-  54,794 -> module related
+Parsed 1,417,198 lines in total.
+  26,559 -> captions skipped
+  86,277 -> duplicates skipped
+  54,843 -> module related
 
-Collected 4,500 unique modules.
-  automatic :cd: -> 3,465
-  explicit :dvd: -> 1,035
+Collected 4,509 unique modules.
+  automatic :cd: -> 3,466
+  explicit :dvd: -> 1,043
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5564](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8551](suspicious/naming.md)
+- Invalid module names: [5569](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8566](suspicious/naming.md)
 - Modular impostors: [2840](suspicious/impostors.md)
 
-## Unique Modules (4500)
+## Unique Modules (4509)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -441,11 +441,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.fburato.typesafecomparator.api` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-api:0.1.0`
 - :cd: `com.github.fburato.typesafecomparator.impl` :left_right_arrow: `com.github.fburato.typesafecomparator:typesafecomparator-impl:0.1.0`
 - :cd: `com.github.gquintana.beepbeep` :left_right_arrow: `com.github.gquintana.beepbeep:beepbeep:0.3.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.3`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.3`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.3`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.3`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.3`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.4`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.4`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.4`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.4`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.4`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -1924,10 +1924,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.136`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.136`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.136`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.136`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.137`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.137`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.137`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.137`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.106`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.106`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.106`
@@ -2527,17 +2527,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.tomee.util.mockito` :left_right_arrow: `org.apache.tomee:openejb-mockito:8.0.0-M3`
 - :cd: `org.apache.tomee.util.provisionning` :left_right_arrow: `org.apache.tomee:openejb-provisionning:8.0.0-M3`
 - :cd: `org.apache.tomee.webdeployer` :left_right_arrow: `org.apache.tomee:webdeployer:8.0.0-M3`
-- :cd: `org.apache.wicket.cdi` :left_right_arrow: `org.apache.wicket:wicket-cdi:9.0.0-M1`
-- :cd: `org.apache.wicket.core` :left_right_arrow: `org.apache.wicket:wicket-core:9.0.0-M1`
-- :cd: `org.apache.wicket.devutils` :left_right_arrow: `org.apache.wicket:wicket-devutils:9.0.0-M1`
-- :cd: `org.apache.wicket.extensions` :left_right_arrow: `org.apache.wicket:wicket-extensions:9.0.0-M1`
-- :cd: `org.apache.wicket.guice` :left_right_arrow: `org.apache.wicket:wicket-guice:9.0.0-M1`
-- :cd: `org.apache.wicket.ioc` :left_right_arrow: `org.apache.wicket:wicket-ioc:9.0.0-M1`
-- :cd: `org.apache.wicket.jmx` :left_right_arrow: `org.apache.wicket:wicket-jmx:9.0.0-M1`
-- :cd: `org.apache.wicket.request` :left_right_arrow: `org.apache.wicket:wicket-request:9.0.0-M1`
-- :cd: `org.apache.wicket.spring` :left_right_arrow: `org.apache.wicket:wicket-spring:9.0.0-M1`
-- :cd: `org.apache.wicket.util` :left_right_arrow: `org.apache.wicket:wicket-util:9.0.0-M1`
-- :cd: `org.apache.wicket.velocity` :left_right_arrow: `org.apache.wicket:wicket-velocity:9.0.0-M1`
+- :cd: `org.apache.wicket.cdi` :left_right_arrow: `org.apache.wicket:wicket-cdi:9.0.0-M2`
+- :cd: `org.apache.wicket.core` :left_right_arrow: `org.apache.wicket:wicket-core:9.0.0-M2`
+- :cd: `org.apache.wicket.devutils` :left_right_arrow: `org.apache.wicket:wicket-devutils:9.0.0-M2`
+- :cd: `org.apache.wicket.extensions` :left_right_arrow: `org.apache.wicket:wicket-extensions:9.0.0-M2`
+- :cd: `org.apache.wicket.guice` :left_right_arrow: `org.apache.wicket:wicket-guice:9.0.0-M2`
+- :cd: `org.apache.wicket.ioc` :left_right_arrow: `org.apache.wicket:wicket-ioc:9.0.0-M2`
+- :cd: `org.apache.wicket.jmx` :left_right_arrow: `org.apache.wicket:wicket-jmx:9.0.0-M2`
+- :cd: `org.apache.wicket.request` :left_right_arrow: `org.apache.wicket:wicket-request:9.0.0-M2`
+- :cd: `org.apache.wicket.spring` :left_right_arrow: `org.apache.wicket:wicket-spring:9.0.0-M2`
+- :cd: `org.apache.wicket.util` :left_right_arrow: `org.apache.wicket:wicket-util:9.0.0-M2`
+- :cd: `org.apache.wicket.velocity` :left_right_arrow: `org.apache.wicket:wicket-velocity:9.0.0-M2`
 - :cd: `org.apache.wss4j.bindings` :left_right_arrow: `org.apache.wss4j:wss4j-bindings:2.2.3`
 - :cd: `org.apache.wss4j.common` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-common:2.2.3`
 - :cd: `org.apache.wss4j.dom` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-dom:2.2.3`
@@ -2785,6 +2785,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.datanucleus.api.jdo` :left_right_arrow: `org.datanucleus:datanucleus-api-jdo:5.2.1`
 - :cd: `org.datanucleus.api.jpa` :left_right_arrow: `org.datanucleus:datanucleus-api-jpa:5.2.0-release`
 - :cd: `org.datanucleus.store.rdbms` :left_right_arrow: `org.datanucleus:datanucleus-rdbms:5.2.1`
+- :dvd: `org.docx4j.JAXB_MOXy` :left_right_arrow: `org.docx4j:docx4j-JAXB-MOXy:11.1.0`
+- :dvd: `org.docx4j.JAXB_ReferenceImpl` :left_right_arrow: `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.0`
+- :dvd: `org.docx4j.core` :left_right_arrow: `org.docx4j:docx4j-core:11.1.0`
+- :dvd: `org.docx4j.docx4j_diffx` :left_right_arrow: `org.docx4j:docx4j-diffx:11.1.0`
+- :dvd: `org.docx4j.docx_anon` :left_right_arrow: `org.docx4j:docx4j-docx-anon:11.1.0`
+- :dvd: `org.docx4j.openxml_objects` :left_right_arrow: `org.docx4j:docx4j-openxml-objects:11.1.0`
+- :dvd: `org.docx4j.openxml_objects_pml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-pml:11.1.0`
+- :dvd: `org.docx4j.openxml_objects_sml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-sml:11.1.0`
 - :cd: `org.drombler.jstore.protocol` :left_right_arrow: `org.drombler.jstore.protocol:drombler-jstore-protocol:0.4`
 - :cd: `org.drools.android` :left_right_arrow: `org.drools:drools-android:7.22.0.t042`
 - :cd: `org.drools.beliefs` :left_right_arrow: `org.drools:drools-beliefs:7.22.0.t042`
@@ -3143,6 +3151,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.3`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.9`
 - :cd: `org.firebirdsql.decimal` :left_right_arrow: `org.firebirdsql:decimal-java:1.0.0`
+- :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.0`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta2`
 - :cd: `org.fusesource.hawtjni.runtime` :left_right_arrow: `org.fusesource.hawtjni:hawtjni-runtime:1.17`
 - :cd: `org.fusesource.jansi` :left_right_arrow: `org.fusesource.jansi:jansi:1.18`
