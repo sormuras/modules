@@ -4013,6 +4013,8 @@
 - :cd: `io.micronaut.neo4j_gorm` :left_right_arrow: `io.micronaut.configuration:micronaut-neo4j-gorm:1.1.0.RC2` // `io.micronaut.configuration,micronaut-neo4j-gorm,1.1.0.RC2,io.micronaut.neo4j_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.neo4j_gorm` :left_right_arrow: `io.micronaut.configuration:micronaut-neo4j-gorm:1.1.1` // `io.micronaut.configuration,micronaut-neo4j-gorm,1.1.1,io.micronaut.neo4j_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_ldap` :left_right_arrow: `io.micronaut.configuration:micronaut-security-ldap:1.1.1` // `io.micronaut.configuration,micronaut-security-ldap,1.1.1,io.micronaut.security_ldap,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_ldap` :left_right_arrow: `io.micronaut.configuration:micronaut-security-ldap:1.2.0.RC1` // `io.micronaut.configuration,micronaut-security-ldap,1.2.0.RC1,io.micronaut.security_ldap,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_oauth2` :left_right_arrow: `io.micronaut.configuration:micronaut-security-oauth2:1.2.0.RC1` // `io.micronaut.configuration,micronaut-security-oauth2,1.2.0.RC1,io.micronaut.security_oauth2,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.core` :left_right_arrow: `io.swagger.core.v3:swagger-core:2.0.8` // `io.swagger.core.v3,swagger-core,2.0.8,io.swagger.v3.core,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.jaxrs2` :left_right_arrow: `io.swagger.core.v3:swagger-jaxrs2:2.0.8` // `io.swagger.core.v3,swagger-jaxrs2,2.0.8,io.swagger.v3.jaxrs2,-,automatic,-,false,-`
 - :cd: `io.swagger.v3.jaxrs2.integration` :left_right_arrow: `io.swagger.core.v3:swagger-jaxrs2-servlet-initializer:2.0.8` // `io.swagger.core.v3,swagger-jaxrs2-servlet-initializer,2.0.8,io.swagger.v3.jaxrs2.integration,-,automatic,-,false,-`
@@ -4112,6 +4114,7 @@
 - :dvd: `java.transaction` :left_right_arrow: `org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:2.0.0.Alpha1` // `org.jboss.spec.javax.transaction,jboss-transaction-api_1.2_spec,2.0.0.Alpha1,java.transaction,-,explicit,java.sql + beta.jboss.interceptor.api_1_2 + java.rmi + cdi.api + java.base,false,-`
 - :cd: `java.validation` :left_right_arrow: `jakarta.validation:jakarta.validation-api:2.0.1` // `jakarta.validation,jakarta.validation-api,2.0.1,java.validation,-,automatic,-,false,-`
 - :cd: `java.validation` :left_right_arrow: `org.apache.geronimo.specs:geronimo-validation_2.0_spec:1.0` // `org.apache.geronimo.specs,geronimo-validation_2.0_spec,1.0,java.validation,-,automatic,-,false,-`
+- :dvd: `java.ws.rs` :left_right_arrow: `cc.kebei:boot-in-jar:1.1` // `cc.kebei,boot-in-jar,1.1,java.ws.rs,-,explicit,java.base + java.logging + java.xml.bind,false,-`
 - :dvd: `java.ws.rs` :left_right_arrow: `de.foellix:AQL-System:1.2.0` // `de.foellix,AQL-System,1.2.0,java.ws.rs,-,explicit,java.base + java.logging + java.xml.bind,false,-`
 - :dvd: `java.ws.rs` :left_right_arrow: `jakarta.ws.rs:jakarta.ws.rs-api:2.1.2` // `jakarta.ws.rs,jakarta.ws.rs-api,2.1.2,java.ws.rs,-,explicit,java.base + java.xml.bind + java.logging,false,-`
 - :dvd: `java.ws.rs` :left_right_arrow: `jakarta.ws.rs:jakarta.ws.rs-api:2.1.4` // `jakarta.ws.rs,jakarta.ws.rs-api,2.1.4,java.ws.rs,-,explicit,java.base + java.logging + java.xml.bind,false,-`
@@ -4420,22 +4423,32 @@
 - :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.2.0-rc1` // `io.github.ma1uta.matrix,jsonb-support,0.2.0-rc1,matrix.support.jsonb,-,explicit,java.base + java.json + matrix.common.api,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.0` // `net.dreamlu,mica-boot,1.1.0,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.1` // `net.dreamlu,mica-boot,1.1.1,mica.boot,-,automatic,-,false,-`
+- :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.2` // `net.dreamlu,mica-boot,1.1.2,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.0` // `net.dreamlu,mica-boot-test,1.1.0,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.1` // `net.dreamlu,mica-boot-test,1.1.1,mica.boot.test,-,automatic,-,false,-`
+- :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.2` // `net.dreamlu,mica-boot-test,1.1.2,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.0` // `net.dreamlu,mica-captcha,1.1.0,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.1` // `net.dreamlu,mica-captcha,1.1.1,mica.captcha,-,automatic,-,false,-`
+- :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.2` // `net.dreamlu,mica-captcha,1.1.2,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.0` // `net.dreamlu,mica-cloud,1.1.0,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.1` // `net.dreamlu,mica-cloud,1.1.1,mica.cloud,-,automatic,-,false,-`
+- :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.2` // `net.dreamlu,mica-cloud,1.1.2,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.0` // `net.dreamlu,mica-core,1.1.0,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.1` // `net.dreamlu,mica-core,1.1.1,mica.core,-,automatic,-,false,-`
+- :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.2` // `net.dreamlu,mica-core,1.1.2,mica.core,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.0` // `net.dreamlu,mica-launcher,1.1.0,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.1` // `net.dreamlu,mica-launcher,1.1.1,mica.launcher,-,automatic,-,false,-`
+- :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.2` // `net.dreamlu,mica-launcher,1.1.2,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.0` // `net.dreamlu,mica-log4j2,1.1.0,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.1` // `net.dreamlu,mica-log4j2,1.1.1,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.2` // `net.dreamlu,mica-log4j2,1.1.2,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.0` // `net.dreamlu,mica-plus-mongo,1.1.0,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.1` // `net.dreamlu,mica-plus-mongo,1.1.1,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.2` // `net.dreamlu,mica-plus-mongo,1.1.2,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.0` // `net.dreamlu,mica-plus-redis,1.1.0,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.1` // `net.dreamlu,mica-plus-redis,1.1.1,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.2` // `net.dreamlu,mica-plus-redis,1.1.2,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.2` // `net.dreamlu,mica-plus-swagger,1.1.2,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.0` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.0,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.1` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.1,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.disable` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:disable-extension:1.1.0` // `name.falgout.jeffrey.testing.junit5,disable-extension,1.1.0,name.falgout.jeffrey.testing.junit.disable,-,automatic,-,false,-`
@@ -4576,8 +4589,11 @@
 - :dvd: `netiberos.endpoint.vertx` :left_right_arrow: `com.github.casterkkk:netiberos-endpoint-vertx:0.0.1` // `com.github.casterkkk,netiberos-endpoint-vertx,0.0.1,netiberos.endpoint.vertx,-,explicit,java.base + java.sql + netiberos.core + org.apache.logging.log4j + vertx.auth.common + vertx.core + vertx.redis.client + vertx.web + vertx.web.common,false,-`
 - :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.1` // `no.ssb.spi,service-provider-api,0.1,no.ssb.service.provider.api,-,explicit,java.base + no.ssb.config + org.slf4j,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.1.RELEASE` // `io.spring.nohttp,nohttp,0.0.1.RELEASE,nohttp,-,automatic,-,false,-`
+- :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.2.RELEASE` // `io.spring.nohttp,nohttp,0.0.2.RELEASE,nohttp,-,automatic,-,false,-`
 - :cd: `nohttp.checkstyle` :left_right_arrow: `io.spring.nohttp:nohttp-checkstyle:0.0.1.RELEASE` // `io.spring.nohttp,nohttp-checkstyle,0.0.1.RELEASE,nohttp.checkstyle,-,automatic,-,false,-`
+- :cd: `nohttp.checkstyle` :left_right_arrow: `io.spring.nohttp:nohttp-checkstyle:0.0.2.RELEASE` // `io.spring.nohttp,nohttp-checkstyle,0.0.2.RELEASE,nohttp.checkstyle,-,automatic,-,false,-`
 - :cd: `nohttp.gradle` :left_right_arrow: `io.spring.nohttp:nohttp-gradle:0.0.1.RELEASE` // `io.spring.nohttp,nohttp-gradle,0.0.1.RELEASE,nohttp.gradle,-,automatic,-,false,-`
+- :cd: `nohttp.gradle` :left_right_arrow: `io.spring.nohttp:nohttp-gradle:0.0.2.RELEASE` // `io.spring.nohttp,nohttp-gradle,0.0.2.RELEASE,nohttp.gradle,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.0.90` // `io.github.soc,ogc-tools-gml-jts,1.0.90,ogc.tools.gml.jts,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.0.92` // `io.github.soc,ogc-tools-gml-jts,1.0.92,ogc.tools.gml.jts,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.1.90` // `io.github.soc,ogc-tools-gml-jts,1.1.90,ogc.tools.gml.jts,-,automatic,-,false,-`
@@ -8288,38 +8304,55 @@
 - :cd: `reactor.rabbitmq` :left_right_arrow: `io.projectreactor.rabbitmq:reactor-rabbitmq:1.2.0.RELEASE` // `io.projectreactor.rabbitmq,reactor-rabbitmq,1.2.0.RELEASE,reactor.rabbitmq,-,automatic,-,false,-`
 - :cd: `retrofit2` :left_right_arrow: `com.squareup.retrofit2:retrofit:2.4.0` // `com.squareup.retrofit2,retrofit,2.4.0,retrofit2,-,automatic,-,false,-`
 - :cd: `retrofit2` :left_right_arrow: `com.squareup.retrofit2:retrofit:2.5.0` // `com.squareup.retrofit2,retrofit,2.5.0,retrofit2,-,automatic,-,false,-`
+- :cd: `retrofit2` :left_right_arrow: `com.squareup.retrofit2:retrofit:2.6.0` // `com.squareup.retrofit2,retrofit,2.6.0,retrofit2,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.guava` :left_right_arrow: `com.squareup.retrofit2:adapter-guava:2.4.0` // `com.squareup.retrofit2,adapter-guava,2.4.0,retrofit2.adapter.guava,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.guava` :left_right_arrow: `com.squareup.retrofit2:adapter-guava:2.5.0` // `com.squareup.retrofit2,adapter-guava,2.5.0,retrofit2.adapter.guava,-,automatic,-,false,-`
+- :cd: `retrofit2.adapter.guava` :left_right_arrow: `com.squareup.retrofit2:adapter-guava:2.6.0` // `com.squareup.retrofit2,adapter-guava,2.6.0,retrofit2.adapter.guava,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.java8` :left_right_arrow: `com.squareup.retrofit2:adapter-java8:2.4.0` // `com.squareup.retrofit2,adapter-java8,2.4.0,retrofit2.adapter.java8,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.java8` :left_right_arrow: `com.squareup.retrofit2:adapter-java8:2.5.0` // `com.squareup.retrofit2,adapter-java8,2.5.0,retrofit2.adapter.java8,-,automatic,-,false,-`
+- :cd: `retrofit2.adapter.java8` :left_right_arrow: `com.squareup.retrofit2:adapter-java8:2.6.0` // `com.squareup.retrofit2,adapter-java8,2.6.0,retrofit2.adapter.java8,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.rxjava` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava:2.4.0` // `com.squareup.retrofit2,adapter-rxjava,2.4.0,retrofit2.adapter.rxjava,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.rxjava` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava:2.5.0` // `com.squareup.retrofit2,adapter-rxjava,2.5.0,retrofit2.adapter.rxjava,-,automatic,-,false,-`
+- :cd: `retrofit2.adapter.rxjava` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava:2.6.0` // `com.squareup.retrofit2,adapter-rxjava,2.6.0,retrofit2.adapter.rxjava,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.rxjava2` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava2:2.4.0` // `com.squareup.retrofit2,adapter-rxjava2,2.4.0,retrofit2.adapter.rxjava2,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.rxjava2` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava2:2.5.0` // `com.squareup.retrofit2,adapter-rxjava2,2.5.0,retrofit2.adapter.rxjava2,-,automatic,-,false,-`
+- :cd: `retrofit2.adapter.rxjava2` :left_right_arrow: `com.squareup.retrofit2:adapter-rxjava2:2.6.0` // `com.squareup.retrofit2,adapter-rxjava2,2.6.0,retrofit2.adapter.rxjava2,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.scala` :left_right_arrow: `com.squareup.retrofit2:adapter-scala:2.4.0` // `com.squareup.retrofit2,adapter-scala,2.4.0,retrofit2.adapter.scala,-,automatic,-,false,-`
 - :cd: `retrofit2.adapter.scala` :left_right_arrow: `com.squareup.retrofit2:adapter-scala:2.5.0` // `com.squareup.retrofit2,adapter-scala,2.5.0,retrofit2.adapter.scala,-,automatic,-,false,-`
+- :cd: `retrofit2.adapter.scala` :left_right_arrow: `com.squareup.retrofit2:adapter-scala:2.6.0` // `com.squareup.retrofit2,adapter-scala,2.6.0,retrofit2.adapter.scala,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.gson` :left_right_arrow: `com.squareup.retrofit2:converter-gson:2.4.0` // `com.squareup.retrofit2,converter-gson,2.4.0,retrofit2.converter.gson,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.gson` :left_right_arrow: `com.squareup.retrofit2:converter-gson:2.5.0` // `com.squareup.retrofit2,converter-gson,2.5.0,retrofit2.converter.gson,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.gson` :left_right_arrow: `com.squareup.retrofit2:converter-gson:2.6.0` // `com.squareup.retrofit2,converter-gson,2.6.0,retrofit2.converter.gson,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.guava` :left_right_arrow: `com.squareup.retrofit2:converter-guava:2.4.0` // `com.squareup.retrofit2,converter-guava,2.4.0,retrofit2.converter.guava,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.guava` :left_right_arrow: `com.squareup.retrofit2:converter-guava:2.5.0` // `com.squareup.retrofit2,converter-guava,2.5.0,retrofit2.converter.guava,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.guava` :left_right_arrow: `com.squareup.retrofit2:converter-guava:2.6.0` // `com.squareup.retrofit2,converter-guava,2.6.0,retrofit2.converter.guava,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.jackson` :left_right_arrow: `com.squareup.retrofit2:converter-jackson:2.4.0` // `com.squareup.retrofit2,converter-jackson,2.4.0,retrofit2.converter.jackson,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.jackson` :left_right_arrow: `com.squareup.retrofit2:converter-jackson:2.5.0` // `com.squareup.retrofit2,converter-jackson,2.5.0,retrofit2.converter.jackson,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.jackson` :left_right_arrow: `com.squareup.retrofit2:converter-jackson:2.6.0` // `com.squareup.retrofit2,converter-jackson,2.6.0,retrofit2.converter.jackson,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.java8` :left_right_arrow: `com.squareup.retrofit2:converter-java8:2.4.0` // `com.squareup.retrofit2,converter-java8,2.4.0,retrofit2.converter.java8,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.java8` :left_right_arrow: `com.squareup.retrofit2:converter-java8:2.5.0` // `com.squareup.retrofit2,converter-java8,2.5.0,retrofit2.converter.java8,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.java8` :left_right_arrow: `com.squareup.retrofit2:converter-java8:2.6.0` // `com.squareup.retrofit2,converter-java8,2.6.0,retrofit2.converter.java8,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.jaxb` :left_right_arrow: `com.squareup.retrofit2:converter-jaxb:2.4.0` // `com.squareup.retrofit2,converter-jaxb,2.4.0,retrofit2.converter.jaxb,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.jaxb` :left_right_arrow: `com.squareup.retrofit2:converter-jaxb:2.5.0` // `com.squareup.retrofit2,converter-jaxb,2.5.0,retrofit2.converter.jaxb,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.jaxb` :left_right_arrow: `com.squareup.retrofit2:converter-jaxb:2.6.0` // `com.squareup.retrofit2,converter-jaxb,2.6.0,retrofit2.converter.jaxb,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.moshi` :left_right_arrow: `com.squareup.retrofit2:converter-moshi:2.4.0` // `com.squareup.retrofit2,converter-moshi,2.4.0,retrofit2.converter.moshi,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.moshi` :left_right_arrow: `com.squareup.retrofit2:converter-moshi:2.5.0` // `com.squareup.retrofit2,converter-moshi,2.5.0,retrofit2.converter.moshi,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.moshi` :left_right_arrow: `com.squareup.retrofit2:converter-moshi:2.6.0` // `com.squareup.retrofit2,converter-moshi,2.6.0,retrofit2.converter.moshi,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.protobuf` :left_right_arrow: `com.squareup.retrofit2:converter-protobuf:2.4.0` // `com.squareup.retrofit2,converter-protobuf,2.4.0,retrofit2.converter.protobuf,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.protobuf` :left_right_arrow: `com.squareup.retrofit2:converter-protobuf:2.5.0` // `com.squareup.retrofit2,converter-protobuf,2.5.0,retrofit2.converter.protobuf,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.protobuf` :left_right_arrow: `com.squareup.retrofit2:converter-protobuf:2.6.0` // `com.squareup.retrofit2,converter-protobuf,2.6.0,retrofit2.converter.protobuf,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.scalars` :left_right_arrow: `com.squareup.retrofit2:converter-scalars:2.4.0` // `com.squareup.retrofit2,converter-scalars,2.4.0,retrofit2.converter.scalars,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.scalars` :left_right_arrow: `com.squareup.retrofit2:converter-scalars:2.5.0` // `com.squareup.retrofit2,converter-scalars,2.5.0,retrofit2.converter.scalars,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.scalars` :left_right_arrow: `com.squareup.retrofit2:converter-scalars:2.6.0` // `com.squareup.retrofit2,converter-scalars,2.6.0,retrofit2.converter.scalars,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.simplexml` :left_right_arrow: `com.squareup.retrofit2:converter-simplexml:2.4.0` // `com.squareup.retrofit2,converter-simplexml,2.4.0,retrofit2.converter.simplexml,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.simplexml` :left_right_arrow: `com.squareup.retrofit2:converter-simplexml:2.5.0` // `com.squareup.retrofit2,converter-simplexml,2.5.0,retrofit2.converter.simplexml,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.simplexml` :left_right_arrow: `com.squareup.retrofit2:converter-simplexml:2.6.0` // `com.squareup.retrofit2,converter-simplexml,2.6.0,retrofit2.converter.simplexml,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.wire` :left_right_arrow: `com.squareup.retrofit2:converter-wire:2.4.0` // `com.squareup.retrofit2,converter-wire,2.4.0,retrofit2.converter.wire,-,automatic,-,false,-`
 - :cd: `retrofit2.converter.wire` :left_right_arrow: `com.squareup.retrofit2:converter-wire:2.5.0` // `com.squareup.retrofit2,converter-wire,2.5.0,retrofit2.converter.wire,-,automatic,-,false,-`
+- :cd: `retrofit2.converter.wire` :left_right_arrow: `com.squareup.retrofit2:converter-wire:2.6.0` // `com.squareup.retrofit2,converter-wire,2.6.0,retrofit2.converter.wire,-,automatic,-,false,-`
 - :cd: `retrofit2.mock` :left_right_arrow: `com.squareup.retrofit2:retrofit-mock:2.4.0` // `com.squareup.retrofit2,retrofit-mock,2.4.0,retrofit2.mock,-,automatic,-,false,-`
 - :cd: `retrofit2.mock` :left_right_arrow: `com.squareup.retrofit2:retrofit-mock:2.5.0` // `com.squareup.retrofit2,retrofit-mock,2.5.0,retrofit2.mock,-,automatic,-,false,-`
+- :cd: `retrofit2.mock` :left_right_arrow: `com.squareup.retrofit2:retrofit-mock:2.6.0` // `com.squareup.retrofit2,retrofit-mock,2.6.0,retrofit2.mock,-,automatic,-,false,-`
 - :dvd: `scriptbasic` :left_right_arrow: `com.scriptbasic:jscriptbasic:1.0.5` // `com.scriptbasic,jscriptbasic,1.0.5,scriptbasic,-,explicit,java.base + java.scripting,false,-`
 - :dvd: `semargl.core` :left_right_arrow: `fr.inria.corese.org.semarglproject:semargl-core:0.7.2` // `fr.inria.corese.org.semarglproject,semargl-core,0.7.2,semargl.core,-,explicit,java.xml + java.base,false,-`
 - :dvd: `semargl.jsonld` :left_right_arrow: `fr.inria.corese.org.semarglproject:semargl-jsonld:0.7.2` // `fr.inria.corese.org.semarglproject,semargl-jsonld,0.7.2,semargl.jsonld,-,explicit,java.xml + semargl.rdf + semargl.core + java.base,true,-`
