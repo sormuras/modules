@@ -4217,7 +4217,9 @@
 - :cd: `jetty.servlet.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-servlet-api:4.0.2` // `org.eclipse.jetty.toolchain,jetty-servlet-api,4.0.2,jetty.servlet.api,-,automatic,-,false,-`
 - :cd: `jetty.websocket.api` :left_right_arrow: `org.eclipse.jetty.toolchain:jetty-javax-websocket-api:1.1.1` // `org.eclipse.jetty.toolchain,jetty-javax-websocket-api,1.1.1,jetty.websocket.api,-,automatic,-,false,-`
 - :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.20` // `com.github.jnr,jnr-enxio,0.20,jnr.enxio,-,automatic,-,false,-`
+- :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.21` // `com.github.jnr,jnr-enxio,0.21,jnr.enxio,-,automatic,-,false,-`
 - :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.22` // `com.github.jnr,jnr-unixsocket,0.22,jnr.unixsocket,-,automatic,-,false,-`
+- :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.23` // `com.github.jnr,jnr-unixsocket,0.23,jnr.unixsocket,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.0` // `org.joinfaces,joinfaces-autoconfigure,4.0.0,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.1` // `org.joinfaces,joinfaces-autoconfigure,4.0.1,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.2` // `org.joinfaces,joinfaces-autoconfigure,4.0.2,joinfaces.autoconfigure,-,automatic,-,false,-`
