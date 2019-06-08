@@ -906,6 +906,7 @@
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_sjs0.6_2.13.0-RC1:0.1.6` // `com.lihaoyi,sourcecode_sjs0.6_2.13.0-RC1,0.1.6,com.lihaoyi.sourcecode,-,automatic,-,false,-`
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:jarexec.plugin:0.4.9` // `com.lingocoder,jarexec.plugin,0.4.9,com.lingocoder.core,-,automatic,-,true,-`
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:jarexec.plugin:0.5.0` // `com.lingocoder,jarexec.plugin,0.5.0,com.lingocoder.core,-,automatic,-,true,-`
+- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:jarexec.plugin:0.5.1` // `com.lingocoder,jarexec.plugin,0.5.1,com.lingocoder.core,-,automatic,-,true,-`
 - :dvd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.jwebmp.jpms.sqlserver:mssql-jdbc:0.67.0.12` // `com.jwebmp.jpms.sqlserver,mssql-jdbc,0.67.0.12,com.microsoft.sqlserver.jdbc,0.67.0.12,explicit,adal4j + azure.client.runtime + azure.keyvault + azure.keyvault.webkey + client.runtime + java.base + java.naming + java.security.jgss + java.sql + okhttp3 + retrofit2,false,-`
 - :dvd: `com.nexitia.emaginplatform.coreview.definition` :left_right_arrow: `com.nexitia.emaginplatform:emagin-jfxcore-viewdefinition-json:11.1` // `com.nexitia.emaginplatform,emagin-jfxcore-viewdefinition-json,11.1,com.nexitia.emaginplatform.coreview.definition,-,explicit,java.base,false,-`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.10` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.10,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -1123,6 +1124,7 @@
 - :cd: `io.micronaut.configuration.cassandra` :left_right_arrow: `io.micronaut.configuration:micronaut-cassandra:1.1.1` // `io.micronaut.configuration,micronaut-cassandra,1.1.1,io.micronaut.configuration.cassandra,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.cassandra` :left_right_arrow: `io.micronaut.configuration:micronaut-cassandra:1.1.2` // `io.micronaut.configuration,micronaut-cassandra,1.1.2,io.micronaut.configuration.cassandra,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.cassandra` :left_right_arrow: `io.micronaut.configuration:micronaut-cassandra:1.1.3` // `io.micronaut.configuration,micronaut-cassandra,1.1.3,io.micronaut.configuration.cassandra,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.cassandra` :left_right_arrow: `io.micronaut.configuration:micronaut-cassandra:1.2.0.RC1` // `io.micronaut.configuration,micronaut-cassandra,1.2.0.RC1,io.micronaut.configuration.cassandra,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.gorm_common` :left_right_arrow: `io.micronaut.configuration:micronaut-gorm-common:1.0.0` // `io.micronaut.configuration,micronaut-gorm-common,1.0.0,io.micronaut.configuration.gorm_common,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.gorm_common` :left_right_arrow: `io.micronaut.configuration:micronaut-gorm-common:1.0.0.RC3` // `io.micronaut.configuration,micronaut-gorm-common,1.0.0.RC3,io.micronaut.configuration.gorm_common,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.gorm_common` :left_right_arrow: `io.micronaut.configuration:micronaut-gorm-common:1.0.1` // `io.micronaut.configuration,micronaut-gorm-common,1.0.1,io.micronaut.configuration.gorm_common,-,automatic,-,false,-`
@@ -1158,6 +1160,7 @@
 - :cd: `io.micronaut.configuration.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:micronaut-hibernate-validator:1.1.1` // `io.micronaut.configuration,micronaut-hibernate-validator,1.1.1,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:micronaut-hibernate-validator:1.1.2` // `io.micronaut.configuration,micronaut-hibernate-validator,1.1.2,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:micronaut-hibernate-validator:1.1.3` // `io.micronaut.configuration,micronaut-hibernate-validator,1.1.3,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:micronaut-hibernate-validator:1.2.0.RC1` // `io.micronaut.configuration,micronaut-hibernate-validator,1.2.0.RC1,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` :left_right_arrow: `io.micronaut.configuration:micronaut-jdbc-dbcp:1.0.0` // `io.micronaut.configuration,micronaut-jdbc-dbcp,1.0.0,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` :left_right_arrow: `io.micronaut.configuration:micronaut-jdbc-dbcp:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jdbc-dbcp,1.0.0.RC3,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` :left_right_arrow: `io.micronaut.configuration:micronaut-jdbc-dbcp:1.0.1` // `io.micronaut.configuration,micronaut-jdbc-dbcp,1.0.1,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
@@ -1350,6 +1353,7 @@
 - :cd: `io.micronaut.configuration.picocli` :left_right_arrow: `io.micronaut.configuration:micronaut-picocli:1.1.1` // `io.micronaut.configuration,micronaut-picocli,1.1.1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` :left_right_arrow: `io.micronaut.configuration:micronaut-picocli:1.1.2` // `io.micronaut.configuration,micronaut-picocli,1.1.2,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` :left_right_arrow: `io.micronaut.configuration:micronaut-picocli:1.1.3` // `io.micronaut.configuration,micronaut-picocli,1.1.3,io.micronaut.configuration.picocli,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.picocli` :left_right_arrow: `io.micronaut.configuration:micronaut-picocli:1.2.0.RC1` // `io.micronaut.configuration,micronaut-picocli,1.2.0.RC1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.postgres_reactive` :left_right_arrow: `io.micronaut.configuration:micronaut-postgres-reactive:1.0.0` // `io.micronaut.configuration,micronaut-postgres-reactive,1.0.0,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.postgres_reactive` :left_right_arrow: `io.micronaut.configuration:micronaut-postgres-reactive:1.0.0.RC3` // `io.micronaut.configuration,micronaut-postgres-reactive,1.0.0.RC3,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.postgres_reactive` :left_right_arrow: `io.micronaut.configuration:micronaut-postgres-reactive:1.0.1` // `io.micronaut.configuration,micronaut-postgres-reactive,1.0.1,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
@@ -1705,6 +1709,7 @@
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.1` // `io.micronaut,micronaut-router,1.1.1,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.2` // `io.micronaut,micronaut-router,1.1.2,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.3` // `io.micronaut,micronaut-router,1.1.3,io.micronaut.router,-,automatic,-,false,-`
+- :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.2.0.RC1` // `io.micronaut,micronaut-router,1.2.0.RC1,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.0.0` // `io.micronaut,micronaut-runtime,1.0.0,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.0.0.RC3` // `io.micronaut,micronaut-runtime,1.0.0.RC3,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.0.1` // `io.micronaut,micronaut-runtime,1.0.1,io.micronaut.runtime,-,automatic,-,false,-`
@@ -1719,6 +1724,7 @@
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.1` // `io.micronaut,micronaut-runtime,1.1.1,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.2` // `io.micronaut,micronaut-runtime,1.1.2,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.3` // `io.micronaut,micronaut-runtime,1.1.3,io.micronaut.runtime,-,automatic,-,false,-`
+- :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.2.0.RC1` // `io.micronaut,micronaut-runtime,1.2.0.RC1,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` :left_right_arrow: `io.micronaut:micronaut-runtime-groovy:1.0.0` // `io.micronaut,micronaut-runtime-groovy,1.0.0,io.micronaut.runtime_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` :left_right_arrow: `io.micronaut:micronaut-runtime-groovy:1.0.0.RC3` // `io.micronaut,micronaut-runtime-groovy,1.0.0.RC3,io.micronaut.runtime_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` :left_right_arrow: `io.micronaut:micronaut-runtime-groovy:1.0.1` // `io.micronaut,micronaut-runtime-groovy,1.0.1,io.micronaut.runtime_groovy,-,automatic,-,false,-`
@@ -1782,6 +1788,7 @@
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.1` // `io.micronaut,micronaut-session,1.1.1,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.2` // `io.micronaut,micronaut-session,1.1.2,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.3` // `io.micronaut,micronaut-session,1.1.3,io.micronaut.session,-,automatic,-,false,-`
+- :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.2.0.RC1` // `io.micronaut,micronaut-session,1.2.0.RC1,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.0.0` // `io.micronaut,micronaut-spring,1.0.0,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.0.0.RC3` // `io.micronaut,micronaut-spring,1.0.0.RC3,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.0.1` // `io.micronaut,micronaut-spring,1.0.1,io.micronaut.spring,-,automatic,-,false,-`
@@ -1796,6 +1803,7 @@
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.1` // `io.micronaut,micronaut-spring,1.1.1,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.2` // `io.micronaut,micronaut-spring,1.1.2,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.3` // `io.micronaut,micronaut-spring,1.1.3,io.micronaut.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.2.0.RC1` // `io.micronaut,micronaut-spring,1.2.0.RC1,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.0` // `io.micronaut.test,micronaut-test-core,1.0.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.0.RC1` // `io.micronaut.test,micronaut-test-core,1.0.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.0.RC2` // `io.micronaut.test,micronaut-test-core,1.0.0.RC2,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -1831,6 +1839,7 @@
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.1` // `io.micronaut,micronaut-tracing,1.1.1,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.2` // `io.micronaut,micronaut-tracing,1.1.2,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.3` // `io.micronaut,micronaut-tracing,1.1.3,io.micronaut.tracing,-,automatic,-,false,-`
+- :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.2.0.RC1` // `io.micronaut,micronaut-tracing,1.2.0.RC1,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.0.0` // `io.micronaut,micronaut-validation,1.0.0,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.0.0.RC3` // `io.micronaut,micronaut-validation,1.0.0.RC3,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.0.1` // `io.micronaut,micronaut-validation,1.0.1,io.micronaut.validation,-,automatic,-,false,-`
@@ -1845,6 +1854,7 @@
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.1` // `io.micronaut,micronaut-validation,1.1.1,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.2` // `io.micronaut,micronaut-validation,1.1.2,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.3` // `io.micronaut,micronaut-validation,1.1.3,io.micronaut.validation,-,automatic,-,false,-`
+- :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.2.0.RC1` // `io.micronaut,micronaut-validation,1.2.0.RC1,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.0.0.RC3` // `io.micronaut,micronaut-views,1.0.0.RC3,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.0.1` // `io.micronaut,micronaut-views,1.0.1,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.0.2` // `io.micronaut,micronaut-views,1.0.2,io.micronaut.views,-,automatic,-,false,-`
@@ -1873,6 +1883,7 @@
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.1` // `io.micronaut,micronaut-websocket,1.1.1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.2` // `io.micronaut,micronaut-websocket,1.1.2,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.3` // `io.micronaut,micronaut-websocket,1.1.3,io.micronaut.websocket,-,automatic,-,false,-`
+- :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.2.0.RC1` // `io.micronaut,micronaut-websocket,1.2.0.RC1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` :left_right_arrow: `io.pebbletemplates:pebble-spring4:3.0.10` // `io.pebbletemplates,pebble-spring4,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` :left_right_arrow: `io.pebbletemplates:pebble-spring4:3.0.7` // `io.pebbletemplates,pebble-spring4,3.0.7,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` :left_right_arrow: `io.pebbletemplates:pebble-spring4:3.0.8` // `io.pebbletemplates,pebble-spring4,3.0.8,io.pebbletemplates.spring,-,automatic,-,false,-`

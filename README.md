@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4570 Java modules published at Maven Central
 
-## Summary 2019-06-07T22:27:35.811290Z
+## Summary 2019-06-08T22:28:31.896411Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-07T22:27:35.811290Z
-Scanned 23,009 files in 3 seconds.
+Started scan at 2019-06-08T22:28:31.896411Z
+Scanned 23,066 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_07_22_13_22.csv
+    last -> modulescanner-report-2019_06_08_21_51_44.csv
 
-Parsed 1,453,352 lines in total.
-  26,894 -> captions skipped
-  88,847 -> duplicates skipped
-  56,678 -> module related
+Parsed 1,456,008 lines in total.
+  26,951 -> captions skipped
+  88,939 -> duplicates skipped
+  56,731 -> module related
 
 Collected 4,570 unique modules.
   automatic :cd: -> 3,492
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [5943](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8655](suspicious/naming.md)
-- Modular impostors: [2963](suspicious/impostors.md)
+- Invalid module names: [5961](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8656](suspicious/naming.md)
+- Modular impostors: [2974](suspicious/impostors.md)
 
 ## Unique Modules (4570)
 
@@ -179,7 +179,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `ch.obermuhlner.math.big` :left_right_arrow: `ch.obermuhlner:big-math:2.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha4`
-- :cd: `ch.ralscha.extdirectspring` :left_right_arrow: `ch.ralscha:extdirectspring:1.8.0`
+- :cd: `ch.ralscha.extdirectspring` :left_right_arrow: `ch.ralscha:extdirectspring:1.8.1`
 - :cd: `ch.rasc.bsoncodec.annotations` :left_right_arrow: `ch.rasc:bsoncodec-annotations:1.0.6`
 - :cd: `ch.rasc.piwik` :left_right_arrow: `ch.rasc:piwik-tracking:1.0.2`
 - :cd: `ch.rasc.sse.eventbus` :left_right_arrow: `ch.rasc:sse-eventbus:1.1.7`
@@ -1008,7 +1008,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.0`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.0`
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.7`
-- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.0`
+- :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.1`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.0.jre11-preview`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.2.1`
@@ -1410,7 +1410,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras.junit:junit-platform-isolator-worker:1.0.0-M10`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2-ea`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.1`
 - :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:connector:0.8.0`
 - :cd: `de.stklcode.pubtrans.juraclient` :left_right_arrow: `de.stklcode.pubtrans:juraclient:1.1.4`
 - :cd: `de.ubleipzig.iiif.vocabulary` :left_right_arrow: `de.ubleipzig:iiif.vocabulary:0.1.1`
@@ -3454,17 +3454,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kie.karaf.features` :left_right_arrow: `org.kie:kie-karaf-features:7.22.0.t042`
 - :cd: `org.kie.karaf.itests.domain.model` :left_right_arrow: `org.kie:kie-karaf-itests-domain-model:7.22.0.t042`
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.kie:kie-karaf-itests:7.22.0.t042`
-- :cd: `org.kie.kogito.api` :left_right_arrow: `org.kie.kogito:kogito-api:0.1.0`
-- :cd: `org.kie.kogito.common.services` :left_right_arrow: `org.kie.kogito:kogito-services:0.1.0`
-- :cd: `org.kie.kogito.drools.compiler` :left_right_arrow: `org.kie.kogito:drools-compiler:0.1.0`
-- :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-constraint-parser:0.1.0`
-- :cd: `org.kie.kogito.drools.core` :left_right_arrow: `org.kie.kogito:drools-core:0.1.0`
-- :cd: `org.kie.kogito.drools.core.dynamic` :left_right_arrow: `org.kie.kogito:drools-core-dynamic:0.1.0`
-- :cd: `org.kie.kogito.drools.core.reflective` :left_right_arrow: `org.kie.kogito:drools-core-reflective:0.1.0`
-- :cd: `org.kie.kogito.internal.api` :left_right_arrow: `org.kie.kogito:kogito-internal:0.1.0`
-- :cd: `org.kie.kogito.jbpm.bpmn2` :left_right_arrow: `org.kie.kogito:jbpm-bpmn2:0.1.0`
-- :cd: `org.kie.kogito.jbpm.flow.builder` :left_right_arrow: `org.kie.kogito:jbpm-flow-builder:0.1.0`
-- :cd: `org.kie.kogito.jbpm.flow.core` :left_right_arrow: `org.kie.kogito:jbpm-flow:0.1.0`
+- :cd: `org.kie.kogito.api` :left_right_arrow: `org.kie.kogito:kogito-api:0.1.1`
+- :cd: `org.kie.kogito.common.services` :left_right_arrow: `org.kie.kogito:kogito-services:0.1.1`
+- :cd: `org.kie.kogito.drools.compiler` :left_right_arrow: `org.kie.kogito:drools-compiler:0.1.1`
+- :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-constraint-parser:0.1.1`
+- :cd: `org.kie.kogito.drools.core` :left_right_arrow: `org.kie.kogito:drools-core:0.1.1`
+- :cd: `org.kie.kogito.drools.core.dynamic` :left_right_arrow: `org.kie.kogito:drools-core-dynamic:0.1.1`
+- :cd: `org.kie.kogito.drools.core.reflective` :left_right_arrow: `org.kie.kogito:drools-core-reflective:0.1.1`
+- :cd: `org.kie.kogito.internal.api` :left_right_arrow: `org.kie.kogito:kogito-internal:0.1.1`
+- :cd: `org.kie.kogito.jbpm.bpmn2` :left_right_arrow: `org.kie.kogito:jbpm-bpmn2:0.1.1`
+- :cd: `org.kie.kogito.jbpm.flow.builder` :left_right_arrow: `org.kie.kogito:jbpm-flow-builder:0.1.1`
+- :cd: `org.kie.kogito.jbpm.flow.core` :left_right_arrow: `org.kie.kogito:jbpm-flow:0.1.1`
 - :cd: `org.kie.osgi.integration` :left_right_arrow: `org.kie:kie-osgi-integration:7.22.0.t042`
 - :cd: `org.kie.performance.kit` :left_right_arrow: `org.kie:kie-performance-kit:7.22.0.t042`
 - :cd: `org.kie.scanner.osgi` :left_right_arrow: `org.kie:kie-ci-osgi:7.22.0.t042`
@@ -3985,17 +3985,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.scijava` :left_right_arrow: `org.scijava:scijava-common:2.77.0`
 - :cd: `org.scijava.maven` :left_right_arrow: `org.scijava:scijava-maven-plugin:1.1.0`
 - :cd: `org.scijava.nativelib` :left_right_arrow: `org.scijava:native-lib-loader:2.3.4`
-- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.76`
+- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.77`
 - :dvd: `org.sejda.commons` :left_right_arrow: `org.sejda:sejda-commons:1.0.1`
-- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.76`
-- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.76`
-- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.76`
-- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.76`
-- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.76`
-- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.76`
-- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.76`
+- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.77`
+- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.77`
+- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.77`
+- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.77`
+- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.77`
+- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.77`
+- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.77`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
-- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.76`
+- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.77`
 - :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.55`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
