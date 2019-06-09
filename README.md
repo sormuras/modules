@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4570 Java modules published at Maven Central
 
-## Summary 2019-06-08T22:28:31.896411Z
+## Summary 2019-06-09T22:28:15.657504Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-08T22:28:31.896411Z
-Scanned 23,066 files in 3 seconds.
+Started scan at 2019-06-09T22:28:15.657504Z
+Scanned 23,126 files in 2 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_08_21_51_44.csv
+    last -> modulescanner-report-2019_06_09_21_58_27.csv
 
-Parsed 1,456,008 lines in total.
-  26,951 -> captions skipped
-  88,939 -> duplicates skipped
-  56,731 -> module related
+Parsed 1,459,212 lines in total.
+  27,011 -> captions skipped
+  88,990 -> duplicates skipped
+  56,757 -> module related
 
 Collected 4,570 unique modules.
   automatic :cd: -> 3,492
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [5961](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8656](suspicious/naming.md)
-- Modular impostors: [2974](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8665](suspicious/naming.md)
+- Modular impostors: [2975](suspicious/impostors.md)
 
 ## Unique Modules (4570)
 
@@ -489,19 +489,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.pukkaone.grapid.maven.plugin` :left_right_arrow: `com.github.pukkaone:grapid-maven-plugin:0.3.0`
 - :cd: `com.github.pukkaone.grapid.web.spring.boot.starter` :left_right_arrow: `com.github.pukkaone:grapid-web-spring-boot-starter:0.3.0`
 - :cd: `com.github.richardroda.util.closeit` :left_right_arrow: `com.github.richardroda.util:closeit:1.4`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.0`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.0`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.0`
-- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.0`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.1`
+- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.1`
 - :cd: `com.github.robozonky.installer` :left_right_arrow: `com.github.robozonky:robozonky-installer:5.1.1`
 - :cd: `com.github.robozonky.installer.panels` :left_right_arrow: `com.github.robozonky.installer:robozonky-installer-panels:4.5.3`
-- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.0`
-- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.0`
+- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.1`
+- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.1`
 - :cd: `com.github.robozonky.integrations.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.1.1`
 - :cd: `com.github.robozonky.marketplaces` :left_right_arrow: `com.github.robozonky:robozonky-marketplaces:4.3.4`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.0`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.0`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.0`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.1`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.3`
@@ -1410,7 +1410,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras.junit:junit-platform-isolator-worker:1.0.0-M10`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.1`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.2`
 - :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:connector:0.8.0`
 - :cd: `de.stklcode.pubtrans.juraclient` :left_right_arrow: `de.stklcode.pubtrans:juraclient:1.1.4`
 - :cd: `de.ubleipzig.iiif.vocabulary` :left_right_arrow: `de.ubleipzig:iiif.vocabulary:0.1.1`
@@ -1951,10 +1951,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.139`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.139`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.139`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.139`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.140`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.140`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.140`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.140`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.107`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.107`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.107`
@@ -2382,7 +2382,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.geronimo.microprofile.metrics.extension.common` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-extension-common:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.sigar` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-sigar:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.tomcat` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-tomcat:1.0.3`
-- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.8`
+- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.9`
 - :cd: `org.apache.geronimo.microprofile.reporter` :left_right_arrow: `org.apache.geronimo:geronimo-microprofile-reporter:1.0.2`
 - :cd: `org.apache.geronimo.opentracing` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing:1.0.2`
 - :cd: `org.apache.geronimo.opentracing.common` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing-common:1.0.2`
@@ -3571,7 +3571,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kordamp.jsilhouette.javafx` :left_right_arrow: `org.kordamp.jsilhouette:jsilhouette-javafx:0.3.0`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-core:0.3.2`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:0.16.0`
+- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:0.17.0`
 - :cd: `org.libj.exec` :left_right_arrow: `org.libj:exec:0.8.9`
 - :cd: `org.libj.io` :left_right_arrow: `org.libj:io:0.7.5`
 - :cd: `org.libj.jci` :left_right_arrow: `org.libj:jci:0.8.3`

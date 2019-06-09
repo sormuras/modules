@@ -1208,6 +1208,7 @@
 - :cd: `io.micronaut.configuration.jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-jmx:1.1.1` // `io.micronaut.configuration,micronaut-jmx,1.1.1,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-jmx:1.1.2` // `io.micronaut.configuration,micronaut-jmx,1.1.2,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-jmx:1.1.3` // `io.micronaut.configuration,micronaut-jmx,1.1.3,io.micronaut.configuration.jmx,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-jmx:1.2.0.RC1` // `io.micronaut.configuration,micronaut-jmx,1.2.0.RC1,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.kafka` :left_right_arrow: `io.micronaut.configuration:micronaut-kafka:1.0.0` // `io.micronaut.configuration,micronaut-kafka,1.0.0,io.micronaut.configuration.kafka,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.kafka` :left_right_arrow: `io.micronaut.configuration:micronaut-kafka:1.0.0.RC3` // `io.micronaut.configuration,micronaut-kafka,1.0.0.RC3,io.micronaut.configuration.kafka,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.kafka` :left_right_arrow: `io.micronaut.configuration:micronaut-kafka:1.0.1` // `io.micronaut.configuration,micronaut-kafka,1.0.1,io.micronaut.configuration.kafka,-,automatic,-,false,-`
