@@ -993,6 +993,7 @@
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.github.bogie-clj:playground:0.1.1` // `com.github.bogie-clj,playground,0.1.1,io.github.classgraph,4.6.32,explicit,java.base + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:1.6.1` // `com.networknt,codegen-cli,1.6.1,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:1.6.2` // `com.networknt,codegen-cli,1.6.2,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:1.6.4` // `com.networknt,codegen-cli,1.6.4,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` :left_right_arrow: `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `net.corda:corda-tools-network-bootstrapper:4.0` // `net.corda,corda-tools-network-bootstrapper,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -1990,6 +1991,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.3` // `com.undefinedlabs.scope,scope-agent,0.1.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.3-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.3-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.3-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.3-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4` // `com.undefinedlabs.scope,scope-agent,0.1.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.3` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -1998,6 +2000,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.6` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.7` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.8` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.9` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2385,6 +2388,7 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.1` // `org.eclipse.milo,server-examples,0.3.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.1-M1` // `org.eclipse.milo,server-examples,0.3.1-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:basicauth-security:2.7.0` // `org.wso2.msf4j,basicauth-security,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:msf4j-all:2.7.0` // `org.wso2.msf4j,msf4j-all,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:oauth2-security:2.7.0` // `org.wso2.msf4j,oauth2-security,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -2777,6 +2781,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1` // `com.github.collinalpert,java2db,4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1.1` // `com.github.collinalpert,java2db,4.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.2` // `com.github.collinalpert,java2db,4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.0` // `com.github.collinalpert,java2db,5.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
