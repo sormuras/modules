@@ -2342,6 +2342,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.finra.herd:herd-uploader:0.81.0` // `org.finra.herd,herd-uploader,0.81.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.finra.herd:herd-uploader:0.82.0` // `org.finra.herd,herd-uploader,0.82.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.finra.herd:herd-uploader:0.85.0` // `org.finra.herd,herd-uploader,0.85.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.odpi.egeria:gaian-ranger-plugin:1.0` // `org.odpi.egeria,gaian-ranger-plugin,1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-fuseki-server:0.7.0` // `org.seaborne.rdf-delta,rdf-delta-fuseki-server,0.7.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-server:0.7.0` // `org.seaborne.rdf-delta,rdf-delta-server,0.7.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.tallison.lucene:gramreaper:7.6-0.1` // `org.tallison.lucene,gramreaper,7.6-0.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -2935,6 +2936,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.31` // `org.reaktivity,nukleus-oauth,0.31,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.32` // `org.reaktivity,nukleus-oauth,0.32,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.33` // `org.reaktivity,nukleus-oauth,0.33,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.34` // `org.reaktivity,nukleus-oauth,0.34,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
@@ -2974,6 +2976,8 @@
 - :dvd: `org.slf4j` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.50` // `se.bjurr.gitchangelog,git-changelog-command-line,1.50,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.52` // `se.bjurr.gitchangelog,git-changelog-command-line,1.52,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.53` // `se.bjurr.gitchangelog,git-changelog-command-line,1.53,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.54` // `se.bjurr.gitchangelog,git-changelog-command-line,1.54,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.tukaani.xz` :left_right_arrow: `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-guice:1.1.0` // `se.l4.commons,commons-guice,1.1.0,se.l4.commons.guice,-,explicit,java.base + se.l4.commons.types + com.google.guice,true,-`
 - :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon.eventstream:eventstream:1.0.0` // `software.amazon.eventstream,eventstream,1.0.0,software.amazon.eventstream,-,automatic,-,false,-`
