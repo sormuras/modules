@@ -4411,6 +4411,7 @@
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.7` // `net.sf.jt400,jt400-jdk9,9.7,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.8` // `net.sf.jt400,jt400-jdk9,9.8,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta4` // `org.slf4j,jul-to-slf4j,1.8.0-beta4,jul.to.slf4j,-,automatic,-,true,-`
+- :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:2.0.0-alpha0` // `org.slf4j,jul-to-slf4j,2.0.0-alpha0,jul.to.slf4j,-,automatic,-,true,-`
 - :cd: `jul_to_slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta2` // `org.slf4j,jul-to-slf4j,1.8.0-beta2,jul_to_slf4j,-,automatic,-,false,-`
 - :cd: `junit.params.generated` :left_right_arrow: `com.wesleyhome.test:junit-jupiter-params-generated:1.0.3` // `com.wesleyhome.test,junit-jupiter-params-generated,1.0.3,junit.params.generated,-,automatic,-,false,-`
 - :cd: `lagom.persistence.couchbase.core` :left_right_arrow: `com.lightbend.akka:lagom-persistence-couchbase-core_2.11:1.0` // `com.lightbend.akka,lagom-persistence-couchbase-core_2.11,1.0,lagom.persistence.couchbase.core,-,automatic,-,false,-`
@@ -4441,6 +4442,7 @@
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta2` // `org.slf4j,log4j-over-slf4j,1.8.0-beta2,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta2` // `org.slf4j,log4j-over-slf4j,1.8.0-beta2,log4j,-,explicit,org.slf4j + java.xml + java.base,true,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta4` // `org.slf4j,log4j-over-slf4j,1.8.0-beta4,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
+- :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha0` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha0,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `lombok` :left_right_arrow: `com.yubico:java-yubihsm:0.1.0RC1` // `com.yubico,java-yubihsm,0.1.0RC1,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported,false,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.2` // `org.projectlombok,lombok,1.18.2,lombok,-,explicit,jdk.unsupported + java.instrument + java.compiler + java.base,true,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.4` // `org.projectlombok,lombok,1.18.4,lombok,-,explicit,java.instrument + java.compiler + java.base + jdk.unsupported + org.mapstruct.processor,true,-`
@@ -4852,6 +4854,7 @@
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:1.8.0-beta2` // `org.slf4j,jcl-over-slf4j,1.8.0-beta2,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:1.8.0-beta2` // `org.slf4j,jcl-over-slf4j,1.8.0-beta2,org.apache.commons.logging,-,explicit,org.slf4j + java.base,true,-`
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:1.8.0-beta4` // `org.slf4j,jcl-over-slf4j,1.8.0-beta4,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:2.0.0-alpha0` // `org.slf4j,jcl-over-slf4j,2.0.0-alpha0,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.2.6` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.2.6,org.apache.cxf.sts.core,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.2.7` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.2.7,org.apache.cxf.sts.core,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.3.0` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.3.0,org.apache.cxf.sts.core,-,automatic,-,false,-`
@@ -8345,6 +8348,7 @@
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.6.1` // `com.infotel.seleniumRobot,core,4.6.1,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.6.2` // `com.infotel.seleniumRobot,core,4.6.2,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.0` // `com.infotel.seleniumRobot,core,4.7.0,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
+- :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.1` // `com.infotel.seleniumRobot,core,4.7.1,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `io.github.jaqat:remoterobot:0.2.1` // `io.github.jaqat,remoterobot,0.2.1,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `io.github.jaqat:remoterobot:0.2.2` // `io.github.jaqat,remoterobot,0.2.2,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:3.14.0` // `org.seleniumhq.selenium,selenium-remote-driver,3.14.0,org.openqa.selenium.remote,-,explicit,net.bytebuddy + okhttp3 + java.base + httpcore + java.logging + com.google.common + httpclient + commons.exec + org.openqa.selenium.core,true,-`
@@ -8767,6 +8771,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.7` // `io.zipkin.zipkin2,zipkin,2.12.7,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.8` // `io.zipkin.zipkin2,zipkin,2.12.8,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.9` // `io.zipkin.zipkin2,zipkin,2.12.9,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.1` // `io.zipkin.zipkin2,zipkin,2.14.1,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
