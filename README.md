@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4593 Java modules published at Maven Central
 
-## Summary 2019-06-14T22:34:42.278891Z
+## Summary 2019-06-15T22:30:32.413052Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-14T22:34:42.278891Z
-Scanned 23,461 files in 3 seconds.
+Started scan at 2019-06-15T22:30:32.413052Z
+Scanned 23,519 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_14_22_19_35.csv
+    last -> modulescanner-report-2019_06_15_22_09_04.csv
 
-Parsed 1,495,883 lines in total.
-  27,343 -> captions skipped
-  92,243 -> duplicates skipped
-  59,157 -> module related
+Parsed 1,499,705 lines in total.
+  27,401 -> captions skipped
+  92,602 -> duplicates skipped
+  59,247 -> module related
 
 Collected 4,593 unique modules.
   automatic :cd: -> 3,491
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6132](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [8990](suspicious/naming.md)
-- Modular impostors: [3011](suspicious/impostors.md)
+- Invalid module names: [6144](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9026](suspicious/naming.md)
+- Modular impostors: [3012](suspicious/impostors.md)
 
 ## Unique Modules (4593)
 
@@ -500,19 +500,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.pukkaone.grapid.maven.plugin` :left_right_arrow: `com.github.pukkaone:grapid-maven-plugin:0.3.0`
 - :cd: `com.github.pukkaone.grapid.web.spring.boot.starter` :left_right_arrow: `com.github.pukkaone:grapid-web-spring-boot-starter:0.3.0`
 - :cd: `com.github.richardroda.util.closeit` :left_right_arrow: `com.github.richardroda.util:closeit:1.4`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.2`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.2`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.2`
-- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.2`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.2.3`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.2.3`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.2.3`
+- :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.3`
 - :cd: `com.github.robozonky.installer` :left_right_arrow: `com.github.robozonky:robozonky-installer:5.1.1`
 - :cd: `com.github.robozonky.installer.panels` :left_right_arrow: `com.github.robozonky.installer:robozonky-installer-panels:4.5.3`
-- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.2`
-- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.2`
+- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.2.3`
+- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.2.3`
 - :cd: `com.github.robozonky.integrations.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.1.1`
 - :cd: `com.github.robozonky.marketplaces` :left_right_arrow: `com.github.robozonky:robozonky-marketplaces:4.3.4`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.2`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.2`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.2`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.3`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.3`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.3`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.3`
@@ -1023,7 +1023,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.7`
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.2`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
-- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.0.jre11-preview`
+- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.1.jre12-preview`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.2.1`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.27`
@@ -1512,10 +1512,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.codecastle.scriptorium.core` :left_right_arrow: `io.codecastle.scriptorium:scriptorium-core:1.0.1`
 - :cd: `io.codecastle.scriptorium.json` :left_right_arrow: `io.codecastle.scriptorium:scriptorium-json:1.0.1`
 - :cd: `io.cucumber.c21e` :left_right_arrow: `io.cucumber:c21e:1.2.1`
-- :cd: `io.cucumber.cucumberexpressions` :left_right_arrow: `io.cucumber:cucumber-expressions:7.0.0`
+- :cd: `io.cucumber.cucumberexpressions` :left_right_arrow: `io.cucumber:cucumber-expressions:7.0.2`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:messages:1.1.2`
-- :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.12`
-- :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.12`
+- :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
+- :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.0`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
@@ -1578,7 +1578,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.16.2`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.40`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.41`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.5`
 - :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.0.5`
@@ -1966,10 +1966,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.141`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.141`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.141`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.141`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.142`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.142`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.142`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.142`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.107`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.107`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.107`
@@ -2112,19 +2112,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk8` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.joda` :left_right_arrow: `net.objectlab.kit:datecalc-joda:1.4.2`
-- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.10.2`
-- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.10.2`
-- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.10.2`
-- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.10.2`
-- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.10.2`
-- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.10.2`
-- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.10.2`
-- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.10.2`
-- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.10.2`
-- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.10.2`
-- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.10.2`
-- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.10.2`
-- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.10.2`
+- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.10.3`
+- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.10.3`
+- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.10.3`
+- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.10.3`
+- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.10.3`
+- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.10.3`
+- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.10.3`
+- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.10.3`
+- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.10.3`
+- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.10.3`
+- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.10.3`
+- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.10.3`
+- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.10.3`
 - :cd: `net.reini.junit` :left_right_arrow: `net.reini:junit-compat:1.3`
 - :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.3.0`
 - :cd: `net.sf.flatpack` :left_right_arrow: `net.sf.flatpack:flatpack:4.0.4`
@@ -4547,9 +4547,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.9.RELEASE`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.9.RELEASE`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.9.RELEASE`
-- :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.2.RELEASE`
+- :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.4.RELEASE`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.9.RELEASE`
-- :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.2.RELEASE`
+- :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.4.RELEASE`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.9.RELEASE`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.9.RELEASE`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.9.RELEASE`
@@ -4625,12 +4625,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.security.taglibs` :left_right_arrow: `org.springframework.security:spring-security-taglibs:5.1.5.RELEASE`
 - :cd: `spring.security.test` :left_right_arrow: `org.springframework.security:spring-security-test:5.1.5.RELEASE`
 - :cd: `spring.security.web` :left_right_arrow: `org.springframework.security:spring-security-web:5.1.5.RELEASE`
-- :cd: `spring.session.core` :left_right_arrow: `org.springframework.session:spring-session-core:2.1.6.RELEASE`
-- :cd: `spring.session.data.gemfire` :left_right_arrow: `org.springframework.session:spring-session-data-gemfire:2.1.3.RELEASE`
-- :cd: `spring.session.data.geode` :left_right_arrow: `org.springframework.session:spring-session-data-geode:2.1.3.RELEASE`
-- :cd: `spring.session.data.redis` :left_right_arrow: `org.springframework.session:spring-session-data-redis:2.1.6.RELEASE`
-- :cd: `spring.session.hazelcast` :left_right_arrow: `org.springframework.session:spring-session-hazelcast:2.1.6.RELEASE`
-- :cd: `spring.session.jdbc` :left_right_arrow: `org.springframework.session:spring-session-jdbc:2.1.6.RELEASE`
+- :cd: `spring.session.core` :left_right_arrow: `org.springframework.session:spring-session-core:2.1.7.RELEASE`
+- :cd: `spring.session.data.gemfire` :left_right_arrow: `org.springframework.session:spring-session-data-gemfire:2.1.4.RELEASE`
+- :cd: `spring.session.data.geode` :left_right_arrow: `org.springframework.session:spring-session-data-geode:2.1.4.RELEASE`
+- :cd: `spring.session.data.redis` :left_right_arrow: `org.springframework.session:spring-session-data-redis:2.1.7.RELEASE`
+- :cd: `spring.session.hazelcast` :left_right_arrow: `org.springframework.session:spring-session-hazelcast:2.1.7.RELEASE`
+- :cd: `spring.session.jdbc` :left_right_arrow: `org.springframework.session:spring-session-jdbc:2.1.7.RELEASE`
 - :cd: `spring.test` :left_right_arrow: `org.springframework:spring-test:5.1.8.RELEASE`
 - :cd: `spring.tx` :left_right_arrow: `org.springframework:spring-tx:5.1.8.RELEASE`
 - :cd: `spring.vault.core` :left_right_arrow: `org.springframework.vault:spring-vault-core:2.1.2.RELEASE`

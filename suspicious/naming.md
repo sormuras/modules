@@ -2006,11 +2006,13 @@
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.2` // `io.zipkin.brave,brave,5.6.2,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.3` // `io.zipkin.brave,brave,5.6.3,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.4` // `io.zipkin.brave,brave,5.6.4,brave,-,automatic,-,false,-`
+- :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.5` // `io.zipkin.brave,brave,5.6.5,brave,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.0` // `io.zipkin.brave,brave-context-jfr,5.6.0,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.1` // `io.zipkin.brave,brave-context-jfr,5.6.1,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.2` // `io.zipkin.brave,brave-context-jfr,5.6.2,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.3` // `io.zipkin.brave,brave-context-jfr,5.6.3,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.4` // `io.zipkin.brave,brave-context-jfr,5.6.4,brave.context.jfr,-,automatic,-,false,-`
+- :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.5` // `io.zipkin.brave,brave-context-jfr,5.6.5,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.2.0` // `io.zipkin.brave,brave-context-log4j12,5.2.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.0` // `io.zipkin.brave,brave-context-log4j12,5.3.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.1` // `io.zipkin.brave,brave-context-log4j12,5.3.1,brave.context.log4j12,-,automatic,-,false,-`
@@ -2027,6 +2029,7 @@
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.2` // `io.zipkin.brave,brave-context-log4j12,5.6.2,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.3` // `io.zipkin.brave,brave-context-log4j12,5.6.3,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.4` // `io.zipkin.brave,brave-context-log4j12,5.6.4,brave.context.log4j12,-,automatic,-,false,-`
+- :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.5` // `io.zipkin.brave,brave-context-log4j12,5.6.5,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.2.0` // `io.zipkin.brave,brave-context-log4j2,5.2.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.0` // `io.zipkin.brave,brave-context-log4j2,5.3.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.1` // `io.zipkin.brave,brave-context-log4j2,5.3.1,brave.context.log4j2,-,automatic,-,false,-`
@@ -2043,6 +2046,7 @@
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.2` // `io.zipkin.brave,brave-context-log4j2,5.6.2,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.3` // `io.zipkin.brave,brave-context-log4j2,5.6.3,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.4` // `io.zipkin.brave,brave-context-log4j2,5.6.4,brave.context.log4j2,-,automatic,-,false,-`
+- :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.5` // `io.zipkin.brave,brave-context-log4j2,5.6.5,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.2.0` // `io.zipkin.brave,brave-context-rxjava2,5.2.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.0` // `io.zipkin.brave,brave-context-rxjava2,5.3.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.1` // `io.zipkin.brave,brave-context-rxjava2,5.3.1,brave.context.rxjava2,-,automatic,-,false,-`
@@ -2059,6 +2063,7 @@
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.2` // `io.zipkin.brave,brave-context-rxjava2,5.6.2,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.3` // `io.zipkin.brave,brave-context-rxjava2,5.6.3,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.4` // `io.zipkin.brave,brave-context-rxjava2,5.6.4,brave.context.rxjava2,-,automatic,-,false,-`
+- :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.5` // `io.zipkin.brave,brave-context-rxjava2,5.6.5,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.2.0` // `io.zipkin.brave,brave-context-slf4j,5.2.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.0` // `io.zipkin.brave,brave-context-slf4j,5.3.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.1` // `io.zipkin.brave,brave-context-slf4j,5.3.1,brave.context.slf4j,-,automatic,-,false,-`
@@ -2075,6 +2080,7 @@
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.2` // `io.zipkin.brave,brave-context-slf4j,5.6.2,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.3` // `io.zipkin.brave,brave-context-slf4j,5.6.3,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.4` // `io.zipkin.brave,brave-context-slf4j,5.6.4,brave.context.slf4j,-,automatic,-,false,-`
+- :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.5` // `io.zipkin.brave,brave-context-slf4j,5.6.5,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.2.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.1,brave.dubbo.rpc,-,automatic,-,false,-`
@@ -2091,6 +2097,7 @@
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.2` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.2,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.3` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.3,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.4` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.4,brave.dubbo.rpc,-,automatic,-,false,-`
+- :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.5` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.5,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.2.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.1,brave.grpc,-,automatic,-,false,-`
@@ -2107,6 +2114,7 @@
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.2` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.2,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.3` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.3,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.4` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.4,brave.grpc,-,automatic,-,false,-`
+- :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.5` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.5,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-http,5.2.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-http,5.3.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-http,5.3.1,brave.http,-,automatic,-,false,-`
@@ -2123,6 +2131,7 @@
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.2` // `io.zipkin.brave,brave-instrumentation-http,5.6.2,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.3` // `io.zipkin.brave,brave-instrumentation-http,5.6.3,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.4` // `io.zipkin.brave,brave-instrumentation-http,5.6.4,brave.http,-,automatic,-,false,-`
+- :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.5` // `io.zipkin.brave,brave-instrumentation-http,5.6.5,brave.http,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.2.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.1,brave.httpasyncclient,-,automatic,-,false,-`
@@ -2139,6 +2148,7 @@
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.2` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.2,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.3` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.3,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.4` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.4,brave.httpasyncclient,-,automatic,-,false,-`
+- :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.5` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.5,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.2.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.1,brave.httpclient,-,automatic,-,false,-`
@@ -2155,6 +2165,7 @@
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.2` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.2,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.3` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.3,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.4` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.4,brave.httpclient,-,automatic,-,false,-`
+- :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.5` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.5,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.2.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.2.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.1` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.1,brave.jaxrs2,-,automatic,-,false,-`
@@ -2171,6 +2182,7 @@
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.2` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.2,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.3` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.3,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.4` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.4,brave.jaxrs2,-,automatic,-,false,-`
+- :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.5` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.5,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.2.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.2.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.1` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.1,brave.jersey.server,-,automatic,-,false,-`
@@ -2187,6 +2199,7 @@
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.2` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.2,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.3` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.3,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.4` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.4,brave.jersey.server,-,automatic,-,false,-`
+- :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.5` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.5,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.0` // `io.zipkin.brave,brave-instrumentation-jms,5.3.0,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.1` // `io.zipkin.brave,brave-instrumentation-jms,5.3.1,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.2` // `io.zipkin.brave,brave-instrumentation-jms,5.3.2,brave.jms,-,automatic,-,false,-`
@@ -2202,6 +2215,7 @@
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.2` // `io.zipkin.brave,brave-instrumentation-jms,5.6.2,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.3` // `io.zipkin.brave,brave-instrumentation-jms,5.6.3,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.4` // `io.zipkin.brave,brave-instrumentation-jms,5.6.4,brave.jms,-,automatic,-,false,-`
+- :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.5` // `io.zipkin.brave,brave-instrumentation-jms,5.6.5,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.2.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.2.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.1` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.1,brave.kafka.clients,-,automatic,-,false,-`
@@ -2218,12 +2232,14 @@
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.2` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.2,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.3` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.3,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.4` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.4,brave.kafka.clients,-,automatic,-,false,-`
+- :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.5` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.5,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.5.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.5.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.1` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.1,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.2` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.2,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.3` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.3,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.4` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.4,brave.kafka.streams,-,automatic,-,false,-`
+- :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.5` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.5,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.2.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.1,brave.mysql,-,automatic,-,false,-`
@@ -2240,6 +2256,7 @@
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.2` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.2,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.3` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.3,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.4` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.4,brave.mysql,-,automatic,-,false,-`
+- :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.5,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.2.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.1,brave.mysql6,-,automatic,-,false,-`
@@ -2256,6 +2273,7 @@
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.2` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.2,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.3` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.3,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.4` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.4,brave.mysql6,-,automatic,-,false,-`
+- :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.5,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.2.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.1,brave.mysql8,-,automatic,-,false,-`
@@ -2272,6 +2290,7 @@
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.2` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.2,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.3` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.3,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.4` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.4,brave.mysql8,-,automatic,-,false,-`
+- :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.5,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.2.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.1,brave.netty.http,-,automatic,-,false,-`
@@ -2288,6 +2307,7 @@
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.2` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.2,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.3` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.3,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.4` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.4,brave.netty.http,-,automatic,-,false,-`
+- :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.5` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.5,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.2.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.2.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.1` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.1,brave.okhttp3,-,automatic,-,false,-`
@@ -2304,6 +2324,7 @@
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.2` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.2,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.3` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.3,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.4` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.4,brave.okhttp3,-,automatic,-,false,-`
+- :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.5` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.5,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.2.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.2.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.1` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.1,brave.p6spy,-,automatic,-,false,-`
@@ -2320,6 +2341,7 @@
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.2` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.2,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.3` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.3,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.4` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.4,brave.p6spy,-,automatic,-,false,-`
+- :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.5` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.5,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.0` // `io.zipkin.aws,brave-propagation-aws,0.13.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.1` // `io.zipkin.aws,brave-propagation-aws,0.13.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.2` // `io.zipkin.aws,brave-propagation-aws,0.13.2,brave.propagation.aws,-,automatic,-,false,-`
@@ -2335,6 +2357,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.16.3` // `io.zipkin.aws,brave-propagation-aws,0.16.3,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.16.4` // `io.zipkin.aws,brave-propagation-aws,0.16.4,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.0` // `io.zipkin.aws,brave-propagation-aws,0.17.0,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.1` // `io.zipkin.aws,brave-propagation-aws,0.17.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
@@ -2352,6 +2375,7 @@
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.2` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.2,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.3` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.3,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.4` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.4,brave.servlet,-,automatic,-,false,-`
+- :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.5` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.5,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.2.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.2.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.1` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.1,brave.sparkjava,-,automatic,-,false,-`
@@ -2368,6 +2392,7 @@
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.2` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.2,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.3` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.3,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.4` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.4,brave.sparkjava,-,automatic,-,false,-`
+- :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.5` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.5,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.2.0` // `io.zipkin.brave,brave-spring-beans,5.2.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.0` // `io.zipkin.brave,brave-spring-beans,5.3.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.1` // `io.zipkin.brave,brave-spring-beans,5.3.1,brave.spring.beans,-,automatic,-,false,-`
@@ -2384,6 +2409,7 @@
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.2` // `io.zipkin.brave,brave-spring-beans,5.6.2,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.3` // `io.zipkin.brave,brave-spring-beans,5.6.3,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.4` // `io.zipkin.brave,brave-spring-beans,5.6.4,brave.spring.beans,-,automatic,-,false,-`
+- :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.5` // `io.zipkin.brave,brave-spring-beans,5.6.5,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.2.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.1,brave.spring.rabbit,-,automatic,-,false,-`
@@ -2400,6 +2426,7 @@
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.2` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.2,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.3` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.3,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.4` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.4,brave.spring.rabbit,-,automatic,-,false,-`
+- :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.5,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.2.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.1,brave.spring.web,-,automatic,-,false,-`
@@ -2416,6 +2443,7 @@
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.2` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.2,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.3` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.3,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.4` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.4,brave.spring.web,-,automatic,-,false,-`
+- :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.5,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.2.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.1,brave.spring.webmvc,-,automatic,-,false,-`
@@ -2432,6 +2460,7 @@
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.2` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.2,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.3` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.3,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.4` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.4,brave.spring.webmvc,-,automatic,-,false,-`
+- :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.5,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.2.0` // `io.zipkin.brave,brave-tests,5.2.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.0` // `io.zipkin.brave,brave-tests,5.3.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.1` // `io.zipkin.brave,brave-tests,5.3.1,brave.test,-,automatic,-,false,-`
@@ -2448,6 +2477,7 @@
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.2` // `io.zipkin.brave,brave-tests,5.6.2,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.3` // `io.zipkin.brave,brave-tests,5.6.3,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.4` // `io.zipkin.brave,brave-tests,5.6.4,brave.test,-,automatic,-,false,-`
+- :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.5` // `io.zipkin.brave,brave-tests,5.6.5,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.2.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.2.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.1` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.1,brave.test.http,-,automatic,-,false,-`
@@ -2464,6 +2494,7 @@
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.2` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.2,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.3` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.3,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.4` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.4,brave.test.http,-,automatic,-,false,-`
+- :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.5` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.5,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.2.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.1,brave.vertx.web,-,automatic,-,false,-`
@@ -2480,6 +2511,7 @@
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.2` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.2,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.3` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.3,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.4` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.4,brave.vertx.web,-,automatic,-,false,-`
+- :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.5` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.5,brave.vertx.web,-,automatic,-,false,-`
 - :dvd: `by.zti.legacy` :left_right_arrow: `com.github.cvazer:zti-utils-legacy:1.1.0` // `com.github.cvazer,zti-utils-legacy,1.1.0,by.zti.legacy,-,explicit,java.base + jdk.xml.dom,false,-`
 - :dvd: `cache.annotations.ri.common` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-common:0.67.0.12` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-common,0.67.0.12,cache.annotations.ri.common,0.67.0.12,explicit,cache.api + java.base + java.logging,false,-`
 - :dvd: `cache.annotations.ri.guice` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-guice:0.67.0.12` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-guice,0.67.0.12,cache.annotations.ri.guice,0.67.0.12,explicit,aopalliance + cache.annotations.ri.common + cache.api + com.google.guice + java.base + javax.inject,false,-`
@@ -3109,6 +3141,7 @@
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.2` // `com.holon-platform.core,holon-test,5.2.2,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.3` // `com.holon-platform.core,holon-test,5.2.3,com.holonplatform.test,-,automatic,-,false,-`
 - :dvd: `com.io7m.checkstyle.rules` :left_right_arrow: `com.io7m.checkstyle_rules:com.io7m.checkstyle_rules:0.0.2` // `com.io7m.checkstyle_rules,com.io7m.checkstyle_rules,0.0.2,com.io7m.checkstyle.rules,-,explicit,java.base,false,-`
+- :dvd: `com.io7m.checkstyle.rules` :left_right_arrow: `com.io7m.checkstyle_rules:com.io7m.checkstyle_rules:0.0.3` // `com.io7m.checkstyle_rules,com.io7m.checkstyle_rules,0.0.3,com.io7m.checkstyle.rules,-,explicit,java.base,false,-`
 - :dvd: `com.jiggawatt.jt.oddl` :left_right_arrow: `com.github.mdzhb:jt-oddl:1.0.1` // `com.github.mdzhb,jt-oddl,1.0.1,com.jiggawatt.jt.oddl,-,explicit,java.base,false,-`
 - :dvd: `com.jiggawatt.jt.tools.adpcm` :left_right_arrow: `com.github.mdzhb:jt-adpcm:1.0.1` // `com.github.mdzhb,jt-adpcm,1.0.1,com.jiggawatt.jt.tools.adpcm,-,explicit,java.base,false,-`
 - :cd: `com.jmatio` :left_right_arrow: `com.diffplug.matsim:matfilerw:3.1.0` // `com.diffplug.matsim,matfilerw,3.1.0,com.jmatio,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -4669,6 +4702,7 @@
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.10.0` // `net.officefloor.eclipse,net.officefloor.core,3.10.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.10.1` // `net.officefloor.eclipse,net.officefloor.core,3.10.1,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.10.2` // `net.officefloor.eclipse,net.officefloor.core,3.10.2,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.10.3` // `net.officefloor.eclipse,net.officefloor.core,3.10.3,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.2.0` // `net.officefloor.eclipse,net.officefloor.core,3.2.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.4.0` // `net.officefloor.eclipse,net.officefloor.core,3.4.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.5.0` // `net.officefloor.eclipse,net.officefloor.core,3.5.0,net.officefloor.core,-,automatic,-,false,-`
@@ -4686,6 +4720,7 @@
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.0` // `net.officefloor.eclipse,net.officefloor.woof,3.10.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.1` // `net.officefloor.eclipse,net.officefloor.woof,3.10.1,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.2` // `net.officefloor.eclipse,net.officefloor.woof,3.10.2,net.officefloor.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.3` // `net.officefloor.eclipse,net.officefloor.woof,3.10.3,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.2.0` // `net.officefloor.eclipse,net.officefloor.woof,3.2.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.4.0` // `net.officefloor.eclipse,net.officefloor.woof,3.4.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.5.0` // `net.officefloor.eclipse,net.officefloor.woof,3.5.0,net.officefloor.woof,-,automatic,-,false,-`
@@ -8748,6 +8783,7 @@
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.10:0.3.5` // `com.typesafe,ssl-config-core_2.10,0.3.5,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.10:0.3.6` // `com.typesafe,ssl-config-core_2.10,0.3.6,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.10:0.3.7` // `com.typesafe,ssl-config-core_2.10,0.3.7,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
+- :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.10:0.3.8` // `com.typesafe,ssl-config-core_2.10,0.3.8,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.11:0.3.2` // `com.typesafe,ssl-config-core_2.11,0.3.2,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.11:0.3.3` // `com.typesafe,ssl-config-core_2.11,0.3.3,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :cd: `ssl.config.core` :left_right_arrow: `com.typesafe:ssl-config-core_2.11:0.3.4` // `com.typesafe,ssl-config-core_2.11,0.3.4,ssl.config.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.util.HostnameChecker        Use javax.net.ssl.SSLParameters.setEndpointIdentificationAlgorithm("HTTPS") @since 1.7 +                                          or javax.net.ssl.HttpsURLConnection.setHostnameVerifier() @since 1.4 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`

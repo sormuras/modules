@@ -991,6 +991,7 @@
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-2` // `info.picocli,picocli-jpms-module,4.0.0-alpha-2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-3` // `info.picocli,picocli-jpms-module,4.0.0-alpha-3,info.picocli,-,explicit,java.base,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.14` // `io.cucumber,datatable,1.1.14,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.6` // `io.cucumber,datatable,1.1.6,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.7` // `io.cucumber,datatable,1.1.7,io.cucumber.datatable,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `cloud.orbit:orbit-core:1.12.0` // `cloud.orbit,orbit-core,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
