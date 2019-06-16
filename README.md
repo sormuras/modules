@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4593 Java modules published at Maven Central
+Counted 4594 Java modules published at Maven Central
 
-## Summary 2019-06-15T22:30:32.413052Z
+## Summary 2019-06-16T22:31:21.523459Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-15T22:30:32.413052Z
-Scanned 23,519 files in 3 seconds.
+Started scan at 2019-06-16T22:31:21.523459Z
+Scanned 23,574 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_15_22_09_04.csv
+    last -> modulescanner-report-2019_06_16_21_35_27.csv
 
-Parsed 1,499,705 lines in total.
-  27,401 -> captions skipped
-  92,602 -> duplicates skipped
-  59,247 -> module related
+Parsed 1,502,278 lines in total.
+  27,454 -> captions skipped
+  92,631 -> duplicates skipped
+  59,259 -> module related
 
-Collected 4,593 unique modules.
+Collected 4,594 unique modules.
   automatic :cd: -> 3,491
-  explicit :dvd: -> 1,102
+  explicit :dvd: -> 1,103
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6144](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9026](suspicious/naming.md)
-- Modular impostors: [3012](suspicious/impostors.md)
+- Invalid module names: [6145](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9028](suspicious/naming.md)
+- Modular impostors: [3013](suspicious/impostors.md)
 
-## Unique Modules (4593)
+## Unique Modules (4594)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -455,11 +455,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.gv2011.util.beans.imp` :left_right_arrow: `com.github.gv2011:util-beans:0.4.0`
 - :cd: `com.github.gv2011.util.gcol` :left_right_arrow: `com.github.gv2011:gcol:0.4.0`
 - :cd: `com.github.gv2011.util.tika` :left_right_arrow: `com.github.gv2011:filetypes-tika:0.4.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.4`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.4`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.4`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.4`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.4`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.5`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.5`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.5`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.5`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.5`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -469,6 +469,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.0-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
+- :dvd: `com.github.marschall.jfr.jdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.2.0`
 - :dvd: `com.github.marschall.jfrjdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.1.0`
 - :dvd: `com.github.marschall.jfrjdbctemplate` :left_right_arrow: `com.github.marschall:jfr-jdbctemplate:0.4.1`
 - :dvd: `com.github.marschall.junit.jfr` :left_right_arrow: `com.github.marschall:junit-jfr:0.1.0`
@@ -2188,7 +2189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.9`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.10`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.11`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
 - :dvd: `no.ssb.rawdata.state.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-state-provider-postgres:0.2`
 - :dvd: `no.ssb.rawdata.storage.provider.filesystem` :left_right_arrow: `no.ssb.rawdata:rawdata-storage-provider-local-filesystem:0.2`
@@ -3416,7 +3417,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jooq.meta` :left_right_arrow: `org.jooq:jooq-meta:3.11.11`
 - :cd: `org.jooq.meta.extensions` :left_right_arrow: `org.jooq:jooq-meta-extensions:3.11.11`
 - :cd: `org.jparsec` :left_right_arrow: `org.jparsec:jparsec:3.1`
-- :cd: `org.jpos.jpos` :left_right_arrow: `org.jpos:jpos:2.1.2`
+- :cd: `org.jpos.jpos` :left_right_arrow: `org.jpos:jpos:2.1.3`
 - :cd: `org.jruby` :left_right_arrow: `org.jruby:jruby-core:9.2.7.0`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.44`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.29`
