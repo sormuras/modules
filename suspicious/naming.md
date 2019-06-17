@@ -4783,10 +4783,13 @@
 - :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.1` // `no.ssb.spi,service-provider-api,0.1,no.ssb.service.provider.api,-,explicit,java.base + no.ssb.config + org.slf4j,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.1.RELEASE` // `io.spring.nohttp,nohttp,0.0.1.RELEASE,nohttp,-,automatic,-,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.2.RELEASE` // `io.spring.nohttp,nohttp,0.0.2.RELEASE,nohttp,-,automatic,-,false,-`
+- :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.3.RELEASE` // `io.spring.nohttp,nohttp,0.0.3.RELEASE,nohttp,-,automatic,-,false,-`
 - :cd: `nohttp.checkstyle` :left_right_arrow: `io.spring.nohttp:nohttp-checkstyle:0.0.1.RELEASE` // `io.spring.nohttp,nohttp-checkstyle,0.0.1.RELEASE,nohttp.checkstyle,-,automatic,-,false,-`
 - :cd: `nohttp.checkstyle` :left_right_arrow: `io.spring.nohttp:nohttp-checkstyle:0.0.2.RELEASE` // `io.spring.nohttp,nohttp-checkstyle,0.0.2.RELEASE,nohttp.checkstyle,-,automatic,-,false,-`
+- :cd: `nohttp.checkstyle` :left_right_arrow: `io.spring.nohttp:nohttp-checkstyle:0.0.3.RELEASE` // `io.spring.nohttp,nohttp-checkstyle,0.0.3.RELEASE,nohttp.checkstyle,-,automatic,-,false,-`
 - :cd: `nohttp.gradle` :left_right_arrow: `io.spring.nohttp:nohttp-gradle:0.0.1.RELEASE` // `io.spring.nohttp,nohttp-gradle,0.0.1.RELEASE,nohttp.gradle,-,automatic,-,false,-`
 - :cd: `nohttp.gradle` :left_right_arrow: `io.spring.nohttp:nohttp-gradle:0.0.2.RELEASE` // `io.spring.nohttp,nohttp-gradle,0.0.2.RELEASE,nohttp.gradle,-,automatic,-,false,-`
+- :cd: `nohttp.gradle` :left_right_arrow: `io.spring.nohttp:nohttp-gradle:0.0.3.RELEASE` // `io.spring.nohttp,nohttp-gradle,0.0.3.RELEASE,nohttp.gradle,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.0.90` // `io.github.soc,ogc-tools-gml-jts,1.0.90,ogc.tools.gml.jts,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.0.92` // `io.github.soc,ogc-tools-gml-jts,1.0.92,ogc.tools.gml.jts,-,automatic,-,false,-`
 - :cd: `ogc.tools.gml.jts` :left_right_arrow: `io.github.soc:ogc-tools-gml-jts:1.1.90` // `io.github.soc,ogc-tools-gml-jts,1.1.90,ogc.tools.gml.jts,-,automatic,-,false,-`
@@ -5919,6 +5922,7 @@
 - :cd: `org.eclipse.ltk.ui.refactoring` :left_right_arrow: `org.eclipse.platform:org.eclipse.ltk.ui.refactoring:3.9.200` // `org.eclipse.platform,org.eclipse.ltk.ui.refactoring,3.9.200,org.eclipse.ltk.ui.refactoring,-,automatic,-,false,-`
 - :cd: `org.eclipse.ltk.ui.refactoring` :left_right_arrow: `org.eclipse.platform:org.eclipse.ltk.ui.refactoring:3.9.300` // `org.eclipse.platform,org.eclipse.ltk.ui.refactoring,3.9.300,org.eclipse.ltk.ui.refactoring,-,automatic,-,false,-`
 - :cd: `org.eclipse.osgi` :left_right_arrow: `com.innoventsolutions.birt.runtime:org.eclipse.osgi_3.13.0.v20180409-1500:4.8.0` // `com.innoventsolutions.birt.runtime,org.eclipse.osgi_3.13.0.v20180409-1500,4.8.0,org.eclipse.osgi,-,automatic,-,false,-`
+- :cd: `org.eclipse.osgi` :left_right_arrow: `com.liferay:org.eclipse.osgi:3.13.0.LIFERAY-PATCHED-5` // `com.liferay,org.eclipse.osgi,3.13.0.LIFERAY-PATCHED-5,org.eclipse.osgi,-,automatic,-,false,-`
 - :cd: `org.eclipse.osgi` :left_right_arrow: `org.eclipse.platform:org.eclipse.osgi:3.13.0` // `org.eclipse.platform,org.eclipse.osgi,3.13.0,org.eclipse.osgi,-,automatic,-,false,-`
 - :cd: `org.eclipse.osgi` :left_right_arrow: `org.eclipse.platform:org.eclipse.osgi:3.13.100` // `org.eclipse.platform,org.eclipse.osgi,3.13.100,org.eclipse.osgi,-,automatic,-,false,-`
 - :cd: `org.eclipse.osgi` :left_right_arrow: `org.eclipse.platform:org.eclipse.osgi:3.13.200` // `org.eclipse.platform,org.eclipse.osgi,3.13.200,org.eclipse.osgi,-,automatic,-,false,-`

@@ -1932,6 +1932,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.94.0` // `org.finra.herd,herd-downloader,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.96.0` // `org.finra.herd,herd-downloader,0.96.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.97.0` // `org.finra.herd,herd-downloader,0.97.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.98.0` // `org.finra.herd,herd-downloader,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -1943,6 +1944,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.94.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.96.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.96.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.97.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.97.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.98.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -1954,6 +1956,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.94.0` // `org.finra.herd,herd-retention-expiration-exporter,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.96.0` // `org.finra.herd,herd-retention-expiration-exporter,0.96.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.97.0` // `org.finra.herd,herd-retention-expiration-exporter,0.97.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.98.0` // `org.finra.herd,herd-retention-expiration-exporter,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -1965,6 +1968,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.94.0` // `org.finra.herd,herd-uploader,0.94.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.96.0` // `org.finra.herd,herd-uploader,0.96.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.97.0` // `org.finra.herd,herd-uploader,0.97.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.98.0` // `org.finra.herd,herd-uploader,0.98.0,java.json,-,explicit,java.base,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:jakarta.json:1.1.5` // `org.glassfish,jakarta.json,1.1.5,java.json,-,automatic,-,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.4` // `org.glassfish,javax.json,1.1.4,java.json,-,automatic,-,false,-`
 - :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-icalendaragenda:10.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,10.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
@@ -2103,6 +2107,7 @@
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.2` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.2.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.2.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -2118,6 +2123,7 @@
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta3` // `net.morimekta.providence,providence-testing-junit4,2.0-beta3,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta4` // `net.morimekta.providence,providence-testing-junit4,2.0-beta4,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0.0` // `net.morimekta.providence,providence-testing-junit4,2.0.0,net.morimekta.providence.testing,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.1.0` // `net.morimekta.providence,providence-testing-junit4,2.1.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
@@ -2937,6 +2943,7 @@
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `io.joynr.tools.generator:joynr-generator-standalone:1.7.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.7.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `io.joynr.tools.generator:joynr-generator-standalone:1.7.1` // `io.joynr.tools.generator,joynr-generator-standalone,1.7.1,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `io.joynr.tools.generator:joynr-generator-standalone:1.8.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.8.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `io.joynr.tools.generator:joynr-generator-standalone:1.8.2` // `io.joynr.tools.generator,joynr-generator-standalone,1.8.2,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `net.corda:corda-djvm:4.0` // `net.corda,corda-djvm,4.0,org.objectweb.asm.commons,6.2.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.copper-engine:copper-performance-test:5.0.0-SNAPHOT` // `org.copper-engine,copper-performance-test,5.0.0-SNAPHOT,org.objectweb.asm.commons,6.1.1,explicit,org.objectweb.asm + java.base + org.objectweb.asm.tree.analysis + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.javastro.vodsl:vodslparser:0.4.0` // `org.javastro.vodsl,vodslparser,0.4.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
