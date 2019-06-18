@@ -2034,6 +2034,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-M1` // `io.kamon,kanela-agent,1.0.0-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-M2` // `io.kamon,kanela-agent,1.0.0-M2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-M3` // `io.kamon,kanela-agent,1.0.0-M3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-RC1` // `io.kamon,kanela-agent,1.0.0-RC1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:0.9.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,0.9.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.2` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2414,7 +2415,9 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.1` // `org.eclipse.milo,server-examples,0.3.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.1-M1` // `org.eclipse.milo,server-examples,0.3.1-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.2-M1` // `org.eclipse.milo,server-examples,0.3.2-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:basicauth-security:2.7.0` // `org.wso2.msf4j,basicauth-security,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:msf4j-all:2.7.0` // `org.wso2.msf4j,msf4j-all,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.wso2.msf4j:oauth2-security:2.7.0` // `org.wso2.msf4j,oauth2-security,2.7.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -2509,42 +2512,52 @@
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.0-M1` // `org.eclipse.milo,bsd-parser-gson,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.1` // `org.eclipse.milo,bsd-parser-gson,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.1-M1` // `org.eclipse.milo,bsd-parser-gson,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.2-M1` // `org.eclipse.milo,bsd-parser-gson,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.0` // `org.eclipse.milo,client-examples,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.0-M1` // `org.eclipse.milo,client-examples,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.1` // `org.eclipse.milo,client-examples,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.1-M1` // `org.eclipse.milo,client-examples,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:client-examples:0.3.2-M1` // `org.eclipse.milo,client-examples,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.0` // `org.eclipse.milo,sdk-client,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.0-M1` // `org.eclipse.milo,sdk-client,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.1` // `org.eclipse.milo,sdk-client,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.1-M1` // `org.eclipse.milo,sdk-client,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-client:0.3.2-M1` // `org.eclipse.milo,sdk-client,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.0` // `org.eclipse.milo,sdk-core,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.0-M1` // `org.eclipse.milo,sdk-core,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.1` // `org.eclipse.milo,sdk-core,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.1-M1` // `org.eclipse.milo,sdk-core,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-core:0.3.2-M1` // `org.eclipse.milo,sdk-core,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.0` // `org.eclipse.milo,sdk-server,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.0-M1` // `org.eclipse.milo,sdk-server,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.1` // `org.eclipse.milo,sdk-server,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.1-M1` // `org.eclipse.milo,sdk-server,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-server:0.3.2-M1` // `org.eclipse.milo,sdk-server,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.0` // `org.eclipse.milo,sdk-tests,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.0-M1` // `org.eclipse.milo,sdk-tests,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.1` // `org.eclipse.milo,sdk-tests,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.1-M1` // `org.eclipse.milo,sdk-tests,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:sdk-tests:0.3.2-M1` // `org.eclipse.milo,sdk-tests,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.0` // `org.eclipse.milo,stack-client,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.0-M1` // `org.eclipse.milo,stack-client,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.1` // `org.eclipse.milo,stack-client,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.1-M1` // `org.eclipse.milo,stack-client,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-client:0.3.2-M1` // `org.eclipse.milo,stack-client,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.0` // `org.eclipse.milo,stack-core,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.0-M1` // `org.eclipse.milo,stack-core,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.1` // `org.eclipse.milo,stack-core,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.1-M1` // `org.eclipse.milo,stack-core,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-core:0.3.2-M1` // `org.eclipse.milo,stack-core,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.0` // `org.eclipse.milo,stack-server,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.0-M1` // `org.eclipse.milo,stack-server,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.1` // `org.eclipse.milo,stack-server,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.1-M1` // `org.eclipse.milo,stack-server,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-server:0.3.2-M1` // `org.eclipse.milo,stack-server,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.0` // `org.eclipse.milo,stack-tests,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.0-M1` // `org.eclipse.milo,stack-tests,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.1` // `org.eclipse.milo,stack-tests,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.1-M1` // `org.eclipse.milo,stack-tests,0.3.1-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:stack-tests:0.3.2-M1` // `org.eclipse.milo,stack-tests,0.3.2-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :cd: `org.hamcrest` :left_right_arrow: `org.hamcrest:hamcrest-core:2.1` // `org.hamcrest,hamcrest-core,2.1,org.hamcrest,-,automatic,-,false,-`
@@ -2816,6 +2829,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.1.1` // `com.github.collinalpert,java2db,4.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:4.2` // `com.github.collinalpert,java2db,4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.0` // `com.github.collinalpert,java2db,5.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.0.1` // `com.github.collinalpert,java2db,5.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -2973,6 +2987,8 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.32` // `org.reaktivity,nukleus-oauth,0.32,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.33` // `org.reaktivity,nukleus-oauth,0.33,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.34` // `org.reaktivity,nukleus-oauth,0.34,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.35` // `org.reaktivity,nukleus-oauth,0.35,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.36` // `org.reaktivity,nukleus-oauth,0.36,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
