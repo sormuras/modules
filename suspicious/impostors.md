@@ -2019,6 +2019,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.8` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.4-beta.9` // `com.undefinedlabs.scope,scope-agent,0.1.4-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.5-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.5-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.5-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.5-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2125,6 +2126,7 @@
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0-beta4` // `net.morimekta.providence,providence-testing-junit4,2.0-beta4,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.0.0` // `net.morimekta.providence,providence-testing-junit4,2.0.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.1.0` // `net.morimekta.providence,providence-testing-junit4,2.1.0,net.morimekta.providence.testing,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.2.0` // `net.morimekta.providence,providence-testing-junit4,2.2.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
