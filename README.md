@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4600 Java modules published at Maven Central
+Counted 4601 Java modules published at Maven Central
 
-## Summary 2019-06-21T22:34:23.758293Z
+## Summary 2019-06-22T22:35:00.201945Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-21T22:34:23.758293Z
-Scanned 23,868 files in 3 seconds.
+Started scan at 2019-06-22T22:35:00.201945Z
+Scanned 23,921 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_21_22_10_21.csv
+    last -> modulescanner-report-2019_06_22_22_03_59.csv
 
-Parsed 1,538,223 lines in total.
-  27,745 -> captions skipped
-  96,160 -> duplicates skipped
-  60,865 -> module related
+Parsed 1,540,745 lines in total.
+  27,798 -> captions skipped
+  96,191 -> duplicates skipped
+  60,891 -> module related
 
-Collected 4,600 unique modules.
-  automatic :cd: -> 3,494
+Collected 4,601 unique modules.
+  automatic :cd: -> 3,495
   explicit :dvd: -> 1,106
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6149](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9235](suspicious/naming.md)
+- Invalid module names: [6163](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9236](suspicious/naming.md)
 - Modular impostors: [3058](suspicious/impostors.md)
 
-## Unique Modules (4600)
+## Unique Modules (4601)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -488,10 +488,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.nruzic.extensions.eclipse.model.ad` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.ad:1.1.0`
 - :cd: `com.github.nruzic.extensions.eclipse.model.profile.prototype` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.profile.prototype:1.1.0`
 - :cd: `com.github.nullterminated.trylambda` :left_right_arrow: `com.github.nullterminated:trylambda:1.1`
-- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.7`
-- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.7`
-- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.7`
-- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.7`
+- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.8`
+- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.8`
+- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.8`
+- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.8`
 - :cd: `com.github.panga.beans` :left_right_arrow: `com.github.panga:java-beans-lite:1.0.2`
 - :cd: `com.github.pukkaone.grapid.compiler` :left_right_arrow: `com.github.pukkaone:grapid-compiler:0.3.0`
 - :cd: `com.github.pukkaone.grapid.core` :left_right_arrow: `com.github.pukkaone:grapid-core:0.3.0`
@@ -859,6 +859,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.jregions.core` :left_right_arrow: `com.io7m.jregions:com.io7m.jregions.core:2.0.0`
 - :dvd: `com.io7m.jregions.documentation` :left_right_arrow: `com.io7m.jregions:com.io7m.jregions.documentation:2.0.0`
 - :dvd: `com.io7m.jregions.generators` :left_right_arrow: `com.io7m.jregions:com.io7m.jregions.generators:2.0.0`
+- :cd: `com.io7m.jsay` :left_right_arrow: `com.io7m.jsay:com.io7m.jsay:0.0.1`
 - :dvd: `com.io7m.jserial.core` :left_right_arrow: `com.io7m.jserial:com.io7m.jserial.core:0.4.0`
 - :dvd: `com.io7m.jserial.documentation` :left_right_arrow: `com.io7m.jserial:com.io7m.jserial.documentation:0.4.0`
 - :dvd: `com.io7m.jspiel.api` :left_right_arrow: `com.io7m.jspiel:com.io7m.jspiel.api:0.0.3`
@@ -1426,8 +1427,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras.junit:junit-platform-isolator-worker:1.0.0-M10`
-- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.0.4`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.4`
+- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.0.5`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:connector:0.8.0`
 - :cd: `de.stklcode.pubtrans.juraclient` :left_right_arrow: `de.stklcode.pubtrans:juraclient:1.2.0`
 - :cd: `de.ubleipzig.iiif.vocabulary` :left_right_arrow: `de.ubleipzig:iiif.vocabulary:0.1.1`
@@ -2006,7 +2007,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.corda.test.common` :left_right_arrow: `net.corda:corda-test-common:4.0`
 - :cd: `net.corda.test.utils` :left_right_arrow: `net.corda:corda-test-utils:4.0`
 - :cd: `net.corda.verifier` :left_right_arrow: `net.corda:corda-verifier:3.4-corda`
-- :cd: `net.corda.webcapsule` :left_right_arrow: `net.corda:corda-webserver:3.4-corda`
+- :cd: `net.corda.webcapsule` :left_right_arrow: `net.corda:corda-webserver:4.1`
 - :cd: `net.corda.webserver` :left_right_arrow: `net.corda:corda-webserver-impl:3.4-corda`
 - :cd: `net.corda.workflows` :left_right_arrow: `net.corda:corda-finance-workflows:4.0`
 - :cd: `net.dongliu.apkparser` :left_right_arrow: `net.dongliu:apk-parser:2.6.9`
@@ -2070,9 +2071,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.javacrumbs.shedlock.provider.redis.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-redis-spring:2.5.0`
 - :cd: `net.javacrumbs.shedlock.provider.zookeeper.curator` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-provider-zookeeper-curator:2.5.0`
 - :cd: `net.javacrumbs.shedlock.spring` :left_right_arrow: `net.javacrumbs.shedlock:shedlock-spring:2.5.0`
-- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.5`
-- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.5`
-- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.5`
+- :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.1.6`
+- :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.1.6`
+- :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.1.6`
 - :cd: `net.kyori.ana` :left_right_arrow: `net.kyori:ana:1.0.0`
 - :cd: `net.kyori.blizzard` :left_right_arrow: `net.kyori:blizzard:1.0.5`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
