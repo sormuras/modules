@@ -2924,6 +2924,7 @@
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.2.23` // `com.hack23.cia,model.common.api,2019.2.23,com.hack23.model.common.api,-,explicit,java.base,false,-`
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.3.24` // `com.hack23.cia,model.common.api,2019.3.24,com.hack23.model.common.api,-,explicit,java.base,false,-`
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.6.13` // `com.hack23.cia,model.common.api,2019.6.13,com.hack23.model.common.api,2019.6.13,explicit,java.base,false,-`
+- :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.6.23` // `com.hack23.cia,model.common.api,2019.6.23,com.hack23.model.common.api,2019.6.23,explicit,java.base,false,-`
 - :cd: `com.helger.erechnung.erb` :left_right_arrow: `com.helger.erechnung.gv.at:webservice-client:3.0.1` // `com.helger.erechnung.gv.at,webservice-client,3.0.1,com.helger.erechnung.erb,-,automatic,-,false,-`
 - :cd: `com.helger.erechnung.erb` :left_right_arrow: `com.helger.erechnung.gv.at:webservice-client:3.0.2` // `com.helger.erechnung.gv.at,webservice-client,3.0.2,com.helger.erechnung.erb,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.2.0` // `com.holon-platform.core,holon-async-datastore,5.2.0,com.holonplatform.async.datastore,-,automatic,-,false,-`
@@ -4624,16 +4625,19 @@
 - :cd: `matrix.bot.impl` :left_right_arrow: `io.github.ma1uta.matrix:bot-impl:0.3.0` // `io.github.ma1uta.matrix,bot-impl,0.3.0,matrix.bot.impl,-,automatic,-,false,-`
 - :cd: `matrix.bot.impl` :left_right_arrow: `io.github.ma1uta.matrix:bot-impl:0.3.0-beta2` // `io.github.ma1uta.matrix,bot-impl,0.3.0-beta2,matrix.bot.impl,-,automatic,-,false,-`
 - :cd: `matrix.bot.impl` :left_right_arrow: `io.github.ma1uta.matrix:bot-impl:0.4.0-rc1` // `io.github.ma1uta.matrix,bot-impl,0.4.0-rc1,matrix.bot.impl,-,automatic,-,false,-`
+- :cd: `matrix.bot.impl` :left_right_arrow: `io.github.ma1uta.matrix:bot-impl:0.9.0` // `io.github.ma1uta.matrix,bot-impl,0.9.0,matrix.bot.impl,-,automatic,-,false,-`
 - :dvd: `matrix.client.api` :left_right_arrow: `io.github.ma1uta.matrix:client-api:0.9.0` // `io.github.ma1uta.matrix,client-api,0.9.0,matrix.client.api,-,explicit,java.base + matrix.common.api,false,-`
 - :dvd: `matrix.client.impl` :left_right_arrow: `io.github.ma1uta.matrix:client-impl:0.5.0` // `io.github.ma1uta.matrix,client-impl,0.5.0,matrix.client.impl,-,explicit,java.base + matrix.client.api + matrix.common.impl,false,-`
 - :dvd: `matrix.client.impl` :left_right_arrow: `io.github.ma1uta.matrix:client-impl:0.5.0-beta2` // `io.github.ma1uta.matrix,client-impl,0.5.0-beta2,matrix.client.impl,-,explicit,java.base + matrix.client.api + matrix.common.impl,false,-`
 - :dvd: `matrix.client.impl` :left_right_arrow: `io.github.ma1uta.matrix:client-impl:0.5.0-beta2` // `io.github.ma1uta.matrix,client-impl,0.5.0-beta2,matrix.client.impl,-,explicit,java.base + matrix.common.impl + matrix.client.api,true,-`
 - :dvd: `matrix.client.impl` :left_right_arrow: `io.github.ma1uta.matrix:client-impl:0.6.0-rc1` // `io.github.ma1uta.matrix,client-impl,0.6.0-rc1,matrix.client.impl,-,explicit,java.base + matrix.client.api + matrix.common.impl,false,-`
+- :dvd: `matrix.client.impl` :left_right_arrow: `io.github.ma1uta.matrix:client-impl:0.9.0` // `io.github.ma1uta.matrix,client-impl,0.9.0,matrix.client.impl,-,explicit,java.base + matrix.client.api + matrix.common.impl,false,-`
 - :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.1.0` // `io.github.ma1uta.matrix,client-jaxrs,0.1.0,matrix.client.jaxrs,-,explicit,com.fasterxml.jackson.jaxrs.json + java.base + matrix.client.impl + matrix.support.jackson,false,-`
 - :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.1.0-beta2` // `io.github.ma1uta.matrix,client-jaxrs,0.1.0-beta2,matrix.client.jaxrs,-,explicit,com.fasterxml.jackson.jaxrs.json + java.base + matrix.client.impl + matrix.support.jackson,false,-`
 - :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.1.0-beta2` // `io.github.ma1uta.matrix,client-jaxrs,0.1.0-beta2,matrix.client.jaxrs,-,explicit,com.fasterxml.jackson.jaxrs.json + matrix.client.impl + matrix.support.jackson + java.base,true,-`
 - :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.1.0-beta2` // `io.github.ma1uta.matrix,client-jaxrs,0.1.0-beta2,matrix.client.jaxrs,-,explicit,matrix.support.jackson + com.fasterxml.jackson.jaxrs.json + matrix.client.impl + java.base,true,-`
 - :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.2.0-rc1` // `io.github.ma1uta.matrix,client-jaxrs,0.2.0-rc1,matrix.client.jaxrs,-,explicit,com.fasterxml.jackson.jaxrs.json + java.base + matrix.client.impl + matrix.support.jackson,false,-`
+- :dvd: `matrix.client.jaxrs` :left_right_arrow: `io.github.ma1uta.matrix:client-jaxrs:0.9.0` // `io.github.ma1uta.matrix,client-jaxrs,0.9.0,matrix.client.jaxrs,-,explicit,com.fasterxml.jackson.jaxrs.json + java.base + matrix.client.impl + matrix.support.jackson,false,-`
 - :dvd: `matrix.common.api` :left_right_arrow: `io.github.ma1uta.matrix:common-api:0.7.0` // `io.github.ma1uta.matrix,common-api,0.7.0,matrix.common.api,-,explicit,com.fasterxml.jackson.annotation + java.activation + java.base + java.json.bind + java.ws.rs + swagger.annotations,false,-`
 - :dvd: `matrix.common.api` :left_right_arrow: `io.github.ma1uta.matrix:common-api:0.7.0-beta2` // `io.github.ma1uta.matrix,common-api,0.7.0-beta2,matrix.common.api,-,explicit,com.fasterxml.jackson.annotation + java.activation + java.base + java.json.bind + java.ws.rs + swagger.annotations,false,-`
 - :dvd: `matrix.common.api` :left_right_arrow: `io.github.ma1uta.matrix:common-api:0.7.0-beta2` // `io.github.ma1uta.matrix,common-api,0.7.0-beta2,matrix.common.api,-,explicit,java.ws.rs + java.base + swagger.annotations + com.fasterxml.jackson.annotation + java.json.bind + java.activation,true,-`
@@ -4643,6 +4647,7 @@
 - :dvd: `matrix.common.impl` :left_right_arrow: `io.github.ma1uta.matrix:common-impl:0.5.0-beta2` // `io.github.ma1uta.matrix,common-impl,0.5.0-beta2,matrix.common.impl,-,explicit,java.base + java.ws.rs + matrix.common.api + org.slf4j,false,-`
 - :dvd: `matrix.common.impl` :left_right_arrow: `io.github.ma1uta.matrix:common-impl:0.5.0-beta2` // `io.github.ma1uta.matrix,common-impl,0.5.0-beta2,matrix.common.impl,-,explicit,java.ws.rs + java.base + matrix.common.api + org.slf4j,true,-`
 - :dvd: `matrix.common.impl` :left_right_arrow: `io.github.ma1uta.matrix:common-impl:0.6.0-rc1` // `io.github.ma1uta.matrix,common-impl,0.6.0-rc1,matrix.common.impl,-,explicit,java.base + java.ws.rs + matrix.common.api + org.slf4j,false,-`
+- :dvd: `matrix.common.impl` :left_right_arrow: `io.github.ma1uta.matrix:common-impl:0.9.0` // `io.github.ma1uta.matrix,common-impl,0.9.0,matrix.common.impl,-,explicit,java.base + java.ws.rs + matrix.common.api + slf4j.api,false,-`
 - :dvd: `matrix.identity.api` :left_right_arrow: `io.github.ma1uta.matrix:identity-api:0.9.0` // `io.github.ma1uta.matrix,identity-api,0.9.0,matrix.identity.api,-,explicit,java.base + matrix.common.api,false,-`
 - :dvd: `matrix.identity.api` :left_right_arrow: `io.github.ma1uta.matrix:identity-api:r0.1.0-3` // `io.github.ma1uta.matrix,identity-api,r0.1.0-3,matrix.identity.api,-,explicit,java.base + matrix.common.api,false,-`
 - :dvd: `matrix.identity.api` :left_right_arrow: `io.github.ma1uta.matrix:identity-api:r0.1.0-3-beta2` // `io.github.ma1uta.matrix,identity-api,r0.1.0-3-beta2,matrix.identity.api,-,explicit,java.base + matrix.common.api,false,-`
@@ -4660,36 +4665,52 @@
 - :dvd: `matrix.support.jackson` :left_right_arrow: `io.github.ma1uta.matrix:jackson-support:0.1.0-beta2` // `io.github.ma1uta.matrix,jackson-support,0.1.0-beta2,matrix.support.jackson,-,explicit,java.base + com.fasterxml.jackson.databind + matrix.common.api + com.fasterxml.jackson.core,true,-`
 - :dvd: `matrix.support.jackson` :left_right_arrow: `io.github.ma1uta.matrix:jackson-support:0.1.0-beta2` // `io.github.ma1uta.matrix,jackson-support,0.1.0-beta2,matrix.support.jackson,-,explicit,java.base + matrix.common.api + com.fasterxml.jackson.databind + com.fasterxml.jackson.core,true,-`
 - :dvd: `matrix.support.jackson` :left_right_arrow: `io.github.ma1uta.matrix:jackson-support:0.2.0-rc1` // `io.github.ma1uta.matrix,jackson-support,0.2.0-rc1,matrix.support.jackson,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + matrix.common.api,false,-`
+- :dvd: `matrix.support.jackson` :left_right_arrow: `io.github.ma1uta.matrix:jackson-support:0.9.0` // `io.github.ma1uta.matrix,jackson-support,0.9.0,matrix.support.jackson,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + matrix.common.api,false,-`
 - :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.1.0` // `io.github.ma1uta.matrix,jsonb-support,0.1.0,matrix.support.jsonb,-,explicit,java.base + java.json + matrix.common.api,false,-`
 - :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.2.0-rc1` // `io.github.ma1uta.matrix,jsonb-support,0.2.0-rc1,matrix.support.jsonb,-,explicit,java.base + java.json + matrix.common.api,false,-`
+- :dvd: `matrix.support.jsonb` :left_right_arrow: `io.github.ma1uta.matrix:jsonb-support:0.9.0` // `io.github.ma1uta.matrix,jsonb-support,0.9.0,matrix.support.jsonb,-,explicit,java.base + java.json + java.sql + matrix.common.api + org.mapstruct,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.0` // `net.dreamlu,mica-boot,1.1.0,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.1` // `net.dreamlu,mica-boot,1.1.1,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.2` // `net.dreamlu,mica-boot,1.1.2,mica.boot,-,automatic,-,false,-`
+- :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.3` // `net.dreamlu,mica-boot,1.1.3,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.0` // `net.dreamlu,mica-boot-test,1.1.0,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.1` // `net.dreamlu,mica-boot-test,1.1.1,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.2` // `net.dreamlu,mica-boot-test,1.1.2,mica.boot.test,-,automatic,-,false,-`
+- :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.3` // `net.dreamlu,mica-boot-test,1.1.3,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.0` // `net.dreamlu,mica-captcha,1.1.0,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.1` // `net.dreamlu,mica-captcha,1.1.1,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.2` // `net.dreamlu,mica-captcha,1.1.2,mica.captcha,-,automatic,-,false,-`
+- :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.3` // `net.dreamlu,mica-captcha,1.1.3,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.0` // `net.dreamlu,mica-cloud,1.1.0,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.1` // `net.dreamlu,mica-cloud,1.1.1,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.2` // `net.dreamlu,mica-cloud,1.1.2,mica.cloud,-,automatic,-,false,-`
+- :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.3` // `net.dreamlu,mica-cloud,1.1.3,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.0` // `net.dreamlu,mica-core,1.1.0,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.1` // `net.dreamlu,mica-core,1.1.1,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.2` // `net.dreamlu,mica-core,1.1.2,mica.core,-,automatic,-,false,-`
+- :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.3` // `net.dreamlu,mica-core,1.1.3,mica.core,-,automatic,-,false,-`
+- :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.3` // `net.dreamlu,mica-http,1.1.3,mica.http,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.0` // `net.dreamlu,mica-launcher,1.1.0,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.1` // `net.dreamlu,mica-launcher,1.1.1,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.2` // `net.dreamlu,mica-launcher,1.1.2,mica.launcher,-,automatic,-,false,-`
+- :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.3` // `net.dreamlu,mica-launcher,1.1.3,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.0` // `net.dreamlu,mica-log4j2,1.1.0,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.1` // `net.dreamlu,mica-log4j2,1.1.1,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.2` // `net.dreamlu,mica-log4j2,1.1.2,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.3` // `net.dreamlu,mica-log4j2,1.1.3,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.0` // `net.dreamlu,mica-plus-mongo,1.1.0,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.1` // `net.dreamlu,mica-plus-mongo,1.1.1,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.2` // `net.dreamlu,mica-plus-mongo,1.1.2,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.3` // `net.dreamlu,mica-plus-mongo,1.1.3,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.0` // `net.dreamlu,mica-plus-redis,1.1.0,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.1` // `net.dreamlu,mica-plus-redis,1.1.1,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.2` // `net.dreamlu,mica-plus-redis,1.1.2,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.3` // `net.dreamlu,mica-plus-redis,1.1.3,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.3` // `net.dreamlu,mica-plus-ribbon,1.1.3,mica.plus.ribbon,-,automatic,-,false,-`
+- :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.3` // `net.dreamlu,mica-plus-social,1.1.3,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.2` // `net.dreamlu,mica-plus-swagger,1.1.2,mica.plus.swagger,-,automatic,-,false,-`
+- :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.3` // `net.dreamlu,mica-plus-swagger,1.1.3,mica.plus.swagger,-,automatic,-,false,-`
+- :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.3` // `net.dreamlu,mica-social,1.1.3,mica.social,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.0` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.0,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.1` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.1,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.disable` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:disable-extension:1.1.0` // `name.falgout.jeffrey.testing.junit5,disable-extension,1.1.0,name.falgout.jeffrey.testing.junit.disable,-,automatic,-,false,-`

@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4601 Java modules published at Maven Central
 
-## Summary 2019-06-22T22:35:00.201945Z
+## Summary 2019-06-23T22:38:34.588973Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-22T22:35:00.201945Z
-Scanned 23,921 files in 4 seconds.
+Started scan at 2019-06-23T22:38:34.588973Z
+Scanned 23,974 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_22_22_03_59.csv
+    last -> modulescanner-report-2019_06_23_22_29_34.csv
 
-Parsed 1,540,745 lines in total.
-  27,798 -> captions skipped
-  96,191 -> duplicates skipped
-  60,891 -> module related
+Parsed 1,544,457 lines in total.
+  27,851 -> captions skipped
+  96,282 -> duplicates skipped
+  60,980 -> module related
 
 Collected 4,601 unique modules.
   automatic :cd: -> 3,495
@@ -91,8 +91,8 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6163](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9236](suspicious/naming.md)
+- Invalid module names: [6178](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9257](suspicious/naming.md)
 - Modular impostors: [3058](suspicious/impostors.md)
 
 ## Unique Modules (4601)
@@ -522,12 +522,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.0`
 - :cd: `com.github.shiguruikai.combinatoricskt` :left_right_arrow: `com.github.shiguruikai:combinatoricskt:1.4.0`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
-- :cd: `com.github.spotbugs.annotations` :left_right_arrow: `com.github.spotbugs:spotbugs-annotations:4.0.0-beta2`
-- :cd: `com.github.spotbugs.ant` :left_right_arrow: `com.github.spotbugs:spotbugs-ant:4.0.0-beta2`
-- :cd: `com.github.spotbugs.spotbugs` :left_right_arrow: `com.github.spotbugs:spotbugs:4.0.0-beta2`
-- :cd: `com.github.spotbugs.test` :left_right_arrow: `com.github.spotbugs:test-harness:4.0.0-beta2`
-- :cd: `com.github.spotbugs.test.core` :left_right_arrow: `com.github.spotbugs:test-harness-core:4.0.0-beta2`
-- :cd: `com.github.spotbugs.test.jupiter` :left_right_arrow: `com.github.spotbugs:test-harness-jupiter:4.0.0-beta2`
+- :cd: `com.github.spotbugs.annotations` :left_right_arrow: `com.github.spotbugs:spotbugs-annotations:4.0.0-beta3`
+- :cd: `com.github.spotbugs.ant` :left_right_arrow: `com.github.spotbugs:spotbugs-ant:4.0.0-beta3`
+- :cd: `com.github.spotbugs.spotbugs` :left_right_arrow: `com.github.spotbugs:spotbugs:4.0.0-beta3`
+- :cd: `com.github.spotbugs.test` :left_right_arrow: `com.github.spotbugs:test-harness:4.0.0-beta3`
+- :cd: `com.github.spotbugs.test.core` :left_right_arrow: `com.github.spotbugs:test-harness-core:4.0.0-beta3`
+- :cd: `com.github.spotbugs.test.jupiter` :left_right_arrow: `com.github.spotbugs:test-harness-jupiter:4.0.0-beta3`
 - :dvd: `com.github.themrmilchmann.kopt` :left_right_arrow: `com.github.themrmilchmann.kopt:kopt:0.4.0`
 - :dvd: `com.github.themrmilchmann.mjl.events` :left_right_arrow: `com.github.themrmilchmann.mjl:mjl-events:2.0.0`
 - :dvd: `com.github.themrmilchmann.mjl.options` :left_right_arrow: `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
@@ -562,40 +562,40 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.google.zxing.javase` :left_right_arrow: `com.google.zxing:javase:3.4.0`
 - :cd: `com.h2database` :left_right_arrow: `com.h2database:h2:1.4.199`
 - :cd: `com.h2database.mvstore` :left_right_arrow: `com.h2database:h2-mvstore:1.4.199`
-- :cd: `com.hack23.cia.encrypt.properties` :left_right_arrow: `com.hack23.cia:encrypt.properties:2019.6.13`
-- :cd: `com.hack23.cia.jms.broker` :left_right_arrow: `com.hack23.cia:jms.broker:2019.6.13`
+- :cd: `com.hack23.cia.encrypt.properties` :left_right_arrow: `com.hack23.cia:encrypt.properties:2019.6.23`
+- :cd: `com.hack23.cia.jms.broker` :left_right_arrow: `com.hack23.cia:jms.broker:2019.6.23`
 - :cd: `com.hack23.cia.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2018.8.17`
-- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.6.13`
-- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.6.13`
-- :cd: `com.hack23.cia.model.external.worldbank.topic.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.topic.impl:2019.6.13`
-- :cd: `com.hack23.cia.model.internal.application.user.impl` :left_right_arrow: `com.hack23.cia:model.internal.application.user.impl:2019.6.13`
-- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.6.13`
-- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.6.13`
-- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.6.13`
-- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.6.13`
-- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.6.13`
-- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.6.13`
-- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.6.13`
-- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.6.13`
-- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.6.13`
-- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.6.13`
-- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.6.13`
-- :cd: `com.hack23.cia.testfoundation` :left_right_arrow: `com.hack23.cia:testfoundation:2019.6.13`
-- :cd: `com.hack23.cia.web.widgets` :left_right_arrow: `com.hack23.cia:web-widgets:2019.6.13`
+- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.6.23`
+- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.6.23`
+- :cd: `com.hack23.cia.model.external.worldbank.topic.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.topic.impl:2019.6.23`
+- :cd: `com.hack23.cia.model.internal.application.user.impl` :left_right_arrow: `com.hack23.cia:model.internal.application.user.impl:2019.6.23`
+- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.6.23`
+- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.6.23`
+- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.6.23`
+- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.6.23`
+- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.6.23`
+- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.6.23`
+- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.6.23`
+- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.6.23`
+- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.6.23`
+- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.6.23`
+- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.6.23`
+- :cd: `com.hack23.cia.testfoundation` :left_right_arrow: `com.hack23.cia:testfoundation:2019.6.23`
+- :cd: `com.hack23.cia.web.widgets` :left_right_arrow: `com.hack23.cia:web-widgets:2019.6.23`
 - :cd: `com.hazelcast.client` :left_right_arrow: `com.hazelcast:hazelcast-client:3.12.1`
 - :cd: `com.hazelcast.core` :left_right_arrow: `com.hazelcast:hazelcast:3.12.1`
 - :cd: `com.hazelcast.jet` :left_right_arrow: `com.hazelcast.jet:hazelcast-jet:3.0`
@@ -880,8 +880,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.jtensors.storage.api` :left_right_arrow: `com.io7m.jtensors:com.io7m.jtensors.storage.api:9.0.0`
 - :dvd: `com.io7m.jtensors.storage.bytebuffered` :left_right_arrow: `com.io7m.jtensors:com.io7m.jtensors.storage.bytebuffered:9.0.0`
 - :dvd: `com.io7m.jtensors.storage.heap` :left_right_arrow: `com.io7m.jtensors:com.io7m.jtensors.storage.heap:9.0.0`
-- :dvd: `com.io7m.junreachable.core` :left_right_arrow: `com.io7m.junreachable:com.io7m.junreachable.core:2.1.1`
-- :dvd: `com.io7m.junreachable.documentation` :left_right_arrow: `com.io7m.junreachable:com.io7m.junreachable.documentation:2.1.1`
+- :dvd: `com.io7m.junreachable.core` :left_right_arrow: `com.io7m.junreachable:com.io7m.junreachable.core:3.0.0`
+- :dvd: `com.io7m.junreachable.documentation` :left_right_arrow: `com.io7m.junreachable:com.io7m.junreachable.documentation:3.0.0`
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
@@ -1731,13 +1731,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.webserver.zipkin` :left_right_arrow: `io.helidon.webserver:helidon-webserver-zipkin:0.10.5`
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.0.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
-- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.0.0`
-- :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:4.4.0`
-- :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:4.4.0`
+- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.1.0`
+- :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.0`
+- :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:5.0.0`
 - :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.4.0`
 - :cd: `io.jenetics.prngine` :left_right_arrow: `io.jenetics:prngine:1.0.1`
-- :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:4.4.0`
-- :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:4.4.0`
+- :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:5.0.0`
+- :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:5.0.0`
 - :cd: `io.jhdf` :left_right_arrow: `io.jhdf:jhdf:0.4.4`
 - :cd: `io.jitstatic.client` :left_right_arrow: `io.jitstatic:jitstatic-client:0.11.0`
 - :dvd: `io.kodokojo.property.configurer` :left_right_arrow: `io.kodokojo:property-configurer:0.2.0`
@@ -1971,10 +1971,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.144`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.144`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.144`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.144`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.145`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.145`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.145`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.145`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.108`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.108`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.108`
@@ -2776,7 +2776,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.chorusbdd.chorus.spring` :left_right_arrow: `org.chorusbdd:chorus-spring:3.1.3`
 - :cd: `org.chorusbdd.chorus.sql` :left_right_arrow: `org.chorusbdd:chorus-sql:3.1.3`
 - :cd: `org.chorusbdd.chorus.websockets` :left_right_arrow: `org.chorusbdd:chorus-websockets:3.1.3`
-- :cd: `org.cloudi` :left_right_arrow: `org.cloudi:cloudi_api_java:1.7.5`
+- :cd: `org.cloudi` :left_right_arrow: `org.cloudi:cloudi_api_java:1.7.7`
 - :cd: `org.codehaus.groovy` :left_right_arrow: `org.codehaus.groovy:groovy:3.0.0-beta-1`
 - :cd: `org.codehaus.groovy.ant` :left_right_arrow: `org.codehaus.groovy:groovy-ant:3.0.0-beta-1`
 - :cd: `org.codehaus.groovy.bsf` :left_right_arrow: `org.codehaus.groovy:groovy-bsf:3.0.0-beta-1`
@@ -3553,7 +3553,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:kie-wb-home-page-community:7.14.0.Final`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:kie-wb-theme-community:7.14.0.Final`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:kie-wb-theme-product:7.14.0.Final`
-- :cd: `org.kitteh.irc.client.library` :left_right_arrow: `org.kitteh.irc:client-lib:7.1.0`
+- :cd: `org.kitteh.irc.client.library` :left_right_arrow: `org.kitteh.irc:client-lib:7.2.0`
 - :cd: `org.kocakosm.jblake2` :left_right_arrow: `org.kocakosm:jblake2:0.4`
 - :cd: `org.kordamp.bootstrapfx.core` :left_right_arrow: `org.kordamp.bootstrapfx:bootstrapfx-core:0.2.4`
 - :cd: `org.kordamp.desktoppanefx.core` :left_right_arrow: `org.kordamp.desktoppanefx:desktoppanefx-core:0.12.0`
