@@ -2751,6 +2751,24 @@
 - :cd: `com.google.api.client.json.jackson` :left_right_arrow: `com.google.http-client:google-http-client-jackson:1.29.0` // `com.google.http-client,google-http-client-jackson,1.29.0,com.google.api.client.json.jackson,-,automatic,-,false,-`
 - :cd: `com.google.api.client.json.jackson` :left_right_arrow: `com.google.http-client:google-http-client-jackson:1.29.1` // `com.google.http-client,google-http-client-jackson,1.29.1,com.google.api.client.json.jackson,-,automatic,-,false,-`
 - :cd: `com.google.api.client.json.jackson` :left_right_arrow: `com.google.http-client:google-http-client-jackson:1.29.2` // `com.google.http-client,google-http-client-jackson,1.29.2,com.google.api.client.json.jackson,-,automatic,-,false,-`
+- :cd: `com.google.api.services.abusiveexperiencereport` :left_right_arrow: `com.google.apis:google-api-services-abusiveexperiencereport:v1-rev20181017-1.30.1` // `com.google.apis,google-api-services-abusiveexperiencereport,v1-rev20181017-1.30.1,com.google.api.services.abusiveexperiencereport,-,automatic,-,false,-`
+- :cd: `com.google.api.services.acceleratedmobilepageurl` :left_right_arrow: `com.google.apis:google-api-services-acceleratedmobilepageurl:v1-rev20180612-1.30.1` // `com.google.apis,google-api-services-acceleratedmobilepageurl,v1-rev20180612-1.30.1,com.google.api.services.acceleratedmobilepageurl,-,automatic,-,false,-`
+- :cd: `com.google.api.services.accessapproval` :left_right_arrow: `com.google.apis:google-api-services-accessapproval:v1beta1-rev20190504-1.30.1` // `com.google.apis,google-api-services-accessapproval,v1beta1-rev20190504-1.30.1,com.google.api.services.accessapproval,-,automatic,-,false,-`
+- :cd: `com.google.api.services.accesscontextmanager` :left_right_arrow: `com.google.apis:google-api-services-accesscontextmanager:v1-rev20190529-1.30.1` // `com.google.apis,google-api-services-accesscontextmanager,v1-rev20190529-1.30.1,com.google.api.services.accesscontextmanager,-,automatic,-,false,-`
+- :cd: `com.google.api.services.adexchangebuyer2` :left_right_arrow: `com.google.apis:google-api-services-adexchangebuyer2:v2beta1-rev20190529-1.30.1` // `com.google.apis,google-api-services-adexchangebuyer2,v2beta1-rev20190529-1.30.1,com.google.api.services.adexchangebuyer2,-,automatic,-,false,-`
+- :cd: `com.google.api.services.adexperiencereport` :left_right_arrow: `com.google.apis:google-api-services-adexperiencereport:v1-rev20181017-1.30.1` // `com.google.apis,google-api-services-adexperiencereport,v1-rev20181017-1.30.1,com.google.api.services.adexperiencereport,-,automatic,-,false,-`
+- :cd: `com.google.api.services.adsense` :left_right_arrow: `com.google.apis:google-api-services-adsense:v1.4-rev20180807-1.30.1` // `com.google.apis,google-api-services-adsense,v1.4-rev20180807-1.30.1,com.google.api.services.adsense,-,automatic,-,false,-`
+- :cd: `com.google.api.services.adsensehost` :left_right_arrow: `com.google.apis:google-api-services-adsensehost:v4.1-rev20180807-1.30.1` // `com.google.apis,google-api-services-adsensehost,v4.1-rev20180807-1.30.1,com.google.api.services.adsensehost,-,automatic,-,false,-`
+- :cd: `com.google.api.services.alertcenter` :left_right_arrow: `com.google.apis:google-api-services-alertcenter:v1beta1-rev20190520-1.30.1` // `com.google.apis,google-api-services-alertcenter,v1beta1-rev20190520-1.30.1,com.google.api.services.alertcenter,-,automatic,-,false,-`
+- :cd: `com.google.api.services.analytics` :left_right_arrow: `com.google.apis:google-api-services-analytics:v3-rev20190604-1.30.1` // `com.google.apis,google-api-services-analytics,v3-rev20190604-1.30.1,com.google.api.services.analytics,-,automatic,-,false,-`
+- :cd: `com.google.api.services.analyticsreporting` :left_right_arrow: `com.google.apis:google-api-services-analyticsreporting:v4-rev20190318-1.30.1` // `com.google.apis,google-api-services-analyticsreporting,v4-rev20190318-1.30.1,com.google.api.services.analyticsreporting,-,automatic,-,false,-`
+- :cd: `com.google.api.services.androiddeviceprovisioning` :left_right_arrow: `com.google.apis:google-api-services-androiddeviceprovisioning:v1-rev20190531-1.30.1` // `com.google.apis,google-api-services-androiddeviceprovisioning,v1-rev20190531-1.30.1,com.google.api.services.androiddeviceprovisioning,-,automatic,-,false,-`
+- :cd: `com.google.api.services.androidenterprise` :left_right_arrow: `com.google.apis:google-api-services-androidenterprise:v1-rev20190530-1.30.1` // `com.google.apis,google-api-services-androidenterprise,v1-rev20190530-1.30.1,com.google.api.services.androidenterprise,-,automatic,-,false,-`
+- :cd: `com.google.api.services.androidmanagement` :left_right_arrow: `com.google.apis:google-api-services-androidmanagement:v1-rev20190605-1.30.1` // `com.google.apis,google-api-services-androidmanagement,v1-rev20190605-1.30.1,com.google.api.services.androidmanagement,-,automatic,-,false,-`
+- :cd: `com.google.api.services.androidpublisher` :left_right_arrow: `com.google.apis:google-api-services-androidpublisher:v3-rev20190618-1.30.1` // `com.google.apis,google-api-services-androidpublisher,v3-rev20190618-1.30.1,com.google.api.services.androidpublisher,-,automatic,-,false,-`
+- :cd: `com.google.api.services.appengine` :left_right_arrow: `com.google.apis:google-api-services-appengine:v1-rev20190531-1.30.1` // `com.google.apis,google-api-services-appengine,v1-rev20190531-1.30.1,com.google.api.services.appengine,-,automatic,-,false,-`
+- :cd: `com.google.api.services.appsactivity` :left_right_arrow: `com.google.apis:google-api-services-appsactivity:v1-rev20190331-1.30.1` // `com.google.apis,google-api-services-appsactivity,v1-rev20190331-1.30.1,com.google.api.services.appsactivity,-,automatic,-,false,-`
+- :cd: `com.google.api.services.appstate` :left_right_arrow: `com.google.apis:google-api-services-appstate:v1-rev20180816-1.30.1` // `com.google.apis,google-api-services-appstate,v1-rev20180816-1.30.1,com.google.api.services.appstate,-,automatic,-,false,-`
 - :cd: `com.google.common` :left_right_arrow: `org.checkerframework.annotatedlib:guava:26.0-jre` // `org.checkerframework.annotatedlib,guava,26.0-jre,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.guice.extensions.assistedinject` :left_right_arrow: `com.google.inject.extensions:guice-assistedinject:4.2.0` // `com.google.inject.extensions,guice-assistedinject,4.2.0,com.google.guice.extensions.assistedinject,-,automatic,-,false,-`
 - :cd: `com.google.guice.extensions.assistedinject` :left_right_arrow: `com.google.inject.extensions:guice-assistedinject:4.2.1` // `com.google.inject.extensions,guice-assistedinject,4.2.1,com.google.guice.extensions.assistedinject,-,automatic,-,false,-`
@@ -4875,6 +4893,7 @@
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:3.14.1` // `com.squareup.okhttp3,okhttp,3.14.1,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.0-RC1` // `com.squareup.okhttp3,okhttp,4.0.0-RC1,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.0-RC2` // `com.squareup.okhttp3,okhttp,4.0.0-RC2,okhttp3,-,automatic,-,false,-`
+- :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.0-RC3` // `com.squareup.okhttp3,okhttp,4.0.0-RC3,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.0-alpha01` // `com.squareup.okhttp3,okhttp,4.0.0-alpha01,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.0-alpha02` // `com.squareup.okhttp3,okhttp,4.0.0-alpha02,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.github.ljun20160606:okhttp-android-support:3.10.0` // `com.github.ljun20160606,okhttp-android-support,3.10.0,okhttp3.androidsupport,-,automatic,-,false,-`
@@ -4899,6 +4918,7 @@
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:3.14.1` // `com.squareup.okhttp3,okcurl,3.14.1,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.0-RC1` // `com.squareup.okhttp3,okcurl,4.0.0-RC1,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.0-RC2` // `com.squareup.okhttp3,okcurl,4.0.0-RC2,okhttp3.curl,-,automatic,-,false,-`
+- :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.0-RC3` // `com.squareup.okhttp3,okcurl,4.0.0-RC3,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.0-alpha01` // `com.squareup.okhttp3,okcurl,4.0.0-alpha01,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.0-alpha02` // `com.squareup.okhttp3,okcurl,4.0.0-alpha02,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.11.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.11.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
@@ -4910,6 +4930,7 @@
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.14.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.14.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.0-RC1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.0-RC1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.0-RC2` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.0-RC2,okhttp3.dnsoverhttps,-,automatic,-,false,-`
+- :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.0-RC3` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.0-RC3,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.0-alpha01` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.0-alpha01,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.0-alpha02` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.0-alpha02,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.github.ljun20160606:logging-interceptor:3.10.0` // `com.github.ljun20160606,logging-interceptor,3.10.0,okhttp3.logging,-,automatic,-,false,-`
@@ -4922,6 +4943,7 @@
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:3.14.1` // `com.squareup.okhttp3,logging-interceptor,3.14.1,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.0-RC1` // `com.squareup.okhttp3,logging-interceptor,4.0.0-RC1,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.0-RC2` // `com.squareup.okhttp3,logging-interceptor,4.0.0-RC2,okhttp3.logging,-,automatic,-,false,-`
+- :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.0-RC3` // `com.squareup.okhttp3,logging-interceptor,4.0.0-RC3,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.0-alpha01` // `com.squareup.okhttp3,logging-interceptor,4.0.0-alpha01,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.0-alpha02` // `com.squareup.okhttp3,logging-interceptor,4.0.0-alpha02,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.github.ljun20160606:mockwebserver:3.10.0` // `com.github.ljun20160606,mockwebserver,3.10.0,okhttp3.mockwebserver,-,automatic,-,false,-`
@@ -4934,6 +4956,7 @@
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:3.14.1` // `com.squareup.okhttp3,mockwebserver,3.14.1,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.0-RC1` // `com.squareup.okhttp3,mockwebserver,4.0.0-RC1,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.0-RC2` // `com.squareup.okhttp3,mockwebserver,4.0.0-RC2,okhttp3.mockwebserver,-,automatic,-,false,-`
+- :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.0-RC3` // `com.squareup.okhttp3,mockwebserver,4.0.0-RC3,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.0-alpha01` // `com.squareup.okhttp3,mockwebserver,4.0.0-alpha01,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.0-alpha02` // `com.squareup.okhttp3,mockwebserver,4.0.0-alpha02,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.11.0` // `com.squareup.okhttp3,okhttp-sse,3.11.0,okhttp3.sse,-,automatic,-,false,-`
@@ -4945,6 +4968,7 @@
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.14.1` // `com.squareup.okhttp3,okhttp-sse,3.14.1,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.0-RC1` // `com.squareup.okhttp3,okhttp-sse,4.0.0-RC1,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.0-RC2` // `com.squareup.okhttp3,okhttp-sse,4.0.0-RC2,okhttp3.sse,-,automatic,-,false,-`
+- :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.0-RC3` // `com.squareup.okhttp3,okhttp-sse,4.0.0-RC3,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.0-alpha01` // `com.squareup.okhttp3,okhttp-sse,4.0.0-alpha01,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.0-alpha02` // `com.squareup.okhttp3,okhttp-sse,4.0.0-alpha02,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.github.ljun20160606:okhttp-testing-support:3.10.0` // `com.github.ljun20160606,okhttp-testing-support,3.10.0,okhttp3.testing,-,automatic,-,false,-`
@@ -4965,6 +4989,7 @@
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:3.14.1` // `com.squareup.okhttp3,okhttp-tls,3.14.1,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.0-RC1` // `com.squareup.okhttp3,okhttp-tls,4.0.0-RC1,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.0-RC2` // `com.squareup.okhttp3,okhttp-tls,4.0.0-RC2,okhttp3.tls,-,automatic,-,false,-`
+- :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.0-RC3` // `com.squareup.okhttp3,okhttp-tls,4.0.0-RC3,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.0-alpha01` // `com.squareup.okhttp3,okhttp-tls,4.0.0-alpha01,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.0-alpha02` // `com.squareup.okhttp3,okhttp-tls,4.0.0-alpha02,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.github.ljun20160606:okhttp-urlconnection:3.10.0` // `com.github.ljun20160606,okhttp-urlconnection,3.10.0,okhttp3.urlconnection,-,automatic,-,false,-`
@@ -4977,6 +5002,7 @@
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:3.14.1` // `com.squareup.okhttp3,okhttp-urlconnection,3.14.1,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.0-RC1` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.0-RC1,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.0-RC2` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.0-RC2,okhttp3.urlconnection,-,automatic,-,false,-`
+- :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.0-RC3` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.0-RC3,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.0-alpha01` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.0-alpha01,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.0-alpha02` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.0-alpha02,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.0.0` // `com.squareup.okio,okio,2.0.0,okio,-,automatic,-,false,-`
@@ -5311,6 +5337,7 @@
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.21.0.Final` // `org.drools.testcoverage,test-compiler-integration,7.21.0.Final,org.drools.compiler.integrationtests,-,automatic,-,false,-`
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.22.0.t042` // `org.drools.testcoverage,test-compiler-integration,7.22.0.t042,org.drools.compiler.integrationtests,-,automatic,-,false,-`
 - :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.23.0.Final` // `org.drools.testcoverage,test-compiler-integration,7.23.0.Final,org.drools.compiler.integrationtests,-,automatic,-,false,-`
+- :cd: `org.drools.compiler.integrationtests` :left_right_arrow: `org.drools.testcoverage:test-compiler-integration:7.24.0.t043` // `org.drools.testcoverage,test-compiler-integration,7.24.0.t043,org.drools.compiler.integrationtests,-,automatic,-,false,-`
 - :cd: `org.drools.infinispan` :left_right_arrow: `org.kie:drools-infinispan-persistence:7.10.0.Final` // `org.kie,drools-infinispan-persistence,7.10.0.Final,org.drools.infinispan,-,automatic,-,false,-`
 - :cd: `org.drools.infinispan` :left_right_arrow: `org.kie:drools-infinispan-persistence:7.11.0.Final` // `org.kie,drools-infinispan-persistence,7.11.0.Final,org.drools.infinispan,-,automatic,-,false,-`
 - :cd: `org.drools.infinispan` :left_right_arrow: `org.kie:drools-infinispan-persistence:7.12.0.Final` // `org.kie,drools-infinispan-persistence,7.12.0.Final,org.drools.infinispan,-,automatic,-,false,-`
@@ -6487,6 +6514,7 @@
 - :cd: `org.jbpm.process.svg` :left_right_arrow: `org.kie:jbpm-process-svg:7.21.0.Final` // `org.kie,jbpm-process-svg,7.21.0.Final,org.jbpm.process.svg,-,automatic,-,false,-`
 - :cd: `org.jbpm.process.svg` :left_right_arrow: `org.kie:jbpm-process-svg:7.22.0.t042` // `org.kie,jbpm-process-svg,7.22.0.t042,org.jbpm.process.svg,-,automatic,-,false,-`
 - :cd: `org.jbpm.process.svg` :left_right_arrow: `org.kie:jbpm-process-svg:7.23.0.Final` // `org.kie,jbpm-process-svg,7.23.0.Final,org.jbpm.process.svg,-,automatic,-,false,-`
+- :cd: `org.jbpm.process.svg` :left_right_arrow: `org.kie:jbpm-process-svg:7.24.0.t043` // `org.kie,jbpm-process-svg,7.24.0.t043,org.jbpm.process.svg,-,automatic,-,false,-`
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.10.0.Final` // `org.drools,jbpm-simulation,7.10.0.Final,org.jbpm.simulation,-,automatic,-,false,-`
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.11.0.Final` // `org.drools,jbpm-simulation,7.11.0.Final,org.jbpm.simulation,-,automatic,-,false,-`
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.12.0.Final` // `org.drools,jbpm-simulation,7.12.0.Final,org.jbpm.simulation,-,automatic,-,false,-`
@@ -6501,6 +6529,7 @@
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.21.0.Final` // `org.drools,jbpm-simulation,7.21.0.Final,org.jbpm.simulation,-,automatic,-,false,-`
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.22.0.t042` // `org.drools,jbpm-simulation,7.22.0.t042,org.jbpm.simulation,-,automatic,-,false,-`
 - :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.23.0.Final` // `org.drools,jbpm-simulation,7.23.0.Final,org.jbpm.simulation,-,automatic,-,false,-`
+- :cd: `org.jbpm.simulation` :left_right_arrow: `org.drools:jbpm-simulation:7.24.0.t043` // `org.drools,jbpm-simulation,7.24.0.t043,org.jbpm.simulation,-,automatic,-,false,-`
 - :cd: `org.jdeferred2.core` :left_right_arrow: `org.jdeferred.v2:jdeferred-core:2.0.0-beta1` // `org.jdeferred.v2,jdeferred-core,2.0.0-beta1,org.jdeferred2.core,-,automatic,-,false,-`
 - :cd: `org.jdeferred2.core` :left_right_arrow: `org.jdeferred.v2:jdeferred-core:2.0.0-beta2` // `org.jdeferred.v2,jdeferred-core,2.0.0-beta2,org.jdeferred2.core,-,automatic,-,false,-`
 - :cd: `org.jgrapht.core` :left_right_arrow: `com.io7m.jgrapht:jgrapht-core:1.2.1-MODULARIZED` // `com.io7m.jgrapht,jgrapht-core,1.2.1-MODULARIZED,org.jgrapht.core,-,automatic,-,false,-`
@@ -6524,6 +6553,7 @@
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.21.0.Final` // `org.drools,kie-pmml,7.21.0.Final,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.22.0.t042` // `org.drools,kie-pmml,7.22.0.t042,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.23.0.Final` // `org.drools,kie-pmml,7.23.0.Final,org.kie.pmml,-,automatic,-,false,-`
+- :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.24.0.t043` // `org.drools,kie-pmml,7.24.0.t043,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.ala.build.maven` :left_right_arrow: `org.kie.workbench:kie-wb-common-ala-build-maven:7.10.0.Final` // `org.kie.workbench,kie-wb-common-ala-build-maven,7.10.0.Final,org.kie.wb.common.ala.build.maven,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.ala.build.maven` :left_right_arrow: `org.kie.workbench:kie-wb-common-ala-build-maven:7.11.0.Final` // `org.kie.workbench,kie-wb-common-ala-build-maven,7.11.0.Final,org.kie.wb.common.ala.build.maven,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.ala.build.maven` :left_right_arrow: `org.kie.workbench:kie-wb-common-ala-build-maven:7.12.0.Final` // `org.kie.workbench,kie-wb-common-ala-build-maven,7.12.0.Final,org.kie.wb.common.ala.build.maven,-,automatic,-,false,-`
@@ -8706,6 +8736,7 @@
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.0` // `com.infotel.seleniumRobot,core,4.7.0,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.1` // `com.infotel.seleniumRobot,core,4.7.1,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.2` // `com.infotel.seleniumRobot,core,4.7.2,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
+- :dvd: `org.openqa.selenium.remote` :left_right_arrow: `com.infotel.seleniumRobot:core:4.7.3` // `com.infotel.seleniumRobot,core,4.7.3,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `io.github.jaqat:remoterobot:0.2.1` // `io.github.jaqat,remoterobot,0.2.1,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `io.github.jaqat:remoterobot:0.2.2` // `io.github.jaqat,remoterobot,0.2.2,org.openqa.selenium.remote,-,explicit,com.google.common + commons.exec + httpclient + httpcore + java.base + java.logging + net.bytebuddy + okhttp3 + org.openqa.selenium.core,false,-`
 - :dvd: `org.openqa.selenium.remote` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:3.14.0` // `org.seleniumhq.selenium,selenium-remote-driver,3.14.0,org.openqa.selenium.remote,-,explicit,net.bytebuddy + okhttp3 + java.base + httpcore + java.logging + com.google.common + httpclient + commons.exec + org.openqa.selenium.core,true,-`
@@ -9159,7 +9190,9 @@
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.2` // `io.zipkin.reporter2,zipkin-reporter,2.8.2,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.3` // `io.zipkin.reporter2,zipkin-reporter,2.8.3,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.4` // `io.zipkin.reporter2,zipkin-reporter,2.8.4,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.9.0` // `io.zipkin.reporter2,zipkin-reporter,2.9.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter,2.8.3,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.9.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.10` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.10,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.13` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.13,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.14` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.14,zipkin2.reporter.amqp,-,automatic,-,false,-`
@@ -9172,6 +9205,7 @@
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.2` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.2,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.3` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.3,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.4` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.4,zipkin2.reporter.amqp,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.9.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-amqp-client:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-amqp-client,2.8.3,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.10` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.10,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.13` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.13,zipkin2.reporter.beans,-,automatic,-,false,-`
@@ -9185,9 +9219,11 @@
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.2,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.3` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.3,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.4` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.4,zipkin2.reporter.beans,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.9.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.9.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.3,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.4` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.4,zipkin2.reporter.kafka,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.9.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.9.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.10,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.13,zipkin2.reporter.kafka08,-,automatic,-,false,-`
@@ -9201,6 +9237,7 @@
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.2` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.2,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.3` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.3,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.8.4` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.8.4,zipkin2.reporter.kafka08,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.9.0` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.9.0,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-kafka08:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-kafka08,2.8.3,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.10,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.7.13,zipkin2.reporter.kafka11,-,automatic,-,false,-`
@@ -9224,12 +9261,14 @@
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.2` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.2,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.3` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.3,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.4` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.4,zipkin2.reporter.libthrift,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.9.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.9.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-libthrift:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-libthrift,2.8.3,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.3` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.3,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.4` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.4,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.9.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.9.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.3,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.10` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.10,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.13` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.13,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
@@ -9243,6 +9282,7 @@
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.2` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.2,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.3` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.3,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.4` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.4,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.9.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.9.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-okhttp3:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-okhttp3,2.8.3,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.10` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.10,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.13` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.13,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
@@ -9256,4 +9296,5 @@
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.2` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.2,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.3` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.3,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.8.4` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.8.4,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.9.0` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.9.0,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-urlconnection:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-urlconnection,2.8.3,zipkin2.reporter.urlconnection,-,automatic,-,false,-`

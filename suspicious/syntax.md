@@ -233,6 +233,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.21.0.Final` // `org.drools,camel-container-integration-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.22.0.t042` // `org.drools,camel-container-integration-tests,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.23.0.Final` // `org.drools,camel-container-integration-tests,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.24.0.t043` // `org.drools,camel-container-integration-tests,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.14.0.Final` // `org.drools,camel-container-tests-api,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.15.0.Final` // `org.drools,camel-container-tests-api,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.16.0.Final` // `org.drools,camel-container-tests-api,7.16.0.Final,-,-,automatic,-,false,-`
@@ -243,6 +244,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.21.0.Final` // `org.drools,camel-container-tests-api,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.22.0.t042` // `org.drools,camel-container-tests-api,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.23.0.Final` // `org.drools,camel-container-tests-api,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.24.0.t043` // `org.drools,camel-container-tests-api,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.16.0.Final` // `org.drools,camel-container-tests-model,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.17.0.Final` // `org.drools,camel-container-tests-model,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.18.0.Final` // `org.drools,camel-container-tests-model,7.18.0.Final,-,-,automatic,-,false,-`
@@ -251,10 +253,13 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.21.0.Final` // `org.drools,camel-container-tests-model,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.22.0.t042` // `org.drools,camel-container-tests-model,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.23.0.Final` // `org.drools,camel-container-tests-model,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.24.0.t043` // `org.drools,camel-container-tests-model,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.22.0.t042` // `org.drools,drools-scenario-simulation-api,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.23.0.Final` // `org.drools,drools-scenario-simulation-api,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.24.0.t043` // `org.drools,drools-scenario-simulation-api,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.22.0.t042` // `org.drools,drools-scenario-simulation-backend,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.23.0.Final` // `org.drools,drools-scenario-simulation-backend,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.24.0.t043` // `org.drools,drools-scenario-simulation-backend,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -269,6 +274,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -283,6 +289,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -297,6 +304,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -311,6 +319,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -325,6 +334,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -339,6 +349,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.21.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.22.0.t042` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.23.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.24.0.t043` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -353,6 +364,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.21.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.22.0.t042` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.23.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.24.0.t043` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -367,6 +379,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.21.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.22.0.t042` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.23.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.24.0.t043` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.10.0.Final` // `org.drools.testcoverage,kie-spring-test,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.11.0.Final` // `org.drools.testcoverage,kie-spring-test,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.12.0.Final` // `org.drools.testcoverage,kie-spring-test,7.12.0.Final,-,-,automatic,-,false,-`
@@ -381,6 +394,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.21.0.Final` // `org.drools.testcoverage,kie-spring-test,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.22.0.t042` // `org.drools.testcoverage,kie-spring-test,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.23.0.Final` // `org.drools.testcoverage,kie-spring-test,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.24.0.t043` // `org.drools.testcoverage,kie-spring-test,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -395,6 +409,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.21.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.22.0.t042` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.23.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.24.0.t043` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -409,6 +424,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.21.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.22.0.t042` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.23.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.24.0.t043` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.10.0.Final` // `org.drools.testcoverage,model-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.11.0.Final` // `org.drools.testcoverage,model-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.12.0.Final` // `org.drools.testcoverage,model-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -423,6 +439,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.21.0.Final` // `org.drools.testcoverage,model-wrapper,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.22.0.t042` // `org.drools.testcoverage,model-wrapper,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.23.0.Final` // `org.drools.testcoverage,model-wrapper,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.24.0.t043` // `org.drools.testcoverage,model-wrapper,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.3` // `org.hortonmachine,hm-apps,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.4` // `org.hortonmachine,hm-apps,0.9.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.5` // `org.hortonmachine,hm-apps,0.9.5,-,-,automatic,-,false,-`
@@ -455,6 +472,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.21.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.22.0.t042` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.23.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.24.0.t043` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.10.0.Final` // `org.jbpm,jbpm-executor-ejb,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.11.0.Final` // `org.jbpm,jbpm-executor-ejb,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.12.0.Final` // `org.jbpm,jbpm-executor-ejb,7.12.0.Final,-,-,automatic,-,false,-`
@@ -469,6 +487,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.21.0.Final` // `org.jbpm,jbpm-executor-ejb,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.22.0.t042` // `org.jbpm,jbpm-executor-ejb,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.23.0.Final` // `org.jbpm,jbpm-executor-ejb,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.24.0.t043` // `org.jbpm,jbpm-executor-ejb,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.17.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.18.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.19.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.19.0.Final,-,-,automatic,-,false,-`
@@ -476,11 +495,13 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.21.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.22.0.t042` // `org.jbpm,jbpm-workitems-template-resources,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.23.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.24.0.t043` // `org.jbpm,jbpm-workitems-template-resources,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.19.0.Final` // `org.jbpm,jbpm-xes,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.20.0.Final` // `org.jbpm,jbpm-xes,7.20.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.21.0.Final` // `org.jbpm,jbpm-xes,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.22.0.t042` // `org.jbpm,jbpm-xes,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.23.0.Final` // `org.jbpm,jbpm-xes,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-xes:7.24.0.t043` // `org.jbpm,jbpm-xes,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.10.0.Final` // `org.jbpm.contrib,archive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.11.0.Final` // `org.jbpm.contrib,archive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.12.0.Final` // `org.jbpm.contrib,archive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1001,6 +1022,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.21.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.22.0.t042` // `org.kie,jbpm-spring-boot-autoconfiguration,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.23.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-autoconfiguration:7.24.0.t043` // `org.kie,jbpm-spring-boot-autoconfiguration,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.16.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.17.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.18.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.18.0.Final,-,-,automatic,-,false,-`
@@ -1009,6 +1031,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.21.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.22.0.t042` // `org.kie,jbpm-spring-boot-data-sources,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.23.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-data-sources:7.24.0.t043` // `org.kie,jbpm-spring-boot-data-sources,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1023,6 +1046,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.21.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.22.0.t042` // `org.kie,jbpm-spring-boot-sample-basic,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.23.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-sample-basic:7.24.0.t043` // `org.kie,jbpm-spring-boot-sample-basic,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1037,6 +1061,7 @@
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.21.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.22.0.t042` // `org.kie,jbpm-spring-boot-starter-basic,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.23.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:jbpm-spring-boot-starter-basic:7.24.0.t043` // `org.kie,jbpm-spring-boot-starter-basic,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1051,6 +1076,7 @@
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.21.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.22.0.t042` // `org.kie,keycloak-kie-server-spring-boot-sample,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.23.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:keycloak-kie-server-spring-boot-sample:7.24.0.t043` // `org.kie,keycloak-kie-server-spring-boot-sample,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-gwthelper-maven-plugin:1.0` // `org.kie,kie-gwthelper-maven-plugin,1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.14.0.Final` // `org.kie,kie-maven-plugin,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.15.0.Final` // `org.kie,kie-maven-plugin,7.15.0.Final,-,-,automatic,-,false,-`
@@ -1062,6 +1088,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.21.0.Final` // `org.kie,kie-maven-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.22.0.t042` // `org.kie,kie-maven-plugin,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.23.0.Final` // `org.kie,kie-maven-plugin,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-maven-plugin:7.24.0.t043` // `org.kie,kie-maven-plugin,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1076,6 +1103,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.22.0.t042` // `org.kie,kie-server-spring-boot-autoconfiguration,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.23.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration:7.24.0.t043` // `org.kie,kie-server-spring-boot-autoconfiguration,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1090,6 +1118,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.22.0.t042` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.23.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.24.0.t043` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1104,6 +1133,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.22.0.t042` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.23.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.24.0.t043` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1118,6 +1148,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.21.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.22.0.t042` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.23.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.24.0.t043` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.13.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.14.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1130,6 +1161,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.21.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.22.0.t042` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.23.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-integ-tests-sample:7.24.0.t043` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1144,6 +1176,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.21.0.Final` // `org.kie,kie-server-spring-boot-sample,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.22.0.t042` // `org.kie,kie-server-spring-boot-sample,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.23.0.Final` // `org.kie,kie-server-spring-boot-sample,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-sample:7.24.0.t043` // `org.kie,kie-server-spring-boot-sample,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1158,6 +1191,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.22.0.t042` // `org.kie,kie-server-spring-boot-starter,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.23.0.Final` // `org.kie,kie-server-spring-boot-starter,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter:7.24.0.t043` // `org.kie,kie-server-spring-boot-starter,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1172,6 +1206,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.22.0.t042` // `org.kie,kie-server-spring-boot-starter-drools,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.23.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-drools:7.24.0.t043` // `org.kie,kie-server-spring-boot-starter-drools,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1186,6 +1221,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.22.0.t042` // `org.kie,kie-server-spring-boot-starter-jbpm,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.23.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-jbpm:7.24.0.t043` // `org.kie,kie-server-spring-boot-starter-jbpm,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1200,6 +1236,7 @@
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.21.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.22.0.t042` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.23.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie:kie-server-spring-boot-starter-optaplanner:7.24.0.t043` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.10.0.Final` // `org.kie,kie-wb-deployment-validation,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.11.0.Final` // `org.kie,kie-wb-deployment-validation,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:kie-wb-deployment-validation:7.12.0.Final` // `org.kie,kie-wb-deployment-validation,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1272,6 +1309,7 @@
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.21.0.Final` // `org.kie.server,kie-server-controller-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.22.0.t042` // `org.kie.server,kie-server-controller-plugin,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.23.0.Final` // `org.kie.server,kie-server-controller-plugin,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.24.0.t043` // `org.kie.server,kie-server-controller-plugin,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.10.0.Final` // `org.kie.server,kie-server-maven-plugin,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.11.0.Final` // `org.kie.server,kie-server-maven-plugin,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.12.0.Final` // `org.kie.server,kie-server-maven-plugin,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1286,6 +1324,7 @@
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.21.0.Final` // `org.kie.server,kie-server-maven-plugin,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.22.0.t042` // `org.kie.server,kie-server-maven-plugin,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.23.0.Final` // `org.kie.server,kie-server-maven-plugin,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.server:kie-server-maven-plugin:7.24.0.t043` // `org.kie.server,kie-server-maven-plugin,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.workbench:kie-wb-common-cli-api:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1663,6 +1702,7 @@
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.21.0.Final` // `org.optaplanner,optaplanner-docs,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.22.0.t042` // `org.optaplanner,optaplanner-docs,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.23.0.Final` // `org.optaplanner,optaplanner-docs,7.23.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.24.0.t043` // `org.optaplanner,optaplanner-docs,7.24.0.t043,-,-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics:metrics-logback:4.1.0-rc2` // `io.dropwizard.metrics,metrics-logback,4.1.0-rc2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` :left_right_arrow: `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.1,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -5167,6 +5207,7 @@
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.2` // `com.synopsys.integration,int-jira-common,0.0.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.3` // `com.synopsys.integration,int-jira-common,0.0.3,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.4` // `com.synopsys.integration,int-jira-common,0.0.4,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.1.0` // `com.synopsys.integration,int-jira-common,0.1.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.0` // `com.blackducksoftware.integration,integration-bdio,17.1.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.1` // `com.blackducksoftware.integration,integration-bdio,17.1.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.2` // `com.blackducksoftware.integration,integration-bdio,17.1.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
@@ -5566,6 +5607,7 @@
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.21.0.Final` // `org.drools,drools-canonical-model,7.21.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.22.0.t042` // `org.drools,drools-canonical-model,7.22.0.t042,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.23.0.Final` // `org.drools,drools-canonical-model,7.23.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.24.0.t043` // `org.drools,drools-canonical-model,7.24.0.t043,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.19.0.Final` // `org.drools,drools-constraint-parser,7.19.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.20.0.Final` // `org.drools,drools-constraint-parser,7.20.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.21.0.Final` // `org.drools,drools-constraint-parser,7.21.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
@@ -5585,6 +5627,9 @@
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.21.0.Final` // `org.drools,drools-model-compiler,7.21.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.22.0.t042` // `org.drools,drools-model-compiler,7.22.0.t042,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.23.0.Final` // `org.drools,drools-model-compiler,7.23.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.24.0.t043` // `org.drools,drools-model-compiler,7.24.0.t043,org.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.24.0.t043` // `org.drools,drools-mvel-compiler,7.24.0.t043,org.drools.mvel-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.24.0.t043` // `org.drools,drools-mvel-parser,7.24.0.t043,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.10.0.Final` // `org.drools,drools-wb-enum-editor-api,7.10.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.11.0.Final` // `org.drools,drools-wb-enum-editor-api,7.11.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.12.0.Final` // `org.drools,drools-wb-enum-editor-api,7.12.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
