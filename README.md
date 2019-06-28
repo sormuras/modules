@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4616 Java modules published at Maven Central
+Counted 4617 Java modules published at Maven Central
 
-## Summary 2019-06-27T22:38:40.595975Z
+## Summary 2019-06-28T22:38:44.456536Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-27T22:38:40.595975Z
-Scanned 24,216 files in 3 seconds.
+Started scan at 2019-06-28T22:38:44.456536Z
+Scanned 24,269 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_27_22_26_56.csv
+    last -> modulescanner-report-2019_06_28_22_03_43.csv
 
-Parsed 1,570,572 lines in total.
-  28,083 -> captions skipped
-  98,655 -> duplicates skipped
-  62,709 -> module related
+Parsed 1,576,900 lines in total.
+  28,134 -> captions skipped
+  98,741 -> duplicates skipped
+  62,748 -> module related
 
-Collected 4,616 unique modules.
-  automatic :cd: -> 3,505
+Collected 4,617 unique modules.
+  automatic :cd: -> 3,506
   explicit :dvd: -> 1,111
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6241](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9465](suspicious/naming.md)
-- Modular impostors: [3080](suspicious/impostors.md)
+- Invalid module names: [6246](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9467](suspicious/naming.md)
+- Modular impostors: [3083](suspicious/impostors.md)
 
-## Unique Modules (4616)
+## Unique Modules (4617)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -256,7 +256,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.appslandia.common` :left_right_arrow: `com.appslandia:appslandia-common:6.8`
 - :cd: `com.appslandia.javafx` :left_right_arrow: `com.appslandia:appslandia-javafx:3.6`
 - :cd: `com.appslandia.jspprocessor` :left_right_arrow: `com.appslandia:appslandia-jsp-processor:1.1`
-- :cd: `com.appslandia.plum` :left_right_arrow: `com.appslandia:appslandia-plum-javaee8:4.3`
+- :cd: `com.appslandia.plum` :left_right_arrow: `com.appslandia:appslandia-plum-javaee8:4.4`
 - :cd: `com.appslandia.scaling` :left_right_arrow: `com.appslandia:appslandia-scaling:1.2`
 - :cd: `com.assylias.jbloomberg` :left_right_arrow: `com.assylias:jbloomberg:3.7`
 - :cd: `com.athaydes.protobuf_tcp_rpc` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rpc:0.2.1`
@@ -518,8 +518,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.4`
-- :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.0`
-- :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.0`
+- :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.1`
+- :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.1`
 - :cd: `com.github.shiguruikai.combinatoricskt` :left_right_arrow: `com.github.shiguruikai:combinatoricskt:1.4.0`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
 - :cd: `com.github.spotbugs.annotations` :left_right_arrow: `com.github.spotbugs:spotbugs-annotations:4.0.0-beta3`
@@ -606,9 +606,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.hazelcast.jet.spring` :left_right_arrow: `com.hazelcast.jet:hazelcast-jet-spring:3.1`
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `com.headius:invokebinder:1.11`
 - :dvd: `com.headius.modulator` :left_right_arrow: `com.headius:modulator:1.2`
-- :cd: `com.helger.as2` :left_right_arrow: `com.helger:as2-lib:4.4.0`
-- :cd: `com.helger.as2.servlet` :left_right_arrow: `com.helger:as2-servlet:4.4.0`
-- :cd: `com.helger.as2lib.partner.mongodb` :left_right_arrow: `com.helger:as2-partnership-mongodb:4.4.0`
+- :cd: `com.helger.as2` :left_right_arrow: `com.helger:as2-lib:4.4.1`
+- :cd: `com.helger.as2.servlet` :left_right_arrow: `com.helger:as2-servlet:4.4.1`
+- :cd: `com.helger.as2lib.partner.mongodb` :left_right_arrow: `com.helger:as2-partnership-mongodb:4.4.1`
 - :cd: `com.helger.as4` :left_right_arrow: `com.helger:ph-as4-lib:0.8.2`
 - :cd: `com.helger.as4.esens` :left_right_arrow: `com.helger:ph-as4-esens:0.8.2`
 - :cd: `com.helger.as4.servlet` :left_right_arrow: `com.helger:ph-as4-servlet:0.8.2`
@@ -1127,17 +1127,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.opengamma.elsql` :left_right_arrow: `com.opengamma:elsql:1.3`
 - :cd: `com.opengamma.sdk.common` :left_right_arrow: `com.opengamma.sdk:sdk-common:3.5.0`
 - :cd: `com.opengamma.sdk.margin` :left_right_arrow: `com.opengamma.sdk:sdk-margin:3.5.0`
-- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.4.0`
-- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.4.0`
-- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.4.0`
-- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.4.0`
-- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.4.0`
-- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.4.0`
-- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.4.0`
-- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.4.0`
-- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.4.0`
-- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.4.0`
-- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.4.0`
+- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.5.0`
+- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.5.0`
+- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.5.0`
+- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.5.0`
+- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.5.0`
+- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.5.0`
+- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.5.0`
+- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.5.0`
+- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.5.0`
+- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.5.0`
+- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.5.0`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.11`
@@ -1158,7 +1158,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-stripe:0.0.2`
 - :cd: `com.peruncs.gwt.uikit` :left_right_arrow: `com.peruncs.gwt:gwt-uikit:0.0.2`
 - :cd: `com.peruncs.gwt.utils` :left_right_arrow: `com.peruncs.gwt:gwt-utils:0.0.2`
-- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.8`
+- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.9`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-api:0.0.1`
 - :dvd: `com.pgssoft.httpclient` :left_right_arrow: `com.pgs-soft:HttpClientMock:1.0.0`
 - :cd: `com.powsybl.action.dsl` :left_right_arrow: `com.powsybl:powsybl-action-dsl:2.5.2`
@@ -1582,12 +1582,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.earcam.utilitarian.site.search.offline` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.search.offline:1.2.1`
 - :cd: `io.earcam.utilitarian.site.sitemap` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.sitemap:1.2.1`
 - :cd: `io.earcam.utilitarian.web.jaxrs` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.web.jaxrs:1.2.1`
-- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.39.3`
+- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.40.1`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.10`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.16.2`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.42`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.43`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.11`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.0.11`
@@ -1849,12 +1849,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.views_thymeleaf` :left_right_arrow: `io.micronaut:micronaut-views-thymeleaf:1.2.0.RC1`
 - :cd: `io.micronaut.views_velocity` :left_right_arrow: `io.micronaut:micronaut-views-velocity:1.2.0.RC1`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:websocket:1.0.0.RC2`
-- :cd: `io.netty.codec.redis` :left_right_arrow: `io.netty:netty-codec-redis:4.1.36.Final`
-- :cd: `io.netty.codec.smtp` :left_right_arrow: `io.netty:netty-codec-smtp:4.1.36.Final`
+- :cd: `io.netty.codec.redis` :left_right_arrow: `io.netty:netty-codec-redis:4.1.37.Final`
+- :cd: `io.netty.codec.smtp` :left_right_arrow: `io.netty:netty-codec-smtp:4.1.37.Final`
 - :cd: `io.netty.tcnative.boringssl` :left_right_arrow: `io.netty:netty-tcnative-boringssl-static:2.0.25.Final`
 - :cd: `io.netty.tcnative.openssl.dynamic` :left_right_arrow: `io.netty:netty-tcnative:2.0.25.Final`
-- :cd: `io.netty.transport.kqueue` :left_right_arrow: `io.netty:netty-transport-native-kqueue:4.1.36.Final`
-- :cd: `io.netty.transport.unix.common` :left_right_arrow: `io.netty:netty-transport-native-unix-common:4.1.36.Final`
+- :cd: `io.netty.transport.kqueue` :left_right_arrow: `io.netty:netty-transport-native-kqueue:4.1.37.Final`
+- :cd: `io.netty.transport.unix.common` :left_right_arrow: `io.netty:netty-transport-native-unix-common:4.1.37.Final`
 - :cd: `io.norberg.automatter` :left_right_arrow: `io.norberg:auto-matter-annotation:0.15.3`
 - :cd: `io.norberg.automatter.gson` :left_right_arrow: `io.norberg:auto-matter-gson:0.15.3`
 - :cd: `io.norberg.automatter.jackson` :left_right_arrow: `io.norberg:auto-matter-jackson:0.15.3`
@@ -1977,10 +1977,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.145`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.145`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.145`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.145`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.146`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.146`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.146`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.146`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.108`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.108`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.108`
@@ -4715,4 +4715,5 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `us.hebi.matlab.mat.ejml` :left_right_arrow: `us.hebi.matlab:mat-ejml:0.4.1`
 - :cd: `us.hebi.matlab.mat.mfl.core` :left_right_arrow: `us.hebi.matlab.mat:mfl-core:0.5.2`
 - :cd: `us.hebi.matlab.mat.mfl.ejml` :left_right_arrow: `us.hebi.matlab.mat:mfl-ejml:0.5.2`
+- :cd: `ws.nzen.format.eno.locales` :left_right_arrow: `ws.nzen.format.eno:note_enohaste:1.0+j11`
 - :cd: `ws.nzen.format.eno.note_enojes` :left_right_arrow: `ws.nzen.format.eno:note_enojes:2.0`
