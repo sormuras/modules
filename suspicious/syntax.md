@@ -65,6 +65,7 @@
 - :cd: `` :left_right_arrow: `graphics.scenery:scenery:0.7.0-beta-4` // `graphics.scenery,scenery,0.7.0-beta-4,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` :left_right_arrow: `graphics.scenery:scenery:0.7.0-beta-5` // `graphics.scenery,scenery,0.7.0-beta-5,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.4.0` // `io.cucumber,cucumber-cdi2,4.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.5.0` // `io.cucumber,cucumber-cdi2,4.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.1` // `io.cucumber,cucumber-core,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.2` // `io.cucumber,cucumber-core,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.3` // `io.cucumber,cucumber-core,4.2.3,-,-,automatic,-,false,-`
@@ -74,6 +75,7 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.3.0` // `io.cucumber,cucumber-core,4.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.3.1` // `io.cucumber,cucumber-core,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.4.0` // `io.cucumber,cucumber-core,4.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.5.0` // `io.cucumber,cucumber-core,4.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.1` // `io.cucumber,cucumber-guice,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.2` // `io.cucumber,cucumber-guice,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.3` // `io.cucumber,cucumber-guice,4.2.3,-,-,automatic,-,false,-`
@@ -83,6 +85,7 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.3.0` // `io.cucumber,cucumber-guice,4.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.3.1` // `io.cucumber,cucumber-guice,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.4.0` // `io.cucumber,cucumber-guice,4.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.5.0` // `io.cucumber,cucumber-guice,4.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.1` // `io.cucumber,cucumber-java,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.2` // `io.cucumber,cucumber-java,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.3` // `io.cucumber,cucumber-java,4.2.3,-,-,automatic,-,false,-`

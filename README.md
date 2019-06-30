@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 4620 Java modules published at Maven Central
+Counted 4629 Java modules published at Maven Central
 
-## Summary 2019-06-29T22:39:31.246799Z
+## Summary 2019-06-30T22:39:44.563381Z
 
 ```
 ## Summary
 
-Started scan at 2019-06-29T22:39:31.246799Z
-Scanned 24,327 files in 3 seconds.
+Started scan at 2019-06-30T22:39:44.563381Z
+Scanned 24,377 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_06_29_22_23_57.csv
+    last -> modulescanner-report-2019_06_30_22_06_12.csv
 
-Parsed 1,580,362 lines in total.
-  28,192 -> captions skipped
-  99,045 -> duplicates skipped
-  63,012 -> module related
+Parsed 1,582,831 lines in total.
+  28,240 -> captions skipped
+  99,093 -> duplicates skipped
+  63,051 -> module related
 
-Collected 4,620 unique modules.
-  automatic :cd: -> 3,508
+Collected 4,629 unique modules.
+  automatic :cd: -> 3,517
   explicit :dvd: -> 1,112
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0-RC2
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0
 org.objectweb.asm -> org.ow2.asm:asm:7.1
 com.google.common -> com.google.guava:guava:28.0-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6269](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9469](suspicious/naming.md)
-- Modular impostors: [3083](suspicious/impostors.md)
+- Invalid module names: [6272](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9476](suspicious/naming.md)
+- Modular impostors: [3085](suspicious/impostors.md)
 
-## Unique Modules (4620)
+## Unique Modules (4629)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -635,7 +635,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.cli` :left_right_arrow: `com.helger:ph-cli:9.3.4`
 - :cd: `com.helger.collection` :left_right_arrow: `com.helger:ph-collection:9.3.4`
 - :cd: `com.helger.commons` :left_right_arrow: `com.helger:ph-commons:9.3.4`
-- :cd: `com.helger.css` :left_right_arrow: `com.helger:ph-css:6.1.3`
+- :cd: `com.helger.css` :left_right_arrow: `com.helger:ph-css:6.2.0`
 - :cd: `com.helger.dao` :left_right_arrow: `com.helger:ph-dao:9.3.4`
 - :cd: `com.helger.datetime` :left_right_arrow: `com.helger:ph-datetime:9.3.4`
 - :cd: `com.helger.db.api` :left_right_arrow: `com.helger:ph-db-api:6.1.4`
@@ -1526,8 +1526,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
 - :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
+- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.5.0`
+- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.5.0`
+- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.5.0`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.0`
+- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.5.0`
+- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.5.0`
+- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.5.0`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
+- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.5.0`
+- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.5.0`
+- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.5.0`
 - :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.10`
 - :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.10`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
@@ -1734,7 +1743,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.webserver.netty` :left_right_arrow: `io.helidon.webserver:helidon-webserver-netty:0.10.5`
 - :dvd: `io.helidon.webserver.prometheus` :left_right_arrow: `io.helidon.webserver:helidon-webserver-prometheus:0.10.5`
 - :dvd: `io.helidon.webserver.zipkin` :left_right_arrow: `io.helidon.webserver:helidon-webserver-zipkin:0.10.5`
-- :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.0.0`
+- :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.1.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
 - :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.1.0`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.0`
@@ -3419,7 +3428,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` :left_right_arrow: `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.15`
+- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.16`
 - :cd: `org.jooq` :left_right_arrow: `org.jooq:jooq:3.11.11`
 - :cd: `org.jooq.checker` :left_right_arrow: `org.jooq:jooq-checker:3.11.11`
 - :cd: `org.jooq.codegen` :left_right_arrow: `org.jooq:jooq-codegen:3.11.11`
@@ -3448,22 +3457,22 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jtransfo.hibernate` :left_right_arrow: `org.jtransfo:jtransfo-hibernate:2.9`
 - :cd: `org.jtransfo.jodatime` :left_right_arrow: `org.jtransfo:jtransfo-joda-time:2.9`
 - :cd: `org.jtransfo.spring` :left_right_arrow: `org.jtransfo:jtransfo-spring:2.9`
-- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.0-RC2`
-- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.0-RC2`
-- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.0-RC2`
-- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.0-RC2`
-- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.0-RC2`
-- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.0-RC2`
-- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.0-RC2`
-- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.0-RC2`
+- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.0`
+- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.0`
+- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.0`
+- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.0`
+- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.0`
+- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.0`
+- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.0`
+- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.0`
 - :cd: `org.junit.platform.gradle.plugin` :left_right_arrow: `org.junit.platform:junit-platform-gradle-plugin:1.2.0`
-- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.0-RC2`
-- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.0-RC2`
-- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.0-RC2`
-- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.0-RC2`
+- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.0`
+- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.0`
+- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.0`
+- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.0`
 - :cd: `org.junit.platform.surefire.provider` :left_right_arrow: `org.junit.platform:junit-platform-surefire-provider:1.3.2`
-- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.0-RC2`
-- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.0-RC2`
+- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.0`
+- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.0`
 - :cd: `org.junitpioneer` :left_right_arrow: `org.junit-pioneer:junit-pioneer:0.3.0`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.11`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.1`
@@ -4174,7 +4183,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :cd: `org.testfx.junit` :left_right_arrow: `org.testfx:testfx-junit:4.0.15-alpha`
 - :cd: `org.testfx.junit5` :left_right_arrow: `org.testfx:testfx-junit5:4.0.15-alpha`
-- :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0-beta3`
+- :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0-beta7`
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.4.0`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`
