@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4631 Java modules published at Maven Central
 
-## Summary 2019-07-01T22:39:49.956667Z
+## Summary 2019-07-02T07:34:01.393367Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-01T22:39:49.956667Z
-Scanned 24,427 files in 3 seconds.
+Started scan at 2019-07-02T07:34:01.393367Z
+Scanned 24,449 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_01_22_22_48.csv
+    last -> modulescanner-report-2019_07_02_07_18_41.csv
 
-Parsed 1,588,532 lines in total.
-  28,290 -> captions skipped
-  99,486 -> duplicates skipped
-  63,355 -> module related
+Parsed 1,590,402 lines in total.
+  28,308 -> captions skipped
+  99,600 -> duplicates skipped
+  63,356 -> module related
 
 Collected 4,631 unique modules.
   automatic :cd: -> 3,519
@@ -1033,7 +1033,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.3`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.1.jre12-preview`
-- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.2.1`
+- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.27`
 - :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.27`
