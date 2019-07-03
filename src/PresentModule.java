@@ -27,23 +27,6 @@ import java.util.jar.JarFile;
 /** Module presenter. */
 public class PresentModule {
 
-  enum AutomaticModuleNameSource {
-    FILENAME,
-    MANIFEST;
-
-    static AutomaticModuleNameSource of(Path jar) {
-      try (var jarFile = new JarFile(jar.toFile())) {
-        var name = jarFile.getManifest().getMainAttributes().getValue("Automatic-Module-Name");
-        if (name != null) {
-          return MANIFEST;
-        }
-      } catch (IOException e) {
-        throw new UncheckedIOException("Opening JAR failed: " + jar, e);
-      }
-      return FILENAME;
-    }
-  }
-
   public static void main(String[] arguments) {
     if (arguments.length == 0) {
       System.out.println("Usage: java PresentModule.java <JAR file>");
@@ -98,5 +81,22 @@ public class PresentModule {
     }
     System.out.println("api = " + descriptor.exports().size() + " exported package(s)");
     descriptor.exports().stream().sorted().forEach(export -> System.out.println("  - " + export));
+  }
+
+  enum AutomaticModuleNameSource {
+    FILENAME,
+    MANIFEST;
+
+    static AutomaticModuleNameSource of(Path jar) {
+      try (var jarFile = new JarFile(jar.toFile())) {
+        var name = jarFile.getManifest().getMainAttributes().getValue("Automatic-Module-Name");
+        if (name != null) {
+          return MANIFEST;
+        }
+      } catch (IOException e) {
+        throw new UncheckedIOException("Processing JAR file failed: " + jar, e);
+      }
+      return FILENAME;
+    }
   }
 }
