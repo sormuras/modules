@@ -1,6 +1,9 @@
 .idea/
 .settings/
 bucket/
+out/
 .classpath
 .project
 .travis-commit-message.md
+*.iml
+*.jar
