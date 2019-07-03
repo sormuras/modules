@@ -45,6 +45,11 @@ public class PresentModule {
   }
 
   public static void main(String[] arguments) {
+    if (arguments.length == 0) {
+      System.out.println("Usage: java PresentModule.java <JAR file>");
+      System.out.println("    or java PresentModule.java <group>:<artifact>:<version>");
+      return;
+    }
     var presenter = new PresentModule();
     for (var argument : arguments) {
       presenter.present(argument);
