@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4645 Java modules published at Maven Central
 
-## Summary 2019-07-02T23:10:53.049610Z
+## Summary 2019-07-03T10:41:42.278274Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-02T23:10:53.049610Z
-Scanned 24,489 files in 3 seconds.
+Started scan at 2019-07-03T10:41:42.278274Z
+Scanned 24,519 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_02_22_55_19.csv
+    last -> modulescanner-report-2019_07_03_10_27_16.csv
 
-Parsed 1,595,590 lines in total.
-  28,345 -> captions skipped
-  100,109 -> duplicates skipped
-  63,683 -> module related
+Parsed 1,598,068 lines in total.
+  28,375 -> captions skipped
+  100,238 -> duplicates skipped
+  63,800 -> module related
 
 Collected 4,645 unique modules.
   automatic :cd: -> 3,533
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [6294](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9556](suspicious/naming.md)
-- Modular impostors: [3103](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9666](suspicious/naming.md)
+- Modular impostors: [3104](suspicious/impostors.md)
 
 ## Unique Modules (4645)
 
@@ -1242,7 +1242,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.streaming.iterators` :left_right_arrow: `com.puresoltechnologies.streaming:iterators:2.0.0`
 - :dvd: `com.puresoltechnologies.streaming.streams` :left_right_arrow: `com.puresoltechnologies.streaming:streams:2.0.0`
 - :dvd: `com.puresoltechnologies.streaming.test` :left_right_arrow: `com.puresoltechnologies.streaming:test:2.0.0`
-- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.7.1`
+- :cd: `com.rabbitmq.client` :left_right_arrow: `com.rabbitmq:amqp-client:5.7.2`
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
 - :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.8.1`
@@ -3955,9 +3955,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reaktivity.nukleus.fan` :left_right_arrow: `org.reaktivity:nukleus-fan:0.8`
 - :cd: `org.reaktivity.nukleus.flow` :left_right_arrow: `org.reaktivity:nukleus-flow:0.6`
 - :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.84`
-- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.92`
-- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.100`
-- :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.155`
+- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.93`
+- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.101`
+- :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.156`
 - :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.45`
 - :cd: `org.reaktivity.nukleus.tcp` :left_right_arrow: `org.reaktivity:nukleus-tcp:0.79`
 - :cd: `org.reaktivity.nukleus.tls` :left_right_arrow: `org.reaktivity:nukleus-tls:0.102`
@@ -4598,9 +4598,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `spring.data.elasticsearch` :left_right_arrow: `org.springframework.data:spring-data-elasticsearch:3.1.9.RELEASE`
 - :cd: `spring.data.envers` :left_right_arrow: `org.springframework.data:spring-data-envers:2.1.9.RELEASE`
 - :cd: `spring.data.gemfire` :left_right_arrow: `org.springframework.data:spring-data-gemfire:2.1.9.RELEASE`
-- :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.4.RELEASE`
+- :cd: `spring.data.gemfire.test` :left_right_arrow: `org.springframework.data:spring-data-gemfire-test:0.0.5.RELEASE`
 - :cd: `spring.data.geode` :left_right_arrow: `org.springframework.data:spring-data-geode:2.1.9.RELEASE`
-- :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.4.RELEASE`
+- :cd: `spring.data.geode.test` :left_right_arrow: `org.springframework.data:spring-data-geode-test:0.0.5.RELEASE`
 - :cd: `spring.data.jdbc` :left_right_arrow: `org.springframework.data:spring-data-jdbc:1.0.9.RELEASE`
 - :cd: `spring.data.jpa` :left_right_arrow: `org.springframework.data:spring-data-jpa:2.1.9.RELEASE`
 - :cd: `spring.data.keyvalue` :left_right_arrow: `org.springframework.data:spring-data-keyvalue:2.1.9.RELEASE`
