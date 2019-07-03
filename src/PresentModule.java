@@ -22,6 +22,7 @@ import java.lang.module.ModuleFinder;
 import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.Set;
 import java.util.jar.JarFile;
 
 /** Module presenter. */
@@ -73,14 +74,20 @@ public class PresentModule {
     var reference = finder.findAll().iterator().next();
     var descriptor = reference.descriptor();
     System.out.println("name = " + descriptor.name());
+    descriptor.version().ifPresent(version -> System.out.println("version = " + version));
     System.out.println("mode = " + (descriptor.isAutomatic() ? "automatic" : "explicit"));
     if (descriptor.isAutomatic()) {
       System.out.println("automatic name source = " + AutomaticModuleNameSource.of(jar));
       System.out.println("api = " + descriptor.packages().size() + " package(s)");
       return;
     }
-    System.out.println("api = " + descriptor.exports().size() + " exported package(s)");
-    descriptor.exports().stream().sorted().forEach(export -> System.out.println("  - " + export));
+    printSortedSet(descriptor.exports(), "exports ", " package(s)");
+    printSortedSet(descriptor.provides(), "provides ", " service(s)");
+  }
+
+  private void printSortedSet(Set<?> set, String prefix, String postfix) {
+    System.out.println(prefix + set.size() + postfix);
+    set.stream().sorted().forEach(export -> System.out.println("  - " + export));
   }
 
   enum AutomaticModuleNameSource {
