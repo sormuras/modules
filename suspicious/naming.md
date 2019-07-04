@@ -6920,6 +6920,7 @@
 - :cd: `org.jgrapht.io` :left_right_arrow: `com.io7m.jgrapht:jgrapht-io:1.2.1-MODULARIZED` // `com.io7m.jgrapht,jgrapht-io,1.2.1-MODULARIZED,org.jgrapht.io,-,automatic,-,false,-`
 - :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.1` // `joda-time,joda-time,2.10.1,org.joda.time,-,automatic,-,false,-`
 - :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.2` // `joda-time,joda-time,2.10.2,org.joda.time,-,automatic,-,false,-`
+- :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.3` // `joda-time,joda-time,2.10.3,org.joda.time,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.10.0.Final` // `org.drools,kie-pmml,7.10.0.Final,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.11.0.Final` // `org.drools,kie-pmml,7.11.0.Final,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.12.0.Final` // `org.drools,kie-pmml,7.12.0.Final,org.kie.pmml,-,automatic,-,false,-`
@@ -9583,6 +9584,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.12.9` // `io.zipkin.zipkin2,zipkin,2.12.9,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.1` // `io.zipkin.zipkin2,zipkin,2.14.1,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.2` // `io.zipkin.zipkin2,zipkin,2.14.2,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.15.0` // `io.zipkin.zipkin2,zipkin,2.15.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`

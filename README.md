@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4648 Java modules published at Maven Central
+Counted 4649 Java modules published at Maven Central
 
-## Summary 2019-07-03T22:40:19.652489Z
+## Summary 2019-07-04T22:40:50.022805Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-03T22:40:19.652489Z
-Scanned 24,547 files in 3 seconds.
+Started scan at 2019-07-04T22:40:50.022805Z
+Scanned 24,603 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_03_22_27_19.csv
+    last -> modulescanner-report-2019_07_04_21_59_11.csv
 
-Parsed 1,602,734 lines in total.
-  28,403 -> captions skipped
-  100,400 -> duplicates skipped
-  64,064 -> module related
+Parsed 1,607,294 lines in total.
+  28,459 -> captions skipped
+  100,820 -> duplicates skipped
+  64,094 -> module related
 
-Collected 4,648 unique modules.
-  automatic :cd: -> 3,536
+Collected 4,649 unique modules.
+  automatic :cd: -> 3,537
   explicit :dvd: -> 1,112
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [6296](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9707](suspicious/naming.md)
-- Modular impostors: [3108](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9709](suspicious/naming.md)
+- Modular impostors: [3111](suspicious/impostors.md)
 
-## Unique Modules (4648)
+## Unique Modules (4649)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1035,13 +1035,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.1.jre12-preview`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
-- :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.27`
-- :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.27`
-- :cd: `com.netflix.servo.aws` :left_right_arrow: `com.netflix.servo:servo-aws:0.12.27`
-- :cd: `com.netflix.servo.core` :left_right_arrow: `com.netflix.servo:servo-core:0.12.27`
-- :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.27`
-- :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.27`
-- :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.27`
+- :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.28`
+- :cd: `com.netflix.servo.atlas` :left_right_arrow: `com.netflix.servo:servo-atlas:0.12.28`
+- :cd: `com.netflix.servo.aws` :left_right_arrow: `com.netflix.servo:servo-aws:0.12.28`
+- :cd: `com.netflix.servo.core` :left_right_arrow: `com.netflix.servo:servo-core:0.12.28`
+- :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.28`
+- :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.28`
+- :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.28`
 - :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.92.0`
 - :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.92.0`
 - :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.92.0`
@@ -1246,8 +1246,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.rabbitmq.http.client` :left_right_arrow: `com.rabbitmq:http-client:3.2.0.RELEASE`
 - :cd: `com.rabbitmq.jms` :left_right_arrow: `com.rabbitmq.jms:rabbitmq-jms:1.11.2`
 - :cd: `com.rabbitmq.perf` :left_right_arrow: `com.rabbitmq:perf-test:2.8.1`
-- :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.1.0`
-- :cd: `com.remondis.remap` :left_right_arrow: `com.remondis:remap:4.1.13`
+- :cd: `com.remondis.propertypath` :left_right_arrow: `com.remondis:propertypath:0.1.1`
+- :cd: `com.remondis.remap` :left_right_arrow: `com.remondis:remap:4.1.14`
 - :cd: `com.reprezen.rapidml` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml:0.0.10`
 - :cd: `com.reprezen.rapidml.model` :left_right_arrow: `com.reprezen.rapidml:com.reprezen.rapidml.model:0.0.10`
 - :cd: `com.rometools.rome` :left_right_arrow: `com.rometools:rome:1.12.1`
@@ -1353,19 +1353,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `de.codecentric.batch.boot.simple.jsr352` :left_right_arrow: `de.codecentric:batch-boot-simple-jsr352:2.0.2.RELEASE`
 - :cd: `de.codecentric.batch.web.spring.boot.autoconfigure` :left_right_arrow: `de.codecentric:batch-web-spring-boot-autoconfigure:2.0.2.RELEASE`
 - :cd: `de.codecentric.batch.web.spring.boot.starter` :left_right_arrow: `de.codecentric:batch-web-spring-boot-starter:2.0.2.RELEASE`
-- :cd: `de.codecentric.spring.boot.admin.client` :left_right_arrow: `de.codecentric:spring-boot-admin-client:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.consul` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-consul:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.custom.ui` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-custom-ui:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.eureka` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-eureka:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.hazelcast` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-hazelcast:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.reactive` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-reactive:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.servlet` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-servlet:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.sample.zookeeper` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-zookeeper:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.server` :left_right_arrow: `de.codecentric:spring-boot-admin-server:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.server.cloud` :left_right_arrow: `de.codecentric:spring-boot-admin-server-cloud:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.server.ui` :left_right_arrow: `de.codecentric:spring-boot-admin-server-ui:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.starter.client` :left_right_arrow: `de.codecentric:spring-boot-admin-starter-client:2.1.5`
-- :cd: `de.codecentric.spring.boot.admin.starter.server` :left_right_arrow: `de.codecentric:spring-boot-admin-starter-server:2.1.5`
+- :cd: `de.codecentric.spring.boot.admin.client` :left_right_arrow: `de.codecentric:spring-boot-admin-client:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.consul` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-consul:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.custom.ui` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-custom-ui:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.eureka` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-eureka:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.hazelcast` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-hazelcast:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.reactive` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-reactive:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.servlet` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-servlet:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.sample.zookeeper` :left_right_arrow: `de.codecentric:spring-boot-admin-sample-zookeeper:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.server` :left_right_arrow: `de.codecentric:spring-boot-admin-server:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.server.cloud` :left_right_arrow: `de.codecentric:spring-boot-admin-server-cloud:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.server.ui` :left_right_arrow: `de.codecentric:spring-boot-admin-server-ui:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.starter.client` :left_right_arrow: `de.codecentric:spring-boot-admin-starter-client:2.1.6`
+- :cd: `de.codecentric.spring.boot.admin.starter.server` :left_right_arrow: `de.codecentric:spring-boot-admin-starter-server:2.1.6`
 - :cd: `de.dentrassi.varlink.idl` :left_right_arrow: `de.dentrassi.varlink.idl:de.dentrassi.varlink.idl:0.2.0`
 - :cd: `de.huxhorn.lilith.api` :left_right_arrow: `de.huxhorn.lilith:de.huxhorn.lilith.constants:8.2.0`
 - :cd: `de.huxhorn.lilith.conditions` :left_right_arrow: `de.huxhorn.lilith:de.huxhorn.lilith.conditions:8.2.0`
@@ -1539,8 +1539,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.5.2`
 - :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.5.2`
 - :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.5.2`
-- :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.10`
-- :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.10`
+- :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.11`
+- :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.11`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
 - :cd: `io.dropwizard.metrics5.annotation` :left_right_arrow: `io.dropwizard.metrics5:metrics-annotation:5.0.0`
 - :cd: `io.dropwizard.metrics5.collectd` :left_right_arrow: `io.dropwizard.metrics5:metrics-collectd:5.0.0`
@@ -1848,6 +1848,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:router:1.0.0.RC2`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:runtime:1.0.0.RC2`
 - :cd: `io.micronaut.runtime_groovy` :left_right_arrow: `io.micronaut:runtime-groovy:1.0.0.RC2`
+- :cd: `io.micronaut.runtime_osx` :left_right_arrow: `io.micronaut:micronaut-runtime-osx:1.1.4`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:security:1.0.0.RC2`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:security-jwt:1.0.0.RC2`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:security-session:1.0.0.RC2`
