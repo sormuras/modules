@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4649 Java modules published at Maven Central
+Counted 4662 Java modules published at Maven Central
 
-## Summary 2019-07-04T22:40:50.022805Z
+## Summary 2019-07-05T22:41:36.226165Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-04T22:40:50.022805Z
-Scanned 24,603 files in 3 seconds.
+Started scan at 2019-07-05T22:41:36.226165Z
+Scanned 24,658 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_04_21_59_11.csv
+    last -> modulescanner-report-2019_07_05_21_59_05.csv
 
-Parsed 1,607,294 lines in total.
-  28,459 -> captions skipped
-  100,820 -> duplicates skipped
-  64,094 -> module related
+Parsed 1,611,453 lines in total.
+  28,514 -> captions skipped
+  101,181 -> duplicates skipped
+  64,255 -> module related
 
-Collected 4,649 unique modules.
-  automatic :cd: -> 3,537
-  explicit :dvd: -> 1,112
+Collected 4,662 unique modules.
+  automatic :cd: -> 3,547
+  explicit :dvd: -> 1,115
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [6296](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9709](suspicious/naming.md)
-- Modular impostors: [3111](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9805](suspicious/naming.md)
+- Modular impostors: [3120](suspicious/impostors.md)
 
-## Unique Modules (4649)
+## Unique Modules (4662)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -258,6 +258,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.appslandia.jspprocessor` :left_right_arrow: `com.appslandia:appslandia-jsp-processor:1.1`
 - :cd: `com.appslandia.plum` :left_right_arrow: `com.appslandia:appslandia-plum-javaee8:4.8`
 - :cd: `com.appslandia.scaling` :left_right_arrow: `com.appslandia:appslandia-scaling:1.2`
+- :cd: `com.asprise.imaging.scan` :left_right_arrow: `com.asprise.imaging:java-scanner-access-twain:12.0.20.2`
 - :cd: `com.assylias.jbloomberg` :left_right_arrow: `com.assylias:jbloomberg:3.7`
 - :cd: `com.athaydes.protobuf_tcp_rpc` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rpc:0.2.1`
 - :cd: `com.athaydes.protobuf_tcp_rsa_provider` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rsa-provider:0.2.1`
@@ -376,6 +377,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.esotericsoftware.kryo` :left_right_arrow: `com.esotericsoftware:kryo:5.0.0-RC4`
 - :cd: `com.esotericsoftware.minlog` :left_right_arrow: `com.esotericsoftware:minlog:1.3.1`
 - :cd: `com.esotericsoftware.reflectasm` :left_right_arrow: `com.esotericsoftware:reflectasm:1.11.9`
+- :cd: `com.evimetry.aff4` :left_right_arrow: `com.evimetry.aff4:aff4-reader-lite:1.0.3`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.1`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
 - :cd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.9.9`
@@ -554,7 +556,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.6`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.1`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.2`
 - :cd: `com.google.api.apicommon` :left_right_arrow: `com.google.api:api-common:1.8.1`
 - :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.10.0`
 - :cd: `com.google.common` :left_right_arrow: `com.google.guava:guava:28.0-jre`
@@ -1338,7 +1340,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.vladmihalcea.flexypool.tomcatcp` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomcatcp:2.1.2`
 - :cd: `com.vladmihalcea.flexypool.tomee` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomee:2.1.2`
 - :cd: `com.vladmihalcea.flexypool.vibur` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-vibur:2.1.2`
-- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.4.4`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.5.0`
 - :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.4`
 - :dvd: `com.zarbosoft.interface1` :left_right_arrow: `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.5`
@@ -1600,24 +1602,24 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.43`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.12`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.0.12`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.0.12`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.0.12`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.0.12`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.0.12`
-- :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.12`
-- :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.12`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.0.12`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.0.12`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.0.12`
-- :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.12`
-- :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.12`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.0.12`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.0.12`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.0.12`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.0.12`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.0.12`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.13`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.0.13`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.0.13`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.0.13`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.0.13`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.0.13`
+- :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.13`
+- :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.13`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.0.13`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.0.13`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.0.13`
+- :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.13`
+- :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.13`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.0.13`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.0.13`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.0.13`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.0.13`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.0.13`
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
@@ -2249,6 +2251,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `one.irradia.servicedirectory.vanilla` :left_right_arrow: `one.irradia.servicedirectory:one.irradia.servicedirectory.vanilla:0.0.1`
 - :cd: `one.util.streamex` :left_right_arrow: `one.util:streamex:0.6.8`
 - :cd: `org.adoptopenjdk.jsplitpkgscan` :left_right_arrow: `org.adoptopenjdk:jsplitpkgscan:1.0.0`
+- :cd: `org.aesh.aesh` :left_right_arrow: `org.aesh:aesh:2.4`
+- :cd: `org.aesh.aesh.extensions` :left_right_arrow: `org.aesh:aesh-extensions:1.8`
+- :cd: `org.aesh.readline` :left_right_arrow: `org.aesh:readline:2.0`
+- :cd: `org.aesh.readline.extensions` :left_right_arrow: `org.aesh:readline-extensions:1.8`
+- :cd: `org.aesh.terminal.api` :left_right_arrow: `org.aesh:terminal-api:2.0`
+- :cd: `org.aesh.terminal.http` :left_right_arrow: `org.aesh:terminal-http:2.0`
+- :cd: `org.aesh.terminal.ssh` :left_right_arrow: `org.aesh:terminal-ssh:2.0`
+- :cd: `org.aesh.terminal.telnet` :left_right_arrow: `org.aesh:terminal-telnet:2.0`
 - :cd: `org.agmip.ace.core` :left_right_arrow: `org.agmip.ace:ace-core:2.1.4`
 - :cd: `org.agrona.agent` :left_right_arrow: `org.agrona:agrona-agent:1.0.2`
 - :cd: `org.agrona.core` :left_right_arrow: `org.agrona:agrona:1.0.2`
@@ -3775,7 +3785,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.neo4j.cypher.internal.v4_0.rewriting` :left_right_arrow: `org.neo4j:neo4j-rewriting-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.cypher.internal.v4_0.util` :left_right_arrow: `org.neo4j:neo4j-util-4.0:4.0-alpha0-20190301`
 - :cd: `org.neo4j.dbms` :left_right_arrow: `org.neo4j:neo4j-dbms:3.5.7`
-- :cd: `org.neo4j.driver` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver:2.0.0-alpha02`
+- :cd: `org.neo4j.driver` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver:2.0.0-alpha03`
 - :cd: `org.neo4j.enterprise` :left_right_arrow: `org.neo4j:neo4j-enterprise:3.5.0-beta03`
 - :cd: `org.neo4j.ext.udc` :left_right_arrow: `org.neo4j:neo4j-udc:3.5.7`
 - :cd: `org.neo4j.gis.spatial.index` :left_right_arrow: `org.neo4j:neo4j-spatial-index:3.5.7`
@@ -4176,25 +4186,27 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.talend.sdk.component.sample.textinput` :left_right_arrow: `org.talend.sdk.component:textinput-component:1.1.11`
 - :cd: `org.talend.sdk.component.sample.updatable` :left_right_arrow: `org.talend.sdk.component:updatable-component:1.1.11`
 - :cd: `org.talend.sdk.component.sample.urlvalidation` :left_right_arrow: `org.talend.sdk.component:urlvalidation-component:1.1.11`
-- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.3.0.0`
-- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.3.0.0`
-- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.3.0.0`
-- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.3.0.0`
-- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.3.0.0`
-- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.3.0.0`
-- :cd: `org.tentackle.fx.rdc.poi` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-poi:11.3.0.0`
-- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.3.0.0`
-- :cd: `org.tentackle.log.log4j` :left_right_arrow: `org.tentackle:tentackle-log-log4j:11.3.0.0`
-- :cd: `org.tentackle.log.log4j2v` :left_right_arrow: `org.tentackle:tentackle-log-log4j2v:11.3.0.0`
-- :cd: `org.tentackle.log.slf4j` :left_right_arrow: `org.tentackle:tentackle-log-slf4j:11.3.0.0`
-- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.3.0.0`
-- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.3.0.0`
-- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.3.0.0`
-- :cd: `org.tentackle.script.groovy` :left_right_arrow: `org.tentackle:tentackle-script-groovy:11.3.0.0`
-- :cd: `org.tentackle.script.ruby` :left_right_arrow: `org.tentackle:tentackle-script-ruby:11.3.0.0`
-- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.3.0.0`
-- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.3.0.0`
-- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.3.0.0`
+- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.4.0.0`
+- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.4.0.0`
+- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.4.0.0`
+- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.4.0.0`
+- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.4.0.0`
+- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.4.0.0`
+- :cd: `org.tentackle.fx.rdc.poi` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-poi:11.4.0.0`
+- :dvd: `org.tentackle.fx.rdc.update` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-update:11.4.0.0`
+- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.4.0.0`
+- :cd: `org.tentackle.log.log4j` :left_right_arrow: `org.tentackle:tentackle-log-log4j:11.4.0.0`
+- :cd: `org.tentackle.log.log4j2v` :left_right_arrow: `org.tentackle:tentackle-log-log4j2v:11.4.0.0`
+- :cd: `org.tentackle.log.slf4j` :left_right_arrow: `org.tentackle:tentackle-log-slf4j:11.4.0.0`
+- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.4.0.0`
+- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.4.0.0`
+- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.4.0.0`
+- :cd: `org.tentackle.script.groovy` :left_right_arrow: `org.tentackle:tentackle-script-groovy:11.4.0.0`
+- :cd: `org.tentackle.script.ruby` :left_right_arrow: `org.tentackle:tentackle-script-ruby:11.4.0.0`
+- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.4.0.0`
+- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.4.0.0`
+- :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.4.0.0`
+- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.4.0.0`
 - :cd: `org.terracotta.statistics` :left_right_arrow: `org.terracotta:statistics:2.1`
 - :cd: `org.testfx` :left_right_arrow: `org.testfx:testfx-core:4.0.15-alpha`
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
@@ -4741,11 +4753,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `uk.dioxic.mgenerate.apt` :left_right_arrow: `uk.dioxic.mgenerate:mgenerate-apt:0.0.3`
 - :cd: `uk.dioxic.mgenerate.common` :left_right_arrow: `uk.dioxic.mgenerate:mgenerate-common:0.0.3`
 - :cd: `uk.dioxic.mgenerate.core` :left_right_arrow: `uk.dioxic.mgenerate:mgenerate-core:0.0.3`
+- :dvd: `uk.gov.nca.remedi4j` :left_right_arrow: `uk.gov.nca:remedi4j:1.1`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.0`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
 - :cd: `us.hebi.matlab.mat` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.4.1`
 - :cd: `us.hebi.matlab.mat.ejml` :left_right_arrow: `us.hebi.matlab:mat-ejml:0.4.1`
-- :cd: `us.hebi.matlab.mat.mfl.core` :left_right_arrow: `us.hebi.matlab.mat:mfl-core:0.5.2`
-- :cd: `us.hebi.matlab.mat.mfl.ejml` :left_right_arrow: `us.hebi.matlab.mat:mfl-ejml:0.5.2`
+- :cd: `us.hebi.matlab.mat.mfl.core` :left_right_arrow: `us.hebi.matlab.mat:mfl-core:0.5.3`
+- :cd: `us.hebi.matlab.mat.mfl.ejml` :left_right_arrow: `us.hebi.matlab.mat:mfl-ejml:0.5.3`
 - :cd: `ws.nzen.format.eno.locales` :left_right_arrow: `ws.nzen.format.eno:note_enohaste:1.0+j11`
 - :cd: `ws.nzen.format.eno.note_enojes` :left_right_arrow: `ws.nzen.format.eno:note_enojes:2.0`

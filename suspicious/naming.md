@@ -70,8 +70,10 @@
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M1` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M1,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M2` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M2,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M3,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M4,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.5.23` // `com.typesafe.akka,akka-actor_2.13,2.5.23,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M3,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M4,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.15,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.16,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.17,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -104,8 +106,10 @@
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M1` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M1,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M2` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M2,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M3,akka.actor.testkit,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M4,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-testkit_2.13,2.5.23,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M3,akka.actor.testkit,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M4,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.15,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.16,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.17,akka.actor.testkit,-,automatic,-,false,-`
@@ -136,8 +140,10 @@
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M1,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M2,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M3,akka.actor.testkit.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M4,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.5.23` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.5.23,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M3,akka.actor.testkit.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M4,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.15,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.16,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.17,akka.actor.testkit.typed,-,automatic,-,false,-`
@@ -168,8 +174,10 @@
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M1,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M2,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M3,akka.actor.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M4,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.5.23` // `com.typesafe.akka,akka-actor-typed_2.13,2.5.23,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M3,akka.actor.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M4,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.15,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.16,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.17,akka.actor.typed,-,automatic,-,false,-`
@@ -258,8 +266,10 @@
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M1,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M2,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M3,akka.cluster,-,automatic,-,false,-`
+- :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M4,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.5.23` // `com.typesafe.akka,akka-cluster_2.13,2.5.23,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M3,akka.cluster,-,automatic,-,false,-`
+- :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M4,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.15,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.16,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.17,akka.cluster,-,automatic,-,false,-`
@@ -292,8 +302,10 @@
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M1` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M1,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M2` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M2,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M3` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M3,akka.cluster.ddata,-,automatic,-,false,-`
+- :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M4` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M4,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.5.23` // `com.typesafe.akka,akka-distributed-data_2.13,2.5.23,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M3` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M3,akka.cluster.ddata,-,automatic,-,false,-`
+- :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M4` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M4,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.15,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.16,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.17,akka.cluster.ddata,-,automatic,-,false,-`
@@ -326,8 +338,10 @@
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M1,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M2,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M3,akka.cluster.metrics,-,automatic,-,false,-`
+- :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M4,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.5.23,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M3,akka.cluster.metrics,-,automatic,-,false,-`
+- :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M4,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.15,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.16,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.17,akka.cluster.metrics,-,automatic,-,false,-`
@@ -360,8 +374,10 @@
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M1,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M2,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M3,akka.cluster.sharding,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M4,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.5.23,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M3,akka.cluster.sharding,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M4,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.15,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.16,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.17,akka.cluster.sharding,-,automatic,-,false,-`
@@ -392,8 +408,10 @@
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M1,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M2,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M3,akka.cluster.sharding.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M4,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.5.23,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M3,akka.cluster.sharding.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M4,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.15,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.16,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.17,akka.cluster.sharding.typed,-,automatic,-,false,-`
@@ -426,8 +444,10 @@
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M1,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M2,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M3,akka.cluster.tools,-,automatic,-,false,-`
+- :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M4,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-tools_2.13,2.5.23,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M3,akka.cluster.tools,-,automatic,-,false,-`
+- :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M4,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.15,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.16,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.17,akka.cluster.tools,-,automatic,-,false,-`
@@ -458,8 +478,10 @@
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M1,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M2,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M3,akka.cluster.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M4,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-typed_2.13,2.5.23,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M3,akka.cluster.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M4,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.15,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.16,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.17,akka.cluster.typed,-,automatic,-,false,-`
@@ -508,8 +530,10 @@
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M1` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M1,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M2` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M2,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M3` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M3,akka.coordination,-,automatic,-,false,-`
+- :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M4` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M4,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.5.23` // `com.typesafe.akka,akka-coordination_2.13,2.5.23,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M3` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M3,akka.coordination,-,automatic,-,false,-`
+- :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M4` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M4,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-M5:2.5.22` // `com.typesafe.akka,akka-coordination_2.13.0-M5,2.5.22,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-M5:2.6.0-M1` // `com.typesafe.akka,akka-coordination_2.13.0-M5,2.6.0-M1,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-RC1:2.5.22` // `com.typesafe.akka,akka-coordination_2.13.0-RC1,2.5.22,akka.coordination,-,automatic,-,false,-`
@@ -528,8 +552,10 @@
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M1` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M1,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M2` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M2,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M3` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M3,akka.discovery,-,automatic,-,false,-`
+- :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M4` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M4,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.5.23` // `com.typesafe.akka,akka-discovery_2.13,2.5.23,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M3` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M3,akka.discovery,-,automatic,-,false,-`
+- :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M4` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M4,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.19` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.19,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.20` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.20,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.21` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.21,akka.discovery,-,automatic,-,false,-`
@@ -703,8 +729,10 @@
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M1` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M1,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M2` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M2,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M3` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M3,akka.osgi,-,automatic,-,false,-`
+- :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M4` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M4,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.5.23` // `com.typesafe.akka,akka-osgi_2.13,2.5.23,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M3` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M3,akka.osgi,-,automatic,-,false,-`
+- :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M4` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M4,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.15,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.16,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.17,akka.osgi,-,automatic,-,false,-`
@@ -737,8 +765,10 @@
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M1` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M1,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M2` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M2,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M3,akka.persistence,-,automatic,-,false,-`
+- :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M4,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.5.23` // `com.typesafe.akka,akka-persistence_2.13,2.5.23,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M3,akka.persistence,-,automatic,-,false,-`
+- :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M4,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.15,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.16,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.17,akka.persistence,-,automatic,-,false,-`
@@ -778,8 +808,10 @@
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M1` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M1,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M2` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M2,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M3,akka.persistence.query,-,automatic,-,false,-`
+- :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M4,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-query_2.13,2.5.23,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M3,akka.persistence.query,-,automatic,-,false,-`
+- :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M4,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.15,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.16,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.17,akka.persistence.query,-,automatic,-,false,-`
@@ -812,8 +844,10 @@
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M1` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M1,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M2` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M2,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M3,akka.persistence.tck,-,automatic,-,false,-`
+- :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M4,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-tck_2.13,2.5.23,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M3,akka.persistence.tck,-,automatic,-,false,-`
+- :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M4,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.15,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.16,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.17,akka.persistence.tck,-,automatic,-,false,-`
@@ -844,8 +878,10 @@
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M1,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M2,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M3,akka.persistence.typed,-,automatic,-,false,-`
+- :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M4,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-typed_2.13,2.5.23,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M3,akka.persistence.typed,-,automatic,-,false,-`
+- :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M4,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.15,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.16,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.17,akka.persistence.typed,-,automatic,-,false,-`
@@ -878,8 +914,10 @@
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M1` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M1,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M2` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M2,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M3` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M3,akka.protobuf,-,automatic,-,false,-`
+- :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M4` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M4,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.5.23` // `com.typesafe.akka,akka-protobuf_2.13,2.5.23,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M3` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M3,akka.protobuf,-,automatic,-,false,-`
+- :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M4` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M4,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.15,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.16,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.17,akka.protobuf,-,automatic,-,false,-`
@@ -912,8 +950,10 @@
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M1` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M1,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M2` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M2,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M3` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M3,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M4` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M4,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.5.23` // `com.typesafe.akka,akka-remote_2.13,2.5.23,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M3` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M3,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M4` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M4,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.15,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.16,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.17,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -946,8 +986,10 @@
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M1` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M1,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M2` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M2,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M3,akka.remote.testkit,-,automatic,-,false,-`
+- :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M4,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.5.23,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M3,akka.remote.testkit,-,automatic,-,false,-`
+- :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M4,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.15,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.16,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.17,akka.remote.testkit,-,automatic,-,false,-`
@@ -962,7 +1004,9 @@
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-RC3:2.5.23` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-RC3,2.5.23,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M2` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M2,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M3` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M3,akka.serialization.jackson,-,automatic,-,false,-`
+- :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M4` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M4,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M3` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M3,akka.serialization.jackson,-,automatic,-,false,-`
+- :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M4` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M4,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.15` // `com.typesafe.akka,akka-slf4j_2.11,2.5.15,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.16` // `com.typesafe.akka,akka-slf4j_2.11,2.5.16,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.17` // `com.typesafe.akka,akka-slf4j_2.11,2.5.17,akka.slf4j,-,automatic,-,false,-`
@@ -983,8 +1027,10 @@
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M1` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M1,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M2` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M2,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M3` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M3,akka.slf4j,-,automatic,-,false,-`
+- :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M4` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M4,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.5.23` // `com.typesafe.akka,akka-slf4j_2.13,2.5.23,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M3` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M3,akka.slf4j,-,automatic,-,false,-`
+- :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M4` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M4,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.15,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.16,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.17,akka.slf4j,-,automatic,-,false,-`
@@ -1017,8 +1063,10 @@
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M1` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M1,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M2` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M2,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M3,akka.stream,-,automatic,-,false,-`
+- :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M4,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.5.23` // `com.typesafe.akka,akka-stream_2.13,2.5.23,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M3,akka.stream,-,automatic,-,false,-`
+- :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M4,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.15,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.16,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.17,akka.stream,-,automatic,-,false,-`
@@ -1949,8 +1997,10 @@
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M1` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M1,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M2` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M2,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M3,akka.stream.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M4,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-stream-testkit_2.13,2.5.23,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M3,akka.stream.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M4,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.15,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.16,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.17,akka.stream.testkit,-,automatic,-,false,-`
@@ -1981,8 +2031,10 @@
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M1` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M1,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M2` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M2,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M3,akka.stream.typed,-,automatic,-,false,-`
+- :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M4,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.5.23` // `com.typesafe.akka,akka-stream-typed_2.13,2.5.23,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M3,akka.stream.typed,-,automatic,-,false,-`
+- :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M4,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.15,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.16,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.17,akka.stream.typed,-,automatic,-,false,-`
@@ -2122,6 +2174,7 @@
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.5` // `io.zipkin.brave,brave,5.6.5,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.6` // `io.zipkin.brave,brave,5.6.6,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.7` // `io.zipkin.brave,brave,5.6.7,brave,-,automatic,-,false,-`
+- :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.8` // `io.zipkin.brave,brave,5.6.8,brave,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.0` // `io.zipkin.brave,brave-context-jfr,5.6.0,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.1` // `io.zipkin.brave,brave-context-jfr,5.6.1,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.2` // `io.zipkin.brave,brave-context-jfr,5.6.2,brave.context.jfr,-,automatic,-,false,-`
@@ -2130,6 +2183,7 @@
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.5` // `io.zipkin.brave,brave-context-jfr,5.6.5,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.6` // `io.zipkin.brave,brave-context-jfr,5.6.6,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.7` // `io.zipkin.brave,brave-context-jfr,5.6.7,brave.context.jfr,-,automatic,-,false,-`
+- :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.8` // `io.zipkin.brave,brave-context-jfr,5.6.8,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.2.0` // `io.zipkin.brave,brave-context-log4j12,5.2.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.0` // `io.zipkin.brave,brave-context-log4j12,5.3.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.1` // `io.zipkin.brave,brave-context-log4j12,5.3.1,brave.context.log4j12,-,automatic,-,false,-`
@@ -2149,6 +2203,7 @@
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.5` // `io.zipkin.brave,brave-context-log4j12,5.6.5,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.6` // `io.zipkin.brave,brave-context-log4j12,5.6.6,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.7` // `io.zipkin.brave,brave-context-log4j12,5.6.7,brave.context.log4j12,-,automatic,-,false,-`
+- :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.8` // `io.zipkin.brave,brave-context-log4j12,5.6.8,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.2.0` // `io.zipkin.brave,brave-context-log4j2,5.2.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.0` // `io.zipkin.brave,brave-context-log4j2,5.3.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.1` // `io.zipkin.brave,brave-context-log4j2,5.3.1,brave.context.log4j2,-,automatic,-,false,-`
@@ -2168,6 +2223,7 @@
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.5` // `io.zipkin.brave,brave-context-log4j2,5.6.5,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.6` // `io.zipkin.brave,brave-context-log4j2,5.6.6,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.7` // `io.zipkin.brave,brave-context-log4j2,5.6.7,brave.context.log4j2,-,automatic,-,false,-`
+- :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.8` // `io.zipkin.brave,brave-context-log4j2,5.6.8,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.2.0` // `io.zipkin.brave,brave-context-rxjava2,5.2.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.0` // `io.zipkin.brave,brave-context-rxjava2,5.3.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.1` // `io.zipkin.brave,brave-context-rxjava2,5.3.1,brave.context.rxjava2,-,automatic,-,false,-`
@@ -2187,6 +2243,7 @@
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.5` // `io.zipkin.brave,brave-context-rxjava2,5.6.5,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.6` // `io.zipkin.brave,brave-context-rxjava2,5.6.6,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.7` // `io.zipkin.brave,brave-context-rxjava2,5.6.7,brave.context.rxjava2,-,automatic,-,false,-`
+- :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.8` // `io.zipkin.brave,brave-context-rxjava2,5.6.8,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.2.0` // `io.zipkin.brave,brave-context-slf4j,5.2.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.0` // `io.zipkin.brave,brave-context-slf4j,5.3.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.1` // `io.zipkin.brave,brave-context-slf4j,5.3.1,brave.context.slf4j,-,automatic,-,false,-`
@@ -2206,6 +2263,7 @@
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.5` // `io.zipkin.brave,brave-context-slf4j,5.6.5,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.6` // `io.zipkin.brave,brave-context-slf4j,5.6.6,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.7` // `io.zipkin.brave,brave-context-slf4j,5.6.7,brave.context.slf4j,-,automatic,-,false,-`
+- :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.8` // `io.zipkin.brave,brave-context-slf4j,5.6.8,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.2.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.1,brave.dubbo.rpc,-,automatic,-,false,-`
@@ -2225,6 +2283,7 @@
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.5` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.5,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.6` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.6,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.7` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.7,brave.dubbo.rpc,-,automatic,-,false,-`
+- :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.8` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.8,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.2.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.1,brave.grpc,-,automatic,-,false,-`
@@ -2244,6 +2303,7 @@
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.5` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.5,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.6` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.6,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.7` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.7,brave.grpc,-,automatic,-,false,-`
+- :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.8` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.8,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-http,5.2.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-http,5.3.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-http,5.3.1,brave.http,-,automatic,-,false,-`
@@ -2263,6 +2323,7 @@
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.5` // `io.zipkin.brave,brave-instrumentation-http,5.6.5,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.6` // `io.zipkin.brave,brave-instrumentation-http,5.6.6,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.7` // `io.zipkin.brave,brave-instrumentation-http,5.6.7,brave.http,-,automatic,-,false,-`
+- :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.8` // `io.zipkin.brave,brave-instrumentation-http,5.6.8,brave.http,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.2.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.1,brave.httpasyncclient,-,automatic,-,false,-`
@@ -2282,6 +2343,7 @@
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.5` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.5,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.6` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.6,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.7` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.7,brave.httpasyncclient,-,automatic,-,false,-`
+- :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.8` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.8,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.2.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.1,brave.httpclient,-,automatic,-,false,-`
@@ -2301,6 +2363,7 @@
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.5` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.5,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.6` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.6,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.7` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.7,brave.httpclient,-,automatic,-,false,-`
+- :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.8` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.8,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.2.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.2.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.1` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.1,brave.jaxrs2,-,automatic,-,false,-`
@@ -2320,6 +2383,7 @@
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.5` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.5,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.6` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.6,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.7` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.7,brave.jaxrs2,-,automatic,-,false,-`
+- :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.8` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.8,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.2.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.2.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.1` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.1,brave.jersey.server,-,automatic,-,false,-`
@@ -2339,6 +2403,7 @@
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.5` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.5,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.6` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.6,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.7` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.7,brave.jersey.server,-,automatic,-,false,-`
+- :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.8` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.8,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.0` // `io.zipkin.brave,brave-instrumentation-jms,5.3.0,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.1` // `io.zipkin.brave,brave-instrumentation-jms,5.3.1,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.2` // `io.zipkin.brave,brave-instrumentation-jms,5.3.2,brave.jms,-,automatic,-,false,-`
@@ -2357,6 +2422,7 @@
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.5` // `io.zipkin.brave,brave-instrumentation-jms,5.6.5,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.6` // `io.zipkin.brave,brave-instrumentation-jms,5.6.6,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.7` // `io.zipkin.brave,brave-instrumentation-jms,5.6.7,brave.jms,-,automatic,-,false,-`
+- :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.8` // `io.zipkin.brave,brave-instrumentation-jms,5.6.8,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.2.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.2.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.1` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.1,brave.kafka.clients,-,automatic,-,false,-`
@@ -2376,6 +2442,7 @@
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.5` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.5,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.6` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.6,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.7` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.7,brave.kafka.clients,-,automatic,-,false,-`
+- :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.8` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.8,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.5.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.5.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.1` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.1,brave.kafka.streams,-,automatic,-,false,-`
@@ -2385,6 +2452,7 @@
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.5` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.5,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.6` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.6,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.7` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.7,brave.kafka.streams,-,automatic,-,false,-`
+- :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.8` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.8,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.2.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.1,brave.mysql,-,automatic,-,false,-`
@@ -2404,6 +2472,7 @@
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.5,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.6` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.6,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.7` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.7,brave.mysql,-,automatic,-,false,-`
+- :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.8,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.2.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.1,brave.mysql6,-,automatic,-,false,-`
@@ -2423,6 +2492,7 @@
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.5,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.6` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.6,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.7` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.7,brave.mysql6,-,automatic,-,false,-`
+- :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.8,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.2.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.1,brave.mysql8,-,automatic,-,false,-`
@@ -2442,6 +2512,7 @@
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.5` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.5,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.6` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.6,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.7` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.7,brave.mysql8,-,automatic,-,false,-`
+- :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.8,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.2.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.1,brave.netty.http,-,automatic,-,false,-`
@@ -2461,6 +2532,7 @@
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.5` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.5,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.6` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.6,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.7` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.7,brave.netty.http,-,automatic,-,false,-`
+- :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.8` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.8,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.2.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.2.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.1` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.1,brave.okhttp3,-,automatic,-,false,-`
@@ -2480,6 +2552,7 @@
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.5` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.5,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.6` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.6,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.7` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.7,brave.okhttp3,-,automatic,-,false,-`
+- :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.8` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.8,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.2.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.2.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.1` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.1,brave.p6spy,-,automatic,-,false,-`
@@ -2499,6 +2572,7 @@
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.5` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.5,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.6` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.6,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.7` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.7,brave.p6spy,-,automatic,-,false,-`
+- :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.8` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.8,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.0` // `io.zipkin.aws,brave-propagation-aws,0.13.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.1` // `io.zipkin.aws,brave-propagation-aws,0.13.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.2` // `io.zipkin.aws,brave-propagation-aws,0.13.2,brave.propagation.aws,-,automatic,-,false,-`
@@ -2515,6 +2589,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.16.4` // `io.zipkin.aws,brave-propagation-aws,0.16.4,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.0` // `io.zipkin.aws,brave-propagation-aws,0.17.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.1` // `io.zipkin.aws,brave-propagation-aws,0.17.1,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.2` // `io.zipkin.aws,brave-propagation-aws,0.17.2,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
@@ -2535,6 +2610,7 @@
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.5` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.5,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.6` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.6,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.7` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.7,brave.servlet,-,automatic,-,false,-`
+- :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.8` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.8,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.2.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.2.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.1` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.1,brave.sparkjava,-,automatic,-,false,-`
@@ -2554,6 +2630,7 @@
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.5` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.5,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.6` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.6,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.7` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.7,brave.sparkjava,-,automatic,-,false,-`
+- :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.8` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.8,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.2.0` // `io.zipkin.brave,brave-spring-beans,5.2.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.0` // `io.zipkin.brave,brave-spring-beans,5.3.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.1` // `io.zipkin.brave,brave-spring-beans,5.3.1,brave.spring.beans,-,automatic,-,false,-`
@@ -2573,6 +2650,7 @@
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.5` // `io.zipkin.brave,brave-spring-beans,5.6.5,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.6` // `io.zipkin.brave,brave-spring-beans,5.6.6,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.7` // `io.zipkin.brave,brave-spring-beans,5.6.7,brave.spring.beans,-,automatic,-,false,-`
+- :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.8` // `io.zipkin.brave,brave-spring-beans,5.6.8,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.2.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.1,brave.spring.rabbit,-,automatic,-,false,-`
@@ -2592,6 +2670,7 @@
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.5,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.6` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.6,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.7` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.7,brave.spring.rabbit,-,automatic,-,false,-`
+- :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.8,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.2.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.1,brave.spring.web,-,automatic,-,false,-`
@@ -2611,6 +2690,7 @@
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.5,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.6` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.6,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.7` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.7,brave.spring.web,-,automatic,-,false,-`
+- :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.8,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.2.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.1,brave.spring.webmvc,-,automatic,-,false,-`
@@ -2630,6 +2710,7 @@
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.5` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.5,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.6` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.6,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.7` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.7,brave.spring.webmvc,-,automatic,-,false,-`
+- :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.8,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.2.0` // `io.zipkin.brave,brave-tests,5.2.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.0` // `io.zipkin.brave,brave-tests,5.3.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.1` // `io.zipkin.brave,brave-tests,5.3.1,brave.test,-,automatic,-,false,-`
@@ -2649,6 +2730,7 @@
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.5` // `io.zipkin.brave,brave-tests,5.6.5,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.6` // `io.zipkin.brave,brave-tests,5.6.6,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.7` // `io.zipkin.brave,brave-tests,5.6.7,brave.test,-,automatic,-,false,-`
+- :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.8` // `io.zipkin.brave,brave-tests,5.6.8,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.2.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.2.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.1` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.1,brave.test.http,-,automatic,-,false,-`
@@ -2668,6 +2750,7 @@
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.5` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.5,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.6` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.6,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.7` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.7,brave.test.http,-,automatic,-,false,-`
+- :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.8` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.8,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.2.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.1,brave.vertx.web,-,automatic,-,false,-`
@@ -2687,6 +2770,7 @@
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.5` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.5,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.6` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.6,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.7` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.7,brave.vertx.web,-,automatic,-,false,-`
+- :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.8` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.8,brave.vertx.web,-,automatic,-,false,-`
 - :dvd: `by.zti.legacy` :left_right_arrow: `com.github.cvazer:zti-utils-legacy:1.1.0` // `com.github.cvazer,zti-utils-legacy,1.1.0,by.zti.legacy,-,explicit,java.base + jdk.xml.dom,false,-`
 - :dvd: `cache.annotations.ri.common` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-common:0.67.0.12` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-common,0.67.0.12,cache.annotations.ri.common,0.67.0.12,explicit,cache.api + java.base + java.logging,false,-`
 - :dvd: `cache.annotations.ri.guice` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-guice:0.67.0.12` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-guice,0.67.0.12,cache.annotations.ri.guice,0.67.0.12,explicit,aopalliance + cache.annotations.ri.common + cache.api + com.google.guice + java.base + javax.inject,false,-`
@@ -4754,6 +4838,7 @@
 - :dvd: `java.xml.ws` :left_right_arrow: `javax.xml.ws:jaxws-api:2.3.1` // `javax.xml.ws,jaxws-api,2.3.1,java.xml.ws,-,explicit,java.xml.soap + java.xml.bind + java.annotation + java.logging + java.base,false,-`
 - :dvd: `java.xml.ws` :left_right_arrow: `org.apache.servicemix.specs:org.apache.servicemix.specs.jaxws-api-2.3:2.3_1` // `org.apache.servicemix.specs,org.apache.servicemix.specs.jaxws-api-2.3,2.3_1,java.xml.ws,-,explicit,java.base + java.logging + java.xml.bind + java.xml.soap + java.xml.ws.annotation,false,-`
 - :dvd: `javafx.extensions` :left_right_arrow: `org.prelle:javafx-extensions:4.0.0` // `org.prelle,javafx-extensions,4.0.0,javafx.extensions,-,explicit,java.base + javafx.base + javafx.controls + javafx.fxml + javafx.graphics + org.apache.logging.log4j,false,-`
+- :dvd: `javafx.extensions` :left_right_arrow: `org.prelle:javafx-extensions:4.0.1` // `org.prelle,javafx-extensions,4.0.1,javafx.extensions,4.0.1,explicit,java.base + javafx.base + javafx.controls + javafx.fxml + javafx.graphics + org.apache.logging.log4j,false,-`
 - :dvd: `javatest.core` :left_right_arrow: `io.github.olib963:javatest-core:0.1.0` // `io.github.olib963,javatest-core,0.1.0,javatest.core,-,explicit,java.base,false,-`
 - :dvd: `javatest.eventually` :left_right_arrow: `io.github.olib963:javatest-eventually:0.1.0` // `io.github.olib963,javatest-eventually,0.1.0,javatest.eventually,-,explicit,java.base + javatest.core,false,-`
 - :dvd: `javatest.fixtures` :left_right_arrow: `io.github.olib963:javatest-fixtures:0.1.0` // `io.github.olib963,javatest-fixtures,0.1.0,javatest.fixtures,-,explicit,java.base + javatest.core,false,-`
@@ -8962,6 +9047,7 @@
 - :cd: `org.mortbay.apache.jasper` :left_right_arrow: `org.mortbay.jasper:apache-jsp:9.0.14.1` // `org.mortbay.jasper,apache-jsp,9.0.14.1,org.mortbay.apache.jasper,-,automatic,-,false,-`
 - :cd: `org.mortbay.apache.jasper` :left_right_arrow: `org.mortbay.jasper:apache-jsp:9.0.19` // `org.mortbay.jasper,apache-jsp,9.0.19,org.mortbay.apache.jasper,-,automatic,-,false,-`
 - :cd: `org.mybatis.dynamic.sql` :left_right_arrow: `org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.1.1` // `org.mybatis.dynamic-sql,mybatis-dynamic-sql,1.1.1,org.mybatis.dynamic.sql,-,automatic,-,false,-`
+- :cd: `org.mybatis.dynamic.sql` :left_right_arrow: `org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.1.2` // `org.mybatis.dynamic-sql,mybatis-dynamic-sql,1.1.2,org.mybatis.dynamic.sql,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0` // `org.neo4j.test,neo4j-harness,3.5.0,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0-alpha07` // `org.neo4j.test,neo4j-harness,3.5.0-alpha07,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.0-alpha08` // `org.neo4j.test,neo4j-harness,3.5.0-alpha08,org.neo4j.harness,-,automatic,-,false,-`
@@ -9587,6 +9673,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.15.0` // `io.zipkin.zipkin2,zipkin,2.15.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`
@@ -9601,7 +9688,9 @@
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.8.4` // `io.zipkin.reporter2,zipkin-reporter,2.8.4,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.9.0` // `io.zipkin.reporter2,zipkin-reporter,2.9.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter,2.8.3,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.9.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.10` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.10,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.13` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.13,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.14` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.14,zipkin2.reporter.amqp,-,automatic,-,false,-`
@@ -9616,6 +9705,7 @@
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.8.4` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.8.4,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.9.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-amqp-client:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-amqp-client,2.8.3,zipkin2.reporter.amqp,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.10` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.10,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.13` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.13,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.14` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.14,zipkin2.reporter.beans,-,automatic,-,false,-`
@@ -9630,10 +9720,12 @@
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.4` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.4,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.9.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.9.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.3,zipkin2.reporter.beans,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.4` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.4,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.9.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.9.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.0,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.10,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.13,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.14` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.14,zipkin2.reporter.kafka08,-,automatic,-,false,-`
@@ -9658,6 +9750,7 @@
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.0` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.0,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.1` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.1,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.2` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.2,zipkin2.reporter.kafka11,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.10` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.10,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.13` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.13,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.14` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.14,zipkin2.reporter.libthrift,-,automatic,-,false,-`
@@ -9672,6 +9765,7 @@
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.8.4` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.8.4,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.9.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.9.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-libthrift:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-libthrift,2.8.3,zipkin2.reporter.libthrift,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
@@ -9679,6 +9773,7 @@
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.4` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.4,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.9.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.9.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.3,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.10` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.10,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.13` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.13,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.14` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.14,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
@@ -9693,6 +9788,7 @@
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.8.4` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.8.4,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.9.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.9.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-okhttp3:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-okhttp3,2.8.3,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.0` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.0,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.10` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.10,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.13` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.13,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.14` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.14,zipkin2.reporter.urlconnection,-,automatic,-,false,-`

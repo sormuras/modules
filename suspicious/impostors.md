@@ -967,6 +967,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.2` // `com.vladmihalcea,hibernate-types-43,2.4.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.3` // `com.vladmihalcea,hibernate-types-43,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.4` // `com.vladmihalcea,hibernate-types-43,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.5.0` // `com.vladmihalcea,hibernate-types-43,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -976,6 +977,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.2` // `com.vladmihalcea,hibernate-types-5,2.4.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.3` // `com.vladmihalcea,hibernate-types-5,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.4` // `com.vladmihalcea,hibernate-types-5,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.5.0` // `com.vladmihalcea,hibernate-types-5,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -985,6 +987,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.2` // `com.vladmihalcea,hibernate-types-52,2.4.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.3` // `com.vladmihalcea,hibernate-types-52,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.4` // `com.vladmihalcea,hibernate-types-52,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.5.0` // `com.vladmihalcea,hibernate-types-52,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.4` // `de.mkammerer,argon2-jvm-nolibs,2.4,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
@@ -1846,6 +1849,8 @@
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.2` // `io.micronaut.test,micronaut-test-core,1.0.2,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.3` // `io.micronaut.test,micronaut-test-core,1.0.3,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.4` // `io.micronaut.test,micronaut-test-core,1.0.4,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.5` // `io.micronaut.test,micronaut-test-core,1.0.5,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.1.0.RC1` // `io.micronaut.test,micronaut-test-core,1.1.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -1853,6 +1858,8 @@
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.2` // `io.micronaut.test,micronaut-test-junit5,1.0.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.3` // `io.micronaut.test,micronaut-test-junit5,1.0.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.4` // `io.micronaut.test,micronaut-test-junit5,1.0.4,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.5` // `io.micronaut.test,micronaut-test-junit5,1.0.5,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.1.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.1.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -1860,6 +1867,8 @@
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.2` // `io.micronaut.test,micronaut-test-spock,1.0.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.3` // `io.micronaut.test,micronaut-test-spock,1.0.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.4` // `io.micronaut.test,micronaut-test-spock,1.0.4,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.5` // `io.micronaut.test,micronaut-test-spock,1.0.5,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.1.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.1.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
