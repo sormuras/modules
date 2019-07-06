@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4662 Java modules published at Maven Central
 
-## Summary 2019-07-05T22:41:36.226165Z
+## Summary 2019-07-06T22:41:39.692833Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-05T22:41:36.226165Z
-Scanned 24,658 files in 3 seconds.
+Started scan at 2019-07-06T22:41:39.692833Z
+Scanned 24,708 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_05_21_59_05.csv
+    last -> modulescanner-report-2019_07_06_22_10_40.csv
 
-Parsed 1,611,453 lines in total.
-  28,514 -> captions skipped
-  101,181 -> duplicates skipped
-  64,255 -> module related
+Parsed 1,613,218 lines in total.
+  28,564 -> captions skipped
+  101,239 -> duplicates skipped
+  64,293 -> module related
 
 Collected 4,662 unique modules.
   automatic :cd: -> 3,547
@@ -23,7 +23,7 @@ Collected 4,662 unique modules.
 ## Samples
             junit -> junit:junit:4.13-beta-3
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0
-org.objectweb.asm -> org.ow2.asm:asm:7.1
+org.objectweb.asm -> org.ow2.asm:asm:7.2-beta
 com.google.common -> com.google.guava:guava:28.0-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [6296](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9805](suspicious/naming.md)
-- Modular impostors: [3120](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9813](suspicious/naming.md)
+- Modular impostors: [3122](suspicious/impostors.md)
 
 ## Unique Modules (4662)
 
@@ -517,7 +517,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.2.5`
 - :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.2.5`
 - :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.5`
-- :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.1`
+- :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.2`
 - :cd: `com.github.robtimus.ip.validation` :left_right_arrow: `com.github.robtimus:ip-validation:1.0.1`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
@@ -812,7 +812,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.12`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.20`
 - :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.14`
-- :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:5.4`
+- :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:6.0`
 - :cd: `com.imsweb.seerapi.client` :left_right_arrow: `com.imsweb:seerapi-client-java:3.15`
 - :cd: `com.imsweb.seerdata` :left_right_arrow: `com.imsweb:seerdata-utility:1.13`
 - :cd: `com.imsweb.seerutils` :left_right_arrow: `com.imsweb:seerutils:5.5`
@@ -1280,8 +1280,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.6`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.1`
-- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.1`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.2`
+- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.2`
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.3.0`
 - :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.3.0`
 - :cd: `com.thoughtworks.qdox` :left_right_arrow: `com.thoughtworks.qdox:qdox:2.0-M10`
@@ -1291,10 +1291,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.tngtech.archunit.junit5.api` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-api:0.10.2`
 - :cd: `com.tngtech.archunit.junit5.engine` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine:0.10.2`
 - :cd: `com.tngtech.archunit.junit5.engineapi` :left_right_arrow: `com.tngtech.archunit:archunit-junit5-engine-api:0.10.2`
-- :cd: `com.tngtech.junit.dataprovider.core` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-dataprovider-core:2.4`
-- :cd: `com.tngtech.junit.dataprovider.junit4` :left_right_arrow: `com.tngtech.junit.dataprovider:junit4-dataprovider:2.4`
-- :cd: `com.tngtech.junit.dataprovider.jupiter` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-jupiter-dataprovider:2.4`
-- :cd: `com.tngtech.junit.dataprovider.jupiter.params` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-jupiter-params-dataprovider:2.4`
+- :cd: `com.tngtech.junit.dataprovider.core` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-dataprovider-core:2.6`
+- :cd: `com.tngtech.junit.dataprovider.junit4` :left_right_arrow: `com.tngtech.junit.dataprovider:junit4-dataprovider:2.6`
+- :cd: `com.tngtech.junit.dataprovider.jupiter` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-jupiter-dataprovider:2.6`
+- :cd: `com.tngtech.junit.dataprovider.jupiter.params` :left_right_arrow: `com.tngtech.junit.dataprovider:junit-jupiter-params-dataprovider:2.6`
 - :dvd: `com.torchmind.authenticator` :left_right_arrow: `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` :left_right_arrow: `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` :left_right_arrow: `com.torchmind.utility:cidr:2.1.0`
@@ -1343,7 +1343,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.5.0`
 - :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.4`
 - :dvd: `com.zarbosoft.interface1` :left_right_arrow: `com.zarbosoft:interface:2.0.2`
-- :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.5`
+- :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.7`
 - :dvd: `com.zarbosoft.pidgoon` :left_right_arrow: `com.zarbosoft:pidgoon:0.0.4`
 - :dvd: `com.zarbosoft.pidgooncommand` :left_right_arrow: `com.zarbosoft:pidgoon-command:0.0.8`
 - :dvd: `com.zarbosoft.rendaw.common` :left_right_arrow: `com.zarbosoft.rendaw:common:1.0.7`
@@ -2150,19 +2150,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk8` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.joda` :left_right_arrow: `net.objectlab.kit:datecalc-joda:1.4.2`
-- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.10.3`
-- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.10.3`
-- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.10.3`
-- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.10.3`
-- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.10.3`
-- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.10.3`
-- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.10.3`
-- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.10.3`
-- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.10.3`
-- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.10.3`
-- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.10.3`
-- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.10.3`
-- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.10.3`
+- :cd: `net.officefloor.eclipse.common` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.common:3.11.0`
+- :cd: `net.officefloor.eclipse.configurer` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer:3.11.0`
+- :cd: `net.officefloor.eclipse.configurer.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.configurer.tests:3.11.0`
+- :cd: `net.officefloor.eclipse.editor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor:3.11.0`
+- :cd: `net.officefloor.eclipse.editor.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.editor.tests:3.11.0`
+- :cd: `net.officefloor.eclipse.ide` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.ide:3.11.0`
+- :cd: `net.officefloor.eclipse.launch` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.launch:3.11.0`
+- :cd: `net.officefloor.eclipse.officefloor` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.officefloor:3.11.0`
+- :cd: `net.officefloor.eclipse.osgi` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.osgi:3.11.0`
+- :cd: `net.officefloor.eclipse.section` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section:3.11.0`
+- :cd: `net.officefloor.eclipse.section.test` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.section.tests:3.11.0`
+- :cd: `net.officefloor.eclipse.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof:3.11.0`
+- :cd: `net.officefloor.eclipse.woof.tests` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.eclipse.woof.tests:3.11.0`
 - :cd: `net.reini.junit` :left_right_arrow: `net.reini:junit-compat:1.3`
 - :cd: `net.reini.rabbitmq.cdi` :left_right_arrow: `net.reini:rabbitmq-cdi:1.3.0`
 - :cd: `net.sf.flatpack` :left_right_arrow: `net.sf.flatpack:flatpack:4.0.4`
@@ -3837,13 +3837,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.neo4j.values` :left_right_arrow: `org.neo4j:neo4j-values:3.5.7`
 - :cd: `org.nibor.autolink` :left_right_arrow: `org.nibor.autolink:autolink:0.10.0`
 - :cd: `org.objecttrouve.testing.conveniencematchers` :left_right_arrow: `org.objecttrouve:convenience-matchers:0.5.0`
-- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.1`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2-beta`
 - :dvd: `org.objectweb.asm.all` :left_right_arrow: `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` :left_right_arrow: `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.1`
-- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.1`
-- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.1`
-- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.1`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.2-beta`
+- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.2-beta`
+- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2-beta`
+- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2-beta`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
 - :cd: `org.objenesis` :left_right_arrow: `org.objenesis:objenesis:3.0.1`
 - :cd: `org.objenesis.tck` :left_right_arrow: `org.objenesis:objenesis-tck:3.0.1`
