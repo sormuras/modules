@@ -1085,6 +1085,7 @@
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.1.2` // `io.micronaut,micronaut-aop,1.1.2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.1.3` // `io.micronaut,micronaut-aop,1.1.3,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.2.0.RC1` // `io.micronaut,micronaut-aop,1.2.0.RC1,io.micronaut.aop,-,automatic,-,false,-`
+- :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.2.0.RC2` // `io.micronaut,micronaut-aop,1.2.0.RC2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.0.0.RC3` // `io.micronaut,micronaut-bom,1.0.0.RC3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.0.1` // `io.micronaut,micronaut-bom,1.0.1,io.micronaut.bom,-,automatic,-,false,-`
@@ -1100,6 +1101,7 @@
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.1.2` // `io.micronaut,micronaut-bom,1.1.2,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.1.3` // `io.micronaut,micronaut-bom,1.1.3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0.RC1` // `io.micronaut,micronaut-bom,1.2.0.RC1,io.micronaut.bom,-,automatic,-,false,-`
+- :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0.RC2` // `io.micronaut,micronaut-bom,1.2.0.RC2,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.0` // `io.micronaut,micronaut-buffer-netty,1.0.0,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.0.RC3` // `io.micronaut,micronaut-buffer-netty,1.0.0.RC3,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.1` // `io.micronaut,micronaut-buffer-netty,1.0.1,io.micronaut.buffer_netty,-,automatic,-,false,-`
@@ -2065,6 +2067,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.6-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.6-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.3` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2132,6 +2135,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.skywalking:apm-agent:6.0.0-beta` // `org.apache.skywalking,apm-agent,6.0.0-beta,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.assertj:assertj-core:3.12.0` // `org.assertj,assertj-core,3.12.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.choco-solver:choco-solver:4.10.0` // `org.choco-solver,choco-solver,4.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `org.choco-solver:choco-solver:4.10.1` // `org.choco-solver,choco-solver,4.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.1.0` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.1.0-alpha` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.1.0-alpha,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.1.1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.1.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
