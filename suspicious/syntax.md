@@ -69,6 +69,7 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.5.1` // `io.cucumber,cucumber-cdi2,4.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.5.2` // `io.cucumber,cucumber-cdi2,4.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.5.3` // `io.cucumber,cucumber-cdi2,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.5.4` // `io.cucumber,cucumber-cdi2,4.5.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.1` // `io.cucumber,cucumber-core,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.2` // `io.cucumber,cucumber-core,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.2.3` // `io.cucumber,cucumber-core,4.2.3,-,-,automatic,-,false,-`
@@ -82,6 +83,7 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.5.1` // `io.cucumber,cucumber-core,4.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.5.2` // `io.cucumber,cucumber-core,4.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.5.3` // `io.cucumber,cucumber-core,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-core:4.5.4` // `io.cucumber,cucumber-core,4.5.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.1` // `io.cucumber,cucumber-guice,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.2` // `io.cucumber,cucumber-guice,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.2.3` // `io.cucumber,cucumber-guice,4.2.3,-,-,automatic,-,false,-`
@@ -95,6 +97,7 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.5.1` // `io.cucumber,cucumber-guice,4.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.5.2` // `io.cucumber,cucumber-guice,4.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.5.3` // `io.cucumber,cucumber-guice,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-guice:4.5.4` // `io.cucumber,cucumber-guice,4.5.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.1` // `io.cucumber,cucumber-java,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.2` // `io.cucumber,cucumber-java,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-java:4.2.3` // `io.cucumber,cucumber-java,4.2.3,-,-,automatic,-,false,-`
@@ -155,12 +158,15 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.3.0` // `io.cucumber,cucumber-scala_2.11,4.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.3.1` // `io.cucumber,cucumber-scala_2.11,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.4.0` // `io.cucumber,cucumber-scala_2.11,4.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.5.3` // `io.cucumber,cucumber-scala_2.11,4.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.1.0` // `io.cucumber,cucumber-scala_2.12,4.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.0` // `io.cucumber,cucumber-scala_2.12,4.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.6` // `io.cucumber,cucumber-scala_2.12,4.2.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.3.0` // `io.cucumber,cucumber-scala_2.12,4.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.3.1` // `io.cucumber,cucumber-scala_2.12,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.4.0` // `io.cucumber,cucumber-scala_2.12,4.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.5.3` // `io.cucumber,cucumber-scala_2.12,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.5.3` // `io.cucumber,cucumber-scala_2.13,4.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.1` // `io.cucumber,cucumber-spring,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.2` // `io.cucumber,cucumber-spring,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.3` // `io.cucumber,cucumber-spring,4.2.3,-,-,automatic,-,false,-`
@@ -5260,6 +5266,8 @@
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.4.1.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.4.1.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.4.1.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.4.1.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.4.2.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.4.2.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.0` // `com.synopsys.integration,coverity-common,0.2.0,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.1` // `com.synopsys.integration,coverity-common,0.2.1,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.2` // `com.synopsys.integration,coverity-common,0.2.2,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
