@@ -2080,6 +2080,7 @@
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `jakarta.json:jakarta.json-api:1.1.5` // `jakarta.json,jakarta.json-api,1.1.5,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2093,6 +2094,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.97.0` // `org.finra.herd,herd-downloader,0.97.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.98.0` // `org.finra.herd,herd-downloader,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.99.0` // `org.finra.herd,herd-downloader,0.99.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.100.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2106,6 +2108,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.97.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.97.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.98.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.99.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.99.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.100.0` // `org.finra.herd,herd-retention-expiration-exporter,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2119,6 +2122,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.97.0` // `org.finra.herd,herd-retention-expiration-exporter,0.97.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.98.0` // `org.finra.herd,herd-retention-expiration-exporter,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.99.0` // `org.finra.herd,herd-retention-expiration-exporter,0.99.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.100.0` // `org.finra.herd,herd-uploader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2191,6 +2195,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.6` // `com.undefinedlabs.scope,scope-agent,0.1.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.6-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.6-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.10` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.10,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.3` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.4` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2198,6 +2203,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.6` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.7` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.8` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.7-beta.9` // `com.undefinedlabs.scope,scope-agent,0.1.7-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -3154,6 +3160,7 @@
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.github.upthewaterspout.fates:fates-instrumentation:0.1.0` // `com.github.upthewaterspout.fates,fates-instrumentation,0.1.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.github.upthewaterspout.fates:fates-instrumentation:0.2.0` // `com.github.upthewaterspout.fates,fates-instrumentation,0.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.github.upthewaterspout.fates:fates-instrumentation:0.3.0` // `com.github.upthewaterspout.fates,fates-instrumentation,0.3.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.microsoft.azure:applicationinsights-agent:2.5.0-BETA` // `com.microsoft.azure,applicationinsights-agent,2.5.0-BETA,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.2.0` // `com.netflix.nebula,gradle-lint-plugin,11.2.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.3.0` // `com.netflix.nebula,gradle-lint-plugin,11.3.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.4.0` // `com.netflix.nebula,gradle-lint-plugin,11.4.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
