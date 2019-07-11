@@ -120,6 +120,9 @@ public class ModulesToJson {
 
   /** Present module. */
   private void printJar(Path jar) {
+    if (!Files.isRegularFile(jar)) {
+      throw new IllegalArgumentException("path doesn't point to a regular file: " + jar);
+    }
     var finder = ModuleFinder.of(jar);
     var reference = finder.findAll().iterator().next();
     var descriptor = reference.descriptor();
@@ -132,12 +135,13 @@ public class ModulesToJson {
     } catch (IOException e) {
       throw new UncheckedIOException("Opening JAR failed: " + jar, e);
     }
-    writer.printf("      \"packages\": %d%n", descriptor.packages().size());
+    writer.printf("      \"packages\": %d,%n", descriptor.packages().size());
     if (descriptor.isAutomatic()) {
-      writer.printf("      \"mode\": \"automatic\",%n");
+      writer.printf("      \"mode\": \"automatic\"%n");
     } else {
       writer.printf("      \"mode\": \"explicit\",%n");
       printSortedSet("exports", descriptor.exports());
+      writer.println("      ,");
       printSortedSet("provides", descriptor.provides());
     }
     writer.printf("    }%n");
