@@ -3224,11 +3224,13 @@
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.40` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.40,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.41` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.41,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.42` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.42,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.43` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.43,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.20` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.20,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.21` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.21,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.22` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.22,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-curves4:2.12.01` // `io.virtdata,virtdata-lib-curves4,2.12.01,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-curves4:2.12.02` // `io.virtdata,virtdata-lib-curves4,2.12.02,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.virtdata:virtdata-lib-curves4:2.12.03` // `io.virtdata,virtdata-lib-curves4,2.12.03,org.slf4j,-,explicit,java.base,false,-`
