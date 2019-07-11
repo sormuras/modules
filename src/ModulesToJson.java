@@ -37,19 +37,23 @@ public class ModulesToJson {
     MANIFEST,
     DESCRIPTOR;
 
-    static NameSource of(ModuleDescriptor descriptor, Path jar) {
+    static NameSource of(ModuleDescriptor descriptor, JarFile jarFile) {
       if (!descriptor.isAutomatic()) {
         return DESCRIPTOR;
       }
-      try (var jarFile = new JarFile(jar.toFile())) {
-        var name = jarFile.getManifest().getMainAttributes().getValue("Automatic-Module-Name");
-        if (name != null) {
-          return MANIFEST;
+      try {
+        var manifest = jarFile.getManifest();
+        if (manifest == null) {
+          return FILENAME;
         }
+        var name = manifest.getMainAttributes().getValue("Automatic-Module-Name");
+        if (name == null) {
+          return FILENAME;
+        }
+        return MANIFEST;
       } catch (IOException e) {
-        throw new UncheckedIOException("Opening JAR failed: " + jar, e);
+        throw new UncheckedIOException("Reading manifest failed: " + jarFile, e);
       }
-      return FILENAME;
     }
   }
 
@@ -122,7 +126,12 @@ public class ModulesToJson {
     writer.printf("    {%n");
     writer.printf("      \"path\": \"%s\",%n", jar.toUri());
     writer.printf("      \"name\": \"%s\",%n", descriptor.name());
-    writer.printf("      \"nameSource\": \"%s\",%n", NameSource.of(descriptor, jar));
+    try (var jarFile = new JarFile(jar.toFile())) {
+      writer.printf("      \"nameSource\": \"%s\",%n", NameSource.of(descriptor, jarFile));
+      writer.printf("      \"multiRelease\": \"%s\",%n", jarFile.isMultiRelease());
+    } catch (IOException e) {
+      throw new UncheckedIOException("Opening JAR failed: " + jar, e);
+    }
     writer.printf("      \"packages\": %d%n", descriptor.packages().size());
     if (descriptor.isAutomatic()) {
       writer.printf("      \"mode\": \"automatic\",%n");
