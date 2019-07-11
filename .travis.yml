@@ -17,6 +17,8 @@ script:
   - aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --only-show-errors
   - du --bytes bucket
   - java src/Modules.java bucket
+after_success:
+  - java src/ModulesToJson.java junit:junit:4.12 junit:junit:4.13-beta-3 org.ow2.asm:asm:7.2-beta
 
 deploy:
   - provider: script
