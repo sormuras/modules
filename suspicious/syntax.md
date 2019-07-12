@@ -1700,12 +1700,14 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.6` // `org.neo4j,neo4j-expressions-3.5,3.5.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.7` // `org.neo4j,neo4j-expressions-3.5,3.5.7,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-4.0:4.0-alpha0-20181130` // `org.neo4j,neo4j-expressions-4.0,4.0-alpha0-20181130,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-RC1` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-RC1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha01` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha01,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha02` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha02,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha03` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha03,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha04` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha04,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha05` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha05,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha06` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha06,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-RC1` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-RC1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha01` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha01,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha02` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha02,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha03` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha03,-,-,automatic,-,false,-`
