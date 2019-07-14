@@ -150,6 +150,7 @@
 - :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-msg:0.9.2` // `com.github.vebqa,vebtal-msg,0.9.2,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
 - :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-msg:0.9.3` // `com.github.vebqa,vebtal-msg,0.9.3,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
 - :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-msg:1.0.0` // `com.github.vebqa,vebtal-msg,1.0.0,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
+- :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-msg:1.0.1` // `com.github.vebqa,vebtal-msg,1.0.1,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
 - :cd: `com.github.wumpz.diffutils` :left_right_arrow: `io.github.java-diff-utils:java-diff-utils:4.0` // `io.github.java-diff-utils,java-diff-utils,4.0,com.github.wumpz.diffutils,-,automatic,-,false,-`
 - :cd: `com.google.common` :left_right_arrow: `com.github.lafa.cache:cache:1.0.1` // `com.github.lafa.cache,cache,1.0.1,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.common` :left_right_arrow: `com.github.linlinisme:beyond-guava:1.0.0` // `com.github.linlinisme,beyond-guava,1.0.0,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2953,6 +2954,7 @@
 - :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.yoga:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.yoga,3.2.1.1,org.lwjgl.yoga,-,explicit,java.base + org.lwjgl,false,-`
 - :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.zstd:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.zstd,3.2.1.1,org.lwjgl.zstd,-,explicit,java.base + org.lwjgl,false,-`
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct-jdk8:1.3.0.Beta1` // `org.mapstruct,mapstruct-jdk8,1.3.0.Beta1,org.mapstruct,-,automatic,-,false,-`
+- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-open-location-code:0.4` // `org.meeuw.i18n,i18n-regions-open-location-code,0.4,org.meeuw.i18n.continents,0.4,explicit,java.annotation + java.base + java.logging + java.validation + openlocationcode + org.checkerframework.checker.qual + org.meeuw.i18n,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.1` // `org.neo4j,neo4j-data-collector,3.5.1,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.2` // `org.neo4j,neo4j-data-collector,3.5.2,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.3` // `org.neo4j,neo4j-data-collector,3.5.3,org.neo4j.common,-,automatic,-,false,-`

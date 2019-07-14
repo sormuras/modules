@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4705 Java modules published at Maven Central
+Counted 4709 Java modules published at Maven Central
 
-## Summary 2019-07-13T22:47:08.808805Z
+## Summary 2019-07-14T22:47:11.263886Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-13T22:47:08.808805Z
-Scanned 25,278 files in 3 seconds.
+Started scan at 2019-07-14T22:47:11.263886Z
+Scanned 25,391 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_13_22_17_48.csv
+    last -> modulescanner-report-2019_07_14_22_32_30.csv
 
-Parsed 1,650,984 lines in total.
-  29,131 -> captions skipped
-  104,261 -> duplicates skipped
-  66,048 -> module related
+Parsed 1,652,525 lines in total.
+  29,244 -> captions skipped
+  104,380 -> duplicates skipped
+  66,107 -> module related
 
-Collected 4,705 unique modules.
+Collected 4,709 unique modules.
   automatic :cd: -> 3,526
-  explicit :dvd: -> 1,179
+  explicit :dvd: -> 1,183
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6311](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9903](suspicious/naming.md)
-- Modular impostors: [3281](suspicious/impostors.md)
+- Invalid module names: [6312](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9917](suspicious/naming.md)
+- Modular impostors: [3283](suspicious/impostors.md)
 
-## Unique Modules (4705)
+## Unique Modules (4709)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -329,13 +329,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.coditory.sherlock.api.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.7`
 - :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.7`
 - :cd: `com.coditory.sherlock.api.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.7`
-- :cd: `com.coditory.sherlock.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.1.8`
-- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.1.8`
-- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.1.8`
-- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.1.8`
-- :cd: `com.coditory.sherlock.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.8`
-- :cd: `com.coditory.sherlock.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.8`
-- :cd: `com.coditory.sherlock.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.8`
+- :cd: `com.coditory.sherlock.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.1.12`
+- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.1.12`
+- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.1.12`
+- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.1.12`
+- :cd: `com.coditory.sherlock.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.12`
+- :cd: `com.coditory.sherlock.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.12`
+- :cd: `com.coditory.sherlock.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.12`
 - :cd: `com.cosium.spring.data.jpa.entity.graph` :left_right_arrow: `com.cosium.spring.data:spring-data-jpa-entity-graph:2.1.0`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :cd: `com.couchbase.client.core` :left_right_arrow: `com.couchbase.client:core-io:1.7.7`
@@ -468,11 +468,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.gv2011.util.beans.imp` :left_right_arrow: `com.github.gv2011:util-beans:0.4.0`
 - :cd: `com.github.gv2011.util.gcol` :left_right_arrow: `com.github.gv2011:gcol:0.4.0`
 - :cd: `com.github.gv2011.util.tika` :left_right_arrow: `com.github.gv2011:filetypes-tika:0.4.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.5`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.5`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.5`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.5`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.5`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.7`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.7`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.7`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.7`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.7`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -497,6 +497,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.mjeanroy.junit.servers.core` :left_right_arrow: `com.github.mjeanroy:junit-servers-core:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.jetty` :left_right_arrow: `com.github.mjeanroy:junit-servers-jetty:0.11.0`
 - :cd: `com.github.mjeanroy.junit.servers.tomcat` :left_right_arrow: `com.github.mjeanroy:junit-servers-tomcat:0.11.0`
+- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.4.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
+- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
 - :cd: `com.github.nruzic.extensions.eclipse.model.ad` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.ad:1.1.0`
 - :cd: `com.github.nruzic.extensions.eclipse.model.profile.prototype` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.profile.prototype:1.1.0`
 - :cd: `com.github.nullterminated.trylambda` :left_right_arrow: `com.github.nullterminated:trylambda:1.1`
@@ -530,7 +534,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.2.7`
 - :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.2`
 - :cd: `com.github.robtimus.ip.validation` :left_right_arrow: `com.github.robtimus:ip-validation:1.0.1`
-- :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.0`
+- :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.1`
 - :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.4`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.1`
@@ -552,14 +556,14 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.tomtung.latex2unicode` :left_right_arrow: `com.github.tomtung:latex2unicode_2.11:0.2.6`
 - :cd: `com.github.tonivade.purefun` :left_right_arrow: `com.github.tonivade:purefun:0.9.4`
 - :cd: `com.github.trilarion.sound` :left_right_arrow: `com.github.trilarion:java-vorbis-support:1.2.1`
-- :cd: `com.github.vebqa.vebtal3270` :left_right_arrow: `com.github.vebqa:vebtal-3270:1.0.0`
+- :cd: `com.github.vebqa.vebtal3270` :left_right_arrow: `com.github.vebqa:vebtal-3270:1.0.1`
 - :cd: `com.github.vebqa.vebtal5250` :left_right_arrow: `com.github.vebqa:vebtal-5250:1.0.0`
-- :cd: `com.github.vebqa.vebtalapi` :left_right_arrow: `com.github.vebqa:vebtal-api:1.0.0`
+- :cd: `com.github.vebqa.vebtalapi` :left_right_arrow: `com.github.vebqa:vebtal-api:1.0.1`
 - :cd: `com.github.vebqa.vebtalimagecompare` :left_right_arrow: `com.github.vebqa:vebtal-imagecompare:1.0.0`
-- :cd: `com.github.vebqa.vebtalmanager` :left_right_arrow: `com.github.vebqa:vebtal-manager:1.0.0`
-- :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-pdf:1.0.0`
-- :cd: `com.github.vebqa.vebtalselenium` :left_right_arrow: `com.github.vebqa:vebtal-selenium:1.0.0`
-- :cd: `com.github.vebqa.vebtaltestdata` :left_right_arrow: `com.github.vebqa:vebtal-testdata:1.0.0`
+- :cd: `com.github.vebqa.vebtalmanager` :left_right_arrow: `com.github.vebqa:vebtal-manager:1.0.1`
+- :cd: `com.github.vebqa.vebtalpdf` :left_right_arrow: `com.github.vebqa:vebtal-pdf:1.0.1`
+- :cd: `com.github.vebqa.vebtalselenium` :left_right_arrow: `com.github.vebqa:vebtal-selenium:1.0.1`
+- :cd: `com.github.vebqa.vebtaltestdata` :left_right_arrow: `com.github.vebqa:vebtal-testdata:1.0.1`
 - :cd: `com.github.vlsi.mxgraph.jgraphx` :left_right_arrow: `com.github.vlsi.mxgraph:jgraphx:4.0.0`
 - :cd: `com.github.wumpz.diffutils` :left_right_arrow: `com.github.wumpz:diffutils:3.0`
 - :cd: `com.github.zxhr.gradle_provider_enhancements` :left_right_arrow: `com.github.zxhr:gradle-provider-enhancements:0.5.0`
@@ -830,7 +834,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.seerutilsgui` :left_right_arrow: `com.imsweb:seerutils-gui:1.14`
 - :cd: `com.imsweb.staging.cs` :left_right_arrow: `com.imsweb:staging-algorithm-cs:02.05.50.3`
 - :cd: `com.imsweb.staging.tnm` :left_right_arrow: `com.imsweb:staging-algorithm-tnm:1.9.2`
-- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.7`
+- :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.8`
 - :cd: `com.imsweb.x12` :left_right_arrow: `com.imsweb:x12-parser:1.5`
 - :cd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0011`
 - :cd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0011`
@@ -3743,11 +3747,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct:1.3.0.Final`
 - :cd: `org.mapstruct.processor` :left_right_arrow: `org.mapstruct:mapstruct-processor:1.3.0.Final`
 - :cd: `org.mariadb.jdbc` :left_right_arrow: `org.mariadb.jdbc:mariadb-java-client:2.4.2`
-- :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.3`
-- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.3`
-- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.3`
+- :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.4`
+- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.4`
+- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.4`
 - :dvd: `org.meeuw.i18n.formerlyassigned` :left_right_arrow: `org.meeuw.i18n:i18n-formerly-assigned:0.5`
-- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.3`
+- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.4`
 - :cd: `org.meteothink.jts` :left_right_arrow: `org.meteothink:jts-core:1.15.1`
 - :cd: `org.microbean.configuration` :left_right_arrow: `org.microbean:microbean-configuration:0.4.4`
 - :cd: `org.microbean.configuration.api` :left_right_arrow: `org.microbean:microbean-configuration-api:0.4.4`

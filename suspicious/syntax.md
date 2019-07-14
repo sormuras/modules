@@ -5403,6 +5403,7 @@
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.2` // `net.dreamlu,mica-plus-error-catch,1.1.2,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.3` // `net.dreamlu,mica-plus-error-catch,1.1.3,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.4` // `net.dreamlu,mica-plus-error-catch,1.1.4,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.5` // `net.dreamlu,mica-plus-error-catch,1.1.5,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
