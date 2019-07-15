@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4709 Java modules published at Maven Central
+Counted 4712 Java modules published at Maven Central
 
-## Summary 2019-07-14T22:47:11.263886Z
+## Summary 2019-07-15T22:48:33.740831Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-14T22:47:11.263886Z
-Scanned 25,391 files in 3 seconds.
+Started scan at 2019-07-15T22:48:33.740831Z
+Scanned 25,501 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_14_22_32_30.csv
+    last -> modulescanner-report-2019_07_15_22_38_38.csv
 
-Parsed 1,652,525 lines in total.
-  29,244 -> captions skipped
-  104,380 -> duplicates skipped
-  66,107 -> module related
+Parsed 1,656,248 lines in total.
+  29,354 -> captions skipped
+  104,474 -> duplicates skipped
+  66,285 -> module related
 
-Collected 4,709 unique modules.
-  automatic :cd: -> 3,526
+Collected 4,712 unique modules.
+  automatic :cd: -> 3,529
   explicit :dvd: -> 1,183
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6312](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9917](suspicious/naming.md)
-- Modular impostors: [3283](suspicious/impostors.md)
+- Invalid module names: [6313](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9962](suspicious/naming.md)
+- Modular impostors: [3383](suspicious/impostors.md)
 
-## Unique Modules (4709)
+## Unique Modules (4712)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -557,7 +557,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.tonivade.purefun` :left_right_arrow: `com.github.tonivade:purefun:0.9.4`
 - :cd: `com.github.trilarion.sound` :left_right_arrow: `com.github.trilarion:java-vorbis-support:1.2.1`
 - :cd: `com.github.vebqa.vebtal3270` :left_right_arrow: `com.github.vebqa:vebtal-3270:1.0.1`
-- :cd: `com.github.vebqa.vebtal5250` :left_right_arrow: `com.github.vebqa:vebtal-5250:1.0.0`
+- :cd: `com.github.vebqa.vebtal5250` :left_right_arrow: `com.github.vebqa:vebtal-5250:1.0.1`
 - :cd: `com.github.vebqa.vebtalapi` :left_right_arrow: `com.github.vebqa:vebtal-api:1.0.1`
 - :cd: `com.github.vebqa.vebtalimagecompare` :left_right_arrow: `com.github.vebqa:vebtal-imagecompare:1.0.0`
 - :cd: `com.github.vebqa.vebtalmanager` :left_right_arrow: `com.github.vebqa:vebtal-manager:1.0.1`
@@ -677,7 +677,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.http` :left_right_arrow: `com.helger:ph-http:9.1.2`
 - :cd: `com.helger.httpclient` :left_right_arrow: `com.helger:ph-httpclient:9.1.2`
 - :cd: `com.helger.jaxb` :left_right_arrow: `com.helger:ph-jaxb:9.3.4`
-- :cd: `com.helger.jcodemodel` :left_right_arrow: `com.helger:jcodemodel:3.2.3`
+- :cd: `com.helger.jcodemodel` :left_right_arrow: `com.helger:jcodemodel:3.2.4`
 - :cd: `com.helger.jdmc.core` :left_right_arrow: `com.helger:ph-jdmc-core:0.0.3`
 - :cd: `com.helger.jdmc.example` :left_right_arrow: `com.helger:ph-jdmc-example:0.0.3`
 - :cd: `com.helger.json` :left_right_arrow: `com.helger:ph-json:9.3.4`
@@ -773,10 +773,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.helger.xsds.xmldsig11` :left_right_arrow: `com.helger:ph-xsds-xmldsig11:2.2.3`
 - :cd: `com.helger.xservlet` :left_right_arrow: `com.helger:ph-xservlet:9.1.2`
 - :cd: `com.hello2morrow.sonargraph.integration.access` :left_right_arrow: `com.hello2morrow:sonargraph-integration-access:3.2.2`
-- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.1.3`
-- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.1.3`
-- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.1.3`
-- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.1.3`
+- :cd: `com.holonplatform.artisan.core` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-core:1.1.4`
+- :cd: `com.holonplatform.artisan.vaadin.flow.app.layout` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-app-layout:1.1.4`
+- :cd: `com.holonplatform.artisan.vaadin.flow.components` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-components:1.1.4`
+- :cd: `com.holonplatform.artisan.vaadin.flow.export` :left_right_arrow: `com.holon-platform.artisan:holon-artisan-vaadin-flow-export:1.1.4`
 - :cd: `com.holonplatform.core` :left_right_arrow: `com.holon-platform.core:holon-core:5.2.3`
 - :cd: `com.holonplatform.jaxrs` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-commons:5.2.4`
 - :cd: `com.holonplatform.jaxrs.client` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-client:5.2.4`
@@ -1012,7 +1012,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.15`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:0.67.0.16`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -1026,7 +1026,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.15`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:0.67.0.16`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -1562,12 +1562,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.5.4`
 - :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.5.4`
 - :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.5.4`
-- :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.0`
+- :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.1`
 - :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.5.4`
 - :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.5.4`
 - :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.5.4`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
 - :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.5.4`
+- :cd: `io.cucumber.tag.expressions` :left_right_arrow: `io.cucumber:tag-expressions:2.0.2`
 - :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.5.4`
 - :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.5.4`
 - :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.11`
@@ -3262,13 +3263,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.codegen.hono.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.java:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.hono.python` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.python:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.templates.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.templates.java:0.10.0.M7`
-- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.10.1`
-- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.10.1`
+- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.11.0`
+- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.11.0`
 - :cd: `org.eclipse.vorto.editor.datatype` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype:0.10.0.M10`
-- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.10.1`
-- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.10.1`
-- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.10.1`
-- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.10.1`
+- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.11.0`
+- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.11.0`
+- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.11.0`
+- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.11.0`
 - :cd: `org.eclipse.xpect` :left_right_arrow: `org.eclipse.xpect:org.eclipse.xpect:0.2.0.v20190619`
 - :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.19.0.M1`
 - :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.19.0.M1`
@@ -3292,7 +3293,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.xtext.xtext.ide` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.ide:2.19.0.M1`
 - :cd: `org.eclipse.xtext.xtext.wizard` :left_right_arrow: `org.eclipse.xtext:org.eclipse.xtext.xtext.wizard:2.19.0.M1`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.4`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.9`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.11`
 - :cd: `org.firebirdsql.decimal` :left_right_arrow: `org.firebirdsql:decimal-java:1.0.0`
 - :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.0`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta2`
@@ -3686,7 +3687,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kordamp.jsilhouette.javafx` :left_right_arrow: `org.kordamp.jsilhouette:jsilhouette-javafx:0.3.0`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-core:0.3.2`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:0.17.0`
+- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.0.0`
 - :cd: `org.libj.exec` :left_right_arrow: `org.libj:exec:0.8.9`
 - :cd: `org.libj.io` :left_right_arrow: `org.libj:io:0.7.5`
 - :cd: `org.libj.jci` :left_right_arrow: `org.libj:jci:0.8.3`
@@ -3774,16 +3775,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.mongodb.driver.core` :left_right_arrow: `org.mongodb:mongodb-driver-core:3.11.0-beta4`
 - :cd: `org.mongodb.driver.embedded.client` :left_right_arrow: `org.mongodb:mongodb-driver-embedded:3.8.1`
 - :cd: `org.mongodb.driver.sync.client` :left_right_arrow: `org.mongodb:mongodb-driver-sync:3.11.0-beta4`
-- :cd: `org.mybatis` :left_right_arrow: `org.mybatis:mybatis:3.5.1`
+- :cd: `org.mybatis` :left_right_arrow: `org.mybatis:mybatis:3.5.2`
 - :cd: `org.mybatis.caches.memcached` :left_right_arrow: `org.mybatis.caches:mybatis-memcached:1.1.0`
-- :cd: `org.mybatis.scripting.thymeleaf` :left_right_arrow: `org.mybatis.scripting:mybatis-thymeleaf:1.0.0`
-- :cd: `org.mybatis.spring` :left_right_arrow: `org.mybatis:mybatis-spring:2.0.1`
-- :cd: `org.mybatis.spring.boot.autoconfigure` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.0.1`
+- :cd: `org.mybatis.scripting.freemarker` :left_right_arrow: `org.mybatis.scripting:mybatis-freemarker:1.2.0`
+- :cd: `org.mybatis.scripting.thymeleaf` :left_right_arrow: `org.mybatis.scripting:mybatis-thymeleaf:1.0.1`
+- :cd: `org.mybatis.scripting.velocity` :left_right_arrow: `org.mybatis.scripting:mybatis-velocity:2.1.0`
+- :cd: `org.mybatis.spring` :left_right_arrow: `org.mybatis:mybatis-spring:2.0.2`
+- :cd: `org.mybatis.spring.boot.autoconfigure` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:2.1.0`
 - :cd: `org.mybatis.spring.boot.sample.annotation` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-sample-annotation:2.0.1`
 - :cd: `org.mybatis.spring.boot.sample.xml` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-sample-xml:2.0.1`
-- :cd: `org.mybatis.spring.boot.starter` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-starter:2.0.1`
-- :cd: `org.mybatis.spring.boot.starter.test` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.0.1`
-- :cd: `org.mybatis.spring.boot.test.autoconfigure` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-test-autoconfigure:2.0.1`
+- :cd: `org.mybatis.spring.boot.starter` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.0`
+- :cd: `org.mybatis.spring.boot.starter.test` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.1.0`
+- :cd: `org.mybatis.spring.boot.test.autoconfigure` :left_right_arrow: `org.mybatis.spring.boot:mybatis-spring-boot-test-autoconfigure:2.1.0`
 - :cd: `org.mybatis.spring.mybatis2` :left_right_arrow: `org.mybatis:mybatis-2-spring:1.1.0`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.1`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
@@ -4011,9 +4014,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reaktivity.nukleus.echo` :left_right_arrow: `org.reaktivity:nukleus-echo:0.7`
 - :cd: `org.reaktivity.nukleus.fan` :left_right_arrow: `org.reaktivity:nukleus-fan:0.8`
 - :cd: `org.reaktivity.nukleus.flow` :left_right_arrow: `org.reaktivity:nukleus-flow:0.6`
-- :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.85`
+- :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.86`
 - :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.93`
-- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.101`
+- :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.102`
 - :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.156`
 - :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.45`
 - :cd: `org.reaktivity.nukleus.tcp` :left_right_arrow: `org.reaktivity:nukleus-tcp:0.79`
@@ -4119,7 +4122,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.83`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
 - :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.83`
-- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.57`
+- :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.58`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
 - :cd: `org.shredzone.acme4j` :left_right_arrow: `org.shredzone.acme4j:acme4j-client:2.7`
