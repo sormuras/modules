@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4712 Java modules published at Maven Central
+Counted 4724 Java modules published at Maven Central
 
-## Summary 2019-07-15T22:48:33.740831Z
+## Summary 2019-07-16T22:48:44.602317Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-15T22:48:33.740831Z
-Scanned 25,501 files in 3 seconds.
+Started scan at 2019-07-16T22:48:44.602317Z
+Scanned 25,626 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_15_22_38_38.csv
+    last -> modulescanner-report-2019_07_16_22_33_41.csv
 
-Parsed 1,656,248 lines in total.
-  29,354 -> captions skipped
-  104,474 -> duplicates skipped
-  66,285 -> module related
+Parsed 1,662,441 lines in total.
+  29,479 -> captions skipped
+  104,984 -> duplicates skipped
+  66,410 -> module related
 
-Collected 4,712 unique modules.
-  automatic :cd: -> 3,529
+Collected 4,724 unique modules.
+  automatic :cd: -> 3,541
   explicit :dvd: -> 1,183
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6313](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9962](suspicious/naming.md)
-- Modular impostors: [3383](suspicious/impostors.md)
+- Invalid module names: [6321](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [9977](suspicious/naming.md)
+- Modular impostors: [3390](suspicious/impostors.md)
 
-## Unique Modules (4712)
+## Unique Modules (4724)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -482,7 +482,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.0-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
-- :dvd: `com.github.marschall.jfr.jdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.3.0`
+- :dvd: `com.github.marschall.jfr.jdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.4.0`
 - :dvd: `com.github.marschall.jfrjdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.1.0`
 - :dvd: `com.github.marschall.jfrjdbctemplate` :left_right_arrow: `com.github.marschall:jfr-jdbctemplate:0.4.1`
 - :dvd: `com.github.marschall.junit.jfr` :left_right_arrow: `com.github.marschall:junit-jfr:0.1.0`
@@ -827,7 +827,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.12`
 - :cd: `com.imsweb.layout` :left_right_arrow: `com.imsweb:layout:1.20`
 - :cd: `com.imsweb.mph` :left_right_arrow: `com.imsweb:mph:1.14`
-- :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:6.0`
+- :cd: `com.imsweb.naaccrxml` :left_right_arrow: `com.imsweb:naaccr-xml:6.1`
 - :cd: `com.imsweb.seerapi.client` :left_right_arrow: `com.imsweb:seerapi-client-java:3.15`
 - :cd: `com.imsweb.seerdata` :left_right_arrow: `com.imsweb:seerdata-utility:1.13`
 - :cd: `com.imsweb.seerutils` :left_right_arrow: `com.imsweb:seerutils:5.5`
@@ -1059,28 +1059,28 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.28`
 - :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.28`
 - :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.28`
-- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.92.0`
-- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.92.0`
-- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.92.0`
-- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.92.0`
-- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.92.0`
-- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.92.0`
-- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.92.0`
-- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.92.0`
-- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.92.0`
-- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.92.0`
-- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.92.0`
-- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.92.0`
-- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.92.0`
-- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.92.0`
-- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.92.0`
-- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.92.0`
-- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.92.0`
-- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.92.0`
-- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.92.0`
-- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.92.0`
-- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.92.0`
-- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.92.0`
+- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.92.1`
+- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.92.1`
+- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.92.1`
+- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.92.1`
+- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.92.1`
+- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.92.1`
+- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.92.1`
+- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.92.1`
+- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.92.1`
+- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.92.1`
+- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.92.1`
+- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.92.1`
+- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.92.1`
+- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.92.1`
+- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.92.1`
+- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.92.1`
+- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.92.1`
+- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.92.1`
+- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.92.1`
+- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.92.1`
+- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.92.1`
+- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.92.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
 - :dvd: `com.networknt.basic.auth` :left_right_arrow: `com.networknt:basic-auth:2.0.0`
@@ -1559,18 +1559,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
 - :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
-- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.5.4`
-- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.5.4`
-- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.5.4`
+- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.6.0`
+- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.6.0`
+- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.6.0`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.1`
-- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.5.4`
-- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.5.4`
-- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.5.4`
+- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.6.0`
+- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.6.0`
+- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.6.0`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
-- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.5.4`
+- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.6.0`
 - :cd: `io.cucumber.tag.expressions` :left_right_arrow: `io.cucumber:tag-expressions:2.0.2`
-- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.5.4`
-- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.5.4`
+- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.6.0`
+- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.6.0`
 - :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.11`
 - :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.11`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
@@ -1628,28 +1628,28 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.41.1`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.11`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
-- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.16.2`
+- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.17.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.43`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.17`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.0.17`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.0.17`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.0.17`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.0.17`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.0.17`
-- :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.17`
-- :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.17`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.0.17`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.0.17`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.0.17`
-- :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.17`
-- :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.17`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.0.17`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.0.17`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.0.17`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.0.17`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.0.17`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.0.20`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.0.20`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.0.20`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.0.20`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.0.20`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.0.20`
+- :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.20`
+- :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.20`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.0.20`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.0.20`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.0.20`
+- :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.20`
+- :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.20`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.0.20`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.0.20`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.0.20`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.0.20`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.0.20`
 - :cd: `io.github.i49.cascade` :left_right_arrow: `io.github.i49:cascade:3.2.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
@@ -2033,10 +2033,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.147`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.147`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.147`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.147`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.148`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.148`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.148`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.148`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.109`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.109`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.109`
@@ -2735,12 +2735,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.beryx.textio.web` :left_right_arrow: `org.beryx:text-io-web:3.3.0`
 - :cd: `org.bitbucket.cowwoc.diffmatchpatch` :left_right_arrow: `org.bitbucket.cowwoc:diff-match-patch:1.2`
 - :cd: `org.bitbucket.cowwoc.pouch` :left_right_arrow: `org.bitbucket.cowwoc:pouch:1.13`
-- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.0.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.0.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.0.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.0.0`
-- :cd: `org.bitbucket.cowwoc.requirements.maven_plugin` :left_right_arrow: `org.bitbucket.cowwoc.requirements:maven_plugin:5.0.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.0.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.1.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.1.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.1.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.1.0`
+- :cd: `org.bitbucket.cowwoc.requirements.maven_plugin` :left_right_arrow: `org.bitbucket.cowwoc.requirements:maven_plugin:5.1.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.1.0`
 - :cd: `org.bndtools.embeddedrepo` :left_right_arrow: `org.bndtools:org.bndtools.embeddedrepo:4.2.0`
 - :cd: `org.bndtools.headless.build.manager` :left_right_arrow: `org.bndtools:org.bndtools.headless.build.manager:4.2.0`
 - :cd: `org.bndtools.headless.build.plugin.ant` :left_right_arrow: `org.bndtools:org.bndtools.headless.build.plugin.ant:4.2.0`
@@ -4015,13 +4015,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.reaktivity.nukleus.fan` :left_right_arrow: `org.reaktivity:nukleus-fan:0.8`
 - :cd: `org.reaktivity.nukleus.flow` :left_right_arrow: `org.reaktivity:nukleus-flow:0.6`
 - :cd: `org.reaktivity.nukleus.http` :left_right_arrow: `org.reaktivity:nukleus-http:0.86`
-- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.93`
+- :cd: `org.reaktivity.nukleus.http.cache` :left_right_arrow: `org.reaktivity:nukleus-http-cache:0.94`
 - :cd: `org.reaktivity.nukleus.http2` :left_right_arrow: `org.reaktivity:nukleus-http2:0.102`
 - :cd: `org.reaktivity.nukleus.kafka` :left_right_arrow: `org.reaktivity:nukleus-kafka:0.156`
-- :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.45`
+- :cd: `org.reaktivity.nukleus.sse` :left_right_arrow: `org.reaktivity:nukleus-sse:0.46`
 - :cd: `org.reaktivity.nukleus.tcp` :left_right_arrow: `org.reaktivity:nukleus-tcp:0.79`
 - :cd: `org.reaktivity.nukleus.tls` :left_right_arrow: `org.reaktivity:nukleus-tls:0.104`
-- :cd: `org.reaktivity.nukleus.ws` :left_right_arrow: `org.reaktivity:nukleus-ws:0.64`
+- :cd: `org.reaktivity.nukleus.ws` :left_right_arrow: `org.reaktivity:nukleus-ws:0.65`
 - :cd: `org.reaktivity.reaktor` :left_right_arrow: `org.reaktivity:reaktor:0.93`
 - :cd: `org.refcodes.boulderdash` :left_right_arrow: `org.refcodes:refcodes-boulderdash:2.0.3`
 - :cd: `org.refcodes.checkerboard` :left_right_arrow: `org.refcodes:refcodes-checkerboard:2.0.3`
@@ -4264,6 +4264,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0-beta7`
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.4.0`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
+- :cd: `org.tinylog.adapter.jboss` :left_right_arrow: `org.tinylog:tinylog-jboss:2.0.0-RC2`
+- :cd: `org.tinylog.adapter.jul` :left_right_arrow: `org.tinylog:tinylog-jul:2.0.0-RC2`
+- :cd: `org.tinylog.api` :left_right_arrow: `org.tinylog:tinylog-api:2.0.0-RC2`
+- :cd: `org.tinylog.api.jboss` :left_right_arrow: `org.tinylog:jboss-tinylog:2.0.0-RC2`
+- :cd: `org.tinylog.api.jcl` :left_right_arrow: `org.tinylog:jcl-tinylog:2.0.0-RC2`
+- :cd: `org.tinylog.api.jul` :left_right_arrow: `org.tinylog:jul-tinylog:2.0.0-RC2`
+- :cd: `org.tinylog.api.kotlin` :left_right_arrow: `org.tinylog:tinylog-api-kotlin:2.0.0-RC2`
+- :cd: `org.tinylog.api.log4j12` :left_right_arrow: `org.tinylog:log4j1.2-api:2.0.0-RC2`
+- :cd: `org.tinylog.api.scala` :left_right_arrow: `org.tinylog:tinylog-api-scala:2.0.0-RC2`
+- :cd: `org.tinylog.api.slf4j` :left_right_arrow: `org.tinylog:slf4j-tinylog:2.0.0-RC2`
+- :cd: `org.tinylog.api.tinylog13` :left_right_arrow: `org.tinylog:tinylog1.3-api:2.0.0-RC2`
+- :cd: `org.tinylog.impl` :left_right_arrow: `org.tinylog:tinylog-impl:2.0.0-RC2`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`
 - :cd: `org.trellisldp.agent` :left_right_arrow: `org.trellisldp:trellis-agent:0.8.3`
 - :cd: `org.trellisldp.amqp` :left_right_arrow: `org.trellisldp:trellis-amqp:0.8.3`
