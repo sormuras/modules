@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 4741 Java modules published at Maven Central
+Counted 4742 Java modules published at Maven Central
 
-## Summary 2019-07-19T22:49:34.002516Z
+## Summary 2019-07-20T22:49:33.542938Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-19T22:49:34.002516Z
-Scanned 25,993 files in 3 seconds.
+Started scan at 2019-07-20T22:49:33.542938Z
+Scanned 26,123 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_19_22_25_19.csv
+    last -> modulescanner-report-2019_07_20_22_36_37.csv
 
-Parsed 1,683,799 lines in total.
-  29,846 -> captions skipped
-  107,446 -> duplicates skipped
-  67,885 -> module related
+Parsed 1,686,006 lines in total.
+  29,974 -> captions skipped
+  107,514 -> duplicates skipped
+  67,920 -> module related
 
-Collected 4,741 unique modules.
-  automatic :cd: -> 3,524
+Collected 4,742 unique modules.
+  automatic :cd: -> 3,525
   explicit :dvd: -> 1,217
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.0
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.1
 org.objectweb.asm -> org.ow2.asm:asm:7.2-beta
 com.google.common -> com.google.guava:guava:28.0-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6564](suspicious/syntax.md)
+- Invalid module names: [6567](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10207](suspicious/naming.md)
-- Modular impostors: [3418](suspicious/impostors.md)
+- Modular impostors: [3421](suspicious/impostors.md)
 
-## Unique Modules (4741)
+## Unique Modules (4742)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1571,18 +1571,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
 - :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
-- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.6.0`
-- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.6.0`
-- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.6.0`
+- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.7.0`
+- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.7.0`
+- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.7.0`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.1`
-- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.6.0`
-- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.6.0`
-- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.6.0`
+- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.7.0`
+- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.7.0`
+- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.7.0`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
-- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.6.0`
+- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.7.0`
 - :cd: `io.cucumber.tag.expressions` :left_right_arrow: `io.cucumber:tag-expressions:2.0.2`
-- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.6.0`
-- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.6.0`
+- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.7.0`
+- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.7.0`
 - :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.11`
 - :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.11`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
@@ -2163,9 +2163,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.regionfile` :left_right_arrow: `net.kyori:regionfile:1.0.1`
 - :cd: `net.kyori.storm` :left_right_arrow: `net.kyori:storm:1.0.0`
 - :cd: `net.kyori.text` :left_right_arrow: `net.kyori:text:1.12-1.6.5`
-- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:3.0.1`
-- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:3.0.1`
-- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:3.0.1`
+- :cd: `net.kyori.text.feature.pagination` :left_right_arrow: `net.kyori:text-feature-pagination:3.0.2`
+- :cd: `net.kyori.text.serializer.gson` :left_right_arrow: `net.kyori:text-serializer-gson:3.0.2`
+- :cd: `net.kyori.text.serializer.legacy` :left_right_arrow: `net.kyori:text-serializer-legacy:3.0.2`
+- :cd: `net.kyori.text.serializer.plain` :left_right_arrow: `net.kyori:text-serializer-plain:3.0.2`
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
@@ -2589,7 +2590,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.openejb.itests.itests.legacy.client` :left_right_arrow: `org.apache.openejb.itests:legacy-client:8.0.0-M3`
 - :cd: `org.apache.openejb.itests.itests.legacy.server` :left_right_arrow: `org.apache.openejb.itests:legacy-server:8.0.0-M3`
 - :cd: `org.apache.opennlp.tools` :left_right_arrow: `org.apache.opennlp:opennlp-tools:1.9.1`
-- :cd: `org.apache.santuario.xmlsec` :left_right_arrow: `org.apache.santuario:xmlsec:2.1.3`
+- :cd: `org.apache.santuario.xmlsec` :left_right_arrow: `org.apache.santuario:xmlsec:2.1.4`
 - :cd: `org.apache.tika.app` :left_right_arrow: `org.apache.tika:tika-app:1.21`
 - :cd: `org.apache.tika.batch` :left_right_arrow: `org.apache.tika:tika-batch:1.21`
 - :cd: `org.apache.tika.core` :left_right_arrow: `org.apache.tika:tika-core:1.21`
@@ -3308,7 +3309,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.4`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.11`
 - :cd: `org.firebirdsql.decimal` :left_right_arrow: `org.firebirdsql:decimal-java:1.0.0`
-- :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.0`
+- :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.1`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta2`
 - :cd: `org.freedesktop.gstreamer` :left_right_arrow: `org.freedesktop.gstreamer:gst1-java-core:1.1.0`
 - :cd: `org.fusesource.hawtjni.runtime` :left_right_arrow: `org.fusesource.hawtjni:hawtjni-runtime:1.17`
@@ -3541,22 +3542,22 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.jtransfo.hibernate` :left_right_arrow: `org.jtransfo:jtransfo-hibernate:2.9`
 - :cd: `org.jtransfo.jodatime` :left_right_arrow: `org.jtransfo:jtransfo-joda-time:2.9`
 - :cd: `org.jtransfo.spring` :left_right_arrow: `org.jtransfo:jtransfo-spring:2.9`
-- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.0`
-- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.0`
-- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.0`
-- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.0`
-- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.0`
-- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.0`
-- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.0`
-- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.0`
+- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.1`
+- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.1`
+- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.1`
+- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.1`
+- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.1`
+- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.1`
+- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.1`
+- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.1`
 - :cd: `org.junit.platform.gradle.plugin` :left_right_arrow: `org.junit.platform:junit-platform-gradle-plugin:1.2.0`
-- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.0`
-- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.0`
-- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.0`
-- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.0`
+- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.1`
+- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.1`
+- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.1`
+- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.1`
 - :cd: `org.junit.platform.surefire.provider` :left_right_arrow: `org.junit.platform:junit-platform-surefire-provider:1.3.2`
-- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.0`
-- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.0`
+- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.1`
+- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.1`
 - :cd: `org.junitpioneer` :left_right_arrow: `org.junit-pioneer:junit-pioneer:0.3.0`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.11`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.1`
