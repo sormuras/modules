@@ -53,6 +53,7 @@
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.0` // `com.hazelcast,spring-data-hazelcast,2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.1` // `com.hazelcast,spring-data-hazelcast,2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2` // `com.hazelcast,spring-data-hazelcast,2.2,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2.1` // `com.hazelcast,spring-data-hazelcast,2.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis:2.0.0.RELEASE` // `com.ifrabbit,spring-data-mybatis,2.0.0.RELEASE,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE` // `com.ifrabbit,spring-data-mybatis,2.0.1.RELEASE,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis-boot-starter:2.0.0.RELEASE` // `com.ifrabbit,spring-data-mybatis-boot-starter,2.0.0.RELEASE,-,-,automatic,-,false,-`
@@ -1854,6 +1855,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.6` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.7` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.7,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.8` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.8,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-alpha03` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-alpha03,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.10.0.Final` // `org.optaplanner,optaplanner-docs,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.11.0.Final` // `org.optaplanner,optaplanner-docs,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.12.0.Final` // `org.optaplanner,optaplanner-docs,7.12.0.Final,-,-,automatic,-,false,-`
