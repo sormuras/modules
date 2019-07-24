@@ -9590,6 +9590,7 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.4` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.4,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.5` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.5,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:14.0.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,14.0.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:14.1.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,14.1.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.14.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.14.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,true,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.5` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.5,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
@@ -9750,6 +9751,7 @@
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:9.1.0` // `org.protelis,protelis.parser,9.1.0,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:9.1.2` // `org.protelis,protelis.parser,9.1.2,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:9.2.0` // `org.protelis,protelis.parser,9.2.0,protelis.parser,-,automatic,-,false,-`
+- :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:9.2.1` // `org.protelis,protelis.parser,9.2.1,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:7.0.0.java7legacy` // `org.protelis,protelis.parser.ide,7.0.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:7.0.2.java7legacy` // `org.protelis,protelis.parser.ide,7.0.2.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:8.0.0.java7legacy` // `org.protelis,protelis.parser.ide,8.0.0.java7legacy,protelis.parser.ide,-,automatic,-,false,-`
@@ -9759,6 +9761,7 @@
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:9.1.0` // `org.protelis,protelis.parser.ide,9.1.0,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:9.1.2` // `org.protelis,protelis.parser.ide,9.1.2,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:9.2.0` // `org.protelis,protelis.parser.ide,9.2.0,protelis.parser.ide,-,automatic,-,false,-`
+- :cd: `protelis.parser.ide` :left_right_arrow: `org.protelis:protelis.parser.ide:9.2.1` // `org.protelis,protelis.parser.ide,9.2.1,protelis.parser.ide,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:7.0.0.java7legacy` // `org.protelis,protelis.parser.tests,7.0.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:7.0.2.java7legacy` // `org.protelis,protelis.parser.tests,7.0.2.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:8.0.0.java7legacy` // `org.protelis,protelis.parser.tests,8.0.0.java7legacy,protelis.parser.tests,-,automatic,-,false,-`
@@ -9768,6 +9771,7 @@
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:9.1.0` // `org.protelis,protelis.parser.tests,9.1.0,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:9.1.2` // `org.protelis,protelis.parser.tests,9.1.2,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:9.2.0` // `org.protelis,protelis.parser.tests,9.2.0,protelis.parser.tests,-,automatic,-,false,-`
+- :cd: `protelis.parser.tests` :left_right_arrow: `org.protelis:protelis.parser.tests:9.2.1` // `org.protelis,protelis.parser.tests,9.2.1,protelis.parser.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:7.0.0.java7legacy` // `org.protelis,protelis.parser.ui,7.0.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:7.0.2.java7legacy` // `org.protelis,protelis.parser.ui,7.0.2.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:8.0.0.java7legacy` // `org.protelis,protelis.parser.ui,8.0.0.java7legacy,protelis.parser.ui,-,automatic,-,false,-`
@@ -9777,6 +9781,7 @@
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:9.1.0` // `org.protelis,protelis.parser.ui,9.1.0,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:9.1.2` // `org.protelis,protelis.parser.ui,9.1.2,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:9.2.0` // `org.protelis,protelis.parser.ui,9.2.0,protelis.parser.ui,-,automatic,-,false,-`
+- :cd: `protelis.parser.ui` :left_right_arrow: `org.protelis:protelis.parser.ui:9.2.1` // `org.protelis,protelis.parser.ui,9.2.1,protelis.parser.ui,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:7.0.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,7.0.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:7.0.2.java7legacy` // `org.protelis,protelis.parser.ui.tests,7.0.2.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:8.0.0.java7legacy` // `org.protelis,protelis.parser.ui.tests,8.0.0.java7legacy,protelis.parser.ui.tests,-,automatic,-,false,-`
@@ -9786,6 +9791,7 @@
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:9.1.0` // `org.protelis,protelis.parser.ui.tests,9.1.0,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:9.1.2` // `org.protelis,protelis.parser.ui.tests,9.1.2,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:9.2.0` // `org.protelis,protelis.parser.ui.tests,9.2.0,protelis.parser.ui.tests,-,automatic,-,false,-`
+- :cd: `protelis.parser.ui.tests` :left_right_arrow: `org.protelis:protelis.parser.ui.tests:9.2.1` // `org.protelis,protelis.parser.ui.tests,9.2.1,protelis.parser.ui.tests,-,automatic,-,false,-`
 - :cd: `purej.cfg` :left_right_arrow: `com.purej:purej-cfg:1.2` // `com.purej,purej-cfg,1.2,purej.cfg,-,automatic,-,false,-`
 - :cd: `purej.jrobin` :left_right_arrow: `com.purej:jrobin:1.7.0` // `com.purej,jrobin,1.7.0,purej.jrobin,-,automatic,-,false,-`
 - :cd: `purej.jrobin` :left_right_arrow: `com.purej:jrobin:1.7.1` // `com.purej,jrobin,1.7.1,purej.jrobin,-,automatic,-,false,-`
