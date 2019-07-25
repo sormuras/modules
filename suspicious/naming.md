@@ -1660,6 +1660,7 @@
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.2` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.2,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.3` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.3,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:0.22` // `com.typesafe.akka,akka-stream-kafka_2.12,0.22,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0-M1` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0-M1,akka.stream.alpakka.kafka,-,automatic,-,false,-`
@@ -1669,7 +1670,9 @@
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.2` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.2,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.3` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.3,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.13,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.13,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0-M1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0-M1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
@@ -1678,6 +1681,7 @@
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.2` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.2,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.3` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.3,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0-M1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0-M1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
@@ -1686,7 +1690,9 @@
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.2` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.2,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.3` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.3,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:0.20` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,0.20,akka.stream.alpakka.kudu,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:1.0-M1` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,1.0-M1,akka.stream.alpakka.kudu,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:1.0-M2` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,1.0-M2,akka.stream.alpakka.kudu,-,automatic,-,false,-`
@@ -5245,6 +5251,12 @@
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m1` // `org.joinfaces,joinfaces-test,4.1.0-m1,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m2` // `org.joinfaces,joinfaces-test,4.1.0-m2,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m3` // `org.joinfaces,joinfaces-test,4.1.0-m3,joinfaces.test,-,automatic,-,false,-`
+- :dvd: `jonix` :left_right_arrow: `com.tectonica:jonix:9.0` // `com.tectonica,jonix,9.0,jonix,9.0,explicit,java.base + java.xml + jonix.common + jonix.onix2 + jonix.onix3 + jonix.xml + slf4j.api,false,-`
+- :dvd: `jonix.common` :left_right_arrow: `com.tectonica:jonix-common:9.0` // `com.tectonica,jonix-common,9.0,jonix.common,9.0,explicit,java.base + java.xml,false,-`
+- :dvd: `jonix.json` :left_right_arrow: `com.tectonica:jonix-json:9.0` // `com.tectonica,jonix-json,9.0,jonix.json,9.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + jackson.annotations + java.base + jonix.common,false,-`
+- :dvd: `jonix.onix2` :left_right_arrow: `com.tectonica:jonix-onix2:9.0` // `com.tectonica,jonix-onix2,9.0,jonix.onix2,9.0,explicit,java.base + java.xml + jonix.common,false,-`
+- :dvd: `jonix.onix3` :left_right_arrow: `com.tectonica:jonix-onix3:9.0` // `com.tectonica,jonix-onix3,9.0,jonix.onix3,9.0,explicit,java.base + java.xml + jonix.common,false,-`
+- :dvd: `jonix.xml` :left_right_arrow: `com.tectonica:jonix-xml:9.0` // `com.tectonica,jonix-xml,9.0,jonix.xml,9.0,explicit,java.base + java.xml,false,-`
 - :cd: `joptsimple` :left_right_arrow: `net.sf.jopt-simple:jopt-simple:6.0-alpha-3` // `net.sf.jopt-simple,jopt-simple,6.0-alpha-3,joptsimple,-,automatic,-,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.7` // `net.sf.jt400,jt400-jdk9,9.7,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.8` // `net.sf.jt400,jt400-jdk9,9.8,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
@@ -9591,6 +9603,7 @@
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:13.0.5` // `ru.sbtqa.tag.pagefactory,page-factory-core,13.0.5,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:14.0.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,14.0.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:14.1.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,14.1.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
+- :dvd: `org.openqa.selenium.core` :left_right_arrow: `ru.sbtqa.tag.pagefactory:page-factory-core:14.2.0` // `ru.sbtqa.tag.pagefactory,page-factory-core,14.2.0,org.openqa.selenium.core,-,explicit,java.base + java.logging,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.14.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.14.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,true,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.0` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.0,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
 - :dvd: `org.openqa.selenium.edge` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:3.141.5` // `org.seleniumhq.selenium,selenium-edge-driver,3.141.5,org.openqa.selenium.edge,-,explicit,org.openqa.selenium.core + com.google.common + java.base + org.openqa.selenium.remote,false,-`
