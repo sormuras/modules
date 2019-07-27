@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4785 Java modules published at Maven Central
 
-## Summary 2019-07-26T22:53:29.919224Z
+## Summary 2019-07-27T22:54:04.439162Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-26T22:53:29.919224Z
-Scanned 26,852 files in 4 seconds.
+Started scan at 2019-07-27T22:54:04.439162Z
+Scanned 26,963 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_26_22_36_01.csv
+    last -> modulescanner-report-2019_07_27_22_44_44.csv
 
-Parsed 1,723,510 lines in total.
-  30,698 -> captions skipped
-  110,283 -> duplicates skipped
-  69,548 -> module related
+Parsed 1,726,767 lines in total.
+  30,805 -> captions skipped
+  110,380 -> duplicates skipped
+  69,565 -> module related
 
 Collected 4,785 unique modules.
   automatic :cd: -> 3,551
@@ -485,7 +485,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.2.21`
 - :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.2.21`
 - :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.2.21`
-- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.1-1`
+- :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.2-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
 - :dvd: `com.github.marschall.jfr.jdbc` :left_right_arrow: `com.github.marschall:jfr-jdbc:0.4.0`
@@ -1483,7 +1483,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `de.ubleipzig.iiif.vocabulary` :left_right_arrow: `de.ubleipzig:iiif.vocabulary:0.1.1`
 - :cd: `de.ubleipzig.image.metadata` :left_right_arrow: `de.ubleipzig:image:0.1.0`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
-- :cd: `dev.tuxjsql` :left_right_arrow: `dev.tuxjsql:tuxjsql:2.0.RC0`
+- :cd: `dev.tuxjsql` :left_right_arrow: `dev.tuxjsql:tuxjsql:2.0.RC1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
 - :cd: `edu.amherst.acdc.connector.broadcast` :left_right_arrow: `edu.amherst.acdc:acrepo-connector-broadcast:1.2.0`
 - :cd: `edu.amherst.acdc.connector.idiomatic` :left_right_arrow: `edu.amherst.acdc:acrepo-connector-idiomatic:1.2.0`
@@ -2058,8 +2058,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.110`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.4.0-RC1`
 - :cd: `net.adamcin.oakpal.webster` :left_right_arrow: `net.adamcin.oakpal:oakpal-webster:1.4.0-RC1`
-- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.15`
-- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.15`
+- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.16`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.16`
 - :cd: `net.corda.blobinspector` :left_right_arrow: `net.corda:corda-blob-inspector:3.2.1847-corda`
 - :cd: `net.corda.bootstrapper` :left_right_arrow: `net.corda:corda-network-bootstrapper:3.2.1847-corda`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda:4.0`
@@ -2677,13 +2677,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.wicket.spring` :left_right_arrow: `org.apache.wicket:wicket-spring:9.0.0-M2`
 - :cd: `org.apache.wicket.util` :left_right_arrow: `org.apache.wicket:wicket-util:9.0.0-M2`
 - :cd: `org.apache.wicket.velocity` :left_right_arrow: `org.apache.wicket:wicket-velocity:9.0.0-M2`
-- :cd: `org.apache.wss4j.bindings` :left_right_arrow: `org.apache.wss4j:wss4j-bindings:2.2.3`
-- :cd: `org.apache.wss4j.common` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-common:2.2.3`
-- :cd: `org.apache.wss4j.dom` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-dom:2.2.3`
-- :cd: `org.apache.wss4j.policy` :left_right_arrow: `org.apache.wss4j:wss4j-policy:2.2.3`
-- :cd: `org.apache.wss4j.policystax` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-policy-stax:2.2.3`
-- :cd: `org.apache.wss4j.stax` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-stax:2.2.3`
-- :cd: `org.apache.wss4j.web` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-web:2.2.3`
+- :cd: `org.apache.wss4j.bindings` :left_right_arrow: `org.apache.wss4j:wss4j-bindings:2.2.4`
+- :cd: `org.apache.wss4j.common` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-common:2.2.4`
+- :cd: `org.apache.wss4j.dom` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-dom:2.2.4`
+- :cd: `org.apache.wss4j.policy` :left_right_arrow: `org.apache.wss4j:wss4j-policy:2.2.4`
+- :cd: `org.apache.wss4j.policystax` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-policy-stax:2.2.4`
+- :cd: `org.apache.wss4j.stax` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-stax:2.2.4`
+- :cd: `org.apache.wss4j.web` :left_right_arrow: `org.apache.wss4j:wss4j-ws-security-web:2.2.4`
 - :cd: `org.apache.xbean.asm6.shaded` :left_right_arrow: `org.apache.xbean:xbean-asm6-shaded:4.10`
 - :cd: `org.apache.xbean.asm6.util` :left_right_arrow: `org.apache.xbean:xbean-asm-util:4.10`
 - :cd: `org.apache.xbean.asm7.shaded` :left_right_arrow: `org.apache.xbean:xbean-asm7-shaded:4.14`
@@ -3279,13 +3279,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.eclipse.vorto.codegen.hono.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.java:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.hono.python` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.hono.python:0.10.0.M7`
 - :cd: `org.eclipse.vorto.codegen.templates.java` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.codegen.templates.java:0.10.0.M7`
-- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.11.0`
-- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.11.0`
+- :cd: `org.eclipse.vorto.core` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.core:0.11.1`
+- :cd: `org.eclipse.vorto.editor` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor:0.11.1`
 - :cd: `org.eclipse.vorto.editor.datatype` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype:0.10.0.M10`
-- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.11.0`
-- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.11.0`
-- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.11.0`
-- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.11.0`
+- :cd: `org.eclipse.vorto.editor.datatype.ui` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.datatype.ui:0.11.1`
+- :cd: `org.eclipse.vorto.editor.functionblock` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.functionblock:0.11.1`
+- :cd: `org.eclipse.vorto.editor.infomodel` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.infomodel:0.11.1`
+- :cd: `org.eclipse.vorto.editor.mapping` :left_right_arrow: `org.eclipse.vorto:org.eclipse.vorto.editor.mapping:0.11.1`
 - :cd: `org.eclipse.xpect` :left_right_arrow: `org.eclipse.xpect:org.eclipse.xpect:0.2.0.v20190619`
 - :cd: `org.eclipse.xtend.lib` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib:2.19.0.M1`
 - :cd: `org.eclipse.xtend.lib.gwt` :left_right_arrow: `org.eclipse.xtend:org.eclipse.xtend.lib.gwt:2.19.0.M1`
