@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4785 Java modules published at Maven Central
+Counted 4789 Java modules published at Maven Central
 
-## Summary 2019-07-27T22:54:04.439162Z
+## Summary 2019-07-28T22:54:11.113173Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-27T22:54:04.439162Z
-Scanned 26,963 files in 4 seconds.
+Started scan at 2019-07-28T22:54:11.113173Z
+Scanned 27,087 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_27_22_44_44.csv
+    last -> modulescanner-report-2019_07_28_22_43_43.csv
 
-Parsed 1,726,767 lines in total.
-  30,805 -> captions skipped
-  110,380 -> duplicates skipped
-  69,565 -> module related
+Parsed 1,729,371 lines in total.
+  30,929 -> captions skipped
+  110,468 -> duplicates skipped
+  69,607 -> module related
 
-Collected 4,785 unique modules.
-  automatic :cd: -> 3,551
-  explicit :dvd: -> 1,234
+Collected 4,789 unique modules.
+  automatic :cd: -> 3,554
+  explicit :dvd: -> 1,235
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6603](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10318](suspicious/naming.md)
-- Modular impostors: [3436](suspicious/impostors.md)
+- Invalid module names: [6604](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10319](suspicious/naming.md)
+- Modular impostors: [3437](suspicious/impostors.md)
 
-## Unique Modules (4785)
+## Unique Modules (4789)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -449,6 +449,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.benmanes.caffeine.guava` :left_right_arrow: `com.github.ben-manes.caffeine:guava:2.7.0`
 - :cd: `com.github.benmanes.caffeine.jcache` :left_right_arrow: `com.github.ben-manes.caffeine:jcache:2.7.0`
 - :cd: `com.github.benmanes.caffeine.simulator` :left_right_arrow: `com.github.ben-manes.caffeine:simulator:2.7.0`
+- :cd: `com.github.brake.smart_card.smartKardDSL` :left_right_arrow: `com.github.brake.smart_card:smartKardDSL:0.0.1`
 - :cd: `com.github.brake.threegpp.telecom_charsets` :left_right_arrow: `com.github.brake.threegpp:telecom-charsets:1.0.1`
 - :cd: `com.github.codestickers` :left_right_arrow: `com.github.codestickers:codestickers:1.0.2`
 - :dvd: `com.github.collinalpert.java2db` :left_right_arrow: `com.github.collinalpert:java2db:2.3.1`
@@ -474,11 +475,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.gv2011.util.beans.imp` :left_right_arrow: `com.github.gv2011:util-beans:0.4.0`
 - :cd: `com.github.gv2011.util.gcol` :left_right_arrow: `com.github.gv2011:gcol:0.4.0`
 - :cd: `com.github.gv2011.util.tika` :left_right_arrow: `com.github.gv2011:filetypes-tika:0.4.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.8`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.8`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.8`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.8`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.8`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.9`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.9`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.9`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.9`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.9`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -510,10 +511,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.nruzic.extensions.eclipse.model.ad` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.ad:1.1.0`
 - :cd: `com.github.nruzic.extensions.eclipse.model.profile.prototype` :left_right_arrow: `com.github.nruzic.extensions.eclipse.model:com.github.nruzic.extensions.eclipse.model.profile.prototype:1.1.0`
 - :cd: `com.github.nullterminated.trylambda` :left_right_arrow: `com.github.nullterminated:trylambda:1.1`
-- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.8`
-- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.8`
-- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.8`
-- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.8`
+- :cd: `com.github.ocraft.s2client.api` :left_right_arrow: `com.github.ocraft:ocraft-s2client-api:0.3.9`
+- :cd: `com.github.ocraft.s2client.benchmark` :left_right_arrow: `com.github.ocraft:ocraft-s2client-benchmark:0.3.9`
+- :cd: `com.github.ocraft.s2client.bot` :left_right_arrow: `com.github.ocraft:ocraft-s2client-bot:0.3.9`
+- :cd: `com.github.ocraft.s2client.protocol` :left_right_arrow: `com.github.ocraft:ocraft-s2client-protocol:0.3.9`
 - :cd: `com.github.openjson` :left_right_arrow: `com.github.openjson:openjson:1.0.11`
 - :cd: `com.github.panga.beans` :left_right_arrow: `com.github.panga:java-beans-lite:1.0.2`
 - :cd: `com.github.pukkaone.grapid.compiler` :left_right_arrow: `com.github.pukkaone:grapid-compiler:0.3.0`
@@ -1568,23 +1569,26 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.codecastle.scriptorium.core` :left_right_arrow: `io.codecastle.scriptorium:scriptorium-core:1.0.1`
 - :cd: `io.codecastle.scriptorium.json` :left_right_arrow: `io.codecastle.scriptorium:scriptorium-json:1.0.1`
 - :cd: `io.cucumber.c21e` :left_right_arrow: `io.cucumber:c21e:1.2.1`
+- :cd: `io.cucumber.cdi2` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.7.1`
+- :cd: `io.cucumber.core` :left_right_arrow: `io.cucumber:cucumber-core:4.7.1`
 - :cd: `io.cucumber.cucumberexpressions` :left_right_arrow: `io.cucumber:cucumber-expressions:7.0.2`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:messages:1.1.2`
 - :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
 - :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
-- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.7.0`
-- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.7.0`
-- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.7.0`
+- :cd: `io.cucumber.guice` :left_right_arrow: `io.cucumber:cucumber-guice:4.7.1`
+- :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.7.1`
+- :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.7.1`
+- :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.7.1`
 - :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.1`
-- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.7.0`
-- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.7.0`
-- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.7.0`
+- :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.7.1`
+- :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.7.1`
+- :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.7.1`
 - :cd: `io.cucumber.pro` :left_right_arrow: `io.cucumber:pro-plugin:3.0.2`
-- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.7.0`
+- :cd: `io.cucumber.spring` :left_right_arrow: `io.cucumber:cucumber-spring:4.7.1`
 - :cd: `io.cucumber.tag.expressions` :left_right_arrow: `io.cucumber:tag-expressions:2.0.2`
-- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.7.0`
-- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.7.0`
+- :cd: `io.cucumber.testng` :left_right_arrow: `io.cucumber:cucumber-testng:4.7.1`
+- :cd: `io.cucumber.weld` :left_right_arrow: `io.cucumber:cucumber-weld:4.7.1`
 - :cd: `io.dinject` :left_right_arrow: `io.dinject:dinject:1.11`
 - :cd: `io.dinject.generator` :left_right_arrow: `io.dinject:dinject-generator:1.11`
 - :cd: `io.dropwizard.metrics5` :left_right_arrow: `io.dropwizard.metrics5:metrics-core:5.0.0`
@@ -1794,10 +1798,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.hschwentner.dddbits` :left_right_arrow: `io.hschwentner.dddbits:dddbits:0.0.1`
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.1.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
-- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.2.0`
+- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.3.0`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.0`
 - :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:5.0.0`
-- :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.5.1`
+- :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.5.2`
 - :cd: `io.jenetics.prngine` :left_right_arrow: `io.jenetics:prngine:1.0.2`
 - :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:5.0.0`
 - :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:5.0.0`
@@ -2483,15 +2487,15 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.geode.cq` :left_right_arrow: `org.apache.geode:geode-cq:1.9.0`
 - :cd: `org.apache.geronimo.microprofile.extensions.config.docker` :left_right_arrow: `org.apache.geronimo:docker-configsource:1.0.2`
 - :cd: `org.apache.geronimo.microprofile.extensions.config.secured` :left_right_arrow: `org.apache.geronimo:secured-string-converter:1.0.2`
-- :cd: `org.apache.geronimo.microprofile.health` :left_right_arrow: `org.apache.geronimo:geronimo-health:1.0.1`
-- :cd: `org.apache.geronimo.microprofile.health.common` :left_right_arrow: `org.apache.geronimo:geronimo-health-common:1.0.1`
-- :cd: `org.apache.geronimo.microprofile.jwtauth` :left_right_arrow: `org.apache.geronimo:geronimo-jwt-auth:1.0.2`
+- :cd: `org.apache.geronimo.microprofile.health` :left_right_arrow: `org.apache.geronimo:geronimo-health:1.0.2`
+- :cd: `org.apache.geronimo.microprofile.health.common` :left_right_arrow: `org.apache.geronimo:geronimo-health-common:1.0.2`
+- :cd: `org.apache.geronimo.microprofile.jwtauth` :left_right_arrow: `org.apache.geronimo:geronimo-jwt-auth:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics` :left_right_arrow: `org.apache.geronimo:geronimo-metrics:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.common` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-common:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.extension.common` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-extension-common:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.sigar` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-sigar:1.0.3`
 - :cd: `org.apache.geronimo.microprofile.metrics.tomcat` :left_right_arrow: `org.apache.geronimo:geronimo-metrics-tomcat:1.0.3`
-- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.9`
+- :cd: `org.apache.geronimo.microprofile.openapi` :left_right_arrow: `org.apache.geronimo:geronimo-openapi-impl:1.0.10`
 - :cd: `org.apache.geronimo.microprofile.reporter` :left_right_arrow: `org.apache.geronimo:geronimo-microprofile-reporter:1.0.2`
 - :cd: `org.apache.geronimo.opentracing` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing:1.0.2`
 - :cd: `org.apache.geronimo.opentracing.common` :left_right_arrow: `org.apache.geronimo:geronimo-opentracing-common:1.0.2`
@@ -2702,7 +2706,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.aspectj.runtime` :left_right_arrow: `org.aspectj:aspectjrt:1.9.4`
 - :cd: `org.aspectj.tools` :left_right_arrow: `org.aspectj:aspectjtools:1.9.4`
 - :cd: `org.aspectj.weaver` :left_right_arrow: `org.aspectj:aspectjweaver:1.9.4`
-- :cd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.12.2`
+- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.0`
 - :cd: `org.avaje.metrics.collectd` :left_right_arrow: `org.avaje.metric:metric-collectd:7.4.1`
 - :cd: `org.axonframework.amqp` :left_right_arrow: `org.axonframework:axon-amqp:4.0-M2`
 - :cd: `org.axonframework.boot` :left_right_arrow: `org.axonframework:axon-spring-boot-autoconfigure:4.0-M2`
@@ -3716,7 +3720,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kordamp.jsilhouette.javafx` :left_right_arrow: `org.kordamp.jsilhouette:jsilhouette-javafx:0.3.0`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-core:0.3.2`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.0.0`
+- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.0.1`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.0.0`
 - :cd: `org.libj.exec` :left_right_arrow: `org.libj:exec:0.8.10`
 - :cd: `org.libj.io` :left_right_arrow: `org.libj:io:0.7.6`
@@ -4209,8 +4213,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.spockframework.unitils` :left_right_arrow: `org.spockframework:spock-unitils:1.3-groovy-2.5`
 - :cd: `org.starchartlabs.alloy.core` :left_right_arrow: `org.starchartlabs.alloy:alloy-core:0.4.1`
 - :cd: `org.starchartlabs.calamari.core` :left_right_arrow: `org.starchartlabs.calamari:calamari-core:0.3.3`
-- :cd: `org.starchartlabs.machete.machete.sns` :left_right_arrow: `org.starchartlabs.machete:machete-sns:0.2.0`
-- :cd: `org.starchartlabs.machete.machete.ssm` :left_right_arrow: `org.starchartlabs.machete:machete-ssm:0.2.0`
+- :cd: `org.starchartlabs.machete.machete.sns` :left_right_arrow: `org.starchartlabs.machete:machete-sns:0.2.1`
+- :cd: `org.starchartlabs.machete.machete.ssm` :left_right_arrow: `org.starchartlabs.machete:machete-ssm:0.2.1`
 - :cd: `org.starchartlabs.majortom.event.model` :left_right_arrow: `org.starchartlabs.majortom:event-model:0.2.0`
 - :cd: `org.talend.sdk.component.api` :left_right_arrow: `org.talend.sdk.component:component-api:1.1.11`
 - :cd: `org.talend.sdk.component.runtime.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam:1.1.11`
@@ -4353,13 +4357,13 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.tukaani.xz` :left_right_arrow: `org.tukaani:xz:1.8`
 - :cd: `org.twinnation.superassert` :left_right_arrow: `org.twinnation:super-assert:1.0.2`
 - :cd: `org.twitter4j.core` :left_right_arrow: `org.twitter4j:twitter4j-core:4.0.7`
-- :cd: `org.typemeta.funcj.codec` :left_right_arrow: `org.typemeta:funcj-codec-core:0.6.14`
-- :cd: `org.typemeta.funcj.codec.json` :left_right_arrow: `org.typemeta:funcj-codec-json:0.6.14`
-- :cd: `org.typemeta.funcj.codec.mpack` :left_right_arrow: `org.typemeta:funcj-codec-mpack:0.6.14`
-- :cd: `org.typemeta.funcj.codec.xml` :left_right_arrow: `org.typemeta:funcj-codec-xml:0.6.14`
-- :cd: `org.typemeta.funcj.core` :left_right_arrow: `org.typemeta:funcj-core:0.6.14`
-- :cd: `org.typemeta.funcj.json` :left_right_arrow: `org.typemeta:funcj-json:0.6.14`
-- :cd: `org.typemeta.funcj.parser` :left_right_arrow: `org.typemeta:funcj-parser:0.6.14`
+- :cd: `org.typemeta.funcj.codec` :left_right_arrow: `org.typemeta:funcj-codec-core:0.6.15`
+- :cd: `org.typemeta.funcj.codec.json` :left_right_arrow: `org.typemeta:funcj-codec-json:0.6.15`
+- :cd: `org.typemeta.funcj.codec.mpack` :left_right_arrow: `org.typemeta:funcj-codec-mpack:0.6.15`
+- :cd: `org.typemeta.funcj.codec.xml` :left_right_arrow: `org.typemeta:funcj-codec-xml:0.6.15`
+- :cd: `org.typemeta.funcj.core` :left_right_arrow: `org.typemeta:funcj-core:0.6.15`
+- :cd: `org.typemeta.funcj.json` :left_right_arrow: `org.typemeta:funcj-json:0.6.15`
+- :cd: `org.typemeta.funcj.parser` :left_right_arrow: `org.typemeta:funcj-parser:0.6.15`
 - :dvd: `org.update4j` :left_right_arrow: `org.update4j:update4j:1.4.3`
 - :cd: `org.vx68k.bitbucket.api.client` :left_right_arrow: `org.vx68k.bitbucket:bitbucket-api-client:5.0-alpha.7`
 - :cd: `org.vx68k.bitbucket.stub` :left_right_arrow: `org.vx68k.bitbucket:bitbucket-stubs:5.0-alpha.7`

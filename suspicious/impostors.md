@@ -3216,6 +3216,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.1` // `com.github.collinalpert,lambda2sql,2.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.2` // `com.github.collinalpert,lambda2sql,2.1.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.3` // `com.github.collinalpert,lambda2sql,2.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.1.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.21.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.22.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.23.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.23.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
