@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4808 Java modules published at Maven Central
+Counted 4809 Java modules published at Maven Central
 
-## Summary 2019-07-30T22:55:12.155811Z
+## Summary 2019-07-31T22:55:44.098077Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-30T22:55:12.155811Z
-Scanned 27,327 files in 3 seconds.
+Started scan at 2019-07-31T22:55:44.098077Z
+Scanned 27,443 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_30_22_45_20.csv
+    last -> modulescanner-report-2019_07_31_22_42_26.csv
 
-Parsed 1,741,488 lines in total.
-  31,169 -> captions skipped
-  111,414 -> duplicates skipped
-  70,236 -> module related
+Parsed 1,748,213 lines in total.
+  31,285 -> captions skipped
+  111,576 -> duplicates skipped
+  70,295 -> module related
 
-Collected 4,808 unique modules.
-  automatic :cd: -> 3,564
+Collected 4,809 unique modules.
+  automatic :cd: -> 3,565
   explicit :dvd: -> 1,244
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6610](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10328](suspicious/naming.md)
-- Modular impostors: [3455](suspicious/impostors.md)
+- Invalid module names: [6612](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10354](suspicious/naming.md)
+- Modular impostors: [3459](suspicious/impostors.md)
 
-## Unique Modules (4808)
+## Unique Modules (4809)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -354,7 +354,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.digitalascent.logger` :left_right_arrow: `com.digitalascent:digitalascent-fluent-logger:1.0.3`
 - :cd: `com.digitalascent.servlet` :left_right_arrow: `com.digitalascent:digitalascent-servlet:1.0.2`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.3.2`
-- :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.3.1`
+- :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.3.2`
 - :cd: `com.dongjinlee.beanpiece` :left_right_arrow: `com.dongjinlee:beanpiece:0.2`
 - :cd: `com.emarsys.rdb.connector.bigquery` :left_right_arrow: `com.emarsys:rdb-connector-bigquery_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.common` :left_right_arrow: `com.emarsys:rdb-connector-common_2.12:4e6e2e40`
@@ -578,8 +578,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
-- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.6`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.2`
+- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.8`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.3`
 - :cd: `com.google.api.apicommon` :left_right_arrow: `com.google.api:api-common:1.8.1`
 - :cd: `com.google.cloud.tools.jib` :left_right_arrow: `com.google.cloud.tools:jib-core:0.10.0`
 - :cd: `com.google.common` :left_right_arrow: `com.google.guava:guava:28.0-jre`
@@ -1643,7 +1643,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.earcam.utilitarian.site.search.offline` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.search.offline:1.2.1`
 - :cd: `io.earcam.utilitarian.site.sitemap` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.sitemap:1.2.1`
 - :cd: `io.earcam.utilitarian.web.jaxrs` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.web.jaxrs:1.2.1`
-- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.41.4`
+- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.42.1`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.11`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.19.1`
@@ -2186,25 +2186,25 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.kyori.version` :left_right_arrow: `net.kyori:version:1.0.0`
 - :cd: `net.kyori.violet` :left_right_arrow: `net.kyori:violet:1.1.0`
 - :cd: `net.kyori.xml` :left_right_arrow: `net.kyori:xml:1.0.0`
-- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:2.2.1`
-- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:2.2.1`
-- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:2.2.1`
-- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:2.2.1`
-- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:2.2.1`
-- :cd: `net.morimekta.providence.graphql` :left_right_arrow: `net.morimekta.providence:providence-graphql:2.2.1`
-- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:2.2.1`
-- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:2.2.1`
-- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:2.2.1`
-- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:2.2.1`
-- :cd: `net.morimekta.providence.logging` :left_right_arrow: `net.morimekta.providence:providence-logging:2.2.1`
-- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:2.2.1`
-- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:2.2.1`
-- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:2.2.1`
-- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:2.2.1`
-- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:2.2.1`
-- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:2.2.1`
-- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:2.2.1`
-- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:2.2.1`
+- :cd: `net.morimekta.providence` :left_right_arrow: `net.morimekta.providence:providence-core:2.3.0`
+- :cd: `net.morimekta.providence.client` :left_right_arrow: `net.morimekta.providence:providence-core-client:2.3.0`
+- :cd: `net.morimekta.providence.config` :left_right_arrow: `net.morimekta.providence:providence-config:2.3.0`
+- :cd: `net.morimekta.providence.generator` :left_right_arrow: `net.morimekta.providence:providence-generator:2.3.0`
+- :cd: `net.morimekta.providence.generator.java` :left_right_arrow: `net.morimekta.providence:providence-generator-java:2.3.0`
+- :cd: `net.morimekta.providence.graphql` :left_right_arrow: `net.morimekta.providence:providence-graphql:2.3.0`
+- :cd: `net.morimekta.providence.jackson` :left_right_arrow: `net.morimekta.providence:providence-core-jackson:2.3.0`
+- :cd: `net.morimekta.providence.jax.rs` :left_right_arrow: `net.morimekta.providence:providence-jax-rs:2.3.0`
+- :cd: `net.morimekta.providence.jdbi.v2` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v2:2.3.0`
+- :cd: `net.morimekta.providence.jdbi.v3` :left_right_arrow: `net.morimekta.providence:providence-jdbi-v3:2.3.0`
+- :cd: `net.morimekta.providence.logging` :left_right_arrow: `net.morimekta.providence:providence-logging:2.3.0`
+- :cd: `net.morimekta.providence.maven.plugin` :left_right_arrow: `net.morimekta.providence:providence-maven-plugin:2.3.0`
+- :cd: `net.morimekta.providence.reflect` :left_right_arrow: `net.morimekta.providence:providence-reflect:2.3.0`
+- :cd: `net.morimekta.providence.server` :left_right_arrow: `net.morimekta.providence:providence-core-server:2.3.0`
+- :cd: `net.morimekta.providence.storage` :left_right_arrow: `net.morimekta.providence:providence-storage:2.3.0`
+- :cd: `net.morimekta.providence.storage.hazelcast` :left_right_arrow: `net.morimekta.providence:providence-storage-hazelcast:2.3.0`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing:2.3.0`
+- :cd: `net.morimekta.providence.thrift.compat` :left_right_arrow: `net.morimekta.providence:providence-thrift-compat:2.3.0`
+- :cd: `net.morimekta.providence.thrift.protocols` :left_right_arrow: `net.morimekta.providence:providence-thrift-protocols:2.3.0`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk8-osgi:1.4.1`
 - :cd: `net.objectlab.kit.datecalc.common` :left_right_arrow: `net.objectlab.kit:datecalc-common:1.4.2`
 - :cd: `net.objectlab.kit.datecalc.jdk` :left_right_arrow: `net.objectlab.kit:datecalc-jdk:1.4.2`
@@ -2320,8 +2320,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.aesh.terminal.ssh` :left_right_arrow: `org.aesh:terminal-ssh:2.0`
 - :cd: `org.aesh.terminal.telnet` :left_right_arrow: `org.aesh:terminal-telnet:2.0`
 - :cd: `org.agmip.ace.core` :left_right_arrow: `org.agmip.ace:ace-core:2.1.4`
-- :cd: `org.agrona.agent` :left_right_arrow: `org.agrona:agrona-agent:1.0.5`
-- :cd: `org.agrona.core` :left_right_arrow: `org.agrona:agrona:1.0.5`
+- :cd: `org.agrona.agent` :left_right_arrow: `org.agrona:agrona-agent:1.0.6`
+- :cd: `org.agrona.core` :left_right_arrow: `org.agrona:agrona:1.0.6`
 - :cd: `org.antlr.antlr4.runtime` :left_right_arrow: `org.antlr:antlr4-runtime:4.7.2`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.apache.bcel:bcel:6.3.1`
 - :cd: `org.apache.commons.collections4` :left_right_arrow: `org.apache.commons:commons-collections4:4.4`
@@ -3743,6 +3743,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.libj.sql` :left_right_arrow: `org.libj:sql:0.4.6`
 - :cd: `org.libj.test` :left_right_arrow: `org.libj:test:0.7.0`
 - :cd: `org.libj.util` :left_right_arrow: `org.libj:util:0.8.0`
+- :cd: `org.librarysimplified.readium.shared_js` :left_right_arrow: `org.librarysimplified:org.librarysimplified.readium.shared_js:0.30.0`
 - :cd: `org.linguafranca.pwdb.database` :left_right_arrow: `org.linguafranca.pwdb:database:2.1.4`
 - :cd: `org.linguafranca.pwdb.kdb` :left_right_arrow: `org.linguafranca.pwdb:KeePassJava2-kdb:2.1.4`
 - :cd: `org.linguafranca.pwdb.kdbx` :left_right_arrow: `org.linguafranca.pwdb:KeePassJava2-kdbx:2.1.4`
