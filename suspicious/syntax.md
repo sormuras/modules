@@ -166,6 +166,10 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.3.1` // `io.cucumber,cucumber-scala_2.11,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.4.0` // `io.cucumber,cucumber-scala_2.11,4.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.5.3` // `io.cucumber,cucumber-scala_2.11,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.5.4` // `io.cucumber,cucumber-scala_2.11,4.5.4,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.6.0` // `io.cucumber,cucumber-scala_2.11,4.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.7.0` // `io.cucumber,cucumber-scala_2.11,4.7.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.11:4.7.1` // `io.cucumber,cucumber-scala_2.11,4.7.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.1.0` // `io.cucumber,cucumber-scala_2.12,4.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.0` // `io.cucumber,cucumber-scala_2.12,4.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.2.6` // `io.cucumber,cucumber-scala_2.12,4.2.6,-,-,automatic,-,false,-`
@@ -173,7 +177,15 @@
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.3.1` // `io.cucumber,cucumber-scala_2.12,4.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.4.0` // `io.cucumber,cucumber-scala_2.12,4.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.5.3` // `io.cucumber,cucumber-scala_2.12,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.5.4` // `io.cucumber,cucumber-scala_2.12,4.5.4,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.6.0` // `io.cucumber,cucumber-scala_2.12,4.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.7.0` // `io.cucumber,cucumber-scala_2.12,4.7.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.12:4.7.1` // `io.cucumber,cucumber-scala_2.12,4.7.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.5.3` // `io.cucumber,cucumber-scala_2.13,4.5.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.5.4` // `io.cucumber,cucumber-scala_2.13,4.5.4,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.6.0` // `io.cucumber,cucumber-scala_2.13,4.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.7.0` // `io.cucumber,cucumber-scala_2.13,4.7.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.cucumber:cucumber-scala_2.13:4.7.1` // `io.cucumber,cucumber-scala_2.13,4.7.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.1` // `io.cucumber,cucumber-spring,4.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.2` // `io.cucumber,cucumber-spring,4.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.cucumber:cucumber-spring:4.2.3` // `io.cucumber,cucumber-spring,4.2.3,-,-,automatic,-,false,-`

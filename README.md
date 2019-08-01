@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4809 Java modules published at Maven Central
+Counted 4810 Java modules published at Maven Central
 
-## Summary 2019-07-31T22:55:44.098077Z
+## Summary 2019-08-01T22:55:52.289359Z
 
 ```
 ## Summary
 
-Started scan at 2019-07-31T22:55:44.098077Z
-Scanned 27,443 files in 4 seconds.
+Started scan at 2019-08-01T22:55:52.289359Z
+Scanned 27,556 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_07_31_22_42_26.csv
+    last -> modulescanner-report-2019_08_01_22_42_09.csv
 
-Parsed 1,748,213 lines in total.
-  31,285 -> captions skipped
-  111,576 -> duplicates skipped
-  70,295 -> module related
+Parsed 1,754,395 lines in total.
+  31,395 -> captions skipped
+  111,864 -> duplicates skipped
+  70,453 -> module related
 
-Collected 4,809 unique modules.
-  automatic :cd: -> 3,565
+Collected 4,810 unique modules.
+  automatic :cd: -> 3,566
   explicit :dvd: -> 1,244
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6612](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10354](suspicious/naming.md)
-- Modular impostors: [3459](suspicious/impostors.md)
+- Invalid module names: [6624](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10357](suspicious/naming.md)
+- Modular impostors: [3483](suspicious/impostors.md)
 
-## Unique Modules (4809)
+## Unique Modules (4810)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -325,7 +325,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.5`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
-- :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.6`
+- :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.7`
 - :cd: `com.codemonkeylab.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.1.0`
 - :cd: `com.coditory.sherlock.api.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.13`
 - :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.13`
@@ -483,9 +483,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
-- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.3.0`
-- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.3.0`
-- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.3.0`
+- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.3.1`
+- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.3.1`
+- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.3.1`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.2-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.5.3`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
@@ -1061,7 +1061,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.7`
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.3`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
-- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.3.1.jre12-preview`
+- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.4.0.jre12`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.28`
@@ -1158,17 +1158,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.opengamma.elsql` :left_right_arrow: `com.opengamma:elsql:1.3`
 - :cd: `com.opengamma.sdk.common` :left_right_arrow: `com.opengamma.sdk:sdk-common:3.5.0`
 - :cd: `com.opengamma.sdk.margin` :left_right_arrow: `com.opengamma.sdk:sdk-margin:3.5.0`
-- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.5.0`
-- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.5.0`
-- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.5.0`
-- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.5.0`
-- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.5.0`
-- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.5.0`
-- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.5.0`
-- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.5.0`
-- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.5.0`
-- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.5.0`
-- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.5.0`
+- :cd: `com.opengamma.strata.basics` :left_right_arrow: `com.opengamma.strata:strata-basics:2.6.1`
+- :cd: `com.opengamma.strata.calc` :left_right_arrow: `com.opengamma.strata:strata-calc:2.6.1`
+- :cd: `com.opengamma.strata.collect` :left_right_arrow: `com.opengamma.strata:strata-collect:2.6.1`
+- :cd: `com.opengamma.strata.data` :left_right_arrow: `com.opengamma.strata:strata-data:2.6.1`
+- :cd: `com.opengamma.strata.loader` :left_right_arrow: `com.opengamma.strata:strata-loader:2.6.1`
+- :cd: `com.opengamma.strata.market` :left_right_arrow: `com.opengamma.strata:strata-market:2.6.1`
+- :cd: `com.opengamma.strata.math` :left_right_arrow: `com.opengamma.strata:strata-math:2.6.1`
+- :cd: `com.opengamma.strata.measure` :left_right_arrow: `com.opengamma.strata:strata-measure:2.6.1`
+- :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.6.1`
+- :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.6.1`
+- :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.6.1`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.11`
@@ -1484,7 +1484,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `de.ubleipzig.iiif.vocabulary` :left_right_arrow: `de.ubleipzig:iiif.vocabulary:0.1.1`
 - :cd: `de.ubleipzig.image.metadata` :left_right_arrow: `de.ubleipzig:image:0.1.0`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
-- :cd: `dev.tuxjsql` :left_right_arrow: `dev.tuxjsql:tuxjsql:2.0.RC1`
+- :cd: `dev.tuxjsql` :left_right_arrow: `dev.tuxjsql:tuxjsql:2.0`
+- :cd: `dev.tuxjsql.hikaricp.cp` :left_right_arrow: `dev.tuxjsql:hikaricp-cp:2.0`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
 - :cd: `edu.amherst.acdc.connector.broadcast` :left_right_arrow: `edu.amherst.acdc:acrepo-connector-broadcast:1.2.0`
 - :cd: `edu.amherst.acdc.connector.idiomatic` :left_right_arrow: `edu.amherst.acdc:acrepo-connector-idiomatic:1.2.0`
@@ -1580,7 +1581,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.7.1`
 - :cd: `io.cucumber.java8` :left_right_arrow: `io.cucumber:cucumber-java8:4.7.1`
 - :cd: `io.cucumber.junit` :left_right_arrow: `io.cucumber:cucumber-junit:4.7.1`
-- :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.1`
+- :cd: `io.cucumber.messages` :left_right_arrow: `io.cucumber:messages:3.0.2`
 - :cd: `io.cucumber.needle` :left_right_arrow: `io.cucumber:cucumber-needle:4.7.1`
 - :cd: `io.cucumber.openejb` :left_right_arrow: `io.cucumber:cucumber-openejb:4.7.1`
 - :cd: `io.cucumber.picocontainer` :left_right_arrow: `io.cucumber:cucumber-picocontainer:4.7.1`
@@ -1842,22 +1843,22 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.configuration.kafka_streams` :left_right_arrow: `io.micronaut.configuration:kafka-streams:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.liquibase` :left_right_arrow: `io.micronaut.configuration:micronaut-liquibase:1.0.1`
 - :cd: `io.micronaut.configuration.micrometer_core` :left_right_arrow: `io.micronaut.configuration:micrometer-core:1.0.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_appoptics` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-appoptics:1.2.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_appoptics` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-appoptics:1.2.0`
 - :cd: `io.micronaut.configuration.micrometer_registry_atlas` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-atlas:1.0.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_azure_monitor` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-azure-monitor:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_datadog` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-datadog:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_dynatrace` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-dynatrace:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_elastic` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-elastic:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_ganglia` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-ganglia:1.2.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_azure_monitor` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-azure-monitor:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_cloudwatch` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-cloudwatch:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_datadog` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-datadog:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_dynatrace` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-dynatrace:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_elastic` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-elastic:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_ganglia` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-ganglia:1.2.0`
 - :cd: `io.micronaut.configuration.micrometer_registry_graphite` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-graphite:1.0.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_humio` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-humio:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_influx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-influx:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-jmx:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_kairos` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-kairos:1.2.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_new_relic` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-new-relic:1.2.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_humio` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-humio:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_influx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-influx:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_jmx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-jmx:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_kairos` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-kairos:1.2.0`
+- :cd: `io.micronaut.configuration.micrometer_registry_new_relic` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-new-relic:1.2.0`
 - :cd: `io.micronaut.configuration.micrometer_registry_prometheus` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-prometheus:1.0.0.RC2`
-- :cd: `io.micronaut.configuration.micrometer_registry_signalfx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-signalfx:1.2.0.RC2`
+- :cd: `io.micronaut.configuration.micrometer_registry_signalfx` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-signalfx:1.2.0`
 - :cd: `io.micronaut.configuration.micrometer_registry_stackdriver` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-stackdriver:1.2.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_statsd` :left_right_arrow: `io.micronaut.configuration:micrometer-registry-statsd:1.0.0.RC2`
 - :cd: `io.micronaut.configuration.micrometer_registry_wavefront` :left_right_arrow: `io.micronaut.configuration:micronaut-micrometer-registry-wavefront:1.2.0.RC2`
@@ -1927,11 +1928,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:tracing:1.0.0.RC2`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:validation:1.0.0.RC2`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:views:1.0.0.RC2`
-- :cd: `io.micronaut.views_core` :left_right_arrow: `io.micronaut:micronaut-views-core:1.2.0.RC1`
-- :cd: `io.micronaut.views_freemarker` :left_right_arrow: `io.micronaut:micronaut-views-freemarker:1.2.0.RC1`
-- :cd: `io.micronaut.views_handlebars` :left_right_arrow: `io.micronaut:micronaut-views-handlebars:1.2.0.RC1`
-- :cd: `io.micronaut.views_thymeleaf` :left_right_arrow: `io.micronaut:micronaut-views-thymeleaf:1.2.0.RC1`
-- :cd: `io.micronaut.views_velocity` :left_right_arrow: `io.micronaut:micronaut-views-velocity:1.2.0.RC1`
+- :cd: `io.micronaut.views_core` :left_right_arrow: `io.micronaut:micronaut-views-core:1.2.0`
+- :cd: `io.micronaut.views_freemarker` :left_right_arrow: `io.micronaut:micronaut-views-freemarker:1.2.0`
+- :cd: `io.micronaut.views_handlebars` :left_right_arrow: `io.micronaut:micronaut-views-handlebars:1.2.0`
+- :cd: `io.micronaut.views_thymeleaf` :left_right_arrow: `io.micronaut:micronaut-views-thymeleaf:1.2.0`
+- :cd: `io.micronaut.views_velocity` :left_right_arrow: `io.micronaut:micronaut-views-velocity:1.2.0`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:websocket:1.0.0.RC2`
 - :cd: `io.netty.codec.redis` :left_right_arrow: `io.netty:netty-codec-redis:4.1.38.Final`
 - :cd: `io.netty.codec.smtp` :left_right_arrow: `io.netty:netty-codec-smtp:4.1.38.Final`
@@ -1946,8 +1947,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.norberg.rut` :left_right_arrow: `io.norberg:rut:1.0.1`
 - :cd: `io.norberg.rut.benchmark` :left_right_arrow: `io.norberg:rut-benchmark:1.0.1`
 - :cd: `io.opentracing.api` :left_right_arrow: `io.opentracing:opentracing-api:0.33.0`
-- :cd: `io.opentracing.contrib.jms1` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-1:0.1.4`
-- :cd: `io.opentracing.contrib.jms2` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-2:0.1.4`
+- :cd: `io.opentracing.contrib.jms1` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-1:0.1.5`
+- :cd: `io.opentracing.contrib.jms2` :left_right_arrow: `io.opentracing.contrib:opentracing-jms-2:0.1.5`
 - :cd: `io.opentracing.contrib.tracerresolver` :left_right_arrow: `io.opentracing.contrib:opentracing-tracerresolver:0.1.8`
 - :cd: `io.opentracing.mock` :left_right_arrow: `io.opentracing:opentracing-mock:0.33.0`
 - :cd: `io.opentracing.noop` :left_right_arrow: `io.opentracing:opentracing-noop:0.33.0`
@@ -2061,10 +2062,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.150`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.150`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.150`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.150`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.151`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.151`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.151`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.151`
 - :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.110`
 - :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.110`
 - :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.110`
@@ -2608,16 +2609,16 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.opennlp.tools` :left_right_arrow: `org.apache.opennlp:opennlp-tools:1.9.1`
 - :cd: `org.apache.santuario.xmlsec` :left_right_arrow: `org.apache.santuario:xmlsec:2.1.4`
 - :cd: `org.apache.tika.app` :left_right_arrow: `org.apache.tika:tika-app:1.21`
-- :cd: `org.apache.tika.batch` :left_right_arrow: `org.apache.tika:tika-batch:1.21`
-- :cd: `org.apache.tika.core` :left_right_arrow: `org.apache.tika:tika-core:1.21`
-- :cd: `org.apache.tika.dl` :left_right_arrow: `org.apache.tika:tika-dl:1.21`
-- :cd: `org.apache.tika.eval` :left_right_arrow: `org.apache.tika:tika-eval:1.21`
-- :cd: `org.apache.tika.langdetect` :left_right_arrow: `org.apache.tika:tika-langdetect:1.21`
-- :cd: `org.apache.tika.parsers` :left_right_arrow: `org.apache.tika:tika-parsers:1.21`
-- :cd: `org.apache.tika.serialization` :left_right_arrow: `org.apache.tika:tika-serialization:1.21`
+- :cd: `org.apache.tika.batch` :left_right_arrow: `org.apache.tika:tika-batch:1.22`
+- :cd: `org.apache.tika.core` :left_right_arrow: `org.apache.tika:tika-core:1.22`
+- :cd: `org.apache.tika.dl` :left_right_arrow: `org.apache.tika:tika-dl:1.22`
+- :cd: `org.apache.tika.eval` :left_right_arrow: `org.apache.tika:tika-eval:1.22`
+- :cd: `org.apache.tika.langdetect` :left_right_arrow: `org.apache.tika:tika-langdetect:1.22`
+- :cd: `org.apache.tika.parsers` :left_right_arrow: `org.apache.tika:tika-parsers:1.22`
+- :cd: `org.apache.tika.serialization` :left_right_arrow: `org.apache.tika:tika-serialization:1.22`
 - :cd: `org.apache.tika.server` :left_right_arrow: `org.apache.tika:tika-server:1.21`
-- :cd: `org.apache.tika.translate` :left_right_arrow: `org.apache.tika:tika-translate:1.21`
-- :cd: `org.apache.tika.xmp` :left_right_arrow: `org.apache.tika:tika-xmp:1.21`
+- :cd: `org.apache.tika.translate` :left_right_arrow: `org.apache.tika:tika-translate:1.22`
+- :cd: `org.apache.tika.xmp` :left_right_arrow: `org.apache.tika:tika-xmp:1.22`
 - :cd: `org.apache.tomee.arquillian.common` :left_right_arrow: `org.apache.tomee:arquillian-common:8.0.0-M3`
 - :cd: `org.apache.tomee.arquillian.openejb.embedded` :left_right_arrow: `org.apache.tomee:arquillian-openejb-embedded:8.0.0-M3`
 - :cd: `org.apache.tomee.arquillian.openejb.transaction.provider` :left_right_arrow: `org.apache.tomee:arquillian-openejb-transaction-provider:8.0.0-M3`
@@ -2870,12 +2871,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.videoinput` :left_right_arrow: `org.bytedeco:videoinput:0.200-1.5.1`
 - :dvd: `org.bytedeco.videoinput.platform` :left_right_arrow: `org.bytedeco:videoinput-platform:0.200-1.5.1`
 - :cd: `org.cache2k.api` :left_right_arrow: `org.cache2k:cache2k-api:1.2.2.Final`
-- :cd: `org.checkerframework.checker` :left_right_arrow: `org.checkerframework:checker:2.9.0`
+- :cd: `org.checkerframework.checker` :left_right_arrow: `org.checkerframework:checker:2.10.0`
 - :cd: `org.checkerframework.checker.qual` :left_right_arrow: `org.checkerframework:checker-compat-qual:2.5.5`
-- :cd: `org.checkerframework.checker.qual.android` :left_right_arrow: `org.checkerframework:checker-qual-android:2.9.0`
-- :cd: `org.checkerframework.dataflow` :left_right_arrow: `org.checkerframework:dataflow:2.9.0`
-- :cd: `org.checkerframework.framework.test` :left_right_arrow: `org.checkerframework:framework-test:2.9.0`
-- :cd: `org.checkerframework.javacutil` :left_right_arrow: `org.checkerframework:javacutil:2.9.0`
+- :cd: `org.checkerframework.checker.qual.android` :left_right_arrow: `org.checkerframework:checker-qual-android:2.10.0`
+- :cd: `org.checkerframework.dataflow` :left_right_arrow: `org.checkerframework:dataflow:2.10.0`
+- :cd: `org.checkerframework.framework.test` :left_right_arrow: `org.checkerframework:framework-test:2.10.0`
+- :cd: `org.checkerframework.javacutil` :left_right_arrow: `org.checkerframework:javacutil:2.10.0`
 - :cd: `org.chorusbdd.chorus` :left_right_arrow: `org.chorusbdd:chorus:3.1.3`
 - :cd: `org.chorusbdd.chorus.selenium` :left_right_arrow: `org.chorusbdd:chorus-selenium:3.1.3`
 - :cd: `org.chorusbdd.chorus.spring` :left_right_arrow: `org.chorusbdd:chorus-spring:3.1.3`
@@ -4236,62 +4237,62 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.starchartlabs.machete.machete.sns` :left_right_arrow: `org.starchartlabs.machete:machete-sns:0.2.1`
 - :cd: `org.starchartlabs.machete.machete.ssm` :left_right_arrow: `org.starchartlabs.machete:machete-ssm:0.2.1`
 - :cd: `org.starchartlabs.majortom.event.model` :left_right_arrow: `org.starchartlabs.majortom:event-model:0.2.1`
-- :cd: `org.talend.sdk.component.api` :left_right_arrow: `org.talend.sdk.component:component-api:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.container` :left_right_arrow: `org.talend.sdk.component:container-core:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.container.maven` :left_right_arrow: `org.talend.sdk.component:nested-maven-repository:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.design` :left_right_arrow: `org.talend.sdk.component:component-runtime-design-extension:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.di` :left_right_arrow: `org.talend.sdk.component:component-runtime-di:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.documentation` :left_right_arrow: `org.talend.sdk.component:documentation:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.form.core` :left_right_arrow: `org.talend.sdk.component:component-form-core:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.form.model` :left_right_arrow: `org.talend.sdk.component:component-form-model:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.gradle` :left_right_arrow: `org.talend.sdk.component:gradle-talend-component:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.impl` :left_right_arrow: `org.talend.sdk.component:component-runtime-impl:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.intellij` :left_right_arrow: `org.talend.sdk.component:talend-component-kit-intellij-plugin:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.junit` :left_right_arrow: `org.talend.sdk.component:component-runtime-junit:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.junit.base` :left_right_arrow: `org.talend.sdk.component:component-runtime-junit-base:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.junit.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam-junit:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.junit.http` :left_right_arrow: `org.talend.sdk.component:component-runtime-http-junit:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.manager` :left_right_arrow: `org.talend.sdk.component:component-runtime-manager:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.maven` :left_right_arrow: `org.talend.sdk.component:talend-component-maven-plugin:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.sample` :left_right_arrow: `org.talend.sdk.component:sample:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.sample.beam` :left_right_arrow: `org.talend.sdk.component:sample-beam:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.server` :left_right_arrow: `org.talend.sdk.component:component-server:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.server.api` :left_right_arrow: `org.talend.sdk.component:component-server-api:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.server.extension.api` :left_right_arrow: `org.talend.sdk.component:component-server-extension-api:1.1.11`
+- :cd: `org.talend.sdk.component.api` :left_right_arrow: `org.talend.sdk.component:component-api:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.container` :left_right_arrow: `org.talend.sdk.component:container-core:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.container.maven` :left_right_arrow: `org.talend.sdk.component:nested-maven-repository:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.design` :left_right_arrow: `org.talend.sdk.component:component-runtime-design-extension:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.di` :left_right_arrow: `org.talend.sdk.component:component-runtime-di:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.documentation` :left_right_arrow: `org.talend.sdk.component:documentation:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.form.core` :left_right_arrow: `org.talend.sdk.component:component-form-core:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.form.model` :left_right_arrow: `org.talend.sdk.component:component-form-model:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.gradle` :left_right_arrow: `org.talend.sdk.component:gradle-talend-component:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.impl` :left_right_arrow: `org.talend.sdk.component:component-runtime-impl:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.intellij` :left_right_arrow: `org.talend.sdk.component:talend-component-kit-intellij-plugin:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.junit` :left_right_arrow: `org.talend.sdk.component:component-runtime-junit:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.junit.base` :left_right_arrow: `org.talend.sdk.component:component-runtime-junit-base:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.junit.beam` :left_right_arrow: `org.talend.sdk.component:component-runtime-beam-junit:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.junit.http` :left_right_arrow: `org.talend.sdk.component:component-runtime-http-junit:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.manager` :left_right_arrow: `org.talend.sdk.component:component-runtime-manager:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.maven` :left_right_arrow: `org.talend.sdk.component:talend-component-maven-plugin:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.sample` :left_right_arrow: `org.talend.sdk.component:sample:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.sample.beam` :left_right_arrow: `org.talend.sdk.component:sample-beam:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.server` :left_right_arrow: `org.talend.sdk.component:component-server:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.server.api` :left_right_arrow: `org.talend.sdk.component:component-server-api:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.server.extension.api` :left_right_arrow: `org.talend.sdk.component:component-server-extension-api:1.1.12`
 - :cd: `org.talend.sdk.component.runtime.server.extension.stitch` :left_right_arrow: `org.talend.sdk.component:stitch-extension:1.1.9`
 - :cd: `org.talend.sdk.component.runtime.server.extension.stitch.model` :left_right_arrow: `org.talend.sdk.component:stitch-extension-model:1.1.9`
 - :cd: `org.talend.sdk.component.runtime.server.extension.stitch.server` :left_right_arrow: `org.talend.sdk.component:stitch-extension-server:1.1.9`
-- :cd: `org.talend.sdk.component.runtime.server.image` :left_right_arrow: `org.talend.sdk.component:component-server-image:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.server.model` :left_right_arrow: `org.talend.sdk.component:component-server-model:1.1.11`
+- :cd: `org.talend.sdk.component.runtime.server.image` :left_right_arrow: `org.talend.sdk.component:component-server-image:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.server.model` :left_right_arrow: `org.talend.sdk.component:component-server-model:1.1.12`
 - :cd: `org.talend.sdk.component.runtime.server.proxy` :left_right_arrow: `org.talend.sdk.component:component-server-proxy:1.1.2`
 - :cd: `org.talend.sdk.component.runtime.server.proxy.play` :left_right_arrow: `org.talend.sdk.component:component-server-proxy-play:1.0.3`
-- :cd: `org.talend.sdk.component.runtime.slf4j.standard` :left_right_arrow: `org.talend.sdk.component:slf4j-standard:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.spi` :left_right_arrow: `org.talend.sdk.component:component-spi:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.starter` :left_right_arrow: `org.talend.sdk.component:component-starter-server:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.starter.image` :left_right_arrow: `org.talend.sdk.component:component-starter-server-image:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.testing.spark` :left_right_arrow: `org.talend.sdk.component:component-runtime-testing-spark:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.tools` :left_right_arrow: `org.talend.sdk.component:component-tools:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.tools.webapp` :left_right_arrow: `org.talend.sdk.component:component-tools-webapp:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.vault.proxy` :left_right_arrow: `org.talend.sdk.component:component-server-vault-proxy:1.1.11`
-- :cd: `org.talend.sdk.component.runtime.vault.proxy.image` :left_right_arrow: `org.talend.sdk.component:component-server-vault-proxy-image:1.1.11`
-- :cd: `org.talend.sdk.component.sample.activeif` :left_right_arrow: `org.talend.sdk.component:activeif-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.checkbox` :left_right_arrow: `org.talend.sdk.component:checkbox-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.code` :left_right_arrow: `org.talend.sdk.component:code-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.credentials` :left_right_arrow: `org.talend.sdk.component:credentials-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.datastore` :left_right_arrow: `org.talend.sdk.component:datastorevalidation-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.dropdownlist` :left_right_arrow: `org.talend.sdk.component:dropdownlist-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.integer` :left_right_arrow: `org.talend.sdk.component:integer-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.minmax` :left_right_arrow: `org.talend.sdk.component:minmaxvalidation-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.multiselect` :left_right_arrow: `org.talend.sdk.component:multiselect-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.pattern` :left_right_arrow: `org.talend.sdk.component:patternvalidation-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.required` :left_right_arrow: `org.talend.sdk.component:requiredvalidation-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.suggestions` :left_right_arrow: `org.talend.sdk.component:suggestions-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.table` :left_right_arrow: `org.talend.sdk.component:table-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.textarea` :left_right_arrow: `org.talend.sdk.component:textarea-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.textinput` :left_right_arrow: `org.talend.sdk.component:textinput-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.updatable` :left_right_arrow: `org.talend.sdk.component:updatable-component:1.1.11`
-- :cd: `org.talend.sdk.component.sample.urlvalidation` :left_right_arrow: `org.talend.sdk.component:urlvalidation-component:1.1.11`
+- :cd: `org.talend.sdk.component.runtime.slf4j.standard` :left_right_arrow: `org.talend.sdk.component:slf4j-standard:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.spi` :left_right_arrow: `org.talend.sdk.component:component-spi:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.starter` :left_right_arrow: `org.talend.sdk.component:component-starter-server:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.starter.image` :left_right_arrow: `org.talend.sdk.component:component-starter-server-image:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.testing.spark` :left_right_arrow: `org.talend.sdk.component:component-runtime-testing-spark:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.tools` :left_right_arrow: `org.talend.sdk.component:component-tools:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.tools.webapp` :left_right_arrow: `org.talend.sdk.component:component-tools-webapp:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.vault.proxy` :left_right_arrow: `org.talend.sdk.component:component-server-vault-proxy:1.1.12`
+- :cd: `org.talend.sdk.component.runtime.vault.proxy.image` :left_right_arrow: `org.talend.sdk.component:component-server-vault-proxy-image:1.1.12`
+- :cd: `org.talend.sdk.component.sample.activeif` :left_right_arrow: `org.talend.sdk.component:activeif-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.checkbox` :left_right_arrow: `org.talend.sdk.component:checkbox-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.code` :left_right_arrow: `org.talend.sdk.component:code-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.credentials` :left_right_arrow: `org.talend.sdk.component:credentials-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.datastore` :left_right_arrow: `org.talend.sdk.component:datastorevalidation-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.dropdownlist` :left_right_arrow: `org.talend.sdk.component:dropdownlist-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.integer` :left_right_arrow: `org.talend.sdk.component:integer-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.minmax` :left_right_arrow: `org.talend.sdk.component:minmaxvalidation-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.multiselect` :left_right_arrow: `org.talend.sdk.component:multiselect-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.pattern` :left_right_arrow: `org.talend.sdk.component:patternvalidation-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.required` :left_right_arrow: `org.talend.sdk.component:requiredvalidation-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.suggestions` :left_right_arrow: `org.talend.sdk.component:suggestions-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.table` :left_right_arrow: `org.talend.sdk.component:table-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.textarea` :left_right_arrow: `org.talend.sdk.component:textarea-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.textinput` :left_right_arrow: `org.talend.sdk.component:textinput-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.updatable` :left_right_arrow: `org.talend.sdk.component:updatable-component:1.1.12`
+- :cd: `org.talend.sdk.component.sample.urlvalidation` :left_right_arrow: `org.talend.sdk.component:urlvalidation-component:1.1.12`
 - :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.4.0.1`
 - :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.4.0.1`
 - :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.4.0.1`
