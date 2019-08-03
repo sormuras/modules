@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4811 Java modules published at Maven Central
 
-## Summary 2019-08-02T22:56:51.350273Z
+## Summary 2019-08-03T22:57:11.610219Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-02T22:56:51.350273Z
-Scanned 27,673 files in 4 seconds.
+Started scan at 2019-08-03T22:57:11.610219Z
+Scanned 27,799 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_02_22_40_52.csv
+    last -> modulescanner-report-2019_08_03_22_30_51.csv
 
-Parsed 1,760,339 lines in total.
-  31,512 -> captions skipped
-  112,667 -> duplicates skipped
-  70,738 -> module related
+Parsed 1,762,664 lines in total.
+  31,638 -> captions skipped
+  112,693 -> duplicates skipped
+  70,746 -> module related
 
 Collected 4,811 unique modules.
   automatic :cd: -> 3,567
@@ -325,7 +325,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.timeid` :left_right_arrow: `com.codahale:time-id:0.4.5`
 - :cd: `com.codahale.usl4j` :left_right_arrow: `com.codahale:usl4j:0.7.0`
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
-- :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.7`
+- :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.8`
 - :cd: `com.codemonkeylab.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.1.0`
 - :cd: `com.coditory.sherlock.api.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.13`
 - :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.13`
@@ -1061,7 +1061,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.lihaoyi.sourcecode` :left_right_arrow: `com.lihaoyi:sourcecode_2.10:0.1.7`
 - :cd: `com.lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.3`
 - :cd: `com.mercateo.immutables` :left_right_arrow: `com.mercateo:default-immutables:1.2.5`
-- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.4.0.jre12`
+- :cd: `com.microsoft.sqlserver.jdbc` :left_right_arrow: `com.microsoft.sqlserver:mssql-jdbc:7.4.1.jre12`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :cd: `com.netflix.servo.apache` :left_right_arrow: `com.netflix.servo:servo-apache:0.12.28`
@@ -1809,12 +1809,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.1.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
 - :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.3.0`
-- :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.0`
-- :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:5.0.0`
+- :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.1`
+- :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:5.0.1`
 - :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.5.2`
 - :cd: `io.jenetics.prngine` :left_right_arrow: `io.jenetics:prngine:1.0.2`
-- :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:5.0.0`
-- :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:5.0.0`
+- :cd: `io.jenetics.prog` :left_right_arrow: `io.jenetics:jenetics.prog:5.0.1`
+- :cd: `io.jenetics.xml` :left_right_arrow: `io.jenetics:jenetics.xml:5.0.1`
 - :cd: `io.jhdf` :left_right_arrow: `io.jhdf:jhdf:0.4.4`
 - :cd: `io.jitstatic.client` :left_right_arrow: `io.jitstatic:jitstatic-client:0.11.0`
 - :dvd: `io.kodokojo.property.configurer` :left_right_arrow: `io.kodokojo:property-configurer:0.2.0`
@@ -2074,8 +2074,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.110`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.4.0-RC1`
 - :cd: `net.adamcin.oakpal.webster` :left_right_arrow: `net.adamcin.oakpal:oakpal-webster:1.4.0-RC1`
-- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.9.16`
-- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.9.16`
+- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.0`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.0`
 - :cd: `net.corda.blobinspector` :left_right_arrow: `net.corda:corda-blob-inspector:3.2.1847-corda`
 - :cd: `net.corda.bootstrapper` :left_right_arrow: `net.corda:corda-network-bootstrapper:3.2.1847-corda`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda:4.0`
