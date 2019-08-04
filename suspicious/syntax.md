@@ -5686,6 +5686,7 @@
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.4` // `net.dreamlu,mica-plus-error-catch,1.1.4,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.5` // `net.dreamlu,mica-plus-error-catch,1.1.5,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.6` // `net.dreamlu,mica-plus-error-catch,1.1.6,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.7` // `net.dreamlu,mica-plus-error-catch,1.1.7,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
@@ -5822,6 +5823,7 @@
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.7.17-000511` // `name.remal,public-data,2019.7.17-000511,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.7.24-165511` // `name.remal,public-data,2019.7.24-165511,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.7.5-214510` // `name.remal,public-data,2019.7.5-214510,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.8.2-175007` // `name.remal,public-data,2019.8.2-175007,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-builds-jvm-stripper` :left_right_arrow: `net.bzzt:reproducible-builds-jvm-stripper:0.9` // `net.bzzt,reproducible-builds-jvm-stripper,0.9,net.bzzt.reproducible-builds-jvm-stripper,-,automatic,-,false,-`

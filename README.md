@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4811 Java modules published at Maven Central
+Counted 4818 Java modules published at Maven Central
 
-## Summary 2019-08-03T22:57:11.610219Z
+## Summary 2019-08-04T22:57:54.285079Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-03T22:57:11.610219Z
-Scanned 27,799 files in 3 seconds.
+Started scan at 2019-08-04T22:57:54.285079Z
+Scanned 27,922 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_03_22_30_51.csv
+    last -> modulescanner-report-2019_08_04_22_41_03.csv
 
-Parsed 1,762,664 lines in total.
-  31,638 -> captions skipped
-  112,693 -> duplicates skipped
-  70,746 -> module related
+Parsed 1,764,862 lines in total.
+  31,761 -> captions skipped
+  112,758 -> duplicates skipped
+  70,784 -> module related
 
-Collected 4,811 unique modules.
-  automatic :cd: -> 3,567
-  explicit :dvd: -> 1,244
+Collected 4,818 unique modules.
+  automatic :cd: -> 3,572
+  explicit :dvd: -> 1,246
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6637](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10376](suspicious/naming.md)
+- Invalid module names: [6639](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10391](suspicious/naming.md)
 - Modular impostors: [3492](suspicious/impostors.md)
 
-## Unique Modules (4811)
+## Unique Modules (4818)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -174,7 +174,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `biz.aQute.bnd.maven` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.maven:4.2.0`
 - :cd: `biz.aQute.bnd.reporter` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.reporter:4.2.0`
 - :cd: `biz.aQute.bndlib` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bndlib:4.2.0`
-- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.6.0`
+- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.7.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.11:0.4.1`
 - :cd: `ch.obermuhlner.math.big` :left_right_arrow: `ch.obermuhlner:big-math:2.1.0`
@@ -327,14 +327,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.codahale.xsalsa20poly1305` :left_right_arrow: `com.codahale:xsalsa20poly1305:0.11.0`
 - :cd: `com.codeborne.selenide` :left_right_arrow: `com.codeborne:selenide:5.2.8`
 - :cd: `com.codemonkeylab.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.1.0`
-- :cd: `com.coditory.sherlock.api.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.13`
-- :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.13`
-- :cd: `com.coditory.sherlock.api.rxjava` :left_right_arrow: `com.coditory.sherlock:sherlock-rxjava:0.1.13`
-- :cd: `com.coditory.sherlock.api.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.13`
+- :cd: `com.coditory.sherlock.api.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.2.0`
+- :cd: `com.coditory.sherlock.api.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.2.0`
+- :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.2.0`
+- :cd: `com.coditory.sherlock.api.rxjava` :left_right_arrow: `com.coditory.sherlock:sherlock-rxjava:0.2.0`
+- :cd: `com.coditory.sherlock.api.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.2.0`
 - :cd: `com.coditory.sherlock.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.1.13`
-- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.1.13`
-- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.1.13`
-- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.1.13`
+- :cd: `com.coditory.sherlock.inmem` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem:0.2.0`
+- :cd: `com.coditory.sherlock.inmem.common` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-common:0.2.0`
+- :cd: `com.coditory.sherlock.inmem.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-reactive:0.2.0`
+- :cd: `com.coditory.sherlock.inmem.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-sync:0.2.0`
+- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.2.0`
+- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.2.0`
+- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.2.0`
 - :cd: `com.coditory.sherlock.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.12`
 - :cd: `com.coditory.sherlock.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.12`
 - :cd: `com.coditory.sherlock.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.12`
@@ -542,7 +547,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.2`
 - :cd: `com.github.robtimus.ip.validation` :left_right_arrow: `com.github.robtimus:ip-validation:1.0.1`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.1`
-- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.1.1`
+- :cd: `com.github.romankh3.image.comparison` :left_right_arrow: `com.github.romankh3:image-comparison:3.2.0`
 - :cd: `com.github.rosolko.wdm4j` :left_right_arrow: `com.github.rosolko:wdm4j:1.0.4`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
@@ -2718,7 +2723,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.aspectj.runtime` :left_right_arrow: `org.aspectj:aspectjrt:1.9.4`
 - :cd: `org.aspectj.tools` :left_right_arrow: `org.aspectj:aspectjtools:1.9.4`
 - :cd: `org.aspectj.weaver` :left_right_arrow: `org.aspectj:aspectjweaver:1.9.4`
-- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.1`
+- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.2`
 - :cd: `org.avaje.metrics.collectd` :left_right_arrow: `org.avaje.metric:metric-collectd:7.4.1`
 - :cd: `org.axonframework.amqp` :left_right_arrow: `org.axonframework:axon-amqp:4.0-M2`
 - :cd: `org.axonframework.boot` :left_right_arrow: `org.axonframework:axon-spring-boot-autoconfigure:4.0-M2`
@@ -3732,7 +3737,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kordamp.jsilhouette.javafx` :left_right_arrow: `org.kordamp.jsilhouette:jsilhouette-javafx:0.3.0`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-core:0.3.2`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.0.1`
+- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.1.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.0.0`
 - :cd: `org.libj.exec` :left_right_arrow: `org.libj:exec:0.8.10`
 - :cd: `org.libj.io` :left_right_arrow: `org.libj:io:0.7.6`
@@ -4421,6 +4426,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.xmlunit.matchers` :left_right_arrow: `org.xmlunit:xmlunit-matchers:2.6.3`
 - :cd: `org.xmlunit.placeholder` :left_right_arrow: `org.xmlunit:xmlunit-placeholders:2.6.3`
 - :cd: `org.yaml.snakeyaml` :left_right_arrow: `org.yaml:snakeyaml:1.24`
+- :cd: `p6spy` :left_right_arrow: `p6spy:p6spy:3.8.4`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
 - :cd: `rocks.xmpp.addr` :left_right_arrow: `rocks.xmpp:xmpp-addr:0.8.1`
@@ -4896,7 +4902,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.6`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0-PRD`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-PRD`
-- :cd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:1.3.1`
+- :dvd: `tk.plogitech.darksky` :left_right_arrow: `tk.plogitech:darksky-forecast-api:2.0.2`
+- :dvd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:2.0.2`
 - :dvd: `top.marchand.xml.cp.protocol` :left_right_arrow: `top.marchand.xml:cp-protocol:2.1`
 - :cd: `uk.dioxic.faker4j` :left_right_arrow: `uk.dioxic.faker4j:faker4j:0.0.4`
 - :cd: `uk.dioxic.mgenerate.apt` :left_right_arrow: `uk.dioxic.mgenerate:mgenerate-apt:0.0.3`
