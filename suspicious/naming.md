@@ -4429,6 +4429,7 @@
 - :dvd: `corerpc` :left_right_arrow: `com.ensarsarajcic.neovim.java:core-rpc:0.1.11` // `com.ensarsarajcic.neovim.java,core-rpc,0.1.11,corerpc,-,explicit,slf4j.api + jackson.annotations + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + jackson.dataformat.msgpack,true,-`
 - :dvd: `corerpc` :left_right_arrow: `com.ensarsarajcic.neovim.java:core-rpc:0.1.13` // `com.ensarsarajcic.neovim.java,core-rpc,0.1.13,corerpc,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + jackson.annotations + jackson.dataformat.msgpack + java.base + slf4j.api,false,-`
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:0.9` // `com.github.corese4rch,cvurl-io,0.9,coresearch.cvurl.io,0.9,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
+- :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:1.0` // `com.github.corese4rch,cvurl-io,1.0,coresearch.cvurl.io,1.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.4.0` // `de.carne.common,java-default,8.4.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.6.0` // `de.carne.common,java-default,8.6.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.7.0` // `de.carne.common,java-default,8.7.0,de.carne,-,automatic,-,false,-`
