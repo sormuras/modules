@@ -1290,6 +1290,7 @@
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.1.1` // `io.micronaut,micronaut-aop,1.1.1,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.1.2` // `io.micronaut,micronaut-aop,1.1.2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.1.3` // `io.micronaut,micronaut-aop,1.1.3,io.micronaut.aop,-,automatic,-,false,-`
+- :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.2.0` // `io.micronaut,micronaut-aop,1.2.0,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.2.0.RC1` // `io.micronaut,micronaut-aop,1.2.0.RC1,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` :left_right_arrow: `io.micronaut:micronaut-aop:1.2.0.RC2` // `io.micronaut,micronaut-aop,1.2.0.RC2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
@@ -1306,6 +1307,7 @@
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.1.1` // `io.micronaut,micronaut-bom,1.1.1,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.1.2` // `io.micronaut,micronaut-bom,1.1.2,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.1.3` // `io.micronaut,micronaut-bom,1.1.3,io.micronaut.bom,-,automatic,-,false,-`
+- :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0` // `io.micronaut,micronaut-bom,1.2.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0.RC1` // `io.micronaut,micronaut-bom,1.2.0.RC1,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0.RC2` // `io.micronaut,micronaut-bom,1.2.0.RC2,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.0` // `io.micronaut,micronaut-buffer-netty,1.0.0,io.micronaut.buffer_netty,-,automatic,-,false,-`
@@ -1322,6 +1324,7 @@
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.1.1` // `io.micronaut,micronaut-buffer-netty,1.1.1,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.1.2` // `io.micronaut,micronaut-buffer-netty,1.1.2,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.1.3` // `io.micronaut,micronaut-buffer-netty,1.1.3,io.micronaut.buffer_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.2.0` // `io.micronaut,micronaut-buffer-netty,1.2.0,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.2.0.RC1` // `io.micronaut,micronaut-buffer-netty,1.2.0.RC1,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.2.0.RC2` // `io.micronaut,micronaut-buffer-netty,1.2.0.RC2,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.0.0` // `io.micronaut,micronaut-cli,1.0.0,io.micronaut.cli,-,automatic,-,false,-`
@@ -1338,6 +1341,7 @@
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.1.1` // `io.micronaut,micronaut-cli,1.1.1,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.1.2` // `io.micronaut,micronaut-cli,1.1.2,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.1.3` // `io.micronaut,micronaut-cli,1.1.3,io.micronaut.cli,-,automatic,-,false,-`
+- :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.2.0` // `io.micronaut,micronaut-cli,1.2.0,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.2.0.RC1` // `io.micronaut,micronaut-cli,1.2.0.RC1,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` :left_right_arrow: `io.micronaut:micronaut-cli:1.2.0.RC2` // `io.micronaut,micronaut-cli,1.2.0.RC2,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.0.0` // `io.micronaut.configuration,micronaut-aws-common,1.0.0,io.micronaut.configuration.aws_common,-,automatic,-,false,-`
@@ -1676,6 +1680,7 @@
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.1.1` // `io.micronaut,micronaut-core,1.1.1,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.1.2` // `io.micronaut,micronaut-core,1.1.2,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.1.3` // `io.micronaut,micronaut-core,1.1.3,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.0` // `io.micronaut,micronaut-core,1.2.0,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.0.RC1` // `io.micronaut,micronaut-core,1.2.0.RC1,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.0.RC2` // `io.micronaut,micronaut-core,1.2.0.RC2,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.0.0` // `io.micronaut,micronaut-discovery-client,1.0.0,io.micronaut.discovery_client,-,automatic,-,false,-`
@@ -1692,6 +1697,7 @@
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.1.1` // `io.micronaut,micronaut-discovery-client,1.1.1,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.1.2` // `io.micronaut,micronaut-discovery-client,1.1.2,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.1.3` // `io.micronaut,micronaut-discovery-client,1.1.3,io.micronaut.discovery_client,-,automatic,-,false,-`
+- :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.2.0` // `io.micronaut,micronaut-discovery-client,1.2.0,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.2.0.RC1` // `io.micronaut,micronaut-discovery-client,1.2.0.RC1,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` :left_right_arrow: `io.micronaut:micronaut-discovery-client:1.2.0.RC2` // `io.micronaut,micronaut-discovery-client,1.2.0.RC2,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.0.0` // `io.micronaut,micronaut-function,1.0.0,io.micronaut.function,-,automatic,-,false,-`
@@ -1708,6 +1714,7 @@
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.1.1` // `io.micronaut,micronaut-function,1.1.1,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.1.2` // `io.micronaut,micronaut-function,1.1.2,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.1.3` // `io.micronaut,micronaut-function,1.1.3,io.micronaut.function,-,automatic,-,false,-`
+- :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.2.0` // `io.micronaut,micronaut-function,1.2.0,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.2.0.RC1` // `io.micronaut,micronaut-function,1.2.0.RC1,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` :left_right_arrow: `io.micronaut:micronaut-function:1.2.0.RC2` // `io.micronaut,micronaut-function,1.2.0.RC2,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_aws` :left_right_arrow: `io.micronaut:micronaut-function-aws:1.0.0` // `io.micronaut,micronaut-function-aws,1.0.0,io.micronaut.function_aws,-,automatic,-,false,-`
@@ -1730,6 +1737,7 @@
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.1.1` // `io.micronaut,micronaut-function-client,1.1.1,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.1.2` // `io.micronaut,micronaut-function-client,1.1.2,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.1.3` // `io.micronaut,micronaut-function-client,1.1.3,io.micronaut.function_client,-,automatic,-,false,-`
+- :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.2.0` // `io.micronaut,micronaut-function-client,1.2.0,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.2.0.RC1` // `io.micronaut,micronaut-function-client,1.2.0.RC1,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` :left_right_arrow: `io.micronaut:micronaut-function-client:1.2.0.RC2` // `io.micronaut,micronaut-function-client,1.2.0.RC2,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_groovy` :left_right_arrow: `io.micronaut:micronaut-function-groovy:1.0.0` // `io.micronaut,micronaut-function-groovy,1.0.0,io.micronaut.function_groovy,-,automatic,-,false,-`
@@ -1756,6 +1764,7 @@
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.1.1` // `io.micronaut,micronaut-function-web,1.1.1,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.1.2` // `io.micronaut,micronaut-function-web,1.1.2,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.1.3` // `io.micronaut,micronaut-function-web,1.1.3,io.micronaut.function_web,-,automatic,-,false,-`
+- :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.2.0` // `io.micronaut,micronaut-function-web,1.2.0,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.2.0.RC1` // `io.micronaut,micronaut-function-web,1.2.0.RC1,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` :left_right_arrow: `io.micronaut:micronaut-function-web:1.2.0.RC2` // `io.micronaut,micronaut-function-web,1.2.0.RC2,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.0.0` // `io.micronaut,micronaut-graal,1.0.0,io.micronaut.graal,-,automatic,-,false,-`
@@ -1772,6 +1781,7 @@
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.1.1` // `io.micronaut,micronaut-graal,1.1.1,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.1.2` // `io.micronaut,micronaut-graal,1.1.2,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.1.3` // `io.micronaut,micronaut-graal,1.1.3,io.micronaut.graal,-,automatic,-,false,-`
+- :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.2.0` // `io.micronaut,micronaut-graal,1.2.0,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.2.0.RC1` // `io.micronaut,micronaut-graal,1.2.0.RC1,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` :left_right_arrow: `io.micronaut:micronaut-graal:1.2.0.RC2` // `io.micronaut,micronaut-graal,1.2.0.RC2,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.0.0` // `io.micronaut,micronaut-http,1.0.0,io.micronaut.http,-,automatic,-,false,-`
@@ -1788,6 +1798,7 @@
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.1.1` // `io.micronaut,micronaut-http,1.1.1,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.1.2` // `io.micronaut,micronaut-http,1.1.2,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.1.3` // `io.micronaut,micronaut-http,1.1.3,io.micronaut.http,-,automatic,-,false,-`
+- :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.2.0` // `io.micronaut,micronaut-http,1.2.0,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.2.0.RC1` // `io.micronaut,micronaut-http,1.2.0.RC1,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` :left_right_arrow: `io.micronaut:micronaut-http:1.2.0.RC2` // `io.micronaut,micronaut-http,1.2.0.RC2,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.0.0` // `io.micronaut,micronaut-http-client,1.0.0,io.micronaut.http_client,-,automatic,-,false,-`
@@ -1804,6 +1815,7 @@
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.1.1` // `io.micronaut,micronaut-http-client,1.1.1,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.1.2` // `io.micronaut,micronaut-http-client,1.1.2,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.1.3` // `io.micronaut,micronaut-http-client,1.1.3,io.micronaut.http_client,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.2.0` // `io.micronaut,micronaut-http-client,1.2.0,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.2.0.RC1` // `io.micronaut,micronaut-http-client,1.2.0.RC1,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` :left_right_arrow: `io.micronaut:micronaut-http-client:1.2.0.RC2` // `io.micronaut,micronaut-http-client,1.2.0.RC2,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.0.0` // `io.micronaut,micronaut-http-netty,1.0.0,io.micronaut.http_netty,-,automatic,-,false,-`
@@ -1820,6 +1832,7 @@
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.1.1` // `io.micronaut,micronaut-http-netty,1.1.1,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.1.2` // `io.micronaut,micronaut-http-netty,1.1.2,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.1.3` // `io.micronaut,micronaut-http-netty,1.1.3,io.micronaut.http_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.2.0` // `io.micronaut,micronaut-http-netty,1.2.0,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.2.0.RC1` // `io.micronaut,micronaut-http-netty,1.2.0.RC1,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` :left_right_arrow: `io.micronaut:micronaut-http-netty:1.2.0.RC2` // `io.micronaut,micronaut-http-netty,1.2.0.RC2,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.0.0` // `io.micronaut,micronaut-http-server,1.0.0,io.micronaut.http_server,-,automatic,-,false,-`
@@ -1836,6 +1849,7 @@
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.1.1` // `io.micronaut,micronaut-http-server,1.1.1,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.1.2` // `io.micronaut,micronaut-http-server,1.1.2,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.1.3` // `io.micronaut,micronaut-http-server,1.1.3,io.micronaut.http_server,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.2.0` // `io.micronaut,micronaut-http-server,1.2.0,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.2.0.RC1` // `io.micronaut,micronaut-http-server,1.2.0.RC1,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` :left_right_arrow: `io.micronaut:micronaut-http-server:1.2.0.RC2` // `io.micronaut,micronaut-http-server,1.2.0.RC2,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.0.0` // `io.micronaut,micronaut-http-server-netty,1.0.0,io.micronaut.http_server_netty,-,automatic,-,false,-`
@@ -1852,6 +1866,7 @@
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.1.1` // `io.micronaut,micronaut-http-server-netty,1.1.1,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.1.2` // `io.micronaut,micronaut-http-server-netty,1.1.2,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.1.3` // `io.micronaut,micronaut-http-server-netty,1.1.3,io.micronaut.http_server_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.2.0` // `io.micronaut,micronaut-http-server-netty,1.2.0,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.2.0.RC1` // `io.micronaut,micronaut-http-server-netty,1.2.0.RC1,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` :left_right_arrow: `io.micronaut:micronaut-http-server-netty:1.2.0.RC2` // `io.micronaut,micronaut-http-server-netty,1.2.0.RC2,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.0.0` // `io.micronaut,micronaut-inject,1.0.0,io.micronaut.inject,-,automatic,-,false,-`
@@ -1868,6 +1883,7 @@
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.1.1` // `io.micronaut,micronaut-inject,1.1.1,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.1.2` // `io.micronaut,micronaut-inject,1.1.2,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.1.3` // `io.micronaut,micronaut-inject,1.1.3,io.micronaut.inject,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.2.0` // `io.micronaut,micronaut-inject,1.2.0,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.2.0.RC1` // `io.micronaut,micronaut-inject,1.2.0.RC1,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` :left_right_arrow: `io.micronaut:micronaut-inject:1.2.0.RC2` // `io.micronaut,micronaut-inject,1.2.0.RC2,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.0.0` // `io.micronaut,micronaut-inject-groovy,1.0.0,io.micronaut.inject_groovy,-,automatic,-,false,-`
@@ -1884,6 +1900,7 @@
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.1.1` // `io.micronaut,micronaut-inject-groovy,1.1.1,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.1.2` // `io.micronaut,micronaut-inject-groovy,1.1.2,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.1.3` // `io.micronaut,micronaut-inject-groovy,1.1.3,io.micronaut.inject_groovy,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.2.0` // `io.micronaut,micronaut-inject-groovy,1.2.0,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.2.0.RC1` // `io.micronaut,micronaut-inject-groovy,1.2.0.RC1,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` :left_right_arrow: `io.micronaut:micronaut-inject-groovy:1.2.0.RC2` // `io.micronaut,micronaut-inject-groovy,1.2.0.RC2,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.0.0` // `io.micronaut,micronaut-inject-java,1.0.0,io.micronaut.inject_java,-,automatic,-,false,-`
@@ -1900,6 +1917,7 @@
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.1.1` // `io.micronaut,micronaut-inject-java,1.1.1,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.1.2` // `io.micronaut,micronaut-inject-java,1.1.2,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.1.3` // `io.micronaut,micronaut-inject-java,1.1.3,io.micronaut.inject_java,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.2.0` // `io.micronaut,micronaut-inject-java,1.2.0,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.2.0.RC1` // `io.micronaut,micronaut-inject-java,1.2.0.RC1,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` :left_right_arrow: `io.micronaut:micronaut-inject-java:1.2.0.RC2` // `io.micronaut,micronaut-inject-java,1.2.0.RC2,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.0.0` // `io.micronaut,micronaut-inject-java-test,1.0.0,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
@@ -1916,6 +1934,7 @@
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.1.1` // `io.micronaut,micronaut-inject-java-test,1.1.1,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.1.2` // `io.micronaut,micronaut-inject-java-test,1.1.2,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.1.3` // `io.micronaut,micronaut-inject-java-test,1.1.3,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
+- :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.2.0` // `io.micronaut,micronaut-inject-java-test,1.2.0,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.2.0.RC1` // `io.micronaut,micronaut-inject-java-test,1.2.0.RC1,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` :left_right_arrow: `io.micronaut:micronaut-inject-java-test:1.2.0.RC2` // `io.micronaut,micronaut-inject-java-test,1.2.0.RC2,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.0.0` // `io.micronaut,micronaut-jdbc,1.0.0,io.micronaut.jdbc,-,automatic,-,false,-`
@@ -1932,6 +1951,7 @@
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.1.1` // `io.micronaut,micronaut-jdbc,1.1.1,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.1.2` // `io.micronaut,micronaut-jdbc,1.1.2,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.1.3` // `io.micronaut,micronaut-jdbc,1.1.3,io.micronaut.jdbc,-,automatic,-,false,-`
+- :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.2.0` // `io.micronaut,micronaut-jdbc,1.2.0,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.2.0.RC1` // `io.micronaut,micronaut-jdbc,1.2.0.RC1,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` :left_right_arrow: `io.micronaut:micronaut-jdbc:1.2.0.RC2` // `io.micronaut,micronaut-jdbc,1.2.0.RC2,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.0.0` // `io.micronaut,micronaut-management,1.0.0,io.micronaut.management,-,automatic,-,false,-`
@@ -1948,6 +1968,7 @@
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.1.1` // `io.micronaut,micronaut-management,1.1.1,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.1.2` // `io.micronaut,micronaut-management,1.1.2,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.1.3` // `io.micronaut,micronaut-management,1.1.3,io.micronaut.management,-,automatic,-,false,-`
+- :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.2.0` // `io.micronaut,micronaut-management,1.2.0,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.2.0.RC1` // `io.micronaut,micronaut-management,1.2.0.RC1,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` :left_right_arrow: `io.micronaut:micronaut-management:1.2.0.RC2` // `io.micronaut,micronaut-management,1.2.0.RC2,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.0.0` // `io.micronaut,micronaut-messaging,1.0.0,io.micronaut.messaging,-,automatic,-,false,-`
@@ -1964,6 +1985,7 @@
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.1.1` // `io.micronaut,micronaut-messaging,1.1.1,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.1.2` // `io.micronaut,micronaut-messaging,1.1.2,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.1.3` // `io.micronaut,micronaut-messaging,1.1.3,io.micronaut.messaging,-,automatic,-,false,-`
+- :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.2.0` // `io.micronaut,micronaut-messaging,1.2.0,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.2.0.RC1` // `io.micronaut,micronaut-messaging,1.2.0.RC1,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` :left_right_arrow: `io.micronaut:micronaut-messaging:1.2.0.RC2` // `io.micronaut,micronaut-messaging,1.2.0.RC2,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.0.0` // `io.micronaut,micronaut-multitenancy,1.0.0,io.micronaut.multitenancy,-,automatic,-,false,-`
@@ -1980,6 +2002,7 @@
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.1.1` // `io.micronaut,micronaut-multitenancy,1.1.1,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.1.2` // `io.micronaut,micronaut-multitenancy,1.1.2,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.1.3` // `io.micronaut,micronaut-multitenancy,1.1.3,io.micronaut.multitenancy,-,automatic,-,false,-`
+- :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.2.0` // `io.micronaut,micronaut-multitenancy,1.2.0,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.2.0.RC1` // `io.micronaut,micronaut-multitenancy,1.2.0.RC1,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` :left_right_arrow: `io.micronaut:micronaut-multitenancy:1.2.0.RC2` // `io.micronaut,micronaut-multitenancy,1.2.0.RC2,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.0.0` // `io.micronaut,micronaut-router,1.0.0,io.micronaut.router,-,automatic,-,false,-`
@@ -1996,6 +2019,7 @@
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.1` // `io.micronaut,micronaut-router,1.1.1,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.2` // `io.micronaut,micronaut-router,1.1.2,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.1.3` // `io.micronaut,micronaut-router,1.1.3,io.micronaut.router,-,automatic,-,false,-`
+- :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.2.0` // `io.micronaut,micronaut-router,1.2.0,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.2.0.RC1` // `io.micronaut,micronaut-router,1.2.0.RC1,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` :left_right_arrow: `io.micronaut:micronaut-router:1.2.0.RC2` // `io.micronaut,micronaut-router,1.2.0.RC2,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.0.0` // `io.micronaut,micronaut-runtime,1.0.0,io.micronaut.runtime,-,automatic,-,false,-`
@@ -2012,6 +2036,7 @@
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.1` // `io.micronaut,micronaut-runtime,1.1.1,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.2` // `io.micronaut,micronaut-runtime,1.1.2,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.1.3` // `io.micronaut,micronaut-runtime,1.1.3,io.micronaut.runtime,-,automatic,-,false,-`
+- :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.2.0` // `io.micronaut,micronaut-runtime,1.2.0,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.2.0.RC1` // `io.micronaut,micronaut-runtime,1.2.0.RC1,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` :left_right_arrow: `io.micronaut:micronaut-runtime:1.2.0.RC2` // `io.micronaut,micronaut-runtime,1.2.0.RC2,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` :left_right_arrow: `io.micronaut:micronaut-runtime-groovy:1.0.0` // `io.micronaut,micronaut-runtime-groovy,1.0.0,io.micronaut.runtime_groovy,-,automatic,-,false,-`
@@ -2080,6 +2105,7 @@
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.1` // `io.micronaut,micronaut-session,1.1.1,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.2` // `io.micronaut,micronaut-session,1.1.2,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.1.3` // `io.micronaut,micronaut-session,1.1.3,io.micronaut.session,-,automatic,-,false,-`
+- :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.2.0` // `io.micronaut,micronaut-session,1.2.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.2.0.RC1` // `io.micronaut,micronaut-session,1.2.0.RC1,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.2.0.RC2` // `io.micronaut,micronaut-session,1.2.0.RC2,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.0.0` // `io.micronaut,micronaut-spring,1.0.0,io.micronaut.spring,-,automatic,-,false,-`
@@ -2096,6 +2122,7 @@
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.1` // `io.micronaut,micronaut-spring,1.1.1,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.2` // `io.micronaut,micronaut-spring,1.1.2,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.1.3` // `io.micronaut,micronaut-spring,1.1.3,io.micronaut.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.2.0` // `io.micronaut,micronaut-spring,1.2.0,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.2.0.RC1` // `io.micronaut,micronaut-spring,1.2.0.RC1,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` :left_right_arrow: `io.micronaut:micronaut-spring:1.2.0.RC2` // `io.micronaut,micronaut-spring,1.2.0.RC2,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.0.0` // `io.micronaut.test,micronaut-test-core,1.0.0,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -2142,6 +2169,7 @@
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.1` // `io.micronaut,micronaut-tracing,1.1.1,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.2` // `io.micronaut,micronaut-tracing,1.1.2,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.1.3` // `io.micronaut,micronaut-tracing,1.1.3,io.micronaut.tracing,-,automatic,-,false,-`
+- :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.2.0` // `io.micronaut,micronaut-tracing,1.2.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.2.0.RC1` // `io.micronaut,micronaut-tracing,1.2.0.RC1,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.2.0.RC2` // `io.micronaut,micronaut-tracing,1.2.0.RC2,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.0.0` // `io.micronaut,micronaut-validation,1.0.0,io.micronaut.validation,-,automatic,-,false,-`
@@ -2158,6 +2186,7 @@
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.1` // `io.micronaut,micronaut-validation,1.1.1,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.2` // `io.micronaut,micronaut-validation,1.1.2,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.1.3` // `io.micronaut,micronaut-validation,1.1.3,io.micronaut.validation,-,automatic,-,false,-`
+- :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.2.0` // `io.micronaut,micronaut-validation,1.2.0,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.2.0.RC1` // `io.micronaut,micronaut-validation,1.2.0.RC1,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` :left_right_arrow: `io.micronaut:micronaut-validation:1.2.0.RC2` // `io.micronaut,micronaut-validation,1.2.0.RC2,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.0.0.RC3` // `io.micronaut,micronaut-views,1.0.0.RC3,io.micronaut.views,-,automatic,-,false,-`
@@ -2189,6 +2218,7 @@
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.1` // `io.micronaut,micronaut-websocket,1.1.1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.2` // `io.micronaut,micronaut-websocket,1.1.2,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.1.3` // `io.micronaut,micronaut-websocket,1.1.3,io.micronaut.websocket,-,automatic,-,false,-`
+- :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.2.0` // `io.micronaut,micronaut-websocket,1.2.0,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.2.0.RC1` // `io.micronaut,micronaut-websocket,1.2.0.RC1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.2.0.RC2` // `io.micronaut,micronaut-websocket,1.2.0.RC2,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` :left_right_arrow: `io.pebbletemplates:pebble-spring4:3.0.10` // `io.pebbletemplates,pebble-spring4,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
@@ -2276,6 +2306,7 @@
 - :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-icalendaragenda:10.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,10.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
 - :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-icalendaragenda:9.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,9.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `cloud.orbit:orbit-redis-cluster:1.5.0` // `cloud.orbit,orbit-redis-cluster,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `cloud.orbit:orbit-redis-cluster:1.5.1` // `cloud.orbit,orbit-redis-cluster,1.5.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `co.elastic.apm:elastic-apm-agent:1.0.0` // `co.elastic.apm,elastic-apm-agent,1.0.0,net.bytebuddy,-,explicit,java.instrument + java.base + jdk.unsupported + net.bytebuddy.agent,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `net.bytebuddy` :left_right_arrow: `co.elastic.apm:elastic-apm-agent:1.0.0` // `co.elastic.apm,elastic-apm-agent,1.0.0,net.bytebuddy,-,explicit,java.instrument + java.base + net.bytebuddy.agent + jdk.unsupported,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `net.bytebuddy` :left_right_arrow: `co.elastic.apm:elastic-apm-agent:1.0.0.RC1` // `co.elastic.apm,elastic-apm-agent,1.0.0.RC1,net.bytebuddy,-,explicit,jdk.unsupported + net.bytebuddy.agent + java.base + java.instrument,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2754,6 +2785,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `uk.gov.nca.graph:mapper:1.0` // `uk.gov.nca.graph,mapper,1.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.assertj.core` :left_right_arrow: `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.46` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.46,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` :left_right_arrow: `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.47` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.47,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
+- :dvd: `org.assertj.core` :left_right_arrow: `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.48` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.48,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :cd: `org.axonframework.springboot` :left_right_arrow: `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC2` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC2,org.axonframework.springboot,-,automatic,-,false,-`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.datasyslab:geospark-viz_2.1:1.2.0` // `org.datasyslab,geospark-viz_2.1,1.2.0,org.beryx.awt.color,-,explicit,java.base + java.desktop,false,-`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.datasyslab:geospark-viz_2.2:1.2.0` // `org.datasyslab,geospark-viz_2.2,1.2.0,org.beryx.awt.color,-,explicit,java.base + java.desktop,false,-`
@@ -3370,6 +3402,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `de.uni-hildesheim.sse.spassMeter:spass-meter:1.30` // `de.uni-hildesheim.sse.spassMeter,spass-meter,1.30,org.objectweb.asm,6.2.0,explicit,java.base,true,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `de.uni-hildesheim.sse.spassMeter:spass-meter-ant:1.30` // `de.uni-hildesheim.sse.spassMeter,spass-meter-ant,1.30,org.objectweb.asm,6.2.0,explicit,java.base,true,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `de.uni-hildesheim.sse.spassMeter:spass-meter-ia:1.30` // `de.uni-hildesheim.sse.spassMeter,spass-meter-ia,1.30,org.objectweb.asm,6.2.0,explicit,java.base,true,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.10` // `io.ebean.tools,ebean-init,1.10,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.6` // `io.ebean.tools,ebean-init,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.7` // `io.ebean.tools,ebean-init,1.7,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.8` // `io.ebean.tools,ebean-init,1.8,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -3392,6 +3425,7 @@
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.4.2` // `com.netflix.nebula,gradle-lint-plugin,11.4.2,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.4.3` // `com.netflix.nebula,gradle-lint-plugin,11.4.3,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:11.4.4` // `com.netflix.nebula,gradle-lint-plugin,11.4.4,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.netflix.nebula:gradle-lint-plugin:12.0.0` // `com.netflix.nebula,gradle-lint-plugin,12.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` :left_right_arrow: `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
