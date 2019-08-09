@@ -271,6 +271,7 @@
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.1` // `org.apache.logging.log4j,log4j-liquibase,2.11.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.2` // `org.apache.logging.log4j,log4j-liquibase,2.11.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.12.0` // `org.apache.logging.log4j,log4j-liquibase,2.12.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.12.1` // `org.apache.logging.log4j,log4j-liquibase,2.12.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-client-all:2.21.0.Final` // `org.dashbuilder,dashbuilder-client-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.21.0.Final,-,-,automatic,-,false,-`
@@ -5581,6 +5582,7 @@
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.3` // `com.blackducksoftware.integration,phone-home-client,0.21.3,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.4` // `com.blackducksoftware.integration,phone-home-client,0.21.4,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.5` // `com.blackducksoftware.integration,phone-home-client,0.21.5,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.6` // `com.blackducksoftware.integration,phone-home-client,0.21.6,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.10.0` // `com.synopsys.integration,polaris-common,0.10.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.10.1` // `com.synopsys.integration,polaris-common,0.10.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` :left_right_arrow: `com.synopsys.integration:polaris-common:0.11.0` // `com.synopsys.integration,polaris-common,0.11.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
