@@ -6112,12 +6112,19 @@
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.7.4` // `org.immutables,android-stub,2.7.4,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.7.5` // `org.immutables,android-stub,2.7.5,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.0-CriteriaPreview0` // `org.immutables,android-stub,2.8.0-CriteriaPreview0,org.immutables.android-stub,-,automatic,-,false,-`
+- :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.0-CriteriaPreview1` // `org.immutables,android-stub,2.8.0-CriteriaPreview1,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaPreview0` // `org.immutables,criteria-common,2.8.0-CriteriaPreview0,org.immutables.criteria-common,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaPreview1` // `org.immutables,criteria-common,2.8.0-CriteriaPreview1,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaPreview0` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaPreview0,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaPreview1` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaPreview1,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaPreview0` // `org.immutables,criteria-geode,2.8.0-CriteriaPreview0,org.immutables.criteria-geode,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaPreview1` // `org.immutables,criteria-geode,2.8.0-CriteriaPreview1,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaPreview0` // `org.immutables,criteria-inmemory,2.8.0-CriteriaPreview0,org.immutables.criteria-inmemory,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaPreview1` // `org.immutables,criteria-inmemory,2.8.0-CriteriaPreview1,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaPreview0` // `org.immutables,criteria-mongo,2.8.0-CriteriaPreview0,org.immutables.criteria-mongo,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaPreview1` // `org.immutables,criteria-mongo,2.8.0-CriteriaPreview1,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava` :left_right_arrow: `org.immutables:criteria-rxjava:2.8.0-CriteriaPreview0` // `org.immutables,criteria-rxjava,2.8.0-CriteriaPreview0,org.immutables.criteria-rxjava,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-rxjava` :left_right_arrow: `org.immutables:criteria-rxjava:2.8.0-CriteriaPreview1` // `org.immutables,criteria-rxjava,2.8.0-CriteriaPreview1,org.immutables.criteria-rxjava,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.0` // `org.immutables,generator-fixture,2.7.0,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.1` // `org.immutables,generator-fixture,2.7.1,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.2` // `org.immutables,generator-fixture,2.7.2,org.immutables.generator-fixture,-,automatic,-,false,-`
@@ -6125,6 +6132,7 @@
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.4` // `org.immutables,generator-fixture,2.7.4,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.5` // `org.immutables,generator-fixture,2.7.5,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.0-CriteriaPreview0` // `org.immutables,generator-fixture,2.8.0-CriteriaPreview0,org.immutables.generator-fixture,-,automatic,-,false,-`
+- :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.0-CriteriaPreview1` // `org.immutables,generator-fixture,2.8.0-CriteriaPreview1,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.0` // `org.immutables,generator-processor,2.7.0,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.1` // `org.immutables,generator-processor,2.7.1,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.2` // `org.immutables,generator-processor,2.7.2,org.immutables.generator-processor,-,automatic,-,false,-`
@@ -6132,7 +6140,9 @@
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.4` // `org.immutables,generator-processor,2.7.4,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.5` // `org.immutables,generator-processor,2.7.5,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.0-CriteriaPreview0` // `org.immutables,generator-processor,2.8.0-CriteriaPreview0,org.immutables.generator-processor,-,automatic,-,false,-`
+- :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.0-CriteriaPreview1` // `org.immutables,generator-processor,2.8.0-CriteriaPreview1,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaPreview0` // `org.immutables,processor-testlib,2.8.0-CriteriaPreview0,org.immutables.processor-testlib,-,automatic,-,false,-`
+- :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaPreview1` // `org.immutables,processor-testlib,2.8.0-CriteriaPreview1,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.0` // `org.immutables,value-fixture,2.7.0,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.1` // `org.immutables,value-fixture,2.7.1,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.2` // `org.immutables,value-fixture,2.7.2,org.immutables.value-fixture,-,automatic,-,false,-`
@@ -6140,6 +6150,7 @@
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.4` // `org.immutables,value-fixture,2.7.4,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.5` // `org.immutables,value-fixture,2.7.5,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.0-CriteriaPreview0` // `org.immutables,value-fixture,2.8.0-CriteriaPreview0,org.immutables.value-fixture,-,automatic,-,false,-`
+- :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.0-CriteriaPreview1` // `org.immutables,value-fixture,2.8.0-CriteriaPreview1,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-camel` :left_right_arrow: `org.jberet:jberet-camel:1.3.0.Final` // `org.jberet,jberet-camel,1.3.0.Final,org.jberet.jberet-camel,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-core` :left_right_arrow: `org.jberet:jberet-core:1.3.1.Final` // `org.jberet,jberet-core,1.3.1.Final,org.jberet.jberet-core,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-core` :left_right_arrow: `org.jberet:jberet-core:1.4.0.Alpha` // `org.jberet,jberet-core,1.4.0.Alpha,org.jberet.jberet-core,-,automatic,-,false,-`

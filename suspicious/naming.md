@@ -10523,10 +10523,12 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.1` // `io.zipkin.zipkin2,zipkin,2.14.1,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.2` // `io.zipkin.zipkin2,zipkin,2.14.2,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.15.0` // `io.zipkin.zipkin2,zipkin,2.15.0,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.0` // `io.zipkin.zipkin2,zipkin,2.16.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.1` // `io.zipkin.reporter2,zipkin-reporter,2.10.1,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.2` // `io.zipkin.reporter2,zipkin-reporter,2.10.2,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`
@@ -10543,9 +10545,11 @@
 - :cd: `zipkin2.reporter` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter,2.8.3,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.1` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.1,zipkin2.reporter.activemq,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.2` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.2,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.9.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.1` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.1,zipkin2.reporter.amqp,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.2` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.2,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.10` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.10,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.13` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.13,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.14` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.14,zipkin2.reporter.amqp,-,automatic,-,false,-`
@@ -10562,6 +10566,7 @@
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-amqp-client:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-amqp-client,2.8.3,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.1` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.1,zipkin2.reporter.beans,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.2` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.2,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.10` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.10,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.13` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.13,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.14` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.14,zipkin2.reporter.beans,-,automatic,-,false,-`
@@ -10578,12 +10583,14 @@
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-spring-beans:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-spring-beans,2.8.3,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.1` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.1,zipkin2.reporter.kafka,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.2` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.2,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.4` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.4,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.9.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.9.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.0,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.1` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.1,zipkin2.reporter.kafka08,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.2` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.2,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.10,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.13,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.14` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.14,zipkin2.reporter.kafka08,-,automatic,-,false,-`
@@ -10610,6 +10617,7 @@
 - :cd: `zipkin2.reporter.kafka11` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka11:2.8.2` // `io.zipkin.reporter2,zipkin-sender-kafka11,2.8.2,zipkin2.reporter.kafka11,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.1` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.1,zipkin2.reporter.libthrift,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.2` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.2,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.10` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.10,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.13` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.13,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.14` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.14,zipkin2.reporter.libthrift,-,automatic,-,false,-`
@@ -10626,6 +10634,7 @@
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-libthrift:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-libthrift,2.8.3,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
@@ -10635,6 +10644,7 @@
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.3` // `org.apache.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.3,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.1` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.1,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.2` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.2,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.10` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.10,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.13` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.13,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.14` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.14,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
@@ -10651,6 +10661,7 @@
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `org.apache.zipkin.reporter2:zipkin-sender-okhttp3:2.8.3` // `org.apache.zipkin.reporter2,zipkin-sender-okhttp3,2.8.3,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.0` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.0,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.1` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.1,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.2` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.2,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.10` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.10,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.13` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.13,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.14` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.14,zipkin2.reporter.urlconnection,-,automatic,-,false,-`

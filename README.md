@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4837 Java modules published at Maven Central
+Counted 4838 Java modules published at Maven Central
 
-## Summary 2019-08-09T22:59:05.705062Z
+## Summary 2019-08-10T23:00:03.421792Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-09T22:59:05.705062Z
-Scanned 28,507 files in 4 seconds.
+Started scan at 2019-08-10T23:00:03.421792Z
+Scanned 28,619 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_09_22_50_21.csv
+    last -> modulescanner-report-2019_08_10_22_44_41.csv
 
-Parsed 1,798,937 lines in total.
-  32,341 -> captions skipped
-  117,024 -> duplicates skipped
-  72,684 -> module related
+Parsed 1,802,067 lines in total.
+  32,453 -> captions skipped
+  117,249 -> duplicates skipped
+  72,770 -> module related
 
-Collected 4,837 unique modules.
-  automatic :cd: -> 3,589
+Collected 4,838 unique modules.
+  automatic :cd: -> 3,590
   explicit :dvd: -> 1,248
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6657](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10667](suspicious/naming.md)
-- Modular impostors: [3668](suspicious/impostors.md)
+- Invalid module names: [6668](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10678](suspicious/naming.md)
+- Modular impostors: [3674](suspicious/impostors.md)
 
-## Unique Modules (4837)
+## Unique Modules (4838)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -333,16 +333,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.coditory.sherlock.api.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.2.2`
 - :cd: `com.coditory.sherlock.api.rxjava` :left_right_arrow: `com.coditory.sherlock:sherlock-rxjava:0.2.2`
 - :cd: `com.coditory.sherlock.api.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.2.2`
-- :cd: `com.coditory.sherlock.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.2.3`
-- :cd: `com.coditory.sherlock.inmem` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem:0.2.3`
-- :cd: `com.coditory.sherlock.inmem.common` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-common:0.2.3`
-- :cd: `com.coditory.sherlock.inmem.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-reactive:0.2.3`
-- :cd: `com.coditory.sherlock.inmem.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-sync:0.2.3`
-- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.2.3`
-- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.2.3`
-- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.2.3`
+- :cd: `com.coditory.sherlock.common` :left_right_arrow: `com.coditory.sherlock:sherlock-common:0.3.0`
+- :cd: `com.coditory.sherlock.inmem` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem:0.3.0`
+- :cd: `com.coditory.sherlock.inmem.common` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-common:0.3.0`
+- :cd: `com.coditory.sherlock.inmem.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-reactive:0.3.0`
+- :cd: `com.coditory.sherlock.inmem.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-inmem-sync:0.3.0`
+- :cd: `com.coditory.sherlock.mongo.common` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-common:0.3.0`
+- :cd: `com.coditory.sherlock.mongo.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-reactive:0.3.0`
+- :cd: `com.coditory.sherlock.mongo.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-mongo-sync:0.3.0`
 - :cd: `com.coditory.sherlock.reactive` :left_right_arrow: `com.coditory.sherlock:sherlock-reactive:0.1.12`
 - :cd: `com.coditory.sherlock.reactor` :left_right_arrow: `com.coditory.sherlock:sherlock-reactor:0.1.12`
+- :cd: `com.coditory.sherlock.sql` :left_right_arrow: `com.coditory.sherlock:sherlock-sql:0.3.0`
 - :cd: `com.coditory.sherlock.sync` :left_right_arrow: `com.coditory.sherlock:sherlock-sync:0.1.12`
 - :cd: `com.cosium.spring.data.jpa.entity.graph` :left_right_arrow: `com.cosium.spring.data:spring-data-jpa-entity-graph:2.1.0`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
@@ -533,19 +534,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.pukkaone.grapid.maven.plugin` :left_right_arrow: `com.github.pukkaone:grapid-maven-plugin:0.3.0`
 - :cd: `com.github.pukkaone.grapid.web.spring.boot.starter` :left_right_arrow: `com.github.pukkaone:grapid-web-spring-boot-starter:0.3.0`
 - :cd: `com.github.richardroda.util.closeit` :left_right_arrow: `com.github.richardroda.util:closeit:1.4`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.3.0-cr-1`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.3.0-cr-1`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.3.0-cr-1`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.3.0`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.3.0`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.3.0`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :cd: `com.github.robozonky.installer` :left_right_arrow: `com.github.robozonky:robozonky-installer:5.1.1`
 - :cd: `com.github.robozonky.installer.panels` :left_right_arrow: `com.github.robozonky.installer:robozonky-installer-panels:4.5.3`
-- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.3.0-cr-1`
-- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0-cr-1`
+- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.3.0`
+- :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
 - :cd: `com.github.robozonky.integrations.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.1.1`
 - :cd: `com.github.robozonky.marketplaces` :left_right_arrow: `com.github.robozonky:robozonky-marketplaces:4.3.4`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.3.0-cr-1`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.3.0-cr-1`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.3.0-cr-1`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.3.0`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.3.0`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.3.0`
 - :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.2`
 - :cd: `com.github.robtimus.ip.validation` :left_right_arrow: `com.github.robtimus:ip-validation:1.0.1`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.1`
@@ -1082,28 +1083,28 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.netflix.servo.example` :left_right_arrow: `com.netflix.servo:servo-example:0.12.28`
 - :cd: `com.netflix.servo.graphite` :left_right_arrow: `com.netflix.servo:servo-graphite:0.12.28`
 - :cd: `com.netflix.servo.tomcat` :left_right_arrow: `com.netflix.servo:servo-tomcat:0.12.28`
-- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.92.1`
-- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.92.1`
-- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.92.1`
-- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.92.1`
-- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.92.1`
-- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.92.1`
-- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.92.1`
-- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.92.1`
-- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.92.1`
-- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.92.1`
-- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.92.1`
-- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.92.1`
-- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.92.1`
-- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.92.1`
-- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.92.1`
-- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.92.1`
-- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.92.1`
-- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.92.1`
-- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.92.1`
-- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.92.1`
-- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.92.1`
-- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.92.1`
+- :cd: `com.netflix.spectator.agent` :left_right_arrow: `com.netflix.spectator:spectator-agent:0.92.2`
+- :cd: `com.netflix.spectator.api` :left_right_arrow: `com.netflix.spectator:spectator-api:0.92.2`
+- :cd: `com.netflix.spectator.atlas` :left_right_arrow: `com.netflix.spectator:spectator-reg-atlas:0.92.2`
+- :cd: `com.netflix.spectator.aws` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws:0.92.2`
+- :cd: `com.netflix.spectator.aws2` :left_right_arrow: `com.netflix.spectator:spectator-ext-aws2:0.92.2`
+- :cd: `com.netflix.spectator.gc` :left_right_arrow: `com.netflix.spectator:spectator-ext-gc:0.92.2`
+- :cd: `com.netflix.spectator.ipc` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipc:0.92.2`
+- :cd: `com.netflix.spectator.ipcservlet` :left_right_arrow: `com.netflix.spectator:spectator-ext-ipcservlet:0.92.2`
+- :cd: `com.netflix.spectator.jvm` :left_right_arrow: `com.netflix.spectator:spectator-ext-jvm:0.92.2`
+- :cd: `com.netflix.spectator.log4j1` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j1:0.92.2`
+- :cd: `com.netflix.spectator.log4j2` :left_right_arrow: `com.netflix.spectator:spectator-ext-log4j2:0.92.2`
+- :cd: `com.netflix.spectator.metrics3` :left_right_arrow: `com.netflix.spectator:spectator-reg-metrics3:0.92.2`
+- :cd: `com.netflix.spectator.micrometer` :left_right_arrow: `com.netflix.spectator:spectator-reg-micrometer:0.92.2`
+- :cd: `com.netflix.spectator.nflx` :left_right_arrow: `com.netflix.spectator:spectator-nflx-plugin:0.92.2`
+- :cd: `com.netflix.spectator.nflx.governator` :left_right_arrow: `com.netflix.spectator:spectator-nflx:0.92.2`
+- :cd: `com.netflix.spectator.perf` :left_right_arrow: `com.netflix.spectator:spectator-perf:0.92.2`
+- :cd: `com.netflix.spectator.placeholders` :left_right_arrow: `com.netflix.spectator:spectator-ext-placeholders:0.92.2`
+- :cd: `com.netflix.spectator.sandbox` :left_right_arrow: `com.netflix.spectator:spectator-ext-sandbox:0.92.2`
+- :cd: `com.netflix.spectator.servo` :left_right_arrow: `com.netflix.spectator:spectator-reg-servo:0.92.2`
+- :cd: `com.netflix.spectator.spark` :left_right_arrow: `com.netflix.spectator:spectator-ext-spark:0.92.2`
+- :cd: `com.netflix.spectator.spring` :left_right_arrow: `com.netflix.spectator:spectator-web-spring:0.92.2`
+- :cd: `com.netflix.spectator.stateless` :left_right_arrow: `com.netflix.spectator:spectator-reg-stateless:0.92.2`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
 - :dvd: `com.networknt.basic.auth` :left_right_arrow: `com.networknt:basic-auth:2.0.0`
@@ -3346,7 +3347,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.4`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.11`
 - :cd: `org.firebirdsql.decimal` :left_right_arrow: `org.firebirdsql:decimal-java:1.0.0`
-- :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.1`
+- :cd: `org.firebirdsql.testcontainers` :left_right_arrow: `org.firebirdsql:firebird-testcontainers-java:1.0.2`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :cd: `org.flywaydb.core` :left_right_arrow: `org.flywaydb:flyway-core:6.0.0-beta2`
 - :cd: `org.freedesktop.gstreamer` :left_right_arrow: `org.freedesktop.gstreamer:gst1-java-core:1.1.0`
@@ -3394,23 +3395,23 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.hibernate.validator.cdi` :left_right_arrow: `org.hibernate.validator:hibernate-validator-cdi:6.1.0.Alpha6`
 - :cd: `org.hibernate.validator.testutils` :left_right_arrow: `org.hibernate.validator:hibernate-validator-test-utils:6.1.0.Alpha6`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
-- :cd: `org.immutables.annotate` :left_right_arrow: `org.immutables:annotate:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.builder` :left_right_arrow: `org.immutables:builder:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.encode` :left_right_arrow: `org.immutables:encode:2.8.0-CriteriaPreview0`
+- :cd: `org.immutables.annotate` :left_right_arrow: `org.immutables:annotate:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.builder` :left_right_arrow: `org.immutables:builder:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.encode` :left_right_arrow: `org.immutables:encode:2.8.0-CriteriaPreview1`
 - :cd: `org.immutables.eventual` :left_right_arrow: `org.immutables:eventual:1.1`
-- :cd: `org.immutables.func` :left_right_arrow: `org.immutables:func:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.generator` :left_right_arrow: `org.immutables:generator:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.gson` :left_right_arrow: `org.immutables:gson:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.metainf` :left_right_arrow: `org.immutables:metainf:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.mirror` :left_right_arrow: `org.immutables:mirror:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.mongo` :left_right_arrow: `org.immutables:mongo:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.ordinal` :left_right_arrow: `org.immutables:ordinal:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.serial` :left_right_arrow: `org.immutables:serial:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.testing` :left_right_arrow: `org.immutables:testing:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.trees` :left_right_arrow: `org.immutables:trees:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.value` :left_right_arrow: `org.immutables:value:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.value.annotations` :left_right_arrow: `org.immutables:value-annotations:2.8.0-CriteriaPreview0`
-- :cd: `org.immutables.value.processor` :left_right_arrow: `org.immutables:value-processor:2.8.0-CriteriaPreview0`
+- :cd: `org.immutables.func` :left_right_arrow: `org.immutables:func:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.generator` :left_right_arrow: `org.immutables:generator:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.gson` :left_right_arrow: `org.immutables:gson:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.metainf` :left_right_arrow: `org.immutables:metainf:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.mirror` :left_right_arrow: `org.immutables:mirror:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.mongo` :left_right_arrow: `org.immutables:mongo:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.ordinal` :left_right_arrow: `org.immutables:ordinal:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.serial` :left_right_arrow: `org.immutables:serial:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.testing` :left_right_arrow: `org.immutables:testing:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.trees` :left_right_arrow: `org.immutables:trees:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.value` :left_right_arrow: `org.immutables:value:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.value.annotations` :left_right_arrow: `org.immutables:value-annotations:2.8.0-CriteriaPreview1`
+- :cd: `org.immutables.value.processor` :left_right_arrow: `org.immutables:value-processor:2.8.0-CriteriaPreview1`
 - :dvd: `org.immutables.vavr.encodings` :left_right_arrow: `org.immutables.vavr:vavr-encodings:0.6.0`
 - :cd: `org.incode.example.alias` :left_right_arrow: `org.incode.example.alias:incode-example-alias-dom:1.16.2`
 - :cd: `org.incode.example.classification` :left_right_arrow: `org.incode.example.classification:incode-example-classification-dom:1.16.2`
@@ -4337,10 +4338,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.4.0.1`
 - :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.4.0.1`
 - :cd: `org.terracotta.statistics` :left_right_arrow: `org.terracotta:statistics:2.1`
-- :cd: `org.testfx` :left_right_arrow: `org.testfx:testfx-core:4.0.15-alpha`
+- :cd: `org.testfx` :left_right_arrow: `org.testfx:testfx-core:4.0.16-alpha`
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :cd: `org.testfx.junit` :left_right_arrow: `org.testfx:testfx-junit:4.0.15-alpha`
-- :cd: `org.testfx.junit5` :left_right_arrow: `org.testfx:testfx-junit5:4.0.15-alpha`
+- :cd: `org.testfx.junit5` :left_right_arrow: `org.testfx:testfx-junit5:4.0.16-alpha`
 - :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0-beta7`
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.4.0`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
