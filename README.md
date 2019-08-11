@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 4838 Java modules published at Maven Central
+Counted 4848 Java modules published at Maven Central
 
-## Summary 2019-08-10T23:00:03.421792Z
+## Summary 2019-08-11T23:00:35.370926Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-10T23:00:03.421792Z
-Scanned 28,619 files in 3 seconds.
+Started scan at 2019-08-11T23:00:35.370926Z
+Scanned 28,732 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_10_22_44_41.csv
+    last -> modulescanner-report-2019_08_11_22_43_40.csv
 
-Parsed 1,802,067 lines in total.
-  32,453 -> captions skipped
-  117,249 -> duplicates skipped
-  72,770 -> module related
+Parsed 1,804,793 lines in total.
+  32,566 -> captions skipped
+  117,393 -> duplicates skipped
+  72,842 -> module related
 
-Collected 4,838 unique modules.
-  automatic :cd: -> 3,590
+Collected 4,848 unique modules.
+  automatic :cd: -> 3,600
   explicit :dvd: -> 1,248
 
 ## Samples
@@ -91,16 +91,25 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6668](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10678](suspicious/naming.md)
-- Modular impostors: [3674](suspicious/impostors.md)
+- Invalid module names: [6669](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [10712](suspicious/naming.md)
+- Modular impostors: [3676](suspicious/impostors.md)
 
-## Unique Modules (4838)
+## Unique Modules (4848)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :cd: `au.com.dius.core` :left_right_arrow: `au.com.dius:core:4.0.0-beta.0`
+- :cd: `au.net.causal.shoelaces.apphome` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-apphome:2.0`
+- :cd: `au.net.causal.shoelaces.assorted` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-assorted:2.0`
+- :cd: `au.net.causal.shoelaces.jdbc` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-jdbc:2.0`
+- :cd: `au.net.causal.shoelaces.jersey` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-jersey:2.0`
+- :cd: `au.net.causal.shoelaces.jerseyclient` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-jersey-client:2.0`
+- :cd: `au.net.causal.shoelaces.liquibase` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-liquibase:2.0`
+- :cd: `au.net.causal.shoelaces.logconfig` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-logconfig:2.0`
+- :cd: `au.net.causal.shoelaces.testing` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-testing:2.0`
+- :cd: `au.net.causal.shoelaces.testing.selenium` :left_right_arrow: `au.net.causal.shoelaces:shoelaces-selenium:2.0`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.1`
@@ -179,6 +188,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.11:0.4.1`
 - :cd: `ch.obermuhlner.math.big` :left_right_arrow: `ch.obermuhlner:big-math:2.1.0`
 - :cd: `ch.obermuhlner.scriptengine.jshell` :left_right_arrow: `ch.obermuhlner:scriptengine-jshell:0.1.0`
+- :cd: `ch.obermuhlner.scriptengine.spring.expression` :left_right_arrow: `ch.obermuhlner:spel-scriptengine:1.0.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha4`
 - :cd: `ch.ralscha.extdirectspring` :left_right_arrow: `ch.ralscha:extdirectspring:1.8.1`
@@ -483,11 +493,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.gv2011.util.beans.imp` :left_right_arrow: `com.github.gv2011:util-beans:0.4.0`
 - :cd: `com.github.gv2011.util.gcol` :left_right_arrow: `com.github.gv2011:gcol:0.4.0`
 - :cd: `com.github.gv2011.util.tika` :left_right_arrow: `com.github.gv2011:filetypes-tika:0.4.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.9`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.9`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.9`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.9`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.9`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.10`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.10`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.10`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.10`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.10`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -1196,12 +1206,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.11`
 - :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.11`
 - :cd: `com.orsonpdf.orsonpdf` :left_right_arrow: `com.orsonpdf:orsonpdf:1.9`
-- :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.2`
-- :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.2`
-- :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-stripe:0.0.2`
+- :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.3`
+- :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.3`
+- :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-stripe:0.0.3`
 - :cd: `com.peruncs.gwt.uikit` :left_right_arrow: `com.peruncs.gwt:gwt-uikit:0.0.2`
 - :cd: `com.peruncs.gwt.utils` :left_right_arrow: `com.peruncs.gwt:gwt-utils:0.0.2`
-- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.9`
+- :cd: `com.peruncs.odbjca` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.10`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-api:0.0.1`
 - :dvd: `com.pgssoft.httpclient` :left_right_arrow: `com.pgs-soft:HttpClientMock:1.0.0`
 - :cd: `com.powsybl.action.dsl` :left_right_arrow: `com.powsybl:powsybl-action-dsl:2.6.0`
@@ -1589,10 +1599,10 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.cucumber.c21e` :left_right_arrow: `io.cucumber:c21e:1.2.1`
 - :cd: `io.cucumber.cdi2` :left_right_arrow: `io.cucumber:cucumber-cdi2:4.7.1`
 - :cd: `io.cucumber.core` :left_right_arrow: `io.cucumber:cucumber-core:4.7.1`
-- :cd: `io.cucumber.cucumberexpressions` :left_right_arrow: `io.cucumber:cucumber-expressions:7.0.2`
+- :cd: `io.cucumber.cucumberexpressions` :left_right_arrow: `io.cucumber:cucumber-expressions:8.0.0`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:messages:1.1.2`
-- :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:1.1.14`
-- :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:1.1.14`
+- :cd: `io.cucumber.datatable.dependencies` :left_right_arrow: `io.cucumber:datatable-dependencies:2.0.0`
+- :cd: `io.cucumber.datatable.matchers` :left_right_arrow: `io.cucumber:datatable-matchers:2.0.0`
 - :cd: `io.cucumber.expressions` :left_right_arrow: `io.cucumber:cucumber-expressions:6.1.2`
 - :cd: `io.cucumber.guice` :left_right_arrow: `io.cucumber:cucumber-guice:4.7.1`
 - :cd: `io.cucumber.java` :left_right_arrow: `io.cucumber:cucumber-java:4.7.1`
@@ -1825,7 +1835,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.hschwentner.dddbits` :left_right_arrow: `io.hschwentner.dddbits:dddbits:0.0.1`
 - :cd: `io.immutables.that` :left_right_arrow: `io.immutables:that:0.1.0`
 - :cd: `io.janusproject.plugin` :left_right_arrow: `io.janusproject:io.janusproject.plugin:0.9.0`
-- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.3.0`
+- :cd: `io.javalin` :left_right_arrow: `io.javalin:javalin:3.4.1`
 - :cd: `io.jenetics.base` :left_right_arrow: `io.jenetics:jenetics:5.0.1`
 - :cd: `io.jenetics.ext` :left_right_arrow: `io.jenetics:jenetics.ext:5.0.1`
 - :cd: `io.jenetics.jpx` :left_right_arrow: `io.jenetics:jpx:1.5.2`
@@ -2081,15 +2091,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
-- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.152`
-- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.152`
-- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.152`
-- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.152`
-- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.110`
-- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.110`
-- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.110`
-- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.110`
-- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.110`
+- :cd: `name.remal.gradle_plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.153`
+- :cd: `name.remal.gradle_plugins_api` :left_right_arrow: `name.remal:gradle-plugins-api:1.0.153`
+- :cd: `name.remal.gradle_plugins_kotlin_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-dsl:1.0.153`
+- :cd: `name.remal.gradle_plugins_kotlin_testing_dsl` :left_right_arrow: `name.remal:gradle-plugins-kotlin-testing-dsl:1.0.153`
+- :cd: `name.remal.tools.common` :left_right_arrow: `name.remal.tools:common:1.26.111`
+- :cd: `name.remal.tools.json` :left_right_arrow: `name.remal.tools:json:1.26.111`
+- :cd: `name.remal.tools.test.common` :left_right_arrow: `name.remal.tools.test:common:1.26.111`
+- :cd: `name.remal.tools.test.junit4` :left_right_arrow: `name.remal.tools.test:junit4:1.26.111`
+- :cd: `name.remal.tools.test.junit5` :left_right_arrow: `name.remal.tools.test:junit5:1.26.111`
 - :cd: `net.adamcin.oakpal.core` :left_right_arrow: `net.adamcin.oakpal:oakpal-core:1.4.0-RC1`
 - :cd: `net.adamcin.oakpal.webster` :left_right_arrow: `net.adamcin.oakpal:oakpal-webster:1.4.0-RC1`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.1`
@@ -4444,8 +4454,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.xmlunit.placeholder` :left_right_arrow: `org.xmlunit:xmlunit-placeholders:2.6.3`
 - :cd: `org.yaml.snakeyaml` :left_right_arrow: `org.yaml:snakeyaml:1.24`
 - :cd: `p6spy` :left_right_arrow: `p6spy:p6spy:3.8.5`
-- :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.0`
-- :cd: `pl.tlinkowski.gradle.my.superpom` :left_right_arrow: `pl.tlinkowski.gradle.my:my-superpom-gradle-plugin:0.1.0`
+- :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.2`
+- :cd: `pl.tlinkowski.gradle.my.superpom` :left_right_arrow: `pl.tlinkowski.gradle.my:my-superpom-gradle-plugin:0.1.2`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
 - :cd: `rocks.xmpp.addr` :left_right_arrow: `rocks.xmpp:xmpp-addr:0.8.1`

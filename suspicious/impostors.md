@@ -1240,6 +1240,7 @@
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.8` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.8,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.9` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.9,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-recaptcha:0.0.2` // `com.peruncs.gwt,gwt-recaptcha,0.0.2,com.peruncs.gwt.stripe,-,automatic,-,false,-`
+- :cd: `com.peruncs.gwt.stripe` :left_right_arrow: `com.peruncs.gwt:gwt-recaptcha:0.0.3` // `com.peruncs.gwt,gwt-recaptcha,0.0.3,com.peruncs.gwt.stripe,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs:orientdb-jca:0.0.2` // `com.peruncs,orientdb-jca,0.0.2,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-rar:0.0.1` // `com.peruncs.odbjca,odbjca-rar,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-rar-all:0.0.1` // `com.peruncs.odbjca,odbjca-rar-all,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
@@ -1305,6 +1306,7 @@
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.14` // `io.cucumber,datatable,1.1.14,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.6` // `io.cucumber,datatable,1.1.6,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.7` // `io.cucumber,datatable,1.1.7,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:2.0.0` // `io.cucumber,datatable,2.0.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `cloud.orbit:orbit-core:1.12.0` // `cloud.orbit,orbit-core,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `cloud.orbit:orbit-runtime:1.12.0` // `cloud.orbit,orbit-runtime,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.github.bogie-clj:playground:0.1.1` // `com.github.bogie-clj,playground,0.1.1,io.github.classgraph,4.6.32,explicit,java.base + java.management + java.xml + jdk.unsupported,false,-`
