@@ -4704,6 +4704,7 @@
 - :dvd: `corerpc` :left_right_arrow: `com.ensarsarajcic.neovim.java:core-rpc:0.1.13` // `com.ensarsarajcic.neovim.java,core-rpc,0.1.13,corerpc,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + jackson.annotations + jackson.dataformat.msgpack + java.base + slf4j.api,false,-`
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:0.9` // `com.github.corese4rch,cvurl-io,0.9,coresearch.cvurl.io,0.9,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:1.0` // `com.github.corese4rch,cvurl-io,1.0,coresearch.cvurl.io,1.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
+- :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:1.1` // `com.github.corese4rch,cvurl-io,1.1,coresearch.cvurl.io,1.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.4.0` // `de.carne.common,java-default,8.4.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.6.0` // `de.carne.common,java-default,8.6.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.7.0` // `de.carne.common,java-default,8.7.0,de.carne,-,automatic,-,false,-`
@@ -5764,6 +5765,7 @@
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.5` // `net.dreamlu,mica-boot,1.1.5,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.6` // `net.dreamlu,mica-boot,1.1.6,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.7` // `net.dreamlu,mica-boot,1.1.7,mica.boot,-,automatic,-,false,-`
+- :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.8` // `net.dreamlu,mica-boot,1.1.8,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.0` // `net.dreamlu,mica-boot-test,1.1.0,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.1` // `net.dreamlu,mica-boot-test,1.1.1,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.2` // `net.dreamlu,mica-boot-test,1.1.2,mica.boot.test,-,automatic,-,false,-`
@@ -5772,6 +5774,7 @@
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.5` // `net.dreamlu,mica-boot-test,1.1.5,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.6` // `net.dreamlu,mica-boot-test,1.1.6,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.7` // `net.dreamlu,mica-boot-test,1.1.7,mica.boot.test,-,automatic,-,false,-`
+- :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.8` // `net.dreamlu,mica-boot-test,1.1.8,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.0` // `net.dreamlu,mica-captcha,1.1.0,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.1` // `net.dreamlu,mica-captcha,1.1.1,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.2` // `net.dreamlu,mica-captcha,1.1.2,mica.captcha,-,automatic,-,false,-`
@@ -5780,6 +5783,7 @@
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.5` // `net.dreamlu,mica-captcha,1.1.5,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.6` // `net.dreamlu,mica-captcha,1.1.6,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.7` // `net.dreamlu,mica-captcha,1.1.7,mica.captcha,-,automatic,-,false,-`
+- :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.8` // `net.dreamlu,mica-captcha,1.1.8,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.0` // `net.dreamlu,mica-cloud,1.1.0,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.1` // `net.dreamlu,mica-cloud,1.1.1,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.2` // `net.dreamlu,mica-cloud,1.1.2,mica.cloud,-,automatic,-,false,-`
@@ -5788,6 +5792,7 @@
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.5` // `net.dreamlu,mica-cloud,1.1.5,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.6` // `net.dreamlu,mica-cloud,1.1.6,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.7` // `net.dreamlu,mica-cloud,1.1.7,mica.cloud,-,automatic,-,false,-`
+- :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.8` // `net.dreamlu,mica-cloud,1.1.8,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.0` // `net.dreamlu,mica-core,1.1.0,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.1` // `net.dreamlu,mica-core,1.1.1,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.2` // `net.dreamlu,mica-core,1.1.2,mica.core,-,automatic,-,false,-`
@@ -5796,11 +5801,13 @@
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.5` // `net.dreamlu,mica-core,1.1.5,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.6` // `net.dreamlu,mica-core,1.1.6,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.7` // `net.dreamlu,mica-core,1.1.7,mica.core,-,automatic,-,false,-`
+- :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.8` // `net.dreamlu,mica-core,1.1.8,mica.core,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.3` // `net.dreamlu,mica-http,1.1.3,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.4` // `net.dreamlu,mica-http,1.1.4,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.5` // `net.dreamlu,mica-http,1.1.5,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.6` // `net.dreamlu,mica-http,1.1.6,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.7` // `net.dreamlu,mica-http,1.1.7,mica.http,-,automatic,-,false,-`
+- :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.8` // `net.dreamlu,mica-http,1.1.8,mica.http,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.0` // `net.dreamlu,mica-launcher,1.1.0,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.1` // `net.dreamlu,mica-launcher,1.1.1,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.2` // `net.dreamlu,mica-launcher,1.1.2,mica.launcher,-,automatic,-,false,-`
@@ -5809,7 +5816,9 @@
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.5` // `net.dreamlu,mica-launcher,1.1.5,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.6` // `net.dreamlu,mica-launcher,1.1.6,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.7` // `net.dreamlu,mica-launcher,1.1.7,mica.launcher,-,automatic,-,false,-`
+- :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.8` // `net.dreamlu,mica-launcher,1.1.8,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.laytpl` :left_right_arrow: `net.dreamlu:mica-laytpl:1.1.7` // `net.dreamlu,mica-laytpl,1.1.7,mica.laytpl,-,automatic,-,false,-`
+- :cd: `mica.laytpl` :left_right_arrow: `net.dreamlu:mica-laytpl:1.1.8` // `net.dreamlu,mica-laytpl,1.1.8,mica.laytpl,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.0` // `net.dreamlu,mica-log4j2,1.1.0,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.1` // `net.dreamlu,mica-log4j2,1.1.1,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.2` // `net.dreamlu,mica-log4j2,1.1.2,mica.log4j2,-,automatic,-,false,-`
@@ -5818,6 +5827,7 @@
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.5` // `net.dreamlu,mica-log4j2,1.1.5,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.6` // `net.dreamlu,mica-log4j2,1.1.6,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.7` // `net.dreamlu,mica-log4j2,1.1.7,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.8` // `net.dreamlu,mica-log4j2,1.1.8,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.0` // `net.dreamlu,mica-plus-mongo,1.1.0,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.1` // `net.dreamlu,mica-plus-mongo,1.1.1,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.2` // `net.dreamlu,mica-plus-mongo,1.1.2,mica.plus.mongo,-,automatic,-,false,-`
@@ -5826,6 +5836,7 @@
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.5` // `net.dreamlu,mica-plus-mongo,1.1.5,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.6` // `net.dreamlu,mica-plus-mongo,1.1.6,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.7` // `net.dreamlu,mica-plus-mongo,1.1.7,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.8` // `net.dreamlu,mica-plus-mongo,1.1.8,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.0` // `net.dreamlu,mica-plus-redis,1.1.0,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.1` // `net.dreamlu,mica-plus-redis,1.1.1,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.2` // `net.dreamlu,mica-plus-redis,1.1.2,mica.plus.redis,-,automatic,-,false,-`
@@ -5834,27 +5845,32 @@
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.5` // `net.dreamlu,mica-plus-redis,1.1.5,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.6` // `net.dreamlu,mica-plus-redis,1.1.6,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.7` // `net.dreamlu,mica-plus-redis,1.1.7,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.8` // `net.dreamlu,mica-plus-redis,1.1.8,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.3` // `net.dreamlu,mica-plus-ribbon,1.1.3,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.4` // `net.dreamlu,mica-plus-ribbon,1.1.4,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.5` // `net.dreamlu,mica-plus-ribbon,1.1.5,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.6` // `net.dreamlu,mica-plus-ribbon,1.1.6,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.7` // `net.dreamlu,mica-plus-ribbon,1.1.7,mica.plus.ribbon,-,automatic,-,false,-`
+- :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.8` // `net.dreamlu,mica-plus-ribbon,1.1.8,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.3` // `net.dreamlu,mica-plus-social,1.1.3,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.4` // `net.dreamlu,mica-plus-social,1.1.4,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.5` // `net.dreamlu,mica-plus-social,1.1.5,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.6` // `net.dreamlu,mica-plus-social,1.1.6,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.7` // `net.dreamlu,mica-plus-social,1.1.7,mica.plus.social,-,automatic,-,false,-`
+- :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.8` // `net.dreamlu,mica-plus-social,1.1.8,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.2` // `net.dreamlu,mica-plus-swagger,1.1.2,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.3` // `net.dreamlu,mica-plus-swagger,1.1.3,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.4` // `net.dreamlu,mica-plus-swagger,1.1.4,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.5` // `net.dreamlu,mica-plus-swagger,1.1.5,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.6` // `net.dreamlu,mica-plus-swagger,1.1.6,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.7` // `net.dreamlu,mica-plus-swagger,1.1.7,mica.plus.swagger,-,automatic,-,false,-`
+- :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.8` // `net.dreamlu,mica-plus-swagger,1.1.8,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.3` // `net.dreamlu,mica-social,1.1.3,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.4` // `net.dreamlu,mica-social,1.1.4,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.5` // `net.dreamlu,mica-social,1.1.5,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.6` // `net.dreamlu,mica-social,1.1.6,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.7` // `net.dreamlu,mica-social,1.1.7,mica.social,-,automatic,-,false,-`
+- :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.8` // `net.dreamlu,mica-social,1.1.8,mica.social,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.0` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.0,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.args.types` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:class-argument-converter:1.1.1` // `name.falgout.jeffrey.testing.junit5,class-argument-converter,1.1.1,name.falgout.jeffrey.testing.junit.args.types,-,automatic,-,false,-`
 - :cd: `name.falgout.jeffrey.testing.junit.disable` :left_right_arrow: `name.falgout.jeffrey.testing.junit5:disable-extension:1.1.0` // `name.falgout.jeffrey.testing.junit5,disable-extension,1.1.0,name.falgout.jeffrey.testing.junit.disable,-,automatic,-,false,-`
@@ -10693,6 +10709,7 @@
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.7` // `uk.co.real-logic,sbe-all,1.12.7,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.8` // `uk.co.real-logic,sbe-all,1.12.8,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.13.0` // `uk.co.real-logic,sbe-all,1.13.0,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.13.1` // `uk.co.real-logic,sbe-all,1.13.1,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.1` // `uk.co.real-logic,sbe-tool,1.12.1,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.2` // `uk.co.real-logic,sbe-tool,1.12.2,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.3` // `uk.co.real-logic,sbe-tool,1.12.3,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
@@ -10702,6 +10719,7 @@
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.7` // `uk.co.real-logic,sbe-tool,1.12.7,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.8` // `uk.co.real-logic,sbe-tool,1.12.8,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.13.0` // `uk.co.real-logic,sbe-tool,1.13.0,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
+- :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.13.1` // `uk.co.real-logic,sbe-tool,1.13.1,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel,4.8.0,uk.co.spudsoft.birt.emitters.excel,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel.tests` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel.tests:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel.tests,4.8.0,uk.co.spudsoft.birt.emitters.excel.tests,-,automatic,-,false,-`
 - :cd: `unbescape` :left_right_arrow: `org.unbescape:unbescape:1.1.6.RELEASE` // `org.unbescape,unbescape,1.1.6.RELEASE,unbescape,-,automatic,-,false,-`
