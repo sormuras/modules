@@ -1283,6 +1283,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.3` // `com.vladmihalcea,hibernate-types-43,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.4` // `com.vladmihalcea,hibernate-types-43,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.5.0` // `com.vladmihalcea,hibernate-types-43,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.5.1` // `com.vladmihalcea,hibernate-types-43,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1293,6 +1294,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.3` // `com.vladmihalcea,hibernate-types-5,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.4` // `com.vladmihalcea,hibernate-types-5,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.5.0` // `com.vladmihalcea,hibernate-types-5,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.5.1` // `com.vladmihalcea,hibernate-types-5,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1303,6 +1305,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.3` // `com.vladmihalcea,hibernate-types-52,2.4.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.4` // `com.vladmihalcea,hibernate-types-52,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.5.0` // `com.vladmihalcea,hibernate-types-52,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.5.1` // `com.vladmihalcea,hibernate-types-52,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.4` // `de.mkammerer,argon2-jvm-nolibs,2.4,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
@@ -2613,6 +2616,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.2` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.3` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.4` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.redisson:redisson-all:3.10.1` // `org.redisson,redisson-all,3.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.4.0` // `co.elastic.apm,apm-agent-attach,1.4.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.5.0` // `co.elastic.apm,apm-agent-attach,1.5.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -3657,6 +3661,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.44` // `org.reaktivity,nukleus-oauth,0.44,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.45` // `org.reaktivity,nukleus-oauth,0.45,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.46` // `org.reaktivity,nukleus-oauth,0.46,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.47` // `org.reaktivity,nukleus-oauth,0.47,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
