@@ -73,10 +73,12 @@
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M3,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M4,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M5` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M5,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.12:2.6.0-M6` // `com.typesafe.akka,akka-actor_2.12,2.6.0-M6,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.5.23` // `com.typesafe.akka,akka-actor_2.13,2.5.23,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M3,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M4,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M5` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M5,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13:2.6.0-M6` // `com.typesafe.akka,akka-actor_2.13,2.6.0-M6,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.15,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.16,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor_2.13.0-M3,2.5.17,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -112,10 +114,12 @@
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M3,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M4,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M5` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M5,akka.actor.testkit,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.12:2.6.0-M6` // `com.typesafe.akka,akka-testkit_2.12,2.6.0-M6,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-testkit_2.13,2.5.23,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M3,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M4,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M5` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M5,akka.actor.testkit,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13:2.6.0-M6` // `com.typesafe.akka,akka-testkit_2.13,2.6.0-M6,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.15,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.16,akka.actor.testkit,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit` :left_right_arrow: `com.typesafe.akka:akka-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-testkit_2.13.0-M3,2.5.17,akka.actor.testkit,-,automatic,-,false,-`
@@ -148,10 +152,12 @@
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M3,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M4,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M5,akka.actor.testkit.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-actor-testkit-typed_2.12,2.6.0-M6,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.5.23` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.5.23,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M3,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M4,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M5,akka.actor.testkit.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-actor-testkit-typed_2.13,2.6.0-M6,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.15,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.16,akka.actor.testkit.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.testkit.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-testkit-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor-testkit-typed_2.13.0-M3,2.5.17,akka.actor.testkit.typed,-,automatic,-,false,-`
@@ -184,10 +190,12 @@
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M3,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M4,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M5,akka.actor.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-actor-typed_2.12,2.6.0-M6,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.5.23` // `com.typesafe.akka,akka-actor-typed_2.13,2.5.23,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M3,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M4,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M5,akka.actor.typed,-,automatic,-,false,-`
+- :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-actor-typed_2.13,2.6.0-M6,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.15,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.16,akka.actor.typed,-,automatic,-,false,-`
 - :cd: `akka.actor.typed` :left_right_arrow: `com.typesafe.akka:akka-actor-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-actor-typed_2.13.0-M3,2.5.17,akka.actor.typed,-,automatic,-,false,-`
@@ -285,10 +293,12 @@
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M3,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M4,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M5,akka.cluster,-,automatic,-,false,-`
+- :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster_2.12,2.6.0-M6,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.5.23` // `com.typesafe.akka,akka-cluster_2.13,2.5.23,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M3,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M4,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M5,akka.cluster,-,automatic,-,false,-`
+- :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster_2.13,2.6.0-M6,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.15,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.16,akka.cluster,-,automatic,-,false,-`
 - :cd: `akka.cluster` :left_right_arrow: `com.typesafe.akka:akka-cluster_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster_2.13.0-M3,2.5.17,akka.cluster,-,automatic,-,false,-`
@@ -324,10 +334,12 @@
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M3` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M3,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M4` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M4,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M5` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M5,akka.cluster.ddata,-,automatic,-,false,-`
+- :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.12:2.6.0-M6` // `com.typesafe.akka,akka-distributed-data_2.12,2.6.0-M6,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.5.23` // `com.typesafe.akka,akka-distributed-data_2.13,2.5.23,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M3` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M3,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M4` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M4,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M5` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M5,akka.cluster.ddata,-,automatic,-,false,-`
+- :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13:2.6.0-M6` // `com.typesafe.akka,akka-distributed-data_2.13,2.6.0-M6,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.15,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.16,akka.cluster.ddata,-,automatic,-,false,-`
 - :cd: `akka.cluster.ddata` :left_right_arrow: `com.typesafe.akka:akka-distributed-data_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-distributed-data_2.13.0-M3,2.5.17,akka.cluster.ddata,-,automatic,-,false,-`
@@ -363,10 +375,12 @@
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M3,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M4,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M5,akka.cluster.metrics,-,automatic,-,false,-`
+- :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster-metrics_2.12,2.6.0-M6,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.5.23,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M3,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M4,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M5,akka.cluster.metrics,-,automatic,-,false,-`
+- :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster-metrics_2.13,2.6.0-M6,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.15,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.16,akka.cluster.metrics,-,automatic,-,false,-`
 - :cd: `akka.cluster.metrics` :left_right_arrow: `com.typesafe.akka:akka-cluster-metrics_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-metrics_2.13.0-M3,2.5.17,akka.cluster.metrics,-,automatic,-,false,-`
@@ -402,10 +416,12 @@
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M3,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M4,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M5,akka.cluster.sharding,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster-sharding_2.12,2.6.0-M6,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.5.23,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M3,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M4,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M5,akka.cluster.sharding,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster-sharding_2.13,2.6.0-M6,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.15,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.16,akka.cluster.sharding,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-sharding_2.13.0-M3,2.5.17,akka.cluster.sharding,-,automatic,-,false,-`
@@ -438,10 +454,12 @@
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M3,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M4,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M5,akka.cluster.sharding.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster-sharding-typed_2.12,2.6.0-M6,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.5.23,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M3,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M4,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M5,akka.cluster.sharding.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13,2.6.0-M6,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.15,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.16,akka.cluster.sharding.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.sharding.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-sharding-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-sharding-typed_2.13.0-M3,2.5.17,akka.cluster.sharding.typed,-,automatic,-,false,-`
@@ -477,10 +495,12 @@
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M3,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M4,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M5,akka.cluster.tools,-,automatic,-,false,-`
+- :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster-tools_2.12,2.6.0-M6,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-tools_2.13,2.5.23,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M3,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M4,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M5,akka.cluster.tools,-,automatic,-,false,-`
+- :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster-tools_2.13,2.6.0-M6,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.15,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.16,akka.cluster.tools,-,automatic,-,false,-`
 - :cd: `akka.cluster.tools` :left_right_arrow: `com.typesafe.akka:akka-cluster-tools_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-tools_2.13.0-M3,2.5.17,akka.cluster.tools,-,automatic,-,false,-`
@@ -513,10 +533,12 @@
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M3,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M4,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M5,akka.cluster.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-cluster-typed_2.12,2.6.0-M6,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.5.23` // `com.typesafe.akka,akka-cluster-typed_2.13,2.5.23,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M3,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M4,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M5,akka.cluster.typed,-,automatic,-,false,-`
+- :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-cluster-typed_2.13,2.6.0-M6,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.15,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.16,akka.cluster.typed,-,automatic,-,false,-`
 - :cd: `akka.cluster.typed` :left_right_arrow: `com.typesafe.akka:akka-cluster-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-cluster-typed_2.13.0-M3,2.5.17,akka.cluster.typed,-,automatic,-,false,-`
@@ -571,10 +593,12 @@
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M3` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M3,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M4` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M4,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M5` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M5,akka.coordination,-,automatic,-,false,-`
+- :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.12:2.6.0-M6` // `com.typesafe.akka,akka-coordination_2.12,2.6.0-M6,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.5.23` // `com.typesafe.akka,akka-coordination_2.13,2.5.23,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M3` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M3,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M4` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M4,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M5` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M5,akka.coordination,-,automatic,-,false,-`
+- :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13:2.6.0-M6` // `com.typesafe.akka,akka-coordination_2.13,2.6.0-M6,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-M5:2.5.22` // `com.typesafe.akka,akka-coordination_2.13.0-M5,2.5.22,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-M5:2.6.0-M1` // `com.typesafe.akka,akka-coordination_2.13.0-M5,2.6.0-M1,akka.coordination,-,automatic,-,false,-`
 - :cd: `akka.coordination` :left_right_arrow: `com.typesafe.akka:akka-coordination_2.13.0-RC1:2.5.22` // `com.typesafe.akka,akka-coordination_2.13.0-RC1,2.5.22,akka.coordination,-,automatic,-,false,-`
@@ -596,10 +620,12 @@
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M3` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M3,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M4` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M4,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M5` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M5,akka.discovery,-,automatic,-,false,-`
+- :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.12:2.6.0-M6` // `com.typesafe.akka,akka-discovery_2.12,2.6.0-M6,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.5.23` // `com.typesafe.akka,akka-discovery_2.13,2.5.23,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M3` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M3,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M4` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M4,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M5` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M5,akka.discovery,-,automatic,-,false,-`
+- :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13:2.6.0-M6` // `com.typesafe.akka,akka-discovery_2.13,2.6.0-M6,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.19` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.19,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.20` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.20,akka.discovery,-,automatic,-,false,-`
 - :cd: `akka.discovery` :left_right_arrow: `com.typesafe.akka:akka-discovery_2.13.0-M5:2.5.21` // `com.typesafe.akka,akka-discovery_2.13.0-M5,2.5.21,akka.discovery,-,automatic,-,false,-`
@@ -803,10 +829,12 @@
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M3` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M3,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M4` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M4,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M5` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M5,akka.osgi,-,automatic,-,false,-`
+- :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.12:2.6.0-M6` // `com.typesafe.akka,akka-osgi_2.12,2.6.0-M6,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.5.23` // `com.typesafe.akka,akka-osgi_2.13,2.5.23,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M3` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M3,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M4` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M4,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M5` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M5,akka.osgi,-,automatic,-,false,-`
+- :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13:2.6.0-M6` // `com.typesafe.akka,akka-osgi_2.13,2.6.0-M6,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.15,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.16,akka.osgi,-,automatic,-,false,-`
 - :cd: `akka.osgi` :left_right_arrow: `com.typesafe.akka:akka-osgi_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-osgi_2.13.0-M3,2.5.17,akka.osgi,-,automatic,-,false,-`
@@ -842,10 +870,12 @@
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M3,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M4,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M5` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M5,akka.persistence,-,automatic,-,false,-`
+- :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.12:2.6.0-M6` // `com.typesafe.akka,akka-persistence_2.12,2.6.0-M6,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.5.23` // `com.typesafe.akka,akka-persistence_2.13,2.5.23,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M3,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M4,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M5` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M5,akka.persistence,-,automatic,-,false,-`
+- :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13:2.6.0-M6` // `com.typesafe.akka,akka-persistence_2.13,2.6.0-M6,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.15,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.16,akka.persistence,-,automatic,-,false,-`
 - :cd: `akka.persistence` :left_right_arrow: `com.typesafe.akka:akka-persistence_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence_2.13.0-M3,2.5.17,akka.persistence,-,automatic,-,false,-`
@@ -888,10 +918,12 @@
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M3,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M4,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M5` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M5,akka.persistence.query,-,automatic,-,false,-`
+- :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.12:2.6.0-M6` // `com.typesafe.akka,akka-persistence-query_2.12,2.6.0-M6,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-query_2.13,2.5.23,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M3,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M4,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M5` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M5,akka.persistence.query,-,automatic,-,false,-`
+- :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13:2.6.0-M6` // `com.typesafe.akka,akka-persistence-query_2.13,2.6.0-M6,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.15,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.16,akka.persistence.query,-,automatic,-,false,-`
 - :cd: `akka.persistence.query` :left_right_arrow: `com.typesafe.akka:akka-persistence-query_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-query_2.13.0-M3,2.5.17,akka.persistence.query,-,automatic,-,false,-`
@@ -927,10 +959,12 @@
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M3,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M4,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M5` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M5,akka.persistence.tck,-,automatic,-,false,-`
+- :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.12:2.6.0-M6` // `com.typesafe.akka,akka-persistence-tck_2.12,2.6.0-M6,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-tck_2.13,2.5.23,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M3,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M4,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M5` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M5,akka.persistence.tck,-,automatic,-,false,-`
+- :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13:2.6.0-M6` // `com.typesafe.akka,akka-persistence-tck_2.13,2.6.0-M6,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.15,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.16,akka.persistence.tck,-,automatic,-,false,-`
 - :cd: `akka.persistence.tck` :left_right_arrow: `com.typesafe.akka:akka-persistence-tck_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-tck_2.13.0-M3,2.5.17,akka.persistence.tck,-,automatic,-,false,-`
@@ -963,10 +997,12 @@
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M3,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M4,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M5,akka.persistence.typed,-,automatic,-,false,-`
+- :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-persistence-typed_2.12,2.6.0-M6,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.5.23` // `com.typesafe.akka,akka-persistence-typed_2.13,2.5.23,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M3,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M4,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M5,akka.persistence.typed,-,automatic,-,false,-`
+- :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-persistence-typed_2.13,2.6.0-M6,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.15,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.16,akka.persistence.typed,-,automatic,-,false,-`
 - :cd: `akka.persistence.typed` :left_right_arrow: `com.typesafe.akka:akka-persistence-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-persistence-typed_2.13.0-M3,2.5.17,akka.persistence.typed,-,automatic,-,false,-`
@@ -1002,10 +1038,12 @@
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M3` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M3,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M4` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M4,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M5` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M5,akka.protobuf,-,automatic,-,false,-`
+- :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.12:2.6.0-M6` // `com.typesafe.akka,akka-protobuf_2.12,2.6.0-M6,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.5.23` // `com.typesafe.akka,akka-protobuf_2.13,2.5.23,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M3` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M3,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M4` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M4,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M5` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M5,akka.protobuf,-,automatic,-,false,-`
+- :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13:2.6.0-M6` // `com.typesafe.akka,akka-protobuf_2.13,2.6.0-M6,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.15,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.16,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-protobuf_2.13.0-M3,2.5.17,akka.protobuf,-,automatic,-,false,-`
@@ -1018,6 +1056,8 @@
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-RC2:2.5.23` // `com.typesafe.akka,akka-protobuf_2.13.0-RC2,2.5.23,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-RC2:2.6.0-M2` // `com.typesafe.akka,akka-protobuf_2.13.0-RC2,2.6.0-M2,akka.protobuf,-,automatic,-,false,-`
 - :cd: `akka.protobuf` :left_right_arrow: `com.typesafe.akka:akka-protobuf_2.13.0-RC3:2.5.23` // `com.typesafe.akka,akka-protobuf_2.13.0-RC3,2.5.23,akka.protobuf,-,automatic,-,false,-`
+- :cd: `akka.protobuf.v3` :left_right_arrow: `com.typesafe.akka:akka-protobuf-v3_2.12:2.6.0-M6` // `com.typesafe.akka,akka-protobuf-v3_2.12,2.6.0-M6,akka.protobuf.v3,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.protobuf.v3` :left_right_arrow: `com.typesafe.akka:akka-protobuf-v3_2.13:2.6.0-M6` // `com.typesafe.akka,akka-protobuf-v3_2.13,2.6.0-M6,akka.protobuf.v3,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.11:2.5.15` // `com.typesafe.akka,akka-remote_2.11,2.5.15,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.11:2.5.16` // `com.typesafe.akka,akka-remote_2.11,2.5.16,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.11:2.5.17` // `com.typesafe.akka,akka-remote_2.11,2.5.17,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -1041,10 +1081,12 @@
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M3` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M3,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M4` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M4,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M5` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M5,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.12:2.6.0-M6` // `com.typesafe.akka,akka-remote_2.12,2.6.0-M6,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.5.23` // `com.typesafe.akka,akka-remote_2.13,2.5.23,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M3` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M3,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M4` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M4,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M5` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M5,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13:2.6.0-M6` // `com.typesafe.akka,akka-remote_2.13,2.6.0-M6,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.15,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.16,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.remote` :left_right_arrow: `com.typesafe.akka:akka-remote_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-remote_2.13.0-M3,2.5.17,akka.remote,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -1080,10 +1122,12 @@
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M3,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M4,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M5` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M5,akka.remote.testkit,-,automatic,-,false,-`
+- :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.12:2.6.0-M6` // `com.typesafe.akka,akka-multi-node-testkit_2.12,2.6.0-M6,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.5.23,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M3,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M4,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M5` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M5,akka.remote.testkit,-,automatic,-,false,-`
+- :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13:2.6.0-M6` // `com.typesafe.akka,akka-multi-node-testkit_2.13,2.6.0-M6,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.15,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.16,akka.remote.testkit,-,automatic,-,false,-`
 - :cd: `akka.remote.testkit` :left_right_arrow: `com.typesafe.akka:akka-multi-node-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-multi-node-testkit_2.13.0-M3,2.5.17,akka.remote.testkit,-,automatic,-,false,-`
@@ -1100,9 +1144,11 @@
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M3` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M3,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M4` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M4,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M5` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M5,akka.serialization.jackson,-,automatic,-,false,-`
+- :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.12:2.6.0-M6` // `com.typesafe.akka,akka-serialization-jackson_2.12,2.6.0-M6,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M3` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M3,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M4` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M4,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M5` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M5,akka.serialization.jackson,-,automatic,-,false,-`
+- :cd: `akka.serialization.jackson` :left_right_arrow: `com.typesafe.akka:akka-serialization-jackson_2.13:2.6.0-M6` // `com.typesafe.akka,akka-serialization-jackson_2.13,2.6.0-M6,akka.serialization.jackson,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.15` // `com.typesafe.akka,akka-slf4j_2.11,2.5.15,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.16` // `com.typesafe.akka,akka-slf4j_2.11,2.5.16,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.11:2.5.17` // `com.typesafe.akka,akka-slf4j_2.11,2.5.17,akka.slf4j,-,automatic,-,false,-`
@@ -1126,10 +1172,12 @@
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M3` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M3,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M4` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M4,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M5` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M5,akka.slf4j,-,automatic,-,false,-`
+- :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.12:2.6.0-M6` // `com.typesafe.akka,akka-slf4j_2.12,2.6.0-M6,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.5.23` // `com.typesafe.akka,akka-slf4j_2.13,2.5.23,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M3` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M3,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M4` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M4,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M5` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M5,akka.slf4j,-,automatic,-,false,-`
+- :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13:2.6.0-M6` // `com.typesafe.akka,akka-slf4j_2.13,2.6.0-M6,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.15,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.16,akka.slf4j,-,automatic,-,false,-`
 - :cd: `akka.slf4j` :left_right_arrow: `com.typesafe.akka:akka-slf4j_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-slf4j_2.13.0-M3,2.5.17,akka.slf4j,-,automatic,-,false,-`
@@ -1165,10 +1213,12 @@
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M3,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M4,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M5` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M5,akka.stream,-,automatic,-,false,-`
+- :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.12:2.6.0-M6` // `com.typesafe.akka,akka-stream_2.12,2.6.0-M6,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.5.23` // `com.typesafe.akka,akka-stream_2.13,2.5.23,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M3,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M4,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M5` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M5,akka.stream,-,automatic,-,false,-`
+- :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13:2.6.0-M6` // `com.typesafe.akka,akka-stream_2.13,2.6.0-M6,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.15,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.16,akka.stream,-,automatic,-,false,-`
 - :cd: `akka.stream` :left_right_arrow: `com.typesafe.akka:akka-stream_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream_2.13.0-M3,2.5.17,akka.stream,-,automatic,-,false,-`
@@ -2217,10 +2267,12 @@
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M3,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M4,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M5` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M5,akka.stream.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.12:2.6.0-M6` // `com.typesafe.akka,akka-stream-testkit_2.12,2.6.0-M6,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.5.23` // `com.typesafe.akka,akka-stream-testkit_2.13,2.5.23,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M3,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M4,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M5` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M5,akka.stream.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13:2.6.0-M6` // `com.typesafe.akka,akka-stream-testkit_2.13,2.6.0-M6,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.15,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.16,akka.stream.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-testkit_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream-testkit_2.13.0-M3,2.5.17,akka.stream.testkit,-,automatic,-,false,-`
@@ -2253,10 +2305,12 @@
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M3` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M3,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M4` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M4,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M5` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M5,akka.stream.typed,-,automatic,-,false,-`
+- :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.12:2.6.0-M6` // `com.typesafe.akka,akka-stream-typed_2.12,2.6.0-M6,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.5.23` // `com.typesafe.akka,akka-stream-typed_2.13,2.5.23,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M3` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M3,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M4` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M4,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M5` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M5,akka.stream.typed,-,automatic,-,false,-`
+- :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13:2.6.0-M6` // `com.typesafe.akka,akka-stream-typed_2.13,2.6.0-M6,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.15` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.15,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.16` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.16,akka.stream.typed,-,automatic,-,false,-`
 - :cd: `akka.stream.typed` :left_right_arrow: `com.typesafe.akka:akka-stream-typed_2.13.0-M3:2.5.17` // `com.typesafe.akka,akka-stream-typed_2.13.0-M3,2.5.17,akka.stream.typed,-,automatic,-,false,-`
@@ -2862,6 +2916,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.0` // `io.zipkin.aws,brave-propagation-aws,0.17.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.1` // `io.zipkin.aws,brave-propagation-aws,0.17.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.2` // `io.zipkin.aws,brave-propagation-aws,0.17.2,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.3` // `io.zipkin.aws,brave-propagation-aws,0.17.3,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
@@ -3335,6 +3390,7 @@
 - :cd: `com.google.api.services.adexchangebuyer2` :left_right_arrow: `com.google.apis:google-api-services-adexchangebuyer2:v2beta1-rev20190802-1.30.1` // `com.google.apis,google-api-services-adexchangebuyer2,v2beta1-rev20190802-1.30.1,com.google.api.services.adexchangebuyer2,-,automatic,-,false,-`
 - :cd: `com.google.api.services.adexperiencereport` :left_right_arrow: `com.google.apis:google-api-services-adexperiencereport:v1-rev20181017-1.30.1` // `com.google.apis,google-api-services-adexperiencereport,v1-rev20181017-1.30.1,com.google.api.services.adexperiencereport,-,automatic,-,false,-`
 - :cd: `com.google.api.services.adexperiencereport` :left_right_arrow: `com.google.apis:google-api-services-adexperiencereport:v1-rev20190729-1.30.1` // `com.google.apis,google-api-services-adexperiencereport,v1-rev20190729-1.30.1,com.google.api.services.adexperiencereport,-,automatic,-,false,-`
+- :cd: `com.google.api.services.adexperiencereport` :left_right_arrow: `com.google.apis:google-api-services-adexperiencereport:v1-rev20190812-1.30.1` // `com.google.apis,google-api-services-adexperiencereport,v1-rev20190812-1.30.1,com.google.api.services.adexperiencereport,-,automatic,-,false,-`
 - :cd: `com.google.api.services.admin` :left_right_arrow: `com.google.apis:google-api-services-admin-datatransfer:datatransfer_v1-rev20160223-1.30.1` // `com.google.apis,google-api-services-admin-datatransfer,datatransfer_v1-rev20160223-1.30.1,com.google.api.services.admin,-,automatic,-,false,-`
 - :cd: `com.google.api.services.admin` :left_right_arrow: `com.google.apis:google-api-services-admin-directory:directory_v1-rev20190708-1.30.1` // `com.google.apis,google-api-services-admin-directory,directory_v1-rev20190708-1.30.1,com.google.api.services.admin,-,automatic,-,false,-`
 - :cd: `com.google.api.services.admin` :left_right_arrow: `com.google.apis:google-api-services-admin-reports:reports_v1-rev20190521-1.28.0` // `com.google.apis,google-api-services-admin-reports,reports_v1-rev20190521-1.28.0,com.google.api.services.admin,-,automatic,-,false,-`
@@ -3344,6 +3400,7 @@
 - :cd: `com.google.api.services.alertcenter` :left_right_arrow: `com.google.apis:google-api-services-alertcenter:v1beta1-rev20190520-1.30.1` // `com.google.apis,google-api-services-alertcenter,v1beta1-rev20190520-1.30.1,com.google.api.services.alertcenter,-,automatic,-,false,-`
 - :cd: `com.google.api.services.alertcenter` :left_right_arrow: `com.google.apis:google-api-services-alertcenter:v1beta1-rev20190725-1.30.1` // `com.google.apis,google-api-services-alertcenter,v1beta1-rev20190725-1.30.1,com.google.api.services.alertcenter,-,automatic,-,false,-`
 - :cd: `com.google.api.services.analytics` :left_right_arrow: `com.google.apis:google-api-services-analytics:v3-rev20190604-1.30.1` // `com.google.apis,google-api-services-analytics,v3-rev20190604-1.30.1,com.google.api.services.analytics,-,automatic,-,false,-`
+- :cd: `com.google.api.services.analytics` :left_right_arrow: `com.google.apis:google-api-services-analytics:v3-rev20190807-1.30.1` // `com.google.apis,google-api-services-analytics,v3-rev20190807-1.30.1,com.google.api.services.analytics,-,automatic,-,false,-`
 - :cd: `com.google.api.services.analyticsreporting` :left_right_arrow: `com.google.apis:google-api-services-analyticsreporting:v4-rev20190318-1.30.1` // `com.google.apis,google-api-services-analyticsreporting,v4-rev20190318-1.30.1,com.google.api.services.analyticsreporting,-,automatic,-,false,-`
 - :cd: `com.google.api.services.analyticsreporting` :left_right_arrow: `com.google.apis:google-api-services-analyticsreporting:v4-rev20190710-1.30.1` // `com.google.apis,google-api-services-analyticsreporting,v4-rev20190710-1.30.1,com.google.api.services.analyticsreporting,-,automatic,-,false,-`
 - :cd: `com.google.api.services.analyticsreporting` :left_right_arrow: `com.google.apis:google-api-services-analyticsreporting:v4-rev20190719-1.30.1` // `com.google.apis,google-api-services-analyticsreporting,v4-rev20190719-1.30.1,com.google.api.services.analyticsreporting,-,automatic,-,false,-`
@@ -3372,6 +3429,7 @@
 - :cd: `com.google.api.services.bigquery` :left_right_arrow: `com.google.apis:google-api-services-bigquery:v2-rev20190724-1.30.1` // `com.google.apis,google-api-services-bigquery,v2-rev20190724-1.30.1,com.google.api.services.bigquery,-,automatic,-,false,-`
 - :cd: `com.google.api.services.bigquery` :left_right_arrow: `com.google.apis:google-api-services-bigquery:v2-rev20190807-1.30.1` // `com.google.apis,google-api-services-bigquery,v2-rev20190807-1.30.1,com.google.api.services.bigquery,-,automatic,-,false,-`
 - :cd: `com.google.api.services.bigquerydatatransfer` :left_right_arrow: `com.google.apis:google-api-services-bigquerydatatransfer:v1-rev20190615-1.30.1` // `com.google.apis,google-api-services-bigquerydatatransfer,v1-rev20190615-1.30.1,com.google.api.services.bigquerydatatransfer,-,automatic,-,false,-`
+- :cd: `com.google.api.services.bigquerydatatransfer` :left_right_arrow: `com.google.apis:google-api-services-bigquerydatatransfer:v1-rev20190811-1.30.1` // `com.google.apis,google-api-services-bigquerydatatransfer,v1-rev20190811-1.30.1,com.google.api.services.bigquerydatatransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.binaryauthorization` :left_right_arrow: `com.google.apis:google-api-services-binaryauthorization:v1beta1-rev20190511-1.30.1` // `com.google.apis,google-api-services-binaryauthorization,v1beta1-rev20190511-1.30.1,com.google.api.services.binaryauthorization,-,automatic,-,false,-`
 - :cd: `com.google.api.services.binaryauthorization` :left_right_arrow: `com.google.apis:google-api-services-binaryauthorization:v1beta1-rev20190628-1.30.1` // `com.google.apis,google-api-services-binaryauthorization,v1beta1-rev20190628-1.30.1,com.google.api.services.binaryauthorization,-,automatic,-,false,-`
 - :cd: `com.google.api.services.binaryauthorization` :left_right_arrow: `com.google.apis:google-api-services-binaryauthorization:v1beta1-rev20190802-1.30.1` // `com.google.apis,google-api-services-binaryauthorization,v1beta1-rev20190802-1.30.1,com.google.api.services.binaryauthorization,-,automatic,-,false,-`
@@ -3386,6 +3444,7 @@
 - :cd: `com.google.api.services.cloudasset` :left_right_arrow: `com.google.apis:google-api-services-cloudasset:v1-rev20190625-1.30.1` // `com.google.apis,google-api-services-cloudasset,v1-rev20190625-1.30.1,com.google.api.services.cloudasset,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudasset` :left_right_arrow: `com.google.apis:google-api-services-cloudasset:v1-rev20190709-1.30.1` // `com.google.apis,google-api-services-cloudasset,v1-rev20190709-1.30.1,com.google.api.services.cloudasset,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudasset` :left_right_arrow: `com.google.apis:google-api-services-cloudasset:v1-rev20190722-1.30.1` // `com.google.apis,google-api-services-cloudasset,v1-rev20190722-1.30.1,com.google.api.services.cloudasset,-,automatic,-,false,-`
+- :cd: `com.google.api.services.cloudasset` :left_right_arrow: `com.google.apis:google-api-services-cloudasset:v1-rev20190812-1.30.1` // `com.google.apis,google-api-services-cloudasset,v1-rev20190812-1.30.1,com.google.api.services.cloudasset,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudbilling` :left_right_arrow: `com.google.apis:google-api-services-cloudbilling:v1-rev20190413-1.30.1` // `com.google.apis,google-api-services-cloudbilling,v1-rev20190413-1.30.1,com.google.api.services.cloudbilling,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudbilling` :left_right_arrow: `com.google.apis:google-api-services-cloudbilling:v1-rev20190702-1.29.2` // `com.google.apis,google-api-services-cloudbilling,v1-rev20190702-1.29.2,com.google.api.services.cloudbilling,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudbilling` :left_right_arrow: `com.google.apis:google-api-services-cloudbilling:v1-rev20190702-1.30.1` // `com.google.apis,google-api-services-cloudbilling,v1-rev20190702-1.30.1,com.google.api.services.cloudbilling,-,automatic,-,false,-`
@@ -3400,6 +3459,7 @@
 - :cd: `com.google.api.services.cloudiot` :left_right_arrow: `com.google.apis:google-api-services-cloudiot:v1-rev20190605-1.30.1` // `com.google.apis,google-api-services-cloudiot,v1-rev20190605-1.30.1,com.google.api.services.cloudiot,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudiot` :left_right_arrow: `com.google.apis:google-api-services-cloudiot:v1-rev20190702-1.30.1` // `com.google.apis,google-api-services-cloudiot,v1-rev20190702-1.30.1,com.google.api.services.cloudiot,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudiot` :left_right_arrow: `com.google.apis:google-api-services-cloudiot:v1-rev20190709-1.30.1` // `com.google.apis,google-api-services-cloudiot,v1-rev20190709-1.30.1,com.google.api.services.cloudiot,-,automatic,-,false,-`
+- :cd: `com.google.api.services.cloudiot` :left_right_arrow: `com.google.apis:google-api-services-cloudiot:v1-rev20190805-1.30.1` // `com.google.apis,google-api-services-cloudiot,v1-rev20190805-1.30.1,com.google.api.services.cloudiot,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudkms` :left_right_arrow: `com.google.apis:google-api-services-cloudkms:v1-rev20190426-1.30.1` // `com.google.apis,google-api-services-cloudkms,v1-rev20190426-1.30.1,com.google.api.services.cloudkms,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudkms` :left_right_arrow: `com.google.apis:google-api-services-cloudkms:v1-rev20190626-1.30.1` // `com.google.apis,google-api-services-cloudkms,v1-rev20190626-1.30.1,com.google.api.services.cloudkms,-,automatic,-,false,-`
 - :cd: `com.google.api.services.cloudkms` :left_right_arrow: `com.google.apis:google-api-services-cloudkms:v1-rev20190727-1.30.1` // `com.google.apis,google-api-services-cloudkms,v1-rev20190727-1.30.1,com.google.api.services.cloudkms,-,automatic,-,false,-`
@@ -3439,6 +3499,7 @@
 - :cd: `com.google.api.services.content` :left_right_arrow: `com.google.apis:google-api-services-content:v2.1-rev20190705-1.30.1` // `com.google.apis,google-api-services-content,v2.1-rev20190705-1.30.1,com.google.api.services.content,-,automatic,-,false,-`
 - :cd: `com.google.api.services.content` :left_right_arrow: `com.google.apis:google-api-services-content:v2.1-rev20190805-1.29.2` // `com.google.apis,google-api-services-content,v2.1-rev20190805-1.29.2,com.google.api.services.content,-,automatic,-,false,-`
 - :cd: `com.google.api.services.content` :left_right_arrow: `com.google.apis:google-api-services-content:v2.1-rev20190805-1.30.1` // `com.google.apis,google-api-services-content,v2.1-rev20190805-1.30.1,com.google.api.services.content,-,automatic,-,false,-`
+- :cd: `com.google.api.services.content` :left_right_arrow: `com.google.apis:google-api-services-content:v2.1-rev20190809-1.30.1` // `com.google.apis,google-api-services-content,v2.1-rev20190809-1.30.1,com.google.api.services.content,-,automatic,-,false,-`
 - :cd: `com.google.api.services.customsearch` :left_right_arrow: `com.google.apis:google-api-services-customsearch:v1-rev20181001-1.30.1` // `com.google.apis,google-api-services-customsearch,v1-rev20181001-1.30.1,com.google.api.services.customsearch,-,automatic,-,false,-`
 - :cd: `com.google.api.services.datafusion` :left_right_arrow: `com.google.apis:google-api-services-datafusion:v1beta1-rev20190610-1.30.1` // `com.google.apis,google-api-services-datafusion,v1beta1-rev20190610-1.30.1,com.google.api.services.datafusion,-,automatic,-,false,-`
 - :cd: `com.google.api.services.dataproc` :left_right_arrow: `com.google.apis:google-api-services-dataproc:v1-rev20190606-1.30.1` // `com.google.apis,google-api-services-dataproc,v1-rev20190606-1.30.1,com.google.api.services.dataproc,-,automatic,-,false,-`
@@ -3488,6 +3549,7 @@
 - :cd: `com.google.api.services.firebasedynamiclinks` :left_right_arrow: `com.google.apis:google-api-services-firebasedynamiclinks:v1-rev20190425-1.30.1` // `com.google.apis,google-api-services-firebasedynamiclinks,v1-rev20190425-1.30.1,com.google.api.services.firebasedynamiclinks,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebasehosting` :left_right_arrow: `com.google.apis:google-api-services-firebasehosting:v1beta1-rev20190418-1.30.1` // `com.google.apis,google-api-services-firebasehosting,v1beta1-rev20190418-1.30.1,com.google.api.services.firebasehosting,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebasehosting` :left_right_arrow: `com.google.apis:google-api-services-firebasehosting:v1beta1-rev20190801-1.30.1` // `com.google.apis,google-api-services-firebasehosting,v1beta1-rev20190801-1.30.1,com.google.api.services.firebasehosting,-,automatic,-,false,-`
+- :cd: `com.google.api.services.firebasehosting` :left_right_arrow: `com.google.apis:google-api-services-firebasehosting:v1beta1-rev20190813-1.30.1` // `com.google.apis,google-api-services-firebasehosting,v1beta1-rev20190813-1.30.1,com.google.api.services.firebasehosting,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebaserules` :left_right_arrow: `com.google.apis:google-api-services-firebaserules:v1-rev20190417-1.30.1` // `com.google.apis,google-api-services-firebaserules,v1-rev20190417-1.30.1,com.google.api.services.firebaserules,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firestore` :left_right_arrow: `com.google.apis:google-api-services-firestore:v1-rev20190323-1.30.1` // `com.google.apis,google-api-services-firestore,v1-rev20190323-1.30.1,com.google.api.services.firestore,-,automatic,-,false,-`
 - :cd: `com.google.api.services.fitness` :left_right_arrow: `com.google.apis:google-api-services-fitness:v1-rev20190408-1.30.1` // `com.google.apis,google-api-services-fitness,v1-rev20190408-1.30.1,com.google.api.services.fitness,-,automatic,-,false,-`
@@ -3502,6 +3564,7 @@
 - :cd: `com.google.api.services.genomics` :left_right_arrow: `com.google.apis:google-api-services-genomics:v2alpha1-rev20190606-1.30.1` // `com.google.apis,google-api-services-genomics,v2alpha1-rev20190606-1.30.1,com.google.api.services.genomics,-,automatic,-,false,-`
 - :cd: `com.google.api.services.genomics` :left_right_arrow: `com.google.apis:google-api-services-genomics:v2alpha1-rev20190626-1.30.1` // `com.google.apis,google-api-services-genomics,v2alpha1-rev20190626-1.30.1,com.google.api.services.genomics,-,automatic,-,false,-`
 - :cd: `com.google.api.services.genomics` :left_right_arrow: `com.google.apis:google-api-services-genomics:v2alpha1-rev20190719-1.30.1` // `com.google.apis,google-api-services-genomics,v2alpha1-rev20190719-1.30.1,com.google.api.services.genomics,-,automatic,-,false,-`
+- :cd: `com.google.api.services.genomics` :left_right_arrow: `com.google.apis:google-api-services-genomics:v2alpha1-rev20190813-1.30.1` // `com.google.apis,google-api-services-genomics,v2alpha1-rev20190813-1.30.1,com.google.api.services.genomics,-,automatic,-,false,-`
 - :cd: `com.google.api.services.gmail` :left_right_arrow: `com.google.apis:google-api-services-gmail:v1-rev20190602-1.30.1` // `com.google.apis,google-api-services-gmail,v1-rev20190602-1.30.1,com.google.api.services.gmail,-,automatic,-,false,-`
 - :cd: `com.google.api.services.groupsmigration` :left_right_arrow: `com.google.apis:google-api-services-groupsmigration:v1-rev20180803-1.30.1` // `com.google.apis,google-api-services-groupsmigration,v1-rev20180803-1.30.1,com.google.api.services.groupsmigration,-,automatic,-,false,-`
 - :cd: `com.google.api.services.groupssettings` :left_right_arrow: `com.google.apis:google-api-services-groupssettings:v1-rev20190315-1.30.1` // `com.google.apis,google-api-services-groupssettings,v1-rev20190315-1.30.1,com.google.api.services.groupssettings,-,automatic,-,false,-`
@@ -3543,6 +3606,7 @@
 - :cd: `com.google.api.services.mirror` :left_right_arrow: `com.google.apis:google-api-services-mirror:v1-rev20180611-1.30.1` // `com.google.apis,google-api-services-mirror,v1-rev20180611-1.30.1,com.google.api.services.mirror,-,automatic,-,false,-`
 - :cd: `com.google.api.services.ml` :left_right_arrow: `com.google.apis:google-api-services-ml:v1-rev20190614-1.30.1` // `com.google.apis,google-api-services-ml,v1-rev20190614-1.30.1,com.google.api.services.ml,-,automatic,-,false,-`
 - :cd: `com.google.api.services.ml` :left_right_arrow: `com.google.apis:google-api-services-ml:v1-rev20190801-1.30.1` // `com.google.apis,google-api-services-ml,v1-rev20190801-1.30.1,com.google.api.services.ml,-,automatic,-,false,-`
+- :cd: `com.google.api.services.ml` :left_right_arrow: `com.google.apis:google-api-services-ml:v1-rev20190808-1.30.1` // `com.google.apis,google-api-services-ml,v1-rev20190808-1.30.1,com.google.api.services.ml,-,automatic,-,false,-`
 - :cd: `com.google.api.services.monitoring` :left_right_arrow: `com.google.apis:google-api-services-monitoring:v3-rev20190613-1.30.1` // `com.google.apis,google-api-services-monitoring,v3-rev20190613-1.30.1,com.google.api.services.monitoring,-,automatic,-,false,-`
 - :cd: `com.google.api.services.monitoring` :left_right_arrow: `com.google.apis:google-api-services-monitoring:v3-rev20190622-1.30.1` // `com.google.apis,google-api-services-monitoring,v3-rev20190622-1.30.1,com.google.api.services.monitoring,-,automatic,-,false,-`
 - :cd: `com.google.api.services.monitoring` :left_right_arrow: `com.google.apis:google-api-services-monitoring:v3-rev20190805-1.30.1` // `com.google.apis,google-api-services-monitoring,v3-rev20190805-1.30.1,com.google.api.services.monitoring,-,automatic,-,false,-`
@@ -3603,6 +3667,7 @@
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190708-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190708-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190715-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190715-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190730-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190730-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
+- :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190813-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190813-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
 - :cd: `com.google.api.services.siteVerification` :left_right_arrow: `com.google.apis:google-api-services-siteVerification:v1-rev20180521-1.30.1` // `com.google.apis,google-api-services-siteVerification,v1-rev20180521-1.30.1,com.google.api.services.siteVerification,-,automatic,-,false,-`
 - :cd: `com.google.api.services.slides` :left_right_arrow: `com.google.apis:google-api-services-slides:v1-rev20190305-1.30.1` // `com.google.apis,google-api-services-slides,v1-rev20190305-1.30.1,com.google.api.services.slides,-,automatic,-,false,-`
 - :cd: `com.google.api.services.slides` :left_right_arrow: `com.google.apis:google-api-services-slides:v1-rev20190625-1.30.1` // `com.google.apis,google-api-services-slides,v1-rev20190625-1.30.1,com.google.api.services.slides,-,automatic,-,false,-`
@@ -3619,6 +3684,7 @@
 - :cd: `com.google.api.services.storage` :left_right_arrow: `com.google.apis:google-api-services-storage:v1-rev20190624-1.30.1` // `com.google.apis,google-api-services-storage,v1-rev20190624-1.30.1,com.google.api.services.storage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190603-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190603-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190729-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190729-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
+- :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190810-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190810-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.streetviewpublish` :left_right_arrow: `com.google.apis:google-api-services-streetviewpublish:v1-rev20190529-1.30.1` // `com.google.apis,google-api-services-streetviewpublish,v1-rev20190529-1.30.1,com.google.api.services.streetviewpublish,-,automatic,-,false,-`
 - :cd: `com.google.api.services.surveys` :left_right_arrow: `com.google.apis:google-api-services-surveys:v2-rev20180508-1.30.1` // `com.google.apis,google-api-services-surveys,v2-rev20180508-1.30.1,com.google.api.services.surveys,-,automatic,-,false,-`
 - :cd: `com.google.api.services.tagmanager` :left_right_arrow: `com.google.apis:google-api-services-tagmanager:v2-rev20190617-1.30.1` // `com.google.apis,google-api-services-tagmanager,v2-rev20190617-1.30.1,com.google.api.services.tagmanager,-,automatic,-,false,-`
@@ -3636,11 +3702,13 @@
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v2-rev20170525-1.30.1` // `com.google.apis,google-api-services-translate,v2-rev20170525-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190704-1.30.1` // `com.google.apis,google-api-services-translate,v3beta1-rev20190704-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190713-1.30.1` // `com.google.apis,google-api-services-translate,v3beta1-rev20190713-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
+- :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190810-1.30.1` // `com.google.apis,google-api-services-translate,v3beta1-rev20190810-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.urlshortener` :left_right_arrow: `com.google.apis:google-api-services-urlshortener:v1-rev20150519-1.30.1` // `com.google.apis,google-api-services-urlshortener,v1-rev20150519-1.30.1,com.google.api.services.urlshortener,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vault` :left_right_arrow: `com.google.apis:google-api-services-vault:v1-rev20190614-1.30.1` // `com.google.apis,google-api-services-vault,v1-rev20190614-1.30.1,com.google.api.services.vault,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190531-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190531-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190704-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190704-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190718-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190718-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
+- :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190809-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190809-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.webfonts` :left_right_arrow: `com.google.apis:google-api-services-webfonts:v1-rev20160302-1.30.1` // `com.google.apis,google-api-services-webfonts,v1-rev20160302-1.30.1,com.google.api.services.webfonts,-,automatic,-,false,-`
 - :cd: `com.google.api.services.webmasters` :left_right_arrow: `com.google.apis:google-api-services-webmasters:v3-rev20190428-1.30.1` // `com.google.apis,google-api-services-webmasters,v3-rev20190428-1.30.1,com.google.api.services.webmasters,-,automatic,-,false,-`
 - :cd: `com.google.api.services.websecurityscanner` :left_right_arrow: `com.google.apis:google-api-services-websecurityscanner:v1-rev20190622-1.30.1` // `com.google.apis,google-api-services-websecurityscanner,v1-rev20190622-1.30.1,com.google.api.services.websecurityscanner,-,automatic,-,false,-`
@@ -10711,6 +10779,7 @@
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.8` // `uk.co.real-logic,sbe-all,1.12.8,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.13.0` // `uk.co.real-logic,sbe-all,1.13.0,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.13.1` // `uk.co.real-logic,sbe-all,1.13.1,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.13.2` // `uk.co.real-logic,sbe-all,1.13.2,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.1` // `uk.co.real-logic,sbe-tool,1.12.1,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.2` // `uk.co.real-logic,sbe-tool,1.12.2,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.3` // `uk.co.real-logic,sbe-tool,1.12.3,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
@@ -10721,6 +10790,7 @@
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.12.8` // `uk.co.real-logic,sbe-tool,1.12.8,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.13.0` // `uk.co.real-logic,sbe-tool,1.13.0,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.13.1` // `uk.co.real-logic,sbe-tool,1.13.1,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
+- :cd: `uk.co.real_logic.sbe.tool` :left_right_arrow: `uk.co.real-logic:sbe-tool:1.13.2` // `uk.co.real-logic,sbe-tool,1.13.2,uk.co.real_logic.sbe.tool,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel,4.8.0,uk.co.spudsoft.birt.emitters.excel,-,automatic,-,false,-`
 - :cd: `uk.co.spudsoft.birt.emitters.excel.tests` :left_right_arrow: `io.github.reporting-solutions:uk.co.spudsoft.birt.emitters.excel.tests:4.8.0` // `io.github.reporting-solutions,uk.co.spudsoft.birt.emitters.excel.tests,4.8.0,uk.co.spudsoft.birt.emitters.excel.tests,-,automatic,-,false,-`
 - :cd: `unbescape` :left_right_arrow: `org.unbescape:unbescape:1.1.6.RELEASE` // `org.unbescape,unbescape,1.1.6.RELEASE,unbescape,-,automatic,-,false,-`
@@ -10782,6 +10852,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.14.2` // `io.zipkin.zipkin2,zipkin,2.14.2,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.15.0` // `io.zipkin.zipkin2,zipkin,2.15.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.0` // `io.zipkin.zipkin2,zipkin,2.16.0,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.1` // `io.zipkin.zipkin2,zipkin,2.16.1,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
