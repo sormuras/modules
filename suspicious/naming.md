@@ -2917,6 +2917,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.1` // `io.zipkin.aws,brave-propagation-aws,0.17.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.2` // `io.zipkin.aws,brave-propagation-aws,0.17.2,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.3` // `io.zipkin.aws,brave-propagation-aws,0.17.3,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.4` // `io.zipkin.aws,brave-propagation-aws,0.17.4,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
@@ -3332,6 +3333,9 @@
 - :cd: `com.github.simych.xpath.xom` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-xom:2.1.2` // `com.github.simy4.xpath,xpath-to-xml-xom,2.1.2,com.github.simych.xpath.xom,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.xom` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-xom:2.1.3` // `com.github.simy4.xpath,xpath-to-xml-xom,2.1.3,com.github.simych.xpath.xom,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.xom` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-xom:2.1.4` // `com.github.simy4.xpath,xpath-to-xml-xom,2.1.4,com.github.simych.xpath.xom,-,automatic,-,false,-`
+- :dvd: `com.github.skjolber.xmlfilter` :left_right_arrow: `com.github.skjolber.xml-log-filter:xml-log-filter-api:1.0.2` // `com.github.skjolber.xml-log-filter,xml-log-filter-api,1.0.2,com.github.skjolber.xmlfilter,1.0.2,explicit,java.base,false,-`
+- :dvd: `com.github.skjolber.xmlfilter.base` :left_right_arrow: `com.github.skjolber.xml-log-filter:xml-log-filter-base:1.0.2` // `com.github.skjolber.xml-log-filter,xml-log-filter-base,1.0.2,com.github.skjolber.xmlfilter.base,1.0.2,explicit,com.github.skjolber.xmlfilter + java.base,false,-`
+- :dvd: `com.github.skjolber.xmlfilter.core` :left_right_arrow: `com.github.skjolber.xml-log-filter:xml-log-filter-core:1.0.2` // `com.github.skjolber.xml-log-filter,xml-log-filter-core,1.0.2,com.github.skjolber.xmlfilter.core,1.0.2,explicit,com.github.skjolber.xmlfilter + com.github.skjolber.xmlfilter.base + java.base,false,-`
 - :cd: `com.github.timo_reymann.csv_parser` :left_right_arrow: `com.github.timo-reymann:csv-parser:1.1.0` // `com.github.timo-reymann,csv-parser,1.1.0,com.github.timo_reymann.csv_parser,-,automatic,-,false,-`
 - :cd: `com.github.timo_reymann.csv_parser` :left_right_arrow: `com.github.timo-reymann:csv-parser:1.1.1` // `com.github.timo-reymann,csv-parser,1.1.1,com.github.timo_reymann.csv_parser,-,automatic,-,false,-`
 - :cd: `com.github.timo_reymann.csv_parser` :left_right_arrow: `com.github.timo-reymann:csv-parser:1.1.2` // `com.github.timo-reymann,csv-parser,1.1.2,com.github.timo_reymann.csv_parser,-,automatic,-,false,-`
@@ -3925,6 +3929,7 @@
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.6.23` // `com.hack23.cia,model.common.api,2019.6.23,com.hack23.model.common.api,2019.6.23,explicit,java.base,false,-`
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.7.23` // `com.hack23.cia,model.common.api,2019.7.23,com.hack23.model.common.api,2019.7.23,explicit,java.base,false,-`
 - :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.7.26` // `com.hack23.cia,model.common.api,2019.7.26,com.hack23.model.common.api,2019.7.26,explicit,java.base,false,-`
+- :dvd: `com.hack23.model.common.api` :left_right_arrow: `com.hack23.cia:model.common.api:2019.8.17` // `com.hack23.cia,model.common.api,2019.8.17,com.hack23.model.common.api,2019.8.17,explicit,java.base,false,-`
 - :cd: `com.helger.erechnung.erb` :left_right_arrow: `com.helger.erechnung.gv.at:webservice-client:3.0.1` // `com.helger.erechnung.gv.at,webservice-client,3.0.1,com.helger.erechnung.erb,-,automatic,-,false,-`
 - :cd: `com.helger.erechnung.erb` :left_right_arrow: `com.helger.erechnung.gv.at:webservice-client:3.0.2` // `com.helger.erechnung.gv.at,webservice-client,3.0.2,com.helger.erechnung.erb,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.2.0` // `com.holon-platform.core,holon-async-datastore,5.2.0,com.holonplatform.async.datastore,-,automatic,-,false,-`
