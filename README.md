@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4874 Java modules published at Maven Central
 
-## Summary 2019-08-17T23:04:11.371977Z
+## Summary 2019-08-18T23:05:01.042086Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-17T23:04:11.371977Z
-Scanned 29,365 files in 4 seconds.
+Started scan at 2019-08-18T23:05:01.042086Z
+Scanned 29,462 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_17_22_27_58.csv
+    last -> modulescanner-report-2019_08_18_22_36_04.csv
 
-Parsed 1,845,609 lines in total.
-  33,196 -> captions skipped
-  120,511 -> duplicates skipped
-  75,199 -> module related
+Parsed 1,847,381 lines in total.
+  33,290 -> captions skipped
+  120,574 -> duplicates skipped
+  75,220 -> module related
 
 Collected 4,874 unique modules.
   automatic :cd: -> 3,622
@@ -93,7 +93,7 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [6972](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11012](suspicious/naming.md)
-- Modular impostors: [3734](suspicious/impostors.md)
+- Modular impostors: [3735](suspicious/impostors.md)
 
 ## Unique Modules (4874)
 
@@ -501,11 +501,11 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.gv2011.util.beans.imp` :left_right_arrow: `com.github.gv2011:util-beans:0.4.0`
 - :cd: `com.github.gv2011.util.gcol` :left_right_arrow: `com.github.gv2011:gcol:0.4.0`
 - :cd: `com.github.gv2011.util.tika` :left_right_arrow: `com.github.gv2011:filetypes-tika:0.4.0`
-- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.10`
-- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.10`
-- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.10`
-- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.10`
-- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.10`
+- :cd: `com.github.javaparser.core` :left_right_arrow: `com.github.javaparser:javaparser-core:3.14.11`
+- :cd: `com.github.javaparser.core.serialization` :left_right_arrow: `com.github.javaparser:javaparser-core-serialization:3.14.11`
+- :cd: `com.github.javaparser.symbolsolver.core` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-core:3.14.11`
+- :cd: `com.github.javaparser.symbolsolver.logic` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-logic:3.14.11`
+- :cd: `com.github.javaparser.symbolsolver.model` :left_right_arrow: `com.github.javaparser:javaparser-symbol-solver-model:3.14.11`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
@@ -1361,8 +1361,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.6`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.2`
-- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.2`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.3`
+- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.3`
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.3.0`
 - :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.3.0`
 - :cd: `com.thoughtworks.qdox` :left_right_arrow: `com.thoughtworks.qdox:qdox:2.0-M10`
@@ -2359,7 +2359,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `one.irradia.servicedirectory.api` :left_right_arrow: `one.irradia.servicedirectory:one.irradia.servicedirectory.api:0.0.1`
 - :cd: `one.irradia.servicedirectory.tests` :left_right_arrow: `one.irradia.servicedirectory:one.irradia.servicedirectory.tests:0.0.1`
 - :cd: `one.irradia.servicedirectory.vanilla` :left_right_arrow: `one.irradia.servicedirectory:one.irradia.servicedirectory.vanilla:0.0.1`
-- :cd: `one.util.streamex` :left_right_arrow: `one.util:streamex:0.6.8`
+- :cd: `one.util.streamex` :left_right_arrow: `one.util:streamex:0.7.0`
 - :cd: `org.adoptopenjdk.jsplitpkgscan` :left_right_arrow: `org.adoptopenjdk:jsplitpkgscan:1.0.0`
 - :cd: `org.aesh.aesh` :left_right_arrow: `org.aesh:aesh:2.4`
 - :cd: `org.aesh.aesh.extensions` :left_right_arrow: `org.aesh:aesh-extensions:1.8`
@@ -2629,16 +2629,16 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.apache.logging.log4j.spring.cloud.config.client` :left_right_arrow: `org.apache.logging.log4j:log4j-spring-cloud-config-client:2.12.1`
 - :cd: `org.apache.logging.log4j.taglib` :left_right_arrow: `org.apache.logging.log4j:log4j-taglib:2.12.1`
 - :cd: `org.apache.logging.log4j.web` :left_right_arrow: `org.apache.logging.log4j:log4j-web:2.12.1`
-- :cd: `org.apache.maven.resolver` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-api:1.4.0`
-- :cd: `org.apache.maven.resolver.connector.basic` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-connector-basic:1.4.0`
-- :cd: `org.apache.maven.resolver.impl` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-impl:1.4.0`
-- :cd: `org.apache.maven.resolver.spi` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-spi:1.4.0`
-- :cd: `org.apache.maven.resolver.testutil` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-test-util:1.4.0`
-- :cd: `org.apache.maven.resolver.transport.classpath` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-classpath:1.4.0`
-- :cd: `org.apache.maven.resolver.transport.file` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-file:1.4.0`
-- :cd: `org.apache.maven.resolver.transport.http` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-http:1.4.0`
-- :cd: `org.apache.maven.resolver.transport.wagon` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-wagon:1.4.0`
-- :cd: `org.apache.maven.resolver.util` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-util:1.4.0`
+- :cd: `org.apache.maven.resolver` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-api:1.4.1`
+- :cd: `org.apache.maven.resolver.connector.basic` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-connector-basic:1.4.1`
+- :cd: `org.apache.maven.resolver.impl` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-impl:1.4.1`
+- :cd: `org.apache.maven.resolver.spi` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-spi:1.4.1`
+- :cd: `org.apache.maven.resolver.testutil` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-test-util:1.4.1`
+- :cd: `org.apache.maven.resolver.transport.classpath` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-classpath:1.4.1`
+- :cd: `org.apache.maven.resolver.transport.file` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-file:1.4.1`
+- :cd: `org.apache.maven.resolver.transport.http` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-http:1.4.1`
+- :cd: `org.apache.maven.resolver.transport.wagon` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-transport-wagon:1.4.1`
+- :cd: `org.apache.maven.resolver.util` :left_right_arrow: `org.apache.maven.resolver:maven-resolver-util:1.4.1`
 - :cd: `org.apache.meecrowave.arquillian` :left_right_arrow: `org.apache.meecrowave:meecrowave-arquillian:1.2.8`
 - :cd: `org.apache.meecrowave.core` :left_right_arrow: `org.apache.meecrowave:meecrowave-core:1.2.8`
 - :cd: `org.apache.meecrowave.gradle` :left_right_arrow: `org.apache.meecrowave:meecrowave-gradle-plugin:1.2.8`
@@ -3588,7 +3588,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` :left_right_arrow: `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.16`
+- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.17`
 - :cd: `org.jooq` :left_right_arrow: `org.jooq:jooq:3.11.12`
 - :cd: `org.jooq.checker` :left_right_arrow: `org.jooq:jooq-checker:3.11.12`
 - :cd: `org.jooq.codegen` :left_right_arrow: `org.jooq:jooq-codegen:3.11.12`
@@ -4377,7 +4377,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :cd: `org.testfx.junit` :left_right_arrow: `org.testfx:testfx-junit:4.0.15-alpha`
 - :cd: `org.testfx.junit5` :left_right_arrow: `org.testfx:testfx-junit5:4.0.16-alpha`
-- :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0-beta7`
+- :cd: `org.testng` :left_right_arrow: `org.testng:testng:7.0.0`
 - :cd: `org.threeten.bp` :left_right_arrow: `org.threeten:threetenbp:1.4.0`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :cd: `org.tinylog.adapter.jboss` :left_right_arrow: `org.tinylog:tinylog-jboss:2.0.0-RC2`
