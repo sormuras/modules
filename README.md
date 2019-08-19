@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4874 Java modules published at Maven Central
 
-## Summary 2019-08-18T23:05:01.042086Z
+## Summary 2019-08-19T14:31:34.966919Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-18T23:05:01.042086Z
-Scanned 29,462 files in 5 seconds.
+Started scan at 2019-08-19T14:31:34.966919Z
+Scanned 29,522 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_18_22_36_04.csv
+    last -> modulescanner-report-2019_08_19_14_01_30.csv
 
-Parsed 1,847,381 lines in total.
-  33,290 -> captions skipped
-  120,574 -> duplicates skipped
-  75,220 -> module related
+Parsed 1,850,108 lines in total.
+  33,350 -> captions skipped
+  120,620 -> duplicates skipped
+  75,245 -> module related
 
 Collected 4,874 unique modules.
   automatic :cd: -> 3,622
@@ -92,7 +92,7 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [6972](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11012](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11013](suspicious/naming.md)
 - Modular impostors: [3735](suspicious/impostors.md)
 
 ## Unique Modules (4874)
@@ -1204,18 +1204,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.6.2`
 - :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.11`
 - :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.11`
-- :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.11`
-- :cd: `com.oracle.bedrock.runtime` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.docker` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-docker:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.jacoco` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jacoco:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.jprofiler` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jprofiler:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.k8s` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-k8s:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.maven` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-maven:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.remote` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-remote:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.vagrant` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-vagrant:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.virtual` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-virtual:5.0.11`
-- :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.11`
-- :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.11`
+- :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.12`
+- :cd: `com.oracle.bedrock.runtime` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.docker` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-docker:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.jacoco` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jacoco:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.jprofiler` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jprofiler:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.k8s` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-k8s:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.maven` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-maven:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.remote` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-remote:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.vagrant` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-vagrant:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.virtual` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-virtual:5.0.12`
+- :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.12`
+- :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.12`
 - :cd: `com.orsonpdf.orsonpdf` :left_right_arrow: `com.orsonpdf:orsonpdf:1.9`
 - :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.3`
 - :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.3`
@@ -1686,7 +1686,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.43.1`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.12`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
-- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.19.1`
+- :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.20.1`
 - :cd: `io.ebean.types` :left_right_arrow: `io.ebean:ebean-types:1.3`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.45`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
@@ -2777,9 +2777,9 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.axonframework.eventsourcing` :left_right_arrow: `org.axonframework:axon-eventsourcing:4.2`
 - :cd: `org.axonframework.extensions.amqp` :left_right_arrow: `org.axonframework.extensions.amqp:axon-amqp:4.2`
 - :cd: `org.axonframework.extensions.amqp.springboot` :left_right_arrow: `org.axonframework.extensions.amqp:axon-amqp-spring-boot-autoconfigure:4.2`
-- :cd: `org.axonframework.extensions.jgroups` :left_right_arrow: `org.axonframework.extensions.jgroups:axon-jgroups:4.1`
+- :cd: `org.axonframework.extensions.jgroups` :left_right_arrow: `org.axonframework.extensions.jgroups:axon-jgroups:4.2`
 - :cd: `org.axonframework.extensions.jgroups.commandbus` :left_right_arrow: `org.axonframework.extensions.jgroups:axon-distributed-commandbus-jgroups:4.0-RC1`
-- :cd: `org.axonframework.extensions.jgroups.springboot` :left_right_arrow: `org.axonframework.extensions.jgroups:axon-jgroups-spring-boot-autoconfigure:4.1`
+- :cd: `org.axonframework.extensions.jgroups.springboot` :left_right_arrow: `org.axonframework.extensions.jgroups:axon-jgroups-spring-boot-autoconfigure:4.2`
 - :cd: `org.axonframework.extensions.kafka` :left_right_arrow: `org.axonframework.extensions.kafka:axon-kafka:4.0-RC2`
 - :cd: `org.axonframework.extensions.mongo` :left_right_arrow: `org.axonframework.extensions.mongo:axon-mongo:4.2`
 - :cd: `org.axonframework.extensions.springcloud` :left_right_arrow: `org.axonframework.extensions.springcloud:axon-springcloud:4.2`
@@ -4227,17 +4227,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.scijava.nativelib` :left_right_arrow: `org.scijava:native-lib-loader:2.3.4`
 - :cd: `org.scijava.parse` :left_right_arrow: `org.scijava:parsington:1.0.5`
 - :cd: `org.scijava.scijava_coding_style` :left_right_arrow: `org.scijava:scijava-coding-style:2.0.0`
-- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.83`
+- :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.84`
 - :dvd: `org.sejda.commons` :left_right_arrow: `org.sejda:sejda-commons:1.0.1`
-- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.83`
-- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.83`
-- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.83`
-- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.83`
-- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.83`
-- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.83`
-- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.83`
+- :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.84`
+- :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.84`
+- :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.84`
+- :cd: `org.sejda.fonts` :left_right_arrow: `org.sejda:sejda-fonts:3.2.84`
+- :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.84`
+- :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.84`
+- :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.84`
 - :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
-- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.83`
+- :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.84`
 - :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.59`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
 - :cd: `org.sellcom.geotemporal` :left_right_arrow: `org.sellcom:sellcom-java-geotemporal:2.0.0`
