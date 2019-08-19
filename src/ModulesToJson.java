@@ -29,7 +29,7 @@ import java.nio.file.Path;
 import java.util.Set;
 import java.util.jar.JarFile;
 
-/** Printer module information in JSON format. */
+/** Print module information in JSON format. */
 public class ModulesToJson {
 
   enum NameSource {
