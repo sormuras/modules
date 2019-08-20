@@ -141,6 +141,7 @@
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8:0.67.0.9` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-jdk8,0.67.0.9,com.fasterxml.jackson.datatype.jdk8,0.67.0.9,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8:0.68.0.1` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-jdk8,0.68.0.1,com.fasterxml.jackson.datatype.jdk8,0.68.0.1,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.10` // `io.mantisrx,mantis-publish-netty,1.2.10,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.11` // `io.mantisrx,mantis-publish-netty,1.2.11,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.8` // `io.mantisrx,mantis-publish-netty,1.2.8,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.9` // `io.mantisrx,mantis-publish-netty,1.2.9,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime:0.67.0.12` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-datetime,0.67.0.12,com.fasterxml.jackson.datatype.jsr310,0.67.0.12,explicit,com.fasterxml.jackson.databind + java.base,false,-`
@@ -2529,6 +2530,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.8-beta.7` // `com.undefinedlabs.scope,scope-agent,0.1.8-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.8-beta.8` // `com.undefinedlabs.scope,scope-agent,0.1.8-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.9-beta.1` // `com.undefinedlabs.scope,scope-agent,0.1.9-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.9-beta.2` // `com.undefinedlabs.scope,scope-agent,0.1.9-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -3607,6 +3609,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.7` // `io.ebean.tools,ebean-init,1.7,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.8` // `io.ebean.tools,ebean-init,1.8,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.9` // `io.ebean.tools,ebean-init,1.9,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:5.1.0` // `org.duracloud,synctoolui,5.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:6.0.0` // `org.duracloud,synctoolui,6.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:6.0.1` // `org.duracloud,synctoolui,6.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -3699,6 +3702,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.45` // `org.reaktivity,nukleus-oauth,0.45,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.46` // `org.reaktivity,nukleus-oauth,0.46,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.47` // `org.reaktivity,nukleus-oauth,0.47,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.48` // `org.reaktivity,nukleus-oauth,0.48,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
