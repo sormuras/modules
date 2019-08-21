@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4893 Java modules published at Maven Central
+Counted 4921 Java modules published at Maven Central
 
-## Summary 2019-08-20T23:06:28.507049Z
+## Summary 2019-08-21T23:06:25.952844Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-20T23:06:28.507049Z
-Scanned 29,639 files in 4 seconds.
+Started scan at 2019-08-21T23:06:25.952844Z
+Scanned 29,730 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_20_22_53_40.csv
+    last -> modulescanner-report-2019_08_21_22_42_12.csv
 
-Parsed 1,860,119 lines in total.
-  33,467 -> captions skipped
-  121,621 -> duplicates skipped
-  75,826 -> module related
+Parsed 1,866,245 lines in total.
+  33,558 -> captions skipped
+  121,909 -> duplicates skipped
+  76,037 -> module related
 
-Collected 4,893 unique modules.
-  automatic :cd: -> 3,641
-  explicit :dvd: -> 1,252
+Collected 4,921 unique modules.
+  automatic :cd: -> 3,664
+  explicit :dvd: -> 1,257
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6972](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11069](suspicious/naming.md)
-- Modular impostors: [3755](suspicious/impostors.md)
+- Invalid module names: [6979](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11125](suspicious/naming.md)
+- Modular impostors: [3767](suspicious/impostors.md)
 
-## Unique Modules (4893)
+## Unique Modules (4921)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -187,7 +187,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.11:0.4.1`
 - :cd: `ch.obermuhlner.math.big` :left_right_arrow: `ch.obermuhlner:big-math:2.2.0`
-- :cd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.0.0`
+- :cd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.0.1`
 - :cd: `ch.obermuhlner.scriptengine.jshell` :left_right_arrow: `ch.obermuhlner:scriptengine-jshell:0.1.0`
 - :cd: `ch.obermuhlner.scriptengine.spring.expression` :left_right_arrow: `ch.obermuhlner:spel-scriptengine:1.0.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
@@ -283,12 +283,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.athaydes.protobuf_tcp_rsa_provider` :left_right_arrow: `com.athaydes.protobuf:protobuf-tcp-rsa-provider:0.2.1`
 - :cd: `com.athaydes.spock.reports` :left_right_arrow: `com.athaydes:spock-reports:1.6.2`
 - :cd: `com.beust.jcommander` :left_right_arrow: `com.beust:jcommander:1.75`
-- :cd: `com.blazebit.ai.utils` :left_right_arrow: `com.blazebit:blaze-ai-utils:0.1.16`
-- :cd: `com.blazebit.apt.utils` :left_right_arrow: `com.blazebit:blaze-apt-utils:0.1.16`
-- :cd: `com.blazebit.common.utils` :left_right_arrow: `com.blazebit:blaze-common-utils:0.1.16`
-- :cd: `com.blazebit.ee.apt` :left_right_arrow: `com.blazebit:blaze-ee-apt:0.1.16`
-- :cd: `com.blazebit.ee.utils` :left_right_arrow: `com.blazebit:blaze-ee-utils:0.1.16`
-- :cd: `com.blazebit.mail.utils` :left_right_arrow: `com.blazebit:blaze-mail-utils:0.1.16`
+- :cd: `com.blazebit.ai.utils` :left_right_arrow: `com.blazebit:blaze-ai-utils:0.1.17`
+- :cd: `com.blazebit.apt.utils` :left_right_arrow: `com.blazebit:blaze-apt-utils:0.1.17`
+- :cd: `com.blazebit.common.utils` :left_right_arrow: `com.blazebit:blaze-common-utils:0.1.17`
+- :cd: `com.blazebit.ee.apt` :left_right_arrow: `com.blazebit:blaze-ee-apt:0.1.17`
+- :cd: `com.blazebit.ee.utils` :left_right_arrow: `com.blazebit:blaze-ee-utils:0.1.17`
+- :cd: `com.blazebit.mail.utils` :left_right_arrow: `com.blazebit:blaze-mail-utils:0.1.17`
 - :cd: `com.blazebit.persistence.checkstyle.rules` :left_right_arrow: `com.blazebit:blaze-persistence-checkstyle-rules:1.4.0-Alpha1`
 - :cd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha1`
 - :cd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha1`
@@ -332,7 +332,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha1`
 - :cd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha1`
 - :cd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha1`
-- :cd: `com.blazebit.template.utils` :left_right_arrow: `com.blazebit:blaze-template-utils:0.1.16`
+- :cd: `com.blazebit.template.utils` :left_right_arrow: `com.blazebit:blaze-template-utils:0.1.17`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.1`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.6.1`
 - :cd: `com.carrotsearch.console.launcher` :left_right_arrow: `com.carrotsearch.console:launcher:1.0.3`
@@ -390,7 +390,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emarsys.rdb.connector.redshift` :left_right_arrow: `com.emarsys:rdb-connector-redshift_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.test` :left_right_arrow: `com.emarsys:rdb-connector-test_2.12:4e6e2e40`
 - :cd: `com.emc.mongoose` :left_right_arrow: `com.github.emc-mongoose:mongoose-bundle:4.2.11`
-- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.12`
+- :cd: `com.emc.mongoose.base` :left_right_arrow: `com.github.emc-mongoose:mongoose-base:4.2.13`
 - :cd: `com.emc.mongoose.load.step.pipeline` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-pipeline:4.2.9`
 - :cd: `com.emc.mongoose.load.step.weighted` :left_right_arrow: `com.github.emc-mongoose:mongoose-load-step-weighted:4.2.9`
 - :cd: `com.emc.mongoose.storage.driver.coop` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-coop:4.2.19`
@@ -404,7 +404,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.emc.mongoose.storage.driver.hdfs` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-hdfs:4.2.11`
 - :cd: `com.emc.mongoose.storage.driver.kafka` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-kafka:4.2.8`
 - :cd: `com.emc.mongoose.storage.driver.pravega` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-pravega:4.2.21`
-- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.14`
+- :cd: `com.emc.mongoose.storage.driver.preempt` :left_right_arrow: `com.github.emc-mongoose:mongoose-storage-driver-preempt:4.2.15`
 - :cd: `com.envimate` :left_right_arrow: `com.envimate:webmate:1.0.6`
 - :cd: `com.envimate.mapmate.core` :left_right_arrow: `com.envimate.mapmate:core:1.6.22`
 - :cd: `com.envimate.webmate.integrations.awslambda` :left_right_arrow: `com.envimate.webmate.integrations:webmate-awslambda:1.0.7`
@@ -510,9 +510,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :cd: `com.github.joonasvali.naturalmouse` :left_right_arrow: `com.github.joonasvali.naturalmouse:naturalmouse:2.0.1`
-- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.3.4`
-- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.3.4`
-- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.3.4`
+- :cd: `com.github.librepdf.openpdf` :left_right_arrow: `com.github.librepdf:openpdf:1.3.5`
+- :cd: `com.github.librepdf.pdfSwing` :left_right_arrow: `com.github.librepdf:pdf-swing:1.3.5`
+- :cd: `com.github.librepdf.pdfToolbox` :left_right_arrow: `com.github.librepdf:pdf-toolbox:1.3.5`
 - :cd: `com.github.luben.zstd_jni` :left_right_arrow: `com.github.luben:zstd-jni:1.4.3-1`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.6.0`
 - :dvd: `com.github.marschall.getrandom` :left_right_arrow: `com.github.marschall:getrandom-provider:0.1.1`
@@ -869,7 +869,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.ibm.wala.util` :left_right_arrow: `com.ibm.wala:com.ibm.wala.util:1.5.3`
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` :left_right_arrow: `com.illucit:lucene-utils:1.1.2`
-- :cd: `com.imsweb.algorithms` :left_right_arrow: `com.imsweb:algorithms:2.3`
+- :cd: `com.imsweb.algorithms` :left_right_arrow: `com.imsweb:algorithms:2.4`
 - :cd: `com.imsweb.algorithms.staging` :left_right_arrow: `com.imsweb:staging-client-java:4.7`
 - :cd: `com.imsweb.datagenerator` :left_right_arrow: `com.imsweb:data-generator:1.11`
 - :cd: `com.imsweb.geocoder` :left_right_arrow: `com.imsweb:naaccr-geocoder-client:1.12`
@@ -1205,20 +1205,20 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.opengamma.strata.pricer` :left_right_arrow: `com.opengamma.strata:strata-pricer:2.6.2`
 - :cd: `com.opengamma.strata.product` :left_right_arrow: `com.opengamma.strata:strata-product:2.6.2`
 - :cd: `com.opengamma.strata.report` :left_right_arrow: `com.opengamma.strata:strata-report:2.6.2`
-- :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.11`
-- :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.11`
-- :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.12`
-- :cd: `com.oracle.bedrock.runtime` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.docker` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-docker:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.jacoco` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jacoco:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.jprofiler` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jprofiler:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.k8s` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-k8s:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.maven` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-maven:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.remote` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-remote:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.vagrant` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-vagrant:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.virtual` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-virtual:5.0.12`
-- :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.12`
-- :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.12`
+- :cd: `com.oracle.bedrock.coherence` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.1.2-testing-support:5.0.13`
+- :cd: `com.oracle.bedrock.coherence.testing.support` :left_right_arrow: `com.oracle.bedrock.coherence:coherence-12.2.1-testing-support:5.0.13`
+- :cd: `com.oracle.bedrock.core` :left_right_arrow: `com.oracle.bedrock:bedrock-core:5.0.13`
+- :cd: `com.oracle.bedrock.runtime` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.docker` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-docker:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.jacoco` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jacoco:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.jprofiler` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-jprofiler:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.k8s` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-k8s:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.maven` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-maven:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.remote` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-remote:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.vagrant` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-vagrant:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.virtual` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-virtual:5.0.13`
+- :cd: `com.oracle.bedrock.runtime.windows` :left_right_arrow: `com.oracle.bedrock:bedrock-runtime-windows:5.0.13`
+- :cd: `com.oracle.bedrock.testsupport` :left_right_arrow: `com.oracle.bedrock:bedrock-testing-support:5.0.13`
 - :cd: `com.orsonpdf.orsonpdf` :left_right_arrow: `com.orsonpdf:orsonpdf:1.9`
 - :cd: `com.peruncs.gwt.cookies` :left_right_arrow: `com.peruncs.gwt:gwt-cookies:0.0.3`
 - :cd: `com.peruncs.gwt.jwt` :left_right_arrow: `com.peruncs.gwt:gwt-jwt:0.0.3`
@@ -1739,7 +1739,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.github.resilience4j.timelimiter` :left_right_arrow: `io.github.resilience4j:resilience4j-timelimiter:0.17.0`
 - :cd: `io.github.resilience4j.vertx` :left_right_arrow: `io.github.resilience4j:resilience4j-vertx:0.17.0`
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`
-- :cd: `io.github.scambon.cliwrapper4j` :left_right_arrow: `io.github.scambon:io.github.scambon.cliwrapper4j:1.0.2`
+- :cd: `io.github.scambon.cliwrapper4j` :left_right_arrow: `io.github.scambon:io.github.scambon.cliwrapper4j:1.1.0`
 - :cd: `io.github.soc.directories` :left_right_arrow: `io.github.soc:directories:11`
 - :dvd: `io.github.sskorol.testdatasupplier` :left_right_arrow: `io.github.sskorol:test-data-supplier:1.8.5`
 - :cd: `io.github.sullis.kotlin.compiler.util` :left_right_arrow: `io.github.sullis:kotlin-compiler-util:0.0.1`
@@ -1748,57 +1748,62 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.1`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.1`
 - :cd: `io.glutamate` :left_right_arrow: `io.glutamate:glutamate:0.1.0`
-- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.2.0`
-- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.2.0`
-- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.2.0`
-- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.2.0`
-- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.2.0`
-- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.2.0`
-- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.2.0`
-- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.2.0`
-- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.2.0`
-- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.2.0`
-- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.2.0`
+- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.2.1`
+- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.2.1`
+- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.2.1`
+- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.2.1`
+- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.2.1`
+- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.2.1`
+- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.2.1`
+- :dvd: `io.helidon.common.mapper` :left_right_arrow: `io.helidon.common:helidon-common-mapper:1.2.1`
+- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.2.1`
+- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.2.1`
+- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.2.1`
+- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.2.1`
 - :dvd: `io.helidon.config.bundle` :left_right_arrow: `io.helidon.config:helidon-config-bundle:0.10.6`
-- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.2.0`
-- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.2.0`
-- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.2.0`
-- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.2.0`
-- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.2.0`
-- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.2.0`
-- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.2.0`
-- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.2.0`
-- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.2.0`
-- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.2.0`
-- :dvd: `io.helidon.jersey.client` :left_right_arrow: `io.helidon.jersey:helidon-jersey-client:1.2.0`
-- :dvd: `io.helidon.jersey.common` :left_right_arrow: `io.helidon.jersey:helidon-jersey-common:1.2.0`
-- :dvd: `io.helidon.jersey.media.jsonp` :left_right_arrow: `io.helidon.jersey:helidon-jersey-media-jsonp:1.2.0`
-- :dvd: `io.helidon.jersey.server` :left_right_arrow: `io.helidon.jersey:helidon-jersey-server:1.2.0`
-- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.2.0`
-- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.2.0`
-- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.2.0`
-- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.2.0`
-- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.2.0`
-- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.2.0`
-- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.2.0`
-- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.2.0`
-- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.2.0`
-- :dvd: `io.helidon.microprofile.accesslog` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-access-log:1.2.0`
-- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.2.0`
-- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.2.0`
-- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.2.0`
-- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.2.0`
-- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.2.0`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.2.0`
-- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.2.0`
-- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.2.0`
-- :dvd: `io.helidon.microprofile.openapi` :left_right_arrow: `io.helidon.microprofile.openapi:helidon-microprofile-openapi:1.2.0`
-- :dvd: `io.helidon.microprofile.restclient` :left_right_arrow: `io.helidon.microprofile.rest-client:helidon-microprofile-rest-client:1.2.0`
-- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.2.0`
-- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.2.0`
-- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.2.0`
-- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.2.0`
-- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.2.0`
+- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.2.1`
+- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.2.1`
+- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.2.1`
+- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.2.1`
+- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.2.1`
+- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.2.1`
+- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.2.1`
+- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.2.1`
+- :dvd: `io.helidon.grpc.client` :left_right_arrow: `io.helidon.grpc:helidon-grpc-client:1.2.1`
+- :dvd: `io.helidon.grpc.core` :left_right_arrow: `io.helidon.grpc:helidon-grpc-core:1.2.1`
+- :dvd: `io.helidon.grpc.metrics` :left_right_arrow: `io.helidon.grpc:helidon-grpc-metrics:1.2.1`
+- :dvd: `io.helidon.grpc.server` :left_right_arrow: `io.helidon.grpc:helidon-grpc-server:1.2.1`
+- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.2.1`
+- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.2.1`
+- :dvd: `io.helidon.jersey.client` :left_right_arrow: `io.helidon.jersey:helidon-jersey-client:1.2.1`
+- :dvd: `io.helidon.jersey.common` :left_right_arrow: `io.helidon.jersey:helidon-jersey-common:1.2.1`
+- :dvd: `io.helidon.jersey.media.jsonp` :left_right_arrow: `io.helidon.jersey:helidon-jersey-media-jsonp:1.2.1`
+- :dvd: `io.helidon.jersey.server` :left_right_arrow: `io.helidon.jersey:helidon-jersey-server:1.2.1`
+- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.2.1`
+- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.2.1`
+- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.2.1`
+- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.2.1`
+- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.2.1`
+- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.2.1`
+- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.2.1`
+- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.2.1`
+- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.2.1`
+- :dvd: `io.helidon.microprofile.accesslog` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-access-log:1.2.1`
+- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.2.1`
+- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.2.1`
+- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.2.1`
+- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.2.1`
+- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.2.1`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.2.1`
+- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.2.1`
+- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.2.1`
+- :dvd: `io.helidon.microprofile.openapi` :left_right_arrow: `io.helidon.microprofile.openapi:helidon-microprofile-openapi:1.2.1`
+- :dvd: `io.helidon.microprofile.restclient` :left_right_arrow: `io.helidon.microprofile.rest-client:helidon-microprofile-rest-client:1.2.1`
+- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.2.1`
+- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.2.1`
+- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.2.1`
+- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.2.1`
+- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.2.1`
 - :dvd: `io.helidon.security.abac.policy` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy:0.10.6`
 - :dvd: `io.helidon.security.abac.policy.el` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy-el:0.10.6`
 - :dvd: `io.helidon.security.abac.role` :left_right_arrow: `io.helidon.security:helidon-security-abac-role:0.10.6`
@@ -1806,13 +1811,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.abac.time` :left_right_arrow: `io.helidon.security:helidon-security-abac-time:0.10.6`
 - :dvd: `io.helidon.security.adapter.jersey` :left_right_arrow: `io.helidon.security:helidon-security-integration-jersey:0.10.6`
 - :dvd: `io.helidon.security.adapter.webserver` :left_right_arrow: `io.helidon.security:helidon-security-integration-webserver:0.10.6`
-- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.2.0`
+- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.2.1`
 - :dvd: `io.helidon.security.bundle` :left_right_arrow: `io.helidon.security:helidon-security-bundle:0.10.6`
 - :dvd: `io.helidon.security.integration.annotations` :left_right_arrow: `io.helidon.security:helidon-security-integration-annotations:0.10.6`
-- :dvd: `io.helidon.security.integration.common` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-common:1.2.0`
-- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.2.0`
-- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.2.0`
-- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.2.0`
+- :dvd: `io.helidon.security.integration.common` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-common:1.2.1`
+- :dvd: `io.helidon.security.integration.grpc` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-grpc:1.2.1`
+- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.2.1`
+- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.2.1`
+- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.2.1`
 - :dvd: `io.helidon.security.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.10.6`
 - :dvd: `io.helidon.security.oidc.common` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc-common:0.10.6`
 - :dvd: `io.helidon.security.provider.abac` :left_right_arrow: `io.helidon.security:helidon-security-provider-abac:0.10.6`
@@ -1823,27 +1829,28 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.provider.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.9.1`
 - :dvd: `io.helidon.security.provider.signature` :left_right_arrow: `io.helidon.security:helidon-security-provider-http-signature:0.10.6`
 - :dvd: `io.helidon.security.providers` :left_right_arrow: `io.helidon.security:helidon-security-providers-common:0.10.6`
-- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.2.0`
-- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.2.0`
-- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.2.0`
-- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.2.0`
-- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.2.0`
-- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.2.0`
-- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.2.0`
-- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.2.0`
-- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.2.0`
-- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.2.0`
+- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.2.1`
+- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.2.1`
+- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.2.1`
+- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.2.1`
+- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.2.1`
+- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.2.1`
+- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.2.1`
+- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.2.1`
+- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.2.1`
+- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.2.1`
 - :dvd: `io.helidon.security.tools.config` :left_right_arrow: `io.helidon.security:helidon-security-tools-config:0.10.6`
-- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.2.0`
-- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.2.0`
-- :dvd: `io.helidon.tracing.config` :left_right_arrow: `io.helidon.tracing:helidon-tracing-config:1.2.0`
-- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.2.0`
-- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.2.0`
-- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.2.0`
-- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.2.0`
-- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.2.0`
-- :dvd: `io.helidon.webserver.accesslog` :left_right_arrow: `io.helidon.webserver:helidon-webserver-access-log:1.2.0`
-- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.2.0`
+- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.2.1`
+- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.2.1`
+- :dvd: `io.helidon.tracing.config` :left_right_arrow: `io.helidon.tracing:helidon-tracing-config:1.2.1`
+- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.2.1`
+- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.2.1`
+- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.2.1`
+- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.2.1`
+- :dvd: `io.helidon.webclient.jaxrs` :left_right_arrow: `io.helidon.webclient:helidon-webclient-jaxrs:1.2.1`
+- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.2.1`
+- :dvd: `io.helidon.webserver.accesslog` :left_right_arrow: `io.helidon.webserver:helidon-webserver-access-log:1.2.1`
+- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.2.1`
 - :dvd: `io.helidon.webserver.json` :left_right_arrow: `io.helidon.webserver:helidon-webserver-json:0.11.0`
 - :dvd: `io.helidon.webserver.netty` :left_right_arrow: `io.helidon.webserver:helidon-webserver-netty:0.10.6`
 - :dvd: `io.helidon.webserver.prometheus` :left_right_arrow: `io.helidon.webserver:helidon-webserver-prometheus:0.10.6`
@@ -2067,7 +2074,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.spring.javaformat.eclipse` :left_right_arrow: `io.spring.javaformat:io.spring.javaformat.eclipse:0.0.15`
 - :cd: `io.spring.javaformat.eclipse.tests` :left_right_arrow: `io.spring.javaformat:io.spring.javaformat.eclipse.tests:0.0.15`
 - :cd: `io.vavr` :left_right_arrow: `io.vavr:vavr:1.0.0-alpha-3`
-- :cd: `io.vavr.beanvalidation2` :left_right_arrow: `io.vavr:vavr-beanvalidation2:0.9.2`
+- :cd: `io.vavr.beanvalidation2` :left_right_arrow: `io.vavr:vavr-beanvalidation2:0.10.0`
 - :cd: `io.vavr.gson` :left_right_arrow: `io.vavr:vavr-gson:0.10.0`
 - :cd: `io.vavr.jackson` :left_right_arrow: `io.vavr:vavr-jackson:0.10.0`
 - :cd: `io.vavr.kotlin` :left_right_arrow: `io.vavr:vavr-kotlin:0.10.0`
@@ -2280,6 +2287,8 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.sf.flatpack.excel` :left_right_arrow: `net.sf.flatpack:flatpack-excel:4.0.4`
 - :cd: `net.sf.jtreemap` :left_right_arrow: `net.sf.jtreemap:jtreemap:1.1.3`
 - :cd: `net.sf.nachocalendar` :left_right_arrow: `net.sf.nachocalendar:nachocalendar:0.25`
+- :cd: `net.shibboleth.ext.spring` :left_right_arrow: `net.shibboleth.ext:spring-extensions:5.4.1`
+- :cd: `net.shibboleth.utilities.java.support` :left_right_arrow: `net.shibboleth.utilities:java-support:7.5.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
 - :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.0`
 - :cd: `net.tangly.fsm` :left_right_arrow: `net.tangly:net.tangly.fsm:0.2.0`
@@ -4102,6 +4111,25 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.openjax.xml.dom` :left_right_arrow: `org.openjax.xml:dom:0.9.3`
 - :cd: `org.openjax.xml.sax` :left_right_arrow: `org.openjax.xml:sax:0.9.3`
 - :cd: `org.openjax.xml.transform` :left_right_arrow: `org.openjax.xml:transform:0.9.3`
+- :cd: `org.opensaml.core` :left_right_arrow: `org.opensaml:opensaml-core:3.4.3`
+- :cd: `org.opensaml.messaging` :left_right_arrow: `org.opensaml:opensaml-messaging-api:3.4.3`
+- :cd: `org.opensaml.messaging.impl` :left_right_arrow: `org.opensaml:opensaml-messaging-impl:3.4.3`
+- :cd: `org.opensaml.profile` :left_right_arrow: `org.opensaml:opensaml-profile-api:3.4.3`
+- :cd: `org.opensaml.profile.impl` :left_right_arrow: `org.opensaml:opensaml-profile-impl:3.4.3`
+- :cd: `org.opensaml.saml` :left_right_arrow: `org.opensaml:opensaml-saml-api:3.4.3`
+- :cd: `org.opensaml.saml.impl` :left_right_arrow: `org.opensaml:opensaml-saml-impl:3.4.3`
+- :cd: `org.opensaml.security` :left_right_arrow: `org.opensaml:opensaml-security-api:3.4.3`
+- :cd: `org.opensaml.security.impl` :left_right_arrow: `org.opensaml:opensaml-security-impl:3.4.3`
+- :cd: `org.opensaml.soap` :left_right_arrow: `org.opensaml:opensaml-soap-api:3.4.3`
+- :cd: `org.opensaml.soap.impl` :left_right_arrow: `org.opensaml:opensaml-soap-impl:3.4.3`
+- :cd: `org.opensaml.storage` :left_right_arrow: `org.opensaml:opensaml-storage-api:3.4.3`
+- :cd: `org.opensaml.storage.impl` :left_right_arrow: `org.opensaml:opensaml-storage-impl:3.4.3`
+- :cd: `org.opensaml.xacml` :left_right_arrow: `org.opensaml:opensaml-xacml-api:3.4.3`
+- :cd: `org.opensaml.xacml.impl` :left_right_arrow: `org.opensaml:opensaml-xacml-impl:3.4.3`
+- :cd: `org.opensaml.xacml.profile.saml` :left_right_arrow: `org.opensaml:opensaml-xacml-saml-api:3.4.3`
+- :cd: `org.opensaml.xacml.profile.saml.impl` :left_right_arrow: `org.opensaml:opensaml-xacml-saml-impl:3.4.3`
+- :cd: `org.opensaml.xmlsec` :left_right_arrow: `org.opensaml:opensaml-xmlsec-api:3.4.3`
+- :cd: `org.opensaml.xmlsec.impl` :left_right_arrow: `org.opensaml:opensaml-xmlsec-impl:3.4.3`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :cd: `org.optaplanner.benchmark` :left_right_arrow: `org.optaplanner:optaplanner-benchmark:7.25.0.Final`
 - :cd: `org.optaplanner.core` :left_right_arrow: `org.optaplanner:optaplanner-core:7.25.0.Final`
@@ -4247,7 +4275,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.scijava.parse` :left_right_arrow: `org.scijava:parsington:1.0.5`
 - :cd: `org.scijava.scijava_coding_style` :left_right_arrow: `org.scijava:scijava-coding-style:2.0.0`
 - :cd: `org.sejda.cli` :left_right_arrow: `org.sejda:sejda-console:3.2.84`
-- :dvd: `org.sejda.commons` :left_right_arrow: `org.sejda:sejda-commons:1.0.1`
+- :cd: `org.sejda.commons` :left_right_arrow: `org.sejda:sejda-commons:1.1.0`
 - :cd: `org.sejda.conversion` :left_right_arrow: `org.sejda:sejda-conversion:3.2.84`
 - :cd: `org.sejda.core` :left_right_arrow: `org.sejda:sejda-core:3.2.84`
 - :cd: `org.sejda.core.writer` :left_right_arrow: `org.sejda:sejda-image-writers:3.2.84`
@@ -4255,7 +4283,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.sejda.fonts.optional` :left_right_arrow: `org.sejda:sejda-optional-fonts:3.2.84`
 - :cd: `org.sejda.impl.sambox` :left_right_arrow: `org.sejda:sejda-sambox:3.2.84`
 - :cd: `org.sejda.impl.sambox.ocr` :left_right_arrow: `org.sejda:sejda-ocr:3.2.84`
-- :dvd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.0.1`
+- :cd: `org.sejda.io` :left_right_arrow: `org.sejda:sejda-io:2.1.0`
 - :cd: `org.sejda.model` :left_right_arrow: `org.sejda:sejda-model:3.2.84`
 - :cd: `org.sejda.sambox` :left_right_arrow: `org.sejda:sambox:1.1.59`
 - :cd: `org.sellcom.core` :left_right_arrow: `org.sellcom:sellcom-java:2.0.0`
@@ -4975,7 +5003,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `swim.ws` :left_right_arrow: `ai.swim:swim-ws:3.10.0`
 - :dvd: `swim.xml` :left_right_arrow: `ai.swim:swim-xml:3.10.0`
 - :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.6`
-- :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0-PRD`
+- :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0.1`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-PRD`
 - :dvd: `tk.plogitech.darksky` :left_right_arrow: `tk.plogitech:darksky-forecast-api:2.0.2`
 - :dvd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:2.0.2`
