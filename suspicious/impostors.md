@@ -1293,6 +1293,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.4.4` // `com.vladmihalcea,hibernate-types-43,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.5.0` // `com.vladmihalcea,hibernate-types-43,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.5.1` // `com.vladmihalcea,hibernate-types-43,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.6.0` // `com.vladmihalcea,hibernate-types-43,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1304,6 +1305,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.4.4` // `com.vladmihalcea,hibernate-types-5,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.5.0` // `com.vladmihalcea,hibernate-types-5,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.5.1` // `com.vladmihalcea,hibernate-types-5,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.6.0` // `com.vladmihalcea,hibernate-types-5,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1315,6 +1317,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.4.4` // `com.vladmihalcea,hibernate-types-52,2.4.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.5.0` // `com.vladmihalcea,hibernate-types-52,2.5.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.5.1` // `com.vladmihalcea,hibernate-types-52,2.5.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.6.0` // `com.vladmihalcea,hibernate-types-52,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.4` // `de.mkammerer,argon2-jvm-nolibs,2.4,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
@@ -1329,6 +1332,7 @@
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.5` // `eu.toop,toop-mem-phase4,0.10.5,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-2` // `info.picocli,picocli-jpms-module,4.0.0-alpha-2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-3` // `info.picocli,picocli-jpms-module,4.0.0-alpha-3,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` :left_right_arrow: `io.jooby:jooby-cli:2.0.6` // `io.jooby,jooby-cli,2.0.6,info.picocli,-,explicit,java.base,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.14` // `io.cucumber,datatable,1.1.14,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.6` // `io.cucumber,datatable,1.1.6,io.cucumber.datatable,-,automatic,-,false,-`
@@ -2644,6 +2648,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.2.0-alpha` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.2.0-alpha,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.2.0-alpha-2` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.2.0-alpha-2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.2.1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.0` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.0-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.0-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.0-M2` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.0-M2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.0-RC` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.0-RC,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -2671,6 +2676,7 @@
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.2` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.3` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.4` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `io.opentracing.contrib.specialagent:opentracing-specialagent:1.3.5` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.3.5,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` :left_right_arrow: `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -3730,6 +3736,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.46` // `org.reaktivity,nukleus-oauth,0.46,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.47` // `org.reaktivity,nukleus-oauth,0.47,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.48` // `org.reaktivity,nukleus-oauth,0.48,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.49` // `org.reaktivity,nukleus-oauth,0.49,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
