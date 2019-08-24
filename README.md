@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4924 Java modules published at Maven Central
+Counted 4926 Java modules published at Maven Central
 
-## Summary 2019-08-23T23:07:35.093983Z
+## Summary 2019-08-24T23:08:27.712979Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-23T23:07:35.093983Z
-Scanned 29,911 files in 4 seconds.
+Started scan at 2019-08-24T23:08:27.712979Z
+Scanned 29,998 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_23_22_46_39.csv
+    last -> modulescanner-report-2019_08_24_22_46_43.csv
 
-Parsed 1,881,122 lines in total.
-  33,739 -> captions skipped
-  123,085 -> duplicates skipped
-  76,751 -> module related
+Parsed 1,884,320 lines in total.
+  33,826 -> captions skipped
+  123,296 -> duplicates skipped
+  76,938 -> module related
 
-Collected 4,924 unique modules.
-  automatic :cd: -> 3,667
-  explicit :dvd: -> 1,257
+Collected 4,926 unique modules.
+  automatic :cd: -> 3,668
+  explicit :dvd: -> 1,258
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [6990](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11139](suspicious/naming.md)
-- Modular impostors: [3789](suspicious/impostors.md)
+- Invalid module names: [7018](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11140](suspicious/naming.md)
+- Modular impostors: [3914](suspicious/impostors.md)
 
-## Unique Modules (4924)
+## Unique Modules (4926)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -468,7 +468,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.akurilov.confuse.io.yaml` :left_right_arrow: `com.github.akurilov:confuse-io-yaml:1.0.0`
 - :dvd: `com.github.akurilov.fiber4j` :left_right_arrow: `com.github.akurilov:fiber4j:1.1.0`
 - :dvd: `com.github.akurilov.netty.connection.pool` :left_right_arrow: `com.github.akurilov:netty-connection-pool:1.2.1`
-- :cd: `com.github.albfernandez.itext2` :left_right_arrow: `com.github.albfernandez:itext2:2.1.16`
+- :cd: `com.github.albfernandez.itext2` :left_right_arrow: `com.github.albfernandez:itext2:2.1.17`
 - :cd: `com.github.albfernandez.javadbf` :left_right_arrow: `com.github.albfernandez:javadbf:1.9.4`
 - :cd: `com.github.albfernandez.joinpdf` :left_right_arrow: `com.github.albfernandez:joinpdf:2.0.2`
 - :cd: `com.github.albfernandez.juniversalchardet` :left_right_arrow: `com.github.albfernandez:juniversalchardet:2.3.0`
@@ -971,6 +971,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.io7m.minisite.tests` :left_right_arrow: `com.io7m.minisite:com.io7m.minisite.tests:2.0.1`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
 - :dvd: `com.io7m.mutable.numbers.documentation` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.documentation:2.0.0`
+- :cd: `com.io7m.testartifact.alpha` :left_right_arrow: `com.io7m.testartifact:com.io7m.testartifact.alpha:0.0.1`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
 - :dvd: `com.jamesratzlaff.bitmanip` :left_right_arrow: `com.jamesratzlaff:bit-manip:2019.04.03`
@@ -1425,12 +1426,12 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.vladmihalcea.flexypool.tomee` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-tomee:2.1.2`
 - :cd: `com.vladmihalcea.flexypool.vibur` :left_right_arrow: `com.vladmihalcea.flexy-pool:flexy-vibur:2.1.2`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-4:2.6.0`
-- :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.4`
+- :dvd: `com.zarbosoft.appdirsj` :left_right_arrow: `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` :left_right_arrow: `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` :left_right_arrow: `com.zarbosoft:luxem:1.0.8`
 - :dvd: `com.zarbosoft.pidgoon` :left_right_arrow: `com.zarbosoft:pidgoon:0.0.4`
 - :dvd: `com.zarbosoft.pidgooncommand` :left_right_arrow: `com.zarbosoft:pidgoon-command:0.0.8`
-- :dvd: `com.zarbosoft.rendaw.common` :left_right_arrow: `com.zarbosoft.rendaw:common:1.0.9`
+- :dvd: `com.zarbosoft.rendaw.common` :left_right_arrow: `com.zarbosoft.rendaw:common:1.0.10`
 - :cd: `com.zaxxer.hikari` :left_right_arrow: `com.zaxxer:HikariCP:3.3.1`
 - :cd: `cz.jiripinkas.jsitemapgenerator` :left_right_arrow: `cz.jiripinkas:jsitemapgenerator:3.14`
 - :cd: `de.carne.jfx` :left_right_arrow: `de.carne:java-jfx:8.4.0`
@@ -2223,6 +2224,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `net.jqwik` :left_right_arrow: `net.jqwik:jqwik:1.2.0`
 - :cd: `net.jqwik.api` :left_right_arrow: `net.jqwik:jqwik-api:1.2.0`
 - :cd: `net.jqwik.engine` :left_right_arrow: `net.jqwik:jqwik-engine:1.2.0`
+- :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.1.0`
 - :cd: `net.kyori.ana` :left_right_arrow: `net.kyori:ana:1.0.0`
 - :cd: `net.kyori.blizzard` :left_right_arrow: `net.kyori:blizzard:1.0.5`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
@@ -3298,19 +3300,19 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
 - :cd: `org.eclipse.jetty.websocket.tests` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-tests:9.4.20.v20190813`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
-- :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.http.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.apache:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.http.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.server:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.junit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.junit.http` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.http:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.junit.ssh` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.ssh:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.lfs` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.lfs.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs.server:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.pgm` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.pgm:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.ssh.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ssh.apache:5.4.0.201906121030-r`
-- :cd: `org.eclipse.jgit.ui` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ui:5.4.0.201906121030-r`
+- :cd: `org.eclipse.jgit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.ant` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ant:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.archive` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.archive:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.http.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.apache:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.http.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.http.server:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.junit` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.junit.http` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.http:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.junit.ssh` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.junit.ssh:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.lfs` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.lfs.server` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.lfs.server:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.pgm` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.pgm:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.ssh.apache` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ssh.apache:5.4.2.201908231537-r`
+- :cd: `org.eclipse.jgit.ui` :left_right_arrow: `org.eclipse.jgit:org.eclipse.jgit.ui:5.4.2.201908231537-r`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-core:0.3.3`
 - :cd: `org.eclipse.packagedrone.utils` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils:0.14.6`
 - :cd: `org.eclipse.packagedrone.utils.rpm` :left_right_arrow: `org.eclipse.packagedrone:org.eclipse.packagedrone.utils.rpm:0.14.6`
@@ -3435,18 +3437,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.hibernate.orm.vibur` :left_right_arrow: `org.hibernate:hibernate-vibur:5.4.2.Final`
 - :cd: `org.hibernate.search.backend.elasticsearch` :left_right_arrow: `org.hibernate:hibernate-search-elasticsearch:5.11.2.Final`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` :left_right_arrow: `org.hibernate:hibernate-search-elasticsearch-aws:5.11.2.Final`
-- :cd: `org.hibernate.search.backend.lucene` :left_right_arrow: `org.hibernate.search:hibernate-search-backend-lucene:6.0.0.Alpha8`
+- :cd: `org.hibernate.search.backend.lucene` :left_right_arrow: `org.hibernate.search:hibernate-search-backend-lucene:6.0.0.Alpha9`
 - :cd: `org.hibernate.search.clustering.jgroups` :left_right_arrow: `org.hibernate:hibernate-search-backend-jgroups:5.11.2.Final`
 - :cd: `org.hibernate.search.clustering.jms` :left_right_arrow: `org.hibernate:hibernate-search-backend-jms:5.11.2.Final`
 - :cd: `org.hibernate.search.engine` :left_right_arrow: `org.hibernate:hibernate-search-engine:5.11.2.Final`
 - :cd: `org.hibernate.search.jsr352.core` :left_right_arrow: `org.hibernate:hibernate-search-jsr352-core:5.11.2.Final`
 - :cd: `org.hibernate.search.jsr352.jberet` :left_right_arrow: `org.hibernate:hibernate-search-jsr352-jberet:5.11.2.Final`
-- :cd: `org.hibernate.search.mapper.javabean` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-javabean:6.0.0.Alpha8`
-- :cd: `org.hibernate.search.mapper.orm` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-orm:6.0.0.Alpha8`
-- :cd: `org.hibernate.search.mapper.pojo` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-pojo:6.0.0.Alpha8`
+- :cd: `org.hibernate.search.mapper.javabean` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-javabean:6.0.0.Alpha9`
+- :cd: `org.hibernate.search.mapper.orm` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-orm:6.0.0.Alpha9`
+- :cd: `org.hibernate.search.mapper.pojo` :left_right_arrow: `org.hibernate.search:hibernate-search-mapper-pojo:6.0.0.Alpha9`
 - :cd: `org.hibernate.search.orm` :left_right_arrow: `org.hibernate:hibernate-search-orm:5.11.2.Final`
 - :cd: `org.hibernate.search.serialization.avro` :left_right_arrow: `org.hibernate:hibernate-search-serialization-avro:5.11.2.Final`
-- :cd: `org.hibernate.search.util.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-common:6.0.0.Alpha8`
+- :cd: `org.hibernate.search.util.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-common:6.0.0.Alpha9`
 - :cd: `org.hibernate.search.util.internal.common` :left_right_arrow: `org.hibernate.search:hibernate-search-util-internal-common:6.0.0.Alpha2`
 - :cd: `org.hibernate.validator` :left_right_arrow: `org.hibernate.validator:hibernate-validator:6.1.0.Alpha6`
 - :cd: `org.hibernate.validator.annotationprocessor` :left_right_arrow: `org.hibernate.validator:hibernate-validator-annotation-processor:6.1.0.Alpha6`
@@ -3693,17 +3695,17 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `org.kie.karaf.features` :left_right_arrow: `org.kie:kie-karaf-features:7.25.0.Final`
 - :cd: `org.kie.karaf.itests.domain.model` :left_right_arrow: `org.kie:kie-karaf-itests-domain-model:7.25.0.Final`
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.kie:kie-karaf-itests:7.25.0.Final`
-- :cd: `org.kie.kogito.api` :left_right_arrow: `org.kie.kogito:kogito-api:0.2.0`
-- :cd: `org.kie.kogito.common.services` :left_right_arrow: `org.kie.kogito:kogito-services:0.2.0`
-- :cd: `org.kie.kogito.drools.compiler` :left_right_arrow: `org.kie.kogito:drools-compiler:0.2.0`
+- :cd: `org.kie.kogito.api` :left_right_arrow: `org.kie.kogito:kogito-api:0.3.0`
+- :cd: `org.kie.kogito.common.services` :left_right_arrow: `org.kie.kogito:kogito-services:0.3.0`
+- :cd: `org.kie.kogito.drools.compiler` :left_right_arrow: `org.kie.kogito:drools-compiler:0.3.0`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-constraint-parser:0.1.3`
-- :cd: `org.kie.kogito.drools.core` :left_right_arrow: `org.kie.kogito:drools-core:0.2.0`
-- :cd: `org.kie.kogito.drools.core.dynamic` :left_right_arrow: `org.kie.kogito:drools-core-dynamic:0.2.0`
-- :cd: `org.kie.kogito.drools.core.reflective` :left_right_arrow: `org.kie.kogito:drools-core-reflective:0.2.0`
-- :cd: `org.kie.kogito.internal.api` :left_right_arrow: `org.kie.kogito:kogito-internal:0.2.0`
-- :cd: `org.kie.kogito.jbpm.bpmn2` :left_right_arrow: `org.kie.kogito:jbpm-bpmn2:0.2.0`
-- :cd: `org.kie.kogito.jbpm.flow.builder` :left_right_arrow: `org.kie.kogito:jbpm-flow-builder:0.2.0`
-- :cd: `org.kie.kogito.jbpm.flow.core` :left_right_arrow: `org.kie.kogito:jbpm-flow:0.2.0`
+- :cd: `org.kie.kogito.drools.core` :left_right_arrow: `org.kie.kogito:drools-core:0.3.0`
+- :cd: `org.kie.kogito.drools.core.dynamic` :left_right_arrow: `org.kie.kogito:drools-core-dynamic:0.3.0`
+- :cd: `org.kie.kogito.drools.core.reflective` :left_right_arrow: `org.kie.kogito:drools-core-reflective:0.3.0`
+- :cd: `org.kie.kogito.internal.api` :left_right_arrow: `org.kie.kogito:kogito-internal:0.3.0`
+- :cd: `org.kie.kogito.jbpm.bpmn2` :left_right_arrow: `org.kie.kogito:jbpm-bpmn2:0.3.0`
+- :cd: `org.kie.kogito.jbpm.flow.builder` :left_right_arrow: `org.kie.kogito:jbpm-flow-builder:0.3.0`
+- :cd: `org.kie.kogito.jbpm.flow.core` :left_right_arrow: `org.kie.kogito:jbpm-flow:0.3.0`
 - :cd: `org.kie.osgi.integration` :left_right_arrow: `org.kie:kie-osgi-integration:7.25.0.Final`
 - :cd: `org.kie.performance.kit` :left_right_arrow: `org.kie:kie-performance-kit:7.25.0.Final`
 - :cd: `org.kie.scanner.osgi` :left_right_arrow: `org.kie:kie-ci-osgi:7.25.0.Final`

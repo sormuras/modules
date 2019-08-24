@@ -10985,6 +10985,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.15.0` // `io.zipkin.zipkin2,zipkin,2.15.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.0` // `io.zipkin.zipkin2,zipkin,2.16.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.1` // `io.zipkin.zipkin2,zipkin,2.16.1,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.16.2` // `io.zipkin.zipkin2,zipkin,2.16.2,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
