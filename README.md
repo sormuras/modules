@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4926 Java modules published at Maven Central
+Counted 4929 Java modules published at Maven Central
 
-## Summary 2019-08-24T23:08:27.712979Z
+## Summary 2019-08-25T23:08:48.617440Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-24T23:08:27.712979Z
-Scanned 29,998 files in 3 seconds.
+Started scan at 2019-08-25T23:08:48.617440Z
+Scanned 30,067 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_24_22_46_43.csv
+    last -> modulescanner-report-2019_08_25_22_53_49.csv
 
-Parsed 1,884,320 lines in total.
-  33,826 -> captions skipped
-  123,296 -> duplicates skipped
-  76,938 -> module related
+Parsed 1,885,948 lines in total.
+  33,895 -> captions skipped
+  123,554 -> duplicates skipped
+  77,053 -> module related
 
-Collected 4,926 unique modules.
-  automatic :cd: -> 3,668
-  explicit :dvd: -> 1,258
+Collected 4,929 unique modules.
+  automatic :cd: -> 3,661
+  explicit :dvd: -> 1,268
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7018](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11140](suspicious/naming.md)
-- Modular impostors: [3914](suspicious/impostors.md)
+- Invalid module names: [7019](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11141](suspicious/naming.md)
+- Modular impostors: [4004](suspicious/impostors.md)
 
-## Unique Modules (4926)
+## Unique Modules (4929)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -380,7 +380,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.digitalascent.logger` :left_right_arrow: `com.digitalascent:digitalascent-fluent-logger:1.0.3`
 - :cd: `com.digitalascent.servlet` :left_right_arrow: `com.digitalascent:digitalascent-servlet:1.0.2`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.3.2`
-- :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.4.3`
+- :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.5.0`
 - :cd: `com.dongjinlee.beanpiece` :left_right_arrow: `com.dongjinlee:beanpiece:0.2`
 - :cd: `com.emarsys.rdb.connector.bigquery` :left_right_arrow: `com.emarsys:rdb-connector-bigquery_2.12:4e6e2e40`
 - :cd: `com.emarsys.rdb.connector.common` :left_right_arrow: `com.emarsys:rdb-connector-common_2.12:4e6e2e40`
@@ -555,19 +555,19 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.github.pukkaone.grapid.maven.plugin` :left_right_arrow: `com.github.pukkaone:grapid-maven-plugin:0.3.0`
 - :cd: `com.github.pukkaone.grapid.web.spring.boot.starter` :left_right_arrow: `com.github.pukkaone:grapid-web-spring-boot-starter:0.3.0`
 - :cd: `com.github.richardroda.util.closeit` :left_right_arrow: `com.github.richardroda.util:closeit:1.4`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.3.0`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.3.0`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.3.0`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :cd: `com.github.robozonky.installer` :left_right_arrow: `com.github.robozonky:robozonky-installer:5.1.1`
 - :cd: `com.github.robozonky.installer.panels` :left_right_arrow: `com.github.robozonky.installer:robozonky-installer-panels:4.5.3`
-- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.3.0`
+- :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
 - :cd: `com.github.robozonky.integrations.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.1.1`
 - :cd: `com.github.robozonky.marketplaces` :left_right_arrow: `com.github.robozonky:robozonky-marketplaces:4.3.4`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.3.0`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.3.0`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.3.0`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0-beta-1`
 - :cd: `com.github.robtimus.ip.utils` :left_right_arrow: `com.github.robtimus:ip-utils:1.2`
 - :cd: `com.github.robtimus.ip.validation` :left_right_arrow: `com.github.robtimus:ip-validation:1.0.1`
 - :cd: `com.github.robtimus.tryparse` :left_right_arrow: `com.github.robtimus:try-parse:1.1`
@@ -884,16 +884,18 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.imsweb.staging.tnm` :left_right_arrow: `com.imsweb:staging-algorithm-tnm:1.9.2`
 - :cd: `com.imsweb.validation` :left_right_arrow: `com.imsweb:validation:2.8`
 - :cd: `com.imsweb.x12` :left_right_arrow: `com.imsweb:x12-parser:1.5`
-- :cd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.parser.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.parser.api:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.schema` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.schema:4.0.0-beta0011`
+- :dvd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.documentation` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.documentation:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.parser.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.parser.api:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.schema` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.schema:4.0.0-beta0014`
+- :cd: `com.io7m.changelog.tests` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.tests:4.0.0-beta0014`
 - :cd: `com.io7m.changelog.text` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.text:4.0.0-beta0001`
-- :cd: `com.io7m.changelog.text.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.text.api:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.text.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.text.vanilla:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0011`
-- :cd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0011`
+- :dvd: `com.io7m.changelog.text.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.text.api:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.text.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.text.vanilla:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
+- :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
 - :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:2.0.0`
 - :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:2.0.0`
@@ -971,6 +973,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `com.io7m.minisite.tests` :left_right_arrow: `com.io7m.minisite:com.io7m.minisite.tests:2.0.1`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
 - :dvd: `com.io7m.mutable.numbers.documentation` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.documentation:2.0.0`
+- :cd: `com.io7m.primogenitor.support` :left_right_arrow: `com.io7m.primogenitor:com.io7m.primogenitor.support:3.4.0`
 - :cd: `com.io7m.testartifact.alpha` :left_right_arrow: `com.io7m.testartifact:com.io7m.testartifact.alpha:0.0.1`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
@@ -1687,7 +1690,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.earcam.utilitarian.site.search.offline` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.search.offline:1.2.1`
 - :cd: `io.earcam.utilitarian.site.sitemap` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.site.sitemap:1.2.1`
 - :cd: `io.earcam.utilitarian.web.jaxrs` :left_right_arrow: `io.earcam.utilitarian:io.earcam.utilitarian.web.jaxrs:1.2.1`
-- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.43.2`
+- :cd: `io.ebean` :left_right_arrow: `io.ebean:ebean:11.43.3`
 - :cd: `io.ebean.annotation` :left_right_arrow: `io.ebean:ebean-annotation:4.12`
 - :cd: `io.ebean.metrics.collectd` :left_right_arrow: `io.ebean:ebean-collectd:1.5.1`
 - :cd: `io.ebean.migration` :left_right_arrow: `io.ebean:ebean-migration:11.20.1`
@@ -2046,7 +2049,7 @@ Include them in your `module-info.java` module descriptors.
 - :cd: `io.qameta.allure.springboot` :left_right_arrow: `io.qameta.allure:allure-spring-boot:2.9.0`
 - :cd: `io.qameta.allure.springweb` :left_right_arrow: `io.qameta.allure:allure-spring-web:2.12.1`
 - :cd: `io.qameta.allure.testng` :left_right_arrow: `io.qameta.allure:allure-testng:2.12.1`
-- :cd: `io.reactivex.rxjava2` :left_right_arrow: `io.reactivex.rxjava2:rxjava:2.2.11`
+- :cd: `io.reactivex.rxjava2` :left_right_arrow: `io.reactivex.rxjava2:rxjava:2.2.12`
 - :cd: `io.reactivex.rxjava3` :left_right_arrow: `io.reactivex.rxjava3:rxjava:3.0.0-RC2`
 - :cd: `io.sarl.core` :left_right_arrow: `io.sarl:io.sarl.core:0.9.0`
 - :cd: `io.sarl.javafx` :left_right_arrow: `io.sarl:io.sarl.javafx:0.9.0`
