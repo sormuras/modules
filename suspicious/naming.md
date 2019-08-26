@@ -2969,6 +2969,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.2` // `io.zipkin.aws,brave-propagation-aws,0.17.2,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.3` // `io.zipkin.aws,brave-propagation-aws,0.17.3,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.17.4` // `io.zipkin.aws,brave-propagation-aws,0.17.4,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.18.0` // `io.zipkin.aws,brave-propagation-aws,0.18.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
@@ -3232,6 +3233,7 @@
 - :cd: `com.codahale.metrics.httpclient` :left_right_arrow: `io.dropwizard.metrics:metrics-httpclient:4.1.0-rc2` // `io.dropwizard.metrics,metrics-httpclient,4.1.0-rc2,com.codahale.metrics.httpclient,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics.httpclient` :left_right_arrow: `io.dropwizard.metrics:metrics-httpclient:4.1.0-rc3` // `io.dropwizard.metrics,metrics-httpclient,4.1.0-rc3,com.codahale.metrics.httpclient,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics.influxdb` :left_right_arrow: `io.dropwizard.metrics5:metrics-influxdb:5.0.0-rc2` // `io.dropwizard.metrics5,metrics-influxdb,5.0.0-rc2,com.codahale.metrics.influxdb,-,automatic,-,false,-`
+- :cd: `com.codahale.metrics.influxdb` :left_right_arrow: `io.dropwizard.metrics5:metrics-influxdb:5.0.0-rc3` // `io.dropwizard.metrics5,metrics-influxdb,5.0.0-rc3,com.codahale.metrics.influxdb,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics.jcache` :left_right_arrow: `io.dropwizard.metrics:metrics-jcache:4.1.0` // `io.dropwizard.metrics,metrics-jcache,4.1.0,com.codahale.metrics.jcache,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics.jcache` :left_right_arrow: `io.dropwizard.metrics:metrics-jcache:4.1.0-rc2` // `io.dropwizard.metrics,metrics-jcache,4.1.0-rc2,com.codahale.metrics.jcache,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics.jcache` :left_right_arrow: `io.dropwizard.metrics:metrics-jcache:4.1.0-rc3` // `io.dropwizard.metrics,metrics-jcache,4.1.0-rc3,com.codahale.metrics.jcache,-,automatic,-,false,-`
@@ -4015,6 +4017,7 @@
 - :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.2.1` // `com.holon-platform.core,holon-async-datastore,5.2.1,com.holonplatform.async.datastore,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.2.2` // `com.holon-platform.core,holon-async-datastore,5.2.2,com.holonplatform.async.datastore,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.2.3` // `com.holon-platform.core,holon-async-datastore,5.2.3,com.holonplatform.async.datastore,-,automatic,-,false,-`
+- :cd: `com.holonplatform.async.datastore` :left_right_arrow: `com.holon-platform.core:holon-async-datastore:5.3.0` // `com.holon-platform.core,holon-async-datastore,5.3.0,com.holonplatform.async.datastore,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.0` // `com.holon-platform.core,holon-async-http,5.2.0,com.holonplatform.async.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.0-alpha1` // `com.holon-platform.core,holon-async-http,5.2.0-alpha1,com.holonplatform.async.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.0-rc1` // `com.holon-platform.core,holon-async-http,5.2.0-rc1,com.holonplatform.async.http,-,automatic,-,false,-`
@@ -4022,6 +4025,7 @@
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.1` // `com.holon-platform.core,holon-async-http,5.2.1,com.holonplatform.async.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.2` // `com.holon-platform.core,holon-async-http,5.2.2,com.holonplatform.async.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.2.3` // `com.holon-platform.core,holon-async-http,5.2.3,com.holonplatform.async.http,-,automatic,-,false,-`
+- :cd: `com.holonplatform.async.http` :left_right_arrow: `com.holon-platform.core:holon-async-http:5.3.0` // `com.holon-platform.core,holon-async-http,5.3.0,com.holonplatform.async.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.0` // `com.holon-platform.core,holon-auth,5.2.0,com.holonplatform.auth,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.0-alpha1` // `com.holon-platform.core,holon-auth,5.2.0-alpha1,com.holonplatform.auth,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.0-rc1` // `com.holon-platform.core,holon-auth,5.2.0-rc1,com.holonplatform.auth,-,automatic,-,false,-`
@@ -4029,6 +4033,7 @@
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.1` // `com.holon-platform.core,holon-auth,5.2.1,com.holonplatform.auth,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.2` // `com.holon-platform.core,holon-auth,5.2.2,com.holonplatform.auth,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.2.3` // `com.holon-platform.core,holon-auth,5.2.3,com.holonplatform.auth,-,automatic,-,false,-`
+- :cd: `com.holonplatform.auth` :left_right_arrow: `com.holon-platform.core:holon-auth:5.3.0` // `com.holon-platform.core,holon-auth,5.3.0,com.holonplatform.auth,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.0` // `com.holon-platform.core,holon-auth-jwt,5.2.0,com.holonplatform.auth.jwt,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.0-alpha1` // `com.holon-platform.core,holon-auth-jwt,5.2.0-alpha1,com.holonplatform.auth.jwt,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.0-rc1` // `com.holon-platform.core,holon-auth-jwt,5.2.0-rc1,com.holonplatform.auth.jwt,-,automatic,-,false,-`
@@ -4036,6 +4041,7 @@
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.1` // `com.holon-platform.core,holon-auth-jwt,5.2.1,com.holonplatform.auth.jwt,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.2` // `com.holon-platform.core,holon-auth-jwt,5.2.2,com.holonplatform.auth.jwt,-,automatic,-,false,-`
 - :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.2.3` // `com.holon-platform.core,holon-auth-jwt,5.2.3,com.holonplatform.auth.jwt,-,automatic,-,false,-`
+- :cd: `com.holonplatform.auth.jwt` :left_right_arrow: `com.holon-platform.core:holon-auth-jwt:5.3.0` // `com.holon-platform.core,holon-auth-jwt,5.3.0,com.holonplatform.auth.jwt,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.0` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.0,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.0-alpha1` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.0-alpha1,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.0-alpha2` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.0-alpha2,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
@@ -4046,6 +4052,7 @@
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.3` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.3,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.4` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.4,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.2.5` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.2.5,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
+- :cd: `com.holonplatform.datastore.jdbc` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc:5.3.0` // `com.holon-platform.jdbc,holon-datastore-jdbc,5.3.0,com.holonplatform.datastore.jdbc,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.0,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.0-alpha1` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.0-alpha1,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.0-alpha2` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.0-alpha2,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
@@ -4056,6 +4063,7 @@
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.3` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.3,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.4` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.4,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.2.5` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.2.5,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
+- :cd: `com.holonplatform.datastore.jdbc.composer` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-composer:5.3.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-composer,5.3.0,com.holonplatform.datastore.jdbc.composer,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.0,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.0-alpha1` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.0-alpha1,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.0-alpha2` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.0-alpha2,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
@@ -4066,6 +4074,7 @@
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.3` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.3,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.4` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.4,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.2.5` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.2.5,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
+- :cd: `com.holonplatform.datastore.jdbc.spring` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring:5.3.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring,5.3.0,com.holonplatform.datastore.jdbc.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.0,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.0-alpha1` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.0-alpha1,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.0-alpha2` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.0-alpha2,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
@@ -4076,6 +4085,7 @@
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.3` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.3,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.4` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.4,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.2.5` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.2.5,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
+- :cd: `com.holonplatform.datastore.jdbc.spring.boot` :left_right_arrow: `com.holon-platform.jdbc:holon-datastore-jdbc-spring-boot:5.3.0` // `com.holon-platform.jdbc,holon-datastore-jdbc-spring-boot,5.3.0,com.holonplatform.datastore.jdbc.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.0` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.0,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.0-alpha1` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.0-alpha1,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.0-alpha2` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.0-alpha2,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
@@ -4085,6 +4095,7 @@
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.2` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.2,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.3` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.3,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.2.4` // `com.holon-platform.jpa,holon-datastore-jpa,5.2.4,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
+- :cd: `com.holonplatform.datastore.jpa` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa:5.3.0` // `com.holon-platform.jpa,holon-datastore-jpa,5.3.0,com.holonplatform.datastore.jpa,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa.querydsl` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa-querydsl:5.2.0` // `com.holon-platform.jpa,holon-datastore-jpa-querydsl,5.2.0,com.holonplatform.datastore.jpa.querydsl,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa.querydsl` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa-querydsl:5.2.0-alpha1` // `com.holon-platform.jpa,holon-datastore-jpa-querydsl,5.2.0-alpha1,com.holonplatform.datastore.jpa.querydsl,-,automatic,-,false,-`
 - :cd: `com.holonplatform.datastore.jpa.querydsl` :left_right_arrow: `com.holon-platform.jpa:holon-datastore-jpa-querydsl:5.2.0-alpha2` // `com.holon-platform.jpa,holon-datastore-jpa-querydsl,5.2.0-alpha2,com.holonplatform.datastore.jpa.querydsl,-,automatic,-,false,-`
@@ -4156,6 +4167,7 @@
 - :cd: `com.holonplatform.gson` :left_right_arrow: `com.holon-platform.json:holon-gson:5.2.1` // `com.holon-platform.json,holon-gson,5.2.1,com.holonplatform.gson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson` :left_right_arrow: `com.holon-platform.json:holon-gson:5.2.2` // `com.holon-platform.json,holon-gson,5.2.2,com.holonplatform.gson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson` :left_right_arrow: `com.holon-platform.json:holon-gson:5.2.3` // `com.holon-platform.json,holon-gson,5.2.3,com.holonplatform.gson,-,automatic,-,false,-`
+- :cd: `com.holonplatform.gson` :left_right_arrow: `com.holon-platform.json:holon-gson:5.3.0` // `com.holon-platform.json,holon-gson,5.3.0,com.holonplatform.gson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.0` // `com.holon-platform.json,holon-gson-jaxrs,5.2.0,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.0-alpha1` // `com.holon-platform.json,holon-gson-jaxrs,5.2.0-alpha1,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.0-rc1` // `com.holon-platform.json,holon-gson-jaxrs,5.2.0-rc1,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
@@ -4163,6 +4175,7 @@
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.1` // `com.holon-platform.json,holon-gson-jaxrs,5.2.1,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.2` // `com.holon-platform.json,holon-gson-jaxrs,5.2.2,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.2.3` // `com.holon-platform.json,holon-gson-jaxrs,5.2.3,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
+- :cd: `com.holonplatform.gson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-gson-jaxrs:5.3.0` // `com.holon-platform.json,holon-gson-jaxrs,5.3.0,com.holonplatform.gson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.0` // `com.holon-platform.json,holon-gson-spring,5.2.0,com.holonplatform.gson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.0-alpha1` // `com.holon-platform.json,holon-gson-spring,5.2.0-alpha1,com.holonplatform.gson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.0-rc1` // `com.holon-platform.json,holon-gson-spring,5.2.0-rc1,com.holonplatform.gson.spring,-,automatic,-,false,-`
@@ -4170,6 +4183,7 @@
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.1` // `com.holon-platform.json,holon-gson-spring,5.2.1,com.holonplatform.gson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.2` // `com.holon-platform.json,holon-gson-spring,5.2.2,com.holonplatform.gson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.2.3` // `com.holon-platform.json,holon-gson-spring,5.2.3,com.holonplatform.gson.spring,-,automatic,-,false,-`
+- :cd: `com.holonplatform.gson.spring` :left_right_arrow: `com.holon-platform.json:holon-gson-spring:5.3.0` // `com.holon-platform.json,holon-gson-spring,5.3.0,com.holonplatform.gson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.0` // `com.holon-platform.core,holon-http,5.2.0,com.holonplatform.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.0-alpha1` // `com.holon-platform.core,holon-http,5.2.0-alpha1,com.holonplatform.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.0-rc1` // `com.holon-platform.core,holon-http,5.2.0-rc1,com.holonplatform.http,-,automatic,-,false,-`
@@ -4177,6 +4191,7 @@
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.1` // `com.holon-platform.core,holon-http,5.2.1,com.holonplatform.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.2` // `com.holon-platform.core,holon-http,5.2.2,com.holonplatform.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.2.3` // `com.holon-platform.core,holon-http,5.2.3,com.holonplatform.http,-,automatic,-,false,-`
+- :cd: `com.holonplatform.http` :left_right_arrow: `com.holon-platform.core:holon-http:5.3.0` // `com.holon-platform.core,holon-http,5.3.0,com.holonplatform.http,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.0` // `com.holon-platform.json,holon-jackson,5.2.0,com.holonplatform.jackson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.0-alpha1` // `com.holon-platform.json,holon-jackson,5.2.0-alpha1,com.holonplatform.jackson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.0-rc1` // `com.holon-platform.json,holon-jackson,5.2.0-rc1,com.holonplatform.jackson,-,automatic,-,false,-`
@@ -4184,6 +4199,7 @@
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.1` // `com.holon-platform.json,holon-jackson,5.2.1,com.holonplatform.jackson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.2` // `com.holon-platform.json,holon-jackson,5.2.2,com.holonplatform.jackson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.2.3` // `com.holon-platform.json,holon-jackson,5.2.3,com.holonplatform.jackson,-,automatic,-,false,-`
+- :cd: `com.holonplatform.jackson` :left_right_arrow: `com.holon-platform.json:holon-jackson:5.3.0` // `com.holon-platform.json,holon-jackson,5.3.0,com.holonplatform.jackson,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.0` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.0,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.0-alpha1` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.0-alpha1,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.0-rc1` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.0-rc1,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
@@ -4191,6 +4207,7 @@
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.1` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.1,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.2` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.2,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.2.3` // `com.holon-platform.json,holon-jackson-jaxrs,5.2.3,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
+- :cd: `com.holonplatform.jackson.jaxrs` :left_right_arrow: `com.holon-platform.json:holon-jackson-jaxrs:5.3.0` // `com.holon-platform.json,holon-jackson-jaxrs,5.3.0,com.holonplatform.jackson.jaxrs,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.0` // `com.holon-platform.json,holon-jackson-spring,5.2.0,com.holonplatform.jackson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.0-alpha1` // `com.holon-platform.json,holon-jackson-spring,5.2.0-alpha1,com.holonplatform.jackson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.0-rc1` // `com.holon-platform.json,holon-jackson-spring,5.2.0-rc1,com.holonplatform.jackson.spring,-,automatic,-,false,-`
@@ -4198,6 +4215,7 @@
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.1` // `com.holon-platform.json,holon-jackson-spring,5.2.1,com.holonplatform.jackson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.2` // `com.holon-platform.json,holon-jackson-spring,5.2.2,com.holonplatform.jackson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.2.3` // `com.holon-platform.json,holon-jackson-spring,5.2.3,com.holonplatform.jackson.spring,-,automatic,-,false,-`
+- :cd: `com.holonplatform.jackson.spring` :left_right_arrow: `com.holon-platform.json:holon-jackson-spring:5.3.0` // `com.holon-platform.json,holon-jackson-spring,5.3.0,com.holonplatform.jackson.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.0` // `com.holon-platform.core,holon-spring,5.2.0,com.holonplatform.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.0-alpha1` // `com.holon-platform.core,holon-spring,5.2.0-alpha1,com.holonplatform.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.0-rc1` // `com.holon-platform.core,holon-spring,5.2.0-rc1,com.holonplatform.spring,-,automatic,-,false,-`
@@ -4205,6 +4223,7 @@
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.1` // `com.holon-platform.core,holon-spring,5.2.1,com.holonplatform.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.2` // `com.holon-platform.core,holon-spring,5.2.2,com.holonplatform.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.2.3` // `com.holon-platform.core,holon-spring,5.2.3,com.holonplatform.spring,-,automatic,-,false,-`
+- :cd: `com.holonplatform.spring` :left_right_arrow: `com.holon-platform.core:holon-spring:5.3.0` // `com.holon-platform.core,holon-spring,5.3.0,com.holonplatform.spring,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.0` // `com.holon-platform.core,holon-spring-boot,5.2.0,com.holonplatform.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.0-alpha1` // `com.holon-platform.core,holon-spring-boot,5.2.0-alpha1,com.holonplatform.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.0-rc1` // `com.holon-platform.core,holon-spring-boot,5.2.0-rc1,com.holonplatform.spring.boot,-,automatic,-,false,-`
@@ -4212,6 +4231,7 @@
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.1` // `com.holon-platform.core,holon-spring-boot,5.2.1,com.holonplatform.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.2` // `com.holon-platform.core,holon-spring-boot,5.2.2,com.holonplatform.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.2.3` // `com.holon-platform.core,holon-spring-boot,5.2.3,com.holonplatform.spring.boot,-,automatic,-,false,-`
+- :cd: `com.holonplatform.spring.boot` :left_right_arrow: `com.holon-platform.core:holon-spring-boot:5.3.0` // `com.holon-platform.core,holon-spring-boot,5.3.0,com.holonplatform.spring.boot,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.0` // `com.holon-platform.core,holon-spring-security,5.2.0,com.holonplatform.spring.security,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.0-alpha1` // `com.holon-platform.core,holon-spring-security,5.2.0-alpha1,com.holonplatform.spring.security,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.0-rc1` // `com.holon-platform.core,holon-spring-security,5.2.0-rc1,com.holonplatform.spring.security,-,automatic,-,false,-`
@@ -4219,12 +4239,14 @@
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.1` // `com.holon-platform.core,holon-spring-security,5.2.1,com.holonplatform.spring.security,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.2` // `com.holon-platform.core,holon-spring-security,5.2.2,com.holonplatform.spring.security,-,automatic,-,false,-`
 - :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.2.3` // `com.holon-platform.core,holon-spring-security,5.2.3,com.holonplatform.spring.security,-,automatic,-,false,-`
+- :cd: `com.holonplatform.spring.security` :left_right_arrow: `com.holon-platform.core:holon-spring-security:5.3.0` // `com.holon-platform.core,holon-spring-security,5.3.0,com.holonplatform.spring.security,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.0` // `com.holon-platform.core,holon-test,5.2.0,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.0-rc1` // `com.holon-platform.core,holon-test,5.2.0-rc1,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.0-rc2` // `com.holon-platform.core,holon-test,5.2.0-rc2,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.1` // `com.holon-platform.core,holon-test,5.2.1,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.2` // `com.holon-platform.core,holon-test,5.2.2,com.holonplatform.test,-,automatic,-,false,-`
 - :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.2.3` // `com.holon-platform.core,holon-test,5.2.3,com.holonplatform.test,-,automatic,-,false,-`
+- :cd: `com.holonplatform.test` :left_right_arrow: `com.holon-platform.core:holon-test:5.3.0` // `com.holon-platform.core,holon-test,5.3.0,com.holonplatform.test,-,automatic,-,false,-`
 - :dvd: `com.io7m.checkstyle.rules` :left_right_arrow: `com.io7m.checkstyle_rules:com.io7m.checkstyle_rules:0.0.2` // `com.io7m.checkstyle_rules,com.io7m.checkstyle_rules,0.0.2,com.io7m.checkstyle.rules,-,explicit,java.base,false,-`
 - :dvd: `com.io7m.checkstyle.rules` :left_right_arrow: `com.io7m.checkstyle_rules:com.io7m.checkstyle_rules:0.0.3` // `com.io7m.checkstyle_rules,com.io7m.checkstyle_rules,0.0.3,com.io7m.checkstyle.rules,-,explicit,java.base,false,-`
 - :dvd: `com.jiggawatt.jt.oddl` :left_right_arrow: `com.github.mdzhb:jt-oddl:1.0.1` // `com.github.mdzhb,jt-oddl,1.0.1,com.jiggawatt.jt.oddl,-,explicit,java.base,false,-`
@@ -10747,6 +10769,7 @@
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.11.0` // `org.fissore,slf4j-fluent,0.11.0,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.12.0` // `org.fissore,slf4j-fluent,0.12.0,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.13.0` // `org.fissore,slf4j-fluent,0.13.0,slf4j.fluent,-,automatic,-,false,-`
+- :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.13.1` // `org.fissore,slf4j-fluent,0.13.1,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.8.0` // `org.fissore,slf4j-fluent,0.8.0,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.9.0` // `org.fissore,slf4j-fluent,0.9.0,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.0.5.RELEASE` // `org.springframework.amqp,spring-amqp,2.0.5.RELEASE,spring.amqp,-,automatic,-,false,-`
@@ -10931,6 +10954,7 @@
 - :dvd: `unixsocketconnection` :left_right_arrow: `com.ensarsarajcic.neovim.java:unix-socket-connection:0.1.11` // `com.ensarsarajcic.neovim.java,unix-socket-connection,0.1.11,unixsocketconnection,-,explicit,corerpc + slf4j.api + java.base + ipcsocket,true,-`
 - :dvd: `unixsocketconnection` :left_right_arrow: `com.ensarsarajcic.neovim.java:unix-socket-connection:0.1.13` // `com.ensarsarajcic.neovim.java,unix-socket-connection,0.1.13,unixsocketconnection,-,explicit,corerpc + ipcsocket + java.base + slf4j.api,false,-`
 - :dvd: `vault.java.driver` :left_right_arrow: `com.bettercloud:vault-java-driver:4.1.0` // `com.bettercloud,vault-java-driver,4.1.0,vault.java.driver,-,explicit,java.base,false,-`
+- :dvd: `vault.java.driver` :left_right_arrow: `com.bettercloud:vault-java-driver:5.0.0` // `com.bettercloud,vault-java-driver,5.0.0,vault.java.driver,-,explicit,java.base + java.logging,false,-`
 - :dvd: `xaos.app` :left_right_arrow: `se.europeanspallationsource:xaos.app:0.3.0` // `se.europeanspallationsource,xaos.app,0.3.0,xaos.app,-,explicit,java.base + java.logging + xaos.core + xaos.tools + xaos.ui,false,-`
 - :dvd: `xaos.core` :left_right_arrow: `se.europeanspallationsource:xaos.core:0.3.0` // `se.europeanspallationsource,xaos.core,0.3.0,xaos.core,-,explicit,io.reactivex.rxjava2 + java.base + java.logging,false,-`
 - :dvd: `xaos.tools` :left_right_arrow: `se.europeanspallationsource:xaos.tools:0.3.0` // `se.europeanspallationsource,xaos.tools,0.3.0,xaos.tools,-,explicit,java.base + java.compiler + org.apache.commons.collections4,false,-`
