@@ -344,7 +344,7 @@ public class Modules {
       md.add("Module names listed in this section are unique and well-formed.");
       md.add("Include them in your `module-info.java` module descriptors.");
       md.add("");
-      modules.values().forEach(it -> md.add(it.toMarkdown()));
+      modules.values().stream().filter(Module::isExplicit).forEach(it -> md.add(it.toMarkdown()));
       return md;
     }
 
