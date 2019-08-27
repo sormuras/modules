@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4930 Java modules published at Maven Central
+Counted 4931 Java modules published at Maven Central
 
-## Summary 2019-08-27T11:04:21.888695Z
+## Summary 2019-08-27T23:09:22.242044Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-27T11:04:21.888695Z
-Scanned 30,183 files in 4 seconds.
+Started scan at 2019-08-27T23:09:22.242044Z
+Scanned 30,217 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_27_10_45_13.csv
+    last -> modulescanner-report-2019_08_27_22_49_56.csv
 
-Parsed 1,894,098 lines in total.
-  34,011 -> captions skipped
-  124,127 -> duplicates skipped
-  77,364 -> module related
+Parsed 1,898,768 lines in total.
+  34,040 -> captions skipped
+  124,601 -> duplicates skipped
+  77,609 -> module related
 
-Collected 4,930 unique modules.
+Collected 4,931 unique modules.
   automatic :cd: -> 3,662
-  explicit :dvd: -> 1,268
+  explicit :dvd: -> 1,269
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7020](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11167](suspicious/naming.md)
-- Modular impostors: [4007](suspicious/impostors.md)
+- Invalid module names: [7021](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11177](suspicious/naming.md)
+- Modular impostors: [4010](suspicious/impostors.md)
 
-## Unique Modules (4930)
+## Unique Modules (4931)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -864,12 +864,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.icalendarfx` :left_right_arrow: `org.jfxtras:jfxtras-icalendarfx:10.0-r1`
 - :dvd: `jfxtras.menu` :left_right_arrow: `org.jfxtras:jfxtras-menu:10.0-r1`
 - :dvd: `jfxtras.window` :left_right_arrow: `org.jfxtras:jfxtras-window:10.0-r1`
-- :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.2.0`
-- :dvd: `moe.tristan.easyfxml.fxkit` :left_right_arrow: `moe.tristan:easyfxml-fxkit:3.2.0`
-- :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.2.0`
-- :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.2.0`
-- :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.2.0`
-- :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.2.0`
+- :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.3.0`
+- :dvd: `moe.tristan.easyfxml.fxkit` :left_right_arrow: `moe.tristan:easyfxml-fxkit:3.3.0`
+- :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.3.0`
+- :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.3.0`
+- :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.3.0`
+- :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.1`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.1`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.8.1`
@@ -1366,5 +1366,6 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:2.0.2`
 - :dvd: `top.marchand.xml.cp.protocol` :left_right_arrow: `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.gov.nca.remedi4j` :left_right_arrow: `uk.gov.nca:remedi4j:1.1`
+- :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.0`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
