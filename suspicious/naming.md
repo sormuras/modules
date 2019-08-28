@@ -2406,14 +2406,18 @@
 - :cd: `beta.jboss.annotation.api_1_2` :left_right_arrow: `org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec:1.0.2.Final` // `org.jboss.spec.javax.annotation,jboss-annotations-api_1.2_spec,1.0.2.Final,beta.jboss.annotation.api_1_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.batch.api_1_0` :left_right_arrow: `org.jboss.spec.javax.batch:jboss-batch-api_1.0_spec:1.0.1.Final` // `org.jboss.spec.javax.batch,jboss-batch-api_1.0_spec,1.0.1.Final,beta.jboss.batch.api_1_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.batch.api_1_0` :left_right_arrow: `org.jboss.spec.javax.batch:jboss-batch-api_1.0_spec:1.0.2.Final` // `org.jboss.spec.javax.batch,jboss-batch-api_1.0_spec,1.0.2.Final,beta.jboss.batch.api_1_0,-,automatic,-,false,-`
+- :cd: `beta.jboss.batch.api_1_0` :left_right_arrow: `org.jboss.spec.javax.batch:jboss-batch-api_1.0_spec:2.0.0.CR1` // `org.jboss.spec.javax.batch,jboss-batch-api_1.0_spec,2.0.0.CR1,beta.jboss.batch.api_1_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.concurrency.api_1_0` :left_right_arrow: `org.jboss.spec.javax.enterprise.concurrent:jboss-concurrency-api_1.0_spec:1.0.2.Final` // `org.jboss.spec.javax.enterprise.concurrent,jboss-concurrency-api_1.0_spec,1.0.2.Final,beta.jboss.concurrency.api_1_0,-,automatic,-,false,-`
+- :cd: `beta.jboss.concurrency.api_1_0` :left_right_arrow: `org.jboss.spec.javax.enterprise.concurrent:jboss-concurrency-api_1.0_spec:2.0.0.CR1` // `org.jboss.spec.javax.enterprise.concurrent,jboss-concurrency-api_1.0_spec,2.0.0.CR1,beta.jboss.concurrency.api_1_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.connector.api_1_7` :left_right_arrow: `org.jboss.spec.javax.resource:jboss-connector-api_1.7_spec:1.0.1.Final` // `org.jboss.spec.javax.resource,jboss-connector-api_1.7_spec,1.0.1.Final,beta.jboss.connector.api_1_7,-,automatic,-,false,-`
+- :cd: `beta.jboss.connector.api_1_7` :left_right_arrow: `org.jboss.spec.javax.resource:jboss-connector-api_1.7_spec:2.0.0.CR1` // `org.jboss.spec.javax.resource,jboss-connector-api_1.7_spec,2.0.0.CR1,beta.jboss.connector.api_1_7,-,automatic,-,false,-`
 - :cd: `beta.jboss.ejb.api_3_2` :left_right_arrow: `org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.1.Final` // `org.jboss.spec.javax.ejb,jboss-ejb-api_3.2_spec,1.0.1.Final,beta.jboss.ejb.api_3_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.ejb.api_3_2` :left_right_arrow: `org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.2.Final` // `org.jboss.spec.javax.ejb,jboss-ejb-api_3.2_spec,1.0.2.Final,beta.jboss.ejb.api_3_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.el.api_3_0` :left_right_arrow: `org.jboss.spec.javax.el:jboss-el-api_3.0_spec:1.0.12.Final` // `org.jboss.spec.javax.el,jboss-el-api_3.0_spec,1.0.12.Final,beta.jboss.el.api_3_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.el.api_3_0` :left_right_arrow: `org.jboss.spec.javax.el:jboss-el-api_3.0_spec:1.0.13.Final` // `org.jboss.spec.javax.el,jboss-el-api_3.0_spec,1.0.13.Final,beta.jboss.el.api_3_0,-,automatic,-,false,-`
 - :cd: `beta.jboss.interceptor.api_1_2` :left_right_arrow: `org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec:1.0.1.Final` // `org.jboss.spec.javax.interceptor,jboss-interceptors-api_1.2_spec,1.0.1.Final,beta.jboss.interceptor.api_1_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.j2eemgmt.api_1_1` :left_right_arrow: `org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec:1.0.2.Final` // `org.jboss.spec.javax.management.j2ee,jboss-j2eemgmt-api_1.1_spec,1.0.2.Final,beta.jboss.j2eemgmt.api_1_1,-,automatic,-,false,-`
+- :cd: `beta.jboss.j2eemgmt.api_1_1` :left_right_arrow: `org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec:2.0.0.CR1` // `org.jboss.spec.javax.management.j2ee,jboss-j2eemgmt-api_1.1_spec,2.0.0.CR1,beta.jboss.j2eemgmt.api_1_1,-,automatic,-,false,-`
 - :cd: `beta.jboss.jacc.api_1_5` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:1.0.2.Final` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,1.0.2.Final,beta.jboss.jacc.api_1_5,-,automatic,-,false,-`
 - :cd: `beta.jboss.jad.api_1_2` :left_right_arrow: `org.jboss.spec.javax.enterprise.deploy:jboss-jad-api_1.2_spec:1.0.2.Final` // `org.jboss.spec.javax.enterprise.deploy,jboss-jad-api_1.2_spec,1.0.2.Final,beta.jboss.jad.api_1_2,-,automatic,-,false,-`
 - :cd: `beta.jboss.jaspi.api_1_1` :left_right_arrow: `org.jboss.spec.javax.security.auth.message:jboss-jaspi-api_1.1_spec:1.0.2.Final` // `org.jboss.spec.javax.security.auth.message,jboss-jaspi-api_1.1_spec,1.0.2.Final,beta.jboss.jaspi.api_1_1,-,automatic,-,false,-`
@@ -5420,8 +5424,11 @@
 - :dvd: `jacpfx.vertx.spring` :left_right_arrow: `org.jacpfx.vertx.spring:vertx-spring-ext:2.4` // `org.jacpfx.vertx.spring,vertx-spring-ext,2.4,jacpfx.vertx.spring,-,explicit,io.netty.codec + io.netty.codec.http + java.base + java.logging + java.management + org.aspectj.weaver + spring.beans + spring.context + spring.core + vertx.core,false,-`
 - :cd: `jakarta.activation` :left_right_arrow: `com.sun.activation:jakarta.activation:1.2.1` // `com.sun.activation,jakarta.activation,1.2.1,jakarta.activation,-,automatic,-,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:android-mail:1.6.3` // `com.sun.mail,android-mail,1.6.3,jakarta.mail,-,automatic,-,false,-`
+- :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:android-mail:1.6.4` // `com.sun.mail,android-mail,1.6.4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:1.6.3` // `com.sun.mail,jakarta.mail,1.6.3,jakarta.mail,-,automatic,-,false,-`
+- :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:1.6.4` // `com.sun.mail,jakarta.mail,1.6.4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:mailapi:1.6.3` // `com.sun.mail,mailapi,1.6.3,jakarta.mail,-,automatic,-,false,-`
+- :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:mailapi:1.6.4` // `com.sun.mail,mailapi,1.6.4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `jamal.api` :left_right_arrow: `com.javax0.jamal:jamal-api:1.0.0` // `com.javax0.jamal,jamal-api,1.0.0,jamal.api,-,explicit,java.base,false,-`
 - :dvd: `jamal.api` :left_right_arrow: `com.javax0.jamal:jamal-api:1.0.1` // `com.javax0.jamal,jamal-api,1.0.1,jamal.api,-,explicit,java.base,false,-`
 - :dvd: `jamal.api` :left_right_arrow: `com.javax0.jamal:jamal-api:1.0.2` // `com.javax0.jamal,jamal-api,1.0.2,jamal.api,-,explicit,java.base,false,-`
@@ -5512,6 +5519,8 @@
 - :cd: `java.persistence` :left_right_arrow: `org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.2` // `org.hibernate.javax.persistence,hibernate-jpa-2.1-api,1.0.2,java.persistence,-,automatic,-,false,-`
 - :cd: `java.security.auth.message` :left_right_arrow: `jakarta.security.auth.message:jakarta.security.auth.message-api:1.1.2` // `jakarta.security.auth.message,jakarta.security.auth.message-api,1.1.2,java.security.auth.message,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `jakarta.security.jacc:jakarta.security.jacc-api:1.6.1` // `jakarta.security.jacc,jakarta.security.jacc-api,1.6.1,java.security.jacc,-,automatic,-,false,-`
+- :cd: `java.security.jacc` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:2.0.0.CR1` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,2.0.0.CR1,java.security.jacc,-,automatic,-,false,-`
+- :cd: `java.servlet` :left_right_arrow: `org.jboss.spec.javax.servlet:jboss-servlet-api_4.0_spec:2.0.0.CR2` // `org.jboss.spec.javax.servlet,jboss-servlet-api_4.0_spec,2.0.0.CR2,java.servlet,-,automatic,-,false,-`
 - :dvd: `java.transaction` :left_right_arrow: `com.jwebmp.thirdparty:javax.transaction:0.67.0.12` // `com.jwebmp.thirdparty,javax.transaction,0.67.0.12,java.transaction,0.67.0.12,explicit,java.base + java.rmi + java.transaction.xa,false,-`
 - :dvd: `java.transaction` :left_right_arrow: `com.jwebmp.thirdparty:javax.transaction:0.67.0.15` // `com.jwebmp.thirdparty,javax.transaction,0.67.0.15,java.transaction,0.67.0.15,explicit,java.base + java.rmi + java.transaction.xa,false,-`
 - :dvd: `java.transaction` :left_right_arrow: `com.jwebmp.thirdparty:javax.transaction:0.67.0.16` // `com.jwebmp.thirdparty,javax.transaction,0.67.0.16,java.transaction,0.67.0.16,explicit,java.base + java.rmi + java.transaction.xa,false,-`
@@ -5558,6 +5567,7 @@
 - :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.16.1` // `de.gurkenlabs,litiengine,0.4.16.1,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `de.gurkenlabs:litiengine:0.4.17` // `de.gurkenlabs,litiengine,0.4.17,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.pravega:pravega-test-system:0.5.0` // `io.pravega,pravega-test-system,0.5.0,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
+- :dvd: `java.xml.bind` :left_right_arrow: `io.pravega:pravega-test-system:0.5.1` // `io.pravega,pravega-test-system,0.5.1,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.0` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.0,java.xml.bind,-,explicit,java.activation + java.base + java.xml + java.desktop + java.logging,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.0` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.0,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `io.swagger.codegen.v3:swagger-codegen-cli:3.0.1` // `io.swagger.codegen.v3,swagger-codegen-cli,3.0.1,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
@@ -6132,6 +6142,7 @@
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.0` // `com.github.h908714124,jbock-annotations,2.0,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.1` // `com.github.h908714124,jbock-annotations,2.1,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.2` // `com.github.h908714124,jbock-annotations,2.2,net.jbock,-,automatic,-,false,-`
+- :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.3` // `com.github.h908714124,jbock-annotations,2.3,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.4` // `com.github.h908714124,jbock,2.6.4,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.5` // `com.github.h908714124,jbock,2.6.5,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.6` // `com.github.h908714124,jbock,2.6.6,net.jbock.compiler,-,automatic,-,false,-`
@@ -6142,6 +6153,7 @@
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.2` // `com.github.h908714124,jbock,2.7.2,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.3` // `com.github.h908714124,jbock,2.7.3,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.4` // `com.github.h908714124,jbock,2.7.4,net.jbock.compiler,-,automatic,-,false,-`
+- :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.7.5` // `com.github.h908714124,jbock,2.7.5,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.0.1` // `net.morimekta.utils,io-util,3.0.1,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.1.0` // `net.morimekta.utils,io-util,3.1.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.2.0` // `net.morimekta.utils,io-util,3.2.0,net.morimekta.util,-,automatic,-,false,-`

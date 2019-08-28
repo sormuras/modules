@@ -1,30 +1,30 @@
 # sormuras/modules
-Counted 4931 Java modules published at Maven Central
+Counted 4932 Java modules published at Maven Central
 
-## Summary 2019-08-27T23:09:22.242044Z
+## Summary 2019-08-28T23:09:17.878472Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-27T23:09:22.242044Z
-Scanned 30,217 files in 4 seconds.
+Started scan at 2019-08-28T23:09:17.878472Z
+Scanned 30,306 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_27_22_49_56.csv
+    last -> modulescanner-report-2019_08_28_22_45_22.csv
 
-Parsed 1,898,768 lines in total.
-  34,040 -> captions skipped
-  124,601 -> duplicates skipped
-  77,609 -> module related
+Parsed 1,903,837 lines in total.
+  34,128 -> captions skipped
+  125,153 -> duplicates skipped
+  77,889 -> module related
 
-Collected 4,931 unique modules.
-  automatic :cd: -> 3,662
-  explicit :dvd: -> 1,269
+Collected 4,932 unique modules.
+  automatic :cd: -> 3,661
+  explicit :dvd: -> 1,271
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.1
 org.objectweb.asm -> org.ow2.asm:asm:7.2-beta
-com.google.common -> com.google.guava:guava:28.0-jre
+com.google.common -> com.google.guava:guava:28.1-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
  org.joda.collect -> org.joda:joda-collect:1.0.1
  org.joda.convert -> org.joda:joda-convert:2.2.1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7021](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11177](suspicious/naming.md)
-- Modular impostors: [4010](suspicious/impostors.md)
+- Invalid module names: [7027](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11189](suspicious/naming.md)
+- Modular impostors: [4014](suspicious/impostors.md)
 
-## Unique Modules (4931)
+## Unique Modules (4932)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -605,17 +605,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` :left_right_arrow: `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` :left_right_arrow: `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` :left_right_arrow: `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.1.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.1.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.2.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` :left_right_arrow: `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -644,8 +645,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.3`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.3`
-- :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.3.0`
-- :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.3.0`
+- :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.4.0`
+- :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.4.0`
 - :dvd: `com.torchmind.authenticator` :left_right_arrow: `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` :left_right_arrow: `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` :left_right_arrow: `com.torchmind.utility:cidr:2.1.0`
@@ -681,6 +682,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.3`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -711,7 +713,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.2.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.46`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.47`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.0`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.0`
@@ -1048,14 +1050,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.spring` :left_right_arrow: `org.copper-engine:copper-spring:5.0.2`
 - :dvd: `org.cryptomator.siv` :left_right_arrow: `org.cryptomator:siv-mode:1.3.1`
 - :dvd: `org.danekja.jdk.serializable.functional` :left_right_arrow: `org.danekja:jdk-serializable-functional:1.9.0`
-- :dvd: `org.docx4j.JAXB_MOXy` :left_right_arrow: `org.docx4j:docx4j-JAXB-MOXy:11.1.2`
-- :dvd: `org.docx4j.JAXB_ReferenceImpl` :left_right_arrow: `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.2`
-- :dvd: `org.docx4j.core` :left_right_arrow: `org.docx4j:docx4j-core:11.1.2`
-- :dvd: `org.docx4j.docx4j_diffx` :left_right_arrow: `org.docx4j:docx4j-diffx:11.1.2`
-- :dvd: `org.docx4j.docx_anon` :left_right_arrow: `org.docx4j:docx4j-docx-anon:11.1.2`
-- :dvd: `org.docx4j.openxml_objects` :left_right_arrow: `org.docx4j:docx4j-openxml-objects:11.1.2`
-- :dvd: `org.docx4j.openxml_objects_pml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-pml:11.1.2`
-- :dvd: `org.docx4j.openxml_objects_sml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-sml:11.1.2`
+- :dvd: `org.docx4j.JAXB_MOXy` :left_right_arrow: `org.docx4j:docx4j-JAXB-MOXy:11.1.3`
+- :dvd: `org.docx4j.JAXB_ReferenceImpl` :left_right_arrow: `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.3`
+- :dvd: `org.docx4j.core` :left_right_arrow: `org.docx4j:docx4j-core:11.1.3`
+- :dvd: `org.docx4j.docx4j_diffx` :left_right_arrow: `org.docx4j:docx4j-diffx:11.1.3`
+- :dvd: `org.docx4j.docx_anon` :left_right_arrow: `org.docx4j:docx4j-docx-anon:11.1.3`
+- :dvd: `org.docx4j.openxml_objects` :left_right_arrow: `org.docx4j:docx4j-openxml-objects:11.1.3`
+- :dvd: `org.docx4j.openxml_objects_pml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-pml:11.1.3`
+- :dvd: `org.docx4j.openxml_objects_sml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-sml:11.1.3`
 - :dvd: `org.dyn4j` :left_right_arrow: `org.dyn4j:dyn4j:3.3.0`
 - :dvd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0-alpha0`
