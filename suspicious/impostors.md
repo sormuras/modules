@@ -1337,6 +1337,7 @@
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.3` // `eu.toop,toop-mem-phase4,0.10.3,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.4` // `eu.toop,toop-mem-phase4,0.10.4,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.5` // `eu.toop,toop-mem-phase4,0.10.5,eu.toop.connector.r2d2client,-,automatic,-,false,-`
+- :dvd: `info.picocli` :left_right_arrow: `com.mygraphql.graphub:openapi2graphqls-cli:0.0.2` // `com.mygraphql.graphub,openapi2graphqls-cli,0.0.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-2` // `info.picocli,picocli-jpms-module,4.0.0-alpha-2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli-jpms-module:4.0.0-alpha-3` // `info.picocli,picocli-jpms-module,4.0.0-alpha-3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `io.jooby:jooby-cli:2.0.6` // `io.jooby,jooby-cli,2.0.6,info.picocli,-,explicit,java.base,false,-`
@@ -1356,6 +1357,7 @@
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:2.0.2` // `com.networknt,codegen-cli,2.0.2,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:2.0.3` // `com.networknt,codegen-cli,2.0.3,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:2.0.4` // `com.networknt,codegen-cli,2.0.4,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` :left_right_arrow: `com.networknt:codegen-cli:2.0.5` // `com.networknt,codegen-cli,2.0.5,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` :left_right_arrow: `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -2403,6 +2405,7 @@
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `jakarta.json:jakarta.json-api:1.1.5` // `jakarta.json,jakarta.json-api,1.1.5,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `jakarta.json:jakarta.json-api:1.1.6` // `jakarta.json,jakarta.json-api,1.1.6,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.102.0` // `org.finra.herd,herd-access-validator,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.103.0` // `org.finra.herd,herd-access-validator,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
@@ -2470,6 +2473,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.98.0` // `org.finra.herd,herd-uploader,0.98.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.99.0` // `org.finra.herd,herd-uploader,0.99.0,java.json,-,explicit,java.base,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:jakarta.json:1.1.5` // `org.glassfish,jakarta.json,1.1.5,java.json,-,automatic,-,false,-`
+- :cd: `java.json` :left_right_arrow: `org.glassfish:jakarta.json:1.1.6` // `org.glassfish,jakarta.json,1.1.6,java.json,-,automatic,-,false,-`
 - :cd: `java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.4` // `org.glassfish,javax.json,1.1.4,java.json,-,automatic,-,false,-`
 - :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-icalendaragenda:10.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,10.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
 - :dvd: `jfxtras.icalendaragenda` :left_right_arrow: `org.jfxtras:jfxtras-icalendaragenda:9.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,9.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
@@ -2921,6 +2925,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `eu.stamp-project:botsing-reproduction:1.0.4` // `eu.stamp-project,botsing-reproduction,1.0.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `eu.stamp-project:botsing-reproduction:1.0.5` // `eu.stamp-project,botsing-reproduction,1.0.5,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `eu.stamp-project:botsing-reproduction:1.0.6` // `eu.stamp-project,botsing-reproduction,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `eu.stamp-project:botsing-reproduction:1.0.7` // `eu.stamp-project,botsing-reproduction,1.0.7,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.cellery.distribution:io.cellery.cell.gateway.initializer:0.1.0` // `io.cellery.distribution,io.cellery.cell.gateway.initializer,0.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.cellery.security:io.cellery.security.cell.sts.server:0.2.1` // `io.cellery.security,io.cellery.security.cell.sts.server,0.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.wizzie:enricher-extensions:0.5.1` // `io.wizzie,enricher-extensions,0.5.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
@@ -3553,6 +3558,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.0` // `com.github.collinalpert,java2db,5.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.0.1` // `com.github.collinalpert,java2db,5.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.1.0` // `com.github.collinalpert,java2db,5.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:5.1.1` // `com.github.collinalpert,java2db,5.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -3570,6 +3576,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.1` // `com.github.collinalpert,lambda2sql,2.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.2` // `com.github.collinalpert,lambda2sql,2.1.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.3` // `com.github.collinalpert,lambda2sql,2.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:lambda2sql:2.1.4` // `com.github.collinalpert,lambda2sql,2.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.1.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.21.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.22.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -3810,6 +3817,8 @@
 - :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.tukaani.xz` :left_right_arrow: `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` :left_right_arrow: `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
+- :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:pl.tlinkowski.gradle.my.settings:0.2.0` // `pl.tlinkowski.gradle.my,pl.tlinkowski.gradle.my.settings,0.2.0,pl.tlinkowski.gradle.my.settings,-,explicit,gradle.api + gradle.kotlin.dsl + java.base + kotlin.stdlib + kotlin.stdlib.jdk8,false,-`
+- :cd: `pl.tlinkowski.gradle.my.superpom` :left_right_arrow: `pl.tlinkowski.gradle.my:pl.tlinkowski.gradle.my.superpom:0.2.0` // `pl.tlinkowski.gradle.my,pl.tlinkowski.gradle.my.superpom,0.2.0,pl.tlinkowski.gradle.my.superpom,-,automatic,-,false,-`
 - :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-guice:1.1.0` // `se.l4.commons,commons-guice,1.1.0,se.l4.commons.guice,-,explicit,java.base + se.l4.commons.types + com.google.guice,true,-`
 - :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon.eventstream:eventstream:1.0.0` // `software.amazon.eventstream,eventstream,1.0.0,software.amazon.eventstream,-,automatic,-,false,-`
 - :cd: `software.amazon.eventstream` :left_right_arrow: `software.amazon.eventstream:eventstream:1.0.1` // `software.amazon.eventstream,eventstream,1.0.1,software.amazon.eventstream,-,automatic,-,false,-`
