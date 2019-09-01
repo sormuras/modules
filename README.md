@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4944 Java modules published at Maven Central
+Counted 4953 Java modules published at Maven Central
 
-## Summary 2019-08-31T23:10:43.176718Z
+## Summary 2019-09-01T23:11:23.991881Z
 
 ```
 ## Summary
 
-Started scan at 2019-08-31T23:10:43.176718Z
-Scanned 30,568 files in 4 seconds.
+Started scan at 2019-09-01T23:11:23.991881Z
+Scanned 30,669 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_08_31_23_02_29.csv
+    last -> modulescanner-report-2019_09_01_22_53_21.csv
 
-Parsed 1,918,560 lines in total.
-  34,390 -> captions skipped
-  126,231 -> duplicates skipped
-  78,469 -> module related
+Parsed 1,921,493 lines in total.
+  34,491 -> captions skipped
+  126,406 -> duplicates skipped
+  78,586 -> module related
 
-Collected 4,944 unique modules.
+Collected 4,953 unique modules.
   automatic :cd: -> 3,673
-  explicit :dvd: -> 1,271
+  explicit :dvd: -> 1,280
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7029](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11270](suspicious/naming.md)
-- Modular impostors: [4030](suspicious/impostors.md)
+- Invalid module names: [7030](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11271](suspicious/naming.md)
+- Modular impostors: [4070](suspicious/impostors.md)
 
-## Unique Modules (4944)
+## Unique Modules (4953)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -221,8 +221,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.4`
 - :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.4`
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.4`
-- :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.1`
-- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.6.1`
+- :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
+- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.6.4`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
@@ -230,7 +230,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.0.0-rc16`
 - :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.0.0-rc16`
 - :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.0-rc16`
-- :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.3.2`
+- :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.5.0`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.1`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
@@ -733,6 +733,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.0`
 - :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.0`
 - :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.0`
+- :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
+- :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
+- :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
+- :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.0`
+- :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.0`
+- :dvd: `io.github.jsoagger.coreview.definition` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-viewdefinition:1.0.0`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`
@@ -949,11 +955,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.2`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.beryx:awt-color-factory:1.0.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.2.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.2.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.2.0`
-- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.0`
+- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.1`
+- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.2.1`
+- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.2.1`
+- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.2.1`
+- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.1`
 - :dvd: `org.bouncycastle.fips.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` :left_right_arrow: `org.bouncycastle:bctls-fips:1.0.9`
 - :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.62`
@@ -1181,43 +1187,44 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.1.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.1.0`
-- :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.2`
-- :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.2`
-- :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl:lwjgl-bgfx:3.2.2`
-- :dvd: `org.lwjgl.cuda` :left_right_arrow: `org.lwjgl:lwjgl-cuda:3.2.2`
-- :dvd: `org.lwjgl.egl` :left_right_arrow: `org.lwjgl:lwjgl-egl:3.2.2`
-- :dvd: `org.lwjgl.glfw` :left_right_arrow: `org.lwjgl:lwjgl-glfw:3.2.2`
-- :dvd: `org.lwjgl.jawt` :left_right_arrow: `org.lwjgl:lwjgl-jawt:3.2.2`
-- :dvd: `org.lwjgl.jemalloc` :left_right_arrow: `org.lwjgl:lwjgl-jemalloc:3.2.2`
-- :dvd: `org.lwjgl.libdivide` :left_right_arrow: `org.lwjgl:lwjgl-libdivide:3.2.2`
-- :dvd: `org.lwjgl.llvm` :left_right_arrow: `org.lwjgl:lwjgl-llvm:3.2.2`
-- :dvd: `org.lwjgl.lmdb` :left_right_arrow: `org.lwjgl:lwjgl-lmdb:3.2.2`
-- :dvd: `org.lwjgl.lz4` :left_right_arrow: `org.lwjgl:lwjgl-lz4:3.2.2`
-- :dvd: `org.lwjgl.meow` :left_right_arrow: `org.lwjgl:lwjgl-meow:3.2.2`
-- :dvd: `org.lwjgl.nanovg` :left_right_arrow: `org.lwjgl:lwjgl-nanovg:3.2.2`
-- :dvd: `org.lwjgl.nfd` :left_right_arrow: `org.lwjgl:lwjgl-nfd:3.2.2`
-- :dvd: `org.lwjgl.nuklear` :left_right_arrow: `org.lwjgl:lwjgl-nuklear:3.2.2`
-- :dvd: `org.lwjgl.odbc` :left_right_arrow: `org.lwjgl:lwjgl-odbc:3.2.2`
-- :dvd: `org.lwjgl.openal` :left_right_arrow: `org.lwjgl:lwjgl-openal:3.2.2`
-- :dvd: `org.lwjgl.opencl` :left_right_arrow: `org.lwjgl:lwjgl-opencl:3.2.2`
-- :dvd: `org.lwjgl.opengl` :left_right_arrow: `org.lwjgl:lwjgl-opengl:3.2.2`
-- :dvd: `org.lwjgl.opengles` :left_right_arrow: `org.lwjgl:lwjgl-opengles:3.2.2`
-- :dvd: `org.lwjgl.openvr` :left_right_arrow: `org.lwjgl:lwjgl-openvr:3.2.2`
-- :dvd: `org.lwjgl.opus` :left_right_arrow: `org.lwjgl:lwjgl-opus:3.2.2`
-- :dvd: `org.lwjgl.ovr` :left_right_arrow: `org.lwjgl:lwjgl-ovr:3.2.2`
-- :dvd: `org.lwjgl.par` :left_right_arrow: `org.lwjgl:lwjgl-par:3.2.2`
-- :dvd: `org.lwjgl.remotery` :left_right_arrow: `org.lwjgl:lwjgl-remotery:3.2.2`
-- :dvd: `org.lwjgl.rpmalloc` :left_right_arrow: `org.lwjgl:lwjgl-rpmalloc:3.2.2`
-- :dvd: `org.lwjgl.sse` :left_right_arrow: `org.lwjgl:lwjgl-sse:3.2.2`
-- :dvd: `org.lwjgl.stb` :left_right_arrow: `org.lwjgl:lwjgl-stb:3.2.2`
-- :dvd: `org.lwjgl.tinyexr` :left_right_arrow: `org.lwjgl:lwjgl-tinyexr:3.2.2`
-- :dvd: `org.lwjgl.tinyfd` :left_right_arrow: `org.lwjgl:lwjgl-tinyfd:3.2.2`
-- :dvd: `org.lwjgl.tootle` :left_right_arrow: `org.lwjgl:lwjgl-tootle:3.2.2`
-- :dvd: `org.lwjgl.vma` :left_right_arrow: `org.lwjgl:lwjgl-vma:3.2.2`
-- :dvd: `org.lwjgl.vulkan` :left_right_arrow: `org.lwjgl:lwjgl-vulkan:3.2.2`
-- :dvd: `org.lwjgl.xxhash` :left_right_arrow: `org.lwjgl:lwjgl-xxhash:3.2.2`
-- :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.2`
-- :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.2`
+- :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.3`
+- :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.3`
+- :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl:lwjgl-bgfx:3.2.3`
+- :dvd: `org.lwjgl.cuda` :left_right_arrow: `org.lwjgl:lwjgl-cuda:3.2.3`
+- :dvd: `org.lwjgl.egl` :left_right_arrow: `org.lwjgl:lwjgl-egl:3.2.3`
+- :dvd: `org.lwjgl.glfw` :left_right_arrow: `org.lwjgl:lwjgl-glfw:3.2.3`
+- :dvd: `org.lwjgl.jawt` :left_right_arrow: `org.lwjgl:lwjgl-jawt:3.2.3`
+- :dvd: `org.lwjgl.jemalloc` :left_right_arrow: `org.lwjgl:lwjgl-jemalloc:3.2.3`
+- :dvd: `org.lwjgl.libdivide` :left_right_arrow: `org.lwjgl:lwjgl-libdivide:3.2.3`
+- :dvd: `org.lwjgl.llvm` :left_right_arrow: `org.lwjgl:lwjgl-llvm:3.2.3`
+- :dvd: `org.lwjgl.lmdb` :left_right_arrow: `org.lwjgl:lwjgl-lmdb:3.2.3`
+- :dvd: `org.lwjgl.lz4` :left_right_arrow: `org.lwjgl:lwjgl-lz4:3.2.3`
+- :dvd: `org.lwjgl.meow` :left_right_arrow: `org.lwjgl:lwjgl-meow:3.2.3`
+- :dvd: `org.lwjgl.nanovg` :left_right_arrow: `org.lwjgl:lwjgl-nanovg:3.2.3`
+- :dvd: `org.lwjgl.nfd` :left_right_arrow: `org.lwjgl:lwjgl-nfd:3.2.3`
+- :dvd: `org.lwjgl.nuklear` :left_right_arrow: `org.lwjgl:lwjgl-nuklear:3.2.3`
+- :dvd: `org.lwjgl.odbc` :left_right_arrow: `org.lwjgl:lwjgl-odbc:3.2.3`
+- :dvd: `org.lwjgl.openal` :left_right_arrow: `org.lwjgl:lwjgl-openal:3.2.3`
+- :dvd: `org.lwjgl.opencl` :left_right_arrow: `org.lwjgl:lwjgl-opencl:3.2.3`
+- :dvd: `org.lwjgl.opengl` :left_right_arrow: `org.lwjgl:lwjgl-opengl:3.2.3`
+- :dvd: `org.lwjgl.opengles` :left_right_arrow: `org.lwjgl:lwjgl-opengles:3.2.3`
+- :dvd: `org.lwjgl.openvr` :left_right_arrow: `org.lwjgl:lwjgl-openvr:3.2.3`
+- :dvd: `org.lwjgl.opus` :left_right_arrow: `org.lwjgl:lwjgl-opus:3.2.3`
+- :dvd: `org.lwjgl.ovr` :left_right_arrow: `org.lwjgl:lwjgl-ovr:3.2.3`
+- :dvd: `org.lwjgl.par` :left_right_arrow: `org.lwjgl:lwjgl-par:3.2.3`
+- :dvd: `org.lwjgl.remotery` :left_right_arrow: `org.lwjgl:lwjgl-remotery:3.2.3`
+- :dvd: `org.lwjgl.rpmalloc` :left_right_arrow: `org.lwjgl:lwjgl-rpmalloc:3.2.3`
+- :dvd: `org.lwjgl.shaderc` :left_right_arrow: `org.lwjgl:lwjgl-shaderc:3.2.3`
+- :dvd: `org.lwjgl.sse` :left_right_arrow: `org.lwjgl:lwjgl-sse:3.2.3`
+- :dvd: `org.lwjgl.stb` :left_right_arrow: `org.lwjgl:lwjgl-stb:3.2.3`
+- :dvd: `org.lwjgl.tinyexr` :left_right_arrow: `org.lwjgl:lwjgl-tinyexr:3.2.3`
+- :dvd: `org.lwjgl.tinyfd` :left_right_arrow: `org.lwjgl:lwjgl-tinyfd:3.2.3`
+- :dvd: `org.lwjgl.tootle` :left_right_arrow: `org.lwjgl:lwjgl-tootle:3.2.3`
+- :dvd: `org.lwjgl.vma` :left_right_arrow: `org.lwjgl:lwjgl-vma:3.2.3`
+- :dvd: `org.lwjgl.vulkan` :left_right_arrow: `org.lwjgl:lwjgl-vulkan:3.2.3`
+- :dvd: `org.lwjgl.xxhash` :left_right_arrow: `org.lwjgl:lwjgl-xxhash:3.2.3`
+- :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.3`
+- :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.3`
 - :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.4`
 - :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.4`
 - :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.4`
@@ -1308,6 +1315,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `se.l4.commons.types` :left_right_arrow: `se.l4.commons:commons-types:1.1.0`
 - :dvd: `se.l4.crayon` :left_right_arrow: `se.l4.crayon:crayon-core:1.1.0`
 - :dvd: `se.l4.crayon.services` :left_right_arrow: `se.l4.crayon:crayon-lib-services:1.1.0`
+- :dvd: `si.uom.quantity` :left_right_arrow: `si.uom:si-quantity:2.0`
+- :dvd: `si.uom.units` :left_right_arrow: `si.uom:si-units:2.0`
 - :dvd: `swim.api` :left_right_arrow: `ai.swim:swim-api:3.10.0`
 - :dvd: `swim.args` :left_right_arrow: `ai.swim:swim-args:3.10.0`
 - :dvd: `swim.auth` :left_right_arrow: `ai.swim:swim-auth:3.10.0`

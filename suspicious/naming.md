@@ -10696,6 +10696,7 @@
 - :dvd: `pkg` :left_right_arrow: `org.ow2.asm:asm-test:7.1` // `org.ow2.asm,asm-test,7.1,pkg,1.0,explicit,java.base + java.compiler + java.naming + java.prefs,false,-`
 - :dvd: `pkg` :left_right_arrow: `org.ow2.asm:asm-test:7.2-beta` // `org.ow2.asm,asm-test,7.2-beta,pkg,1.0,explicit,java.base + java.compiler + java.naming + java.prefs,false,-`
 - :dvd: `powerunit.exceptions` :left_right_arrow: `ch.powerunit.extensions:powerunit-extensions-exceptions:2.0.0` // `ch.powerunit.extensions,powerunit-extensions-exceptions,2.0.0,powerunit.exceptions,2.0.0,explicit,java.base + java.sql,false,-`
+- :dvd: `powerunit.exceptions` :left_right_arrow: `ch.powerunit.extensions:powerunit-extensions-exceptions:2.1.0` // `ch.powerunit.extensions,powerunit-extensions-exceptions,2.1.0,powerunit.exceptions,2.1.0,explicit,java.base + java.sql + java.xml,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:10.0.0` // `org.protelis,protelis.parser,10.0.0,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:7.0.0.java7legacy` // `org.protelis,protelis.parser,7.0.0.java7legacy,protelis.parser,-,automatic,-,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:7.0.2.java7legacy` // `org.protelis,protelis.parser,7.0.2.java7legacy,protelis.parser,-,automatic,-,false,-`
