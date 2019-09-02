@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4953 Java modules published at Maven Central
+Counted 4977 Java modules published at Maven Central
 
-## Summary 2019-09-01T23:11:23.991881Z
+## Summary 2019-09-02T23:12:02.366059Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-01T23:11:23.991881Z
-Scanned 30,669 files in 4 seconds.
+Started scan at 2019-09-02T23:12:02.366059Z
+Scanned 30,766 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_01_22_53_21.csv
+    last -> modulescanner-report-2019_09_02_23_00_18.csv
 
-Parsed 1,921,493 lines in total.
-  34,491 -> captions skipped
-  126,406 -> duplicates skipped
-  78,586 -> module related
+Parsed 1,928,963 lines in total.
+  34,588 -> captions skipped
+  128,012 -> duplicates skipped
+  79,076 -> module related
 
-Collected 4,953 unique modules.
-  automatic :cd: -> 3,673
-  explicit :dvd: -> 1,280
+Collected 4,977 unique modules.
+  automatic :cd: -> 3,686
+  explicit :dvd: -> 1,291
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7030](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11271](suspicious/naming.md)
-- Modular impostors: [4070](suspicious/impostors.md)
+- Invalid module names: [7394](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11276](suspicious/naming.md)
+- Modular impostors: [4081](suspicious/impostors.md)
 
-## Unique Modules (4953)
+## Unique Modules (4977)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -122,6 +122,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.6`
 - :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
 - :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.2`
+- :dvd: `be.yildizgames.common.properties` :left_right_arrow: `be.yildiz-games:common-properties:1.0.0`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
 - :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.4`
 - :dvd: `be.yildizgames.common.util` :left_right_arrow: `be.yildiz-games:common-util:1.0.6`
@@ -733,12 +734,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.0`
 - :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.0`
 - :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.0`
+- :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
 - :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
 - :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.0`
 - :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.0`
+- :dvd: `io.github.jsoagger.corebusiness.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-services:1.0.0`
+- :dvd: `io.github.jsoagger.corebusiness.offline.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-operations:1.0.0`
+- :dvd: `io.github.jsoagger.corebusiness.offline.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-services:1.0.0`
+- :dvd: `io.github.jsoagger.corebusiness.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-operations:1.0.0`
+- :dvd: `io.github.jsoagger.coreui.cloud.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-operations:1.0.0`
+- :dvd: `io.github.jsoagger.coreui.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-services:1.0.0`
 - :dvd: `io.github.jsoagger.coreview.definition` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-viewdefinition:1.0.0`
+- :dvd: `io.github.jsoagger.jfxcore.engine` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-engine:1.0.1`
+- :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.1`
+- :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.1`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`

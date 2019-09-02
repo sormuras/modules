@@ -5568,6 +5568,7 @@
 - :cd: `java.security.jacc` :left_right_arrow: `jakarta.security.jacc:jakarta.security.jacc-api:1.6.1` // `jakarta.security.jacc,jakarta.security.jacc-api,1.6.1,java.security.jacc,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:2.0.0.CR1` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,2.0.0.CR1,java.security.jacc,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:2.0.0.CR2` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,2.0.0.CR2,java.security.jacc,-,automatic,-,false,-`
+- :cd: `java.security.jacc` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:2.0.0.CR3` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,2.0.0.CR3,java.security.jacc,-,automatic,-,false,-`
 - :cd: `java.servlet` :left_right_arrow: `org.jboss.spec.javax.servlet:jboss-servlet-api_4.0_spec:2.0.0.CR2` // `org.jboss.spec.javax.servlet,jboss-servlet-api_4.0_spec,2.0.0.CR2,java.servlet,-,automatic,-,false,-`
 - :dvd: `java.transaction` :left_right_arrow: `com.jwebmp.thirdparty:javax.transaction:0.67.0.12` // `com.jwebmp.thirdparty,javax.transaction,0.67.0.12,java.transaction,0.67.0.12,explicit,java.base + java.rmi + java.transaction.xa,false,-`
 - :dvd: `java.transaction` :left_right_arrow: `com.jwebmp.thirdparty:javax.transaction:0.67.0.15` // `com.jwebmp.thirdparty,javax.transaction,0.67.0.15,java.transaction,0.67.0.15,explicit,java.base + java.rmi + java.transaction.xa,false,-`
@@ -5907,6 +5908,8 @@
 - :dvd: `jonix.onix3` :left_right_arrow: `com.tectonica:jonix-onix3:9.0` // `com.tectonica,jonix-onix3,9.0,jonix.onix3,9.0,explicit,java.base + java.xml + jonix.common,false,-`
 - :dvd: `jonix.xml` :left_right_arrow: `com.tectonica:jonix-xml:9.0` // `com.tectonica,jonix-xml,9.0,jonix.xml,9.0,explicit,java.base + java.xml,false,-`
 - :cd: `joptsimple` :left_right_arrow: `net.sf.jopt-simple:jopt-simple:6.0-alpha-3` // `net.sf.jopt-simple,jopt-simple,6.0-alpha-3,joptsimple,-,automatic,-,false,-`
+- :cd: `jsoagger.jfxplatform.demoapp` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxplatform-demoapp:1.0.0` // `io.github.jsoagger,jsoagger-jfxplatform-demoapp,1.0.0,jsoagger.jfxplatform.demoapp,-,automatic,-,false,-`
+- :cd: `jsoagger.jfxplatform.demoapp` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxplatform-demoapp:1.0.1` // `io.github.jsoagger,jsoagger-jfxplatform-demoapp,1.0.1,jsoagger.jfxplatform.demoapp,-,automatic,-,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.7` // `net.sf.jt400,jt400-jdk9,9.7,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.8` // `net.sf.jt400,jt400-jdk9,9.8,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta4` // `org.slf4j,jul-to-slf4j,1.8.0-beta4,jul.to.slf4j,-,automatic,-,true,-`
@@ -10421,6 +10424,7 @@
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.6` // `org.neo4j.test,neo4j-harness,3.5.6,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.7` // `org.neo4j.test,neo4j-harness,3.5.7,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.8` // `org.neo4j.test,neo4j-harness,3.5.8,org.neo4j.harness,-,automatic,-,false,-`
+- :cd: `org.neo4j.harness` :left_right_arrow: `org.neo4j.test:neo4j-harness:3.5.9` // `org.neo4j.test,neo4j-harness,3.5.9,org.neo4j.harness,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness.enterprise` :left_right_arrow: `org.neo4j.test:neo4j-harness-enterprise:3.5.0-alpha07` // `org.neo4j.test,neo4j-harness-enterprise,3.5.0-alpha07,org.neo4j.harness.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness.enterprise` :left_right_arrow: `org.neo4j.test:neo4j-harness-enterprise:3.5.0-alpha08` // `org.neo4j.test,neo4j-harness-enterprise,3.5.0-alpha08,org.neo4j.harness.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.harness.enterprise` :left_right_arrow: `org.neo4j.test:neo4j-harness-enterprise:3.5.0-alpha09` // `org.neo4j.test,neo4j-harness-enterprise,3.5.0-alpha09,org.neo4j.harness.enterprise,-,automatic,-,false,-`
@@ -10443,6 +10447,7 @@
 - :cd: `org.neo4j.server` :left_right_arrow: `org.neo4j.app:neo4j-server:3.5.6` // `org.neo4j.app,neo4j-server,3.5.6,org.neo4j.server,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
 - :cd: `org.neo4j.server` :left_right_arrow: `org.neo4j.app:neo4j-server:3.5.7` // `org.neo4j.app,neo4j-server,3.5.7,org.neo4j.server,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
 - :cd: `org.neo4j.server` :left_right_arrow: `org.neo4j.app:neo4j-server:3.5.8` // `org.neo4j.app,neo4j-server,3.5.8,org.neo4j.server,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
+- :cd: `org.neo4j.server` :left_right_arrow: `org.neo4j.app:neo4j-server:3.5.9` // `org.neo4j.app,neo4j-server,3.5.9,org.neo4j.server,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
 - :cd: `org.neo4j.server.enterprise` :left_right_arrow: `org.neo4j.app:neo4j-server-enterprise:3.5.0-alpha07` // `org.neo4j.app,neo4j-server-enterprise,3.5.0-alpha07,org.neo4j.server.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.enterprise` :left_right_arrow: `org.neo4j.app:neo4j-server-enterprise:3.5.0-alpha08` // `org.neo4j.app,neo4j-server-enterprise,3.5.0-alpha08,org.neo4j.server.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.enterprise` :left_right_arrow: `org.neo4j.app:neo4j-server-enterprise:3.5.0-alpha09` // `org.neo4j.app,neo4j-server-enterprise,3.5.0-alpha09,org.neo4j.server.enterprise,-,automatic,-,false,-`
