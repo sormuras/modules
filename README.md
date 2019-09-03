@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4977 Java modules published at Maven Central
+Counted 4979 Java modules published at Maven Central
 
-## Summary 2019-09-02T23:12:02.366059Z
+## Summary 2019-09-03T23:12:00.022074Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-02T23:12:02.366059Z
-Scanned 30,766 files in 4 seconds.
+Started scan at 2019-09-03T23:12:00.022074Z
+Scanned 30,868 files in 3 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_02_23_00_18.csv
+    last -> modulescanner-report-2019_09_03_23_01_21.csv
 
-Parsed 1,928,963 lines in total.
-  34,588 -> captions skipped
-  128,012 -> duplicates skipped
-  79,076 -> module related
+Parsed 1,934,681 lines in total.
+  34,690 -> captions skipped
+  128,314 -> duplicates skipped
+  79,218 -> module related
 
-Collected 4,977 unique modules.
-  automatic :cd: -> 3,686
-  explicit :dvd: -> 1,291
+Collected 4,979 unique modules.
+  automatic :cd: -> 3,687
+  explicit :dvd: -> 1,292
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7394](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11276](suspicious/naming.md)
-- Modular impostors: [4081](suspicious/impostors.md)
+- Invalid module names: [7422](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11278](suspicious/naming.md)
+- Modular impostors: [4120](suspicious/impostors.md)
 
-## Unique Modules (4977)
+## Unique Modules (4979)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -157,6 +157,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.4`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
+- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
 - :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.5`
@@ -227,10 +228,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
-- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.0.0-rc16`
-- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.0.0-rc16`
-- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.0.0-rc16`
-- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.0-rc16`
+- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.0.0`
+- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.0.0`
+- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.0.0`
+- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.0`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.5.0`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.1`
@@ -270,7 +271,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.0.pr2`
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr2`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
-- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.1`
+- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
