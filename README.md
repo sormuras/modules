@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 4979 Java modules published at Maven Central
 
-## Summary 2019-09-03T23:12:00.022074Z
+## Summary 2019-09-04T23:13:03.547752Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-03T23:12:00.022074Z
-Scanned 30,868 files in 3 seconds.
+Started scan at 2019-09-04T23:13:03.547752Z
+Scanned 30,970 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_03_23_01_21.csv
+    last -> modulescanner-report-2019_09_04_22_57_12.csv
 
-Parsed 1,934,681 lines in total.
-  34,690 -> captions skipped
-  128,314 -> duplicates skipped
-  79,218 -> module related
+Parsed 1,939,069 lines in total.
+  34,792 -> captions skipped
+  128,727 -> duplicates skipped
+  79,487 -> module related
 
 Collected 4,979 unique modules.
   automatic :cd: -> 3,687
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [7422](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11278](suspicious/naming.md)
-- Modular impostors: [4120](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11285](suspicious/naming.md)
+- Modular impostors: [4126](suspicious/impostors.md)
 
 ## Unique Modules (4979)
 
@@ -741,12 +741,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
 - :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.0`
 - :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.0`
-- :dvd: `io.github.jsoagger.corebusiness.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-services:1.0.0`
-- :dvd: `io.github.jsoagger.corebusiness.offline.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-operations:1.0.0`
-- :dvd: `io.github.jsoagger.corebusiness.offline.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-services:1.0.0`
-- :dvd: `io.github.jsoagger.corebusiness.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-operations:1.0.0`
-- :dvd: `io.github.jsoagger.coreui.cloud.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-operations:1.0.0`
-- :dvd: `io.github.jsoagger.coreui.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-services:1.0.0`
+- :dvd: `io.github.jsoagger.corebusiness.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-services:1.0.1`
+- :dvd: `io.github.jsoagger.corebusiness.offline.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-operations:1.0.1`
+- :dvd: `io.github.jsoagger.corebusiness.offline.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-services:1.0.1`
+- :dvd: `io.github.jsoagger.corebusiness.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-operations:1.0.1`
+- :dvd: `io.github.jsoagger.coreui.cloud.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-operations:1.0.1`
+- :dvd: `io.github.jsoagger.coreui.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-services:1.0.1`
 - :dvd: `io.github.jsoagger.coreview.definition` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-viewdefinition:1.0.0`
 - :dvd: `io.github.jsoagger.jfxcore.engine` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-engine:1.0.1`
 - :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.1`
@@ -920,7 +920,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.tascalate.javaflow.tools.javaagent` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.javaagent:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.runtime` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.runtime:2.6.1`
 - :dvd: `nl.talsmasoftware.lazy4j` :left_right_arrow: `nl.talsmasoftware:lazy4j:1.0.1`
-- :dvd: `nl.talsmasoftware.reflection` :left_right_arrow: `nl.talsmasoftware:reflection:1.0.0`
+- :dvd: `nl.talsmasoftware.reflection` :left_right_arrow: `nl.talsmasoftware:reflection:1.0.1`
 - :dvd: `nl.ulso.sprox` :left_right_arrow: `nl.ulso.sprox:sprox:4.0.0`
 - :dvd: `no.ssb.concurrent.futureselector` :left_right_arrow: `no.ssb.concurrent.futureselector:future-selector:0.2`
 - :dvd: `no.ssb.lds.core` :left_right_arrow: `no.ssb.lds:linked-data-store-core:0.14`

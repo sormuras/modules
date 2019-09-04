@@ -3344,6 +3344,7 @@
 - :cd: `com.github.cyclophone` :left_right_arrow: `com.github.h908714124:cyclophone:0.1.2` // `com.github.h908714124,cyclophone,0.1.2,com.github.cyclophone,-,automatic,-,false,-`
 - :cd: `com.github.cyclophone` :left_right_arrow: `com.github.h908714124:cyclophone:0.1.3` // `com.github.h908714124,cyclophone,0.1.3,com.github.cyclophone,-,automatic,-,false,-`
 - :cd: `com.github.mustachejava` :left_right_arrow: `com.github.spullara.mustache.java:compiler:0.9.6` // `com.github.spullara.mustache.java,compiler,0.9.6,com.github.mustachejava,-,automatic,-,false,-`
+- :dvd: `com.github.simplenet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.5.0` // `com.github.jhg023,SimpleNet,1.5.0,com.github.simplenet,1.5.0,explicit,Pbbl + java.base,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.0.0` // `com.github.simy4.xpath,xpath-to-xml-core,2.0.0,com.github.simych.xpath.core,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.1.0` // `com.github.simy4.xpath,xpath-to-xml-core,2.1.0,com.github.simych.xpath.core,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.1.1` // `com.github.simy4.xpath,xpath-to-xml-core,2.1.1,com.github.simych.xpath.core,-,automatic,-,false,-`
@@ -5593,6 +5594,7 @@
 - :dvd: `java.ws.rs` :left_right_arrow: `jakarta.ws.rs:jakarta.ws.rs-api:2.1.5` // `jakarta.ws.rs,jakarta.ws.rs-api,2.1.5,java.ws.rs,-,explicit,java.base + java.logging + java.xml.bind,false,-`
 - :dvd: `java.ws.rs` :left_right_arrow: `javax.ws.rs:javax.ws.rs-api:2.1.1` // `javax.ws.rs,javax.ws.rs-api,2.1.1,java.ws.rs,-,explicit,java.logging + java.xml.bind + java.base,false,-`
 - :cd: `java.ws.rs` :left_right_arrow: `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec:2.0.0.CR1` // `org.jboss.spec.javax.ws.rs,jboss-jaxrs-api_2.1_spec,2.0.0.CR1,java.ws.rs,-,automatic,-,false,-`
+- :dvd: `java.ws.rs` :left_right_arrow: `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec:2.0.0.CR2` // `org.jboss.spec.javax.ws.rs,jboss-jaxrs-api_2.1_spec,2.0.0.CR2,java.ws.rs,-,explicit,java.base + java.logging + java.xml.bind,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.6` // `cloud.testload,jmeter.pack-listener,1.6,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.7` // `cloud.testload,jmeter.pack-listener,1.7,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.8` // `cloud.testload,jmeter.pack-listener,1.8,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
@@ -10897,6 +10899,7 @@
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.6.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.6.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.7.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.7.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.8.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.8.RELEASE,spring.amqp,-,automatic,-,false,-`
+- :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.9.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.9.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.1.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.1.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
@@ -10937,6 +10940,7 @@
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.6.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.6.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.7.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.8.RELEASE,spring.rabbit,-,automatic,-,false,-`
+- :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.9.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.5.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.6.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.7.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
@@ -10949,6 +10953,7 @@
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.6.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.6.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.7.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.8.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
+- :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.9.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.5.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.6.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.7.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
@@ -10961,6 +10966,7 @@
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.6.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.6.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.7.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.8.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
+- :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.9.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.4.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.4.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.5.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.5.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.6.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.6.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`
@@ -11038,6 +11044,7 @@
 - :dvd: `toberkoe.pluto` :left_right_arrow: `de.toberkoe:pluto:0.3` // `de.toberkoe,pluto,0.3,toberkoe.pluto,-,explicit,log4j + hibernate.core + org.mockito + org.junit.jupiter.api + java.base + java.sql + java.annotation + hsqldb + java.persistence + javax.inject + javafx.base + java.naming + javax.ejb.api,true,-`
 - :cd: `typesafe.config` :left_right_arrow: `com.typesafe:config:1.3.3` // `com.typesafe,config,1.3.3,typesafe.config,-,automatic,-,false,-`
 - :cd: `typesafe.config` :left_right_arrow: `com.typesafe:config:1.3.4` // `com.typesafe,config,1.3.4,typesafe.config,-,automatic,-,false,-`
+- :cd: `typesafe.config` :left_right_arrow: `com.typesafe:config:1.3.5-RC1` // `com.typesafe,config,1.3.5-RC1,typesafe.config,-,automatic,-,false,-`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.1` // `uk.co.real-logic,sbe-all,1.12.1,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.2` // `uk.co.real-logic,sbe-all,1.12.2,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `uk.co.real_logic.sbe.all` :left_right_arrow: `uk.co.real-logic:sbe-all:1.12.3` // `uk.co.real-logic,sbe-all,1.12.3,uk.co.real_logic.sbe.all,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
