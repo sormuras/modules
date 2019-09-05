@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4979 Java modules published at Maven Central
+Counted 4984 Java modules published at Maven Central
 
-## Summary 2019-09-04T23:13:03.547752Z
+## Summary 2019-09-05T23:13:58.198617Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-04T23:13:03.547752Z
-Scanned 30,970 files in 4 seconds.
+Started scan at 2019-09-05T23:13:58.198617Z
+Scanned 31,067 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_04_22_57_12.csv
+    last -> modulescanner-report-2019_09_05_23_02_07.csv
 
-Parsed 1,939,069 lines in total.
-  34,792 -> captions skipped
-  128,727 -> duplicates skipped
-  79,487 -> module related
+Parsed 1,946,047 lines in total.
+  34,886 -> captions skipped
+  129,413 -> duplicates skipped
+  79,847 -> module related
 
-Collected 4,979 unique modules.
-  automatic :cd: -> 3,687
-  explicit :dvd: -> 1,292
+Collected 4,984 unique modules.
+  automatic :cd: -> 3,691
+  explicit :dvd: -> 1,293
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7422](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11285](suspicious/naming.md)
-- Modular impostors: [4126](suspicious/impostors.md)
+- Invalid module names: [7424](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11305](suspicious/naming.md)
+- Modular impostors: [4148](suspicious/impostors.md)
 
-## Unique Modules (4979)
+## Unique Modules (4984)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -121,7 +121,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.5`
 - :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.6`
 - :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
-- :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.2`
+- :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.3`
 - :dvd: `be.yildizgames.common.properties` :left_right_arrow: `be.yildiz-games:common-properties:1.0.0`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
 - :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.4`
@@ -168,7 +168,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:2.0.7`
-- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.7.0`
+- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.8.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha4`
@@ -204,6 +204,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:1.8.0`
 - :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:1.8.0`
 - :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:1.8.0`
+- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.1.1`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
@@ -930,7 +931,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.9`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.17`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.18.1`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.2`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -1005,7 +1006,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.gsl.platform` :left_right_arrow: `org.bytedeco:gsl-platform:2.5-1.5.1`
 - :dvd: `org.bytedeco.hdf5` :left_right_arrow: `org.bytedeco:hdf5:1.10.5-1.5.1`
 - :dvd: `org.bytedeco.hdf5.platform` :left_right_arrow: `org.bytedeco:hdf5-platform:1.10.5-1.5.1`
-- :dvd: `org.bytedeco.javacpp` :left_right_arrow: `org.bytedeco:javacpp:1.5.1`
+- :dvd: `org.bytedeco.javacpp` :left_right_arrow: `org.bytedeco:javacpp:1.5.1-1`
 - :dvd: `org.bytedeco.javacv` :left_right_arrow: `org.bytedeco:javacv:1.5.1`
 - :dvd: `org.bytedeco.javacv.platform` :left_right_arrow: `org.bytedeco:javacv-platform:1.5.1`
 - :dvd: `org.bytedeco.leptonica` :left_right_arrow: `org.bytedeco:leptonica:1.78.0-1.5.1`
