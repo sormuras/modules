@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4984 Java modules published at Maven Central
+Counted 4990 Java modules published at Maven Central
 
-## Summary 2019-09-05T23:13:58.198617Z
+## Summary 2019-09-06T23:14:26.273409Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-05T23:13:58.198617Z
-Scanned 31,067 files in 4 seconds.
+Started scan at 2019-09-06T23:14:26.273409Z
+Scanned 31,160 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_05_23_02_07.csv
+    last -> modulescanner-report-2019_09_06_22_58_14.csv
 
-Parsed 1,946,047 lines in total.
-  34,886 -> captions skipped
-  129,413 -> duplicates skipped
-  79,847 -> module related
+Parsed 1,954,768 lines in total.
+  34,979 -> captions skipped
+  130,368 -> duplicates skipped
+  81,105 -> module related
 
-Collected 4,984 unique modules.
-  automatic :cd: -> 3,691
-  explicit :dvd: -> 1,293
+Collected 4,990 unique modules.
+  automatic :cd: -> 3,692
+  explicit :dvd: -> 1,298
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,31 +91,31 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7424](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11305](suspicious/naming.md)
-- Modular impostors: [4148](suspicious/impostors.md)
+- Invalid module names: [7701](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11550](suspicious/naming.md)
+- Modular impostors: [4175](suspicious/impostors.md)
 
-## Unique Modules (4984)
+## Unique Modules (4990)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.4`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.5`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
-- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.1`
+- :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.4`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.4`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.6`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.1`
 - :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.4`
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.7`
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
-- :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.3`
+- :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.4`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.3`
 - :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.5`
-- :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.1.1`
-- :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.2`
+- :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.0`
+- :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.3`
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.6`
 - :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
 - :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.5`
@@ -151,8 +151,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.launcher.shared` :left_right_arrow: `be.yildiz-games:launcher-shared:1.0.3`
 - :dvd: `be.yildizgames.module.audio` :left_right_arrow: `be.yildiz-games:module-audio:2.0.7`
 - :dvd: `be.yildizgames.module.audio.openal` :left_right_arrow: `be.yildiz-games:module-audio-openal:2.0.12`
-- :dvd: `be.yildizgames.module.database` :left_right_arrow: `be.yildiz-games:module-database:2.0.5`
-- :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.5`
+- :dvd: `be.yildizgames.module.database` :left_right_arrow: `be.yildiz-games:module-database:2.0.6`
+- :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.6`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.4`
@@ -170,6 +170,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:2.0.7`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.8.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
+- :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha4`
 - :dvd: `cn.nextop.lite.pool` :left_right_arrow: `cn.nextop:lite-pool:1.0.0-RC3`
@@ -718,24 +719,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.47`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.0`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.0`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.0`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.0`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.0`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.0`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.1`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.1`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.1`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.1`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.1`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.1`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.0`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.0`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.0`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.1`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.1`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.1`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.0`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.0`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.0`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.0`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.0`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.1`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.1`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.1`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.1`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.1`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
@@ -753,6 +754,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.1`
 - :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.1`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
+- :dvd: `io.github.pustike.json` :left_right_arrow: `io.github.pustike:pustike-json:0.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
 - :dvd: `io.github.robertograham.rleparser` :left_right_arrow: `io.github.robertograham:rle-parser-module:1.0.0`
 - :dvd: `io.github.sskorol.testdatasupplier` :left_right_arrow: `io.github.sskorol:test-data-supplier:1.9.0`
@@ -932,6 +934,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
 - :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.18.1`
+- :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.1`
+- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.2`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.2`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -1126,12 +1130,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.jetty.server` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-server:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
-- :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.4`
+- :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.12`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
 - :dvd: `org.fxyz3d.importers` :left_right_arrow: `org.fxyz3d:fxyz3d-importers:0.5.2`
+- :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:1.9.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
 - :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.2.0`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
