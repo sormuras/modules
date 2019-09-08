@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 4990 Java modules published at Maven Central
+Counted 4992 Java modules published at Maven Central
 
-## Summary 2019-09-07T23:15:11.682622Z
+## Summary 2019-09-08T23:15:47.430864Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-07T23:15:11.682622Z
-Scanned 31,262 files in 5 seconds.
+Started scan at 2019-09-08T23:15:47.430864Z
+Scanned 31,359 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_07_22_54_58.csv
+    last -> modulescanner-report-2019_09_08_22_45_02.csv
 
-Parsed 1,957,940 lines in total.
-  35,078 -> captions skipped
-  130,602 -> duplicates skipped
-  81,140 -> module related
+Parsed 1,961,271 lines in total.
+  35,175 -> captions skipped
+  130,778 -> duplicates skipped
+  81,243 -> module related
 
-Collected 4,990 unique modules.
-  automatic :cd: -> 3,692
+Collected 4,992 unique modules.
+  automatic :cd: -> 3,694
   explicit :dvd: -> 1,298
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.1
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.2
 org.objectweb.asm -> org.ow2.asm:asm:7.2-beta
 com.google.common -> com.google.guava:guava:28.1-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7701](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11566](suspicious/naming.md)
-- Modular impostors: [4185](suspicious/impostors.md)
+- Invalid module names: [7712](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11567](suspicious/naming.md)
+- Modular impostors: [4189](suspicious/impostors.md)
 
-## Unique Modules (4990)
+## Unique Modules (4992)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -692,7 +692,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` :left_right_arrow: `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.0.3`
+- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.0.4`
 - :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.2.0`
 - :dvd: `io.annot8.common.implementations` :left_right_arrow: `io.annot8:annot8-common-implementations:0.2.0`
 - :dvd: `io.annot8.common.jackson.serialisation` :left_right_arrow: `io.annot8:annot8-common-jackson-serialisation:0.2.0`
@@ -1154,20 +1154,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.44`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.29`
-- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.1`
-- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.1`
-- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.1`
-- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.1`
-- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.1`
-- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.1`
-- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.1`
-- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.1`
-- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.1`
-- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.1`
-- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.1`
-- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.1`
-- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.1`
-- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.1`
+- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.5.2`
+- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.5.2`
+- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.5.2`
+- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.5.2`
+- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.5.2`
+- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.5.2`
+- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.5.2`
+- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.5.2`
+- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.5.2`
+- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.5.2`
+- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.5.2`
+- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.2`
+- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.2`
+- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.2`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.11`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.1`
 - :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
@@ -1267,7 +1267,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.pcap4j.packetfactory.propertiesbased` :left_right_arrow: `org.pcap4j:pcap4j-packetfactory-propertiesbased:2.0.0-alpha.6`
 - :dvd: `org.pcap4j.packetfactory.statik` :left_right_arrow: `org.pcap4j:pcap4j-packetfactory-static:2.0.0-alpha.6`
 - :dvd: `org.pcap4j.sample` :left_right_arrow: `org.pcap4j:pcap4j-sample:2.0.0-alpha.6`
-- :dvd: `org.pf4j` :left_right_arrow: `org.pf4j:pf4j:3.0.1`
+- :dvd: `org.pf4j` :left_right_arrow: `org.pf4j:pf4j:3.1.0`
 - :dvd: `org.pojomatic` :left_right_arrow: `org.pojomatic:pojomatic:2.2.1`
 - :dvd: `org.postgresql.adba` :left_right_arrow: `org.postgresql:pgadba:0.1.1-ALPHA`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` :left_right_arrow: `org.rapidpm.vaadin:cdi-addon-modules-impl:0.1.0`

@@ -3305,6 +3305,7 @@
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.10` // `com.amihaiemil.web,docker-java-api,0.0.10,com.amihaiemil.docker,-,automatic,-,false,-`
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.8` // `com.amihaiemil.web,docker-java-api,0.0.8,com.amihaiemil.docker,-,automatic,-,false,-`
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.9` // `com.amihaiemil.web,docker-java-api,0.0.9,com.amihaiemil.docker,-,automatic,-,false,-`
+- :dvd: `com.argot` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc1` // `org.argot-sdk,argot,1.4.0-rc1,com.argot,-,explicit,java.base + java.management,false,-`
 - :cd: `com.cml.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.0.2` // `com.codemonkeylab.idex,java-api-idex,0.0.2,com.cml.idex.api,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0` // `io.dropwizard.metrics,metrics-core,4.1.0,com.codahale.metrics,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0-rc2` // `io.dropwizard.metrics,metrics-core,4.1.0-rc2,com.codahale.metrics,-,automatic,-,false,-`
