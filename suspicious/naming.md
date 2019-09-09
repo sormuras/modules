@@ -3306,6 +3306,7 @@
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.8` // `com.amihaiemil.web,docker-java-api,0.0.8,com.amihaiemil.docker,-,automatic,-,false,-`
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.9` // `com.amihaiemil.web,docker-java-api,0.0.9,com.amihaiemil.docker,-,automatic,-,false,-`
 - :dvd: `com.argot` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc1` // `org.argot-sdk,argot,1.4.0-rc1,com.argot,-,explicit,java.base + java.management,false,-`
+- :dvd: `com.argot.compiler` :left_right_arrow: `org.argot-sdk:argot-compiler:1.4.0-rc1` // `org.argot-sdk,argot-compiler,1.4.0-rc1,com.argot.compiler,-,explicit,com.argot + java.base + java.logging + org.antlr.antlr4.runtime,false,-`
 - :cd: `com.cml.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.0.2` // `com.codemonkeylab.idex,java-api-idex,0.0.2,com.cml.idex.api,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0` // `io.dropwizard.metrics,metrics-core,4.1.0,com.codahale.metrics,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0-rc2` // `io.dropwizard.metrics,metrics-core,4.1.0-rc2,com.codahale.metrics,-,automatic,-,false,-`
@@ -6389,6 +6390,20 @@
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.0` // `net.officefloor.eclipse,net.officefloor.core,3.9.0,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.1` // `net.officefloor.eclipse,net.officefloor.core,3.9.1,net.officefloor.core,-,automatic,-,false,-`
 - :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.core:3.9.2` // `net.officefloor.eclipse,net.officefloor.core,3.9.2,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.core` :left_right_arrow: `net.officefloor.editor:net.officefloor.core:3.13.0` // `net.officefloor.editor,net.officefloor.core,3.13.0,net.officefloor.core,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.bridge` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.bridge:3.13.0` // `net.officefloor.editor,net.officefloor.gef.bridge,3.13.0,net.officefloor.gef.bridge,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.common` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.common:3.13.0` // `net.officefloor.editor,net.officefloor.gef.common,3.13.0,net.officefloor.gef.common,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.configurer` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.configurer:3.13.0` // `net.officefloor.editor,net.officefloor.gef.configurer,3.13.0,net.officefloor.gef.configurer,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.configurer.tests` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.configurer.tests:3.13.0` // `net.officefloor.editor,net.officefloor.gef.configurer.tests,3.13.0,net.officefloor.gef.configurer.tests,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.editor` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.editor:3.13.0` // `net.officefloor.editor,net.officefloor.gef.editor,3.13.0,net.officefloor.gef.editor,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.editor.tests` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.editor.tests:3.13.0` // `net.officefloor.editor,net.officefloor.gef.editor.tests,3.13.0,net.officefloor.gef.editor.tests,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.ide` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.ide:3.13.0` // `net.officefloor.editor,net.officefloor.gef.ide,3.13.0,net.officefloor.gef.ide,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.ide.tests` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.ide.tests:3.13.0` // `net.officefloor.editor,net.officefloor.gef.ide.tests,3.13.0,net.officefloor.gef.ide.tests,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.section` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.section:3.13.0` // `net.officefloor.editor,net.officefloor.gef.section,3.13.0,net.officefloor.gef.section,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.section.test` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.section.tests:3.13.0` // `net.officefloor.editor,net.officefloor.gef.section.tests,3.13.0,net.officefloor.gef.section.test,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.shade` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.shade:3.13.0` // `net.officefloor.editor,net.officefloor.gef.shade,3.13.0,net.officefloor.gef.shade,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `net.officefloor.gef.woof` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.woof:3.13.0` // `net.officefloor.editor,net.officefloor.gef.woof,3.13.0,net.officefloor.gef.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.gef.woof.tests` :left_right_arrow: `net.officefloor.editor:net.officefloor.gef.woof.tests:3.13.0` // `net.officefloor.editor,net.officefloor.gef.woof.tests,3.13.0,net.officefloor.gef.woof.tests,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.0.0` // `net.officefloor.eclipse,net.officefloor.woof,3.0.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.1.0` // `net.officefloor.eclipse,net.officefloor.woof,3.1.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.10.0` // `net.officefloor.eclipse,net.officefloor.woof,3.10.0,net.officefloor.woof,-,automatic,-,false,-`
@@ -6409,6 +6424,7 @@
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.0` // `net.officefloor.eclipse,net.officefloor.woof,3.9.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.1` // `net.officefloor.eclipse,net.officefloor.woof,3.9.1,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.eclipse:net.officefloor.woof:3.9.2` // `net.officefloor.eclipse,net.officefloor.woof,3.9.2,net.officefloor.woof,-,automatic,-,false,-`
+- :cd: `net.officefloor.woof` :left_right_arrow: `net.officefloor.editor:net.officefloor.woof:3.13.0` // `net.officefloor.editor,net.officefloor.woof,3.13.0,net.officefloor.woof,-,automatic,-,false,-`
 - :cd: `net.sf.cglib` :left_right_arrow: `cglib:cglib-nodep:3.2.11` // `cglib,cglib-nodep,3.2.11,net.sf.cglib,-,automatic,-,false,-`
 - :cd: `net.sf.cglib` :left_right_arrow: `cglib:cglib-nodep:3.2.12` // `cglib,cglib-nodep,3.2.12,net.sf.cglib,-,automatic,-,false,-`
 - :cd: `net.sf.cglib` :left_right_arrow: `cglib:cglib-nodep:3.3.0` // `cglib,cglib-nodep,3.3.0,net.sf.cglib,-,automatic,-,false,-`

@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 4992 Java modules published at Maven Central
+Counted 4999 Java modules published at Maven Central
 
-## Summary 2019-09-08T23:15:47.430864Z
+## Summary 2019-09-09T23:15:46.418427Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-08T23:15:47.430864Z
-Scanned 31,359 files in 5 seconds.
+Started scan at 2019-09-09T23:15:46.418427Z
+Scanned 31,451 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_08_22_45_02.csv
+    last -> modulescanner-report-2019_09_09_22_59_57.csv
 
-Parsed 1,961,271 lines in total.
-  35,175 -> captions skipped
-  130,778 -> duplicates skipped
-  81,243 -> module related
+Parsed 1,967,275 lines in total.
+  35,267 -> captions skipped
+  131,811 -> duplicates skipped
+  81,341 -> module related
 
-Collected 4,992 unique modules.
-  automatic :cd: -> 3,694
-  explicit :dvd: -> 1,298
+Collected 4,999 unique modules.
+  automatic :cd: -> 3,700
+  explicit :dvd: -> 1,299
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7712](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11567](suspicious/naming.md)
-- Modular impostors: [4189](suspicious/impostors.md)
+- Invalid module names: [7715](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11583](suspicious/naming.md)
+- Modular impostors: [4191](suspicious/impostors.md)
 
-## Unique Modules (4992)
+## Unique Modules (4999)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -112,19 +112,19 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.7`
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.4`
-- :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.3`
-- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.5`
+- :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.4`
+- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.6`
 - :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.0`
 - :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.3`
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.6`
 - :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
-- :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.5`
+- :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.6`
 - :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.6`
 - :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
 - :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.3`
 - :dvd: `be.yildizgames.common.properties` :left_right_arrow: `be.yildiz-games:common-properties:1.0.0`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
-- :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.4`
+- :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.5`
 - :dvd: `be.yildizgames.common.util` :left_right_arrow: `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` :left_right_arrow: `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` :left_right_arrow: `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
@@ -609,18 +609,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` :left_right_arrow: `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` :left_right_arrow: `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` :left_right_arrow: `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.2.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.2.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.3.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` :left_right_arrow: `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -634,7 +634,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
-- :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.0`
+- :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.8`
 - :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.8`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.4.0-b180830.0438`
@@ -686,7 +686,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.3`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.6`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -933,11 +933,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.9`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.18.1`
-- :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.1`
-- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.2`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.19`
+- :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
+- :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
+- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.3`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
-- :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.2`
+- :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
 - :dvd: `no.ssb.rawdata.state.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-state-provider-postgres:0.2`
 - :dvd: `no.ssb.rawdata.storage.provider.filesystem` :left_right_arrow: `no.ssb.rawdata:rawdata-storage-provider-local-filesystem:0.2`
@@ -1396,5 +1397,5 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `top.marchand.xml.cp.protocol` :left_right_arrow: `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.gov.nca.remedi4j` :left_right_arrow: `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
-- :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.0`
+- :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
