@@ -3307,6 +3307,7 @@
 - :cd: `com.amihaiemil.docker` :left_right_arrow: `com.amihaiemil.web:docker-java-api:0.0.9` // `com.amihaiemil.web,docker-java-api,0.0.9,com.amihaiemil.docker,-,automatic,-,false,-`
 - :dvd: `com.argot` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc1` // `org.argot-sdk,argot,1.4.0-rc1,com.argot,-,explicit,java.base + java.management,false,-`
 - :dvd: `com.argot.compiler` :left_right_arrow: `org.argot-sdk:argot-compiler:1.4.0-rc1` // `org.argot-sdk,argot-compiler,1.4.0-rc1,com.argot.compiler,-,explicit,com.argot + java.base + java.logging + org.antlr.antlr4.runtime,false,-`
+- :dvd: `com.argot.compiler` :left_right_arrow: `org.argot-sdk:argot-compiler:1.4.0-rc2` // `org.argot-sdk,argot-compiler,1.4.0-rc2,com.argot.compiler,-,explicit,com.argot + java.base + java.logging + org.antlr.antlr4.runtime,false,-`
 - :cd: `com.cml.idex.api` :left_right_arrow: `com.codemonkeylab.idex:java-api-idex:0.0.2` // `com.codemonkeylab.idex,java-api-idex,0.0.2,com.cml.idex.api,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0` // `io.dropwizard.metrics,metrics-core,4.1.0,com.codahale.metrics,-,automatic,-,false,-`
 - :cd: `com.codahale.metrics` :left_right_arrow: `io.dropwizard.metrics:metrics-core:4.1.0-rc2` // `io.dropwizard.metrics,metrics-core,4.1.0-rc2,com.codahale.metrics,-,automatic,-,false,-`
@@ -5030,6 +5031,24 @@
 - :dvd: `com.sun.xml.xsom` :left_right_arrow: `org.glassfish.jaxb:xsom:2.3.2` // `org.glassfish.jaxb,xsom,2.3.2,com.sun.xml.xsom,-,explicit,com.sun.tools.rngdatatype + java.base + java.desktop + java.logging,false,-`
 - :dvd: `com.sun.xml.xsom` :left_right_arrow: `org.glassfish.jaxb:xsom:2.4.0-b180725.0644` // `org.glassfish.jaxb,xsom,2.4.0-b180725.0644,com.sun.xml.xsom,-,explicit,com.sun.tools.rngdatatype + java.desktop + java.logging + java.base,true,-`
 - :dvd: `com.sun.xml.xsom` :left_right_arrow: `org.glassfish.jaxb:xsom:2.4.0-b180830.0438` // `org.glassfish.jaxb,xsom,2.4.0-b180830.0438,com.sun.xml.xsom,-,explicit,com.sun.tools.rngdatatype + java.desktop + java.logging + java.base,true,-`
+- :cd: `com.tenduke.client.json` :left_right_arrow: `com.10duke.client.json:api:1.0.0` // `com.10duke.client.json,api,1.0.0,com.tenduke.client.json,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.json` :left_right_arrow: `com.10duke.client.json:api:1.0.1` // `com.10duke.client.json,api,1.0.1,com.tenduke.client.json,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.json.jackson` :left_right_arrow: `com.10duke.client.json:jackson:1.0.0` // `com.10duke.client.json,jackson,1.0.0,com.tenduke.client.json.jackson,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.json.jackson` :left_right_arrow: `com.10duke.client.json:jackson:1.0.1` // `com.10duke.client.json,jackson,1.0.1,com.tenduke.client.json.jackson,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.jwt` :left_right_arrow: `com.10duke.client.jwt:api:1.0.0` // `com.10duke.client.jwt,api,1.0.0,com.tenduke.client.jwt,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.jwt` :left_right_arrow: `com.10duke.client.jwt:api:1.0.1` // `com.10duke.client.jwt,api,1.0.1,com.tenduke.client.jwt,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.jwt.jjwt` :left_right_arrow: `com.10duke.client.jwt:jjwt:1.0.0` // `com.10duke.client.jwt,jjwt,1.0.0,com.tenduke.client.jwt.jjwt,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.jwt.jjwt` :left_right_arrow: `com.10duke.client.jwt:jjwt:1.0.1` // `com.10duke.client.jwt,jjwt,1.0.1,com.tenduke.client.jwt.jjwt,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.oauth` :left_right_arrow: `com.10duke.client:oauth:1.0.0` // `com.10duke.client,oauth,1.0.0,com.tenduke.client.oauth,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.oauth` :left_right_arrow: `com.10duke.client:oauth:1.0.1` // `com.10duke.client,oauth,1.0.1,com.tenduke.client.oauth,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.openid` :left_right_arrow: `com.10duke.client:openid:1.0.0` // `com.10duke.client,openid,1.0.0,com.tenduke.client.openid,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.openid` :left_right_arrow: `com.10duke.client:openid:1.0.1` // `com.10duke.client,openid,1.0.1,com.tenduke.client.openid,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.sso.javafx` :left_right_arrow: `com.10duke.client.sso:javafx:1.0.0` // `com.10duke.client.sso,javafx,1.0.0,com.tenduke.client.sso.javafx,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.sso.javafx` :left_right_arrow: `com.10duke.client.sso:javafx:1.0.1` // `com.10duke.client.sso,javafx,1.0.1,com.tenduke.client.sso.javafx,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.sso.javafx.demo` :left_right_arrow: `com.10duke.client.sso:javafx-demo:1.0.0` // `com.10duke.client.sso,javafx-demo,1.0.0,com.tenduke.client.sso.javafx.demo,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.sso.javafx.demo` :left_right_arrow: `com.10duke.client.sso:javafx-demo:1.0.1` // `com.10duke.client.sso,javafx-demo,1.0.1,com.tenduke.client.sso.javafx.demo,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.testutils` :left_right_arrow: `com.10duke.client:test-utils:1.0.0` // `com.10duke.client,test-utils,1.0.0,com.tenduke.client.testutils,-,automatic,-,false,-`
+- :cd: `com.tenduke.client.testutils` :left_right_arrow: `com.10duke.client:test-utils:1.0.1` // `com.10duke.client,test-utils,1.0.1,com.tenduke.client.testutils,-,automatic,-,false,-`
 - :cd: `com.theoryinpractive.halbuilder` :left_right_arrow: `com.theoryinpractise:halbuilder-core:4.1.1` // `com.theoryinpractise,halbuilder-core,4.1.1,com.theoryinpractive.halbuilder,-,automatic,-,false,-`
 - :cd: `com.theoryinpractive.halbuilder.api` :left_right_arrow: `com.theoryinpractise:halbuilder-api:4.1.1` // `com.theoryinpractise,halbuilder-api,4.1.1,com.theoryinpractive.halbuilder.api,-,automatic,-,false,-`
 - :cd: `com.theoryinpractive.halbuilder.guava` :left_right_arrow: `com.theoryinpractise:halbuilder-guava:4.1.1` // `com.theoryinpractise,halbuilder-guava,4.1.1,com.theoryinpractive.halbuilder.guava,-,automatic,-,false,-`
@@ -5688,6 +5707,7 @@
 - :cd: `java.security.auth.message` :left_right_arrow: `jakarta.security.auth.message:jakarta.security.auth.message-api:1.1.2` // `jakarta.security.auth.message,jakarta.security.auth.message-api,1.1.2,java.security.auth.message,-,automatic,-,false,-`
 - :cd: `java.security.auth.message` :left_right_arrow: `jakarta.security.auth.message:jakarta.security.auth.message-api:1.1.3` // `jakarta.security.auth.message,jakarta.security.auth.message-api,1.1.3,java.security.auth.message,-,automatic,-,false,-`
 - :cd: `java.security.auth.message` :left_right_arrow: `org.jboss.spec.javax.security.auth.message:jboss-jaspi-api_1.1_spec:2.0.0.CR1` // `org.jboss.spec.javax.security.auth.message,jboss-jaspi-api_1.1_spec,2.0.0.CR1,java.security.auth.message,-,automatic,-,false,-`
+- :cd: `java.security.auth.message` :left_right_arrow: `org.jboss.spec.javax.security.auth.message:jboss-jaspi-api_1.1_spec:2.0.0.CR2` // `org.jboss.spec.javax.security.auth.message,jboss-jaspi-api_1.1_spec,2.0.0.CR2,java.security.auth.message,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `jakarta.authorization:jakarta.authorization-api:1.5.0` // `jakarta.authorization,jakarta.authorization-api,1.5.0,java.security.jacc,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `jakarta.security.jacc:jakarta.security.jacc-api:1.6.1` // `jakarta.security.jacc,jakarta.security.jacc-api,1.6.1,java.security.jacc,-,automatic,-,false,-`
 - :cd: `java.security.jacc` :left_right_arrow: `org.jboss.spec.javax.security.jacc:jboss-jacc-api_1.5_spec:2.0.0.CR1` // `org.jboss.spec.javax.security.jacc,jboss-jacc-api_1.5_spec,2.0.0.CR1,java.security.jacc,-,automatic,-,false,-`
@@ -5723,6 +5743,7 @@
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.7` // `cloud.testload,jmeter.pack-listener,1.7,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.8` // `cloud.testload,jmeter.pack-listener,1.8,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.9` // `cloud.testload,jmeter.pack-listener,1.9,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
+- :dvd: `java.xml.bind` :left_right_arrow: `cloud.testload:jmeter.pack-listener:1.9.1` // `cloud.testload,jmeter.pack-listener,1.9.1,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.elastisys:autoscaler.simulation:5.2.2` // `com.elastisys,autoscaler.simulation,5.2.2,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.expedia.www:haystack-agent:0.1.3` // `com.expedia.www,haystack-agent,0.1.3,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.expedia.www:haystack-agent:0.1.4` // `com.expedia.www,haystack-agent,0.1.4,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
@@ -6063,6 +6084,7 @@
 - :cd: `lagom.persistence.couchbase.scaladsl` :left_right_arrow: `com.lightbend.akka:lagom-scaladsl-persistence-couchbase_2.12:1.0-RC1` // `com.lightbend.akka,lagom-scaladsl-persistence-couchbase_2.12,1.0-RC1,lagom.persistence.couchbase.scaladsl,-,automatic,-,false,-`
 - :cd: `lagom.persistence.couchbase.scaladsl` :left_right_arrow: `com.lightbend.akka:lagom-scaladsl-persistence-couchbase_2.12:1.0-RC2` // `com.lightbend.akka,lagom-scaladsl-persistence-couchbase_2.12,1.0-RC2,lagom.persistence.couchbase.scaladsl,-,automatic,-,false,-`
 - :dvd: `light.jpf` :left_right_arrow: `com.github.souzen:light-jpf:0.0.6` // `com.github.souzen,light-jpf,0.0.6,light.jpf,-,explicit,commons.lang3 + java.base + slf4j.api,true,-`
+- :cd: `lingocoder.core` :left_right_arrow: `com.lingocoder:lingocoder.core:0.5.4` // `com.lingocoder,lingocoder.core,0.5.4,lingocoder.core,-,automatic,-,true,-`
 - :cd: `liqp` :left_right_arrow: `nl.big-o:liqp:0.7.4` // `nl.big-o,liqp,0.7.4,liqp,-,automatic,-,false,-`
 - :cd: `liqp` :left_right_arrow: `nl.big-o:liqp:0.7.5` // `nl.big-o,liqp,0.7.5,liqp,-,automatic,-,false,-`
 - :cd: `liqp` :left_right_arrow: `nl.big-o:liqp:0.7.6` // `nl.big-o,liqp,0.7.6,liqp,-,automatic,-,false,-`
@@ -6075,6 +6097,7 @@
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha0` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha0,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `lombok` :left_right_arrow: `com.yubico:java-yubihsm:0.1.0RC1` // `com.yubico,java-yubihsm,0.1.0RC1,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported,false,-`
 - :dvd: `lombok` :left_right_arrow: `io.pravega:pravega-connectors-hadoop:0.5.0` // `io.pravega,pravega-connectors-hadoop,0.5.0,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
+- :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.10` // `org.projectlombok,lombok,1.18.10,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.2` // `org.projectlombok,lombok,1.18.2,lombok,-,explicit,jdk.unsupported + java.instrument + java.compiler + java.base,true,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.4` // `org.projectlombok,lombok,1.18.4,lombok,-,explicit,java.instrument + java.compiler + java.base + jdk.unsupported + org.mapstruct.processor,true,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.6` // `org.projectlombok,lombok,1.18.6,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
@@ -6513,6 +6536,7 @@
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.0.1` // `com.squareup.okhttp3,okhttp,4.0.1,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.1.0` // `com.squareup.okhttp3,okhttp,4.1.0,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.1.1` // `com.squareup.okhttp3,okhttp,4.1.1,okhttp3,-,automatic,-,false,-`
+- :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.2.0` // `com.squareup.okhttp3,okhttp,4.2.0,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.github.ljun20160606:okhttp-android-support:3.10.0` // `com.github.ljun20160606,okhttp-android-support,3.10.0,okhttp3.androidsupport,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.squareup.okhttp3:okhttp-android-support:3.11.0` // `com.squareup.okhttp3,okhttp-android-support,3.11.0,okhttp3.androidsupport,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.squareup.okhttp3:okhttp-android-support:3.12.0` // `com.squareup.okhttp3,okhttp-android-support,3.12.0,okhttp3.androidsupport,-,automatic,-,false,-`
@@ -6527,6 +6551,7 @@
 - :cd: `okhttp3.apache` :left_right_arrow: `com.squareup.okhttp3:okhttp-apache:3.13.1` // `com.squareup.okhttp3,okhttp-apache,3.13.1,okhttp3.apache,-,automatic,-,false,-`
 - :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.1.0` // `com.squareup.okhttp3,okhttp-brotli,4.1.0,okhttp3.brotli,-,automatic,-,false,-`
 - :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.1.1` // `com.squareup.okhttp3,okhttp-brotli,4.1.1,okhttp3.brotli,-,automatic,-,false,-`
+- :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.2.0` // `com.squareup.okhttp3,okhttp-brotli,4.2.0,okhttp3.brotli,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.github.ljun20160606:okcurl:3.10.0` // `com.github.ljun20160606,okcurl,3.10.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:3.11.0` // `com.squareup.okhttp3,okcurl,3.11.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:3.12.0` // `com.squareup.okhttp3,okcurl,3.12.0,okhttp3.curl,-,automatic,-,false,-`
@@ -6544,6 +6569,7 @@
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.0.1` // `com.squareup.okhttp3,okcurl,4.0.1,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.1.0` // `com.squareup.okhttp3,okcurl,4.1.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.1.1` // `com.squareup.okhttp3,okcurl,4.1.1,okhttp3.curl,-,automatic,-,false,-`
+- :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.2.0` // `com.squareup.okhttp3,okcurl,4.2.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.11.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.11.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.12.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.12.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.12.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.12.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
@@ -6560,6 +6586,7 @@
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.0.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.0.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.1.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.1.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.1.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.1.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
+- :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.2.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.2.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.github.ljun20160606:logging-interceptor:3.10.0` // `com.github.ljun20160606,logging-interceptor,3.10.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:3.11.0` // `com.squareup.okhttp3,logging-interceptor,3.11.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:3.12.0` // `com.squareup.okhttp3,logging-interceptor,3.12.0,okhttp3.logging,-,automatic,-,false,-`
@@ -6577,6 +6604,7 @@
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.0.1` // `com.squareup.okhttp3,logging-interceptor,4.0.1,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.1.0` // `com.squareup.okhttp3,logging-interceptor,4.1.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.1.1` // `com.squareup.okhttp3,logging-interceptor,4.1.1,okhttp3.logging,-,automatic,-,false,-`
+- :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.2.0` // `com.squareup.okhttp3,logging-interceptor,4.2.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.github.ljun20160606:mockwebserver:3.10.0` // `com.github.ljun20160606,mockwebserver,3.10.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:3.11.0` // `com.squareup.okhttp3,mockwebserver,3.11.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:3.12.0` // `com.squareup.okhttp3,mockwebserver,3.12.0,okhttp3.mockwebserver,-,automatic,-,false,-`
@@ -6594,6 +6622,7 @@
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.0.1` // `com.squareup.okhttp3,mockwebserver,4.0.1,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.1.0` // `com.squareup.okhttp3,mockwebserver,4.1.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.1.1` // `com.squareup.okhttp3,mockwebserver,4.1.1,okhttp3.mockwebserver,-,automatic,-,false,-`
+- :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.2.0` // `com.squareup.okhttp3,mockwebserver,4.2.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.11.0` // `com.squareup.okhttp3,okhttp-sse,3.11.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.12.0` // `com.squareup.okhttp3,okhttp-sse,3.12.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.12.1` // `com.squareup.okhttp3,okhttp-sse,3.12.1,okhttp3.sse,-,automatic,-,false,-`
@@ -6610,6 +6639,7 @@
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.0.1` // `com.squareup.okhttp3,okhttp-sse,4.0.1,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.1.0` // `com.squareup.okhttp3,okhttp-sse,4.1.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.1.1` // `com.squareup.okhttp3,okhttp-sse,4.1.1,okhttp3.sse,-,automatic,-,false,-`
+- :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.2.0` // `com.squareup.okhttp3,okhttp-sse,4.2.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.github.ljun20160606:okhttp-testing-support:3.10.0` // `com.github.ljun20160606,okhttp-testing-support,3.10.0,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.11.0` // `com.squareup.okhttp3,okhttp-testing-support,3.11.0,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.12.0` // `com.squareup.okhttp3,okhttp-testing-support,3.12.0,okhttp3.testing,-,automatic,-,false,-`
@@ -6619,6 +6649,7 @@
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.14.0` // `com.squareup.okhttp3,okhttp-testing-support,3.14.0,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.14.1` // `com.squareup.okhttp3,okhttp-testing-support,3.14.1,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.14.2` // `com.squareup.okhttp3,okhttp-testing-support,3.14.2,okhttp3.testing,-,automatic,-,false,-`
+- :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.14.3` // `com.squareup.okhttp3,okhttp-testing-support,3.14.3,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:3.11.0` // `com.squareup.okhttp3,okhttp-tls,3.11.0,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:3.12.0` // `com.squareup.okhttp3,okhttp-tls,3.12.0,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:3.12.1` // `com.squareup.okhttp3,okhttp-tls,3.12.1,okhttp3.tls,-,automatic,-,false,-`
@@ -6635,6 +6666,7 @@
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.0.1` // `com.squareup.okhttp3,okhttp-tls,4.0.1,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.1.0` // `com.squareup.okhttp3,okhttp-tls,4.1.0,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.1.1` // `com.squareup.okhttp3,okhttp-tls,4.1.1,okhttp3.tls,-,automatic,-,false,-`
+- :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.2.0` // `com.squareup.okhttp3,okhttp-tls,4.2.0,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.github.ljun20160606:okhttp-urlconnection:3.10.0` // `com.github.ljun20160606,okhttp-urlconnection,3.10.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:3.11.0` // `com.squareup.okhttp3,okhttp-urlconnection,3.11.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:3.12.0` // `com.squareup.okhttp3,okhttp-urlconnection,3.12.0,okhttp3.urlconnection,-,automatic,-,false,-`
@@ -6652,6 +6684,7 @@
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.0.1` // `com.squareup.okhttp3,okhttp-urlconnection,4.0.1,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.1.0` // `com.squareup.okhttp3,okhttp-urlconnection,4.1.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.1.1` // `com.squareup.okhttp3,okhttp-urlconnection,4.1.1,okhttp3.urlconnection,-,automatic,-,false,-`
+- :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.2.0` // `com.squareup.okhttp3,okhttp-urlconnection,4.2.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.0.0` // `com.squareup.okio,okio,2.0.0,okio,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.0.0-RC1` // `com.squareup.okio,okio,2.0.0-RC1,okio,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.1.0` // `com.squareup.okio,okio,2.1.0,okio,-,automatic,-,false,-`
