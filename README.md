@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5002 Java modules published at Maven Central
+Counted 5011 Java modules published at Maven Central
 
-## Summary 2019-09-10T23:16:37.885081Z
+## Summary 2019-09-11T23:17:03.454235Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-10T23:16:37.885081Z
-Scanned 31,539 files in 4 seconds.
+Started scan at 2019-09-11T23:17:03.454235Z
+Scanned 31,629 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_10_22_57_05.csv
+    last -> modulescanner-report-2019_09_11_22_54_50.csv
 
-Parsed 1,975,415 lines in total.
-  35,355 -> captions skipped
-  132,472 -> duplicates skipped
-  81,883 -> module related
+Parsed 1,982,033 lines in total.
+  35,445 -> captions skipped
+  132,883 -> duplicates skipped
+  82,182 -> module related
 
-Collected 5,002 unique modules.
-  automatic :cd: -> 3,703
-  explicit :dvd: -> 1,299
+Collected 5,011 unique modules.
+  automatic :cd: -> 3,711
+  explicit :dvd: -> 1,300
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7721](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11616](suspicious/naming.md)
-- Modular impostors: [4228](suspicious/impostors.md)
+- Invalid module names: [7724](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11653](suspicious/naming.md)
+- Modular impostors: [4249](suspicious/impostors.md)
 
-## Unique Modules (5002)
+## Unique Modules (5011)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -155,7 +155,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.6`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
-- :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.5`
+- :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
@@ -686,7 +686,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.6`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -970,6 +970,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.derby.tools` :left_right_arrow: `org.apache.derby:derbytools:10.15.1.3`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.12.1`
 - :dvd: `org.apiguardian.api` :left_right_arrow: `org.apiguardian:apiguardian-api:1.1.0`
+- :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.2`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.beryx:awt-color-factory:1.0.1`
@@ -980,7 +981,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.1`
 - :dvd: `org.bouncycastle.fips.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` :left_right_arrow: `org.bouncycastle:bctls-fips:1.0.9`
-- :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.62`
+- :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.63`
 - :dvd: `org.bytedeco.ale` :left_right_arrow: `org.bytedeco:ale:0.6.0-1.5.1`
 - :dvd: `org.bytedeco.ale.platform` :left_right_arrow: `org.bytedeco:ale-platform:0.6.0-1.5.1`
 - :dvd: `org.bytedeco.arpackng` :left_right_arrow: `org.bytedeco:arpack-ng:3.7.0-1.5.1`

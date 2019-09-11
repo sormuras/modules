@@ -1,4 +1,6 @@
 - :cd: `` :left_right_arrow: `com.azure:azure-core-http-okhttp:1.0.0-preview.4` // `com.azure,azure-core-http-okhttp,1.0.0-preview.4,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `com.azure:azure-keyvault-certificates:4.0.0-preview.3` // `com.azure,azure-keyvault-certificates,4.0.0-preview.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.0-preview.1` // `com.azure,azure-messaging-eventhubs-checkpointstore-blob,1.0.0-preview.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.azure:tracing-opentelemetry:1.0.0-preview.2` // `com.azure,tracing-opentelemetry,1.0.0-preview.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.blazebit:blaze-persistence-archetype-core-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-core-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.blazebit:blaze-persistence-archetype-core-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-core-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
@@ -6518,6 +6520,7 @@
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.3.0` // `com.synopsys.integration,coverity-common,0.3.0,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.4.0` // `com.synopsys.integration,coverity-common,0.4.0,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.4.1` // `com.synopsys.integration,coverity-common,0.4.1,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.4.2` // `com.synopsys.integration,coverity-common,0.4.2,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.1` // `com.synopsys.integration,int-jira-common,0.0.1,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.2` // `com.synopsys.integration,int-jira-common,0.0.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.0.3` // `com.synopsys.integration,int-jira-common,0.0.3,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
