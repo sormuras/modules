@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5011 Java modules published at Maven Central
+Counted 5012 Java modules published at Maven Central
 
-## Summary 2019-09-11T23:17:03.454235Z
+## Summary 2019-09-12T23:17:50.181455Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-11T23:17:03.454235Z
-Scanned 31,629 files in 4 seconds.
+Started scan at 2019-09-12T23:17:50.181455Z
+Scanned 31,715 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_11_22_54_50.csv
+    last -> modulescanner-report-2019_09_12_23_02_42.csv
 
-Parsed 1,982,033 lines in total.
-  35,445 -> captions skipped
-  132,883 -> duplicates skipped
-  82,182 -> module related
+Parsed 1,988,781 lines in total.
+  35,531 -> captions skipped
+  133,242 -> duplicates skipped
+  82,482 -> module related
 
-Collected 5,011 unique modules.
-  automatic :cd: -> 3,711
+Collected 5,012 unique modules.
+  automatic :cd: -> 3,712
   explicit :dvd: -> 1,300
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7724](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11653](suspicious/naming.md)
-- Modular impostors: [4249](suspicious/impostors.md)
+- Invalid module names: [7735](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11707](suspicious/naming.md)
+- Modular impostors: [4253](suspicious/impostors.md)
 
-## Unique Modules (5011)
+## Unique Modules (5012)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -686,7 +686,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.7`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.8`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
