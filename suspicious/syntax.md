@@ -6487,6 +6487,7 @@
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.2` // `com.helger,en16931-cii2ubl,1.1.2,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.3` // `com.helger,en16931-cii2ubl,1.1.3,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.4` // `com.helger,en16931-cii2ubl,1.1.4,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
+- :cd: `com.helger.en16931-cii2ubl` :left_right_arrow: `com.helger:en16931-cii2ubl:1.1.5` // `com.helger,en16931-cii2ubl,1.1.5,com.helger.en16931-cii2ubl,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.0.2` // `com.helger,parser-generator-cc,1.0.2,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.0` // `com.helger,parser-generator-cc,1.1.0,com.helger.parser-generator-cc,-,automatic,-,false,-`
 - :cd: `com.helger.parser-generator-cc` :left_right_arrow: `com.helger:parser-generator-cc:1.1.1` // `com.helger,parser-generator-cc,1.1.1,com.helger.parser-generator-cc,-,automatic,-,false,-`
