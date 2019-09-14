@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5051 Java modules published at Maven Central
+Counted 5057 Java modules published at Maven Central
 
-## Summary 2019-09-13T23:18:49.115902Z
+## Summary 2019-09-14T23:19:03.101831Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-13T23:18:49.115902Z
-Scanned 31,795 files in 5 seconds.
+Started scan at 2019-09-14T23:19:03.101831Z
+Scanned 31,887 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_13_23_03_40.csv
+    last -> modulescanner-report-2019_09_14_22_53_24.csv
 
-Parsed 1,996,173 lines in total.
-  35,611 -> captions skipped
-  133,842 -> duplicates skipped
-  82,750 -> module related
+Parsed 1,998,916 lines in total.
+  35,703 -> captions skipped
+  134,194 -> duplicates skipped
+  82,924 -> module related
 
-Collected 5,051 unique modules.
+Collected 5,057 unique modules.
   automatic :cd: -> 3,748
-  explicit :dvd: -> 1,303
+  explicit :dvd: -> 1,309
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7736](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11739](suspicious/naming.md)
-- Modular impostors: [4292](suspicious/impostors.md)
+- Invalid module names: [7747](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11768](suspicious/naming.md)
+- Modular impostors: [4331](suspicious/impostors.md)
 
-## Unique Modules (5051)
+## Unique Modules (5057)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -236,7 +236,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.0`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
-- :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.1`
+- :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr2`
 - :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.0.pr2`
@@ -320,33 +320,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.8`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.3`
-- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.8.17`
-- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.8.17`
-- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.8.17`
-- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.8.17`
-- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.8.17`
-- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.8.17`
-- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.8.17`
-- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.8.17`
-- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.8.17`
-- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.8.17`
-- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.8.17`
-- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.8.17`
-- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.8.17`
+- :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.7`
+- :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
+- :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.9`
+- :dvd: `com.googlecode.blaisemath.graphics.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
+- :dvd: `com.googlecode.blaisemath.graphtheory` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
+- :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.8`
+- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.9.14`
+- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.9.14`
+- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.9.14`
+- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.9.14`
+- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.9.14`
+- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.9.14`
+- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.9.14`
+- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.9.14`
+- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.9.14`
+- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.9.14`
+- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.9.14`
+- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.9.14`
+- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.9.14`
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `com.headius:invokebinder:1.11`
 - :dvd: `com.headius.modulator` :left_right_arrow: `com.headius:modulator:1.2`
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
