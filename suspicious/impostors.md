@@ -2487,6 +2487,7 @@
 - :dvd: `jakarta.activation` :left_right_arrow: `com.jwebmp.thirdparty:jakarta.activation:0.68.0.1` // `com.jwebmp.thirdparty,jakarta.activation,0.68.0.1,jakarta.activation,0.68.0.1,explicit,java.base + java.datatransfer + java.desktop + java.logging,false,-`
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `com.scalar-labs:scalardl-client-sdk:1.2.0` // `com.scalar-labs,scalardl-client-sdk,1.2.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `jakarta.json:jakarta.json-api:1.1.5` // `jakarta.json,jakarta.json-api,1.1.5,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `jakarta.json:jakarta.json-api:1.1.6` // `jakarta.json,jakarta.json-api,1.1.6,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.102.0` // `org.finra.herd,herd-access-validator,0.102.0,java.json,-,explicit,java.base,false,-`

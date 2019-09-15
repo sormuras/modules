@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5057 Java modules published at Maven Central
+Counted 5060 Java modules published at Maven Central
 
-## Summary 2019-09-14T23:19:03.101831Z
+## Summary 2019-09-15T23:19:51.684185Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-14T23:19:03.101831Z
-Scanned 31,887 files in 4 seconds.
+Started scan at 2019-09-15T23:19:51.684185Z
+Scanned 31,976 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_14_22_53_24.csv
+    last -> modulescanner-report-2019_09_15_23_06_49.csv
 
-Parsed 1,998,916 lines in total.
-  35,703 -> captions skipped
-  134,194 -> duplicates skipped
-  82,924 -> module related
+Parsed 2,001,606 lines in total.
+  35,789 -> captions skipped
+  134,230 -> duplicates skipped
+  82,937 -> module related
 
-Collected 5,057 unique modules.
+Collected 5,060 unique modules.
   automatic :cd: -> 3,748
-  explicit :dvd: -> 1,309
+  explicit :dvd: -> 1,312
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [7747](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11768](suspicious/naming.md)
-- Modular impostors: [4331](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11769](suspicious/naming.md)
+- Modular impostors: [4332](suspicious/impostors.md)
 
-## Unique Modules (5057)
+## Unique Modules (5060)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -637,6 +637,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.streaming.test` :left_right_arrow: `com.puresoltechnologies.streaming:test:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.tsv` :left_right_arrow: `com.puresoltechnologies.streaming:tsv:2.1.0`
 - :dvd: `com.puresoltechnologies.versioning` :left_right_arrow: `com.puresoltechnologies.versioning:versioning:2.0.0`
+- :dvd: `com.roscopeco.moxy.annotations` :left_right_arrow: `com.roscopeco.moxy:moxy-annotations:0.94.0`
+- :dvd: `com.roscopeco.moxy.core` :left_right_arrow: `com.roscopeco.moxy:moxy-core:0.94.0`
+- :dvd: `com.roscopeco.moxy.junit` :left_right_arrow: `com.roscopeco.moxy:moxy-junit5:0.94.0`
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
@@ -653,8 +656,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.6`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.3`
-- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.3`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.4`
+- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.4`
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.4.0`
 - :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.4.0`
 - :dvd: `com.torchmind.authenticator` :left_right_arrow: `com.torchmind:authenticator:1.1.0`

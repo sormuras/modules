@@ -11170,6 +11170,7 @@
 - :dvd: `pkg` :left_right_arrow: `org.ow2.asm:asm-test:7.0` // `org.ow2.asm,asm-test,7.0,pkg,1.0,explicit,java.base + java.compiler + java.naming + java.prefs,false,-`
 - :dvd: `pkg` :left_right_arrow: `org.ow2.asm:asm-test:7.1` // `org.ow2.asm,asm-test,7.1,pkg,1.0,explicit,java.base + java.compiler + java.naming + java.prefs,false,-`
 - :dvd: `pkg` :left_right_arrow: `org.ow2.asm:asm-test:7.2-beta` // `org.ow2.asm,asm-test,7.2-beta,pkg,1.0,explicit,java.base + java.compiler + java.naming + java.prefs,false,-`
+- :cd: `ponto.client` :left_right_arrow: `be.looorent:ponto-client:0.0.1` // `be.looorent,ponto-client,0.0.1,ponto.client,-,automatic,-,false,-`
 - :dvd: `powerunit.exceptions` :left_right_arrow: `ch.powerunit.extensions:powerunit-extensions-exceptions:2.0.0` // `ch.powerunit.extensions,powerunit-extensions-exceptions,2.0.0,powerunit.exceptions,2.0.0,explicit,java.base + java.sql,false,-`
 - :dvd: `powerunit.exceptions` :left_right_arrow: `ch.powerunit.extensions:powerunit-extensions-exceptions:2.1.0` // `ch.powerunit.extensions,powerunit-extensions-exceptions,2.1.0,powerunit.exceptions,2.1.0,explicit,java.base + java.sql + java.xml,false,-`
 - :cd: `protelis.parser` :left_right_arrow: `org.protelis:protelis.parser:10.0.0` // `org.protelis,protelis.parser,10.0.0,protelis.parser,-,automatic,-,false,-`
