@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5060 Java modules published at Maven Central
+Counted 5077 Java modules published at Maven Central
 
-## Summary 2019-09-15T23:19:51.684185Z
+## Summary 2019-09-16T23:20:03.643964Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-15T23:19:51.684185Z
-Scanned 31,976 files in 4 seconds.
+Started scan at 2019-09-16T23:20:03.643964Z
+Scanned 32,047 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_15_23_06_49.csv
+    last -> modulescanner-report-2019_09_16_22_55_57.csv
 
-Parsed 2,001,606 lines in total.
-  35,789 -> captions skipped
-  134,230 -> duplicates skipped
-  82,937 -> module related
+Parsed 2,008,037 lines in total.
+  35,860 -> captions skipped
+  134,494 -> duplicates skipped
+  83,131 -> module related
 
-Collected 5,060 unique modules.
-  automatic :cd: -> 3,748
-  explicit :dvd: -> 1,312
+Collected 5,077 unique modules.
+  automatic :cd: -> 3,752
+  explicit :dvd: -> 1,325
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7747](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11769](suspicious/naming.md)
-- Modular impostors: [4332](suspicious/impostors.md)
+- Invalid module names: [7755](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11794](suspicious/naming.md)
+- Modular impostors: [4372](suspicious/impostors.md)
 
-## Unique Modules (5060)
+## Unique Modules (5077)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -325,6 +325,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.9`
 - :dvd: `com.googlecode.blaisemath.graphics.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
 - :dvd: `com.googlecode.blaisemath.graphtheory` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
+- :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.8`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.9.14`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.9.14`
@@ -695,7 +696,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.8`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.9`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -948,7 +949,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.19`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
-- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.3`
+- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.4`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -1152,7 +1153,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.importers` :left_right_arrow: `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:1.9.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.2.0`
+- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.2.0.1`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
 - :dvd: `org.immutables.vavr.encodings` :left_right_arrow: `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` :left_right_arrow: `org.javacord:javacord-api:3.0.4`
@@ -1338,6 +1339,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.elasticsearch.testframework` :left_right_arrow: `org.xbib.elasticsearch:elasticsearch-test-framework:6.3.2.4`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:basic-annotations:0.1.0`
 - :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.4`
+- :dvd: `pl.tlinkowski.unij.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.api:0.1.1`
+- :dvd: `pl.tlinkowski.unij.bundle.eclipse_jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.bundle.eclipse_jdk8:0.1.1`
+- :dvd: `pl.tlinkowski.unij.bundle.guava_jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.bundle.guava_jdk8:0.1.1`
+- :dvd: `pl.tlinkowski.unij.bundle.jdk11` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.bundle.jdk11:0.1.1`
+- :dvd: `pl.tlinkowski.unij.bundle.jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.bundle.jdk8:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.api:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.collect.eclipse` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.collect.eclipse:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.collect.guava` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.collect.guava:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.collect.jdk10` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.collect.jdk10:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.collect.jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.collect.jdk8:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.misc.jdk11` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.misc.jdk11:0.1.1`
+- :dvd: `pl.tlinkowski.unij.service.misc.jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.misc.jdk8:0.1.1`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
 - :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.1.0`
