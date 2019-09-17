@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5077 Java modules published at Maven Central
+Counted 5084 Java modules published at Maven Central
 
-## Summary 2019-09-16T23:20:03.643964Z
+## Summary 2019-09-17T23:21:02.505100Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-16T23:20:03.643964Z
-Scanned 32,047 files in 4 seconds.
+Started scan at 2019-09-17T23:21:02.505100Z
+Scanned 32,126 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_16_22_55_57.csv
+    last -> modulescanner-report-2019_09_17_22_59_14.csv
 
-Parsed 2,008,037 lines in total.
-  35,860 -> captions skipped
-  134,494 -> duplicates skipped
-  83,131 -> module related
+Parsed 2,015,066 lines in total.
+  35,939 -> captions skipped
+  134,805 -> duplicates skipped
+  83,808 -> module related
 
-Collected 5,077 unique modules.
-  automatic :cd: -> 3,752
-  explicit :dvd: -> 1,325
+Collected 5,084 unique modules.
+  automatic :cd: -> 3,728
+  explicit :dvd: -> 1,356
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7755](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11794](suspicious/naming.md)
-- Modular impostors: [4372](suspicious/impostors.md)
+- Invalid module names: [7809](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11800](suspicious/naming.md)
+- Modular impostors: [4390](suspicious/impostors.md)
 
-## Unique Modules (5077)
+## Unique Modules (5084)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -155,6 +155,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.6`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
+- :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.0`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
@@ -209,22 +210,50 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
-- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.4`
-- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.4`
-- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.4`
-- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.4`
-- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.4`
-- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.4`
-- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.4`
-- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.4`
-- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.4`
-- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.4`
-- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.4`
-- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.4`
-- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.4`
-- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.4`
-- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.4`
-- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.4`
+- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.5`
+- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.5`
+- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.5`
+- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.5`
+- :dvd: `com.almasb.fxgl.cutscene` :left_right_arrow: `com.github.almasb:fxgl-cutscene:11.5`
+- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.5`
+- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.5`
+- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.5`
+- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.5`
+- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.5`
+- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.5`
+- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.5`
+- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.5`
+- :dvd: `com.almasb.fxgl.scene` :left_right_arrow: `com.github.almasb:fxgl-scene:11.5`
+- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.5`
+- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.5`
+- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.5`
+- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.5`
+- :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.5`
+- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha2`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.6.4`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
@@ -238,40 +267,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
-- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.0.pr2`
-- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr2`
+- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr3`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
@@ -326,7 +355,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphics.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
 - :dvd: `com.googlecode.blaisemath.graphtheory` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
-- :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.8`
+- :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.9`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.9.14`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.9.14`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.9.14`
@@ -645,8 +674,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.1`
-- :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.8`
-- :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.8`
+- :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.9`
+- :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.9`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.4.0-b180830.0438`
 - :dvd: `com.sun.xml.dtdparser` :left_right_arrow: `com.sun.xml.dtd-parser:dtd-parser:1.4.1`
 - :dvd: `com.sun.xml.fastinfoset` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfoset:1.2.16`
@@ -696,7 +725,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.9`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.10`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -1351,6 +1380,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `pl.tlinkowski.unij.service.collect.jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.collect.jdk8:0.1.1`
 - :dvd: `pl.tlinkowski.unij.service.misc.jdk11` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.misc.jdk11:0.1.1`
 - :dvd: `pl.tlinkowski.unij.service.misc.jdk8` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.service.misc.jdk8:0.1.1`
+- :dvd: `pw.krejci.log4j2.calldepth` :left_right_arrow: `pw.krejci:calldepth-log4j2-plugin:0.1.0`
+- :dvd: `pw.krejci.log4j2.tracedepth` :left_right_arrow: `pw.krejci:tracedepth-log4j2-plugin:0.1.0`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
 - :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.1.0`
