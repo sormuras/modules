@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5084 Java modules published at Maven Central
+Counted 5086 Java modules published at Maven Central
 
-## Summary 2019-09-17T23:21:02.505100Z
+## Summary 2019-09-18T23:21:22.341273Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-17T23:21:02.505100Z
-Scanned 32,126 files in 4 seconds.
+Started scan at 2019-09-18T23:21:22.341273Z
+Scanned 32,198 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_17_22_59_14.csv
+    last -> modulescanner-report-2019_09_18_22_52_45.csv
 
-Parsed 2,015,066 lines in total.
-  35,939 -> captions skipped
-  134,805 -> duplicates skipped
-  83,808 -> module related
+Parsed 2,024,151 lines in total.
+  36,011 -> captions skipped
+  135,580 -> duplicates skipped
+  84,276 -> module related
 
-Collected 5,084 unique modules.
-  automatic :cd: -> 3,728
+Collected 5,086 unique modules.
+  automatic :cd: -> 3,730
   explicit :dvd: -> 1,356
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7809](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11800](suspicious/naming.md)
-- Modular impostors: [4390](suspicious/impostors.md)
+- Invalid module names: [7810](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11982](suspicious/naming.md)
+- Modular impostors: [4393](suspicious/impostors.md)
 
-## Unique Modules (5084)
+## Unique Modules (5086)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -725,7 +725,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.10`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.13`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -1016,11 +1016,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.2`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.beryx:awt-color-factory:1.0.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.2.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.2.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.2.1`
-- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.1`
+- :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.2`
+- :dvd: `org.bitbucket.cowwoc.requirements.generator` :left_right_arrow: `org.bitbucket.cowwoc.requirements:code_generator:5.2.2`
+- :dvd: `org.bitbucket.cowwoc.requirements.guava` :left_right_arrow: `org.bitbucket.cowwoc.requirements:guava:5.2.2`
+- :dvd: `org.bitbucket.cowwoc.requirements.java` :left_right_arrow: `org.bitbucket.cowwoc.requirements:java:5.2.2`
+- :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.2`
 - :dvd: `org.bouncycastle.fips.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` :left_right_arrow: `org.bouncycastle:bctls-fips:1.0.9`
 - :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.63`
