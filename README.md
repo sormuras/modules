@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5086 Java modules published at Maven Central
+Counted 5093 Java modules published at Maven Central
 
-## Summary 2019-09-18T23:21:22.341273Z
+## Summary 2019-09-19T23:22:02.290859Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-18T23:21:22.341273Z
-Scanned 32,198 files in 4 seconds.
+Started scan at 2019-09-19T23:22:02.290859Z
+Scanned 32,273 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_18_22_52_45.csv
+    last -> modulescanner-report-2019_09_19_22_55_07.csv
 
-Parsed 2,024,151 lines in total.
-  36,011 -> captions skipped
-  135,580 -> duplicates skipped
-  84,276 -> module related
+Parsed 2,032,149 lines in total.
+  36,086 -> captions skipped
+  135,611 -> duplicates skipped
+  84,300 -> module related
 
-Collected 5,086 unique modules.
-  automatic :cd: -> 3,730
-  explicit :dvd: -> 1,356
+Collected 5,093 unique modules.
+  automatic :cd: -> 3,735
+  explicit :dvd: -> 1,358
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [7810](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11982](suspicious/naming.md)
-- Modular impostors: [4393](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11990](suspicious/naming.md)
+- Modular impostors: [4394](suspicious/impostors.md)
 
-## Unique Modules (5086)
+## Unique Modules (5093)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -155,7 +155,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.6`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
-- :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.0`
+- :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.1`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
@@ -349,13 +349,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.8`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.3`
+- :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.7`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
-- :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.9`
+- :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.10`
 - :dvd: `com.googlecode.blaisemath.graphics.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
 - :dvd: `com.googlecode.blaisemath.graphtheory` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.9`
+- :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.9.14`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.9.14`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.9.14`
