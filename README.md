@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5093 Java modules published at Maven Central
+Counted 5099 Java modules published at Maven Central
 
-## Summary 2019-09-19T23:22:02.290859Z
+## Summary 2019-09-20T23:22:48.544130Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-19T23:22:02.290859Z
-Scanned 32,273 files in 4 seconds.
+Started scan at 2019-09-20T23:22:48.544130Z
+Scanned 32,343 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_19_22_55_07.csv
+    last -> modulescanner-report-2019_09_20_22_59_15.csv
 
-Parsed 2,032,149 lines in total.
-  36,086 -> captions skipped
-  135,611 -> duplicates skipped
-  84,300 -> module related
+Parsed 2,038,369 lines in total.
+  36,150 -> captions skipped
+  136,332 -> duplicates skipped
+  84,686 -> module related
 
-Collected 5,093 unique modules.
-  automatic :cd: -> 3,735
-  explicit :dvd: -> 1,358
+Collected 5,099 unique modules.
+  automatic :cd: -> 3,739
+  explicit :dvd: -> 1,360
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7810](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [11990](suspicious/naming.md)
-- Modular impostors: [4394](suspicious/impostors.md)
+- Invalid module names: [7856](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12036](suspicious/naming.md)
+- Modular impostors: [4402](suspicious/impostors.md)
 
-## Unique Modules (5093)
+## Unique Modules (5099)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -679,8 +679,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.9`
 - :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.9`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.4.0-b180830.0438`
-- :dvd: `com.sun.xml.dtdparser` :left_right_arrow: `com.sun.xml.dtd-parser:dtd-parser:1.4.1`
-- :dvd: `com.sun.xml.fastinfoset` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfoset:1.2.16`
+- :dvd: `com.sun.xml.dtdparser` :left_right_arrow: `com.sun.xml.dtd-parser:dtd-parser:1.4.2`
+- :dvd: `com.sun.xml.fastinfoset` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfoset:1.2.17`
+- :dvd: `com.sun.xml.fastinfoset.rtt` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.17`
+- :dvd: `com.sun.xml.fastinfoset.utilities` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.17`
 - :dvd: `com.sun.xml.messaging.saaj` :left_right_arrow: `com.sun.xml.messaging.saaj:saaj-impl:1.5.1`
 - :dvd: `com.sun.xml.ws` :left_right_arrow: `com.sun.xml.ws:rt:2.3.2`
 - :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
@@ -723,8 +725,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
-- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.0.5`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.0.5`
+- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.2`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.2`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
 - :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.13`
@@ -1215,7 +1217,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.2`
 - :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.2`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.11`
-- :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.1`
+- :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.2`
 - :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
 - :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.4`
 - :dvd: `org.kordamp.ikonli.elusive` :left_right_arrow: `org.kordamp.ikonli:ikonli-elusive-pack:11.3.4`

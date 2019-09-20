@@ -3139,6 +3139,7 @@
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.wso2.msf4j:petstore-txn:2.7.0` // `org.wso2.msf4j,petstore-txn,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.joinesty:nullafi-java-sdk:1.0.1` // `com.joinesty,nullafi-java-sdk,1.0.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.joinesty:nullafi-java-sdk:1.0.3` // `com.joinesty,nullafi-java-sdk,1.0.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.92.0` // `com.linecorp.armeria,armeria,0.92.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -3489,6 +3490,7 @@
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.jbpm.contrib:karaf-itests:7.26.0.Final` // `org.jbpm.contrib,karaf-itests,7.26.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.15.0.Final` // `org.kie,business-central-home-page-community,7.15.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.16.0.Final` // `org.kie,business-central-home-page-community,7.16.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.17.0.Final` // `org.kie,business-central-home-page-community,7.17.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
@@ -3621,6 +3623,7 @@
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct-jdk8:1.3.0.Beta1` // `org.mapstruct,mapstruct-jdk8,1.3.0.Beta1,org.mapstruct,-,automatic,-,false,-`
 - :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-open-location-code:0.4` // `org.meeuw.i18n,i18n-regions-open-location-code,0.4,org.meeuw.i18n.continents,0.4,explicit,java.annotation + java.base + java.logging + java.validation + openlocationcode + org.checkerframework.checker.qual + org.meeuw.i18n,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.1` // `org.neo4j,neo4j-data-collector,3.5.1,org.neo4j.common,-,automatic,-,false,-`
+- :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.10` // `org.neo4j,neo4j-data-collector,3.5.10,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.2` // `org.neo4j,neo4j-data-collector,3.5.2,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.3` // `org.neo4j,neo4j-data-collector,3.5.3,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` :left_right_arrow: `org.neo4j:neo4j-data-collector:3.5.4` // `org.neo4j,neo4j-data-collector,3.5.4,org.neo4j.common,-,automatic,-,false,-`
@@ -3635,6 +3638,7 @@
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.0-beta02` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.0-beta02,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.0-beta03` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.0-beta03,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.1` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.1,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.10` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.10,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.2` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.3` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.3,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.4` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.4,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
@@ -3647,6 +3651,7 @@
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.0-beta02` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.0-beta02,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.0-beta03` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.0-beta03,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.1` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.1,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.10` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.10,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.2` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.3` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.3,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-compatibility-spec-suite:3.5.4` // `org.neo4j,neo4j-cypher-compatibility-spec-suite,3.5.4,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
@@ -3659,6 +3664,7 @@
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.0-beta02` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.0-beta02,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.0-beta03` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.0-beta03,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.1` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.1,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.10` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.10,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.2` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.3` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.3,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` :left_right_arrow: `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.4` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.4,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
@@ -3675,6 +3681,7 @@
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.0-beta02` // `org.neo4j,neo4j-procedure-api,3.5.0-beta02,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.0-beta03` // `org.neo4j,neo4j-procedure-api,3.5.0-beta03,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.1` // `org.neo4j,neo4j-procedure-api,3.5.1,org.neo4j.graphdb,-,automatic,-,false,-`
+- :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.10` // `org.neo4j,neo4j-procedure-api,3.5.10,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.2` // `org.neo4j,neo4j-procedure-api,3.5.2,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.3` // `org.neo4j,neo4j-procedure-api,3.5.3,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` :left_right_arrow: `org.neo4j:neo4j-procedure-api:3.5.4` // `org.neo4j,neo4j-procedure-api,3.5.4,org.neo4j.graphdb,-,automatic,-,false,-`
@@ -3686,6 +3693,7 @@
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.0` // `org.neo4j,neo4j-fulltext-index,3.5.0,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.0-beta03` // `org.neo4j,neo4j-fulltext-index,3.5.0-beta03,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.1` // `org.neo4j,neo4j-fulltext-index,3.5.1,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.10` // `org.neo4j,neo4j-fulltext-index,3.5.10,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.2` // `org.neo4j,neo4j-fulltext-index,3.5.2,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.3` // `org.neo4j,neo4j-fulltext-index,3.5.3,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` :left_right_arrow: `org.neo4j:neo4j-fulltext-index:3.5.4` // `org.neo4j,neo4j-fulltext-index,3.5.4,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
