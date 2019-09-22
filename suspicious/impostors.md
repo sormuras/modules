@@ -4142,6 +4142,7 @@
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.42` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.42,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.43` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.43,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.45` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.45,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.46` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.46,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
@@ -4149,6 +4150,7 @@
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.21` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.21,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.22` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.22,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.24` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.24,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.26` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.26,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.github.origin-energy:java-snapshot-testing-junit4:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit4,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `io.github.origin-energy:java-snapshot-testing-junit5:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit5,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`

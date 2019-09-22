@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5099 Java modules published at Maven Central
+Counted 5105 Java modules published at Maven Central
 
-## Summary 2019-09-21T23:23:03.929607Z
+## Summary 2019-09-22T23:23:56.351681Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-21T23:23:03.929607Z
-Scanned 32,427 files in 5 seconds.
+Started scan at 2019-09-22T23:23:56.351681Z
+Scanned 32,504 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_21_22_58_55.csv
+    last -> modulescanner-report-2019_09_22_22_57_04.csv
 
-Parsed 2,042,479 lines in total.
-  36,234 -> captions skipped
-  136,815 -> duplicates skipped
-  84,912 -> module related
+Parsed 2,047,310 lines in total.
+  36,311 -> captions skipped
+  138,272 -> duplicates skipped
+  84,966 -> module related
 
-Collected 5,099 unique modules.
+Collected 5,105 unique modules.
   automatic :cd: -> 3,739
-  explicit :dvd: -> 1,360
+  explicit :dvd: -> 1,366
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [7856](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12049](suspicious/naming.md)
-- Modular impostors: [4402](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12072](suspicious/naming.md)
+- Modular impostors: [4404](suspicious/impostors.md)
 
-## Unique Modules (5099)
+## Unique Modules (5105)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -729,6 +729,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.2`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
+- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.13`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
