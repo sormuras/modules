@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5105 Java modules published at Maven Central
+Counted 5107 Java modules published at Maven Central
 
-## Summary 2019-09-22T23:23:56.351681Z
+## Summary 2019-09-23T23:23:57.315792Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-22T23:23:56.351681Z
-Scanned 32,504 files in 4 seconds.
+Started scan at 2019-09-23T23:23:57.315792Z
+Scanned 32,581 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_22_22_57_04.csv
+    last -> modulescanner-report-2019_09_23_23_02_28.csv
 
-Parsed 2,047,310 lines in total.
-  36,311 -> captions skipped
-  138,272 -> duplicates skipped
-  84,966 -> module related
+Parsed 2,053,706 lines in total.
+  36,385 -> captions skipped
+  138,649 -> duplicates skipped
+  85,277 -> module related
 
-Collected 5,105 unique modules.
+Collected 5,107 unique modules.
   automatic :cd: -> 3,739
-  explicit :dvd: -> 1,366
+  explicit :dvd: -> 1,368
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7856](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12072](suspicious/naming.md)
-- Modular impostors: [4404](suspicious/impostors.md)
+- Invalid module names: [7873](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12082](suspicious/naming.md)
+- Modular impostors: [4417](suspicious/impostors.md)
 
-## Unique Modules (5105)
+## Unique Modules (5107)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -329,15 +329,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0-beta-1`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0-beta-1`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0-cr-1`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0-beta-1`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0-beta-1`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0-beta-1`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0-cr-1`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -688,7 +688,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
 - :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.2`
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.6`
+- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.7`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.4`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.4`
@@ -725,8 +725,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
-- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.2`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.2`
+- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.3`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.3`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.1.0`
@@ -939,6 +939,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.menu` :left_right_arrow: `org.jfxtras:jfxtras-menu:10.0-r1`
 - :dvd: `jfxtras.window` :left_right_arrow: `org.jfxtras:jfxtras-window:10.0-r1`
 - :dvd: `kz.btsd.bot.botsdk` :left_right_arrow: `kz.btsd:bot-sdk:1.0.0`
+- :dvd: `kz.btsd.bot.scenario.sdk` :left_right_arrow: `kz.btsd:bot-scenario-sdk:1.0.0`
 - :dvd: `moe.tristan.easyfxml` :left_right_arrow: `moe.tristan:easyfxml:3.3.0`
 - :dvd: `moe.tristan.easyfxml.fxkit` :left_right_arrow: `moe.tristan:easyfxml-fxkit:3.3.0`
 - :dvd: `moe.tristan.easyfxml.junit` :left_right_arrow: `moe.tristan:easyfxml-junit:3.3.0`
@@ -978,7 +979,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `nl.talsmasoftware.reflection` :left_right_arrow: `nl.talsmasoftware:reflection:1.0.1`
 - :dvd: `nl.ulso.sprox` :left_right_arrow: `nl.ulso.sprox:sprox:4.0.0`
 - :dvd: `no.ssb.concurrent.futureselector` :left_right_arrow: `no.ssb.concurrent.futureselector:future-selector:0.2`
-- :dvd: `no.ssb.lds.core` :left_right_arrow: `no.ssb.lds:linked-data-store-core:0.14`
+- :dvd: `no.ssb.lds.core` :left_right_arrow: `no.ssb.lds:linked-data-store-core:0.16`
 - :dvd: `no.ssb.lds.persistence.api` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-api:0.13`
 - :dvd: `no.ssb.lds.persistence.foundationdb` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-foundationdb:0.8`
 - :dvd: `no.ssb.lds.persistence.memory` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-memory:0.8`
@@ -988,7 +989,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.19`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
-- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.4`
+- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.7`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -998,6 +999,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.saga.execution` :left_right_arrow: `no.ssb.saga:distributed-saga-execution:0.8`
 - :dvd: `no.ssb.sagalog` :left_right_arrow: `no.ssb.saga:sagalog-api:0.5`
 - :dvd: `no.ssb.sagalog.file` :left_right_arrow: `no.ssb.saga:sagalog-file:0.5`
+- :dvd: `no.ssb.sagalog.postgres` :left_right_arrow: `no.ssb.saga:sagalog-postgres:0.5`
 - :dvd: `no.ssb.sagalog.pulsar` :left_right_arrow: `no.ssb.saga:sagalog-pulsar:0.1`
 - :dvd: `org.apache.commons.rng.examples.jpms.app` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-app:1.2`
 - :dvd: `org.apache.commons.rng.examples.jpms.lib` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-lib:1.2`
