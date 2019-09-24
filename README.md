@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5107 Java modules published at Maven Central
+Counted 5111 Java modules published at Maven Central
 
-## Summary 2019-09-23T23:23:57.315792Z
+## Summary 2019-09-24T23:24:20.628119Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-23T23:23:57.315792Z
-Scanned 32,581 files in 4 seconds.
+Started scan at 2019-09-24T23:24:20.628119Z
+Scanned 32,654 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_23_23_02_28.csv
+    last -> modulescanner-report-2019_09_24_22_57_13.csv
 
-Parsed 2,053,706 lines in total.
-  36,385 -> captions skipped
-  138,649 -> duplicates skipped
-  85,277 -> module related
+Parsed 2,060,812 lines in total.
+  36,458 -> captions skipped
+  139,099 -> duplicates skipped
+  86,229 -> module related
 
-Collected 5,107 unique modules.
-  automatic :cd: -> 3,739
+Collected 5,111 unique modules.
+  automatic :cd: -> 3,743
   explicit :dvd: -> 1,368
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [7873](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12082](suspicious/naming.md)
-- Modular impostors: [4417](suspicious/impostors.md)
+- Invalid module names: [8140](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12270](suspicious/naming.md)
+- Modular impostors: [4433](suspicious/impostors.md)
 
-## Unique Modules (5107)
+## Unique Modules (5111)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
