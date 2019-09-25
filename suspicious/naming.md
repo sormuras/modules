@@ -3480,7 +3480,9 @@
 - :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `com.jwebmp.jre11.jackson.core:jackson-databind:0.63.0.19` // `com.jwebmp.jre11.jackson.core,jackson-databind,0.63.0.19,com.fasterxml.jackson.databind,-,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
 - :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `io.github.delirius325:jmeter.backendlistener.elasticsearch:2.6.8` // `io.github.delirius325,jmeter.backendlistener.elasticsearch,2.6.8,com.fasterxml.jackson.databind,2.10.0.pr1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
 - :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `org.jboss.gm.analyzer:analyzer:1.1` // `org.jboss.gm.analyzer,analyzer,1.1,com.fasterxml.jackson.databind,2.10.0.pr1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
+- :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `org.jboss.gm.analyzer:analyzer:1.2` // `org.jboss.gm.analyzer,analyzer,1.2,com.fasterxml.jackson.databind,2.10.0.pr1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
 - :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `org.jboss.gm.manipulation:manipulation:1.1` // `org.jboss.gm.manipulation,manipulation,1.1,com.fasterxml.jackson.databind,2.10.0.pr1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
+- :dvd: `com.fasterxml.jackson.databind` :left_right_arrow: `org.jboss.gm.manipulation:manipulation:1.2` // `org.jboss.gm.manipulation,manipulation,1.2,com.fasterxml.jackson.databind,2.10.0.pr1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + java.base + java.desktop + java.logging + java.sql + java.xml,false,-`
 - :cd: `com.fasterxml.sort` :left_right_arrow: `com.fasterxml.util:java-merge-sort:1.0.2` // `com.fasterxml.util,java-merge-sort,1.0.2,com.fasterxml.sort,-,automatic,-,false,-`
 - :cd: `com.github.cyclophone` :left_right_arrow: `com.github.h908714124:cyclophone:0.1` // `com.github.h908714124,cyclophone,0.1,com.github.cyclophone,-,automatic,-,false,-`
 - :cd: `com.github.cyclophone` :left_right_arrow: `com.github.h908714124:cyclophone:0.1.1` // `com.github.h908714124,cyclophone,0.1.1,com.github.cyclophone,-,automatic,-,false,-`
@@ -3871,6 +3873,8 @@
 - :cd: `com.google.api.services.firebase` :left_right_arrow: `com.google.apis:google-api-services-firebase:v1beta1-rev20190703-1.30.1` // `com.google.apis,google-api-services-firebase,v1beta1-rev20190703-1.30.1,com.google.api.services.firebase,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebase` :left_right_arrow: `com.google.apis:google-api-services-firebase:v1beta1-rev20190730-1.30.1` // `com.google.apis,google-api-services-firebase,v1beta1-rev20190730-1.30.1,com.google.api.services.firebase,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebase` :left_right_arrow: `com.google.apis:google-api-services-firebase:v1beta1-rev20190807-1.30.1` // `com.google.apis,google-api-services-firebase,v1beta1-rev20190807-1.30.1,com.google.api.services.firebase,-,automatic,-,false,-`
+- :cd: `com.google.api.services.firebase` :left_right_arrow: `com.google.apis:google-api-services-firebase:v1beta1-rev20190920-1.28.0` // `com.google.apis,google-api-services-firebase,v1beta1-rev20190920-1.28.0,com.google.api.services.firebase,-,automatic,-,false,-`
+- :cd: `com.google.api.services.firebase` :left_right_arrow: `com.google.apis:google-api-services-firebase:v1beta1-rev20190920-1.30.3` // `com.google.apis,google-api-services-firebase,v1beta1-rev20190920-1.30.3,com.google.api.services.firebase,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebasedynamiclinks` :left_right_arrow: `com.google.apis:google-api-services-firebasedynamiclinks:v1-rev20190425-1.30.1` // `com.google.apis,google-api-services-firebasedynamiclinks,v1-rev20190425-1.30.1,com.google.api.services.firebasedynamiclinks,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebasehosting` :left_right_arrow: `com.google.apis:google-api-services-firebasehosting:v1beta1-rev20190418-1.30.1` // `com.google.apis,google-api-services-firebasehosting,v1beta1-rev20190418-1.30.1,com.google.api.services.firebasehosting,-,automatic,-,false,-`
 - :cd: `com.google.api.services.firebasehosting` :left_right_arrow: `com.google.apis:google-api-services-firebasehosting:v1beta1-rev20190801-1.30.1` // `com.google.apis,google-api-services-firebasehosting,v1beta1-rev20190801-1.30.1,com.google.api.services.firebasehosting,-,automatic,-,false,-`
@@ -3882,6 +3886,7 @@
 - :cd: `com.google.api.services.firestore` :left_right_arrow: `com.google.apis:google-api-services-firestore:v1-rev20190804-1.30.1` // `com.google.apis,google-api-services-firestore,v1-rev20190804-1.30.1,com.google.api.services.firestore,-,automatic,-,false,-`
 - :cd: `com.google.api.services.fitness` :left_right_arrow: `com.google.apis:google-api-services-fitness:v1-rev20190408-1.30.1` // `com.google.apis,google-api-services-fitness,v1-rev20190408-1.30.1,com.google.api.services.fitness,-,automatic,-,false,-`
 - :cd: `com.google.api.services.fitness` :left_right_arrow: `com.google.apis:google-api-services-fitness:v1-rev20190627-1.30.1` // `com.google.apis,google-api-services-fitness,v1-rev20190627-1.30.1,com.google.api.services.fitness,-,automatic,-,false,-`
+- :cd: `com.google.api.services.fitness` :left_right_arrow: `com.google.apis:google-api-services-fitness:v1-rev20190910-1.29.2` // `com.google.apis,google-api-services-fitness,v1-rev20190910-1.29.2,com.google.api.services.fitness,-,automatic,-,false,-`
 - :cd: `com.google.api.services.fusiontables` :left_right_arrow: `com.google.apis:google-api-services-fusiontables:v2-rev20171117-1.30.1` // `com.google.apis,google-api-services-fusiontables,v2-rev20171117-1.30.1,com.google.api.services.fusiontables,-,automatic,-,false,-`
 - :cd: `com.google.api.services.games` :left_right_arrow: `com.google.apis:google-api-services-games:v1-rev20190516-1.30.1` // `com.google.apis,google-api-services-games,v1-rev20190516-1.30.1,com.google.api.services.games,-,automatic,-,false,-`
 - :cd: `com.google.api.services.games` :left_right_arrow: `com.google.apis:google-api-services-games:v1-rev20190725-1.29.2` // `com.google.apis,google-api-services-games,v1-rev20190725-1.29.2,com.google.api.services.games,-,automatic,-,false,-`
@@ -3989,8 +3994,10 @@
 - :cd: `com.google.api.services.remotebuildexecution` :left_right_arrow: `com.google.apis:google-api-services-remotebuildexecution:v2-rev20190618-1.30.1` // `com.google.apis,google-api-services-remotebuildexecution,v2-rev20190618-1.30.1,com.google.api.services.remotebuildexecution,-,automatic,-,false,-`
 - :cd: `com.google.api.services.remotebuildexecution` :left_right_arrow: `com.google.apis:google-api-services-remotebuildexecution:v2-rev20190723-1.30.1` // `com.google.apis,google-api-services-remotebuildexecution,v2-rev20190723-1.30.1,com.google.api.services.remotebuildexecution,-,automatic,-,false,-`
 - :cd: `com.google.api.services.remotebuildexecution` :left_right_arrow: `com.google.apis:google-api-services-remotebuildexecution:v2-rev20190731-1.30.1` // `com.google.apis,google-api-services-remotebuildexecution,v2-rev20190731-1.30.1,com.google.api.services.remotebuildexecution,-,automatic,-,false,-`
+- :cd: `com.google.api.services.remotebuildexecution` :left_right_arrow: `com.google.apis:google-api-services-remotebuildexecution:v2-rev20190917-1.30.3` // `com.google.apis,google-api-services-remotebuildexecution,v2-rev20190917-1.30.3,com.google.api.services.remotebuildexecution,-,automatic,-,false,-`
 - :cd: `com.google.api.services.run` :left_right_arrow: `com.google.apis:google-api-services-run:v1-rev20190329-1.30.1` // `com.google.apis,google-api-services-run,v1-rev20190329-1.30.1,com.google.api.services.run,-,automatic,-,false,-`
 - :cd: `com.google.api.services.run` :left_right_arrow: `com.google.apis:google-api-services-run:v1-rev20190809-1.30.1` // `com.google.apis,google-api-services-run,v1-rev20190809-1.30.1,com.google.api.services.run,-,automatic,-,false,-`
+- :cd: `com.google.api.services.run` :left_right_arrow: `com.google.apis:google-api-services-run:v1-rev20190911-1.30.3` // `com.google.apis,google-api-services-run,v1-rev20190911-1.30.3,com.google.api.services.run,-,automatic,-,false,-`
 - :cd: `com.google.api.services.runtimeconfig` :left_right_arrow: `com.google.apis:google-api-services-runtimeconfig:v1-rev20190603-1.30.1` // `com.google.apis,google-api-services-runtimeconfig,v1-rev20190603-1.30.1,com.google.api.services.runtimeconfig,-,automatic,-,false,-`
 - :cd: `com.google.api.services.safebrowsing` :left_right_arrow: `com.google.apis:google-api-services-safebrowsing:v4-rev20190520-1.30.1` // `com.google.apis,google-api-services-safebrowsing,v4-rev20190520-1.30.1,com.google.api.services.safebrowsing,-,automatic,-,false,-`
 - :cd: `com.google.api.services.script` :left_right_arrow: `com.google.apis:google-api-services-script:v1-rev20190509-1.30.1` // `com.google.apis,google-api-services-script,v1-rev20190509-1.30.1,com.google.api.services.script,-,automatic,-,false,-`
@@ -4003,6 +4010,7 @@
 - :cd: `com.google.api.services.securitycenter` :left_right_arrow: `com.google.apis:google-api-services-securitycenter:v1-rev20190802-1.30.1` // `com.google.apis,google-api-services-securitycenter,v1-rev20190802-1.30.1,com.google.api.services.securitycenter,-,automatic,-,false,-`
 - :cd: `com.google.api.services.securitycenter` :left_right_arrow: `com.google.apis:google-api-services-securitycenter:v1-rev20190810-1.30.1` // `com.google.apis,google-api-services-securitycenter,v1-rev20190810-1.30.1,com.google.api.services.securitycenter,-,automatic,-,false,-`
 - :cd: `com.google.api.services.securitycenter` :left_right_arrow: `com.google.apis:google-api-services-securitycenter:v1-rev20190906-1.30.3` // `com.google.apis,google-api-services-securitycenter,v1-rev20190906-1.30.3,com.google.api.services.securitycenter,-,automatic,-,false,-`
+- :cd: `com.google.api.services.securitycenter` :left_right_arrow: `com.google.apis:google-api-services-securitycenter:v1-rev20190913-1.30.3` // `com.google.apis,google-api-services-securitycenter,v1-rev20190913-1.30.3,com.google.api.services.securitycenter,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicebroker` :left_right_arrow: `com.google.apis:google-api-services-servicebroker:v1-rev20190415-1.30.1` // `com.google.apis,google-api-services-servicebroker,v1-rev20190415-1.30.1,com.google.api.services.servicebroker,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicebroker` :left_right_arrow: `com.google.apis:google-api-services-servicebroker:v1-rev20190708-1.30.1` // `com.google.apis,google-api-services-servicebroker,v1-rev20190708-1.30.1,com.google.api.services.servicebroker,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicebroker` :left_right_arrow: `com.google.apis:google-api-services-servicebroker:v1-rev20190802-1.30.1` // `com.google.apis,google-api-services-servicebroker,v1-rev20190802-1.30.1,com.google.api.services.servicebroker,-,automatic,-,false,-`
@@ -4011,6 +4019,7 @@
 - :cd: `com.google.api.services.serviceconsumermanagement` :left_right_arrow: `com.google.apis:google-api-services-serviceconsumermanagement:v1-rev20190708-1.30.1` // `com.google.apis,google-api-services-serviceconsumermanagement,v1-rev20190708-1.30.1,com.google.api.services.serviceconsumermanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceconsumermanagement` :left_right_arrow: `com.google.apis:google-api-services-serviceconsumermanagement:v1-rev20190806-1.30.1` // `com.google.apis,google-api-services-serviceconsumermanagement,v1-rev20190806-1.30.1,com.google.api.services.serviceconsumermanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceconsumermanagement` :left_right_arrow: `com.google.apis:google-api-services-serviceconsumermanagement:v1-rev20190907-1.30.1` // `com.google.apis,google-api-services-serviceconsumermanagement,v1-rev20190907-1.30.1,com.google.api.services.serviceconsumermanagement,-,automatic,-,false,-`
+- :cd: `com.google.api.services.serviceconsumermanagement` :left_right_arrow: `com.google.apis:google-api-services-serviceconsumermanagement:v1-rev20190920-1.30.3` // `com.google.apis,google-api-services-serviceconsumermanagement,v1-rev20190920-1.30.3,com.google.api.services.serviceconsumermanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicecontrol` :left_right_arrow: `com.google.apis:google-api-services-servicecontrol:v1-rev20190618-1.30.1` // `com.google.apis,google-api-services-servicecontrol,v1-rev20190618-1.30.1,com.google.api.services.servicecontrol,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicecontrol` :left_right_arrow: `com.google.apis:google-api-services-servicecontrol:v1-rev20190804-1.30.1` // `com.google.apis,google-api-services-servicecontrol,v1-rev20190804-1.30.1,com.google.api.services.servicecontrol,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicecontrol` :left_right_arrow: `com.google.apis:google-api-services-servicecontrol:v1-rev20190810-1.30.1` // `com.google.apis,google-api-services-servicecontrol,v1-rev20190810-1.30.1,com.google.api.services.servicecontrol,-,automatic,-,false,-`
@@ -4022,10 +4031,12 @@
 - :cd: `com.google.api.services.servicemanagement` :left_right_arrow: `com.google.apis:google-api-services-servicemanagement:v1-rev20190805-1.30.1` // `com.google.apis,google-api-services-servicemanagement,v1-rev20190805-1.30.1,com.google.api.services.servicemanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicemanagement` :left_right_arrow: `com.google.apis:google-api-services-servicemanagement:v1-rev20190809-1.30.1` // `com.google.apis,google-api-services-servicemanagement,v1-rev20190809-1.30.1,com.google.api.services.servicemanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicemanagement` :left_right_arrow: `com.google.apis:google-api-services-servicemanagement:v1-rev20190903-1.30.1` // `com.google.apis,google-api-services-servicemanagement,v1-rev20190903-1.30.1,com.google.api.services.servicemanagement,-,automatic,-,false,-`
+- :cd: `com.google.api.services.servicemanagement` :left_right_arrow: `com.google.apis:google-api-services-servicemanagement:v1-rev20190914-1.30.3` // `com.google.apis,google-api-services-servicemanagement,v1-rev20190914-1.30.3,com.google.api.services.servicemanagement,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicenetworking` :left_right_arrow: `com.google.apis:google-api-services-servicenetworking:v1-rev20190607-1.30.1` // `com.google.apis,google-api-services-servicenetworking,v1-rev20190607-1.30.1,com.google.api.services.servicenetworking,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicenetworking` :left_right_arrow: `com.google.apis:google-api-services-servicenetworking:v1-rev20190708-1.30.1` // `com.google.apis,google-api-services-servicenetworking,v1-rev20190708-1.30.1,com.google.api.services.servicenetworking,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicenetworking` :left_right_arrow: `com.google.apis:google-api-services-servicenetworking:v1-rev20190907-1.28.0` // `com.google.apis,google-api-services-servicenetworking,v1-rev20190907-1.28.0,com.google.api.services.servicenetworking,-,automatic,-,false,-`
 - :cd: `com.google.api.services.servicenetworking` :left_right_arrow: `com.google.apis:google-api-services-servicenetworking:v1-rev20190907-1.30.1` // `com.google.apis,google-api-services-servicenetworking,v1-rev20190907-1.30.1,com.google.api.services.servicenetworking,-,automatic,-,false,-`
+- :cd: `com.google.api.services.servicenetworking` :left_right_arrow: `com.google.apis:google-api-services-servicenetworking:v1-rev20190922-1.30.3` // `com.google.apis,google-api-services-servicenetworking,v1-rev20190922-1.30.3,com.google.api.services.servicenetworking,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190607-1.30.1` // `com.google.apis,google-api-services-serviceusage,v1-rev20190607-1.30.1,com.google.api.services.serviceusage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190708-1.28.0` // `com.google.apis,google-api-services-serviceusage,v1-rev20190708-1.28.0,com.google.api.services.serviceusage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190708-1.30.1` // `com.google.apis,google-api-services-serviceusage,v1-rev20190708-1.30.1,com.google.api.services.serviceusage,-,automatic,-,false,-`
@@ -4034,6 +4045,7 @@
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190829-1.30.1` // `com.google.apis,google-api-services-serviceusage,v1-rev20190829-1.30.1,com.google.api.services.serviceusage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190907-1.30.1` // `com.google.apis,google-api-services-serviceusage,v1-rev20190907-1.30.1,com.google.api.services.serviceusage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190911-1.30.3` // `com.google.apis,google-api-services-serviceusage,v1-rev20190911-1.30.3,com.google.api.services.serviceusage,-,automatic,-,false,-`
+- :cd: `com.google.api.services.serviceusage` :left_right_arrow: `com.google.apis:google-api-services-serviceusage:v1-rev20190921-1.30.3` // `com.google.apis,google-api-services-serviceusage,v1-rev20190921-1.30.3,com.google.api.services.serviceusage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190508-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190508-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190708-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190708-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sheets` :left_right_arrow: `com.google.apis:google-api-services-sheets:v4-rev20190715-1.30.1` // `com.google.apis,google-api-services-sheets,v4-rev20190715-1.30.1,com.google.api.services.sheets,-,automatic,-,false,-`
@@ -4049,15 +4061,18 @@
 - :cd: `com.google.api.services.sourcerepo` :left_right_arrow: `com.google.apis:google-api-services-sourcerepo:v1-rev20190611-1.30.1` // `com.google.apis,google-api-services-sourcerepo,v1-rev20190611-1.30.1,com.google.api.services.sourcerepo,-,automatic,-,false,-`
 - :cd: `com.google.api.services.spanner` :left_right_arrow: `com.google.apis:google-api-services-spanner:v1-rev20190613-1.30.1` // `com.google.apis,google-api-services-spanner,v1-rev20190613-1.30.1,com.google.api.services.spanner,-,automatic,-,false,-`
 - :cd: `com.google.api.services.spanner` :left_right_arrow: `com.google.apis:google-api-services-spanner:v1-rev20190723-1.30.1` // `com.google.apis,google-api-services-spanner,v1-rev20190723-1.30.1,com.google.api.services.spanner,-,automatic,-,false,-`
+- :cd: `com.google.api.services.spanner` :left_right_arrow: `com.google.apis:google-api-services-spanner:v1-rev20190911-1.30.3` // `com.google.apis,google-api-services-spanner,v1-rev20190911-1.30.3,com.google.api.services.spanner,-,automatic,-,false,-`
 - :cd: `com.google.api.services.speech` :left_right_arrow: `com.google.apis:google-api-services-speech:v1-rev20190610-1.30.1` // `com.google.apis,google-api-services-speech,v1-rev20190610-1.30.1,com.google.api.services.speech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.speech` :left_right_arrow: `com.google.apis:google-api-services-speech:v1-rev20190804-1.30.1` // `com.google.apis,google-api-services-speech,v1-rev20190804-1.30.1,com.google.api.services.speech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.speech` :left_right_arrow: `com.google.apis:google-api-services-speech:v2beta-rev20190819-1.30.1` // `com.google.apis,google-api-services-speech,v2beta-rev20190819-1.30.1,com.google.api.services.speech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.speech` :left_right_arrow: `com.google.apis:google-api-services-speech:v2beta-rev20190830-1.30.1` // `com.google.apis,google-api-services-speech,v2beta-rev20190830-1.30.1,com.google.api.services.speech,-,automatic,-,false,-`
+- :cd: `com.google.api.services.speech` :left_right_arrow: `com.google.apis:google-api-services-speech:v2beta-rev20190918-1.30.3` // `com.google.apis,google-api-services-speech,v2beta-rev20190918-1.30.3,com.google.api.services.speech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sqladmin` :left_right_arrow: `com.google.apis:google-api-services-sqladmin:v1beta4-rev20190607-1.30.1` // `com.google.apis,google-api-services-sqladmin,v1beta4-rev20190607-1.30.1,com.google.api.services.sqladmin,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sqladmin` :left_right_arrow: `com.google.apis:google-api-services-sqladmin:v1beta4-rev20190815-1.30.1` // `com.google.apis,google-api-services-sqladmin,v1beta4-rev20190815-1.30.1,com.google.api.services.sqladmin,-,automatic,-,false,-`
 - :cd: `com.google.api.services.sqladmin` :left_right_arrow: `com.google.apis:google-api-services-sqladmin:v1beta4-rev20190827-1.30.1` // `com.google.apis,google-api-services-sqladmin,v1beta4-rev20190827-1.30.1,com.google.api.services.sqladmin,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storage` :left_right_arrow: `com.google.apis:google-api-services-storage:v1-rev20190620-1.30.1` // `com.google.apis,google-api-services-storage,v1-rev20190620-1.30.1,com.google.api.services.storage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storage` :left_right_arrow: `com.google.apis:google-api-services-storage:v1-rev20190624-1.30.1` // `com.google.apis,google-api-services-storage,v1-rev20190624-1.30.1,com.google.api.services.storage,-,automatic,-,false,-`
+- :cd: `com.google.api.services.storage` :left_right_arrow: `com.google.apis:google-api-services-storage:v1-rev20190910-1.30.3` // `com.google.apis,google-api-services-storage,v1-rev20190910-1.30.3,com.google.api.services.storage,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190603-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190603-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190729-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190729-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190810-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190810-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
@@ -4065,6 +4080,7 @@
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190826-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190826-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.storagetransfer` :left_right_arrow: `com.google.apis:google-api-services-storagetransfer:v1-rev20190907-1.30.1` // `com.google.apis,google-api-services-storagetransfer,v1-rev20190907-1.30.1,com.google.api.services.storagetransfer,-,automatic,-,false,-`
 - :cd: `com.google.api.services.streetviewpublish` :left_right_arrow: `com.google.apis:google-api-services-streetviewpublish:v1-rev20190529-1.30.1` // `com.google.apis,google-api-services-streetviewpublish,v1-rev20190529-1.30.1,com.google.api.services.streetviewpublish,-,automatic,-,false,-`
+- :cd: `com.google.api.services.streetviewpublish` :left_right_arrow: `com.google.apis:google-api-services-streetviewpublish:v1-rev20190917-1.30.3` // `com.google.apis,google-api-services-streetviewpublish,v1-rev20190917-1.30.3,com.google.api.services.streetviewpublish,-,automatic,-,false,-`
 - :cd: `com.google.api.services.surveys` :left_right_arrow: `com.google.apis:google-api-services-surveys:v2-rev20180508-1.30.1` // `com.google.apis,google-api-services-surveys,v2-rev20180508-1.30.1,com.google.api.services.surveys,-,automatic,-,false,-`
 - :cd: `com.google.api.services.tagmanager` :left_right_arrow: `com.google.apis:google-api-services-tagmanager:v2-rev20190617-1.30.1` // `com.google.apis,google-api-services-tagmanager,v2-rev20190617-1.30.1,com.google.api.services.tagmanager,-,automatic,-,false,-`
 - :cd: `com.google.api.services.tagmanager` :left_right_arrow: `com.google.apis:google-api-services-tagmanager:v2-rev20190629-1.30.1` // `com.google.apis,google-api-services-tagmanager,v2-rev20190629-1.30.1,com.google.api.services.tagmanager,-,automatic,-,false,-`
@@ -4072,6 +4088,7 @@
 - :cd: `com.google.api.services.tasks` :left_right_arrow: `com.google.apis:google-api-services-tasks:v1-rev20190628-1.30.1` // `com.google.apis,google-api-services-tasks,v1-rev20190628-1.30.1,com.google.api.services.tasks,-,automatic,-,false,-`
 - :cd: `com.google.api.services.testing` :left_right_arrow: `com.google.apis:google-api-services-testing:v1-rev20190514-1.30.1` // `com.google.apis,google-api-services-testing,v1-rev20190514-1.30.1,com.google.api.services.testing,-,automatic,-,false,-`
 - :cd: `com.google.api.services.testing` :left_right_arrow: `com.google.apis:google-api-services-testing:v1-rev20190905-1.30.1` // `com.google.apis,google-api-services-testing,v1-rev20190905-1.30.1,com.google.api.services.testing,-,automatic,-,false,-`
+- :cd: `com.google.api.services.testing` :left_right_arrow: `com.google.apis:google-api-services-testing:v1-rev20190915-1.30.3` // `com.google.apis,google-api-services-testing,v1-rev20190915-1.30.3,com.google.api.services.testing,-,automatic,-,false,-`
 - :cd: `com.google.api.services.texttospeech` :left_right_arrow: `com.google.apis:google-api-services-texttospeech:v1-rev20190621-1.30.1` // `com.google.apis,google-api-services-texttospeech,v1-rev20190621-1.30.1,com.google.api.services.texttospeech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.texttospeech` :left_right_arrow: `com.google.apis:google-api-services-texttospeech:v1-rev20190628-1.30.1` // `com.google.apis,google-api-services-texttospeech,v1-rev20190628-1.30.1,com.google.api.services.texttospeech,-,automatic,-,false,-`
 - :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190617-1.30.1` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190617-1.30.1,com.google.api.services.toolresults,-,automatic,-,false,-`
@@ -4080,6 +4097,8 @@
 - :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190801-1.30.1` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190801-1.30.1,com.google.api.services.toolresults,-,automatic,-,false,-`
 - :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190820-1.30.1` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190820-1.30.1,com.google.api.services.toolresults,-,automatic,-,false,-`
 - :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190826-1.30.1` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190826-1.30.1,com.google.api.services.toolresults,-,automatic,-,false,-`
+- :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190923-1.28.0` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190923-1.28.0,com.google.api.services.toolresults,-,automatic,-,false,-`
+- :cd: `com.google.api.services.toolresults` :left_right_arrow: `com.google.apis:google-api-services-toolresults:v1beta3-rev20190923-1.30.3` // `com.google.apis,google-api-services-toolresults,v1beta3-rev20190923-1.30.3,com.google.api.services.toolresults,-,automatic,-,false,-`
 - :cd: `com.google.api.services.tpu` :left_right_arrow: `com.google.apis:google-api-services-tpu:v1-rev20190619-1.30.1` // `com.google.apis,google-api-services-tpu,v1-rev20190619-1.30.1,com.google.api.services.tpu,-,automatic,-,false,-`
 - :cd: `com.google.api.services.tpu` :left_right_arrow: `com.google.apis:google-api-services-tpu:v1-rev20190821-1.30.1` // `com.google.apis,google-api-services-tpu,v1-rev20190821-1.30.1,com.google.api.services.tpu,-,automatic,-,false,-`
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v2-rev20170525-1.30.1` // `com.google.apis,google-api-services-translate,v2-rev20170525-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
@@ -4089,6 +4108,7 @@
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190822-1.30.1` // `com.google.apis,google-api-services-translate,v3beta1-rev20190822-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190831-1.29.2` // `com.google.apis,google-api-services-translate,v3beta1-rev20190831-1.29.2,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190831-1.30.1` // `com.google.apis,google-api-services-translate,v3beta1-rev20190831-1.30.1,com.google.api.services.translate,-,automatic,-,false,-`
+- :cd: `com.google.api.services.translate` :left_right_arrow: `com.google.apis:google-api-services-translate:v3beta1-rev20190906-1.30.3` // `com.google.apis,google-api-services-translate,v3beta1-rev20190906-1.30.3,com.google.api.services.translate,-,automatic,-,false,-`
 - :cd: `com.google.api.services.urlshortener` :left_right_arrow: `com.google.apis:google-api-services-urlshortener:v1-rev20150519-1.30.1` // `com.google.apis,google-api-services-urlshortener,v1-rev20150519-1.30.1,com.google.api.services.urlshortener,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vault` :left_right_arrow: `com.google.apis:google-api-services-vault:v1-rev20190614-1.30.1` // `com.google.apis,google-api-services-vault,v1-rev20190614-1.30.1,com.google.api.services.vault,-,automatic,-,false,-`
 - :cd: `com.google.api.services.verifiedaccess` :left_right_arrow: `com.google.apis:google-api-services-verifiedaccess:v1-rev20190718-1.30.1` // `com.google.apis,google-api-services-verifiedaccess,v1-rev20190718-1.30.1,com.google.api.services.verifiedaccess,-,automatic,-,false,-`
@@ -4098,6 +4118,7 @@
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190809-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190809-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190823-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190823-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190907-1.30.1` // `com.google.apis,google-api-services-vision,v1-rev20190907-1.30.1,com.google.api.services.vision,-,automatic,-,false,-`
+- :cd: `com.google.api.services.vision` :left_right_arrow: `com.google.apis:google-api-services-vision:v1-rev20190913-1.30.3` // `com.google.apis,google-api-services-vision,v1-rev20190913-1.30.3,com.google.api.services.vision,-,automatic,-,false,-`
 - :cd: `com.google.api.services.webfonts` :left_right_arrow: `com.google.apis:google-api-services-webfonts:v1-rev20160302-1.30.1` // `com.google.apis,google-api-services-webfonts,v1-rev20160302-1.30.1,com.google.api.services.webfonts,-,automatic,-,false,-`
 - :cd: `com.google.api.services.webmasters` :left_right_arrow: `com.google.apis:google-api-services-webmasters:v3-rev20190428-1.30.1` // `com.google.apis,google-api-services-webmasters,v3-rev20190428-1.30.1,com.google.api.services.webmasters,-,automatic,-,false,-`
 - :cd: `com.google.api.services.websecurityscanner` :left_right_arrow: `com.google.apis:google-api-services-websecurityscanner:v1-rev20190622-1.30.1` // `com.google.apis,google-api-services-websecurityscanner,v1-rev20190622-1.30.1,com.google.api.services.websecurityscanner,-,automatic,-,false,-`
@@ -6460,6 +6481,7 @@
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.6` // `net.dreamlu,mica-boot,1.1.6,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.7` // `net.dreamlu,mica-boot,1.1.7,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.8` // `net.dreamlu,mica-boot,1.1.8,mica.boot,-,automatic,-,false,-`
+- :cd: `mica.boot` :left_right_arrow: `net.dreamlu:mica-boot:1.1.9` // `net.dreamlu,mica-boot,1.1.9,mica.boot,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.0` // `net.dreamlu,mica-boot-test,1.1.0,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.1` // `net.dreamlu,mica-boot-test,1.1.1,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.2` // `net.dreamlu,mica-boot-test,1.1.2,mica.boot.test,-,automatic,-,false,-`
@@ -6469,6 +6491,7 @@
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.6` // `net.dreamlu,mica-boot-test,1.1.6,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.7` // `net.dreamlu,mica-boot-test,1.1.7,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.8` // `net.dreamlu,mica-boot-test,1.1.8,mica.boot.test,-,automatic,-,false,-`
+- :cd: `mica.boot.test` :left_right_arrow: `net.dreamlu:mica-boot-test:1.1.9` // `net.dreamlu,mica-boot-test,1.1.9,mica.boot.test,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.0` // `net.dreamlu,mica-captcha,1.1.0,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.1` // `net.dreamlu,mica-captcha,1.1.1,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.2` // `net.dreamlu,mica-captcha,1.1.2,mica.captcha,-,automatic,-,false,-`
@@ -6478,6 +6501,7 @@
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.6` // `net.dreamlu,mica-captcha,1.1.6,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.7` // `net.dreamlu,mica-captcha,1.1.7,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.8` // `net.dreamlu,mica-captcha,1.1.8,mica.captcha,-,automatic,-,false,-`
+- :cd: `mica.captcha` :left_right_arrow: `net.dreamlu:mica-captcha:1.1.9` // `net.dreamlu,mica-captcha,1.1.9,mica.captcha,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.0` // `net.dreamlu,mica-cloud,1.1.0,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.1` // `net.dreamlu,mica-cloud,1.1.1,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.2` // `net.dreamlu,mica-cloud,1.1.2,mica.cloud,-,automatic,-,false,-`
@@ -6487,6 +6511,7 @@
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.6` // `net.dreamlu,mica-cloud,1.1.6,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.7` // `net.dreamlu,mica-cloud,1.1.7,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.8` // `net.dreamlu,mica-cloud,1.1.8,mica.cloud,-,automatic,-,false,-`
+- :cd: `mica.cloud` :left_right_arrow: `net.dreamlu:mica-cloud:1.1.9` // `net.dreamlu,mica-cloud,1.1.9,mica.cloud,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.0` // `net.dreamlu,mica-core,1.1.0,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.1` // `net.dreamlu,mica-core,1.1.1,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.2` // `net.dreamlu,mica-core,1.1.2,mica.core,-,automatic,-,false,-`
@@ -6496,12 +6521,14 @@
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.6` // `net.dreamlu,mica-core,1.1.6,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.7` // `net.dreamlu,mica-core,1.1.7,mica.core,-,automatic,-,false,-`
 - :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.8` // `net.dreamlu,mica-core,1.1.8,mica.core,-,automatic,-,false,-`
+- :cd: `mica.core` :left_right_arrow: `net.dreamlu:mica-core:1.1.9` // `net.dreamlu,mica-core,1.1.9,mica.core,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.3` // `net.dreamlu,mica-http,1.1.3,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.4` // `net.dreamlu,mica-http,1.1.4,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.5` // `net.dreamlu,mica-http,1.1.5,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.6` // `net.dreamlu,mica-http,1.1.6,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.7` // `net.dreamlu,mica-http,1.1.7,mica.http,-,automatic,-,false,-`
 - :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.8` // `net.dreamlu,mica-http,1.1.8,mica.http,-,automatic,-,false,-`
+- :cd: `mica.http` :left_right_arrow: `net.dreamlu:mica-http:1.1.9` // `net.dreamlu,mica-http,1.1.9,mica.http,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.0` // `net.dreamlu,mica-launcher,1.1.0,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.1` // `net.dreamlu,mica-launcher,1.1.1,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.2` // `net.dreamlu,mica-launcher,1.1.2,mica.launcher,-,automatic,-,false,-`
@@ -6511,8 +6538,10 @@
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.6` // `net.dreamlu,mica-launcher,1.1.6,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.7` // `net.dreamlu,mica-launcher,1.1.7,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.8` // `net.dreamlu,mica-launcher,1.1.8,mica.launcher,-,automatic,-,false,-`
+- :cd: `mica.launcher` :left_right_arrow: `net.dreamlu:mica-launcher:1.1.9` // `net.dreamlu,mica-launcher,1.1.9,mica.launcher,-,automatic,-,false,-`
 - :cd: `mica.laytpl` :left_right_arrow: `net.dreamlu:mica-laytpl:1.1.7` // `net.dreamlu,mica-laytpl,1.1.7,mica.laytpl,-,automatic,-,false,-`
 - :cd: `mica.laytpl` :left_right_arrow: `net.dreamlu:mica-laytpl:1.1.8` // `net.dreamlu,mica-laytpl,1.1.8,mica.laytpl,-,automatic,-,false,-`
+- :cd: `mica.laytpl` :left_right_arrow: `net.dreamlu:mica-laytpl:1.1.9` // `net.dreamlu,mica-laytpl,1.1.9,mica.laytpl,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.0` // `net.dreamlu,mica-log4j2,1.1.0,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.1` // `net.dreamlu,mica-log4j2,1.1.1,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.2` // `net.dreamlu,mica-log4j2,1.1.2,mica.log4j2,-,automatic,-,false,-`
@@ -6522,6 +6551,8 @@
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.6` // `net.dreamlu,mica-log4j2,1.1.6,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.7` // `net.dreamlu,mica-log4j2,1.1.7,mica.log4j2,-,automatic,-,false,-`
 - :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.8` // `net.dreamlu,mica-log4j2,1.1.8,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.log4j2` :left_right_arrow: `net.dreamlu:mica-log4j2:1.1.9` // `net.dreamlu,mica-log4j2,1.1.9,mica.log4j2,-,automatic,-,false,-`
+- :cd: `mica.plus.lock` :left_right_arrow: `net.dreamlu:mica-plus-lock:1.1.9` // `net.dreamlu,mica-plus-lock,1.1.9,mica.plus.lock,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.0` // `net.dreamlu,mica-plus-mongo,1.1.0,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.1` // `net.dreamlu,mica-plus-mongo,1.1.1,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.2` // `net.dreamlu,mica-plus-mongo,1.1.2,mica.plus.mongo,-,automatic,-,false,-`
@@ -6531,6 +6562,8 @@
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.6` // `net.dreamlu,mica-plus-mongo,1.1.6,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.7` // `net.dreamlu,mica-plus-mongo,1.1.7,mica.plus.mongo,-,automatic,-,false,-`
 - :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.8` // `net.dreamlu,mica-plus-mongo,1.1.8,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.mongo` :left_right_arrow: `net.dreamlu:mica-plus-mongo:1.1.9` // `net.dreamlu,mica-plus-mongo,1.1.9,mica.plus.mongo,-,automatic,-,false,-`
+- :cd: `mica.plus.mybatis` :left_right_arrow: `net.dreamlu:mica-plus-mybatis:1.1.9` // `net.dreamlu,mica-plus-mybatis,1.1.9,mica.plus.mybatis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.0` // `net.dreamlu,mica-plus-redis,1.1.0,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.1` // `net.dreamlu,mica-plus-redis,1.1.1,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.2` // `net.dreamlu,mica-plus-redis,1.1.2,mica.plus.redis,-,automatic,-,false,-`
@@ -6540,12 +6573,14 @@
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.6` // `net.dreamlu,mica-plus-redis,1.1.6,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.7` // `net.dreamlu,mica-plus-redis,1.1.7,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.8` // `net.dreamlu,mica-plus-redis,1.1.8,mica.plus.redis,-,automatic,-,false,-`
+- :cd: `mica.plus.redis` :left_right_arrow: `net.dreamlu:mica-plus-redis:1.1.9` // `net.dreamlu,mica-plus-redis,1.1.9,mica.plus.redis,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.3` // `net.dreamlu,mica-plus-ribbon,1.1.3,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.4` // `net.dreamlu,mica-plus-ribbon,1.1.4,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.5` // `net.dreamlu,mica-plus-ribbon,1.1.5,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.6` // `net.dreamlu,mica-plus-ribbon,1.1.6,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.7` // `net.dreamlu,mica-plus-ribbon,1.1.7,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.8` // `net.dreamlu,mica-plus-ribbon,1.1.8,mica.plus.ribbon,-,automatic,-,false,-`
+- :cd: `mica.plus.ribbon` :left_right_arrow: `net.dreamlu:mica-plus-ribbon:1.1.9` // `net.dreamlu,mica-plus-ribbon,1.1.9,mica.plus.ribbon,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.3` // `net.dreamlu,mica-plus-social,1.1.3,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.4` // `net.dreamlu,mica-plus-social,1.1.4,mica.plus.social,-,automatic,-,false,-`
 - :cd: `mica.plus.social` :left_right_arrow: `net.dreamlu:mica-plus-social:1.1.5` // `net.dreamlu,mica-plus-social,1.1.5,mica.plus.social,-,automatic,-,false,-`
@@ -6559,6 +6594,7 @@
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.6` // `net.dreamlu,mica-plus-swagger,1.1.6,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.7` // `net.dreamlu,mica-plus-swagger,1.1.7,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.8` // `net.dreamlu,mica-plus-swagger,1.1.8,mica.plus.swagger,-,automatic,-,false,-`
+- :cd: `mica.plus.swagger` :left_right_arrow: `net.dreamlu:mica-plus-swagger:1.1.9` // `net.dreamlu,mica-plus-swagger,1.1.9,mica.plus.swagger,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.3` // `net.dreamlu,mica-social,1.1.3,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.4` // `net.dreamlu,mica-social,1.1.4,mica.social,-,automatic,-,false,-`
 - :cd: `mica.social` :left_right_arrow: `net.dreamlu:mica-social:1.1.5` // `net.dreamlu,mica-social,1.1.5,mica.social,-,automatic,-,false,-`
@@ -6583,6 +6619,7 @@
 - :cd: `name.remal.maven_plugins.root_properties_extension` :left_right_arrow: `name.remal.maven-plugins:root-properties-extension:0.1.0` // `name.remal.maven-plugins,root-properties-extension,0.1.0,name.remal.maven_plugins.root_properties_extension,-,automatic,-,false,-`
 - :cd: `name.remal.maven_plugins.utils` :left_right_arrow: `name.remal.maven-plugins:utils:0.2.0` // `name.remal.maven-plugins,utils,0.2.0,name.remal.maven_plugins.utils,-,automatic,-,false,-`
 - :cd: `name.remal.maven_plugins.utils` :left_right_arrow: `name.remal.maven-plugins:utils:0.2.1` // `name.remal.maven-plugins,utils,0.2.1,name.remal.maven_plugins.utils,-,automatic,-,false,-`
+- :dvd: `neberus.core` :left_right_arrow: `net.oneandone.neberus:neberus-core:2.0.0` // `net.oneandone.neberus,neberus-core,2.0.0,neberus.core,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + j2html + java.base + java.logging + jdk.javadoc + org.apache.commons.lang3 + reflections,false,-`
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:1.0.0-alpha03` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,1.0.0-alpha03,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:1.7.5` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,1.7.5,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:4.0.0-beta01` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,4.0.0-beta01,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
@@ -6620,6 +6657,7 @@
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.2` // `com.github.h908714124,jbock-annotations,2.2,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.3` // `com.github.h908714124,jbock-annotations,2.3,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.4` // `com.github.h908714124,jbock-annotations,2.4,net.jbock,-,automatic,-,false,-`
+- :cd: `net.jbock` :left_right_arrow: `com.github.h908714124:jbock-annotations:2.6` // `com.github.h908714124,jbock-annotations,2.6,net.jbock,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.4` // `com.github.h908714124,jbock,2.6.4,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.5` // `com.github.h908714124,jbock,2.6.5,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.6.6` // `com.github.h908714124,jbock,2.6.6,net.jbock.compiler,-,automatic,-,false,-`
@@ -12121,6 +12159,7 @@
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.1` // `io.zipkin.reporter2,zipkin-reporter,2.10.1,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.2` // `io.zipkin.reporter2,zipkin-reporter,2.10.2,zipkin2.reporter,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.3` // `io.zipkin.reporter2,zipkin-reporter,2.10.3,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.10` // `io.zipkin.reporter2,zipkin-reporter,2.7.10,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.13` // `io.zipkin.reporter2,zipkin-reporter,2.7.13,zipkin2.reporter,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.7.14` // `io.zipkin.reporter2,zipkin-reporter,2.7.14,zipkin2.reporter,-,automatic,-,false,-`
@@ -12138,10 +12177,12 @@
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.1` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.1,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.2` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.2,zipkin2.reporter.activemq,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.10.3` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.10.3,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.activemq` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-activemq-client:2.9.0` // `io.zipkin.reporter2,zipkin-sender-activemq-client,2.9.0,zipkin2.reporter.activemq,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.0` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.0,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.1` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.1,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.2` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.2,zipkin2.reporter.amqp,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.10.3` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.10.3,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.10` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.10,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.13` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.13,zipkin2.reporter.amqp,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.amqp` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-amqp-client:2.7.14` // `io.zipkin.reporter2,zipkin-sender-amqp-client,2.7.14,zipkin2.reporter.amqp,-,automatic,-,false,-`
@@ -12159,6 +12200,7 @@
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.0,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.1` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.1,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.2` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.2,zipkin2.reporter.beans,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.10.3` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.10.3,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.10` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.10,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.13` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.13,zipkin2.reporter.beans,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.beans` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-spring-beans:2.7.14` // `io.zipkin.reporter2,zipkin-reporter-spring-beans,2.7.14,zipkin2.reporter.beans,-,automatic,-,false,-`
@@ -12176,6 +12218,7 @@
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.1` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.1,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.2` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.2,zipkin2.reporter.kafka,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.10.3` // `io.zipkin.reporter2,zipkin-sender-kafka,2.10.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.3` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.3,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.8.4` // `io.zipkin.reporter2,zipkin-sender-kafka,2.8.4,zipkin2.reporter.kafka,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka:2.9.0` // `io.zipkin.reporter2,zipkin-sender-kafka,2.9.0,zipkin2.reporter.kafka,-,automatic,-,false,-`
@@ -12183,6 +12226,7 @@
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.0` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.0,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.1` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.1,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.2` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.2,zipkin2.reporter.kafka08,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.10.3` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.10.3,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.10` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.10,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.13` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.13,zipkin2.reporter.kafka08,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.kafka08` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-kafka08:2.7.14` // `io.zipkin.reporter2,zipkin-sender-kafka08,2.7.14,zipkin2.reporter.kafka08,-,automatic,-,false,-`
@@ -12210,6 +12254,7 @@
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.0` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.0,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.1` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.1,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.2` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.2,zipkin2.reporter.libthrift,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.10.3` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.10.3,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.10` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.10,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.13` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.13,zipkin2.reporter.libthrift,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.libthrift` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-libthrift:2.7.14` // `io.zipkin.reporter2,zipkin-sender-libthrift,2.7.14,zipkin2.reporter.libthrift,-,automatic,-,false,-`
@@ -12227,6 +12272,7 @@
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.10.3` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.10.3,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.0` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.0,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.1` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.1,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.metrics.micrometer` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter-metrics-micrometer:2.8.2` // `io.zipkin.reporter2,zipkin-reporter-metrics-micrometer,2.8.2,zipkin2.reporter.metrics.micrometer,-,automatic,-,false,-`
@@ -12237,6 +12283,7 @@
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.0` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.0,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.1` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.1,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.2` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.2,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.10.3` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.10.3,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.10` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.10,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.13` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.13,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.okhttp3` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-okhttp3:2.7.14` // `io.zipkin.reporter2,zipkin-sender-okhttp3,2.7.14,zipkin2.reporter.okhttp3,-,automatic,-,false,-`
@@ -12254,6 +12301,7 @@
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.0` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.0,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.1` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.1,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.2` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.2,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
+- :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.10.3` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.10.3,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.10` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.10,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.13` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.13,zipkin2.reporter.urlconnection,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter.urlconnection` :left_right_arrow: `io.zipkin.reporter2:zipkin-sender-urlconnection:2.7.14` // `io.zipkin.reporter2,zipkin-sender-urlconnection,2.7.14,zipkin2.reporter.urlconnection,-,automatic,-,false,-`

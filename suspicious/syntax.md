@@ -258,6 +258,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.39.Final` // `io.netty,netty-microbench,4.1.39.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.40.Final` // `io.netty,netty-microbench,4.1.40.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.41.Final` // `io.netty,netty-microbench,4.1.41.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.42.Final` // `io.netty,netty-microbench,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.29.Final` // `io.netty,netty-testsuite-autobahn,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.30.Final` // `io.netty,netty-testsuite-autobahn,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.31.Final` // `io.netty,netty-testsuite-autobahn,4.1.31.Final,-,-,automatic,-,false,-`
@@ -271,6 +272,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.39.Final` // `io.netty,netty-testsuite-autobahn,4.1.39.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.40.Final` // `io.netty,netty-testsuite-autobahn,4.1.40.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.41.Final` // `io.netty,netty-testsuite-autobahn,4.1.41.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.42.Final` // `io.netty,netty-testsuite-autobahn,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.29.Final` // `io.netty,netty-testsuite-http2,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.30.Final` // `io.netty,netty-testsuite-http2,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.31.Final` // `io.netty,netty-testsuite-http2,4.1.31.Final,-,-,automatic,-,false,-`
@@ -284,12 +286,14 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.39.Final` // `io.netty,netty-testsuite-http2,4.1.39.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.40.Final` // `io.netty,netty-testsuite-http2,4.1.40.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.41.Final` // `io.netty,netty-testsuite-http2,4.1.41.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.42.Final` // `io.netty,netty-testsuite-http2,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.36.Final` // `io.netty,netty-testsuite-native-image,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.37.Final` // `io.netty,netty-testsuite-native-image,4.1.37.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.38.Final` // `io.netty,netty-testsuite-native-image,4.1.38.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.39.Final` // `io.netty,netty-testsuite-native-image,4.1.39.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.40.Final` // `io.netty,netty-testsuite-native-image,4.1.40.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.41.Final` // `io.netty,netty-testsuite-native-image,4.1.41.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.42.Final` // `io.netty,netty-testsuite-native-image,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.29.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.30.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.31.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.31.Final,-,-,automatic,-,false,-`
@@ -303,6 +307,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.39.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.39.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.40.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.40.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.41.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.41.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.42.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52f` // `net.imagej,ij,1.52f,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52g` // `net.imagej,ij,1.52g,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52h` // `net.imagej,ij,1.52h,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
@@ -6826,6 +6831,7 @@
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:44.2.0` // `com.blackducksoftware.integration,blackduck-common,44.2.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:44.2.4` // `com.blackducksoftware.integration,blackduck-common,44.2.4,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:44.2.5` // `com.blackducksoftware.integration,blackduck-common,44.2.5,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:44.2.9` // `com.blackducksoftware.integration,blackduck-common,44.2.9,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.2` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.2,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
@@ -6993,6 +6999,7 @@
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.6` // `net.dreamlu,mica-plus-error-catch,1.1.6,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.7` // `net.dreamlu,mica-plus-error-catch,1.1.7,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.8` // `net.dreamlu,mica-plus-error-catch,1.1.8,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.9` // `net.dreamlu,mica-plus-error-catch,1.1.9,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
