@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5111 Java modules published at Maven Central
 
-## Summary 2019-09-25T23:24:48.314443Z
+## Summary 2019-09-26T23:25:39.159450Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-25T23:24:48.314443Z
-Scanned 32,734 files in 5 seconds.
+Started scan at 2019-09-26T23:25:39.159450Z
+Scanned 32,812 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_25_22_57_53.csv
+    last -> modulescanner-report-2019_09_26_23_02_44.csv
 
-Parsed 2,069,532 lines in total.
-  36,538 -> captions skipped
-  139,673 -> duplicates skipped
-  86,528 -> module related
+Parsed 2,074,799 lines in total.
+  36,616 -> captions skipped
+  139,989 -> duplicates skipped
+  86,763 -> module related
 
 Collected 5,111 unique modules.
   automatic :cd: -> 3,743
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [8147](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12318](suspicious/naming.md)
-- Modular impostors: [4439](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12324](suspicious/naming.md)
+- Modular impostors: [4443](suspicious/impostors.md)
 
 ## Unique Modules (5111)
 
@@ -161,7 +161,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
-- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.5`
+- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.6`
 - :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.4`
 - :dvd: `be.yildizgames.module.physics.bullet` :left_right_arrow: `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.4`
@@ -329,15 +329,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0-cr-1`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0-cr-1`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0-cr-1`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0-cr-1`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0-cr-1`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`

@@ -2301,6 +2301,7 @@
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.1.1` // `io.micronaut,micronaut-security,1.1.1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.0` // `io.micronaut,micronaut-security,1.2.0,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.0.RC1` // `io.micronaut,micronaut-security,1.2.0.RC1,io.micronaut.security,-,automatic,-,false,-`
+- :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.1` // `io.micronaut,micronaut-security,1.2.1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0` // `io.micronaut,micronaut-security-jwt,1.0.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0.RC3` // `io.micronaut,micronaut-security-jwt,1.0.0.RC3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.1` // `io.micronaut,micronaut-security-jwt,1.0.1,io.micronaut.security_jwt,-,automatic,-,false,-`
@@ -2315,6 +2316,7 @@
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.1.1` // `io.micronaut,micronaut-security-jwt,1.1.1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.0` // `io.micronaut,micronaut-security-jwt,1.2.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.0.RC1` // `io.micronaut,micronaut-security-jwt,1.2.0.RC1,io.micronaut.security_jwt,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.1` // `io.micronaut,micronaut-security-jwt,1.2.1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0` // `io.micronaut,micronaut-security-session,1.0.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0.RC3` // `io.micronaut,micronaut-security-session,1.0.0.RC3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.1` // `io.micronaut,micronaut-security-session,1.0.1,io.micronaut.security_session,-,automatic,-,false,-`
@@ -2329,6 +2331,7 @@
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.1.1` // `io.micronaut,micronaut-security-session,1.1.1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.0` // `io.micronaut,micronaut-security-session,1.2.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.0.RC1` // `io.micronaut,micronaut-security-session,1.2.0.RC1,io.micronaut.security_session,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.1` // `io.micronaut,micronaut-security-session,1.2.1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0` // `io.micronaut,micronaut-session,1.0.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0.RC3` // `io.micronaut,micronaut-session,1.0.0.RC3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.1` // `io.micronaut,micronaut-session,1.0.1,io.micronaut.session,-,automatic,-,false,-`
@@ -3156,6 +3159,7 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.joinesty:nullafi-java-sdk:1.0.1` // `com.joinesty,nullafi-java-sdk,1.0.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.joinesty:nullafi-java-sdk:1.0.3` // `com.joinesty,nullafi-java-sdk,1.0.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.92.0` // `com.linecorp.armeria,armeria,0.92.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.93.0` // `com.linecorp.armeria,armeria,0.93.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
