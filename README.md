@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5111 Java modules published at Maven Central
+Counted 5117 Java modules published at Maven Central
 
-## Summary 2019-09-26T23:25:39.159450Z
+## Summary 2019-09-27T23:25:59.182607Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-26T23:25:39.159450Z
-Scanned 32,812 files in 4 seconds.
+Started scan at 2019-09-27T23:25:59.182607Z
+Scanned 32,887 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_26_23_02_44.csv
+    last -> modulescanner-report-2019_09_27_23_10_05.csv
 
-Parsed 2,074,799 lines in total.
-  36,616 -> captions skipped
-  139,989 -> duplicates skipped
-  86,763 -> module related
+Parsed 2,081,671 lines in total.
+  36,689 -> captions skipped
+  140,367 -> duplicates skipped
+  87,102 -> module related
 
-Collected 5,111 unique modules.
-  automatic :cd: -> 3,743
+Collected 5,117 unique modules.
+  automatic :cd: -> 3,749
   explicit :dvd: -> 1,368
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [8147](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12324](suspicious/naming.md)
-- Modular impostors: [4443](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12343](suspicious/naming.md)
+- Modular impostors: [4457](suspicious/impostors.md)
 
-## Unique Modules (5111)
+## Unique Modules (5117)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -811,63 +811,63 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.tomdw.java.modules.spring.integration.tests` :left_right_arrow: `io.github.tomdw.java.modules.spring:integration-tests:0.0.1`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.1`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` :left_right_arrow: `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.1`
-- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.3.0`
-- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.3.0`
-- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.3.0`
-- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.3.0`
-- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.3.0`
-- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.3.0`
-- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.3.0`
-- :dvd: `io.helidon.common.mapper` :left_right_arrow: `io.helidon.common:helidon-common-mapper:1.3.0`
-- :dvd: `io.helidon.common.metrics` :left_right_arrow: `io.helidon.common:helidon-common-metrics:1.3.0`
-- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.3.0`
-- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.3.0`
-- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.3.0`
-- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.3.0`
+- :dvd: `io.helidon.bundles.config` :left_right_arrow: `io.helidon.bundles:helidon-bundles-config:1.3.1`
+- :dvd: `io.helidon.bundles.jersey` :left_right_arrow: `io.helidon.bundles:helidon-bundles-jersey:1.3.1`
+- :dvd: `io.helidon.bundles.webserver` :left_right_arrow: `io.helidon.bundles:helidon-bundles-webserver:1.3.1`
+- :dvd: `io.helidon.common` :left_right_arrow: `io.helidon.common:helidon-common:1.3.1`
+- :dvd: `io.helidon.common.configurable` :left_right_arrow: `io.helidon.common:helidon-common-configurable:1.3.1`
+- :dvd: `io.helidon.common.context` :left_right_arrow: `io.helidon.common:helidon-common-context:1.3.1`
+- :dvd: `io.helidon.common.http` :left_right_arrow: `io.helidon.common:helidon-common-http:1.3.1`
+- :dvd: `io.helidon.common.mapper` :left_right_arrow: `io.helidon.common:helidon-common-mapper:1.3.1`
+- :dvd: `io.helidon.common.metrics` :left_right_arrow: `io.helidon.common:helidon-common-metrics:1.3.1`
+- :dvd: `io.helidon.common.pki` :left_right_arrow: `io.helidon.common:helidon-common-key-util:1.3.1`
+- :dvd: `io.helidon.common.reactive` :left_right_arrow: `io.helidon.common:helidon-common-reactive:1.3.1`
+- :dvd: `io.helidon.common.serviceloader` :left_right_arrow: `io.helidon.common:helidon-common-service-loader:1.3.1`
+- :dvd: `io.helidon.config` :left_right_arrow: `io.helidon.config:helidon-config:1.3.1`
 - :dvd: `io.helidon.config.bundle` :left_right_arrow: `io.helidon.config:helidon-config-bundle:0.10.6`
-- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.3.0`
-- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.3.0`
-- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.3.0`
-- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.3.0`
-- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.3.0`
-- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.3.0`
-- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.3.0`
-- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.3.0`
-- :dvd: `io.helidon.grpc.client` :left_right_arrow: `io.helidon.grpc:helidon-grpc-client:1.3.0`
-- :dvd: `io.helidon.grpc.core` :left_right_arrow: `io.helidon.grpc:helidon-grpc-core:1.3.0`
-- :dvd: `io.helidon.grpc.metrics` :left_right_arrow: `io.helidon.grpc:helidon-grpc-metrics:1.3.0`
-- :dvd: `io.helidon.grpc.server` :left_right_arrow: `io.helidon.grpc:helidon-grpc-server:1.3.0`
-- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.3.0`
-- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.3.0`
-- :dvd: `io.helidon.jersey.client` :left_right_arrow: `io.helidon.jersey:helidon-jersey-client:1.3.0`
-- :dvd: `io.helidon.jersey.common` :left_right_arrow: `io.helidon.jersey:helidon-jersey-common:1.3.0`
-- :dvd: `io.helidon.jersey.media.jsonp` :left_right_arrow: `io.helidon.jersey:helidon-jersey-media-jsonp:1.3.0`
-- :dvd: `io.helidon.jersey.server` :left_right_arrow: `io.helidon.jersey:helidon-jersey-server:1.3.0`
-- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.3.0`
-- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.3.0`
-- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.3.0`
-- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.3.0`
-- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.3.0`
-- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.3.0`
-- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.3.0`
-- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.3.0`
-- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.3.0`
-- :dvd: `io.helidon.microprofile.accesslog` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-access-log:1.3.0`
-- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.3.0`
-- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.3.0`
-- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.3.0`
-- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.3.0`
-- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.3.0`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.3.0`
-- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.3.0`
-- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.3.0`
-- :dvd: `io.helidon.microprofile.openapi` :left_right_arrow: `io.helidon.microprofile.openapi:helidon-microprofile-openapi:1.3.0`
-- :dvd: `io.helidon.microprofile.restclient` :left_right_arrow: `io.helidon.microprofile.rest-client:helidon-microprofile-rest-client:1.3.0`
-- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.3.0`
-- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.3.0`
-- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.3.0`
-- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.3.0`
-- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.3.0`
+- :dvd: `io.helidon.config.encryption` :left_right_arrow: `io.helidon.config:helidon-config-encryption:1.3.1`
+- :dvd: `io.helidon.config.etcd` :left_right_arrow: `io.helidon.config:helidon-config-etcd:1.3.1`
+- :dvd: `io.helidon.config.git` :left_right_arrow: `io.helidon.config:helidon-config-git:1.3.1`
+- :dvd: `io.helidon.config.hocon` :left_right_arrow: `io.helidon.config:helidon-config-hocon:1.3.1`
+- :dvd: `io.helidon.config.objectmapping` :left_right_arrow: `io.helidon.config:helidon-config-object-mapping:1.3.1`
+- :dvd: `io.helidon.config.test.infra` :left_right_arrow: `io.helidon.config:helidon-config-test-infrastructure:1.3.1`
+- :dvd: `io.helidon.config.testing` :left_right_arrow: `io.helidon.config:helidon-config-testing:1.3.1`
+- :dvd: `io.helidon.config.yaml` :left_right_arrow: `io.helidon.config:helidon-config-yaml:1.3.1`
+- :dvd: `io.helidon.grpc.client` :left_right_arrow: `io.helidon.grpc:helidon-grpc-client:1.3.1`
+- :dvd: `io.helidon.grpc.core` :left_right_arrow: `io.helidon.grpc:helidon-grpc-core:1.3.1`
+- :dvd: `io.helidon.grpc.metrics` :left_right_arrow: `io.helidon.grpc:helidon-grpc-metrics:1.3.1`
+- :dvd: `io.helidon.grpc.server` :left_right_arrow: `io.helidon.grpc:helidon-grpc-server:1.3.1`
+- :dvd: `io.helidon.health` :left_right_arrow: `io.helidon.health:helidon-health:1.3.1`
+- :dvd: `io.helidon.health.checks` :left_right_arrow: `io.helidon.health:helidon-health-checks:1.3.1`
+- :dvd: `io.helidon.jersey.client` :left_right_arrow: `io.helidon.jersey:helidon-jersey-client:1.3.1`
+- :dvd: `io.helidon.jersey.common` :left_right_arrow: `io.helidon.jersey:helidon-jersey-common:1.3.1`
+- :dvd: `io.helidon.jersey.media.jsonp` :left_right_arrow: `io.helidon.jersey:helidon-jersey-media-jsonp:1.3.1`
+- :dvd: `io.helidon.jersey.server` :left_right_arrow: `io.helidon.jersey:helidon-jersey-server:1.3.1`
+- :dvd: `io.helidon.media.common` :left_right_arrow: `io.helidon.media:helidon-media-common:1.3.1`
+- :dvd: `io.helidon.media.jackson.common` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-common:1.3.1`
+- :dvd: `io.helidon.media.jackson.server` :left_right_arrow: `io.helidon.media.jackson:helidon-media-jackson-server:1.3.1`
+- :dvd: `io.helidon.media.jsonb.common` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-common:1.3.1`
+- :dvd: `io.helidon.media.jsonb.server` :left_right_arrow: `io.helidon.media.jsonb:helidon-media-jsonb-server:1.3.1`
+- :dvd: `io.helidon.media.jsonp.common` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-common:1.3.1`
+- :dvd: `io.helidon.media.jsonp.server` :left_right_arrow: `io.helidon.media.jsonp:helidon-media-jsonp-server:1.3.1`
+- :dvd: `io.helidon.metrics` :left_right_arrow: `io.helidon.metrics:helidon-metrics:1.3.1`
+- :dvd: `io.helidon.metrics.prometheus` :left_right_arrow: `io.helidon.metrics:helidon-metrics-prometheus:1.3.1`
+- :dvd: `io.helidon.microprofile.accesslog` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-access-log:1.3.1`
+- :dvd: `io.helidon.microprofile.config` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config:1.3.1`
+- :dvd: `io.helidon.microprofile.config.cdi` :left_right_arrow: `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.3.1`
+- :dvd: `io.helidon.microprofile.faulttolerance` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-fault-tolerance:1.3.1`
+- :dvd: `io.helidon.microprofile.health` :left_right_arrow: `io.helidon.microprofile.health:helidon-microprofile-health:1.3.1`
+- :dvd: `io.helidon.microprofile.jwt.auth` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:1.3.1`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` :left_right_arrow: `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.3.1`
+- :dvd: `io.helidon.microprofile.metrics` :left_right_arrow: `io.helidon.microprofile.metrics:helidon-microprofile-metrics:1.3.1`
+- :dvd: `io.helidon.microprofile.oidc` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-oidc:1.3.1`
+- :dvd: `io.helidon.microprofile.openapi` :left_right_arrow: `io.helidon.microprofile.openapi:helidon-microprofile-openapi:1.3.1`
+- :dvd: `io.helidon.microprofile.restclient` :left_right_arrow: `io.helidon.microprofile.rest-client:helidon-microprofile-rest-client:1.3.1`
+- :dvd: `io.helidon.microprofile.security` :left_right_arrow: `io.helidon.microprofile:helidon-microprofile-security:1.3.1`
+- :dvd: `io.helidon.microprofile.server` :left_right_arrow: `io.helidon.microprofile.server:helidon-microprofile-server:1.3.1`
+- :dvd: `io.helidon.microprofile.tracing` :left_right_arrow: `io.helidon.microprofile.tracing:helidon-microprofile-tracing:1.3.1`
+- :dvd: `io.helidon.openapi` :left_right_arrow: `io.helidon.openapi:helidon-openapi:1.3.1`
+- :dvd: `io.helidon.security` :left_right_arrow: `io.helidon.security:helidon-security:1.3.1`
 - :dvd: `io.helidon.security.abac.policy` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy:0.10.6`
 - :dvd: `io.helidon.security.abac.policy.el` :left_right_arrow: `io.helidon.security:helidon-security-abac-policy-el:0.10.6`
 - :dvd: `io.helidon.security.abac.role` :left_right_arrow: `io.helidon.security:helidon-security-abac-role:0.10.6`
@@ -875,15 +875,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.abac.time` :left_right_arrow: `io.helidon.security:helidon-security-abac-time:0.10.6`
 - :dvd: `io.helidon.security.adapter.jersey` :left_right_arrow: `io.helidon.security:helidon-security-integration-jersey:0.10.6`
 - :dvd: `io.helidon.security.adapter.webserver` :left_right_arrow: `io.helidon.security:helidon-security-integration-webserver:0.10.6`
-- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.3.0`
+- :dvd: `io.helidon.security.annotations` :left_right_arrow: `io.helidon.security:helidon-security-annotations:1.3.1`
 - :dvd: `io.helidon.security.bundle` :left_right_arrow: `io.helidon.security:helidon-security-bundle:0.10.6`
 - :dvd: `io.helidon.security.integration.annotations` :left_right_arrow: `io.helidon.security:helidon-security-integration-annotations:0.10.6`
-- :dvd: `io.helidon.security.integration.common` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-common:1.3.0`
-- :dvd: `io.helidon.security.integration.grpc` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-grpc:1.3.0`
-- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.3.0`
-- :dvd: `io.helidon.security.integration.jersey.client` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey-client:1.3.0`
-- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.3.0`
-- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.3.0`
+- :dvd: `io.helidon.security.integration.common` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-common:1.3.1`
+- :dvd: `io.helidon.security.integration.grpc` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-grpc:1.3.1`
+- :dvd: `io.helidon.security.integration.jersey` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey:1.3.1`
+- :dvd: `io.helidon.security.integration.jersey.client` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-jersey-client:1.3.1`
+- :dvd: `io.helidon.security.integration.webserver` :left_right_arrow: `io.helidon.security.integration:helidon-security-integration-webserver:1.3.1`
+- :dvd: `io.helidon.security.jwt` :left_right_arrow: `io.helidon.security:helidon-security-jwt:1.3.1`
 - :dvd: `io.helidon.security.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.10.6`
 - :dvd: `io.helidon.security.oidc.common` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc-common:0.10.6`
 - :dvd: `io.helidon.security.provider.abac` :left_right_arrow: `io.helidon.security:helidon-security-provider-abac:0.10.6`
@@ -894,28 +894,28 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.security.provider.oidc` :left_right_arrow: `io.helidon.security:helidon-security-provider-oidc:0.9.1`
 - :dvd: `io.helidon.security.provider.signature` :left_right_arrow: `io.helidon.security:helidon-security-provider-http-signature:0.10.6`
 - :dvd: `io.helidon.security.providers` :left_right_arrow: `io.helidon.security:helidon-security-providers-common:0.10.6`
-- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.3.0`
-- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.3.0`
-- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.3.0`
-- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.3.0`
-- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.3.0`
-- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.3.0`
-- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.3.0`
-- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.3.0`
-- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.3.0`
-- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.3.0`
+- :dvd: `io.helidon.security.providers.abac` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-abac:1.3.1`
+- :dvd: `io.helidon.security.providers.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-common:1.3.1`
+- :dvd: `io.helidon.security.providers.google.login` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-google-login:1.3.1`
+- :dvd: `io.helidon.security.providers.header` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-header:1.3.1`
+- :dvd: `io.helidon.security.providers.httpauth` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-auth:1.3.1`
+- :dvd: `io.helidon.security.providers.httpsign` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-http-sign:1.3.1`
+- :dvd: `io.helidon.security.providers.idcs.mapper` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-idcs-mapper:1.3.1`
+- :dvd: `io.helidon.security.providers.jwt` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-jwt:1.3.1`
+- :dvd: `io.helidon.security.providers.oidc` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc:1.3.1`
+- :dvd: `io.helidon.security.providers.oidc.common` :left_right_arrow: `io.helidon.security.providers:helidon-security-providers-oidc-common:1.3.1`
 - :dvd: `io.helidon.security.tools.config` :left_right_arrow: `io.helidon.security:helidon-security-tools-config:0.10.6`
-- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.3.0`
-- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.3.0`
-- :dvd: `io.helidon.tracing.config` :left_right_arrow: `io.helidon.tracing:helidon-tracing-config:1.3.0`
-- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.3.0`
-- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.3.0`
-- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.3.0`
-- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.3.0`
-- :dvd: `io.helidon.webclient.jaxrs` :left_right_arrow: `io.helidon.webclient:helidon-webclient-jaxrs:1.3.0`
-- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.3.0`
-- :dvd: `io.helidon.webserver.accesslog` :left_right_arrow: `io.helidon.webserver:helidon-webserver-access-log:1.3.0`
-- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.3.0`
+- :dvd: `io.helidon.security.util` :left_right_arrow: `io.helidon.security:helidon-security-util:1.3.1`
+- :dvd: `io.helidon.tracing` :left_right_arrow: `io.helidon.tracing:helidon-tracing:1.3.1`
+- :dvd: `io.helidon.tracing.config` :left_right_arrow: `io.helidon.tracing:helidon-tracing-config:1.3.1`
+- :dvd: `io.helidon.tracing.jaeger` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jaeger:1.3.1`
+- :dvd: `io.helidon.tracing.jersey` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey:1.3.1`
+- :dvd: `io.helidon.tracing.jersey.client` :left_right_arrow: `io.helidon.tracing:helidon-tracing-jersey-client:1.3.1`
+- :dvd: `io.helidon.tracing.zipkin` :left_right_arrow: `io.helidon.tracing:helidon-tracing-zipkin:1.3.1`
+- :dvd: `io.helidon.webclient.jaxrs` :left_right_arrow: `io.helidon.webclient:helidon-webclient-jaxrs:1.3.1`
+- :dvd: `io.helidon.webserver` :left_right_arrow: `io.helidon.webserver:helidon-webserver:1.3.1`
+- :dvd: `io.helidon.webserver.accesslog` :left_right_arrow: `io.helidon.webserver:helidon-webserver-access-log:1.3.1`
+- :dvd: `io.helidon.webserver.jersey` :left_right_arrow: `io.helidon.webserver:helidon-webserver-jersey:1.3.1`
 - :dvd: `io.helidon.webserver.json` :left_right_arrow: `io.helidon.webserver:helidon-webserver-json:0.11.0`
 - :dvd: `io.helidon.webserver.netty` :left_right_arrow: `io.helidon.webserver:helidon-webserver-netty:0.10.6`
 - :dvd: `io.helidon.webserver.prometheus` :left_right_arrow: `io.helidon.webserver:helidon-webserver-prometheus:0.10.6`
@@ -1458,7 +1458,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `swim.web` :left_right_arrow: `ai.swim:swim-web:3.10.0`
 - :dvd: `swim.ws` :left_right_arrow: `ai.swim:swim-ws:3.10.0`
 - :dvd: `swim.xml` :left_right_arrow: `ai.swim:swim-xml:3.10.0`
-- :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.0.6`
+- :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.1.0`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0.1`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-PRD`
 - :dvd: `tk.plogitech.darksky` :left_right_arrow: `tk.plogitech:darksky-forecast-api:2.0.2`
