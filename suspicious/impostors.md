@@ -1367,6 +1367,11 @@
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.7` // `io.cucumber,datatable,1.1.7,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:2.0.0` // `io.cucumber,datatable,2.0.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.0.0` // `io.cucumber,datatable,3.0.0,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.datakernel.launchers.common` :left_right_arrow: `io.datakernel:datakernel-launchers-common:3.0.0-rc` // `io.datakernel,datakernel-launchers-common,3.0.0-rc,io.datakernel.launchers.common,-,automatic,-,false,-`
+- :cd: `io.datakernel.launchers.crdt` :left_right_arrow: `io.datakernel:datakernel-launchers-crdt:3.0.0-rc` // `io.datakernel,datakernel-launchers-crdt,3.0.0-rc,io.datakernel.launchers.crdt,-,automatic,-,false,-`
+- :cd: `io.datakernel.launchers.http` :left_right_arrow: `io.datakernel:datakernel-launchers-http:3.0.0-rc` // `io.datakernel,datakernel-launchers-http,3.0.0-rc,io.datakernel.launchers.http,-,automatic,-,false,-`
+- :cd: `io.datakernel.launchers.remotefs` :left_right_arrow: `io.datakernel:datakernel-launchers-remotefs:3.0.0-rc` // `io.datakernel,datakernel-launchers-remotefs,3.0.0-rc,io.datakernel.launchers.remotefs,-,automatic,-,false,-`
+- :cd: `io.datakernel.launchers.rpc` :left_right_arrow: `io.datakernel:datakernel-launchers-rpc:3.0.0-rc` // `io.datakernel,datakernel-launchers-rpc,3.0.0-rc,io.datakernel.launchers.rpc,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `cloud.orbit:orbit-core:1.12.0` // `cloud.orbit,orbit-core,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `cloud.orbit:orbit-runtime:1.12.0` // `cloud.orbit,orbit-runtime,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` :left_right_arrow: `com.github.bogie-clj:playground:0.1.1` // `com.github.bogie-clj,playground,0.1.1,io.github.classgraph,4.6.32,explicit,java.base + java.management + java.xml + jdk.unsupported,false,-`
@@ -2956,38 +2961,46 @@
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.10.0` // `org.apache.jena,jena-elephas-common,3.10.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.11.0` // `org.apache.jena,jena-elephas-common,3.11.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.12.0` // `org.apache.jena,jena-elephas-common,3.12.0,org.apache.jena.elephas,-,automatic,-,false,-`
+- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.13.0` // `org.apache.jena,jena-elephas-common,3.13.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.8.0` // `org.apache.jena,jena-elephas-common,3.8.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-common:3.9.0` // `org.apache.jena,jena-elephas-common,3.9.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.10.0` // `org.apache.jena,jena-elephas-io,3.10.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.11.0` // `org.apache.jena,jena-elephas-io,3.11.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.12.0` // `org.apache.jena,jena-elephas-io,3.12.0,org.apache.jena.elephas,-,automatic,-,false,-`
+- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.13.0` // `org.apache.jena,jena-elephas-io,3.13.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.8.0` // `org.apache.jena,jena-elephas-io,3.8.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-io:3.9.0` // `org.apache.jena,jena-elephas-io,3.9.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.10.0` // `org.apache.jena,jena-elephas-stats,3.10.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.11.0` // `org.apache.jena,jena-elephas-stats,3.11.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.12.0` // `org.apache.jena,jena-elephas-stats,3.12.0,org.apache.jena.elephas,-,automatic,-,false,-`
+- :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.13.0` // `org.apache.jena,jena-elephas-stats,3.13.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.8.0` // `org.apache.jena,jena-elephas-stats,3.8.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.elephas` :left_right_arrow: `org.apache.jena:jena-elephas-stats:3.9.0` // `org.apache.jena,jena-elephas-stats,3.9.0,org.apache.jena.elephas,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.10.0` // `org.apache.jena,jena-jdbc-core,3.10.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.11.0` // `org.apache.jena,jena-jdbc-core,3.11.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.12.0` // `org.apache.jena,jena-jdbc-core,3.12.0,org.apache.jena.jdbc,-,automatic,-,false,-`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.13.0` // `org.apache.jena,jena-jdbc-core,3.13.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.8.0` // `org.apache.jena,jena-jdbc-core,3.8.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-core:3.9.0` // `org.apache.jena,jena-jdbc-core,3.9.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.10.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.10.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.11.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.11.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.12.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.12.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.13.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.13.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.8.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.8.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-bundle:3.9.0` // `org.apache.jena,jena-jdbc-driver-bundle,3.9.0,org.apache.jena.jdbc,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.10.0` // `org.apache.jena,jena-jdbc-driver-mem,3.10.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.11.0` // `org.apache.jena,jena-jdbc-driver-mem,3.11.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.12.0` // `org.apache.jena,jena-jdbc-driver-mem,3.12.0,org.apache.jena.jdbc,-,automatic,-,false,-`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.13.0` // `org.apache.jena,jena-jdbc-driver-mem,3.13.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.8.0` // `org.apache.jena,jena-jdbc-driver-mem,3.8.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-mem:3.9.0` // `org.apache.jena,jena-jdbc-driver-mem,3.9.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.10.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.10.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.11.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.11.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.12.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.12.0,org.apache.jena.jdbc,-,automatic,-,false,-`
+- :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.13.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.13.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.8.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.8.0,org.apache.jena.jdbc,-,automatic,-,false,-`
 - :cd: `org.apache.jena.jdbc` :left_right_arrow: `org.apache.jena:jena-jdbc-driver-tdb:3.9.0` // `org.apache.jena,jena-jdbc-driver-tdb,3.9.0,org.apache.jena.jdbc,-,automatic,-,false,-`
+- :cd: `org.apache.jena.tdb` :left_right_arrow: `org.apache.jena:jena-shacl:3.13.0` // `org.apache.jena,jena-shacl,3.13.0,org.apache.jena.tdb,-,automatic,-,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `au.org.consumerdatastandards:codegen:0.9.6` // `au.org.consumerdatastandards,codegen,0.9.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `au.org.consumerdatastandards:codegen:1.0.0-RC1` // `au.org.consumerdatastandards,codegen,1.0.0-RC1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.ardikars.jxnet:jxnet-example:1.5.5.RC5` // `com.ardikars.jxnet,jxnet-example,1.5.5.RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -3823,6 +3836,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.23.2` // `com.github.tomakehurst,wiremock-jre8-standalone,2.23.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.24.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.24.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.24.1` // `com.github.tomakehurst,wiremock-jre8-standalone,2.24.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.25.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.25.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.21.0` // `com.github.tomakehurst,wiremock-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.22.0` // `com.github.tomakehurst,wiremock-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.23.0` // `com.github.tomakehurst,wiremock-standalone,2.23.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -3830,6 +3844,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.23.2` // `com.github.tomakehurst,wiremock-standalone,2.23.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.24.0` // `com.github.tomakehurst,wiremock-standalone,2.24.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.24.1` // `com.github.tomakehurst,wiremock-standalone,2.24.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.25.0` // `com.github.tomakehurst,wiremock-standalone,2.25.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16` // `com.google.gerrit,gerrit-acceptance-framework,2.16,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16-rc0` // `com.google.gerrit,gerrit-acceptance-framework,2.16-rc0,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16-rc1` // `com.google.gerrit,gerrit-acceptance-framework,2.16-rc1,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -4044,6 +4059,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.53` // `org.reaktivity,nukleus-oauth,0.53,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.54` // `org.reaktivity,nukleus-oauth,0.54,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.55` // `org.reaktivity,nukleus-oauth,0.55,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.56` // `org.reaktivity,nukleus-oauth,0.56,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`

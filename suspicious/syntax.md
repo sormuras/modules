@@ -321,6 +321,7 @@
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.2` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.3` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.jena:jena-dboe-storage:3.12.0` // `org.apache.jena,jena-dboe-storage,3.12.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.apache.jena:jena-dboe-storage:3.13.0` // `org.apache.jena,jena-dboe-storage,3.13.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.1` // `org.apache.logging.log4j,log4j-liquibase,2.11.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.2` // `org.apache.logging.log4j,log4j-liquibase,2.11.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.12.0` // `org.apache.logging.log4j,log4j-liquibase,2.12.0,-,-,automatic,-,false,-`
@@ -2395,6 +2396,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.8` // `org.neo4j,neo4j-expressions-3.5,3.5.8,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.9` // `org.neo4j,neo4j-expressions-3.5,3.5.9,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-4.0:4.0-alpha0-20181130` // `org.neo4j,neo4j-expressions-4.0,4.0-alpha0-20181130,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-RC1` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-RC1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-RC2` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-RC2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha01` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha01,-,-,automatic,-,false,-`
@@ -2403,6 +2405,8 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha04` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha04,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha05` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha05,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.0-alpha06` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.0-alpha06,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.1` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.1,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-RC1` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-RC1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-RC2` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-RC2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha01` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha01,-,-,automatic,-,false,-`
@@ -2411,6 +2415,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha04` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha04,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha05` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha05,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-alpha06` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-alpha06,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.1` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.1` // `org.neo4j,neo4j-parser-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.10` // `org.neo4j,neo4j-parser-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.11` // `org.neo4j,neo4j-parser-3.5,3.5.11,-,-,automatic,-,false,-`

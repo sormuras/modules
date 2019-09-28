@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5117 Java modules published at Maven Central
+Counted 5119 Java modules published at Maven Central
 
-## Summary 2019-09-27T23:25:59.182607Z
+## Summary 2019-09-28T23:26:39.838996Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-27T23:25:59.182607Z
-Scanned 32,887 files in 4 seconds.
+Started scan at 2019-09-28T23:26:39.838996Z
+Scanned 32,956 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_27_23_10_05.csv
+    last -> modulescanner-report-2019_09_28_23_00_20.csv
 
-Parsed 2,081,671 lines in total.
-  36,689 -> captions skipped
-  140,367 -> duplicates skipped
-  87,102 -> module related
+Parsed 2,085,765 lines in total.
+  36,758 -> captions skipped
+  140,626 -> duplicates skipped
+  87,234 -> module related
 
-Collected 5,117 unique modules.
-  automatic :cd: -> 3,749
-  explicit :dvd: -> 1,368
+Collected 5,119 unique modules.
+  automatic :cd: -> 3,750
+  explicit :dvd: -> 1,369
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,20 +91,20 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8147](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12343](suspicious/naming.md)
-- Modular impostors: [4457](suspicious/impostors.md)
+- Invalid module names: [8152](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12350](suspicious/naming.md)
+- Modular impostors: [4473](suspicious/impostors.md)
 
-## Unique Modules (5117)
+## Unique Modules (5119)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.5`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.7`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.5`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.0.6`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.0`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.2`
@@ -735,6 +735,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
+- :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
 - :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.13`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
