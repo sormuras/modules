@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5119 Java modules published at Maven Central
 
-## Summary 2019-09-28T23:26:39.838996Z
+## Summary 2019-09-29T23:26:58.976937Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-28T23:26:39.838996Z
-Scanned 32,956 files in 5 seconds.
+Started scan at 2019-09-29T23:26:58.976937Z
+Scanned 33,033 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_28_23_00_20.csv
+    last -> modulescanner-report-2019_09_29_22_45_13.csv
 
-Parsed 2,085,765 lines in total.
-  36,758 -> captions skipped
-  140,626 -> duplicates skipped
-  87,234 -> module related
+Parsed 2,090,511 lines in total.
+  36,835 -> captions skipped
+  140,907 -> duplicates skipped
+  87,372 -> module related
 
 Collected 5,119 unique modules.
   automatic :cd: -> 3,750
@@ -23,7 +23,7 @@ Collected 5,119 unique modules.
 ## Samples
             junit -> junit:junit:4.13-beta-3
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.5.2
-org.objectweb.asm -> org.ow2.asm:asm:7.2-beta
+org.objectweb.asm -> org.ow2.asm:asm:7.2
 com.google.common -> com.google.guava:guava:28.1-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8152](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12350](suspicious/naming.md)
-- Modular impostors: [4473](suspicious/impostors.md)
+- Invalid module names: [8183](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12410](suspicious/naming.md)
+- Modular impostors: [4474](suspicious/impostors.md)
 
 ## Unique Modules (5119)
 
@@ -179,33 +179,33 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.core` :left_right_arrow: `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
-- :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.8.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:1.8.0`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:1.8.0`
+- :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:1.9.0`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:1.9.0`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:1.8.0`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:1.8.0`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:1.8.0`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:1.8.0`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:1.8.0`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:1.8.0`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:1.8.0`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:1.8.0`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:1.8.0`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:1.8.0`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:1.8.0`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:1.8.0`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:1.8.0`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:1.8.0`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:1.8.0`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:1.8.0`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:1.8.0`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:1.8.0`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:1.8.0`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:1.8.0`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:1.8.0`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:1.8.0`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:1.8.0`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:1.9.0`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:1.9.0`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:1.9.0`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:1.9.0`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:1.9.0`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:1.9.0`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:1.9.0`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:1.9.0`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:1.9.0`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:1.9.0`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:1.9.0`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:1.9.0`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:1.9.0`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:1.9.0`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:1.9.0`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:1.9.0`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:1.9.0`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:1.9.0`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:1.9.0`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:1.9.0`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:1.9.0`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:1.9.0`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:1.9.0`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.1.1`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
@@ -1204,7 +1204,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` :left_right_arrow: `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.17`
+- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.18`
 - :dvd: `org.jooq.jool` :left_right_arrow: `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` :left_right_arrow: `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` :left_right_arrow: `org.jooq:joou:0.9.4`
@@ -1260,7 +1260,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.4`
 - :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.4`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.1.0`
+- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.2.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.1.0`
 - :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.3`
@@ -1307,13 +1307,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.4`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.1`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
-- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2-beta`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2`
 - :dvd: `org.objectweb.asm.all` :left_right_arrow: `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` :left_right_arrow: `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.2-beta`
-- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.2-beta`
-- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2-beta`
-- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2-beta`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.2`
+- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.2`
+- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2`
+- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
