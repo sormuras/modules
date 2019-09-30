@@ -48,6 +48,7 @@
 - :cd: `Utilities` :left_right_arrow: `com.dorkbox:Utilities:1.2` // `com.dorkbox,Utilities,1.2,Utilities,-,automatic,-,false,-`
 - :cd: `aQute.libg` :left_right_arrow: `biz.aQute.bnd:aQute.libg:4.1.0` // `biz.aQute.bnd,aQute.libg,4.1.0,aQute.libg,-,automatic,-,false,-`
 - :cd: `aQute.libg` :left_right_arrow: `biz.aQute.bnd:aQute.libg:4.2.0` // `biz.aQute.bnd,aQute.libg,4.2.0,aQute.libg,-,automatic,-,false,-`
+- :cd: `aQute.libg` :left_right_arrow: `biz.aQute.bnd:aQute.libg:4.3.0` // `biz.aQute.bnd,aQute.libg,4.3.0,aQute.libg,-,automatic,-,false,-`
 - :dvd: `achord` :left_right_arrow: `com.github.mangelion:achord:0.2.1` // `com.github.mangelion,achord,0.2.1,achord,-,explicit,jctools.core + io.netty.common + io.netty.transport + java.base + io.netty.buffer + io.netty.codec + lz4.java,true,-`
 - :dvd: `aion.api.client` :left_right_arrow: `com.bloxbean:blox4j-aion-api:0.1.17` // `com.bloxbean,blox4j-aion-api,0.1.17,aion.api.client,-,explicit,aion.base + aion.crypto + aion.log + aion.rlp + aion.vm.api + commons.collections4 + gson + java.base + java.xml + jsr305 + libnzmq + logback.classic + logback.core + protobuf.java + slf4j.api,false,-`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.11:2.5.15` // `com.typesafe.akka,akka-actor_2.11,2.5.15,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -5365,14 +5366,17 @@
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4-RC1,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4-RC2,eclipselink.antlr,-,automatic,-,false,-`
+- :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.5-RC1,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.3` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.3,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4-RC1,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4-RC2,eclipselink.asm,-,automatic,-,false,-`
+- :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.5-RC1,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.3` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.3,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4-RC1,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4-RC2,eclipselink.oracleddlparser,-,automatic,-,false,-`
+- :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.5-RC1,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `emagin.client.utils` :left_right_arrow: `com.nexitia.emaginplatform:emagin-core-utils:11.0.2` // `com.nexitia.emaginplatform,emagin-core-utils,11.0.2,emagin.client.utils,-,automatic,-,false,-`
 - :cd: `emagin.client.utils` :left_right_arrow: `com.nexitia.emaginplatform:emagin-core-utils:11.0.4` // `com.nexitia.emaginplatform,emagin-core-utils,11.0.4,emagin.client.utils,-,automatic,-,false,-`
 - :cd: `emagin.client.utils` :left_right_arrow: `com.nexitia.emaginplatform:emagin-core-utils:11.0.5` // `com.nexitia.emaginplatform,emagin-core-utils,11.0.5,emagin.client.utils,-,automatic,-,false,-`
@@ -5823,6 +5827,8 @@
 - :cd: `io.micronaut.aws.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.1.0.RC3` // `io.micronaut.configuration,micronaut-aws-common,1.1.0.RC3,io.micronaut.aws.aws_common,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.1.1` // `io.micronaut.configuration,micronaut-aws-common,1.1.1,io.micronaut.aws.aws_common,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.1.2` // `io.micronaut.configuration,micronaut-aws-common,1.1.2,io.micronaut.aws.aws_common,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.3.0` // `io.micronaut.configuration,micronaut-aws-common,1.3.0,io.micronaut.aws.aws_common,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.aws_common` :left_right_arrow: `io.micronaut.configuration:micronaut-aws-common:1.3.1` // `io.micronaut.configuration,micronaut-aws-common,1.3.1,io.micronaut.aws.aws_common,-,automatic,-,false,-`
 - :cd: `io.micronaut.gcp.cassandra` :left_right_arrow: `io.micronaut.configuration:micronaut-cassandra:1.2.0` // `io.micronaut.configuration,micronaut-cassandra,1.2.0,io.micronaut.gcp.cassandra,-,automatic,-,false,-`
 - :cd: `io.micronaut.gcp.hibernate_validator` :left_right_arrow: `io.micronaut.configuration:micronaut-hibernate-validator:1.2.0` // `io.micronaut.configuration,micronaut-hibernate-validator,1.2.0,io.micronaut.gcp.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.gorm_common` :left_right_arrow: `io.micronaut.configuration:micronaut-gorm-common:1.0.4` // `io.micronaut.configuration,micronaut-gorm-common,1.0.4,io.micronaut.gorm_common,-,automatic,-,false,-`
@@ -11990,6 +11996,7 @@
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.0.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.0.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.1.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.1.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.10.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.10.RELEASE,spring.amqp,-,automatic,-,false,-`
+- :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.11.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.11.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.2.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.2.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.3.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.3.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.4.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.4.RELEASE,spring.amqp,-,automatic,-,false,-`
@@ -12038,12 +12045,16 @@
 - :cd: `spring.geode.starter.session` :left_right_arrow: `org.springframework.geode:spring-geode-starter-session:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter-session,1.1.1.RELEASE,spring.geode.starter.session,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.test` :left_right_arrow: `org.springframework.geode:spring-geode-starter-test:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-starter-test,1.1.0.RELEASE,spring.geode.starter.test,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.test` :left_right_arrow: `org.springframework.geode:spring-geode-starter-test:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter-test,1.1.1.RELEASE,spring.geode.starter.test,-,automatic,-,false,-`
+- :cd: `spring.hateoas` :left_right_arrow: `org.springframework.hateoas:spring-hateoas:1.0.0.RELEASE` // `org.springframework.hateoas,spring-hateoas,1.0.0.RELEASE,spring.hateoas,-,automatic,-,false,-`
+- :cd: `spring.plugin.core` :left_right_arrow: `org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE` // `org.springframework.plugin,spring-plugin-core,2.0.0.RELEASE,spring.plugin.core,-,automatic,-,false,-`
+- :cd: `spring.plugin.metadata` :left_right_arrow: `org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE` // `org.springframework.plugin,spring-plugin-metadata,2.0.0.RELEASE,spring.plugin.metadata,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.5.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.6.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit,2.0.7.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.0.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.0.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.1.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.1.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.10.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.10.RELEASE,spring.rabbit,-,automatic,-,false,-`
+- :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.11.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.11.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.2.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.3.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.4.RELEASE,spring.rabbit,-,automatic,-,false,-`
@@ -12058,6 +12069,7 @@
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.0.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.0.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.1.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.1.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.10.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.10.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
+- :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.11.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.11.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.2.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.3.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.4.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
@@ -12072,6 +12084,7 @@
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.0.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.0.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.1.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.1.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.10.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.10.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
+- :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.11.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.11.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.2.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.2.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.3.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.3.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.4.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.4.RELEASE,spring.rabbit.test,-,automatic,-,false,-`

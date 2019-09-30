@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5119 Java modules published at Maven Central
+Counted 5146 Java modules published at Maven Central
 
-## Summary 2019-09-29T23:26:58.976937Z
+## Summary 2019-09-30T23:27:20.964754Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-29T23:26:58.976937Z
-Scanned 33,033 files in 4 seconds.
+Started scan at 2019-09-30T23:27:20.964754Z
+Scanned 33,103 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_29_22_45_13.csv
+    last -> modulescanner-report-2019_09_30_22_55_12.csv
 
-Parsed 2,090,511 lines in total.
-  36,835 -> captions skipped
-  140,907 -> duplicates skipped
-  87,372 -> module related
+Parsed 2,100,584 lines in total.
+  36,905 -> captions skipped
+  141,530 -> duplicates skipped
+  87,803 -> module related
 
-Collected 5,119 unique modules.
-  automatic :cd: -> 3,750
-  explicit :dvd: -> 1,369
+Collected 5,146 unique modules.
+  automatic :cd: -> 3,755
+  explicit :dvd: -> 1,391
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,20 +91,21 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8183](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12410](suspicious/naming.md)
-- Modular impostors: [4474](suspicious/impostors.md)
+- Invalid module names: [8189](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12423](suspicious/naming.md)
+- Modular impostors: [4476](suspicious/impostors.md)
 
-## Unique Modules (5119)
+## Unique Modules (5146)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
+- :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.1`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.7`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.5`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.0`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.1`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.2`
@@ -168,7 +169,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.2`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.0`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.1`
+- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.0`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.8.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
@@ -676,6 +678,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.1`
+- :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.9`
 - :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.9`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.4.0-b180830.0438`
@@ -725,8 +728,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
-- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.3`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.3`
+- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.4`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.1.0`
@@ -1328,6 +1331,25 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.pojomatic` :left_right_arrow: `org.pojomatic:pojomatic:2.2.1`
 - :dvd: `org.postgresql.adba` :left_right_arrow: `org.postgresql:pgadba:0.1.1-ALPHA`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` :left_right_arrow: `org.rapidpm.vaadin:cdi-addon-modules-impl:0.1.0`
+- :dvd: `org.seleniumhq.selenium.api` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.chrome_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.chromium_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.devtools` :left_right_arrow: `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.edge_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.edgehtml_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.firefox_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.grid` :left_right_arrow: `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.http` :left_right_arrow: `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.ie_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.java` :left_right_arrow: `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.json` :left_right_arrow: `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.leg_rc` :left_right_arrow: `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.lift` :left_right_arrow: `org.seleniumhq.selenium:lift:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.opera_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.remote_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.safari_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.support` :left_right_arrow: `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-3`
 - :dvd: `org.slf4j` :left_right_arrow: `org.slf4j:slf4j-api:2.0.0-alpha0`
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha0`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha0`
