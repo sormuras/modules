@@ -2605,33 +2605,52 @@
 - :cd: `beta.jboss.websocket.api_1_1` :left_right_arrow: `org.jboss.spec.javax.websocket:jboss-websocket-api_1.1_spec:2.0.0.Final` // `org.jboss.spec.javax.websocket,jboss-websocket-api_1.1_spec,2.0.0.Final,beta.jboss.websocket.api_1_1,-,automatic,-,false,-`
 - :cd: `biz.aQute.junit` :left_right_arrow: `biz.aQute.bnd:biz.aQute.junit:4.1.0` // `biz.aQute.bnd,biz.aQute.junit,4.1.0,biz.aQute.junit,-,automatic,-,false,-`
 - :cd: `biz.aQute.junit` :left_right_arrow: `biz.aQute.bnd:biz.aQute.junit:4.2.0` // `biz.aQute.bnd,biz.aQute.junit,4.2.0,biz.aQute.junit,-,automatic,-,false,-`
+- :cd: `biz.aQute.junit` :left_right_arrow: `biz.aQute.bnd:biz.aQute.junit:4.3.0` // `biz.aQute.bnd,biz.aQute.junit,4.3.0,biz.aQute.junit,-,automatic,-,false,-`
 - :cd: `biz.aQute.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.launcher:4.1.0` // `biz.aQute.bnd,biz.aQute.launcher,4.1.0,biz.aQute.launcher,-,automatic,-,false,-`
 - :cd: `biz.aQute.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.launcher:4.2.0` // `biz.aQute.bnd,biz.aQute.launcher,4.2.0,biz.aQute.launcher,-,automatic,-,false,-`
+- :cd: `biz.aQute.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.launcher:4.3.0` // `biz.aQute.bnd,biz.aQute.launcher,4.3.0,biz.aQute.launcher,-,automatic,-,false,-`
 - :cd: `biz.aQute.launchpad` :left_right_arrow: `biz.aQute.bnd:biz.aQute.launchpad:4.2.0` // `biz.aQute.bnd,biz.aQute.launchpad,4.2.0,biz.aQute.launchpad,-,automatic,-,false,-`
+- :cd: `biz.aQute.launchpad` :left_right_arrow: `biz.aQute.bnd:biz.aQute.launchpad:4.3.0` // `biz.aQute.bnd,biz.aQute.launchpad,4.3.0,biz.aQute.launchpad,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.agent` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.agent:4.1.0` // `biz.aQute.bnd,biz.aQute.remote.agent,4.1.0,biz.aQute.remote.agent,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.agent` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.agent:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.agent,4.2.0,biz.aQute.remote.agent,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.agent` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.agent:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.agent,4.3.0,biz.aQute.remote.agent,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.api` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.api:4.1.0` // `biz.aQute.bnd,biz.aQute.remote.api,4.1.0,biz.aQute.remote.api,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.api` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.api:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.api,4.2.0,biz.aQute.remote.api,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.api` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.api:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.api,4.3.0,biz.aQute.remote.api,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.fixup` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.fixup:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.fixup,4.2.0,biz.aQute.remote.fixup,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.fixup` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.fixup:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.fixup,4.3.0,biz.aQute.remote.fixup,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.gc` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.gc:4.1.0` // `biz.aQute.bnd,biz.aQute.remote.gc,4.1.0,biz.aQute.remote.gc,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.gc` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.gc:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.gc,4.2.0,biz.aQute.remote.gc,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.gc` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.gc:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.gc,4.3.0,biz.aQute.remote.gc,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.launcher:4.1.0` // `biz.aQute.bnd,biz.aQute.remote.launcher,4.1.0,biz.aQute.remote.launcher,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.launcher:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.launcher,4.2.0,biz.aQute.remote.launcher,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.launcher` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.launcher:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.launcher,4.3.0,biz.aQute.remote.launcher,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.main` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.main:4.1.0` // `biz.aQute.bnd,biz.aQute.remote.main,4.1.0,biz.aQute.remote.main,-,automatic,-,false,-`
 - :cd: `biz.aQute.remote.main` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.main:4.2.0` // `biz.aQute.bnd,biz.aQute.remote.main,4.2.0,biz.aQute.remote.main,-,automatic,-,false,-`
+- :cd: `biz.aQute.remote.main` :left_right_arrow: `biz.aQute.bnd:biz.aQute.remote.main:4.3.0` // `biz.aQute.bnd,biz.aQute.remote.main,4.3.0,biz.aQute.remote.main,-,automatic,-,false,-`
 - :cd: `biz.aQute.repository` :left_right_arrow: `biz.aQute.bnd:biz.aQute.repository:4.1.0` // `biz.aQute.bnd,biz.aQute.repository,4.1.0,biz.aQute.repository,-,automatic,-,false,-`
 - :cd: `biz.aQute.repository` :left_right_arrow: `biz.aQute.bnd:biz.aQute.repository:4.2.0` // `biz.aQute.bnd,biz.aQute.repository,4.2.0,biz.aQute.repository,-,automatic,-,false,-`
+- :cd: `biz.aQute.repository` :left_right_arrow: `biz.aQute.bnd:biz.aQute.repository:4.3.0` // `biz.aQute.bnd,biz.aQute.repository,4.3.0,biz.aQute.repository,-,automatic,-,false,-`
 - :cd: `biz.aQute.resolve` :left_right_arrow: `biz.aQute.bnd:biz.aQute.resolve:4.1.0` // `biz.aQute.bnd,biz.aQute.resolve,4.1.0,biz.aQute.resolve,-,automatic,-,false,-`
 - :cd: `biz.aQute.resolve` :left_right_arrow: `biz.aQute.bnd:biz.aQute.resolve:4.2.0` // `biz.aQute.bnd,biz.aQute.resolve,4.2.0,biz.aQute.resolve,-,automatic,-,false,-`
+- :cd: `biz.aQute.resolve` :left_right_arrow: `biz.aQute.bnd:biz.aQute.resolve:4.3.0` // `biz.aQute.bnd,biz.aQute.resolve,4.3.0,biz.aQute.resolve,-,automatic,-,false,-`
 - :cd: `biz.aQute.tester` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester:4.1.0` // `biz.aQute.bnd,biz.aQute.tester,4.1.0,biz.aQute.tester,-,automatic,-,false,-`
 - :cd: `biz.aQute.tester` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester:4.2.0` // `biz.aQute.bnd,biz.aQute.tester,4.2.0,biz.aQute.tester,-,automatic,-,false,-`
+- :cd: `biz.aQute.tester` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester:4.3.0` // `biz.aQute.bnd,biz.aQute.tester,4.3.0,biz.aQute.tester,-,automatic,-,false,-`
 - :cd: `bndtools.api` :left_right_arrow: `org.bndtools:bndtools.api:4.2.0` // `org.bndtools,bndtools.api,4.2.0,bndtools.api,-,automatic,-,false,-`
+- :cd: `bndtools.api` :left_right_arrow: `org.bndtools:bndtools.api:4.3.0` // `org.bndtools,bndtools.api,4.3.0,bndtools.api,-,automatic,-,false,-`
 - :cd: `bndtools.builder` :left_right_arrow: `org.bndtools:bndtools.builder:4.2.0` // `org.bndtools,bndtools.builder,4.2.0,bndtools.builder,-,automatic,-,false,-`
+- :cd: `bndtools.builder` :left_right_arrow: `org.bndtools:bndtools.builder:4.3.0` // `org.bndtools,bndtools.builder,4.3.0,bndtools.builder,-,automatic,-,false,-`
 - :cd: `bndtools.core` :left_right_arrow: `org.bndtools:bndtools.core:4.2.0` // `org.bndtools,bndtools.core,4.2.0,bndtools.core,-,automatic,-,false,-`
+- :cd: `bndtools.core` :left_right_arrow: `org.bndtools:bndtools.core:4.3.0` // `org.bndtools,bndtools.core,4.3.0,bndtools.core,-,automatic,-,false,-`
 - :cd: `bndtools.jareditor` :left_right_arrow: `org.bndtools:bndtools.jareditor:4.2.0` // `org.bndtools,bndtools.jareditor,4.2.0,bndtools.jareditor,-,automatic,-,false,-`
+- :cd: `bndtools.jareditor` :left_right_arrow: `org.bndtools:bndtools.jareditor:4.3.0` // `org.bndtools,bndtools.jareditor,4.3.0,bndtools.jareditor,-,automatic,-,false,-`
 - :cd: `bndtools.m2e` :left_right_arrow: `org.bndtools:bndtools.m2e:4.2.0` // `org.bndtools,bndtools.m2e,4.2.0,bndtools.m2e,-,automatic,-,false,-`
+- :cd: `bndtools.m2e` :left_right_arrow: `org.bndtools:bndtools.m2e:4.3.0` // `org.bndtools,bndtools.m2e,4.3.0,bndtools.m2e,-,automatic,-,false,-`
 - :cd: `bndtools.pde` :left_right_arrow: `org.bndtools:bndtools.pde:4.2.0` // `org.bndtools,bndtools.pde,4.2.0,bndtools.pde,-,automatic,-,false,-`
+- :cd: `bndtools.pde` :left_right_arrow: `org.bndtools:bndtools.pde:4.3.0` // `org.bndtools,bndtools.pde,4.3.0,bndtools.pde,-,automatic,-,false,-`
 - :cd: `bndtools.release` :left_right_arrow: `org.bndtools:bndtools.release:4.2.0` // `org.bndtools,bndtools.release,4.2.0,bndtools.release,-,automatic,-,false,-`
+- :cd: `bndtools.release` :left_right_arrow: `org.bndtools:bndtools.release:4.3.0` // `org.bndtools,bndtools.release,4.3.0,bndtools.release,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.2.0` // `io.zipkin.brave,brave,5.2.0,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.3.0` // `io.zipkin.brave,brave,5.3.0,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.3.1` // `io.zipkin.brave,brave,5.3.1,brave,-,automatic,-,false,-`
@@ -3850,6 +3869,8 @@
 - :cd: `com.google.api.services.compute` :left_right_arrow: `com.google.apis:google-api-services-compute:v1-rev20190815-1.29.2` // `com.google.apis,google-api-services-compute,v1-rev20190815-1.29.2,com.google.api.services.compute,-,automatic,-,false,-`
 - :cd: `com.google.api.services.compute` :left_right_arrow: `com.google.apis:google-api-services-compute:v1-rev20190815-1.30.1` // `com.google.apis,google-api-services-compute,v1-rev20190815-1.30.1,com.google.api.services.compute,-,automatic,-,false,-`
 - :cd: `com.google.api.services.compute` :left_right_arrow: `com.google.apis:google-api-services-compute:v1-rev20190825-1.30.3` // `com.google.apis,google-api-services-compute,v1-rev20190825-1.30.3,com.google.api.services.compute,-,automatic,-,false,-`
+- :cd: `com.google.api.services.compute` :left_right_arrow: `com.google.apis:google-api-services-compute:v1-rev20190905-1.28.0` // `com.google.apis,google-api-services-compute,v1-rev20190905-1.28.0,com.google.api.services.compute,-,automatic,-,false,-`
+- :cd: `com.google.api.services.compute` :left_right_arrow: `com.google.apis:google-api-services-compute:v1-rev20190905-1.30.3` // `com.google.apis,google-api-services-compute,v1-rev20190905-1.30.3,com.google.api.services.compute,-,automatic,-,false,-`
 - :cd: `com.google.api.services.container` :left_right_arrow: `com.google.apis:google-api-services-container:v1-rev20190610-1.30.1` // `com.google.apis,google-api-services-container,v1-rev20190610-1.30.1,com.google.api.services.container,-,automatic,-,false,-`
 - :cd: `com.google.api.services.container` :left_right_arrow: `com.google.apis:google-api-services-container:v1-rev20190628-1.28.0` // `com.google.apis,google-api-services-container,v1-rev20190628-1.28.0,com.google.api.services.container,-,automatic,-,false,-`
 - :cd: `com.google.api.services.container` :left_right_arrow: `com.google.apis:google-api-services-container:v1-rev20190628-1.30.1` // `com.google.apis,google-api-services-container,v1-rev20190628-1.30.1,com.google.api.services.container,-,automatic,-,false,-`
@@ -6044,6 +6065,7 @@
 - :dvd: `java.xml.bind` :left_right_arrow: `com.github.agliznetsov.swagger-tools:swagger-tools-cli:0.3.4` // `com.github.agliznetsov.swagger-tools,swagger-tools-cli,0.3.4,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.github.agliznetsov.swagger-tools:swagger-tools-cli:0.4.0` // `com.github.agliznetsov.swagger-tools,swagger-tools-cli,0.4.0,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.github.agliznetsov.swagger-tools:swagger-tools-cli:0.4.1` // `com.github.agliznetsov.swagger-tools,swagger-tools-cli,0.4.1,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
+- :dvd: `java.xml.bind` :left_right_arrow: `com.github.containersolutions:webserver-sample:0.3.6` // `com.github.containersolutions,webserver-sample,0.3.6,java.xml.bind,-,explicit,java.activation + java.base + java.desktop + java.logging + java.xml,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.github.robozonky.distribution:robozonky-distribution-installer-4.6.0-cr-1:4.6.0-cr-1` // `com.github.robozonky.distribution,robozonky-distribution-installer-4.6.0-cr-1,4.6.0-cr-1,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.growin:flipper_2.12:0.3` // `com.growin,flipper_2.12,0.3,java.xml.bind,-,explicit,java.activation + java.base + java.xml + java.desktop + java.logging,true,-`
 - :dvd: `java.xml.bind` :left_right_arrow: `com.squareup.misk:chat:0.3.0` // `com.squareup.misk,chat,0.3.0,java.xml.bind,-,explicit,java.activation + java.desktop + java.xml + java.logging + java.base,false,-`
@@ -6386,6 +6408,7 @@
 - :dvd: `jt400` :left_right_arrow: `net.sf.jt400:jt400-jdk9:9.8` // `net.sf.jt400,jt400-jdk9,9.8,jt400,-,explicit,java.base + java.datatransfer + java.desktop + java.logging + java.naming + java.security.jgss + java.sql + java.xml,false,-`
 - :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta4` // `org.slf4j,jul-to-slf4j,1.8.0-beta4,jul.to.slf4j,-,automatic,-,true,-`
 - :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:2.0.0-alpha0` // `org.slf4j,jul-to-slf4j,2.0.0-alpha0,jul.to.slf4j,-,automatic,-,true,-`
+- :cd: `jul.to.slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:2.0.0-alpha1` // `org.slf4j,jul-to-slf4j,2.0.0-alpha1,jul.to.slf4j,-,automatic,-,true,-`
 - :cd: `jul_to_slf4j` :left_right_arrow: `org.slf4j:jul-to-slf4j:1.8.0-beta2` // `org.slf4j,jul-to-slf4j,1.8.0-beta2,jul_to_slf4j,-,automatic,-,false,-`
 - :cd: `junit.params.generated` :left_right_arrow: `com.wesleyhome.test:junit-jupiter-params-generated:1.0.3` // `com.wesleyhome.test,junit-jupiter-params-generated,1.0.3,junit.params.generated,-,automatic,-,false,-`
 - :dvd: `kiwi` :left_right_arrow: `com.gitlab.tixtix320:kiwi:0.5.0` // `com.gitlab.tixtix320,kiwi,0.5.0,kiwi,-,explicit,java.base,false,-`
@@ -6420,6 +6443,7 @@
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta2` // `org.slf4j,log4j-over-slf4j,1.8.0-beta2,log4j,-,explicit,org.slf4j + java.xml + java.base,true,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta4` // `org.slf4j,log4j-over-slf4j,1.8.0-beta4,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha0` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha0,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
+- :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha1` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha1,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `lombok` :left_right_arrow: `com.yubico:java-yubihsm:0.1.0RC1` // `com.yubico,java-yubihsm,0.1.0RC1,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported,false,-`
 - :dvd: `lombok` :left_right_arrow: `io.pravega:pravega-connectors-hadoop:0.5.0` // `io.pravega,pravega-connectors-hadoop,0.5.0,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.10` // `org.projectlombok,lombok,1.18.10,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
@@ -7166,6 +7190,7 @@
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:1.8.0-beta2` // `org.slf4j,jcl-over-slf4j,1.8.0-beta2,org.apache.commons.logging,-,explicit,org.slf4j + java.base,true,-`
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:1.8.0-beta4` // `org.slf4j,jcl-over-slf4j,1.8.0-beta4,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:2.0.0-alpha0` // `org.slf4j,jcl-over-slf4j,2.0.0-alpha0,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.apache.commons.logging` :left_right_arrow: `org.slf4j:jcl-over-slf4j:2.0.0-alpha1` // `org.slf4j,jcl-over-slf4j,2.0.0-alpha1,org.apache.commons.logging,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.2.6` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.2.6,org.apache.cxf.sts.core,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.2.7` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.2.7,org.apache.cxf.sts.core,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.sts.core` :left_right_arrow: `org.apache.cxf.services.sts:cxf-services-sts-core:3.3.0` // `org.apache.cxf.services.sts,cxf-services-sts-core,3.3.0,org.apache.cxf.sts.core,-,automatic,-,false,-`
@@ -12005,6 +12030,7 @@
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.7.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.7.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.8.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.8.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.1.9.RELEASE` // `org.springframework.amqp,spring-amqp,2.1.9.RELEASE,spring.amqp,-,automatic,-,false,-`
+- :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.2.0.RELEASE` // `org.springframework.amqp,spring-amqp,2.2.0.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.1.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.1.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
@@ -12063,6 +12089,7 @@
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.7.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.8.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit,2.1.9.RELEASE,spring.rabbit,-,automatic,-,false,-`
+- :cd: `spring.rabbit` :left_right_arrow: `org.springframework.amqp:spring-rabbit:2.2.0.RELEASE` // `org.springframework.amqp,spring-rabbit,2.2.0.RELEASE,spring.rabbit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.5.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.6.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.0.7.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
@@ -12078,6 +12105,7 @@
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.7.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.8.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.1.9.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
+- :cd: `spring.rabbit.junit` :left_right_arrow: `org.springframework.amqp:spring-rabbit-junit:2.2.0.RELEASE` // `org.springframework.amqp,spring-rabbit-junit,2.2.0.RELEASE,spring.rabbit.junit,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.5.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.5.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.6.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.6.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.0.7.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.0.7.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
@@ -12093,6 +12121,7 @@
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.7.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.7.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.8.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.8.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.1.9.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.1.9.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
+- :cd: `spring.rabbit.test` :left_right_arrow: `org.springframework.amqp:spring-rabbit-test:2.2.0.RELEASE` // `org.springframework.amqp,spring-rabbit-test,2.2.0.RELEASE,spring.rabbit.test,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.4.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.4.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.5.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.5.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.security.oauth2.autoconfigure` :left_right_arrow: `org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.6.RELEASE` // `org.springframework.security.oauth.boot,spring-security-oauth2-autoconfigure,2.0.6.RELEASE,spring.security.oauth2.autoconfigure,-,automatic,-,false,-`

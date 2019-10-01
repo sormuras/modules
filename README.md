@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5146 Java modules published at Maven Central
+Counted 5154 Java modules published at Maven Central
 
-## Summary 2019-09-30T23:27:20.964754Z
+## Summary 2019-10-01T23:27:21.470702Z
 
 ```
 ## Summary
 
-Started scan at 2019-09-30T23:27:20.964754Z
-Scanned 33,103 files in 4 seconds.
+Started scan at 2019-10-01T23:27:21.470702Z
+Scanned 33,178 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_09_30_22_55_12.csv
+    last -> modulescanner-report-2019_10_01_23_05_06.csv
 
-Parsed 2,100,584 lines in total.
-  36,905 -> captions skipped
-  141,530 -> duplicates skipped
-  87,803 -> module related
+Parsed 2,110,012 lines in total.
+  36,980 -> captions skipped
+  142,353 -> duplicates skipped
+  88,218 -> module related
 
-Collected 5,146 unique modules.
-  automatic :cd: -> 3,755
-  explicit :dvd: -> 1,391
+Collected 5,154 unique modules.
+  automatic :cd: -> 3,761
+  explicit :dvd: -> 1,393
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,16 +91,17 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8189](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12423](suspicious/naming.md)
-- Modular impostors: [4476](suspicious/impostors.md)
+- Invalid module names: [8203](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12452](suspicious/naming.md)
+- Modular impostors: [4483](suspicious/impostors.md)
 
-## Unique Modules (5146)
+## Unique Modules (5154)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.1`
+- :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
+- :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.7`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -257,7 +258,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha2`
 - :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha2`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
-- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.6.4`
+- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.1`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
@@ -266,6 +267,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.0.0`
 - :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.0`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
+- :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.0`
@@ -331,15 +333,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.0`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.0`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.0`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.4.1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.4.1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.4.1`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.0`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.0`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.0`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.4.1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.4.1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.4.1`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -739,7 +741,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.13`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.14`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -774,22 +776,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.1`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.1`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.1`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.1`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.1`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.1`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.2`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.2`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.2`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.2`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.1`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.1`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.1`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.2`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.2`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.2`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.1`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.1`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.1`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.1`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.1`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.2`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.2`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.2`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.2`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.2`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
@@ -1350,10 +1352,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.seleniumhq.selenium.remote_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-3`
 - :dvd: `org.seleniumhq.selenium.safari_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-3`
 - :dvd: `org.seleniumhq.selenium.support` :left_right_arrow: `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-3`
-- :dvd: `org.slf4j` :left_right_arrow: `org.slf4j:slf4j-api:2.0.0-alpha0`
-- :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha0`
-- :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha0`
-- :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha0`
+- :dvd: `org.slf4j` :left_right_arrow: `org.slf4j:slf4j-api:2.0.0-alpha1`
+- :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
+- :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha1`
+- :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.1`
 - :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.2`
 - :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.4.0.1`
