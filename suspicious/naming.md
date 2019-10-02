@@ -2011,6 +2011,7 @@
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.11,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka_2.11,1.1.0-RC1,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.11:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka_2.11,1.1.0-RC2,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:0.22` // `com.typesafe.akka,akka-stream-kafka_2.12,0.22,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0-M1` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0-M1,akka.stream.alpakka.kafka,-,automatic,-,false,-`
@@ -2022,9 +2023,11 @@
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.12,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka_2.12,1.1.0-RC1,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.12:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka_2.12,1.1.0-RC2,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.0.4` // `com.typesafe.akka,akka-stream-kafka_2.13,1.0.4,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.0.5` // `com.typesafe.akka,akka-stream-kafka_2.13,1.0.5,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka_2.13,1.1.0-RC1,akka.stream.alpakka.kafka,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka_2.13:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka_2.13,1.1.0-RC2,akka.stream.alpakka.kafka,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0-M1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0-M1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
@@ -2035,6 +2038,7 @@
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.11:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka-testkit_2.11,1.1.0-RC2,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0-M1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0-M1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
@@ -2045,9 +2049,11 @@
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.12:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka-testkit_2.12,1.1.0-RC2,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.0.4` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.0.4,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.0.5` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.0.5,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.1.0-RC1` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.1.0-RC1,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
+- :cd: `akka.stream.alpakka.kafka.testkit` :left_right_arrow: `com.typesafe.akka:akka-stream-kafka-testkit_2.13:1.1.0-RC2` // `com.typesafe.akka,akka-stream-kafka-testkit_2.13,1.1.0-RC2,akka.stream.alpakka.kafka.testkit,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:0.20` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,0.20,akka.stream.alpakka.kudu,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:1.0-M1` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,1.0-M1,akka.stream.alpakka.kudu,-,automatic,-,false,-`
 - :cd: `akka.stream.alpakka.kudu` :left_right_arrow: `com.lightbend.akka:akka-stream-alpakka-kudu_2.11:1.0-M2` // `com.lightbend.akka,akka-stream-alpakka-kudu_2.11,1.0-M2,akka.stream.alpakka.kudu,-,automatic,-,false,-`
@@ -2522,6 +2528,7 @@
 - :cd: `apache.geode.extensions` :left_right_arrow: `org.springframework.geode:apache-geode-extensions:1.0.1.RELEASE` // `org.springframework.geode,apache-geode-extensions,1.0.1.RELEASE,apache.geode.extensions,-,automatic,-,false,-`
 - :cd: `apache.geode.extensions` :left_right_arrow: `org.springframework.geode:apache-geode-extensions:1.1.0.RELEASE` // `org.springframework.geode,apache-geode-extensions,1.1.0.RELEASE,apache.geode.extensions,-,automatic,-,false,-`
 - :cd: `apache.geode.extensions` :left_right_arrow: `org.springframework.geode:apache-geode-extensions:1.1.1.RELEASE` // `org.springframework.geode,apache-geode-extensions,1.1.1.RELEASE,apache.geode.extensions,-,automatic,-,false,-`
+- :cd: `apache.geode.extensions` :left_right_arrow: `org.springframework.geode:apache-geode-extensions:1.1.2.RELEASE` // `org.springframework.geode,apache-geode-extensions,1.1.2.RELEASE,apache.geode.extensions,-,automatic,-,false,-`
 - :cd: `apache.openmeetings.db` :left_right_arrow: `org.apache.openmeetings:openmeetings-db:4.0.7` // `org.apache.openmeetings,openmeetings-db,4.0.7,apache.openmeetings.db,-,automatic,-,false,-`
 - :cd: `apache.openmeetings.db` :left_right_arrow: `org.apache.openmeetings:openmeetings-db:5.0.0-M1` // `org.apache.openmeetings,openmeetings-db,5.0.0-M1,apache.openmeetings.db,-,automatic,-,false,-`
 - :cd: `apache.openmeetings.db` :left_right_arrow: `org.apache.openmeetings:openmeetings-db:5.0.0-M2` // `org.apache.openmeetings,openmeetings-db,5.0.0-M2,apache.openmeetings.db,-,automatic,-,false,-`
@@ -2675,6 +2682,7 @@
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.8` // `io.zipkin.brave,brave,5.6.8,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.6.9` // `io.zipkin.brave,brave,5.6.9,brave,-,automatic,-,false,-`
 - :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.7.0` // `io.zipkin.brave,brave,5.7.0,brave,-,automatic,-,false,-`
+- :cd: `brave` :left_right_arrow: `io.zipkin.brave:brave:5.8.0` // `io.zipkin.brave,brave,5.8.0,brave,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.0` // `io.zipkin.brave,brave-context-jfr,5.6.0,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.1` // `io.zipkin.brave,brave-context-jfr,5.6.1,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.10` // `io.zipkin.brave,brave-context-jfr,5.6.10,brave.context.jfr,-,automatic,-,false,-`
@@ -2688,6 +2696,7 @@
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.8` // `io.zipkin.brave,brave-context-jfr,5.6.8,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.6.9` // `io.zipkin.brave,brave-context-jfr,5.6.9,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.7.0` // `io.zipkin.brave,brave-context-jfr,5.7.0,brave.context.jfr,-,automatic,-,false,-`
+- :cd: `brave.context.jfr` :left_right_arrow: `io.zipkin.brave:brave-context-jfr:5.8.0` // `io.zipkin.brave,brave-context-jfr,5.8.0,brave.context.jfr,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.2.0` // `io.zipkin.brave,brave-context-log4j12,5.2.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.0` // `io.zipkin.brave,brave-context-log4j12,5.3.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.3.1` // `io.zipkin.brave,brave-context-log4j12,5.3.1,brave.context.log4j12,-,automatic,-,false,-`
@@ -2712,6 +2721,7 @@
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.8` // `io.zipkin.brave,brave-context-log4j12,5.6.8,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.6.9` // `io.zipkin.brave,brave-context-log4j12,5.6.9,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.7.0` // `io.zipkin.brave,brave-context-log4j12,5.7.0,brave.context.log4j12,-,automatic,-,false,-`
+- :cd: `brave.context.log4j12` :left_right_arrow: `io.zipkin.brave:brave-context-log4j12:5.8.0` // `io.zipkin.brave,brave-context-log4j12,5.8.0,brave.context.log4j12,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.2.0` // `io.zipkin.brave,brave-context-log4j2,5.2.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.0` // `io.zipkin.brave,brave-context-log4j2,5.3.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.3.1` // `io.zipkin.brave,brave-context-log4j2,5.3.1,brave.context.log4j2,-,automatic,-,false,-`
@@ -2736,6 +2746,7 @@
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.8` // `io.zipkin.brave,brave-context-log4j2,5.6.8,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.6.9` // `io.zipkin.brave,brave-context-log4j2,5.6.9,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.7.0` // `io.zipkin.brave,brave-context-log4j2,5.7.0,brave.context.log4j2,-,automatic,-,false,-`
+- :cd: `brave.context.log4j2` :left_right_arrow: `io.zipkin.brave:brave-context-log4j2:5.8.0` // `io.zipkin.brave,brave-context-log4j2,5.8.0,brave.context.log4j2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.2.0` // `io.zipkin.brave,brave-context-rxjava2,5.2.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.0` // `io.zipkin.brave,brave-context-rxjava2,5.3.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.3.1` // `io.zipkin.brave,brave-context-rxjava2,5.3.1,brave.context.rxjava2,-,automatic,-,false,-`
@@ -2760,6 +2771,7 @@
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.8` // `io.zipkin.brave,brave-context-rxjava2,5.6.8,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.6.9` // `io.zipkin.brave,brave-context-rxjava2,5.6.9,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.7.0` // `io.zipkin.brave,brave-context-rxjava2,5.7.0,brave.context.rxjava2,-,automatic,-,false,-`
+- :cd: `brave.context.rxjava2` :left_right_arrow: `io.zipkin.brave:brave-context-rxjava2:5.8.0` // `io.zipkin.brave,brave-context-rxjava2,5.8.0,brave.context.rxjava2,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.2.0` // `io.zipkin.brave,brave-context-slf4j,5.2.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.0` // `io.zipkin.brave,brave-context-slf4j,5.3.0,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.3.1` // `io.zipkin.brave,brave-context-slf4j,5.3.1,brave.context.slf4j,-,automatic,-,false,-`
@@ -2784,6 +2796,8 @@
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.8` // `io.zipkin.brave,brave-context-slf4j,5.6.8,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.6.9` // `io.zipkin.brave,brave-context-slf4j,5.6.9,brave.context.slf4j,-,automatic,-,false,-`
 - :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.7.0` // `io.zipkin.brave,brave-context-slf4j,5.7.0,brave.context.slf4j,-,automatic,-,false,-`
+- :cd: `brave.context.slf4j` :left_right_arrow: `io.zipkin.brave:brave-context-slf4j:5.8.0` // `io.zipkin.brave,brave-context-slf4j,5.8.0,brave.context.slf4j,-,automatic,-,false,-`
+- :cd: `brave.dubbo` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo:5.8.0` // `io.zipkin.brave,brave-instrumentation-dubbo,5.8.0,brave.dubbo,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.2.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.3.1,brave.dubbo.rpc,-,automatic,-,false,-`
@@ -2808,6 +2822,7 @@
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.8` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.8,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.6.9` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.6.9,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.7.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.7.0,brave.dubbo.rpc,-,automatic,-,false,-`
+- :cd: `brave.dubbo.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-dubbo-rpc:5.8.0` // `io.zipkin.brave,brave-instrumentation-dubbo-rpc,5.8.0,brave.dubbo.rpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.2.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.2.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.3.1` // `io.zipkin.brave,brave-instrumentation-grpc,5.3.1,brave.grpc,-,automatic,-,false,-`
@@ -2832,6 +2847,7 @@
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.8` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.8,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.6.9` // `io.zipkin.brave,brave-instrumentation-grpc,5.6.9,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.7.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.7.0,brave.grpc,-,automatic,-,false,-`
+- :cd: `brave.grpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-grpc:5.8.0` // `io.zipkin.brave,brave-instrumentation-grpc,5.8.0,brave.grpc,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-http,5.2.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-http,5.3.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-http,5.3.1,brave.http,-,automatic,-,false,-`
@@ -2856,6 +2872,7 @@
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.8` // `io.zipkin.brave,brave-instrumentation-http,5.6.8,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.6.9` // `io.zipkin.brave,brave-instrumentation-http,5.6.9,brave.http,-,automatic,-,false,-`
 - :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.7.0` // `io.zipkin.brave,brave-instrumentation-http,5.7.0,brave.http,-,automatic,-,false,-`
+- :cd: `brave.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http:5.8.0` // `io.zipkin.brave,brave-instrumentation-http,5.8.0,brave.http,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.2.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.3.1,brave.httpasyncclient,-,automatic,-,false,-`
@@ -2880,6 +2897,7 @@
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.8` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.8,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.6.9` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.6.9,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.7.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.7.0,brave.httpasyncclient,-,automatic,-,false,-`
+- :cd: `brave.httpasyncclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpasyncclient:5.8.0` // `io.zipkin.brave,brave-instrumentation-httpasyncclient,5.8.0,brave.httpasyncclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.2.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.2.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.3.1` // `io.zipkin.brave,brave-instrumentation-httpclient,5.3.1,brave.httpclient,-,automatic,-,false,-`
@@ -2904,6 +2922,7 @@
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.8` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.8,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.6.9` // `io.zipkin.brave,brave-instrumentation-httpclient,5.6.9,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.7.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.7.0,brave.httpclient,-,automatic,-,false,-`
+- :cd: `brave.httpclient` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-httpclient:5.8.0` // `io.zipkin.brave,brave-instrumentation-httpclient,5.8.0,brave.httpclient,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.2.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.2.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.3.1` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.3.1,brave.jaxrs2,-,automatic,-,false,-`
@@ -2928,6 +2947,7 @@
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.8` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.8,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.6.9` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.6.9,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.7.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.7.0,brave.jaxrs2,-,automatic,-,false,-`
+- :cd: `brave.jaxrs2` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jaxrs2:5.8.0` // `io.zipkin.brave,brave-instrumentation-jaxrs2,5.8.0,brave.jaxrs2,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.2.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.2.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.3.1` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.3.1,brave.jersey.server,-,automatic,-,false,-`
@@ -2952,6 +2972,7 @@
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.8` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.8,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.6.9` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.6.9,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.7.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.7.0,brave.jersey.server,-,automatic,-,false,-`
+- :cd: `brave.jersey.server` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jersey-server:5.8.0` // `io.zipkin.brave,brave-instrumentation-jersey-server,5.8.0,brave.jersey.server,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.0` // `io.zipkin.brave,brave-instrumentation-jms,5.3.0,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.1` // `io.zipkin.brave,brave-instrumentation-jms,5.3.1,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.3.2` // `io.zipkin.brave,brave-instrumentation-jms,5.3.2,brave.jms,-,automatic,-,false,-`
@@ -2975,6 +2996,7 @@
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.8` // `io.zipkin.brave,brave-instrumentation-jms,5.6.8,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.6.9` // `io.zipkin.brave,brave-instrumentation-jms,5.6.9,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.7.0` // `io.zipkin.brave,brave-instrumentation-jms,5.7.0,brave.jms,-,automatic,-,false,-`
+- :cd: `brave.jms` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-jms:5.8.0` // `io.zipkin.brave,brave-instrumentation-jms,5.8.0,brave.jms,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.2.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.2.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.3.1` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.3.1,brave.kafka.clients,-,automatic,-,false,-`
@@ -2999,6 +3021,7 @@
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.8` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.8,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.6.9` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.6.9,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.7.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.7.0,brave.kafka.clients,-,automatic,-,false,-`
+- :cd: `brave.kafka.clients` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-clients:5.8.0` // `io.zipkin.brave,brave-instrumentation-kafka-clients,5.8.0,brave.kafka.clients,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.5.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.5.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.1` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.1,brave.kafka.streams,-,automatic,-,false,-`
@@ -3013,6 +3036,7 @@
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.8` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.8,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.6.9` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.6.9,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.7.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.7.0,brave.kafka.streams,-,automatic,-,false,-`
+- :cd: `brave.kafka.streams` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-kafka-streams:5.8.0` // `io.zipkin.brave,brave-instrumentation-kafka-streams,5.8.0,brave.kafka.streams,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.2.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql,5.3.1,brave.mysql,-,automatic,-,false,-`
@@ -3037,6 +3061,7 @@
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.8,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.6.9` // `io.zipkin.brave,brave-instrumentation-mysql,5.6.9,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.7.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.7.0,brave.mysql,-,automatic,-,false,-`
+- :cd: `brave.mysql` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql:5.8.0` // `io.zipkin.brave,brave-instrumentation-mysql,5.8.0,brave.mysql,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.2.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql6,5.3.1,brave.mysql6,-,automatic,-,false,-`
@@ -3061,6 +3086,7 @@
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.8,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.6.9` // `io.zipkin.brave,brave-instrumentation-mysql6,5.6.9,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.7.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.7.0,brave.mysql6,-,automatic,-,false,-`
+- :cd: `brave.mysql6` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql6:5.8.0` // `io.zipkin.brave,brave-instrumentation-mysql6,5.8.0,brave.mysql6,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.2.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.2.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.3.1` // `io.zipkin.brave,brave-instrumentation-mysql8,5.3.1,brave.mysql8,-,automatic,-,false,-`
@@ -3085,6 +3111,7 @@
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.8` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.8,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.6.9` // `io.zipkin.brave,brave-instrumentation-mysql8,5.6.9,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.7.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.7.0,brave.mysql8,-,automatic,-,false,-`
+- :cd: `brave.mysql8` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-mysql8:5.8.0` // `io.zipkin.brave,brave-instrumentation-mysql8,5.8.0,brave.mysql8,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.2.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.2.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.3.1` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.3.1,brave.netty.http,-,automatic,-,false,-`
@@ -3109,6 +3136,7 @@
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.8` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.8,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.6.9` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.6.9,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.7.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.7.0,brave.netty.http,-,automatic,-,false,-`
+- :cd: `brave.netty.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-netty-codec-http:5.8.0` // `io.zipkin.brave,brave-instrumentation-netty-codec-http,5.8.0,brave.netty.http,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.2.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.2.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.3.1` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.3.1,brave.okhttp3,-,automatic,-,false,-`
@@ -3133,6 +3161,7 @@
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.8` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.8,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.6.9` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.6.9,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.7.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.7.0,brave.okhttp3,-,automatic,-,false,-`
+- :cd: `brave.okhttp3` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-okhttp3:5.8.0` // `io.zipkin.brave,brave-instrumentation-okhttp3,5.8.0,brave.okhttp3,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.2.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.2.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.3.1` // `io.zipkin.brave,brave-instrumentation-p6spy,5.3.1,brave.p6spy,-,automatic,-,false,-`
@@ -3157,6 +3186,7 @@
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.8` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.8,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.6.9` // `io.zipkin.brave,brave-instrumentation-p6spy,5.6.9,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.7.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.7.0,brave.p6spy,-,automatic,-,false,-`
+- :cd: `brave.p6spy` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-p6spy:5.8.0` // `io.zipkin.brave,brave-instrumentation-p6spy,5.8.0,brave.p6spy,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.0` // `io.zipkin.aws,brave-propagation-aws,0.13.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.1` // `io.zipkin.aws,brave-propagation-aws,0.13.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.13.2` // `io.zipkin.aws,brave-propagation-aws,0.13.2,brave.propagation.aws,-,automatic,-,false,-`
@@ -3179,6 +3209,7 @@
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.18.0` // `io.zipkin.aws,brave-propagation-aws,0.18.0,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.aws:brave-propagation-aws:0.18.1` // `io.zipkin.aws,brave-propagation-aws,0.18.1,brave.propagation.aws,-,automatic,-,false,-`
 - :cd: `brave.propagation.aws` :left_right_arrow: `io.zipkin.brave:brave-propagation-aws:5.0.0` // `io.zipkin.brave,brave-propagation-aws,5.0.0,brave.propagation.aws,-,automatic,-,false,-`
+- :cd: `brave.rpc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-rpc:5.8.0` // `io.zipkin.brave,brave-instrumentation-rpc,5.8.0,brave.rpc,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.2.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.2.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.3.1` // `io.zipkin.brave,brave-instrumentation-servlet,5.3.1,brave.servlet,-,automatic,-,false,-`
@@ -3203,6 +3234,7 @@
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.8` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.8,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.6.9` // `io.zipkin.brave,brave-instrumentation-servlet,5.6.9,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.7.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.7.0,brave.servlet,-,automatic,-,false,-`
+- :cd: `brave.servlet` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-servlet:5.8.0` // `io.zipkin.brave,brave-instrumentation-servlet,5.8.0,brave.servlet,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.2.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.2.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.3.1` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.3.1,brave.sparkjava,-,automatic,-,false,-`
@@ -3227,6 +3259,7 @@
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.8` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.8,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.6.9` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.6.9,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.7.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.7.0,brave.sparkjava,-,automatic,-,false,-`
+- :cd: `brave.sparkjava` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-sparkjava:5.8.0` // `io.zipkin.brave,brave-instrumentation-sparkjava,5.8.0,brave.sparkjava,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.2.0` // `io.zipkin.brave,brave-spring-beans,5.2.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.0` // `io.zipkin.brave,brave-spring-beans,5.3.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.3.1` // `io.zipkin.brave,brave-spring-beans,5.3.1,brave.spring.beans,-,automatic,-,false,-`
@@ -3251,6 +3284,7 @@
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.8` // `io.zipkin.brave,brave-spring-beans,5.6.8,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.6.9` // `io.zipkin.brave,brave-spring-beans,5.6.9,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.7.0` // `io.zipkin.brave,brave-spring-beans,5.7.0,brave.spring.beans,-,automatic,-,false,-`
+- :cd: `brave.spring.beans` :left_right_arrow: `io.zipkin.brave:brave-spring-beans:5.8.0` // `io.zipkin.brave,brave-spring-beans,5.8.0,brave.spring.beans,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.2.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.3.1,brave.spring.rabbit,-,automatic,-,false,-`
@@ -3275,6 +3309,7 @@
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.8,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.6.9` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.6.9,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.7.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.7.0,brave.spring.rabbit,-,automatic,-,false,-`
+- :cd: `brave.spring.rabbit` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-rabbit:5.8.0` // `io.zipkin.brave,brave-instrumentation-spring-rabbit,5.8.0,brave.spring.rabbit,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.2.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-web,5.3.1,brave.spring.web,-,automatic,-,false,-`
@@ -3299,6 +3334,7 @@
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.8,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.6.9` // `io.zipkin.brave,brave-instrumentation-spring-web,5.6.9,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.7.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.7.0,brave.spring.web,-,automatic,-,false,-`
+- :cd: `brave.spring.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-web:5.8.0` // `io.zipkin.brave,brave-instrumentation-spring-web,5.8.0,brave.spring.web,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.2.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.2.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.3.1` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.3.1,brave.spring.webmvc,-,automatic,-,false,-`
@@ -3323,6 +3359,7 @@
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.8` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.8,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.6.9` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.6.9,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.7.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.7.0,brave.spring.webmvc,-,automatic,-,false,-`
+- :cd: `brave.spring.webmvc` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-spring-webmvc:5.8.0` // `io.zipkin.brave,brave-instrumentation-spring-webmvc,5.8.0,brave.spring.webmvc,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.2.0` // `io.zipkin.brave,brave-tests,5.2.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.0` // `io.zipkin.brave,brave-tests,5.3.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.3.1` // `io.zipkin.brave,brave-tests,5.3.1,brave.test,-,automatic,-,false,-`
@@ -3347,6 +3384,7 @@
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.8` // `io.zipkin.brave,brave-tests,5.6.8,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.6.9` // `io.zipkin.brave,brave-tests,5.6.9,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.7.0` // `io.zipkin.brave,brave-tests,5.7.0,brave.test,-,automatic,-,false,-`
+- :cd: `brave.test` :left_right_arrow: `io.zipkin.brave:brave-tests:5.8.0` // `io.zipkin.brave,brave-tests,5.8.0,brave.test,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.2.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.2.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.3.1` // `io.zipkin.brave,brave-instrumentation-http-tests,5.3.1,brave.test.http,-,automatic,-,false,-`
@@ -3371,6 +3409,7 @@
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.8` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.8,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.6.9` // `io.zipkin.brave,brave-instrumentation-http-tests,5.6.9,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.7.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.7.0,brave.test.http,-,automatic,-,false,-`
+- :cd: `brave.test.http` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-http-tests:5.8.0` // `io.zipkin.brave,brave-instrumentation-http-tests,5.8.0,brave.test.http,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.2.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.2.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.0,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.3.1` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.3.1,brave.vertx.web,-,automatic,-,false,-`
@@ -3395,6 +3434,7 @@
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.8` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.8,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.6.9` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.6.9,brave.vertx.web,-,automatic,-,false,-`
 - :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.7.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.7.0,brave.vertx.web,-,automatic,-,false,-`
+- :cd: `brave.vertx.web` :left_right_arrow: `io.zipkin.brave:brave-instrumentation-vertx-web:5.8.0` // `io.zipkin.brave,brave-instrumentation-vertx-web,5.8.0,brave.vertx.web,-,automatic,-,false,-`
 - :dvd: `by.zti.legacy` :left_right_arrow: `com.github.cvazer:zti-utils-legacy:1.1.0` // `com.github.cvazer,zti-utils-legacy,1.1.0,by.zti.legacy,-,explicit,java.base + jdk.xml.dom,false,-`
 - :dvd: `cache.annotations.ri.common` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-common:0.67.0.12` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-common,0.67.0.12,cache.annotations.ri.common,0.67.0.12,explicit,cache.api + java.base + java.logging,false,-`
 - :dvd: `cache.annotations.ri.common` :left_right_arrow: `com.jwebmp.thirdparty.jcache:cache-annotations-ri-common:0.67.0.15` // `com.jwebmp.thirdparty.jcache,cache-annotations-ri-common,0.67.0.15,cache.annotations.ri.common,0.67.0.15,explicit,cache.api + java.base + java.logging,false,-`
@@ -6444,6 +6484,7 @@
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:1.8.0-beta4` // `org.slf4j,log4j-over-slf4j,1.8.0-beta4,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha0` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha0,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
 - :dvd: `log4j` :left_right_arrow: `org.slf4j:log4j-over-slf4j:2.0.0-alpha1` // `org.slf4j,log4j-over-slf4j,2.0.0-alpha1,log4j,-,explicit,java.base + java.xml + org.slf4j,false,-`
+- :dvd: `lombok` :left_right_arrow: `com.infobip:jira-version-generator:2.0.1` // `com.infobip,jira-version-generator,2.0.1,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
 - :dvd: `lombok` :left_right_arrow: `com.yubico:java-yubihsm:0.1.0RC1` // `com.yubico,java-yubihsm,0.1.0RC1,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported,false,-`
 - :dvd: `lombok` :left_right_arrow: `io.pravega:pravega-connectors-hadoop:0.5.0` // `io.pravega,pravega-connectors-hadoop,0.5.0,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
 - :dvd: `lombok` :left_right_arrow: `org.projectlombok:lombok:1.18.10` // `org.projectlombok,lombok,1.18.10,lombok,-,explicit,java.base + java.compiler + java.instrument + jdk.unsupported + org.mapstruct.processor,false,-`
@@ -6725,9 +6766,11 @@
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:1.0.0-alpha03` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,1.0.0-alpha03,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:1.7.5` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,1.7.5,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:4.0.0-beta01` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,4.0.0-beta01,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
+- :cd: `neo4j.java.driver.spring.boot.autoconfigure` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-autoconfigure:4.0.0-beta02` // `org.neo4j.driver,neo4j-java-driver-spring-boot-autoconfigure,4.0.0-beta02,neo4j.java.driver.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.starter` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-starter:1.0.0-alpha03` // `org.neo4j.driver,neo4j-java-driver-spring-boot-starter,1.0.0-alpha03,neo4j.java.driver.spring.boot.starter,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.starter` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-starter:1.7.5` // `org.neo4j.driver,neo4j-java-driver-spring-boot-starter,1.7.5,neo4j.java.driver.spring.boot.starter,-,automatic,-,false,-`
 - :cd: `neo4j.java.driver.spring.boot.starter` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-starter:4.0.0-beta01` // `org.neo4j.driver,neo4j-java-driver-spring-boot-starter,4.0.0-beta01,neo4j.java.driver.spring.boot.starter,-,automatic,-,false,-`
+- :cd: `neo4j.java.driver.spring.boot.starter` :left_right_arrow: `org.neo4j.driver:neo4j-java-driver-spring-boot-starter:4.0.0-beta02` // `org.neo4j.driver,neo4j-java-driver-spring-boot-starter,4.0.0-beta02,neo4j.java.driver.spring.boot.starter,-,automatic,-,false,-`
 - :dvd: `neovim.notifications` :left_right_arrow: `com.ensarsarajcic.neovim.java:neovim-notifications:0.1.10` // `com.ensarsarajcic.neovim.java,neovim-notifications,0.1.10,neovim.notifications,-,explicit,corerpc + slf4j.api + java.base + reactivecorerpc + jackson.annotations + neovimapi + com.fasterxml.jackson.databind,true,-`
 - :dvd: `neovim.notifications` :left_right_arrow: `com.ensarsarajcic.neovim.java:neovim-notifications:0.1.10` // `com.ensarsarajcic.neovim.java,neovim-notifications,0.1.10,neovim.notifications,-,explicit,corerpc + slf4j.api + reactivecorerpc + jackson.annotations + neovimapi + com.fasterxml.jackson.databind + java.base,true,-`
 - :dvd: `neovim.notifications` :left_right_arrow: `com.ensarsarajcic.neovim.java:neovim-notifications:0.1.11` // `com.ensarsarajcic.neovim.java,neovim-notifications,0.1.11,neovim.notifications,-,explicit,corerpc + slf4j.api + java.base + reactivecorerpc + jackson.annotations + neovimapi + com.fasterxml.jackson.databind,true,-`
@@ -6947,6 +6990,7 @@
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.1.0` // `com.squareup.okhttp3,okhttp,4.1.0,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.1.1` // `com.squareup.okhttp3,okhttp,4.1.1,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.2.0` // `com.squareup.okhttp3,okhttp,4.2.0,okhttp3,-,automatic,-,false,-`
+- :cd: `okhttp3` :left_right_arrow: `com.squareup.okhttp3:okhttp:4.2.1` // `com.squareup.okhttp3,okhttp,4.2.1,okhttp3,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.github.ljun20160606:okhttp-android-support:3.10.0` // `com.github.ljun20160606,okhttp-android-support,3.10.0,okhttp3.androidsupport,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.squareup.okhttp3:okhttp-android-support:3.11.0` // `com.squareup.okhttp3,okhttp-android-support,3.11.0,okhttp3.androidsupport,-,automatic,-,false,-`
 - :cd: `okhttp3.androidsupport` :left_right_arrow: `com.squareup.okhttp3:okhttp-android-support:3.12.0` // `com.squareup.okhttp3,okhttp-android-support,3.12.0,okhttp3.androidsupport,-,automatic,-,false,-`
@@ -6962,6 +7006,7 @@
 - :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.1.0` // `com.squareup.okhttp3,okhttp-brotli,4.1.0,okhttp3.brotli,-,automatic,-,false,-`
 - :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.1.1` // `com.squareup.okhttp3,okhttp-brotli,4.1.1,okhttp3.brotli,-,automatic,-,false,-`
 - :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.2.0` // `com.squareup.okhttp3,okhttp-brotli,4.2.0,okhttp3.brotli,-,automatic,-,false,-`
+- :cd: `okhttp3.brotli` :left_right_arrow: `com.squareup.okhttp3:okhttp-brotli:4.2.1` // `com.squareup.okhttp3,okhttp-brotli,4.2.1,okhttp3.brotli,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.github.ljun20160606:okcurl:3.10.0` // `com.github.ljun20160606,okcurl,3.10.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:3.11.0` // `com.squareup.okhttp3,okcurl,3.11.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:3.12.0` // `com.squareup.okhttp3,okcurl,3.12.0,okhttp3.curl,-,automatic,-,false,-`
@@ -6980,6 +7025,7 @@
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.1.0` // `com.squareup.okhttp3,okcurl,4.1.0,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.1.1` // `com.squareup.okhttp3,okcurl,4.1.1,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.2.0` // `com.squareup.okhttp3,okcurl,4.2.0,okhttp3.curl,-,automatic,-,false,-`
+- :cd: `okhttp3.curl` :left_right_arrow: `com.squareup.okhttp3:okcurl:4.2.1` // `com.squareup.okhttp3,okcurl,4.2.1,okhttp3.curl,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.11.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.11.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.12.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.12.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:3.12.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,3.12.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
@@ -6997,6 +7043,7 @@
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.1.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.1.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.1.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.1.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.2.0` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.2.0,okhttp3.dnsoverhttps,-,automatic,-,false,-`
+- :cd: `okhttp3.dnsoverhttps` :left_right_arrow: `com.squareup.okhttp3:okhttp-dnsoverhttps:4.2.1` // `com.squareup.okhttp3,okhttp-dnsoverhttps,4.2.1,okhttp3.dnsoverhttps,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.github.ljun20160606:logging-interceptor:3.10.0` // `com.github.ljun20160606,logging-interceptor,3.10.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:3.11.0` // `com.squareup.okhttp3,logging-interceptor,3.11.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:3.12.0` // `com.squareup.okhttp3,logging-interceptor,3.12.0,okhttp3.logging,-,automatic,-,false,-`
@@ -7015,6 +7062,7 @@
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.1.0` // `com.squareup.okhttp3,logging-interceptor,4.1.0,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.1.1` // `com.squareup.okhttp3,logging-interceptor,4.1.1,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.2.0` // `com.squareup.okhttp3,logging-interceptor,4.2.0,okhttp3.logging,-,automatic,-,false,-`
+- :cd: `okhttp3.logging` :left_right_arrow: `com.squareup.okhttp3:logging-interceptor:4.2.1` // `com.squareup.okhttp3,logging-interceptor,4.2.1,okhttp3.logging,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.github.ljun20160606:mockwebserver:3.10.0` // `com.github.ljun20160606,mockwebserver,3.10.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:3.11.0` // `com.squareup.okhttp3,mockwebserver,3.11.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:3.12.0` // `com.squareup.okhttp3,mockwebserver,3.12.0,okhttp3.mockwebserver,-,automatic,-,false,-`
@@ -7033,6 +7081,7 @@
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.1.0` // `com.squareup.okhttp3,mockwebserver,4.1.0,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.1.1` // `com.squareup.okhttp3,mockwebserver,4.1.1,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.2.0` // `com.squareup.okhttp3,mockwebserver,4.2.0,okhttp3.mockwebserver,-,automatic,-,false,-`
+- :cd: `okhttp3.mockwebserver` :left_right_arrow: `com.squareup.okhttp3:mockwebserver:4.2.1` // `com.squareup.okhttp3,mockwebserver,4.2.1,okhttp3.mockwebserver,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.11.0` // `com.squareup.okhttp3,okhttp-sse,3.11.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.12.0` // `com.squareup.okhttp3,okhttp-sse,3.12.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:3.12.1` // `com.squareup.okhttp3,okhttp-sse,3.12.1,okhttp3.sse,-,automatic,-,false,-`
@@ -7050,6 +7099,7 @@
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.1.0` // `com.squareup.okhttp3,okhttp-sse,4.1.0,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.1.1` // `com.squareup.okhttp3,okhttp-sse,4.1.1,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.2.0` // `com.squareup.okhttp3,okhttp-sse,4.2.0,okhttp3.sse,-,automatic,-,false,-`
+- :cd: `okhttp3.sse` :left_right_arrow: `com.squareup.okhttp3:okhttp-sse:4.2.1` // `com.squareup.okhttp3,okhttp-sse,4.2.1,okhttp3.sse,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.github.ljun20160606:okhttp-testing-support:3.10.0` // `com.github.ljun20160606,okhttp-testing-support,3.10.0,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.11.0` // `com.squareup.okhttp3,okhttp-testing-support,3.11.0,okhttp3.testing,-,automatic,-,false,-`
 - :cd: `okhttp3.testing` :left_right_arrow: `com.squareup.okhttp3:okhttp-testing-support:3.12.0` // `com.squareup.okhttp3,okhttp-testing-support,3.12.0,okhttp3.testing,-,automatic,-,false,-`
@@ -7078,6 +7128,7 @@
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.1.0` // `com.squareup.okhttp3,okhttp-tls,4.1.0,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.1.1` // `com.squareup.okhttp3,okhttp-tls,4.1.1,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.2.0` // `com.squareup.okhttp3,okhttp-tls,4.2.0,okhttp3.tls,-,automatic,-,false,-`
+- :cd: `okhttp3.tls` :left_right_arrow: `com.squareup.okhttp3:okhttp-tls:4.2.1` // `com.squareup.okhttp3,okhttp-tls,4.2.1,okhttp3.tls,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.github.ljun20160606:okhttp-urlconnection:3.10.0` // `com.github.ljun20160606,okhttp-urlconnection,3.10.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:3.11.0` // `com.squareup.okhttp3,okhttp-urlconnection,3.11.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:3.12.0` // `com.squareup.okhttp3,okhttp-urlconnection,3.12.0,okhttp3.urlconnection,-,automatic,-,false,-`
@@ -7096,6 +7147,7 @@
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.1.0` // `com.squareup.okhttp3,okhttp-urlconnection,4.1.0,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.1.1` // `com.squareup.okhttp3,okhttp-urlconnection,4.1.1,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.2.0` // `com.squareup.okhttp3,okhttp-urlconnection,4.2.0,okhttp3.urlconnection,-,automatic,-,false,-`
+- :cd: `okhttp3.urlconnection` :left_right_arrow: `com.squareup.okhttp3:okhttp-urlconnection:4.2.1` // `com.squareup.okhttp3,okhttp-urlconnection,4.2.1,okhttp3.urlconnection,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.0.0` // `com.squareup.okio,okio,2.0.0,okio,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.0.0-RC1` // `com.squareup.okio,okio,2.0.0-RC1,okio,-,automatic,-,false,-`
 - :cd: `okio` :left_right_arrow: `com.squareup.okio:okio:2.1.0` // `com.squareup.okio,okio,2.1.0,okio,-,automatic,-,false,-`
@@ -12035,42 +12087,54 @@
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.0.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.0.1.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.1.0.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.1.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.1.1.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
+- :cd: `spring.gemfire.starter` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter:1.1.2.RELEASE` // `org.springframework.geode,spring-gemfire-starter,1.1.2.RELEASE,spring.gemfire.starter,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.0.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.0.0.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.0.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.0.1.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.1.0.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.1.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.1.1.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
+- :cd: `spring.gemfire.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-actuator:1.1.2.RELEASE` // `org.springframework.geode,spring-gemfire-starter-actuator,1.1.2.RELEASE,spring.gemfire.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.session` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-session:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter-session,1.1.0.RELEASE,spring.gemfire.starter.session,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.session` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-session:1.1.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter-session,1.1.1.RELEASE,spring.gemfire.starter.session,-,automatic,-,false,-`
+- :cd: `spring.gemfire.starter.session` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-session:1.1.2.RELEASE` // `org.springframework.geode,spring-gemfire-starter-session,1.1.2.RELEASE,spring.gemfire.starter.session,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.test` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-test:1.1.0.RELEASE` // `org.springframework.geode,spring-gemfire-starter-test,1.1.0.RELEASE,spring.gemfire.starter.test,-,automatic,-,false,-`
 - :cd: `spring.gemfire.starter.test` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-test:1.1.1.RELEASE` // `org.springframework.geode,spring-gemfire-starter-test,1.1.1.RELEASE,spring.gemfire.starter.test,-,automatic,-,false,-`
+- :cd: `spring.gemfire.starter.test` :left_right_arrow: `org.springframework.geode:spring-gemfire-starter-test:1.1.2.RELEASE` // `org.springframework.geode,spring-gemfire-starter-test,1.1.2.RELEASE,spring.gemfire.starter.test,-,automatic,-,false,-`
 - :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.0.0.RELEASE` // `org.springframework.geode,spring-geode,1.0.0.RELEASE,spring.geode,-,automatic,-,false,-`
 - :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.0.1.RELEASE` // `org.springframework.geode,spring-geode,1.0.1.RELEASE,spring.geode,-,automatic,-,false,-`
 - :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.1.0.RELEASE` // `org.springframework.geode,spring-geode,1.1.0.RELEASE,spring.geode,-,automatic,-,false,-`
 - :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.1.1.RELEASE` // `org.springframework.geode,spring-geode,1.1.1.RELEASE,spring.geode,-,automatic,-,false,-`
+- :cd: `spring.geode` :left_right_arrow: `org.springframework.geode:spring-geode:1.1.2.RELEASE` // `org.springframework.geode,spring-geode,1.1.2.RELEASE,spring.geode,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-actuator:1.0.0.RELEASE` // `org.springframework.geode,spring-geode-actuator,1.0.0.RELEASE,spring.geode.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-actuator:1.0.1.RELEASE` // `org.springframework.geode,spring-geode-actuator,1.0.1.RELEASE,spring.geode.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-actuator:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-actuator,1.1.0.RELEASE,spring.geode.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-actuator:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-actuator,1.1.1.RELEASE,spring.geode.actuator,-,automatic,-,false,-`
+- :cd: `spring.geode.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-actuator:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-actuator,1.1.2.RELEASE,spring.geode.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-actuator-autoconfigure:1.0.0.RELEASE` // `org.springframework.geode,spring-geode-actuator-autoconfigure,1.0.0.RELEASE,spring.geode.actuator.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-actuator-autoconfigure:1.0.1.RELEASE` // `org.springframework.geode,spring-geode-actuator-autoconfigure,1.0.1.RELEASE,spring.geode.actuator.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-actuator-autoconfigure:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-actuator-autoconfigure,1.1.0.RELEASE,spring.geode.actuator.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.actuator.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-actuator-autoconfigure:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-actuator-autoconfigure,1.1.1.RELEASE,spring.geode.actuator.autoconfigure,-,automatic,-,false,-`
+- :cd: `spring.geode.actuator.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-actuator-autoconfigure:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-actuator-autoconfigure,1.1.2.RELEASE,spring.geode.actuator.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-autoconfigure:1.0.0.RELEASE` // `org.springframework.geode,spring-geode-autoconfigure,1.0.0.RELEASE,spring.geode.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-autoconfigure:1.0.1.RELEASE` // `org.springframework.geode,spring-geode-autoconfigure,1.0.1.RELEASE,spring.geode.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-autoconfigure:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-autoconfigure,1.1.0.RELEASE,spring.geode.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-autoconfigure:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-autoconfigure,1.1.1.RELEASE,spring.geode.autoconfigure,-,automatic,-,false,-`
+- :cd: `spring.geode.autoconfigure` :left_right_arrow: `org.springframework.geode:spring-geode-autoconfigure:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-autoconfigure,1.1.2.RELEASE,spring.geode.autoconfigure,-,automatic,-,false,-`
 - :cd: `spring.geode.starter` :left_right_arrow: `org.springframework.geode:spring-geode-starter:1.0.0.RELEASE` // `org.springframework.geode,spring-geode-starter,1.0.0.RELEASE,spring.geode.starter,-,automatic,-,false,-`
 - :cd: `spring.geode.starter` :left_right_arrow: `org.springframework.geode:spring-geode-starter:1.0.1.RELEASE` // `org.springframework.geode,spring-geode-starter,1.0.1.RELEASE,spring.geode.starter,-,automatic,-,false,-`
 - :cd: `spring.geode.starter` :left_right_arrow: `org.springframework.geode:spring-geode-starter:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-starter,1.1.0.RELEASE,spring.geode.starter,-,automatic,-,false,-`
 - :cd: `spring.geode.starter` :left_right_arrow: `org.springframework.geode:spring-geode-starter:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter,1.1.1.RELEASE,spring.geode.starter,-,automatic,-,false,-`
+- :cd: `spring.geode.starter` :left_right_arrow: `org.springframework.geode:spring-geode-starter:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-starter,1.1.2.RELEASE,spring.geode.starter,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-starter-actuator:1.0.0.RELEASE` // `org.springframework.geode,spring-geode-starter-actuator,1.0.0.RELEASE,spring.geode.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-starter-actuator:1.0.1.RELEASE` // `org.springframework.geode,spring-geode-starter-actuator,1.0.1.RELEASE,spring.geode.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-starter-actuator:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-starter-actuator,1.1.0.RELEASE,spring.geode.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-starter-actuator:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter-actuator,1.1.1.RELEASE,spring.geode.starter.actuator,-,automatic,-,false,-`
+- :cd: `spring.geode.starter.actuator` :left_right_arrow: `org.springframework.geode:spring-geode-starter-actuator:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-starter-actuator,1.1.2.RELEASE,spring.geode.starter.actuator,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.session` :left_right_arrow: `org.springframework.geode:spring-geode-starter-session:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-starter-session,1.1.0.RELEASE,spring.geode.starter.session,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.session` :left_right_arrow: `org.springframework.geode:spring-geode-starter-session:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter-session,1.1.1.RELEASE,spring.geode.starter.session,-,automatic,-,false,-`
+- :cd: `spring.geode.starter.session` :left_right_arrow: `org.springframework.geode:spring-geode-starter-session:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-starter-session,1.1.2.RELEASE,spring.geode.starter.session,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.test` :left_right_arrow: `org.springframework.geode:spring-geode-starter-test:1.1.0.RELEASE` // `org.springframework.geode,spring-geode-starter-test,1.1.0.RELEASE,spring.geode.starter.test,-,automatic,-,false,-`
 - :cd: `spring.geode.starter.test` :left_right_arrow: `org.springframework.geode:spring-geode-starter-test:1.1.1.RELEASE` // `org.springframework.geode,spring-geode-starter-test,1.1.1.RELEASE,spring.geode.starter.test,-,automatic,-,false,-`
+- :cd: `spring.geode.starter.test` :left_right_arrow: `org.springframework.geode:spring-geode-starter-test:1.1.2.RELEASE` // `org.springframework.geode,spring-geode-starter-test,1.1.2.RELEASE,spring.geode.starter.test,-,automatic,-,false,-`
 - :cd: `spring.hateoas` :left_right_arrow: `org.springframework.hateoas:spring-hateoas:1.0.0.RELEASE` // `org.springframework.hateoas,spring-hateoas,1.0.0.RELEASE,spring.hateoas,-,automatic,-,false,-`
 - :cd: `spring.plugin.core` :left_right_arrow: `org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE` // `org.springframework.plugin,spring-plugin-core,2.0.0.RELEASE,spring.plugin.core,-,automatic,-,false,-`
 - :cd: `spring.plugin.metadata` :left_right_arrow: `org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE` // `org.springframework.plugin,spring-plugin-metadata,2.0.0.RELEASE,spring.plugin.metadata,-,automatic,-,false,-`
