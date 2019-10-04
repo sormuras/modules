@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5161 Java modules published at Maven Central
+Counted 5164 Java modules published at Maven Central
 
-## Summary 2019-10-03T23:28:18.092587Z
+## Summary 2019-10-04T23:29:04.595619Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-03T23:28:18.092587Z
-Scanned 33,339 files in 4 seconds.
+Started scan at 2019-10-04T23:29:04.595619Z
+Scanned 33,417 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_03_23_06_21.csv
+    last -> modulescanner-report-2019_10_04_23_05_12.csv
 
-Parsed 2,123,945 lines in total.
-  37,141 -> captions skipped
-  143,626 -> duplicates skipped
-  88,968 -> module related
+Parsed 2,131,466 lines in total.
+  37,219 -> captions skipped
+  143,799 -> duplicates skipped
+  89,065 -> module related
 
-Collected 5,161 unique modules.
-  automatic :cd: -> 3,761
+Collected 5,164 unique modules.
+  automatic :cd: -> 3,764
   explicit :dvd: -> 1,400
 
 ## Samples
@@ -92,21 +92,21 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [8206](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12525](suspicious/naming.md)
-- Modular impostors: [4500](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12536](suspicious/naming.md)
+- Modular impostors: [4502](suspicious/impostors.md)
 
-## Unique Modules (5161)
+## Unique Modules (5164)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.7`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.8`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.5`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.1`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.2`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.2`
@@ -116,8 +116,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.4`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.4`
 - :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.6`
-- :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.0`
-- :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.3`
+- :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.1`
+- :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.4`
 - :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.6`
 - :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
 - :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.6`
@@ -1235,7 +1235,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.5.2`
 - :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.5.2`
 - :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.5.2`
-- :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.11`
+- :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.12`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.2`
 - :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
 - :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.4`

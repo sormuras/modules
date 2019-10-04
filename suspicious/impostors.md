@@ -2641,6 +2641,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.11` // `com.proofpoint.platform,jaxrs,2.11,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.12` // `com.proofpoint.platform,jaxrs,2.12,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.13` // `com.proofpoint.platform,jaxrs,2.13,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:2.14` // `com.proofpoint.platform,jaxrs,2.14,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.0` // `com.undefinedlabs.scope,scope-agent,0.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.0-beta1` // `com.undefinedlabs.scope,scope-agent,0.1.0-beta1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.1.1` // `com.undefinedlabs.scope,scope-agent,0.1.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -3074,6 +3075,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.10` // `com.theartos,artos,0.0.10,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.11` // `com.theartos,artos,0.0.11,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.12` // `com.theartos,artos,0.0.12,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.13` // `com.theartos,artos,0.0.13,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.13-beta-1` // `com.theartos,artos,0.0.13-beta-1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.13-beta-2` // `com.theartos,artos,0.0.13-beta-2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.theartos:artos:0.0.2` // `com.theartos,artos,0.0.2,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
