@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5166 Java modules published at Maven Central
+Counted 5167 Java modules published at Maven Central
 
-## Summary 2019-10-05T23:29:09.425162Z
+## Summary 2019-10-06T23:29:54.755162Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-05T23:29:09.425162Z
-Scanned 33,490 files in 4 seconds.
+Started scan at 2019-10-06T23:29:54.755162Z
+Scanned 33,562 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_05_23_02_57.csv
+    last -> modulescanner-report-2019_10_06_23_01_37.csv
 
-Parsed 2,134,434 lines in total.
-  37,292 -> captions skipped
-  143,842 -> duplicates skipped
-  89,293 -> module related
+Parsed 2,137,586 lines in total.
+  37,364 -> captions skipped
+  144,287 -> duplicates skipped
+  89,682 -> module related
 
-Collected 5,166 unique modules.
-  automatic :cd: -> 3,765
+Collected 5,167 unique modules.
+  automatic :cd: -> 3,766
   explicit :dvd: -> 1,401
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8206](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12538](suspicious/naming.md)
-- Modular impostors: [4503](suspicious/impostors.md)
+- Invalid module names: [8568](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12550](suspicious/naming.md)
+- Modular impostors: [4504](suspicious/impostors.md)
 
-## Unique Modules (5166)
+## Unique Modules (5167)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -398,7 +398,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.headius.modulator` :left_right_arrow: `com.headius:modulator:1.2`
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` :left_right_arrow: `com.illucit:lucene-utils:1.1.2`
-- :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.1`
+- :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.2`
 - :dvd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.documentation` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.documentation:4.0.0-beta0014`
