@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5167 Java modules published at Maven Central
+Counted 5168 Java modules published at Maven Central
 
-## Summary 2019-10-06T23:29:54.755162Z
+## Summary 2019-10-07T23:34:00.406777Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-06T23:29:54.755162Z
-Scanned 33,562 files in 4 seconds.
+Started scan at 2019-10-07T23:34:00.406777Z
+Scanned 33,623 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_06_23_01_37.csv
+    last -> modulescanner-report-2019_10_07_23_17_27.csv
 
-Parsed 2,137,586 lines in total.
-  37,364 -> captions skipped
-  144,287 -> duplicates skipped
-  89,682 -> module related
+Parsed 2,147,354 lines in total.
+  37,423 -> captions skipped
+  144,606 -> duplicates skipped
+  89,963 -> module related
 
-Collected 5,167 unique modules.
+Collected 5,168 unique modules.
   automatic :cd: -> 3,766
-  explicit :dvd: -> 1,401
+  explicit :dvd: -> 1,402
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8568](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12550](suspicious/naming.md)
-- Modular impostors: [4504](suspicious/impostors.md)
+- Invalid module names: [8590](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12559](suspicious/naming.md)
+- Modular impostors: [4523](suspicious/impostors.md)
 
-## Unique Modules (5167)
+## Unique Modules (5168)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -172,7 +172,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.1`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.0`
-- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.8.0`
+- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.9.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
@@ -734,6 +734,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.1`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
@@ -780,24 +781,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.47`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.3`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.3`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.3`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.3`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.3`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.3`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.4`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.4`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.1.4`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.1.4`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.1.4`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.1.4`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.3`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.3`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.3`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.1.4`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.1.4`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.1.4`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.3`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.3`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.3`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.3`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.3`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.1.4`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.1.4`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.1.4`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.1.4`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.1.4`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
@@ -968,7 +969,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` :left_right_arrow: `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` :left_right_arrow: `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.1.0`
+- :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
 - :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.0`
