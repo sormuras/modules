@@ -1757,10 +1757,13 @@
 - :cd: `` :left_right_arrow: `org.kie:sample-hacep-project-kjar:7.27.0.Final` // `org.kie,sample-hacep-project-kjar,7.27.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.3.0` // `org.kie.kogito,data-index-service,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.4.0` // `org.kie.kogito,data-index-service,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.5.0` // `org.kie.kogito,data-index-service,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.3.0` // `org.kie.kogito,data-index-storage-api,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.4.0` // `org.kie.kogito,data-index-storage-api,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.5.0` // `org.kie.kogito,data-index-storage-api,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.3.0` // `org.kie.kogito,data-index-storage-infinispan,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.4.0` // `org.kie.kogito,data-index-storage-infinispan,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.5.0` // `org.kie.kogito,data-index-storage-infinispan,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.0` // `org.kie.kogito,drools-decisiontables,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.1` // `org.kie.kogito,drools-decisiontables,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.2` // `org.kie.kogito,drools-decisiontables,0.1.2,-,-,automatic,-,false,-`
@@ -1768,11 +1771,14 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.2.0` // `org.kie.kogito,drools-decisiontables,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.3.0` // `org.kie.kogito,drools-decisiontables,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.4.0` // `org.kie.kogito,drools-decisiontables,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.5.0` // `org.kie.kogito,drools-decisiontables,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.3.0` // `org.kie.kogito,infinispan-persistence-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.4.0` // `org.kie.kogito,infinispan-persistence-addon,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.5.0` // `org.kie.kogito,infinispan-persistence-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.2.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.3.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.4.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.5.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.0` // `org.kie.kogito,kogito-cloud-workitems,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.1` // `org.kie.kogito,kogito-cloud-workitems,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.2` // `org.kie.kogito,kogito-cloud-workitems,0.1.2,-,-,automatic,-,false,-`
@@ -1780,6 +1786,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.2.0` // `org.kie.kogito,kogito-cloud-workitems,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.3.0` // `org.kie.kogito,kogito-cloud-workitems,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.4.0` // `org.kie.kogito,kogito-cloud-workitems,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.5.0` // `org.kie.kogito,kogito-cloud-workitems,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.0` // `org.kie.kogito,kogito-codegen,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.1` // `org.kie.kogito,kogito-codegen,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.2` // `org.kie.kogito,kogito-codegen,0.1.2,-,-,automatic,-,false,-`
@@ -1787,7 +1794,10 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.2.0` // `org.kie.kogito,kogito-codegen,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.3.0` // `org.kie.kogito,kogito-codegen,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.4.0` // `org.kie.kogito,kogito-codegen,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.5.0` // `org.kie.kogito,kogito-codegen,0.5.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-deps-bom:0.5.0` // `org.kie.kogito,kogito-deps-bom,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.4.0` // `org.kie.kogito,kogito-dmn,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.5.0` // `org.kie.kogito,kogito-dmn,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.0` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.1` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.2` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.2,-,-,automatic,-,false,-`
@@ -1796,8 +1806,10 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.3.0` // `org.kie.kogito,kogito-dmn-rest-utils,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.3.0` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.4.0` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.5.0` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.3.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.4.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.5.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.0` // `org.kie.kogito,kogito-maven-plugin,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.1` // `org.kie.kogito,kogito-maven-plugin,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.2` // `org.kie.kogito,kogito-maven-plugin,0.1.2,-,-,automatic,-,false,-`
@@ -1805,6 +1817,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.2.0` // `org.kie.kogito,kogito-maven-plugin,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.3.0` // `org.kie.kogito,kogito-maven-plugin,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.4.0` // `org.kie.kogito,kogito-maven-plugin,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.5.0` // `org.kie.kogito,kogito-maven-plugin,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.0` // `org.kie.kogito,monitoring-prometheus-addon,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.1` // `org.kie.kogito,monitoring-prometheus-addon,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.2` // `org.kie.kogito,monitoring-prometheus-addon,0.1.2,-,-,automatic,-,false,-`
@@ -1812,8 +1825,10 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.2.0` // `org.kie.kogito,monitoring-prometheus-addon,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.3.0` // `org.kie.kogito,monitoring-prometheus-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.4.0` // `org.kie.kogito,monitoring-prometheus-addon,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.5.0` // `org.kie.kogito,monitoring-prometheus-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.3.0` // `org.kie.kogito,process-management-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.4.0` // `org.kie.kogito,process-management-addon,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.5.0` // `org.kie.kogito,process-management-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.0` // `org.kie.kogito.examples,drools-polyglot-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.1` // `org.kie.kogito.examples,drools-polyglot-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.2` // `org.kie.kogito.examples,drools-polyglot-example,0.1.2,-,-,automatic,-,false,-`
@@ -1828,6 +1843,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.2.0` // `org.kie.kogito.examples,drools-quarkus-example,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.3.0` // `org.kie.kogito.examples,drools-quarkus-example,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.4.0` // `org.kie.kogito.examples,drools-quarkus-example,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.5.0` // `org.kie.kogito.examples,drools-quarkus-example,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.1` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.2` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.2,-,-,automatic,-,false,-`
@@ -1835,6 +1851,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.2.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.3.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.4.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.4.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.5.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.0` // `org.kie.kogito.examples,hr,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.1` // `org.kie.kogito.examples,hr,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.2` // `org.kie.kogito.examples,hr,0.1.2,-,-,automatic,-,false,-`
@@ -8030,6 +8047,7 @@
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.2.0` // `org.kie.kogito,drools-canonical-model,0.2.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.3.0` // `org.kie.kogito,drools-canonical-model,0.3.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.4.0` // `org.kie.kogito,drools-canonical-model,0.4.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.5.0` // `org.kie.kogito,drools-canonical-model,0.5.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.0` // `org.kie.kogito,drools-core-static,0.1.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.1` // `org.kie.kogito,drools-core-static,0.1.1,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.2` // `org.kie.kogito,drools-core-static,0.1.2,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
@@ -8037,6 +8055,7 @@
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.2.0` // `org.kie.kogito,drools-core-static,0.2.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.3.0` // `org.kie.kogito,drools-core-static,0.3.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.4.0` // `org.kie.kogito,drools-core-static,0.4.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.5.0` // `org.kie.kogito,drools-core-static,0.5.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.0` // `org.kie.kogito,drools-model-compiler,0.1.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.1` // `org.kie.kogito,drools-model-compiler,0.1.1,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.2` // `org.kie.kogito,drools-model-compiler,0.1.2,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
@@ -8044,9 +8063,11 @@
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.2.0` // `org.kie.kogito,drools-model-compiler,0.2.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.3.0` // `org.kie.kogito,drools-model-compiler,0.3.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.4.0` // `org.kie.kogito,drools-model-compiler,0.4.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.5.0` // `org.kie.kogito,drools-model-compiler,0.5.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.2.0` // `org.kie.kogito,drools-mvel-compiler,0.2.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.3.0` // `org.kie.kogito,drools-mvel-compiler,0.3.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.4.0` // `org.kie.kogito,drools-mvel-compiler,0.4.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.5.0` // `org.kie.kogito,drools-mvel-compiler,0.5.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.10.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.11.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.12.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`

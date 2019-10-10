@@ -1323,6 +1323,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.6.0` // `com.vladmihalcea,hibernate-types-43,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.6.1` // `com.vladmihalcea,hibernate-types-43,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.7.0` // `com.vladmihalcea,hibernate-types-43,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.7.1` // `com.vladmihalcea,hibernate-types-43,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1337,6 +1338,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.6.0` // `com.vladmihalcea,hibernate-types-5,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.6.1` // `com.vladmihalcea,hibernate-types-5,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.7.0` // `com.vladmihalcea,hibernate-types-5,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.7.1` // `com.vladmihalcea,hibernate-types-5,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1351,6 +1353,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.6.0` // `com.vladmihalcea,hibernate-types-52,2.6.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.6.1` // `com.vladmihalcea,hibernate-types-52,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.7.0` // `com.vladmihalcea,hibernate-types-52,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.7.1` // `com.vladmihalcea,hibernate-types-52,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.4` // `de.mkammerer,argon2-jvm-nolibs,2.4,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.6` // `de.mkammerer,argon2-jvm-nolibs,2.6,de.mkammerer.argon2,-,automatic,-,false,-`
@@ -3217,6 +3220,7 @@
 - :dvd: `org.bouncycastle.pg` :left_right_arrow: `org.vafer:jdeb:1.8` // `org.vafer,jdeb,1.8,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` :left_right_arrow: `org.whitesource:wss-unified-agent-main:19.7.3` // `org.whitesource,wss-unified-agent-main,19.7.3,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.117.37` // `com.yahoo.vespa,vespa-hadoop,7.117.37,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.119.4` // `com.yahoo.vespa,vespa-hadoop,7.119.4,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -3248,6 +3252,7 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.61` // `org.bouncycastle,bcprov-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.62` // `org.bouncycastle,bcprov-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.63` // `org.bouncycastle,bcprov-jdk15on,1.63,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15on:1.64` // `org.bouncycastle,bcprov-jdk15on,1.64,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-jdk15to18:1.63` // `org.bouncycastle,bcprov-jdk15to18,1.63,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0` // `org.eclipse.milo,server-examples,0.3.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -3591,6 +3596,7 @@
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.5.0` // `org.kie.kogito,drools-mvel-parser,0.5.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.15.0.Final` // `org.kie,business-central-home-page-community,7.15.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.16.0.Final` // `org.kie,business-central-home-page-community,7.16.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.17.0.Final` // `org.kie,business-central-home-page-community,7.17.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
@@ -3914,6 +3920,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.0-rc3` // `com.google.gerrit,gerrit-acceptance-framework,3.0.0-rc3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.1` // `com.google.gerrit,gerrit-acceptance-framework,3.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.2` // `com.google.gerrit,gerrit-acceptance-framework,3.0.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:3.0.3` // `com.google.gerrit,gerrit-acceptance-framework,3.0.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16` // `com.google.gerrit,gerrit-plugin-api,2.16,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16-rc0` // `com.google.gerrit,gerrit-plugin-api,2.16-rc0,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:2.16-rc1` // `com.google.gerrit,gerrit-plugin-api,2.16-rc1,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -3933,6 +3940,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.0-rc3` // `com.google.gerrit,gerrit-plugin-api,3.0.0-rc3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.1` // `com.google.gerrit,gerrit-plugin-api,3.0.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.2` // `com.google.gerrit,gerrit-plugin-api,3.0.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-plugin-api:3.0.3` // `com.google.gerrit,gerrit-plugin-api,3.0.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
