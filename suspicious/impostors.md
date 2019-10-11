@@ -1529,6 +1529,7 @@
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.0.RC2` // `io.micronaut,micronaut-bom,1.2.0.RC2,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.1` // `io.micronaut,micronaut-bom,1.2.1,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.2` // `io.micronaut,micronaut-bom,1.2.2,io.micronaut.bom,-,automatic,-,false,-`
+- :cd: `io.micronaut.bom` :left_right_arrow: `io.micronaut:micronaut-bom:1.2.3` // `io.micronaut,micronaut-bom,1.2.3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.0` // `io.micronaut,micronaut-buffer-netty,1.0.0,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.0.RC3` // `io.micronaut,micronaut-buffer-netty,1.0.0.RC3,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` :left_right_arrow: `io.micronaut:micronaut-buffer-netty:1.0.1` // `io.micronaut,micronaut-buffer-netty,1.0.1,io.micronaut.buffer_netty,-,automatic,-,false,-`
@@ -2741,6 +2742,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.21.1` // `io.aeron,aeron-all,1.21.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.21.2` // `io.aeron,aeron-all,1.21.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.22.0` // `io.aeron,aeron-all,1.22.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `io.aeron:aeron-all:1.22.1` // `io.aeron,aeron-all,1.22.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.github.lomom:agent-logger:1.0.1-Release` // `io.github.lomom,agent-logger,1.0.1-Release,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0` // `io.kamon,kanela-agent,1.0.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `io.kamon:kanela-agent:1.0.0-M1` // `io.kamon,kanela-agent,1.0.0-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`

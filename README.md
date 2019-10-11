@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5175 Java modules published at Maven Central
+Counted 5192 Java modules published at Maven Central
 
-## Summary 2019-10-10T23:31:43.321964Z
+## Summary 2019-10-11T23:32:24.374572Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-10T23:31:43.321964Z
-Scanned 33,831 files in 4 seconds.
+Started scan at 2019-10-11T23:32:24.374572Z
+Scanned 33,909 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_10_23_16_57.csv
+    last -> modulescanner-report-2019_10_11_23_02_52.csv
 
-Parsed 2,163,508 lines in total.
-  37,631 -> captions skipped
-  146,021 -> duplicates skipped
-  90,755 -> module related
+Parsed 2,169,562 lines in total.
+  37,709 -> captions skipped
+  146,778 -> duplicates skipped
+  91,193 -> module related
 
-Collected 5,175 unique modules.
-  automatic :cd: -> 3,773
+Collected 5,192 unique modules.
+  automatic :cd: -> 3,790
   explicit :dvd: -> 1,402
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [8611](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12594](suspicious/naming.md)
-- Modular impostors: [4538](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12720](suspicious/naming.md)
+- Modular impostors: [4540](suspicious/impostors.md)
 
-## Unique Modules (5175)
+## Unique Modules (5192)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1216,7 +1216,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` :left_right_arrow: `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` :left_right_arrow: `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` :left_right_arrow: `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.18`
+- :dvd: `org.joml` :left_right_arrow: `org.joml:joml:1.9.19`
 - :dvd: `org.jooq.jool` :left_right_arrow: `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` :left_right_arrow: `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` :left_right_arrow: `org.jooq:joou:0.9.4`
