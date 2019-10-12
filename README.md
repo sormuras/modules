@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5192 Java modules published at Maven Central
+Counted 5194 Java modules published at Maven Central
 
-## Summary 2019-10-11T23:32:24.374572Z
+## Summary 2019-10-12T23:31:59.910965Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-11T23:32:24.374572Z
-Scanned 33,909 files in 4 seconds.
+Started scan at 2019-10-12T23:31:59.910965Z
+Scanned 33,984 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_11_23_02_52.csv
+    last -> modulescanner-report-2019_10_12_23_09_49.csv
 
-Parsed 2,169,562 lines in total.
-  37,709 -> captions skipped
-  146,778 -> duplicates skipped
-  91,193 -> module related
+Parsed 2,175,351 lines in total.
+  37,784 -> captions skipped
+  147,312 -> duplicates skipped
+  91,346 -> module related
 
-Collected 5,192 unique modules.
-  automatic :cd: -> 3,790
+Collected 5,194 unique modules.
+  automatic :cd: -> 3,792
   explicit :dvd: -> 1,402
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8611](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12720](suspicious/naming.md)
-- Modular impostors: [4540](suspicious/impostors.md)
+- Invalid module names: [8654](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12759](suspicious/naming.md)
+- Modular impostors: [4586](suspicious/impostors.md)
 
-## Unique Modules (5192)
+## Unique Modules (5194)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -105,7 +105,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.8`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
-- :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.5`
+- :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.2`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
@@ -171,7 +171,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.1`
-- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.0`
+- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.1`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.9.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
@@ -1048,7 +1048,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bitbucket.cowwoc.requirements.natives` :left_right_arrow: `org.bitbucket.cowwoc.requirements:natives:5.2.2`
 - :dvd: `org.bouncycastle.fips.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` :left_right_arrow: `org.bouncycastle:bctls-fips:1.0.9`
-- :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.63`
+- :dvd: `org.bouncycastle.tls` :left_right_arrow: `org.bouncycastle:bctls-jdk15on:1.64`
 - :dvd: `org.bytedeco.ale` :left_right_arrow: `org.bytedeco:ale:0.6.0-1.5.1`
 - :dvd: `org.bytedeco.ale.platform` :left_right_arrow: `org.bytedeco:ale-platform:0.6.0-1.5.1`
 - :dvd: `org.bytedeco.arpackng` :left_right_arrow: `org.bytedeco:arpack-ng:3.7.0-1.5.1`
