@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5194 Java modules published at Maven Central
+Counted 5195 Java modules published at Maven Central
 
-## Summary 2019-10-12T23:31:59.910965Z
+## Summary 2019-10-13T23:32:01.461523Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-12T23:31:59.910965Z
-Scanned 33,984 files in 5 seconds.
+Started scan at 2019-10-13T23:32:01.461523Z
+Scanned 34,064 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_12_23_09_49.csv
+    last -> modulescanner-report-2019_10_13_23_12_47.csv
 
-Parsed 2,175,351 lines in total.
-  37,784 -> captions skipped
-  147,312 -> duplicates skipped
-  91,346 -> module related
+Parsed 2,178,853 lines in total.
+  37,864 -> captions skipped
+  147,476 -> duplicates skipped
+  91,424 -> module related
 
-Collected 5,194 unique modules.
+Collected 5,195 unique modules.
   automatic :cd: -> 3,792
-  explicit :dvd: -> 1,402
+  explicit :dvd: -> 1,403
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [8654](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12759](suspicious/naming.md)
-- Modular impostors: [4586](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12787](suspicious/naming.md)
+- Modular impostors: [4588](suspicious/impostors.md)
 
-## Unique Modules (5194)
+## Unique Modules (5195)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -160,7 +160,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.1`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.0.0`
+- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.0`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
 - :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.6`
@@ -312,6 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr3`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.13`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -657,18 +658,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` :left_right_arrow: `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` :left_right_arrow: `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` :left_right_arrow: `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.3.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.3.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.4.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.4.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` :left_right_arrow: `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:common.mapper:2.1.0`
