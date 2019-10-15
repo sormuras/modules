@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5195 Java modules published at Maven Central
+Counted 5197 Java modules published at Maven Central
 
-## Summary 2019-10-14T23:33:06.589475Z
+## Summary 2019-10-15T23:33:08.125242Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-14T23:33:06.589475Z
-Scanned 34,128 files in 5 seconds.
+Started scan at 2019-10-15T23:33:08.125242Z
+Scanned 34,192 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_14_23_02_55.csv
+    last -> modulescanner-report-2019_10_15_23_06_53.csv
 
-Parsed 2,188,809 lines in total.
-  37,928 -> captions skipped
-  148,041 -> duplicates skipped
-  91,880 -> module related
+Parsed 2,196,737 lines in total.
+  37,992 -> captions skipped
+  148,464 -> duplicates skipped
+  92,282 -> module related
 
-Collected 5,195 unique modules.
-  automatic :cd: -> 3,792
+Collected 5,197 unique modules.
+  automatic :cd: -> 3,794
   explicit :dvd: -> 1,403
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8670](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12812](suspicious/naming.md)
-- Modular impostors: [4609](suspicious/impostors.md)
+- Invalid module names: [8675](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [12851](suspicious/naming.md)
+- Modular impostors: [4647](suspicious/impostors.md)
 
-## Unique Modules (5195)
+## Unique Modules (5197)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -973,7 +973,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.0`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.1`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
