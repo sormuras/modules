@@ -160,6 +160,7 @@
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.14` // `io.mantisrx,mantis-publish-netty,1.2.14,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.15` // `io.mantisrx,mantis-publish-netty,1.2.15,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr2,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.17` // `io.mantisrx,mantis-publish-netty,1.2.17,com.fasterxml.jackson.datatype.jdk8,2.10.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.18` // `io.mantisrx,mantis-publish-netty,1.2.18,com.fasterxml.jackson.datatype.jdk8,2.10.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.8` // `io.mantisrx,mantis-publish-netty,1.2.8,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `io.mantisrx:mantis-publish-netty:1.2.9` // `io.mantisrx,mantis-publish-netty,1.2.9,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime:0.67.0.12` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-datetime,0.67.0.12,com.fasterxml.jackson.datatype.jsr310,0.67.0.12,explicit,com.fasterxml.jackson.databind + java.base,false,-`
@@ -1293,6 +1294,7 @@
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-rar:0.0.1` // `com.peruncs.odbjca,odbjca-rar,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` :left_right_arrow: `com.peruncs.odbjca:odbjca-rar-all:0.0.1` // `com.peruncs.odbjca,odbjca-rar-all,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.1.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.1.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` :left_right_arrow: `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.2.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.2.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `org.glassfish.jaxb:jaxb-runtime:2.3.2` // `org.glassfish.jaxb,jaxb-runtime,2.3.2,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `org.glassfish.jaxb:jaxb-runtime:2.4.0-b180725.0644` // `org.glassfish.jaxb,jaxb-runtime,2.4.0-b180725.0644,com.sun.xml.bind,-,explicit,org.jvnet.staxex + java.activation + java.xml.bind + com.sun.xml.txw2 + com.sun.istack.runtime + java.desktop + java.compiler + java.xml + com.sun.xml.fastinfoset + java.logging + java.base,true,-`
 - :dvd: `com.sun.xml.bind` :left_right_arrow: `org.glassfish.jaxb:jaxb-runtime:2.4.0-b180830.0438` // `org.glassfish.jaxb,jaxb-runtime,2.4.0-b180830.0438,com.sun.xml.bind,-,explicit,org.jvnet.staxex + java.activation + java.xml.bind + com.sun.xml.txw2 + com.sun.istack.runtime + java.desktop + java.compiler + java.xml + com.sun.xml.fastinfoset + java.logging + java.base,true,-`
@@ -2628,11 +2630,13 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.103.0` // `org.finra.herd,herd-access-validator,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.104.0` // `org.finra.herd,herd-access-validator,0.104.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.106.0` // `org.finra.herd,herd-access-validator,0.106.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.107.0` // `org.finra.herd,herd-access-validator,0.107.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.104.0` // `org.finra.herd,herd-downloader,0.104.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.106.0` // `org.finra.herd,herd-downloader,0.106.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.107.0` // `org.finra.herd,herd-downloader,0.107.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2651,6 +2655,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.103.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.104.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.104.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.106.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.106.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.107.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.107.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2669,6 +2674,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.103.0` // `org.finra.herd,herd-retention-expiration-exporter,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.104.0` // `org.finra.herd,herd-retention-expiration-exporter,0.104.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.106.0` // `org.finra.herd,herd-retention-expiration-exporter,0.106.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.107.0` // `org.finra.herd,herd-retention-expiration-exporter,0.107.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2687,6 +2693,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.103.0` // `org.finra.herd,herd-uploader,0.103.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.104.0` // `org.finra.herd,herd-uploader,0.104.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.106.0` // `org.finra.herd,herd-uploader,0.106.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.107.0` // `org.finra.herd,herd-uploader,0.107.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -3319,6 +3326,7 @@
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.117.37` // `com.yahoo.vespa,vespa-hadoop,7.117.37,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.119.4` // `com.yahoo.vespa,vespa-hadoop,7.119.4,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.120.13` // `com.yahoo.vespa,vespa-hadoop,7.120.13,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.122.7` // `com.yahoo.vespa,vespa-hadoop,7.122.7,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -3455,6 +3463,7 @@
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.25.0.Final` // `org.drools,drools-verifier-drl,7.25.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.26.0.Final` // `org.drools,drools-verifier-drl,7.26.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.27.0.Final` // `org.drools,drools-verifier-drl,7.27.0.Final,org.drools.verifier,-,automatic,-,false,-`
+- :cd: `org.drools.verifier` :left_right_arrow: `org.drools:drools-verifier-drl:7.28.0.Final` // `org.drools,drools-verifier-drl,7.28.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.12.0.Final` // `org.drools,drools-wb-verifier-webworker,7.12.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.13.0.Final` // `org.drools,drools-wb-verifier-webworker,7.13.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.14.0.Final` // `org.drools,drools-wb-verifier-webworker,7.14.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
@@ -3471,6 +3480,7 @@
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.25.0.Final` // `org.drools,drools-wb-verifier-webworker,7.25.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.26.0.Final` // `org.drools,drools-wb-verifier-webworker,7.26.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.27.0.Final` // `org.drools,drools-wb-verifier-webworker,7.27.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.backend` :left_right_arrow: `org.drools:drools-wb-verifier-webworker:7.28.0.Final` // `org.drools,drools-wb-verifier-webworker,7.28.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.12.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.12.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.13.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.13.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.14.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.14.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
@@ -3487,6 +3497,7 @@
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.25.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.25.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.26.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.26.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.27.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.27.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.client` :left_right_arrow: `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.28.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.28.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` :left_right_arrow: `org.eclipse.milo:bsd-parser-gson:0.3.0` // `org.eclipse.milo,bsd-parser-gson,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
@@ -3700,6 +3711,7 @@
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.jbpm.contrib:karaf-itests:7.25.0.Final` // `org.jbpm.contrib,karaf-itests,7.25.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.jbpm.contrib:karaf-itests:7.26.0.Final` // `org.jbpm.contrib,karaf-itests,7.26.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.jbpm.contrib:karaf-itests:7.27.0.Final` // `org.jbpm.contrib,karaf-itests,7.27.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
+- :cd: `org.kie.karaf.itests.main` :left_right_arrow: `org.jbpm.contrib:karaf-itests:7.28.0.Final` // `org.jbpm.contrib,karaf-itests,7.28.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` :left_right_arrow: `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
@@ -3717,6 +3729,7 @@
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.25.0.Final` // `org.kie,business-central-home-page-community,7.25.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.26.0.Final` // `org.kie,business-central-home-page-community,7.26.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.27.0.Final` // `org.kie,business-central-home-page-community,7.27.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.28.0.Final` // `org.kie,business-central-home-page-community,7.28.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.15.0.Final` // `org.kie,business-central-theme-community,7.15.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.16.0.Final` // `org.kie,business-central-theme-community,7.16.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.17.0.Final` // `org.kie,business-central-theme-community,7.17.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
@@ -3730,6 +3743,7 @@
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.25.0.Final` // `org.kie,business-central-theme-community,7.25.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.26.0.Final` // `org.kie,business-central-theme-community,7.26.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.27.0.Final` // `org.kie,business-central-theme-community,7.27.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.28.0.Final` // `org.kie,business-central-theme-community,7.28.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.15.0.Final` // `org.kie,business-central-theme-product,7.15.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.16.0.Final` // `org.kie,business-central-theme-product,7.16.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.17.0.Final` // `org.kie,business-central-theme-product,7.17.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
@@ -3743,6 +3757,7 @@
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.25.0.Final` // `org.kie,business-central-theme-product,7.25.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.26.0.Final` // `org.kie,business-central-theme-product,7.26.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.27.0.Final` // `org.kie,business-central-theme-product,7.27.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.28.0.Final` // `org.kie,business-central-theme-product,7.28.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.1.5` // `org.lamblin,lamblin-local-runner,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.1.6` // `org.lamblin,lamblin-local-runner,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
@@ -4000,6 +4015,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.24.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.24.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.24.1` // `com.github.tomakehurst,wiremock-jre8-standalone,2.24.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.25.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.25.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-jre8-standalone:2.25.1` // `com.github.tomakehurst,wiremock-jre8-standalone,2.25.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.21.0` // `com.github.tomakehurst,wiremock-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.22.0` // `com.github.tomakehurst,wiremock-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.23.0` // `com.github.tomakehurst,wiremock-standalone,2.23.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -4008,6 +4024,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.24.0` // `com.github.tomakehurst,wiremock-standalone,2.24.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.24.1` // `com.github.tomakehurst,wiremock-standalone,2.24.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.25.0` // `com.github.tomakehurst,wiremock-standalone,2.25.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.tomakehurst:wiremock-standalone:2.25.1` // `com.github.tomakehurst,wiremock-standalone,2.25.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16` // `com.google.gerrit,gerrit-acceptance-framework,2.16,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16-rc0` // `com.google.gerrit,gerrit-acceptance-framework,2.16-rc0,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.google.gerrit:gerrit-acceptance-framework:2.16-rc1` // `com.google.gerrit,gerrit-acceptance-framework,2.16-rc1,org.objectweb.asm,6.2.1,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
