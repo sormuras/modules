@@ -2586,6 +2586,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.1` // `org.neo4j,neo4j-ast-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.10` // `org.neo4j,neo4j-ast-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.11` // `org.neo4j,neo4j-ast-3.5,3.5.11,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.12` // `org.neo4j,neo4j-ast-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.2` // `org.neo4j,neo4j-ast-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.3` // `org.neo4j,neo4j-ast-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.4` // `org.neo4j,neo4j-ast-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -2598,6 +2599,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.1` // `org.neo4j,neo4j-expressions-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.10` // `org.neo4j,neo4j-expressions-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.11` // `org.neo4j,neo4j-expressions-3.5,3.5.11,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.12` // `org.neo4j,neo4j-expressions-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.2` // `org.neo4j,neo4j-expressions-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.3` // `org.neo4j,neo4j-expressions-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.4` // `org.neo4j,neo4j-expressions-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -2630,6 +2632,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.1` // `org.neo4j,neo4j-parser-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.10` // `org.neo4j,neo4j-parser-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.11` // `org.neo4j,neo4j-parser-3.5,3.5.11,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.12` // `org.neo4j,neo4j-parser-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.2` // `org.neo4j,neo4j-parser-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.3` // `org.neo4j,neo4j-parser-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.4` // `org.neo4j,neo4j-parser-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -2642,6 +2645,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.1` // `org.neo4j,neo4j-rewriting-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.10` // `org.neo4j,neo4j-rewriting-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.11` // `org.neo4j,neo4j-rewriting-3.5,3.5.11,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.12` // `org.neo4j,neo4j-rewriting-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.2` // `org.neo4j,neo4j-rewriting-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.3` // `org.neo4j,neo4j-rewriting-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.4` // `org.neo4j,neo4j-rewriting-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -2653,6 +2657,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-4.0:4.0-alpha0-20181130` // `org.neo4j,neo4j-rewriting-4.0,4.0-alpha0-20181130,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.10` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.11` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.11,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.12` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.5` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.5,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.6` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.6,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.7` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.7,-,-,automatic,-,false,-`
@@ -8535,6 +8540,7 @@
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.1` // `org.neo4j.community,algo-it,3.5.1,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.10` // `org.neo4j.community,algo-it,3.5.10,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.11` // `org.neo4j.community,algo-it,3.5.11,org.neo4j.community.algo-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.12` // `org.neo4j.community,algo-it,3.5.12,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.2` // `org.neo4j.community,algo-it,3.5.2,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.3` // `org.neo4j.community,algo-it,3.5.3,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` :left_right_arrow: `org.neo4j.community:algo-it:3.5.4` // `org.neo4j.community,algo-it,3.5.4,org.neo4j.community.algo-it,-,automatic,-,false,-`
@@ -8553,6 +8559,7 @@
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.1` // `org.neo4j.community,bolt-it,3.5.1,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.10` // `org.neo4j.community,bolt-it,3.5.10,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.11` // `org.neo4j.community,bolt-it,3.5.11,org.neo4j.community.bolt-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.12` // `org.neo4j.community,bolt-it,3.5.12,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.2` // `org.neo4j.community,bolt-it,3.5.2,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.3` // `org.neo4j.community,bolt-it,3.5.3,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` :left_right_arrow: `org.neo4j.community:bolt-it:3.5.4` // `org.neo4j.community,bolt-it,3.5.4,org.neo4j.community.bolt-it,-,automatic,-,false,-`
@@ -8571,6 +8578,7 @@
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.1` // `org.neo4j.community,community-it,3.5.1,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.10` // `org.neo4j.community,community-it,3.5.10,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.11` // `org.neo4j.community,community-it,3.5.11,org.neo4j.community.community-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.12` // `org.neo4j.community,community-it,3.5.12,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.2` // `org.neo4j.community,community-it,3.5.2,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.3` // `org.neo4j.community,community-it,3.5.3,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` :left_right_arrow: `org.neo4j.community:community-it:3.5.4` // `org.neo4j.community,community-it,3.5.4,org.neo4j.community.community-it,-,automatic,-,false,-`
@@ -8589,6 +8597,7 @@
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.1` // `org.neo4j.community,consistency-it,3.5.1,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.10` // `org.neo4j.community,consistency-it,3.5.10,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.11` // `org.neo4j.community,consistency-it,3.5.11,org.neo4j.community.consistency-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.12` // `org.neo4j.community,consistency-it,3.5.12,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.2` // `org.neo4j.community,consistency-it,3.5.2,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.3` // `org.neo4j.community,consistency-it,3.5.3,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` :left_right_arrow: `org.neo4j.community:consistency-it:3.5.4` // `org.neo4j.community,consistency-it,3.5.4,org.neo4j.community.consistency-it,-,automatic,-,false,-`
@@ -8607,6 +8616,7 @@
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.1` // `org.neo4j.community,cypher-it,3.5.1,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.10` // `org.neo4j.community,cypher-it,3.5.10,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.11` // `org.neo4j.community,cypher-it,3.5.11,org.neo4j.community.cypher-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.12` // `org.neo4j.community,cypher-it,3.5.12,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.2` // `org.neo4j.community,cypher-it,3.5.2,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.3` // `org.neo4j.community,cypher-it,3.5.3,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` :left_right_arrow: `org.neo4j.community:cypher-it:3.5.4` // `org.neo4j.community,cypher-it,3.5.4,org.neo4j.community.cypher-it,-,automatic,-,false,-`
@@ -8625,6 +8635,7 @@
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.1` // `org.neo4j.community,dbms-it,3.5.1,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.10` // `org.neo4j.community,dbms-it,3.5.10,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.11` // `org.neo4j.community,dbms-it,3.5.11,org.neo4j.community.dbms-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.12` // `org.neo4j.community,dbms-it,3.5.12,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.2` // `org.neo4j.community,dbms-it,3.5.2,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.3` // `org.neo4j.community,dbms-it,3.5.3,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` :left_right_arrow: `org.neo4j.community:dbms-it:3.5.4` // `org.neo4j.community,dbms-it,3.5.4,org.neo4j.community.dbms-it,-,automatic,-,false,-`
@@ -8643,6 +8654,7 @@
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.1` // `org.neo4j.community,import-it,3.5.1,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.10` // `org.neo4j.community,import-it,3.5.10,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.11` // `org.neo4j.community,import-it,3.5.11,org.neo4j.community.import-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.12` // `org.neo4j.community,import-it,3.5.12,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.2` // `org.neo4j.community,import-it,3.5.2,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.3` // `org.neo4j.community,import-it,3.5.3,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` :left_right_arrow: `org.neo4j.community:import-it:3.5.4` // `org.neo4j.community,import-it,3.5.4,org.neo4j.community.import-it,-,automatic,-,false,-`
@@ -8661,6 +8673,7 @@
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.1` // `org.neo4j.community,index-it,3.5.1,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.10` // `org.neo4j.community,index-it,3.5.10,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.11` // `org.neo4j.community,index-it,3.5.11,org.neo4j.community.index-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.12` // `org.neo4j.community,index-it,3.5.12,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.2` // `org.neo4j.community,index-it,3.5.2,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.3` // `org.neo4j.community,index-it,3.5.3,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` :left_right_arrow: `org.neo4j.community:index-it:3.5.4` // `org.neo4j.community,index-it,3.5.4,org.neo4j.community.index-it,-,automatic,-,false,-`
@@ -8679,6 +8692,7 @@
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.1` // `org.neo4j.community,it-test-support,3.5.1,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.10` // `org.neo4j.community,it-test-support,3.5.10,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.11` // `org.neo4j.community,it-test-support,3.5.11,org.neo4j.community.it-test-support,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.12` // `org.neo4j.community,it-test-support,3.5.12,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.2` // `org.neo4j.community,it-test-support,3.5.2,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.3` // `org.neo4j.community,it-test-support,3.5.3,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` :left_right_arrow: `org.neo4j.community:it-test-support:3.5.4` // `org.neo4j.community,it-test-support,3.5.4,org.neo4j.community.it-test-support,-,automatic,-,false,-`
@@ -8697,6 +8711,7 @@
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.1` // `org.neo4j.community,kernel-it,3.5.1,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.10` // `org.neo4j.community,kernel-it,3.5.10,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.11` // `org.neo4j.community,kernel-it,3.5.11,org.neo4j.community.kernel-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.12` // `org.neo4j.community,kernel-it,3.5.12,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.2` // `org.neo4j.community,kernel-it,3.5.2,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.3` // `org.neo4j.community,kernel-it,3.5.3,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` :left_right_arrow: `org.neo4j.community:kernel-it:3.5.4` // `org.neo4j.community,kernel-it,3.5.4,org.neo4j.community.kernel-it,-,automatic,-,false,-`
@@ -8715,6 +8730,7 @@
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.1` // `org.neo4j,neo4j-import-tool,3.5.1,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.10` // `org.neo4j,neo4j-import-tool,3.5.10,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.11` // `org.neo4j,neo4j-import-tool,3.5.11,org.neo4j.tooling.import,-,automatic,-,false,-`
+- :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.12` // `org.neo4j,neo4j-import-tool,3.5.12,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.2` // `org.neo4j,neo4j-import-tool,3.5.2,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.3` // `org.neo4j,neo4j-import-tool,3.5.3,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` :left_right_arrow: `org.neo4j:neo4j-import-tool:3.5.4` // `org.neo4j,neo4j-import-tool,3.5.4,org.neo4j.tooling.import,-,automatic,-,false,-`

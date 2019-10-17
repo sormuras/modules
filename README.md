@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5200 Java modules published at Maven Central
+Counted 5213 Java modules published at Maven Central
 
-## Summary 2019-10-16T23:33:32.369240Z
+## Summary 2019-10-17T23:33:42.502718Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-16T23:33:32.369240Z
-Scanned 34,254 files in 4 seconds.
+Started scan at 2019-10-17T23:33:42.502718Z
+Scanned 34,320 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_16_22_55_17.csv
+    last -> modulescanner-report-2019_10_17_23_13_15.csv
 
-Parsed 2,204,654 lines in total.
-  38,053 -> captions skipped
-  148,704 -> duplicates skipped
-  93,143 -> module related
+Parsed 2,212,218 lines in total.
+  38,117 -> captions skipped
+  149,458 -> duplicates skipped
+  93,768 -> module related
 
-Collected 5,200 unique modules.
-  automatic :cd: -> 3,797
-  explicit :dvd: -> 1,403
+Collected 5,213 unique modules.
+  automatic :cd: -> 3,802
+  explicit :dvd: -> 1,411
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8965](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13008](suspicious/naming.md)
-- Modular impostors: [4664](suspicious/impostors.md)
+- Invalid module names: [8981](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13094](suspicious/naming.md)
+- Modular impostors: [4687](suspicious/impostors.md)
 
-## Unique Modules (5200)
+## Unique Modules (5213)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -477,9 +477,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jamesratzlaff.bitmanip` :left_right_arrow: `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` :left_right_arrow: `com.jamesratzlaff:byte-functions:2019.04.01`
 - :dvd: `com.jfoenix` :left_right_arrow: `com.jfoenix:jfoenix:9.0.9`
-- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.5`
+- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.7`
 - :dvd: `com.jongsoft.lang.collection` :left_right_arrow: `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` :left_right_arrow: `com.jongsoft.lang:commons:0.0.2`
+- :dvd: `com.jongsoft.lang.fasterxml` :left_right_arrow: `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` :left_right_arrow: `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` :left_right_arrow: `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
@@ -716,6 +717,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.zarbosoft.pidgoon` :left_right_arrow: `com.zarbosoft:pidgoon:0.0.4`
 - :dvd: `com.zarbosoft.pidgooncommand` :left_right_arrow: `com.zarbosoft:pidgoon-command:0.0.8`
 - :dvd: `com.zarbosoft.rendaw.common` :left_right_arrow: `com.zarbosoft.rendaw:common:1.0.11`
+- :dvd: `com.zeroc.ice` :left_right_arrow: `com.zeroc:ice:3.7.3`
+- :dvd: `com.zeroc.icebox` :left_right_arrow: `com.zeroc:icebox:3.7.3`
+- :dvd: `com.zeroc.icebt` :left_right_arrow: `com.zeroc:icebt:3.7.3`
+- :dvd: `com.zeroc.icediscovery` :left_right_arrow: `com.zeroc:icediscovery:3.7.3`
+- :dvd: `com.zeroc.icelocatordiscovery` :left_right_arrow: `com.zeroc:icelocatordiscovery:3.7.3`
+- :dvd: `com.zeroc.icepatch2` :left_right_arrow: `com.zeroc:icepatch2:3.7.3`
+- :dvd: `com.zeroc.icessl` :left_right_arrow: `com.zeroc:icessl:3.7.3`
 - :dvd: `de.japrost.jabudget.domain` :left_right_arrow: `de.japrost.jabudget:jabudget-domain:0.0.3`
 - :dvd: `de.japrost.jabudget.repository` :left_right_arrow: `de.japrost.jabudget:jabudget-repository:0.0.3`
 - :dvd: `de.japrost.jabudget.serialization` :left_right_arrow: `de.japrost.jabudget:jabudget-serialization:0.0.3`
@@ -735,7 +743,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.7`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.9`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
@@ -780,7 +788,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.2.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.48`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.50`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.4`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.4`
