@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5213 Java modules published at Maven Central
+Counted 5220 Java modules published at Maven Central
 
-## Summary 2019-10-17T23:33:42.502718Z
+## Summary 2019-10-18T23:34:38.691574Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-17T23:33:42.502718Z
-Scanned 34,320 files in 5 seconds.
+Started scan at 2019-10-18T23:34:38.691574Z
+Scanned 34,386 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_17_23_13_15.csv
+    last -> modulescanner-report-2019_10_18_23_11_01.csv
 
-Parsed 2,212,218 lines in total.
-  38,117 -> captions skipped
-  149,458 -> duplicates skipped
-  93,768 -> module related
+Parsed 2,218,732 lines in total.
+  38,183 -> captions skipped
+  149,834 -> duplicates skipped
+  94,070 -> module related
 
-Collected 5,213 unique modules.
-  automatic :cd: -> 3,802
-  explicit :dvd: -> 1,411
+Collected 5,220 unique modules.
+  automatic :cd: -> 3,808
+  explicit :dvd: -> 1,412
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [8981](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13094](suspicious/naming.md)
-- Modular impostors: [4687](suspicious/impostors.md)
+- Invalid module names: [8994](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13111](suspicious/naming.md)
+- Modular impostors: [4712](suspicious/impostors.md)
 
-## Unique Modules (5213)
+## Unique Modules (5220)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -477,7 +477,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jamesratzlaff.bitmanip` :left_right_arrow: `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` :left_right_arrow: `com.jamesratzlaff:byte-functions:2019.04.01`
 - :dvd: `com.jfoenix` :left_right_arrow: `com.jfoenix:jfoenix:9.0.9`
-- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.7`
+- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.8`
 - :dvd: `com.jongsoft.lang.collection` :left_right_arrow: `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` :left_right_arrow: `com.jongsoft.lang:commons:0.0.2`
 - :dvd: `com.jongsoft.lang.fasterxml` :left_right_arrow: `com.jongsoft.lang:language-fasterxml:0.0.7`
@@ -981,7 +981,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.1`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.2`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
@@ -1214,7 +1214,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
 - :dvd: `org.fxyz3d.importers` :left_right_arrow: `org.fxyz3d:fxyz3d-importers:0.5.2`
-- :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:1.9.0`
+- :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:2.0.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
 - :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.2.0.1`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
@@ -1321,11 +1321,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.lwjgl.xxhash` :left_right_arrow: `org.lwjgl:lwjgl-xxhash:3.2.3`
 - :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.3`
 - :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.3`
-- :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.4`
-- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.4`
-- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.4`
+- :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.5`
+- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.5`
+- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.5`
 - :dvd: `org.meeuw.i18n.formerlyassigned` :left_right_arrow: `org.meeuw.i18n:i18n-formerly-assigned:0.5`
-- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.4`
+- :dvd: `org.meeuw.i18n.openlocationcode` :left_right_arrow: `org.meeuw.i18n:i18n-regions-openlocationcode:0.5`
+- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.5`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2`
