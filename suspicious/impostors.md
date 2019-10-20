@@ -1368,6 +1368,7 @@
 - :cd: `de.sormuras.junit.platform.isolator.worker` :left_right_arrow: `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:jvault-connector:0.8.0` // `de.stklcode.jvault,jvault-connector,0.8.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:jvault-connector:0.8.1` // `de.stklcode.jvault,jvault-connector,0.8.1,de.stklcode.jvault.connector,-,automatic,-,false,-`
+- :cd: `de.stklcode.jvault.connector` :left_right_arrow: `de.stklcode.jvault:jvault-connector:0.8.2` // `de.stklcode.jvault,jvault-connector,0.8.2,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.ubleipzig.image.metadata` :left_right_arrow: `de.ubleipzig:image.metadata:0.1.0` // `de.ubleipzig,image.metadata,0.1.0,de.ubleipzig.image.metadata,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.0` // `eu.toop,toop-mem-phase4,0.10.0,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.1` // `eu.toop,toop-mem-phase4,0.10.1,eu.toop.connector.r2d2client,-,automatic,-,false,-`
@@ -2762,6 +2763,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.criteo.java:garmadon-agent:1.3.0` // `com.criteo.java,garmadon-agent,1.3.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.criteo.java:garmadon-agent:1.3.1` // `com.criteo.java,garmadon-agent,1.3.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.criteo.java:garmadon-agent:1.4.0` // `com.criteo.java,garmadon-agent,1.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.github.jsimone:webapp-runner:9.0.27.1` // `com.github.jsimone,webapp-runner,9.0.27.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:1.95` // `com.proofpoint.platform,jaxrs,1.95,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:1.96` // `com.proofpoint.platform,jaxrs,1.96,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.proofpoint.platform:jaxrs:1.97` // `com.proofpoint.platform,jaxrs,1.97,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`

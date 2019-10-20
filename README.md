@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5220 Java modules published at Maven Central
+Counted 5222 Java modules published at Maven Central
 
-## Summary 2019-10-19T23:34:59.958034Z
+## Summary 2019-10-20T23:35:17.705667Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-19T23:34:59.958034Z
-Scanned 34,462 files in 4 seconds.
+Started scan at 2019-10-20T23:35:17.705667Z
+Scanned 34,534 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_19_23_16_59.csv
+    last -> modulescanner-report-2019_10_20_23_05_37.csv
 
-Parsed 2,221,256 lines in total.
-  38,259 -> captions skipped
-  150,119 -> duplicates skipped
-  94,160 -> module related
+Parsed 2,223,224 lines in total.
+  38,331 -> captions skipped
+  150,208 -> duplicates skipped
+  94,231 -> module related
 
-Collected 5,220 unique modules.
-  automatic :cd: -> 3,808
-  explicit :dvd: -> 1,412
+Collected 5,222 unique modules.
+  automatic :cd: -> 3,809
+  explicit :dvd: -> 1,413
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9011](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13155](suspicious/naming.md)
-- Modular impostors: [4712](suspicious/impostors.md)
+- Invalid module names: [9012](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13165](suspicious/naming.md)
+- Modular impostors: [4714](suspicious/impostors.md)
 
-## Unique Modules (5220)
+## Unique Modules (5222)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -757,7 +757,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.15`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.17`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -788,7 +788,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.2.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.50`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.52`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.1.4`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.1.4`
@@ -1337,8 +1337,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.1`
-- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.1`
+- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.2`
+- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.2`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` :left_right_arrow: `org.panteleyev:persistence:19.2.0`
@@ -1502,6 +1502,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `swim.web` :left_right_arrow: `ai.swim:swim-web:3.10.0`
 - :dvd: `swim.ws` :left_right_arrow: `ai.swim:swim-ws:3.10.0`
 - :dvd: `swim.xml` :left_right_arrow: `ai.swim:swim-xml:3.10.0`
+- :dvd: `systems.uom.quantity` :left_right_arrow: `systems.uom:systems-quantity:2.0`
 - :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.1.0`
 - :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0.1`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-PRD`
