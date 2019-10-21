@@ -3838,6 +3838,7 @@
 - :dvd: `com.github.simplenet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.5.2` // `com.github.jhg023,SimpleNet,1.5.2,com.github.simplenet,1.5.2,explicit,Pbbl + java.base + org.slf4j,false,-`
 - :dvd: `com.github.simplenet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.5.3` // `com.github.jhg023,SimpleNet,1.5.3,com.github.simplenet,1.5.3,explicit,Pbbl + java.base + org.slf4j,false,-`
 - :dvd: `com.github.simplenet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.6.0` // `com.github.jhg023,SimpleNet,1.6.0,com.github.simplenet,1.6.0,explicit,Pbbl + java.base + org.slf4j,false,-`
+- :dvd: `com.github.simplenet` :left_right_arrow: `com.github.jhg023:SimpleNet:1.6.1` // `com.github.jhg023,SimpleNet,1.6.1,com.github.simplenet,1.6.1,explicit,Pbbl + java.base + org.slf4j,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.0.0` // `com.github.simy4.xpath,xpath-to-xml-core,2.0.0,com.github.simych.xpath.core,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.1.0` // `com.github.simy4.xpath,xpath-to-xml-core,2.1.0,com.github.simych.xpath.core,-,automatic,-,false,-`
 - :cd: `com.github.simych.xpath.core` :left_right_arrow: `com.github.simy4.xpath:xpath-to-xml-core:2.1.1` // `com.github.simy4.xpath,xpath-to-xml-core,2.1.1,com.github.simych.xpath.core,-,automatic,-,false,-`
@@ -4582,6 +4583,7 @@
 - :cd: `com.google.api.services.youtube` :left_right_arrow: `com.google.apis:google-api-services-youtube:v3-rev20190827-1.30.1` // `com.google.apis,google-api-services-youtube,v3-rev20190827-1.30.1,com.google.api.services.youtube,-,automatic,-,false,-`
 - :cd: `com.google.api.services.youtubeAnalytics` :left_right_arrow: `com.google.apis:google-api-services-youtubeAnalytics:v2-rev20190531-1.30.1` // `com.google.apis,google-api-services-youtubeAnalytics,v2-rev20190531-1.30.1,com.google.api.services.youtubeAnalytics,-,automatic,-,false,-`
 - :cd: `com.google.api.services.youtubereporting` :left_right_arrow: `com.google.apis:google-api-services-youtubereporting:v1-rev20190406-1.30.1` // `com.google.apis,google-api-services-youtubereporting,v1-rev20190406-1.30.1,com.google.api.services.youtubereporting,-,automatic,-,false,-`
+- :cd: `com.google.auto.service` :left_right_arrow: `com.github.sidneibjunior:auto-service-annotations:1.0-rc6` // `com.github.sidneibjunior,auto-service-annotations,1.0-rc6,com.google.auto.service,-,automatic,-,false,-`
 - :cd: `com.google.common` :left_right_arrow: `org.checkerframework.annotatedlib:guava:26.0-jre` // `org.checkerframework.annotatedlib,guava,26.0-jre,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.google.gson` :left_right_arrow: `com.google.code.gson:gson:2.8.6` // `com.google.code.gson,gson,2.8.6,com.google.gson,2.8.6,explicit,java.base + java.sql,false,-`
 - :cd: `com.google.guice.extensions.assistedinject` :left_right_arrow: `com.google.inject.extensions:guice-assistedinject:4.2.0` // `com.google.inject.extensions,guice-assistedinject,4.2.0,com.google.guice.extensions.assistedinject,-,automatic,-,false,-`
@@ -5690,6 +5692,7 @@
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:0.9` // `com.github.corese4rch,cvurl-io,0.9,coresearch.cvurl.io,0.9,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:1.0` // `com.github.corese4rch,cvurl-io,1.0,coresearch.cvurl.io,1.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
 - :dvd: `coresearch.cvurl.io` :left_right_arrow: `com.github.corese4rch:cvurl-io:1.1` // `com.github.corese4rch,cvurl-io,1.1,coresearch.cvurl.io,1.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + java.net.http + org.slf4j,false,-`
+- :dvd: `database_connector` :left_right_arrow: `com.gitlab.marvinh:database-connector:1.0` // `com.gitlab.marvinh,database-connector,1.0,database_connector,1.0,explicit,java.base + java.sql,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.4.0` // `de.carne.common,java-default,8.4.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.6.0` // `de.carne.common,java-default,8.6.0,de.carne,-,automatic,-,false,-`
 - :cd: `de.carne` :left_right_arrow: `de.carne.common:java-default:8.7.0` // `de.carne.common,java-default,8.7.0,de.carne,-,automatic,-,false,-`
@@ -5763,6 +5766,7 @@
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4-RC1,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.4-RC2,eclipselink.antlr,-,automatic,-,false,-`
+- :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.5` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.5,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.5-RC1,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.5-RC2` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.5-RC2,eclipselink.antlr,-,automatic,-,false,-`
 - :cd: `eclipselink.antlr` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.antlr:2.7.5-RC3` // `org.eclipse.persistence,org.eclipse.persistence.antlr,2.7.5-RC3,eclipselink.antlr,-,automatic,-,false,-`
@@ -5770,6 +5774,7 @@
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4-RC1,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.4-RC2,eclipselink.asm,-,automatic,-,false,-`
+- :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.5` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.5,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.5-RC1,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.5-RC2` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.5-RC2,eclipselink.asm,-,automatic,-,false,-`
 - :cd: `eclipselink.asm` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.asm:2.7.5-RC3` // `org.eclipse.persistence,org.eclipse.persistence.asm,2.7.5-RC3,eclipselink.asm,-,automatic,-,false,-`
@@ -5777,6 +5782,7 @@
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4-RC1` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4-RC1,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.4-RC2` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.4-RC2,eclipselink.oracleddlparser,-,automatic,-,false,-`
+- :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.5` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.5,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.5-RC1` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.5-RC1,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.5-RC2` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.5-RC2,eclipselink.oracleddlparser,-,automatic,-,false,-`
 - :cd: `eclipselink.oracleddlparser` :left_right_arrow: `org.eclipse.persistence:org.eclipse.persistence.oracleddlparser:2.7.5-RC3` // `org.eclipse.persistence,org.eclipse.persistence.oracleddlparser,2.7.5-RC3,eclipselink.oracleddlparser,-,automatic,-,false,-`
@@ -6032,6 +6038,7 @@
 - :dvd: `inet.ipaddr` :left_right_arrow: `com.github.seancfoley:ipaddress:5.0.0` // `com.github.seancfoley,ipaddress,5.0.0,inet.ipaddr,-,explicit,java.base,false,-`
 - :dvd: `inet.ipaddr` :left_right_arrow: `com.github.seancfoley:ipaddress:5.0.1` // `com.github.seancfoley,ipaddress,5.0.1,inet.ipaddr,-,explicit,java.base,false,-`
 - :dvd: `inet.ipaddr` :left_right_arrow: `com.github.seancfoley:ipaddress:5.0.2` // `com.github.seancfoley,ipaddress,5.0.2,inet.ipaddr,-,explicit,java.base,false,-`
+- :dvd: `inet.ipaddr` :left_right_arrow: `com.github.seancfoley:ipaddress:5.1.0` // `com.github.seancfoley,ipaddress,5.1.0,inet.ipaddr,-,explicit,java.base,false,-`
 - :dvd: `inoks.java.monads` :left_right_arrow: `de.kgrupp:inoks-java-monads:0.7.0.1` // `de.kgrupp,inoks-java-monads,0.7.0.1,inoks.java.monads,-,explicit,java.base,false,-`
 - :dvd: `inoks.java.monads` :left_right_arrow: `de.kgrupp:inoks-java-monads:0.7.1.1` // `de.kgrupp,inoks-java-monads,0.7.1.1,inoks.java.monads,-,explicit,java.base,false,-`
 - :dvd: `inoks.java.monads` :left_right_arrow: `de.kgrupp:inoks-java-monads:0.8.0.1` // `de.kgrupp,inoks-java-monads,0.8.0.1,inoks.java.monads,-,explicit,java.base,false,-`
@@ -7274,6 +7281,7 @@
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.8.3` // `com.github.h908714124,jbock,2.8.3,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.8.4` // `com.github.h908714124,jbock,2.8.4,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.8.5` // `com.github.h908714124,jbock,2.8.5,net.jbock.compiler,-,automatic,-,false,-`
+- :cd: `net.jbock.compiler` :left_right_arrow: `com.github.h908714124:jbock:2.8.6` // `com.github.h908714124,jbock,2.8.6,net.jbock.compiler,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.0.1` // `net.morimekta.utils,io-util,3.0.1,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.1.0` // `net.morimekta.utils,io-util,3.1.0,net.morimekta.util,-,automatic,-,false,-`
 - :cd: `net.morimekta.util` :left_right_arrow: `net.morimekta.utils:io-util:3.2.0` // `net.morimekta.utils,io-util,3.2.0,net.morimekta.util,-,automatic,-,false,-`
@@ -12681,6 +12689,8 @@
 - :dvd: `semargl.rdf` :left_right_arrow: `fr.inria.corese.org.semarglproject:semargl-rdf:0.7.2` // `fr.inria.corese.org.semarglproject,semargl-rdf,0.7.2,semargl.rdf,-,explicit,java.xml + semargl.core + java.base,true,-`
 - :dvd: `semargl.rdfa` :left_right_arrow: `fr.inria.corese.org.semarglproject:semargl-rdfa:0.7.2` // `fr.inria.corese.org.semarglproject,semargl-rdfa,0.7.2,semargl.rdfa,-,explicit,java.xml + semargl.rdf + java.xml.bind + semargl.core + java.base,true,-`
 - :dvd: `semargl_core_tests` :left_right_arrow: `fr.inria.corese.org.semarglproject:semargl-core-tests:0.7.2` // `fr.inria.corese.org.semarglproject,semargl-core-tests,0.7.2,semargl_core_tests,-,explicit,sesame.queryresultio.api + sesame.query + commons.io + sesame.model + sesame.rio.api + sesame.sail.memory + sesame.repository.sail + sesame.repository.api + sesame.util + java.base,true,-`
+- :dvd: `service` :left_right_arrow: `com.gitlab.marvinh:service:2.0` // `com.gitlab.marvinh,service,2.0,service,2.0,explicit,java.base + org.slf4j + socket,false,-`
+- :dvd: `service` :left_right_arrow: `com.gitlab.marvinh:service:2.1` // `com.gitlab.marvinh,service,2.1,service,2.1,explicit,java.base + org.slf4j + socket,false,-`
 - :cd: `sgbcs.api` :left_right_arrow: `org.springframework.build.test:sgbcs-api:0.0.6.RELEASE` // `org.springframework.build.test,sgbcs-api,0.0.6.RELEASE,sgbcs.api,-,automatic,-,false,-`
 - :cd: `sgbcs.core` :left_right_arrow: `org.springframework.build.test:sgbcs-core:0.0.6.RELEASE` // `org.springframework.build.test,sgbcs-core,0.0.6.RELEASE,sgbcs.core,-,automatic,-,false,-`
 - :dvd: `simple.persist` :left_right_arrow: `org.prelle:simple-persist:3.0.0` // `org.prelle,simple-persist,3.0.0,simple.persist,-,explicit,java.base + java.sql + java.sql.rowset + java.xml + org.apache.logging.log4j,false,-`
@@ -12691,6 +12701,7 @@
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.13.1` // `org.fissore,slf4j-fluent,0.13.1,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.8.0` // `org.fissore,slf4j-fluent,0.8.0,slf4j.fluent,-,automatic,-,false,-`
 - :cd: `slf4j.fluent` :left_right_arrow: `org.fissore:slf4j-fluent:0.9.0` // `org.fissore,slf4j-fluent,0.9.0,slf4j.fluent,-,automatic,-,false,-`
+- :dvd: `socket` :left_right_arrow: `com.gitlab.marvinh:socket:2.0` // `com.gitlab.marvinh,socket,2.0,socket,2.0,explicit,java.base + org.slf4j,false,-`
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.1` // `com.gitlab.tixtix320,sonder,0.1,sonder,0.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.2` // `com.gitlab.tixtix320,sonder,0.2,sonder,0.2,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.4` // `com.gitlab.tixtix320,sonder,0.4,sonder,0.4,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
@@ -13001,6 +13012,7 @@
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.18.0` // `io.zipkin.zipkin2,zipkin,2.18.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.18.1` // `io.zipkin.zipkin2,zipkin,2.18.1,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.18.2` // `io.zipkin.zipkin2,zipkin,2.18.2,zipkin2,-,automatic,-,false,-`
+- :cd: `zipkin2` :left_right_arrow: `io.zipkin.zipkin2:zipkin:2.18.3` // `io.zipkin.zipkin2,zipkin,2.18.3,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.13.0` // `org.apache.zipkin.zipkin2,zipkin,2.13.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2` :left_right_arrow: `org.apache.zipkin.zipkin2:zipkin:2.14.0` // `org.apache.zipkin.zipkin2,zipkin,2.14.0,zipkin2,-,automatic,-,false,-`
 - :cd: `zipkin2.reporter` :left_right_arrow: `io.zipkin.reporter2:zipkin-reporter:2.10.0` // `io.zipkin.reporter2,zipkin-reporter,2.10.0,zipkin2.reporter,-,automatic,-,false,-`
