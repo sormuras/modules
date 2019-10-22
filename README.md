@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5223 Java modules published at Maven Central
+Counted 5225 Java modules published at Maven Central
 
-## Summary 2019-10-21T23:38:12.603456Z
+## Summary 2019-10-22T23:36:46.797413Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-21T23:38:12.603456Z
-Scanned 34,603 files in 5 seconds.
+Started scan at 2019-10-22T23:36:46.797413Z
+Scanned 34,670 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_21_23_10_56.csv
+    last -> modulescanner-report-2019_10_22_23_04_33.csv
 
-Parsed 2,229,089 lines in total.
-  38,400 -> captions skipped
-  150,358 -> duplicates skipped
-  94,348 -> module related
+Parsed 2,234,896 lines in total.
+  38,467 -> captions skipped
+  150,599 -> duplicates skipped
+  94,598 -> module related
 
-Collected 5,223 unique modules.
+Collected 5,225 unique modules.
   automatic :cd: -> 3,810
-  explicit :dvd: -> 1,413
+  explicit :dvd: -> 1,415
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [9014](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13177](suspicious/naming.md)
-- Modular impostors: [4715](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13193](suspicious/naming.md)
+- Modular impostors: [4719](suspicious/impostors.md)
 
-## Unique Modules (5223)
+## Unique Modules (5225)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -175,8 +175,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.9.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
-- :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha4`
-- :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha4`
+- :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
+- :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
 - :dvd: `cn.nextop.lite.pool` :left_right_arrow: `cn.nextop:lite-pool:1.0.0-RC3`
 - :dvd: `co.paralleluniverse.quasar.actors` :left_right_arrow: `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` :left_right_arrow: `co.paralleluniverse:quasar-core:0.8.0`
@@ -689,14 +689,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.1`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
-- :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.9`
-- :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.9`
-- :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.4.0-b180830.0438`
+- :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
+- :dvd: `com.sun.istack.test` :left_right_arrow: `com.sun.istack:istack-commons-test:3.0.10`
+- :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.10`
+- :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.3.3-b01`
+- :dvd: `com.sun.xml.bind.osgi` :left_right_arrow: `com.sun.xml.bind:jaxb-osgi:2.3.3-b01`
 - :dvd: `com.sun.xml.dtdparser` :left_right_arrow: `com.sun.xml.dtd-parser:dtd-parser:1.4.2`
 - :dvd: `com.sun.xml.fastinfoset` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfoset:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.rtt` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.utilities` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.17`
-- :dvd: `com.sun.xml.messaging.saaj` :left_right_arrow: `com.sun.xml.messaging.saaj:saaj-impl:1.5.1`
+- :dvd: `com.sun.xml.messaging.saaj` :left_right_arrow: `com.sun.xml.messaging.saaj:saaj-impl:1.5.2-b01`
 - :dvd: `com.sun.xml.ws` :left_right_arrow: `com.sun.xml.ws:rt:2.3.2`
 - :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
 - :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.2`
