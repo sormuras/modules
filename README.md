@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5225 Java modules published at Maven Central
+Counted 5233 Java modules published at Maven Central
 
-## Summary 2019-10-22T23:36:46.797413Z
+## Summary 2019-10-23T23:36:57.362185Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-22T23:36:46.797413Z
-Scanned 34,670 files in 5 seconds.
+Started scan at 2019-10-23T23:36:57.362185Z
+Scanned 34,733 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_22_23_04_33.csv
+    last -> modulescanner-report-2019_10_23_23_08_28.csv
 
-Parsed 2,234,896 lines in total.
-  38,467 -> captions skipped
-  150,599 -> duplicates skipped
-  94,598 -> module related
+Parsed 2,241,291 lines in total.
+  38,530 -> captions skipped
+  151,025 -> duplicates skipped
+  94,949 -> module related
 
-Collected 5,225 unique modules.
-  automatic :cd: -> 3,810
+Collected 5,233 unique modules.
+  automatic :cd: -> 3,818
   explicit :dvd: -> 1,415
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9014](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13193](suspicious/naming.md)
-- Modular impostors: [4719](suspicious/impostors.md)
+- Invalid module names: [9030](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13215](suspicious/naming.md)
+- Modular impostors: [4721](suspicious/impostors.md)
 
-## Unique Modules (5225)
+## Unique Modules (5233)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -108,8 +108,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.2`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
-- :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.0.5`
-- :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.2`
+- :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
+- :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
 - :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.4`
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.7`
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
@@ -263,7 +263,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha2`
 - :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha2`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
-- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.1`
+- :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.3`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
@@ -312,7 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr3`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.15`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.16`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -745,7 +745,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.9`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.10`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
