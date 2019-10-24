@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5233 Java modules published at Maven Central
+Counted 5246 Java modules published at Maven Central
 
-## Summary 2019-10-23T23:36:57.362185Z
+## Summary 2019-10-24T23:37:24.055980Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-23T23:36:57.362185Z
-Scanned 34,733 files in 4 seconds.
+Started scan at 2019-10-24T23:37:24.055980Z
+Scanned 34,802 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_23_23_08_28.csv
+    last -> modulescanner-report-2019_10_24_23_19_58.csv
 
-Parsed 2,241,291 lines in total.
-  38,530 -> captions skipped
-  151,025 -> duplicates skipped
-  94,949 -> module related
+Parsed 2,246,633 lines in total.
+  38,599 -> captions skipped
+  151,295 -> duplicates skipped
+  95,236 -> module related
 
-Collected 5,233 unique modules.
+Collected 5,246 unique modules.
   automatic :cd: -> 3,818
-  explicit :dvd: -> 1,415
+  explicit :dvd: -> 1,428
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,22 +91,22 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9030](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13215](suspicious/naming.md)
-- Modular impostors: [4721](suspicious/impostors.md)
+- Invalid module names: [9035](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13233](suspicious/naming.md)
+- Modular impostors: [4724](suspicious/impostors.md)
 
-## Unique Modules (5233)
+## Unique Modules (5246)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.8`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.9`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.2`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.3`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
@@ -358,7 +358,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.4`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.5`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.7`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -759,36 +759,47 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.18`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.19`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` :left_right_arrow: `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
 - :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.0.4`
-- :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.2.0`
+- :dvd: `io.annot8.api` :left_right_arrow: `io.annot8:annot8-api:0.4.0`
+- :dvd: `io.annot8.common.components` :left_right_arrow: `io.annot8:annot8-common-components:0.4.0`
+- :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.4.0`
 - :dvd: `io.annot8.common.implementations` :left_right_arrow: `io.annot8:annot8-common-implementations:0.2.0`
 - :dvd: `io.annot8.common.jackson.serialisation` :left_right_arrow: `io.annot8:annot8-common-jackson-serialisation:0.2.0`
 - :dvd: `io.annot8.common.pipelines` :left_right_arrow: `io.annot8:annot8-common-pipelines:0.2.0`
-- :dvd: `io.annot8.common.utils` :left_right_arrow: `io.annot8:annot8-common-utils:0.2.0`
-- :dvd: `io.annot8.components.base` :left_right_arrow: `io.annot8:annot8-components-base:0.2.0`
-- :dvd: `io.annot8.components.cyber` :left_right_arrow: `io.annot8:annot8-components-cyber:0.2.0`
-- :dvd: `io.annot8.components.files` :left_right_arrow: `io.annot8:annot8-components-files:0.2.0`
-- :dvd: `io.annot8.components.financial` :left_right_arrow: `io.annot8:annot8-components-financial:0.2.0`
-- :dvd: `io.annot8.components.geo` :left_right_arrow: `io.annot8:annot8-components-geo:0.2.0`
-- :dvd: `io.annot8.components.grouping` :left_right_arrow: `io.annot8:annot8-components-grouping:0.2.0`
-- :dvd: `io.annot8.components.mongo` :left_right_arrow: `io.annot8:annot8-components-mongo:0.2.0`
+- :dvd: `io.annot8.common.processing` :left_right_arrow: `io.annot8:annot8-common-processing:0.4.0`
+- :dvd: `io.annot8.common.serialization` :left_right_arrow: `io.annot8:annot8-common-serialization:0.4.0`
+- :dvd: `io.annot8.common.utils` :left_right_arrow: `io.annot8:annot8-common-utils:0.4.0`
+- :dvd: `io.annot8.components.base` :left_right_arrow: `io.annot8:annot8-components-base:0.4.0`
+- :dvd: `io.annot8.components.cyber` :left_right_arrow: `io.annot8:annot8-components-cyber:0.4.0`
+- :dvd: `io.annot8.components.db` :left_right_arrow: `io.annot8:annot8-components-db:0.4.0`
+- :dvd: `io.annot8.components.files` :left_right_arrow: `io.annot8:annot8-components-files:0.4.0`
+- :dvd: `io.annot8.components.financial` :left_right_arrow: `io.annot8:annot8-components-financial:0.4.0`
+- :dvd: `io.annot8.components.geo` :left_right_arrow: `io.annot8:annot8-components-geo:0.4.0`
+- :dvd: `io.annot8.components.grouping` :left_right_arrow: `io.annot8:annot8-components-grouping:0.4.0`
+- :dvd: `io.annot8.components.mongo` :left_right_arrow: `io.annot8:annot8-components-mongo:0.4.0`
 - :dvd: `io.annot8.components.monitor` :left_right_arrow: `io.annot8:annot8-components-monitor:0.2.0`
-- :dvd: `io.annot8.components.print` :left_right_arrow: `io.annot8:annot8-components-print:0.2.0`
-- :dvd: `io.annot8.components.properties` :left_right_arrow: `io.annot8:annot8-components-properties:0.2.0`
-- :dvd: `io.annot8.components.quantities` :left_right_arrow: `io.annot8:annot8-components-quantities:0.2.0`
-- :dvd: `io.annot8.components.social` :left_right_arrow: `io.annot8:annot8-components-social:0.2.0`
-- :dvd: `io.annot8.components.text` :left_right_arrow: `io.annot8:annot8-components-text:0.2.0`
-- :dvd: `io.annot8.conventions` :left_right_arrow: `io.annot8:annot8-conventions:0.2.0`
+- :dvd: `io.annot8.components.opennlp` :left_right_arrow: `io.annot8:annot8-components-opennlp:0.4.0`
+- :dvd: `io.annot8.components.print` :left_right_arrow: `io.annot8:annot8-components-print:0.4.0`
+- :dvd: `io.annot8.components.properties` :left_right_arrow: `io.annot8:annot8-components-properties:0.4.0`
+- :dvd: `io.annot8.components.quantities` :left_right_arrow: `io.annot8:annot8-components-quantities:0.4.0`
+- :dvd: `io.annot8.components.social` :left_right_arrow: `io.annot8:annot8-components-social:0.4.0`
+- :dvd: `io.annot8.components.tesseract` :left_right_arrow: `io.annot8:annot8-components-tesseract:0.4.0`
+- :dvd: `io.annot8.components.text` :left_right_arrow: `io.annot8:annot8-components-text:0.4.0`
+- :dvd: `io.annot8.components.translation` :left_right_arrow: `io.annot8:annot8-components-translation:0.4.0`
+- :dvd: `io.annot8.conventions` :left_right_arrow: `io.annot8:annot8-conventions:0.4.0`
 - :dvd: `io.annot8.core` :left_right_arrow: `io.annot8:annot8-core:0.2.0`
 - :dvd: `io.annot8.defaultimpl` :left_right_arrow: `io.annot8:annot8-default-impl:0.2.0`
-- :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.2.0`
-- :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.2.0`
+- :dvd: `io.annot8.implementations.pipelines` :left_right_arrow: `io.annot8:annot8-pipeline-implementation:0.4.0`
+- :dvd: `io.annot8.implementations.reference` :left_right_arrow: `io.annot8:annot8-reference-implementation:0.4.0`
+- :dvd: `io.annot8.implementations.support` :left_right_arrow: `io.annot8:annot8-implementations-support:0.4.0`
+- :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
+- :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.52`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
@@ -1010,7 +1021,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.9`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.19`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.20`
+- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.3`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
 - :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.7`
@@ -1511,6 +1523,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky` :left_right_arrow: `tk.plogitech:darksky-forecast-api:2.0.2`
 - :dvd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:2.0.2`
 - :dvd: `top.marchand.xml.cp.protocol` :left_right_arrow: `top.marchand.xml:cp-protocol:2.1`
+- :dvd: `uk.gov.dstl.geo.osgb` :left_right_arrow: `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` :left_right_arrow: `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`

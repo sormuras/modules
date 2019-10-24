@@ -51,6 +51,7 @@
 - :cd: `aQute.libg` :left_right_arrow: `biz.aQute.bnd:aQute.libg:4.3.0` // `biz.aQute.bnd,aQute.libg,4.3.0,aQute.libg,-,automatic,-,false,-`
 - :dvd: `achord` :left_right_arrow: `com.github.mangelion:achord:0.2.1` // `com.github.mangelion,achord,0.2.1,achord,-,explicit,jctools.core + io.netty.common + io.netty.transport + java.base + io.netty.buffer + io.netty.codec + lz4.java,true,-`
 - :dvd: `afterburner.fx` :left_right_arrow: `com.dlsc.afterburner:afterburner.fx:2.0.0` // `com.dlsc.afterburner,afterburner.fx,2.0.0,afterburner.fx,2.0.0,explicit,java.annotation + java.base + javafx.base + javafx.fxml + javafx.graphics + javax.inject,false,-`
+- :dvd: `ainoha.core` :left_right_arrow: `com.github.ainoha-framework:ainoha-core:1.0.RC1` // `com.github.ainoha-framework,ainoha-core,1.0.RC1,ainoha.core,-,explicit,java.base + java.logging + javafx.controls + javafx.fxml,false,-`
 - :dvd: `aion.api.client` :left_right_arrow: `com.bloxbean:blox4j-aion-api:0.1.17` // `com.bloxbean,blox4j-aion-api,0.1.17,aion.api.client,-,explicit,aion.base + aion.crypto + aion.log + aion.rlp + aion.vm.api + commons.collections4 + gson + java.base + java.xml + jsr305 + libnzmq + logback.classic + logback.core + protobuf.java + slf4j.api,false,-`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.11:2.5.15` // `com.typesafe.akka,akka-actor_2.11,2.5.15,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `akka.actor` :left_right_arrow: `com.typesafe.akka:akka-actor_2.11:2.5.16` // `com.typesafe.akka,akka-actor_2.11,2.5.16,akka.actor,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2705,6 +2706,7 @@
 - :cd: `akka.typed.testkit` :left_right_arrow: `com.typesafe.akka:akka-typed-testkit_2.11:2.5.8` // `com.typesafe.akka,akka-typed-testkit_2.11,2.5.8,akka.typed.testkit,-,automatic,-,false,-`
 - :cd: `akka.typed.testkit` :left_right_arrow: `com.typesafe.akka:akka-typed-testkit_2.12:2.5.8` // `com.typesafe.akka,akka-typed-testkit_2.12,2.5.8,akka.typed.testkit,-,automatic,-,false,-`
 - :dvd: `annot8.components.image` :left_right_arrow: `io.annot8:annot8-components-image:0.2.0` // `io.annot8,annot8-components-image,0.2.0,annot8.components.image,-,explicit,io.annot8.common.data + io.annot8.components.base + java.base + metadata.extractor,false,-`
+- :dvd: `annot8.components.image` :left_right_arrow: `io.annot8:annot8-components-image:0.4.0` // `io.annot8,annot8-components-image,0.4.0,annot8.components.image,0.4.0,explicit,io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + metadata.extractor,false,-`
 - :dvd: `aopalliance` :left_right_arrow: `com.jwebmp.jre11:aopalliance-core:0.63.0.12` // `com.jwebmp.jre11,aopalliance-core,0.63.0.12,aopalliance,-,explicit,java.base,false,-`
 - :dvd: `aopalliance` :left_right_arrow: `com.jwebmp.jre11:aopalliance-core:0.63.0.13` // `com.jwebmp.jre11,aopalliance-core,0.63.0.13,aopalliance,-,explicit,java.base,false,-`
 - :dvd: `aopalliance` :left_right_arrow: `com.jwebmp.jre11:aopalliance-core:0.63.0.14` // `com.jwebmp.jre11,aopalliance-core,0.63.0.14,aopalliance,-,explicit,java.base,false,-`
@@ -3948,18 +3950,23 @@
 - :cd: `com.google.api.client` :left_right_arrow: `com.google.http-client:google-http-client:1.32.1` // `com.google.http-client,google-http-client,1.32.1,com.google.api.client,-,automatic,-,false,-`
 - :cd: `com.google.api.client.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client:1.30.2` // `com.google.oauth-client,google-oauth-client,1.30.2,com.google.api.client.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client:1.30.3` // `com.google.oauth-client,google-oauth-client,1.30.3,com.google.api.client.auth,-,automatic,-,false,-`
+- :cd: `com.google.api.client.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client:1.30.4` // `com.google.oauth-client,google-oauth-client,1.30.4,com.google.api.client.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.android` :left_right_arrow: `com.google.http-client:google-http-client-android:1.32.0` // `com.google.http-client,google-http-client-android,1.32.0,com.google.api.client.extensions.android,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.android` :left_right_arrow: `com.google.http-client:google-http-client-android:1.32.1` // `com.google.http-client,google-http-client-android,1.32.1,com.google.api.client.extensions.android,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.appengine` :left_right_arrow: `com.google.http-client:google-http-client-appengine:1.32.0` // `com.google.http-client,google-http-client-appengine,1.32.0,com.google.api.client.extensions.appengine,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.appengine` :left_right_arrow: `com.google.http-client:google-http-client-appengine:1.32.1` // `com.google.http-client,google-http-client-appengine,1.32.1,com.google.api.client.extensions.appengine,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.appengine.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-appengine:1.30.2` // `com.google.oauth-client,google-oauth-client-appengine,1.30.2,com.google.api.client.extensions.appengine.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.appengine.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-appengine:1.30.3` // `com.google.oauth-client,google-oauth-client-appengine,1.30.3,com.google.api.client.extensions.appengine.auth,-,automatic,-,false,-`
+- :cd: `com.google.api.client.extensions.appengine.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-appengine:1.30.4` // `com.google.oauth-client,google-oauth-client-appengine,1.30.4,com.google.api.client.extensions.appengine.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.java6.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-java6:1.30.2` // `com.google.oauth-client,google-oauth-client-java6,1.30.2,com.google.api.client.extensions.java6.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.java6.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-java6:1.30.3` // `com.google.oauth-client,google-oauth-client-java6,1.30.3,com.google.api.client.extensions.java6.auth,-,automatic,-,false,-`
+- :cd: `com.google.api.client.extensions.java6.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-java6:1.30.4` // `com.google.oauth-client,google-oauth-client-java6,1.30.4,com.google.api.client.extensions.java6.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.jetty.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-jetty:1.30.2` // `com.google.oauth-client,google-oauth-client-jetty,1.30.2,com.google.api.client.extensions.jetty.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.jetty.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-jetty:1.30.3` // `com.google.oauth-client,google-oauth-client-jetty,1.30.3,com.google.api.client.extensions.jetty.auth,-,automatic,-,false,-`
+- :cd: `com.google.api.client.extensions.jetty.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-jetty:1.30.4` // `com.google.oauth-client,google-oauth-client-jetty,1.30.4,com.google.api.client.extensions.jetty.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.servlet.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-servlet:1.30.2` // `com.google.oauth-client,google-oauth-client-servlet,1.30.2,com.google.api.client.extensions.servlet.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.extensions.servlet.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-servlet:1.30.3` // `com.google.oauth-client,google-oauth-client-servlet,1.30.3,com.google.api.client.extensions.servlet.auth,-,automatic,-,false,-`
+- :cd: `com.google.api.client.extensions.servlet.auth` :left_right_arrow: `com.google.oauth-client:google-oauth-client-servlet:1.30.4` // `com.google.oauth-client,google-oauth-client-servlet,1.30.4,com.google.api.client.extensions.servlet.auth,-,automatic,-,false,-`
 - :cd: `com.google.api.client.findbugs` :left_right_arrow: `com.google.http-client:google-http-client-findbugs:1.32.0` // `com.google.http-client,google-http-client-findbugs,1.32.0,com.google.api.client.findbugs,-,automatic,-,false,-`
 - :cd: `com.google.api.client.findbugs` :left_right_arrow: `com.google.http-client:google-http-client-findbugs:1.32.1` // `com.google.http-client,google-http-client-findbugs,1.32.1,com.google.api.client.findbugs,-,automatic,-,false,-`
 - :cd: `com.google.api.client.http.apache` :left_right_arrow: `com.google.http-client:google-http-client-apache:2.0.0` // `com.google.http-client,google-http-client-apache,2.0.0,com.google.api.client.http.apache,-,automatic,-,false,-`
@@ -5960,6 +5967,7 @@
 - :cd: `google.api.client` :left_right_arrow: `com.google.api-client:google-api-client:1.30.2` // `com.google.api-client,google-api-client,1.30.2,google.api.client,-,automatic,-,false,-`
 - :cd: `google.api.client` :left_right_arrow: `com.google.api-client:google-api-client:1.30.3` // `com.google.api-client,google-api-client,1.30.3,google.api.client,-,automatic,-,false,-`
 - :cd: `google.api.client` :left_right_arrow: `com.google.api-client:google-api-client:1.30.4` // `com.google.api-client,google-api-client,1.30.4,google.api.client,-,automatic,-,false,-`
+- :cd: `google.api.client` :left_right_arrow: `com.google.api-client:google-api-client:1.30.5` // `com.google.api-client,google-api-client,1.30.5,google.api.client,-,automatic,-,false,-`
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.29.0` // `com.google.api-client,google-api-client-appengine,1.29.0,google.api.client.appengine,-,automatic,-,false,-`
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.29.2` // `com.google.api-client,google-api-client-appengine,1.29.2,google.api.client.appengine,-,automatic,-,false,-`
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.30.0` // `com.google.api-client,google-api-client-appengine,1.30.0,google.api.client.appengine,-,automatic,-,false,-`
@@ -5967,6 +5975,7 @@
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.30.2` // `com.google.api-client,google-api-client-appengine,1.30.2,google.api.client.appengine,-,automatic,-,false,-`
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.30.3` // `com.google.api-client,google-api-client-appengine,1.30.3,google.api.client.appengine,-,automatic,-,false,-`
 - :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.30.4` // `com.google.api-client,google-api-client-appengine,1.30.4,google.api.client.appengine,-,automatic,-,false,-`
+- :cd: `google.api.client.appengine` :left_right_arrow: `com.google.api-client:google-api-client-appengine:1.30.5` // `com.google.api-client,google-api-client-appengine,1.30.5,google.api.client.appengine,-,automatic,-,false,-`
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.29.0` // `com.google.api-client,google-api-client-gson,1.29.0,google.api.client.gson,-,automatic,-,false,-`
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.29.2` // `com.google.api-client,google-api-client-gson,1.29.2,google.api.client.gson,-,automatic,-,false,-`
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.30.0` // `com.google.api-client,google-api-client-gson,1.30.0,google.api.client.gson,-,automatic,-,false,-`
@@ -5974,6 +5983,7 @@
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.30.2` // `com.google.api-client,google-api-client-gson,1.30.2,google.api.client.gson,-,automatic,-,false,-`
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.30.3` // `com.google.api-client,google-api-client-gson,1.30.3,google.api.client.gson,-,automatic,-,false,-`
 - :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.30.4` // `com.google.api-client,google-api-client-gson,1.30.4,google.api.client.gson,-,automatic,-,false,-`
+- :cd: `google.api.client.gson` :left_right_arrow: `com.google.api-client:google-api-client-gson:1.30.5` // `com.google.api-client,google-api-client-gson,1.30.5,google.api.client.gson,-,automatic,-,false,-`
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.29.0` // `com.google.api-client,google-api-client-jackson2,1.29.0,google.api.client.jackson2,-,automatic,-,false,-`
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.29.2` // `com.google.api-client,google-api-client-jackson2,1.29.2,google.api.client.jackson2,-,automatic,-,false,-`
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.30.0` // `com.google.api-client,google-api-client-jackson2,1.30.0,google.api.client.jackson2,-,automatic,-,false,-`
@@ -5981,6 +5991,7 @@
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.30.2` // `com.google.api-client,google-api-client-jackson2,1.30.2,google.api.client.jackson2,-,automatic,-,false,-`
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.30.3` // `com.google.api-client,google-api-client-jackson2,1.30.3,google.api.client.jackson2,-,automatic,-,false,-`
 - :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.30.4` // `com.google.api-client,google-api-client-jackson2,1.30.4,google.api.client.jackson2,-,automatic,-,false,-`
+- :cd: `google.api.client.jackson2` :left_right_arrow: `com.google.api-client:google-api-client-jackson2:1.30.5` // `com.google.api-client,google-api-client-jackson2,1.30.5,google.api.client.jackson2,-,automatic,-,false,-`
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.29.0` // `com.google.api-client,google-api-client-java6,1.29.0,google.api.client.java6,-,automatic,-,false,-`
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.29.2` // `com.google.api-client,google-api-client-java6,1.29.2,google.api.client.java6,-,automatic,-,false,-`
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.30.0` // `com.google.api-client,google-api-client-java6,1.30.0,google.api.client.java6,-,automatic,-,false,-`
@@ -5988,6 +5999,7 @@
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.30.2` // `com.google.api-client,google-api-client-java6,1.30.2,google.api.client.java6,-,automatic,-,false,-`
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.30.3` // `com.google.api-client,google-api-client-java6,1.30.3,google.api.client.java6,-,automatic,-,false,-`
 - :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.30.4` // `com.google.api-client,google-api-client-java6,1.30.4,google.api.client.java6,-,automatic,-,false,-`
+- :cd: `google.api.client.java6` :left_right_arrow: `com.google.api-client:google-api-client-java6:1.30.5` // `com.google.api-client,google-api-client-java6,1.30.5,google.api.client.java6,-,automatic,-,false,-`
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.29.0` // `com.google.api-client,google-api-client-protobuf,1.29.0,google.api.client.protobuf,-,automatic,-,false,-`
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.29.2` // `com.google.api-client,google-api-client-protobuf,1.29.2,google.api.client.protobuf,-,automatic,-,false,-`
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.30.0` // `com.google.api-client,google-api-client-protobuf,1.30.0,google.api.client.protobuf,-,automatic,-,false,-`
@@ -5995,6 +6007,7 @@
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.30.2` // `com.google.api-client,google-api-client-protobuf,1.30.2,google.api.client.protobuf,-,automatic,-,false,-`
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.30.3` // `com.google.api-client,google-api-client-protobuf,1.30.3,google.api.client.protobuf,-,automatic,-,false,-`
 - :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.30.4` // `com.google.api-client,google-api-client-protobuf,1.30.4,google.api.client.protobuf,-,automatic,-,false,-`
+- :cd: `google.api.client.protobuf` :left_right_arrow: `com.google.api-client:google-api-client-protobuf:1.30.5` // `com.google.api-client,google-api-client-protobuf,1.30.5,google.api.client.protobuf,-,automatic,-,false,-`
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.29.0` // `com.google.api-client,google-api-client-servlet,1.29.0,google.api.client.servlet,-,automatic,-,false,-`
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.29.2` // `com.google.api-client,google-api-client-servlet,1.29.2,google.api.client.servlet,-,automatic,-,false,-`
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.30.0` // `com.google.api-client,google-api-client-servlet,1.30.0,google.api.client.servlet,-,automatic,-,false,-`
@@ -6002,6 +6015,7 @@
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.30.2` // `com.google.api-client,google-api-client-servlet,1.30.2,google.api.client.servlet,-,automatic,-,false,-`
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.30.3` // `com.google.api-client,google-api-client-servlet,1.30.3,google.api.client.servlet,-,automatic,-,false,-`
 - :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.30.4` // `com.google.api-client,google-api-client-servlet,1.30.4,google.api.client.servlet,-,automatic,-,false,-`
+- :cd: `google.api.client.servlet` :left_right_arrow: `com.google.api-client:google-api-client-servlet:1.30.5` // `com.google.api-client,google-api-client-servlet,1.30.5,google.api.client.servlet,-,automatic,-,false,-`
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.29.0` // `com.google.api-client,google-api-client-xml,1.29.0,google.api.client.xml,-,automatic,-,false,-`
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.29.2` // `com.google.api-client,google-api-client-xml,1.29.2,google.api.client.xml,-,automatic,-,false,-`
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.30.0` // `com.google.api-client,google-api-client-xml,1.30.0,google.api.client.xml,-,automatic,-,false,-`
@@ -6009,6 +6023,7 @@
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.30.2` // `com.google.api-client,google-api-client-xml,1.30.2,google.api.client.xml,-,automatic,-,false,-`
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.30.3` // `com.google.api-client,google-api-client-xml,1.30.3,google.api.client.xml,-,automatic,-,false,-`
 - :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.30.4` // `com.google.api-client,google-api-client-xml,1.30.4,google.api.client.xml,-,automatic,-,false,-`
+- :cd: `google.api.client.xml` :left_right_arrow: `com.google.api-client:google-api-client-xml:1.30.5` // `com.google.api-client,google-api-client-xml,1.30.5,google.api.client.xml,-,automatic,-,false,-`
 - :dvd: `handlerannotations` :left_right_arrow: `com.ensarsarajcic.neovim.java:handler-annotations:0.1.10` // `com.ensarsarajcic.neovim.java,handler-annotations,0.1.10,handlerannotations,-,explicit,corerpc + slf4j.api + java.base,true,-`
 - :dvd: `handlerannotations` :left_right_arrow: `com.ensarsarajcic.neovim.java:handler-annotations:0.1.11` // `com.ensarsarajcic.neovim.java,handler-annotations,0.1.11,handlerannotations,-,explicit,corerpc + slf4j.api + java.base,true,-`
 - :dvd: `handlerannotations` :left_right_arrow: `com.ensarsarajcic.neovim.java:handler-annotations:0.1.13` // `com.ensarsarajcic.neovim.java,handler-annotations,0.1.13,handlerannotations,-,explicit,corerpc + java.base + slf4j.api,false,-`
@@ -7459,6 +7474,7 @@
 - :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.1` // `no.ssb.spi,service-provider-api,0.1,no.ssb.service.provider.api,-,explicit,java.base + no.ssb.config + org.slf4j,false,-`
 - :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.2` // `no.ssb.spi,service-provider-api,0.2,no.ssb.service.provider.api,-,explicit,java.base,false,-`
 - :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.3` // `no.ssb.spi,service-provider-api,0.3,no.ssb.service.provider.api,-,explicit,java.base,false,-`
+- :dvd: `no.ssb.service.provider.api` :left_right_arrow: `no.ssb.spi:service-provider-api:0.4` // `no.ssb.spi,service-provider-api,0.4,no.ssb.service.provider.api,-,explicit,java.base,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.1.RELEASE` // `io.spring.nohttp,nohttp,0.0.1.RELEASE,nohttp,-,automatic,-,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.2.RELEASE` // `io.spring.nohttp,nohttp,0.0.2.RELEASE,nohttp,-,automatic,-,false,-`
 - :cd: `nohttp` :left_right_arrow: `io.spring.nohttp:nohttp:0.0.3.RELEASE` // `io.spring.nohttp,nohttp,0.0.3.RELEASE,nohttp,-,automatic,-,false,-`
@@ -9447,6 +9463,8 @@
 - :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.2` // `joda-time,joda-time,2.10.2,org.joda.time,-,automatic,-,false,-`
 - :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.3` // `joda-time,joda-time,2.10.3,org.joda.time,-,automatic,-,false,-`
 - :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.4` // `joda-time,joda-time,2.10.4,org.joda.time,-,automatic,-,false,-`
+- :cd: `org.joda.time` :left_right_arrow: `joda-time:joda-time:2.10.5` // `joda-time,joda-time,2.10.5,org.joda.time,-,automatic,-,false,-`
+- :cd: `org.jose4j` :left_right_arrow: `org.bitbucket.b_c:jose4j:0.7.0` // `org.bitbucket.b_c,jose4j,0.7.0,org.jose4j,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.10.0.Final` // `org.drools,kie-pmml,7.10.0.Final,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.11.0.Final` // `org.drools,kie-pmml,7.11.0.Final,org.kie.pmml,-,automatic,-,false,-`
 - :cd: `org.kie.pmml` :left_right_arrow: `org.drools:kie-pmml:7.12.0.Final` // `org.drools,kie-pmml,7.12.0.Final,org.kie.pmml,-,automatic,-,false,-`
