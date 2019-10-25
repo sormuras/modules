@@ -387,6 +387,7 @@
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.1` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.2` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.3` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.apache.cxf.osgi.itests:org.apache.cxf.osgi.itests:3.3.4` // `org.apache.cxf.osgi.itests,org.apache.cxf.osgi.itests,3.3.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.jena:jena-dboe-storage:3.12.0` // `org.apache.jena,jena-dboe-storage,3.12.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.jena:jena-dboe-storage:3.13.0` // `org.apache.jena,jena-dboe-storage,3.13.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.apache.logging.log4j:log4j-liquibase:2.11.1` // `org.apache.logging.log4j,log4j-liquibase,2.11.1,-,-,automatic,-,false,-`
@@ -7612,6 +7613,7 @@
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.2.0` // `com.synopsys.integration,int-jira-common,0.2.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.3.2` // `com.synopsys.integration,int-jira-common,0.3.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.4.0` // `com.synopsys.integration,int-jira-common,0.4.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.5.0` // `com.synopsys.integration,int-jira-common,0.5.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.0` // `com.blackducksoftware.integration,integration-bdio,17.1.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.1` // `com.blackducksoftware.integration,integration-bdio,17.1.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.2` // `com.blackducksoftware.integration,integration-bdio,17.1.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
@@ -7911,6 +7913,10 @@
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-builds-jvm-stripper` :left_right_arrow: `net.bzzt:reproducible-builds-jvm-stripper:0.9` // `net.bzzt,reproducible-builds-jvm-stripper,0.9,net.bzzt.reproducible-builds-jvm-stripper,-,automatic,-,false,-`
+- :cd: `net.java.truevfs.profile.default` :left_right_arrow: `net.java.truevfs:truevfs-profile-default_2.10:0.12.2` // `net.java.truevfs,truevfs-profile-default_2.10,0.12.2,net.java.truevfs.profile.default,-,automatic,-,false,-`
+- :cd: `net.java.truevfs.profile.default` :left_right_arrow: `net.java.truevfs:truevfs-profile-default_2.11:0.12.2` // `net.java.truevfs,truevfs-profile-default_2.11,0.12.2,net.java.truevfs.profile.default,-,automatic,-,false,-`
+- :cd: `net.java.truevfs.profile.default` :left_right_arrow: `net.java.truevfs:truevfs-profile-default_2.12:0.12.2` // `net.java.truevfs,truevfs-profile-default_2.12,0.12.2,net.java.truevfs.profile.default,-,automatic,-,false,-`
+- :cd: `net.java.truevfs.profile.default` :left_right_arrow: `net.java.truevfs:truevfs-profile-default_2.13:0.12.2` // `net.java.truevfs,truevfs-profile-default_2.13,0.12.2,net.java.truevfs.profile.default,-,automatic,-,false,-`
 - :cd: `net.javacrumbs.jsonunit.assert` :left_right_arrow: `net.javacrumbs.json-unit:json-unit:2.0.0.RC1` // `net.javacrumbs.json-unit,json-unit,2.0.0.RC1,net.javacrumbs.jsonunit.assert,-,automatic,-,false,-`
 - :cd: `net.javacrumbs.jsonunit.assert` :left_right_arrow: `net.javacrumbs.json-unit:json-unit:2.0.0.RC2` // `net.javacrumbs.json-unit,json-unit,2.0.0.RC2,net.javacrumbs.jsonunit.assert,-,automatic,-,false,-`
 - :cd: `net.javacrumbs.jsonunit.assert` :left_right_arrow: `net.javacrumbs.json-unit:json-unit:2.0.0.RC3` // `net.javacrumbs.json-unit,json-unit,2.0.0.RC3,net.javacrumbs.jsonunit.assert,-,automatic,-,false,-`

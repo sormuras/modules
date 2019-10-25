@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5246 Java modules published at Maven Central
+Counted 5279 Java modules published at Maven Central
 
-## Summary 2019-10-24T23:37:24.055980Z
+## Summary 2019-10-25T23:38:09.003020Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-24T23:37:24.055980Z
-Scanned 34,802 files in 5 seconds.
+Started scan at 2019-10-25T23:38:09.003020Z
+Scanned 34,873 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_24_23_19_58.csv
+    last -> modulescanner-report-2019_10_25_23_12_39.csv
 
-Parsed 2,246,633 lines in total.
-  38,599 -> captions skipped
-  151,295 -> duplicates skipped
-  95,236 -> module related
+Parsed 2,251,778 lines in total.
+  38,670 -> captions skipped
+  151,715 -> duplicates skipped
+  95,805 -> module related
 
-Collected 5,246 unique modules.
-  automatic :cd: -> 3,818
-  explicit :dvd: -> 1,428
+Collected 5,279 unique modules.
+  automatic :cd: -> 3,850
+  explicit :dvd: -> 1,429
 
 ## Samples
             junit -> junit:junit:4.13-beta-3
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9035](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13233](suspicious/naming.md)
-- Modular impostors: [4724](suspicious/impostors.md)
+- Invalid module names: [9041](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13275](suspicious/naming.md)
+- Modular impostors: [4769](suspicious/impostors.md)
 
-## Unique Modules (5246)
+## Unique Modules (5279)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -163,7 +163,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.0`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
-- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.6`
+- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.7`
 - :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.4`
 - :dvd: `be.yildizgames.module.physics.bullet` :left_right_arrow: `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.4`
@@ -339,15 +339,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.5.0-cr-1`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.5.0-cr-1`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.5.0-cr-1`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.5.0`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.5.0`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.5.0`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.5.0-cr-1`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.5.0-cr-1`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.5.0-cr-1`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.5.0`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.5.0`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.5.0`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -1025,7 +1025,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.3`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
-- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.7`
+- :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.8`
 - :dvd: `no.ssb.rawdata.provider.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-pulsar:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` :left_right_arrow: `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -1391,21 +1391,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.1`
 - :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.2`
-- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.4.0.1`
-- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.4.0.1`
-- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.4.0.1`
-- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.4.0.1`
-- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.4.0.1`
-- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.4.0.1`
-- :dvd: `org.tentackle.fx.rdc.update` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-update:11.4.0.1`
-- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.4.0.1`
-- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.4.0.1`
-- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.4.0.1`
-- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.4.0.1`
-- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.4.0.1`
-- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.4.0.1`
-- :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.4.0.1`
-- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.4.0.1`
+- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.5.0.0`
+- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.5.0.0`
+- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.5.0.0`
+- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.5.0.0`
+- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.5.0.0`
+- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.5.0.0`
+- :dvd: `org.tentackle.fx.rdc.update` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-update:11.5.0.0`
+- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.5.0.0`
+- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.5.0.0`
+- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.5.0.0`
+- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.5.0.0`
+- :dvd: `org.tentackle.script.jsr` :left_right_arrow: `org.tentackle:tentackle-script-jsr:11.5.0.0`
+- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.5.0.0`
+- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.5.0.0`
+- :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.5.0.0`
+- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.5.0.0`
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`
