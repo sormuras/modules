@@ -1,27 +1,27 @@
 # sormuras/modules
-Counted 5279 Java modules published at Maven Central
+Counted 5280 Java modules published at Maven Central
 
-## Summary 2019-10-25T23:38:09.003020Z
+## Summary 2019-10-26T23:38:55.896291Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-25T23:38:09.003020Z
-Scanned 34,873 files in 4 seconds.
+Started scan at 2019-10-26T23:38:55.896291Z
+Scanned 34,925 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_25_23_12_39.csv
+    last -> modulescanner-report-2019_10_26_23_20_59.csv
 
-Parsed 2,251,778 lines in total.
-  38,670 -> captions skipped
-  151,715 -> duplicates skipped
-  95,805 -> module related
+Parsed 2,254,274 lines in total.
+  38,722 -> captions skipped
+  151,954 -> duplicates skipped
+  95,940 -> module related
 
-Collected 5,279 unique modules.
-  automatic :cd: -> 3,850
+Collected 5,280 unique modules.
+  automatic :cd: -> 3,851
   explicit :dvd: -> 1,429
 
 ## Samples
-            junit -> junit:junit:4.13-beta-3
+            junit -> junit:junit:4.13-rc-1
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:7.2
 com.google.common -> com.google.guava:guava:28.1-jre
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9041](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13275](suspicious/naming.md)
-- Modular impostors: [4769](suspicious/impostors.md)
+- Invalid module names: [9082](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13295](suspicious/naming.md)
+- Modular impostors: [4782](suspicious/impostors.md)
 
-## Unique Modules (5279)
+## Unique Modules (5280)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -237,31 +237,31 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.5`
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.5`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.5`
-- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha2`
+- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha3`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.3`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
@@ -360,13 +360,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.5`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
-- :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.7`
+- :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
-- :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.10`
+- :dvd: `com.googlecode.blaisemath.graphics` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics:3.0.11`
 - :dvd: `com.googlecode.blaisemath.graphics.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
 - :dvd: `com.googlecode.blaisemath.graphtheory` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
-- :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.9`
+- :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
@@ -759,7 +759,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.19`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.20`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
