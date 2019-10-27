@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5280 Java modules published at Maven Central
+Counted 5281 Java modules published at Maven Central
 
-## Summary 2019-10-26T23:38:55.896291Z
+## Summary 2019-10-27T23:39:30.663644Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-26T23:38:55.896291Z
-Scanned 34,925 files in 4 seconds.
+Started scan at 2019-10-27T23:39:30.663644Z
+Scanned 34,988 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_26_23_20_59.csv
+    last -> modulescanner-report-2019_10_27_23_15_00.csv
 
-Parsed 2,254,274 lines in total.
-  38,722 -> captions skipped
-  151,954 -> duplicates skipped
-  95,940 -> module related
+Parsed 2,255,805 lines in total.
+  38,785 -> captions skipped
+  152,045 -> duplicates skipped
+  96,007 -> module related
 
-Collected 5,280 unique modules.
-  automatic :cd: -> 3,851
+Collected 5,281 unique modules.
+  automatic :cd: -> 3,852
   explicit :dvd: -> 1,429
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9082](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13295](suspicious/naming.md)
-- Modular impostors: [4782](suspicious/impostors.md)
+- Invalid module names: [9105](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13315](suspicious/naming.md)
+- Modular impostors: [4784](suspicious/impostors.md)
 
-## Unique Modules (5280)
+## Unique Modules (5281)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -312,7 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr3`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.16`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.17`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -1061,7 +1061,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.12.1`
 - :dvd: `org.apiguardian.api` :left_right_arrow: `org.apiguardian:apiguardian-api:1.1.0`
 - :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
-- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.13.2`
+- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.14.0`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.beryx:awt-color-factory:1.0.1`
 - :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.2`

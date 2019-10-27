@@ -3362,8 +3362,10 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.odpi.egeria:gaian-ranger-plugin:1.0` // `org.odpi.egeria,gaian-ranger-plugin,1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-fuseki-server:0.7.0` // `org.seaborne.rdf-delta,rdf-delta-fuseki-server,0.7.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-fuseki-server:0.8.0` // `org.seaborne.rdf-delta,rdf-delta-fuseki-server,0.8.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-fuseki-server:0.8.1` // `org.seaborne.rdf-delta,rdf-delta-fuseki-server,0.8.1,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-server:0.7.0` // `org.seaborne.rdf-delta,rdf-delta-server,0.7.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-server:0.8.0` // `org.seaborne.rdf-delta,rdf-delta-server,0.8.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.seaborne.rdf-delta:rdf-delta-server:0.8.1` // `org.seaborne.rdf-delta,rdf-delta-server,0.8.1,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.tallison.lucene:gramreaper:7.6-0.1` // `org.tallison.lucene,gramreaper,7.6-0.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.tallison.lucene:gramreaper:7.7-0.1` // `org.tallison.lucene,gramreaper,7.7-0.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.tallison.lucene:gramreaper:8.0-0.1` // `org.tallison.lucene,gramreaper,8.0-0.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
