@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5281 Java modules published at Maven Central
 
-## Summary 2019-10-27T23:39:30.663644Z
+## Summary 2019-10-28T23:40:04.817868Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-27T23:39:30.663644Z
-Scanned 34,988 files in 4 seconds.
+Started scan at 2019-10-28T23:40:04.817868Z
+Scanned 35,039 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_27_23_15_00.csv
+    last -> modulescanner-report-2019_10_28_23_07_36.csv
 
-Parsed 2,255,805 lines in total.
-  38,785 -> captions skipped
-  152,045 -> duplicates skipped
-  96,007 -> module related
+Parsed 2,259,967 lines in total.
+  38,836 -> captions skipped
+  152,739 -> duplicates skipped
+  96,779 -> module related
 
 Collected 5,281 unique modules.
   automatic :cd: -> 3,852
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9105](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13315](suspicious/naming.md)
-- Modular impostors: [4784](suspicious/impostors.md)
+- Invalid module names: [9383](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13374](suspicious/naming.md)
+- Modular impostors: [4786](suspicious/impostors.md)
 
 ## Unique Modules (5281)
 
@@ -983,7 +983,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.2`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.2`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:7.8.1`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.0.1`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.1`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.1`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
@@ -1021,8 +1021,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.neo4j` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-neo4j:0.9`
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
-- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.20`
-- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.3`
+- :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.23`
+- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.5`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
 - :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.8`
