@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5281 Java modules published at Maven Central
+Counted 5283 Java modules published at Maven Central
 
-## Summary 2019-10-28T23:40:04.817868Z
+## Summary 2019-10-29T23:41:09.177042Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-28T23:40:04.817868Z
-Scanned 35,039 files in 4 seconds.
+Started scan at 2019-10-29T23:41:09.177042Z
+Scanned 35,085 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_28_23_07_36.csv
+    last -> modulescanner-report-2019_10_29_22_58_01.csv
 
-Parsed 2,259,967 lines in total.
-  38,836 -> captions skipped
-  152,739 -> duplicates skipped
-  96,779 -> module related
+Parsed 2,269,996 lines in total.
+  38,882 -> captions skipped
+  153,693 -> duplicates skipped
+  97,170 -> module related
 
-Collected 5,281 unique modules.
-  automatic :cd: -> 3,852
+Collected 5,283 unique modules.
+  automatic :cd: -> 3,854
   explicit :dvd: -> 1,429
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9383](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13374](suspicious/naming.md)
-- Modular impostors: [4786](suspicious/impostors.md)
+- Invalid module names: [9501](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13379](suspicious/naming.md)
+- Modular impostors: [4790](suspicious/impostors.md)
 
-## Unique Modules (5281)
+## Unique Modules (5283)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -183,37 +183,37 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.2.0`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.2.0`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.2.0`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.2.0`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.2.0`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.2.0`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.2.0`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.2.1`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.2.1`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.2.1`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.2.1`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.2.1`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.2.1`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.2.1`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.2.0`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.2.0`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.2.0`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.2.0`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.2.0`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.2.0`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.2.0`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.2.0`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.2.0`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.2.0`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.2.0`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.2.0`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.2.0`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.2.0`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.2.0`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.2.0`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.2.0`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.2.0`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.2.0`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.2.0`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.0`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.0`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.0`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.2.1`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.2.1`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.2.1`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.2.1`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.2.1`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.2.1`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.2.1`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.2.1`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.2.1`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.2.1`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.2.1`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.2.1`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.2.1`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.2.1`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.2.1`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.2.1`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.2.1`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.2.1`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.2.1`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.2.1`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.1`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.1`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.1`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.1.1`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
@@ -477,7 +477,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jamesratzlaff.bitmanip` :left_right_arrow: `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` :left_right_arrow: `com.jamesratzlaff:byte-functions:2019.04.01`
 - :dvd: `com.jfoenix` :left_right_arrow: `com.jfoenix:jfoenix:9.0.9`
-- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.8`
+- :dvd: `com.jongsoft.lang` :left_right_arrow: `com.jongsoft.lang:language:0.0.9`
 - :dvd: `com.jongsoft.lang.collection` :left_right_arrow: `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` :left_right_arrow: `com.jongsoft.lang:commons:0.0.2`
 - :dvd: `com.jongsoft.lang.fasterxml` :left_right_arrow: `com.jongsoft.lang:language-fasterxml:0.0.7`
@@ -759,7 +759,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.20`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.24`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -1245,7 +1245,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joou` :left_right_arrow: `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.45`
-- :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.29`
+- :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.30`
 - :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0-M1`
 - :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0-M1`
 - :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.6.0-M1`

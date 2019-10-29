@@ -5676,6 +5676,7 @@
 - :cd: `com.papertrail.profiler` :left_right_arrow: `com.helger:profiler:1.1.1` // `com.helger,profiler,1.1.1,com.papertrail.profiler,-,automatic,-,false,-`
 - :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.14.0` // `net.sf.j8583,j8583,1.14.0,com.solab.j8583,-,automatic,-,false,-`
 - :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.14.1` // `net.sf.j8583,j8583,1.14.1,com.solab.j8583,-,automatic,-,false,-`
+- :cd: `com.solab.j8583` :left_right_arrow: `net.sf.j8583:j8583:1.15.0` // `net.sf.j8583,j8583,1.15.0,com.solab.j8583,-,automatic,-,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.3.2` // `org.glassfish.jaxb,codemodel,2.3.2,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180725.0644` // `org.glassfish.jaxb,codemodel,2.4.0-b180725.0644,com.sun.codemodel,-,explicit,java.base,false,-`
 - :dvd: `com.sun.codemodel` :left_right_arrow: `org.glassfish.jaxb:codemodel:2.4.0-b180830.0438` // `org.glassfish.jaxb,codemodel,2.4.0-b180830.0438,com.sun.codemodel,-,explicit,java.base,false,-`
@@ -6737,8 +6738,10 @@
 - :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.20` // `com.github.jnr,jnr-enxio,0.20,jnr.enxio,-,automatic,-,false,-`
 - :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.21` // `com.github.jnr,jnr-enxio,0.21,jnr.enxio,-,automatic,-,false,-`
 - :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.22` // `com.github.jnr,jnr-enxio,0.22,jnr.enxio,-,automatic,-,false,-`
+- :cd: `jnr.enxio` :left_right_arrow: `com.github.jnr:jnr-enxio:0.23` // `com.github.jnr,jnr-enxio,0.23,jnr.enxio,-,automatic,-,false,-`
 - :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.22` // `com.github.jnr,jnr-unixsocket,0.22,jnr.unixsocket,-,automatic,-,false,-`
 - :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.23` // `com.github.jnr,jnr-unixsocket,0.23,jnr.unixsocket,-,automatic,-,false,-`
+- :cd: `jnr.unixsocket` :left_right_arrow: `com.github.jnr:jnr-unixsocket:0.24` // `com.github.jnr,jnr-unixsocket,0.24,jnr.unixsocket,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.0` // `org.joinfaces,joinfaces-autoconfigure,4.0.0,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.1` // `org.joinfaces,joinfaces-autoconfigure,4.0.1,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.0.2` // `org.joinfaces,joinfaces-autoconfigure,4.0.2,joinfaces.autoconfigure,-,automatic,-,false,-`
@@ -6953,6 +6956,7 @@
 - :dvd: `kiwi` :left_right_arrow: `com.gitlab.tixtix320:kiwi:0.5.1` // `com.gitlab.tixtix320,kiwi,0.5.1,kiwi,0.5.1,explicit,java.base,false,-`
 - :dvd: `kiwi` :left_right_arrow: `com.gitlab.tixtix320:kiwi:0.5.2` // `com.gitlab.tixtix320,kiwi,0.5.2,kiwi,0.5.2,explicit,java.base,false,-`
 - :dvd: `kiwi` :left_right_arrow: `com.gitlab.tixtix320:kiwi:0.5.3` // `com.gitlab.tixtix320,kiwi,0.5.3,kiwi,0.5.3,explicit,java.base,false,-`
+- :dvd: `kiwi` :left_right_arrow: `com.gitlab.tixtix320:kiwi:0.5.4` // `com.gitlab.tixtix320,kiwi,0.5.4,kiwi,0.5.4,explicit,java.base,false,-`
 - :cd: `lagom.persistence.couchbase.core` :left_right_arrow: `com.lightbend.akka:lagom-persistence-couchbase-core_2.11:1.0` // `com.lightbend.akka,lagom-persistence-couchbase-core_2.11,1.0,lagom.persistence.couchbase.core,-,automatic,-,false,-`
 - :cd: `lagom.persistence.couchbase.core` :left_right_arrow: `com.lightbend.akka:lagom-persistence-couchbase-core_2.11:1.0-RC1` // `com.lightbend.akka,lagom-persistence-couchbase-core_2.11,1.0-RC1,lagom.persistence.couchbase.core,-,automatic,-,false,-`
 - :cd: `lagom.persistence.couchbase.core` :left_right_arrow: `com.lightbend.akka:lagom-persistence-couchbase-core_2.11:1.0-RC2` // `com.lightbend.akka,lagom-persistence-couchbase-core_2.11,1.0-RC2,lagom.persistence.couchbase.core,-,automatic,-,false,-`
@@ -12899,6 +12903,7 @@
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.1` // `com.gitlab.tixtix320,sonder,0.1,sonder,0.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.2` // `com.gitlab.tixtix320,sonder,0.2,sonder,0.2,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
 - :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.4` // `com.gitlab.tixtix320,sonder,0.4,sonder,0.4,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
+- :dvd: `sonder` :left_right_arrow: `com.gitlab.tixtix320:sonder:0.5.0` // `com.gitlab.tixtix320,sonder,0.5.0,sonder,0.5.0,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + kiwi,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.0.5.RELEASE` // `org.springframework.amqp,spring-amqp,2.0.5.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.0.6.RELEASE` // `org.springframework.amqp,spring-amqp,2.0.6.RELEASE,spring.amqp,-,automatic,-,false,-`
 - :cd: `spring.amqp` :left_right_arrow: `org.springframework.amqp:spring-amqp:2.0.7.RELEASE` // `org.springframework.amqp,spring-amqp,2.0.7.RELEASE,spring.amqp,-,automatic,-,false,-`
