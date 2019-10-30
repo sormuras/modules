@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5283 Java modules published at Maven Central
+Counted 5293 Java modules published at Maven Central
 
-## Summary 2019-10-29T23:41:09.177042Z
+## Summary 2019-10-30T23:41:38.667015Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-29T23:41:09.177042Z
-Scanned 35,085 files in 5 seconds.
+Started scan at 2019-10-30T23:41:38.667015Z
+Scanned 35,137 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_29_22_58_01.csv
+    last -> modulescanner-report-2019_10_30_23_12_51.csv
 
-Parsed 2,269,996 lines in total.
-  38,882 -> captions skipped
-  153,693 -> duplicates skipped
-  97,170 -> module related
+Parsed 2,276,690 lines in total.
+  38,934 -> captions skipped
+  155,667 -> duplicates skipped
+  97,520 -> module related
 
-Collected 5,283 unique modules.
-  automatic :cd: -> 3,854
+Collected 5,293 unique modules.
+  automatic :cd: -> 3,864
   explicit :dvd: -> 1,429
 
 ## Samples
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [9501](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13379](suspicious/naming.md)
-- Modular impostors: [4790](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13419](suspicious/naming.md)
+- Modular impostors: [4827](suspicious/impostors.md)
 
-## Unique Modules (5283)
+## Unique Modules (5293)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -759,7 +759,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.24`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.25`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -994,7 +994,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.2`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.3`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
@@ -1022,7 +1022,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
 - :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.23`
-- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.5`
+- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.6`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
 - :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.8`
