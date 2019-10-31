@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5293 Java modules published at Maven Central
+Counted 5300 Java modules published at Maven Central
 
-## Summary 2019-10-30T23:41:38.667015Z
+## Summary 2019-10-31T23:42:32.764703Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-30T23:41:38.667015Z
-Scanned 35,137 files in 5 seconds.
+Started scan at 2019-10-31T23:42:32.764703Z
+Scanned 35,199 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_30_23_12_51.csv
+    last -> modulescanner-report-2019_10_31_23_24_21.csv
 
-Parsed 2,276,690 lines in total.
-  38,934 -> captions skipped
-  155,667 -> duplicates skipped
-  97,520 -> module related
+Parsed 2,285,854 lines in total.
+  38,996 -> captions skipped
+  156,517 -> duplicates skipped
+  98,238 -> module related
 
-Collected 5,293 unique modules.
-  automatic :cd: -> 3,864
-  explicit :dvd: -> 1,429
+Collected 5,300 unique modules.
+  automatic :cd: -> 3,870
+  explicit :dvd: -> 1,430
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9501](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13419](suspicious/naming.md)
-- Modular impostors: [4827](suspicious/impostors.md)
+- Invalid module names: [9858](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13490](suspicious/naming.md)
+- Modular impostors: [4842](suspicious/impostors.md)
 
-## Unique Modules (5293)
+## Unique Modules (5300)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -322,6 +322,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` :left_right_arrow: `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` :left_right_arrow: `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.elopteryx.reflect` :left_right_arrow: `com.github.elopteryx:bean-mirror:1.0.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` :left_right_arrow: `com.github.gw2toolbelt.gw2ml:gw2ml:0.1.0`
 - :dvd: `com.github.jj3l.maven.example` :left_right_arrow: `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` :left_right_arrow: `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :dvd: `com.github.marschall.charsequences` :left_right_arrow: `com.github.marschall:charsequences:0.6.0`
@@ -994,7 +995,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.3`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.4`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
@@ -1223,7 +1224,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.12`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.13`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
@@ -1244,7 +1245,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` :left_right_arrow: `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` :left_right_arrow: `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.45`
+- :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.46`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.30`
 - :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0-M1`
 - :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0-M1`
