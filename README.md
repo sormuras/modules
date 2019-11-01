@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5300 Java modules published at Maven Central
+Counted 5301 Java modules published at Maven Central
 
-## Summary 2019-10-31T23:42:32.764703Z
+## Summary 2019-11-01T23:43:01.920817Z
 
 ```
 ## Summary
 
-Started scan at 2019-10-31T23:42:32.764703Z
-Scanned 35,199 files in 5 seconds.
+Started scan at 2019-11-01T23:43:01.920817Z
+Scanned 35,264 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_10_31_23_24_21.csv
+    last -> modulescanner-report-2019_11_01_23_15_42.csv
 
-Parsed 2,285,854 lines in total.
-  38,996 -> captions skipped
-  156,517 -> duplicates skipped
-  98,238 -> module related
+Parsed 2,292,439 lines in total.
+  39,061 -> captions skipped
+  157,057 -> duplicates skipped
+  98,551 -> module related
 
-Collected 5,300 unique modules.
+Collected 5,301 unique modules.
   automatic :cd: -> 3,870
-  explicit :dvd: -> 1,430
+  explicit :dvd: -> 1,431
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [9858](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13490](suspicious/naming.md)
-- Modular impostors: [4842](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13546](suspicious/naming.md)
+- Modular impostors: [4871](suspicious/impostors.md)
 
-## Unique Modules (5300)
+## Unique Modules (5301)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1023,7 +1023,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.postgres` :left_right_arrow: `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` :left_right_arrow: `no.ssb.lds:linked-data-store-search-provider-api:0.4`
 - :dvd: `no.ssb.rawdata.api` :left_right_arrow: `no.ssb.rawdata:rawdata-client-api:0.23`
-- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.6`
+- :dvd: `no.ssb.rawdata.avro` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.8`
+- :dvd: `no.ssb.rawdata.gcs` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-gcs:0.7`
 - :dvd: `no.ssb.rawdata.kafka` :left_right_arrow: `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
 - :dvd: `no.ssb.rawdata.postgres` :left_right_arrow: `no.ssb.rawdata:rawdata-client-provider-postgres:0.8`
