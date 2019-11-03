@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5304 Java modules published at Maven Central
+Counted 5306 Java modules published at Maven Central
 
-## Summary 2019-11-02T23:43:28.532995Z
+## Summary 2019-11-03T23:43:48.143770Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-02T23:43:28.532995Z
-Scanned 35,337 files in 4 seconds.
+Started scan at 2019-11-03T23:43:48.143770Z
+Scanned 35,405 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_02_23_28_07.csv
+    last -> modulescanner-report-2019_11_03_23_05_47.csv
 
-Parsed 2,294,616 lines in total.
-  39,134 -> captions skipped
-  157,276 -> duplicates skipped
-  98,696 -> module related
+Parsed 2,296,844 lines in total.
+  39,202 -> captions skipped
+  157,778 -> duplicates skipped
+  98,956 -> module related
 
-Collected 5,304 unique modules.
-  automatic :cd: -> 3,870
-  explicit :dvd: -> 1,434
+Collected 5,306 unique modules.
+  automatic :cd: -> 3,871
+  explicit :dvd: -> 1,435
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [9858](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13614](suspicious/naming.md)
-- Modular impostors: [4887](suspicious/impostors.md)
+- Invalid module names: [9859](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [13756](suspicious/naming.md)
+- Modular impostors: [4959](suspicious/impostors.md)
 
-## Unique Modules (5304)
+## Unique Modules (5306)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -274,6 +274,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
+- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1-rc4`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr3`
@@ -369,9 +370,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
-- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1-rc2`
-- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1-rc2`
-- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1-rc2`
+- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1-rc4`
+- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1-rc4`
+- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1-rc4`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
