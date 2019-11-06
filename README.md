@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5317 Java modules published at Maven Central
+Counted 5320 Java modules published at Maven Central
 
-## Summary 2019-11-05T23:44:38.155547Z
+## Summary 2019-11-06T23:44:58.409007Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-05T23:44:38.155547Z
-Scanned 35,514 files in 5 seconds.
+Started scan at 2019-11-06T23:44:58.409007Z
+Scanned 35,570 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_05_23_16_27.csv
+    last -> modulescanner-report-2019_11_06_23_15_16.csv
 
-Parsed 2,311,766 lines in total.
-  39,311 -> captions skipped
-  159,442 -> duplicates skipped
-  100,628 -> module related
+Parsed 2,317,988 lines in total.
+  39,367 -> captions skipped
+  160,211 -> duplicates skipped
+  101,105 -> module related
 
-Collected 5,317 unique modules.
-  automatic :cd: -> 3,876
-  explicit :dvd: -> 1,441
+Collected 5,320 unique modules.
+  automatic :cd: -> 3,880
+  explicit :dvd: -> 1,440
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,22 +91,22 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10135](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14091](suspicious/naming.md)
-- Modular impostors: [5052](suspicious/impostors.md)
+- Invalid module names: [10136](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14289](suspicious/naming.md)
+- Modular impostors: [5087](suspicious/impostors.md)
 
-## Unique Modules (5317)
+## Unique Modules (5320)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.9`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.1.3`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.2.0`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
@@ -172,9 +172,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.1`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.1`
-- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.9.0`
+- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.10.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
-- :dvd: `ch.obermuhlner.scriptengine.java` :left_right_arrow: `ch.obermuhlner:java-scriptengine:1.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
 - :dvd: `cn.nextop.lite.pool` :left_right_arrow: `cn.nextop:lite-pool:1.0.0-RC3`
@@ -274,7 +273,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
-- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1-rc13`
+- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1-rc15`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr3`
@@ -370,9 +369,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
-- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1-rc13`
-- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1-rc13`
-- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1-rc13`
+- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1-rc15`
+- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1-rc15`
+- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1-rc15`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
@@ -756,7 +755,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.4`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
-- :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.2`
+- :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.4`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.1.0`
 - :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.1.0`
@@ -1401,7 +1400,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
-- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.1`
+- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.2`
 - :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.2`
 - :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.5.0.0`
 - :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.5.0.0`
