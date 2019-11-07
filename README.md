@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5320 Java modules published at Maven Central
+Counted 5324 Java modules published at Maven Central
 
-## Summary 2019-11-06T23:44:58.409007Z
+## Summary 2019-11-07T23:45:41.437391Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-06T23:44:58.409007Z
-Scanned 35,570 files in 4 seconds.
+Started scan at 2019-11-07T23:45:41.437391Z
+Scanned 35,635 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_06_23_15_16.csv
+    last -> modulescanner-report-2019_11_07_23_19_24.csv
 
-Parsed 2,317,988 lines in total.
-  39,367 -> captions skipped
-  160,211 -> duplicates skipped
-  101,105 -> module related
+Parsed 2,324,980 lines in total.
+  39,432 -> captions skipped
+  161,087 -> duplicates skipped
+  101,681 -> module related
 
-Collected 5,320 unique modules.
-  automatic :cd: -> 3,880
-  explicit :dvd: -> 1,440
+Collected 5,324 unique modules.
+  automatic :cd: -> 3,883
+  explicit :dvd: -> 1,441
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10136](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14289](suspicious/naming.md)
-- Modular impostors: [5087](suspicious/impostors.md)
+- Invalid module names: [10139](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14306](suspicious/naming.md)
+- Modular impostors: [5090](suspicious/impostors.md)
 
-## Unique Modules (5320)
+## Unique Modules (5324)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -266,10 +266,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
-- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.0.1`
-- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.0.1`
-- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.0.1`
-- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.0.1`
+- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.1.0-rc1`
+- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.1.0-rc1`
+- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc1`
+- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc1`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
@@ -360,6 +360,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.5`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.1`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -756,12 +757,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.4`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.4`
-- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.1.0`
-- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.1.0`
-- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.1.0`
-- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.1.0`
-- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.1.0`
-- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.1.0`
+- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.0`
+- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.2.0`
+- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.2.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.2.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.0`
+- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
 - :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.26`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
