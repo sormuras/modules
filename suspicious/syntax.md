@@ -158,6 +158,7 @@
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.1` // `com.hazelcast,spring-data-hazelcast,2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2` // `com.hazelcast,spring-data-hazelcast,2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2.1` // `com.hazelcast,spring-data-hazelcast,2.2.1,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `com.hazelcast:spring-data-hazelcast:2.2.2` // `com.hazelcast,spring-data-hazelcast,2.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis:2.0.0.RELEASE` // `com.ifrabbit,spring-data-mybatis,2.0.0.RELEASE,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE` // `com.ifrabbit,spring-data-mybatis,2.0.1.RELEASE,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `com.ifrabbit:spring-data-mybatis-boot-starter:2.0.0.RELEASE` // `com.ifrabbit,spring-data-mybatis-boot-starter,2.0.0.RELEASE,-,-,automatic,-,false,-`

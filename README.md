@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5324 Java modules published at Maven Central
+Counted 5369 Java modules published at Maven Central
 
-## Summary 2019-11-08T02:32:04.533690Z
+## Summary 2019-11-08T23:45:47.908595Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-08T02:32:04.533690Z
-Scanned 35,641 files in 4 seconds.
+Started scan at 2019-11-08T23:45:47.908595Z
+Scanned 35,693 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_08_02_04_22.csv
+    last -> modulescanner-report-2019_11_08_23_31_07.csv
 
-Parsed 2,325,605 lines in total.
-  39,438 -> captions skipped
-  161,129 -> duplicates skipped
-  101,707 -> module related
+Parsed 2,331,409 lines in total.
+  39,490 -> captions skipped
+  161,762 -> duplicates skipped
+  102,257 -> module related
 
-Collected 5,324 unique modules.
-  automatic :cd: -> 3,883
+Collected 5,369 unique modules.
+  automatic :cd: -> 3,928
   explicit :dvd: -> 1,441
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10139](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14328](suspicious/naming.md)
-- Modular impostors: [5092](suspicious/impostors.md)
+- Invalid module names: [10140](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14515](suspicious/naming.md)
+- Modular impostors: [5112](suspicious/impostors.md)
 
-## Unique Modules (5324)
+## Unique Modules (5369)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -273,7 +273,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
-- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1-rc15`
+- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr3`
@@ -336,10 +336,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.4.0`
-- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.4.0`
-- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.4.0`
-- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.4.0`
+- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.5.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.5.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.5.0`
+- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.5.0`
 - :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.5.0`
 - :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.5.0`
 - :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.5.0`
@@ -370,9 +370,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
-- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1-rc15`
-- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1-rc15`
-- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1-rc15`
+- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1`
+- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1`
+- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
@@ -692,7 +692,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
-- :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.1`
+- :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
 - :dvd: `com.sun.istack.test` :left_right_arrow: `com.sun.istack:istack-commons-test:3.0.10`
@@ -989,8 +989,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.2`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.2`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.0.1`
-- :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.1`
-- :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.1`
+- :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.2`
+- :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.2`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
 - :dvd: `net.dongliu.xhttp` :left_right_arrow: `net.dongliu:xhttp:2.4.3`
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
