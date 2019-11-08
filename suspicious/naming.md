@@ -7267,6 +7267,7 @@
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.1.0-m3` // `org.joinfaces,joinfaces-autoconfigure,4.1.0-m3,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.1.0-m4` // `org.joinfaces,joinfaces-autoconfigure,4.1.0-m4,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.1.0-m5` // `org.joinfaces,joinfaces-autoconfigure,4.1.0-m5,joinfaces.autoconfigure,-,automatic,-,false,-`
+- :cd: `joinfaces.autoconfigure` :left_right_arrow: `org.joinfaces:joinfaces-autoconfigure:4.1.0-rc1` // `org.joinfaces,joinfaces-autoconfigure,4.1.0-rc1,joinfaces.autoconfigure,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.0.0` // `org.joinfaces,joinfaces-security-taglib,4.0.0,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.0.1` // `org.joinfaces,joinfaces-security-taglib,4.0.1,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.0.2` // `org.joinfaces,joinfaces-security-taglib,4.0.2,joinfaces.security.taglib,-,automatic,-,false,-`
@@ -7276,6 +7277,7 @@
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.1.0-m3` // `org.joinfaces,joinfaces-security-taglib,4.1.0-m3,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.1.0-m4` // `org.joinfaces,joinfaces-security-taglib,4.1.0-m4,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.1.0-m5` // `org.joinfaces,joinfaces-security-taglib,4.1.0-m5,joinfaces.security.taglib,-,automatic,-,false,-`
+- :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:joinfaces-security-taglib:4.1.0-rc1` // `org.joinfaces,joinfaces-security-taglib,4.1.0-rc1,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.security.taglib` :left_right_arrow: `org.joinfaces:spring-security-jsf-taglib:3.3.0-rc5` // `org.joinfaces,spring-security-jsf-taglib,3.3.0-rc5,joinfaces.security.taglib,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.0.0` // `org.joinfaces,adminfaces-spring-boot-starter,4.0.0,joinfaces.starter.adminfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.0.1` // `org.joinfaces,adminfaces-spring-boot-starter,4.0.1,joinfaces.starter.adminfaces,-,automatic,-,false,-`
@@ -7286,6 +7288,7 @@
 - :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,adminfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.adminfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,adminfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.adminfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,adminfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.adminfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.adminfaces` :left_right_arrow: `org.joinfaces:adminfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,adminfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.adminfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.0.0` // `org.joinfaces,angularfaces-spring-boot-starter,4.0.0,joinfaces.starter.angularfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.0.1` // `org.joinfaces,angularfaces-spring-boot-starter,4.0.1,joinfaces.starter.angularfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.0.2` // `org.joinfaces,angularfaces-spring-boot-starter,4.0.2,joinfaces.starter.angularfaces,-,automatic,-,false,-`
@@ -7295,6 +7298,7 @@
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,angularfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.angularfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,angularfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.angularfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,angularfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.angularfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.angularfaces` :left_right_arrow: `org.joinfaces:angularfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,angularfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.angularfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.0.0` // `org.joinfaces,bootsfaces-spring-boot-starter,4.0.0,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.0.1` // `org.joinfaces,bootsfaces-spring-boot-starter,4.0.1,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.0.2` // `org.joinfaces,bootsfaces-spring-boot-starter,4.0.2,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
@@ -7304,6 +7308,7 @@
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,bootsfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,bootsfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,bootsfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.bootsfaces` :left_right_arrow: `org.joinfaces:bootsfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,bootsfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.bootsfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.0.0` // `org.joinfaces,butterfaces-spring-boot-starter,4.0.0,joinfaces.starter.butterfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.0.1` // `org.joinfaces,butterfaces-spring-boot-starter,4.0.1,joinfaces.starter.butterfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.0.2` // `org.joinfaces,butterfaces-spring-boot-starter,4.0.2,joinfaces.starter.butterfaces,-,automatic,-,false,-`
@@ -7313,6 +7318,7 @@
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,butterfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.butterfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,butterfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.butterfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,butterfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.butterfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.butterfaces` :left_right_arrow: `org.joinfaces:butterfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,butterfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.butterfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.0.0` // `org.joinfaces,icefaces-spring-boot-starter,4.0.0,joinfaces.starter.icefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.0.1` // `org.joinfaces,icefaces-spring-boot-starter,4.0.1,joinfaces.starter.icefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.0.2` // `org.joinfaces,icefaces-spring-boot-starter,4.0.2,joinfaces.starter.icefaces,-,automatic,-,false,-`
@@ -7322,6 +7328,7 @@
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,icefaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.icefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,icefaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.icefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,icefaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.icefaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.icefaces` :left_right_arrow: `org.joinfaces:icefaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,icefaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.icefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.0.0` // `org.joinfaces,jetty-spring-boot-starter,4.0.0,joinfaces.starter.jetty,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.0.1` // `org.joinfaces,jetty-spring-boot-starter,4.0.1,joinfaces.starter.jetty,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.0.2` // `org.joinfaces,jetty-spring-boot-starter,4.0.2,joinfaces.starter.jetty,-,automatic,-,false,-`
@@ -7331,6 +7338,7 @@
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.1.0-m3` // `org.joinfaces,jetty-spring-boot-starter,4.1.0-m3,joinfaces.starter.jetty,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.1.0-m4` // `org.joinfaces,jetty-spring-boot-starter,4.1.0-m4,joinfaces.starter.jetty,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.1.0-m5` // `org.joinfaces,jetty-spring-boot-starter,4.1.0-m5,joinfaces.starter.jetty,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.jetty` :left_right_arrow: `org.joinfaces:jetty-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,jetty-spring-boot-starter,4.1.0-rc1,joinfaces.starter.jetty,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.0.0` // `org.joinfaces,jsf-spring-boot-starter,4.0.0,joinfaces.starter.jsf,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.0.1` // `org.joinfaces,jsf-spring-boot-starter,4.0.1,joinfaces.starter.jsf,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.0.2` // `org.joinfaces,jsf-spring-boot-starter,4.0.2,joinfaces.starter.jsf,-,automatic,-,false,-`
@@ -7340,6 +7348,7 @@
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.1.0-m3` // `org.joinfaces,jsf-spring-boot-starter,4.1.0-m3,joinfaces.starter.jsf,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.1.0-m4` // `org.joinfaces,jsf-spring-boot-starter,4.1.0-m4,joinfaces.starter.jsf,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.1.0-m5` // `org.joinfaces,jsf-spring-boot-starter,4.1.0-m5,joinfaces.starter.jsf,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.jsf` :left_right_arrow: `org.joinfaces:jsf-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,jsf-spring-boot-starter,4.1.0-rc1,joinfaces.starter.jsf,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.0.0` // `org.joinfaces,mojarra-spring-boot-starter,4.0.0,joinfaces.starter.mojarra,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.0.1` // `org.joinfaces,mojarra-spring-boot-starter,4.0.1,joinfaces.starter.mojarra,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.0.2` // `org.joinfaces,mojarra-spring-boot-starter,4.0.2,joinfaces.starter.mojarra,-,automatic,-,false,-`
@@ -7349,6 +7358,7 @@
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.1.0-m3` // `org.joinfaces,mojarra-spring-boot-starter,4.1.0-m3,joinfaces.starter.mojarra,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.1.0-m4` // `org.joinfaces,mojarra-spring-boot-starter,4.1.0-m4,joinfaces.starter.mojarra,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.1.0-m5` // `org.joinfaces,mojarra-spring-boot-starter,4.1.0-m5,joinfaces.starter.mojarra,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.mojarra` :left_right_arrow: `org.joinfaces:mojarra-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,mojarra-spring-boot-starter,4.1.0-rc1,joinfaces.starter.mojarra,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.0.0` // `org.joinfaces,myfaces-spring-boot-starter,4.0.0,joinfaces.starter.myfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.0.1` // `org.joinfaces,myfaces-spring-boot-starter,4.0.1,joinfaces.starter.myfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.0.2` // `org.joinfaces,myfaces-spring-boot-starter,4.0.2,joinfaces.starter.myfaces,-,automatic,-,false,-`
@@ -7358,6 +7368,7 @@
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,myfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.myfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,myfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.myfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,myfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.myfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.myfaces` :left_right_arrow: `org.joinfaces:myfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,myfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.myfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.0.0` // `org.joinfaces,omnifaces1-spring-boot-starter,4.0.0,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.0.1` // `org.joinfaces,omnifaces1-spring-boot-starter,4.0.1,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.0.2` // `org.joinfaces,omnifaces1-spring-boot-starter,4.0.2,joinfaces.starter.omnifaces,-,automatic,-,false,-`
@@ -7367,6 +7378,7 @@
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.1.0-m3` // `org.joinfaces,omnifaces1-spring-boot-starter,4.1.0-m3,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.1.0-m4` // `org.joinfaces,omnifaces1-spring-boot-starter,4.1.0-m4,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.1.0-m5` // `org.joinfaces,omnifaces1-spring-boot-starter,4.1.0-m5,joinfaces.starter.omnifaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces1-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,omnifaces1-spring-boot-starter,4.1.0-rc1,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.0.0` // `org.joinfaces,omnifaces3-spring-boot-starter,4.0.0,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.0.1` // `org.joinfaces,omnifaces3-spring-boot-starter,4.0.1,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.0.2` // `org.joinfaces,omnifaces3-spring-boot-starter,4.0.2,joinfaces.starter.omnifaces,-,automatic,-,false,-`
@@ -7376,6 +7388,7 @@
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.1.0-m3` // `org.joinfaces,omnifaces3-spring-boot-starter,4.1.0-m3,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.1.0-m4` // `org.joinfaces,omnifaces3-spring-boot-starter,4.1.0-m4,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.1.0-m5` // `org.joinfaces,omnifaces3-spring-boot-starter,4.1.0-m5,joinfaces.starter.omnifaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.omnifaces` :left_right_arrow: `org.joinfaces:omnifaces3-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,omnifaces3-spring-boot-starter,4.1.0-rc1,joinfaces.starter.omnifaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.0.0` // `org.joinfaces,primefaces-spring-boot-starter,4.0.0,joinfaces.starter.primefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.0.1` // `org.joinfaces,primefaces-spring-boot-starter,4.0.1,joinfaces.starter.primefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.0.2` // `org.joinfaces,primefaces-spring-boot-starter,4.0.2,joinfaces.starter.primefaces,-,automatic,-,false,-`
@@ -7385,6 +7398,7 @@
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,primefaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.primefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,primefaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.primefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,primefaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.primefaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.primefaces` :left_right_arrow: `org.joinfaces:primefaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,primefaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.primefaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.0.0` // `org.joinfaces,rewrite-spring-boot-starter,4.0.0,joinfaces.starter.rewrite,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.0.1` // `org.joinfaces,rewrite-spring-boot-starter,4.0.1,joinfaces.starter.rewrite,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.0.2` // `org.joinfaces,rewrite-spring-boot-starter,4.0.2,joinfaces.starter.rewrite,-,automatic,-,false,-`
@@ -7394,6 +7408,7 @@
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.1.0-m3` // `org.joinfaces,rewrite-spring-boot-starter,4.1.0-m3,joinfaces.starter.rewrite,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.1.0-m4` // `org.joinfaces,rewrite-spring-boot-starter,4.1.0-m4,joinfaces.starter.rewrite,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.1.0-m5` // `org.joinfaces,rewrite-spring-boot-starter,4.1.0-m5,joinfaces.starter.rewrite,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.rewrite` :left_right_arrow: `org.joinfaces:rewrite-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,rewrite-spring-boot-starter,4.1.0-rc1,joinfaces.starter.rewrite,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.0.0` // `org.joinfaces,richfaces-spring-boot-starter,4.0.0,joinfaces.starter.richfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.0.1` // `org.joinfaces,richfaces-spring-boot-starter,4.0.1,joinfaces.starter.richfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.0.2` // `org.joinfaces,richfaces-spring-boot-starter,4.0.2,joinfaces.starter.richfaces,-,automatic,-,false,-`
@@ -7403,6 +7418,7 @@
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.1.0-m3` // `org.joinfaces,richfaces-spring-boot-starter,4.1.0-m3,joinfaces.starter.richfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.1.0-m4` // `org.joinfaces,richfaces-spring-boot-starter,4.1.0-m4,joinfaces.starter.richfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.1.0-m5` // `org.joinfaces,richfaces-spring-boot-starter,4.1.0-m5,joinfaces.starter.richfaces,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.richfaces` :left_right_arrow: `org.joinfaces:richfaces-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,richfaces-spring-boot-starter,4.1.0-rc1,joinfaces.starter.richfaces,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.0.0` // `org.joinfaces,security-spring-boot-starter,4.0.0,joinfaces.starter.security,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.0.1` // `org.joinfaces,security-spring-boot-starter,4.0.1,joinfaces.starter.security,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.0.2` // `org.joinfaces,security-spring-boot-starter,4.0.2,joinfaces.starter.security,-,automatic,-,false,-`
@@ -7412,10 +7428,12 @@
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.1.0-m3` // `org.joinfaces,security-spring-boot-starter,4.1.0-m3,joinfaces.starter.security,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.1.0-m4` // `org.joinfaces,security-spring-boot-starter,4.1.0-m4,joinfaces.starter.security,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.1.0-m5` // `org.joinfaces,security-spring-boot-starter,4.1.0-m5,joinfaces.starter.security,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.security` :left_right_arrow: `org.joinfaces:security-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,security-spring-boot-starter,4.1.0-rc1,joinfaces.starter.security,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tobago` :left_right_arrow: `org.joinfaces:tobago-spring-boot-starter:4.1.0-m2` // `org.joinfaces,tobago-spring-boot-starter,4.1.0-m2,joinfaces.starter.tobago,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tobago` :left_right_arrow: `org.joinfaces:tobago-spring-boot-starter:4.1.0-m3` // `org.joinfaces,tobago-spring-boot-starter,4.1.0-m3,joinfaces.starter.tobago,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tobago` :left_right_arrow: `org.joinfaces:tobago-spring-boot-starter:4.1.0-m4` // `org.joinfaces,tobago-spring-boot-starter,4.1.0-m4,joinfaces.starter.tobago,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tobago` :left_right_arrow: `org.joinfaces:tobago-spring-boot-starter:4.1.0-m5` // `org.joinfaces,tobago-spring-boot-starter,4.1.0-m5,joinfaces.starter.tobago,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.tobago` :left_right_arrow: `org.joinfaces:tobago-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,tobago-spring-boot-starter,4.1.0-rc1,joinfaces.starter.tobago,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.0.0` // `org.joinfaces,tomcat-spring-boot-starter,4.0.0,joinfaces.starter.tomcat,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.0.1` // `org.joinfaces,tomcat-spring-boot-starter,4.0.1,joinfaces.starter.tomcat,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.0.2` // `org.joinfaces,tomcat-spring-boot-starter,4.0.2,joinfaces.starter.tomcat,-,automatic,-,false,-`
@@ -7425,6 +7443,7 @@
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.1.0-m3` // `org.joinfaces,tomcat-spring-boot-starter,4.1.0-m3,joinfaces.starter.tomcat,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.1.0-m4` // `org.joinfaces,tomcat-spring-boot-starter,4.1.0-m4,joinfaces.starter.tomcat,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.1.0-m5` // `org.joinfaces,tomcat-spring-boot-starter,4.1.0-m5,joinfaces.starter.tomcat,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.tomcat` :left_right_arrow: `org.joinfaces:tomcat-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,tomcat-spring-boot-starter,4.1.0-rc1,joinfaces.starter.tomcat,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.0.0` // `org.joinfaces,undertow-spring-boot-starter,4.0.0,joinfaces.starter.undertow,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.0.1` // `org.joinfaces,undertow-spring-boot-starter,4.0.1,joinfaces.starter.undertow,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.0.2` // `org.joinfaces,undertow-spring-boot-starter,4.0.2,joinfaces.starter.undertow,-,automatic,-,false,-`
@@ -7434,6 +7453,7 @@
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.1.0-m3` // `org.joinfaces,undertow-spring-boot-starter,4.1.0-m3,joinfaces.starter.undertow,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.1.0-m4` // `org.joinfaces,undertow-spring-boot-starter,4.1.0-m4,joinfaces.starter.undertow,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.1.0-m5` // `org.joinfaces,undertow-spring-boot-starter,4.1.0-m5,joinfaces.starter.undertow,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.undertow` :left_right_arrow: `org.joinfaces:undertow-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,undertow-spring-boot-starter,4.1.0-rc1,joinfaces.starter.undertow,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.0.0` // `org.joinfaces,weld-spring-boot-starter,4.0.0,joinfaces.starter.weld,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.0.1` // `org.joinfaces,weld-spring-boot-starter,4.0.1,joinfaces.starter.weld,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.0.2` // `org.joinfaces,weld-spring-boot-starter,4.0.2,joinfaces.starter.weld,-,automatic,-,false,-`
@@ -7443,6 +7463,7 @@
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.1.0-m3` // `org.joinfaces,weld-spring-boot-starter,4.1.0-m3,joinfaces.starter.weld,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.1.0-m4` // `org.joinfaces,weld-spring-boot-starter,4.1.0-m4,joinfaces.starter.weld,-,automatic,-,false,-`
 - :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.1.0-m5` // `org.joinfaces,weld-spring-boot-starter,4.1.0-m5,joinfaces.starter.weld,-,automatic,-,false,-`
+- :cd: `joinfaces.starter.weld` :left_right_arrow: `org.joinfaces:weld-spring-boot-starter:4.1.0-rc1` // `org.joinfaces,weld-spring-boot-starter,4.1.0-rc1,joinfaces.starter.weld,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.0.0` // `org.joinfaces,joinfaces-test,4.0.0,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.0.1` // `org.joinfaces,joinfaces-test,4.0.1,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.0.2` // `org.joinfaces,joinfaces-test,4.0.2,joinfaces.test,-,automatic,-,false,-`
@@ -7452,6 +7473,7 @@
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m3` // `org.joinfaces,joinfaces-test,4.1.0-m3,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m4` // `org.joinfaces,joinfaces-test,4.1.0-m4,joinfaces.test,-,automatic,-,false,-`
 - :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-m5` // `org.joinfaces,joinfaces-test,4.1.0-m5,joinfaces.test,-,automatic,-,false,-`
+- :cd: `joinfaces.test` :left_right_arrow: `org.joinfaces:joinfaces-test:4.1.0-rc1` // `org.joinfaces,joinfaces-test,4.1.0-rc1,joinfaces.test,-,automatic,-,false,-`
 - :dvd: `jonix` :left_right_arrow: `com.tectonica:jonix:9.0` // `com.tectonica,jonix,9.0,jonix,9.0,explicit,java.base + java.xml + jonix.common + jonix.onix2 + jonix.onix3 + jonix.xml + slf4j.api,false,-`
 - :dvd: `jonix.common` :left_right_arrow: `com.tectonica:jonix-common:9.0` // `com.tectonica,jonix-common,9.0,jonix.common,9.0,explicit,java.base + java.xml,false,-`
 - :dvd: `jonix.json` :left_right_arrow: `com.tectonica:jonix-json:9.0` // `com.tectonica,jonix-json,9.0,jonix.json,9.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + jackson.annotations + java.base + jonix.common,false,-`
