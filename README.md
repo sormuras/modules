@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5369 Java modules published at Maven Central
 
-## Summary 2019-11-08T23:45:47.908595Z
+## Summary 2019-11-09T23:46:03.306393Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-08T23:45:47.908595Z
-Scanned 35,693 files in 4 seconds.
+Started scan at 2019-11-09T23:46:03.306393Z
+Scanned 35,757 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_08_23_31_07.csv
+    last -> modulescanner-report-2019_11_09_23_13_00.csv
 
-Parsed 2,331,409 lines in total.
-  39,490 -> captions skipped
-  161,762 -> duplicates skipped
-  102,257 -> module related
+Parsed 2,333,595 lines in total.
+  39,554 -> captions skipped
+  161,976 -> duplicates skipped
+  102,268 -> module related
 
 Collected 5,369 unique modules.
   automatic :cd: -> 3,928
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10140](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14515](suspicious/naming.md)
-- Modular impostors: [5112](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14518](suspicious/naming.md)
+- Modular impostors: [5113](suspicious/impostors.md)
 
 ## Unique Modules (5369)
 
@@ -710,8 +710,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.7`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.4`
-- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.4`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
+- :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.4.0`
 - :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.4.0`
 - :dvd: `com.torchmind.authenticator` :left_right_arrow: `com.torchmind:authenticator:1.1.0`
@@ -764,7 +764,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.26`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.27`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -986,8 +986,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.2`
-- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.2`
+- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.3`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.3`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.0.1`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.2`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.2`

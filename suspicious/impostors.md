@@ -4475,6 +4475,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.7` // `io.ebean.tools,ebean-init,1.7,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.8` // `io.ebean.tools,ebean-init,1.8,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `io.ebean.tools:ebean-init:1.9` // `io.ebean.tools,ebean-init,1.9,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:5.1.0` // `org.duracloud,synctoolui,5.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:6.0.0` // `org.duracloud,synctoolui,6.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
