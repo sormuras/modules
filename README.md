@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5369 Java modules published at Maven Central
 
-## Summary 2019-11-09T23:46:03.306393Z
+## Summary 2019-11-10T23:46:32.805200Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-09T23:46:03.306393Z
-Scanned 35,757 files in 5 seconds.
+Started scan at 2019-11-10T23:46:32.805200Z
+Scanned 35,820 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_09_23_13_00.csv
+    last -> modulescanner-report-2019_11_10_23_24_09.csv
 
-Parsed 2,333,595 lines in total.
-  39,554 -> captions skipped
-  161,976 -> duplicates skipped
-  102,268 -> module related
+Parsed 2,334,881 lines in total.
+  39,617 -> captions skipped
+  162,140 -> duplicates skipped
+  102,372 -> module related
 
 Collected 5,369 unique modules.
   automatic :cd: -> 3,928
@@ -91,9 +91,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10140](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14518](suspicious/naming.md)
-- Modular impostors: [5113](suspicious/impostors.md)
+- Invalid module names: [10163](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14521](suspicious/naming.md)
+- Modular impostors: [5115](suspicious/impostors.md)
 
 ## Unique Modules (5369)
 
@@ -182,37 +182,37 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.2.2`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.2.2`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.2.2`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.2.2`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.2.2`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.2.2`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.2.2`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.2.3`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.2.3`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.2.3`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.2.3`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.2.3`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.2.3`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.2.3`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.2.2`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.2.2`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.2.2`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.2.2`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.2.2`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.2.2`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.2.2`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.2.2`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.2.2`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.2.2`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.2.2`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.2.2`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.2.2`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.2.2`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.2.2`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.2.2`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.2.2`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.2.2`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.2.2`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.2.2`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.2`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.2`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.2`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.2.3`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.2.3`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.2.3`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.2.3`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.2.3`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.2.3`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.2.3`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.2.3`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.2.3`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.2.3`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.2.3`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.2.3`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.2.3`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.2.3`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.2.3`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.2.3`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.2.3`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.2.3`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.2.3`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.2.3`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.3`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.3`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.3`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.1.1`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
@@ -276,43 +276,43 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
-- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.1`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.1`
 - :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.0.pr3`
+- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.1`
+- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.1`
+- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.1`
+- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.1`
+- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.17`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.18`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
