@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5369 Java modules published at Maven Central
+Counted 5384 Java modules published at Maven Central
 
-## Summary 2019-11-10T23:46:32.805200Z
+## Summary 2019-11-11T23:48:06.514789Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-10T23:46:32.805200Z
-Scanned 35,820 files in 5 seconds.
+Started scan at 2019-11-11T23:48:06.514789Z
+Scanned 35,876 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_10_23_24_09.csv
+    last -> modulescanner-report-2019_11_11_23_21_43.csv
 
-Parsed 2,334,881 lines in total.
-  39,617 -> captions skipped
-  162,140 -> duplicates skipped
-  102,372 -> module related
+Parsed 2,339,511 lines in total.
+  39,673 -> captions skipped
+  162,456 -> duplicates skipped
+  102,678 -> module related
 
-Collected 5,369 unique modules.
-  automatic :cd: -> 3,928
-  explicit :dvd: -> 1,441
+Collected 5,384 unique modules.
+  automatic :cd: -> 3,933
+  explicit :dvd: -> 1,451
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10163](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14521](suspicious/naming.md)
-- Modular impostors: [5115](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14552](suspicious/naming.md)
+- Modular impostors: [5117](suspicious/impostors.md)
 
-## Unique Modules (5369)
+## Unique Modules (5384)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -336,10 +336,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.5.0`
-- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.5.0`
-- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.5.0`
-- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.5.0`
+- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.6.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.6.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.6.0`
+- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.6.0`
 - :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.5.0`
 - :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.5.0`
 - :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.5.0`
@@ -692,6 +692,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
+- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.0`
+- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.0`
+- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.0`
+- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.0`
+- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.0`
+- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.0`
+- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.0`
+- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.0`
+- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.0`
+- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.0`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
@@ -1043,8 +1053,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.sagalog.file` :left_right_arrow: `no.ssb.saga:sagalog-file:0.5`
 - :dvd: `no.ssb.sagalog.postgres` :left_right_arrow: `no.ssb.saga:sagalog-postgres:0.5`
 - :dvd: `no.ssb.sagalog.pulsar` :left_right_arrow: `no.ssb.saga:sagalog-pulsar:0.1`
-- :dvd: `org.apache.commons.rng.examples.jpms.app` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-app:1.2`
-- :dvd: `org.apache.commons.rng.examples.jpms.lib` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-lib:1.2`
+- :dvd: `org.apache.commons.rng.examples.jpms.app` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-app:1.3`
+- :dvd: `org.apache.commons.rng.examples.jpms.lib` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-lib:1.3`
 - :dvd: `org.apache.derby.client` :left_right_arrow: `org.apache.derby:derbyclient:10.15.1.3`
 - :dvd: `org.apache.derby.commons` :left_right_arrow: `org.apache.derby:derbyshared:10.15.1.3`
 - :dvd: `org.apache.derby.engine` :left_right_arrow: `org.apache.derby:derby:10.15.1.3`
@@ -1402,7 +1412,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.2`
-- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.2`
+- :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.3`
 - :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.5.0.0`
 - :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.5.0.0`
 - :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.5.0.0`
