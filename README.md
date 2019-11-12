@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5384 Java modules published at Maven Central
+Counted 5386 Java modules published at Maven Central
 
-## Summary 2019-11-11T23:48:06.514789Z
+## Summary 2019-11-12T23:47:39.208610Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-11T23:48:06.514789Z
-Scanned 35,876 files in 4 seconds.
+Started scan at 2019-11-12T23:47:39.208610Z
+Scanned 35,926 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_11_23_21_43.csv
+    last -> modulescanner-report-2019_11_12_23_19_50.csv
 
-Parsed 2,339,511 lines in total.
-  39,673 -> captions skipped
-  162,456 -> duplicates skipped
-  102,678 -> module related
+Parsed 2,346,138 lines in total.
+  39,723 -> captions skipped
+  162,910 -> duplicates skipped
+  103,143 -> module related
 
-Collected 5,384 unique modules.
-  automatic :cd: -> 3,933
+Collected 5,386 unique modules.
+  automatic :cd: -> 3,935
   explicit :dvd: -> 1,451
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10163](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14552](suspicious/naming.md)
-- Modular impostors: [5117](suspicious/impostors.md)
+- Invalid module names: [10164](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14701](suspicious/naming.md)
+- Modular impostors: [5186](suspicious/impostors.md)
 
-## Unique Modules (5384)
+## Unique Modules (5386)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -160,7 +160,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.1`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.0`
+- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.1`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
 - :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.7`
@@ -170,8 +170,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.2`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.1`
-- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.0.1`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.2`
+- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.1.0`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.10.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
@@ -213,7 +213,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.3`
 - :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.3`
 - :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.3`
-- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.1.1`
+- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.0`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
@@ -273,7 +273,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
-- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.1`
+- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.3`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.1`
@@ -360,7 +360,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.5`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.1`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.2`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -370,9 +370,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
-- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.1`
-- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.1`
-- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.1`
+- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.3`
+- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.3`
+- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.3`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
@@ -1009,7 +1009,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.4`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.5`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
