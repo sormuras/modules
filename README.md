@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5386 Java modules published at Maven Central
+Counted 5419 Java modules published at Maven Central
 
-## Summary 2019-11-12T23:47:39.208610Z
+## Summary 2019-11-13T23:48:04.976622Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-12T23:47:39.208610Z
-Scanned 35,926 files in 6 seconds.
+Started scan at 2019-11-13T23:48:04.976622Z
+Scanned 35,986 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_12_23_19_50.csv
+    last -> modulescanner-report-2019_11_13_23_24_44.csv
 
-Parsed 2,346,138 lines in total.
-  39,723 -> captions skipped
-  162,910 -> duplicates skipped
-  103,143 -> module related
+Parsed 2,351,351 lines in total.
+  39,783 -> captions skipped
+  163,877 -> duplicates skipped
+  103,489 -> module related
 
-Collected 5,386 unique modules.
-  automatic :cd: -> 3,935
-  explicit :dvd: -> 1,451
+Collected 5,419 unique modules.
+  automatic :cd: -> 3,937
+  explicit :dvd: -> 1,482
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,17 +91,18 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10164](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14701](suspicious/naming.md)
-- Modular impostors: [5186](suspicious/impostors.md)
+- Invalid module names: [10166](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14746](suspicious/naming.md)
+- Modular impostors: [5191](suspicious/impostors.md)
 
-## Unique Modules (5386)
+## Unique Modules (5419)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
+- :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.0.3`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -359,7 +360,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.5`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.6`
 - :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.2`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
@@ -692,16 +693,46 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
-- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.0`
-- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.0`
-- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.0`
-- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.0`
-- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.0`
-- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.0`
-- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.0`
-- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.0`
-- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.0`
-- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.0`
+- :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.1`
+- :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.1`
+- :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.1`
+- :dvd: `com.speedment.common.codegen` :left_right_arrow: `com.speedment.common:codegen:3.2.1`
+- :dvd: `com.speedment.common.codegenxml` :left_right_arrow: `com.speedment.common:codegenxml:3.2.1`
+- :dvd: `com.speedment.common.collection` :left_right_arrow: `com.speedment.common:collection:3.2.1`
+- :dvd: `com.speedment.common.combinatorics` :left_right_arrow: `com.speedment.common:combinatorics:3.2.1`
+- :dvd: `com.speedment.common.function` :left_right_arrow: `com.speedment.common:function:3.2.1`
+- :dvd: `com.speedment.common.injector` :left_right_arrow: `com.speedment.common:injector:3.2.1`
+- :dvd: `com.speedment.common.invariant` :left_right_arrow: `com.speedment.common:invariant:3.2.1`
+- :dvd: `com.speedment.common.json` :left_right_arrow: `com.speedment.common:json:3.2.1`
+- :dvd: `com.speedment.common.jvm_version` :left_right_arrow: `com.speedment.common:jvm-version:3.2.1`
+- :dvd: `com.speedment.common.logger` :left_right_arrow: `com.speedment.common:logger:3.2.1`
+- :dvd: `com.speedment.common.mapbuilder` :left_right_arrow: `com.speedment.common:mapbuilder:3.2.1`
+- :dvd: `com.speedment.common.mapstream` :left_right_arrow: `com.speedment.common:mapstream:3.2.1`
+- :dvd: `com.speedment.common.rest` :left_right_arrow: `com.speedment.common:rest:3.2.1`
+- :dvd: `com.speedment.common.singletonstream` :left_right_arrow: `com.speedment.common:singleton-stream:3.2.1`
+- :dvd: `com.speedment.common.tuple` :left_right_arrow: `com.speedment.common:tuple:3.2.1`
+- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.1`
+- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.1`
+- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.1`
+- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.1`
+- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.1`
+- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.1`
+- :dvd: `com.speedment.runtime.bulk` :left_right_arrow: `com.speedment.runtime:runtime-bulk:3.2.1`
+- :dvd: `com.speedment.runtime.compute` :left_right_arrow: `com.speedment.runtime:runtime-compute:3.2.1`
+- :dvd: `com.speedment.runtime.config` :left_right_arrow: `com.speedment.runtime:runtime-config:3.2.1`
+- :dvd: `com.speedment.runtime.connector.mariadb` :left_right_arrow: `com.speedment.runtime:connector-mariadb:3.2.1`
+- :dvd: `com.speedment.runtime.connector.mysql` :left_right_arrow: `com.speedment.runtime:connector-mysql:3.2.1`
+- :dvd: `com.speedment.runtime.connector.postgres` :left_right_arrow: `com.speedment.runtime:connector-postgres:3.2.1`
+- :dvd: `com.speedment.runtime.connector.sqlite` :left_right_arrow: `com.speedment.runtime:connector-sqlite:3.2.1`
+- :dvd: `com.speedment.runtime.core` :left_right_arrow: `com.speedment.runtime:runtime-core:3.2.1`
+- :dvd: `com.speedment.runtime.field` :left_right_arrow: `com.speedment.runtime:runtime-field:3.2.1`
+- :dvd: `com.speedment.runtime.join` :left_right_arrow: `com.speedment.runtime:runtime-join:3.2.1`
+- :dvd: `com.speedment.runtime.typemapper` :left_right_arrow: `com.speedment.runtime:runtime-typemapper:3.2.1`
+- :dvd: `com.speedment.runtime.welcome` :left_right_arrow: `com.speedment.runtime:runtime-welcome:3.2.1`
+- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.1`
+- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.1`
+- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.1`
+- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.1`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
@@ -1477,11 +1508,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `pw.krejci.log4j2.tracedepth` :left_right_arrow: `pw.krejci:tracedepth-log4j2-plugin:0.1.0`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
-- :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.1.0`
-- :dvd: `se.l4.commons.id` :left_right_arrow: `se.l4.commons:commons-id:1.1.0`
-- :dvd: `se.l4.commons.io` :left_right_arrow: `se.l4.commons:commons-io:1.1.0`
-- :dvd: `se.l4.commons.serialization` :left_right_arrow: `se.l4.commons:commons-serialization:1.1.0`
-- :dvd: `se.l4.commons.types` :left_right_arrow: `se.l4.commons:commons-types:1.1.0`
+- :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.2.0`
+- :dvd: `se.l4.commons.id` :left_right_arrow: `se.l4.commons:commons-id:1.2.0`
+- :dvd: `se.l4.commons.io` :left_right_arrow: `se.l4.commons:commons-io:1.2.0`
+- :dvd: `se.l4.commons.serialization` :left_right_arrow: `se.l4.commons:commons-serialization:1.2.0`
+- :dvd: `se.l4.commons.types` :left_right_arrow: `se.l4.commons:commons-types:1.2.0`
 - :dvd: `se.l4.crayon` :left_right_arrow: `se.l4.crayon:crayon-core:1.1.0`
 - :dvd: `se.l4.crayon.services` :left_right_arrow: `se.l4.crayon:crayon-lib-services:1.1.0`
 - :dvd: `si.uom.quantity` :left_right_arrow: `si.uom:si-quantity:2.0.1`
