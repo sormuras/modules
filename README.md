@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5419 Java modules published at Maven Central
 
-## Summary 2019-11-14T23:48:48.930220Z
+## Summary 2019-11-15T23:49:35.678318Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-14T23:48:48.930220Z
-Scanned 36,041 files in 4 seconds.
+Started scan at 2019-11-15T23:49:35.678318Z
+Scanned 36,100 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_14_23_19_51.csv
+    last -> modulescanner-report-2019_11_15_23_17_50.csv
 
-Parsed 2,357,073 lines in total.
-  39,836 -> captions skipped
-  164,422 -> duplicates skipped
-  103,862 -> module related
+Parsed 2,363,250 lines in total.
+  39,895 -> captions skipped
+  164,977 -> duplicates skipped
+  104,247 -> module related
 
 Collected 5,419 unique modules.
   automatic :cd: -> 3,937
@@ -92,8 +92,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10168](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14759](suspicious/naming.md)
-- Modular impostors: [5261](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14853](suspicious/naming.md)
+- Modular impostors: [5286](suspicious/impostors.md)
 
 ## Unique Modules (5419)
 
@@ -274,7 +274,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
-- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.3`
+- :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:0.70.0.4`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
 - :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.1`
@@ -312,7 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.1`
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
-- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.2`
+- :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
 - :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.18`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
@@ -371,9 +371,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
-- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.3`
-- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.3`
-- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.3`
+- :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:0.70.0.4`
+- :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:0.70.0.4`
+- :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:0.70.0.4`
 - :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
 - :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
@@ -599,9 +599,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.xeditable` :left_right_arrow: `com.jwebmp:jwebmp-xeditable:0.66.0.1`
 - :dvd: `com.jwebmp.undertow` :left_right_arrow: `com.jwebmp:jwebmp-undertow:0.66.0.1`
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp:jwebmp-websockets:0.66.0.1`
-- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.0`
-- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.0`
-- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.0`
+- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.1`
+- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
+- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
