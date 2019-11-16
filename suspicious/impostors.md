@@ -4418,6 +4418,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:5.1.0` // `com.bmuschko,gradle-docker-plugin,5.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:5.2.0` // `com.bmuschko,gradle-docker-plugin,5.2.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:5.3.0` // `com.bmuschko,gradle-docker-plugin,5.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:6.0.0` // `com.bmuschko,gradle-docker-plugin,6.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:java2db:1.5.1` // `com.github.collinalpert,java2db,1.5.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -4662,6 +4663,7 @@
 - :dvd: `org.objectweb.asm.tree` :left_right_arrow: `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` :left_right_arrow: `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` :left_right_arrow: `com.uber.nullaway:jar-infer-cli:0.7.8` // `com.uber.nullaway,jar-infer-cli,0.7.8,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `com.uber.nullaway:jar-infer-cli:0.7.9` // `com.uber.nullaway,jar-infer-cli,0.7.9,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
