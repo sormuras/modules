@@ -4,7 +4,9 @@
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.12:0.3.4` // `ch.megard,akka-http-cors_2.12,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.12:0.4.0` // `ch.megard,akka-http-cors_2.12,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.12:0.4.1` // `ch.megard,akka-http-cors_2.12,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.12:0.4.2` // `ch.megard,akka-http-cors_2.12,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.13:0.4.1` // `ch.megard,akka-http-cors_2.13,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.13:0.4.2` // `ch.megard,akka-http-cors_2.13,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.13.0-M3:0.3.1` // `ch.megard,akka-http-cors_2.13.0-M3,0.3.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.13.0-M5:0.3.4` // `ch.megard,akka-http-cors_2.13.0-M5,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` :left_right_arrow: `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`

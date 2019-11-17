@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5419 Java modules published at Maven Central
+Counted 5422 Java modules published at Maven Central
 
-## Summary 2019-11-16T23:50:08.690768Z
+## Summary 2019-11-17T23:50:34.374680Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-16T23:50:08.690768Z
-Scanned 36,172 files in 4 seconds.
+Started scan at 2019-11-17T23:50:34.374680Z
+Scanned 36,243 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_16_23_27_05.csv
+    last -> modulescanner-report-2019_11_17_23_28_44.csv
 
-Parsed 2,365,986 lines in total.
-  39,967 -> captions skipped
-  165,167 -> duplicates skipped
-  104,318 -> module related
+Parsed 2,368,657 lines in total.
+  40,038 -> captions skipped
+  165,308 -> duplicates skipped
+  104,397 -> module related
 
-Collected 5,419 unique modules.
-  automatic :cd: -> 3,937
-  explicit :dvd: -> 1,482
+Collected 5,422 unique modules.
+  automatic :cd: -> 3,938
+  explicit :dvd: -> 1,484
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10183](suspicious/syntax.md)
+- Invalid module names: [10184](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [14888](suspicious/naming.md)
-- Modular impostors: [5288](suspicious/impostors.md)
+- Modular impostors: [5290](suspicious/impostors.md)
 
-## Unique Modules (5419)
+## Unique Modules (5422)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -183,60 +183,62 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.2.3`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.2.3`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.2.3`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.2.3`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.2.3`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.2.3`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.2.3`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.3.0`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.3.0`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.3.0`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.3.0`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.3.0`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.3.0`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.3.0`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.2.3`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.2.3`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.2.3`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.2.3`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.2.3`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.2.3`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.2.3`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.2.3`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.2.3`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.2.3`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.2.3`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.2.3`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.2.3`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.2.3`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.2.3`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.2.3`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.2.3`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.2.3`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.2.3`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.2.3`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.2.3`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.2.3`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.2.3`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.3.0`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.3.0`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.3.0`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.3.0`
+- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.3.0`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.3.0`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.3.0`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.3.0`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.3.0`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.3.0`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.3.0`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.3.0`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.3.0`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.3.0`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.3.0`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.3.0`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.3.0`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.3.0`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.3.0`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.3.0`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.3.0`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.3.0`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.3.0`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.3.0`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.0`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
-- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.5`
-- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.5`
-- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.5`
-- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.5`
-- :dvd: `com.almasb.fxgl.cutscene` :left_right_arrow: `com.github.almasb:fxgl-cutscene:11.5`
-- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.5`
-- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.5`
-- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.5`
-- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.5`
-- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.5`
-- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.5`
-- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.5`
-- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.5`
-- :dvd: `com.almasb.fxgl.scene` :left_right_arrow: `com.github.almasb:fxgl-scene:11.5`
-- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.5`
-- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.5`
-- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.5`
-- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.5`
-- :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.5`
+- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.6`
+- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.6`
+- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.6`
+- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.6`
+- :dvd: `com.almasb.fxgl.cutscene` :left_right_arrow: `com.github.almasb:fxgl-cutscene:11.6`
+- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.6`
+- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.6`
+- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.6`
+- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.6`
+- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.6`
+- :dvd: `com.almasb.fxgl.localization` :left_right_arrow: `com.github.almasb:fxgl-localization:11.6`
+- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.6`
+- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.6`
+- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.6`
+- :dvd: `com.almasb.fxgl.scene` :left_right_arrow: `com.github.almasb:fxgl-scene:11.6`
+- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.6`
+- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.6`
+- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.6`
+- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
+- :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
@@ -665,18 +667,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` :left_right_arrow: `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` :left_right_arrow: `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` :left_right_arrow: `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.4.1`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.4.1`
+- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.5.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` :left_right_arrow: `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:common.mapper:2.1.0`
