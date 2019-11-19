@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5423 Java modules published at Maven Central
+Counted 5424 Java modules published at Maven Central
 
-## Summary 2019-11-18T23:50:46.017261Z
+## Summary 2019-11-19T23:50:45.361354Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-18T23:50:46.017261Z
-Scanned 36,309 files in 5 seconds.
+Started scan at 2019-11-19T23:50:45.361354Z
+Scanned 36,372 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_18_23_18_57.csv
+    last -> modulescanner-report-2019_11_19_23_26_45.csv
 
-Parsed 2,374,062 lines in total.
-  40,104 -> captions skipped
-  166,105 -> duplicates skipped
-  104,891 -> module related
+Parsed 2,380,231 lines in total.
+  40,167 -> captions skipped
+  166,721 -> duplicates skipped
+  105,265 -> module related
 
-Collected 5,423 unique modules.
+Collected 5,424 unique modules.
   automatic :cd: -> 3,939
-  explicit :dvd: -> 1,484
+  explicit :dvd: -> 1,485
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10206](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15026](suspicious/naming.md)
-- Modular impostors: [5330](suspicious/impostors.md)
+- Invalid module names: [10250](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15048](suspicious/naming.md)
+- Modular impostors: [5343](suspicious/impostors.md)
 
-## Unique Modules (5423)
+## Unique Modules (5424)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -604,7 +604,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
-- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.0`
+- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.1`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
@@ -1278,7 +1278,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.13`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.14`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
@@ -1584,3 +1584,4 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
+- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.0.2`
