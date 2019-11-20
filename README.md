@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5424 Java modules published at Maven Central
+Counted 5427 Java modules published at Maven Central
 
-## Summary 2019-11-19T23:50:45.361354Z
+## Summary 2019-11-20T23:51:15.237876Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-19T23:50:45.361354Z
-Scanned 36,372 files in 4 seconds.
+Started scan at 2019-11-20T23:51:15.237876Z
+Scanned 36,435 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_19_23_26_45.csv
+    last -> modulescanner-report-2019_11_20_23_30_21.csv
 
-Parsed 2,380,231 lines in total.
-  40,167 -> captions skipped
-  166,721 -> duplicates skipped
-  105,265 -> module related
+Parsed 2,385,734 lines in total.
+  40,230 -> captions skipped
+  167,045 -> duplicates skipped
+  105,548 -> module related
 
-Collected 5,424 unique modules.
-  automatic :cd: -> 3,939
-  explicit :dvd: -> 1,485
+Collected 5,427 unique modules.
+  automatic :cd: -> 3,941
+  explicit :dvd: -> 1,486
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -92,10 +92,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10250](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15048](suspicious/naming.md)
-- Modular impostors: [5343](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15071](suspicious/naming.md)
+- Modular impostors: [5359](suspicious/impostors.md)
 
-## Unique Modules (5424)
+## Unique Modules (5427)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1278,14 +1278,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.14`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.15`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
 - :dvd: `org.fxyz3d.importers` :left_right_arrow: `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:2.0.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.2.1`
+- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.3.0`
+- :dvd: `org.graalvm.truffle` :left_right_arrow: `org.graalvm.truffle:truffle-api:19.3.0`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
 - :dvd: `org.immutables.vavr.encodings` :left_right_arrow: `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` :left_right_arrow: `org.javacord:javacord-api:3.0.4`
