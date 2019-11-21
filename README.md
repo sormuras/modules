@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5427 Java modules published at Maven Central
+Counted 5449 Java modules published at Maven Central
 
-## Summary 2019-11-20T23:51:15.237876Z
+## Summary 2019-11-21T23:51:49.113923Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-20T23:51:15.237876Z
-Scanned 36,435 files in 5 seconds.
+Started scan at 2019-11-21T23:51:49.113923Z
+Scanned 36,496 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_20_23_30_21.csv
+    last -> modulescanner-report-2019_11_21_23_24_16.csv
 
-Parsed 2,385,734 lines in total.
-  40,230 -> captions skipped
-  167,045 -> duplicates skipped
-  105,548 -> module related
+Parsed 2,393,576 lines in total.
+  40,291 -> captions skipped
+  167,965 -> duplicates skipped
+  105,968 -> module related
 
-Collected 5,427 unique modules.
-  automatic :cd: -> 3,941
+Collected 5,449 unique modules.
+  automatic :cd: -> 3,963
   explicit :dvd: -> 1,486
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10250](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15071](suspicious/naming.md)
-- Modular impostors: [5359](suspicious/impostors.md)
+- Invalid module names: [10275](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15131](suspicious/naming.md)
+- Modular impostors: [5396](suspicious/impostors.md)
 
-## Unique Modules (5427)
+## Unique Modules (5449)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -363,7 +363,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.6`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.2`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.3`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -604,7 +604,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
-- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.1`
+- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.2`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
@@ -751,7 +751,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
 - :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.2`
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.7`
+- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.8`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
@@ -793,7 +793,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:1.9.10`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M4`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
@@ -1585,4 +1585,4 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
-- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.0.2`
+- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.0.3`
