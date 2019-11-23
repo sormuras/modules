@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5460 Java modules published at Maven Central
+Counted 5463 Java modules published at Maven Central
 
-## Summary 2019-11-22T23:51:51.198220Z
+## Summary 2019-11-23T23:51:54.378959Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-22T23:51:51.198220Z
-Scanned 36,563 files in 5 seconds.
+Started scan at 2019-11-23T23:51:54.378959Z
+Scanned 36,635 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_22_23_29_39.csv
+    last -> modulescanner-report-2019_11_23_23_38_17.csv
 
-Parsed 2,400,776 lines in total.
-  40,355 -> captions skipped
-  168,691 -> duplicates skipped
-  106,475 -> module related
+Parsed 2,404,662 lines in total.
+  40,427 -> captions skipped
+  169,944 -> duplicates skipped
+  106,870 -> module related
 
-Collected 5,460 unique modules.
-  automatic :cd: -> 3,968
+Collected 5,463 unique modules.
+  automatic :cd: -> 3,971
   explicit :dvd: -> 1,492
 
 ## Samples
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10316](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15239](suspicious/naming.md)
-- Modular impostors: [5425](suspicious/impostors.md)
+- Invalid module names: [10668](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15248](suspicious/naming.md)
+- Modular impostors: [5439](suspicious/impostors.md)
 
-## Unique Modules (5460)
+## Unique Modules (5463)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -361,8 +361,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
-- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.9`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.6`
+- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
 - :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.3`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
@@ -1358,7 +1358,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.4`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.2.0`
-- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:1.1.0`
+- :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:2.0.0`
 - :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` :left_right_arrow: `org.lwjgl:lwjgl-bgfx:3.2.3`
