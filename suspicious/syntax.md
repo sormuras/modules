@@ -9332,6 +9332,7 @@
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.10.31-210013` // `name.remal,public-data,2019.10.31-210013,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.10.4-164007` // `name.remal,public-data,2019.10.4-164007,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.11.11-195010` // `name.remal,public-data,2019.11.11-195010,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.11.23-032009` // `name.remal,public-data,2019.11.23-032009,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.2.15-234010` // `name.remal,public-data,2019.2.15-234010,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.2.21-181509` // `name.remal,public-data,2019.2.21-181509,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.2.28-020507` // `name.remal,public-data,2019.2.28-020507,name.remal.public-data,-,automatic,-,false,-`
