@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5487 Java modules published at Maven Central
+Counted 5493 Java modules published at Maven Central
 
-## Summary 2019-11-25T23:52:35.623040Z
+## Summary 2019-11-26T23:52:54.019351Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-25T23:52:35.623040Z
-Scanned 36,781 files in 5 seconds.
+Started scan at 2019-11-26T23:52:54.019351Z
+Scanned 36,847 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_25_23_33_46.csv
+    last -> modulescanner-report-2019_11_26_23_16_02.csv
 
-Parsed 2,414,169 lines in total.
-  40,573 -> captions skipped
-  170,976 -> duplicates skipped
-  107,326 -> module related
+Parsed 2,422,359 lines in total.
+  40,639 -> captions skipped
+  171,564 -> duplicates skipped
+  107,628 -> module related
 
-Collected 5,487 unique modules.
-  automatic :cd: -> 3,993
-  explicit :dvd: -> 1,494
+Collected 5,493 unique modules.
+  automatic :cd: -> 3,995
+  explicit :dvd: -> 1,498
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,18 +91,19 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10669](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15345](suspicious/naming.md)
-- Modular impostors: [5464](suspicious/impostors.md)
+- Invalid module names: [10697](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15368](suspicious/naming.md)
+- Modular impostors: [5469](suspicious/impostors.md)
 
-## Unique Modules (5487)
+## Unique Modules (5493)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
-- :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.0.3`
+- :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
+- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.0.4`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -241,6 +242,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.6`
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
+- :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
+- :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.1.0`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
@@ -606,7 +609,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
-- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.2`
+- :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.3`
+- :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.0.1`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
@@ -815,7 +819,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` :left_right_arrow: `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.1.0`
+- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.1.1`
 - :dvd: `io.annot8.api` :left_right_arrow: `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` :left_right_arrow: `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.4.0`
@@ -851,7 +855,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.54`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.55`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.1`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.1`
@@ -1593,4 +1597,4 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
-- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.0.3`
+- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.1.0`
