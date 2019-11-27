@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5493 Java modules published at Maven Central
+Counted 5494 Java modules published at Maven Central
 
-## Summary 2019-11-26T23:52:54.019351Z
+## Summary 2019-11-27T23:53:21.970611Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-26T23:52:54.019351Z
-Scanned 36,847 files in 4 seconds.
+Started scan at 2019-11-27T23:53:21.970611Z
+Scanned 36,912 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_26_23_16_02.csv
+    last -> modulescanner-report-2019_11_27_22_56_20.csv
 
-Parsed 2,422,359 lines in total.
-  40,639 -> captions skipped
-  171,564 -> duplicates skipped
-  107,628 -> module related
+Parsed 2,428,654 lines in total.
+  40,703 -> captions skipped
+  171,906 -> duplicates skipped
+  107,852 -> module related
 
-Collected 5,493 unique modules.
-  automatic :cd: -> 3,995
-  explicit :dvd: -> 1,498
+Collected 5,494 unique modules.
+  automatic :cd: -> 3,994
+  explicit :dvd: -> 1,500
 
 ## Samples
             junit -> junit:junit:4.13-rc-1
@@ -91,11 +91,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10697](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15368](suspicious/naming.md)
-- Modular impostors: [5469](suspicious/impostors.md)
+- Invalid module names: [10715](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15375](suspicious/naming.md)
+- Modular impostors: [5481](suspicious/impostors.md)
 
-## Unique Modules (5493)
+## Unique Modules (5494)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -103,7 +103,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
-- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.0.4`
+- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.1`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -186,38 +186,38 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.3.0`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.3.0`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.3.0`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.3.0`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.3.0`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.3.0`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.3.0`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.3.1`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.3.1`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.3.1`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.3.1`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.3.1`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.3.1`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.3.1`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.3.0`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.3.0`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.3.0`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.3.0`
-- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.3.0`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.3.0`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.3.0`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.3.0`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.3.0`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.3.0`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.3.0`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.3.0`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.3.0`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.3.0`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.3.0`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.3.0`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.3.0`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.3.0`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.3.0`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.3.0`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.3.0`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.3.0`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.3.0`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.3.0`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.3.1`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.3.1`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.3.1`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.3.1`
+- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.3.1`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.3.1`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.3.1`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.3.1`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.3.1`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.3.1`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.3.1`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.3.1`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.3.1`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.3.1`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.3.1`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.3.1`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.3.1`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.3.1`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.3.1`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.3.1`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.3.1`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.3.1`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.3.1`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.3.1`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.1`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
@@ -243,7 +243,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
 - :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
+- :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.1.0`
+- :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.1`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
@@ -381,33 +383,33 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:62`
 - :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:62`
-- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.10.3`
-- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.10.3`
-- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.10.3`
-- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.10.3`
-- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.10.3`
-- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.10.3`
-- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.10.3`
-- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.10.3`
-- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.10.3`
-- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.10.3`
-- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.10.3`
-- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.10.3`
-- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.10.3`
+- :dvd: `com.hack23.cia.model.common.impl` :left_right_arrow: `com.hack23.cia:model.common.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.person.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.personlista.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.votering.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` :left_right_arrow: `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.kommunvalkrets.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.landstingvalkrets.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.val.partier.impl` :left_right_arrow: `com.hack23.cia:model.external.val.partier.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` :left_right_arrow: `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.countries.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.data.impl:2019.11.27`
+- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` :left_right_arrow: `com.hack23.cia:model.external.worldbank.indicators.impl:2019.11.27`
+- :dvd: `com.hack23.cia.service.api` :left_right_arrow: `com.hack23.cia:service.api:2019.11.27`
+- :dvd: `com.hack23.cia.service.component.agent.api` :left_right_arrow: `com.hack23.cia:service.component.agent.api:2019.11.27`
+- :dvd: `com.hack23.cia.service.component.agent.impl` :left_right_arrow: `com.hack23.cia:service.component.agent.impl:2019.11.27`
+- :dvd: `com.hack23.cia.service.data.api` :left_right_arrow: `com.hack23.cia:service.data.api:2019.11.27`
+- :dvd: `com.hack23.cia.service.data.impl` :left_right_arrow: `com.hack23.cia:service.data.impl:2019.11.27`
+- :dvd: `com.hack23.cia.service.external.common` :left_right_arrow: `com.hack23.cia:service.external.common:2019.11.27`
+- :dvd: `com.hack23.cia.service.external.esv` :left_right_arrow: `com.hack23.cia:service.external.esv:2019.11.27`
+- :dvd: `com.hack23.cia.service.external.riksdagen` :left_right_arrow: `com.hack23.cia:service.external.riksdagen:2019.11.27`
+- :dvd: `com.hack23.cia.service.external.val` :left_right_arrow: `com.hack23.cia:service.external.val:2019.11.27`
+- :dvd: `com.hack23.cia.service.external.worldbank` :left_right_arrow: `com.hack23.cia:service.external.worldbank:2019.11.27`
+- :dvd: `com.hack23.cia.service.impl` :left_right_arrow: `com.hack23.cia:service.impl:2019.11.27`
 - :dvd: `com.headius.invokebinder` :left_right_arrow: `com.headius:invokebinder:1.11`
 - :dvd: `com.headius.modulator` :left_right_arrow: `com.headius:modulator:1.2`
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
@@ -855,7 +857,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.55`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.56`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.1`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.1`
@@ -1054,7 +1056,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
-- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.6`
+- :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.8`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
 - :dvd: `net.tascalate.asmx.tree` :left_right_arrow: `net.tascalate:net.tascalate.asmx.tree:7.1.0`
@@ -1241,54 +1243,54 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.docx4j.openxml_objects_pml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-pml:11.1.3`
 - :dvd: `org.docx4j.openxml_objects_sml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-sml:11.1.3`
 - :dvd: `org.dyn4j` :left_right_arrow: `org.dyn4j:dyn4j:3.3.0`
-- :dvd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http2.http.client.transport` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.unixsocket.client` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.unixsocket.common` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-common:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.unixsocket.server` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.core` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-core:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.javax.client` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.javax.common` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-common:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.javax.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.jetty.api` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-api:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.jetty.client` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-client:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.jetty.common` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-common:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.jetty.server` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-server:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0-alpha0`
-- :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.alpn.java.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.alpn.java.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-java-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.alpn.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.annotations` :left_right_arrow: `org.eclipse.jetty:jetty-annotations:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.apache.jsp` :left_right_arrow: `org.eclipse.jetty:apache-jsp:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.client` :left_right_arrow: `org.eclipse.jetty:jetty-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.deploy` :left_right_arrow: `org.eclipse.jetty:jetty-deploy:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.fcgi.client` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.fcgi.server` :left_right_arrow: `org.eclipse.jetty.fcgi:fcgi-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http` :left_right_arrow: `org.eclipse.jetty:jetty-http:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http2.client` :left_right_arrow: `org.eclipse.jetty.http2:http2-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http2.common` :left_right_arrow: `org.eclipse.jetty.http2:http2-common:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http2.hpack` :left_right_arrow: `org.eclipse.jetty.http2:http2-hpack:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http2.http.client.transport` :left_right_arrow: `org.eclipse.jetty.http2:http2-http-client-transport:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.http2.server` :left_right_arrow: `org.eclipse.jetty.http2:http2-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.io` :left_right_arrow: `org.eclipse.jetty:jetty-io:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.jaas` :left_right_arrow: `org.eclipse.jetty:jetty-jaas:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.jmx` :left_right_arrow: `org.eclipse.jetty:jetty-jmx:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.jndi` :left_right_arrow: `org.eclipse.jetty:jetty-jndi:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.plus` :left_right_arrow: `org.eclipse.jetty:jetty-plus:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.proxy` :left_right_arrow: `org.eclipse.jetty:jetty-proxy:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.quickstart` :left_right_arrow: `org.eclipse.jetty:jetty-quickstart:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.rewrite` :left_right_arrow: `org.eclipse.jetty:jetty-rewrite:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.security` :left_right_arrow: `org.eclipse.jetty:jetty-security:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.security.jaspi` :left_right_arrow: `org.eclipse.jetty:jetty-jaspi:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.server` :left_right_arrow: `org.eclipse.jetty:jetty-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.servlet` :left_right_arrow: `org.eclipse.jetty:jetty-servlet:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.servlets` :left_right_arrow: `org.eclipse.jetty:jetty-servlets:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.spring` :left_right_arrow: `org.eclipse.jetty:jetty-spring:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.unixsocket.client` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.unixsocket.common` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-common:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.unixsocket.server` :left_right_arrow: `org.eclipse.jetty:jetty-unixsocket-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.util` :left_right_arrow: `org.eclipse.jetty:jetty-util:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.util.ajax` :left_right_arrow: `org.eclipse.jetty:jetty-util-ajax:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.webapp` :left_right_arrow: `org.eclipse.jetty:jetty-webapp:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.core` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-core:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.javax.client` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.javax.common` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-common:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.javax.server` :left_right_arrow: `org.eclipse.jetty.websocket:javax-websocket-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.jetty.api` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-api:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.jetty.client` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-client:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.jetty.common` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-common:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.jetty.server` :left_right_arrow: `org.eclipse.jetty.websocket:jetty-websocket-server:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
+- :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
 - :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.15`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
