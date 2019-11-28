@@ -294,6 +294,12 @@ public class Modules {
       counters.computeIfAbsent(time, slot -> new TreeMap<>()).merge(mode, 1L, Long::sum);
     }
 
+    private String toRatio(Map<String, Long> map) {
+      double plain = map.get("plain");
+      double modular = map.get("automatic") + map.get("explicit");
+      return String.format("%.2f%%", (modular / plain) * 100);
+    }
+
     void countPlainModule(String time) {
       count(time, "plain");
     }
@@ -342,7 +348,7 @@ public class Modules {
       var strings = new ArrayList<>(head);
       strings.add("");
       strings.add("## History");
-      counters.entrySet().forEach(entry -> strings.add(" - `" + entry + "`"));
+      counters.entrySet().forEach(e -> strings.add(" - `" + e + "` \t " + toRatio(e.getValue())));
       return strings;
     }
 
