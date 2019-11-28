@@ -143,7 +143,7 @@ public class Modules {
             continue;
           }
           logger.log(DEBUG, "Version of module {0} set to {1} (was={2}) ", name, now, old);
-          summary.put(candidate, null); // pass "time" slot to count all updates as well
+          summary.put(candidate, time); // pass "null" slot to not count all updates
           continue;
         }
 
