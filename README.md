@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5494 Java modules published at Maven Central
+Counted 5495 Java modules published at Maven Central
 
-## Summary 2019-11-27T23:53:21.970611Z
+## Summary 2019-11-28T11:11:18.630780Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-27T23:53:21.970611Z
-Scanned 36,912 files in 4 seconds.
+Started scan at 2019-11-28T11:11:18.630780Z
+Scanned 36,945 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_27_22_56_20.csv
+    last -> modulescanner-report-2019_11_28_10_20_32.csv
 
-Parsed 2,428,654 lines in total.
-  40,703 -> captions skipped
-  171,906 -> duplicates skipped
-  107,852 -> module related
+Parsed 2,431,524 lines in total.
+  40,736 -> captions skipped
+  172,429 -> duplicates skipped
+  108,560 -> module related
 
-Collected 5,494 unique modules.
-  automatic :cd: -> 3,994
+Collected 5,495 unique modules.
+  automatic :cd: -> 3,995
   explicit :dvd: -> 1,500
 
 ## Samples
@@ -29,6 +29,24 @@ com.google.common -> com.google.guava:guava:28.1-jre
  org.joda.collect -> org.joda:joda-collect:1.0.1
  org.joda.convert -> org.joda:joda-convert:2.2.1
 
+
+## History
+ - `2018_08={automatic=2108, explicit=278, plain=143500}`
+ - `2018_09={automatic=101, explicit=84, plain=96024}`
+ - `2018_10={automatic=126, explicit=15, plain=101481}`
+ - `2018_11={automatic=267, explicit=7, plain=48559}`
+ - `2018_12={automatic=280, explicit=92, plain=203563}`
+ - `2019_01={automatic=180, explicit=61, plain=103501}`
+ - `2019_02={automatic=79, explicit=232, plain=85957}`
+ - `2019_03={automatic=115, explicit=58, plain=151127}`
+ - `2019_04={automatic=123, explicit=94, plain=154126}`
+ - `2019_05={automatic=143, explicit=57, plain=156563}`
+ - `2019_06={automatic=86, explicit=43, plain=148139}`
+ - `2019_07={automatic=116, explicit=64, plain=142638}`
+ - `2019_08={automatic=117, explicit=18, plain=144313}`
+ - `2019_09={automatic=109, explicit=93, plain=155377}`
+ - `2019_10={automatic=117, explicit=37, plain=157528}`
+ - `2019_11={automatic=126, explicit=69, plain=117402}`
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -91,11 +109,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10715](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15375](suspicious/naming.md)
-- Modular impostors: [5481](suspicious/impostors.md)
+- Invalid module names: [10990](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15533](suspicious/naming.md)
+- Modular impostors: [5490](suspicious/impostors.md)
 
-## Unique Modules (5494)
+## Unique Modules (5495)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -103,7 +121,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
-- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.1`
+- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.2`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -801,11 +819,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M4`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M5`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
-- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.4`
-- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.4`
+- :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
+- :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.4`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.0`
@@ -858,7 +876,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.56`
-- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.1`
+- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.2`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.1`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.1`
 - :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.1`
@@ -1151,8 +1169,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.cpu_features.platform` :left_right_arrow: `org.bytedeco:cpu_features-platform:0.4.1-1.5.2`
 - :dvd: `org.bytedeco.cpython` :left_right_arrow: `org.bytedeco:cpython:3.7.5-1.5.2`
 - :dvd: `org.bytedeco.cpython.platform` :left_right_arrow: `org.bytedeco:cpython-platform:3.7.5-1.5.2`
-- :dvd: `org.bytedeco.cuda` :left_right_arrow: `org.bytedeco:cuda:10.1-7.6-1.5.2`
-- :dvd: `org.bytedeco.cuda.platform` :left_right_arrow: `org.bytedeco:cuda-platform:10.1-7.6-1.5.2`
+- :dvd: `org.bytedeco.cuda` :left_right_arrow: `org.bytedeco:cuda:10.2-7.6-1.5.2`
+- :dvd: `org.bytedeco.cuda.platform` :left_right_arrow: `org.bytedeco:cuda-platform:10.2-7.6-1.5.2`
 - :dvd: `org.bytedeco.dnnl` :left_right_arrow: `org.bytedeco:dnnl:1.1.1-1.5.2`
 - :dvd: `org.bytedeco.dnnl.platform` :left_right_arrow: `org.bytedeco:dnnl-platform:1.1.1-1.5.2`
 - :dvd: `org.bytedeco.ffmpeg` :left_right_arrow: `org.bytedeco:ffmpeg:4.2.1-1.5.2`
