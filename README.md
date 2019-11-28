@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5495 Java modules published at Maven Central
 
-## Summary 2019-11-28T11:31:40.714553Z
+## Summary 2019-11-28T16:06:06.269177Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-28T11:31:40.714553Z
-Scanned 36,946 files in 5 seconds.
+Started scan at 2019-11-28T16:06:06.269177Z
+Scanned 36,958 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_28_10_57_12.csv
+    last -> modulescanner-report-2019_11_28_15_34_29.csv
 
-Parsed 2,431,917 lines in total.
-  40,737 -> captions skipped
-  172,432 -> duplicates skipped
-  108,576 -> module related
+Parsed 2,433,587 lines in total.
+  40,749 -> captions skipped
+  172,459 -> duplicates skipped
+  108,600 -> module related
 
 Collected 5,495 unique modules.
   automatic :cd: -> 3,995
@@ -31,22 +31,22 @@ com.google.common -> com.google.guava:guava:28.1-jre
 
 
 ## History
- - `2018_08={automatic=2281, explicit=287, plain=143500}`
- - `2018_09={automatic=1753, explicit=254, plain=96024}`
- - `2018_10={automatic=2409, explicit=255, plain=101481}`
- - `2018_11={automatic=1066, explicit=107, plain=48559}`
- - `2018_12={automatic=2117, explicit=287, plain=203563}`
- - `2019_01={automatic=3827, explicit=254, plain=103501}`
- - `2019_02={automatic=4604, explicit=554, plain=85957}`
- - `2019_03={automatic=5502, explicit=637, plain=151127}`
- - `2019_04={automatic=4229, explicit=507, plain=154126}`
- - `2019_05={automatic=6227, explicit=404, plain=156563}`
- - `2019_06={automatic=5993, explicit=420, plain=148139}`
- - `2019_07={automatic=4908, explicit=745, plain=142638}`
- - `2019_08={automatic=5927, explicit=342, plain=144313}`
- - `2019_09={automatic=5982, explicit=593, plain=155377}`
- - `2019_10={automatic=6894, explicit=439, plain=157528}`
- - `2019_11={automatic=5805, explicit=694, plain=117775}`
+ - `2018_08={automatic=2281, explicit=287, plain=143500}` 	 1.79%
+ - `2018_09={automatic=1753, explicit=254, plain=96024}` 	 2.09%
+ - `2018_10={automatic=2409, explicit=255, plain=101481}` 	 2.63%
+ - `2018_11={automatic=1066, explicit=107, plain=48559}` 	 2.42%
+ - `2018_12={automatic=2117, explicit=287, plain=203563}` 	 1.18%
+ - `2019_01={automatic=3827, explicit=254, plain=103501}` 	 3.94%
+ - `2019_02={automatic=4604, explicit=554, plain=85957}` 	 6.00%
+ - `2019_03={automatic=5502, explicit=637, plain=151127}` 	 4.06%
+ - `2019_04={automatic=4229, explicit=507, plain=154126}` 	 3.07%
+ - `2019_05={automatic=6227, explicit=404, plain=156563}` 	 4.24%
+ - `2019_06={automatic=5993, explicit=420, plain=148139}` 	 4.33%
+ - `2019_07={automatic=4908, explicit=745, plain=142638}` 	 3.96%
+ - `2019_08={automatic=5927, explicit=342, plain=144313}` 	 4.34%
+ - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
+ - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
+ - `2019_11={automatic=5809, explicit=711, plain=119382}` 	 5.46%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,7 +111,7 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [10990](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15549](suspicious/naming.md)
-- Modular impostors: [5490](suspicious/impostors.md)
+- Modular impostors: [5493](suspicious/impostors.md)
 
 ## Unique Modules (5495)
 
@@ -121,7 +121,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
-- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.2`
+- :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.4`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.10`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
@@ -630,7 +630,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.3`
-- :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.0.1`
+- :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.1.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
@@ -833,7 +833,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.0`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.0`
 - :dvd: `eu.hansolo.medusa` :left_right_arrow: `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.27`
+- :dvd: `eu.hansolo.tilesfx` :left_right_arrow: `eu.hansolo:tilesfx:11.28`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` :left_right_arrow: `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
@@ -877,24 +877,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.56`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.2`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.1`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.1`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.1`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.1`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.1`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.1`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.2`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.2`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.2`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.2`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.2`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.2`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.1`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.1`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.1`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.2`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.2`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.2`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.1`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.1`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.1`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.1`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.1`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.2`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.2`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.2`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.2`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.2`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
