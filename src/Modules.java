@@ -39,7 +39,7 @@ public class Modules {
   private static final System.Logger logger = System.getLogger(Modules.class.getName());
   private static final Properties mavenGroupAlias = new Properties();
 
-  private static boolean isModuleRelatedLine(String line, Summary summary) {
+  private static boolean isModuleRelatedLine(String time, String line, Summary summary) {
     if (line.chars().filter(ch -> ch == ',').count() < 8) {
       return false; // skip "garbage" line, mostly overflows from jdeps errors/violations
     }
@@ -49,6 +49,7 @@ public class Modules {
       return false; // skip caption line
     }
     if (line.contains(",-,-,?,-,")) {
+      summary.countPlainModule(time);
       return false; // skip plain jars - not automatic, nor explicit
     }
     if (summary.lines.contains(line)) {
@@ -56,6 +57,16 @@ public class Modules {
       return false; // skip duplicated line
     }
     return true;
+  }
+
+  private static String timeSlot(Path path) {
+    try { // "modulescanner-report-2018_08_18_00_58_06.csv" -> "2018_08"
+      var beginIndex = "modulescanner-report-".length();
+      var endIndex = beginIndex + "YYYY_mm".length();
+      return path.getFileName().toString().substring(beginIndex, endIndex);
+    } catch (Exception e) {
+      return "?";
+    }
   }
 
   public static void main(String... args) throws Exception {
@@ -70,10 +81,12 @@ public class Modules {
     System.out.printf("%nScanning %s files in %s for modules...%n%n", summary.paths.size(), folder);
 
     for (var path : summary.paths) {
+      var time = timeSlot(path);
       logger.log(DEBUG, "Reading all lines: {0}", path);
+      logger.log(DEBUG, "Time slot: {0}", time);
       for (var line : Files.readAllLines(path)) {
         summary.linesCounter++;
-        if (isModuleRelatedLine(line, summary)) {
+        if (isModuleRelatedLine(time, line, summary)) {
           summary.lines.add(line);
           logger.log(DEBUG, "Parsing line: {0}", line);
         } else {
@@ -98,7 +111,7 @@ public class Modules {
                 "Module name {0} starts with its group id: {1}",
                 name,
                 candidate.mavenGroupId);
-            summary.modules.put(name, candidate);
+            summary.put(candidate, time);
             continue;
           }
           var sanitized = candidate.mavenGroupId.replace("-", "");
@@ -108,13 +121,13 @@ public class Modules {
                 "Module name {0} starts with its 'sanitized' group id: {1}",
                 name,
                 candidate.mavenGroupId);
-            summary.modules.put(name, candidate);
+            summary.put(candidate, time);
             continue;
           }
           var alias = mavenGroupAlias.getProperty(candidate.mavenGroupId);
           if (alias != null && name.startsWith(alias)) {
             logger.log(DEBUG, "Module name {0} starts with a group alias", name);
-            summary.modules.put(name, candidate);
+            summary.put(candidate, time);
             continue;
           }
           summary.suspiciousNaming.add(candidate);
@@ -130,7 +143,7 @@ public class Modules {
             continue;
           }
           logger.log(DEBUG, "Version of module {0} set to {1} (was={2}) ", name, now, old);
-          summary.modules.put(name, candidate);
+          summary.put(candidate, null); // pass "time" slot to count all updates as well
           continue;
         }
 
@@ -254,6 +267,9 @@ public class Modules {
     /** All modules. */
     final Map<String, Module> modules = new TreeMap<>();
 
+    /** Time slot-based module mode counters. */
+    final Map<String, Map<String, Long>> counters = new TreeMap<>();
+
     /** CSV files to scan. */
     final List<Path> paths;
 
@@ -274,6 +290,21 @@ public class Modules {
       }
     }
 
+    private void count(String time, String mode) {
+      counters.computeIfAbsent(time, slot -> new TreeMap<>()).merge(mode, 1L, Long::sum);
+    }
+
+    void countPlainModule(String time) {
+      count(time, "plain");
+    }
+
+    void put(Module module, String time) {
+      modules.put(module.moduleName, module);
+      if (time != null) {
+        count(time, module.moduleMode);
+      }
+    }
+
     List<String> toStrings() {
       var duration = Duration.between(startInstant, Instant.now()).toSeconds();
       var automatics = modules.values().stream().filter(Module::isAutomatic).collect(toList());
@@ -281,32 +312,38 @@ public class Modules {
       if (modules.size() != explicits.size() + automatics.size()) {
         throw new AssertionError("Sum mismatch!");
       }
-      return List.of(
-          "## Summary",
-          "",
-          String.format("Started scan at %s", startInstant),
-          String.format("Scanned %,d files in %d seconds.", paths.size(), duration),
-          String.format("   first -> %s", paths.get(0).getFileName()),
-          String.format("    last -> %s", paths.get(paths.size() - 1).getFileName()),
-          "",
-          String.format("Parsed %,d lines in total.", linesCounter),
-          String.format("  %,d -> captions skipped", linesCaptionCounter),
-          String.format("  %,d -> duplicates skipped", linesDuplicateCounter),
-          String.format("  %,d -> module related", lines.size()),
-          "",
-          String.format("Collected %,d unique modules.", modules.size()),
-          String.format("  automatic :cd: -> %,d", automatics.size()),
-          String.format("  explicit :dvd: -> %,d", explicits.size()),
-          "",
-          "## Samples",
-          sample("junit"),
-          sample("org.junit.jupiter"),
-          sample("org.objectweb.asm"),
-          sample("com.google.common"),
-          sample("org.joda.beans"),
-          sample("org.joda.collect"),
-          sample("org.joda.convert"),
-          "");
+      var head =
+          List.of(
+              "## Summary",
+              "",
+              String.format("Started scan at %s", startInstant),
+              String.format("Scanned %,d files in %d seconds.", paths.size(), duration),
+              String.format("   first -> %s", paths.get(0).getFileName()),
+              String.format("    last -> %s", paths.get(paths.size() - 1).getFileName()),
+              "",
+              String.format("Parsed %,d lines in total.", linesCounter),
+              String.format("  %,d -> captions skipped", linesCaptionCounter),
+              String.format("  %,d -> duplicates skipped", linesDuplicateCounter),
+              String.format("  %,d -> module related", lines.size()),
+              "",
+              String.format("Collected %,d unique modules.", modules.size()),
+              String.format("  automatic :cd: -> %,d", automatics.size()),
+              String.format("  explicit :dvd: -> %,d", explicits.size()),
+              "",
+              "## Samples",
+              sample("junit"),
+              sample("org.junit.jupiter"),
+              sample("org.objectweb.asm"),
+              sample("com.google.common"),
+              sample("org.joda.beans"),
+              sample("org.joda.collect"),
+              sample("org.joda.convert"),
+              "");
+      var strings = new ArrayList<>(head);
+      strings.add("");
+      strings.add("## History");
+      counters.entrySet().forEach(entry -> strings.add(" - `" + entry + "`"));
+      return strings;
     }
 
     String sample(String name) {
