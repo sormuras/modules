@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5495 Java modules published at Maven Central
 
-## Summary 2019-11-28T11:11:18.630780Z
+## Summary 2019-11-28T11:31:40.714553Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-28T11:11:18.630780Z
-Scanned 36,945 files in 6 seconds.
+Started scan at 2019-11-28T11:31:40.714553Z
+Scanned 36,946 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_28_10_20_32.csv
+    last -> modulescanner-report-2019_11_28_10_57_12.csv
 
-Parsed 2,431,524 lines in total.
-  40,736 -> captions skipped
-  172,429 -> duplicates skipped
-  108,560 -> module related
+Parsed 2,431,917 lines in total.
+  40,737 -> captions skipped
+  172,432 -> duplicates skipped
+  108,576 -> module related
 
 Collected 5,495 unique modules.
   automatic :cd: -> 3,995
@@ -31,22 +31,22 @@ com.google.common -> com.google.guava:guava:28.1-jre
 
 
 ## History
- - `2018_08={automatic=2108, explicit=278, plain=143500}`
- - `2018_09={automatic=101, explicit=84, plain=96024}`
- - `2018_10={automatic=126, explicit=15, plain=101481}`
- - `2018_11={automatic=267, explicit=7, plain=48559}`
- - `2018_12={automatic=280, explicit=92, plain=203563}`
- - `2019_01={automatic=180, explicit=61, plain=103501}`
- - `2019_02={automatic=79, explicit=232, plain=85957}`
- - `2019_03={automatic=115, explicit=58, plain=151127}`
- - `2019_04={automatic=123, explicit=94, plain=154126}`
- - `2019_05={automatic=143, explicit=57, plain=156563}`
- - `2019_06={automatic=86, explicit=43, plain=148139}`
- - `2019_07={automatic=116, explicit=64, plain=142638}`
- - `2019_08={automatic=117, explicit=18, plain=144313}`
- - `2019_09={automatic=109, explicit=93, plain=155377}`
- - `2019_10={automatic=117, explicit=37, plain=157528}`
- - `2019_11={automatic=126, explicit=69, plain=117402}`
+ - `2018_08={automatic=2281, explicit=287, plain=143500}`
+ - `2018_09={automatic=1753, explicit=254, plain=96024}`
+ - `2018_10={automatic=2409, explicit=255, plain=101481}`
+ - `2018_11={automatic=1066, explicit=107, plain=48559}`
+ - `2018_12={automatic=2117, explicit=287, plain=203563}`
+ - `2019_01={automatic=3827, explicit=254, plain=103501}`
+ - `2019_02={automatic=4604, explicit=554, plain=85957}`
+ - `2019_03={automatic=5502, explicit=637, plain=151127}`
+ - `2019_04={automatic=4229, explicit=507, plain=154126}`
+ - `2019_05={automatic=6227, explicit=404, plain=156563}`
+ - `2019_06={automatic=5993, explicit=420, plain=148139}`
+ - `2019_07={automatic=4908, explicit=745, plain=142638}`
+ - `2019_08={automatic=5927, explicit=342, plain=144313}`
+ - `2019_09={automatic=5982, explicit=593, plain=155377}`
+ - `2019_10={automatic=6894, explicit=439, plain=157528}`
+ - `2019_11={automatic=5805, explicit=694, plain=117775}`
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,7 +110,7 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10990](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15533](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15549](suspicious/naming.md)
 - Modular impostors: [5490](suspicious/impostors.md)
 
 ## Unique Modules (5495)
