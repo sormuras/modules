@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5495 Java modules published at Maven Central
+Counted 5496 Java modules published at Maven Central
 
-## Summary 2019-11-28T23:53:38.891600Z
+## Summary 2019-11-29T23:54:38.458303Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-28T23:53:38.891600Z
-Scanned 36,981 files in 5 seconds.
+Started scan at 2019-11-29T23:54:38.458303Z
+Scanned 37,049 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_28_23_27_08.csv
+    last -> modulescanner-report-2019_11_29_23_38_39.csv
 
-Parsed 2,435,242 lines in total.
-  40,772 -> captions skipped
-  172,477 -> duplicates skipped
-  108,616 -> module related
+Parsed 2,439,810 lines in total.
+  40,840 -> captions skipped
+  172,540 -> duplicates skipped
+  108,658 -> module related
 
-Collected 5,495 unique modules.
-  automatic :cd: -> 3,995
+Collected 5,496 unique modules.
+  automatic :cd: -> 3,996
   explicit :dvd: -> 1,500
 
 ## Samples
@@ -46,7 +46,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_08={automatic=5927, explicit=342, plain=144313}` 	 4.34%
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
- - `2019_11={automatic=5815, explicit=715, plain=120980}` 	 5.40%
+ - `2019_11={automatic=5836, explicit=721, plain=125375}` 	 5.23%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,10 +110,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [10990](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15555](suspicious/naming.md)
-- Modular impostors: [5493](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15566](suspicious/naming.md)
+- Modular impostors: [5497](suspicious/impostors.md)
 
-## Unique Modules (5495)
+## Unique Modules (5496)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -340,7 +340,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.18`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.20`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -630,7 +630,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.3`
-- :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.1.0`
+- :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.2.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
 - :dvd: `com.networknt.audit` :left_right_arrow: `com.networknt:audit:2.0.0`
 - :dvd: `com.networknt.balance` :left_right_arrow: `com.networknt:balance:2.0.0`
@@ -875,7 +875,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.57`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.2`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.2`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.2`
@@ -1450,7 +1450,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.pcap4j.packetfactory.propertiesbased` :left_right_arrow: `org.pcap4j:pcap4j-packetfactory-propertiesbased:2.0.0-alpha.6`
 - :dvd: `org.pcap4j.packetfactory.statik` :left_right_arrow: `org.pcap4j:pcap4j-packetfactory-static:2.0.0-alpha.6`
 - :dvd: `org.pcap4j.sample` :left_right_arrow: `org.pcap4j:pcap4j-sample:2.0.0-alpha.6`
-- :dvd: `org.pf4j` :left_right_arrow: `org.pf4j:pf4j:3.1.0`
+- :dvd: `org.pf4j` :left_right_arrow: `org.pf4j:pf4j:3.2.0`
 - :dvd: `org.pojomatic` :left_right_arrow: `org.pojomatic:pojomatic:2.2.1`
 - :dvd: `org.postgresql.adba` :left_right_arrow: `org.postgresql:pgadba:0.1.1-ALPHA`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` :left_right_arrow: `org.rapidpm.vaadin:cdi-addon-modules-impl:0.1.0`
@@ -1617,4 +1617,4 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
-- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.1.0`
+- :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.1.2`
