@@ -9128,6 +9128,7 @@
 - :cd: `com.github.albfernandez.pmd-gds` :left_right_arrow: `com.github.albfernandez:pmd-gds:2.18.0` // `com.github.albfernandez,pmd-gds,2.18.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-gds` :left_right_arrow: `com.github.albfernandez:pmd-gds:2.19.0` // `com.github.albfernandez,pmd-gds,2.19.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-gds` :left_right_arrow: `com.github.albfernandez:pmd-gds:2.21.0` // `com.github.albfernandez,pmd-gds,2.21.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
+- :cd: `com.github.albfernandez.pmd-gds` :left_right_arrow: `com.github.albfernandez:pmd-gds:2.22.0` // `com.github.albfernandez,pmd-gds,2.22.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-java-safenames` :left_right_arrow: `com.github.albfernandez:pmd-java-safenames:1.1.0` // `com.github.albfernandez,pmd-java-safenames,1.1.0,com.github.albfernandez.pmd-java-safenames,-,automatic,-,false,-`
 - :cd: `com.github.h908714124.bitmex-client` :left_right_arrow: `com.github.h908714124:bitmex-client:1.2.0` // `com.github.h908714124,bitmex-client,1.2.0,com.github.h908714124.bitmex-client,-,automatic,-,false,-`
 - :cd: `com.github.librepdf.pdf-html` :left_right_arrow: `com.github.librepdf:pdf-html:1.2.10` // `com.github.librepdf,pdf-html,1.2.10,com.github.librepdf.pdf-html,-,automatic,-,false,-`
@@ -9480,6 +9481,7 @@
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.8` // `net.dreamlu,mica-plus-error-catch,1.1.8,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.1.9` // `net.dreamlu,mica-plus-error-catch,1.1.9,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.2.0` // `net.dreamlu,mica-plus-error-catch,1.2.0,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` :left_right_arrow: `net.dreamlu:mica-plus-error-catch:1.2.1` // `net.dreamlu,mica-plus-error-catch,1.2.1,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` :left_right_arrow: `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
