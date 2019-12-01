@@ -1,27 +1,27 @@
 # sormuras/modules
 Counted 5496 Java modules published at Maven Central
 
-## Summary 2019-11-30T23:55:42.496998Z
+## Summary 2019-12-01T23:56:14.004249Z
 
 ```
 ## Summary
 
-Started scan at 2019-11-30T23:55:42.496998Z
-Scanned 37,117 files in 6 seconds.
+Started scan at 2019-12-01T23:56:14.004249Z
+Scanned 37,187 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_11_30_23_24_21.csv
+    last -> modulescanner-report-2019_12_01_23_26_36.csv
 
-Parsed 2,442,416 lines in total.
-  40,908 -> captions skipped
-  172,627 -> duplicates skipped
-  108,706 -> module related
+Parsed 2,445,872 lines in total.
+  40,978 -> captions skipped
+  172,998 -> duplicates skipped
+  109,093 -> module related
 
 Collected 5,496 unique modules.
   automatic :cd: -> 3,996
   explicit :dvd: -> 1,500
 
 ## Samples
-            junit -> junit:junit:4.13-rc-1
+            junit -> junit:junit:4.13-rc-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:7.2
 com.google.common -> com.google.guava:guava:28.1-jre
@@ -46,7 +46,8 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_08={automatic=5927, explicit=342, plain=144313}` 	 4.34%
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
- - `2019_11={automatic=5866, explicit=721, plain=127778}` 	 5.16%
+ - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
+ - `2019_12={automatic=28, explicit=7, plain=2624}` 	 1.33%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -109,8 +110,8 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [10992](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15582](suspicious/naming.md)
+- Invalid module names: [11343](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15583](suspicious/naming.md)
 - Modular impostors: [5497](suspicious/impostors.md)
 
 ## Unique Modules (5496)
@@ -368,15 +369,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.6.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.6.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.6.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.6.0-cr-1`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.6.0-cr-1`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.6.0-cr-1`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.6.0`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.6.0`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.6.0`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.6.0-cr-1`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.6.0-cr-1`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.6.0-cr-1`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.6.0`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.6.0`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.6.0`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -876,7 +877,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
-- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.0.2`
+- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.0`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.2`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.2`
 - :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.2`
