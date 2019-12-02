@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5496 Java modules published at Maven Central
+Counted 5499 Java modules published at Maven Central
 
-## Summary 2019-12-01T23:56:14.004249Z
+## Summary 2019-12-02T23:56:22.707454Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-01T23:56:14.004249Z
-Scanned 37,187 files in 5 seconds.
+Started scan at 2019-12-02T23:56:22.707454Z
+Scanned 37,247 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_01_23_26_36.csv
+    last -> modulescanner-report-2019_12_02_23_20_34.csv
 
-Parsed 2,445,872 lines in total.
-  40,978 -> captions skipped
-  172,998 -> duplicates skipped
-  109,093 -> module related
+Parsed 2,450,605 lines in total.
+  41,038 -> captions skipped
+  173,368 -> duplicates skipped
+  109,434 -> module related
 
-Collected 5,496 unique modules.
-  automatic :cd: -> 3,996
+Collected 5,499 unique modules.
+  automatic :cd: -> 3,999
   explicit :dvd: -> 1,500
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=28, explicit=7, plain=2624}` 	 1.33%
+ - `2019_12={automatic=328, explicit=11, plain=6586}` 	 5.15%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11343](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15583](suspicious/naming.md)
-- Modular impostors: [5497](suspicious/impostors.md)
+- Invalid module names: [11348](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15612](suspicious/naming.md)
+- Modular impostors: [5500](suspicious/impostors.md)
 
-## Unique Modules (5496)
+## Unique Modules (5499)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -193,7 +193,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.2`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.1.0`
-- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.10.0`
+- :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.11.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
@@ -778,7 +778,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
 - :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.2`
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.8`
+- :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.9`
 - :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
@@ -877,7 +877,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
-- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.0`
+- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.1`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.2`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.2`
 - :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.2`
@@ -1241,7 +1241,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.tesseract.platform` :left_right_arrow: `org.bytedeco:tesseract-platform:4.1.0-1.5.2`
 - :dvd: `org.bytedeco.videoinput` :left_right_arrow: `org.bytedeco:videoinput:0.200-1.5.2`
 - :dvd: `org.bytedeco.videoinput.platform` :left_right_arrow: `org.bytedeco:videoinput-platform:0.200-1.5.2`
-- :dvd: `org.codehaus.plexus.languages.java` :left_right_arrow: `org.codehaus.plexus:plexus-java:1.0.3`
+- :dvd: `org.codehaus.plexus.languages.java` :left_right_arrow: `org.codehaus.plexus:plexus-java:1.0.4`
 - :dvd: `org.controlsfx.controls` :left_right_arrow: `org.controlsfx:controlsfx:11.0.0`
 - :dvd: `org.copperengine.cassandra.loadtest` :left_right_arrow: `org.copper-engine:cassandra-loadtest:5.0.2`
 - :dvd: `org.copperengine.cassandra.storage` :left_right_arrow: `org.copper-engine:cassandra-storage:5.0.2`
