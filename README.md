@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5499 Java modules published at Maven Central
+Counted 5513 Java modules published at Maven Central
 
-## Summary 2019-12-02T23:56:22.707454Z
+## Summary 2019-12-03T23:57:28.588718Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-02T23:56:22.707454Z
-Scanned 37,247 files in 5 seconds.
+Started scan at 2019-12-03T23:57:28.588718Z
+Scanned 37,303 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_02_23_20_34.csv
+    last -> modulescanner-report-2019_12_03_23_37_13.csv
 
-Parsed 2,450,605 lines in total.
-  41,038 -> captions skipped
-  173,368 -> duplicates skipped
-  109,434 -> module related
+Parsed 2,458,114 lines in total.
+  41,094 -> captions skipped
+  174,289 -> duplicates skipped
+  110,038 -> module related
 
-Collected 5,499 unique modules.
-  automatic :cd: -> 3,999
-  explicit :dvd: -> 1,500
+Collected 5,513 unique modules.
+  automatic :cd: -> 4,008
+  explicit :dvd: -> 1,505
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=328, explicit=11, plain=6586}` 	 5.15%
+ - `2019_12={automatic=812, explicit=21, plain=12514}` 	 6.66%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11348](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15612](suspicious/naming.md)
-- Modular impostors: [5500](suspicious/impostors.md)
+- Invalid module names: [11353](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15710](suspicious/naming.md)
+- Modular impostors: [5507](suspicious/impostors.md)
 
-## Unique Modules (5499)
+## Unique Modules (5513)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -767,19 +767,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
 - :dvd: `com.sun.istack.test` :left_right_arrow: `com.sun.istack:istack-commons-test:3.0.10`
 - :dvd: `com.sun.istack.tools` :left_right_arrow: `com.sun.istack:istack-commons-tools:3.0.10`
-- :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.3.3-b01`
-- :dvd: `com.sun.xml.bind.osgi` :left_right_arrow: `com.sun.xml.bind:jaxb-osgi:2.3.3-b01`
+- :dvd: `com.sun.xml.bind` :left_right_arrow: `com.sun.xml.bind:jaxb-impl:2.3.3-b02`
+- :dvd: `com.sun.xml.bind.osgi` :left_right_arrow: `com.sun.xml.bind:jaxb-osgi:2.3.3-b02`
 - :dvd: `com.sun.xml.dtdparser` :left_right_arrow: `com.sun.xml.dtd-parser:dtd-parser:1.4.2`
 - :dvd: `com.sun.xml.fastinfoset` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfoset:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.rtt` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.utilities` :left_right_arrow: `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.17`
 - :dvd: `com.sun.xml.messaging.saaj` :left_right_arrow: `com.sun.xml.messaging.saaj:saaj-impl:1.5.2-b01`
 - :dvd: `com.sun.xml.ws` :left_right_arrow: `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.2`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.2`
+- :dvd: `com.sun.xml.ws.eclipselink` :left_right_arrow: `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.fi` :left_right_arrow: `com.sun.xml.ws:rt-fi:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` :left_right_arrow: `com.sun.xml.ws:httpspi-servlet:2.3.3-b01`
 - :dvd: `com.sun.xml.ws.jaxws` :left_right_arrow: `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` :left_right_arrow: `com.sun.xml.ws:policy:2.7.9`
-- :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.2`
+- :dvd: `com.sun.xml.ws.rt` :left_right_arrow: `com.sun.xml.ws:rt:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.sdo` :left_right_arrow: `com.sun.xml.ws:sdo-eclipselink-plugin:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.servlet` :left_right_arrow: `com.sun.xml.ws:servlet:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.transport.async` :left_right_arrow: `com.sun.xml.ws:jaxws-async-client-transport:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.transport.local` :left_right_arrow: `com.sun.xml.ws:jaxws-local-transport:2.3.3-b01`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
 - :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.4.0`
