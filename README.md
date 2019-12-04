@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5513 Java modules published at Maven Central
+Counted 5515 Java modules published at Maven Central
 
-## Summary 2019-12-03T23:57:28.588718Z
+## Summary 2019-12-04T23:58:09.199984Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-03T23:57:28.588718Z
-Scanned 37,303 files in 7 seconds.
+Started scan at 2019-12-04T23:58:09.199984Z
+Scanned 37,358 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_03_23_37_13.csv
+    last -> modulescanner-report-2019_12_04_23_12_00.csv
 
-Parsed 2,458,114 lines in total.
-  41,094 -> captions skipped
-  174,289 -> duplicates skipped
-  110,038 -> module related
+Parsed 2,464,684 lines in total.
+  41,149 -> captions skipped
+  175,017 -> duplicates skipped
+  110,480 -> module related
 
-Collected 5,513 unique modules.
-  automatic :cd: -> 4,008
-  explicit :dvd: -> 1,505
+Collected 5,515 unique modules.
+  automatic :cd: -> 4,009
+  explicit :dvd: -> 1,506
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=812, explicit=21, plain=12514}` 	 6.66%
+ - `2019_12={automatic=1149, explicit=72, plain=17859}` 	 6.84%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11353](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15710](suspicious/naming.md)
-- Modular impostors: [5507](suspicious/impostors.md)
+- Invalid module names: [11392](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15719](suspicious/naming.md)
+- Modular impostors: [5513](suspicious/impostors.md)
 
-## Unique Modules (5513)
+## Unique Modules (5515)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -205,39 +205,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.3.1`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.3.1`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.3.1`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.3.1`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.3.1`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.3.1`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.3.1`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.4.0`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.4.0`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.4.0`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.4.0`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.4.0`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.4.0`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.4.0`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.3.1`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.3.1`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.3.1`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.3.1`
-- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.3.1`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.3.1`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.3.1`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.3.1`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.3.1`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.3.1`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.3.1`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.3.1`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.3.1`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.3.1`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.3.1`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.3.1`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.3.1`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.3.1`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.3.1`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.3.1`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.3.1`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.3.1`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.3.1`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.3.1`
-- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.1`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.4.0`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.4.0`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.4.0`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.4.0`
+- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.4.0`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.4.0`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.4.0`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.4.0`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.4.0`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.4.0`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.4.0`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.4.0`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.4.0`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.4.0`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.4.0`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.4.0`
+- :dvd: `colesico.framework.slf4j` :left_right_arrow: `net.colesico.framework:colesico-slf4j:2.4.0`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.4.0`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.4.0`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.4.0`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.4.0`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.4.0`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.4.0`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.4.0`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.4.0`
+- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.2`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
@@ -295,10 +296,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
 - :dvd: `com.deere.isg.clock` :left_right_arrow: `com.deere.isg:clock:3.1.0`
 - :dvd: `com.deere.isg.outstanding` :left_right_arrow: `com.deere.isg:outstanding:1.2.0`
-- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.1.0-rc3`
-- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.1.0-rc3`
-- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc3`
-- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc3`
+- :dvd: `com.deere.isg.worktracker.core` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-core:1.1.0-rc4`
+- :dvd: `com.deere.isg.worktracker.servlet` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-servlet:1.1.0-rc4`
+- :dvd: `com.deere.isg.worktracker.spring` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
+- :dvd: `com.deere.isg.worktracker.spring.boot` :left_right_arrow: `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` :left_right_arrow: `com.dlsc.formsfx:formsfx-core:11.4.1`
 - :dvd: `com.dlsc.pickerfx` :left_right_arrow: `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` :left_right_arrow: `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
@@ -883,24 +884,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.2`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.2`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.2`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.2`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.2`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.2`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.3`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.3`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.3`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.3`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.3`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.3`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.2`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.2`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.2`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.3`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.3`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.3`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.2`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.2`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.2`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.2`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.2`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.3`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.3`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.3`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.3`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.3`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
