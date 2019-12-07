@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5519 Java modules published at Maven Central
+Counted 5520 Java modules published at Maven Central
 
-## Summary 2019-12-05T23:58:49.881445Z
+## Summary 2019-12-06T23:59:46.587448Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-05T23:58:49.881445Z
-Scanned 37,399 files in 6 seconds.
+Started scan at 2019-12-06T23:59:46.587448Z
+Scanned 37,452 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_05_22_22_14.csv
+    last -> modulescanner-report-2019_12_06_23_26_27.csv
 
-Parsed 2,471,822 lines in total.
-  41,190 -> captions skipped
-  175,181 -> duplicates skipped
-  110,832 -> module related
+Parsed 2,478,174 lines in total.
+  41,243 -> captions skipped
+  175,485 -> duplicates skipped
+  111,046 -> module related
 
-Collected 5,519 unique modules.
-  automatic :cd: -> 4,007
+Collected 5,520 unique modules.
+  automatic :cd: -> 4,008
   explicit :dvd: -> 1,512
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=1430, explicit=134, plain=24440}` 	 6.40%
+ - `2019_12={automatic=1530, explicit=151, plain=30221}` 	 5.56%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11393](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15724](suspicious/naming.md)
-- Modular impostors: [5516](suspicious/impostors.md)
+- Invalid module names: [11397](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15803](suspicious/naming.md)
+- Modular impostors: [5530](suspicious/impostors.md)
 
-## Unique Modules (5519)
+## Unique Modules (5520)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -134,7 +134,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.4`
 - :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.7`
 - :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
-- :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.4`
+- :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.5`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.4`
 - :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.6`
 - :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.1`
@@ -395,7 +395,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.4`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.5`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -889,24 +889,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.4`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.4`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.4`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.4`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.4`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.4`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.5`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.5`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.5`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.5`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.5`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.5`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.4`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.4`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.4`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.5`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.5`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.5`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.4`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.4`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.4`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.4`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.4`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.5`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.5`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.5`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.5`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.5`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
@@ -1490,7 +1490,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
-- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.2`
+- :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.3`
 - :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.3`
 - :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.5.0.0`
 - :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.5.0.0`
