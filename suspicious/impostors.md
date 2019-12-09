@@ -1444,6 +1444,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.6.1` // `com.vladmihalcea,hibernate-types-43,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.7.0` // `com.vladmihalcea,hibernate-types-43,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.7.1` // `com.vladmihalcea,hibernate-types-43,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-43:2.8.0` // `com.vladmihalcea,hibernate-types-43,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1459,6 +1460,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.6.1` // `com.vladmihalcea,hibernate-types-5,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.7.0` // `com.vladmihalcea,hibernate-types-5,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.7.1` // `com.vladmihalcea,hibernate-types-5,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-5:2.8.0` // `com.vladmihalcea,hibernate-types-5,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -1474,6 +1476,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.6.1` // `com.vladmihalcea,hibernate-types-52,2.6.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.7.0` // `com.vladmihalcea,hibernate-types-52,2.7.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.7.1` // `com.vladmihalcea,hibernate-types-52,2.7.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` :left_right_arrow: `com.vladmihalcea:hibernate-types-52:2.8.0` // `com.vladmihalcea,hibernate-types-52,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.4` // `de.mkammerer,argon2-jvm-nolibs,2.4,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` :left_right_arrow: `de.mkammerer:argon2-jvm-nolibs:2.6` // `de.mkammerer,argon2-jvm-nolibs,2.6,de.mkammerer.argon2,-,automatic,-,false,-`

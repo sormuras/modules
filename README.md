@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5541 Java modules published at Maven Central
+Counted 5573 Java modules published at Maven Central
 
-## Summary 2019-12-08T00:00:32.810302Z
+## Summary 2019-12-09T00:01:04.373195Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-08T00:00:32.810302Z
-Scanned 37,520 files in 5 seconds.
+Started scan at 2019-12-09T00:01:04.373195Z
+Scanned 37,585 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_07_23_24_40.csv
+    last -> modulescanner-report-2019_12_08_23_33_54.csv
 
-Parsed 2,480,893 lines in total.
-  41,311 -> captions skipped
-  175,597 -> duplicates skipped
-  111,103 -> module related
+Parsed 2,482,645 lines in total.
+  41,376 -> captions skipped
+  175,715 -> duplicates skipped
+  111,185 -> module related
 
-Collected 5,541 unique modules.
-  automatic :cd: -> 4,029
+Collected 5,573 unique modules.
+  automatic :cd: -> 4,061
   explicit :dvd: -> 1,512
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=1559, explicit=152, plain=32703}` 	 5.23%
+ - `2019_12={automatic=1634, explicit=154, plain=34190}` 	 5.23%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,10 +111,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [11397](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15828](suspicious/naming.md)
-- Modular impostors: [5532](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15830](suspicious/naming.md)
+- Modular impostors: [5535](suspicious/impostors.md)
 
-## Unique Modules (5541)
+## Unique Modules (5573)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -347,7 +347,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.20`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.21`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -851,7 +851,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` :left_right_arrow: `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.1.1`
+- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.1.2`
 - :dvd: `io.annot8.api` :left_right_arrow: `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` :left_right_arrow: `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.4.0`
