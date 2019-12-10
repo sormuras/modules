@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5573 Java modules published at Maven Central
+Counted 5623 Java modules published at Maven Central
 
-## Summary 2019-12-09T00:01:04.373195Z
+## Summary 2019-12-10T00:02:06.025743Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-09T00:01:04.373195Z
-Scanned 37,585 files in 5 seconds.
+Started scan at 2019-12-10T00:02:06.025743Z
+Scanned 37,642 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_08_23_33_54.csv
+    last -> modulescanner-report-2019_12_09_23_43_18.csv
 
-Parsed 2,482,645 lines in total.
-  41,376 -> captions skipped
-  175,715 -> duplicates skipped
-  111,185 -> module related
+Parsed 2,489,741 lines in total.
+  41,433 -> captions skipped
+  177,044 -> duplicates skipped
+  111,614 -> module related
 
-Collected 5,573 unique modules.
-  automatic :cd: -> 4,061
+Collected 5,623 unique modules.
+  automatic :cd: -> 4,111
   explicit :dvd: -> 1,512
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=1634, explicit=154, plain=34190}` 	 5.23%
+ - `2019_12={automatic=1975, explicit=191, plain=39471}` 	 5.49%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11397](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15830](suspicious/naming.md)
-- Modular impostors: [5535](suspicious/impostors.md)
+- Invalid module names: [11403](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15865](suspicious/naming.md)
+- Modular impostors: [5545](suspicious/impostors.md)
 
-## Unique Modules (5573)
+## Unique Modules (5623)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -889,24 +889,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.1`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.5`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.5`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.5`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.5`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.5`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.5`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.7`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.7`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.7`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.7`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.7`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.7`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.5`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.5`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.5`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.7`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.7`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.7`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.5`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.5`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.5`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.5`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.5`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.7`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.7`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.7`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.7`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.7`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
@@ -1255,14 +1255,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.codehaus.plexus.languages.java` :left_right_arrow: `org.codehaus.plexus:plexus-java:1.0.4`
 - :dvd: `org.controlsfx.controls` :left_right_arrow: `org.controlsfx:controlsfx:11.0.1`
 - :dvd: `org.controlsfx.samples` :left_right_arrow: `org.controlsfx:controlsfx-samples:11.0.1`
-- :dvd: `org.copperengine.cassandra.loadtest` :left_right_arrow: `org.copper-engine:cassandra-loadtest:5.0.2`
-- :dvd: `org.copperengine.cassandra.storage` :left_right_arrow: `org.copper-engine:cassandra-storage:5.0.2`
-- :dvd: `org.copperengine.core` :left_right_arrow: `org.copper-engine:copper-coreengine:5.0.2`
-- :dvd: `org.copperengine.ext` :left_right_arrow: `org.copper-engine:copper-ext:5.0.2`
-- :dvd: `org.copperengine.management` :left_right_arrow: `org.copper-engine:copper-jmx-interface:5.0.2`
-- :dvd: `org.copperengine.performancetest` :left_right_arrow: `org.copper-engine:copper-performance-test:5.0.2`
-- :dvd: `org.copperengine.regtest` :left_right_arrow: `org.copper-engine:copper-regtest:5.0.2`
-- :dvd: `org.copperengine.spring` :left_right_arrow: `org.copper-engine:copper-spring:5.0.2`
+- :dvd: `org.copperengine.cassandra.loadtest` :left_right_arrow: `org.copper-engine:cassandra-loadtest:5.1.0`
+- :dvd: `org.copperengine.cassandra.storage` :left_right_arrow: `org.copper-engine:cassandra-storage:5.1.0`
+- :dvd: `org.copperengine.core` :left_right_arrow: `org.copper-engine:copper-coreengine:5.1.0`
+- :dvd: `org.copperengine.ext` :left_right_arrow: `org.copper-engine:copper-ext:5.1.0`
+- :dvd: `org.copperengine.management` :left_right_arrow: `org.copper-engine:copper-jmx-interface:5.1.0`
+- :dvd: `org.copperengine.performancetest` :left_right_arrow: `org.copper-engine:copper-performance-test:5.1.0`
+- :dvd: `org.copperengine.regtest` :left_right_arrow: `org.copper-engine:copper-regtest:5.1.0`
+- :dvd: `org.copperengine.spring` :left_right_arrow: `org.copper-engine:copper-spring:5.1.0`
 - :dvd: `org.cryptomator.siv` :left_right_arrow: `org.cryptomator:siv-mode:1.3.1`
 - :dvd: `org.danekja.jdk.serializable.functional` :left_right_arrow: `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` :left_right_arrow: `org.docx4j:docx4j-JAXB-MOXy:11.1.3`
@@ -1323,7 +1323,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.5`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.15`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.18`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.1.0`
 - :dvd: `org.fxyz3d.client` :left_right_arrow: `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` :left_right_arrow: `org.fxyz3d:fxyz3d:0.5.2`
