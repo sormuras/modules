@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5623 Java modules published at Maven Central
+Counted 5626 Java modules published at Maven Central
 
-## Summary 2019-12-10T00:02:06.025743Z
+## Summary 2019-12-11T00:02:22.634699Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-10T00:02:06.025743Z
-Scanned 37,642 files in 6 seconds.
+Started scan at 2019-12-11T00:02:22.634699Z
+Scanned 37,697 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_09_23_43_18.csv
+    last -> modulescanner-report-2019_12_10_23_35_04.csv
 
-Parsed 2,489,741 lines in total.
-  41,433 -> captions skipped
-  177,044 -> duplicates skipped
-  111,614 -> module related
+Parsed 2,496,574 lines in total.
+  41,486 -> captions skipped
+  177,516 -> duplicates skipped
+  111,943 -> module related
 
-Collected 5,623 unique modules.
-  automatic :cd: -> 4,111
-  explicit :dvd: -> 1,512
+Collected 5,626 unique modules.
+  automatic :cd: -> 4,112
+  explicit :dvd: -> 1,514
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=1975, explicit=191, plain=39471}` 	 5.49%
+ - `2019_12={automatic=2226, explicit=195, plain=45450}` 	 5.33%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11403](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15865](suspicious/naming.md)
-- Modular impostors: [5545](suspicious/impostors.md)
+- Invalid module names: [11429](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15908](suspicious/naming.md)
+- Modular impostors: [5550](suspicious/impostors.md)
 
-## Unique Modules (5623)
+## Unique Modules (5626)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -375,6 +375,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.6.0`
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.6.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.6.0`
+- :dvd: `com.github.nhojpatrick.data` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
+- :dvd: `com.github.nhojpatrick.lang` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
 - :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.6.0`
 - :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.6.0`
 - :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.6.0`
@@ -793,8 +795,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` :left_right_arrow: `com.sun.xml.ws:jaxws-local-transport:2.3.3-b01`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` :left_right_arrow: `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
-- :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.4.0`
-- :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.4.0`
+- :dvd: `com.thorstenmarx.modules.api` :left_right_arrow: `com.thorstenmarx.modules:modules-api:2.5.0`
+- :dvd: `com.thorstenmarx.modules.manager` :left_right_arrow: `com.thorstenmarx.modules:modules-manager:2.5.0`
 - :dvd: `com.torchmind.authenticator` :left_right_arrow: `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` :left_right_arrow: `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` :left_right_arrow: `com.torchmind.utility:cidr:2.1.0`
