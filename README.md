@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5626 Java modules published at Maven Central
+Counted 5640 Java modules published at Maven Central
 
-## Summary 2019-12-11T00:02:22.634699Z
+## Summary 2019-12-12T00:02:48.367184Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-11T00:02:22.634699Z
-Scanned 37,697 files in 6 seconds.
+Started scan at 2019-12-12T00:02:48.367184Z
+Scanned 37,758 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_10_23_35_04.csv
+    last -> modulescanner-report-2019_12_11_23_31_46.csv
 
-Parsed 2,496,574 lines in total.
-  41,486 -> captions skipped
-  177,516 -> duplicates skipped
-  111,943 -> module related
+Parsed 2,503,192 lines in total.
+  41,546 -> captions skipped
+  178,699 -> duplicates skipped
+  112,332 -> module related
 
-Collected 5,626 unique modules.
-  automatic :cd: -> 4,112
-  explicit :dvd: -> 1,514
+Collected 5,640 unique modules.
+  automatic :cd: -> 4,122
+  explicit :dvd: -> 1,518
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=2226, explicit=195, plain=45450}` 	 5.33%
+ - `2019_12={automatic=2564, explicit=219, plain=50436}` 	 5.52%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,10 +111,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [11429](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15908](suspicious/naming.md)
-- Modular impostors: [5550](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15930](suspicious/naming.md)
+- Modular impostors: [5555](suspicious/impostors.md)
 
-## Unique Modules (5626)
+## Unique Modules (5640)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -702,18 +702,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` :left_right_arrow: `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` :left_right_arrow: `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` :left_right_arrow: `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.5.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.5.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` :left_right_arrow: `com.puresoltechnologies.javafx:charts:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.extensions` :left_right_arrow: `com.puresoltechnologies.javafx:extensions:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` :left_right_arrow: `com.puresoltechnologies.javafx:perspectives:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.preferences` :left_right_arrow: `com.puresoltechnologies.javafx:preferences:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.rcp` :left_right_arrow: `com.puresoltechnologies.javafx:rcp:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.reactive` :left_right_arrow: `com.puresoltechnologies.javafx:reactive:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.services` :left_right_arrow: `com.puresoltechnologies.javafx:services:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.showroom` :left_right_arrow: `com.puresoltechnologies.javafx:showroom:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.tasks` :left_right_arrow: `com.puresoltechnologies.javafx:tasks:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.testing` :left_right_arrow: `com.puresoltechnologies.javafx:testing:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.utils` :left_right_arrow: `com.puresoltechnologies.javafx:utils:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` :left_right_arrow: `com.puresoltechnologies.javafx:workspaces:0.5.1`
 - :dvd: `com.puresoltechnologies.streaming.binary` :left_right_arrow: `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` :left_right_arrow: `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1075,8 +1075,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.4`
-- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.4`
+- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.5`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.5`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.0.1`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:1.2.2`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:1.2.2`
@@ -1132,6 +1132,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.sagalog.file` :left_right_arrow: `no.ssb.saga:sagalog-file:0.5`
 - :dvd: `no.ssb.sagalog.postgres` :left_right_arrow: `no.ssb.saga:sagalog-postgres:0.5`
 - :dvd: `no.ssb.sagalog.pulsar` :left_right_arrow: `no.ssb.saga:sagalog-pulsar:0.1`
+- :dvd: `one.lfa.opdsget.api` :left_right_arrow: `one.lfa:one.lfa.opdsget.api:1.0.1`
+- :dvd: `one.lfa.opdsget.cmdline` :left_right_arrow: `one.lfa:one.lfa.opdsget.cmdline:1.0.1`
+- :dvd: `one.lfa.opdsget.manifest.schema` :left_right_arrow: `one.lfa:one.lfa.opdsget.manifest.schema:1.0.1`
+- :dvd: `one.lfa.opdsget.vanilla` :left_right_arrow: `one.lfa:one.lfa.opdsget.vanilla:1.0.1`
 - :dvd: `org.apache.commons.rng.examples.jpms.app` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-app:1.3`
 - :dvd: `org.apache.commons.rng.examples.jpms.lib` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-lib:1.3`
 - :dvd: `org.apache.derby.client` :left_right_arrow: `org.apache.derby:derbyclient:10.15.1.3`
@@ -1454,8 +1458,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.2`
-- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.2`
+- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.3`
+- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.3`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` :left_right_arrow: `org.panteleyev:persistence:19.2.0`
