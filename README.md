@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5640 Java modules published at Maven Central
+Counted 5641 Java modules published at Maven Central
 
-## Summary 2019-12-12T00:02:48.367184Z
+## Summary 2019-12-13T00:03:44.702479Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-12T00:02:48.367184Z
-Scanned 37,758 files in 5 seconds.
+Started scan at 2019-12-13T00:03:44.702479Z
+Scanned 37,810 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_11_23_31_46.csv
+    last -> modulescanner-report-2019_12_12_23_29_13.csv
 
-Parsed 2,503,192 lines in total.
-  41,546 -> captions skipped
-  178,699 -> duplicates skipped
-  112,332 -> module related
+Parsed 2,511,279 lines in total.
+  41,596 -> captions skipped
+  179,386 -> duplicates skipped
+  113,152 -> module related
 
-Collected 5,640 unique modules.
-  automatic :cd: -> 4,122
+Collected 5,641 unique modules.
+  automatic :cd: -> 4,123
   explicit :dvd: -> 1,518
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=2564, explicit=219, plain=50436}` 	 5.52%
+ - `2019_12={automatic=2997, explicit=224, plain=56966}` 	 5.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11429](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [15930](suspicious/naming.md)
-- Modular impostors: [5555](suspicious/impostors.md)
+- Invalid module names: [11617](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16118](suspicious/naming.md)
+- Modular impostors: [5561](suspicious/impostors.md)
 
-## Unique Modules (5640)
+## Unique Modules (5641)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -833,7 +833,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M6`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M7`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1132,10 +1132,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.sagalog.file` :left_right_arrow: `no.ssb.saga:sagalog-file:0.5`
 - :dvd: `no.ssb.sagalog.postgres` :left_right_arrow: `no.ssb.saga:sagalog-postgres:0.5`
 - :dvd: `no.ssb.sagalog.pulsar` :left_right_arrow: `no.ssb.saga:sagalog-pulsar:0.1`
-- :dvd: `one.lfa.opdsget.api` :left_right_arrow: `one.lfa:one.lfa.opdsget.api:1.0.1`
-- :dvd: `one.lfa.opdsget.cmdline` :left_right_arrow: `one.lfa:one.lfa.opdsget.cmdline:1.0.1`
-- :dvd: `one.lfa.opdsget.manifest.schema` :left_right_arrow: `one.lfa:one.lfa.opdsget.manifest.schema:1.0.1`
-- :dvd: `one.lfa.opdsget.vanilla` :left_right_arrow: `one.lfa:one.lfa.opdsget.vanilla:1.0.1`
+- :dvd: `one.lfa.opdsget.api` :left_right_arrow: `one.lfa:one.lfa.opdsget.api:1.1.0`
+- :dvd: `one.lfa.opdsget.cmdline` :left_right_arrow: `one.lfa:one.lfa.opdsget.cmdline:1.1.0`
+- :dvd: `one.lfa.opdsget.manifest.schema` :left_right_arrow: `one.lfa:one.lfa.opdsget.manifest.schema:1.1.0`
+- :dvd: `one.lfa.opdsget.vanilla` :left_right_arrow: `one.lfa:one.lfa.opdsget.vanilla:1.1.0`
 - :dvd: `org.apache.commons.rng.examples.jpms.app` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-app:1.3`
 - :dvd: `org.apache.commons.rng.examples.jpms.lib` :left_right_arrow: `org.apache.commons:commons-rng-examples-jpms-lib:1.3`
 - :dvd: `org.apache.derby.client` :left_right_arrow: `org.apache.derby:derbyclient:10.15.1.3`

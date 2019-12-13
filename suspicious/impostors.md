@@ -3671,6 +3671,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.bluebank.braid:braid-server:4.1.2-RC10` // `io.bluebank.braid,braid-server,4.1.2-RC10,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.bluebank.braid:braid-server:4.1.2-RC11` // `io.bluebank.braid,braid-server,4.1.2-RC11,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.bluebank.braid:braid-server:4.1.2-RC12` // `io.bluebank.braid,braid-server,4.1.2-RC12,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.bluebank.braid:braid-server:4.1.2-RC13` // `io.bluebank.braid,braid-server,4.1.2-RC13,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.cellery.distribution:io.cellery.cell.api.publisher:0.4.0` // `io.cellery.distribution,io.cellery.cell.api.publisher,0.4.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.cellery.distribution:io.cellery.cell.gateway.initializer:0.1.0` // `io.cellery.distribution,io.cellery.cell.gateway.initializer,0.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `io.cellery.distribution:io.cellery.cell.gateway.initializer:0.4.0` // `io.cellery.distribution,io.cellery.cell.gateway.initializer,0.4.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -4417,6 +4418,7 @@
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.28.0.Final` // `org.kie,business-central-home-page-community,7.28.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.29.0.Final` // `org.kie,business-central-home-page-community,7.29.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.30.0.Final` // `org.kie,business-central-home-page-community,7.30.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.home.page.community` :left_right_arrow: `org.kie:business-central-home-page-community:7.31.0.Final` // `org.kie,business-central-home-page-community,7.31.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.15.0.Final` // `org.kie,business-central-theme-community,7.15.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.16.0.Final` // `org.kie,business-central-theme-community,7.16.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.17.0.Final` // `org.kie,business-central-theme-community,7.17.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
@@ -4433,6 +4435,7 @@
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.28.0.Final` // `org.kie,business-central-theme-community,7.28.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.29.0.Final` // `org.kie,business-central-theme-community,7.29.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.30.0.Final` // `org.kie,business-central-theme-community,7.30.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.community` :left_right_arrow: `org.kie:business-central-theme-community:7.31.0.Final` // `org.kie,business-central-theme-community,7.31.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.15.0.Final` // `org.kie,business-central-theme-product,7.15.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.16.0.Final` // `org.kie,business-central-theme-product,7.16.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.17.0.Final` // `org.kie,business-central-theme-product,7.17.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
@@ -4449,6 +4452,7 @@
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.28.0.Final` // `org.kie,business-central-theme-product,7.28.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.29.0.Final` // `org.kie,business-central-theme-product,7.29.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.30.0.Final` // `org.kie,business-central-theme-product,7.30.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.product` :left_right_arrow: `org.kie:business-central-theme-product:7.31.0.Final` // `org.kie,business-central-theme-product,7.31.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.1.5` // `org.lamblin,lamblin-local-runner,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.1.6` // `org.lamblin,lamblin-local-runner,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` :left_right_arrow: `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
@@ -4669,6 +4673,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:5.2.0` // `com.bmuschko,gradle-docker-plugin,5.2.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:5.3.0` // `com.bmuschko,gradle-docker-plugin,5.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:6.0.0` // `com.bmuschko,gradle-docker-plugin,6.0.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.bmuschko:gradle-docker-plugin:6.1.0` // `com.bmuschko,gradle-docker-plugin,6.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:expressions:2.5` // `com.github.collinalpert,expressions,2.5,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -4991,6 +4996,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.55` // `org.reaktivity,nukleus-oauth,0.55,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.56` // `org.reaktivity,nukleus-oauth,0.56,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.57` // `org.reaktivity,nukleus-oauth,0.57,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.58` // `org.reaktivity,nukleus-oauth,0.58,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
