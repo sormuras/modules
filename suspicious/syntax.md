@@ -445,6 +445,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-client-all:7.28.0.Final` // `org.dashbuilder,dashbuilder-client-all,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-client-all:7.29.0.Final` // `org.dashbuilder,dashbuilder-client-all,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-client-all:7.30.0.Final` // `org.dashbuilder,dashbuilder-client-all,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-client-all:7.31.0.Final` // `org.dashbuilder,dashbuilder-client-all,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -452,6 +453,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:7.28.0.Final` // `org.dashbuilder,dashbuilder-cms-client,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:7.29.0.Final` // `org.dashbuilder,dashbuilder-cms-client,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:7.30.0.Final` // `org.dashbuilder,dashbuilder-cms-client,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-cms-client:7.31.0.Final` // `org.dashbuilder,dashbuilder-cms-client,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -459,6 +461,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:7.28.0.Final` // `org.dashbuilder,dashbuilder-common-client,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:7.29.0.Final` // `org.dashbuilder,dashbuilder-common-client,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:7.30.0.Final` // `org.dashbuilder,dashbuilder-common-client,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-common-client:7.31.0.Final` // `org.dashbuilder,dashbuilder-common-client,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.23.0.Final,-,-,automatic,-,false,-`
@@ -466,6 +469,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:7.28.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:7.29.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:7.30.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-cdi:7.31.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -473,6 +477,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:7.28.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:7.29.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:7.30.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-client:7.31.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.23.0.Final,-,-,automatic,-,false,-`
@@ -480,6 +485,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:7.28.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:7.29.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:7.30.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-dataset-editor:7.31.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -487,6 +493,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:7.28.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:7.29.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:7.30.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-api:7.31.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -494,6 +501,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:7.28.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:7.29.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:7.30.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-client:7.31.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.23.0.Final,-,-,automatic,-,false,-`
@@ -501,6 +509,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:7.28.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:7.29.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:7.30.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-editor:7.31.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.23.0.Final,-,-,automatic,-,false,-`
@@ -508,6 +517,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:7.28.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:7.29.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:7.30.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-displayer-screen:7.31.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -515,6 +525,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:7.28.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:7.29.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:7.30.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-api:7.31.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -522,6 +533,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:7.28.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:7.29.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:7.30.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-backend:7.31.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -529,6 +541,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:7.28.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:7.29.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:7.30.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-navigation-client:7.31.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.23.0.Final,-,-,automatic,-,false,-`
@@ -536,6 +549,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:7.28.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:7.29.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:7.30.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-c3:7.31.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.23.0.Final,-,-,automatic,-,false,-`
@@ -543,6 +557,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:7.28.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:7.29.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:7.30.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-chartjs:7.31.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.23.0.Final,-,-,automatic,-,false,-`
@@ -550,6 +565,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:7.28.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:7.29.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:7.30.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-default:7.31.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.23.0.Final,-,-,automatic,-,false,-`
@@ -557,6 +573,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:7.28.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:7.29.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:7.30.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-google:7.31.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.23.0.Final,-,-,automatic,-,false,-`
@@ -564,6 +581,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:7.28.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:7.29.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:7.30.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-renderer-lienzo:7.31.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:2.21.0.Final` // `org.dashbuilder,dashbuilder-server-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:2.22.0.Final` // `org.dashbuilder,dashbuilder-server-all,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:2.23.0.Final` // `org.dashbuilder,dashbuilder-server-all,2.23.0.Final,-,-,automatic,-,false,-`
@@ -571,6 +589,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:7.28.0.Final` // `org.dashbuilder,dashbuilder-server-all,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:7.29.0.Final` // `org.dashbuilder,dashbuilder-server-all,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:7.30.0.Final` // `org.dashbuilder,dashbuilder-server-all,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-server-all:7.31.0.Final` // `org.dashbuilder,dashbuilder-server-all,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:2.21.0.Final` // `org.dashbuilder,dashbuilder-services,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:2.22.0.Final` // `org.dashbuilder,dashbuilder-services,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:2.23.0.Final` // `org.dashbuilder,dashbuilder-services,2.23.0.Final,-,-,automatic,-,false,-`
@@ -578,6 +597,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:7.28.0.Final` // `org.dashbuilder,dashbuilder-services,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:7.29.0.Final` // `org.dashbuilder,dashbuilder-services,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:7.30.0.Final` // `org.dashbuilder,dashbuilder-services,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services:7.31.0.Final` // `org.dashbuilder,dashbuilder-services,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -585,6 +605,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:7.28.0.Final` // `org.dashbuilder,dashbuilder-services-api,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:7.29.0.Final` // `org.dashbuilder,dashbuilder-services-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:7.30.0.Final` // `org.dashbuilder,dashbuilder-services-api,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-services-api:7.31.0.Final` // `org.dashbuilder,dashbuilder-services-api,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:2.21.0.Final` // `org.dashbuilder,dashbuilder-validations,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:2.22.0.Final` // `org.dashbuilder,dashbuilder-validations,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:2.23.0.Final` // `org.dashbuilder,dashbuilder-validations,2.23.0.Final,-,-,automatic,-,false,-`
@@ -592,6 +613,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:7.28.0.Final` // `org.dashbuilder,dashbuilder-validations,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:7.29.0.Final` // `org.dashbuilder,dashbuilder-validations,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:7.30.0.Final` // `org.dashbuilder,dashbuilder-validations,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-validations:7.31.0.Final` // `org.dashbuilder,dashbuilder-validations,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:2.21.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:2.22.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:2.23.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.23.0.Final,-,-,automatic,-,false,-`
@@ -599,6 +621,7 @@
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:7.28.0.Final` // `org.dashbuilder,dashbuilder-widgets,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:7.29.0.Final` // `org.dashbuilder,dashbuilder-widgets,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:7.30.0.Final` // `org.dashbuilder,dashbuilder-widgets,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.dashbuilder:dashbuilder-widgets:7.31.0.Final` // `org.dashbuilder,dashbuilder-widgets,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.14.0.Final` // `org.drools,camel-container-integration-tests,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.15.0.Final` // `org.drools,camel-container-integration-tests,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.16.0.Final` // `org.drools,camel-container-integration-tests,7.16.0.Final,-,-,automatic,-,false,-`
@@ -616,6 +639,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.28.0.Final` // `org.drools,camel-container-integration-tests,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.29.0.Final` // `org.drools,camel-container-integration-tests,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.30.0.Final` // `org.drools,camel-container-integration-tests,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-integration-tests:7.31.0.Final` // `org.drools,camel-container-integration-tests,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.14.0.Final` // `org.drools,camel-container-tests-api,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.15.0.Final` // `org.drools,camel-container-tests-api,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.16.0.Final` // `org.drools,camel-container-tests-api,7.16.0.Final,-,-,automatic,-,false,-`
@@ -633,6 +657,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.28.0.Final` // `org.drools,camel-container-tests-api,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.29.0.Final` // `org.drools,camel-container-tests-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.30.0.Final` // `org.drools,camel-container-tests-api,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-api:7.31.0.Final` // `org.drools,camel-container-tests-api,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.16.0.Final` // `org.drools,camel-container-tests-model,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.17.0.Final` // `org.drools,camel-container-tests-model,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.18.0.Final` // `org.drools,camel-container-tests-model,7.18.0.Final,-,-,automatic,-,false,-`
@@ -648,6 +673,7 @@
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.28.0.Final` // `org.drools,camel-container-tests-model,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.29.0.Final` // `org.drools,camel-container-tests-model,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.30.0.Final` // `org.drools,camel-container-tests-model,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:camel-container-tests-model:7.31.0.Final` // `org.drools,camel-container-tests-model,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.22.0.t042` // `org.drools,drools-scenario-simulation-api,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.23.0.Final` // `org.drools,drools-scenario-simulation-api,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.24.0.t043` // `org.drools,drools-scenario-simulation-api,7.24.0.t043,-,-,automatic,-,false,-`
@@ -657,6 +683,7 @@
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.28.0.Final` // `org.drools,drools-scenario-simulation-api,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.29.0.Final` // `org.drools,drools-scenario-simulation-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.30.0.Final` // `org.drools,drools-scenario-simulation-api,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.31.0.Final` // `org.drools,drools-scenario-simulation-api,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.22.0.t042` // `org.drools,drools-scenario-simulation-backend,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.23.0.Final` // `org.drools,drools-scenario-simulation-backend,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.24.0.t043` // `org.drools,drools-scenario-simulation-backend,7.24.0.t043,-,-,automatic,-,false,-`
@@ -666,6 +693,7 @@
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.28.0.Final` // `org.drools,drools-scenario-simulation-backend,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.29.0.Final` // `org.drools,drools-scenario-simulation-backend,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.30.0.Final` // `org.drools,drools-scenario-simulation-backend,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.31.0.Final` // `org.drools,drools-scenario-simulation-backend,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -687,6 +715,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -708,6 +737,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -729,6 +759,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -750,6 +781,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -771,6 +803,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -792,6 +825,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.28.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -813,6 +847,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.28.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.29.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.30.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.31.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -834,6 +869,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.28.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.29.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.30.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-test-suite:7.31.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.10.0.Final` // `org.drools.testcoverage,kie-spring-test,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.11.0.Final` // `org.drools.testcoverage,kie-spring-test,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.12.0.Final` // `org.drools.testcoverage,kie-spring-test,7.12.0.Final,-,-,automatic,-,false,-`
@@ -855,6 +891,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.28.0.Final` // `org.drools.testcoverage,kie-spring-test,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.29.0.Final` // `org.drools.testcoverage,kie-spring-test,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.30.0.Final` // `org.drools.testcoverage,kie-spring-test,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-spring-test:7.31.0.Final` // `org.drools.testcoverage,kie-spring-test,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -876,6 +913,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.28.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.29.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.30.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.31.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -897,6 +935,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.28.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.29.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.30.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.31.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.10.0.Final` // `org.drools.testcoverage,model-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.11.0.Final` // `org.drools.testcoverage,model-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.12.0.Final` // `org.drools.testcoverage,model-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -918,6 +957,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.28.0.Final` // `org.drools.testcoverage,model-wrapper,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.29.0.Final` // `org.drools.testcoverage,model-wrapper,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.30.0.Final` // `org.drools.testcoverage,model-wrapper,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:model-wrapper:7.31.0.Final` // `org.drools.testcoverage,model-wrapper,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.3` // `org.hortonmachine,hm-apps,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.4` // `org.hortonmachine,hm-apps,0.9.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.hortonmachine:hm-apps:0.9.5` // `org.hortonmachine,hm-apps,0.9.5,-,-,automatic,-,false,-`
@@ -964,6 +1004,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.28.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.29.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.30.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-event-emitters-elasticsearch:7.31.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.10.0.Final` // `org.jbpm,jbpm-executor-ejb,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.11.0.Final` // `org.jbpm,jbpm-executor-ejb,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.12.0.Final` // `org.jbpm,jbpm-executor-ejb,7.12.0.Final,-,-,automatic,-,false,-`
@@ -985,6 +1026,8 @@
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.28.0.Final` // `org.jbpm,jbpm-executor-ejb,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.29.0.Final` // `org.jbpm,jbpm-executor-ejb,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.30.0.Final` // `org.jbpm,jbpm-executor-ejb,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-executor-ejb:7.31.0.Final` // `org.jbpm,jbpm-executor-ejb,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm:jbpm-task-assigning-core:7.31.0.Final` // `org.jbpm,jbpm-task-assigning-core,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.17.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.18.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm:jbpm-workitems-template-resources:7.19.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.19.0.Final,-,-,automatic,-,false,-`
@@ -1034,6 +1077,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.28.0.Final` // `org.jbpm.contrib,archive-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.29.0.Final` // `org.jbpm.contrib,archive-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.30.0.Final` // `org.jbpm.contrib,archive-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:archive-workitem:7.31.0.Final` // `org.jbpm.contrib,archive-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.17.0.Final` // `org.jbpm.contrib,docker-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.18.0.Final` // `org.jbpm.contrib,docker-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.19.0.Final` // `org.jbpm.contrib,docker-workitem,7.19.0.Final,-,-,automatic,-,false,-`
@@ -1048,6 +1092,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.28.0.Final` // `org.jbpm.contrib,docker-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.29.0.Final` // `org.jbpm.contrib,docker-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.30.0.Final` // `org.jbpm.contrib,docker-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:docker-workitem:7.31.0.Final` // `org.jbpm.contrib,docker-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.10.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.11.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.12.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1069,6 +1114,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.28.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.29.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.30.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:dropbox-workitem:7.31.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.10.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.11.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.12.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1090,6 +1136,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.28.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.29.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.30.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ethereum-workitem:7.31.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.10.0.Final` // `org.jbpm.contrib,exec-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.11.0.Final` // `org.jbpm.contrib,exec-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.12.0.Final` // `org.jbpm.contrib,exec-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1111,6 +1158,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.28.0.Final` // `org.jbpm.contrib,exec-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.29.0.Final` // `org.jbpm.contrib,exec-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.30.0.Final` // `org.jbpm.contrib,exec-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:exec-workitem:7.31.0.Final` // `org.jbpm.contrib,exec-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.12.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.13.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.14.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1130,6 +1178,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.28.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.29.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.30.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:execute-sql-workitem:7.31.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.10.0.Final` // `org.jbpm.contrib,ftp-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.11.0.Final` // `org.jbpm.contrib,ftp-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.12.0.Final` // `org.jbpm.contrib,ftp-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1151,6 +1200,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.28.0.Final` // `org.jbpm.contrib,ftp-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.29.0.Final` // `org.jbpm.contrib,ftp-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.30.0.Final` // `org.jbpm.contrib,ftp-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ftp-workitem:7.31.0.Final` // `org.jbpm.contrib,ftp-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.10.0.Final` // `org.jbpm.contrib,github-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.11.0.Final` // `org.jbpm.contrib,github-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.12.0.Final` // `org.jbpm.contrib,github-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1172,6 +1222,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.28.0.Final` // `org.jbpm.contrib,github-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.29.0.Final` // `org.jbpm.contrib,github-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.30.0.Final` // `org.jbpm.contrib,github-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:github-workitem:7.31.0.Final` // `org.jbpm.contrib,github-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.10.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.11.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.12.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1193,6 +1244,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.28.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.29.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.30.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-calendar-workitem:7.31.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.10.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.11.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.12.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1214,6 +1266,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.28.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.29.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.30.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-drive-workitem:7.31.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.10.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.11.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.12.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1235,6 +1288,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.28.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.29.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.30.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-mail-workitem:7.31.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.15.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.16.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.17.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -1251,6 +1305,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.28.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.29.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.30.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-maps-workitem:7.31.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.10.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.11.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.12.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1272,6 +1327,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.28.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.29.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.30.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-sheets-workitem:7.31.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.10.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.11.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.12.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1293,6 +1349,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.28.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.29.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.30.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-tasks-workitem:7.31.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.10.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.11.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.12.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1314,6 +1371,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.28.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.29.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.30.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:google-translate-workitem:7.31.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.10.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.11.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.12.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1335,6 +1393,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.28.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.29.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.30.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ibm-watson-workitem:7.31.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.10.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.11.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.12.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1356,6 +1415,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.28.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.29.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.30.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:ifttt-workitem:7.31.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.10.0.Final` // `org.jbpm.contrib,jabber-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.11.0.Final` // `org.jbpm.contrib,jabber-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.12.0.Final` // `org.jbpm.contrib,jabber-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1377,6 +1437,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.28.0.Final` // `org.jbpm.contrib,jabber-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.29.0.Final` // `org.jbpm.contrib,jabber-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.30.0.Final` // `org.jbpm.contrib,jabber-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jabber-workitem:7.31.0.Final` // `org.jbpm.contrib,jabber-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.10.0.Final` // `org.jbpm.contrib,java-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.11.0.Final` // `org.jbpm.contrib,java-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.12.0.Final` // `org.jbpm.contrib,java-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1398,6 +1459,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.28.0.Final` // `org.jbpm.contrib,java-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.29.0.Final` // `org.jbpm.contrib,java-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.30.0.Final` // `org.jbpm.contrib,java-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:java-workitem:7.31.0.Final` // `org.jbpm.contrib,java-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.10.0.Final` // `org.jbpm.contrib,jira-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.11.0.Final` // `org.jbpm.contrib,jira-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.12.0.Final` // `org.jbpm.contrib,jira-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1419,6 +1481,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.28.0.Final` // `org.jbpm.contrib,jira-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.29.0.Final` // `org.jbpm.contrib,jira-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.30.0.Final` // `org.jbpm.contrib,jira-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jira-workitem:7.31.0.Final` // `org.jbpm.contrib,jira-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.10.0.Final` // `org.jbpm.contrib,jpa-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.11.0.Final` // `org.jbpm.contrib,jpa-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.12.0.Final` // `org.jbpm.contrib,jpa-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1440,6 +1503,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.28.0.Final` // `org.jbpm.contrib,jpa-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.29.0.Final` // `org.jbpm.contrib,jpa-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.30.0.Final` // `org.jbpm.contrib,jpa-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:jpa-workitem:7.31.0.Final` // `org.jbpm.contrib,jpa-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.15.0.Final` // `org.jbpm.contrib,kafka-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.16.0.Final` // `org.jbpm.contrib,kafka-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.17.0.Final` // `org.jbpm.contrib,kafka-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -1456,6 +1520,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.28.0.Final` // `org.jbpm.contrib,kafka-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.29.0.Final` // `org.jbpm.contrib,kafka-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.30.0.Final` // `org.jbpm.contrib,kafka-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:kafka-workitem:7.31.0.Final` // `org.jbpm.contrib,kafka-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.10.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.11.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.12.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1477,6 +1542,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.28.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.29.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.30.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:mavenembedder-workitem:7.31.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.16.0.Final` // `org.jbpm.contrib,okta-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.17.0.Final` // `org.jbpm.contrib,okta-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.18.0.Final` // `org.jbpm.contrib,okta-workitem,7.18.0.Final,-,-,automatic,-,false,-`
@@ -1492,6 +1558,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.28.0.Final` // `org.jbpm.contrib,okta-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.29.0.Final` // `org.jbpm.contrib,okta-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.30.0.Final` // `org.jbpm.contrib,okta-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:okta-workitem:7.31.0.Final` // `org.jbpm.contrib,okta-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.10.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.11.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.12.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1513,6 +1580,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.28.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.29.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.30.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:openweathermap-workitem:7.31.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.10.0.Final` // `org.jbpm.contrib,parser-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.11.0.Final` // `org.jbpm.contrib,parser-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.12.0.Final` // `org.jbpm.contrib,parser-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1534,6 +1602,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.28.0.Final` // `org.jbpm.contrib,parser-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.29.0.Final` // `org.jbpm.contrib,parser-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.30.0.Final` // `org.jbpm.contrib,parser-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:parser-workitem:7.31.0.Final` // `org.jbpm.contrib,parser-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.15.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.16.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.17.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -1550,6 +1619,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.28.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.29.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.30.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:pastebin-workitem:7.31.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.12.0.Final` // `org.jbpm.contrib,pdf-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.13.0.Final` // `org.jbpm.contrib,pdf-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.14.0.Final` // `org.jbpm.contrib,pdf-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1569,6 +1639,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.28.0.Final` // `org.jbpm.contrib,pdf-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.29.0.Final` // `org.jbpm.contrib,pdf-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.30.0.Final` // `org.jbpm.contrib,pdf-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:pdf-workitem:7.31.0.Final` // `org.jbpm.contrib,pdf-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.10.0.Final` // `org.jbpm.contrib,repository,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.11.0.Final` // `org.jbpm.contrib,repository,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.12.0.Final` // `org.jbpm.contrib,repository,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1590,6 +1661,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.28.0.Final` // `org.jbpm.contrib,repository,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.29.0.Final` // `org.jbpm.contrib,repository,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.30.0.Final` // `org.jbpm.contrib,repository,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:repository:7.31.0.Final` // `org.jbpm.contrib,repository,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.10.0.Final` // `org.jbpm.contrib,repository-springboot,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.11.0.Final` // `org.jbpm.contrib,repository-springboot,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.12.0.Final` // `org.jbpm.contrib,repository-springboot,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1611,6 +1683,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.28.0.Final` // `org.jbpm.contrib,repository-springboot,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.29.0.Final` // `org.jbpm.contrib,repository-springboot,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.30.0.Final` // `org.jbpm.contrib,repository-springboot,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:repository-springboot:7.31.0.Final` // `org.jbpm.contrib,repository-springboot,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.12.0.Final` // `org.jbpm.contrib,riot-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.13.0.Final` // `org.jbpm.contrib,riot-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.14.0.Final` // `org.jbpm.contrib,riot-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1630,6 +1703,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.28.0.Final` // `org.jbpm.contrib,riot-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.29.0.Final` // `org.jbpm.contrib,riot-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.30.0.Final` // `org.jbpm.contrib,riot-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:riot-workitem:7.31.0.Final` // `org.jbpm.contrib,riot-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.10.0.Final` // `org.jbpm.contrib,rss-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.11.0.Final` // `org.jbpm.contrib,rss-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.12.0.Final` // `org.jbpm.contrib,rss-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1651,6 +1725,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.28.0.Final` // `org.jbpm.contrib,rss-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.29.0.Final` // `org.jbpm.contrib,rss-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.30.0.Final` // `org.jbpm.contrib,rss-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:rss-workitem:7.31.0.Final` // `org.jbpm.contrib,rss-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.10.0.Final` // `org.jbpm.contrib,slack-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.11.0.Final` // `org.jbpm.contrib,slack-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.12.0.Final` // `org.jbpm.contrib,slack-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1672,6 +1747,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.28.0.Final` // `org.jbpm.contrib,slack-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.29.0.Final` // `org.jbpm.contrib,slack-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.30.0.Final` // `org.jbpm.contrib,slack-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:slack-workitem:7.31.0.Final` // `org.jbpm.contrib,slack-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.10.0.Final` // `org.jbpm.contrib,template-resources,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.11.0.Final` // `org.jbpm.contrib,template-resources,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.12.0.Final` // `org.jbpm.contrib,template-resources,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1693,6 +1769,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.28.0.Final` // `org.jbpm.contrib,template-resources,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.29.0.Final` // `org.jbpm.contrib,template-resources,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.30.0.Final` // `org.jbpm.contrib,template-resources,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:template-resources:7.31.0.Final` // `org.jbpm.contrib,template-resources,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.10.0.Final` // `org.jbpm.contrib,transform-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.11.0.Final` // `org.jbpm.contrib,transform-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.12.0.Final` // `org.jbpm.contrib,transform-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1714,6 +1791,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.28.0.Final` // `org.jbpm.contrib,transform-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.29.0.Final` // `org.jbpm.contrib,transform-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.30.0.Final` // `org.jbpm.contrib,transform-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:transform-workitem:7.31.0.Final` // `org.jbpm.contrib,transform-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.10.0.Final` // `org.jbpm.contrib,twitter-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.11.0.Final` // `org.jbpm.contrib,twitter-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.12.0.Final` // `org.jbpm.contrib,twitter-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1735,6 +1813,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.28.0.Final` // `org.jbpm.contrib,twitter-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.29.0.Final` // `org.jbpm.contrib,twitter-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.30.0.Final` // `org.jbpm.contrib,twitter-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:twitter-workitem:7.31.0.Final` // `org.jbpm.contrib,twitter-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.15.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.16.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.17.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -1751,6 +1830,7 @@
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.28.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.28.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.29.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.30.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.30.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.jbpm.contrib:vimeo-workitem:7.31.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.15.0.Final` // `org.kie,business-central-deployment-validation,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.16.0.Final` // `org.kie,business-central-deployment-validation,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie:business-central-deployment-validation:7.17.0.Final` // `org.kie,business-central-deployment-validation,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2212,17 +2292,21 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.5.0` // `org.kie.kogito,data-index-service,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.5.1` // `org.kie.kogito,data-index-service,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.6.0` // `org.kie.kogito,data-index-service,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-service:0.6.1` // `org.kie.kogito,data-index-service,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.3.0` // `org.kie.kogito,data-index-storage-api,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.4.0` // `org.kie.kogito,data-index-storage-api,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.5.0` // `org.kie.kogito,data-index-storage-api,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.5.1` // `org.kie.kogito,data-index-storage-api,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.6.0` // `org.kie.kogito,data-index-storage-api,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-api:0.6.1` // `org.kie.kogito,data-index-storage-api,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.3.0` // `org.kie.kogito,data-index-storage-infinispan,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.4.0` // `org.kie.kogito,data-index-storage-infinispan,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.5.0` // `org.kie.kogito,data-index-storage-infinispan,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.5.1` // `org.kie.kogito,data-index-storage-infinispan,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.6.0` // `org.kie.kogito,data-index-storage-infinispan,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:data-index-storage-infinispan:0.6.1` // `org.kie.kogito,data-index-storage-infinispan,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:dmn-quarkus-example:0.6.0` // `org.kie.kogito,dmn-quarkus-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:dmn-quarkus-example:0.6.1` // `org.kie.kogito,dmn-quarkus-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.0` // `org.kie.kogito,drools-decisiontables,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.1` // `org.kie.kogito,drools-decisiontables,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.1.2` // `org.kie.kogito,drools-decisiontables,0.1.2,-,-,automatic,-,false,-`
@@ -2233,23 +2317,31 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.5.0` // `org.kie.kogito,drools-decisiontables,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.5.1` // `org.kie.kogito,drools-decisiontables,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.6.0` // `org.kie.kogito,drools-decisiontables,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:drools-decisiontables:0.6.1` // `org.kie.kogito,drools-decisiontables,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.3.0` // `org.kie.kogito,infinispan-persistence-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.4.0` // `org.kie.kogito,infinispan-persistence-addon,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.5.0` // `org.kie.kogito,infinispan-persistence-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.5.1` // `org.kie.kogito,infinispan-persistence-addon,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.6.0` // `org.kie.kogito,infinispan-persistence-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:infinispan-persistence-addon:0.6.1` // `org.kie.kogito,infinispan-persistence-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:jobs-api:0.6.0` // `org.kie.kogito,jobs-api,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:jobs-api:0.6.1` // `org.kie.kogito,jobs-api,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:jobs-management-quarkus-addon:0.6.0` // `org.kie.kogito,jobs-management-quarkus-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:jobs-management-quarkus-addon:0.6.1` // `org.kie.kogito,jobs-management-quarkus-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:jobs-management-springboot-addon:0.6.0` // `org.kie.kogito,jobs-management-springboot-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:jobs-management-springboot-addon:0.6.1` // `org.kie.kogito,jobs-management-springboot-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:jobs-service:0.6.0` // `org.kie.kogito,jobs-service,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:jobs-service:0.6.1` // `org.kie.kogito,jobs-service,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.2.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.3.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.4.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.5.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.5.1` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.6.0` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-kubernetes-client:0.6.1` // `org.kie.kogito,kogito-cloud-kubernetes-client,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-tests:0.5.1` // `org.kie.kogito,kogito-cloud-tests,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-tests:0.6.0` // `org.kie.kogito,kogito-cloud-tests,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-tests:0.6.1` // `org.kie.kogito,kogito-cloud-tests,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.0` // `org.kie.kogito,kogito-cloud-workitems,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.1` // `org.kie.kogito,kogito-cloud-workitems,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.1.2` // `org.kie.kogito,kogito-cloud-workitems,0.1.2,-,-,automatic,-,false,-`
@@ -2260,6 +2352,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.5.0` // `org.kie.kogito,kogito-cloud-workitems,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.5.1` // `org.kie.kogito,kogito-cloud-workitems,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.6.0` // `org.kie.kogito,kogito-cloud-workitems,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-cloud-workitems:0.6.1` // `org.kie.kogito,kogito-cloud-workitems,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.0` // `org.kie.kogito,kogito-codegen,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.1` // `org.kie.kogito,kogito-codegen,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.1.2` // `org.kie.kogito,kogito-codegen,0.1.2,-,-,automatic,-,false,-`
@@ -2270,13 +2363,16 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.5.0` // `org.kie.kogito,kogito-codegen,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.5.1` // `org.kie.kogito,kogito-codegen,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.6.0` // `org.kie.kogito,kogito-codegen,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-codegen:0.6.1` // `org.kie.kogito,kogito-codegen,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-deps-bom:0.5.0` // `org.kie.kogito,kogito-deps-bom,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-deps-bom:0.5.1` // `org.kie.kogito,kogito-deps-bom,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-deps-bom:0.6.0` // `org.kie.kogito,kogito-deps-bom,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-deps-bom:0.6.1` // `org.kie.kogito,kogito-deps-bom,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.4.0` // `org.kie.kogito,kogito-dmn,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.5.0` // `org.kie.kogito,kogito-dmn,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.5.1` // `org.kie.kogito,kogito-dmn,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.6.0` // `org.kie.kogito,kogito-dmn,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn:0.6.1` // `org.kie.kogito,kogito-dmn,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.0` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.1` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-dmn-rest-utils:0.1.2` // `org.kie.kogito,kogito-dmn-rest-utils,0.1.2,-,-,automatic,-,false,-`
@@ -2288,11 +2384,13 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.5.0` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.5.1` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.6.0` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-reactive-messaging-addon:0.6.1` // `org.kie.kogito,kogito-events-reactive-messaging-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.3.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.4.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.5.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.5.1` // `org.kie.kogito,kogito-events-spring-boot-addon,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.6.0` // `org.kie.kogito,kogito-events-spring-boot-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-events-spring-boot-addon:0.6.1` // `org.kie.kogito,kogito-events-spring-boot-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.0` // `org.kie.kogito,kogito-maven-plugin,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.1` // `org.kie.kogito,kogito-maven-plugin,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.1.2` // `org.kie.kogito,kogito-maven-plugin,0.1.2,-,-,automatic,-,false,-`
@@ -2303,8 +2401,11 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.5.0` // `org.kie.kogito,kogito-maven-plugin,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.5.1` // `org.kie.kogito,kogito-maven-plugin,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.6.0` // `org.kie.kogito,kogito-maven-plugin,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-maven-plugin:0.6.1` // `org.kie.kogito,kogito-maven-plugin,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-optaplanner:0.6.0` // `org.kie.kogito,kogito-optaplanner,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-optaplanner:0.6.1` // `org.kie.kogito,kogito-optaplanner,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:kogito-springboot-starter:0.6.0` // `org.kie.kogito,kogito-springboot-starter,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:kogito-springboot-starter:0.6.1` // `org.kie.kogito,kogito-springboot-starter,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.0` // `org.kie.kogito,monitoring-prometheus-addon,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.1` // `org.kie.kogito,monitoring-prometheus-addon,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.1.2` // `org.kie.kogito,monitoring-prometheus-addon,0.1.2,-,-,automatic,-,false,-`
@@ -2315,11 +2416,13 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.5.0` // `org.kie.kogito,monitoring-prometheus-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.5.1` // `org.kie.kogito,monitoring-prometheus-addon,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.6.0` // `org.kie.kogito,monitoring-prometheus-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:monitoring-prometheus-addon:0.6.1` // `org.kie.kogito,monitoring-prometheus-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.3.0` // `org.kie.kogito,process-management-addon,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.4.0` // `org.kie.kogito,process-management-addon,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.5.0` // `org.kie.kogito,process-management-addon,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.5.1` // `org.kie.kogito,process-management-addon,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.6.0` // `org.kie.kogito,process-management-addon,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito:process-management-addon:0.6.1` // `org.kie.kogito,process-management-addon,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.0` // `org.kie.kogito.examples,drools-polyglot-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.1` // `org.kie.kogito.examples,drools-polyglot-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.1.2` // `org.kie.kogito.examples,drools-polyglot-example,0.1.2,-,-,automatic,-,false,-`
@@ -2329,6 +2432,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.4.0` // `org.kie.kogito.examples,drools-polyglot-example,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.5.1` // `org.kie.kogito.examples,drools-polyglot-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.6.0` // `org.kie.kogito.examples,drools-polyglot-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-polyglot-example:0.6.1` // `org.kie.kogito.examples,drools-polyglot-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.1.0` // `org.kie.kogito.examples,drools-quarkus-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.1.1` // `org.kie.kogito.examples,drools-quarkus-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.1.2` // `org.kie.kogito.examples,drools-quarkus-example,0.1.2,-,-,automatic,-,false,-`
@@ -2339,8 +2443,10 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.5.0` // `org.kie.kogito.examples,drools-quarkus-example,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.5.1` // `org.kie.kogito.examples,drools-quarkus-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.6.0` // `org.kie.kogito.examples,drools-quarkus-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-example:0.6.1` // `org.kie.kogito.examples,drools-quarkus-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-helloworld:0.5.1` // `org.kie.kogito.examples,drools-quarkus-helloworld,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-helloworld:0.6.0` // `org.kie.kogito.examples,drools-quarkus-helloworld,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-helloworld:0.6.1` // `org.kie.kogito.examples,drools-quarkus-helloworld,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.1` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.1.2` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.1.2,-,-,automatic,-,false,-`
@@ -2351,6 +2457,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.5.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.5.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.5.1` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.6.0` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:drools-quarkus-unit-example:0.6.1` // `org.kie.kogito.examples,drools-quarkus-unit-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.0` // `org.kie.kogito.examples,hr,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.1` // `org.kie.kogito.examples,hr,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.1.2` // `org.kie.kogito.examples,hr,0.1.2,-,-,automatic,-,false,-`
@@ -2360,10 +2467,12 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.4.0` // `org.kie.kogito.examples,hr,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.5.1` // `org.kie.kogito.examples,hr,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.6.0` // `org.kie.kogito.examples,hr,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:hr:0.6.1` // `org.kie.kogito.examples,hr,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-polyglot-example:0.3.0` // `org.kie.kogito.examples,jbpm-polyglot-example,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-polyglot-example:0.4.0` // `org.kie.kogito.examples,jbpm-polyglot-example,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-polyglot-example:0.5.1` // `org.kie.kogito.examples,jbpm-polyglot-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-polyglot-example:0.6.0` // `org.kie.kogito.examples,jbpm-polyglot-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-polyglot-example:0.6.1` // `org.kie.kogito.examples,jbpm-polyglot-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.1.0` // `org.kie.kogito.examples,jbpm-quarkus-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.1.1` // `org.kie.kogito.examples,jbpm-quarkus-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.1.2` // `org.kie.kogito.examples,jbpm-quarkus-example,0.1.2,-,-,automatic,-,false,-`
@@ -2373,11 +2482,13 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.4.0` // `org.kie.kogito.examples,jbpm-quarkus-example,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.5.1` // `org.kie.kogito.examples,jbpm-quarkus-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.6.0` // `org.kie.kogito.examples,jbpm-quarkus-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-example:0.6.1` // `org.kie.kogito.examples,jbpm-quarkus-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.2.0` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.3.0` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.4.0` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.5.1` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.6.0` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-quarkus-helloworld:0.6.1` // `org.kie.kogito.examples,jbpm-quarkus-helloworld,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.1.0` // `org.kie.kogito.examples,jbpm-springboot-example,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.1.1` // `org.kie.kogito.examples,jbpm-springboot-example,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.1.2` // `org.kie.kogito.examples,jbpm-springboot-example,0.1.2,-,-,automatic,-,false,-`
@@ -2387,6 +2498,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.4.0` // `org.kie.kogito.examples,jbpm-springboot-example,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.5.1` // `org.kie.kogito.examples,jbpm-springboot-example,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.6.0` // `org.kie.kogito.examples,jbpm-springboot-example,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:jbpm-springboot-example:0.6.1` // `org.kie.kogito.examples,jbpm-springboot-example,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.1.0` // `org.kie.kogito.examples,onboarding,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.1.1` // `org.kie.kogito.examples,onboarding,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.1.2` // `org.kie.kogito.examples,onboarding,0.1.2,-,-,automatic,-,false,-`
@@ -2396,6 +2508,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.4.0` // `org.kie.kogito.examples,onboarding,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.5.1` // `org.kie.kogito.examples,onboarding,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.6.0` // `org.kie.kogito.examples,onboarding,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:onboarding:0.6.1` // `org.kie.kogito.examples,onboarding,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.1.0` // `org.kie.kogito.examples,payroll,0.1.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.1.1` // `org.kie.kogito.examples,payroll,0.1.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.1.2` // `org.kie.kogito.examples,payroll,0.1.2,-,-,automatic,-,false,-`
@@ -2405,6 +2518,7 @@
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.4.0` // `org.kie.kogito.examples,payroll,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.5.1` // `org.kie.kogito.examples,payroll,0.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.6.0` // `org.kie.kogito.examples,payroll,0.6.0,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.kie.kogito.examples:payroll:0.6.1` // `org.kie.kogito.examples,payroll,0.6.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-mgmt-client:7.5.0.Final` // `org.kie.server,kie-server-controller-mgmt-client,7.5.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.10.0.Final` // `org.kie.server,kie-server-controller-plugin,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.kie.server:kie-server-controller-plugin:7.11.0.Final` // `org.kie.server,kie-server-controller-plugin,7.11.0.Final,-,-,automatic,-,false,-`
@@ -9839,6 +9953,7 @@
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.7.1` // `com.imsweb,staging-algorithm-eod-public,1.7.1,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.7.2` // `com.imsweb,staging-algorithm-eod-public,1.7.2,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.7.3` // `com.imsweb,staging-algorithm-eod-public,1.7.3,com.imsweb.staging.eod.public,-,automatic,-,false,-`
+- :cd: `com.imsweb.staging.eod.public` :left_right_arrow: `com.imsweb:staging-algorithm-eod-public:1.7.4` // `com.imsweb,staging-algorithm-eod-public,1.7.4,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:42.1.0` // `com.blackducksoftware.integration,blackduck-common,42.1.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:42.2.0` // `com.blackducksoftware.integration,blackduck-common,42.2.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:42.2.1` // `com.blackducksoftware.integration,blackduck-common,42.2.1,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
@@ -9869,6 +9984,7 @@
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:44.5.2` // `com.blackducksoftware.integration,blackduck-common,44.5.2,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.0` // `com.blackducksoftware.integration,blackduck-common,45.0.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.1` // `com.blackducksoftware.integration,blackduck-common,45.0.1,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.2` // `com.blackducksoftware.integration,blackduck-common,45.0.2,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.2` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.2,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
@@ -10435,11 +10551,15 @@
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.28.0.Final` // `org.drools,drools-canonical-model,7.28.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.29.0.Final` // `org.drools,drools-canonical-model,7.29.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.30.0.Final` // `org.drools,drools-canonical-model,7.30.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.31.0.Final` // `org.drools,drools-canonical-model,7.31.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.19.0.Final` // `org.drools,drools-constraint-parser,7.19.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.20.0.Final` // `org.drools,drools-constraint-parser,7.20.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.21.0.Final` // `org.drools,drools-constraint-parser,7.21.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.22.0.t042` // `org.drools,drools-constraint-parser,7.22.0.t042,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.23.0.Final` // `org.drools,drools-constraint-parser,7.23.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
+- :cd: `org.drools.drools-core-dynamic` :left_right_arrow: `org.drools:drools-core-dynamic:7.31.0.Final` // `org.drools,drools-core-dynamic,7.31.0.Final,org.drools.drools-core-dynamic,-,automatic,-,false,-`
+- :cd: `org.drools.drools-core-reflective` :left_right_arrow: `org.drools:drools-core-reflective:7.31.0.Final` // `org.drools,drools-core-reflective,7.31.0.Final,org.drools.drools-core-reflective,-,automatic,-,false,-`
+- :cd: `org.drools.drools-ruleunit` :left_right_arrow: `org.drools:drools-ruleunit:7.31.0.Final` // `org.drools,drools-ruleunit,7.31.0.Final,org.drools.drools-ruleunit,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.10.0.Final` // `org.drools,drools-model-compiler,7.10.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.11.0.Final` // `org.drools,drools-model-compiler,7.11.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.12.0.Final` // `org.drools,drools-model-compiler,7.12.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
@@ -10461,6 +10581,7 @@
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.28.0.Final` // `org.drools,drools-model-compiler,7.28.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.29.0.Final` // `org.drools,drools-model-compiler,7.29.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.30.0.Final` // `org.drools,drools-model-compiler,7.30.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.31.0.Final` // `org.drools,drools-model-compiler,7.31.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.24.0.t043` // `org.drools,drools-mvel-compiler,7.24.0.t043,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.25.0.Final` // `org.drools,drools-mvel-compiler,7.25.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.26.0.Final` // `org.drools,drools-mvel-compiler,7.26.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
@@ -10468,6 +10589,7 @@
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.28.0.Final` // `org.drools,drools-mvel-compiler,7.28.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.29.0.Final` // `org.drools,drools-mvel-compiler,7.29.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.30.0.Final` // `org.drools,drools-mvel-compiler,7.30.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.31.0.Final` // `org.drools,drools-mvel-compiler,7.31.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.24.0.t043` // `org.drools,drools-mvel-parser,7.24.0.t043,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.25.0.Final` // `org.drools,drools-mvel-parser,7.25.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.26.0.Final` // `org.drools,drools-mvel-parser,7.26.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
@@ -10475,6 +10597,7 @@
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.28.0.Final` // `org.drools,drools-mvel-parser,7.28.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.29.0.Final` // `org.drools,drools-mvel-parser,7.29.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.30.0.Final` // `org.drools,drools-mvel-parser,7.30.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.31.0.Final` // `org.drools,drools-mvel-parser,7.31.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.10.0.Final` // `org.drools,drools-wb-enum-editor-api,7.10.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.11.0.Final` // `org.drools,drools-wb-enum-editor-api,7.11.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.12.0.Final` // `org.drools,drools-wb-enum-editor-api,7.12.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
@@ -10496,6 +10619,7 @@
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.28.0.Final` // `org.drools,drools-wb-enum-editor-api,7.28.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.29.0.Final` // `org.drools,drools-wb-enum-editor-api,7.29.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.30.0.Final` // `org.drools,drools-wb-enum-editor-api,7.30.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.31.0.Final` // `org.drools,drools-wb-enum-editor-api,7.31.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.10.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.10.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.11.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.11.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.12.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.12.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
@@ -10517,6 +10641,7 @@
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.28.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.28.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.29.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.29.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.30.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.30.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.backend` :left_right_arrow: `org.drools:drools-wb-enum-editor-backend:7.31.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.31.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.10.0.Final` // `org.drools,drools-wb-enum-editor-client,7.10.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.11.0.Final` // `org.drools,drools-wb-enum-editor-client,7.11.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.12.0.Final` // `org.drools,drools-wb-enum-editor-client,7.12.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
@@ -10538,6 +10663,7 @@
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.28.0.Final` // `org.drools,drools-wb-enum-editor-client,7.28.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.29.0.Final` // `org.drools,drools-wb-enum-editor-client,7.29.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.30.0.Final` // `org.drools,drools-wb-enum-editor-client,7.30.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.client` :left_right_arrow: `org.drools:drools-wb-enum-editor-client:7.31.0.Final` // `org.drools,drools-wb-enum-editor-client,7.31.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` :left_right_arrow: `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.13.v20181111` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.13.v20181111,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` :left_right_arrow: `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.14.v20181114` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.14.v20181114,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` :left_right_arrow: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.001_Simrel_2019_03_M1` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.001_Simrel_2019_03_M1,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
@@ -10661,6 +10787,7 @@
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.0-CriteriaRc0` // `org.immutables,android-stub,2.8.0-CriteriaRc0,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.1` // `org.immutables,android-stub,2.8.1,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.2` // `org.immutables,android-stub,2.8.2,org.immutables.android-stub,-,automatic,-,false,-`
+- :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.8.3` // `org.immutables,android-stub,2.8.3,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaPreview0` // `org.immutables,criteria-common,2.8.0-CriteriaPreview0,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaPreview1` // `org.immutables,criteria-common,2.8.0-CriteriaPreview1,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaPreview2` // `org.immutables,criteria-common,2.8.0-CriteriaPreview2,org.immutables.criteria-common,-,automatic,-,false,-`
@@ -10668,6 +10795,7 @@
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.0-CriteriaRc0` // `org.immutables,criteria-common,2.8.0-CriteriaRc0,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.1` // `org.immutables,criteria-common,2.8.1,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.2` // `org.immutables,criteria-common,2.8.2,org.immutables.criteria-common,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-common` :left_right_arrow: `org.immutables:criteria-common:2.8.3` // `org.immutables,criteria-common,2.8.3,org.immutables.criteria-common,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaPreview0` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaPreview0,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaPreview1` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaPreview1,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaPreview2` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaPreview2,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
@@ -10675,6 +10803,7 @@
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.0-CriteriaRc0` // `org.immutables,criteria-elasticsearch,2.8.0-CriteriaRc0,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.1` // `org.immutables,criteria-elasticsearch,2.8.1,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.2` // `org.immutables,criteria-elasticsearch,2.8.2,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-elasticsearch` :left_right_arrow: `org.immutables:criteria-elasticsearch:2.8.3` // `org.immutables,criteria-elasticsearch,2.8.3,org.immutables.criteria-elasticsearch,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaPreview0` // `org.immutables,criteria-geode,2.8.0-CriteriaPreview0,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaPreview1` // `org.immutables,criteria-geode,2.8.0-CriteriaPreview1,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaPreview2` // `org.immutables,criteria-geode,2.8.0-CriteriaPreview2,org.immutables.criteria-geode,-,automatic,-,false,-`
@@ -10682,6 +10811,7 @@
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.0-CriteriaRc0` // `org.immutables,criteria-geode,2.8.0-CriteriaRc0,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.1` // `org.immutables,criteria-geode,2.8.1,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.2` // `org.immutables,criteria-geode,2.8.2,org.immutables.criteria-geode,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-geode` :left_right_arrow: `org.immutables:criteria-geode:2.8.3` // `org.immutables,criteria-geode,2.8.3,org.immutables.criteria-geode,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaPreview0` // `org.immutables,criteria-inmemory,2.8.0-CriteriaPreview0,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaPreview1` // `org.immutables,criteria-inmemory,2.8.0-CriteriaPreview1,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaPreview2` // `org.immutables,criteria-inmemory,2.8.0-CriteriaPreview2,org.immutables.criteria-inmemory,-,automatic,-,false,-`
@@ -10689,6 +10819,7 @@
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.0-CriteriaRc0` // `org.immutables,criteria-inmemory,2.8.0-CriteriaRc0,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.1` // `org.immutables,criteria-inmemory,2.8.1,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.2` // `org.immutables,criteria-inmemory,2.8.2,org.immutables.criteria-inmemory,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-inmemory` :left_right_arrow: `org.immutables:criteria-inmemory:2.8.3` // `org.immutables,criteria-inmemory,2.8.3,org.immutables.criteria-inmemory,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaPreview0` // `org.immutables,criteria-mongo,2.8.0-CriteriaPreview0,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaPreview1` // `org.immutables,criteria-mongo,2.8.0-CriteriaPreview1,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaPreview2` // `org.immutables,criteria-mongo,2.8.0-CriteriaPreview2,org.immutables.criteria-mongo,-,automatic,-,false,-`
@@ -10696,9 +10827,11 @@
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.0-CriteriaRc0` // `org.immutables,criteria-mongo,2.8.0-CriteriaRc0,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.1` // `org.immutables,criteria-mongo,2.8.1,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.2` // `org.immutables,criteria-mongo,2.8.2,org.immutables.criteria-mongo,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-mongo` :left_right_arrow: `org.immutables:criteria-mongo:2.8.3` // `org.immutables,criteria-mongo,2.8.3,org.immutables.criteria-mongo,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-reactor` :left_right_arrow: `org.immutables:criteria-reactor:2.8.0` // `org.immutables,criteria-reactor,2.8.0,org.immutables.criteria-reactor,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-reactor` :left_right_arrow: `org.immutables:criteria-reactor:2.8.1` // `org.immutables,criteria-reactor,2.8.1,org.immutables.criteria-reactor,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-reactor` :left_right_arrow: `org.immutables:criteria-reactor:2.8.2` // `org.immutables,criteria-reactor,2.8.2,org.immutables.criteria-reactor,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-reactor` :left_right_arrow: `org.immutables:criteria-reactor:2.8.3` // `org.immutables,criteria-reactor,2.8.3,org.immutables.criteria-reactor,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava` :left_right_arrow: `org.immutables:criteria-rxjava:2.8.0-CriteriaPreview0` // `org.immutables,criteria-rxjava,2.8.0-CriteriaPreview0,org.immutables.criteria-rxjava,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava` :left_right_arrow: `org.immutables:criteria-rxjava:2.8.0-CriteriaPreview1` // `org.immutables,criteria-rxjava,2.8.0-CriteriaPreview1,org.immutables.criteria-rxjava,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava` :left_right_arrow: `org.immutables:criteria-rxjava:2.8.0-CriteriaPreview2` // `org.immutables,criteria-rxjava,2.8.0-CriteriaPreview2,org.immutables.criteria-rxjava,-,automatic,-,false,-`
@@ -10707,7 +10840,9 @@
 - :cd: `org.immutables.criteria-rxjava2` :left_right_arrow: `org.immutables:criteria-rxjava2:2.8.0` // `org.immutables,criteria-rxjava2,2.8.0,org.immutables.criteria-rxjava2,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava2` :left_right_arrow: `org.immutables:criteria-rxjava2:2.8.1` // `org.immutables,criteria-rxjava2,2.8.1,org.immutables.criteria-rxjava2,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-rxjava2` :left_right_arrow: `org.immutables:criteria-rxjava2:2.8.2` // `org.immutables,criteria-rxjava2,2.8.2,org.immutables.criteria-rxjava2,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-rxjava2` :left_right_arrow: `org.immutables:criteria-rxjava2:2.8.3` // `org.immutables,criteria-rxjava2,2.8.3,org.immutables.criteria-rxjava2,-,automatic,-,false,-`
 - :cd: `org.immutables.criteria-sql` :left_right_arrow: `org.immutables:criteria-sql:2.8.2` // `org.immutables,criteria-sql,2.8.2,org.immutables.criteria-sql,-,automatic,-,false,-`
+- :cd: `org.immutables.criteria-sql` :left_right_arrow: `org.immutables:criteria-sql:2.8.3` // `org.immutables,criteria-sql,2.8.3,org.immutables.criteria-sql,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.0` // `org.immutables,generator-fixture,2.7.0,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.1` // `org.immutables,generator-fixture,2.7.1,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.7.2` // `org.immutables,generator-fixture,2.7.2,org.immutables.generator-fixture,-,automatic,-,false,-`
@@ -10721,6 +10856,7 @@
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.0-CriteriaRc0` // `org.immutables,generator-fixture,2.8.0-CriteriaRc0,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.1` // `org.immutables,generator-fixture,2.8.1,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.2` // `org.immutables,generator-fixture,2.8.2,org.immutables.generator-fixture,-,automatic,-,false,-`
+- :cd: `org.immutables.generator-fixture` :left_right_arrow: `org.immutables:generator-fixture:2.8.3` // `org.immutables,generator-fixture,2.8.3,org.immutables.generator-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.0` // `org.immutables,generator-processor,2.7.0,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.1` // `org.immutables,generator-processor,2.7.1,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.7.2` // `org.immutables,generator-processor,2.7.2,org.immutables.generator-processor,-,automatic,-,false,-`
@@ -10734,6 +10870,7 @@
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.0-CriteriaRc0` // `org.immutables,generator-processor,2.8.0-CriteriaRc0,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.1` // `org.immutables,generator-processor,2.8.1,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.2` // `org.immutables,generator-processor,2.8.2,org.immutables.generator-processor,-,automatic,-,false,-`
+- :cd: `org.immutables.generator-processor` :left_right_arrow: `org.immutables:generator-processor:2.8.3` // `org.immutables,generator-processor,2.8.3,org.immutables.generator-processor,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaPreview0` // `org.immutables,processor-testlib,2.8.0-CriteriaPreview0,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaPreview1` // `org.immutables,processor-testlib,2.8.0-CriteriaPreview1,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaPreview2` // `org.immutables,processor-testlib,2.8.0-CriteriaPreview2,org.immutables.processor-testlib,-,automatic,-,false,-`
@@ -10741,6 +10878,7 @@
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.0-CriteriaRc0` // `org.immutables,processor-testlib,2.8.0-CriteriaRc0,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.1` // `org.immutables,processor-testlib,2.8.1,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.2` // `org.immutables,processor-testlib,2.8.2,org.immutables.processor-testlib,-,automatic,-,false,-`
+- :cd: `org.immutables.processor-testlib` :left_right_arrow: `org.immutables:processor-testlib:2.8.3` // `org.immutables,processor-testlib,2.8.3,org.immutables.processor-testlib,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.0` // `org.immutables,value-fixture,2.7.0,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.1` // `org.immutables,value-fixture,2.7.1,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.7.2` // `org.immutables,value-fixture,2.7.2,org.immutables.value-fixture,-,automatic,-,false,-`
@@ -10754,6 +10892,7 @@
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.0-CriteriaRc0` // `org.immutables,value-fixture,2.8.0-CriteriaRc0,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.1` // `org.immutables,value-fixture,2.8.1,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.2` // `org.immutables,value-fixture,2.8.2,org.immutables.value-fixture,-,automatic,-,false,-`
+- :cd: `org.immutables.value-fixture` :left_right_arrow: `org.immutables:value-fixture:2.8.3` // `org.immutables,value-fixture,2.8.3,org.immutables.value-fixture,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-camel` :left_right_arrow: `org.jberet:jberet-camel:1.3.0.Final` // `org.jberet,jberet-camel,1.3.0.Final,org.jberet.jberet-camel,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-core` :left_right_arrow: `org.jberet:jberet-core:1.3.1.Final` // `org.jberet,jberet-core,1.3.1.Final,org.jberet.jberet-core,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-core` :left_right_arrow: `org.jberet:jberet-core:1.4.0.Alpha` // `org.jberet,jberet-core,1.4.0.Alpha,org.jberet.jberet-core,-,automatic,-,false,-`
@@ -10799,6 +10938,7 @@
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.28.0.Final` // `org.jbpm.contrib,camel-workitem,7.28.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.29.0.Final` // `org.jbpm.contrib,camel-workitem,7.29.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.30.0.Final` // `org.jbpm.contrib,camel-workitem,7.30.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
+- :cd: `org.jbpm.contrib.camel-workitem` :left_right_arrow: `org.jbpm.contrib:camel-workitem:7.31.0.Final` // `org.jbpm.contrib,camel-workitem,7.31.0.Final,org.jbpm.contrib.camel-workitem,-,automatic,-,false,-`
 - :cd: `org.jetbrains.annotations-java5` :left_right_arrow: `org.jetbrains:annotations-java5:16.0.3` // `org.jetbrains,annotations-java5,16.0.3,org.jetbrains.annotations-java5,-,automatic,-,false,-`
 - :cd: `org.jetbrains.annotations-java5` :left_right_arrow: `org.jetbrains:annotations-java5:17.0.0` // `org.jetbrains,annotations-java5,17.0.0,org.jetbrains.annotations-java5,-,automatic,-,false,-`
 - :cd: `org.jetbrains.annotations-java5` :left_right_arrow: `org.jetbrains:annotations-java5:18.0.0` // `org.jetbrains,annotations-java5,18.0.0,org.jetbrains.annotations-java5,-,automatic,-,false,-`
@@ -10812,6 +10952,7 @@
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.5.0` // `org.kie.kogito,drools-canonical-model,0.5.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.5.1` // `org.kie.kogito,drools-canonical-model,0.5.1,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.6.0` // `org.kie.kogito,drools-canonical-model,0.6.0,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.canonical-model` :left_right_arrow: `org.kie.kogito:drools-canonical-model:0.6.1` // `org.kie.kogito,drools-canonical-model,0.6.1,org.kie.kogito.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.0` // `org.kie.kogito,drools-core-static,0.1.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.1` // `org.kie.kogito,drools-core-static,0.1.1,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.1.2` // `org.kie.kogito,drools-core-static,0.1.2,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
@@ -10822,6 +10963,7 @@
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.5.0` // `org.kie.kogito,drools-core-static,0.5.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.5.1` // `org.kie.kogito,drools-core-static,0.5.1,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.6.0` // `org.kie.kogito,drools-core-static,0.6.0,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.core.static` :left_right_arrow: `org.kie.kogito:drools-core-static:0.6.1` // `org.kie.kogito,drools-core-static,0.6.1,org.kie.kogito.drools.core.static,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.0` // `org.kie.kogito,drools-model-compiler,0.1.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.1` // `org.kie.kogito,drools-model-compiler,0.1.1,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.1.2` // `org.kie.kogito,drools-model-compiler,0.1.2,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
@@ -10832,12 +10974,14 @@
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.5.0` // `org.kie.kogito,drools-model-compiler,0.5.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.5.1` // `org.kie.kogito,drools-model-compiler,0.5.1,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.6.0` // `org.kie.kogito,drools-model-compiler,0.6.0,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.model-compiler` :left_right_arrow: `org.kie.kogito:drools-model-compiler:0.6.1` // `org.kie.kogito,drools-model-compiler,0.6.1,org.kie.kogito.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.2.0` // `org.kie.kogito,drools-mvel-compiler,0.2.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.3.0` // `org.kie.kogito,drools-mvel-compiler,0.3.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.4.0` // `org.kie.kogito,drools-mvel-compiler,0.4.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.5.0` // `org.kie.kogito,drools-mvel-compiler,0.5.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.5.1` // `org.kie.kogito,drools-mvel-compiler,0.5.1,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.6.0` // `org.kie.kogito,drools-mvel-compiler,0.6.0,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
+- :cd: `org.kie.kogito.drools.mvel-compiler` :left_right_arrow: `org.kie.kogito:drools-mvel-compiler:0.6.1` // `org.kie.kogito,drools-mvel-compiler,0.6.1,org.kie.kogito.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.10.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.11.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` :left_right_arrow: `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.12.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
