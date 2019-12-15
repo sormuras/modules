@@ -11465,6 +11465,7 @@
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.87` // `net.serenity-bdd,serenity-ant-task,2.0.87,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.88` // `net.serenity-bdd,serenity-ant-task,2.0.88,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.89` // `net.serenity-bdd,serenity-ant-task,2.0.89,serenity-ant-task,-,automatic,-,false,-`
+- :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.90` // `net.serenity-bdd,serenity-ant-task,2.0.90,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.81` // `net.serenity-bdd,serenity-assertions,2.0.81,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.82` // `net.serenity-bdd,serenity-assertions,2.0.82,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.84` // `net.serenity-bdd,serenity-assertions,2.0.84,serenity-assertions,-,automatic,-,false,-`
@@ -11473,6 +11474,7 @@
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.87` // `net.serenity-bdd,serenity-assertions,2.0.87,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.88` // `net.serenity-bdd,serenity-assertions,2.0.88,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.89` // `net.serenity-bdd,serenity-assertions,2.0.89,serenity-assertions,-,automatic,-,false,-`
+- :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.0.90` // `net.serenity-bdd,serenity-assertions,2.0.90,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.81` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.81,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.82` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.82,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.84` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.84,serenity-browsermob-plugin,-,automatic,-,false,-`
@@ -11481,6 +11483,7 @@
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.87` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.87,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.88` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.88,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.89` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.89,serenity-browsermob-plugin,-,automatic,-,false,-`
+- :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.0.90` // `net.serenity-bdd,serenity-browsermob-plugin,2.0.90,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.81` // `net.serenity-bdd,serenity-browserstack,2.0.81,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.82` // `net.serenity-bdd,serenity-browserstack,2.0.82,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.84` // `net.serenity-bdd,serenity-browserstack,2.0.84,serenity-browserstack,-,automatic,-,false,-`
@@ -11489,6 +11492,7 @@
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.87` // `net.serenity-bdd,serenity-browserstack,2.0.87,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.88` // `net.serenity-bdd,serenity-browserstack,2.0.88,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.89` // `net.serenity-bdd,serenity-browserstack,2.0.89,serenity-browserstack,-,automatic,-,false,-`
+- :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.0.90` // `net.serenity-bdd,serenity-browserstack,2.0.90,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.81` // `net.serenity-bdd,serenity-core,2.0.81,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.82` // `net.serenity-bdd,serenity-core,2.0.82,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.84` // `net.serenity-bdd,serenity-core,2.0.84,serenity-core,-,automatic,-,false,-`
@@ -11497,6 +11501,7 @@
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.87` // `net.serenity-bdd,serenity-core,2.0.87,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.88` // `net.serenity-bdd,serenity-core,2.0.88,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.89` // `net.serenity-bdd,serenity-core,2.0.89,serenity-core,-,automatic,-,false,-`
+- :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.0.90` // `net.serenity-bdd,serenity-core,2.0.90,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.81` // `net.serenity-bdd,serenity-emailer,2.0.81,serenity-emailer,-,automatic,-,false,-`
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.82` // `net.serenity-bdd,serenity-emailer,2.0.82,serenity-emailer,-,automatic,-,false,-`
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.84` // `net.serenity-bdd,serenity-emailer,2.0.84,serenity-emailer,-,automatic,-,false,-`
@@ -11505,6 +11510,7 @@
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.87` // `net.serenity-bdd,serenity-emailer,2.0.87,serenity-emailer,-,automatic,-,false,-`
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.88` // `net.serenity-bdd,serenity-emailer,2.0.88,serenity-emailer,-,automatic,-,false,-`
 - :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.89` // `net.serenity-bdd,serenity-emailer,2.0.89,serenity-emailer,-,automatic,-,false,-`
+- :cd: `serenity-emailer` :left_right_arrow: `net.serenity-bdd:serenity-emailer:2.0.90` // `net.serenity-bdd,serenity-emailer,2.0.90,serenity-emailer,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.81` // `net.serenity-bdd,serenity-ensure,2.0.81,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.82` // `net.serenity-bdd,serenity-ensure,2.0.82,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.84` // `net.serenity-bdd,serenity-ensure,2.0.84,serenity-ensure,-,automatic,-,false,-`
@@ -11513,6 +11519,7 @@
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.87` // `net.serenity-bdd,serenity-ensure,2.0.87,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.88` // `net.serenity-bdd,serenity-ensure,2.0.88,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.89` // `net.serenity-bdd,serenity-ensure,2.0.89,serenity-ensure,-,automatic,-,false,-`
+- :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.0.90` // `net.serenity-bdd,serenity-ensure,2.0.90,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.81` // `net.serenity-bdd,serenity-gradle-plugin,2.0.81,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.82` // `net.serenity-bdd,serenity-gradle-plugin,2.0.82,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.84` // `net.serenity-bdd,serenity-gradle-plugin,2.0.84,serenity-gradle-plugin,-,automatic,-,false,-`
@@ -11521,6 +11528,7 @@
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.87` // `net.serenity-bdd,serenity-gradle-plugin,2.0.87,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.88` // `net.serenity-bdd,serenity-gradle-plugin,2.0.88,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.89` // `net.serenity-bdd,serenity-gradle-plugin,2.0.89,serenity-gradle-plugin,-,automatic,-,false,-`
+- :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.0.90` // `net.serenity-bdd,serenity-gradle-plugin,2.0.90,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.81` // `net.serenity-bdd,serenity-junit,2.0.81,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.82` // `net.serenity-bdd,serenity-junit,2.0.82,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.84` // `net.serenity-bdd,serenity-junit,2.0.84,serenity-junit,-,automatic,-,false,-`
@@ -11529,6 +11537,7 @@
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.87` // `net.serenity-bdd,serenity-junit,2.0.87,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.88` // `net.serenity-bdd,serenity-junit,2.0.88,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.89` // `net.serenity-bdd,serenity-junit,2.0.89,serenity-junit,-,automatic,-,false,-`
+- :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.0.90` // `net.serenity-bdd,serenity-junit,2.0.90,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.81` // `net.serenity-bdd,serenity-model,2.0.81,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.82` // `net.serenity-bdd,serenity-model,2.0.82,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.84` // `net.serenity-bdd,serenity-model,2.0.84,serenity-model,-,automatic,-,false,-`
@@ -11537,6 +11546,7 @@
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.87` // `net.serenity-bdd,serenity-model,2.0.87,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.88` // `net.serenity-bdd,serenity-model,2.0.88,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.89` // `net.serenity-bdd,serenity-model,2.0.89,serenity-model,-,automatic,-,false,-`
+- :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.0.90` // `net.serenity-bdd,serenity-model,2.0.90,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.81` // `net.serenity-bdd,serenity-report-resources,2.0.81,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.82` // `net.serenity-bdd,serenity-report-resources,2.0.82,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.84` // `net.serenity-bdd,serenity-report-resources,2.0.84,serenity-report-resources,-,automatic,-,false,-`
@@ -11545,6 +11555,7 @@
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.87` // `net.serenity-bdd,serenity-report-resources,2.0.87,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.88` // `net.serenity-bdd,serenity-report-resources,2.0.88,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.89` // `net.serenity-bdd,serenity-report-resources,2.0.89,serenity-report-resources,-,automatic,-,false,-`
+- :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.0.90` // `net.serenity-bdd,serenity-report-resources,2.0.90,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.81` // `net.serenity-bdd,serenity-reports,2.0.81,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.82` // `net.serenity-bdd,serenity-reports,2.0.82,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.84` // `net.serenity-bdd,serenity-reports,2.0.84,serenity-reports,-,automatic,-,false,-`
@@ -11553,6 +11564,7 @@
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.87` // `net.serenity-bdd,serenity-reports,2.0.87,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.88` // `net.serenity-bdd,serenity-reports,2.0.88,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.89` // `net.serenity-bdd,serenity-reports,2.0.89,serenity-reports,-,automatic,-,false,-`
+- :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.0.90` // `net.serenity-bdd,serenity-reports,2.0.90,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.81` // `net.serenity-bdd,serenity-reports-configuration,2.0.81,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.82` // `net.serenity-bdd,serenity-reports-configuration,2.0.82,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.84` // `net.serenity-bdd,serenity-reports-configuration,2.0.84,serenity-reports-configuration,-,automatic,-,false,-`
@@ -11561,6 +11573,7 @@
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.87` // `net.serenity-bdd,serenity-reports-configuration,2.0.87,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.88` // `net.serenity-bdd,serenity-reports-configuration,2.0.88,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.89` // `net.serenity-bdd,serenity-reports-configuration,2.0.89,serenity-reports-configuration,-,automatic,-,false,-`
+- :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.0.90` // `net.serenity-bdd,serenity-reports-configuration,2.0.90,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.81` // `net.serenity-bdd,serenity-rest-assured,2.0.81,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.82` // `net.serenity-bdd,serenity-rest-assured,2.0.82,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.84` // `net.serenity-bdd,serenity-rest-assured,2.0.84,serenity-rest-assured,-,automatic,-,false,-`
@@ -11569,6 +11582,7 @@
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.87` // `net.serenity-bdd,serenity-rest-assured,2.0.87,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.88` // `net.serenity-bdd,serenity-rest-assured,2.0.88,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.89` // `net.serenity-bdd,serenity-rest-assured,2.0.89,serenity-rest-assured,-,automatic,-,false,-`
+- :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.0.90` // `net.serenity-bdd,serenity-rest-assured,2.0.90,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.81` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.81,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.82` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.82,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.84` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.84,serenity-sample-alternative-resources,-,automatic,-,false,-`
@@ -11577,6 +11591,7 @@
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.87` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.87,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.88` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.88,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.89` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.89,serenity-sample-alternative-resources,-,automatic,-,false,-`
+- :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.0.90` // `net.serenity-bdd,serenity-sample-alternative-resources,2.0.90,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.81` // `net.serenity-bdd,serenity-screenplay,2.0.81,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.82` // `net.serenity-bdd,serenity-screenplay,2.0.82,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.84` // `net.serenity-bdd,serenity-screenplay,2.0.84,serenity-screenplay,-,automatic,-,false,-`
@@ -11585,6 +11600,7 @@
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.87` // `net.serenity-bdd,serenity-screenplay,2.0.87,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.88` // `net.serenity-bdd,serenity-screenplay,2.0.88,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.89` // `net.serenity-bdd,serenity-screenplay,2.0.89,serenity-screenplay,-,automatic,-,false,-`
+- :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.0.90` // `net.serenity-bdd,serenity-screenplay,2.0.90,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.81` // `net.serenity-bdd,serenity-screenplay-rest,2.0.81,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.82` // `net.serenity-bdd,serenity-screenplay-rest,2.0.82,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.84` // `net.serenity-bdd,serenity-screenplay-rest,2.0.84,serenity-screenplay-rest,-,automatic,-,false,-`
@@ -11593,6 +11609,7 @@
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.87` // `net.serenity-bdd,serenity-screenplay-rest,2.0.87,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.88` // `net.serenity-bdd,serenity-screenplay-rest,2.0.88,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.89` // `net.serenity-bdd,serenity-screenplay-rest,2.0.89,serenity-screenplay-rest,-,automatic,-,false,-`
+- :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.0.90` // `net.serenity-bdd,serenity-screenplay-rest,2.0.90,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.81` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.81,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.82` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.82,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.84` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.84,serenity-screenplay-webdriver,-,automatic,-,false,-`
@@ -11601,6 +11618,7 @@
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.87` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.87,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.88` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.88,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.89` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.89,serenity-screenplay-webdriver,-,automatic,-,false,-`
+- :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.0.90` // `net.serenity-bdd,serenity-screenplay-webdriver,2.0.90,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.81` // `net.serenity-bdd,serenity-spring,2.0.81,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.82` // `net.serenity-bdd,serenity-spring,2.0.82,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.84` // `net.serenity-bdd,serenity-spring,2.0.84,serenity-spring,-,automatic,-,false,-`
@@ -11609,6 +11627,7 @@
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.87` // `net.serenity-bdd,serenity-spring,2.0.87,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.88` // `net.serenity-bdd,serenity-spring,2.0.88,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.89` // `net.serenity-bdd,serenity-spring,2.0.89,serenity-spring,-,automatic,-,false,-`
+- :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.0.90` // `net.serenity-bdd,serenity-spring,2.0.90,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.81` // `net.serenity-bdd,serenity-stats,2.0.81,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.82` // `net.serenity-bdd,serenity-stats,2.0.82,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.84` // `net.serenity-bdd,serenity-stats,2.0.84,serenity-stats,-,automatic,-,false,-`
@@ -11617,6 +11636,7 @@
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.87` // `net.serenity-bdd,serenity-stats,2.0.87,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.88` // `net.serenity-bdd,serenity-stats,2.0.88,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.89` // `net.serenity-bdd,serenity-stats,2.0.89,serenity-stats,-,automatic,-,false,-`
+- :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.0.90` // `net.serenity-bdd,serenity-stats,2.0.90,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.81` // `net.serenity-bdd,serenity-test-utils,2.0.81,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.82` // `net.serenity-bdd,serenity-test-utils,2.0.82,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.84` // `net.serenity-bdd,serenity-test-utils,2.0.84,serenity-test-utils,-,automatic,-,false,-`
@@ -11625,6 +11645,7 @@
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.87` // `net.serenity-bdd,serenity-test-utils,2.0.87,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.88` // `net.serenity-bdd,serenity-test-utils,2.0.88,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.89` // `net.serenity-bdd,serenity-test-utils,2.0.89,serenity-test-utils,-,automatic,-,false,-`
+- :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.0.90` // `net.serenity-bdd,serenity-test-utils,2.0.90,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.81` // `net.serenity-bdd,serenity-zalenium,2.0.81,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.82` // `net.serenity-bdd,serenity-zalenium,2.0.82,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.84` // `net.serenity-bdd,serenity-zalenium,2.0.84,serenity-zalenium,-,automatic,-,false,-`
@@ -11633,6 +11654,7 @@
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.87` // `net.serenity-bdd,serenity-zalenium,2.0.87,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.88` // `net.serenity-bdd,serenity-zalenium,2.0.88,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.89` // `net.serenity-bdd,serenity-zalenium,2.0.89,serenity-zalenium,-,automatic,-,false,-`
+- :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.90` // `net.serenity-bdd,serenity-zalenium,2.0.90,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.2.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.2.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.3.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-springsecurity3` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-springsecurity3:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-springsecurity3,3.0.3.RELEASE,thymeleaf-extras-springsecurity3,-,automatic,-,false,-`
