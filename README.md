@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5668 Java modules published at Maven Central
+Counted 5669 Java modules published at Maven Central
 
-## Summary 2019-12-15T00:04:34.857312Z
+## Summary 2019-12-16T00:05:16.011106Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-15T00:04:34.857312Z
-Scanned 37,945 files in 4 seconds.
+Started scan at 2019-12-16T00:05:16.011106Z
+Scanned 38,032 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_14_23_36_14.csv
+    last -> modulescanner-report-2019_12_15_23_42_36.csv
 
-Parsed 2,522,242 lines in total.
-  41,731 -> captions skipped
-  180,542 -> duplicates skipped
-  113,902 -> module related
+Parsed 2,524,695 lines in total.
+  41,818 -> captions skipped
+  180,594 -> duplicates skipped
+  113,954 -> module related
 
-Collected 5,668 unique modules.
-  automatic :cd: -> 4,140
+Collected 5,669 unique modules.
+  automatic :cd: -> 4,141
   explicit :dvd: -> 1,528
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=3485, explicit=287, plain=65888}` 	 5.72%
+ - `2019_12={automatic=3512, explicit=289, plain=68150}` 	 5.58%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11783](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16124](suspicious/naming.md)
-- Modular impostors: [5588](suspicious/impostors.md)
+- Invalid module names: [11800](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16128](suspicious/naming.md)
+- Modular impostors: [5590](suspicious/impostors.md)
 
-## Unique Modules (5668)
+## Unique Modules (5669)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -900,7 +900,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
-- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.1`
+- :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.2`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.8`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.8`
 - :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.8`
@@ -1167,7 +1167,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.derby.optionaltools` :left_right_arrow: `org.apache.derby:derbyoptionaltools:10.15.1.3`
 - :dvd: `org.apache.derby.server` :left_right_arrow: `org.apache.derby:derbynet:10.15.1.3`
 - :dvd: `org.apache.derby.tools` :left_right_arrow: `org.apache.derby:derbytools:10.15.1.3`
-- :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.12.1`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.13.0`
 - :dvd: `org.apiguardian.api` :left_right_arrow: `org.apiguardian:apiguardian-api:1.1.0`
 - :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.14.0`
