@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5669 Java modules published at Maven Central
 
-## Summary 2019-12-16T00:05:16.011106Z
+## Summary 2019-12-17T00:05:31.607713Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-16T00:05:16.011106Z
-Scanned 38,032 files in 5 seconds.
+Started scan at 2019-12-17T00:05:31.607713Z
+Scanned 38,109 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_15_23_42_36.csv
+    last -> modulescanner-report-2019_12_16_23_33_51.csv
 
-Parsed 2,524,695 lines in total.
-  41,818 -> captions skipped
-  180,594 -> duplicates skipped
-  113,954 -> module related
+Parsed 2,531,182 lines in total.
+  41,895 -> captions skipped
+  181,379 -> duplicates skipped
+  114,338 -> module related
 
 Collected 5,669 unique modules.
   automatic :cd: -> 4,141
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=3512, explicit=289, plain=68150}` 	 5.58%
+ - `2019_12={automatic=3794, explicit=329, plain=73391}` 	 5.62%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,9 +110,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11800](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16128](suspicious/naming.md)
-- Modular impostors: [5590](suspicious/impostors.md)
+- Invalid module names: [11852](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16132](suspicious/naming.md)
+- Modular impostors: [5596](suspicious/impostors.md)
 
 ## Unique Modules (5669)
 
@@ -740,46 +740,46 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
-- :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.2`
-- :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.2`
-- :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.2`
-- :dvd: `com.speedment.common.codegen` :left_right_arrow: `com.speedment.common:codegen:3.2.2`
-- :dvd: `com.speedment.common.codegenxml` :left_right_arrow: `com.speedment.common:codegenxml:3.2.2`
-- :dvd: `com.speedment.common.collection` :left_right_arrow: `com.speedment.common:collection:3.2.2`
-- :dvd: `com.speedment.common.combinatorics` :left_right_arrow: `com.speedment.common:combinatorics:3.2.2`
-- :dvd: `com.speedment.common.function` :left_right_arrow: `com.speedment.common:function:3.2.2`
-- :dvd: `com.speedment.common.injector` :left_right_arrow: `com.speedment.common:injector:3.2.2`
-- :dvd: `com.speedment.common.invariant` :left_right_arrow: `com.speedment.common:invariant:3.2.2`
-- :dvd: `com.speedment.common.json` :left_right_arrow: `com.speedment.common:json:3.2.2`
-- :dvd: `com.speedment.common.jvm_version` :left_right_arrow: `com.speedment.common:jvm-version:3.2.2`
-- :dvd: `com.speedment.common.logger` :left_right_arrow: `com.speedment.common:logger:3.2.2`
+- :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.5`
+- :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.5`
+- :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.5`
+- :dvd: `com.speedment.common.codegen` :left_right_arrow: `com.speedment.common:codegen:3.2.5`
+- :dvd: `com.speedment.common.codegenxml` :left_right_arrow: `com.speedment.common:codegenxml:3.2.5`
+- :dvd: `com.speedment.common.collection` :left_right_arrow: `com.speedment.common:collection:3.2.5`
+- :dvd: `com.speedment.common.combinatorics` :left_right_arrow: `com.speedment.common:combinatorics:3.2.5`
+- :dvd: `com.speedment.common.function` :left_right_arrow: `com.speedment.common:function:3.2.5`
+- :dvd: `com.speedment.common.injector` :left_right_arrow: `com.speedment.common:injector:3.2.5`
+- :dvd: `com.speedment.common.invariant` :left_right_arrow: `com.speedment.common:invariant:3.2.5`
+- :dvd: `com.speedment.common.json` :left_right_arrow: `com.speedment.common:json:3.2.5`
+- :dvd: `com.speedment.common.jvm_version` :left_right_arrow: `com.speedment.common:jvm-version:3.2.5`
+- :dvd: `com.speedment.common.logger` :left_right_arrow: `com.speedment.common:logger:3.2.5`
 - :dvd: `com.speedment.common.mapbuilder` :left_right_arrow: `com.speedment.common:mapbuilder:3.2.2`
-- :dvd: `com.speedment.common.mapstream` :left_right_arrow: `com.speedment.common:mapstream:3.2.2`
-- :dvd: `com.speedment.common.rest` :left_right_arrow: `com.speedment.common:rest:3.2.2`
-- :dvd: `com.speedment.common.singletonstream` :left_right_arrow: `com.speedment.common:singleton-stream:3.2.2`
-- :dvd: `com.speedment.common.tuple` :left_right_arrow: `com.speedment.common:tuple:3.2.2`
-- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.2`
-- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.2`
-- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.2`
-- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.2`
-- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.2`
-- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.2`
-- :dvd: `com.speedment.runtime.bulk` :left_right_arrow: `com.speedment.runtime:runtime-bulk:3.2.2`
-- :dvd: `com.speedment.runtime.compute` :left_right_arrow: `com.speedment.runtime:runtime-compute:3.2.2`
-- :dvd: `com.speedment.runtime.config` :left_right_arrow: `com.speedment.runtime:runtime-config:3.2.2`
-- :dvd: `com.speedment.runtime.connector.mariadb` :left_right_arrow: `com.speedment.runtime:connector-mariadb:3.2.2`
-- :dvd: `com.speedment.runtime.connector.mysql` :left_right_arrow: `com.speedment.runtime:connector-mysql:3.2.2`
-- :dvd: `com.speedment.runtime.connector.postgres` :left_right_arrow: `com.speedment.runtime:connector-postgres:3.2.2`
-- :dvd: `com.speedment.runtime.connector.sqlite` :left_right_arrow: `com.speedment.runtime:connector-sqlite:3.2.2`
-- :dvd: `com.speedment.runtime.core` :left_right_arrow: `com.speedment.runtime:runtime-core:3.2.2`
-- :dvd: `com.speedment.runtime.field` :left_right_arrow: `com.speedment.runtime:runtime-field:3.2.2`
-- :dvd: `com.speedment.runtime.join` :left_right_arrow: `com.speedment.runtime:runtime-join:3.2.2`
-- :dvd: `com.speedment.runtime.typemapper` :left_right_arrow: `com.speedment.runtime:runtime-typemapper:3.2.2`
-- :dvd: `com.speedment.runtime.welcome` :left_right_arrow: `com.speedment.runtime:runtime-welcome:3.2.2`
-- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.2`
-- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.2`
-- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.2`
-- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.2`
+- :dvd: `com.speedment.common.mapstream` :left_right_arrow: `com.speedment.common:mapstream:3.2.5`
+- :dvd: `com.speedment.common.rest` :left_right_arrow: `com.speedment.common:rest:3.2.5`
+- :dvd: `com.speedment.common.singletonstream` :left_right_arrow: `com.speedment.common:singleton-stream:3.2.5`
+- :dvd: `com.speedment.common.tuple` :left_right_arrow: `com.speedment.common:tuple:3.2.5`
+- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.5`
+- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.5`
+- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.5`
+- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.5`
+- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.5`
+- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.5`
+- :dvd: `com.speedment.runtime.bulk` :left_right_arrow: `com.speedment.runtime:runtime-bulk:3.2.5`
+- :dvd: `com.speedment.runtime.compute` :left_right_arrow: `com.speedment.runtime:runtime-compute:3.2.5`
+- :dvd: `com.speedment.runtime.config` :left_right_arrow: `com.speedment.runtime:runtime-config:3.2.5`
+- :dvd: `com.speedment.runtime.connector.mariadb` :left_right_arrow: `com.speedment.runtime:connector-mariadb:3.2.5`
+- :dvd: `com.speedment.runtime.connector.mysql` :left_right_arrow: `com.speedment.runtime:connector-mysql:3.2.5`
+- :dvd: `com.speedment.runtime.connector.postgres` :left_right_arrow: `com.speedment.runtime:connector-postgres:3.2.5`
+- :dvd: `com.speedment.runtime.connector.sqlite` :left_right_arrow: `com.speedment.runtime:connector-sqlite:3.2.5`
+- :dvd: `com.speedment.runtime.core` :left_right_arrow: `com.speedment.runtime:runtime-core:3.2.5`
+- :dvd: `com.speedment.runtime.field` :left_right_arrow: `com.speedment.runtime:runtime-field:3.2.5`
+- :dvd: `com.speedment.runtime.join` :left_right_arrow: `com.speedment.runtime:runtime-join:3.2.5`
+- :dvd: `com.speedment.runtime.typemapper` :left_right_arrow: `com.speedment.runtime:runtime-typemapper:3.2.5`
+- :dvd: `com.speedment.runtime.welcome` :left_right_arrow: `com.speedment.runtime:runtime-welcome:3.2.5`
+- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.5`
+- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.5`
+- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.5`
+- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.5`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
@@ -843,7 +843,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M7`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-M8`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
