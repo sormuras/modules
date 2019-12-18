@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5669 Java modules published at Maven Central
+Counted 5676 Java modules published at Maven Central
 
-## Summary 2019-12-17T00:05:31.607713Z
+## Summary 2019-12-18T00:05:37.021939Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-17T00:05:31.607713Z
-Scanned 38,109 files in 5 seconds.
+Started scan at 2019-12-18T00:05:37.021939Z
+Scanned 38,177 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_16_23_33_51.csv
+    last -> modulescanner-report-2019_12_17_23_36_20.csv
 
-Parsed 2,531,182 lines in total.
-  41,895 -> captions skipped
-  181,379 -> duplicates skipped
-  114,338 -> module related
+Parsed 2,542,250 lines in total.
+  41,963 -> captions skipped
+  183,351 -> duplicates skipped
+  114,990 -> module related
 
-Collected 5,669 unique modules.
-  automatic :cd: -> 4,141
-  explicit :dvd: -> 1,528
+Collected 5,676 unique modules.
+  automatic :cd: -> 4,140
+  explicit :dvd: -> 1,536
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=3794, explicit=329, plain=73391}` 	 5.62%
+ - `2019_12={automatic=4244, explicit=351, plain=81767}` 	 5.62%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11852](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16132](suspicious/naming.md)
-- Modular impostors: [5596](suspicious/impostors.md)
+- Invalid module names: [11862](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16287](suspicious/naming.md)
+- Modular impostors: [5611](suspicious/impostors.md)
 
-## Unique Modules (5669)
+## Unique Modules (5676)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -263,14 +263,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
 - :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
+- :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0-beta.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.1.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.1`
-- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.1.0`
+- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.1.0`
 - :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.1.0`
-- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.1.0`
-- :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.1.0`
+- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0-beta.1`
+- :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0-beta.1`
+- :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0-beta.1`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
 - :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
@@ -376,6 +378,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.6.0`
 - :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.6.0`
 - :dvd: `com.github.nhojpatrick.data` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
+- :dvd: `com.github.nhojpatrick.hamcrest.all` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.1`
+- :dvd: `com.github.nhojpatrick.hamcrest.collections` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.1`
+- :dvd: `com.github.nhojpatrick.hamcrest.datetime` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-datetime:1.0.1`
+- :dvd: `com.github.nhojpatrick.hamcrest.lang` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
+- :dvd: `com.github.nhojpatrick.hamcrest.optionals` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
 - :dvd: `com.github.nhojpatrick.lang` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
 - :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.6.0`
 - :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.6.0`
@@ -397,7 +404,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.6`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.7`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -899,7 +906,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.58`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.59`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.2`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.8`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.8`
@@ -1453,11 +1460,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.lwjgl.yoga` :left_right_arrow: `org.lwjgl:lwjgl-yoga:3.2.3`
 - :dvd: `org.lwjgl.zstd` :left_right_arrow: `org.lwjgl:lwjgl-zstd:3.2.3`
 - :dvd: `org.meeuw.i18n` :left_right_arrow: `org.meeuw.i18n:i18n-regions:0.5`
-- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:0.5`
-- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:0.5`
+- :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-continents:1.0.0`
+- :dvd: `org.meeuw.i18n.countries` :left_right_arrow: `org.meeuw.i18n:i18n-regions-countries:1.0.0`
 - :dvd: `org.meeuw.i18n.formerlyassigned` :left_right_arrow: `org.meeuw.i18n:i18n-formerly-assigned:0.5`
-- :dvd: `org.meeuw.i18n.openlocationcode` :left_right_arrow: `org.meeuw.i18n:i18n-regions-openlocationcode:0.5`
-- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:0.5`
+- :dvd: `org.meeuw.i18n.openlocationcode` :left_right_arrow: `org.meeuw.i18n:i18n-regions-openlocationcode:1.0.0`
+- :dvd: `org.meeuw.i18n.regions` :left_right_arrow: `org.meeuw.i18n:i18n-regions:1.0.0`
+- :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:1.0.0`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2`
@@ -1572,11 +1580,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `pw.krejci.log4j2.tracedepth` :left_right_arrow: `pw.krejci:tracedepth-log4j2-plugin:0.1.0`
 - :dvd: `ro.derbederos.hamcrest` :left_right_arrow: `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` :left_right_arrow: `ro.derbederos:untwist:0.5`
-- :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.2.0`
-- :dvd: `se.l4.commons.id` :left_right_arrow: `se.l4.commons:commons-id:1.2.0`
-- :dvd: `se.l4.commons.io` :left_right_arrow: `se.l4.commons:commons-io:1.2.0`
-- :dvd: `se.l4.commons.serialization` :left_right_arrow: `se.l4.commons:commons-serialization:1.2.0`
-- :dvd: `se.l4.commons.types` :left_right_arrow: `se.l4.commons:commons-types:1.2.0`
+- :dvd: `se.l4.commons.guice` :left_right_arrow: `se.l4.commons:commons-config:1.2.1`
+- :dvd: `se.l4.commons.id` :left_right_arrow: `se.l4.commons:commons-id:1.2.1`
+- :dvd: `se.l4.commons.io` :left_right_arrow: `se.l4.commons:commons-io:1.2.1`
+- :dvd: `se.l4.commons.serialization` :left_right_arrow: `se.l4.commons:commons-serialization:1.2.1`
+- :dvd: `se.l4.commons.types` :left_right_arrow: `se.l4.commons:commons-types:1.2.1`
 - :dvd: `se.l4.crayon` :left_right_arrow: `se.l4.crayon:crayon-core:1.1.0`
 - :dvd: `se.l4.crayon.services` :left_right_arrow: `se.l4.crayon:crayon-lib-services:1.1.0`
 - :dvd: `si.uom.quantity` :left_right_arrow: `si.uom:si-quantity:2.0.1`

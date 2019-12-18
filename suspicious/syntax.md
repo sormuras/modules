@@ -3266,6 +3266,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.11` // `org.neo4j,neo4j-ast-3.5,3.5.11,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.12` // `org.neo4j,neo4j-ast-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.13` // `org.neo4j,neo4j-ast-3.5,3.5.13,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.14` // `org.neo4j,neo4j-ast-3.5,3.5.14,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.2` // `org.neo4j,neo4j-ast-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.3` // `org.neo4j,neo4j-ast-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ast-3.5:3.5.4` // `org.neo4j,neo4j-ast-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3280,6 +3281,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.11` // `org.neo4j,neo4j-expressions-3.5,3.5.11,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.12` // `org.neo4j,neo4j-expressions-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.13` // `org.neo4j,neo4j-expressions-3.5,3.5.13,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.14` // `org.neo4j,neo4j-expressions-3.5,3.5.14,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.2` // `org.neo4j,neo4j-expressions-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.3` // `org.neo4j,neo4j-expressions-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-expressions-3.5:3.5.4` // `org.neo4j,neo4j-expressions-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3318,6 +3320,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.11` // `org.neo4j,neo4j-parser-3.5,3.5.11,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.12` // `org.neo4j,neo4j-parser-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.13` // `org.neo4j,neo4j-parser-3.5,3.5.13,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.14` // `org.neo4j,neo4j-parser-3.5,3.5.14,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.2` // `org.neo4j,neo4j-parser-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.3` // `org.neo4j,neo4j-parser-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.4` // `org.neo4j,neo4j-parser-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3332,6 +3335,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.11` // `org.neo4j,neo4j-rewriting-3.5,3.5.11,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.12` // `org.neo4j,neo4j-rewriting-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.13` // `org.neo4j,neo4j-rewriting-3.5,3.5.13,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.14` // `org.neo4j,neo4j-rewriting-3.5,3.5.14,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.2` // `org.neo4j,neo4j-rewriting-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.3` // `org.neo4j,neo4j-rewriting-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-rewriting-3.5:3.5.4` // `org.neo4j,neo4j-rewriting-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -10044,6 +10048,7 @@
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.0` // `com.blackducksoftware.integration,blackduck-common,45.0.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.1` // `com.blackducksoftware.integration,blackduck-common,45.0.1,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.2` // `com.blackducksoftware.integration,blackduck-common,45.0.2,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.3` // `com.blackducksoftware.integration,blackduck-common,45.0.3,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.2` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.2,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
@@ -10059,6 +10064,7 @@
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.4` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.4,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.5` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.5,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.6` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.6,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.7` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.7,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.0` // `com.synopsys.integration,coverity-common,0.2.0,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.1` // `com.synopsys.integration,coverity-common,0.2.1,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.2` // `com.synopsys.integration,coverity-common,0.2.2,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
@@ -10095,6 +10101,7 @@
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.0` // `com.blackducksoftware.integration,integration-bdio,18.3.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.1` // `com.blackducksoftware.integration,integration-bdio,18.3.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.2` // `com.blackducksoftware.integration,integration-bdio,18.3.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.3` // `com.blackducksoftware.integration,integration-bdio,18.3.3,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:16.0.0` // `com.blackducksoftware.integration,integration-common,16.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:16.1.0` // `com.blackducksoftware.integration,integration-common,16.1.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.0.0` // `com.blackducksoftware.integration,integration-common,17.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
@@ -10105,6 +10112,7 @@
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.3.0` // `com.blackducksoftware.integration,integration-common,17.3.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.4.0` // `com.blackducksoftware.integration,integration-common,17.4.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.5.0` // `com.blackducksoftware.integration,integration-common,17.5.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:18.0.0` // `com.blackducksoftware.integration,integration-common,18.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.0` // `com.blackducksoftware.integration,integration-reporting,0.3.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.1` // `com.blackducksoftware.integration,integration-reporting,0.3.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.2` // `com.blackducksoftware.integration,integration-reporting,0.3.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
@@ -10115,6 +10123,7 @@
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.7` // `com.blackducksoftware.integration,integration-reporting,0.3.7,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.0` // `com.blackducksoftware.integration,integration-reporting,0.4.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.1` // `com.blackducksoftware.integration,integration-reporting,0.4.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.2` // `com.blackducksoftware.integration,integration-reporting,0.4.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-common` :left_right_arrow: `com.synopsys.integration:issuetracker-common:0.0.1` // `com.synopsys.integration,issuetracker-common,0.0.1,com.synopsys.integration.issuetracker-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` :left_right_arrow: `com.synopsys.integration:issuetracker-jira:0.0.1` // `com.synopsys.integration,issuetracker-jira,0.0.1,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-annotation-processor` :left_right_arrow: `com.synopsys.integration:jenkins-annotation-processor:0.0.1` // `com.synopsys.integration,jenkins-annotation-processor,0.0.1,com.synopsys.integration.jenkins-annotation-processor,-,automatic,-,false,-`
@@ -10125,6 +10134,7 @@
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.11` // `com.blackducksoftware.integration,phone-home-client,0.21.11,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.2` // `com.blackducksoftware.integration,phone-home-client,0.21.2,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.3` // `com.blackducksoftware.integration,phone-home-client,0.21.3,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.4` // `com.blackducksoftware.integration,phone-home-client,0.21.4,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
