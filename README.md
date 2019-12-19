@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5676 Java modules published at Maven Central
+Counted 5691 Java modules published at Maven Central
 
-## Summary 2019-12-18T00:05:37.021939Z
+## Summary 2019-12-19T00:06:07.201906Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-18T00:05:37.021939Z
-Scanned 38,177 files in 5 seconds.
+Started scan at 2019-12-19T00:06:07.201906Z
+Scanned 38,254 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_17_23_36_20.csv
+    last -> modulescanner-report-2019_12_18_23_33_44.csv
 
-Parsed 2,542,250 lines in total.
-  41,963 -> captions skipped
-  183,351 -> duplicates skipped
-  114,990 -> module related
+Parsed 2,549,214 lines in total.
+  42,040 -> captions skipped
+  184,067 -> duplicates skipped
+  115,592 -> module related
 
-Collected 5,676 unique modules.
-  automatic :cd: -> 4,140
+Collected 5,691 unique modules.
+  automatic :cd: -> 4,155
   explicit :dvd: -> 1,536
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=4244, explicit=351, plain=81767}` 	 5.62%
+ - `2019_12={automatic=4591, explicit=353, plain=87336}` 	 5.66%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11862](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16287](suspicious/naming.md)
-- Modular impostors: [5611](suspicious/impostors.md)
+- Invalid module names: [11903](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16488](suspicious/naming.md)
+- Modular impostors: [5622](suspicious/impostors.md)
 
-## Unique Modules (5676)
+## Unique Modules (5691)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -263,7 +263,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
 - :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
-- :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0-beta.1`
+- :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0-beta.2`
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.1.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.1`
@@ -349,7 +349,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.21`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.22`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`

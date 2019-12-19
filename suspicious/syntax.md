@@ -417,6 +417,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.41.Final` // `io.netty,netty-microbench,4.1.41.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.42.Final` // `io.netty,netty-microbench,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.43.Final` // `io.netty,netty-microbench,4.1.43.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-microbench:4.1.44.Final` // `io.netty,netty-microbench,4.1.44.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.29.Final` // `io.netty,netty-testsuite-autobahn,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.30.Final` // `io.netty,netty-testsuite-autobahn,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.31.Final` // `io.netty,netty-testsuite-autobahn,4.1.31.Final,-,-,automatic,-,false,-`
@@ -432,6 +433,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.41.Final` // `io.netty,netty-testsuite-autobahn,4.1.41.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.42.Final` // `io.netty,netty-testsuite-autobahn,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.43.Final` // `io.netty,netty-testsuite-autobahn,4.1.43.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-autobahn:4.1.44.Final` // `io.netty,netty-testsuite-autobahn,4.1.44.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.29.Final` // `io.netty,netty-testsuite-http2,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.30.Final` // `io.netty,netty-testsuite-http2,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.31.Final` // `io.netty,netty-testsuite-http2,4.1.31.Final,-,-,automatic,-,false,-`
@@ -447,6 +449,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.41.Final` // `io.netty,netty-testsuite-http2,4.1.41.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.42.Final` // `io.netty,netty-testsuite-http2,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.43.Final` // `io.netty,netty-testsuite-http2,4.1.43.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-http2:4.1.44.Final` // `io.netty,netty-testsuite-http2,4.1.44.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.36.Final` // `io.netty,netty-testsuite-native-image,4.1.36.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.37.Final` // `io.netty,netty-testsuite-native-image,4.1.37.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.38.Final` // `io.netty,netty-testsuite-native-image,4.1.38.Final,-,-,automatic,-,false,-`
@@ -455,6 +458,8 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.41.Final` // `io.netty,netty-testsuite-native-image,4.1.41.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.42.Final` // `io.netty,netty-testsuite-native-image,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.43.Final` // `io.netty,netty-testsuite-native-image,4.1.43.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-testsuite-native-image:4.1.44.Final` // `io.netty,netty-testsuite-native-image,4.1.44.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-transport-blockhound-tests:4.1.44.Final` // `io.netty,netty-transport-blockhound-tests,4.1.44.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.29.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.30.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.31.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.31.Final,-,-,automatic,-,false,-`
@@ -470,6 +475,7 @@
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.41.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.41.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.42.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.42.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.43.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.43.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `io.netty:netty-transport-native-unix-common-tests:4.1.44.Final` // `io.netty,netty-transport-native-unix-common-tests,4.1.44.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52f` // `net.imagej,ij,1.52f,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52g` // `net.imagej,ij,1.52g,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
 - :cd: `` :left_right_arrow: `net.imagej:ij:1.52h` // `net.imagej,ij,1.52h,-,-,automatic,-,false,com.apple.eawt.Application               Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationEvent          Use java.awt.Desktop and JEP 272 @since 9 + com.apple.eawt.ApplicationListener       Use java.awt.Desktop and JEP 272 @since 9`
@@ -4253,6 +4259,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.1` // `au.com.dius,pact-jvm-consumer,4.0.1,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.2` // `au.com.dius,pact-jvm-consumer,4.0.2,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.3` // `au.com.dius,pact-jvm-consumer,4.0.3,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer` :left_right_arrow: `au.com.dius:pact-jvm-consumer:4.0.4` // `au.com.dius,pact-jvm-consumer,4.0.4,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.0` // `au.com.dius,pact-jvm-consumer-groovy,4.0.0,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer-groovy,4.0.0-beta.1,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer-groovy,4.0.0-beta.2,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
@@ -4263,6 +4270,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.1` // `au.com.dius,pact-jvm-consumer-groovy,4.0.1,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.2` // `au.com.dius,pact-jvm-consumer-groovy,4.0.2,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.3` // `au.com.dius,pact-jvm-consumer-groovy,4.0.3,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer-groovy` :left_right_arrow: `au.com.dius:pact-jvm-consumer-groovy:4.0.4` // `au.com.dius,pact-jvm-consumer-groovy,4.0.4,au.com.dius.pact-jvm-consumer-groovy,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.0` // `au.com.dius,pact-jvm-consumer-java8,4.0.0,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer-java8,4.0.0-beta.1,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer-java8,4.0.0-beta.2,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
@@ -4273,6 +4281,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.1` // `au.com.dius,pact-jvm-consumer-java8,4.0.1,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.2` // `au.com.dius,pact-jvm-consumer-java8,4.0.2,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.3` // `au.com.dius,pact-jvm-consumer-java8,4.0.3,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer-java8` :left_right_arrow: `au.com.dius:pact-jvm-consumer-java8:4.0.4` // `au.com.dius,pact-jvm-consumer-java8,4.0.4,au.com.dius.pact-jvm-consumer-java8,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.0` // `au.com.dius,pact-jvm-consumer-junit,4.0.0,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer-junit,4.0.0-beta.1,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer-junit,4.0.0-beta.2,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
@@ -4283,6 +4292,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.1` // `au.com.dius,pact-jvm-consumer-junit,4.0.1,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.2` // `au.com.dius,pact-jvm-consumer-junit,4.0.2,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.3` // `au.com.dius,pact-jvm-consumer-junit,4.0.3,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer-junit` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit:4.0.4` // `au.com.dius,pact-jvm-consumer-junit,4.0.4,au.com.dius.pact-jvm-consumer-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.0` // `au.com.dius,pact-jvm-consumer-junit5,4.0.0,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer-junit5,4.0.0-beta.1,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer-junit5,4.0.0-beta.2,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
@@ -4293,6 +4303,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.1` // `au.com.dius,pact-jvm-consumer-junit5,4.0.1,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.2` // `au.com.dius,pact-jvm-consumer-junit5,4.0.2,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.3` // `au.com.dius,pact-jvm-consumer-junit5,4.0.3,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer-junit5` :left_right_arrow: `au.com.dius:pact-jvm-consumer-junit5:4.0.4` // `au.com.dius,pact-jvm-consumer-junit5,4.0.4,au.com.dius.pact-jvm-consumer-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.0` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.0,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.0-beta.2,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.0-beta.3` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.0-beta.3,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
@@ -4302,6 +4313,7 @@
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.1` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.1,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.2` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.2,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.3` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.3,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-consumer-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.4` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.4,au.com.dius.pact-jvm-consumer-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.0` // `au.com.dius,pact-jvm-core-matchers,4.0.0,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-matchers,4.0.0-beta.0,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.0-beta.1` // `au.com.dius,pact-jvm-core-matchers,4.0.0-beta.1,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
@@ -4313,6 +4325,7 @@
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.1` // `au.com.dius,pact-jvm-core-matchers,4.0.1,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.2` // `au.com.dius,pact-jvm-core-matchers,4.0.2,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.3` // `au.com.dius,pact-jvm-core-matchers,4.0.3,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-matchers` :left_right_arrow: `au.com.dius:pact-jvm-core-matchers:4.0.4` // `au.com.dius,pact-jvm-core-matchers,4.0.4,au.com.dius.pact-jvm-core-matchers,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.0` // `au.com.dius,pact-jvm-core-model,4.0.0,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-model,4.0.0-beta.0,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.0-beta.1` // `au.com.dius,pact-jvm-core-model,4.0.0-beta.1,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
@@ -4324,6 +4337,7 @@
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.1` // `au.com.dius,pact-jvm-core-model,4.0.1,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.2` // `au.com.dius,pact-jvm-core-model,4.0.2,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.3` // `au.com.dius,pact-jvm-core-model,4.0.3,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-model` :left_right_arrow: `au.com.dius:pact-jvm-core-model:4.0.4` // `au.com.dius,pact-jvm-core-model,4.0.4,au.com.dius.pact-jvm-core-model,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.0` // `au.com.dius,pact-jvm-core-pact-broker,4.0.0,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-pact-broker,4.0.0-beta.0,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.0-beta.1` // `au.com.dius,pact-jvm-core-pact-broker,4.0.0-beta.1,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
@@ -4335,6 +4349,7 @@
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.1` // `au.com.dius,pact-jvm-core-pact-broker,4.0.1,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.2` // `au.com.dius,pact-jvm-core-pact-broker,4.0.2,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.3` // `au.com.dius,pact-jvm-core-pact-broker,4.0.3,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-pact-broker` :left_right_arrow: `au.com.dius:pact-jvm-core-pact-broker:4.0.4` // `au.com.dius,pact-jvm-core-pact-broker,4.0.4,au.com.dius.pact-jvm-core-pact-broker,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.0` // `au.com.dius,pact-jvm-core-support,4.0.0,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.0-beta.0` // `au.com.dius,pact-jvm-core-support,4.0.0-beta.0,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.0-beta.1` // `au.com.dius,pact-jvm-core-support,4.0.0-beta.1,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
@@ -4346,6 +4361,7 @@
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.1` // `au.com.dius,pact-jvm-core-support,4.0.1,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.2` // `au.com.dius,pact-jvm-core-support,4.0.2,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.3` // `au.com.dius,pact-jvm-core-support,4.0.3,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-core-support` :left_right_arrow: `au.com.dius:pact-jvm-core-support:4.0.4` // `au.com.dius,pact-jvm-core-support,4.0.4,au.com.dius.pact-jvm-core-support,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.0` // `au.com.dius,pact-jvm-provider,4.0.0,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider,4.0.0-beta.1,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider,4.0.0-beta.2,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
@@ -4356,6 +4372,7 @@
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.1` // `au.com.dius,pact-jvm-provider,4.0.1,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.2` // `au.com.dius,pact-jvm-provider,4.0.2,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.3` // `au.com.dius,pact-jvm-provider,4.0.3,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider` :left_right_arrow: `au.com.dius:pact-jvm-provider:4.0.4` // `au.com.dius,pact-jvm-provider,4.0.4,au.com.dius.pact-jvm-provider,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.0` // `au.com.dius,pact-jvm-provider-gradle,4.0.0,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-gradle,4.0.0-beta.1,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-gradle,4.0.0-beta.2,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
@@ -4366,6 +4383,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.1` // `au.com.dius,pact-jvm-provider-gradle,4.0.1,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.2` // `au.com.dius,pact-jvm-provider-gradle,4.0.2,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.3` // `au.com.dius,pact-jvm-provider-gradle,4.0.3,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-gradle` :left_right_arrow: `au.com.dius:pact-jvm-provider-gradle:4.0.4` // `au.com.dius,pact-jvm-provider-gradle,4.0.4,au.com.dius.pact-jvm-provider-gradle,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.0` // `au.com.dius,pact-jvm-provider-junit,4.0.0,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-junit,4.0.0-beta.1,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-junit,4.0.0-beta.2,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
@@ -4376,6 +4394,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.1` // `au.com.dius,pact-jvm-provider-junit,4.0.1,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.2` // `au.com.dius,pact-jvm-provider-junit,4.0.2,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.3` // `au.com.dius,pact-jvm-provider-junit,4.0.3,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-junit` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit:4.0.4` // `au.com.dius,pact-jvm-provider-junit,4.0.4,au.com.dius.pact-jvm-provider-junit,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.0` // `au.com.dius,pact-jvm-provider-junit5,4.0.0,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-junit5,4.0.0-beta.1,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-junit5,4.0.0-beta.2,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
@@ -4386,6 +4405,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.1` // `au.com.dius,pact-jvm-provider-junit5,4.0.1,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.2` // `au.com.dius,pact-jvm-provider-junit5,4.0.2,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.3` // `au.com.dius,pact-jvm-provider-junit5,4.0.3,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-junit5` :left_right_arrow: `au.com.dius:pact-jvm-provider-junit5:4.0.4` // `au.com.dius,pact-jvm-provider-junit5,4.0.4,au.com.dius.pact-jvm-provider-junit5,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.0` // `au.com.dius,pact-jvm-provider-lein,4.0.0,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-lein,4.0.0-beta.1,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-lein,4.0.0-beta.2,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
@@ -4396,6 +4416,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.1` // `au.com.dius,pact-jvm-provider-lein,4.0.1,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.2` // `au.com.dius,pact-jvm-provider-lein,4.0.2,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.3` // `au.com.dius,pact-jvm-provider-lein,4.0.3,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-lein` :left_right_arrow: `au.com.dius:pact-jvm-provider-lein:4.0.4` // `au.com.dius,pact-jvm-provider-lein,4.0.4,au.com.dius.pact-jvm-provider-lein,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.0` // `au.com.dius,pact-jvm-provider-maven,4.0.0,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-maven,4.0.0-beta.1,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-maven,4.0.0-beta.2,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
@@ -4406,6 +4427,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.1` // `au.com.dius,pact-jvm-provider-maven,4.0.1,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.2` // `au.com.dius,pact-jvm-provider-maven,4.0.2,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.3` // `au.com.dius,pact-jvm-provider-maven,4.0.3,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-maven` :left_right_arrow: `au.com.dius:pact-jvm-provider-maven:4.0.4` // `au.com.dius,pact-jvm-provider-maven,4.0.4,au.com.dius.pact-jvm-provider-maven,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.0` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.0,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.0-beta.2,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.0-beta.3` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.0-beta.3,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
@@ -4415,6 +4437,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.1` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.1,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.2` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.2,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.3` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.3,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-scalasupport_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.4` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.4,au.com.dius.pact-jvm-provider-scalasupport_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.0` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.0,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.0-beta.2,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.0-beta.3` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.0-beta.3,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
@@ -4424,6 +4447,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.1` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.1,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.2` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.2,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.3` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.3,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-scalatest_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.4` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.4,au.com.dius.pact-jvm-provider-scalatest_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.0` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.0,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.0-beta.2,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.0-beta.3` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.0-beta.3,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
@@ -4433,6 +4457,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.1` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.1,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.2` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.2,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.3` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.3,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-specs2_2.12` :left_right_arrow: `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.4` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.4,au.com.dius.pact-jvm-provider-specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.0` // `au.com.dius,pact-jvm-provider-spring,4.0.0,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.0-beta.1` // `au.com.dius,pact-jvm-provider-spring,4.0.0-beta.1,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.0-beta.2` // `au.com.dius,pact-jvm-provider-spring,4.0.0-beta.2,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
@@ -4443,6 +4468,7 @@
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.1` // `au.com.dius,pact-jvm-provider-spring,4.0.1,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.2` // `au.com.dius,pact-jvm-provider-spring,4.0.2,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.3` // `au.com.dius,pact-jvm-provider-spring,4.0.3,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-provider-spring` :left_right_arrow: `au.com.dius:pact-jvm-provider-spring:4.0.4` // `au.com.dius,pact-jvm-provider-spring,4.0.4,au.com.dius.pact-jvm-provider-spring,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.0` // `au.com.dius,pact-jvm-server,4.0.0,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.0-beta.2` // `au.com.dius,pact-jvm-server,4.0.0-beta.2,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.0-beta.3` // `au.com.dius,pact-jvm-server,4.0.0-beta.3,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
@@ -4452,6 +4478,7 @@
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.1` // `au.com.dius,pact-jvm-server,4.0.1,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.2` // `au.com.dius,pact-jvm-server,4.0.2,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.3` // `au.com.dius,pact-jvm-server,4.0.3,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-jvm-server` :left_right_arrow: `au.com.dius:pact-jvm-server:4.0.4` // `au.com.dius,pact-jvm-server,4.0.4,au.com.dius.pact-jvm-server,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.0` // `au.com.dius,pact-publish,4.0.0,au.com.dius.pact-publish,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.0-beta.4` // `au.com.dius,pact-publish,4.0.0-beta.4,au.com.dius.pact-publish,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.0-beta.5` // `au.com.dius,pact-publish,4.0.0-beta.5,au.com.dius.pact-publish,-,automatic,-,false,-`
@@ -4459,6 +4486,7 @@
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.1` // `au.com.dius,pact-publish,4.0.1,au.com.dius.pact-publish,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.2` // `au.com.dius,pact-publish,4.0.2,au.com.dius.pact-publish,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.3` // `au.com.dius,pact-publish,4.0.3,au.com.dius.pact-publish,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-publish` :left_right_arrow: `au.com.dius:pact-publish:4.0.4` // `au.com.dius,pact-publish,4.0.4,au.com.dius.pact-publish,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.0` // `au.com.dius,pact-specification-test,4.0.0,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.0-beta.1` // `au.com.dius,pact-specification-test,4.0.0-beta.1,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.0-beta.2` // `au.com.dius,pact-specification-test,4.0.0-beta.2,au.com.dius.pact-specification-test,-,automatic,-,false,-`
@@ -4469,6 +4497,9 @@
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.1` // `au.com.dius,pact-specification-test,4.0.1,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.2` // `au.com.dius,pact-specification-test,4.0.2,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.3` // `au.com.dius,pact-specification-test,4.0.3,au.com.dius.pact-specification-test,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.4` // `au.com.dius,pact-specification-test,4.0.4,au.com.dius.pact-specification-test,-,automatic,-,false,-`
+- :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0-rc1` // `org.simplejavamail,authenticated-socks-module,6.0.0-rc1,authenticated-socks-module,-,automatic,-,false,-`
+- :cd: `batch-module` :left_right_arrow: `org.simplejavamail:batch-module:6.0.0-rc1` // `org.simplejavamail,batch-module,6.0.0-rc1,batch-module,-,automatic,-,false,-`
 - :cd: `beta.jboss.websocket-client.api` :left_right_arrow: `org.jboss.spec.javax.websocket:jakarta.websocket-client-api:2.0.0.Final` // `org.jboss.spec.javax.websocket,jakarta.websocket-client-api,2.0.0.Final,beta.jboss.websocket-client.api,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:4.3.0` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,4.3.0,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:4.3.1` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,4.3.1,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
@@ -9877,6 +9908,7 @@
 - :cd: `cas-server-webapp-undertow` :left_right_arrow: `org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC2` // `org.apereo.cas,cas-server-webapp-undertow,6.1.0-RC2,cas-server-webapp-undertow,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-undertow` :left_right_arrow: `org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp-undertow,6.1.0-RC3,cas-server-webapp-undertow,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-undertow` :left_right_arrow: `org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp-undertow,6.1.0-RC4,cas-server-webapp-undertow,-,automatic,-,false,-`
+- :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.0-rc1` // `org.simplejavamail,cli-module,6.0.0-rc1,cli-module,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jboss-el` :left_right_arrow: `com.github.albfernandez:jboss-el:1.1.0` // `com.github.albfernandez,jboss-el,1.1.0,com.github.albfernandez.jboss-el,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` :left_right_arrow: `com.github.albfernandez:jbpm-examples:3.2.13.ayg` // `com.github.albfernandez,jbpm-examples,3.2.13.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` :left_right_arrow: `com.github.albfernandez:jbpm-examples:3.2.14.ayg` // `com.github.albfernandez,jbpm-examples,3.2.14.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
@@ -10131,6 +10163,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` :left_right_arrow: `com.synopsys.integration:jenkins-common:0.1.0` // `com.synopsys.integration,jenkins-common,0.1.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` :left_right_arrow: `com.synopsys.integration:jenkins-common:0.1.1` // `com.synopsys.integration,jenkins-common,0.1.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` :left_right_arrow: `com.synopsys.integration:jenkins-common:0.1.2` // `com.synopsys.integration,jenkins-common,0.1.2,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` :left_right_arrow: `com.synopsys.integration:jenkins-common:0.1.3` // `com.synopsys.integration,jenkins-common,0.1.3,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -10161,6 +10194,8 @@
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.7` // `com.synopsys.integration,polaris-common-api,0.0.7,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.8` // `com.synopsys.integration,polaris-common-api,0.0.8,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.9` // `com.synopsys.integration,polaris-common-api,0.0.9,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
+- :cd: `core-module` :left_right_arrow: `org.simplejavamail:core-module:6.0.0-rc1` // `org.simplejavamail,core-module,6.0.0-rc1,core-module,-,automatic,-,false,-`
+- :cd: `core-test-module` :left_right_arrow: `org.simplejavamail:core-test-module:6.0.0-rc1` // `org.simplejavamail,core-test-module,6.0.0-rc1,core-test-module,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-cdi` :left_right_arrow: `de.saxsys:mvvmfx-cdi:1.8.0` // `de.saxsys,mvvmfx-cdi,1.8.0,de.saxsys.mvvmfx-cdi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-easydi` :left_right_arrow: `de.saxsys:mvvmfx-easydi:1.8.0` // `de.saxsys,mvvmfx-easydi,1.8.0,de.saxsys.mvvmfx-easydi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-guice` :left_right_arrow: `de.saxsys:mvvmfx-guice:1.8.0` // `de.saxsys,mvvmfx-guice,1.8.0,de.saxsys.mvvmfx-guice,-,automatic,-,false,-`
@@ -10168,6 +10203,7 @@
 - :cd: `de.saxsys.mvvmfx-testing-utils` :left_right_arrow: `de.saxsys:mvvmfx-testing-utils:1.8.0` // `de.saxsys,mvvmfx-testing-utils,1.8.0,de.saxsys.mvvmfx-testing-utils,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-utils` :left_right_arrow: `de.saxsys:mvvmfx-utils:1.8.0` // `de.saxsys,mvvmfx-utils,1.8.0,de.saxsys.mvvmfx-utils,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-validation` :left_right_arrow: `de.saxsys:mvvmfx-validation:1.8.0` // `de.saxsys,mvvmfx-validation,1.8.0,de.saxsys.mvvmfx-validation,-,automatic,-,false,-`
+- :cd: `dkim-module` :left_right_arrow: `org.simplejavamail:dkim-module:6.0.0-rc1` // `org.simplejavamail,dkim-module,6.0.0-rc1,dkim-module,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.admin-rest` :left_right_arrow: `ru.vyarus.guicey:guicey-admin-rest:5.0.0-0` // `ru.vyarus.guicey,guicey-admin-rest,5.0.0-0,dropwizard-guicey.admin-rest,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.admin-rest` :left_right_arrow: `ru.vyarus.guicey:guicey-admin-rest:5.0.0-0-rc.2` // `ru.vyarus.guicey,guicey-admin-rest,5.0.0-0-rc.2,dropwizard-guicey.admin-rest,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.core` :left_right_arrow: `ru.vyarus:dropwizard-guicey:5.0.0` // `ru.vyarus,dropwizard-guicey,5.0.0,dropwizard-guicey.core,-,automatic,-,false,-`
@@ -10991,6 +11027,7 @@
 - :cd: `org.jberet.jberet-vertx-rest` :left_right_arrow: `org.jberet:jberet-vertx-rest:1.3.0.Final` // `org.jberet,jberet-vertx-rest,1.3.0.Final,org.jberet.jberet-vertx-rest,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-vertx-shell` :left_right_arrow: `org.jberet:jberet-vertx-shell:1.3.0.Final` // `org.jberet,jberet-vertx-shell,1.3.0.Final,org.jberet.jberet-vertx-shell,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-ejb` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-ejb:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-ejb,1.3.0.Final,org.jberet.jberet-wildfly-cluster-ejb,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-wildfly-cluster-infinispan` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-infinispan:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-infinispan,1.3.0.Final,org.jberet.jberet-wildfly-cluster-infinispan,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-jms` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-jms:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-jms,1.3.0.Final,org.jberet.jberet-wildfly-cluster-jms,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-servlet` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-servlet:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-servlet,1.3.0.Final,org.jberet.jberet-wildfly-cluster-servlet,-,automatic,-,false,-`
 - :cd: `org.jberet.samples.jberet-samples-common` :left_right_arrow: `org.jberet.samples:jberet-samples-common:1.3.0.Final` // `org.jberet.samples,jberet-samples-common,1.3.0.Final,org.jberet.samples.jberet-samples-common,-,automatic,-,false,-`
@@ -11526,6 +11563,7 @@
 - :cd: `org.xmlunit.xmlunit-legacy` :left_right_arrow: `org.xmlunit:xmlunit-legacy:2.6.1` // `org.xmlunit,xmlunit-legacy,2.6.1,org.xmlunit.xmlunit-legacy,-,automatic,-,false,-`
 - :cd: `org.xmlunit.xmlunit-matchers` :left_right_arrow: `org.xmlunit:xmlunit-matchers:2.6.1` // `org.xmlunit,xmlunit-matchers,2.6.1,org.xmlunit.xmlunit-matchers,-,automatic,-,false,-`
 - :cd: `org.xmlunit.xmlunit-placeholders` :left_right_arrow: `org.xmlunit:xmlunit-placeholders:2.6.1` // `org.xmlunit,xmlunit-placeholders,2.6.1,org.xmlunit.xmlunit-placeholders,-,automatic,-,false,-`
+- :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0-rc1` // `org.simplejavamail,outlook-module,6.0.0-rc1,outlook-module,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0` // `com.squareup.wire,proto-pruner,3.0.0,proto-pruner,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0-alpha01` // `com.squareup.wire,proto-pruner,3.0.0-alpha01,proto-pruner,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0-alpha02` // `com.squareup.wire,proto-pruner,3.0.0-alpha02,proto-pruner,-,automatic,-,false,-`
@@ -11734,6 +11772,9 @@
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.88` // `net.serenity-bdd,serenity-zalenium,2.0.88,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.89` // `net.serenity-bdd,serenity-zalenium,2.0.89,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.90` // `net.serenity-bdd,serenity-zalenium,2.0.90,serenity-zalenium,-,automatic,-,false,-`
+- :cd: `simple-java-mail` :left_right_arrow: `org.simplejavamail:simple-java-mail:6.0.0-rc1` // `org.simplejavamail,simple-java-mail,6.0.0-rc1,simple-java-mail,-,automatic,-,false,-`
+- :cd: `smime-module` :left_right_arrow: `org.simplejavamail:smime-module:6.0.0-rc1` // `org.simplejavamail,smime-module,6.0.0-rc1,smime-module,-,automatic,-,false,-`
+- :cd: `spring-module` :left_right_arrow: `org.simplejavamail:spring-module:6.0.0-rc1` // `org.simplejavamail,spring-module,6.0.0-rc1,spring-module,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.2.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.2.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.3.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-springsecurity3` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-springsecurity3:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-springsecurity3,3.0.3.RELEASE,thymeleaf-extras-springsecurity3,-,automatic,-,false,-`

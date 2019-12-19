@@ -287,6 +287,8 @@
 - :cd: `com.google.common` :left_right_arrow: `org.checkerframework.annotatedlib:guava:27.0.1-jre` // `org.checkerframework.annotatedlib,guava,27.0.1-jre,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.common` :left_right_arrow: `org.checkerframework.annotatedlib:guava:27.1-jre` // `org.checkerframework.annotatedlib,guava,27.1-jre,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.common` :left_right_arrow: `org.checkerframework.annotatedlib:guava:28.0-jre` // `org.checkerframework.annotatedlib,guava,28.0-jre,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `com.google.googlejavaformat` :left_right_arrow: `com.github.tjni.beholder:beholder:1.7.1` // `com.github.tjni.beholder,beholder,1.7.1,com.google.googlejavaformat,-,automatic,-,false,-`
+- :cd: `com.google.googlejavaformat` :left_right_arrow: `com.github.tjni.beholder:beholder:1.7.2` // `com.github.tjni.beholder,beholder,1.7.2,com.google.googlejavaformat,-,automatic,-,false,-`
 - :dvd: `com.google.guice` :left_right_arrow: `com.guicedee.services:guice:0.70.0.1` // `com.guicedee.services,guice,0.70.0.1,com.google.guice,0.70.0.1,explicit,aopalliance + cglib + com.google.common + java.base + java.logging + java.xml + javax.inject + org.apache.commons.lang3 + org.objectweb.asm,false,-`
 - :dvd: `com.google.guice` :left_right_arrow: `com.guicedee.services:guice:0.70.0.1-rc1` // `com.guicedee.services,guice,0.70.0.1-rc1,com.google.guice,0.70.0.1-rc1,explicit,aopalliance + cglib + com.google.common + java.base + java.logging + java.xml + javax.inject + org.apache.commons.lang3 + org.objectweb.asm,false,-`
 - :dvd: `com.google.guice` :left_right_arrow: `com.guicedee.services:guice:0.70.0.1-rc13` // `com.guicedee.services,guice,0.70.0.1-rc13,com.google.guice,0.70.0.1-rc13,explicit,aopalliance + cglib + com.google.common + java.base + java.logging + java.xml + javax.inject + org.apache.commons.lang3 + org.objectweb.asm,false,-`
@@ -2852,6 +2854,7 @@
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.1.3` // `io.micronaut,micronaut-views,1.1.3,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.2.0` // `io.micronaut,micronaut-views,1.2.0,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.2.0.RC1` // `io.micronaut,micronaut-views,1.2.0.RC1,io.micronaut.views,-,automatic,-,false,-`
+- :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.3.0` // `io.micronaut,micronaut-views,1.3.0,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` :left_right_arrow: `io.micronaut:micronaut-views:1.3.0.RC1` // `io.micronaut,micronaut-views,1.3.0.RC1,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.0.0` // `io.micronaut,micronaut-websocket,1.0.0,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` :left_right_arrow: `io.micronaut:micronaut-websocket:1.0.0.RC3` // `io.micronaut,micronaut-websocket,1.0.0.RC3,io.micronaut.websocket,-,automatic,-,false,-`
@@ -2943,6 +2946,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.108.0` // `org.finra.herd,herd-access-validator,0.108.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.109.0` // `org.finra.herd,herd-access-validator,0.109.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.110.0` // `org.finra.herd,herd-access-validator,0.110.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-access-validator:0.111.0` // `org.finra.herd,herd-access-validator,0.111.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
@@ -2952,6 +2956,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.108.0` // `org.finra.herd,herd-downloader,0.108.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.109.0` // `org.finra.herd,herd-downloader,0.109.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.110.0` // `org.finra.herd,herd-downloader,0.110.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.111.0` // `org.finra.herd,herd-downloader,0.111.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2974,6 +2979,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.108.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.108.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.109.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.109.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.110.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.110.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.111.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.111.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -2996,6 +3002,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.108.0` // `org.finra.herd,herd-retention-expiration-exporter,0.108.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.109.0` // `org.finra.herd,herd-retention-expiration-exporter,0.109.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.110.0` // `org.finra.herd,herd-retention-expiration-exporter,0.110.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.111.0` // `org.finra.herd,herd-retention-expiration-exporter,0.111.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -3018,6 +3025,7 @@
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.108.0` // `org.finra.herd,herd-uploader,0.108.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.109.0` // `org.finra.herd,herd-uploader,0.109.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.110.0` // `org.finra.herd,herd-uploader,0.110.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.111.0` // `org.finra.herd,herd-uploader,0.111.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` :left_right_arrow: `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4841,6 +4849,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.11.55` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.11.55,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.12.55` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.12.55,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.13.55` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.13.55,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.14.55` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.14.55,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.2.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.2.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.3.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.3.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `com.graphaware.neo4j:graphaware-framework-embedded:3.5.4.53` // `com.graphaware.neo4j,graphaware-framework-embedded,3.5.4.53,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -5044,6 +5053,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.56` // `org.reaktivity,nukleus-oauth,0.56,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.57` // `org.reaktivity,nukleus-oauth,0.57,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.58` // `org.reaktivity,nukleus-oauth,0.58,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` :left_right_arrow: `org.reaktivity:nukleus-oauth:0.59` // `org.reaktivity,nukleus-oauth,0.59,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` :left_right_arrow: `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
@@ -5327,6 +5337,7 @@
 - :dvd: `org.slf4j` :left_right_arrow: `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.0-b` // `com.bytes-pot,daraja-api,1.0-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.1-b` // `com.bytes-pot,daraja-api,1.1-b,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.2-b` // `com.bytes-pot,daraja-api,1.2-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.96` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.96,org.slf4j,-,explicit,java.base,false,-`
