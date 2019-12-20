@@ -3309,6 +3309,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.1` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.2` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.3` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-bolt-native-types:3.2.4` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-RC1` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-RC1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.0-RC2` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.0-RC2,-,-,automatic,-,false,-`
@@ -3321,6 +3322,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.1` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.2` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.3` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.3,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j:neo4j-ogm-embedded-native-types:3.2.4` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.4,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.1` // `org.neo4j,neo4j-parser-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.10` // `org.neo4j,neo4j-parser-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j:neo4j-parser-3.5:3.5.11` // `org.neo4j,neo4j-parser-3.5,3.5.11,-,-,automatic,-,false,-`
@@ -4499,7 +4501,9 @@
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.3` // `au.com.dius,pact-specification-test,4.0.3,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` :left_right_arrow: `au.com.dius:pact-specification-test:4.0.4` // `au.com.dius,pact-specification-test,4.0.4,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0-rc1` // `org.simplejavamail,authenticated-socks-module,6.0.0-rc1,authenticated-socks-module,-,automatic,-,false,-`
+- :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0-rc2` // `org.simplejavamail,authenticated-socks-module,6.0.0-rc2,authenticated-socks-module,-,automatic,-,false,-`
 - :cd: `batch-module` :left_right_arrow: `org.simplejavamail:batch-module:6.0.0-rc1` // `org.simplejavamail,batch-module,6.0.0-rc1,batch-module,-,automatic,-,false,-`
+- :cd: `batch-module` :left_right_arrow: `org.simplejavamail:batch-module:6.0.0-rc2` // `org.simplejavamail,batch-module,6.0.0-rc2,batch-module,-,automatic,-,false,-`
 - :cd: `beta.jboss.websocket-client.api` :left_right_arrow: `org.jboss.spec.javax.websocket:jakarta.websocket-client-api:2.0.0.Final` // `org.jboss.spec.javax.websocket,jakarta.websocket-client-api,2.0.0.Final,beta.jboss.websocket-client.api,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:4.3.0` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,4.3.0,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:4.3.1` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,4.3.1,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
@@ -9909,6 +9913,7 @@
 - :cd: `cas-server-webapp-undertow` :left_right_arrow: `org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp-undertow,6.1.0-RC3,cas-server-webapp-undertow,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-undertow` :left_right_arrow: `org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp-undertow,6.1.0-RC4,cas-server-webapp-undertow,-,automatic,-,false,-`
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.0-rc1` // `org.simplejavamail,cli-module,6.0.0-rc1,cli-module,-,automatic,-,false,-`
+- :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.0-rc2` // `org.simplejavamail,cli-module,6.0.0-rc2,cli-module,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jboss-el` :left_right_arrow: `com.github.albfernandez:jboss-el:1.1.0` // `com.github.albfernandez,jboss-el,1.1.0,com.github.albfernandez.jboss-el,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` :left_right_arrow: `com.github.albfernandez:jbpm-examples:3.2.13.ayg` // `com.github.albfernandez,jbpm-examples,3.2.13.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` :left_right_arrow: `com.github.albfernandez:jbpm-examples:3.2.14.ayg` // `com.github.albfernandez,jbpm-examples,3.2.14.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
@@ -10145,6 +10150,7 @@
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.4.0` // `com.blackducksoftware.integration,integration-common,17.4.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.5.0` // `com.blackducksoftware.integration,integration-common,17.5.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:18.0.0` // `com.blackducksoftware.integration,integration-common,18.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:18.0.1` // `com.blackducksoftware.integration,integration-common,18.0.1,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.0` // `com.blackducksoftware.integration,integration-reporting,0.3.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.1` // `com.blackducksoftware.integration,integration-reporting,0.3.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.3.2` // `com.blackducksoftware.integration,integration-reporting,0.3.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
@@ -10195,7 +10201,9 @@
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.8` // `com.synopsys.integration,polaris-common-api,0.0.8,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` :left_right_arrow: `com.synopsys.integration:polaris-common-api:0.0.9` // `com.synopsys.integration,polaris-common-api,0.0.9,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `core-module` :left_right_arrow: `org.simplejavamail:core-module:6.0.0-rc1` // `org.simplejavamail,core-module,6.0.0-rc1,core-module,-,automatic,-,false,-`
+- :cd: `core-module` :left_right_arrow: `org.simplejavamail:core-module:6.0.0-rc2` // `org.simplejavamail,core-module,6.0.0-rc2,core-module,-,automatic,-,false,-`
 - :cd: `core-test-module` :left_right_arrow: `org.simplejavamail:core-test-module:6.0.0-rc1` // `org.simplejavamail,core-test-module,6.0.0-rc1,core-test-module,-,automatic,-,false,-`
+- :cd: `core-test-module` :left_right_arrow: `org.simplejavamail:core-test-module:6.0.0-rc2` // `org.simplejavamail,core-test-module,6.0.0-rc2,core-test-module,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-cdi` :left_right_arrow: `de.saxsys:mvvmfx-cdi:1.8.0` // `de.saxsys,mvvmfx-cdi,1.8.0,de.saxsys.mvvmfx-cdi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-easydi` :left_right_arrow: `de.saxsys:mvvmfx-easydi:1.8.0` // `de.saxsys,mvvmfx-easydi,1.8.0,de.saxsys.mvvmfx-easydi,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-guice` :left_right_arrow: `de.saxsys:mvvmfx-guice:1.8.0` // `de.saxsys,mvvmfx-guice,1.8.0,de.saxsys.mvvmfx-guice,-,automatic,-,false,-`
@@ -10204,6 +10212,7 @@
 - :cd: `de.saxsys.mvvmfx-utils` :left_right_arrow: `de.saxsys:mvvmfx-utils:1.8.0` // `de.saxsys,mvvmfx-utils,1.8.0,de.saxsys.mvvmfx-utils,-,automatic,-,false,-`
 - :cd: `de.saxsys.mvvmfx-validation` :left_right_arrow: `de.saxsys:mvvmfx-validation:1.8.0` // `de.saxsys,mvvmfx-validation,1.8.0,de.saxsys.mvvmfx-validation,-,automatic,-,false,-`
 - :cd: `dkim-module` :left_right_arrow: `org.simplejavamail:dkim-module:6.0.0-rc1` // `org.simplejavamail,dkim-module,6.0.0-rc1,dkim-module,-,automatic,-,false,-`
+- :cd: `dkim-module` :left_right_arrow: `org.simplejavamail:dkim-module:6.0.0-rc2` // `org.simplejavamail,dkim-module,6.0.0-rc2,dkim-module,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.admin-rest` :left_right_arrow: `ru.vyarus.guicey:guicey-admin-rest:5.0.0-0` // `ru.vyarus.guicey,guicey-admin-rest,5.0.0-0,dropwizard-guicey.admin-rest,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.admin-rest` :left_right_arrow: `ru.vyarus.guicey:guicey-admin-rest:5.0.0-0-rc.2` // `ru.vyarus.guicey,guicey-admin-rest,5.0.0-0-rc.2,dropwizard-guicey.admin-rest,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.core` :left_right_arrow: `ru.vyarus:dropwizard-guicey:5.0.0` // `ru.vyarus,dropwizard-guicey,5.0.0,dropwizard-guicey.core,-,automatic,-,false,-`
@@ -11027,9 +11036,13 @@
 - :cd: `org.jberet.jberet-vertx-rest` :left_right_arrow: `org.jberet:jberet-vertx-rest:1.3.0.Final` // `org.jberet,jberet-vertx-rest,1.3.0.Final,org.jberet.jberet-vertx-rest,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-vertx-shell` :left_right_arrow: `org.jberet:jberet-vertx-shell:1.3.0.Final` // `org.jberet,jberet-vertx-shell,1.3.0.Final,org.jberet.jberet-vertx-shell,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-ejb` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-ejb:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-ejb,1.3.0.Final,org.jberet.jberet-wildfly-cluster-ejb,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-wildfly-cluster-ejb` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-ejb:1.3.1.Final` // `org.jberet,jberet-wildfly-cluster-ejb,1.3.1.Final,org.jberet.jberet-wildfly-cluster-ejb,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-infinispan` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-infinispan:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-infinispan,1.3.0.Final,org.jberet.jberet-wildfly-cluster-infinispan,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-wildfly-cluster-infinispan` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-infinispan:1.3.1.Final` // `org.jberet,jberet-wildfly-cluster-infinispan,1.3.1.Final,org.jberet.jberet-wildfly-cluster-infinispan,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-jms` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-jms:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-jms,1.3.0.Final,org.jberet.jberet-wildfly-cluster-jms,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-wildfly-cluster-jms` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-jms:1.3.1.Final` // `org.jberet,jberet-wildfly-cluster-jms,1.3.1.Final,org.jberet.jberet-wildfly-cluster-jms,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-wildfly-cluster-servlet` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-servlet:1.3.0.Final` // `org.jberet,jberet-wildfly-cluster-servlet,1.3.0.Final,org.jberet.jberet-wildfly-cluster-servlet,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-wildfly-cluster-servlet` :left_right_arrow: `org.jberet:jberet-wildfly-cluster-servlet:1.3.1.Final` // `org.jberet,jberet-wildfly-cluster-servlet,1.3.1.Final,org.jberet.jberet-wildfly-cluster-servlet,-,automatic,-,false,-`
 - :cd: `org.jberet.samples.jberet-samples-common` :left_right_arrow: `org.jberet.samples:jberet-samples-common:1.3.0.Final` // `org.jberet.samples,jberet-samples-common,1.3.0.Final,org.jberet.samples.jberet-samples-common,-,automatic,-,false,-`
 - :cd: `org.jboss.seam.cdk-test-component` :left_right_arrow: `com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.0.ayg` // `com.github.albfernandez.richfaces.cdk.test,cdk-test-component,4.6.0.ayg,org.jboss.seam.cdk-test-component,-,automatic,-,false,-`
 - :cd: `org.jboss.seam.richfaces-cdk-maven-plugin` :left_right_arrow: `com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.0.ayg` // `com.github.albfernandez.richfaces.cdk,richfaces-cdk-maven-plugin,4.6.0.ayg,org.jboss.seam.richfaces-cdk-maven-plugin,-,automatic,-,false,-`
@@ -11564,6 +11577,7 @@
 - :cd: `org.xmlunit.xmlunit-matchers` :left_right_arrow: `org.xmlunit:xmlunit-matchers:2.6.1` // `org.xmlunit,xmlunit-matchers,2.6.1,org.xmlunit.xmlunit-matchers,-,automatic,-,false,-`
 - :cd: `org.xmlunit.xmlunit-placeholders` :left_right_arrow: `org.xmlunit:xmlunit-placeholders:2.6.1` // `org.xmlunit,xmlunit-placeholders,2.6.1,org.xmlunit.xmlunit-placeholders,-,automatic,-,false,-`
 - :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0-rc1` // `org.simplejavamail,outlook-module,6.0.0-rc1,outlook-module,-,automatic,-,false,-`
+- :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0-rc2` // `org.simplejavamail,outlook-module,6.0.0-rc2,outlook-module,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0` // `com.squareup.wire,proto-pruner,3.0.0,proto-pruner,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0-alpha01` // `com.squareup.wire,proto-pruner,3.0.0-alpha01,proto-pruner,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.0-alpha02` // `com.squareup.wire,proto-pruner,3.0.0-alpha02,proto-pruner,-,automatic,-,false,-`
@@ -11574,6 +11588,7 @@
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.1` // `com.squareup.wire,proto-pruner,3.0.1,proto-pruner,-,automatic,-,false,-`
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.2` // `com.squareup.wire,proto-pruner,3.0.2,proto-pruner,-,automatic,-,false,-`
 - :cd: `queryman-builder` :left_right_arrow: `org.queryman:queryman-builder:1.0.0` // `org.queryman,queryman-builder,1.0.0,queryman-builder,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard-orient-server` :left_right_arrow: `ru.vyarus:dropwizard-orient-server:3.0.0` // `ru.vyarus,dropwizard-orient-server,3.0.0,ru.vyarus.dropwizard-orient-server,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.81` // `net.serenity-bdd,serenity-ant-task,2.0.81,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.82` // `net.serenity-bdd,serenity-ant-task,2.0.82,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.84` // `net.serenity-bdd,serenity-ant-task,2.0.84,serenity-ant-task,-,automatic,-,false,-`
@@ -11773,8 +11788,10 @@
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.89` // `net.serenity-bdd,serenity-zalenium,2.0.89,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.0.90` // `net.serenity-bdd,serenity-zalenium,2.0.90,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `simple-java-mail` :left_right_arrow: `org.simplejavamail:simple-java-mail:6.0.0-rc1` // `org.simplejavamail,simple-java-mail,6.0.0-rc1,simple-java-mail,-,automatic,-,false,-`
+- :cd: `simple-java-mail` :left_right_arrow: `org.simplejavamail:simple-java-mail:6.0.0-rc2` // `org.simplejavamail,simple-java-mail,6.0.0-rc2,simple-java-mail,-,automatic,-,false,-`
 - :cd: `smime-module` :left_right_arrow: `org.simplejavamail:smime-module:6.0.0-rc1` // `org.simplejavamail,smime-module,6.0.0-rc1,smime-module,-,automatic,-,false,-`
 - :cd: `spring-module` :left_right_arrow: `org.simplejavamail:spring-module:6.0.0-rc1` // `org.simplejavamail,spring-module,6.0.0-rc1,spring-module,-,automatic,-,false,-`
+- :cd: `spring-module` :left_right_arrow: `org.simplejavamail:spring-module:6.0.0-rc2` // `org.simplejavamail,spring-module,6.0.0-rc2,spring-module,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.2.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.2.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-java8time` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-java8time:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-java8time,3.0.3.RELEASE,thymeleaf-extras-java8time,-,automatic,-,false,-`
 - :cd: `thymeleaf-extras-springsecurity3` :left_right_arrow: `org.thymeleaf.extras:thymeleaf-extras-springsecurity3:3.0.3.RELEASE` // `org.thymeleaf.extras,thymeleaf-extras-springsecurity3,3.0.3.RELEASE,thymeleaf-extras-springsecurity3,-,automatic,-,false,-`
