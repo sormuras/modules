@@ -742,6 +742,7 @@
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.29.0.Final` // `org.drools,drools-scenario-simulation-api,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.30.0.Final` // `org.drools,drools-scenario-simulation-api,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.31.0.Final` // `org.drools,drools-scenario-simulation-api,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-api:7.32.0.k20191220` // `org.drools,drools-scenario-simulation-api,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.22.0.t042` // `org.drools,drools-scenario-simulation-backend,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.23.0.Final` // `org.drools,drools-scenario-simulation-backend,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.24.0.t043` // `org.drools,drools-scenario-simulation-backend,7.24.0.t043,-,-,automatic,-,false,-`
@@ -752,6 +753,7 @@
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.29.0.Final` // `org.drools,drools-scenario-simulation-backend,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.30.0.Final` // `org.drools,drools-scenario-simulation-backend,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.31.0.Final` // `org.drools,drools-scenario-simulation-backend,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools:drools-scenario-simulation-backend:7.32.0.k20191220` // `org.drools,drools-scenario-simulation-backend,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -774,6 +776,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -796,6 +799,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -818,6 +822,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -840,6 +845,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -862,6 +868,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -884,6 +891,7 @@
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.29.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.30.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.31.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.31.0.Final,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.32.0.k20191220` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.32.0.k20191220,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3364,6 +3372,7 @@
 - :cd: `` :left_right_arrow: `org.neo4j.licensing-proxy:zstd-proxy:3.5.9` // `org.neo4j.licensing-proxy,zstd-proxy,3.5.9,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-alpha03` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-alpha03,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta01` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta01,-,-,automatic,-,false,-`
+- :cd: `` :left_right_arrow: `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta02` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta02,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.10.0.Final` // `org.optaplanner,optaplanner-docs,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.11.0.Final` // `org.optaplanner,optaplanner-docs,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` :left_right_arrow: `org.optaplanner:optaplanner-docs:7.12.0.Final` // `org.optaplanner,optaplanner-docs,7.12.0.Final,-,-,automatic,-,false,-`
@@ -10086,6 +10095,8 @@
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.1` // `com.blackducksoftware.integration,blackduck-common,45.0.1,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.2` // `com.blackducksoftware.integration,blackduck-common,45.0.2,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.3` // `com.blackducksoftware.integration,blackduck-common,45.0.3,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.4` // `com.blackducksoftware.integration,blackduck-common,45.0.4,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common:45.0.5` // `com.blackducksoftware.integration,blackduck-common,45.0.5,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.0` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.0,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.1` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.1,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.2.0.2` // `com.blackducksoftware.integration,blackduck-common-api,2019.2.0.2,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
@@ -10102,6 +10113,7 @@
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.5` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.5,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.6` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.6,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.7` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.7,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.blackduck-common-api` :left_right_arrow: `com.blackducksoftware.integration:blackduck-common-api:2019.6.0.8` // `com.blackducksoftware.integration,blackduck-common-api,2019.6.0.8,com.synopsys.integration.blackduck-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.0` // `com.synopsys.integration,coverity-common,0.2.0,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.1` // `com.synopsys.integration,coverity-common,0.2.1,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.coverity-common` :left_right_arrow: `com.synopsys.integration:coverity-common:0.2.2` // `com.synopsys.integration,coverity-common,0.2.2,com.synopsys.integration.coverity-common,-,automatic,-,false,-`
@@ -10139,6 +10151,7 @@
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.1` // `com.blackducksoftware.integration,integration-bdio,18.3.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.2` // `com.blackducksoftware.integration,integration-bdio,18.3.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.3` // `com.blackducksoftware.integration,integration-bdio,18.3.3,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:18.3.4` // `com.blackducksoftware.integration,integration-bdio,18.3.4,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:16.0.0` // `com.blackducksoftware.integration,integration-common,16.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:16.1.0` // `com.blackducksoftware.integration,integration-common,16.1.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` :left_right_arrow: `com.blackducksoftware.integration:integration-common:17.0.0` // `com.blackducksoftware.integration,integration-common,17.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
@@ -10162,6 +10175,7 @@
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.0` // `com.blackducksoftware.integration,integration-reporting,0.4.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.1` // `com.blackducksoftware.integration,integration-reporting,0.4.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.2` // `com.blackducksoftware.integration,integration-reporting,0.4.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-reporting` :left_right_arrow: `com.blackducksoftware.integration:integration-reporting:0.4.3` // `com.blackducksoftware.integration,integration-reporting,0.4.3,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-common` :left_right_arrow: `com.synopsys.integration:issuetracker-common:0.0.1` // `com.synopsys.integration,issuetracker-common,0.0.1,com.synopsys.integration.issuetracker-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` :left_right_arrow: `com.synopsys.integration:issuetracker-jira:0.0.1` // `com.synopsys.integration,issuetracker-jira,0.0.1,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-annotation-processor` :left_right_arrow: `com.synopsys.integration:jenkins-annotation-processor:0.0.1` // `com.synopsys.integration,jenkins-annotation-processor,0.0.1,com.synopsys.integration.jenkins-annotation-processor,-,automatic,-,false,-`
@@ -10174,6 +10188,7 @@
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.11` // `com.blackducksoftware.integration,phone-home-client,0.21.11,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.12` // `com.blackducksoftware.integration,phone-home-client,0.21.12,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.2` // `com.blackducksoftware.integration,phone-home-client,0.21.2,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.3` // `com.blackducksoftware.integration,phone-home-client,0.21.3,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` :left_right_arrow: `com.blackducksoftware.integration:phone-home-client:0.21.4` // `com.blackducksoftware.integration,phone-home-client,0.21.4,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -10676,14 +10691,18 @@
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.29.0.Final` // `org.drools,drools-canonical-model,7.29.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.30.0.Final` // `org.drools,drools-canonical-model,7.30.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.31.0.Final` // `org.drools,drools-canonical-model,7.31.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
+- :cd: `org.drools.canonical-model` :left_right_arrow: `org.drools:drools-canonical-model:7.32.0.k20191220` // `org.drools,drools-canonical-model,7.32.0.k20191220,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.19.0.Final` // `org.drools,drools-constraint-parser,7.19.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.20.0.Final` // `org.drools,drools-constraint-parser,7.20.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.21.0.Final` // `org.drools,drools-constraint-parser,7.21.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.22.0.t042` // `org.drools,drools-constraint-parser,7.22.0.t042,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.constraint-parser` :left_right_arrow: `org.drools:drools-constraint-parser:7.23.0.Final` // `org.drools,drools-constraint-parser,7.23.0.Final,org.drools.constraint-parser,-,automatic,-,false,-`
 - :cd: `org.drools.drools-core-dynamic` :left_right_arrow: `org.drools:drools-core-dynamic:7.31.0.Final` // `org.drools,drools-core-dynamic,7.31.0.Final,org.drools.drools-core-dynamic,-,automatic,-,false,-`
+- :cd: `org.drools.drools-core-dynamic` :left_right_arrow: `org.drools:drools-core-dynamic:7.32.0.k20191220` // `org.drools,drools-core-dynamic,7.32.0.k20191220,org.drools.drools-core-dynamic,-,automatic,-,false,-`
 - :cd: `org.drools.drools-core-reflective` :left_right_arrow: `org.drools:drools-core-reflective:7.31.0.Final` // `org.drools,drools-core-reflective,7.31.0.Final,org.drools.drools-core-reflective,-,automatic,-,false,-`
+- :cd: `org.drools.drools-core-reflective` :left_right_arrow: `org.drools:drools-core-reflective:7.32.0.k20191220` // `org.drools,drools-core-reflective,7.32.0.k20191220,org.drools.drools-core-reflective,-,automatic,-,false,-`
 - :cd: `org.drools.drools-ruleunit` :left_right_arrow: `org.drools:drools-ruleunit:7.31.0.Final` // `org.drools,drools-ruleunit,7.31.0.Final,org.drools.drools-ruleunit,-,automatic,-,false,-`
+- :cd: `org.drools.drools-ruleunit` :left_right_arrow: `org.drools:drools-ruleunit:7.32.0.k20191220` // `org.drools,drools-ruleunit,7.32.0.k20191220,org.drools.drools-ruleunit,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.10.0.Final` // `org.drools,drools-model-compiler,7.10.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.11.0.Final` // `org.drools,drools-model-compiler,7.11.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.12.0.Final` // `org.drools,drools-model-compiler,7.12.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
@@ -10706,6 +10725,7 @@
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.29.0.Final` // `org.drools,drools-model-compiler,7.29.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.30.0.Final` // `org.drools,drools-model-compiler,7.30.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.31.0.Final` // `org.drools,drools-model-compiler,7.31.0.Final,org.drools.model-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.model-compiler` :left_right_arrow: `org.drools:drools-model-compiler:7.32.0.k20191220` // `org.drools,drools-model-compiler,7.32.0.k20191220,org.drools.model-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.24.0.t043` // `org.drools,drools-mvel-compiler,7.24.0.t043,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.25.0.Final` // `org.drools,drools-mvel-compiler,7.25.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.26.0.Final` // `org.drools,drools-mvel-compiler,7.26.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
@@ -10714,6 +10734,7 @@
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.29.0.Final` // `org.drools,drools-mvel-compiler,7.29.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.30.0.Final` // `org.drools,drools-mvel-compiler,7.30.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.31.0.Final` // `org.drools,drools-mvel-compiler,7.31.0.Final,org.drools.mvel-compiler,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-compiler` :left_right_arrow: `org.drools:drools-mvel-compiler:7.32.0.k20191220` // `org.drools,drools-mvel-compiler,7.32.0.k20191220,org.drools.mvel-compiler,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.24.0.t043` // `org.drools,drools-mvel-parser,7.24.0.t043,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.25.0.Final` // `org.drools,drools-mvel-parser,7.25.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.26.0.Final` // `org.drools,drools-mvel-parser,7.26.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
@@ -10722,6 +10743,7 @@
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.29.0.Final` // `org.drools,drools-mvel-parser,7.29.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.30.0.Final` // `org.drools,drools-mvel-parser,7.30.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.31.0.Final` // `org.drools,drools-mvel-parser,7.31.0.Final,org.drools.mvel-parser,-,automatic,-,false,-`
+- :cd: `org.drools.mvel-parser` :left_right_arrow: `org.drools:drools-mvel-parser:7.32.0.k20191220` // `org.drools,drools-mvel-parser,7.32.0.k20191220,org.drools.mvel-parser,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.10.0.Final` // `org.drools,drools-wb-enum-editor-api,7.10.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.11.0.Final` // `org.drools,drools-wb-enum-editor-api,7.11.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` :left_right_arrow: `org.drools:drools-wb-enum-editor-api:7.12.0.Final` // `org.drools,drools-wb-enum-editor-api,7.12.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
@@ -10884,6 +10906,7 @@
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.4.8.Final` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.4.8.Final,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.4.9.Final` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.4.9.Final,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha3` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,6.0.0.Alpha3,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.enhance-maven-plugin` :left_right_arrow: `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha4` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,6.0.0.Alpha4,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate:hibernate-gradle-plugin:5.3.0.Beta1` // `org.hibernate,hibernate-gradle-plugin,5.3.0.Beta1,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate:hibernate-gradle-plugin:5.3.5.Final` // `org.hibernate,hibernate-gradle-plugin,5.3.5.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate:hibernate-gradle-plugin:5.3.6.Final` // `org.hibernate,hibernate-gradle-plugin,5.3.6.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
@@ -10898,6 +10921,7 @@
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate:hibernate-gradle-plugin:5.4.8.Final` // `org.hibernate,hibernate-gradle-plugin,5.4.8.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate:hibernate-gradle-plugin:5.4.9.Final` // `org.hibernate,hibernate-gradle-plugin,5.4.9.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-gradle-plugin,6.0.0.Alpha3,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.gradle-plugin` :left_right_arrow: `org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-gradle-plugin,6.0.0.Alpha4,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.7.0` // `org.immutables,android-stub,2.7.0,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.7.1` // `org.immutables,android-stub,2.7.1,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` :left_right_arrow: `org.immutables:android-stub:2.7.2` // `org.immutables,android-stub,2.7.2,org.immutables.android-stub,-,automatic,-,false,-`
