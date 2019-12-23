@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5719 Java modules published at Maven Central
 
-## Summary 2019-12-22T00:07:50.278649Z
+## Summary 2019-12-23T00:08:28.227341Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-22T00:07:50.278649Z
-Scanned 38,476 files in 5 seconds.
+Started scan at 2019-12-23T00:08:28.227341Z
+Scanned 38,557 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_21_23_53_45.csv
+    last -> modulescanner-report-2019_12_22_23_43_12.csv
 
-Parsed 2,572,229 lines in total.
-  42,262 -> captions skipped
-  188,915 -> duplicates skipped
-  116,809 -> module related
+Parsed 2,575,349 lines in total.
+  42,343 -> captions skipped
+  189,901 -> duplicates skipped
+  116,969 -> module related
 
 Collected 5,719 unique modules.
   automatic :cd: -> 4,180
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5321, explicit=519, plain=104064}` 	 5.61%
+ - `2019_12={automatic=5388, explicit=523, plain=105957}` 	 5.58%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,9 +110,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [11944](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16569](suspicious/naming.md)
-- Modular impostors: [5821](suspicious/impostors.md)
+- Invalid module names: [11949](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16584](suspicious/naming.md)
+- Modular impostors: [5890](suspicious/impostors.md)
 
 ## Unique Modules (5719)
 
@@ -448,7 +448,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.headius.modulator` :left_right_arrow: `com.headius:modulator:1.2`
 - :dvd: `com.illucit.instatrie` :left_right_arrow: `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` :left_right_arrow: `com.illucit:lucene-utils:1.1.2`
-- :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.4`
+- :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.5`
 - :dvd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.documentation` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.documentation:4.0.0-beta0014`
@@ -623,7 +623,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.1.6`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.1.7`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -637,8 +637,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.1.6`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.1.6`
+- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.1.7`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.1.7`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
