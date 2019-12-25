@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5719 Java modules published at Maven Central
 
-## Summary 2019-12-24T00:08:55.849943Z
+## Summary 2019-12-25T00:09:43.854955Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-24T00:08:55.849943Z
-Scanned 38,634 files in 4 seconds.
+Started scan at 2019-12-25T00:09:43.854955Z
+Scanned 38,711 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_23_23_44_41.csv
+    last -> modulescanner-report-2019_12_24_23_38_45.csv
 
-Parsed 2,581,461 lines in total.
-  42,420 -> captions skipped
-  190,650 -> duplicates skipped
-  117,532 -> module related
+Parsed 2,585,837 lines in total.
+  42,497 -> captions skipped
+  190,727 -> duplicates skipped
+  117,575 -> module related
 
 Collected 5,719 unique modules.
   automatic :cd: -> 4,180
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5724, explicit=529, plain=110680}` 	 5.65%
+ - `2019_12={automatic=5740, explicit=531, plain=114859}` 	 5.46%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,9 +110,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12128](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16623](suspicious/naming.md)
-- Modular impostors: [5893](suspicious/impostors.md)
+- Invalid module names: [12129](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16646](suspicious/naming.md)
+- Modular impostors: [5894](suspicious/impostors.md)
 
 ## Unique Modules (5719)
 
@@ -1356,8 +1356,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.importers` :left_right_arrow: `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` :left_right_arrow: `org.gaul:modernizer-maven-annotations:2.0.0`
 - :dvd: `org.glassfish.java.json` :left_right_arrow: `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.3.0`
-- :dvd: `org.graalvm.truffle` :left_right_arrow: `org.graalvm.truffle:truffle-api:19.3.0`
+- :dvd: `org.graalvm.js.launcher` :left_right_arrow: `org.graalvm.js:js-launcher:19.3.0.2`
+- :dvd: `org.graalvm.truffle` :left_right_arrow: `org.graalvm.truffle:truffle-api:19.3.0.2`
 - :dvd: `org.icroco.jcip.annotations` :left_right_arrow: `org.icroco:jcip-annotations:1.1.0`
 - :dvd: `org.immutables.vavr.encodings` :left_right_arrow: `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` :left_right_arrow: `org.javacord:javacord-api:3.0.5`

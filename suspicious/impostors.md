@@ -5168,6 +5168,7 @@
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:6.1.0` // `org.duracloud,synctoolui,6.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.duracloud:synctoolui:6.1.1` // `org.duracloud,synctoolui,6.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.graalvm.nativeimage:svm:19.3.0` // `org.graalvm.nativeimage,svm,19.3.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `org.graalvm.nativeimage:svm:19.3.0.2` // `org.graalvm.nativeimage,svm,19.3.0.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.noear:solon.extend.jetty.jsp:1.0.2` // `org.noear,solon.extend.jetty.jsp,1.0.2,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.noear:solon.extend.jetty.jsp:1.0.2.1` // `org.noear,solon.extend.jetty.jsp,1.0.2.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` :left_right_arrow: `org.noear:solon.extend.jetty.jsp:1.0.3` // `org.noear,solon.extend.jetty.jsp,1.0.3,org.objectweb.asm,6.2.0,explicit,java.base,false,-`

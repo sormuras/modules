@@ -11786,6 +11786,7 @@
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.3` // `com.squareup.wire,proto-pruner,3.0.3,proto-pruner,-,automatic,-,false,-`
 - :cd: `queryman-builder` :left_right_arrow: `org.queryman:queryman-builder:1.0.0` // `org.queryman,queryman-builder,1.0.0,queryman-builder,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard-orient-server` :left_right_arrow: `ru.vyarus:dropwizard-orient-server:3.0.0` // `ru.vyarus,dropwizard-orient-server,3.0.0,ru.vyarus.dropwizard-orient-server,-,automatic,-,false,-`
+- :cd: `ru.vyarus.guice-validator` :left_right_arrow: `ru.vyarus:guice-validator:2.0.0` // `ru.vyarus,guice-validator,2.0.0,ru.vyarus.guice-validator,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.81` // `net.serenity-bdd,serenity-ant-task,2.0.81,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.82` // `net.serenity-bdd,serenity-ant-task,2.0.82,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.84` // `net.serenity-bdd,serenity-ant-task,2.0.84,serenity-ant-task,-,automatic,-,false,-`
