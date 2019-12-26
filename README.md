@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5719 Java modules published at Maven Central
 
-## Summary 2019-12-25T00:09:43.854955Z
+## Summary 2019-12-26T00:09:55.137327Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-25T00:09:43.854955Z
-Scanned 38,711 files in 5 seconds.
+Started scan at 2019-12-26T00:09:55.137327Z
+Scanned 38,791 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_24_23_38_45.csv
+    last -> modulescanner-report-2019_12_25_23_44_38.csv
 
-Parsed 2,585,837 lines in total.
-  42,497 -> captions skipped
-  190,727 -> duplicates skipped
-  117,575 -> module related
+Parsed 2,588,179 lines in total.
+  42,577 -> captions skipped
+  190,754 -> duplicates skipped
+  117,589 -> module related
 
 Collected 5,719 unique modules.
   automatic :cd: -> 4,180
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5740, explicit=531, plain=114859}` 	 5.46%
+ - `2019_12={automatic=5754, explicit=531, plain=117080}` 	 5.37%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
