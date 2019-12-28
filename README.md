@@ -1,30 +1,30 @@
 # sormuras/modules
-Counted 5720 Java modules published at Maven Central
+Counted 5722 Java modules published at Maven Central
 
-## Summary 2019-12-27T00:10:48.533616Z
+## Summary 2019-12-28T00:11:16.716382Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-27T00:10:48.533616Z
-Scanned 38,866 files in 5 seconds.
+Started scan at 2019-12-28T00:11:16.716382Z
+Scanned 38,943 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_26_23_45_01.csv
+    last -> modulescanner-report-2019_12_27_23_54_48.csv
 
-Parsed 2,593,483 lines in total.
-  42,652 -> captions skipped
-  191,930 -> duplicates skipped
-  117,694 -> module related
+Parsed 2,596,877 lines in total.
+  42,729 -> captions skipped
+  191,999 -> duplicates skipped
+  117,736 -> module related
 
-Collected 5,720 unique modules.
-  automatic :cd: -> 4,181
+Collected 5,722 unique modules.
+  automatic :cd: -> 4,183
   explicit :dvd: -> 1,539
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:7.2
-com.google.common -> com.google.guava:guava:28.1-jre
+com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
  org.joda.collect -> org.joda:joda-collect:1.0.1
  org.joda.convert -> org.joda:joda-convert:2.2.1
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.1-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5828, explicit=531, plain=121028}` 	 5.25%
+ - `2019_12={automatic=5836, explicit=537, plain=124234}` 	 5.13%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,10 +111,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12129](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16677](suspicious/naming.md)
-- Modular impostors: [5894](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16699](suspicious/naming.md)
+- Modular impostors: [5900](suspicious/impostors.md)
 
-## Unique Modules (5720)
+## Unique Modules (5722)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -123,11 +123,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
 - :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.4`
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.11`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.12`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.2.0`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.3.0`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
@@ -655,9 +655,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.xeditable` :left_right_arrow: `com.jwebmp:jwebmp-xeditable:0.66.0.1`
 - :dvd: `com.jwebmp.undertow` :left_right_arrow: `com.jwebmp:jwebmp-undertow:0.66.0.1`
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp:jwebmp-websockets:0.66.0.1`
-- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.2.1`
-- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.2.1`
-- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.2.1`
+- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.3.0`
+- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.0`
+- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.0`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.3.3`
 - :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.2.0`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
@@ -852,7 +852,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.octicons` :left_right_arrow: `de.jensd:fontawesomefx-octicons:4.3.0-9.1.2`
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
-- :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.0.0`
+- :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.1.0`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0-RC1`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
