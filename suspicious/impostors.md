@@ -365,6 +365,7 @@
 - :cd: `com.holonplatform.jaxrs.swagger` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.3` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.3,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.4` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.4,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.3.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.3.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
+- :cd: `com.holonplatform.jaxrs.swagger` :left_right_arrow: `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.4.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.4.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.io7m.changelog.text` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xom:4.0.0-beta0001` // `com.io7m.changelog,com.io7m.changelog.xom,4.0.0-beta0001,com.io7m.changelog.text,-,automatic,-,false,-`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors:com.jtconnors.socket:11.0.2` // `com.jtconnors,com.jtconnors.socket,11.0.2,com.jtconnors.socket,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors:com.jtconnors.socket:11.0.3` // `com.jtconnors,com.jtconnors.socket,11.0.3,com.jtconnors.socket,-,explicit,java.base + java.logging,false,-`
