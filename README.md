@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5724 Java modules published at Maven Central
+Counted 5733 Java modules published at Maven Central
 
-## Summary 2019-12-29T00:12:15.245889Z
+## Summary 2019-12-30T00:12:35.895134Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-29T00:12:15.245889Z
-Scanned 39,021 files in 4 seconds.
+Started scan at 2019-12-30T00:12:35.895134Z
+Scanned 39,101 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_28_23_58_03.csv
+    last -> modulescanner-report-2019_12_29_23_52_48.csv
 
-Parsed 2,599,531 lines in total.
-  42,807 -> captions skipped
-  192,147 -> duplicates skipped
-  117,819 -> module related
+Parsed 2,601,368 lines in total.
+  42,887 -> captions skipped
+  192,484 -> duplicates skipped
+  117,999 -> module related
 
-Collected 5,724 unique modules.
-  automatic :cd: -> 4,183
-  explicit :dvd: -> 1,541
+Collected 5,733 unique modules.
+  automatic :cd: -> 4,187
+  explicit :dvd: -> 1,546
 
 ## Samples
             junit -> junit:junit:4.13-rc-2
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5897, explicit=541, plain=126579}` 	 5.09%
+ - `2019_12={automatic=5934, explicit=570, plain=127819}` 	 5.09%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12129](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16716](suspicious/naming.md)
-- Modular impostors: [5901](suspicious/impostors.md)
+- Invalid module names: [12209](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16738](suspicious/naming.md)
+- Modular impostors: [5913](suspicious/impostors.md)
 
-## Unique Modules (5724)
+## Unique Modules (5733)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -273,31 +273,36 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0-beta.1`
 - :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0-beta.1`
 - :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0-beta.1`
-- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.graphql` :left_right_arrow: `com.blazebit:blaze-persistence-integration-graphql:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.jackson` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jackson:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.jaxrs` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jaxrs:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha4`
 - :dvd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha4`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.3`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
