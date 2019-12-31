@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5733 Java modules published at Maven Central
+Counted 5735 Java modules published at Maven Central
 
-## Summary 2019-12-30T00:12:35.895134Z
+## Summary 2019-12-31T00:13:15.088519Z
 
 ```
 ## Summary
 
-Started scan at 2019-12-30T00:12:35.895134Z
-Scanned 39,101 files in 4 seconds.
+Started scan at 2019-12-31T00:13:15.088519Z
+Scanned 39,177 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2019_12_29_23_52_48.csv
+    last -> modulescanner-report-2019_12_30_23_56_18.csv
 
-Parsed 2,601,368 lines in total.
-  42,887 -> captions skipped
-  192,484 -> duplicates skipped
-  117,999 -> module related
+Parsed 2,604,948 lines in total.
+  42,963 -> captions skipped
+  193,180 -> duplicates skipped
+  118,399 -> module related
 
-Collected 5,733 unique modules.
-  automatic :cd: -> 4,187
+Collected 5,735 unique modules.
+  automatic :cd: -> 4,189
   explicit :dvd: -> 1,546
 
 ## Samples
@@ -47,7 +47,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
- - `2019_12={automatic=5934, explicit=570, plain=127819}` 	 5.09%
+ - `2019_12={automatic=5940, explicit=576, plain=130227}` 	 5.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -110,11 +110,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12209](suspicious/syntax.md)
+- Invalid module names: [12593](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16738](suspicious/naming.md)
-- Modular impostors: [5913](suspicious/impostors.md)
+- Modular impostors: [5917](suspicious/impostors.md)
 
-## Unique Modules (5733)
+## Unique Modules (5735)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -354,7 +354,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.22`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.23`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -378,10 +378,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.6.0`
-- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.6.0`
-- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.6.0`
-- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.6.0`
+- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.7.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.7.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.7.0`
+- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.7.0`
 - :dvd: `com.github.nhojpatrick.data` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
 - :dvd: `com.github.nhojpatrick.hamcrest.all` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.collections` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.1`
@@ -409,7 +409,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.7`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.8`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
