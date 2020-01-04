@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5740 Java modules published at Maven Central
+Counted 5741 Java modules published at Maven Central
 
-## Summary 2020-01-03T00:14:52.758727Z
+## Summary 2020-01-04T00:15:10.412818Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-03T00:14:52.758727Z
-Scanned 39,413 files in 5 seconds.
+Started scan at 2020-01-04T00:15:10.412818Z
+Scanned 39,490 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_02_23_51_45.csv
+    last -> modulescanner-report-2020_01_04_00_01_40.csv
 
-Parsed 2,613,787 lines in total.
-  43,196 -> captions skipped
-  193,752 -> duplicates skipped
-  118,761 -> module related
+Parsed 2,616,601 lines in total.
+  43,273 -> captions skipped
+  193,852 -> duplicates skipped
+  118,792 -> module related
 
-Collected 5,740 unique modules.
+Collected 5,741 unique modules.
   automatic :cd: -> 4,194
-  explicit :dvd: -> 1,546
+  explicit :dvd: -> 1,547
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=263, explicit=3, plain=5555}` 	 4.79%
+ - `2020_01={automatic=276, explicit=6, plain=8161}` 	 3.46%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,10 +112,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12605](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16780](suspicious/naming.md)
-- Modular impostors: [5927](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16786](suspicious/naming.md)
+- Modular impostors: [5936](suspicious/impostors.md)
 
-## Unique Modules (5740)
+## Unique Modules (5741)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -124,11 +124,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie.javafxlednumberdisplay` :left_right_arrow: `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
 - :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.4`
-- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.13`
+- :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.14`
 - :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
-- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.3.2`
+- :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.3.3`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
@@ -1081,6 +1081,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` :left_right_arrow: `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` :left_right_arrow: `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` :left_right_arrow: `io.vulpine.lib:java-sql-import:0.2.0`
+- :dvd: `jakarta.activation` :left_right_arrow: `jakarta.activation:jakarta.activation-api:2.0.0-rc1`
 - :dvd: `java.json` :left_right_arrow: `javax.json:javax.json-api:1.1.4`
 - :dvd: `javax.jws` :left_right_arrow: `javax.jws:javax.jws-api:1.1`
 - :dvd: `jfxtras.agenda` :left_right_arrow: `org.jfxtras:jfxtras-agenda:10.0-r1`
