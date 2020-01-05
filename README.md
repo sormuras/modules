@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5741 Java modules published at Maven Central
+Counted 5775 Java modules published at Maven Central
 
-## Summary 2020-01-04T00:15:10.412818Z
+## Summary 2020-01-05T00:15:57.717919Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-04T00:15:10.412818Z
-Scanned 39,490 files in 4 seconds.
+Started scan at 2020-01-05T00:15:57.717919Z
+Scanned 39,568 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_04_00_01_40.csv
+    last -> modulescanner-report-2020_01_04_23_58_12.csv
 
-Parsed 2,616,601 lines in total.
-  43,273 -> captions skipped
-  193,852 -> duplicates skipped
-  118,792 -> module related
+Parsed 2,619,453 lines in total.
+  43,351 -> captions skipped
+  194,829 -> duplicates skipped
+  119,062 -> module related
 
-Collected 5,741 unique modules.
+Collected 5,775 unique modules.
   automatic :cd: -> 4,194
-  explicit :dvd: -> 1,547
+  explicit :dvd: -> 1,581
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=276, explicit=6, plain=8161}` 	 3.46%
+ - `2020_01={automatic=301, explicit=73, plain=9688}` 	 3.86%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12605](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16786](suspicious/naming.md)
-- Modular impostors: [5936](suspicious/impostors.md)
+- Invalid module names: [12679](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16810](suspicious/naming.md)
+- Modular impostors: [6016](suspicious/impostors.md)
 
-## Unique Modules (5741)
+## Unique Modules (5775)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -129,6 +129,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.3.3`
+- :dvd: `be.yildizgames.common.csv` :left_right_arrow: `be.yildiz-games:common-csv:1.0.1`
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
@@ -274,36 +275,36 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0-beta.1`
 - :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0-beta.1`
 - :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0-beta.1`
-- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.graphql` :left_right_arrow: `com.blazebit:blaze-persistence-integration-graphql:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.jackson` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jackson:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.jaxrs` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jaxrs:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0`
+- :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0`
+- :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0`
+- :dvd: `com.blazebit.persistence.core.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-core-testsuite:1.4.0`
+- :dvd: `com.blazebit.persistence.criteria` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.0`
+- :dvd: `com.blazebit.persistence.criteria.impl` :left_right_arrow: `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` :left_right_arrow: `com.blazebit:blaze-persistence-integration-datanucleus:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` :left_right_arrow: `com.blazebit:blaze-persistence-integration-eclipselink:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.graphql` :left_right_arrow: `com.blazebit:blaze-persistence-integration-graphql:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.hibernate` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` :left_right_arrow: `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.jackson` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jackson:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.jaxrs` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jaxrs:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.jpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-jpa-base:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.openjpa` :left_right_arrow: `com.blazebit:blaze-persistence-integration-openjpa:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.spring.data` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.0`
 - :dvd: `com.blazebit.persistence.integration.spring.data.rest` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0-Alpha4`
-- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0-Alpha4`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` :left_right_arrow: `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.0`
+- :dvd: `com.blazebit.persistence.integration.view.spring` :left_right_arrow: `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.0`
+- :dvd: `com.blazebit.persistence.view` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-api:1.4.0`
+- :dvd: `com.blazebit.persistence.view.impl` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-impl:1.4.0`
+- :dvd: `com.blazebit.persistence.view.testsuite` :left_right_arrow: `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.0`
 - :dvd: `com.calendarfx.recurrence` :left_right_arrow: `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` :left_right_arrow: `com.calendarfx:view:11.8.3`
 - :dvd: `com.cosium.vet` :left_right_arrow: `com.cosium.vet:vet:3.22`
@@ -629,7 +630,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.1.7`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.0`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -643,8 +644,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.1.7`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.1.7`
+- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.0`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.0`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -1112,7 +1113,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` :left_right_arrow: `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` :left_right_arrow: `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.2.0`
+- :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
 - :dvd: `net.sourceforge.urin` :left_right_arrow: `net.sourceforge.urin:urin:3.8`
@@ -1186,6 +1187,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.derby.tools` :left_right_arrow: `org.apache.derby:derbytools:10.15.1.3`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `org.apache.logging.log4j:log4j-api:2.13.0`
 - :dvd: `org.apiguardian.api` :left_right_arrow: `org.apiguardian:apiguardian-api:1.1.0`
+- :dvd: `org.arakhne.afc.advanced.agentmotion` :left_right_arrow: `org.arakhne.afc.advanced:agentmotion:17.0`
+- :dvd: `org.arakhne.afc.advanced.attributes` :left_right_arrow: `org.arakhne.afc.advanced:attributes:17.0`
+- :dvd: `org.arakhne.afc.advanced.dbasefile` :left_right_arrow: `org.arakhne.afc.advanced:dbasefile:17.0`
+- :dvd: `org.arakhne.afc.advanced.javafx` :left_right_arrow: `org.arakhne.afc.advanced:javafx:17.0`
+- :dvd: `org.arakhne.afc.advanced.mathfx` :left_right_arrow: `org.arakhne.afc.advanced:mathfx:17.0`
+- :dvd: `org.arakhne.afc.advanced.nodefx` :left_right_arrow: `org.arakhne.afc.advanced:nodefx:17.0`
+- :dvd: `org.arakhne.afc.advanced.shapefile` :left_right_arrow: `org.arakhne.afc.advanced:shapefile:17.0`
+- :dvd: `org.arakhne.afc.bootique.bootique_application2` :left_right_arrow: `org.arakhne.afc.bootique:bootique-applicationdata2:17.0`
+- :dvd: `org.arakhne.afc.bootique.bootique_log4j` :left_right_arrow: `org.arakhne.afc.bootique:bootique-log4j:17.0`
+- :dvd: `org.arakhne.afc.bootique.bootique_printconfig` :left_right_arrow: `org.arakhne.afc.bootique:bootique-printconfig:17.0`
+- :dvd: `org.arakhne.afc.bootique.bootique_synopsishelp` :left_right_arrow: `org.arakhne.afc.bootique:bootique-synopsishelp:17.0`
+- :dvd: `org.arakhne.afc.bootique.bootique_variables` :left_right_arrow: `org.arakhne.afc.bootique:bootique-variables:17.0`
+- :dvd: `org.arakhne.afc.core.inputoutput` :left_right_arrow: `org.arakhne.afc.core:inputoutput:17.0`
+- :dvd: `org.arakhne.afc.core.mathgen` :left_right_arrow: `org.arakhne.afc.core:mathgen:17.0`
+- :dvd: `org.arakhne.afc.core.mathgeom` :left_right_arrow: `org.arakhne.afc.core:mathgeom:17.0`
+- :dvd: `org.arakhne.afc.core.mathgeomtesting` :left_right_arrow: `org.arakhne.afc.core:mathgeomtesting:17.0`
+- :dvd: `org.arakhne.afc.core.mathgraph` :left_right_arrow: `org.arakhne.afc.core:mathgraph:17.0`
+- :dvd: `org.arakhne.afc.core.mathphysics` :left_right_arrow: `org.arakhne.afc.core:mathphysics:17.0`
+- :dvd: `org.arakhne.afc.core.mathstochastic` :left_right_arrow: `org.arakhne.afc.core:mathstochastic:17.0`
+- :dvd: `org.arakhne.afc.core.mathtree` :left_right_arrow: `org.arakhne.afc.core:mathtree:17.0`
+- :dvd: `org.arakhne.afc.core.references` :left_right_arrow: `org.arakhne.afc.core:references:17.0`
+- :dvd: `org.arakhne.afc.core.testtools` :left_right_arrow: `org.arakhne.afc.core:testtools:17.0`
+- :dvd: `org.arakhne.afc.core.text` :left_right_arrow: `org.arakhne.afc.core:text:17.0`
+- :dvd: `org.arakhne.afc.core.util` :left_right_arrow: `org.arakhne.afc.core:util:17.0`
+- :dvd: `org.arakhne.afc.core.vmutils` :left_right_arrow: `org.arakhne.afc.core:vmutils:17.0`
+- :dvd: `org.arakhne.afc.gis.gisbus` :left_right_arrow: `org.arakhne.afc.gis:gisbus:17.0`
+- :dvd: `org.arakhne.afc.gis.gisbusinputoutput` :left_right_arrow: `org.arakhne.afc.gis:gisbusinputoutput:17.0`
+- :dvd: `org.arakhne.afc.gis.giscore` :left_right_arrow: `org.arakhne.afc.gis:giscore:17.0`
+- :dvd: `org.arakhne.afc.gis.gisinputoutput` :left_right_arrow: `org.arakhne.afc.gis:gisinputoutput:17.0`
+- :dvd: `org.arakhne.afc.gis.gisroad` :left_right_arrow: `org.arakhne.afc.gis:gisroad:17.0`
+- :dvd: `org.arakhne.afc.gis.gisroadinputoutput` :left_right_arrow: `org.arakhne.afc.gis:gisroadinputoutput:17.0`
+- :dvd: `org.arakhne.afc.gis.ui.giscorefx` :left_right_arrow: `org.arakhne.afc.gis.ui:giscorefx:17.0`
+- :dvd: `org.arakhne.afc.gis.ui.gisroadfx` :left_right_arrow: `org.arakhne.afc.gis.ui:gisroadfx:17.0`
 - :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.14.0`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
