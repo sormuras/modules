@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5775 Java modules published at Maven Central
+Counted 5777 Java modules published at Maven Central
 
-## Summary 2020-01-05T00:15:57.717919Z
+## Summary 2020-01-06T00:16:10.477672Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-05T00:15:57.717919Z
-Scanned 39,568 files in 5 seconds.
+Started scan at 2020-01-06T00:16:10.477672Z
+Scanned 39,646 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_04_23_58_12.csv
+    last -> modulescanner-report-2020_01_05_23_59_04.csv
 
-Parsed 2,619,453 lines in total.
-  43,351 -> captions skipped
-  194,829 -> duplicates skipped
-  119,062 -> module related
+Parsed 2,621,656 lines in total.
+  43,429 -> captions skipped
+  195,022 -> duplicates skipped
+  119,175 -> module related
 
-Collected 5,775 unique modules.
+Collected 5,777 unique modules.
   automatic :cd: -> 4,194
-  explicit :dvd: -> 1,581
+  explicit :dvd: -> 1,583
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=301, explicit=73, plain=9688}` 	 3.86%
+ - `2020_01={automatic=331, explicit=129, plain=11507}` 	 4.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12679](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16810](suspicious/naming.md)
-- Modular impostors: [6016](suspicious/impostors.md)
+- Invalid module names: [12680](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16834](suspicious/naming.md)
+- Modular impostors: [6018](suspicious/impostors.md)
 
-## Unique Modules (5775)
+## Unique Modules (5777)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -244,26 +244,27 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
-- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.6`
-- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.6`
-- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.6`
-- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.6`
-- :dvd: `com.almasb.fxgl.cutscene` :left_right_arrow: `com.github.almasb:fxgl-cutscene:11.6`
-- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.6`
-- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.6`
-- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.6`
-- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.6`
-- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.6`
-- :dvd: `com.almasb.fxgl.localization` :left_right_arrow: `com.github.almasb:fxgl-localization:11.6`
-- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.6`
-- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.6`
-- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.6`
-- :dvd: `com.almasb.fxgl.scene` :left_right_arrow: `com.github.almasb:fxgl-scene:11.6`
-- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.6`
-- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.6`
-- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.6`
-- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.6`
-- :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.6`
+- :dvd: `com.almasb.fxgl.achievement` :left_right_arrow: `com.github.almasb:fxgl-achievement:11.7`
+- :dvd: `com.almasb.fxgl.ai` :left_right_arrow: `com.github.almasb:fxgl-ai:11.7`
+- :dvd: `com.almasb.fxgl.all` :left_right_arrow: `com.github.almasb:fxgl:11.7`
+- :dvd: `com.almasb.fxgl.animation` :left_right_arrow: `com.github.almasb:fxgl-animation:11.7`
+- :dvd: `com.almasb.fxgl.core` :left_right_arrow: `com.github.almasb:fxgl-core:11.7`
+- :dvd: `com.almasb.fxgl.cutscene` :left_right_arrow: `com.github.almasb:fxgl-cutscene:11.7`
+- :dvd: `com.almasb.fxgl.effects` :left_right_arrow: `com.github.almasb:fxgl-effects:11.7`
+- :dvd: `com.almasb.fxgl.entity` :left_right_arrow: `com.github.almasb:fxgl-entity:11.7`
+- :dvd: `com.almasb.fxgl.events` :left_right_arrow: `com.github.almasb:fxgl-events:11.7`
+- :dvd: `com.almasb.fxgl.input` :left_right_arrow: `com.github.almasb:fxgl-input:11.7`
+- :dvd: `com.almasb.fxgl.io` :left_right_arrow: `com.github.almasb:fxgl-io:11.7`
+- :dvd: `com.almasb.fxgl.localization` :left_right_arrow: `com.github.almasb:fxgl-localization:11.7`
+- :dvd: `com.almasb.fxgl.media` :left_right_arrow: `com.github.almasb:fxgl-media:11.7`
+- :dvd: `com.almasb.fxgl.minigames` :left_right_arrow: `com.github.almasb:fxgl-minigames:11.7`
+- :dvd: `com.almasb.fxgl.notification` :left_right_arrow: `com.github.almasb:fxgl-notification:11.7`
+- :dvd: `com.almasb.fxgl.scene` :left_right_arrow: `com.github.almasb:fxgl-scene:11.7`
+- :dvd: `com.almasb.fxgl.test` :left_right_arrow: `com.github.almasb:fxgl-test:11.7`
+- :dvd: `com.almasb.fxgl.time` :left_right_arrow: `com.github.almasb:fxgl-time:11.7`
+- :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.7`
+- :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.7`
+- :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.7`
 - :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
 - :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0-beta.2`
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.1`
@@ -320,40 +321,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.entityassist` :left_right_arrow: `com.entityassist:entity-assist:62`
 - :dvd: `com.fasterxml.aalto` :left_right_arrow: `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` :left_right_arrow: `com.fasterxml:classmate:1.5.1`
-- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.1`
-- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.1`
-- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.1`
-- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.1`
-- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.1`
-- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.0.pr3`
-- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.1`
-- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.1`
-- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.1`
-- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.1`
-- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.1`
-- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.1`
+- :dvd: `com.fasterxml.jackson.core` :left_right_arrow: `com.fasterxml.jackson.core:jackson-core:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.avro` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.csv` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.ion` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.javaprop` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.protobuf` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.smile` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.xml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.2`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.2`
+- :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.2`
+- :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.2`
+- :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.afterburner` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-afterburner:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.guice` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-guice:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.jaxb` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.jsonSchema` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.mrbean` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-mrbean:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.2`
+- :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
 - :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.23.1`
@@ -1220,6 +1221,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.arakhne.afc.gis.gisroadinputoutput` :left_right_arrow: `org.arakhne.afc.gis:gisroadinputoutput:17.0`
 - :dvd: `org.arakhne.afc.gis.ui.giscorefx` :left_right_arrow: `org.arakhne.afc.gis.ui:giscorefx:17.0`
 - :dvd: `org.arakhne.afc.gis.ui.gisroadfx` :left_right_arrow: `org.arakhne.afc.gis.ui:gisroadfx:17.0`
+- :dvd: `org.arakhne.afc.slf4j.slf4j_log4j` :left_right_arrow: `org.arakhne.afc.slf4j:slf4j-log4j:17.0`
 - :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
 - :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.14.0`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
