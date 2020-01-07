@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 5777 Java modules published at Maven Central
+Counted 5850 Java modules published at Maven Central
 
-## Summary 2020-01-06T00:16:10.477672Z
+## Summary 2020-01-07T00:16:07.309899Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-06T00:16:10.477672Z
-Scanned 39,646 files in 5 seconds.
+Started scan at 2020-01-07T00:16:07.309899Z
+Scanned 39,722 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_05_23_59_04.csv
+    last -> modulescanner-report-2020_01_06_23_47_13.csv
 
-Parsed 2,621,656 lines in total.
-  43,429 -> captions skipped
-  195,022 -> duplicates skipped
-  119,175 -> module related
+Parsed 2,626,529 lines in total.
+  43,503 -> captions skipped
+  195,600 -> duplicates skipped
+  119,543 -> module related
 
-Collected 5,777 unique modules.
-  automatic :cd: -> 4,194
-  explicit :dvd: -> 1,583
+Collected 5,850 unique modules.
+  automatic :cd: -> 4,265
+  explicit :dvd: -> 1,585
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-M1
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-RC1
 org.objectweb.asm -> org.ow2.asm:asm:7.2
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=331, explicit=129, plain=11507}` 	 4.00%
+ - `2020_01={automatic=651, explicit=153, plain=15360}` 	 5.23%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12680](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16834](suspicious/naming.md)
-- Modular impostors: [6018](suspicious/impostors.md)
+- Invalid module names: [12681](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16842](suspicious/naming.md)
+- Modular impostors: [6033](suspicious/impostors.md)
 
-## Unique Modules (5777)
+## Unique Modules (5850)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -200,6 +200,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
 - :dvd: `ch.tutteli.kbox` :left_right_arrow: `ch.tutteli.kbox:kbox:0.14.1`
+- :dvd: `ch.tutteli.niok` :left_right_arrow: `ch.tutteli.niok:niok:1.3.1`
 - :dvd: `ch.tutteli.spek.extensions` :left_right_arrow: `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` :left_right_arrow: `cn.nextop:lite-pool:1.0.0-RC3`
 - :dvd: `co.paralleluniverse.quasar.actors` :left_right_arrow: `co.paralleluniverse:quasar-actors:0.8.0`
@@ -265,10 +266,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.7`
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.7`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.7`
-- :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.1.0`
-- :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0-beta.2`
-- :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.1`
-- :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.1.0`
+- :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.2.0`
+- :dvd: `com.azure.core.http.okhttp` :left_right_arrow: `com.azure:azure-core-http-okhttp:1.1.0`
+- :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0`
+- :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.2`
+- :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.2.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.1`
 - :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.1.0`
@@ -381,10 +383,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` :left_right_arrow: `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` :left_right_arrow: `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` :left_right_arrow: `com.github.marschall:string-dedup-parser:0.3.0`
-- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.7.0`
-- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.7.0`
-- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.7.0`
-- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.7.0`
+- :dvd: `com.github.moaxcp.graphs.core` :left_right_arrow: `com.github.moaxcp.graphs:graphs-core:0.8.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` :left_right_arrow: `com.github.moaxcp.graphs:graphs-graphviz:0.8.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` :left_right_arrow: `com.github.moaxcp.graphs:graphs-greenrobot:0.8.0`
+- :dvd: `com.github.moaxcp.graphs.truth` :left_right_arrow: `com.github.moaxcp.graphs:graphs-truth:0.8.0`
 - :dvd: `com.github.nhojpatrick.data` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
 - :dvd: `com.github.nhojpatrick.hamcrest.all` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.collections` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.1`
@@ -1416,20 +1418,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.46`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.30`
-- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0-M1`
-- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0-M1`
-- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.6.0-M1`
-- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.0-M1`
-- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.6.0-M1`
-- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.6.0-M1`
-- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.6.0-M1`
-- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.6.0-M1`
-- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.6.0-M1`
-- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.6.0-M1`
-- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.6.0-M1`
-- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.6.0-M1`
-- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.6.0-M1`
-- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.6.0-M1`
+- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0-RC1`
+- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0-RC1`
+- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.6.0-RC1`
+- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.0-RC1`
+- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.6.0-RC1`
+- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.6.0-RC1`
+- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.6.0-RC1`
+- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.6.0-RC1`
+- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.6.0-RC1`
+- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.6.0-RC1`
+- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.6.0-RC1`
+- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.6.0-RC1`
+- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.6.0-RC1`
+- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.6.0-RC1`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.12`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.2`
 - :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
