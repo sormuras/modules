@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5850 Java modules published at Maven Central
+Counted 5854 Java modules published at Maven Central
 
-## Summary 2020-01-07T00:16:07.309899Z
+## Summary 2020-01-08T00:16:49.885483Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-07T00:16:07.309899Z
-Scanned 39,722 files in 5 seconds.
+Started scan at 2020-01-08T00:16:49.885483Z
+Scanned 39,811 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_06_23_47_13.csv
+    last -> modulescanner-report-2020_01_07_23_58_21.csv
 
-Parsed 2,626,529 lines in total.
-  43,503 -> captions skipped
-  195,600 -> duplicates skipped
-  119,543 -> module related
+Parsed 2,633,503 lines in total.
+  43,592 -> captions skipped
+  196,178 -> duplicates skipped
+  119,823 -> module related
 
-Collected 5,850 unique modules.
-  automatic :cd: -> 4,265
-  explicit :dvd: -> 1,585
+Collected 5,854 unique modules.
+  automatic :cd: -> 4,268
+  explicit :dvd: -> 1,586
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=651, explicit=153, plain=15360}` 	 5.23%
+ - `2020_01={automatic=896, explicit=156, plain=21387}` 	 4.92%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,10 +112,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12681](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16842](suspicious/naming.md)
-- Modular impostors: [6033](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16870](suspicious/naming.md)
+- Modular impostors: [6037](suspicious/impostors.md)
 
-## Unique Modules (5850)
+## Unique Modules (5854)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -270,8 +270,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.http.okhttp` :left_right_arrow: `com.azure:azure-core-http-okhttp:1.1.0`
 - :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.2`
+- :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.2.0`
-- :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.1`
+- :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.2`
 - :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.1.0`
 - :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.1.0`
@@ -414,7 +415,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.8`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.9`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
