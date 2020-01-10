@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5859 Java modules published at Maven Central
+Counted 5875 Java modules published at Maven Central
 
-## Summary 2020-01-09T00:17:54.921417Z
+## Summary 2020-01-10T00:18:09.365096Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-09T00:17:54.921417Z
-Scanned 39,897 files in 5 seconds.
+Started scan at 2020-01-10T00:18:09.365096Z
+Scanned 39,984 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_09_00_03_46.csv
+    last -> modulescanner-report-2020_01_09_23_57_42.csv
 
-Parsed 2,640,698 lines in total.
-  43,678 -> captions skipped
-  197,017 -> duplicates skipped
-  120,196 -> module related
+Parsed 2,648,028 lines in total.
+  43,762 -> captions skipped
+  197,688 -> duplicates skipped
+  120,554 -> module related
 
-Collected 5,859 unique modules.
-  automatic :cd: -> 4,273
+Collected 5,875 unique modules.
+  automatic :cd: -> 4,289
   explicit :dvd: -> 1,586
 
 ## Samples
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=1188, explicit=175, plain=27284}` 	 5.00%
+ - `2020_01={automatic=1461, explicit=211, plain=33501}` 	 4.99%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12717](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16883](suspicious/naming.md)
-- Modular impostors: [6050](suspicious/impostors.md)
+- Invalid module names: [12732](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16912](suspicious/naming.md)
+- Modular impostors: [6055](suspicious/impostors.md)
 
-## Unique Modules (5859)
+## Unique Modules (5875)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -125,7 +125,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie.piheaders` :left_right_arrow: `be.webtechie:pi-headers:0.1.1`
 - :dvd: `be.webtechie.resistorcalculator` :left_right_arrow: `be.webtechie:resistor-calculator:0.1.4`
 - :dvd: `be.yildizgames.common.application` :left_right_arrow: `be.yildiz-games:common-application:1.0.14`
-- :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.6`
+- :dvd: `be.yildizgames.common.authentication` :left_right_arrow: `be.yildiz-games:common-authentication:1.1.7`
 - :dvd: `be.yildizgames.common.client` :left_right_arrow: `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` :left_right_arrow: `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` :left_right_arrow: `be.yildiz-games:common-configuration:1.3.3`
@@ -133,30 +133,30 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.exception` :left_right_arrow: `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` :left_right_arrow: `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` :left_right_arrow: `be.yildiz-games:common-file-xml:2.0.3`
-- :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.4`
-- :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.7`
-- :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.6`
+- :dvd: `be.yildizgames.common.frame` :left_right_arrow: `be.yildiz-games:common-frame:1.0.5`
+- :dvd: `be.yildizgames.common.gameobject` :left_right_arrow: `be.yildiz-games:common-gameobject:1.0.8`
+- :dvd: `be.yildizgames.common.geometry` :left_right_arrow: `be.yildiz-games:common-geometry:1.0.7`
 - :dvd: `be.yildizgames.common.git` :left_right_arrow: `be.yildiz-games:common-git:1.0.5`
 - :dvd: `be.yildizgames.common.jni` :left_right_arrow: `be.yildiz-games:common-jni:1.0.4`
-- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.6`
+- :dvd: `be.yildizgames.common.libloader` :left_right_arrow: `be.yildiz-games:common-libloader:2.0.7`
 - :dvd: `be.yildizgames.common.logging` :left_right_arrow: `be.yildiz-games:common-logging:3.2.2`
 - :dvd: `be.yildizgames.common.logging.logback` :left_right_arrow: `be.yildiz-games:common-logging-logback:1.1.5`
-- :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.6`
-- :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.2`
-- :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.6`
-- :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.6`
+- :dvd: `be.yildizgames.common.mapping` :left_right_arrow: `be.yildiz-games:common-mapping:1.0.7`
+- :dvd: `be.yildizgames.common.mapping.geometry` :left_right_arrow: `be.yildiz-games:common-mapping-geometry:1.0.3`
+- :dvd: `be.yildizgames.common.mapping.model` :left_right_arrow: `be.yildiz-games:common-mapping-model:1.0.7`
+- :dvd: `be.yildizgames.common.model` :left_right_arrow: `be.yildiz-games:common-model:1.0.7`
 - :dvd: `be.yildizgames.common.nativeresources` :left_right_arrow: `be.yildiz-games:common-native:1.0.7`
 - :dvd: `be.yildizgames.common.os` :left_right_arrow: `be.yildiz-games:common-os:1.1.3`
 - :dvd: `be.yildizgames.common.properties` :left_right_arrow: `be.yildiz-games:common-properties:1.0.0`
 - :dvd: `be.yildizgames.common.shape` :left_right_arrow: `be.yildiz-games:common-shape:1.0.4`
-- :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.5`
+- :dvd: `be.yildizgames.common.time` :left_right_arrow: `be.yildiz-games:common-time:1.0.6`
 - :dvd: `be.yildizgames.common.util` :left_right_arrow: `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` :left_right_arrow: `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` :left_right_arrow: `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
 - :dvd: `be.yildizgames.engine.client.addon.statemachine` :left_right_arrow: `be.yildiz-games:engine-client-addon-statemachine:2.1.2`
 - :dvd: `be.yildizgames.engine.client.addon.ui` :left_right_arrow: `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` :left_right_arrow: `be.yildiz-games:engine-server:1.0.10`
-- :dvd: `be.yildizgames.engine.shared` :left_right_arrow: `be.yildiz-games:engine-shared:2.0.3`
+- :dvd: `be.yildizgames.engine.shared` :left_right_arrow: `be.yildiz-games:engine-shared:2.0.4`
 - :dvd: `be.yildizgames.feature.city.server` :left_right_arrow: `be.yildiz-games:feature-city-server:1.0.0`
 - :dvd: `be.yildizgames.feature.city.shared` :left_right_arrow: `be.yildiz-games:feature-city-shared:2.0.0`
 - :dvd: `be.yildizgames.feature.construction.shared` :left_right_arrow: `be.yildiz-games:feature-construction-shared:1.0.0`
@@ -169,7 +169,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.feature.mission.server` :left_right_arrow: `be.yildiz-games:feature-mission-server:1.0.0`
 - :dvd: `be.yildizgames.feature.mission.shared` :left_right_arrow: `be.yildiz-games:feature-mission-shared:1.0.1`
 - :dvd: `be.yildizgames.feature.player.server` :left_right_arrow: `be.yildiz-games:feature-player-server:1.0.1`
-- :dvd: `be.yildizgames.feature.player.shared` :left_right_arrow: `be.yildiz-games:feature-player-shared:1.0.3`
+- :dvd: `be.yildizgames.feature.player.shared` :left_right_arrow: `be.yildiz-games:feature-player-shared:1.0.5`
 - :dvd: `be.yildizgames.feature.research.server` :left_right_arrow: `be.yildiz-games:feature-research-server:1.0.2`
 - :dvd: `be.yildizgames.feature.research.shared` :left_right_arrow: `be.yildiz-games:feature-research-shared:1.0.1`
 - :dvd: `be.yildizgames.feature.resource.shared` :left_right_arrow: `be.yildiz-games:feature-resource-shared:1.0.4`
@@ -185,15 +185,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.1`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
-- :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.6`
-- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.7`
-- :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.4`
+- :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.7`
+- :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.8`
+- :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` :left_right_arrow: `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.4`
 - :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.2`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.0.2`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.1.0`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.1.0`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
@@ -1542,25 +1542,25 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.pojomatic` :left_right_arrow: `org.pojomatic:pojomatic:2.2.1`
 - :dvd: `org.postgresql.adba` :left_right_arrow: `org.postgresql:pgadba:0.1.1-ALPHA`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` :left_right_arrow: `org.rapidpm.vaadin:cdi-addon-modules-impl:0.1.0`
-- :dvd: `org.seleniumhq.selenium.api` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.chrome_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.chromium_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.devtools` :left_right_arrow: `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.edge_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.edgehtml_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.firefox_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.grid` :left_right_arrow: `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.http` :left_right_arrow: `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.ie_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.java` :left_right_arrow: `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.json` :left_right_arrow: `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.leg_rc` :left_right_arrow: `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.lift` :left_right_arrow: `org.seleniumhq.selenium:lift:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.opera_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.remote_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.safari_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-3`
-- :dvd: `org.seleniumhq.selenium.support` :left_right_arrow: `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-3`
+- :dvd: `org.seleniumhq.selenium.api` :left_right_arrow: `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.chrome_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.chromium_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.devtools` :left_right_arrow: `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.edge_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.edgehtml_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.firefox_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.grid` :left_right_arrow: `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.http` :left_right_arrow: `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.ie_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.java` :left_right_arrow: `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.json` :left_right_arrow: `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.leg_rc` :left_right_arrow: `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.lift` :left_right_arrow: `org.seleniumhq.selenium:lift:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.opera_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.remote_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.safari_driver` :left_right_arrow: `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.support` :left_right_arrow: `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-4`
 - :dvd: `org.slf4j` :left_right_arrow: `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` :left_right_arrow: `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` :left_right_arrow: `org.slf4j:slf4j-nop:2.0.0-alpha1`

@@ -3046,6 +3046,7 @@
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.0.RC1` // `io.micronaut,micronaut-security,1.2.0.RC1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.1` // `io.micronaut,micronaut-security,1.2.1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.2` // `io.micronaut,micronaut-security,1.2.2,io.micronaut.security,-,automatic,-,false,-`
+- :cd: `io.micronaut.security` :left_right_arrow: `io.micronaut:micronaut-security:1.2.3` // `io.micronaut,micronaut-security,1.2.3,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0` // `io.micronaut,micronaut-security-jwt,1.0.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.0.RC3` // `io.micronaut,micronaut-security-jwt,1.0.0.RC3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.0.1` // `io.micronaut,micronaut-security-jwt,1.0.1,io.micronaut.security_jwt,-,automatic,-,false,-`
@@ -3062,6 +3063,7 @@
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.0.RC1` // `io.micronaut,micronaut-security-jwt,1.2.0.RC1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.1` // `io.micronaut,micronaut-security-jwt,1.2.1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.2` // `io.micronaut,micronaut-security-jwt,1.2.2,io.micronaut.security_jwt,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_jwt` :left_right_arrow: `io.micronaut:micronaut-security-jwt:1.2.3` // `io.micronaut,micronaut-security-jwt,1.2.3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0` // `io.micronaut,micronaut-security-session,1.0.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.0.RC3` // `io.micronaut,micronaut-security-session,1.0.0.RC3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.0.1` // `io.micronaut,micronaut-security-session,1.0.1,io.micronaut.security_session,-,automatic,-,false,-`
@@ -3078,6 +3080,7 @@
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.0.RC1` // `io.micronaut,micronaut-security-session,1.2.0.RC1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.1` // `io.micronaut,micronaut-security-session,1.2.1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.2` // `io.micronaut,micronaut-security-session,1.2.2,io.micronaut.security_session,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_session` :left_right_arrow: `io.micronaut:micronaut-security-session:1.2.3` // `io.micronaut,micronaut-security-session,1.2.3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0` // `io.micronaut,micronaut-session,1.0.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.0.RC3` // `io.micronaut,micronaut-session,1.0.0.RC3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` :left_right_arrow: `io.micronaut:micronaut-session:1.0.1` // `io.micronaut,micronaut-session,1.0.1,io.micronaut.session,-,automatic,-,false,-`
@@ -4310,6 +4313,7 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.4` // `org.eclipse.milo,server-examples,0.3.4,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.5` // `org.eclipse.milo,server-examples,0.3.5,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.6` // `org.eclipse.milo,server-examples,0.3.6,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.eclipse.milo:server-examples:0.3.7` // `org.eclipse.milo,server-examples,0.3.7,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.verapdf.apps:pdfbox-apps:1.14.8` // `org.verapdf.apps,pdfbox-apps,1.14.8,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -5755,6 +5759,7 @@
 - :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.0-b` // `com.bytes-pot,daraja-api,1.0-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.1-b` // `com.bytes-pot,daraja-api,1.1-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.2-b` // `com.bytes-pot,daraja-api,1.2-b,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` :left_right_arrow: `com.bytes-pot:daraja-api:1.3-b` // `com.bytes-pot,daraja-api,1.3-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` :left_right_arrow: `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.96` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.96,org.slf4j,-,explicit,java.base,false,-`
