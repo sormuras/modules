@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 5875 Java modules published at Maven Central
+Counted 5882 Java modules published at Maven Central
 
-## Summary 2020-01-10T00:18:09.365096Z
+## Summary 2020-01-11T00:18:35.925948Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-10T00:18:09.365096Z
-Scanned 39,984 files in 5 seconds.
+Started scan at 2020-01-11T00:18:35.925948Z
+Scanned 40,076 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_09_23_57_42.csv
+    last -> modulescanner-report-2020_01_10_23_57_59.csv
 
-Parsed 2,648,028 lines in total.
-  43,762 -> captions skipped
-  197,688 -> duplicates skipped
-  120,554 -> module related
+Parsed 2,656,103 lines in total.
+  43,854 -> captions skipped
+  198,420 -> duplicates skipped
+  120,927 -> module related
 
-Collected 5,875 unique modules.
-  automatic :cd: -> 4,289
-  explicit :dvd: -> 1,586
+Collected 5,882 unique modules.
+  automatic :cd: -> 4,293
+  explicit :dvd: -> 1,589
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-RC1
-org.objectweb.asm -> org.ow2.asm:asm:7.2
+org.objectweb.asm -> org.ow2.asm:asm:7.3.1
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=1461, explicit=211, plain=33501}` 	 4.99%
+ - `2020_01={automatic=1755, explicit=253, plain=40379}` 	 4.97%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,10 +112,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12732](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16912](suspicious/naming.md)
-- Modular impostors: [6055](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16941](suspicious/naming.md)
+- Modular impostors: [6063](suspicious/impostors.md)
 
-## Unique Modules (5875)
+## Unique Modules (5882)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -183,7 +183,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.1`
 - :dvd: `be.yildizgames.module.database.postgresql` :left_right_arrow: `be.yildiz-games:module-database-postgresql:1.0.6`
 - :dvd: `be.yildizgames.module.graphic` :left_right_arrow: `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.1`
+- :dvd: `be.yildizgames.module.http` :left_right_arrow: `be.yildiz-games:module-http:1.1.2`
 - :dvd: `be.yildizgames.module.messaging` :left_right_arrow: `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` :left_right_arrow: `be.yildiz-games:module-network:2.1.7`
 - :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.8`
@@ -266,6 +266,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` :left_right_arrow: `com.github.almasb:fxgl-trade:11.7`
 - :dvd: `com.almasb.fxgl.ui` :left_right_arrow: `com.github.almasb:fxgl-ui:11.7`
 - :dvd: `com.almasb.fxgl.zdeploy` :left_right_arrow: `com.github.almasb:fxgl-zdeploy:11.7`
+- :dvd: `com.azure.ai.textanalytics` :left_right_arrow: `com.azure:azure-ai-textanalytics:1.0.0-beta.1`
 - :dvd: `com.azure.core` :left_right_arrow: `com.azure:azure-core:1.2.0`
 - :dvd: `com.azure.core.http.okhttp` :left_right_arrow: `com.azure:azure-core-http-okhttp:1.1.0`
 - :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0`
@@ -360,7 +361,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.23.1`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.24`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -1086,6 +1087,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` :left_right_arrow: `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` :left_right_arrow: `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` :left_right_arrow: `io.vulpine.lib:java-sql-import:0.2.0`
+- :dvd: `io.xlate.staedi` :left_right_arrow: `io.xlate:staedi:1.1.0`
 - :dvd: `jakarta.activation` :left_right_arrow: `jakarta.activation:jakarta.activation-api:2.0.0-rc1`
 - :dvd: `java.json` :left_right_arrow: `javax.json:javax.json-api:1.1.4`
 - :dvd: `javax.jws` :left_right_arrow: `javax.jws:javax.jws-api:1.1`
@@ -1435,38 +1437,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.6.0-RC1`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.12`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.2`
-- :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.elusive` :left_right_arrow: `org.kordamp.ikonli:ikonli-elusive-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.entypo` :left_right_arrow: `org.kordamp.ikonli:ikonli-entypo-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.feather` :left_right_arrow: `org.kordamp.ikonli:ikonli-feather-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.fontawesome` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.fontawesome5` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.fontelico` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontelico-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.foundation` :left_right_arrow: `org.kordamp.ikonli:ikonli-foundation-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.hawconsfilled` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.hawconsstroke` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.icomoon` :left_right_arrow: `org.kordamp.ikonli:ikonli-icomoon-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.ionicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.ionicons4` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons4-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.javafx` :left_right_arrow: `org.kordamp.ikonli:ikonli-javafx:11.3.4`
-- :dvd: `org.kordamp.ikonli.ligaturesymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.maki` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.maki2` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki2-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.mapicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-mapicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.material` :left_right_arrow: `org.kordamp.ikonli:ikonli-material-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.materialdesign` :left_right_arrow: `org.kordamp.ikonli:ikonli-materialdesign-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.metrizeicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.octicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-octicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.openiconic` :left_right_arrow: `org.kordamp.ikonli:ikonli-openiconic-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.paymentfont` :left_right_arrow: `org.kordamp.ikonli:ikonli-paymentfont-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.runestroicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-runestroicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.swing` :left_right_arrow: `org.kordamp.ikonli:ikonli-swing:11.3.4`
-- :dvd: `org.kordamp.ikonli.themify` :left_right_arrow: `org.kordamp.ikonli:ikonli-themify-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.typicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-typicons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.weathericons` :left_right_arrow: `org.kordamp.ikonli:ikonli-weathericons-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.4`
-- :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.4`
+- :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.devicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-devicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.elusive` :left_right_arrow: `org.kordamp.ikonli:ikonli-elusive-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.entypo` :left_right_arrow: `org.kordamp.ikonli:ikonli-entypo-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.feather` :left_right_arrow: `org.kordamp.ikonli:ikonli-feather-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.fontawesome` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.fontawesome5` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.fontelico` :left_right_arrow: `org.kordamp.ikonli:ikonli-fontelico-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.foundation` :left_right_arrow: `org.kordamp.ikonli:ikonli-foundation-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.hawconsfilled` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.hawconsstroke` :left_right_arrow: `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.icomoon` :left_right_arrow: `org.kordamp.ikonli:ikonli-icomoon-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.ionicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.ionicons4` :left_right_arrow: `org.kordamp.ikonli:ikonli-ionicons4-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.javafx` :left_right_arrow: `org.kordamp.ikonli:ikonli-javafx:11.3.5`
+- :dvd: `org.kordamp.ikonli.ligaturesymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.linecons` :left_right_arrow: `org.kordamp.ikonli:ikonli-linecons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.maki` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.maki2` :left_right_arrow: `org.kordamp.ikonli:ikonli-maki2-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.mapicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-mapicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.material` :left_right_arrow: `org.kordamp.ikonli:ikonli-material-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.materialdesign` :left_right_arrow: `org.kordamp.ikonli:ikonli-materialdesign-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.metrizeicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.octicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-octicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.openiconic` :left_right_arrow: `org.kordamp.ikonli:ikonli-openiconic-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.paymentfont` :left_right_arrow: `org.kordamp.ikonli:ikonli-paymentfont-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.runestroicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-runestroicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.swing` :left_right_arrow: `org.kordamp.ikonli:ikonli-swing:11.3.5`
+- :dvd: `org.kordamp.ikonli.themify` :left_right_arrow: `org.kordamp.ikonli:ikonli-themify-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.typicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-typicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.weathericons` :left_right_arrow: `org.kordamp.ikonli:ikonli-weathericons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.5`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.2.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:2.0.0`
@@ -1517,13 +1520,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.meeuw.i18n.subdivisions` :left_right_arrow: `org.meeuw.i18n:i18n-regions-subdivisions:1.0.0`
 - :dvd: `org.myire.scent` :left_right_arrow: `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` :left_right_arrow: `org.myire:thrice:3.1`
-- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.2`
+- :dvd: `org.objectweb.asm` :left_right_arrow: `org.ow2.asm:asm:7.3.1`
 - :dvd: `org.objectweb.asm.all` :left_right_arrow: `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` :left_right_arrow: `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.2`
-- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.2`
-- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.2`
-- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.2`
+- :dvd: `org.objectweb.asm.commons` :left_right_arrow: `org.ow2.asm:asm-commons:7.3.1`
+- :dvd: `org.objectweb.asm.tree` :left_right_arrow: `org.ow2.asm:asm-tree:7.3.1`
+- :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.3.1`
+- :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.3.1`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.4`
 - :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.4`
