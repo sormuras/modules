@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5882 Java modules published at Maven Central
+Counted 5910 Java modules published at Maven Central
 
-## Summary 2020-01-11T00:18:35.925948Z
+## Summary 2020-01-12T00:18:48.449963Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-11T00:18:35.925948Z
-Scanned 40,076 files in 5 seconds.
+Started scan at 2020-01-12T00:18:48.449963Z
+Scanned 40,175 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_10_23_57_59.csv
+    last -> modulescanner-report-2020_01_11_23_54_59.csv
 
-Parsed 2,656,103 lines in total.
-  43,854 -> captions skipped
-  198,420 -> duplicates skipped
-  120,927 -> module related
+Parsed 2,659,409 lines in total.
+  43,953 -> captions skipped
+  198,503 -> duplicates skipped
+  121,012 -> module related
 
-Collected 5,882 unique modules.
-  automatic :cd: -> 4,293
-  explicit :dvd: -> 1,589
+Collected 5,910 unique modules.
+  automatic :cd: -> 4,294
+  explicit :dvd: -> 1,616
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=1755, explicit=253, plain=40379}` 	 4.97%
+ - `2020_01={automatic=1791, explicit=297, plain=43418}` 	 4.81%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,10 +112,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12732](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16941](suspicious/naming.md)
-- Modular impostors: [6063](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16945](suspicious/naming.md)
+- Modular impostors: [6064](suspicious/impostors.md)
 
-## Unique Modules (5882)
+## Unique Modules (5910)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -199,6 +199,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.core.api` :left_right_arrow: `ch.tutteli.atrium:atrium-core-api:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.core.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.api` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.builders` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-de_CH:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.verbs` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.verbs.internal` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs-internal:0.9.0-alpha2`
 - :dvd: `ch.tutteli.kbox` :left_right_arrow: `ch.tutteli.kbox:kbox:0.14.1`
 - :dvd: `ch.tutteli.niok` :left_right_arrow: `ch.tutteli.niok:niok:1.3.1`
 - :dvd: `ch.tutteli.spek.extensions` :left_right_arrow: `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -426,6 +452,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` :left_right_arrow: `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` :left_right_arrow: `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` :left_right_arrow: `com.googlecode.blaisemath:blaise-svg:1.0.0`
+- :dvd: `com.googlecode.lanterna` :left_right_arrow: `com.googlecode.lanterna:lanterna:3.1.0-alpha1`
 - :dvd: `com.guicedee.guicedinjection` :left_right_arrow: `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` :left_right_arrow: `com.guicedee:guiced-undertow:62`
 - :dvd: `com.guicedee.logmaster` :left_right_arrow: `com.guicedee:guiced-log-master:62`
@@ -1347,7 +1374,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.docx4j.openxml_objects` :left_right_arrow: `org.docx4j:docx4j-openxml-objects:11.1.3`
 - :dvd: `org.docx4j.openxml_objects_pml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-pml:11.1.3`
 - :dvd: `org.docx4j.openxml_objects_sml` :left_right_arrow: `org.docx4j:docx4j-openxml-objects-sml:11.1.3`
-- :dvd: `org.dyn4j` :left_right_arrow: `org.dyn4j:dyn4j:3.3.0`
+- :dvd: `org.dyn4j` :left_right_arrow: `org.dyn4j:dyn4j:3.4.0`
 - :dvd: `org.eclipse.jetty.alpn.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-client:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.alpn.conscrypt.client` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.alpn.conscrypt.server` :left_right_arrow: `org.eclipse.jetty:jetty-alpn-conscrypt-server:10.0.0.alpha1`
@@ -1570,22 +1597,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.simple` :left_right_arrow: `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` :left_right_arrow: `org.snmp4j:snmp4j:3.3.3`
 - :dvd: `org.snmp4j.agent` :left_right_arrow: `org.snmp4j:snmp4j-agent:3.2.3`
-- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.5.0.0`
-- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.5.0.0`
-- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.5.0.0`
-- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.5.0.0`
-- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.5.0.0`
-- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.5.0.0`
-- :dvd: `org.tentackle.fx.rdc.update` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-update:11.5.0.0`
-- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.5.0.0`
-- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.5.0.0`
-- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.5.0.0`
-- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.5.0.0`
-- :dvd: `org.tentackle.script.jsr` :left_right_arrow: `org.tentackle:tentackle-script-jsr:11.5.0.0`
-- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.5.0.0`
-- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.5.0.0`
-- :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.5.0.0`
-- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.5.0.0`
+- :dvd: `org.tentackle.common` :left_right_arrow: `org.tentackle:tentackle-common:11.6.0.0`
+- :dvd: `org.tentackle.core` :left_right_arrow: `org.tentackle:tentackle-core:11.6.0.0`
+- :dvd: `org.tentackle.database` :left_right_arrow: `org.tentackle:tentackle-database:11.6.0.0`
+- :dvd: `org.tentackle.domain` :left_right_arrow: `org.tentackle:tentackle-domain:11.6.0.0`
+- :dvd: `org.tentackle.fx` :left_right_arrow: `org.tentackle:tentackle-fx:11.6.0.0`
+- :dvd: `org.tentackle.fx.rdc` :left_right_arrow: `org.tentackle:tentackle-fx-rdc:11.6.0.0`
+- :dvd: `org.tentackle.fx.rdc.update` :left_right_arrow: `org.tentackle:tentackle-fx-rdc-update:11.6.0.0`
+- :dvd: `org.tentackle.i18n` :left_right_arrow: `org.tentackle:tentackle-i18n:11.6.0.0`
+- :dvd: `org.tentackle.model` :left_right_arrow: `org.tentackle:tentackle-model:11.6.0.0`
+- :dvd: `org.tentackle.pdo` :left_right_arrow: `org.tentackle:tentackle-pdo:11.6.0.0`
+- :dvd: `org.tentackle.persistence` :left_right_arrow: `org.tentackle:tentackle-persistence:11.6.0.0`
+- :dvd: `org.tentackle.script.jsr` :left_right_arrow: `org.tentackle:tentackle-script-jsr:11.6.0.0`
+- :dvd: `org.tentackle.session` :left_right_arrow: `org.tentackle:tentackle-session:11.6.0.0`
+- :dvd: `org.tentackle.sql` :left_right_arrow: `org.tentackle:tentackle-sql:11.6.0.0`
+- :dvd: `org.tentackle.update` :left_right_arrow: `org.tentackle:tentackle-update:11.6.0.0`
+- :dvd: `org.tentackle.web` :left_right_arrow: `org.tentackle:tentackle-web:11.6.0.0`
 - :dvd: `org.testfx.internal` :left_right_arrow: `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :dvd: `org.threeten.extra` :left_right_arrow: `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` :left_right_arrow: `org.transentials:cardhouse-commons:1.1.1`

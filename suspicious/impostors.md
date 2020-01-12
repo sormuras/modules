@@ -5840,6 +5840,7 @@
 - :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.violations:violation-comments-to-github-command-line:1.9` // `se.bjurr.violations,violation-comments-to-github-command-line,1.9,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.violations:violation-comments-to-gitlab-command-line:1.11` // `se.bjurr.violations,violation-comments-to-gitlab-command-line,1.11,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` :left_right_arrow: `se.bjurr.violations:violations-command-line:1.5` // `se.bjurr.violations,violations-command-line,1.5,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :cd: `org.tinylog.api.scala` :left_right_arrow: `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC1` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC1,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` :left_right_arrow: `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` :left_right_arrow: `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`
