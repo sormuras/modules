@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5910 Java modules published at Maven Central
+Counted 5912 Java modules published at Maven Central
 
-## Summary 2020-01-12T00:18:48.449963Z
+## Summary 2020-01-13T00:19:48.461249Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-12T00:18:48.449963Z
-Scanned 40,175 files in 5 seconds.
+Started scan at 2020-01-13T00:19:48.461249Z
+Scanned 40,269 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_11_23_54_59.csv
+    last -> modulescanner-report-2020_01_12_23_51_59.csv
 
-Parsed 2,659,409 lines in total.
-  43,953 -> captions skipped
-  198,503 -> duplicates skipped
-  121,012 -> module related
+Parsed 2,662,724 lines in total.
+  44,047 -> captions skipped
+  198,653 -> duplicates skipped
+  121,040 -> module related
 
-Collected 5,910 unique modules.
+Collected 5,912 unique modules.
   automatic :cd: -> 4,294
-  explicit :dvd: -> 1,616
+  explicit :dvd: -> 1,618
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=1791, explicit=297, plain=43418}` 	 4.81%
+ - `2020_01={automatic=1804, explicit=301, plain=46461}` 	 4.53%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12732](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16945](suspicious/naming.md)
-- Modular impostors: [6064](suspicious/impostors.md)
+- Invalid module names: [12733](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16953](suspicious/naming.md)
+- Modular impostors: [6066](suspicious/impostors.md)
 
-## Unique Modules (5910)
+## Unique Modules (5912)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1723,9 +1723,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `swim.web` :left_right_arrow: `ai.swim:swim-web:3.10.0`
 - :dvd: `swim.ws` :left_right_arrow: `ai.swim:swim-ws:3.10.0`
 - :dvd: `swim.xml` :left_right_arrow: `ai.swim:swim-xml:3.10.0`
-- :dvd: `systems.uom.quantity` :left_right_arrow: `systems.uom:systems-quantity:2.0`
+- :dvd: `systems.uom.common` :left_right_arrow: `systems.uom:systems-common:2.0.1`
+- :dvd: `systems.uom.quantity` :left_right_arrow: `systems.uom:systems-quantity:2.0.1`
+- :dvd: `systems.uom.unicode` :left_right_arrow: `systems.uom:systems-unicode:2.0.1`
 - :dvd: `tech.pantheon.triemap` :left_right_arrow: `tech.pantheon.triemap:triemap:1.1.0`
-- :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0.1`
+- :dvd: `tech.units.indriya` :left_right_arrow: `tech.units:indriya:2.0.2`
 - :dvd: `tech.uom.lib.common` :left_right_arrow: `tech.uom.lib:uom-lib-common:2.0-PRD`
 - :dvd: `tk.plogitech.darksky` :left_right_arrow: `tk.plogitech:darksky-forecast-api:2.0.2`
 - :dvd: `tk.plogitech.darksky.jackson` :left_right_arrow: `tk.plogitech:darksky-forecast-api-jackson:2.0.2`
