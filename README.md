@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5912 Java modules published at Maven Central
 
-## Summary 2020-01-13T00:19:48.461249Z
+## Summary 2020-01-14T00:20:12.765441Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-13T00:19:48.461249Z
-Scanned 40,269 files in 4 seconds.
+Started scan at 2020-01-14T00:20:12.765441Z
+Scanned 40,362 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_12_23_51_59.csv
+    last -> modulescanner-report-2020_01_13_23_55_18.csv
 
-Parsed 2,662,724 lines in total.
-  44,047 -> captions skipped
-  198,653 -> duplicates skipped
-  121,040 -> module related
+Parsed 2,668,450 lines in total.
+  44,140 -> captions skipped
+  199,040 -> duplicates skipped
+  121,354 -> module related
 
 Collected 5,912 unique modules.
   automatic :cd: -> 4,294
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=1804, explicit=301, plain=46461}` 	 4.53%
+ - `2020_01={automatic=2090, explicit=309, plain=51393}` 	 4.67%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,9 +111,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12733](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16953](suspicious/naming.md)
-- Modular impostors: [6066](suspicious/impostors.md)
+- Invalid module names: [12741](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16963](suspicious/naming.md)
+- Modular impostors: [6068](suspicious/impostors.md)
 
 ## Unique Modules (5912)
 
@@ -189,8 +189,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.network.netty` :left_right_arrow: `be.yildiz-games:module-network-netty:2.0.8`
 - :dvd: `be.yildizgames.module.physics` :left_right_arrow: `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` :left_right_arrow: `be.yildiz-games:module-physics-bullet:2.0.7`
-- :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.4`
-- :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.2`
+- :dvd: `be.yildizgames.module.scripting` :left_right_arrow: `be.yildiz-games:module-scripting:2.0.5`
+- :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.3`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.1.0`
@@ -300,12 +300,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.2.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.2`
-- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0-beta.1`
-- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.1.0`
-- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.1.0`
-- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0-beta.1`
-- :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0-beta.1`
-- :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0-beta.1`
+- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0`
+- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.2.0`
+- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.2.0`
+- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0`
+- :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0`
+- :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.0`
 - :dvd: `com.blazebit.persistence.core.parser` :left_right_arrow: `com.blazebit:blaze-persistence-core-parser:1.4.0`
