@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5921 Java modules published at Maven Central
+Counted 5923 Java modules published at Maven Central
 
-## Summary 2020-01-15T00:20:55.433743Z
+## Summary 2020-01-16T00:21:53.865224Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-15T00:20:55.433743Z
-Scanned 40,453 files in 5 seconds.
+Started scan at 2020-01-16T00:21:53.865224Z
+Scanned 40,539 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_15_00_02_04.csv
+    last -> modulescanner-report-2020_01_15_23_53_28.csv
 
-Parsed 2,676,002 lines in total.
-  44,231 -> captions skipped
-  200,012 -> duplicates skipped
-  121,866 -> module related
+Parsed 2,684,700 lines in total.
+  44,317 -> captions skipped
+  201,213 -> duplicates skipped
+  122,364 -> module related
 
-Collected 5,921 unique modules.
-  automatic :cd: -> 4,301
+Collected 5,923 unique modules.
+  automatic :cd: -> 4,303
   explicit :dvd: -> 1,620
 
 ## Samples
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=2518, explicit=348, plain=57370}` 	 5.00%
+ - `2020_01={automatic=2949, explicit=360, plain=64283}` 	 5.15%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,10 +112,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [12747](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [16985](suspicious/naming.md)
-- Modular impostors: [6085](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17025](suspicious/naming.md)
+- Modular impostors: [6100](suspicious/impostors.md)
 
-## Unique Modules (5921)
+## Unique Modules (5923)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -422,15 +422,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.nhojpatrick.hamcrest.lang` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.optionals` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
 - :dvd: `com.github.nhojpatrick.lang` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.6.0`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.6.0`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.6.0`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.7.0-beta-1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.7.0-beta-1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.7.0-beta-1`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.6.0`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.6.0`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.6.0`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.7.0-beta-1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.7.0-beta-1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.7.0-beta-1`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -892,7 +892,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` :left_right_arrow: `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` :left_right_arrow: `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` :left_right_arrow: `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.0`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.1-M1`
 - :dvd: `de.sormuras.bartholdy` :left_right_arrow: `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` :left_right_arrow: `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1424,7 +1424,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` :left_right_arrow: `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` :left_right_arrow: `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` :left_right_arrow: `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.20`
+- :dvd: `org.fernice.reflare.ten` :left_right_arrow: `org.fernice:fernice-reflare-access-jdk-10:1.0.21`
 - :dvd: `org.fissore.jrecordbind` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` :left_right_arrow: `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` :left_right_arrow: `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
@@ -1557,10 +1557,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.3.1`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.3.1`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-antlr:4.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-antlr:2.0.4`
+- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-antlr:4.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-antlr:2.0.5`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` :left_right_arrow: `org.panteleyev:persistence:19.2.0`
