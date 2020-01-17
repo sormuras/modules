@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5923 Java modules published at Maven Central
+Counted 5924 Java modules published at Maven Central
 
-## Summary 2020-01-16T00:21:53.865224Z
+## Summary 2020-01-17T00:22:41.587109Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-16T00:21:53.865224Z
-Scanned 40,539 files in 5 seconds.
+Started scan at 2020-01-17T00:22:41.587109Z
+Scanned 40,625 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_15_23_53_28.csv
+    last -> modulescanner-report-2020_01_17_00_04_53.csv
 
-Parsed 2,684,700 lines in total.
-  44,317 -> captions skipped
-  201,213 -> duplicates skipped
-  122,364 -> module related
+Parsed 2,693,502 lines in total.
+  44,403 -> captions skipped
+  202,230 -> duplicates skipped
+  122,876 -> module related
 
-Collected 5,923 unique modules.
-  automatic :cd: -> 4,303
+Collected 5,924 unique modules.
+  automatic :cd: -> 4,304
   explicit :dvd: -> 1,620
 
 ## Samples
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=2949, explicit=360, plain=64283}` 	 5.15%
+ - `2020_01={automatic=3427, explicit=378, plain=71470}` 	 5.32%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12747](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17025](suspicious/naming.md)
-- Modular impostors: [6100](suspicious/impostors.md)
+- Invalid module names: [12748](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17035](suspicious/naming.md)
+- Modular impostors: [6105](suspicious/impostors.md)
 
-## Unique Modules (5923)
+## Unique Modules (5924)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -300,10 +300,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.2.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.3`
-- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.2.0`
-- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.2.0`
-- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.2.0`
-- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.2.0`
+- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.3.0`
+- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.3.0`
+- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.3.0`
+- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.3.0`
 - :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0`
 - :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.0`
@@ -442,7 +442,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.9`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.10`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -969,11 +969,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.9`
 - :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.9`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
-- :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.0`
-- :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.0`
+- :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.2`
+- :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.2`
 - :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
-- :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.0`
-- :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.0`
+- :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.2`
+- :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.2`
 - :dvd: `io.github.jsoagger.corebusiness.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-services:1.0.1`
 - :dvd: `io.github.jsoagger.corebusiness.offline.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-operations:1.0.1`
 - :dvd: `io.github.jsoagger.corebusiness.offline.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-services:1.0.1`
@@ -1138,7 +1138,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.6`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.0`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.1`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:3.0.0`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
@@ -1557,10 +1557,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` :left_right_arrow: `org.ow2.asm:asm-analysis:7.3.1`
 - :dvd: `org.objectweb.asm.util` :left_right_arrow: `org.ow2.asm:asm-util:7.3.1`
 - :dvd: `org.objectweb.asm.xml` :left_right_arrow: `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.5`
-- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.5`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-antlr:4.0.5`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-antlr:2.0.5`
+- :dvd: `org.opendaylight.yangtools.concepts` :left_right_arrow: `org.opendaylight.yangtools:concepts:4.0.6`
+- :dvd: `org.opendaylight.yangtools.yang.common` :left_right_arrow: `org.opendaylight.yangtools:yang-common:4.0.6`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-parser-antlr:4.0.6`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` :left_right_arrow: `org.opendaylight.yangtools:yang-xpath-antlr:2.0.6`
 - :dvd: `org.opentest4j` :left_right_arrow: `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` :left_right_arrow: `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` :left_right_arrow: `org.panteleyev:persistence:19.2.0`
