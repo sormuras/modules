@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5924 Java modules published at Maven Central
+Counted 5926 Java modules published at Maven Central
 
-## Summary 2020-01-17T00:22:41.587109Z
+## Summary 2020-01-18T00:22:44.761845Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-17T00:22:41.587109Z
-Scanned 40,625 files in 5 seconds.
+Started scan at 2020-01-18T00:22:44.761845Z
+Scanned 40,707 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_17_00_04_53.csv
+    last -> modulescanner-report-2020_01_17_23_48_11.csv
 
-Parsed 2,693,502 lines in total.
-  44,403 -> captions skipped
-  202,230 -> duplicates skipped
-  122,876 -> module related
+Parsed 2,703,736 lines in total.
+  44,485 -> captions skipped
+  202,980 -> duplicates skipped
+  123,243 -> module related
 
-Collected 5,924 unique modules.
-  automatic :cd: -> 4,304
+Collected 5,926 unique modules.
+  automatic :cd: -> 4,306
   explicit :dvd: -> 1,620
 
 ## Samples
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=3427, explicit=378, plain=71470}` 	 5.32%
+ - `2020_01={automatic=3711, explicit=392, plain=80505}` 	 5.10%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12748](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17035](suspicious/naming.md)
-- Modular impostors: [6105](suspicious/impostors.md)
+- Invalid module names: [12797](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17051](suspicious/naming.md)
+- Modular impostors: [6109](suspicious/impostors.md)
 
-## Unique Modules (5924)
+## Unique Modules (5926)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -267,7 +267,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.4.2`
 - :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.4.2`
 - :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.4.2`
-- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.2.2`
+- :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.3.0`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` :left_right_arrow: `com.aitusoftware:transport:0.4.0`
@@ -387,7 +387,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
 - :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.24`
+- :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.25`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` :left_right_arrow: `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` :left_right_arrow: `com.github.akurilov:confuse-io-json:1.1.0`
@@ -694,9 +694,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.xeditable` :left_right_arrow: `com.jwebmp:jwebmp-xeditable:0.66.0.1`
 - :dvd: `com.jwebmp.undertow` :left_right_arrow: `com.jwebmp:jwebmp-undertow:0.66.0.1`
 - :dvd: `com.jwebmp.websockets` :left_right_arrow: `com.jwebmp:jwebmp-websockets:0.66.0.1`
-- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.3.0`
-- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.0`
-- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.0`
+- :dvd: `com.kohlschutter.junixsocket.core` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-core:2.3.1`
+- :dvd: `com.kohlschutter.junixsocket.nativecommon` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.1`
+- :dvd: `com.kohlschutter.junixsocket.nativecustom` :left_right_arrow: `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.1`
 - :dvd: `com.moilioncircle.redis.replicator` :left_right_arrow: `com.moilioncircle:redis-replicator:3.4.0`
 - :dvd: `com.moilioncircle.redis.sink.api` :left_right_arrow: `com.moilioncircle:redis-sink-api:1.2.1`
 - :dvd: `com.ncredinburgh.incontrol` :left_right_arrow: `com.ncredinburgh:in-control:1.1`
@@ -968,12 +968,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.9`
 - :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.9`
 - :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.9`
-- :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.1`
-- :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.2`
-- :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.2`
+- :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.2`
+- :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
+- :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
 - :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
-- :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.2`
-- :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.2`
+- :dvd: `io.github.jsoagger.core.ioc` :left_right_arrow: `io.github.jsoagger:jsoagger-core-ioc:1.0.3`
+- :dvd: `io.github.jsoagger.core.utils` :left_right_arrow: `io.github.jsoagger:jsoagger-core-utils:1.0.3`
 - :dvd: `io.github.jsoagger.corebusiness.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-cloud-services:1.0.1`
 - :dvd: `io.github.jsoagger.corebusiness.offline.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-operations:1.0.1`
 - :dvd: `io.github.jsoagger.corebusiness.offline.services` :left_right_arrow: `io.github.jsoagger:jsoagger-corebusiness-offline-services:1.0.1`
@@ -982,8 +982,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.jsoagger.coreui.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-services:1.0.1`
 - :dvd: `io.github.jsoagger.coreview.definition` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-viewdefinition:1.0.0`
 - :dvd: `io.github.jsoagger.jfxcore.engine` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-engine:1.0.1`
-- :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.1`
-- :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.1`
+- :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.2`
+- :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.2`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.json` :left_right_arrow: `io.github.pustike:pustike-json:0.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
@@ -1138,7 +1138,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.6`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.6`
-- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.1`
+- :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.3`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:3.0.0`
 - :dvd: `net.dongliu.dbutils` :left_right_arrow: `net.dongliu:dbutils:6.0.2`
