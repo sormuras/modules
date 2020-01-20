@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5927 Java modules published at Maven Central
+Counted 5931 Java modules published at Maven Central
 
-## Summary 2020-01-19T00:23:15.247255Z
+## Summary 2020-01-20T00:23:26.786079Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-19T00:23:15.247255Z
-Scanned 40,807 files in 5 seconds.
+Started scan at 2020-01-20T00:23:26.786079Z
+Scanned 40,936 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_19_00_04_59.csv
+    last -> modulescanner-report-2020_01_20_00_13_51.csv
 
-Parsed 2,707,260 lines in total.
-  44,585 -> captions skipped
-  203,049 -> duplicates skipped
-  123,258 -> module related
+Parsed 2,710,716 lines in total.
+  44,714 -> captions skipped
+  203,101 -> duplicates skipped
+  123,327 -> module related
 
-Collected 5,927 unique modules.
-  automatic :cd: -> 4,307
-  explicit :dvd: -> 1,620
+Collected 5,931 unique modules.
+  automatic :cd: -> 4,309
+  explicit :dvd: -> 1,622
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=3720, explicit=393, plain=83845}` 	 4.91%
+ - `2020_01={automatic=3776, explicit=395, plain=87051}` 	 4.79%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12797](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17055](suspicious/naming.md)
-- Modular impostors: [6110](suspicious/impostors.md)
+- Invalid module names: [12798](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17060](suspicious/naming.md)
+- Modular impostors: [6115](suspicious/impostors.md)
 
-## Unique Modules (5927)
+## Unique Modules (5931)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1645,6 +1645,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.elasticsearch.spatial4j` :left_right_arrow: `org.xbib.elasticsearch:spatial4j:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.tdigest` :left_right_arrow: `org.xbib.elasticsearch:tdigest:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.testframework` :left_right_arrow: `org.xbib.elasticsearch:elasticsearch-test-framework:6.3.2.4`
+- :dvd: `org.xbib.guice` :left_right_arrow: `org.xbib:guice:4.4.2`
+- :dvd: `org.xbib.javax.inject` :left_right_arrow: `org.xbib:javax-inject:1`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:basic-annotations:0.1.0`
 - :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.4`
 - :dvd: `pl.tlinkowski.unij.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.api:0.1.1`
