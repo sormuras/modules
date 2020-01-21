@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 5931 Java modules published at Maven Central
+Counted 5935 Java modules published at Maven Central
 
-## Summary 2020-01-20T00:23:26.786079Z
+## Summary 2020-01-21T00:23:57.560669Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-20T00:23:26.786079Z
-Scanned 40,936 files in 5 seconds.
+Started scan at 2020-01-21T00:23:57.560669Z
+Scanned 41,054 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_20_00_13_51.csv
+    last -> modulescanner-report-2020_01_21_00_08_50.csv
 
-Parsed 2,710,716 lines in total.
-  44,714 -> captions skipped
-  203,101 -> duplicates skipped
-  123,327 -> module related
+Parsed 2,718,458 lines in total.
+  44,832 -> captions skipped
+  204,607 -> duplicates skipped
+  123,894 -> module related
 
-Collected 5,931 unique modules.
-  automatic :cd: -> 4,309
-  explicit :dvd: -> 1,622
+Collected 5,935 unique modules.
+  automatic :cd: -> 4,311
+  explicit :dvd: -> 1,624
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0-RC1
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0
 org.objectweb.asm -> org.ow2.asm:asm:7.3.1
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.7.1
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=3776, explicit=395, plain=87051}` 	 4.79%
+ - `2020_01={automatic=4186, explicit=419, plain=92602}` 	 4.97%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12798](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17060](suspicious/naming.md)
-- Modular impostors: [6115](suspicious/impostors.md)
+- Invalid module names: [12834](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17084](suspicious/naming.md)
+- Modular impostors: [6188](suspicious/impostors.md)
 
-## Unique Modules (5931)
+## Unique Modules (5935)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -662,7 +662,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.0`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.1`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -676,8 +676,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.0`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.0`
+- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.1`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.1`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -968,7 +968,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.9`
 - :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.9`
 - :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.9`
-- :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.2`
+- :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
 - :dvd: `io.github.jsoagger.core.i18n` :left_right_arrow: `io.github.jsoagger:jsoagger-core-i18n:1.0.0`
@@ -982,8 +982,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.jsoagger.coreui.cloud.services` :left_right_arrow: `io.github.jsoagger:jsoagger-coreui-cloud-services:1.0.1`
 - :dvd: `io.github.jsoagger.coreview.definition` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-viewdefinition:1.0.0`
 - :dvd: `io.github.jsoagger.jfxcore.engine` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-engine:1.0.1`
-- :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.2`
-- :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.2`
+- :dvd: `io.github.jsoagger.jfxcore.preloader` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-preloader:1.0.3`
+- :dvd: `io.github.jsoagger.jfxcore11` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore11:1.0.3`
 - :dvd: `io.github.lordakkarin.nbt` :left_right_arrow: `io.github.lordakkarin:nbt:1.1.0`
 - :dvd: `io.github.pustike.json` :left_right_arrow: `io.github.pustike:pustike-json:0.1.0`
 - :dvd: `io.github.pustike.persist` :left_right_arrow: `io.github.pustike:pustike-persist:0.9.0`
@@ -1116,6 +1116,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.sql.load` :left_right_arrow: `io.vulpine.lib:java-sql-import:0.2.0`
 - :dvd: `io.xlate.staedi` :left_right_arrow: `io.xlate:staedi:1.1.0`
 - :dvd: `jakarta.activation` :left_right_arrow: `jakarta.activation:jakarta.activation-api:2.0.0-rc1`
+- :dvd: `jakarta.json` :left_right_arrow: `jakarta.json:jakarta.json-api:2.0.0-RC1`
+- :dvd: `jakarta.json.bind` :left_right_arrow: `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
 - :dvd: `java.json` :left_right_arrow: `javax.json:javax.json-api:1.1.4`
 - :dvd: `javax.jws` :left_right_arrow: `javax.jws:javax.jws-api:1.1`
 - :dvd: `jfxtras.agenda` :left_right_arrow: `org.jfxtras:jfxtras-agenda:10.0-r1`
@@ -1136,8 +1138,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.6`
-- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.6`
+- :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.7`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.7`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.3`
 - :dvd: `net.dongliu.cute.http` :left_right_arrow: `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` :left_right_arrow: `net.dongliu:cute-http-jsonb:3.0.0`
@@ -1450,20 +1452,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` :left_right_arrow: `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` :left_right_arrow: `org.jruby.jcodings:jcodings:1.0.46`
 - :dvd: `org.jruby.joni` :left_right_arrow: `org.jruby.joni:joni:2.1.30`
-- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0-RC1`
-- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0-RC1`
-- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.6.0-RC1`
-- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.0-RC1`
-- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.6.0-RC1`
-- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.6.0-RC1`
-- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.6.0-RC1`
-- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.6.0-RC1`
-- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.6.0-RC1`
-- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.6.0-RC1`
-- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.6.0-RC1`
-- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.6.0-RC1`
-- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.6.0-RC1`
-- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.6.0-RC1`
+- :dvd: `org.junit.jupiter` :left_right_arrow: `org.junit.jupiter:junit-jupiter:5.6.0`
+- :dvd: `org.junit.jupiter.api` :left_right_arrow: `org.junit.jupiter:junit-jupiter-api:5.6.0`
+- :dvd: `org.junit.jupiter.engine` :left_right_arrow: `org.junit.jupiter:junit-jupiter-engine:5.6.0`
+- :dvd: `org.junit.jupiter.migrationsupport` :left_right_arrow: `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.0`
+- :dvd: `org.junit.jupiter.params` :left_right_arrow: `org.junit.jupiter:junit-jupiter-params:5.6.0`
+- :dvd: `org.junit.platform.commons` :left_right_arrow: `org.junit.platform:junit-platform-commons:1.6.0`
+- :dvd: `org.junit.platform.console` :left_right_arrow: `org.junit.platform:junit-platform-console:1.6.0`
+- :dvd: `org.junit.platform.engine` :left_right_arrow: `org.junit.platform:junit-platform-engine:1.6.0`
+- :dvd: `org.junit.platform.launcher` :left_right_arrow: `org.junit.platform:junit-platform-launcher:1.6.0`
+- :dvd: `org.junit.platform.reporting` :left_right_arrow: `org.junit.platform:junit-platform-reporting:1.6.0`
+- :dvd: `org.junit.platform.runner` :left_right_arrow: `org.junit.platform:junit-platform-runner:1.6.0`
+- :dvd: `org.junit.platform.suite.api` :left_right_arrow: `org.junit.platform:junit-platform-suite-api:1.6.0`
+- :dvd: `org.junit.platform.testkit` :left_right_arrow: `org.junit.platform:junit-platform-testkit:1.6.0`
+- :dvd: `org.junit.vintage.engine` :left_right_arrow: `org.junit.vintage:junit-vintage-engine:5.6.0`
 - :dvd: `org.jvnet.mimepull` :left_right_arrow: `org.jvnet.mimepull:mimepull:1.9.12`
 - :dvd: `org.jvnet.staxex` :left_right_arrow: `org.jvnet.staxex:stax-ex:1.8.2`
 - :dvd: `org.kordamp.ikonli.dashicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`
