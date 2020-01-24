@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5937 Java modules published at Maven Central
+Counted 5949 Java modules published at Maven Central
 
-## Summary 2020-01-23T00:25:30.068256Z
+## Summary 2020-01-24T00:26:24.950584Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-23T00:25:30.068256Z
-Scanned 41,281 files in 6 seconds.
+Started scan at 2020-01-24T00:26:24.950584Z
+Scanned 41,386 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_23_00_07_20.csv
+    last -> modulescanner-report-2020_01_24_00_12_11.csv
 
-Parsed 2,735,777 lines in total.
-  45,053 -> captions skipped
-  207,277 -> duplicates skipped
-  124,474 -> module related
+Parsed 2,747,347 lines in total.
+  45,155 -> captions skipped
+  208,558 -> duplicates skipped
+  124,949 -> module related
 
-Collected 5,937 unique modules.
-  automatic :cd: -> 4,312
-  explicit :dvd: -> 1,625
+Collected 5,949 unique modules.
+  automatic :cd: -> 4,322
+  explicit :dvd: -> 1,627
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=4504, explicit=447, plain=106450}` 	 4.65%
+ - `2020_01={automatic=4909, explicit=451, plain=116162}` 	 4.61%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12839](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17160](suspicious/naming.md)
-- Modular impostors: [6341](suspicious/impostors.md)
+- Invalid module names: [12846](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17179](suspicious/naming.md)
+- Modular impostors: [6381](suspicious/impostors.md)
 
-## Unique Modules (5937)
+## Unique Modules (5949)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -442,7 +442,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
 - :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
-- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.10`
+- :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.12`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` :left_right_arrow: `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1138,6 +1138,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` :left_right_arrow: `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` :left_right_arrow: `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` :left_right_arrow: `moe.tristan:easyfxml-sample-hello-world:3.3.0`
+- :dvd: `net.bbmsoft.audio.controls` :left_right_arrow: `net.bbmsoft:audio-controls:0.1.0`
+- :dvd: `net.bbmsoft.audio.controls.api` :left_right_arrow: `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bytebuddy` :left_right_arrow: `net.bytebuddy:byte-buddy:1.10.7`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `net.bytebuddy:byte-buddy-agent:1.10.7`
 - :dvd: `net.dongliu.commons` :left_right_arrow: `net.dongliu:commons:8.1.3`
