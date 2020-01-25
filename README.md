@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5949 Java modules published at Maven Central
+Counted 5955 Java modules published at Maven Central
 
-## Summary 2020-01-24T00:26:24.950584Z
+## Summary 2020-01-25T00:26:39.518770Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-24T00:26:24.950584Z
-Scanned 41,386 files in 5 seconds.
+Started scan at 2020-01-25T00:26:39.518770Z
+Scanned 41,504 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_24_00_12_11.csv
+    last -> modulescanner-report-2020_01_25_00_13_29.csv
 
-Parsed 2,747,347 lines in total.
-  45,155 -> captions skipped
-  208,558 -> duplicates skipped
-  124,949 -> module related
+Parsed 2,755,596 lines in total.
+  45,273 -> captions skipped
+  210,089 -> duplicates skipped
+  125,397 -> module related
 
-Collected 5,949 unique modules.
-  automatic :cd: -> 4,322
-  explicit :dvd: -> 1,627
+Collected 5,955 unique modules.
+  automatic :cd: -> 4,326
+  explicit :dvd: -> 1,629
 
 ## Samples
             junit -> junit:junit:4.13
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=4909, explicit=451, plain=116162}` 	 4.61%
+ - `2020_01={automatic=5185, explicit=458, plain=122314}` 	 4.61%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12846](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17179](suspicious/naming.md)
-- Modular impostors: [6381](suspicious/impostors.md)
+- Invalid module names: [12891](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17212](suspicious/naming.md)
+- Modular impostors: [6468](suspicious/impostors.md)
 
-## Unique Modules (5949)
+## Unique Modules (5955)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -193,8 +193,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.3`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:3.1.0`
-- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:1.1.0`
+- :dvd: `be.yildizgames.module.webserver.undertow` :left_right_arrow: `be.yildiz-games:module-webserver-undertow:1.0.0`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.0`
+- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:2.0.0`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
@@ -662,7 +663,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` :left_right_arrow: `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.3`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` :left_right_arrow: `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.4`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` :left_right_arrow: `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` :left_right_arrow: `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` :left_right_arrow: `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -676,8 +677,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` :left_right_arrow: `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` :left_right_arrow: `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` :left_right_arrow: `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.3`
-- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.3`
+- :dvd: `com.jwebmp.plugins.security.ipgeography` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.4`
+- :dvd: `com.jwebmp.plugins.security.localstorage` :left_right_arrow: `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.4`
 - :dvd: `com.jwebmp.plugins.skycons` :left_right_arrow: `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` :left_right_arrow: `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -789,6 +790,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` :left_right_arrow: `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
+- :dvd: `com.sothawo.mapjfx` :left_right_arrow: `com.sothawo:mapjfx:2.13.0`
 - :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.5`
 - :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.5`
 - :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.5`
