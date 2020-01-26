@@ -2158,6 +2158,7 @@
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.0.0` // `io.cucumber,datatable,3.0.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.1.0` // `io.cucumber,datatable,3.1.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.2.0` // `io.cucumber,datatable,3.2.0,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.2.1` // `io.cucumber,datatable,3.2.1,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -4207,6 +4208,7 @@
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework:commons-bcel:0.0.1` // `org.checkerframework,commons-bcel,0.0.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework.annotatedlib:bcel:6.2.0.2` // `org.checkerframework.annotatedlib,bcel,6.2.0.2,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework.annotatedlib:bcel:6.3.1` // `org.checkerframework.annotatedlib,bcel,6.3.1,org.apache.bcel,-,automatic,-,false,-`
+- :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework.annotatedlib:bcel:6.4.1` // `org.checkerframework.annotatedlib,bcel,6.4.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` :left_right_arrow: `org.checkerframework.annotatedlib:commons-bcel:0.0.1` // `org.checkerframework.annotatedlib,commons-bcel,0.0.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` :left_right_arrow: `org.apache.beam:beam-runners-flink-1.8:2.17.0` // `org.apache.beam,beam-runners-flink-1.8,2.17.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` :left_right_arrow: `org.apache.beam:beam-runners-flink-1.8:2.18.0` // `org.apache.beam,beam-runners-flink-1.8,2.18.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
@@ -4435,6 +4437,8 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.pellierd:pddl4j:3.8.3` // `com.github.pellierd,pddl4j,3.8.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.skapral.poetryclub:poetryclub-app:0.0.0` // `com.github.skapral.poetryclub,poetryclub-app,0.0.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.skapral.poetryclub:poetryclub-app:0.0.1` // `com.github.skapral.poetryclub,poetryclub-app,0.0.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.vzakharchenko:radius-plugin:0.1` // `com.github.vzakharchenko,radius-plugin,0.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.vzakharchenko:radius-plugin:1.0.0` // `com.github.vzakharchenko,radius-plugin,1.0.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
