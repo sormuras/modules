@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 5955 Java modules published at Maven Central
+Counted 5958 Java modules published at Maven Central
 
-## Summary 2020-01-26T00:26:46.152743Z
+## Summary 2020-01-27T00:27:12.250118Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-26T00:26:46.152743Z
-Scanned 41,632 files in 4 seconds.
+Started scan at 2020-01-27T00:27:12.250118Z
+Scanned 41,742 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_26_00_17_56.csv
+    last -> modulescanner-report-2020_01_27_00_07_35.csv
 
-Parsed 2,757,673 lines in total.
-  45,401 -> captions skipped
-  210,301 -> duplicates skipped
-  125,464 -> module related
+Parsed 2,759,702 lines in total.
+  45,511 -> captions skipped
+  210,506 -> duplicates skipped
+  125,545 -> module related
 
-Collected 5,955 unique modules.
-  automatic :cd: -> 4,325
+Collected 5,958 unique modules.
+  automatic :cd: -> 4,328
   explicit :dvd: -> 1,630
 
 ## Samples
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=5207, explicit=465, plain=123984}` 	 4.57%
+ - `2020_01={automatic=5249, explicit=468, plain=125617}` 	 4.55%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,11 +111,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [12891](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17246](suspicious/naming.md)
-- Modular impostors: [6472](suspicious/impostors.md)
+- Invalid module names: [12921](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17247](suspicious/naming.md)
+- Modular impostors: [6477](suspicious/impostors.md)
 
-## Unique Modules (5955)
+## Unique Modules (5958)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -441,8 +441,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gitlab.haynes.paranamer` :left_right_arrow: `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.connect` :left_right_arrow: `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` :left_right_arrow: `com.gluonhq:maps:2.0.0-ea+2`
-- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.10`
-- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.7`
+- :dvd: `com.gluonhq.strange` :left_right_arrow: `com.gluonhq:strange:0.0.11`
+- :dvd: `com.gluonhq.strangefx` :left_right_arrow: `com.gluonhq:strangefx:0.0.8`
 - :dvd: `com.gluonhq.substrate` :left_right_arrow: `com.gluonhq:substrate:0.0.12`
 - :dvd: `com.googlecode.blaisemath.app` :left_right_arrow: `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` :left_right_arrow: `com.googlecode.blaisemath:blaise-common:1.0.8`
@@ -949,7 +949,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` :left_right_arrow: `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.1.0`
+- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.1.1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.60`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.4`
