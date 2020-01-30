@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5962 Java modules published at Maven Central
 
-## Summary 2020-01-29T00:27:38.200185Z
+## Summary 2020-01-30T00:27:56.870886Z
 
 ```
 ## Summary
 
-Started scan at 2020-01-29T00:27:38.200185Z
-Scanned 41,899 files in 4 seconds.
+Started scan at 2020-01-30T00:27:56.870886Z
+Scanned 42,007 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_01_28_23_03_05.csv
+    last -> modulescanner-report-2020_01_30_00_17_45.csv
 
-Parsed 2,767,190 lines in total.
-  45,668 -> captions skipped
-  211,536 -> duplicates skipped
-  126,429 -> module related
+Parsed 2,775,834 lines in total.
+  45,770 -> captions skipped
+  212,180 -> duplicates skipped
+  126,597 -> module related
 
 Collected 5,962 unique modules.
   automatic :cd: -> 4,332
@@ -48,7 +48,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
- - `2020_01={automatic=5554, explicit=498, plain=131034}` 	 4.62%
+ - `2020_01={automatic=5599, explicit=507, plain=138764}` 	 4.40%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,9 +111,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13090](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17602](suspicious/naming.md)
-- Modular impostors: [6502](suspicious/impostors.md)
+- Invalid module names: [13155](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17648](suspicious/naming.md)
+- Modular impostors: [6505](suspicious/impostors.md)
 
 ## Unique Modules (5962)
 
@@ -194,8 +194,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` :left_right_arrow: `be.yildiz-games:module-webserver-undertow:1.0.0`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.0`
-- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:2.0.0`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.1`
+- :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:2.0.1`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
@@ -364,17 +364,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` :left_right_arrow: `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.guava` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.hppc` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.10.2`
-- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.2`
+- :dvd: `com.fasterxml.jackson.datatype.jaxrs` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.10.2.1`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.joda` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.jsonorg` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.jsr310` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.10.2`
 - :dvd: `com.fasterxml.jackson.datatype.jsr353` :left_right_arrow: `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.10.2`
-- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.2`
-- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.2`
-- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.2`
-- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.2`
-- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.2`
+- :dvd: `com.fasterxml.jackson.jaxrs.base` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.10.2.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.cbor` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.10.2.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.json` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.10.2.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.smile` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.10.2.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.yaml` :left_right_arrow: `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.10.2.1`
 - :dvd: `com.fasterxml.jackson.jr.ob` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-objects:2.10.2`
 - :dvd: `com.fasterxml.jackson.jr.retrofit2` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.10.2`
 - :dvd: `com.fasterxml.jackson.jr.stree` :left_right_arrow: `com.fasterxml.jackson.jr:jackson-jr-stree:2.10.2`
@@ -1262,7 +1262,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.arakhne.afc.gis.ui.gisroadfx` :left_right_arrow: `org.arakhne.afc.gis.ui:gisroadfx:17.0`
 - :dvd: `org.arakhne.afc.slf4j.slf4j_log4j` :left_right_arrow: `org.arakhne.afc.slf4j:slf4j-log4j:17.0`
 - :dvd: `org.argotsdk` :left_right_arrow: `org.argot-sdk:argot:1.4.0-rc2`
-- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.14.0`
+- :dvd: `org.assertj.core` :left_right_arrow: `org.assertj:assertj-core:3.15.0`
 - :dvd: `org.basinmc.lavatory` :left_right_arrow: `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` :left_right_arrow: `org.beryx:awt-color-factory:1.0.1`
 - :dvd: `org.bitbucket.cowwoc.requirements.annotations` :left_right_arrow: `org.bitbucket.cowwoc.requirements:annotations:5.2.2`
