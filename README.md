@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 5978 Java modules published at Maven Central
 
-## Summary 2020-02-01T00:29:02.520816Z
+## Summary 2020-02-02T00:29:45.872086Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-01T00:29:02.520816Z
-Scanned 42,234 files in 5 seconds.
+Started scan at 2020-02-02T00:29:45.872086Z
+Scanned 42,299 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_01_00_13_18.csv
+    last -> modulescanner-report-2020_02_01_21_31_17.csv
 
-Parsed 2,790,709 lines in total.
-  45,996 -> captions skipped
-  213,276 -> duplicates skipped
-  126,746 -> module related
+Parsed 2,793,205 lines in total.
+  46,061 -> captions skipped
+  214,255 -> duplicates skipped
+  126,764 -> module related
 
 Collected 5,978 unique modules.
   automatic :cd: -> 4,346
@@ -49,6 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
+ - `2020_02={automatic=1, explicit=1, plain=1434}` 	 0.14%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -111,9 +112,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13158](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17716](suspicious/naming.md)
-- Modular impostors: [6511](suspicious/impostors.md)
+- Invalid module names: [13168](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17718](suspicious/naming.md)
+- Modular impostors: [6515](suspicious/impostors.md)
 
 ## Unique Modules (5978)
 
@@ -1507,7 +1508,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.kordamp.ikonli.websymbols` :left_right_arrow: `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.5`
 - :dvd: `org.kordamp.ikonli.zondicons` :left_right_arrow: `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.5`
 - :dvd: `org.lanternpowered.lmbda` :left_right_arrow: `org.lanternpowered:lmbda:1.0.0`
-- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.2.0`
+- :dvd: `org.leadpony.joy` :left_right_arrow: `org.leadpony.joy:joy:1.3.0`
 - :dvd: `org.leadpony.justify` :left_right_arrow: `org.leadpony.justify:justify:2.0.0`
 - :dvd: `org.lwjgl` :left_right_arrow: `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl:lwjgl-assimp:3.2.3`
