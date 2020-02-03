@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5978 Java modules published at Maven Central
+Counted 5981 Java modules published at Maven Central
 
-## Summary 2020-02-02T00:29:45.872086Z
+## Summary 2020-02-03T00:30:27.521399Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-02T00:29:45.872086Z
-Scanned 42,299 files in 5 seconds.
+Started scan at 2020-02-03T00:30:27.521399Z
+Scanned 42,304 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_01_21_31_17.csv
+    last -> modulescanner-report-2020_02_02_12_29_57.csv
 
-Parsed 2,793,205 lines in total.
-  46,061 -> captions skipped
-  214,255 -> duplicates skipped
-  126,764 -> module related
+Parsed 2,794,432 lines in total.
+  46,066 -> captions skipped
+  214,623 -> duplicates skipped
+  126,770 -> module related
 
-Collected 5,978 unique modules.
+Collected 5,981 unique modules.
   automatic :cd: -> 4,346
-  explicit :dvd: -> 1,632
+  explicit :dvd: -> 1,635
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=1, explicit=1, plain=1434}` 	 0.14%
+ - `2020_02={automatic=4, explicit=4, plain=2282}` 	 0.35%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,7 +116,7 @@ Module names listed in this section didn't make it into the `modules.properties`
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17718](suspicious/naming.md)
 - Modular impostors: [6515](suspicious/impostors.md)
 
-## Unique Modules (5978)
+## Unique Modules (5981)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1751,5 +1751,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.ecolls` :left_right_arrow: `xyz.cofe:ecolls:1.1`
+- :dvd: `xyz.cofe.io.fn` :left_right_arrow: `xyz.cofe:iofun:1.0`
+- :dvd: `xyz.cofe.text` :left_right_arrow: `xyz.cofe:text:1.0`
+- :dvd: `xyz.cofe.typeconv` :left_right_arrow: `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` :left_right_arrow: `xyz.cofe:types-spi:1.1`
 - :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.1.2`
