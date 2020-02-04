@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 5981 Java modules published at Maven Central
+Counted 5989 Java modules published at Maven Central
 
-## Summary 2020-02-03T00:30:27.521399Z
+## Summary 2020-02-04T00:31:17.332045Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-03T00:30:27.521399Z
-Scanned 42,304 files in 5 seconds.
+Started scan at 2020-02-04T00:31:17.332045Z
+Scanned 42,347 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_02_12_29_57.csv
+    last -> modulescanner-report-2020_02_03_23_41_56.csv
 
-Parsed 2,794,432 lines in total.
-  46,066 -> captions skipped
-  214,623 -> duplicates skipped
-  126,770 -> module related
+Parsed 2,797,849 lines in total.
+  46,109 -> captions skipped
+  214,745 -> duplicates skipped
+  127,111 -> module related
 
-Collected 5,981 unique modules.
-  automatic :cd: -> 4,346
-  explicit :dvd: -> 1,635
+Collected 5,989 unique modules.
+  automatic :cd: -> 4,347
+  explicit :dvd: -> 1,642
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=4, explicit=4, plain=2282}` 	 0.35%
+ - `2020_02={automatic=179, explicit=107, plain=5193}` 	 5.51%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13168](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17718](suspicious/naming.md)
-- Modular impostors: [6515](suspicious/impostors.md)
+- Invalid module names: [13191](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17737](suspicious/naming.md)
+- Modular impostors: [6536](suspicious/impostors.md)
 
-## Unique Modules (5981)
+## Unique Modules (5989)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -195,38 +195,38 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` :left_right_arrow: `be.yildiz-games:module-webserver-undertow:1.0.0`
-- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.1`
+- :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.2`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.0`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.0`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.core.api` :left_right_arrow: `ch.tutteli.atrium:atrium-core-api:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.core.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.api` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.builders` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-de_CH:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-en_GB:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.verbs` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.verbs.internal` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs-internal:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.0`
+- :dvd: `ch.tutteli.atrium.core.api` :left_right_arrow: `ch.tutteli.atrium:atrium-core-api:0.9.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll:0.9.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.api` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.builders` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.0`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.0`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-de_CH:0.9.0`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-en_GB:0.9.0`
+- :dvd: `ch.tutteli.atrium.verbs` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs:0.9.0`
+- :dvd: `ch.tutteli.atrium.verbs.internal` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs-internal:0.9.0`
 - :dvd: `ch.tutteli.kbox` :left_right_arrow: `ch.tutteli.kbox:kbox:0.14.1`
 - :dvd: `ch.tutteli.niok` :left_right_arrow: `ch.tutteli.niok:niok:1.3.2`
 - :dvd: `ch.tutteli.spek.extensions` :left_right_arrow: `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -236,39 +236,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` :left_right_arrow: `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` :left_right_arrow: `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` :left_right_arrow: `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.4.2`
-- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.4.2`
-- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.4.2`
-- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.4.2`
-- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.4.2`
-- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.4.2`
-- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.4.2`
+- :dvd: `colesico.framework.asyncjob` :left_right_arrow: `net.colesico.framework:colesico-asyncjob:2.4.4`
+- :dvd: `colesico.framework.bundle.base` :left_right_arrow: `net.colesico.framework:colesico-bundle-base:2.4.4`
+- :dvd: `colesico.framework.bundle.l10n` :left_right_arrow: `net.colesico.framework:colesico-bundle-l10n:2.4.4`
+- :dvd: `colesico.framework.bundle.mix` :left_right_arrow: `net.colesico.framework:colesico-bundle-mix:2.4.4`
+- :dvd: `colesico.framework.bundle.sql` :left_right_arrow: `net.colesico.framework:colesico-bundle-sql:2.4.4`
+- :dvd: `colesico.framework.bundle.web` :left_right_arrow: `net.colesico.framework:colesico-bundle-web:2.4.4`
+- :dvd: `colesico.framework.config` :left_right_arrow: `net.colesico.framework:colesico-config:2.4.4`
 - :dvd: `colesico.framework.dao` :left_right_arrow: `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.4.2`
-- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.4.2`
-- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.4.2`
-- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.4.2`
-- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.4.2`
-- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.4.2`
-- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.4.2`
-- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.4.2`
-- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.4.2`
-- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.4.2`
-- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.4.2`
-- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.4.2`
-- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.4.2`
-- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.4.2`
-- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.4.2`
-- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.4.2`
-- :dvd: `colesico.framework.slf4j` :left_right_arrow: `net.colesico.framework:colesico-slf4j:2.4.2`
-- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.4.2`
-- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.4.2`
-- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.4.2`
-- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.4.2`
-- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.4.2`
-- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.4.2`
-- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.4.2`
-- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.4.2`
+- :dvd: `colesico.framework.eventbus` :left_right_arrow: `net.colesico.framework:colesico-eventbus:2.4.4`
+- :dvd: `colesico.framework.hikaricp` :left_right_arrow: `net.colesico.framework:colesico-hikaricp:2.4.4`
+- :dvd: `colesico.framework.htmlrenderer` :left_right_arrow: `net.colesico.framework:colesico-htmlrenderer:2.4.4`
+- :dvd: `colesico.framework.http` :left_right_arrow: `net.colesico.framework:colesico-http:2.4.4`
+- :dvd: `colesico.framework.httpserver` :left_right_arrow: `net.colesico.framework:colesico-httpserver:2.4.4`
+- :dvd: `colesico.framework.ioc` :left_right_arrow: `net.colesico.framework:colesico-ioc:2.4.4`
+- :dvd: `colesico.framework.jdbc` :left_right_arrow: `net.colesico.framework:colesico-jdbc:2.4.4`
+- :dvd: `colesico.framework.jdbi` :left_right_arrow: `net.colesico.framework:colesico-jdbi:2.4.4`
+- :dvd: `colesico.framework.jdbirec` :left_right_arrow: `net.colesico.framework:colesico-jdbirec:2.4.4`
+- :dvd: `colesico.framework.pebble` :left_right_arrow: `net.colesico.framework:colesico-pebble:2.4.4`
+- :dvd: `colesico.framework.profile` :left_right_arrow: `net.colesico.framework:colesico-profile:2.4.4`
+- :dvd: `colesico.framework.resource` :left_right_arrow: `net.colesico.framework:colesico-resource:2.4.4`
+- :dvd: `colesico.framework.restlet` :left_right_arrow: `net.colesico.framework:colesico-restlet:2.4.4`
+- :dvd: `colesico.framework.router` :left_right_arrow: `net.colesico.framework:colesico-router:2.4.4`
+- :dvd: `colesico.framework.security` :left_right_arrow: `net.colesico.framework:colesico-security:2.4.4`
+- :dvd: `colesico.framework.service` :left_right_arrow: `net.colesico.framework:colesico-service:2.4.4`
+- :dvd: `colesico.framework.slf4j` :left_right_arrow: `net.colesico.framework:colesico-slf4j:2.4.4`
+- :dvd: `colesico.framework.teleapi` :left_right_arrow: `net.colesico.framework:colesico-teleapi:2.4.4`
+- :dvd: `colesico.framework.transaction` :left_right_arrow: `net.colesico.framework:colesico-transaction:2.4.4`
+- :dvd: `colesico.framework.translation` :left_right_arrow: `net.colesico.framework:colesico-translation:2.4.4`
+- :dvd: `colesico.framework.undertow` :left_right_arrow: `net.colesico.framework:colesico-undertow:2.4.4`
+- :dvd: `colesico.framework.validation` :left_right_arrow: `net.colesico.framework:colesico-validation:2.4.4`
+- :dvd: `colesico.framework.weblet` :left_right_arrow: `net.colesico.framework:colesico-weblet:2.4.4`
+- :dvd: `colesico.framework.webstatic` :left_right_arrow: `net.colesico.framework:colesico-webstatic:2.4.4`
+- :dvd: `colesico.framework.widget` :left_right_arrow: `net.colesico.framework:colesico-widget:2.4.4`
 - :dvd: `com.acgist.snail` :left_right_arrow: `com.acgist:snail:1.3.0`
 - :dvd: `com.acvitech.spa4j` :left_right_arrow: `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` :left_right_arrow: `com.aitusoftware:proxygen:0.3.0`
@@ -792,46 +792,46 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.http` :left_right_arrow: `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` :left_right_arrow: `com.samskivert:jmustache:1.15`
 - :dvd: `com.sothawo.mapjfx` :left_right_arrow: `com.sothawo:mapjfx:2.13.0`
-- :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.5`
-- :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.5`
-- :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.5`
-- :dvd: `com.speedment.common.codegen` :left_right_arrow: `com.speedment.common:codegen:3.2.5`
-- :dvd: `com.speedment.common.codegenxml` :left_right_arrow: `com.speedment.common:codegenxml:3.2.5`
-- :dvd: `com.speedment.common.collection` :left_right_arrow: `com.speedment.common:collection:3.2.5`
-- :dvd: `com.speedment.common.combinatorics` :left_right_arrow: `com.speedment.common:combinatorics:3.2.5`
-- :dvd: `com.speedment.common.function` :left_right_arrow: `com.speedment.common:function:3.2.5`
-- :dvd: `com.speedment.common.injector` :left_right_arrow: `com.speedment.common:injector:3.2.5`
-- :dvd: `com.speedment.common.invariant` :left_right_arrow: `com.speedment.common:invariant:3.2.5`
-- :dvd: `com.speedment.common.json` :left_right_arrow: `com.speedment.common:json:3.2.5`
-- :dvd: `com.speedment.common.jvm_version` :left_right_arrow: `com.speedment.common:jvm-version:3.2.5`
-- :dvd: `com.speedment.common.logger` :left_right_arrow: `com.speedment.common:logger:3.2.5`
+- :dvd: `com.speedment.common.annotation` :left_right_arrow: `com.speedment.common:annotation:3.2.6`
+- :dvd: `com.speedment.common.archtest` :left_right_arrow: `com.speedment.common:archtest:3.2.6`
+- :dvd: `com.speedment.common.benchmark` :left_right_arrow: `com.speedment.common:benchmark:3.2.6`
+- :dvd: `com.speedment.common.codegen` :left_right_arrow: `com.speedment.common:codegen:3.2.6`
+- :dvd: `com.speedment.common.codegenxml` :left_right_arrow: `com.speedment.common:codegenxml:3.2.6`
+- :dvd: `com.speedment.common.collection` :left_right_arrow: `com.speedment.common:collection:3.2.6`
+- :dvd: `com.speedment.common.combinatorics` :left_right_arrow: `com.speedment.common:combinatorics:3.2.6`
+- :dvd: `com.speedment.common.function` :left_right_arrow: `com.speedment.common:function:3.2.6`
+- :dvd: `com.speedment.common.injector` :left_right_arrow: `com.speedment.common:injector:3.2.6`
+- :dvd: `com.speedment.common.invariant` :left_right_arrow: `com.speedment.common:invariant:3.2.6`
+- :dvd: `com.speedment.common.json` :left_right_arrow: `com.speedment.common:json:3.2.6`
+- :dvd: `com.speedment.common.jvm_version` :left_right_arrow: `com.speedment.common:jvm-version:3.2.6`
+- :dvd: `com.speedment.common.logger` :left_right_arrow: `com.speedment.common:logger:3.2.6`
 - :dvd: `com.speedment.common.mapbuilder` :left_right_arrow: `com.speedment.common:mapbuilder:3.2.2`
-- :dvd: `com.speedment.common.mapstream` :left_right_arrow: `com.speedment.common:mapstream:3.2.5`
-- :dvd: `com.speedment.common.rest` :left_right_arrow: `com.speedment.common:rest:3.2.5`
-- :dvd: `com.speedment.common.singletonstream` :left_right_arrow: `com.speedment.common:singleton-stream:3.2.5`
-- :dvd: `com.speedment.common.tuple` :left_right_arrow: `com.speedment.common:tuple:3.2.5`
-- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.5`
-- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.5`
-- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.5`
-- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.5`
-- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.5`
-- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.5`
-- :dvd: `com.speedment.runtime.bulk` :left_right_arrow: `com.speedment.runtime:runtime-bulk:3.2.5`
-- :dvd: `com.speedment.runtime.compute` :left_right_arrow: `com.speedment.runtime:runtime-compute:3.2.5`
-- :dvd: `com.speedment.runtime.config` :left_right_arrow: `com.speedment.runtime:runtime-config:3.2.5`
-- :dvd: `com.speedment.runtime.connector.mariadb` :left_right_arrow: `com.speedment.runtime:connector-mariadb:3.2.5`
-- :dvd: `com.speedment.runtime.connector.mysql` :left_right_arrow: `com.speedment.runtime:connector-mysql:3.2.5`
-- :dvd: `com.speedment.runtime.connector.postgres` :left_right_arrow: `com.speedment.runtime:connector-postgres:3.2.5`
-- :dvd: `com.speedment.runtime.connector.sqlite` :left_right_arrow: `com.speedment.runtime:connector-sqlite:3.2.5`
-- :dvd: `com.speedment.runtime.core` :left_right_arrow: `com.speedment.runtime:runtime-core:3.2.5`
-- :dvd: `com.speedment.runtime.field` :left_right_arrow: `com.speedment.runtime:runtime-field:3.2.5`
-- :dvd: `com.speedment.runtime.join` :left_right_arrow: `com.speedment.runtime:runtime-join:3.2.5`
-- :dvd: `com.speedment.runtime.typemapper` :left_right_arrow: `com.speedment.runtime:runtime-typemapper:3.2.5`
-- :dvd: `com.speedment.runtime.welcome` :left_right_arrow: `com.speedment.runtime:runtime-welcome:3.2.5`
-- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.5`
-- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.5`
-- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.5`
-- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.5`
+- :dvd: `com.speedment.common.mapstream` :left_right_arrow: `com.speedment.common:mapstream:3.2.6`
+- :dvd: `com.speedment.common.rest` :left_right_arrow: `com.speedment.common:rest:3.2.6`
+- :dvd: `com.speedment.common.singletonstream` :left_right_arrow: `com.speedment.common:singleton-stream:3.2.6`
+- :dvd: `com.speedment.common.tuple` :left_right_arrow: `com.speedment.common:tuple:3.2.6`
+- :dvd: `com.speedment.generator.core` :left_right_arrow: `com.speedment.generator:generator-core:3.2.6`
+- :dvd: `com.speedment.generator.standard` :left_right_arrow: `com.speedment.generator:generator-standard:3.2.6`
+- :dvd: `com.speedment.generator.translator` :left_right_arrow: `com.speedment.generator:generator-translator:3.2.6`
+- :dvd: `com.speedment.plugins.enums` :left_right_arrow: `com.speedment.plugins:enum-generator:3.2.6`
+- :dvd: `com.speedment.plugins.json` :left_right_arrow: `com.speedment.plugins:json-stream:3.2.6`
+- :dvd: `com.speedment.runtime.application` :left_right_arrow: `com.speedment.runtime:runtime-application:3.2.6`
+- :dvd: `com.speedment.runtime.bulk` :left_right_arrow: `com.speedment.runtime:runtime-bulk:3.2.6`
+- :dvd: `com.speedment.runtime.compute` :left_right_arrow: `com.speedment.runtime:runtime-compute:3.2.6`
+- :dvd: `com.speedment.runtime.config` :left_right_arrow: `com.speedment.runtime:runtime-config:3.2.6`
+- :dvd: `com.speedment.runtime.connector.mariadb` :left_right_arrow: `com.speedment.runtime:connector-mariadb:3.2.6`
+- :dvd: `com.speedment.runtime.connector.mysql` :left_right_arrow: `com.speedment.runtime:connector-mysql:3.2.6`
+- :dvd: `com.speedment.runtime.connector.postgres` :left_right_arrow: `com.speedment.runtime:connector-postgres:3.2.6`
+- :dvd: `com.speedment.runtime.connector.sqlite` :left_right_arrow: `com.speedment.runtime:connector-sqlite:3.2.6`
+- :dvd: `com.speedment.runtime.core` :left_right_arrow: `com.speedment.runtime:runtime-core:3.2.6`
+- :dvd: `com.speedment.runtime.field` :left_right_arrow: `com.speedment.runtime:runtime-field:3.2.6`
+- :dvd: `com.speedment.runtime.join` :left_right_arrow: `com.speedment.runtime:runtime-join:3.2.6`
+- :dvd: `com.speedment.runtime.typemapper` :left_right_arrow: `com.speedment.runtime:runtime-typemapper:3.2.6`
+- :dvd: `com.speedment.runtime.welcome` :left_right_arrow: `com.speedment.runtime:runtime-welcome:3.2.6`
+- :dvd: `com.speedment.tool.actions` :left_right_arrow: `com.speedment.tool:tool-actions:3.2.6`
+- :dvd: `com.speedment.tool.config` :left_right_arrow: `com.speedment.tool:tool-config:3.2.6`
+- :dvd: `com.speedment.tool.core` :left_right_arrow: `com.speedment.tool:tool-core:3.2.6`
+- :dvd: `com.speedment.tool.propertyeditor` :left_right_arrow: `com.speedment.tool:tool-propertyeditor:3.2.6`
 - :dvd: `com.spotify.futures` :left_right_arrow: `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` :left_right_arrow: `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.sun.istack.runtime` :left_right_arrow: `com.sun.istack:istack-commons-runtime:3.0.10`
@@ -901,7 +901,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` :left_right_arrow: `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
-- :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.0.4`
+- :dvd: `dk.tbsalling.ais.messages` :left_right_arrow: `dk.tbsalling:aismessages:3.1.0`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.0`
 - :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.2.0`
 - :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.2.0`
@@ -1750,9 +1750,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.jnano` :left_right_arrow: `uk.oczadly.karl:jnano:2.0.0-V19`
 - :dvd: `us.hebi.glue` :left_right_arrow: `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` :left_right_arrow: `us.hebi.matlab:mat-file-io:0.1.2`
+- :dvd: `xyz.cofe.cbuffer` :left_right_arrow: `xyz.cofe:cbuffer:1.0`
 - :dvd: `xyz.cofe.ecolls` :left_right_arrow: `xyz.cofe:ecolls:1.1`
 - :dvd: `xyz.cofe.io.fn` :left_right_arrow: `xyz.cofe:iofun:1.0`
+- :dvd: `xyz.cofe.io.fs` :left_right_arrow: `xyz.cofe:fs:1.0`
+- :dvd: `xyz.cofe.io.fs.typeconv` :left_right_arrow: `xyz.cofe:fs-types:1.0`
 - :dvd: `xyz.cofe.text` :left_right_arrow: `xyz.cofe:text:1.0`
+- :dvd: `xyz.cofe.text.lex` :left_right_arrow: `xyz.cofe:text-lex:1.0`
+- :dvd: `xyz.cofe.text.out` :left_right_arrow: `xyz.cofe:text-out:1.0`
+- :dvd: `xyz.cofe.text.template.basic` :left_right_arrow: `xyz.cofe:basic-template:1.0`
 - :dvd: `xyz.cofe.typeconv` :left_right_arrow: `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` :left_right_arrow: `xyz.cofe:types-spi:1.1`
+- :dvd: `xyz.cofe.xparse` :left_right_arrow: `xyz.cofe:xparse:1.0`
 - :dvd: `xyz.ielis.hyperutil.reference` :left_right_arrow: `xyz.ielis.hyperutil:hyperutil-reference:0.1.2`
