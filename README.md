@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6007 Java modules published at Maven Central
+Counted 6020 Java modules published at Maven Central
 
-## Summary 2020-02-06T00:32:00.148998Z
+## Summary 2020-02-07T00:33:01.755078Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-06T00:32:00.148998Z
-Scanned 42,464 files in 5 seconds.
+Started scan at 2020-02-07T00:33:01.755078Z
+Scanned 42,527 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_06_00_04_25.csv
+    last -> modulescanner-report-2020_02_07_00_19_09.csv
 
-Parsed 2,808,339 lines in total.
-  46,226 -> captions skipped
-  216,096 -> duplicates skipped
-  127,888 -> module related
+Parsed 2,813,370 lines in total.
+  46,287 -> captions skipped
+  216,620 -> duplicates skipped
+  128,303 -> module related
 
-Collected 6,007 unique modules.
-  automatic :cd: -> 4,349
+Collected 6,020 unique modules.
+  automatic :cd: -> 4,362
   explicit :dvd: -> 1,658
 
 ## Samples
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=767, explicit=220, plain=13438}` 	 7.34%
+ - `2020_02={automatic=1128, explicit=244, plain=17469}` 	 7.85%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13196](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17783](suspicious/naming.md)
-- Modular impostors: [6561](suspicious/impostors.md)
+- Invalid module names: [13209](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17793](suspicious/naming.md)
+- Modular impostors: [6568](suspicious/impostors.md)
 
-## Unique Modules (6007)
+## Unique Modules (6020)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -201,32 +201,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.curve25519_elisabeth` :left_right_arrow: `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` :left_right_arrow: `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` :left_right_arrow: `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.0`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.0`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.1`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.1`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.0`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.0`
-- :dvd: `ch.tutteli.atrium.core.api` :left_right_arrow: `ch.tutteli.atrium:atrium-core-api:0.9.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll:0.9.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.api` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.builders` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.0`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.0`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-de_CH:0.9.0`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-en_GB:0.9.0`
-- :dvd: `ch.tutteli.atrium.verbs` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs:0.9.0`
-- :dvd: `ch.tutteli.atrium.verbs.internal` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs-internal:0.9.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.1`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.1`
+- :dvd: `ch.tutteli.atrium.core.api` :left_right_arrow: `ch.tutteli.atrium:atrium-core-api:0.9.1`
+- :dvd: `ch.tutteli.atrium.core.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll:0.9.1`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.api` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.builders` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` :left_right_arrow: `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.1`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.1`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-de_CH:0.9.1`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` :left_right_arrow: `ch.tutteli.atrium:atrium-translations-en_GB:0.9.1`
+- :dvd: `ch.tutteli.atrium.verbs` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs:0.9.1`
+- :dvd: `ch.tutteli.atrium.verbs.internal` :left_right_arrow: `ch.tutteli.atrium:atrium-verbs-internal:0.9.1`
 - :dvd: `ch.tutteli.kbox` :left_right_arrow: `ch.tutteli.kbox:kbox:0.14.3`
 - :dvd: `ch.tutteli.niok` :left_right_arrow: `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` :left_right_arrow: `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -953,7 +953,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` :left_right_arrow: `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.1.3`
+- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.61`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.4`

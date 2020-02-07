@@ -11118,6 +11118,7 @@
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.5.0` // `com.synopsys.integration,int-jira-common,0.5.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.6.0` // `com.synopsys.integration,int-jira-common,0.6.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.6.1` // `com.synopsys.integration,int-jira-common,0.6.1,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.int-jira-common` :left_right_arrow: `com.synopsys.integration:int-jira-common:0.6.2` // `com.synopsys.integration,int-jira-common,0.6.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.0` // `com.blackducksoftware.integration,integration-bdio,17.1.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.1` // `com.blackducksoftware.integration,integration-bdio,17.1.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` :left_right_arrow: `com.blackducksoftware.integration:integration-bdio:17.1.2` // `com.blackducksoftware.integration,integration-bdio,17.1.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
@@ -11268,10 +11269,12 @@
 - :cd: `io.github.resilience4j.framework-common` :left_right_arrow: `io.github.resilience4j:resilience4j-framework-common:1.1.0` // `io.github.resilience4j,resilience4j-framework-common,1.1.0,io.github.resilience4j.framework-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.framework-common` :left_right_arrow: `io.github.resilience4j:resilience4j-framework-common:1.2.0` // `io.github.resilience4j,resilience4j-framework-common,1.2.0,io.github.resilience4j.framework-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.framework-common` :left_right_arrow: `io.github.resilience4j:resilience4j-framework-common:1.3.0` // `io.github.resilience4j,resilience4j-framework-common,1.3.0,io.github.resilience4j.framework-common,-,automatic,-,false,-`
+- :cd: `io.github.resilience4j.framework-common` :left_right_arrow: `io.github.resilience4j:resilience4j-framework-common:1.3.1` // `io.github.resilience4j,resilience4j-framework-common,1.3.1,io.github.resilience4j.framework-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.spring-cloud-common` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-cloud-common:1.0.0` // `io.github.resilience4j,resilience4j-spring-cloud-common,1.0.0,io.github.resilience4j.spring-cloud-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.spring-cloud-common` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-cloud-common:1.1.0` // `io.github.resilience4j,resilience4j-spring-cloud-common,1.1.0,io.github.resilience4j.spring-cloud-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.spring-cloud-common` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-cloud-common:1.2.0` // `io.github.resilience4j,resilience4j-spring-cloud-common,1.2.0,io.github.resilience4j.spring-cloud-common,-,automatic,-,false,-`
 - :cd: `io.github.resilience4j.spring-cloud-common` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-cloud-common:1.3.0` // `io.github.resilience4j,resilience4j-spring-cloud-common,1.3.0,io.github.resilience4j.spring-cloud-common,-,automatic,-,false,-`
+- :cd: `io.github.resilience4j.spring-cloud-common` :left_right_arrow: `io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1` // `io.github.resilience4j,resilience4j-spring-cloud-common,1.3.1,io.github.resilience4j.spring-cloud-common,-,automatic,-,false,-`
 - :cd: `io.github.zlika.reproducible-build-maven-plugin` :left_right_arrow: `io.github.zlika:reproducible-build-maven-plugin:0.10` // `io.github.zlika,reproducible-build-maven-plugin,0.10,io.github.zlika.reproducible-build-maven-plugin,-,automatic,-,false,-`
 - :cd: `io.github.zlika.reproducible-build-maven-plugin` :left_right_arrow: `io.github.zlika:reproducible-build-maven-plugin:0.11` // `io.github.zlika,reproducible-build-maven-plugin,0.11,io.github.zlika.reproducible-build-maven-plugin,-,automatic,-,false,-`
 - :cd: `io.github.zlika.reproducible-build-maven-plugin` :left_right_arrow: `io.github.zlika:reproducible-build-maven-plugin:0.7` // `io.github.zlika,reproducible-build-maven-plugin,0.7,io.github.zlika.reproducible-build-maven-plugin,-,automatic,-,false,-`
@@ -13081,6 +13084,7 @@
 - :cd: `wire-codegen-sample` :left_right_arrow: `com.squareup.wire:wire-codegen-sample:3.0.1` // `com.squareup.wire,wire-codegen-sample,3.0.1,wire-codegen-sample,-,automatic,-,false,-`
 - :cd: `wire-codegen-sample` :left_right_arrow: `com.squareup.wire:wire-codegen-sample:3.0.2` // `com.squareup.wire,wire-codegen-sample,3.0.2,wire-codegen-sample,-,automatic,-,false,-`
 - :cd: `wire-codegen-sample` :left_right_arrow: `com.squareup.wire:wire-codegen-sample:3.0.3` // `com.squareup.wire,wire-codegen-sample,3.0.3,wire-codegen-sample,-,automatic,-,false,-`
+- :cd: `wire-codegen-sample` :left_right_arrow: `com.squareup.wire:wire-codegen-sample:3.1.0` // `com.squareup.wire,wire-codegen-sample,3.1.0,wire-codegen-sample,-,automatic,-,false,-`
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.0` // `com.squareup.wire,wire-compiler,3.0.0,wire-compiler,-,automatic,-,false,-`
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.0-alpha01` // `com.squareup.wire,wire-compiler,3.0.0-alpha01,wire-compiler,-,automatic,-,false,-`
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.0-alpha02` // `com.squareup.wire,wire-compiler,3.0.0-alpha02,wire-compiler,-,automatic,-,false,-`
@@ -13091,6 +13095,7 @@
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.1` // `com.squareup.wire,wire-compiler,3.0.1,wire-compiler,-,automatic,-,false,-`
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.2` // `com.squareup.wire,wire-compiler,3.0.2,wire-compiler,-,automatic,-,false,-`
 - :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.0.3` // `com.squareup.wire,wire-compiler,3.0.3,wire-compiler,-,automatic,-,false,-`
+- :cd: `wire-compiler` :left_right_arrow: `com.squareup.wire:wire-compiler:3.1.0` // `com.squareup.wire,wire-compiler,3.1.0,wire-compiler,-,automatic,-,false,-`
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.0` // `com.squareup.wire,wire-grpc-client,3.0.0,wire-grpc-client,-,automatic,-,false,-`
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.0-alpha01` // `com.squareup.wire,wire-grpc-client,3.0.0-alpha01,wire-grpc-client,-,automatic,-,false,-`
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.0-alpha02` // `com.squareup.wire,wire-grpc-client,3.0.0-alpha02,wire-grpc-client,-,automatic,-,false,-`
@@ -13101,6 +13106,7 @@
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.1` // `com.squareup.wire,wire-grpc-client,3.0.1,wire-grpc-client,-,automatic,-,false,-`
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.2` // `com.squareup.wire,wire-grpc-client,3.0.2,wire-grpc-client,-,automatic,-,false,-`
 - :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.0.3` // `com.squareup.wire,wire-grpc-client,3.0.3,wire-grpc-client,-,automatic,-,false,-`
+- :cd: `wire-grpc-client` :left_right_arrow: `com.squareup.wire:wire-grpc-client:3.1.0` // `com.squareup.wire,wire-grpc-client,3.1.0,wire-grpc-client,-,automatic,-,false,-`
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.0` // `com.squareup.wire,wire-grpc-tests,3.0.0,wire-grpc-tests,-,automatic,-,false,-`
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.0-alpha01` // `com.squareup.wire,wire-grpc-tests,3.0.0-alpha01,wire-grpc-tests,-,automatic,-,false,-`
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.0-alpha02` // `com.squareup.wire,wire-grpc-tests,3.0.0-alpha02,wire-grpc-tests,-,automatic,-,false,-`
@@ -13111,6 +13117,7 @@
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.1` // `com.squareup.wire,wire-grpc-tests,3.0.1,wire-grpc-tests,-,automatic,-,false,-`
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.2` // `com.squareup.wire,wire-grpc-tests,3.0.2,wire-grpc-tests,-,automatic,-,false,-`
 - :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.0.3` // `com.squareup.wire,wire-grpc-tests,3.0.3,wire-grpc-tests,-,automatic,-,false,-`
+- :cd: `wire-grpc-tests` :left_right_arrow: `com.squareup.wire:wire-grpc-tests:3.1.0` // `com.squareup.wire,wire-grpc-tests,3.1.0,wire-grpc-tests,-,automatic,-,false,-`
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.0` // `com.squareup.wire,wire-gson-support,3.0.0,wire-gson-support,-,automatic,-,false,-`
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.0-alpha01` // `com.squareup.wire,wire-gson-support,3.0.0-alpha01,wire-gson-support,-,automatic,-,false,-`
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.0-alpha02` // `com.squareup.wire,wire-gson-support,3.0.0-alpha02,wire-gson-support,-,automatic,-,false,-`
@@ -13121,6 +13128,7 @@
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.1` // `com.squareup.wire,wire-gson-support,3.0.1,wire-gson-support,-,automatic,-,false,-`
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.2` // `com.squareup.wire,wire-gson-support,3.0.2,wire-gson-support,-,automatic,-,false,-`
 - :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.0.3` // `com.squareup.wire,wire-gson-support,3.0.3,wire-gson-support,-,automatic,-,false,-`
+- :cd: `wire-gson-support` :left_right_arrow: `com.squareup.wire:wire-gson-support:3.1.0` // `com.squareup.wire,wire-gson-support,3.1.0,wire-gson-support,-,automatic,-,false,-`
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.0` // `com.squareup.wire,wire-java-generator,3.0.0,wire-java-generator,-,automatic,-,false,-`
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.0-alpha01` // `com.squareup.wire,wire-java-generator,3.0.0-alpha01,wire-java-generator,-,automatic,-,false,-`
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.0-alpha02` // `com.squareup.wire,wire-java-generator,3.0.0-alpha02,wire-java-generator,-,automatic,-,false,-`
@@ -13131,6 +13139,7 @@
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.1` // `com.squareup.wire,wire-java-generator,3.0.1,wire-java-generator,-,automatic,-,false,-`
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.2` // `com.squareup.wire,wire-java-generator,3.0.2,wire-java-generator,-,automatic,-,false,-`
 - :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.0.3` // `com.squareup.wire,wire-java-generator,3.0.3,wire-java-generator,-,automatic,-,false,-`
+- :cd: `wire-java-generator` :left_right_arrow: `com.squareup.wire:wire-java-generator:3.1.0` // `com.squareup.wire,wire-java-generator,3.1.0,wire-java-generator,-,automatic,-,false,-`
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.0` // `com.squareup.wire,wire-kotlin-generator,3.0.0,wire-kotlin-generator,-,automatic,-,false,-`
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.0-alpha01` // `com.squareup.wire,wire-kotlin-generator,3.0.0-alpha01,wire-kotlin-generator,-,automatic,-,false,-`
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.0-alpha02` // `com.squareup.wire,wire-kotlin-generator,3.0.0-alpha02,wire-kotlin-generator,-,automatic,-,false,-`
@@ -13141,6 +13150,7 @@
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.1` // `com.squareup.wire,wire-kotlin-generator,3.0.1,wire-kotlin-generator,-,automatic,-,false,-`
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.2` // `com.squareup.wire,wire-kotlin-generator,3.0.2,wire-kotlin-generator,-,automatic,-,false,-`
 - :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.0.3` // `com.squareup.wire,wire-kotlin-generator,3.0.3,wire-kotlin-generator,-,automatic,-,false,-`
+- :cd: `wire-kotlin-generator` :left_right_arrow: `com.squareup.wire:wire-kotlin-generator:3.1.0` // `com.squareup.wire,wire-kotlin-generator,3.1.0,wire-kotlin-generator,-,automatic,-,false,-`
 - :cd: `wire-maven-plugin` :left_right_arrow: `com.squareup.wire:wire-maven-plugin:3.0.0` // `com.squareup.wire,wire-maven-plugin,3.0.0,wire-maven-plugin,-,automatic,-,false,-`
 - :cd: `wire-maven-plugin` :left_right_arrow: `com.squareup.wire:wire-maven-plugin:3.0.0-alpha01` // `com.squareup.wire,wire-maven-plugin,3.0.0-alpha01,wire-maven-plugin,-,automatic,-,false,-`
 - :cd: `wire-maven-plugin` :left_right_arrow: `com.squareup.wire:wire-maven-plugin:3.0.0-alpha02` // `com.squareup.wire,wire-maven-plugin,3.0.0-alpha02,wire-maven-plugin,-,automatic,-,false,-`
@@ -13160,6 +13170,7 @@
 - :cd: `wire-moshi-adapter` :left_right_arrow: `com.squareup.wire:wire-moshi-adapter:3.0.1` // `com.squareup.wire,wire-moshi-adapter,3.0.1,wire-moshi-adapter,-,automatic,-,false,-`
 - :cd: `wire-moshi-adapter` :left_right_arrow: `com.squareup.wire:wire-moshi-adapter:3.0.2` // `com.squareup.wire,wire-moshi-adapter,3.0.2,wire-moshi-adapter,-,automatic,-,false,-`
 - :cd: `wire-moshi-adapter` :left_right_arrow: `com.squareup.wire:wire-moshi-adapter:3.0.3` // `com.squareup.wire,wire-moshi-adapter,3.0.3,wire-moshi-adapter,-,automatic,-,false,-`
+- :cd: `wire-moshi-adapter` :left_right_arrow: `com.squareup.wire:wire-moshi-adapter:3.1.0` // `com.squareup.wire,wire-moshi-adapter,3.1.0,wire-moshi-adapter,-,automatic,-,false,-`
 - :cd: `wire-runtime` :left_right_arrow: `com.squareup.wire:wire-runtime:3.0.0-alpha01` // `com.squareup.wire,wire-runtime,3.0.0-alpha01,wire-runtime,-,automatic,-,false,-`
 - :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.0.0` // `com.squareup.wire,wire-sample,3.0.0,wire-sample,-,automatic,-,false,-`
 - :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.0.0-alpha01` // `com.squareup.wire,wire-sample,3.0.0-alpha01,wire-sample,-,automatic,-,false,-`
@@ -13171,6 +13182,7 @@
 - :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.0.1` // `com.squareup.wire,wire-sample,3.0.1,wire-sample,-,automatic,-,false,-`
 - :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.0.2` // `com.squareup.wire,wire-sample,3.0.2,wire-sample,-,automatic,-,false,-`
 - :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.0.3` // `com.squareup.wire,wire-sample,3.0.3,wire-sample,-,automatic,-,false,-`
+- :cd: `wire-sample` :left_right_arrow: `com.squareup.wire:wire-sample:3.1.0` // `com.squareup.wire,wire-sample,3.1.0,wire-sample,-,automatic,-,false,-`
 - :cd: `wire-schema` :left_right_arrow: `com.squareup.wire:wire-schema:3.0.0` // `com.squareup.wire,wire-schema,3.0.0,wire-schema,-,automatic,-,false,-`
 - :cd: `wire-schema` :left_right_arrow: `com.squareup.wire:wire-schema:3.0.0-alpha01` // `com.squareup.wire,wire-schema,3.0.0-alpha01,wire-schema,-,automatic,-,false,-`
 - :cd: `wire-schema` :left_right_arrow: `com.squareup.wire:wire-schema:3.0.0-alpha02` // `com.squareup.wire,wire-schema,3.0.0-alpha02,wire-schema,-,automatic,-,false,-`
@@ -13191,6 +13203,7 @@
 - :cd: `wire-test-utils` :left_right_arrow: `com.squareup.wire:wire-test-utils:3.0.1` // `com.squareup.wire,wire-test-utils,3.0.1,wire-test-utils,-,automatic,-,false,-`
 - :cd: `wire-test-utils` :left_right_arrow: `com.squareup.wire:wire-test-utils:3.0.2` // `com.squareup.wire,wire-test-utils,3.0.2,wire-test-utils,-,automatic,-,false,-`
 - :cd: `wire-test-utils` :left_right_arrow: `com.squareup.wire:wire-test-utils:3.0.3` // `com.squareup.wire,wire-test-utils,3.0.3,wire-test-utils,-,automatic,-,false,-`
+- :cd: `wire-test-utils` :left_right_arrow: `com.squareup.wire:wire-test-utils:3.1.0` // `com.squareup.wire,wire-test-utils,3.1.0,wire-test-utils,-,automatic,-,false,-`
 - :cd: `wire-tests` :left_right_arrow: `com.squareup.wire:wire-tests:3.0.0-alpha01` // `com.squareup.wire,wire-tests,3.0.0-alpha01,wire-tests,-,automatic,-,false,-`
 - :cd: `wire-tests` :left_right_arrow: `com.squareup.wire:wire-tests:3.0.0-alpha02` // `com.squareup.wire,wire-tests,3.0.0-alpha02,wire-tests,-,automatic,-,false,-`
 - :cd: `wire-tests` :left_right_arrow: `com.squareup.wire:wire-tests:3.0.0-alpha03` // `com.squareup.wire,wire-tests,3.0.0-alpha03,wire-tests,-,automatic,-,false,-`

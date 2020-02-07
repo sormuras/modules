@@ -2171,6 +2171,7 @@
 - :dvd: `info.picocli` :left_right_arrow: `io.jooby:jooby-cli:2.6.0` // `io.jooby,jooby-cli,2.6.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `io.jooby:jooby-cli:2.6.1` // `io.jooby,jooby-cli,2.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `org.jboss.gm:cli:1.5` // `org.jboss.gm,cli,1.5,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` :left_right_arrow: `org.jboss.gm:cli:1.6` // `org.jboss.gm,cli,1.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `io.annot8.components.text` :left_right_arrow: `io.annot8:annot8-components-types:0.4.0` // `io.annot8,annot8-components-types,0.4.0,io.annot8.components.text,0.4.0,explicit,io.annot8.api + io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + java.json.bind + org.slf4j,false,-`
 - :cd: `io.cucumber.core` :left_right_arrow: `com.github.harry389:cucumber-core:5.0.0-RC3` // `com.github.harry389,cucumber-core,5.0.0-RC3,io.cucumber.core,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
@@ -2182,6 +2183,7 @@
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.1.0` // `io.cucumber,datatable,3.1.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.2.0` // `io.cucumber,datatable,3.2.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.2.1` // `io.cucumber,datatable,3.2.1,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` :left_right_arrow: `io.cucumber:datatable:3.3.0` // `io.cucumber,datatable,3.3.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` :left_right_arrow: `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2861,6 +2863,7 @@
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.4` // `io.micronaut,micronaut-core,1.2.4,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.5` // `io.micronaut,micronaut-core,1.2.5,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.2.6` // `io.micronaut,micronaut-core,1.2.6,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.3.0` // `io.micronaut,micronaut-core,1.3.0,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.3.0.M1` // `io.micronaut,micronaut-core,1.3.0.M1,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.3.0.M2` // `io.micronaut,micronaut-core,1.3.0.M2,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` :left_right_arrow: `io.micronaut:micronaut-core:1.3.0.RC1` // `io.micronaut,micronaut-core,1.3.0.RC1,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -3965,6 +3968,7 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.4-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.4-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.4-beta.2` // `com.undefinedlabs.scope,scope-agent,0.2.4-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.5-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.5-beta.10` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.10,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.5-beta.2` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.5-beta.3` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `com.undefinedlabs.scope:scope-agent:0.2.5-beta.4` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4477,6 +4481,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.criteo.java:garmadon-readers-elasticsearch:1.3.0` // `com.criteo.java,garmadon-readers-elasticsearch,1.3.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.criteo.java:garmadon-readers-elasticsearch:1.3.1` // `com.criteo.java,garmadon-readers-elasticsearch,1.3.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.criteo.java:garmadon-readers-elasticsearch:1.4.0` // `com.criteo.java,garmadon-readers-elasticsearch,1.4.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.datarobot:datarobot-mlops:5.3.0` // `com.datarobot,datarobot-mlops,5.3.0,org.apache.logging.log4j,2.12.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.dlsc.workbenchfx:workbenchfx-core:1.0.0` // `com.dlsc.workbenchfx,workbenchfx-core,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.dlsc.workbenchfx:workbenchfx-core:11.0.0` // `com.dlsc.workbenchfx,workbenchfx-core,11.0.0,org.apache.logging.log4j,-,explicit,java.base,false,java.awt.dnd.peer.DragSourceContextPeer  Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + java.awt.dnd.peer.DropTargetContextPeer  Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.github.daggerok.sonar:sonar-breaker:0.1.4` // `com.github.daggerok.sonar,sonar-breaker,0.1.4,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -4511,6 +4516,7 @@
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.hpe.adm.octane.ciplugins:bamboo-ci-plugin:1.10.1` // `com.hpe.adm.octane.ciplugins,bamboo-ci-plugin,1.10.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.10` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.10,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.12` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.12,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.9` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.9,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` :left_right_arrow: `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5504,6 +5510,7 @@
 - :cd: `org.mapstruct` :left_right_arrow: `org.mapstruct:mapstruct-jdk8:1.3.0.Beta1` // `org.mapstruct,mapstruct-jdk8,1.3.0.Beta1,org.mapstruct,-,automatic,-,false,-`
 - :dvd: `org.meeuw.i18n.continents` :left_right_arrow: `org.meeuw.i18n:i18n-regions-open-location-code:0.4` // `org.meeuw.i18n,i18n-regions-open-location-code,0.4,org.meeuw.i18n.continents,0.4,explicit,java.annotation + java.base + java.logging + java.validation + openlocationcode + org.checkerframework.checker.qual + org.meeuw.i18n,false,-`
 - :cd: `org.mybatis` :left_right_arrow: `com.github.huangzhouhong:mybatis:0.0.1` // `com.github.huangzhouhong,mybatis,0.0.1,org.mybatis,-,automatic,-,false,-`
+- :cd: `org.mybatis` :left_right_arrow: `com.github.huangzhouhong:mybatis:0.0.2` // `com.github.huangzhouhong,mybatis,0.0.2,org.mybatis,-,automatic,-,false,-`
 - :cd: `org.mybatis` :left_right_arrow: `com.pig4cloud:mybatis:0.5.2` // `com.pig4cloud,mybatis,0.5.2,org.mybatis,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring` :left_right_arrow: `com.pig4cloud:mybatis-spring:0.0.2` // `com.pig4cloud,mybatis-spring,0.0.2,org.mybatis.spring,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring.boot.autoconfigure` :left_right_arrow: `com.pig4cloud.spring.boot:mybatis-spring-boot-autoconfigure:0.1.1` // `com.pig4cloud.spring.boot,mybatis-spring-boot-autoconfigure,0.1.1,org.mybatis.spring.boot.autoconfigure,-,automatic,-,false,-`
