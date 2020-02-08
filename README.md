@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6020 Java modules published at Maven Central
+Counted 6024 Java modules published at Maven Central
 
-## Summary 2020-02-07T00:33:01.755078Z
+## Summary 2020-02-08T00:33:10.575526Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-07T00:33:01.755078Z
-Scanned 42,527 files in 5 seconds.
+Started scan at 2020-02-08T00:33:10.575526Z
+Scanned 42,624 files in 4 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_07_00_19_09.csv
+    last -> modulescanner-report-2020_02_08_00_18_57.csv
 
-Parsed 2,813,370 lines in total.
-  46,287 -> captions skipped
-  216,620 -> duplicates skipped
-  128,303 -> module related
+Parsed 2,821,873 lines in total.
+  46,384 -> captions skipped
+  217,646 -> duplicates skipped
+  128,724 -> module related
 
-Collected 6,020 unique modules.
-  automatic :cd: -> 4,362
-  explicit :dvd: -> 1,658
+Collected 6,024 unique modules.
+  automatic :cd: -> 4,363
+  explicit :dvd: -> 1,661
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=1128, explicit=244, plain=17469}` 	 7.85%
+ - `2020_02={automatic=1390, explicit=255, plain=24428}` 	 6.73%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13209](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17793](suspicious/naming.md)
-- Modular impostors: [6568](suspicious/impostors.md)
+- Invalid module names: [13258](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17855](suspicious/naming.md)
+- Modular impostors: [6605](suspicious/impostors.md)
 
-## Unique Modules (6020)
+## Unique Modules (6024)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -390,7 +390,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.osgi` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-osgi:2.10.2`
 - :dvd: `com.fasterxml.jackson.module.paramnames` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.2`
 - :dvd: `com.fasterxml.jackson.module.paranamer` :left_right_arrow: `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
-- :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.2.0`
+- :dvd: `com.fasterxml.uuid` :left_right_arrow: `com.fasterxml.uuid:java-uuid-generator:3.3.0`
 - :dvd: `com.fazecast.jSerialComm` :left_right_arrow: `com.fazecast:jSerialComm:2.5.3`
 - :dvd: `com.formdev.flatlaf` :left_right_arrow: `com.formdev:flatlaf:0.26`
 - :dvd: `com.github.akurilov.commons` :left_right_arrow: `com.github.akurilov:java-commons:2.3.6`
@@ -427,15 +427,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.nhojpatrick.hamcrest.lang` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.optionals` :left_right_arrow: `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
 - :dvd: `com.github.nhojpatrick.lang` :left_right_arrow: `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
-- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.7.0-beta-2`
-- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.7.0-beta-2`
-- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.7.0-beta-2`
+- :dvd: `com.github.robozonky.api` :left_right_arrow: `com.github.robozonky:robozonky-api:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.app` :left_right_arrow: `com.github.robozonky:robozonky-app:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.cli` :left_right_arrow: `com.github.robozonky:robozonky-cli:5.7.0-cr-1`
 - :dvd: `com.github.robozonky.common` :left_right_arrow: `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` :left_right_arrow: `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` :left_right_arrow: `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.7.0-beta-2`
-- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.7.0-beta-2`
-- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.7.0-beta-2`
+- :dvd: `com.github.robozonky.notifications` :left_right_arrow: `com.github.robozonky:robozonky-notifications:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.strategy.natural` :left_right_arrow: `com.github.robozonky:robozonky-strategy-natural:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.test` :left_right_arrow: `com.github.robozonky:robozonky-test:5.7.0-cr-1`
 - :dvd: `com.github.rvesse.airline` :left_right_arrow: `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` :left_right_arrow: `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` :left_right_arrow: `com.github.skjolber.aotc:agent:1.0.0`
@@ -955,7 +955,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.61`
+- :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.62`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.10`
 - :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.10`
@@ -1137,7 +1137,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jakarta.json` :left_right_arrow: `jakarta.json:jakarta.json-api:2.0.0-RC1`
 - :dvd: `jakarta.json.bind` :left_right_arrow: `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
 - :dvd: `jakarta.jws` :left_right_arrow: `jakarta.jws:jakarta.jws-api:3.0.0-rc1`
+- :dvd: `jakarta.xml.bind` :left_right_arrow: `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC1`
+- :dvd: `jakarta.xml.bind.tests.src` :left_right_arrow: `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC1`
 - :dvd: `jakarta.xml.soap` :left_right_arrow: `jakarta.xml.soap:jakarta.xml.soap-api:2.0.0-RC1`
+- :dvd: `jakarta.xml.ws` :left_right_arrow: `jakarta.xml.ws:jakarta.xml.ws-api:3.0.0-RC1`
 - :dvd: `java.json` :left_right_arrow: `javax.json:javax.json-api:1.1.4`
 - :dvd: `javax.jws` :left_right_arrow: `javax.jws:javax.jws-api:1.1`
 - :dvd: `jfxtras.agenda` :left_right_arrow: `org.jfxtras:jfxtras-agenda:10.0-r1`
