@@ -4265,6 +4265,7 @@
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.3.0` // `net.morimekta.providence,providence-testing-junit4,2.3.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.4.0` // `net.morimekta.providence,providence-testing-junit4,2.4.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.5.0` // `net.morimekta.providence,providence-testing-junit4,2.5.0,net.morimekta.providence.testing,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` :left_right_arrow: `net.morimekta.providence:providence-testing-junit4:2.6.0` // `net.morimekta.providence,providence-testing-junit4,2.6.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` :left_right_arrow: `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
@@ -4767,6 +4768,7 @@
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.171.10` // `com.yahoo.vespa,vespa-hadoop,7.171.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.172.13` // `com.yahoo.vespa,vespa-hadoop,7.172.13,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.173.17` // `com.yahoo.vespa,vespa-hadoop,7.173.17,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` :left_right_arrow: `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -4790,6 +4792,7 @@
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.95.0` // `com.linecorp.armeria,armeria,0.95.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.96.0` // `com.linecorp.armeria,armeria,0.96.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.97.0` // `com.linecorp.armeria,armeria,0.97.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` :left_right_arrow: `com.linecorp.armeria:armeria:0.98.0` // `com.linecorp.armeria,armeria,0.98.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` :left_right_arrow: `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
