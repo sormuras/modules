@@ -2152,6 +2152,7 @@
 - :cd: `eu.toop.connector.r2d2client` :left_right_arrow: `eu.toop:toop-mem-phase4:0.10.5` // `eu.toop,toop-mem-phase4,0.10.5,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `com.instaclustr:instaclustr-backup-restore:1.0.0` // `com.instaclustr,instaclustr-backup-restore,1.0.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `com.instaclustr:instaclustr-backup-restore:1.1.0` // `com.instaclustr,instaclustr-backup-restore,1.1.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` :left_right_arrow: `com.instaclustr:instaclustr-backup-restore:1.1.1` // `com.instaclustr,instaclustr-backup-restore,1.1.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `com.mygraphql.graphub:openapi2graphqls-cli:0.0.2` // `com.mygraphql.graphub,openapi2graphqls-cli,0.0.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `com.tngtech.keycloakmock:standalone:0.1.0` // `com.tngtech.keycloakmock,standalone,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` :left_right_arrow: `com.tngtech.keycloakmock:standalone:0.2.0` // `com.tngtech.keycloakmock,standalone,0.2.0,info.picocli,-,explicit,java.base,false,-`

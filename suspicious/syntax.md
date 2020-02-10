@@ -11532,6 +11532,7 @@
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2019.8.9-214007` // `name.remal,public-data,2019.8.9-214007,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2020.1.11-045507` // `name.remal,public-data,2020.1.11-045507,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2020.1.17-205511` // `name.remal,public-data,2020.1.17-205511,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` :left_right_arrow: `name.remal:public-data:2020.2.7-163511` // `name.remal,public-data,2020.2.7-163511,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` :left_right_arrow: `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-builds-jvm-stripper` :left_right_arrow: `net.bzzt:reproducible-builds-jvm-stripper:0.9` // `net.bzzt,reproducible-builds-jvm-stripper,0.9,net.bzzt.reproducible-builds-jvm-stripper,-,automatic,-,false,-`
