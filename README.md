@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6028 Java modules published at Maven Central
+Counted 6030 Java modules published at Maven Central
 
-## Summary 2020-02-11T00:35:54.702687Z
+## Summary 2020-02-12T00:36:47.218924Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-11T00:35:54.702687Z
-Scanned 42,916 files in 5 seconds.
+Started scan at 2020-02-12T00:36:47.218924Z
+Scanned 43,003 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_11_00_15_18.csv
+    last -> modulescanner-report-2020_02_12_00_24_20.csv
 
-Parsed 2,838,359 lines in total.
-  46,676 -> captions skipped
-  220,281 -> duplicates skipped
-  129,247 -> module related
+Parsed 2,851,025 lines in total.
+  46,763 -> captions skipped
+  220,695 -> duplicates skipped
+  129,549 -> module related
 
-Collected 6,028 unique modules.
-  automatic :cd: -> 4,367
-  explicit :dvd: -> 1,661
+Collected 6,030 unique modules.
+  automatic :cd: -> 4,368
+  explicit :dvd: -> 1,662
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=1778, explicit=310, plain=37464}` 	 5.57%
+ - `2020_02={automatic=2032, explicit=319, plain=49327}` 	 4.77%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,10 +113,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [13260](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17923](suspicious/naming.md)
-- Modular impostors: [6615](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [17955](suspicious/naming.md)
+- Modular impostors: [6622](suspicious/impostors.md)
 
-## Unique Modules (6028)
+## Unique Modules (6030)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -179,6 +179,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.audio.openal` :left_right_arrow: `be.yildiz-games:module-audio-openal:2.0.12`
 - :dvd: `be.yildizgames.module.database` :left_right_arrow: `be.yildiz-games:module-database:3.0.0`
 - :dvd: `be.yildizgames.module.database.derby` :left_right_arrow: `be.yildiz-games:module-database-derby:1.0.6`
+- :dvd: `be.yildizgames.module.database.hsqldb` :left_right_arrow: `be.yildiz-games:module-database-hsqldb:1.0.0`
 - :dvd: `be.yildizgames.module.database.mysql` :left_right_arrow: `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` :left_right_arrow: `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` :left_right_arrow: `be.yildiz-games:module-database-pool-hikari:1.0.1`
@@ -194,7 +195,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` :left_right_arrow: `be.yildiz-games:module-scripting-ruby:1.0.3`
 - :dvd: `be.yildizgames.module.vfs` :left_right_arrow: `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` :left_right_arrow: `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.webserver.undertow` :left_right_arrow: `be.yildiz-games:module-webserver-undertow:1.0.0`
+- :dvd: `be.yildizgames.module.webserver.undertow` :left_right_arrow: `be.yildiz-games:module-webserver-undertow:1.1.0`
 - :dvd: `be.yildizgames.module.window` :left_right_arrow: `be.yildiz-games:module-window:4.0.2`
 - :dvd: `be.yildizgames.module.window.javafx` :left_right_arrow: `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` :left_right_arrow: `br.com.jarch:jarch-agent:19.12.0`
@@ -301,15 +302,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.test` :left_right_arrow: `com.azure:azure-core-test:1.1.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.2`
 - :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
-- :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.2.0`
+- :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.3.0`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.3`
 - :dvd: `com.azure.messaging.eventhubs` :left_right_arrow: `com.azure:azure-messaging-eventhubs:5.0.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` :left_right_arrow: `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.1`
-- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.3.0`
-- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.3.0`
-- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.3.0`
-- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.3.0`
-- :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.0`
+- :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.3.1`
+- :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.3.1`
+- :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.3.1`
+- :dvd: `com.azure.storage.common` :left_right_arrow: `com.azure:azure-storage-common:12.3.1`
+- :dvd: `com.azure.storage.file.share` :left_right_arrow: `com.azure:azure-storage-file-share:12.1.1`
 - :dvd: `com.azure.storage.queue` :left_right_arrow: `com.azure:azure-storage-queue:12.2.0`
 - :dvd: `com.blazebit.persistence.core` :left_right_arrow: `com.blazebit:blaze-persistence-core-api:1.4.1`
 - :dvd: `com.blazebit.persistence.core.impl` :left_right_arrow: `com.blazebit:blaze-persistence-core-impl:1.4.1`
@@ -918,7 +919,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` :left_right_arrow: `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` :left_right_arrow: `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` :left_right_arrow: `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.1.4`
+- :dvd: `info.picocli` :left_right_arrow: `info.picocli:picocli:4.2.0`
 - :dvd: `io.annot8.api` :left_right_arrow: `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` :left_right_arrow: `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` :left_right_arrow: `io.annot8:annot8-common-data:0.4.0`

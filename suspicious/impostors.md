@@ -3561,6 +3561,7 @@
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.1.0.RC1` // `io.micronaut.test,micronaut-test-core,1.1.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.1.1` // `io.micronaut.test,micronaut-test-core,1.1.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.1.2` // `io.micronaut.test,micronaut-test-core,1.1.2,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` :left_right_arrow: `io.micronaut.test:micronaut-test-core:1.1.3` // `io.micronaut.test,micronaut-test-core,1.1.3,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -3573,6 +3574,7 @@
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.1.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.1.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.1.1` // `io.micronaut.test,micronaut-test-junit5,1.1.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.1.2` // `io.micronaut.test,micronaut-test-junit5,1.1.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` :left_right_arrow: `io.micronaut.test:micronaut-test-junit5:1.1.3` // `io.micronaut.test,micronaut-test-junit5,1.1.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -3585,6 +3587,7 @@
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.1.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.1.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.1.1` // `io.micronaut.test,micronaut-test-spock,1.1.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.1.2` // `io.micronaut.test,micronaut-test-spock,1.1.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` :left_right_arrow: `io.micronaut.test:micronaut-test-spock:1.1.3` // `io.micronaut.test,micronaut-test-spock,1.1.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` :left_right_arrow: `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -4156,6 +4159,8 @@
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.beam:beam-sdks-java-harness:2.19.0` // `org.apache.beam,beam-sdks-java-harness,2.19.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.beam:beam-sdks-java-harness:2.9.0` // `org.apache.beam,beam-sdks-java-harness,2.9.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.beam:beam-vendor-bytebuddy-1_9_3:0.1` // `org.apache.beam,beam-vendor-bytebuddy-1_9_3,0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.flink:flink-python_2.11:1.10.0` // `org.apache.flink,flink-python_2.11,1.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.flink:flink-python_2.12:1.10.0` // `org.apache.flink,flink-python_2.12,1.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.skywalking:apm-agent:6.0.0-GA` // `org.apache.skywalking,apm-agent,6.0.0-GA,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.skywalking:apm-agent:6.0.0-alpha` // `org.apache.skywalking,apm-agent,6.0.0-alpha,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` :left_right_arrow: `org.apache.skywalking:apm-agent:6.0.0-alpha` // `org.apache.skywalking,apm-agent,6.0.0-alpha,net.bytebuddy,-,explicit,jdk.unsupported + net.bytebuddy.agent + java.base + java.instrument,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
@@ -4194,6 +4199,7 @@
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.10.1` // `co.elastic.apm,apm-agent-attach,1.10.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.11.0` // `co.elastic.apm,apm-agent-attach,1.11.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.12.0` // `co.elastic.apm,apm-agent-attach,1.12.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.13.0` // `co.elastic.apm,apm-agent-attach,1.13.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.4.0` // `co.elastic.apm,apm-agent-attach,1.4.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.5.0` // `co.elastic.apm,apm-agent-attach,1.5.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` :left_right_arrow: `co.elastic.apm:apm-agent-attach:1.6.0` // `co.elastic.apm,apm-agent-attach,1.6.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -4773,6 +4779,7 @@
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.171.10` // `com.yahoo.vespa,vespa-hadoop,7.171.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.172.13` // `com.yahoo.vespa,vespa-hadoop,7.172.13,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.173.17` // `com.yahoo.vespa,vespa-hadoop,7.173.17,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` :left_right_arrow: `com.yahoo.vespa:vespa-hadoop:7.174.29` // `com.yahoo.vespa,vespa-hadoop,7.174.29,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` :left_right_arrow: `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
