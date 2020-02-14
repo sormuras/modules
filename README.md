@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6031 Java modules published at Maven Central
+Counted 6033 Java modules published at Maven Central
 
-## Summary 2020-02-13T00:38:23.200612Z
+## Summary 2020-02-14T00:38:31.987345Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-13T00:38:23.200612Z
-Scanned 43,095 files in 6 seconds.
+Started scan at 2020-02-14T00:38:31.987345Z
+Scanned 43,186 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_13_00_26_51.csv
+    last -> modulescanner-report-2020_02_14_00_26_47.csv
 
-Parsed 2,862,005 lines in total.
-  46,855 -> captions skipped
-  222,398 -> duplicates skipped
-  130,126 -> module related
+Parsed 2,871,285 lines in total.
+  46,946 -> captions skipped
+  224,246 -> duplicates skipped
+  130,642 -> module related
 
-Collected 6,031 unique modules.
-  automatic :cd: -> 4,368
+Collected 6,033 unique modules.
+  automatic :cd: -> 4,370
   explicit :dvd: -> 1,663
 
 ## Samples
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=2396, explicit=376, plain=57935}` 	 4.78%
+ - `2020_02={automatic=2781, explicit=392, plain=64759}` 	 4.90%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13260](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18097](suspicious/naming.md)
-- Modular impostors: [6636](suspicious/impostors.md)
+- Invalid module names: [13263](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18169](suspicious/naming.md)
+- Modular impostors: [6676](suspicious/impostors.md)
 
-## Unique Modules (6031)
+## Unique Modules (6033)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -303,7 +303,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.tracing.opentelemetry` :left_right_arrow: `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.2`
 - :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.4.0-beta.1`
-- :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.0.3`
+- :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs` :left_right_arrow: `com.azure:azure-messaging-eventhubs:5.0.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` :left_right_arrow: `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.1`
 - :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.4.0`
@@ -954,28 +954,28 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` :left_right_arrow: `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` :left_right_arrow: `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` :left_right_arrow: `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.2.0`
+- :dvd: `io.cucumber.junit.platform.engine` :left_right_arrow: `io.cucumber:cucumber-junit-platform-engine:5.3.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` :left_right_arrow: `io.github.classgraph:classgraph:4.8.62`
 - :dvd: `io.github.dsheirer.rrapi` :left_right_arrow: `io.github.dsheirer:radio-reference-api:15.1.4`
-- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.11`
-- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.11`
-- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.11`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.11`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.11`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.11`
+- :dvd: `io.github.factoryfx.copperBridge` :left_right_arrow: `io.github.factoryfx:copperBridge:2.2.12`
+- :dvd: `io.github.factoryfx.domFactoryEditing` :left_right_arrow: `io.github.factoryfx:domFactoryEditing:2.2.12`
+- :dvd: `io.github.factoryfx.factory` :left_right_arrow: `io.github.factoryfx:factory:2.2.12`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` :left_right_arrow: `io.github.factoryfx:javafxDistributionClient:2.2.12`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` :left_right_arrow: `io.github.factoryfx:javafxDistributionServer:2.2.12`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` :left_right_arrow: `io.github.factoryfx:javafxFactoryEditing:2.2.12`
 - :dvd: `io.github.factoryfx.javascript` :left_right_arrow: `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` :left_right_arrow: `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.11`
-- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.11`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.11`
+- :dvd: `io.github.factoryfx.jettyFactory` :left_right_arrow: `io.github.factoryfx:jettyFactory:2.2.12`
+- :dvd: `io.github.factoryfx.microserviceRestClient` :left_right_arrow: `io.github.factoryfx:microserviceRestClient:2.2.12`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` :left_right_arrow: `io.github.factoryfx:microserviceRestCommon:2.2.12`
 - :dvd: `io.github.factoryfx.microserviceRestServer` :left_right_arrow: `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` :left_right_arrow: `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.11`
-- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.11`
-- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.11`
-- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.11`
-- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.11`
+- :dvd: `io.github.factoryfx.oracledbStorage` :left_right_arrow: `io.github.factoryfx:oracledbStorage:2.2.12`
+- :dvd: `io.github.factoryfx.postgresqlStorage` :left_right_arrow: `io.github.factoryfx:postgresqlStorage:2.2.12`
+- :dvd: `io.github.factoryfx.soapFactory` :left_right_arrow: `io.github.factoryfx:soapFactory:2.2.12`
+- :dvd: `io.github.factoryfx.starter` :left_right_arrow: `io.github.factoryfx:initializr:2.2.12`
+- :dvd: `io.github.factoryfx.typescriptGenerator` :left_right_arrow: `io.github.factoryfx:typescriptGenerator:2.2.12`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` :left_right_arrow: `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` :left_right_arrow: `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
 - :dvd: `io.github.jsoagger.core.bridge` :left_right_arrow: `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
