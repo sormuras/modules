@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6033 Java modules published at Maven Central
+Counted 6035 Java modules published at Maven Central
 
-## Summary 2020-02-14T00:38:31.987345Z
+## Summary 2020-02-15T00:38:46.338594Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-14T00:38:31.987345Z
-Scanned 43,186 files in 5 seconds.
+Started scan at 2020-02-15T00:38:46.338594Z
+Scanned 43,277 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_14_00_26_47.csv
+    last -> modulescanner-report-2020_02_15_00_29_40.csv
 
-Parsed 2,871,285 lines in total.
-  46,946 -> captions skipped
-  224,246 -> duplicates skipped
-  130,642 -> module related
+Parsed 2,878,623 lines in total.
+  47,031 -> captions skipped
+  224,708 -> duplicates skipped
+  130,916 -> module related
 
-Collected 6,033 unique modules.
-  automatic :cd: -> 4,370
+Collected 6,035 unique modules.
+  automatic :cd: -> 4,372
   explicit :dvd: -> 1,663
 
 ## Samples
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=2781, explicit=392, plain=64759}` 	 4.90%
+ - `2020_02={automatic=3045, explicit=392, plain=71276}` 	 4.82%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13263](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18169](suspicious/naming.md)
-- Modular impostors: [6676](suspicious/impostors.md)
+- Invalid module names: [13268](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18171](suspicious/naming.md)
+- Modular impostors: [6679](suspicious/impostors.md)
 
-## Unique Modules (6033)
+## Unique Modules (6035)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
