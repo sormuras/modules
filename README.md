@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6035 Java modules published at Maven Central
+Counted 6036 Java modules published at Maven Central
 
-## Summary 2020-02-15T00:38:46.338594Z
+## Summary 2020-02-16T00:39:16.193747Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-15T00:38:46.338594Z
-Scanned 43,277 files in 5 seconds.
+Started scan at 2020-02-16T00:39:16.193747Z
+Scanned 43,371 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_15_00_29_40.csv
+    last -> modulescanner-report-2020_02_16_00_28_27.csv
 
-Parsed 2,878,623 lines in total.
-  47,031 -> captions skipped
-  224,708 -> duplicates skipped
-  130,916 -> module related
+Parsed 2,881,797 lines in total.
+  47,125 -> captions skipped
+  224,918 -> duplicates skipped
+  130,931 -> module related
 
-Collected 6,035 unique modules.
+Collected 6,036 unique modules.
   automatic :cd: -> 4,372
-  explicit :dvd: -> 1,663
+  explicit :dvd: -> 1,664
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=3045, explicit=392, plain=71276}` 	 4.82%
+ - `2020_02={automatic=3049, explicit=395, plain=74131}` 	 4.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,10 +113,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [13268](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18171](suspicious/naming.md)
-- Modular impostors: [6679](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18173](suspicious/naming.md)
+- Modular impostors: [6685](suspicious/impostors.md)
 
-## Unique Modules (6035)
+## Unique Modules (6036)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -304,8 +304,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` :left_right_arrow: `com.azure:azure-data-appconfiguration:1.0.1`
 - :dvd: `com.azure.http.netty` :left_right_arrow: `com.azure:azure-core-http-netty:1.4.0-beta.1`
 - :dvd: `com.azure.identity` :left_right_arrow: `com.azure:azure-identity:1.1.0-beta.1`
-- :dvd: `com.azure.messaging.eventhubs` :left_right_arrow: `com.azure:azure-messaging-eventhubs:5.0.1`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` :left_right_arrow: `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.1`
+- :dvd: `com.azure.messaging.eventhubs` :left_right_arrow: `com.azure:azure-messaging-eventhubs:5.0.2`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` :left_right_arrow: `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
 - :dvd: `com.azure.storage.blob` :left_right_arrow: `com.azure:azure-storage-blob:12.4.0`
 - :dvd: `com.azure.storage.blob.batch` :left_right_arrow: `com.azure:azure-storage-blob-batch:12.4.0-beta.1`
 - :dvd: `com.azure.storage.blob.cryptography` :left_right_arrow: `com.azure:azure-storage-blob-cryptography:12.4.0`
@@ -1175,6 +1175,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` :left_right_arrow: `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` :left_right_arrow: `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` :left_right_arrow: `net.dongliu:xhttp-json-jsonb:2.1.1`
+- :dvd: `net.finmath.plots` :left_right_arrow: `net.finmath:finmath-lib-plot-extensions:0.1.0`
 - :dvd: `net.kautler.command` :left_right_arrow: `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` :left_right_arrow: `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` :left_right_arrow: `net.snaq:jclap:2.0`
