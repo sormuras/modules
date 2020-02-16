@@ -232,7 +232,8 @@ public class Modules {
     String toMarkdown() {
       var icon = toMarkdownModuleModeIcon();
       var maven = "`" + toMaven() + "`";
-      return "- " + icon + " `" + moduleName + "` :left_right_arrow: " + maven;
+      var arrow = moduleName.equals(mavenArtifactId) ? ":left_right_arrow:" : "-";
+      return "- " + icon + " `" + moduleName + "` " + arrow + " " + maven;
     }
 
     String toMarkdownModuleModeIcon() {
