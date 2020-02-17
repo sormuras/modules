@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6037 Java modules published at Maven Central
 
-## Summary 2020-02-16T08:48:39.166865Z
+## Summary 2020-02-17T00:39:35.519036Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-16T08:48:39.166865Z
-Scanned 43,401 files in 5 seconds.
+Started scan at 2020-02-17T00:39:35.519036Z
+Scanned 43,466 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_16_08_34_52.csv
+    last -> modulescanner-report-2020_02_17_00_25_51.csv
 
-Parsed 2,882,760 lines in total.
-  47,155 -> captions skipped
-  224,964 -> duplicates skipped
-  130,954 -> module related
+Parsed 2,885,097 lines in total.
+  47,220 -> captions skipped
+  225,076 -> duplicates skipped
+  131,003 -> module related
 
 Collected 6,037 unique modules.
   automatic :cd: -> 4,373
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=3069, explicit=395, plain=74995}` 	 4.62%
+ - `2020_02={automatic=3092, explicit=413, plain=77106}` 	 4.55%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,8 +113,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [13269](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18174](suspicious/naming.md)
-- Modular impostors: [6686](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18177](suspicious/naming.md)
+- Modular impostors: [6691](suspicious/impostors.md)
 
 ## Unique Modules (6037)
 
@@ -393,7 +393,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:3.3.0`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.5.3`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.26`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.27`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -428,15 +428,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.nhojpatrick.hamcrest.lang` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.optionals` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
 - :dvd: `com.github.nhojpatrick.lang` - `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
-- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.0-cr-1`
-- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.0-cr-1`
-- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.1`
+- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.1`
+- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.1`
 - :dvd: `com.github.robozonky.common` - `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` - `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` - `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.0-cr-1`
-- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.0-cr-1`
-- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.0-cr-1`
+- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.1`
+- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.1`
+- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.1`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` - `com.github.skjolber.aotc:agent:1.0.0`
@@ -795,7 +795,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` - `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` - `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` - `com.samskivert:jmustache:1.15`
-- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.13.0`
+- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.13.1`
 - :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.6`
 - :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.6`
 - :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.6`
@@ -956,7 +956,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.3.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.62`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.64`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.12`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.12`
@@ -1165,8 +1165,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.7`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.7`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.8`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.8`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.3`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jsonb:3.0.0`
