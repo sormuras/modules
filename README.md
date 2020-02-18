@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6037 Java modules published at Maven Central
+Counted 6044 Java modules published at Maven Central
 
-## Summary 2020-02-17T00:39:35.519036Z
+## Summary 2020-02-18T00:40:38.252116Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-17T00:39:35.519036Z
-Scanned 43,466 files in 5 seconds.
+Started scan at 2020-02-18T00:40:38.252116Z
+Scanned 43,553 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_17_00_25_51.csv
+    last -> modulescanner-report-2020_02_18_00_30_19.csv
 
-Parsed 2,885,097 lines in total.
-  47,220 -> captions skipped
-  225,076 -> duplicates skipped
-  131,003 -> module related
+Parsed 2,893,475 lines in total.
+  47,307 -> captions skipped
+  226,221 -> duplicates skipped
+  132,137 -> module related
 
-Collected 6,037 unique modules.
-  automatic :cd: -> 4,373
+Collected 6,044 unique modules.
+  automatic :cd: -> 4,380
   explicit :dvd: -> 1,664
 
 ## Samples
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=3092, explicit=413, plain=77106}` 	 4.55%
+ - `2020_02={automatic=3680, explicit=417, plain=83118}` 	 4.93%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13269](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18177](suspicious/naming.md)
-- Modular impostors: [6691](suspicious/impostors.md)
+- Invalid module names: [13551](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18357](suspicious/naming.md)
+- Modular impostors: [6771](suspicious/impostors.md)
 
-## Unique Modules (6037)
+## Unique Modules (6044)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -668,7 +668,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.jqueryui` - `com.jwebmp:jwebmp-jquery-ui:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes` - `com.jwebmp:jwebmp-jquery-ui-themes:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jqueryui.themes.nestable` - `com.jwebmp:jwebmp-jquery-ui-themes-nestable:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` - `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.4`
+- :dvd: `com.jwebmp.plugins.jqueryverticaltimeline` - `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline:1.0.2.8`
 - :dvd: `com.jwebmp.plugins.jqxwidgets` - `com.jwebmp:jwebmp-jqx-widgets:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.jstree` - `com.jwebmp:jwebmp-jstree:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.leaflet` - `com.jwebmp:jwebmp-leafletjs:0.66.0.1`
@@ -682,8 +682,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.plusastab` - `com.jwebmp:jwebmp-plus-as-tab:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.quickforms` - `com.jwebmp:jwebmp-quickforms:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.radialsvgslider` - `com.jwebmp:jwebmp-radial-slider-gem:0.66.0.1`
-- :dvd: `com.jwebmp.plugins.security.ipgeography` - `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.4`
-- :dvd: `com.jwebmp.plugins.security.localstorage` - `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.4`
+- :dvd: `com.jwebmp.plugins.security.ipgeography` - `com.jwebmp.plugins.security:jwebmp-plugins-ip-geography-security:1.0.2.8`
+- :dvd: `com.jwebmp.plugins.security.localstorage` - `com.jwebmp.plugins.security:jwebmp-plugins-local-storage-security:1.0.2.8`
 - :dvd: `com.jwebmp.plugins.skycons` - `com.jwebmp:jwebmp-skycons:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard` - `com.jwebmp:jwebmp-smart-wizard:0.66.0.1`
 - :dvd: `com.jwebmp.plugins.smartwizard4` - `com.jwebmp:jwebmp-smart-wizard-bootstrap4:0.66.0.1`
@@ -1454,7 +1454,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.21`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.22`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
