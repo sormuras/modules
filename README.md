@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6044 Java modules published at Maven Central
+Counted 6057 Java modules published at Maven Central
 
-## Summary 2020-02-18T00:40:38.252116Z
+## Summary 2020-02-19T00:41:25.695569Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-18T00:40:38.252116Z
-Scanned 43,553 files in 5 seconds.
+Started scan at 2020-02-19T00:41:25.695569Z
+Scanned 43,643 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_18_00_30_19.csv
+    last -> modulescanner-report-2020_02_19_00_14_26.csv
 
-Parsed 2,893,475 lines in total.
-  47,307 -> captions skipped
-  226,221 -> duplicates skipped
-  132,137 -> module related
+Parsed 2,900,917 lines in total.
+  47,397 -> captions skipped
+  226,994 -> duplicates skipped
+  132,504 -> module related
 
-Collected 6,044 unique modules.
-  automatic :cd: -> 4,380
-  explicit :dvd: -> 1,664
+Collected 6,057 unique modules.
+  automatic :cd: -> 4,392
+  explicit :dvd: -> 1,665
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=3680, explicit=417, plain=83118}` 	 4.93%
+ - `2020_02={automatic=3972, explicit=426, plain=89330}` 	 4.92%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13551](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18357](suspicious/naming.md)
-- Modular impostors: [6771](suspicious/impostors.md)
+- Invalid module names: [13555](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18406](suspicious/naming.md)
+- Modular impostors: [6784](suspicious/impostors.md)
 
-## Unique Modules (6044)
+## Unique Modules (6057)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -428,15 +428,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.nhojpatrick.hamcrest.lang` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
 - :dvd: `com.github.nhojpatrick.hamcrest.optionals` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
 - :dvd: `com.github.nhojpatrick.lang` - `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
-- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.1`
-- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.1`
-- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.1`
+- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.2`
+- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.2`
+- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.2`
 - :dvd: `com.github.robozonky.common` - `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` - `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` - `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.1`
-- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.1`
-- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.1`
+- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.2`
+- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.2`
+- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.2`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` - `com.github.skjolber.aotc:agent:1.0.0`
@@ -1463,8 +1463,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.importers` - `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.0.0`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:19.3.1`
-- :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:19.3.1`
+- :dvd: `org.graalvm.js` - `org.graalvm.js:js:20.0.0`
+- :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:20.0.0`
+- :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:20.0.0`
 - :dvd: `org.icroco.jcip.annotations` - `org.icroco:jcip-annotations:1.1.0`
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`

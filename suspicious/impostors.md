@@ -2254,6 +2254,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.6.1` // `io.jooby,jooby-cli,2.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.5` // `org.jboss.gm,cli,1.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6` // `org.jboss.gm,cli,1.6,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.1` // `org.jboss.gm,cli,1.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `io.annot8.components.text` - `io.annot8:annot8-components-types:0.4.0` // `io.annot8,annot8-components-types,0.4.0,io.annot8.components.text,0.4.0,explicit,io.annot8.api + io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + java.json.bind + org.slf4j,false,-`
 - :cd: `io.cucumber.core` - `com.github.harry389:cucumber-core:5.0.0-RC3` // `com.github.harry389,cucumber-core,5.0.0-RC3,io.cucumber.core,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
@@ -2865,6 +2866,7 @@
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.3.2` // `io.micronaut.configuration,micronaut-openapi,1.3.2,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.3.3` // `io.micronaut.configuration,micronaut-openapi,1.3.3,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.3.4` // `io.micronaut.configuration,micronaut-openapi,1.3.4,io.micronaut.configuration.openapi,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.0` // `io.micronaut.configuration,micronaut-openapi,1.4.0,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0` // `io.micronaut.configuration,micronaut-picocli,1.0.0,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0.RC3` // `io.micronaut.configuration,micronaut-picocli,1.0.0.RC3,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.1` // `io.micronaut.configuration,micronaut-picocli,1.0.1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
@@ -3866,6 +3868,7 @@
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.1` // `com.scalar-labs,scalardl-java-client-sdk,2.0.1,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.2` // `com.scalar-labs,scalardl-java-client-sdk,2.0.2,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.3` // `com.scalar-labs,scalardl-java-client-sdk,2.0.3,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.4` // `com.scalar-labs,scalardl-java-client-sdk,2.0.4,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `jakarta.json:jakarta.json-api:1.1.5` // `jakarta.json,jakarta.json-api,1.1.5,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `jakarta.json:jakarta.json-api:1.1.6` // `jakarta.json,jakarta.json-api,1.1.6,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.102.0` // `org.finra.herd,herd-access-validator,0.102.0,java.json,-,explicit,java.base,false,-`
@@ -4676,6 +4679,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.0.0` // `com.github.vzakharchenko,radius-plugin,1.0.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.0.1` // `com.github.vzakharchenko,radius-plugin,1.0.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.0.2` // `com.github.vzakharchenko,radius-plugin,1.0.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.1.0` // `com.github.vzakharchenko,radius-plugin,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -4692,6 +4696,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.10` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.10,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.12` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.12,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.13` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.13,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.14` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.14,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.9` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.9,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -4946,6 +4951,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.97.0` // `com.linecorp.armeria,armeria,0.97.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.0` // `com.linecorp.armeria,armeria,0.98.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.1` // `com.linecorp.armeria,armeria,0.98.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.2` // `com.linecorp.armeria,armeria,0.98.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -6019,6 +6025,7 @@
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.0` // `org.graalvm.nativeimage,svm,19.3.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.0.2` // `org.graalvm.nativeimage,svm,19.3.0.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.1` // `org.graalvm.nativeimage,svm,19.3.1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:20.0.0` // `org.graalvm.nativeimage,svm,20.0.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2` // `org.noear,solon.extend.jetty.jsp,1.0.2,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2.1` // `org.noear,solon.extend.jetty.jsp,1.0.2.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.3` // `org.noear,solon.extend.jetty.jsp,1.0.3,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -6110,6 +6117,8 @@
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.194` // `fish.payara.extras,payara-embedded-web,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.6` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.6,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.100` // `com.rookout,rook,0.1.100,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.101` // `com.rookout,rook,0.1.101,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -6467,6 +6476,7 @@
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.4-b` // `com.bytes-pot,daraja-api,1.4-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.5-b` // `com.bytes-pot,daraja-api,1.5-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.6-b` // `com.bytes-pot,daraja-api,1.6-b,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.100` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.100,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.96` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.96,org.slf4j,-,explicit,java.base,false,-`
@@ -6480,6 +6490,8 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.46` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.46,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.47` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.47,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.49` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.49,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.50` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.50,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.51` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.51,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
@@ -6546,6 +6558,7 @@
 - :dvd: `org.slf4j.simple` - `se.bjurr.violations:violations-command-line:1.5` // `se.bjurr.violations,violations-command-line,1.5,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC1` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC1,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC2` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC2,org.tinylog.api.scala,-,automatic,-,false,-`
+- :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC3` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC3,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`

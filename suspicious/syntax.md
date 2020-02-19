@@ -5113,6 +5113,8 @@
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.7` // `org.eclipse.milo,sdk-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.7` // `org.eclipse.milo,stack-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
+- :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.1` // `org.apache.openjpa,openjpa-kubernetes,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
+- :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.1` // `org.apache.openjpa,openjpa-maven-plugin,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0` // `au.com.dius,pact-jvm-consumer,4.0.0,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.1,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.2,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -11396,6 +11398,7 @@
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.0` // `com.synopsys.integration,int-jira-common,0.6.0,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.1` // `com.synopsys.integration,int-jira-common,0.6.1,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.2` // `com.synopsys.integration,int-jira-common,0.6.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.3` // `com.synopsys.integration,int-jira-common,0.6.3,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.0` // `com.blackducksoftware.integration,integration-bdio,17.1.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.1` // `com.blackducksoftware.integration,integration-bdio,17.1.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.2` // `com.blackducksoftware.integration,integration-bdio,17.1.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
@@ -11446,6 +11449,7 @@
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.2` // `com.synopsys.integration,issuetracker-jira,0.0.2,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.3` // `com.synopsys.integration,issuetracker-jira,0.0.3,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.4` // `com.synopsys.integration,issuetracker-jira,0.0.4,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.5` // `com.synopsys.integration,issuetracker-jira,0.0.5,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-annotation-processor` - `com.synopsys.integration:jenkins-annotation-processor:0.0.1` // `com.synopsys.integration,jenkins-annotation-processor,0.0.1,com.synopsys.integration.jenkins-annotation-processor,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.0.1` // `com.synopsys.integration,jenkins-common,0.0.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.0` // `com.synopsys.integration,jenkins-common,0.1.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
