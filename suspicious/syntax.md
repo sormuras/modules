@@ -5112,7 +5112,9 @@
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics:metrics-logback:4.1.0-rc2` // `io.dropwizard.metrics,metrics-logback,4.1.0-rc2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.7` // `org.eclipse.milo,sdk-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.8` // `org.eclipse.milo,sdk-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.7` // `org.eclipse.milo,stack-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.8` // `org.eclipse.milo,stack-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.1` // `org.apache.openjpa,openjpa-kubernetes,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.1` // `org.apache.openjpa,openjpa-maven-plugin,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0` // `au.com.dius,pact-jvm-consumer,4.0.0,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -11482,6 +11484,7 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.3` // `com.synopsys.integration,polaris-common,0.9.3,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.10` // `com.synopsys.integration,polaris-common-api,0.0.10,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.2` // `com.synopsys.integration,polaris-common-api,0.0.2,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.3` // `com.synopsys.integration,polaris-common-api,0.0.3,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.4` // `com.synopsys.integration,polaris-common-api,0.0.4,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`

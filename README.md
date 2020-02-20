@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6057 Java modules published at Maven Central
+Counted 6058 Java modules published at Maven Central
 
-## Summary 2020-02-19T00:41:25.695569Z
+## Summary 2020-02-20T00:42:05.281749Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-19T00:41:25.695569Z
-Scanned 43,643 files in 5 seconds.
+Started scan at 2020-02-20T00:42:05.281749Z
+Scanned 43,726 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_19_00_14_26.csv
+    last -> modulescanner-report-2020_02_20_00_11_28.csv
 
-Parsed 2,900,917 lines in total.
-  47,397 -> captions skipped
-  226,994 -> duplicates skipped
-  132,504 -> module related
+Parsed 2,908,203 lines in total.
+  47,480 -> captions skipped
+  227,892 -> duplicates skipped
+  132,822 -> module related
 
-Collected 6,057 unique modules.
-  automatic :cd: -> 4,392
+Collected 6,058 unique modules.
+  automatic :cd: -> 4,393
   explicit :dvd: -> 1,665
 
 ## Samples
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=3972, explicit=426, plain=89330}` 	 4.92%
+ - `2020_02={automatic=4268, explicit=430, plain=95317}` 	 4.93%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13555](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18406](suspicious/naming.md)
-- Modular impostors: [6784](suspicious/impostors.md)
+- Invalid module names: [13558](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18412](suspicious/naming.md)
+- Modular impostors: [6793](suspicious/impostors.md)
 
-## Unique Modules (6057)
+## Unique Modules (6058)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -392,7 +392,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.2`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:3.3.0`
-- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.5.3`
+- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.0`
 - :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.27`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
@@ -1175,7 +1175,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.1.0`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.2.0`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.0`
@@ -1383,7 +1383,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.tesseract.platform` - `org.bytedeco:tesseract-platform:4.1.0-1.5.2`
 - :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.2`
 - :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.2`
-- :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.4`
+- :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
 - :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.1`
 - :dvd: `org.controlsfx.samples` - `org.controlsfx:controlsfx-samples:11.0.1`
 - :dvd: `org.copperengine.cassandra.loadtest` - `org.copper-engine:cassandra-loadtest:5.1.0`
@@ -1480,7 +1480,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.46`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.30`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.31`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.0`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.0`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.0`
