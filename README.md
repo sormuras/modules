@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6058 Java modules published at Maven Central
+Counted 6062 Java modules published at Maven Central
 
-## Summary 2020-02-20T00:42:05.281749Z
+## Summary 2020-02-21T00:42:42.826373Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-20T00:42:05.281749Z
-Scanned 43,726 files in 6 seconds.
+Started scan at 2020-02-21T00:42:42.826373Z
+Scanned 43,800 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_20_00_11_28.csv
+    last -> modulescanner-report-2020_02_21_00_26_06.csv
 
-Parsed 2,908,203 lines in total.
-  47,480 -> captions skipped
-  227,892 -> duplicates skipped
-  132,822 -> module related
+Parsed 2,913,002 lines in total.
+  47,554 -> captions skipped
+  228,464 -> duplicates skipped
+  133,294 -> module related
 
-Collected 6,058 unique modules.
+Collected 6,062 unique modules.
   automatic :cd: -> 4,393
-  explicit :dvd: -> 1,665
+  explicit :dvd: -> 1,669
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=4268, explicit=430, plain=95317}` 	 4.93%
+ - `2020_02={automatic=4593, explicit=440, plain=98998}` 	 5.08%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,10 +113,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [13558](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18412](suspicious/naming.md)
-- Modular impostors: [6793](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18543](suspicious/naming.md)
+- Modular impostors: [6799](suspicious/impostors.md)
 
-## Unique Modules (6058)
+## Unique Modules (6062)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -403,7 +403,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` - `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
-- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.0.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.1.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
@@ -899,7 +899,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` - `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` - `de.powerstat.phplib:templateengine:1.1`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.1-M1`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.1`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -954,9 +954,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.3.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.64`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.65`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.12`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.12`
@@ -1135,7 +1135,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
 - :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-rc1`
-- :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC1`
+- :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
 - :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-rc1`
 - :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC1`
@@ -1157,6 +1157,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.window` - `org.jfxtras:jfxtras-window:10.0-r1`
 - :dvd: `kz.btsd.bot.botsdk` - `kz.btsd:bot-sdk:1.0.0`
 - :dvd: `kz.btsd.bot.scenario.sdk` - `kz.btsd:bot-scenario-sdk:1.0.0`
+- :dvd: `moe.maple.crypto` - `moe.maple:crypto:1.1.0`
+- :dvd: `moe.maple.miho` - `moe.maple:miho:1.2.0`
+- :dvd: `moe.maple.scheduler` - `moe.maple:scheduler:2.1.1`
+- :dvd: `moe.maple.script.api` - `moe.maple:script-api:1.6.0`
 - :dvd: `moe.tristan.easyfxml` - `moe.tristan:easyfxml:3.3.0`
 - :dvd: `moe.tristan.easyfxml.fxkit` - `moe.tristan:easyfxml-fxkit:3.3.0`
 - :dvd: `moe.tristan.easyfxml.junit` - `moe.tristan:easyfxml-junit:3.3.0`
@@ -1454,7 +1458,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.22`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.23`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`

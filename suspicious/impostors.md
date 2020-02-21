@@ -3572,6 +3572,7 @@
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.2.3` // `io.micronaut,micronaut-security,1.2.3,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.0` // `io.micronaut,micronaut-security,1.3.0,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.0.RC1` // `io.micronaut,micronaut-security,1.3.0.RC1,io.micronaut.security,-,automatic,-,false,-`
+- :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.1` // `io.micronaut,micronaut-security,1.3.1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.0` // `io.micronaut,micronaut-security-jwt,1.0.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.0.RC3` // `io.micronaut,micronaut-security-jwt,1.0.0.RC3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.1` // `io.micronaut,micronaut-security-jwt,1.0.1,io.micronaut.security_jwt,-,automatic,-,false,-`
@@ -3591,6 +3592,7 @@
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.2.3` // `io.micronaut,micronaut-security-jwt,1.2.3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.0` // `io.micronaut,micronaut-security-jwt,1.3.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.0.RC1` // `io.micronaut,micronaut-security-jwt,1.3.0.RC1,io.micronaut.security_jwt,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.1` // `io.micronaut,micronaut-security-jwt,1.3.1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.0` // `io.micronaut,micronaut-security-session,1.0.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.0.RC3` // `io.micronaut,micronaut-security-session,1.0.0.RC3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.1` // `io.micronaut,micronaut-security-session,1.0.1,io.micronaut.security_session,-,automatic,-,false,-`
@@ -3610,6 +3612,7 @@
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.2.3` // `io.micronaut,micronaut-security-session,1.2.3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.0` // `io.micronaut,micronaut-security-session,1.3.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.0.RC1` // `io.micronaut,micronaut-security-session,1.3.0.RC1,io.micronaut.security_session,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.1` // `io.micronaut,micronaut-security-session,1.3.1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.0` // `io.micronaut,micronaut-session,1.0.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.0.RC3` // `io.micronaut,micronaut-session,1.0.0.RC3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.1` // `io.micronaut,micronaut-session,1.0.1,io.micronaut.session,-,automatic,-,false,-`
@@ -4000,6 +4003,7 @@
 - :cd: `java.json` - `org.glassfish:jakarta.json:1.1.5` // `org.glassfish,jakarta.json,1.1.5,java.json,-,automatic,-,false,-`
 - :cd: `java.json` - `org.glassfish:jakarta.json:1.1.6` // `org.glassfish,jakarta.json,1.1.6,java.json,-,automatic,-,false,-`
 - :cd: `java.json` - `org.glassfish:jakarta.json:2.0.0-RC1` // `org.glassfish,jakarta.json,2.0.0-RC1,java.json,-,automatic,-,false,-`
+- :cd: `java.json` - `org.glassfish:jakarta.json:2.0.0-RC2` // `org.glassfish,jakarta.json,2.0.0-RC2,java.json,-,automatic,-,false,-`
 - :cd: `java.json` - `org.glassfish:javax.json:1.1.4` // `org.glassfish,javax.json,1.1.4,java.json,-,automatic,-,false,-`
 - :dvd: `jfxtras.icalendaragenda` - `org.jfxtras:jfxtras-icalendaragenda:10.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,10.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
 - :dvd: `jfxtras.icalendaragenda` - `org.jfxtras:jfxtras-icalendaragenda:9.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,9.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
@@ -4148,6 +4152,8 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.5-beta.7` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.5-beta.8` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.5-beta.9` // `com.undefinedlabs.scope,scope-agent,0.2.5-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.3.0` // `com.undefinedlabs.scope,scope-agent,0.3.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.3.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.3.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.6` // `com.yahoo.elide,elide-blog-example,4.5.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.7` // `com.yahoo.elide,elide-blog-example,4.5.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.8` // `com.yahoo.elide,elide-blog-example,4.5.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
