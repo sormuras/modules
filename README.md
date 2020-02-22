@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6062 Java modules published at Maven Central
+Counted 6063 Java modules published at Maven Central
 
-## Summary 2020-02-21T00:42:42.826373Z
+## Summary 2020-02-22T00:42:59.281877Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-21T00:42:42.826373Z
-Scanned 43,800 files in 5 seconds.
+Started scan at 2020-02-22T00:42:59.281877Z
+Scanned 43,879 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_21_00_26_06.csv
+    last -> modulescanner-report-2020_02_22_00_32_59.csv
 
-Parsed 2,913,002 lines in total.
-  47,554 -> captions skipped
-  228,464 -> duplicates skipped
-  133,294 -> module related
+Parsed 2,919,573 lines in total.
+  47,633 -> captions skipped
+  229,354 -> duplicates skipped
+  133,676 -> module related
 
-Collected 6,062 unique modules.
+Collected 6,063 unique modules.
   automatic :cd: -> 4,393
-  explicit :dvd: -> 1,669
+  explicit :dvd: -> 1,670
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=4593, explicit=440, plain=98998}` 	 5.08%
+ - `2020_02={automatic=4896, explicit=442, plain=104218}` 	 5.12%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13558](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18543](suspicious/naming.md)
-- Modular impostors: [6799](suspicious/impostors.md)
+- Invalid module names: [13559](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18575](suspicious/naming.md)
+- Modular impostors: [6843](suspicious/impostors.md)
 
-## Unique Modules (6062)
+## Unique Modules (6063)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -867,6 +867,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.1`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1478,7 +1479,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` - `org.joml:joml:1.9.20`
+- :dvd: `org.joml` - `org.joml:joml:1.9.21`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
