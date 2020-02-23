@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6063 Java modules published at Maven Central
 
-## Summary 2020-02-22T00:42:59.281877Z
+## Summary 2020-02-23T00:43:27.282120Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-22T00:42:59.281877Z
-Scanned 43,879 files in 6 seconds.
+Started scan at 2020-02-23T00:43:27.282120Z
+Scanned 43,935 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_22_00_32_59.csv
+    last -> modulescanner-report-2020_02_23_00_02_09.csv
 
-Parsed 2,919,573 lines in total.
-  47,633 -> captions skipped
-  229,354 -> duplicates skipped
-  133,676 -> module related
+Parsed 2,922,172 lines in total.
+  47,689 -> captions skipped
+  229,952 -> duplicates skipped
+  133,726 -> module related
 
 Collected 6,063 unique modules.
   automatic :cd: -> 4,393
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=4896, explicit=442, plain=104218}` 	 5.12%
+ - `2020_02={automatic=4896, explicit=443, plain=106113}` 	 5.03%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,9 +112,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13559](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18575](suspicious/naming.md)
-- Modular impostors: [6843](suspicious/impostors.md)
+- Invalid module names: [13582](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18600](suspicious/naming.md)
+- Modular impostors: [6844](suspicious/impostors.md)
 
 ## Unique Modules (6063)
 
@@ -391,7 +391,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.osgi` - `com.fasterxml.jackson.module:jackson-module-osgi:2.10.2`
 - :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.10.2`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.2`
-- :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:3.3.0`
+- :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.0`
 - :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.27`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
