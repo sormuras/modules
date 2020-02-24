@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6063 Java modules published at Maven Central
+Counted 6066 Java modules published at Maven Central
 
-## Summary 2020-02-23T00:43:27.282120Z
+## Summary 2020-02-24T00:43:30.649058Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-23T00:43:27.282120Z
-Scanned 43,935 files in 6 seconds.
+Started scan at 2020-02-24T00:43:30.649058Z
+Scanned 43,992 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_23_00_02_09.csv
+    last -> modulescanner-report-2020_02_24_00_10_38.csv
 
-Parsed 2,922,172 lines in total.
-  47,689 -> captions skipped
-  229,952 -> duplicates skipped
-  133,726 -> module related
+Parsed 2,925,570 lines in total.
+  47,746 -> captions skipped
+  230,289 -> duplicates skipped
+  133,841 -> module related
 
-Collected 6,063 unique modules.
+Collected 6,066 unique modules.
   automatic :cd: -> 4,393
-  explicit :dvd: -> 1,670
+  explicit :dvd: -> 1,673
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=4896, explicit=443, plain=106113}` 	 5.03%
+ - `2020_02={automatic=4922, explicit=498, plain=109002}` 	 4.97%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13582](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18600](suspicious/naming.md)
-- Modular impostors: [6844](suspicious/impostors.md)
+- Invalid module names: [13605](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18610](suspicious/naming.md)
+- Modular impostors: [6845](suspicious/impostors.md)
 
-## Unique Modules (6063)
+## Unique Modules (6066)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -237,39 +237,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` - `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `colesico.framework.appbundle` - `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:2.5.1`
-- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:2.5.1`
-- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:2.5.1`
-- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:2.5.1`
-- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:2.5.1`
-- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:2.5.1`
-- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:2.5.1`
+- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.1.1`
+- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.1.1`
+- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:3.1.1`
+- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:3.1.1`
+- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:3.1.1`
+- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:3.1.1`
+- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:3.1.1`
 - :dvd: `colesico.framework.dao` - `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:2.5.1`
-- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:2.5.1`
-- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:2.5.1`
-- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:2.5.1`
-- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:2.5.1`
-- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:2.5.1`
-- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:2.5.1`
-- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:2.5.1`
-- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:2.5.1`
-- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:2.5.1`
-- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:2.5.1`
-- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:2.5.1`
-- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:2.5.1`
-- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:2.5.1`
-- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:2.5.1`
-- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:2.5.1`
-- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:2.5.1`
-- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:2.5.1`
-- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:2.5.1`
-- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:2.5.1`
-- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:2.5.1`
-- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:2.5.1`
-- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:2.5.1`
-- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:2.5.1`
-- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:2.5.1`
+- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:3.1.1`
+- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:3.1.1`
+- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:3.1.1`
+- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:3.1.1`
+- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:3.1.1`
+- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:3.1.1`
+- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:3.1.1`
+- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:3.1.1`
+- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:3.1.1`
+- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:3.1.1`
+- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:3.1.1`
+- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:3.1.1`
+- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:3.1.1`
+- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:3.1.1`
+- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:3.1.1`
+- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:3.1.1`
+- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:3.1.1`
+- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:3.1.1`
+- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:3.1.1`
+- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:3.1.1`
+- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:3.1.1`
+- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:3.1.1`
+- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.1.1`
+- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.1.1`
+- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.1.1`
 - :dvd: `com.acgist.snail` - `com.acgist:snail:1.3.0`
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
@@ -867,6 +867,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
+- :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.1`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
@@ -1170,6 +1171,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
+- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
+- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.20.0`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.8`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.8`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.3`
@@ -1234,25 +1237,25 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `one.lfa.opdsget.vanilla` :left_right_arrow: `one.lfa:one.lfa.opdsget.vanilla:1.1.2`
 - :dvd: `org.apache.commons.rng.examples.jpms.app` - `org.apache.commons:commons-rng-examples-jpms-app:1.3`
 - :dvd: `org.apache.commons.rng.examples.jpms.lib` - `org.apache.commons:commons-rng-examples-jpms-lib:1.3`
-- :dvd: `org.apache.derby.client` - `org.apache.derby:derbyclient:10.15.1.3`
-- :dvd: `org.apache.derby.commons` - `org.apache.derby:derbyshared:10.15.1.3`
-- :dvd: `org.apache.derby.engine` - `org.apache.derby:derby:10.15.1.3`
-- :dvd: `org.apache.derby.locale_cs` - `org.apache.derby:derbyLocale_cs:10.15.1.3`
-- :dvd: `org.apache.derby.locale_de_DE` - `org.apache.derby:derbyLocale_de_DE:10.15.1.3`
-- :dvd: `org.apache.derby.locale_es` - `org.apache.derby:derbyLocale_es:10.15.1.3`
-- :dvd: `org.apache.derby.locale_fr` - `org.apache.derby:derbyLocale_fr:10.15.1.3`
-- :dvd: `org.apache.derby.locale_hu` - `org.apache.derby:derbyLocale_hu:10.15.1.3`
-- :dvd: `org.apache.derby.locale_it` - `org.apache.derby:derbyLocale_it:10.15.1.3`
-- :dvd: `org.apache.derby.locale_ja_JP` - `org.apache.derby:derbyLocale_ja_JP:10.15.1.3`
-- :dvd: `org.apache.derby.locale_ko_KR` - `org.apache.derby:derbyLocale_ko_KR:10.15.1.3`
-- :dvd: `org.apache.derby.locale_pl` - `org.apache.derby:derbyLocale_pl:10.15.1.3`
-- :dvd: `org.apache.derby.locale_pt_BR` - `org.apache.derby:derbyLocale_pt_BR:10.15.1.3`
-- :dvd: `org.apache.derby.locale_ru` - `org.apache.derby:derbyLocale_ru:10.15.1.3`
-- :dvd: `org.apache.derby.locale_zh_CN` - `org.apache.derby:derbyLocale_zh_CN:10.15.1.3`
-- :dvd: `org.apache.derby.locale_zh_TW` - `org.apache.derby:derbyLocale_zh_TW:10.15.1.3`
-- :dvd: `org.apache.derby.optionaltools` - `org.apache.derby:derbyoptionaltools:10.15.1.3`
-- :dvd: `org.apache.derby.server` - `org.apache.derby:derbynet:10.15.1.3`
-- :dvd: `org.apache.derby.tools` - `org.apache.derby:derbytools:10.15.1.3`
+- :dvd: `org.apache.derby.client` - `org.apache.derby:derbyclient:10.15.2.0`
+- :dvd: `org.apache.derby.commons` - `org.apache.derby:derbyshared:10.15.2.0`
+- :dvd: `org.apache.derby.engine` - `org.apache.derby:derby:10.15.2.0`
+- :dvd: `org.apache.derby.locale_cs` - `org.apache.derby:derbyLocale_cs:10.15.2.0`
+- :dvd: `org.apache.derby.locale_de_DE` - `org.apache.derby:derbyLocale_de_DE:10.15.2.0`
+- :dvd: `org.apache.derby.locale_es` - `org.apache.derby:derbyLocale_es:10.15.2.0`
+- :dvd: `org.apache.derby.locale_fr` - `org.apache.derby:derbyLocale_fr:10.15.2.0`
+- :dvd: `org.apache.derby.locale_hu` - `org.apache.derby:derbyLocale_hu:10.15.2.0`
+- :dvd: `org.apache.derby.locale_it` - `org.apache.derby:derbyLocale_it:10.15.2.0`
+- :dvd: `org.apache.derby.locale_ja_JP` - `org.apache.derby:derbyLocale_ja_JP:10.15.2.0`
+- :dvd: `org.apache.derby.locale_ko_KR` - `org.apache.derby:derbyLocale_ko_KR:10.15.2.0`
+- :dvd: `org.apache.derby.locale_pl` - `org.apache.derby:derbyLocale_pl:10.15.2.0`
+- :dvd: `org.apache.derby.locale_pt_BR` - `org.apache.derby:derbyLocale_pt_BR:10.15.2.0`
+- :dvd: `org.apache.derby.locale_ru` - `org.apache.derby:derbyLocale_ru:10.15.2.0`
+- :dvd: `org.apache.derby.locale_zh_CN` - `org.apache.derby:derbyLocale_zh_CN:10.15.2.0`
+- :dvd: `org.apache.derby.locale_zh_TW` - `org.apache.derby:derbyLocale_zh_TW:10.15.2.0`
+- :dvd: `org.apache.derby.optionaltools` - `org.apache.derby:derbyoptionaltools:10.15.2.0`
+- :dvd: `org.apache.derby.server` - `org.apache.derby:derbynet:10.15.2.0`
+- :dvd: `org.apache.derby.tools` - `org.apache.derby:derbytools:10.15.2.0`
 - :dvd: `org.apache.logging.log4j` - `org.apache.logging.log4j:log4j-api:2.13.0`
 - :dvd: `org.apiguardian.api` - `org.apiguardian:apiguardian-api:1.1.0`
 - :dvd: `org.arakhne.afc.advanced.agentmotion` - `org.arakhne.afc.advanced:agentmotion:17.0`
@@ -1479,7 +1482,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` - `org.joml:joml:1.9.21`
+- :dvd: `org.joml` - `org.joml:joml:1.9.22`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`

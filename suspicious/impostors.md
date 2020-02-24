@@ -5907,6 +5907,7 @@
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.1` // `com.bmuschko,gradle-docker-plugin,6.1.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.2` // `com.bmuschko,gradle-docker-plugin,6.1.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.3` // `com.bmuschko,gradle-docker-plugin,6.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.4` // `com.bmuschko,gradle-docker-plugin,6.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:expressions:2.5` // `com.github.collinalpert,expressions,2.5,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
