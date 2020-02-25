@@ -2147,6 +2147,7 @@
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.12` // `com.expedia.www,haystack-agent,0.1.12,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.13` // `com.expedia.www,haystack-agent,0.1.13,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.14` // `com.expedia.www,haystack-agent,0.1.14,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
+- :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.15` // `com.expedia.www,haystack-agent,0.1.15,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.8` // `com.expedia.www,haystack-agent,0.1.8,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.9` // `com.expedia.www,haystack-agent,0.1.9,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:jaxws-rt:2.3.3-b01` // `com.sun.xml.ws,jaxws-rt,2.3.3-b01,com.sun.xml.ws,2.3.3-b01,explicit,com.sun.xml.bind + com.sun.xml.fastinfoset + com.sun.xml.streambuffer + com.sun.xml.ws.policy + jakarta.activation + java.annotation + java.base + java.desktop + java.jws + java.logging + java.management + java.servlet + java.xml + java.xml.bind + java.xml.soap + java.xml.ws + jdk.httpserver + org.jvnet.mimepull + org.jvnet.staxex,false,-`
@@ -2343,6 +2344,7 @@
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.10` // `io.github.factoryfx,microserviceRestResource,2.2.10,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.11` // `io.github.factoryfx,microserviceRestResource,2.2.11,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.12` // `io.github.factoryfx,microserviceRestResource,2.2.12,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
+- :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.13` // `io.github.factoryfx,microserviceRestResource,2.2.13,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.2` // `io.github.factoryfx,microserviceRestResource,2.2.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.3` // `io.github.factoryfx,microserviceRestResource,2.2.3,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.4` // `io.github.factoryfx,microserviceRestResource,2.2.4,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -3876,6 +3878,7 @@
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.12.1` // `io.qameta.allure,allure-okhttp,2.12.1,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.0` // `io.qameta.allure,allure-okhttp,2.13.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.1` // `io.qameta.allure,allure-okhttp,2.13.1,io.qameta.allure.okhttp,-,automatic,-,false,-`
+- :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.2` // `io.qameta.allure,allure-okhttp,2.13.2,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.9.0` // `io.qameta.allure,allure-okhttp,2.9.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:sql-import:0.2.1` // `io.vulpine.lib,sql-import,0.2.1,io.vulpine.lib.sql.load,-,explicit,java.base,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.guicedee.services:jakarta.activation:0.70.0.1` // `com.guicedee.services,jakarta.activation,0.70.0.1,jakarta.activation,0.70.0.1,explicit,java.base + java.desktop + java.logging,false,-`
@@ -4407,6 +4410,7 @@
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.0.RELEASE` // `io.projectreactor,reactor-tools,3.3.0.RELEASE,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.1.RELEASE` // `io.projectreactor,reactor-tools,3.3.1.RELEASE,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.2.RELEASE` // `io.projectreactor,reactor-tools,3.3.2.RELEASE,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.3.RELEASE` // `io.projectreactor,reactor-tools,3.3.3.RELEASE,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -4940,6 +4944,7 @@
 - :dvd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15on:1.64` // `org.bouncycastle,bcpg-jdk15on,1.64,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.63` // `org.bouncycastle,bcpg-jdk15to18,1.63,org.bouncycastle.pg,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.64` // `org.bouncycastle,bcpg-jdk15to18,1.64,org.bouncycastle.pg,-,automatic,-,false,-`
+- :dvd: `org.bouncycastle.pg` - `org.netbeans.external:bcpg:RELEASE113` // `org.netbeans.external,bcpg,RELEASE113,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.vafer:jdeb:1.8` // `org.vafer,jdeb,1.8,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.whitesource:wss-unified-agent-main:19.7.3` // `org.whitesource,wss-unified-agent-main,19.7.3,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.117.37` // `com.yahoo.vespa,vespa-hadoop,7.117.37,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -5042,6 +5047,7 @@
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.6` // `org.eclipse.milo,server-examples,0.3.6,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.7` // `org.eclipse.milo,server-examples,0.3.7,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.8` // `org.eclipse.milo,server-examples,0.3.8,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.netbeans.external:bcprov:RELEASE113` // `org.netbeans.external,bcprov,RELEASE113,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.8` // `org.verapdf.apps,pdfbox-apps,1.14.8,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -5201,6 +5207,7 @@
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.33.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.33.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
+- :cd: `org.eclipse.jgit` - `org.netbeans.external:org-eclipse-jgit:RELEASE113` // `org.netbeans.external,org-eclipse-jgit,RELEASE113,org.eclipse.jgit,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:bsd-parser-gson:0.3.0` // `org.eclipse.milo,bsd-parser-gson,0.3.0,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:bsd-parser-gson:0.3.0-M1` // `org.eclipse.milo,bsd-parser-gson,0.3.0-M1,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:bsd-parser-gson:0.3.1` // `org.eclipse.milo,bsd-parser-gson,0.3.1,org.eclipse.milo.opcua,-,automatic,-,false,-`
@@ -6086,6 +6093,7 @@
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.0.2` // `org.graalvm.nativeimage,svm,19.3.0.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.1` // `org.graalvm.nativeimage,svm,19.3.1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:20.0.0` // `org.graalvm.nativeimage,svm,20.0.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.netbeans.external:asm-7.2:RELEASE113` // `org.netbeans.external,asm-7.2,RELEASE113,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2` // `org.noear,solon.extend.jetty.jsp,1.0.2,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2.1` // `org.noear,solon.extend.jetty.jsp,1.0.2.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.3` // `org.noear,solon.extend.jetty.jsp,1.0.3,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -6170,10 +6178,12 @@
 - :dvd: `org.objectweb.asm.commons` - `net.corda:corda-djvm:4.0` // `net.corda,corda-djvm,4.0,org.objectweb.asm.commons,6.2.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `org.copper-engine:copper-performance-test:5.0.0-SNAPHOT` // `org.copper-engine,copper-performance-test,5.0.0-SNAPHOT,org.objectweb.asm.commons,6.1.1,explicit,org.objectweb.asm + java.base + org.objectweb.asm.tree.analysis + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.commons` - `org.javastro.vodsl:vodslparser:0.4.0` // `org.javastro.vodsl,vodslparser,0.4.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `org.netbeans.external:asm-commons-7.2:RELEASE113` // `org.netbeans.external,asm-commons-7.2,RELEASE113,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.8` // `com.uber.nullaway,jar-infer-cli,0.7.8,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.9` // `com.uber.nullaway,jar-infer-cli,0.7.9,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `org.netbeans.external:asm-tree-7.2:RELEASE113` // `org.netbeans.external,asm-tree-7.2,RELEASE113,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.194` // `fish.payara.extras,payara-embedded-all,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.194` // `fish.payara.extras,payara-embedded-web,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
@@ -6537,6 +6547,7 @@
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.4-b` // `com.bytes-pot,daraja-api,1.4-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.5-b` // `com.bytes-pot,daraja-api,1.5-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.6-b` // `com.bytes-pot,daraja-api,1.6-b,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M1` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M1,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.100` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.100,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
@@ -6604,9 +6615,11 @@
 - :dvd: `org.slf4j` - `io.wizzie.normalizer:service:0.7.2` // `io.wizzie.normalizer,service,0.7.2,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.wizzie.normalizer:service:0.7.3` // `io.wizzie.normalizer,service,0.7.3,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `nl.basjes.parse.useragent:yauaa-commandline:5.14` // `nl.basjes.parse.useragent,yauaa-commandline,5.14,org.slf4j,-,explicit,java.base,false,-`
+- :cd: `org.slf4j` - `org.netbeans.external:slf4j-api:RELEASE113` // `org.netbeans.external,slf4j-api,RELEASE113,org.slf4j,-,automatic,-,false,-`
 - :dvd: `org.slf4j` - `se.bjurr.gitchangelog:git-changelog-command-line:1.45` // `se.bjurr.gitchangelog,git-changelog-command-line,1.45,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `se.bjurr.gitchangelog:git-changelog-command-line:1.50` // `se.bjurr.gitchangelog,git-changelog-command-line,1.50,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `se.bjurr.gitchangelog:git-changelog-command-line:1.52` // `se.bjurr.gitchangelog,git-changelog-command-line,1.52,org.slf4j,-,explicit,java.base,false,-`
+- :cd: `org.slf4j.jul` - `org.netbeans.external:slf4j-jdk14:RELEASE113` // `org.netbeans.external,slf4j-jdk14,RELEASE113,org.slf4j.jul,-,automatic,-,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.53` // `se.bjurr.gitchangelog,git-changelog-command-line,1.53,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.54` // `se.bjurr.gitchangelog,git-changelog-command-line,1.54,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
