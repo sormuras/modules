@@ -1,31 +1,31 @@
 # sormuras/modules
-Counted 6070 Java modules published at Maven Central
+Counted 6074 Java modules published at Maven Central
 
-## Summary 2020-02-26T00:45:11.563450Z
+## Summary 2020-02-27T00:45:13.961270Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-26T00:45:11.563450Z
-Scanned 44,146 files in 7 seconds.
+Started scan at 2020-02-27T00:45:13.961270Z
+Scanned 44,239 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_26_00_33_39.csv
+    last -> modulescanner-report-2020_02_27_00_32_12.csv
 
-Parsed 2,937,867 lines in total.
-  47,900 -> captions skipped
-  231,577 -> duplicates skipped
-  134,739 -> module related
+Parsed 2,944,507 lines in total.
+  47,991 -> captions skipped
+  232,315 -> duplicates skipped
+  135,078 -> module related
 
-Collected 6,070 unique modules.
-  automatic :cd: -> 4,395
-  explicit :dvd: -> 1,675
+Collected 6,074 unique modules.
+  automatic :cd: -> 4,397
+  explicit :dvd: -> 1,677
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0
 org.objectweb.asm -> org.ow2.asm:asm:7.3.1
 com.google.common -> com.google.guava:guava:28.2-jre
-   org.joda.beans -> org.joda:joda-beans:2.7.1
+   org.joda.beans -> org.joda:joda-beans:2.8.0
  org.joda.collect -> org.joda:joda-collect:1.0.1
  org.joda.convert -> org.joda:joda-convert:2.2.1
 
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=5612, explicit=554, plain=118959}` 	 5.18%
+ - `2020_02={automatic=5928, explicit=558, plain=124431}` 	 5.21%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13629](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18714](suspicious/naming.md)
-- Modular impostors: [6869](suspicious/impostors.md)
+- Invalid module names: [13636](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18722](suspicious/naming.md)
+- Modular impostors: [6873](suspicious/impostors.md)
 
-## Unique Modules (6070)
+## Unique Modules (6074)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -236,6 +236,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` - `co.paralleluniverse:quasar-reactive-streams:0.8.0`
+- :dvd: `codes.rafael.interceptablehttpclient` - `codes.rafael.interceptablehttpclient:interceptable-http-client:1.0`
 - :dvd: `colesico.framework.appbundle` - `net.colesico.framework:colesico-appbundle:1.9.0`
 - :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.1.1`
 - :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.1.1`
@@ -448,7 +449,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.11`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.13`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.14`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1216,6 +1217,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.search.api` - `no.ssb.lds:linked-data-store-search-provider-api:0.4`
 - :dvd: `no.ssb.rawdata.api` - `no.ssb.rawdata:rawdata-client-api:0.23`
 - :dvd: `no.ssb.rawdata.avro` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.8`
+- :dvd: `no.ssb.rawdata.encryption` - `no.ssb.rawdata:rawdata-crypto-util:0.1`
 - :dvd: `no.ssb.rawdata.gcs` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.7`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` - `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
@@ -1480,7 +1482,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.5`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
-- :dvd: `org.joda.beans` - `org.joda:joda-beans:2.7.1`
+- :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`

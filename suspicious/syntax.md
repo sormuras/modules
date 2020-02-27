@@ -3907,6 +3907,7 @@
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.12` // `org.neo4j,neo4j-ast-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.13` // `org.neo4j,neo4j-ast-3.5,3.5.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.14` // `org.neo4j,neo4j-ast-3.5,3.5.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.15` // `org.neo4j,neo4j-ast-3.5,3.5.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.2` // `org.neo4j,neo4j-ast-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.3` // `org.neo4j,neo4j-ast-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.4` // `org.neo4j,neo4j-ast-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3922,6 +3923,7 @@
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.12` // `org.neo4j,neo4j-expressions-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.13` // `org.neo4j,neo4j-expressions-3.5,3.5.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.14` // `org.neo4j,neo4j-expressions-3.5,3.5.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.15` // `org.neo4j,neo4j-expressions-3.5,3.5.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.2` // `org.neo4j,neo4j-expressions-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.3` // `org.neo4j,neo4j-expressions-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.4` // `org.neo4j,neo4j-expressions-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3973,6 +3975,7 @@
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.12` // `org.neo4j,neo4j-parser-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.13` // `org.neo4j,neo4j-parser-3.5,3.5.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.14` // `org.neo4j,neo4j-parser-3.5,3.5.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.15` // `org.neo4j,neo4j-parser-3.5,3.5.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.2` // `org.neo4j,neo4j-parser-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.3` // `org.neo4j,neo4j-parser-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.4` // `org.neo4j,neo4j-parser-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -3988,6 +3991,7 @@
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.12` // `org.neo4j,neo4j-rewriting-3.5,3.5.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.13` // `org.neo4j,neo4j-rewriting-3.5,3.5.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.14` // `org.neo4j,neo4j-rewriting-3.5,3.5.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.15` // `org.neo4j,neo4j-rewriting-3.5,3.5.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.2` // `org.neo4j,neo4j-rewriting-3.5,3.5.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.3` // `org.neo4j,neo4j-rewriting-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.4` // `org.neo4j,neo4j-rewriting-3.5,3.5.4,-,-,automatic,-,false,-`
@@ -11475,6 +11479,7 @@
 - :cd: `com.synopsys.integration.integration-common` - `com.blackducksoftware.integration:integration-common:18.1.0` // `com.blackducksoftware.integration,integration-common,18.1.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:19.0.0` // `com.synopsys.integration,integration-common,19.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.0` // `com.synopsys.integration,integration-common,20.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.1` // `com.synopsys.integration,integration-common,20.0.1,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.0` // `com.blackducksoftware.integration,integration-reporting,0.3.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.1` // `com.blackducksoftware.integration,integration-reporting,0.3.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.2` // `com.blackducksoftware.integration,integration-reporting,0.3.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
@@ -11502,6 +11507,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.2` // `com.synopsys.integration,jenkins-common,0.1.2,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.3` // `com.synopsys.integration,jenkins-common,0.1.3,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.4` // `com.synopsys.integration,jenkins-common,0.1.4,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.5` // `com.synopsys.integration,jenkins-common,0.1.5,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -11523,6 +11529,7 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.13.1` // `com.synopsys.integration,polaris-common,0.13.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.13.2` // `com.synopsys.integration,polaris-common,0.13.2,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.14.1` // `com.synopsys.integration,polaris-common,0.14.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.15.0` // `com.synopsys.integration,polaris-common,0.15.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`

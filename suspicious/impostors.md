@@ -2178,6 +2178,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.1` // `com.vladmihalcea,hibernate-types-43,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.2` // `com.vladmihalcea,hibernate-types-43,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2198,6 +2199,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.1` // `com.vladmihalcea,hibernate-types-5,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.2` // `com.vladmihalcea,hibernate-types-5,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2218,6 +2220,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.1` // `com.vladmihalcea,hibernate-types-52,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.2` // `com.vladmihalcea,hibernate-types-52,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
@@ -4259,6 +4262,7 @@
 - :dvd: `net.bytebuddy` - `nl.jqno.equalsverifier:equalsverifier:3.0.1` // `nl.jqno.equalsverifier,equalsverifier,3.0.1,net.bytebuddy,-,explicit,jdk.unsupported + net.bytebuddy.agent + java.base + java.instrument,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `net.bytebuddy` - `nl.jqno.equalsverifier:equalsverifier:3.0.2` // `nl.jqno.equalsverifier,equalsverifier,3.0.2,net.bytebuddy,-,explicit,java.instrument + java.base + net.bytebuddy.agent + jdk.unsupported,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `net.bytebuddy` - `nl.jqno.equalsverifier:equalsverifier:3.0.2` // `nl.jqno.equalsverifier,equalsverifier,3.0.2,net.bytebuddy,-,explicit,net.bytebuddy.agent + java.base + jdk.unsupported + java.instrument,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.4.0` // `org.agrona,agrona-agent,1.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.10.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.11.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.12.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.12.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
