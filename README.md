@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6074 Java modules published at Maven Central
+Counted 6083 Java modules published at Maven Central
 
-## Summary 2020-02-27T00:45:13.961270Z
+## Summary 2020-02-28T00:45:30.149534Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-27T00:45:13.961270Z
-Scanned 44,239 files in 5 seconds.
+Started scan at 2020-02-28T00:45:30.149534Z
+Scanned 44,337 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_27_00_32_12.csv
+    last -> modulescanner-report-2020_02_28_00_25_52.csv
 
-Parsed 2,944,507 lines in total.
-  47,991 -> captions skipped
-  232,315 -> duplicates skipped
-  135,078 -> module related
+Parsed 2,954,201 lines in total.
+  48,087 -> captions skipped
+  233,727 -> duplicates skipped
+  135,602 -> module related
 
-Collected 6,074 unique modules.
-  automatic :cd: -> 4,397
-  explicit :dvd: -> 1,677
+Collected 6,083 unique modules.
+  automatic :cd: -> 4,398
+  explicit :dvd: -> 1,685
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=5928, explicit=558, plain=124431}` 	 5.21%
+ - `2020_02={automatic=6340, explicit=573, plain=132093}` 	 5.23%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +112,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13636](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18722](suspicious/naming.md)
-- Modular impostors: [6873](suspicious/impostors.md)
+- Invalid module names: [13660](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18788](suspicious/naming.md)
+- Modular impostors: [6880](suspicious/impostors.md)
 
-## Unique Modules (6074)
+## Unique Modules (6083)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -423,11 +423,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.moaxcp.graphs.greenrobot` - `com.github.moaxcp.graphs:graphs-greenrobot:0.8.0`
 - :dvd: `com.github.moaxcp.graphs.truth` - `com.github.moaxcp.graphs:graphs-truth:0.8.0`
 - :dvd: `com.github.nhojpatrick.data` - `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
-- :dvd: `com.github.nhojpatrick.hamcrest.all` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.1`
-- :dvd: `com.github.nhojpatrick.hamcrest.collections` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.1`
-- :dvd: `com.github.nhojpatrick.hamcrest.datetime` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-datetime:1.0.1`
-- :dvd: `com.github.nhojpatrick.hamcrest.lang` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.1`
-- :dvd: `com.github.nhojpatrick.hamcrest.optionals` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.1`
+- :dvd: `com.github.nhojpatrick.hamcrest.all` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.3`
+- :dvd: `com.github.nhojpatrick.hamcrest.collections` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.3`
+- :dvd: `com.github.nhojpatrick.hamcrest.datetime` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-datetime:1.0.3`
+- :dvd: `com.github.nhojpatrick.hamcrest.datetime.java.sql` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-datetime-java.sql:1.0.3`
+- :dvd: `com.github.nhojpatrick.hamcrest.lang` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.3`
+- :dvd: `com.github.nhojpatrick.hamcrest.optionals` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.3`
 - :dvd: `com.github.nhojpatrick.lang` - `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
 - :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.2`
 - :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.2`
@@ -957,7 +958,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.65`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
@@ -1481,6 +1482,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.5`
+- :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.0`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
@@ -1590,6 +1592,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.meeuw.i18n.openlocationcode` - `org.meeuw.i18n:i18n-regions-openlocationcode:1.0.0`
 - :dvd: `org.meeuw.i18n.regions` - `org.meeuw.i18n:i18n-regions:1.0.0`
 - :dvd: `org.meeuw.i18n.subdivisions` - `org.meeuw.i18n:i18n-regions-subdivisions:1.0.0`
+- :dvd: `org.mycore.oai.pmh` - `org.mycore:oaipmh:2.0`
+- :dvd: `org.mycore.oai.pmh.dataprovider` - `org.mycore:oaipmh-dataprovider:2.0`
+- :dvd: `org.mycore.oai.pmh.dataprovider.impl` - `org.mycore:oaipmh-dataprovider-impl:2.0`
+- :dvd: `org.mycore.oai.pmh.harvester` - `org.mycore:oaipmh-harvester:2.0`
+- :dvd: `org.mycore.oai.pmh.harvester.impl` - `org.mycore:oaipmh-harvester-impl:2.0`
+- :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.0`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` - `org.myire:thrice:3.1`
 - :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:7.3.1`
@@ -1661,7 +1669,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.testfx.internal` - `org.testfx:testfx-internal-java9:4.0.12-alpha`
 - :dvd: `org.threeten.extra` - `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` - `org.transentials:cardhouse-commons:1.1.1`
-- :dvd: `org.update4j` - `org.update4j:update4j:1.4.4`
+- :dvd: `org.update4j` - `org.update4j:update4j:1.4.5`
 - :dvd: `org.xbib.elasticsearch.ant` - `org.xbib.elasticsearch:ant:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.classloader` - `org.xbib.elasticsearch:classloader:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.guava` - `org.xbib.elasticsearch:guava:6.3.2.1`

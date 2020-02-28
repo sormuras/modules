@@ -4466,6 +4466,7 @@
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.4.0` // `net.morimekta.providence,providence-testing-junit4,2.4.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.5.0` // `net.morimekta.providence,providence-testing-junit4,2.5.0,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.6.0` // `net.morimekta.providence,providence-testing-junit4,2.6.0,net.morimekta.providence.testing,-,automatic,-,false,-`
+- :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.6.1` // `net.morimekta.providence,providence-testing-junit4,2.6.1,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` - `net.objectlab.kit:datecalc-jdk-osgi:1.4.1` // `net.objectlab.kit,datecalc-jdk-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` - `net.objectlab.kit:datecalc-joda-osgi:1.4.1` // `net.objectlab.kit,datecalc-joda-osgi,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
 - :cd: `net.objectlab.kit` - `net.objectlab.kit:objectlab-fxcalc:1.4.1` // `net.objectlab.kit,objectlab-fxcalc,1.4.1,net.objectlab.kit,-,automatic,-,false,-`
@@ -4782,6 +4783,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.theartos:artos:0.0.7` // `com.theartos,artos,0.0.7,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.theartos:artos:0.0.8` // `com.theartos,artos,0.0.8,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.theartos:artos:0.0.9` // `com.theartos,artos,0.0.9,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.weicoder.extend:core-extend:3.3.2` // `com.weicoder.extend,core-extend,3.3.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `de.charite.compbio:jannovar-cli:0.32` // `de.charite.compbio,jannovar-cli,0.32,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `de.sfuhrm:logwebconfig-example:0.8.2` // `de.sfuhrm,logwebconfig-example,0.8.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `de.wenzlaff.twbibel:de.wenzlaff.twbibel:0.0.3` // `de.wenzlaff.twbibel,de.wenzlaff.twbibel,0.0.3,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -5538,6 +5540,7 @@
 - :dvd: `org.jboss.logging` - `com.guicedee.services:jboss-logmanager:0.70.0.6` // `com.guicedee.services,jboss-logmanager,0.70.0.6,org.jboss.logging,0.70.0.6,explicit,java.base + java.compiler + java.desktop + java.json + java.logging + java.xml,false,-`
 - :dvd: `org.jboss.logging` - `com.guicedee.services:jboss-logmanager:0.70.0.7` // `com.guicedee.services,jboss-logmanager,0.70.0.7,org.jboss.logging,0.70.0.7,explicit,java.base + java.compiler + java.desktop + java.json + java.logging + java.xml,false,-`
 - :dvd: `org.jboss.logging` - `com.guicedee.services:jboss-logmanager:62` // `com.guicedee.services,jboss-logmanager,62,org.jboss.logging,62,explicit,java.base + java.compiler + java.desktop + java.json + java.logging + java.xml,false,-`
+- :dvd: `org.jfree.fxgraphics2d` :left_right_arrow: `org.jfree:org.jfree.fxgraphics2d:2.0` // `org.jfree,org.jfree.fxgraphics2d,2.0,org.jfree.fxgraphics2d,2.0,explicit,java.base + java.desktop + javafx.base + javafx.graphics + javafx.swing,false,-`
 - :dvd: `org.joda.convert` - `com.expedia.www:haystack-service-graph-node-finder:1.0.10` // `com.expedia.www,haystack-service-graph-node-finder,1.0.10,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `com.expedia.www:haystack-service-graph-node-finder:1.0.12` // `com.expedia.www,haystack-service-graph-node-finder,1.0.12,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `com.expedia.www:haystack-service-graph-node-finder:1.0.13` // `com.expedia.www,haystack-service-graph-node-finder,1.0.13,org.joda.convert,-,explicit,java.base,false,-`
@@ -6160,6 +6163,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.1.2` // `com.netflix.nebula,gradle-lint-plugin,16.1.2,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.1.3` // `com.netflix.nebula,gradle-lint-plugin,16.1.3,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.1.4` // `com.netflix.nebula,gradle-lint-plugin,16.1.4,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.2.0` // `com.netflix.nebula,gradle-lint-plugin,16.2.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -6200,11 +6204,14 @@
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.9` // `com.uber.nullaway,jar-infer-cli,0.7.9,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `org.netbeans.external:asm-tree-7.2:RELEASE113` // `org.netbeans.external,asm-tree-7.2,RELEASE113,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.194` // `fish.payara.extras,payara-embedded-all,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.201` // `fish.payara.extras,payara-embedded-all,5.201,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.194` // `fish.payara.extras,payara-embedded-web,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.201` // `fish.payara.extras,payara-embedded-web,5.201,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.6` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.6,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.100` // `com.rookout,rook,0.1.100,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.101` // `com.rookout,rook,0.1.101,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.102` // `com.rookout,rook,0.1.102,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
