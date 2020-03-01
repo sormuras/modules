@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6101 Java modules published at Maven Central
+Counted 6102 Java modules published at Maven Central
 
-## Summary 2020-02-29T00:45:33.596737Z
+## Summary 2020-03-01T09:10:57.947845Z
 
 ```
 ## Summary
 
-Started scan at 2020-02-29T00:45:33.596737Z
-Scanned 44,434 files in 6 seconds.
+Started scan at 2020-03-01T09:10:57.947845Z
+Scanned 44,577 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_02_29_00_21_52.csv
+    last -> modulescanner-report-2020_03_01_08_49_40.csv
 
-Parsed 2,963,287 lines in total.
-  48,184 -> captions skipped
-  235,055 -> duplicates skipped
-  136,014 -> module related
+Parsed 2,972,171 lines in total.
+  48,327 -> captions skipped
+  236,268 -> duplicates skipped
+  136,315 -> module related
 
-Collected 6,101 unique modules.
+Collected 6,102 unique modules.
   automatic :cd: -> 4,415
-  explicit :dvd: -> 1,686
+  explicit :dvd: -> 1,687
 
 ## Samples
             junit -> junit:junit:4.13
@@ -49,7 +49,8 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
- - `2020_02={automatic=6677, explicit=583, plain=139342}` 	 5.21%
+ - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
+ - `2020_03={automatic=13, explicit=1, plain=1133}` 	 1.24%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -112,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13666](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18838](suspicious/naming.md)
-- Modular impostors: [6889](suspicious/impostors.md)
+- Invalid module names: [13668](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18841](suspicious/naming.md)
+- Modular impostors: [6895](suspicious/impostors.md)
 
-## Unique Modules (6101)
+## Unique Modules (6102)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -870,7 +871,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
-- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.2`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.3`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -917,7 +918,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.30`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.31`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
@@ -1259,7 +1260,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.derby.optionaltools` - `org.apache.derby:derbyoptionaltools:10.15.2.0`
 - :dvd: `org.apache.derby.server` - `org.apache.derby:derbynet:10.15.2.0`
 - :dvd: `org.apache.derby.tools` - `org.apache.derby:derbytools:10.15.2.0`
-- :dvd: `org.apache.logging.log4j` - `org.apache.logging.log4j:log4j-api:2.13.0`
+- :dvd: `org.apache.logging.log4j` - `org.apache.logging.log4j:log4j-api:2.13.1`
 - :dvd: `org.apiguardian.api` - `org.apiguardian:apiguardian-api:1.1.0`
 - :dvd: `org.arakhne.afc.advanced.agentmotion` - `org.arakhne.afc.advanced:agentmotion:17.0`
 - :dvd: `org.arakhne.afc.advanced.attributes` - `org.arakhne.afc.advanced:attributes:17.0`
@@ -1482,6 +1483,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.5`
+- :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
 - :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.0`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
