@@ -296,8 +296,8 @@ public class Modules {
     }
 
     private String toRatio(Map<String, Long> map) {
-      double plain = map.getOrDefault("plain", 1);
-      double modular = map.getOrDefault("automatic", 0) + map.getOrDefault("explicit", 0);
+      double plain = map.getOrDefault("plain", 1L);
+      double modular = map.getOrDefault("automatic", 0L) + map.getOrDefault("explicit", 0L);
       return String.format("%.2f%%", (modular / plain) * 100);
     }
 
