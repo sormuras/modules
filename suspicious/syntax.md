@@ -4021,6 +4021,7 @@
 - :cd: `` - `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta01` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta01,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta02` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta02,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta03` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta03,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j.springframework.data:spring-data-neo4j-rx:1.0.0-beta04` // `org.neo4j.springframework.data,spring-data-neo4j-rx,1.0.0-beta04,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-docs:7.10.0.Final` // `org.optaplanner,optaplanner-docs,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-docs:7.11.0.Final` // `org.optaplanner,optaplanner-docs,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-docs:7.12.0.Final` // `org.optaplanner,optaplanner-docs,7.12.0.Final,-,-,automatic,-,false,-`
@@ -11488,6 +11489,7 @@
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.0` // `com.synopsys.integration,integration-common,20.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.1` // `com.synopsys.integration,integration-common,20.0.1,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.2` // `com.synopsys.integration,integration-common,20.0.2,com.synopsys.integration.integration-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.3` // `com.synopsys.integration,integration-common,20.0.3,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.0` // `com.blackducksoftware.integration,integration-reporting,0.3.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.1` // `com.blackducksoftware.integration,integration-reporting,0.3.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.2` // `com.blackducksoftware.integration,integration-reporting,0.3.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`

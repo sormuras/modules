@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6103 Java modules published at Maven Central
 
-## Summary 2020-03-02T00:46:09.575174Z
+## Summary 2020-03-03T00:46:24.178669Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-02T00:46:09.575174Z
-Scanned 44,649 files in 5 seconds.
+Started scan at 2020-03-03T00:46:24.178669Z
+Scanned 44,743 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_02_00_33_28.csv
+    last -> modulescanner-report-2020_03_03_00_20_40.csv
 
-Parsed 2,974,052 lines in total.
-  48,399 -> captions skipped
-  236,396 -> duplicates skipped
-  136,365 -> module related
+Parsed 2,982,701 lines in total.
+  48,493 -> captions skipped
+  238,221 -> duplicates skipped
+  136,684 -> module related
 
 Collected 6,103 unique modules.
   automatic :cd: -> 4,415
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=32, explicit=6, plain=2764}` 	 1.37%
+ - `2020_03={automatic=327, explicit=8, plain=9175}` 	 3.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,9 +113,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [13668](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18867](suspicious/naming.md)
-- Modular impostors: [6895](suspicious/impostors.md)
+- Invalid module names: [13670](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [18880](suspicious/naming.md)
+- Modular impostors: [6902](suspicious/impostors.md)
 
 ## Unique Modules (6103)
 
@@ -189,7 +189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.3`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
-- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.8`
+- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.9`
 - :dvd: `be.yildizgames.module.physics` - `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` - `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` - `be.yildiz-games:module-scripting:2.0.5`
@@ -1468,7 +1468,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.23`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.24`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
