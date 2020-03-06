@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6122 Java modules published at Maven Central
 
-## Summary 2020-03-05T07:52:25.373408Z
+## Summary 2020-03-06T00:47:12.376484Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-05T07:52:25.373408Z
-Scanned 44,959 files in 5 seconds.
+Started scan at 2020-03-06T00:47:12.376484Z
+Scanned 45,023 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_05_07_27_52.csv
+    last -> modulescanner-report-2020_03_06_00_31_00.csv
 
-Parsed 3,005,099 lines in total.
-  48,709 -> captions skipped
-  241,217 -> duplicates skipped
-  137,817 -> module related
+Parsed 3,013,959 lines in total.
+  48,770 -> captions skipped
+  241,729 -> duplicates skipped
+  138,184 -> module related
 
 Collected 6,122 unique modules.
   automatic :cd: -> 4,432
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=905, explicit=48, plain=27228}` 	 3.50%
+ - `2020_03={automatic=1169, explicit=51, plain=35148}` 	 3.47%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,9 +113,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14041](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19001](suspicious/naming.md)
-- Modular impostors: [6925](suspicious/impostors.md)
+- Invalid module names: [14048](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19088](suspicious/naming.md)
+- Modular impostors: [6931](suspicious/impostors.md)
 
 ## Unique Modules (6122)
 
@@ -961,7 +961,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.1`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.65`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
@@ -1654,8 +1654,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
-- :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.3.3`
-- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.2.3`
+- :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.0`
+- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.0`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
 - :dvd: `org.tentackle.database` - `org.tentackle:tentackle-database:11.6.0.0`

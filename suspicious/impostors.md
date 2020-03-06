@@ -2889,6 +2889,7 @@
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.3.3` // `io.micronaut.configuration,micronaut-openapi,1.3.3,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.3.4` // `io.micronaut.configuration,micronaut-openapi,1.3.4,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.0` // `io.micronaut.configuration,micronaut-openapi,1.4.0,io.micronaut.configuration.openapi,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.1` // `io.micronaut.configuration,micronaut-openapi,1.4.1,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0` // `io.micronaut.configuration,micronaut-picocli,1.0.0,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0.RC3` // `io.micronaut.configuration,micronaut-picocli,1.0.0.RC3,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.1` // `io.micronaut.configuration,micronaut-picocli,1.0.1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
@@ -4215,6 +4216,9 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.3.3-beta.4` // `com.undefinedlabs.scope,scope-agent,0.3.3-beta.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.4.0` // `com.undefinedlabs.scope,scope-agent,0.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.5.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.5.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.5.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.5.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.5.0-beta.3` // `com.undefinedlabs.scope,scope-agent,0.5.0-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.5.0-beta.4` // `com.undefinedlabs.scope,scope-agent,0.5.0-beta.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.6` // `com.yahoo.elide,elide-blog-example,4.5.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.7` // `com.yahoo.elide,elide-blog-example,4.5.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.8` // `com.yahoo.elide,elide-blog-example,4.5.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4761,6 +4765,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.0.1` // `com.github.vzakharchenko,radius-plugin,1.0.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.0.2` // `com.github.vzakharchenko,radius-plugin,1.0.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.1.0` // `com.github.vzakharchenko,radius-plugin,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.0` // `com.github.vzakharchenko,radius-plugin,1.2.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5024,6 +5029,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.184.8` // `com.yahoo.vespa,vespa-hadoop,7.184.8,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.185.19` // `com.yahoo.vespa,vespa-hadoop,7.185.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.186.20` // `com.yahoo.vespa,vespa-hadoop,7.186.20,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.187.1` // `com.yahoo.vespa,vespa-hadoop,7.187.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
