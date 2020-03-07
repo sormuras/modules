@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6122 Java modules published at Maven Central
 
-## Summary 2020-03-06T00:47:12.376484Z
+## Summary 2020-03-07T00:47:59.020851Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-06T00:47:12.376484Z
-Scanned 45,023 files in 6 seconds.
+Started scan at 2020-03-07T00:47:59.020851Z
+Scanned 45,117 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_06_00_31_00.csv
+    last -> modulescanner-report-2020_03_07_00_38_38.csv
 
-Parsed 3,013,959 lines in total.
-  48,770 -> captions skipped
-  241,729 -> duplicates skipped
-  138,184 -> module related
+Parsed 3,024,546 lines in total.
+  48,864 -> captions skipped
+  242,823 -> duplicates skipped
+  138,576 -> module related
 
 Collected 6,122 unique modules.
   automatic :cd: -> 4,432
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=1169, explicit=51, plain=35148}` 	 3.47%
+ - `2020_03={automatic=1408, explicit=51, plain=44155}` 	 3.30%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,9 +113,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14048](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19088](suspicious/naming.md)
-- Modular impostors: [6931](suspicious/impostors.md)
+- Invalid module names: [14050](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19229](suspicious/naming.md)
+- Modular impostors: [6941](suspicious/impostors.md)
 
 ## Unique Modules (6122)
 
