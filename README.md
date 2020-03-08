@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6122 Java modules published at Maven Central
 
-## Summary 2020-03-07T00:47:59.020851Z
+## Summary 2020-03-08T00:48:37.082666Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-07T00:47:59.020851Z
-Scanned 45,117 files in 5 seconds.
+Started scan at 2020-03-08T00:48:37.082666Z
+Scanned 45,216 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_07_00_38_38.csv
+    last -> modulescanner-report-2020_03_08_00_36_58.csv
 
-Parsed 3,024,546 lines in total.
-  48,864 -> captions skipped
-  242,823 -> duplicates skipped
-  138,576 -> module related
+Parsed 3,028,896 lines in total.
+  48,963 -> captions skipped
+  243,534 -> duplicates skipped
+  138,653 -> module related
 
 Collected 6,122 unique modules.
   automatic :cd: -> 4,432
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=1408, explicit=51, plain=44155}` 	 3.30%
+ - `2020_03={automatic=1450, explicit=57, plain=47618}` 	 3.16%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,8 +114,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [14050](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19229](suspicious/naming.md)
-- Modular impostors: [6941](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19251](suspicious/naming.md)
+- Modular impostors: [6948](suspicious/impostors.md)
 
 ## Unique Modules (6122)
 
@@ -298,13 +298,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.7`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.7`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.2`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.3.0-beta.1`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.3.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.1`
-- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.0-beta.1`
+- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.0`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.1.0`
-- :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.2`
+- :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.3`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.0.1`
-- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.4.0-beta.1`
+- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.4.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
@@ -920,7 +920,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.2`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.31`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.2`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.3`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
@@ -1141,7 +1141,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
 - :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.1.0`
-- :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-rc1`
+- :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC2`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
 - :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-rc1`

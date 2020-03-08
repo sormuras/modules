@@ -2184,6 +2184,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.2` // `com.vladmihalcea,hibernate-types-43,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.5` // `com.vladmihalcea,hibernate-types-43,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2205,6 +2206,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.2` // `com.vladmihalcea,hibernate-types-5,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.5` // `com.vladmihalcea,hibernate-types-5,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2226,6 +2228,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.2` // `com.vladmihalcea,hibernate-types-52,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.5` // `com.vladmihalcea,hibernate-types-52,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
@@ -3914,6 +3917,7 @@
 - :dvd: `jakarta.activation` :left_right_arrow: `com.jwebmp.thirdparty:jakarta.activation:0.67.0.15` // `com.jwebmp.thirdparty,jakarta.activation,0.67.0.15,jakarta.activation,0.67.0.15,explicit,java.base + java.datatransfer + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.jwebmp.thirdparty:jakarta.activation:0.67.0.16` // `com.jwebmp.thirdparty,jakarta.activation,0.67.0.16,jakarta.activation,0.67.0.16,explicit,java.base + java.datatransfer + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.jwebmp.thirdparty:jakarta.activation:0.68.0.1` // `com.jwebmp.thirdparty,jakarta.activation,0.68.0.1,jakarta.activation,0.68.0.1,explicit,java.base + java.datatransfer + java.desktop + java.logging,false,-`
+- :dvd: `jakarta.activation` :left_right_arrow: `com.sun.activation:jakarta.activation:2.0.0-RC2` // `com.sun.activation,jakarta.activation,2.0.0-RC2,jakarta.activation,-,explicit,java.base + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.sun.activation:jakarta.activation:2.0.0-rc1` // `com.sun.activation,jakarta.activation,2.0.0-rc1,jakarta.activation,-,explicit,java.base + java.desktop + java.logging,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
@@ -5071,6 +5075,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.3` // `com.linecorp.armeria,armeria,0.98.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.4` // `com.linecorp.armeria,armeria,0.98.4,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.apache.directory.server:apacheds-service:2.0.0.AM26` // `org.apache.directory.server,apacheds-service,2.0.0.AM26,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -6016,6 +6021,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.1.2` // `com.github.collinalpert,java2db,5.1.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.2` // `com.github.collinalpert,java2db,5.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.2.1` // `com.github.collinalpert,java2db,5.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.3.0` // `com.github.collinalpert,java2db,5.3.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -6670,6 +6676,7 @@
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.6` // `io.github.jdiscordbots,nightdream-logging,1.1.6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.7` // `io.github.jdiscordbots,nightdream-logging,1.1.7,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.8` // `io.github.jdiscordbots,nightdream-logging,1.1.8,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.9` // `io.github.jdiscordbots,nightdream-logging,1.1.9,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit4:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit4,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit5:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit5,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-spock:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-spock,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
