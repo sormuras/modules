@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6122 Java modules published at Maven Central
+Counted 6129 Java modules published at Maven Central
 
-## Summary 2020-03-08T00:48:37.082666Z
+## Summary 2020-03-09T00:49:30.148973Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-08T00:48:37.082666Z
-Scanned 45,216 files in 6 seconds.
+Started scan at 2020-03-09T00:49:30.148973Z
+Scanned 45,317 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_08_00_36_58.csv
+    last -> modulescanner-report-2020_03_09_00_36_13.csv
 
-Parsed 3,028,896 lines in total.
-  48,963 -> captions skipped
-  243,534 -> duplicates skipped
-  138,653 -> module related
+Parsed 3,032,999 lines in total.
+  49,064 -> captions skipped
+  244,495 -> duplicates skipped
+  138,841 -> module related
 
-Collected 6,122 unique modules.
-  automatic :cd: -> 4,432
-  explicit :dvd: -> 1,690
+Collected 6,129 unique modules.
+  automatic :cd: -> 4,435
+  explicit :dvd: -> 1,694
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=1450, explicit=57, plain=47618}` 	 3.16%
+ - `2020_03={automatic=1545, explicit=116, plain=50471}` 	 3.29%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14050](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19251](suspicious/naming.md)
-- Modular impostors: [6948](suspicious/impostors.md)
+- Invalid module names: [14075](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19258](suspicious/naming.md)
+- Modular impostors: [6950](suspicious/impostors.md)
 
-## Unique Modules (6122)
+## Unique Modules (6129)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -239,64 +239,66 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` - `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `codes.rafael.interceptablehttpclient` - `codes.rafael.interceptablehttpclient:interceptable-http-client:1.0`
 - :dvd: `colesico.framework.appbundle` - `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.1.1`
-- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.1.1`
-- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:3.1.1`
-- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:3.1.1`
-- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:3.1.1`
-- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:3.1.1`
-- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:3.1.1`
+- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.1.2`
+- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.1.2`
+- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:3.1.2`
+- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:3.1.2`
+- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:3.1.2`
+- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:3.1.2`
+- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:3.1.2`
 - :dvd: `colesico.framework.dao` - `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:3.1.1`
-- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:3.1.1`
-- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:3.1.1`
-- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:3.1.1`
-- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:3.1.1`
-- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:3.1.1`
-- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:3.1.1`
-- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:3.1.1`
-- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:3.1.1`
-- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:3.1.1`
-- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:3.1.1`
-- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:3.1.1`
-- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:3.1.1`
-- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:3.1.1`
-- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:3.1.1`
-- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:3.1.1`
-- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:3.1.1`
-- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:3.1.1`
-- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:3.1.1`
-- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:3.1.1`
-- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:3.1.1`
-- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:3.1.1`
-- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.1.1`
-- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.1.1`
-- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.1.1`
+- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:3.1.2`
+- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:3.1.2`
+- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:3.1.2`
+- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:3.1.2`
+- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:3.1.2`
+- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:3.1.2`
+- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:3.1.2`
+- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:3.1.2`
+- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:3.1.2`
+- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:3.1.2`
+- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:3.1.2`
+- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:3.1.2`
+- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:3.1.2`
+- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:3.1.2`
+- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:3.1.2`
+- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:3.1.2`
+- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:3.1.2`
+- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:3.1.2`
+- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:3.1.2`
+- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:3.1.2`
+- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:3.1.2`
+- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:3.1.2`
+- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.1.2`
+- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.1.2`
+- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.1.2`
 - :dvd: `com.acgist.snail` - `com.acgist:snail:1.3.0`
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` - `com.aitusoftware:transport:0.4.0`
-- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.7`
-- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.7`
-- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.7`
-- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.7`
-- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.7`
-- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.7`
-- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.7`
-- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.7`
-- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.7`
-- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.7`
-- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.7`
-- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.7`
-- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.7`
-- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.7`
-- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.7`
-- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.7`
-- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.7`
-- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.7`
-- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.7`
-- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.7`
-- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.7`
+- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.8`
+- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.8`
+- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.8`
+- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.8`
+- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.8`
+- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.8`
+- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.8`
+- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.8`
+- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.8`
+- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.8`
+- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.8`
+- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.8`
+- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.8`
+- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.8`
+- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.8`
+- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.8`
+- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.8`
+- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.8`
+- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.8`
+- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.8`
+- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.8`
+- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
+- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.2`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.3.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.1`
@@ -886,6 +888,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.zeroc.icelocatordiscovery` - `com.zeroc:icelocatordiscovery:3.7.3`
 - :dvd: `com.zeroc.icepatch2` - `com.zeroc:icepatch2:3.7.3`
 - :dvd: `com.zeroc.icessl` - `com.zeroc:icessl:3.7.3`
+- :dvd: `de.dandit.cartogram.core` - `de.dandit:cartogram-core:0.1.0`
+- :dvd: `de.dandit.cartogram.geo` - `de.dandit:cartogram-geo:0.1.0`
 - :dvd: `de.japrost.jabudget.domain` - `de.japrost.jabudget:jabudget-domain:0.0.3`
 - :dvd: `de.japrost.jabudget.repository` - `de.japrost.jabudget:jabudget-repository:0.0.3`
 - :dvd: `de.japrost.jabudget.serialization` - `de.japrost.jabudget:jabudget-serialization:0.0.3`
@@ -1140,7 +1144,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.1.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.2.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC2`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
@@ -1189,7 +1193,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.1`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.2`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.0`
