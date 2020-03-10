@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6129 Java modules published at Maven Central
+Counted 6131 Java modules published at Maven Central
 
-## Summary 2020-03-09T00:49:30.148973Z
+## Summary 2020-03-10T00:49:51.389252Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-09T00:49:30.148973Z
-Scanned 45,317 files in 5 seconds.
+Started scan at 2020-03-10T00:49:51.389252Z
+Scanned 45,404 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_09_00_36_13.csv
+    last -> modulescanner-report-2020_03_10_00_22_24.csv
 
-Parsed 3,032,999 lines in total.
-  49,064 -> captions skipped
-  244,495 -> duplicates skipped
-  138,841 -> module related
+Parsed 3,042,605 lines in total.
+  49,151 -> captions skipped
+  245,579 -> duplicates skipped
+  139,885 -> module related
 
-Collected 6,129 unique modules.
-  automatic :cd: -> 4,435
+Collected 6,131 unique modules.
+  automatic :cd: -> 4,437
   explicit :dvd: -> 1,694
 
 ## Samples
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=1545, explicit=116, plain=50471}` 	 3.29%
+ - `2020_03={automatic=2067, explicit=122, plain=57862}` 	 3.78%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14075](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19258](suspicious/naming.md)
-- Modular impostors: [6950](suspicious/impostors.md)
+- Invalid module names: [14373](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19464](suspicious/naming.md)
+- Modular impostors: [6962](suspicious/impostors.md)
 
-## Unique Modules (6129)
+## Unique Modules (6131)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -706,9 +706,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jwebmp.plugins.xeditable` - `com.jwebmp:jwebmp-xeditable:0.66.0.1`
 - :dvd: `com.jwebmp.undertow` - `com.jwebmp:jwebmp-undertow:0.66.0.1`
 - :dvd: `com.jwebmp.websockets` - `com.jwebmp:jwebmp-websockets:0.66.0.1`
-- :dvd: `com.kohlschutter.junixsocket.core` - `com.kohlschutter.junixsocket:junixsocket-core:2.3.1`
-- :dvd: `com.kohlschutter.junixsocket.nativecommon` - `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.1`
-- :dvd: `com.kohlschutter.junixsocket.nativecustom` - `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.1`
+- :dvd: `com.kohlschutter.junixsocket.core` - `com.kohlschutter.junixsocket:junixsocket-core:2.3.2`
+- :dvd: `com.kohlschutter.junixsocket.nativecommon` - `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.2`
+- :dvd: `com.kohlschutter.junixsocket.nativecustom` - `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.2`
 - :dvd: `com.moilioncircle.redis.replicator` - `com.moilioncircle:redis-replicator:3.4.0`
 - :dvd: `com.moilioncircle.redis.sink.api` - `com.moilioncircle:redis-sink-api:1.2.1`
 - :dvd: `com.ncredinburgh.incontrol` - `com.ncredinburgh:in-control:1.1`
@@ -1068,7 +1068,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.accesslog` - `io.helidon.microprofile:helidon-microprofile-access-log:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.cdi` - `io.helidon.microprofile.cdi:helidon-microprofile-cdi:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.config` - `io.helidon.microprofile.config:helidon-microprofile-config:2.0.0-M1`
-- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.2`
+- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.3`
 - :dvd: `io.helidon.microprofile.faulttolerance` - `io.helidon.microprofile:helidon-microprofile-fault-tolerance:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.grpc.client` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-client:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.grpc.core` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-core:2.0.0-M1`
@@ -1076,7 +1076,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.grpc.server` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-server:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.health` - `io.helidon.microprofile.health:helidon-microprofile-health:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.jwt.auth` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:2.0.0-M1`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.2`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.3`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.oidc` - `io.helidon.microprofile:helidon-microprofile-oidc:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.openapi` - `io.helidon.microprofile.openapi:helidon-microprofile-openapi:2.0.0-M1`
@@ -1196,7 +1196,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.2`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
-- :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.0`
+- :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.1`
 - :dvd: `net.sourceforge.urin` - `net.sourceforge.urin:urin:3.8`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
 - :dvd: `net.tascalate.asmx.commons` :left_right_arrow: `net.tascalate:net.tascalate.asmx.commons:7.1.0`
