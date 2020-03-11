@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6131 Java modules published at Maven Central
+Counted 6155 Java modules published at Maven Central
 
-## Summary 2020-03-10T00:49:51.389252Z
+## Summary 2020-03-11T00:49:52.510263Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-10T00:49:51.389252Z
-Scanned 45,404 files in 5 seconds.
+Started scan at 2020-03-11T00:49:52.510263Z
+Scanned 45,498 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_10_00_22_24.csv
+    last -> modulescanner-report-2020_03_11_00_31_09.csv
 
-Parsed 3,042,605 lines in total.
-  49,151 -> captions skipped
-  245,579 -> duplicates skipped
-  139,885 -> module related
+Parsed 3,053,498 lines in total.
+  49,245 -> captions skipped
+  246,706 -> duplicates skipped
+  140,331 -> module related
 
-Collected 6,131 unique modules.
-  automatic :cd: -> 4,437
-  explicit :dvd: -> 1,694
+Collected 6,155 unique modules.
+  automatic :cd: -> 4,460
+  explicit :dvd: -> 1,695
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=2067, explicit=122, plain=57862}` 	 3.78%
+ - `2020_03={automatic=2412, explicit=129, plain=67088}` 	 3.79%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14373](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19464](suspicious/naming.md)
-- Modular impostors: [6962](suspicious/impostors.md)
+- Invalid module names: [14427](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19473](suspicious/naming.md)
+- Modular impostors: [6993](suspicious/impostors.md)
 
-## Unique Modules (6131)
+## Unique Modules (6155)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -189,7 +189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.3`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
-- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.9`
+- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.10`
 - :dvd: `be.yildizgames.module.physics` - `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` - `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` - `be.yildiz-games:module-scripting:2.0.5`
@@ -299,7 +299,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.8`
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.2`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.3`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.3.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.1`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.0`
@@ -310,6 +310,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
+- :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.4.0`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0-beta.1`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.4.0`
@@ -922,8 +923,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
-- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.2`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.31`
+- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.3`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
@@ -1214,7 +1215,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.tascalate.javaflow.tools.javaagent` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.javaagent:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.runtime` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.runtime:2.6.1`
 - :dvd: `nl.talsmasoftware.lazy4j` - `nl.talsmasoftware:lazy4j:1.0.1`
-- :dvd: `nl.talsmasoftware.reflection` - `nl.talsmasoftware:reflection:1.0.1`
+- :dvd: `nl.talsmasoftware.reflection` - `nl.talsmasoftware:reflection:1.0.2`
 - :dvd: `nl.ulso.sprox` - `nl.ulso.sprox:sprox:4.0.0`
 - :dvd: `no.ssb.concurrent.futureselector` - `no.ssb.concurrent.futureselector:future-selector:0.2`
 - :dvd: `no.ssb.lds.core` - `no.ssb.lds:linked-data-store-core:0.16`
@@ -1806,7 +1807,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
 - :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.1`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
-- :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.0`
+- :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
 - :dvd: `xyz.cofe.text` - `xyz.cofe:text:1.0`
 - :dvd: `xyz.cofe.text.lex` - `xyz.cofe:text-lex:1.0`
