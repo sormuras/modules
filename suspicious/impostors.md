@@ -190,6 +190,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.14` // `com.heroku.sdk,heroku-deploy-complete,2.0.14,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.15` // `com.heroku.sdk,heroku-deploy-complete,2.0.15,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.16` // `com.heroku.sdk,heroku-deploy-complete,2.0.16,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-standalone:3.0.1` // `com.heroku.sdk,heroku-deploy-standalone,3.0.1,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jackson.core:jackson-core:0.63.0.54` // `com.jwebmp.jackson.core,jackson-core,0.63.0.54,com.fasterxml.jackson.core,0.63.0.54,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jackson.core:jackson-core:0.63.0.60` // `com.jwebmp.jackson.core,jackson-core,0.63.0.60,com.fasterxml.jackson.core,0.63.0.60,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jackson.core:jackson-core:0.63.0.61` // `com.jwebmp.jackson.core,jackson-core,0.63.0.61,com.fasterxml.jackson.core,0.63.0.61,explicit,java.base,false,-`
@@ -3961,6 +3962,7 @@
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.2` // `com.scalar-labs,scalardl-java-client-sdk,2.0.2,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.3` // `com.scalar-labs,scalardl-java-client-sdk,2.0.3,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.4` // `com.scalar-labs,scalardl-java-client-sdk,2.0.4,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `com.scalar-labs:scalardl-java-client-sdk:2.0.5` // `com.scalar-labs,scalardl-java-client-sdk,2.0.5,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `jakarta.json:jakarta.json-api:1.1.5` // `jakarta.json,jakarta.json-api,1.1.5,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `jakarta.json:jakarta.json-api:1.1.6` // `jakarta.json,jakarta.json-api,1.1.6,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.102.0` // `org.finra.herd,herd-access-validator,0.102.0,java.json,-,explicit,java.base,false,-`
@@ -4120,6 +4122,7 @@
 - :dvd: `net.bytebuddy` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.2.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.30.0` // `com.heroku,webapp-runner,9.0.30.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.31.0` // `com.heroku,webapp-runner,9.0.31.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.nordstrom.ui-tools:local-grid-utility:1.3.3` // `com.nordstrom.ui-tools,local-grid-utility,1.3.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:1.95` // `com.proofpoint.platform,jaxrs,1.95,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:1.96` // `com.proofpoint.platform,jaxrs,1.96,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:1.97` // `com.proofpoint.platform,jaxrs,1.97,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4834,6 +4837,8 @@
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.9` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.9,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.0` // `com.sagframe,sqltoy-quickvo,4.10.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.13` // `com.sagframe,sqltoy-quickvo,4.9.13,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.9` // `com.sagframe,sqltoy-quickvo,4.9.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.snowflake:snowflake-kafka-connector:1.1.0` // `com.snowflake,snowflake-kafka-connector,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.spotify.ffwd:ffwd-agent:0.4.1` // `com.spotify.ffwd,ffwd-agent,0.4.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5096,6 +5101,7 @@
 - :dvd: `org.bouncycastle.provider` - `cn.leancloud:filter-service-core:1.13` // `cn.leancloud,filter-service-core,1.13,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `cn.leancloud:filter-service-core:1.9` // `cn.leancloud,filter-service-core,1.9,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.0.2` // `com.alipay.sdk,alipay-easysdk,1.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.0` // `com.alipay.sdk,alipay-easysdk,1.1.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.1` // `com.joinesty,nullafi-java-sdk,1.0.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.3` // `com.joinesty,nullafi-java-sdk,1.0.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.92.0` // `com.linecorp.armeria,armeria,0.92.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -5110,6 +5116,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.3` // `com.linecorp.armeria,armeria,0.98.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.4` // `com.linecorp.armeria,armeria,0.98.4,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.2` // `net.snowflake,snowflake-jdbc,3.12.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.apache.directory.server:apacheds-service:2.0.0.AM26` // `org.apache.directory.server,apacheds-service,2.0.0.AM26,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -6031,6 +6038,7 @@
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.2` // `com.bmuschko,gradle-docker-plugin,6.1.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.3` // `com.bmuschko,gradle-docker-plugin,6.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.1.4` // `com.bmuschko,gradle-docker-plugin,6.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.2.0` // `com.bmuschko,gradle-docker-plugin,6.2.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:expressions:2.5` // `com.github.collinalpert,expressions,2.5,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.2` // `com.github.collinalpert,jaque,2.4.2,org.objectweb.asm,7.0.0,explicit,java.base,false,-`

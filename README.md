@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6155 Java modules published at Maven Central
+Counted 6157 Java modules published at Maven Central
 
-## Summary 2020-03-11T00:49:52.510263Z
+## Summary 2020-03-12T00:50:17.130884Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-11T00:49:52.510263Z
-Scanned 45,498 files in 6 seconds.
+Started scan at 2020-03-12T00:50:17.130884Z
+Scanned 45,591 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_11_00_31_09.csv
+    last -> modulescanner-report-2020_03_12_00_34_26.csv
 
-Parsed 3,053,498 lines in total.
-  49,245 -> captions skipped
-  246,706 -> duplicates skipped
-  140,331 -> module related
+Parsed 3,063,107 lines in total.
+  49,338 -> captions skipped
+  248,536 -> duplicates skipped
+  140,736 -> module related
 
-Collected 6,155 unique modules.
-  automatic :cd: -> 4,460
-  explicit :dvd: -> 1,695
+Collected 6,157 unique modules.
+  automatic :cd: -> 4,461
+  explicit :dvd: -> 1,696
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=2412, explicit=129, plain=67088}` 	 3.79%
+ - `2020_03={automatic=2732, explicit=140, plain=74369}` 	 3.86%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14427](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19473](suspicious/naming.md)
-- Modular impostors: [6993](suspicious/impostors.md)
+- Invalid module names: [14456](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19510](suspicious/naming.md)
+- Modular impostors: [7001](suspicious/impostors.md)
 
-## Unique Modules (6155)
+## Unique Modules (6157)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -131,7 +131,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.client` - `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` - `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` - `be.yildiz-games:common-configuration:1.3.3`
-- :dvd: `be.yildizgames.common.csv` - `be.yildiz-games:common-csv:1.0.1`
+- :dvd: `be.yildizgames.common.csv` - `be.yildiz-games:common-csv:1.0.2`
 - :dvd: `be.yildizgames.common.exception` - `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` - `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` - `be.yildiz-games:common-file-xml:2.0.3`
@@ -184,9 +184,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.1`
-- :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.6`
+- :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.7`
 - :dvd: `be.yildizgames.module.graphic` - `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.3`
+- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.4`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
 - :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.10`
@@ -305,7 +305,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.0`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.1.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.3`
-- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.0.1`
+- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.0`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.4.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
@@ -454,7 +454,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+2`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.11`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.14`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.15`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -889,8 +889,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.zeroc.icelocatordiscovery` - `com.zeroc:icelocatordiscovery:3.7.3`
 - :dvd: `com.zeroc.icepatch2` - `com.zeroc:icepatch2:3.7.3`
 - :dvd: `com.zeroc.icessl` - `com.zeroc:icessl:3.7.3`
-- :dvd: `de.dandit.cartogram.core` - `de.dandit:cartogram-core:0.1.0`
-- :dvd: `de.dandit.cartogram.geo` - `de.dandit:cartogram-geo:0.1.0`
+- :dvd: `de.dandit.cartogram.core` - `de.dandit:cartogram-core:0.2.0`
+- :dvd: `de.dandit.cartogram.geo` - `de.dandit:cartogram-geo:0.2.0`
 - :dvd: `de.japrost.jabudget.domain` - `de.japrost.jabudget:jabudget-domain:0.0.3`
 - :dvd: `de.japrost.jabudget.repository` - `de.japrost.jabudget:jabudget-repository:0.0.3`
 - :dvd: `de.japrost.jabudget.serialization` - `de.japrost.jabudget:jabudget-serialization:0.0.3`
@@ -1145,7 +1145,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.2.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.2.1`
+- :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC2`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
@@ -1475,7 +1476,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.24`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.25`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
@@ -1660,7 +1661,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.0`
-- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.0`
+- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.1`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
 - :dvd: `org.tentackle.database` - `org.tentackle:tentackle-database:11.6.0.0`
