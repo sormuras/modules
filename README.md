@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6157 Java modules published at Maven Central
+Counted 6158 Java modules published at Maven Central
 
-## Summary 2020-03-12T00:50:17.130884Z
+## Summary 2020-03-13T00:50:19.435231Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-12T00:50:17.130884Z
-Scanned 45,591 files in 5 seconds.
+Started scan at 2020-03-13T00:50:19.435231Z
+Scanned 45,680 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_12_00_34_26.csv
+    last -> modulescanner-report-2020_03_13_00_41_03.csv
 
-Parsed 3,063,107 lines in total.
-  49,338 -> captions skipped
-  248,536 -> duplicates skipped
-  140,736 -> module related
+Parsed 3,074,264 lines in total.
+  49,424 -> captions skipped
+  250,073 -> duplicates skipped
+  141,145 -> module related
 
-Collected 6,157 unique modules.
+Collected 6,158 unique modules.
   automatic :cd: -> 4,461
-  explicit :dvd: -> 1,696
+  explicit :dvd: -> 1,697
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=2732, explicit=140, plain=74369}` 	 3.86%
+ - `2020_03={automatic=3022, explicit=174, plain=83494}` 	 3.83%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14456](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19510](suspicious/naming.md)
-- Modular impostors: [7001](suspicious/impostors.md)
+- Invalid module names: [14479](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19556](suspicious/naming.md)
+- Modular impostors: [7017](suspicious/impostors.md)
 
-## Unique Modules (6157)
+## Unique Modules (6158)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -196,39 +196,39 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.4`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.0`
+- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.0.2`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` - `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` - `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.9.2`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.9.2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.9.2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.9.2`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.9.2`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.10.0`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.10.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.10.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.10.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.10.0`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB` - `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.9.2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.9.2`
-- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.9.2`
-- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.9.2`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.9.2`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.9.2`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.9.2`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.9.2`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.9.2`
-- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.9.2`
-- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.9.2`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.10.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.10.0`
+- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.10.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.10.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.10.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.10.0`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.10.0`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.10.0`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.10.0`
+- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.10.0`
+- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.10.0`
 - :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.14.3`
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -307,16 +307,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.3`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.0`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.4.0`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.1`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.2`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.4.0`
-- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0-beta.1`
-- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.4.0`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.4.0`
-- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.2.0`
-- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.3.0`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.5.0`
+- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0`
+- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.5.0`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.5.0`
+- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.0.1`
+- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.3.0`
+- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.4.0`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.4.1`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.4.1`
 - :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.4.1`
@@ -966,7 +967,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.4.2`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.5.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.65`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
@@ -1476,7 +1477,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.25`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.26`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
