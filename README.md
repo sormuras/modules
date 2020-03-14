@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6158 Java modules published at Maven Central
+Counted 6159 Java modules published at Maven Central
 
-## Summary 2020-03-13T00:50:19.435231Z
+## Summary 2020-03-14T00:51:27.706299Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-13T00:50:19.435231Z
-Scanned 45,680 files in 7 seconds.
+Started scan at 2020-03-14T00:51:27.706299Z
+Scanned 45,764 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_13_00_41_03.csv
+    last -> modulescanner-report-2020_03_14_00_40_17.csv
 
-Parsed 3,074,264 lines in total.
-  49,424 -> captions skipped
-  250,073 -> duplicates skipped
-  141,145 -> module related
+Parsed 3,084,935 lines in total.
+  49,508 -> captions skipped
+  252,599 -> duplicates skipped
+  141,608 -> module related
 
-Collected 6,158 unique modules.
+Collected 6,159 unique modules.
   automatic :cd: -> 4,461
-  explicit :dvd: -> 1,697
+  explicit :dvd: -> 1,698
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3022, explicit=174, plain=83494}` 	 3.83%
+ - `2020_03={automatic=3317, explicit=177, plain=91092}` 	 3.84%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14479](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19556](suspicious/naming.md)
-- Modular impostors: [7017](suspicious/impostors.md)
+- Invalid module names: [14523](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19631](suspicious/naming.md)
+- Modular impostors: [7063](suspicious/impostors.md)
 
-## Unique Modules (6158)
+## Unique Modules (6159)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -179,7 +179,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.audio` - `be.yildiz-games:module-audio:2.0.7`
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
 - :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.0`
-- :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.6`
+- :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.7`
 - :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.1`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.2`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
@@ -311,6 +311,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
+- :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.1`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.5.0`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.5.0`
@@ -926,7 +927,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.3`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.4`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
