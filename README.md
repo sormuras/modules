@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6159 Java modules published at Maven Central
+Counted 6161 Java modules published at Maven Central
 
-## Summary 2020-03-14T00:51:27.706299Z
+## Summary 2020-03-15T00:51:27.301230Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-14T00:51:27.706299Z
-Scanned 45,764 files in 6 seconds.
+Started scan at 2020-03-15T00:51:27.301230Z
+Scanned 45,862 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_14_00_40_17.csv
+    last -> modulescanner-report-2020_03_15_00_38_52.csv
 
-Parsed 3,084,935 lines in total.
-  49,508 -> captions skipped
-  252,599 -> duplicates skipped
-  141,608 -> module related
+Parsed 3,088,953 lines in total.
+  49,606 -> captions skipped
+  253,618 -> duplicates skipped
+  141,685 -> module related
 
-Collected 6,159 unique modules.
+Collected 6,161 unique modules.
   automatic :cd: -> 4,461
-  explicit :dvd: -> 1,698
+  explicit :dvd: -> 1,700
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3317, explicit=177, plain=91092}` 	 3.84%
+ - `2020_03={automatic=3328, explicit=183, plain=93916}` 	 3.74%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14523](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19631](suspicious/naming.md)
-- Modular impostors: [7063](suspicious/impostors.md)
+- Invalid module names: [14571](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19636](suspicious/naming.md)
+- Modular impostors: [7070](suspicious/impostors.md)
 
-## Unique Modules (6159)
+## Unique Modules (6161)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -424,10 +424,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.marschall.rdrand` - `com.github.marschall:rdrand-provider:0.1.0`
 - :dvd: `com.github.marschall.stored.procedure.proxy` - `com.github.marschall:stored-procedure-proxy:0.11.0`
 - :dvd: `com.github.marschall.stringdedupparser` - `com.github.marschall:string-dedup-parser:0.3.0`
-- :dvd: `com.github.moaxcp.graphs.core` - `com.github.moaxcp.graphs:graphs-core:0.9.0`
-- :dvd: `com.github.moaxcp.graphs.graphviz` - `com.github.moaxcp.graphs:graphs-graphviz:0.9.0`
-- :dvd: `com.github.moaxcp.graphs.greenrobot` - `com.github.moaxcp.graphs:graphs-greenrobot:0.9.0`
-- :dvd: `com.github.moaxcp.graphs.truth` - `com.github.moaxcp.graphs:graphs-truth:0.9.0`
+- :dvd: `com.github.moaxcp.graphs.core` - `com.github.moaxcp.graphs:graphs-core:0.10.0`
+- :dvd: `com.github.moaxcp.graphs.graphviz` - `com.github.moaxcp.graphs:graphs-graphviz:0.10.0`
+- :dvd: `com.github.moaxcp.graphs.greenrobot` - `com.github.moaxcp.graphs:graphs-greenrobot:0.10.0`
+- :dvd: `com.github.moaxcp.graphs.truth` - `com.github.moaxcp.graphs:graphs-truth:0.10.0`
 - :dvd: `com.github.nhojpatrick.data` - `com.github.nhojpatrick:nhojpatrick-data:1.0.0`
 - :dvd: `com.github.nhojpatrick.hamcrest.all` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-all:1.0.3`
 - :dvd: `com.github.nhojpatrick.hamcrest.collections` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-collections:1.0.3`
@@ -847,6 +847,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.speedment.tool.propertyeditor` - `com.speedment.tool:tool-propertyeditor:3.2.7`
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
+- :dvd: `com.squedgy.utilities` - `com.squedgy:my-utilities:1.4`
 - :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:3.0.10`
 - :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:3.0.10`
 - :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:3.0.10`
@@ -1805,6 +1806,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.0.0-V19`
+- :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
