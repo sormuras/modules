@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6161 Java modules published at Maven Central
+Counted 6165 Java modules published at Maven Central
 
-## Summary 2020-03-15T00:51:27.301230Z
+## Summary 2020-03-16T00:52:23.584289Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-15T00:51:27.301230Z
-Scanned 45,862 files in 6 seconds.
+Started scan at 2020-03-16T00:52:23.584289Z
+Scanned 45,960 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_15_00_38_52.csv
+    last -> modulescanner-report-2020_03_16_00_35_24.csv
 
-Parsed 3,088,953 lines in total.
-  49,606 -> captions skipped
-  253,618 -> duplicates skipped
-  141,685 -> module related
+Parsed 3,092,967 lines in total.
+  49,704 -> captions skipped
+  254,960 -> duplicates skipped
+  141,707 -> module related
 
-Collected 6,161 unique modules.
-  automatic :cd: -> 4,461
-  explicit :dvd: -> 1,700
+Collected 6,165 unique modules.
+  automatic :cd: -> 4,463
+  explicit :dvd: -> 1,702
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3328, explicit=183, plain=93916}` 	 3.74%
+ - `2020_03={automatic=3340, explicit=186, plain=96468}` 	 3.66%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14571](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19636](suspicious/naming.md)
-- Modular impostors: [7070](suspicious/impostors.md)
+- Invalid module names: [14573](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19640](suspicious/naming.md)
+- Modular impostors: [7071](suspicious/impostors.md)
 
-## Unique Modules (6161)
+## Unique Modules (6165)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1495,6 +1495,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.5`
+- :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
+- :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
 - :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.0`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
@@ -1664,7 +1666,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.0`
-- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.1`
+- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.2`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
 - :dvd: `org.tentackle.database` - `org.tentackle:tentackle-database:11.6.0.0`

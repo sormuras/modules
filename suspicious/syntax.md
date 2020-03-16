@@ -11996,6 +11996,7 @@
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.0-rc4` // `org.simplejavamail,cli-module,6.0.0-rc4,cli-module,-,automatic,-,false,-`
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.1` // `org.simplejavamail,cli-module,6.0.1,cli-module,-,automatic,-,false,-`
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.2` // `org.simplejavamail,cli-module,6.0.2,cli-module,-,automatic,-,false,-`
+- :cd: `com.beanit.jasn1-compiler` - `com.beanit:jasn1-compiler:1.11.3` // `com.beanit,jasn1-compiler,1.11.3,com.beanit.jasn1-compiler,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jboss-el` - `com.github.albfernandez:jboss-el:1.1.0` // `com.github.albfernandez,jboss-el,1.1.0,com.github.albfernandez.jboss-el,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` - `com.github.albfernandez:jbpm-examples:3.2.13.ayg` // `com.github.albfernandez,jbpm-examples,3.2.13.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.jbpm-examples` - `com.github.albfernandez:jbpm-examples:3.2.14.ayg` // `com.github.albfernandez,jbpm-examples,3.2.14.ayg,com.github.albfernandez.jbpm-examples,-,automatic,-,false,-`
@@ -12692,6 +12693,7 @@
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.2.13-003010` // `name.remal,public-data,2020.2.13-003010,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.2.28-184511` // `name.remal,public-data,2020.2.28-184511,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.2.7-163511` // `name.remal,public-data,2020.2.7-163511,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.12-201009` // `name.remal,public-data,2020.3.12-201009,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.4-000015` // `name.remal,public-data,2020.3.4-000015,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
