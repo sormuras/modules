@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6165 Java modules published at Maven Central
+Counted 6180 Java modules published at Maven Central
 
-## Summary 2020-03-16T00:52:23.584289Z
+## Summary 2020-03-17T00:53:10.354628Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-16T00:52:23.584289Z
-Scanned 45,960 files in 5 seconds.
+Started scan at 2020-03-17T00:53:10.354628Z
+Scanned 46,055 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_16_00_35_24.csv
+    last -> modulescanner-report-2020_03_17_00_25_04.csv
 
-Parsed 3,092,967 lines in total.
-  49,704 -> captions skipped
-  254,960 -> duplicates skipped
-  141,707 -> module related
+Parsed 3,100,283 lines in total.
+  49,799 -> captions skipped
+  255,585 -> duplicates skipped
+  142,020 -> module related
 
-Collected 6,165 unique modules.
-  automatic :cd: -> 4,463
-  explicit :dvd: -> 1,702
+Collected 6,180 unique modules.
+  automatic :cd: -> 4,477
+  explicit :dvd: -> 1,703
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3340, explicit=186, plain=96468}` 	 3.66%
+ - `2020_03={automatic=3613, explicit=196, plain=102751}` 	 3.71%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14573](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19640](suspicious/naming.md)
-- Modular impostors: [7071](suspicious/impostors.md)
+- Invalid module names: [14576](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19652](suspicious/naming.md)
+- Modular impostors: [7086](suspicious/impostors.md)
 
-## Unique Modules (6165)
+## Unique Modules (6180)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -400,7 +400,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.10.3`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.0`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.27`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.28`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -436,15 +436,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.nhojpatrick.hamcrest.lang` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-lang:1.0.3`
 - :dvd: `com.github.nhojpatrick.hamcrest.optionals` - `com.github.nhojpatrick.hamcrest:nhojpatrick-hamcrest-optionals:1.0.3`
 - :dvd: `com.github.nhojpatrick.lang` - `com.github.nhojpatrick:nhojpatrick-lang:1.0.0`
-- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.3`
-- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.3`
-- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.3`
+- :dvd: `com.github.robozonky.api` - `com.github.robozonky:robozonky-api:5.7.4`
+- :dvd: `com.github.robozonky.app` - `com.github.robozonky:robozonky-app:5.7.4`
+- :dvd: `com.github.robozonky.cli` - `com.github.robozonky:robozonky-cli:5.7.4`
 - :dvd: `com.github.robozonky.common` - `com.github.robozonky:robozonky-common:5.2.7`
 - :dvd: `com.github.robozonky.integration.stonky` - `com.github.robozonky:robozonky-integration-stonky:5.4.0-beta-1`
 - :dvd: `com.github.robozonky.integration.zonkoid` - `com.github.robozonky:robozonky-integration-zonkoid:5.3.0`
-- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.3`
-- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.3`
-- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.3`
+- :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.4`
+- :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.4`
+- :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.4`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` - `com.github.skjolber.aotc:agent:1.0.0`
@@ -845,6 +845,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.speedment.tool.config` - `com.speedment.tool:tool-config:3.2.7`
 - :dvd: `com.speedment.tool.core` - `com.speedment.tool:tool-core:3.2.7`
 - :dvd: `com.speedment.tool.propertyeditor` - `com.speedment.tool:tool-propertyeditor:3.2.7`
+- :dvd: `com.spotify.dns` - `com.spotify:dns:3.2.1`
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.squedgy.utilities` - `com.squedgy:my-utilities:1.4`
@@ -928,7 +929,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.4`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.5`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`

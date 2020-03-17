@@ -3902,6 +3902,7 @@
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:1.3.1` // `io.micronaut,micronaut-websocket,1.3.1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:1.3.2` // `io.micronaut,micronaut-websocket,1.3.2,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:1.3.3` // `io.micronaut,micronaut-websocket,1.3.3,io.micronaut.websocket,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.1` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.10` // `io.pebbletemplates,pebble-spring4,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.7` // `io.pebbletemplates,pebble-spring4,3.0.7,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.8` // `io.pebbletemplates,pebble-spring4,3.0.8,io.pebbletemplates.spring,-,automatic,-,false,-`
@@ -4921,6 +4922,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.27` // `io.nosqlbench,virtdata-lib-curves4,3.12.27,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.28` // `io.nosqlbench,virtdata-lib-curves4,3.12.28,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.29` // `io.nosqlbench,virtdata-lib-curves4,3.12.29,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.30` // `io.nosqlbench,virtdata-lib-curves4,3.12.30,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.31` // `io.nosqlbench,virtdata-lib-curves4,3.12.31,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -4935,6 +4938,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.27` // `io.nosqlbench,virtdata-lib-random,3.12.27,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.28` // `io.nosqlbench,virtdata-lib-random,3.12.28,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.29` // `io.nosqlbench,virtdata-lib-random,3.12.29,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.30` // `io.nosqlbench,virtdata-lib-random,3.12.30,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.31` // `io.nosqlbench,virtdata-lib-random,3.12.31,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.1` // `io.nosqlbench,virtdata-lib-realer,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.17` // `io.nosqlbench,virtdata-lib-realer,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.19` // `io.nosqlbench,virtdata-lib-realer,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -4949,6 +4954,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.27` // `io.nosqlbench,virtdata-lib-realer,3.12.27,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.28` // `io.nosqlbench,virtdata-lib-realer,3.12.28,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.29` // `io.nosqlbench,virtdata-lib-realer,3.12.29,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.30` // `io.nosqlbench,virtdata-lib-realer,3.12.30,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-realer:3.12.31` // `io.nosqlbench,virtdata-lib-realer,3.12.31,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.1` // `io.nosqlbench,virtdata-realdata,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.17` // `io.nosqlbench,virtdata-realdata,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.19` // `io.nosqlbench,virtdata-realdata,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -4963,6 +4970,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.27` // `io.nosqlbench,virtdata-realdata,3.12.27,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.28` // `io.nosqlbench,virtdata-realdata,3.12.28,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.29` // `io.nosqlbench,virtdata-realdata,3.12.29,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.30` // `io.nosqlbench,virtdata-realdata,3.12.30,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-realdata:3.12.31` // `io.nosqlbench,virtdata-realdata,3.12.31,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.wizzie:enricher-extensions:0.5.1` // `io.wizzie,enricher-extensions,0.5.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` - `io.wizzie:enricher-extensions:0.5.1.1` // `io.wizzie,enricher-extensions,0.5.1.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` - `io.wizzie:enricher-service:0.5.1` // `io.wizzie,enricher-service,0.5.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
@@ -4977,6 +4986,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.zeebe:zeebe-script-worker:0.4.0` // `io.zeebe,zeebe-script-worker,0.4.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.zeebe:zeebe-script-worker:0.5.0` // `io.zeebe,zeebe-script-worker,0.5.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.zeebe:zeebe-script-worker:0.6.0` // `io.zeebe,zeebe-script-worker,0.6.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.zeebe:zeebe-script-worker:0.6.1` // `io.zeebe,zeebe-script-worker,0.6.1,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `me.escoffier.fluid:review-example:0.8` // `me.escoffier.fluid,review-example,0.8,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.3` // `net.corda,corda-tools-blob-inspector,4.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.hbase.operator.tools:hbase-hbck2:1.0.0` // `org.apache.hbase.operator.tools,hbase-hbck2,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5166,6 +5176,7 @@
 - :dvd: `org.bouncycastle.provider` - `cn.leancloud:filter-service-core:1.9` // `cn.leancloud,filter-service-core,1.9,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.0.2` // `com.alipay.sdk,alipay-easysdk,1.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.0` // `com.alipay.sdk,alipay-easysdk,1.1.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.1` // `com.alipay.sdk,alipay-easysdk,1.1.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.github.chrislusf:seaweedfs-hadoop2-client:1.2.5` // `com.github.chrislusf,seaweedfs-hadoop2-client,1.2.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.github.chrislusf:seaweedfs-hadoop3-client:1.2.5` // `com.github.chrislusf,seaweedfs-hadoop3-client,1.2.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.1` // `com.joinesty,nullafi-java-sdk,1.0.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -5182,6 +5193,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.3` // `com.linecorp.armeria,armeria,0.98.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.4` // `com.linecorp.armeria,armeria,0.98.4,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.5` // `com.linecorp.armeria,armeria,0.98.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.98.6` // `com.linecorp.armeria,armeria,0.98.6,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.2` // `net.snowflake,snowflake-jdbc,3.12.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.apache.directory.server:apacheds-service:2.0.0.AM26` // `org.apache.directory.server,apacheds-service,2.0.0.AM26,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -6440,6 +6452,7 @@
 - :cd: `org.opendaylight.yangtools.yang.parser.reactor` - `org.opendaylight.yangtools:yang-parser-rfc7950:3.0.1` // `org.opendaylight.yangtools,yang-parser-rfc7950,3.0.1,org.opendaylight.yangtools.yang.parser.reactor,-,automatic,-,false,-`
 - :cd: `org.opendaylight.yangtools.yang.parser.reactor` - `org.opendaylight.yangtools:yang-parser-rfc7950:3.0.2` // `org.opendaylight.yangtools,yang-parser-rfc7950,3.0.2,org.opendaylight.yangtools.yang.parser.reactor,-,automatic,-,false,-`
 - :dvd: `org.opentest4j` - `com.github.tandronicus:ezperf4j:0.1` // `com.github.tandronicus,ezperf4j,0.1,org.opentest4j,1.2.0,explicit,java.base,false,-`
+- :dvd: `org.pcap4j.packetfactory.propertiesbased` - `com.diamondq.common:common-thirdparty.pcap4j.core:1.8.2` // `com.diamondq.common,common-thirdparty.pcap4j.core,1.8.2,org.pcap4j.packetfactory.propertiesbased,1.8.2,explicit,java.base + java.sql + org.pcap4j.core,false,-`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` - `org.rapidpm.vaadin:rapidpm-vaadin-cdi-m-impl:00.07.04-RPM` // `org.rapidpm.vaadin,rapidpm-vaadin-cdi-m-impl,00.07.04-RPM,org.rapidpm.vaadin.cdi_addon,-,explicit,flow.server + org.apache.meecrowave.specs + rapidpm.dependencies.core.logger + java.naming + java.base,true,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.31` // `org.reaktivity,nukleus-oauth,0.31,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.32` // `org.reaktivity,nukleus-oauth,0.32,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
@@ -6759,6 +6772,7 @@
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.5-b` // `com.bytes-pot,daraja-api,1.5-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.6-b` // `com.bytes-pot,daraja-api,1.6-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M1` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M1,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M3` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M3,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.100` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.100,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
@@ -6787,6 +6801,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.29` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.29,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.30` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.30,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.31` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.31,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.33` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.33,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.0-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.0-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.1-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.1-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
