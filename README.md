@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6180 Java modules published at Maven Central
+Counted 6187 Java modules published at Maven Central
 
-## Summary 2020-03-17T00:53:10.354628Z
+## Summary 2020-03-18T00:53:57.573739Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-17T00:53:10.354628Z
-Scanned 46,055 files in 5 seconds.
+Started scan at 2020-03-18T00:53:57.573739Z
+Scanned 46,148 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_17_00_25_04.csv
+    last -> modulescanner-report-2020_03_18_00_31_43.csv
 
-Parsed 3,100,283 lines in total.
-  49,799 -> captions skipped
-  255,585 -> duplicates skipped
-  142,020 -> module related
+Parsed 3,107,388 lines in total.
+  49,892 -> captions skipped
+  256,273 -> duplicates skipped
+  142,485 -> module related
 
-Collected 6,180 unique modules.
-  automatic :cd: -> 4,477
-  explicit :dvd: -> 1,703
+Collected 6,187 unique modules.
+  automatic :cd: -> 4,480
+  explicit :dvd: -> 1,707
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3613, explicit=196, plain=102751}` 	 3.71%
+ - `2020_03={automatic=3995, explicit=203, plain=108610}` 	 3.87%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14576](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19652](suspicious/naming.md)
-- Modular impostors: [7086](suspicious/impostors.md)
+- Invalid module names: [14584](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19661](suspicious/naming.md)
+- Modular impostors: [7145](suspicious/impostors.md)
 
-## Unique Modules (6180)
+## Unique Modules (6187)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -561,6 +561,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.jsamplebuffer.xmedia` :left_right_arrow: `com.io7m.jsamplebuffer:com.io7m.jsamplebuffer.xmedia:0.0.1`
 - :dvd: `com.io7m.jserial.core` :left_right_arrow: `com.io7m.jserial:com.io7m.jserial.core:0.4.0`
 - :dvd: `com.io7m.jserial.documentation` :left_right_arrow: `com.io7m.jserial:com.io7m.jserial.documentation:0.4.0`
+- :dvd: `com.io7m.jspatial.api` :left_right_arrow: `com.io7m.jspatial:com.io7m.jspatial.api:3.0.0-beta0003`
+- :dvd: `com.io7m.jspatial.documentation` :left_right_arrow: `com.io7m.jspatial:com.io7m.jspatial.documentation:3.0.0-beta0003`
+- :dvd: `com.io7m.jspatial.examples.swing` :left_right_arrow: `com.io7m.jspatial:com.io7m.jspatial.examples.swing:3.0.0-beta0003`
+- :dvd: `com.io7m.jspatial.implementation` :left_right_arrow: `com.io7m.jspatial:com.io7m.jspatial.implementation:3.0.0-beta0003`
 - :dvd: `com.io7m.jspiel.api` :left_right_arrow: `com.io7m.jspiel:com.io7m.jspiel.api:0.0.3`
 - :dvd: `com.io7m.jspiel.cmdline` :left_right_arrow: `com.io7m.jspiel:com.io7m.jspiel.cmdline:0.0.3`
 - :dvd: `com.io7m.jspiel.documentation` :left_right_arrow: `com.io7m.jspiel:com.io7m.jspiel.documentation:0.0.3`
@@ -1808,12 +1812,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.0.0-V19`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.0.1-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
-- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.1`
+- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.2`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
@@ -1823,5 +1827,5 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.text.template.basic` - `xyz.cofe:basic-template:1.0`
 - :dvd: `xyz.cofe.typeconv` - `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` - `xyz.cofe:types-spi:1.1`
-- :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.0`
+- :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.1`
 - :dvd: `xyz.ielis.hyperutil.reference` - `xyz.ielis.hyperutil:hyperutil-reference:0.1.2`
