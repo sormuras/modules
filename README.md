@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6187 Java modules published at Maven Central
+Counted 6190 Java modules published at Maven Central
 
-## Summary 2020-03-18T00:53:57.573739Z
+## Summary 2020-03-19T00:54:33.300445Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-18T00:53:57.573739Z
-Scanned 46,148 files in 7 seconds.
+Started scan at 2020-03-19T00:54:33.300445Z
+Scanned 46,232 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_18_00_31_43.csv
+    last -> modulescanner-report-2020_03_19_00_32_31.csv
 
-Parsed 3,107,388 lines in total.
-  49,892 -> captions skipped
-  256,273 -> duplicates skipped
-  142,485 -> module related
+Parsed 3,115,830 lines in total.
+  49,976 -> captions skipped
+  257,835 -> duplicates skipped
+  142,959 -> module related
 
-Collected 6,187 unique modules.
-  automatic :cd: -> 4,480
-  explicit :dvd: -> 1,707
+Collected 6,190 unique modules.
+  automatic :cd: -> 4,482
+  explicit :dvd: -> 1,708
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=3995, explicit=203, plain=108610}` 	 3.87%
+ - `2020_03={automatic=4353, explicit=254, plain=114932}` 	 4.01%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14584](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19661](suspicious/naming.md)
-- Modular impostors: [7145](suspicious/impostors.md)
+- Invalid module names: [14603](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19683](suspicious/naming.md)
+- Modular impostors: [7169](suspicious/impostors.md)
 
-## Unique Modules (6187)
+## Unique Modules (6190)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -319,36 +319,36 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.0.1`
 - :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.3.0`
 - :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.4.0`
-- :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.4.1`
-- :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.4.1`
-- :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.4.1`
-- :dvd: `com.blazebit.persistence.core.testsuite` - `com.blazebit:blaze-persistence-core-testsuite:1.4.1`
-- :dvd: `com.blazebit.persistence.criteria` - `com.blazebit:blaze-persistence-jpa-criteria-api:1.4.1`
-- :dvd: `com.blazebit.persistence.criteria.impl` - `com.blazebit:blaze-persistence-jpa-criteria-impl:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data` - `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` - `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.eclipselink` - `com.blazebit:blaze-persistence-integration-eclipselink:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.graphql` - `com.blazebit:blaze-persistence-integration-graphql:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.hibernate` - `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.hibernate.base` - `com.blazebit:blaze-persistence-integration-hibernate-base:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.jackson` - `com.blazebit:blaze-persistence-integration-jackson:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.jaxrs` - `com.blazebit:blaze-persistence-integration-jaxrs:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.jpa` - `com.blazebit:blaze-persistence-integration-jpa-base:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.openjpa` - `com.blazebit:blaze-persistence-integration-openjpa:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.spring.data` - `com.blazebit:blaze-persistence-integration-spring-data-base:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.spring.data.impl` - `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.4.1`
+- :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.core.testsuite` - `com.blazebit:blaze-persistence-core-testsuite:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.criteria` - `com.blazebit:blaze-persistence-jpa-criteria-api:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.criteria.impl` - `com.blazebit:blaze-persistence-jpa-criteria-impl:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` - `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` - `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` - `com.blazebit:blaze-persistence-integration-eclipselink:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.graphql` - `com.blazebit:blaze-persistence-integration-graphql:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.hibernate` - `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` - `com.blazebit:blaze-persistence-integration-hibernate-base:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.jackson` - `com.blazebit:blaze-persistence-integration-jackson:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.jaxrs` - `com.blazebit:blaze-persistence-integration-jaxrs:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.jpa` - `com.blazebit:blaze-persistence-integration-jpa-base:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.openjpa` - `com.blazebit:blaze-persistence-integration-openjpa:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.spring.data` - `com.blazebit:blaze-persistence-integration-spring-data-base:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` - `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.5.0-Alpha1`
 - :dvd: `com.blazebit.persistence.integration.spring.data.rest` - `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` - `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` - `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.view.cdi` - `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.4.1`
-- :dvd: `com.blazebit.persistence.integration.view.spring` - `com.blazebit:blaze-persistence-integration-entity-view-spring:1.4.1`
-- :dvd: `com.blazebit.persistence.view` - `com.blazebit:blaze-persistence-entity-view-api:1.4.1`
-- :dvd: `com.blazebit.persistence.view.impl` - `com.blazebit:blaze-persistence-entity-view-impl:1.4.1`
-- :dvd: `com.blazebit.persistence.view.testsuite` - `com.blazebit:blaze-persistence-entity-view-testsuite:1.4.1`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` - `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` - `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` - `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.integration.view.spring` - `com.blazebit:blaze-persistence-integration-entity-view-spring:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.view` - `com.blazebit:blaze-persistence-entity-view-api:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.view.impl` - `com.blazebit:blaze-persistence-entity-view-impl:1.5.0-Alpha1`
+- :dvd: `com.blazebit.persistence.view.testsuite` - `com.blazebit:blaze-persistence-entity-view-testsuite:1.5.0-Alpha1`
 - :dvd: `com.calendarfx.recurrence` - `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` - `com.calendarfx:view:11.8.3`
 - :dvd: `com.cosium.vet` - `com.cosium.vet:vet:3.22`
@@ -1077,7 +1077,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.accesslog` - `io.helidon.microprofile:helidon-microprofile-access-log:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.cdi` - `io.helidon.microprofile.cdi:helidon-microprofile-cdi:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.config` - `io.helidon.microprofile.config:helidon-microprofile-config:2.0.0-M1`
-- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.3`
+- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.4`
 - :dvd: `io.helidon.microprofile.faulttolerance` - `io.helidon.microprofile:helidon-microprofile-fault-tolerance:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.grpc.client` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-client:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.grpc.core` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-core:2.0.0-M1`
@@ -1085,7 +1085,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.grpc.server` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-server:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.health` - `io.helidon.microprofile.health:helidon-microprofile-health:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.jwt.auth` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:2.0.0-M1`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.3`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.4`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.oidc` - `io.helidon.microprofile:helidon-microprofile-oidc:2.0.0-M1`
 - :dvd: `io.helidon.microprofile.openapi` - `io.helidon.microprofile.openapi:helidon-microprofile-openapi:2.0.0-M1`
@@ -1647,25 +1647,26 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.pojomatic` - `org.pojomatic:pojomatic:2.2.1`
 - :dvd: `org.postgresql.adba` - `org.postgresql:pgadba:0.1.1-ALPHA`
 - :dvd: `org.rapidpm.vaadin.cdi_addon` - `org.rapidpm.vaadin:cdi-addon-modules-impl:0.1.0`
-- :dvd: `org.seleniumhq.selenium.api` - `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.chrome_driver` - `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.chromium_driver` - `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.devtools` - `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.edge_driver` - `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.edgehtml_driver` - `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.firefox_driver` - `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` - `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.grid` - `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.http` - `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.ie_driver` - `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.java` - `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.json` - `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.leg_rc` - `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.lift` - `org.seleniumhq.selenium:lift:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.opera_driver` - `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.remote_driver` - `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-4`
-- :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-4`
+- :dvd: `org.seleniumhq.selenium.api` - `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.chrome_driver` - `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.chromium_driver` - `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.devtools` - `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.edge_driver` - `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.edgehtml_driver` - `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.firefox_driver` - `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` - `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.grid` - `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.http` - `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.ie_driver` - `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.java` - `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.json` - `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.leg_rc` - `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.lift` - `org.seleniumhq.selenium:lift:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.opera_driver` - `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.remote_driver` - `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-5`
+- :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-5`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`

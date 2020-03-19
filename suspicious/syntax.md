@@ -342,6 +342,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-core-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-core-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-core-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-core-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-core-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-core-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-core-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-core-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -353,6 +354,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-deltaspike-data-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-deltaspike-data-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -364,6 +366,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-entity-view-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-entity-view-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -375,6 +378,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-java-ee-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-java-ee-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -386,6 +390,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-boot-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-spring-boot-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.3.0` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -397,21 +402,25 @@
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.4.1` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-archetype-spring-data-sample:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-archetype-spring-data-sample,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.4.0` // `com.blazebit,blaze-persistence-core-api-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-core-api-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-core-api-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-core-api-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.4.1` // `com.blazebit,blaze-persistence-core-api-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-core-api-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-core-api-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.4.0` // `com.blazebit,blaze-persistence-core-impl-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-core-impl-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-core-impl-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-core-impl-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.4.1` // `com.blazebit,blaze-persistence-core-impl-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-core-impl-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-core-impl-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.4.0` // `com.blazebit,blaze-persistence-core-parser-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-core-parser-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-core-parser-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-core-parser-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.4.1` // `com.blazebit,blaze-persistence-core-parser-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-core-parser-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-core-parser-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.3.0` // `com.blazebit,blaze-persistence-documentation,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-documentation,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-documentation,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -423,46 +432,55 @@
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-documentation,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-documentation,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-documentation:1.4.1` // `com.blazebit,blaze-persistence-documentation,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-documentation:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-documentation,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.4.0` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.4.1` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-entity-view-api-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-entity-view-api-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.4.0` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.4.0,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.4.0-Alpha2,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.4.0-Alpha3,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.4.0-Alpha4,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.4.1` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.4.1,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `` - `com.blazebit:blaze-persistence-entity-view-impl-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-entity-view-impl-jar,1.5.0-Alpha1,-,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.4.0` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.4.1` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-integration-entity-view-cdi-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-integration-entity-view-cdi-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.4.0` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.4.1` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-integration-jpa-base-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-integration-jpa-base-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.4.0` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.4.1` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-integration-openjpa-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-integration-openjpa-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.4.0` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.4.1` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-api-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-jpa-criteria-api-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.4.0` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.4.1` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-impl-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-jpa-criteria-impl-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.4.0` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.4.0-Alpha2` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.4.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.4.1` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-jpa-criteria-jpa-2-compatibility-jar,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.3.0` // `com.blazebit,blaze-persistence-website,1.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-website,1.3.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-website,1.3.0-Alpha3,-,-,automatic,-,false,-`
@@ -474,6 +492,7 @@
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.4.0-Alpha3` // `com.blazebit,blaze-persistence-website,1.4.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.4.0-Alpha4` // `com.blazebit,blaze-persistence-website,1.4.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-persistence-website:1.4.1` // `com.blazebit,blaze-persistence-website,1.4.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-persistence-website:1.5.0-Alpha1` // `com.blazebit,blaze-persistence-website,1.5.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.github.celldynamics.quimp:QuimP_:18.10.01` // `com.github.celldynamics.quimp,QuimP_,18.10.01,-,-,automatic,-,false,-`
 - :cd: `` - `com.github.celldynamics.quimp:QuimP_:19.01.01` // `com.github.celldynamics.quimp,QuimP_,19.01.01,-,-,automatic,-,false,-`
 - :cd: `` - `com.github.celldynamics.quimp:QuimP_:19.03.01` // `com.github.celldynamics.quimp,QuimP_,19.03.01,-,-,automatic,-,false,-`
