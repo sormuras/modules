@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6219 Java modules published at Maven Central
+Counted 6220 Java modules published at Maven Central
 
-## Summary 2020-03-20T00:54:53.615259Z
+## Summary 2020-03-21T00:55:41.752965Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-20T00:54:53.615259Z
-Scanned 46,326 files in 6 seconds.
+Started scan at 2020-03-21T00:55:41.752965Z
+Scanned 46,417 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_20_00_41_54.csv
+    last -> modulescanner-report-2020_03_21_00_36_56.csv
 
-Parsed 3,122,912 lines in total.
-  50,070 -> captions skipped
-  258,545 -> duplicates skipped
-  143,476 -> module related
+Parsed 3,130,584 lines in total.
+  50,161 -> captions skipped
+  259,918 -> duplicates skipped
+  143,990 -> module related
 
-Collected 6,219 unique modules.
-  automatic :cd: -> 4,494
+Collected 6,220 unique modules.
+  automatic :cd: -> 4,495
   explicit :dvd: -> 1,725
 
 ## Samples
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=4622, explicit=374, plain=120693}` 	 4.14%
+ - `2020_03={automatic=4919, explicit=381, plain=126387}` 	 4.19%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14610](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19781](suspicious/naming.md)
-- Modular impostors: [7192](suspicious/impostors.md)
+- Invalid module names: [14685](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19904](suspicious/naming.md)
+- Modular impostors: [7204](suspicious/impostors.md)
 
-## Unique Modules (6219)
+## Unique Modules (6220)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -413,7 +413,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` - `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
-- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.1.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.2.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.2`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
@@ -856,12 +856,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.squedgy.utilities` - `com.squedgy:my-utilities:1.4`
-- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:3.0.10`
-- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:3.0.10`
-- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:3.0.10`
+- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:3.0.11`
+- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:3.0.11`
+- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:3.0.11`
 - :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:2.3.3-b02`
 - :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:2.3.3-b02`
-- :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.2`
+- :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.3`
 - :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.17`
 - :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.17`
@@ -1501,7 +1501,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha1`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.26`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.27`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
@@ -1548,7 +1548,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.0`
 - :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.0`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.10`
-- :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:1.8.2`
+- :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:1.8.3`
 - :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`
 - :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.3.5`
 - :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.3.5`

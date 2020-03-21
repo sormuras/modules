@@ -2272,6 +2272,7 @@
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.2` // `com.instaclustr,instaclustr-backup-restore,1.1.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.3` // `com.instaclustr,instaclustr-backup-restore,1.1.3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.4` // `com.instaclustr,instaclustr-backup-restore,1.1.4,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.5` // `com.instaclustr,instaclustr-backup-restore,1.1.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.mygraphql.graphub:openapi2graphqls-cli:0.0.2` // `com.mygraphql.graphub,openapi2graphqls-cli,0.0.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.1.0` // `com.tngtech.keycloakmock,standalone,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.2.0` // `com.tngtech.keycloakmock,standalone,0.2.0,info.picocli,-,explicit,java.base,false,-`
@@ -2537,6 +2538,7 @@
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:1.3.1` // `io.micronaut,micronaut-aop,1.3.1,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:1.3.2` // `io.micronaut,micronaut-aop,1.3.2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:1.3.3` // `io.micronaut,micronaut-aop,1.3.3,io.micronaut.aop,-,automatic,-,false,-`
+- :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:2.0.0.M1` // `io.micronaut,micronaut-aop,2.0.0.M1,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0.RC3` // `io.micronaut,micronaut-bom,1.0.0.RC3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.1` // `io.micronaut,micronaut-bom,1.0.1,io.micronaut.bom,-,automatic,-,false,-`
@@ -3684,6 +3686,7 @@
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.0` // `io.micronaut,micronaut-security,1.3.0,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.0.RC1` // `io.micronaut,micronaut-security,1.3.0.RC1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:1.3.1` // `io.micronaut,micronaut-security,1.3.1,io.micronaut.security,-,automatic,-,false,-`
+- :cd: `io.micronaut.security` - `io.micronaut:micronaut-security:2.0.0.M1` // `io.micronaut,micronaut-security,2.0.0.M1,io.micronaut.security,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.0` // `io.micronaut,micronaut-security-jwt,1.0.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.0.RC3` // `io.micronaut,micronaut-security-jwt,1.0.0.RC3,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.0.1` // `io.micronaut,micronaut-security-jwt,1.0.1,io.micronaut.security_jwt,-,automatic,-,false,-`
@@ -3704,6 +3707,7 @@
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.0` // `io.micronaut,micronaut-security-jwt,1.3.0,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.0.RC1` // `io.micronaut,micronaut-security-jwt,1.3.0.RC1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:1.3.1` // `io.micronaut,micronaut-security-jwt,1.3.1,io.micronaut.security_jwt,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_jwt` - `io.micronaut:micronaut-security-jwt:2.0.0.M1` // `io.micronaut,micronaut-security-jwt,2.0.0.M1,io.micronaut.security_jwt,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.0` // `io.micronaut,micronaut-security-session,1.0.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.0.RC3` // `io.micronaut,micronaut-security-session,1.0.0.RC3,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.0.1` // `io.micronaut,micronaut-security-session,1.0.1,io.micronaut.security_session,-,automatic,-,false,-`
@@ -3724,6 +3728,7 @@
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.0` // `io.micronaut,micronaut-security-session,1.3.0,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.0.RC1` // `io.micronaut,micronaut-security-session,1.3.0.RC1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:1.3.1` // `io.micronaut,micronaut-security-session,1.3.1,io.micronaut.security_session,-,automatic,-,false,-`
+- :cd: `io.micronaut.security_session` - `io.micronaut:micronaut-security-session:2.0.0.M1` // `io.micronaut,micronaut-security-session,2.0.0.M1,io.micronaut.security_session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.0` // `io.micronaut,micronaut-session,1.0.0,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.0.RC3` // `io.micronaut,micronaut-session,1.0.0.RC3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:1.0.1` // `io.micronaut,micronaut-session,1.0.1,io.micronaut.session,-,automatic,-,false,-`
@@ -4001,6 +4006,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.5.2-jre13,jakarta.mail,1.0.5.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.5.3-jre13,jakarta.mail,1.0.5.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.5.4-jre13,jakarta.mail,1.0.5.4-jre13,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.5.4-jre14,jakarta.mail,1.0.5.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.5.5-jre14,jakarta.mail,1.0.5.5-jre14,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.2.0` // `com.scalar-labs,scalardl-client-sdk,1.2.0,java.json,-,explicit,java.base,false,-`
@@ -4201,6 +4208,7 @@
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.23` // `com.proofpoint.platform,jaxrs,2.23,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.24` // `com.proofpoint.platform,jaxrs,2.24,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.25` // `com.proofpoint.platform,jaxrs,2.25,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.26` // `com.proofpoint.platform,jaxrs,2.26,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0` // `com.undefinedlabs.scope,scope-agent,0.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0-beta1` // `com.undefinedlabs.scope,scope-agent,0.1.0-beta1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.1` // `com.undefinedlabs.scope,scope-agent,0.1.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4321,6 +4329,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.6.0` // `com.undefinedlabs.scope,scope-agent,0.6.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.6.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.6.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.6.1` // `com.undefinedlabs.scope,scope-agent,0.6.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.6.2` // `com.undefinedlabs.scope,scope-agent,0.6.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.6` // `com.yahoo.elide,elide-blog-example,4.5.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.7` // `com.yahoo.elide,elide-blog-example,4.5.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.8` // `com.yahoo.elide,elide-blog-example,4.5.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5844,10 +5853,12 @@
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-5x:2.1.2` // `eu.xenit.care4alf,care4alf-5x,2.1.2,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-5x:2.1.3` // `eu.xenit.care4alf,care4alf-5x,2.1.3,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-5x:2.2.1` // `eu.xenit.care4alf,care4alf-5x,2.2.1,org.joda.convert,-,explicit,java.base,false,-`
+- :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-5x:2.3.0` // `eu.xenit.care4alf,care4alf-5x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.1.1` // `eu.xenit.care4alf,care4alf-6x,2.1.1,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.1.2` // `eu.xenit.care4alf,care4alf-6x,2.1.2,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.1.3` // `eu.xenit.care4alf,care4alf-6x,2.1.3,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.2.1` // `eu.xenit.care4alf,care4alf-6x,2.2.1,org.joda.convert,-,explicit,java.base,false,-`
+- :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.3.0` // `eu.xenit.care4alf,care4alf-6x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.jruby.joni` - `net.thisptr:jackson-jq-cli:0.0.10` // `net.thisptr,jackson-jq-cli,0.0.10,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1` // `com.guicedee.services,json,0.70.0.1,org.json,0.70.0.1,explicit,java.base,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1-rc1` // `com.guicedee.services,json,0.70.0.1-rc1,org.json,0.70.0.1-rc1,explicit,java.base,false,-`
@@ -6257,6 +6268,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.2` // `com.github.collinalpert,java2db,5.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.2.1` // `com.github.collinalpert,java2db,5.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.3.0` // `com.github.collinalpert,java2db,5.3.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.4.0` // `com.github.collinalpert,java2db,5.4.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
