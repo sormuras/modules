@@ -2202,6 +2202,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.5` // `com.vladmihalcea,hibernate-types-43,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.6` // `com.vladmihalcea,hibernate-types-43,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2224,6 +2225,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.5` // `com.vladmihalcea,hibernate-types-5,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.6` // `com.vladmihalcea,hibernate-types-5,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2246,6 +2248,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.5` // `com.vladmihalcea,hibernate-types-52,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.6` // `com.vladmihalcea,hibernate-types-52,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
@@ -2293,6 +2296,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.6.1` // `io.jooby,jooby-cli,2.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.6.2` // `io.jooby,jooby-cli,2.6.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.7.0` // `io.jooby,jooby-cli,2.7.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.7.1` // `io.jooby,jooby-cli,2.7.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.5` // `org.jboss.gm,cli,1.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6` // `org.jboss.gm,cli,1.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.1` // `org.jboss.gm,cli,1.6.1,info.picocli,-,explicit,java.base,false,-`
@@ -4591,6 +4595,7 @@
 - :cd: `net.kyori.text` - `net.kyori:text-api:3.0.0` // `net.kyori,text-api,3.0.0,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.kyori.text` - `net.kyori:text-api:3.0.1` // `net.kyori,text-api,3.0.1,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.kyori.text` - `net.kyori:text-api:3.0.2` // `net.kyori,text-api,3.0.2,net.kyori.text,-,automatic,-,false,-`
+- :cd: `net.kyori.text` - `net.kyori:text-api:3.0.3` // `net.kyori,text-api,3.0.3,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.0-beta1` // `net.morimekta.providence,providence-testing-junit4,2.0-beta1,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.0-beta3` // `net.morimekta.providence,providence-testing-junit4,2.0-beta3,net.morimekta.providence.testing,-,automatic,-,false,-`
 - :cd: `net.morimekta.providence.testing` - `net.morimekta.providence:providence-testing-junit4:2.0-beta4` // `net.morimekta.providence,providence-testing-junit4,2.0-beta4,net.morimekta.providence.testing,-,automatic,-,false,-`
