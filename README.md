@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 6222 Java modules published at Maven Central
+Counted 6229 Java modules published at Maven Central
 
-## Summary 2020-03-22T00:56:29.150323Z
+## Summary 2020-03-23T00:56:54.724855Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-22T00:56:29.150323Z
-Scanned 46,522 files in 6 seconds.
+Started scan at 2020-03-23T00:56:54.724855Z
+Scanned 46,623 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_22_00_45_47.csv
+    last -> modulescanner-report-2020_03_23_00_35_51.csv
 
-Parsed 3,133,969 lines in total.
-  50,266 -> captions skipped
-  260,096 -> duplicates skipped
-  144,057 -> module related
+Parsed 3,137,206 lines in total.
+  50,367 -> captions skipped
+  260,215 -> duplicates skipped
+  144,129 -> module related
 
-Collected 6,222 unique modules.
-  automatic :cd: -> 4,497
-  explicit :dvd: -> 1,725
+Collected 6,229 unique modules.
+  automatic :cd: -> 4,500
+  explicit :dvd: -> 1,729
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.0
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.1
 org.objectweb.asm -> org.ow2.asm:asm:7.3.1
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=4941, explicit=381, plain=129422}` 	 4.11%
+ - `2020_03={automatic=4948, explicit=413, plain=132367}` 	 4.05%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14685](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19944](suspicious/naming.md)
-- Modular impostors: [7209](suspicious/impostors.md)
+- Invalid module names: [14711](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19947](suspicious/naming.md)
+- Modular impostors: [7213](suspicious/impostors.md)
 
-## Unique Modules (6222)
+## Unique Modules (6229)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -516,6 +516,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
+- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.1`
+- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.1`
+- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.1`
+- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.1`
 - :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.1`
 - :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.1`
 - :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.2`
@@ -783,18 +787,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` - `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.5.1`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.5.1`
+- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.6.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` - `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` - `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` - `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1220,7 +1224,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.2`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.3`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.1`
@@ -1508,7 +1512,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.client` - `org.fxyz3d:fxyz3d-client:0.5.2`
 - :dvd: `org.fxyz3d.core` - `org.fxyz3d:fxyz3d:0.5.2`
 - :dvd: `org.fxyz3d.importers` - `org.fxyz3d:fxyz3d-importers:0.5.2`
-- :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.0.0`
+- :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.1.0`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
 - :dvd: `org.graalvm.js` - `org.graalvm.js:js:20.0.0`
 - :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:20.0.0`
@@ -1533,20 +1537,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.46`
 - :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.31`
-- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.0`
-- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.0`
-- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.0`
-- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.0`
-- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.6.0`
-- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.6.0`
-- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.6.0`
-- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.6.0`
-- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.6.0`
-- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.6.0`
-- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.6.0`
-- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.6.0`
-- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.0`
-- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.0`
+- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.1`
+- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.1`
+- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.1`
+- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.1`
+- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.6.1`
+- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.6.1`
+- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.6.1`
+- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.6.1`
+- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.6.1`
+- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.6.1`
+- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.6.1`
+- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.6.1`
+- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.1`
+- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.1`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.10`
 - :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:1.8.3`
 - :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`

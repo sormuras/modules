@@ -5904,6 +5904,7 @@
 - :dvd: `org.junit.jupiter.engine` - `org.junit.platform:junit-platform-console-standalone:1.6.0` // `org.junit.platform,junit-platform-console-standalone,1.6.0,org.junit.jupiter.engine,5.6.0,explicit,java.base + org.apiguardian.api + org.junit.jupiter.api + org.junit.platform.commons + org.junit.platform.engine + org.opentest4j,false,-`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.platform:junit-platform-console-standalone:1.6.0-M1` // `org.junit.platform,junit-platform-console-standalone,1.6.0-M1,org.junit.jupiter.engine,5.6.0-M1,explicit,java.base + org.apiguardian.api + org.junit.jupiter.api + org.junit.platform.engine + org.opentest4j,false,-`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.platform:junit-platform-console-standalone:1.6.0-RC1` // `org.junit.platform,junit-platform-console-standalone,1.6.0-RC1,org.junit.jupiter.engine,5.6.0-RC1,explicit,java.base + org.apiguardian.api + org.junit.jupiter.api + org.junit.platform.commons + org.junit.platform.engine + org.opentest4j,false,-`
+- :dvd: `org.junit.jupiter.engine` - `org.junit.platform:junit-platform-console-standalone:1.6.1` // `org.junit.platform,junit-platform-console-standalone,1.6.1,org.junit.jupiter.engine,5.6.1,explicit,java.base + org.apiguardian.api + org.junit.jupiter.api + org.junit.platform.commons + org.junit.platform.engine + org.opentest4j,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.0` // `org.junit.platform,junit-platform-console-standalone,1.5.0,org.junit.platform.console,1.5.0,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.0-RC1` // `org.junit.platform,junit-platform-console-standalone,1.5.0-RC1,org.junit.platform.console,1.5.0-RC1,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.0-RC2` // `org.junit.platform,junit-platform-console-standalone,1.5.0-RC2,org.junit.platform.console,1.5.0-RC2,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
@@ -6423,9 +6424,11 @@
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2` // `org.noear,solon.extend.jetty.jsp,1.0.2,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2.1` // `org.noear,solon.extend.jetty.jsp,1.0.2.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.3` // `org.noear,solon.extend.jetty.jsp,1.0.3,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.python:jython:2.7.2` // `org.python,jython,2.7.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython:2.7.2b2` // `org.python,jython,2.7.2b2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython:2.7.2b3` // `org.python,jython,2.7.2b3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython:2.7.2rc1` // `org.python,jython,2.7.2rc1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.python:jython-standalone:2.7.2` // `org.python,jython-standalone,2.7.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython-standalone:2.7.2b2` // `org.python,jython-standalone,2.7.2b2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython-standalone:2.7.2b3` // `org.python,jython-standalone,2.7.2b3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.python:jython-standalone:2.7.2rc1` // `org.python,jython-standalone,2.7.2rc1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
@@ -6911,6 +6914,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.49` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.49,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.50` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.50,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.51` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.51,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.53` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.53,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
