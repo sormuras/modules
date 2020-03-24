@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6229 Java modules published at Maven Central
+Counted 6231 Java modules published at Maven Central
 
-## Summary 2020-03-23T00:56:54.724855Z
+## Summary 2020-03-24T00:56:58.846600Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-23T00:56:54.724855Z
-Scanned 46,623 files in 6 seconds.
+Started scan at 2020-03-24T00:56:58.846600Z
+Scanned 46,716 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_23_00_35_51.csv
+    last -> modulescanner-report-2020_03_24_00_37_14.csv
 
-Parsed 3,137,206 lines in total.
-  50,367 -> captions skipped
-  260,215 -> duplicates skipped
-  144,129 -> module related
+Parsed 3,144,256 lines in total.
+  50,460 -> captions skipped
+  260,799 -> duplicates skipped
+  144,492 -> module related
 
-Collected 6,229 unique modules.
-  automatic :cd: -> 4,500
+Collected 6,231 unique modules.
+  automatic :cd: -> 4,502
   explicit :dvd: -> 1,729
 
 ## Samples
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=4948, explicit=413, plain=132367}` 	 4.05%
+ - `2020_03={automatic=5217, explicit=418, plain=138377}` 	 4.07%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14711](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19947](suspicious/naming.md)
-- Modular impostors: [7213](suspicious/impostors.md)
+- Invalid module names: [14731](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [19975](suspicious/naming.md)
+- Modular impostors: [7254](suspicious/impostors.md)
 
-## Unique Modules (6229)
+## Unique Modules (6231)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -866,9 +866,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:2.3.3-b02`
 - :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:2.3.3-b02`
 - :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.3`
-- :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:1.2.17`
-- :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.17`
-- :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.17`
+- :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:1.2.18`
+- :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:1.2.18`
+- :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:1.2.18`
 - :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:1.5.2-b01`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
 - :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3-b01`
@@ -1182,8 +1182,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-rc1`
 - :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC1`
 - :dvd: `jakarta.ws.rs` - `jakarta.ws.rs:jakarta.ws.rs-api:3.0.0-M1`
-- :dvd: `jakarta.xml.bind` - `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC1`
-- :dvd: `jakarta.xml.bind.tests.src` - `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC1`
+- :dvd: `jakarta.xml.bind` - `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC2`
+- :dvd: `jakarta.xml.bind.tests.src` - `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC2`
 - :dvd: `jakarta.xml.soap` - `jakarta.xml.soap:jakarta.xml.soap-api:2.0.0-RC1`
 - :dvd: `jakarta.xml.ws` - `jakarta.xml.ws:jakarta.xml.ws-api:3.0.0-RC1`
 - :dvd: `java.json` - `javax.json:javax.json-api:1.1.4`
