@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6243 Java modules published at Maven Central
+Counted 6245 Java modules published at Maven Central
 
-## Summary 2020-03-26T00:57:53.714279Z
+## Summary 2020-03-27T00:58:52.311020Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-26T00:57:53.714279Z
-Scanned 46,906 files in 6 seconds.
+Started scan at 2020-03-27T00:58:52.311020Z
+Scanned 46,984 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_26_00_33_23.csv
+    last -> modulescanner-report-2020_03_27_00_37_01.csv
 
-Parsed 3,160,123 lines in total.
-  50,650 -> captions skipped
-  262,476 -> duplicates skipped
-  145,383 -> module related
+Parsed 3,169,330 lines in total.
+  50,728 -> captions skipped
+  262,964 -> duplicates skipped
+  145,933 -> module related
 
-Collected 6,243 unique modules.
-  automatic :cd: -> 4,507
-  explicit :dvd: -> 1,736
+Collected 6,245 unique modules.
+  automatic :cd: -> 4,508
+  explicit :dvd: -> 1,737
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=5883, explicit=514, plain=151486}` 	 4.22%
+ - `2020_03={automatic=6263, explicit=527, plain=159577}` 	 4.25%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14737](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20064](suspicious/naming.md)
-- Modular impostors: [7288](suspicious/impostors.md)
+- Invalid module names: [14789](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20157](suspicious/naming.md)
+- Modular impostors: [7300](suspicious/impostors.md)
 
-## Unique Modules (6243)
+## Unique Modules (6245)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -597,8 +597,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:0.0.1`
-- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:0.0.1`
+- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:0.0.3`
+- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:0.0.3`
+- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:0.0.3`
 - :dvd: `com.io7m.jxe.core` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.core:0.0.2`
 - :dvd: `com.io7m.jxe.documentation` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.documentation:0.0.2`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
@@ -888,8 +889,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:2.3.3-b01`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
-- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.5.0`
-- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.5.0`
+- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
+- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.6.0`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
@@ -1030,9 +1031,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.robertograham.rleparser` - `io.github.robertograham:rle-parser-module:1.0.0`
 - :dvd: `io.github.sskorol.testdatasupplier` - `io.github.sskorol:test-data-supplier:1.9.0`
 - :dvd: `io.github.threetenjaxb.core` - `io.github.threeten-jaxb:threeten-jaxb-core:1.2`
-- :dvd: `io.github.tomdw.java.modules.spring.integration.tests` - `io.github.tomdw.java.modules.spring:integration-tests:0.0.1`
-- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` - `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.1`
-- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` - `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.1`
+- :dvd: `io.github.tomdw.java.modules.spring.integration.tests` - `io.github.tomdw.java.modules.spring:integration-tests:0.0.2`
+- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` - `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.2`
+- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` - `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.2`
 - :dvd: `io.helidon.bundles.config` - `io.helidon.bundles:helidon-bundles-config:2.0.0-M2`
 - :dvd: `io.helidon.bundles.jersey` - `io.helidon.bundles:helidon-bundles-jersey:2.0.0-M2`
 - :dvd: `io.helidon.bundles.webserver` - `io.helidon.bundles:helidon-bundles-webserver:2.0.0-M2`
@@ -1531,7 +1532,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
-- :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.0`
+- :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.1`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
@@ -1841,7 +1842,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.0.1-V20`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
