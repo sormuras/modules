@@ -12374,6 +12374,7 @@
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.1` // `com.synopsys.integration,int-jira-common,0.6.1,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.2` // `com.synopsys.integration,int-jira-common,0.6.2,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.3` // `com.synopsys.integration,int-jira-common,0.6.3,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.int-jira-common` - `com.synopsys.integration:int-jira-common:0.6.4` // `com.synopsys.integration,int-jira-common,0.6.4,com.synopsys.integration.int-jira-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.0` // `com.blackducksoftware.integration,integration-bdio,17.1.0,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.1` // `com.blackducksoftware.integration,integration-bdio,17.1.1,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-bdio` - `com.blackducksoftware.integration:integration-bdio:17.1.2` // `com.blackducksoftware.integration,integration-bdio,17.1.2,com.synopsys.integration.integration-bdio,-,automatic,-,false,-`
@@ -12440,6 +12441,7 @@
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.5` // `com.synopsys.integration,issuetracker-jira,0.0.5,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.6` // `com.synopsys.integration,issuetracker-jira,0.0.6,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.7` // `com.synopsys.integration,issuetracker-jira,0.0.7,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.issuetracker-jira` - `com.synopsys.integration:issuetracker-jira:0.0.8` // `com.synopsys.integration,issuetracker-jira,0.0.8,com.synopsys.integration.issuetracker-jira,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-annotation-processor` - `com.synopsys.integration:jenkins-annotation-processor:0.0.1` // `com.synopsys.integration,jenkins-annotation-processor,0.0.1,com.synopsys.integration.jenkins-annotation-processor,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.0.1` // `com.synopsys.integration,jenkins-common,0.0.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.0` // `com.synopsys.integration,jenkins-common,0.1.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
@@ -12448,6 +12450,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.3` // `com.synopsys.integration,jenkins-common,0.1.3,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.4` // `com.synopsys.integration,jenkins-common,0.1.4,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.5` // `com.synopsys.integration,jenkins-common,0.1.5,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.6` // `com.synopsys.integration,jenkins-common,0.1.6,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -12472,12 +12475,14 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.13.2` // `com.synopsys.integration,polaris-common,0.13.2,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.14.1` // `com.synopsys.integration,polaris-common,0.14.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.15.0` // `com.synopsys.integration,polaris-common,0.15.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.15.1` // `com.synopsys.integration,polaris-common,0.15.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.3` // `com.synopsys.integration,polaris-common,0.9.3,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.10` // `com.synopsys.integration,polaris-common-api,0.0.10,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.11` // `com.synopsys.integration,polaris-common-api,0.0.11,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.12` // `com.synopsys.integration,polaris-common-api,0.0.12,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.2` // `com.synopsys.integration,polaris-common-api,0.0.2,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.3` // `com.synopsys.integration,polaris-common-api,0.0.3,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common-api` - `com.synopsys.integration:polaris-common-api:0.0.4` // `com.synopsys.integration,polaris-common-api,0.0.4,com.synopsys.integration.polaris-common-api,-,automatic,-,false,-`
@@ -12724,6 +12729,7 @@
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.9` // `net.dreamlu,mica-plus-error-catch,1.1.9,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.2.0` // `net.dreamlu,mica-plus-error-catch,1.2.0,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.2.1` // `net.dreamlu,mica-plus-error-catch,1.2.1,mica.plus.error.catch,-,automatic,-,false,-`
+- :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.2.2` // `net.dreamlu,mica-plus-error-catch,1.2.2,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
@@ -14068,6 +14074,8 @@
 - :cd: `org.talend.sdk.component.runtime.textinput-component` - `org.talend.sdk.component:textinput-component:1.1.9` // `org.talend.sdk.component,textinput-component,1.1.9,org.talend.sdk.component.runtime.textinput-component,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime.updatable-component` - `org.talend.sdk.component:updatable-component:1.1.9` // `org.talend.sdk.component,updatable-component,1.1.9,org.talend.sdk.component.runtime.updatable-component,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime.urlvalidation-component` - `org.talend.sdk.component:urlvalidation-component:1.1.9` // `org.talend.sdk.component,urlvalidation-component,1.1.9,org.talend.sdk.component.runtime.urlvalidation-component,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.0-BETA` // `org.tools4j,elara-chronicle,1.0-BETA,org.tools4j.elara-chronicle,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.0-BETA` // `org.tools4j,elara-core,1.0-BETA,org.tools4j.elara-core,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.6` // `org.typemeta,funcj-codec,0.6.6,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.7` // `org.typemeta,funcj-codec,0.6.7,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec-core` - `org.typemeta:funcj-codec-core:0.6.11` // `org.typemeta,funcj-codec-core,0.6.11,org.typemeta.funcj-codec-core,-,automatic,-,false,-`
