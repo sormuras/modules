@@ -2320,6 +2320,7 @@
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.2.0` // `io.cucumber,datatable,3.2.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.2.1` // `io.cucumber,datatable,3.2.1,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.0` // `io.cucumber,datatable,3.3.0,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.1` // `io.cucumber,datatable,3.3.1,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:10.0.0` // `io.cucumber,gherkin,10.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:11.0.0` // `io.cucumber,gherkin,11.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -4054,6 +4055,9 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.5.4-jre13,jakarta.mail,1.0.5.4-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.5.4-jre14,jakarta.mail,1.0.5.4-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.5.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.5.5-jre14,jakarta.mail,1.0.5.5-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.1-jre14,jakarta.mail,1.0.6.1-jre14,explicit,java.base,false,-`
+- :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
+- :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.2.0` // `com.scalar-labs,scalardl-client-sdk,1.2.0,java.json,-,explicit,java.base,false,-`
@@ -4579,6 +4583,7 @@
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.12.0` // `co.elastic.apm,apm-agent-attach,1.12.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.13.0` // `co.elastic.apm,apm-agent-attach,1.13.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.14.0` // `co.elastic.apm,apm-agent-attach,1.14.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.15.0` // `co.elastic.apm,apm-agent-attach,1.15.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.4.0` // `co.elastic.apm,apm-agent-attach,1.4.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.5.0` // `co.elastic.apm,apm-agent-attach,1.5.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.6.0` // `co.elastic.apm,apm-agent-attach,1.6.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5059,6 +5064,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.62` // `io.nosqlbench,virtdata-lib-curves4,3.12.62,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.66` // `io.nosqlbench,virtdata-lib-curves4,3.12.66,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.67` // `io.nosqlbench,virtdata-lib-curves4,3.12.67,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.70` // `io.nosqlbench,virtdata-lib-curves4,3.12.70,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.71` // `io.nosqlbench,virtdata-lib-curves4,3.12.71,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5350,6 +5357,8 @@
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.62` // `io.nosqlbench,nb,3.12.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.66` // `io.nosqlbench,nb,3.12.66,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.67` // `io.nosqlbench,nb,3.12.67,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.70` // `io.nosqlbench,nb,3.12.70,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.71` // `io.nosqlbench,nb,3.12.71,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -5369,6 +5378,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.0.2` // `com.alipay.sdk,alipay-easysdk,1.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.0` // `com.alipay.sdk,alipay-easysdk,1.1.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.1` // `com.alipay.sdk,alipay-easysdk,1.1.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.alipay.sdk:alipay-easysdk:1.1.2` // `com.alipay.sdk,alipay-easysdk,1.1.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.github.chrislusf:seaweedfs-hadoop2-client:1.2.5` // `com.github.chrislusf,seaweedfs-hadoop2-client,1.2.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.github.chrislusf:seaweedfs-hadoop3-client:1.2.5` // `com.github.chrislusf,seaweedfs-hadoop3-client,1.2.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.1` // `com.joinesty,nullafi-java-sdk,1.0.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -6611,6 +6621,7 @@
 - :dvd: `org.objectweb.asm.commons` - `org.copper-engine:copper-performance-test:5.0.0-SNAPHOT` // `org.copper-engine,copper-performance-test,5.0.0-SNAPHOT,org.objectweb.asm.commons,6.1.1,explicit,org.objectweb.asm + java.base + org.objectweb.asm.tree.analysis + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.commons` - `org.javastro.vodsl:vodslparser:0.4.0` // `org.javastro.vodsl,vodslparser,0.4.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `org.netbeans.external:asm-commons-7.2:RELEASE113` // `org.netbeans.external,asm-commons-7.2,RELEASE113,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.31.1` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.31.1,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.8` // `com.uber.nullaway,jar-infer-cli,0.7.8,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`

@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 6306 Java modules published at Maven Central
+Counted 6308 Java modules published at Maven Central
 
-## Summary 2020-03-28T00:59:39.235780Z
+## Summary 2020-03-29T00:59:46.121668Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-28T00:59:39.235780Z
-Scanned 47,069 files in 6 seconds.
+Started scan at 2020-03-29T00:59:46.121668Z
+Scanned 47,122 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_28_00_44_20.csv
+    last -> modulescanner-report-2020_03_28_23_53_58.csv
 
-Parsed 3,175,186 lines in total.
-  50,813 -> captions skipped
-  263,447 -> duplicates skipped
-  146,503 -> module related
+Parsed 3,178,524 lines in total.
+  50,866 -> captions skipped
+  263,910 -> duplicates skipped
+  146,602 -> module related
 
-Collected 6,306 unique modules.
-  automatic :cd: -> 4,568
-  explicit :dvd: -> 1,738
+Collected 6,308 unique modules.
+  automatic :cd: -> 4,569
+  explicit :dvd: -> 1,739
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.1
-org.objectweb.asm -> org.ow2.asm:asm:7.3.1
+org.objectweb.asm -> org.ow2.asm:asm:8.0
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=6608, explicit=530, plain=164295}` 	 4.34%
+ - `2020_03={automatic=6638, explicit=559, plain=167018}` 	 4.31%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,10 +114,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [14797](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20362](suspicious/naming.md)
-- Modular impostors: [7309](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20391](suspicious/naming.md)
+- Modular impostors: [7320](suspicious/impostors.md)
 
-## Unique Modules (6306)
+## Unique Modules (6308)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -597,9 +597,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:0.0.3`
-- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:0.0.3`
-- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:0.0.3`
+- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:1.0.2`
+- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:1.0.2`
+- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:1.0.2`
 - :dvd: `com.io7m.jxe.core` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.core:0.0.2`
 - :dvd: `com.io7m.jxe.documentation` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.documentation:0.0.2`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
@@ -615,6 +615,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
+- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.0.0`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
 - :dvd: `com.jwebmp.core.angularjs` - `com.jwebmp:jwebmp-angularjs:0.66.0.1`
@@ -793,18 +794,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` - `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.6.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.6.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.7.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` - `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` - `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` - `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1220,8 +1221,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
 - :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.20.0`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.8`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.8`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.9`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.9`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jsonb:3.0.0`
@@ -1651,13 +1652,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.0`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` - `org.myire:thrice:3.1`
-- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:7.3.1`
+- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0`
 - :dvd: `org.objectweb.asm.all` - `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` - `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:7.3.1`
-- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:7.3.1`
-- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:7.3.1`
-- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:7.3.1`
+- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:8.0`
+- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:8.0`
+- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0`
+- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:4.0.7`
 - :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:4.0.7`
