@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6308 Java modules published at Maven Central
 
-## Summary 2020-03-29T00:59:46.121668Z
+## Summary 2020-03-30T01:00:41.053757Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-29T00:59:46.121668Z
-Scanned 47,122 files in 7 seconds.
+Started scan at 2020-03-30T01:00:41.053757Z
+Scanned 47,176 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_28_23_53_58.csv
+    last -> modulescanner-report-2020_03_30_00_05_45.csv
 
-Parsed 3,178,524 lines in total.
-  50,866 -> captions skipped
-  263,910 -> duplicates skipped
-  146,602 -> module related
+Parsed 3,180,072 lines in total.
+  50,920 -> captions skipped
+  263,984 -> duplicates skipped
+  146,665 -> module related
 
 Collected 6,308 unique modules.
   automatic :cd: -> 4,569
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=6638, explicit=559, plain=167018}` 	 4.31%
+ - `2020_03={automatic=6672, explicit=578, plain=168375}` 	 4.31%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,9 +113,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14797](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20391](suspicious/naming.md)
-- Modular impostors: [7320](suspicious/impostors.md)
+- Invalid module names: [14798](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20397](suspicious/naming.md)
+- Modular impostors: [7323](suspicious/impostors.md)
 
 ## Unique Modules (6308)
 
@@ -233,9 +233,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.3.0`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.3.0`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.3.0`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.3.5`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.3.5`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.3.5`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -597,9 +597,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:1.0.2`
-- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:1.0.2`
-- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:1.0.2`
+- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:1.0.3`
+- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:1.0.3`
+- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:1.0.3`
 - :dvd: `com.io7m.jxe.core` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.core:0.0.2`
 - :dvd: `com.io7m.jxe.documentation` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.documentation:0.0.2`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
@@ -794,18 +794,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` - `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.7.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.7.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.8.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` - `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` - `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` - `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1539,7 +1539,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` - `org.joml:joml:1.9.22`
+- :dvd: `org.joml` - `org.joml:joml:1.9.23`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
