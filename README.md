@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6308 Java modules published at Maven Central
+Counted 6311 Java modules published at Maven Central
 
-## Summary 2020-03-30T01:00:41.053757Z
+## Summary 2020-03-31T01:00:43.791893Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-30T01:00:41.053757Z
-Scanned 47,176 files in 6 seconds.
+Started scan at 2020-03-31T01:00:43.791893Z
+Scanned 47,239 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_30_00_05_45.csv
+    last -> modulescanner-report-2020_03_31_00_32_49.csv
 
-Parsed 3,180,072 lines in total.
-  50,920 -> captions skipped
-  263,984 -> duplicates skipped
-  146,665 -> module related
+Parsed 3,185,610 lines in total.
+  50,982 -> captions skipped
+  264,845 -> duplicates skipped
+  147,958 -> module related
 
-Collected 6,308 unique modules.
-  automatic :cd: -> 4,569
+Collected 6,311 unique modules.
+  automatic :cd: -> 4,572
   explicit :dvd: -> 1,739
 
 ## Samples
@@ -50,7 +50,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=6672, explicit=578, plain=168375}` 	 4.31%
+ - `2020_03={automatic=7431, explicit=593, plain=171697}` 	 4.67%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +113,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [14798](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20397](suspicious/naming.md)
-- Modular impostors: [7323](suspicious/impostors.md)
+- Invalid module names: [15087](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20604](suspicious/naming.md)
+- Modular impostors: [7346](suspicious/impostors.md)
 
-## Unique Modules (6308)
+## Unique Modules (6311)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -992,24 +992,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.66`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
-- :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.13`
-- :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.13`
-- :dvd: `io.github.factoryfx.factory` - `io.github.factoryfx:factory:2.2.13`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` - `io.github.factoryfx:javafxDistributionClient:2.2.13`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` - `io.github.factoryfx:javafxDistributionServer:2.2.13`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` - `io.github.factoryfx:javafxFactoryEditing:2.2.13`
+- :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
+- :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
+- :dvd: `io.github.factoryfx.factory` - `io.github.factoryfx:factory:2.2.14`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` - `io.github.factoryfx:javafxDistributionClient:2.2.14`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` - `io.github.factoryfx:javafxDistributionServer:2.2.14`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` - `io.github.factoryfx:javafxFactoryEditing:2.2.14`
 - :dvd: `io.github.factoryfx.javascript` - `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` - `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` - `io.github.factoryfx:jettyFactory:2.2.13`
-- :dvd: `io.github.factoryfx.microserviceRestClient` - `io.github.factoryfx:microserviceRestClient:2.2.13`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` - `io.github.factoryfx:microserviceRestCommon:2.2.13`
+- :dvd: `io.github.factoryfx.jettyFactory` - `io.github.factoryfx:jettyFactory:2.2.14`
+- :dvd: `io.github.factoryfx.microserviceRestClient` - `io.github.factoryfx:microserviceRestClient:2.2.14`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` - `io.github.factoryfx:microserviceRestCommon:2.2.14`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` - `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` - `io.github.factoryfx:oracledbStorage:2.2.13`
-- :dvd: `io.github.factoryfx.postgresqlStorage` - `io.github.factoryfx:postgresqlStorage:2.2.13`
-- :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.13`
-- :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.13`
-- :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.13`
+- :dvd: `io.github.factoryfx.oracledbStorage` - `io.github.factoryfx:oracledbStorage:2.2.14`
+- :dvd: `io.github.factoryfx.postgresqlStorage` - `io.github.factoryfx:postgresqlStorage:2.2.14`
+- :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.14`
+- :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.14`
+- :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.14`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` - `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` - `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
 - :dvd: `io.github.jsoagger.core.bridge` - `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
@@ -1187,7 +1187,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
 - :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-rc1`
-- :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC1`
+- :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC2`
 - :dvd: `jakarta.ws.rs` - `jakarta.ws.rs:jakarta.ws.rs-api:3.0.0-M1`
 - :dvd: `jakarta.xml.bind` - `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC2`
 - :dvd: `jakarta.xml.bind.tests.src` - `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC2`
