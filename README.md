@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6311 Java modules published at Maven Central
+Counted 6324 Java modules published at Maven Central
 
-## Summary 2020-03-31T01:00:43.791893Z
+## Summary 2020-04-01T01:01:32.178890Z
 
 ```
 ## Summary
 
-Started scan at 2020-03-31T01:00:43.791893Z
-Scanned 47,239 files in 7 seconds.
+Started scan at 2020-04-01T01:01:32.178890Z
+Scanned 47,321 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_03_31_00_32_49.csv
+    last -> modulescanner-report-2020_04_01_00_24_24.csv
 
-Parsed 3,185,610 lines in total.
-  50,982 -> captions skipped
-  264,845 -> duplicates skipped
-  147,958 -> module related
+Parsed 3,192,172 lines in total.
+  51,064 -> captions skipped
+  265,854 -> duplicates skipped
+  148,884 -> module related
 
-Collected 6,311 unique modules.
-  automatic :cd: -> 4,572
-  explicit :dvd: -> 1,739
+Collected 6,324 unique modules.
+  automatic :cd: -> 4,578
+  explicit :dvd: -> 1,746
 
 ## Samples
             junit -> junit:junit:4.13
@@ -50,7 +50,8 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
- - `2020_03={automatic=7431, explicit=593, plain=171697}` 	 4.67%
+ - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
+ - `2020_04={plain=1}` 	 0.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -113,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15087](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20604](suspicious/naming.md)
-- Modular impostors: [7346](suspicious/impostors.md)
+- Invalid module names: [15474](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20660](suspicious/naming.md)
+- Modular impostors: [7366](suspicious/impostors.md)
 
-## Unique Modules (6311)
+## Unique Modules (6324)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -415,6 +416,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` - `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc:pouch.core:2.0`
+- :dvd: `com.github.cowwoc.requirements.annotations` - `com.github.cowwoc.requirements:annotations:6.0.0`
+- :dvd: `com.github.cowwoc.requirements.generator` - `com.github.cowwoc.requirements:code_generator:6.0.0`
+- :dvd: `com.github.cowwoc.requirements.guava` - `com.github.cowwoc.requirements:guava:6.0.0`
+- :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.0`
+- :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.0`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
 - :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.2.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
@@ -460,7 +466,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.connect` - `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
-- :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.11`
+- :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
 - :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.16`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
@@ -794,18 +800,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` - `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.8.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.8.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.9.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` - `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` - `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` - `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1217,6 +1223,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` - `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` - `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
+- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.2.0`
+- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.2.0`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
