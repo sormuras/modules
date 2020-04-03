@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6325 Java modules published at Maven Central
+Counted 6334 Java modules published at Maven Central
 
-## Summary 2020-04-02T01:01:35.776533Z
+## Summary 2020-04-03T01:02:27.226010Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-02T01:01:35.776533Z
-Scanned 47,393 files in 6 seconds.
+Started scan at 2020-04-03T01:02:27.226010Z
+Scanned 47,470 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_02_00_32_56.csv
+    last -> modulescanner-report-2020_04_03_00_52_20.csv
 
-Parsed 3,197,636 lines in total.
-  51,136 -> captions skipped
-  266,477 -> duplicates skipped
-  149,263 -> module related
+Parsed 3,203,664 lines in total.
+  51,212 -> captions skipped
+  267,219 -> duplicates skipped
+  149,661 -> module related
 
-Collected 6,325 unique modules.
-  automatic :cd: -> 4,578
-  explicit :dvd: -> 1,747
+Collected 6,334 unique modules.
+  automatic :cd: -> 4,585
+  explicit :dvd: -> 1,749
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=279, explicit=4, plain=4391}` 	 6.45%
+ - `2020_04={automatic=569, explicit=15, plain=9203}` 	 6.35%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15475](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20693](suspicious/naming.md)
-- Modular impostors: [7428](suspicious/impostors.md)
+- Invalid module names: [15476](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20755](suspicious/naming.md)
+- Modular impostors: [7462](suspicious/impostors.md)
 
-## Unique Modules (6325)
+## Unique Modules (6334)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -364,8 +364,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.5.1`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
+- :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
 - :dvd: `com.entityassist` - `com.entityassist:entity-assist:62`
 - :dvd: `com.fasterxml.aalto` - `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` - `com.fasterxml:classmate:1.5.1`
@@ -424,7 +426,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
 - :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.2.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
-- :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.2`
+- :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.3`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
 - :dvd: `com.github.marschall.getrandom` - `com.github.marschall:getrandom-provider:0.1.1`
 - :dvd: `com.github.marschall.jfr.jdbc` - `com.github.marschall:jfr-jdbc:0.4.0`
@@ -525,10 +527,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
-- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.1`
-- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.1`
-- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.1`
-- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.1`
+- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.2`
+- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.2`
+- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.2`
+- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.2`
 - :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.1`
 - :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.1`
 - :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.2`
@@ -994,7 +996,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.5.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.67`
@@ -1224,8 +1226,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` - `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` - `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.2.0`
-- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.2.0`
+- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.0`
+- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.0`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
@@ -1606,7 +1608,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.kordamp.ikonli.zondicons` - `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.5`
 - :dvd: `org.lanternpowered.lmbda` - `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` - `org.leadpony.joy:joy:1.3.0`
-- :dvd: `org.leadpony.justify` - `org.leadpony.justify:justify:2.0.0`
+- :dvd: `org.leadpony.justify` - `org.leadpony.justify:justify:2.1.0`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
