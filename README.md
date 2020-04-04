@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 6334 Java modules published at Maven Central
+Counted 6335 Java modules published at Maven Central
 
-## Summary 2020-04-03T01:02:27.226010Z
+## Summary 2020-04-04T01:02:30.502335Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-03T01:02:27.226010Z
-Scanned 47,470 files in 6 seconds.
+Started scan at 2020-04-04T01:02:30.502335Z
+Scanned 47,543 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_03_00_52_20.csv
+    last -> modulescanner-report-2020_04_04_00_44_17.csv
 
-Parsed 3,203,664 lines in total.
-  51,212 -> captions skipped
-  267,219 -> duplicates skipped
-  149,661 -> module related
+Parsed 3,209,426 lines in total.
+  51,285 -> captions skipped
+  268,022 -> duplicates skipped
+  150,029 -> module related
 
-Collected 6,334 unique modules.
-  automatic :cd: -> 4,585
+Collected 6,335 unique modules.
+  automatic :cd: -> 4,586
   explicit :dvd: -> 1,749
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.1
-org.objectweb.asm -> org.ow2.asm:asm:8.0
+org.objectweb.asm -> org.ow2.asm:asm:8.0.1
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=569, explicit=15, plain=9203}` 	 6.35%
+ - `2020_04={automatic=829, explicit=39, plain=13721}` 	 6.33%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,10 +115,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [15476](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20755](suspicious/naming.md)
-- Modular impostors: [7462](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20832](suspicious/naming.md)
+- Modular impostors: [7469](suspicious/impostors.md)
 
-## Unique Modules (6334)
+## Unique Modules (6335)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -304,13 +304,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.3`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.3.0`
-- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.1`
-- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.0`
-- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.1.0`
-- :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.3`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.4.0`
+- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.2`
+- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.1`
+- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.0`
+- :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.0`
-- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.4.0`
+- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.2`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
@@ -527,12 +527,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
-- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.2`
-- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.2`
-- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.2`
-- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.2`
-- :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.1`
-- :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.1`
+- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.3`
+- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.3`
+- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.3`
+- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.3`
+- :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.4`
+- :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.4`
 - :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.2`
 - :dvd: `com.io7m.jbssio.vanilla` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.vanilla:0.0.2`
 - :dvd: `com.io7m.jcip.annotations` :left_right_arrow: `com.io7m.jcip:com.io7m.jcip.annotations:2.0.0`
@@ -1041,9 +1041,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.robertograham.rleparser` - `io.github.robertograham:rle-parser-module:1.0.0`
 - :dvd: `io.github.sskorol.testdatasupplier` - `io.github.sskorol:test-data-supplier:1.9.0`
 - :dvd: `io.github.threetenjaxb.core` - `io.github.threeten-jaxb:threeten-jaxb-core:1.2`
-- :dvd: `io.github.tomdw.java.modules.spring.integration.tests` - `io.github.tomdw.java.modules.spring:integration-tests:0.0.2`
-- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` - `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.2`
-- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` - `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.2`
+- :dvd: `io.github.tomdw.java.modules.spring.integration.tests` - `io.github.tomdw.java.modules.spring:integration-tests:0.0.3`
+- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` - `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.3`
+- :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.speaker` - `io.github.tomdw.java.modules.spring.samples.basicapplication:speaker:0.0.3`
 - :dvd: `io.helidon.bundles.config` - `io.helidon.bundles:helidon-bundles-config:2.0.0-M2`
 - :dvd: `io.helidon.bundles.jersey` - `io.helidon.bundles:helidon-bundles-jersey:2.0.0-M2`
 - :dvd: `io.helidon.bundles.webserver` - `io.helidon.bundles:helidon-bundles-webserver:2.0.0-M2`
@@ -1190,7 +1190,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.2.1`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.3.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
@@ -1274,7 +1274,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.lds.persistence.postgres` - `no.ssb.lds:linked-data-store-persistence-provider-postgres:0.7`
 - :dvd: `no.ssb.lds.search.api` - `no.ssb.lds:linked-data-store-search-provider-api:0.4`
 - :dvd: `no.ssb.rawdata.api` - `no.ssb.rawdata:rawdata-client-api:0.23`
-- :dvd: `no.ssb.rawdata.avro` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.8`
+- :dvd: `no.ssb.rawdata.avro` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.9`
 - :dvd: `no.ssb.rawdata.encryption` - `no.ssb.rawdata:rawdata-crypto-util:0.1`
 - :dvd: `no.ssb.rawdata.gcs` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.7`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
@@ -1663,13 +1663,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.0`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` - `org.myire:thrice:3.1`
-- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0`
+- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0.1`
 - :dvd: `org.objectweb.asm.all` - `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` - `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:8.0`
-- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:8.0`
-- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0`
-- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0`
+- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:8.0.1`
+- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:8.0.1`
+- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0.1`
+- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0.1`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:4.0.7`
 - :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:4.0.7`
