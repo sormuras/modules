@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6335 Java modules published at Maven Central
+Counted 6360 Java modules published at Maven Central
 
-## Summary 2020-04-04T01:02:30.502335Z
+## Summary 2020-04-05T01:03:40.306Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-04T01:02:30.502335Z
-Scanned 47,543 files in 5 seconds.
+Started scan at 2020-04-05T01:03:40.306Z
+Scanned 47,592 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_04_00_44_17.csv
+    last -> modulescanner-report-2020_04_05_00_43_45.csv
 
-Parsed 3,209,426 lines in total.
-  51,285 -> captions skipped
-  268,022 -> duplicates skipped
-  150,029 -> module related
+Parsed 3,211,087 lines in total.
+  51,334 -> captions skipped
+  268,126 -> duplicates skipped
+  150,104 -> module related
 
-Collected 6,335 unique modules.
-  automatic :cd: -> 4,586
-  explicit :dvd: -> 1,749
+Collected 6,360 unique modules.
+  automatic :cd: -> 4,593
+  explicit :dvd: -> 1,767
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=829, explicit=39, plain=13721}` 	 6.33%
+ - `2020_04={automatic=862, explicit=71, plain=15154}` 	 6.16%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,9 +116,9 @@ Module names listed in this section didn't make it into the `modules.properties`
 
 - Invalid module names: [15476](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20832](suspicious/naming.md)
-- Modular impostors: [7469](suspicious/impostors.md)
+- Modular impostors: [7479](suspicious/impostors.md)
 
-## Unique Modules (6335)
+## Unique Modules (6360)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -470,7 +470,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.16`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.17`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -527,10 +527,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
-- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:0.0.3`
-- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:0.0.3`
-- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:0.0.3`
-- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:0.0.3`
+- :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:1.0.1`
+- :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:1.0.1`
+- :dvd: `com.io7m.jade.spi` :left_right_arrow: `com.io7m.jade:com.io7m.jade.spi:1.0.1`
+- :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:1.0.1`
 - :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.4`
 - :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.4`
 - :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.2`
@@ -605,15 +605,33 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:1.0.3`
-- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:1.0.3`
-- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:1.0.3`
+- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:2.0.0`
+- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:2.0.0`
+- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:2.0.0`
 - :dvd: `com.io7m.jxe.core` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.core:0.0.2`
 - :dvd: `com.io7m.jxe.documentation` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.documentation:0.0.2`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
 - :dvd: `com.io7m.mutable.numbers.documentation` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.documentation:2.0.0`
+- :dvd: `com.io7m.smfj.core` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.core:0.15.0`
+- :dvd: `com.io7m.smfj.format.binary2` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.format.binary2:0.15.0`
+- :dvd: `com.io7m.smfj.format.obj` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.format.obj:0.15.0`
+- :dvd: `com.io7m.smfj.format.support` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.format.support:0.15.0`
+- :dvd: `com.io7m.smfj.format.text` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.format.text:0.15.0`
+- :dvd: `com.io7m.smfj.format.xml` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.format.xml:0.15.0`
+- :dvd: `com.io7m.smfj.frontend` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.frontend:0.15.0`
+- :dvd: `com.io7m.smfj.parser.api` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.parser.api:0.15.0`
+- :dvd: `com.io7m.smfj.probe.api` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.probe.api:0.15.0`
+- :dvd: `com.io7m.smfj.processing.api` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.processing.api:0.15.0`
+- :dvd: `com.io7m.smfj.processing.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.processing.main:0.15.0`
+- :dvd: `com.io7m.smfj.serializer.api` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.serializer.api:0.15.0`
+- :dvd: `com.io7m.smfj.validation.api` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.api:0.15.0`
+- :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
+- :dvd: `com.io7m.zeptoblog.cmdline` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.cmdline:0.4.0`
+- :dvd: `com.io7m.zeptoblog.commonmark` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.commonmark:0.4.0`
+- :dvd: `com.io7m.zeptoblog.core` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.core:0.4.0`
+- :dvd: `com.io7m.zeptoblog.glossary` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.glossary:0.4.0`
 - :dvd: `com.jamesratzlaff.bitmanip` - `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` - `com.jamesratzlaff:byte-functions:2019.04.01`
 - :dvd: `com.jfoenix` - `com.jfoenix:jfoenix:9.0.9`
@@ -999,7 +1017,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.67`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.68`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1555,7 +1573,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.46`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.47`
 - :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.31`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.1`
