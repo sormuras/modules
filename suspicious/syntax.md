@@ -6655,6 +6655,10 @@
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.6` // `au.com.dius,pact-specification-test,4.0.6,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.7` // `au.com.dius,pact-specification-test,4.0.7,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.8` // `au.com.dius,pact-specification-test,4.0.8,au.com.dius.pact-specification-test,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact_jvm_consumer_specs2_2.12` - `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.9` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.9,au.com.dius.pact_jvm_consumer_specs2_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact_jvm_provider_scalasupport_2.12` - `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.9` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.9,au.com.dius.pact_jvm_provider_scalasupport_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact_jvm_provider_scalatest_2.12` - `au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.9` // `au.com.dius,pact-jvm-provider-scalatest_2.12,4.0.9,au.com.dius.pact_jvm_provider_scalatest_2.12,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact_jvm_provider_specs2_2.12` - `au.com.dius:pact-jvm-provider-specs2_2.12:4.0.9` // `au.com.dius,pact-jvm-provider-specs2_2.12,4.0.9,au.com.dius.pact_jvm_provider_specs2_2.12,-,automatic,-,false,-`
 - :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0` // `org.simplejavamail,authenticated-socks-module,6.0.0,authenticated-socks-module,-,automatic,-,false,-`
 - :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0-rc1` // `org.simplejavamail,authenticated-socks-module,6.0.0-rc1,authenticated-socks-module,-,automatic,-,false,-`
 - :cd: `authenticated-socks-module` :left_right_arrow: `org.simplejavamail:authenticated-socks-module:6.0.0-rc2` // `org.simplejavamail,authenticated-socks-module,6.0.0-rc2,authenticated-socks-module,-,automatic,-,false,-`
@@ -13558,6 +13562,7 @@
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.17-192010` // `name.remal,public-data,2020.3.17-192010,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.27-233513` // `name.remal,public-data,2020.3.27-233513,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.4-000015` // `name.remal,public-data,2020.3.4-000015,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` - `name.remal:public-data:2020.4.1-211010` // `name.remal,public-data,2020.4.1-211010,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-builds-jvm-stripper` - `net.bzzt:reproducible-builds-jvm-stripper:0.9` // `net.bzzt,reproducible-builds-jvm-stripper,0.9,net.bzzt.reproducible-builds-jvm-stripper,-,automatic,-,false,-`
@@ -13771,6 +13776,7 @@
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M2` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M2,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M3` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M3,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M4` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M4,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
+- :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M5` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M5,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` - `org.drools:drools-canonical-model:7.10.0.Final` // `org.drools,drools-canonical-model,7.10.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` - `org.drools:drools-canonical-model:7.11.0.Final` // `org.drools,drools-canonical-model,7.11.0.Final,org.drools.canonical-model,-,automatic,-,false,-`
 - :cd: `org.drools.canonical-model` - `org.drools:drools-canonical-model:7.12.0.Final` // `org.drools,drools-canonical-model,7.12.0.Final,org.drools.canonical-model,-,automatic,-,false,-`

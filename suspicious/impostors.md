@@ -4107,6 +4107,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.2-jre14,jakarta.mail,1.0.6.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.3-jre14,jakarta.mail,1.0.6.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.4-jre14,jakarta.mail,1.0.6.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.5-jre14,jakarta.mail,1.0.6.5-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -4678,6 +4679,7 @@
 - :cd: `net.corda.verifier` - `net.corda:corda-deterministic-verifier:4.0` // `net.corda,corda-deterministic-verifier,4.0,net.corda.verifier,-,automatic,-,false,-`
 - :cd: `net.corda.verifier` - `net.corda:corda-deterministic-verifier:4.3` // `net.corda,corda-deterministic-verifier,4.3,net.corda.verifier,-,automatic,-,false,-`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:xhttp:3.0.0` // `net.dongliu,xhttp,3.0.0,net.dongliu.cute.http,-,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.gson + java.base + java.net.http + net.dongliu.commons + org.checkerframework.checker.qual,false,-`
+- :dvd: `net.dongliu.cute.http` - `net.dongliu:xhttp:3.1.0` // `net.dongliu,xhttp,3.1.0,net.dongliu.cute.http,-,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.gson + java.base + java.net.http + net.dongliu.commons + org.checkerframework.checker.qual,false,-`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-gson:1.2.2` // `net.dongliu,cute-http-gson,1.2.2,net.dongliu.cute.http.jsonb,-,explicit,com.google.gson + java.base + net.dongliu.cute.http + org.checkerframework.checker.qual,false,-`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-gson:3.0.0` // `net.dongliu,cute-http-gson,3.0.0,net.dongliu.cute.http.jsonb,-,explicit,com.google.gson + java.base + net.dongliu.cute.http + org.checkerframework.checker.qual,false,-`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jackson:1.1.2` // `net.dongliu,cute-http-jackson,1.1.2,net.dongliu.cute.http.jsonb,-,explicit,com.fasterxml.jackson.databind + java.base + net.dongliu.cute.http + org.checkerframework.checker.qual,false,-`
