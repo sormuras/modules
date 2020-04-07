@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6380 Java modules published at Maven Central
+Counted 6382 Java modules published at Maven Central
 
-## Summary 2020-04-06T01:04:09.335852Z
+## Summary 2020-04-07T01:04:11.559477Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-06T01:04:09.335852Z
-Scanned 47,637 files in 7 seconds.
+Started scan at 2020-04-07T01:04:11.559477Z
+Scanned 47,712 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_06_00_46_59.csv
+    last -> modulescanner-report-2020_04_07_00_53_46.csv
 
-Parsed 3,212,798 lines in total.
-  51,379 -> captions skipped
-  268,588 -> duplicates skipped
-  150,174 -> module related
+Parsed 3,218,756 lines in total.
+  51,454 -> captions skipped
+  269,025 -> duplicates skipped
+  150,662 -> module related
 
-Collected 6,380 unique modules.
-  automatic :cd: -> 4,613
-  explicit :dvd: -> 1,767
+Collected 6,382 unique modules.
+  automatic :cd: -> 4,614
+  explicit :dvd: -> 1,768
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=903, explicit=72, plain=16288}` 	 5.99%
+ - `2020_04={automatic=1168, explicit=88, plain=21246}` 	 5.91%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15482](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [20852](suspicious/naming.md)
-- Modular impostors: [7481](suspicious/impostors.md)
+- Invalid module names: [15508](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21013](suspicious/naming.md)
+- Modular impostors: [7501](suspicious/impostors.md)
 
-## Unique Modules (6380)
+## Unique Modules (6382)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -156,7 +156,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.util` - `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` - `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` - `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
-- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.1.2`
+- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.1.3`
 - :dvd: `be.yildizgames.engine.client.addon.ui` - `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` - `be.yildiz-games:engine-server:1.0.10`
 - :dvd: `be.yildizgames.engine.shared` - `be.yildiz-games:engine-shared:2.0.4`
@@ -309,12 +309,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
-- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.0`
+- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.2`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
+- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.2`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.1`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.5.0`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0`
@@ -407,7 +408,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0.rc1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
-- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.0`
+- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
 - :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.29`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
@@ -848,7 +849,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` - `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` - `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` - `com.samskivert:jmustache:1.15`
-- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.13.1`
+- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.14.0`
 - :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.7`
 - :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.7`
 - :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.7`
@@ -1381,8 +1382,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bitbucket.cowwoc.requirements.natives` - `org.bitbucket.cowwoc.requirements:natives:5.2.2`
 - :dvd: `org.bouncycastle.fips.core` - `org.bouncycastle:bc-fips:1.0.2`
 - :dvd: `org.bouncycastle.fips.pkix` - `org.bouncycastle:bcpkix-fips:1.0.3`
-- :dvd: `org.bouncycastle.fips.tls` - `org.bouncycastle:bctls-fips:1.0.9`
-- :dvd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15on:1.64`
+- :dvd: `org.bouncycastle.fips.tls` - `org.bouncycastle:bctls-fips:1.0.10`
+- :dvd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15on:1.65`
 - :dvd: `org.bytedeco.ale` - `org.bytedeco:ale:0.6.0-1.5.2`
 - :dvd: `org.bytedeco.ale.platform` - `org.bytedeco:ale-platform:0.6.0-1.5.2`
 - :dvd: `org.bytedeco.arpackng` - `org.bytedeco:arpack-ng:3.7.0-1.5.2`
@@ -1473,14 +1474,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
 - :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.1`
 - :dvd: `org.controlsfx.samples` - `org.controlsfx:controlsfx-samples:11.0.1`
-- :dvd: `org.copperengine.cassandra.loadtest` - `org.copper-engine:cassandra-loadtest:5.1.0`
-- :dvd: `org.copperengine.cassandra.storage` - `org.copper-engine:cassandra-storage:5.1.0`
-- :dvd: `org.copperengine.core` - `org.copper-engine:copper-coreengine:5.1.0`
-- :dvd: `org.copperengine.ext` - `org.copper-engine:copper-ext:5.1.0`
-- :dvd: `org.copperengine.management` - `org.copper-engine:copper-jmx-interface:5.1.0`
-- :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.1.0`
-- :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.1.0`
-- :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.1.0`
+- :dvd: `org.copperengine.cassandra.loadtest` - `org.copper-engine:cassandra-loadtest:5.2.0`
+- :dvd: `org.copperengine.cassandra.storage` - `org.copper-engine:cassandra-storage:5.2.0`
+- :dvd: `org.copperengine.core` - `org.copper-engine:copper-coreengine:5.2.0`
+- :dvd: `org.copperengine.ext` - `org.copper-engine:copper-ext:5.2.0`
+- :dvd: `org.copperengine.management` - `org.copper-engine:copper-jmx-interface:5.2.0`
+- :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.2.0`
+- :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.2.0`
+- :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.3.1`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.3`
@@ -1568,7 +1569,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` - `org.joml:joml:1.9.23`
+- :dvd: `org.joml` - `org.joml:joml:1.9.24`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`

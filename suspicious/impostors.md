@@ -5133,6 +5133,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.75` // `io.nosqlbench,virtdata-lib-curves4,3.12.75,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.76` // `io.nosqlbench,virtdata-lib-curves4,3.12.76,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.77` // `io.nosqlbench,virtdata-lib-curves4,3.12.77,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.78` // `io.nosqlbench,virtdata-lib-curves4,3.12.78,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.79` // `io.nosqlbench,virtdata-lib-curves4,3.12.79,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5350,8 +5352,10 @@
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.62` // `org.bouncycastle,bcmail-jdk15on,1.62,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.63` // `org.bouncycastle,bcmail-jdk15on,1.63,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.64` // `org.bouncycastle,bcmail-jdk15on,1.64,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.65` // `org.bouncycastle,bcmail-jdk15on,1.65,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.63` // `org.bouncycastle,bcmail-jdk15to18,1.63,org.bouncycastle.mail,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.64` // `org.bouncycastle,bcmail-jdk15to18,1.64,org.bouncycastle.mail,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.65` // `org.bouncycastle,bcmail-jdk15to18,1.65,org.bouncycastle.mail,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.danielflower.apprunner:restabuild:0.6.0` // `com.danielflower.apprunner,restabuild,0.6.0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.google.gerrit:gerrit-acceptance-framework:3.1.0` // `com.google.gerrit,gerrit-acceptance-framework,3.1.0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.google.gerrit:gerrit-acceptance-framework:3.1.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.1.0-rc0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -5373,8 +5377,10 @@
 - :dvd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15on:1.62` // `org.bouncycastle,bcpg-jdk15on,1.62,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15on:1.63` // `org.bouncycastle,bcpg-jdk15on,1.63,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15on:1.64` // `org.bouncycastle,bcpg-jdk15on,1.64,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15on:1.65` // `org.bouncycastle,bcpg-jdk15on,1.65,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.63` // `org.bouncycastle,bcpg-jdk15to18,1.63,org.bouncycastle.pg,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.64` // `org.bouncycastle,bcpg-jdk15to18,1.64,org.bouncycastle.pg,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.65` // `org.bouncycastle,bcpg-jdk15to18,1.65,org.bouncycastle.pg,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.netbeans.external:bcpg:RELEASE113` // `org.netbeans.external,bcpg,RELEASE113,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.sonarsource.scm.git:sonar-scm-git-plugin:1.11.0.11` // `org.sonarsource.scm.git,sonar-scm-git-plugin,1.11.0.11,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.vafer:jdeb:1.8` // `org.vafer,jdeb,1.8,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -5439,13 +5445,17 @@
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.75` // `io.nosqlbench,nb,3.12.75,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.76` // `io.nosqlbench,nb,3.12.76,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.77` // `io.nosqlbench,nb,3.12.77,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.78` // `io.nosqlbench,nb,3.12.78,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.79` // `io.nosqlbench,nb,3.12.79,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.63` // `org.bouncycastle,bcpkix-jdk15on,1.63,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.64` // `org.bouncycastle,bcpkix-jdk15on,1.64,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.65` // `org.bouncycastle,bcpkix-jdk15on,1.65,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.63` // `org.bouncycastle,bcpkix-jdk15to18,1.63,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.64` // `org.bouncycastle,bcpkix-jdk15to18,1.64,org.bouncycastle.pkix,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.65` // `org.bouncycastle,bcpkix-jdk15to18,1.65,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:jwt-sample:2.7.0` // `org.wso2.msf4j,jwt-sample,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-fileserver:2.7.0` // `org.wso2.msf4j,petstore-fileserver,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-pet:2.7.0` // `org.wso2.msf4j,petstore-pet,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -5490,6 +5500,7 @@
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.63` // `org.bouncycastle,bcprov-debug-jdk15on,1.63,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.64` // `org.bouncycastle,bcprov-debug-jdk15on,1.64,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.65` // `org.bouncycastle,bcprov-debug-jdk15on,1.65,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15to18:1.64` // `org.bouncycastle,bcprov-debug-jdk15to18,1.64,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-ext-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-debug-jdk15on:1.62` // `org.bouncycastle,bcprov-ext-debug-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -5497,17 +5508,21 @@
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-jdk15on:1.62` // `org.bouncycastle,bcprov-ext-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-jdk15on:1.63` // `org.bouncycastle,bcprov-ext-jdk15on,1.63,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-jdk15on:1.64` // `org.bouncycastle,bcprov-ext-jdk15on,1.64,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-ext-jdk15on:1.65` // `org.bouncycastle,bcprov-ext-jdk15on,1.65,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk14:1.60` // `org.bouncycastle,bcprov-jdk14,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk14:1.61` // `org.bouncycastle,bcprov-jdk14,1.61,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk14:1.63` // `org.bouncycastle,bcprov-jdk14,1.63,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk14:1.64` // `org.bouncycastle,bcprov-jdk14,1.64,org.bouncycastle.provider,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk14:1.65` // `org.bouncycastle,bcprov-jdk14,1.65,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.60` // `org.bouncycastle,bcprov-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.61` // `org.bouncycastle,bcprov-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.62` // `org.bouncycastle,bcprov-jdk15on,1.62,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.63` // `org.bouncycastle,bcprov-jdk15on,1.63,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.64` // `org.bouncycastle,bcprov-jdk15on,1.64,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15on:1.65` // `org.bouncycastle,bcprov-jdk15on,1.65,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.63` // `org.bouncycastle,bcprov-jdk15to18,1.63,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.64` // `org.bouncycastle,bcprov-jdk15to18,1.64,org.bouncycastle.provider,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.65` // `org.bouncycastle,bcprov-jdk15to18,1.65,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.0` // `org.eclipse.milo,server-examples,0.3.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.1` // `org.eclipse.milo,server-examples,0.3.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -5555,8 +5570,10 @@
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk14:1.62` // `org.bouncycastle,bctls-jdk14,1.62,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk14:1.63` // `org.bouncycastle,bctls-jdk14,1.63,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk14:1.64` // `org.bouncycastle,bctls-jdk14,1.64,org.bouncycastle.tls,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk14:1.65` // `org.bouncycastle,bctls-jdk14,1.65,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.63` // `org.bouncycastle,bctls-jdk15to18,1.63,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.64` // `org.bouncycastle,bctls-jdk15to18,1.64,org.bouncycastle.tls,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.65` // `org.bouncycastle,bctls-jdk15to18,1.65,org.bouncycastle.tls,-,automatic,-,false,-`
 - :dvd: `org.bytedeco.caffe.platform` - `org.bytedeco:caffe-platform-gpu:1.0-1.5.2` // `org.bytedeco,caffe-platform-gpu,1.0-1.5.2,org.bytedeco.caffe.platform,-,explicit,java.base + org.bytedeco.caffe.linux.x86_64.gpu + org.bytedeco.caffe.macosx.x86_64.gpu,false,-`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.1-7.6-1.5.2` // `org.bytedeco,cuda-platform-redist,10.1-7.6-1.5.2,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.2-7.6-1.5.2` // `org.bytedeco,cuda-platform-redist,10.2-7.6-1.5.2,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
@@ -6475,6 +6492,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.3.0` // `com.github.collinalpert,java2db,5.3.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.4.0` // `com.github.collinalpert,java2db,5.4.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.0` // `com.github.collinalpert,java2db,5.5.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.1` // `com.github.collinalpert,java2db,5.5.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -6494,6 +6512,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.1.3` // `com.github.collinalpert,lambda2sql,2.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.1.4` // `com.github.collinalpert,lambda2sql,2.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2` // `com.github.collinalpert,lambda2sql,2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2.1` // `com.github.collinalpert,lambda2sql,2.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.1.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.21.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.22.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -6752,6 +6771,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.106` // `com.rookout,rook,0.1.106,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.107` // `com.rookout,rook,0.1.107,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.108` // `com.rookout,rook,0.1.108,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.109` // `com.rookout,rook,0.1.109,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
