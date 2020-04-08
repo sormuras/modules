@@ -4108,6 +4108,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.3-jre14,jakarta.mail,1.0.6.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.4-jre14,jakarta.mail,1.0.6.4-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.5-jre14,jakarta.mail,1.0.6.5-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.7-jre14,jakarta.mail,1.0.6.7-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -5135,6 +5136,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.77` // `io.nosqlbench,virtdata-lib-curves4,3.12.77,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.78` // `io.nosqlbench,virtdata-lib-curves4,3.12.78,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.79` // `io.nosqlbench,virtdata-lib-curves4,3.12.79,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.81` // `io.nosqlbench,virtdata-lib-curves4,3.12.81,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5243,6 +5245,7 @@
 - :dvd: `org.apache.logging.log4j` - `me.escoffier.fluid:review-example:0.8` // `me.escoffier.fluid,review-example,0.8,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.3` // `net.corda,corda-tools-blob-inspector,4.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.4` // `net.corda,corda-tools-blob-inspector,4.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.flink:statefun-ridesharing-example-simulator:2.0.0` // `org.apache.flink,statefun-ridesharing-example-simulator,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.hbase.operator.tools:hbase-hbck2:1.0.0` // `org.apache.hbase.operator.tools,hbase-hbck2,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.4.1` // `org.apache.pulsar,pulsar-functions-runtime-all,2.4.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.4.2` // `org.apache.pulsar,pulsar-functions-runtime-all,2.4.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5429,6 +5432,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.199.1` // `com.yahoo.vespa,vespa-hadoop,7.199.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.200.54` // `com.yahoo.vespa,vespa-hadoop,7.200.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.201.7` // `com.yahoo.vespa,vespa-hadoop,7.201.7,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.204.28` // `com.yahoo.vespa,vespa-hadoop,7.204.28,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -5447,6 +5451,7 @@
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.77` // `io.nosqlbench,nb,3.12.77,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.78` // `io.nosqlbench,nb,3.12.78,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.79` // `io.nosqlbench,nb,3.12.79,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.81` // `io.nosqlbench,nb,3.12.81,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6712,6 +6717,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.5.1` // `com.netflix.nebula,gradle-lint-plugin,16.5.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.5.2` // `com.netflix.nebula,gradle-lint-plugin,16.5.2,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.6.0` // `com.netflix.nebula,gradle-lint-plugin,16.6.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.7.0` // `com.netflix.nebula,gradle-lint-plugin,16.7.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -6751,6 +6757,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.31.5` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.31.5,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.32.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.32.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.33.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.33.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.34.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.34.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.8` // `com.uber.nullaway,jar-infer-cli,0.7.8,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`

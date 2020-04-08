@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6382 Java modules published at Maven Central
+Counted 6396 Java modules published at Maven Central
 
-## Summary 2020-04-07T01:04:11.559477Z
+## Summary 2020-04-08T01:05:05.203603Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-07T01:04:11.559477Z
-Scanned 47,712 files in 7 seconds.
+Started scan at 2020-04-08T01:05:05.203603Z
+Scanned 47,815 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_07_00_53_46.csv
+    last -> modulescanner-report-2020_04_08_00_45_19.csv
 
-Parsed 3,218,756 lines in total.
-  51,454 -> captions skipped
-  269,025 -> duplicates skipped
-  150,662 -> module related
+Parsed 3,226,339 lines in total.
+  51,557 -> captions skipped
+  269,989 -> duplicates skipped
+  150,996 -> module related
 
-Collected 6,382 unique modules.
-  automatic :cd: -> 4,614
-  explicit :dvd: -> 1,768
+Collected 6,396 unique modules.
+  automatic :cd: -> 4,627
+  explicit :dvd: -> 1,769
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1168, explicit=88, plain=21246}` 	 5.91%
+ - `2020_04={automatic=1431, explicit=120, plain=27428}` 	 5.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15508](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21013](suspicious/naming.md)
-- Modular impostors: [7501](suspicious/impostors.md)
+- Invalid module names: [15515](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21038](suspicious/naming.md)
+- Modular impostors: [7508](suspicious/impostors.md)
 
-## Unique Modules (6382)
+## Unique Modules (6396)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -234,9 +234,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.3.5`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.3.5`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.3.5`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.0`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.0`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.0`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -303,7 +303,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.8`
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.3`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.4.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.2`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.1`
@@ -314,16 +314,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.2`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
+- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.2`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.1`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.5.0`
-- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.4.0`
-- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.5.0`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.5.0`
-- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.0.1`
-- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.3.0`
-- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.4.0`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.6.0`
+- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.0`
+- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.0`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.6.0`
+- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.0`
+- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.0`
+- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.0`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha1`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha1`
 - :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha1`
@@ -642,7 +643,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
-- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.0.0`
+- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.0`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
 - :dvd: `com.jwebmp.core.angularjs` - `com.jwebmp:jwebmp-angularjs:0.66.0.1`
@@ -894,16 +895,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.squedgy.utilities` - `com.squedgy:my-utilities:1.4`
-- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:4.0.0-M1`
-- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:4.0.0-M1`
-- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:4.0.0-M1`
-- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:2.3.3-b02`
-- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:2.3.3-b02`
+- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:4.0.0-M2`
+- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:4.0.0-M2`
+- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:4.0.0-M2`
+- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M1`
+- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M1`
 - :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.3`
-- :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:2.0.0-M1`
-- :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:2.0.0-M1`
-- :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:2.0.0-M1`
-- :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:1.5.2-b01`
+- :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:2.0.0-M2`
+- :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:2.0.0-M2`
+- :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:2.0.0-M2`
+- :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:2.0.0-M1`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
 - :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3-b01`
 - :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:2.3.3-b01`
@@ -1214,13 +1215,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC1`
-- :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-rc1`
+- :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-RC2`
 - :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC2`
 - :dvd: `jakarta.ws.rs` - `jakarta.ws.rs:jakarta.ws.rs-api:3.0.0-M1`
-- :dvd: `jakarta.xml.bind` - `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC2`
-- :dvd: `jakarta.xml.bind.tests.src` - `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC2`
-- :dvd: `jakarta.xml.soap` - `jakarta.xml.soap:jakarta.xml.soap-api:2.0.0-RC2`
-- :dvd: `jakarta.xml.ws` - `jakarta.xml.ws:jakarta.xml.ws-api:3.0.0-RC1`
+- :dvd: `jakarta.xml.bind` - `jakarta.xml.bind:jakarta.xml.bind-api:3.0.0-RC3`
+- :dvd: `jakarta.xml.bind.tests.src` - `jakarta.xml.bind:jakarta.xml.bind-api-test:3.0.0-RC3`
+- :dvd: `jakarta.xml.soap` - `jakarta.xml.soap:jakarta.xml.soap-api:2.0.0-RC3`
+- :dvd: `jakarta.xml.ws` - `jakarta.xml.ws:jakarta.xml.ws-api:3.0.0-RC2`
 - :dvd: `java.json` - `javax.json:javax.json-api:1.1.4`
 - :dvd: `javax.jws` - `javax.jws:javax.jws-api:1.1`
 - :dvd: `jfxtras.agenda` - `org.jfxtras:jfxtras-agenda:10.0-r1`
@@ -1543,7 +1544,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.websocket.util` - `org.eclipse.jetty.websocket:websocket-util:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha2`
-- :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.6`
+- :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.7`
 - :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.27`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
@@ -1574,8 +1575,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.47`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.31`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.48`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.32`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.1`
@@ -1591,7 +1592,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.1`
 - :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.1`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.13`
-- :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:2.0.0-M1`
+- :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:2.0.0-M2`
 - :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`
 - :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.3.5`
 - :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.3.5`
@@ -1889,5 +1890,5 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.text.template.basic` - `xyz.cofe:basic-template:1.0`
 - :dvd: `xyz.cofe.typeconv` - `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` - `xyz.cofe:types-spi:1.1`
-- :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.1`
+- :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.2`
 - :dvd: `xyz.ielis.hyperutil.reference` - `xyz.ielis.hyperutil:hyperutil-reference:0.1.2`
