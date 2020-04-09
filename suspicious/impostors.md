@@ -2314,10 +2314,12 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.7.1` // `io.jooby,jooby-cli,2.7.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.7.2` // `io.jooby,jooby-cli,2.7.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.7.3` // `io.jooby,jooby-cli,2.7.3,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.0` // `io.jooby,jooby-cli,2.8.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.5` // `org.jboss.gm,cli,1.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6` // `org.jboss.gm,cli,1.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.1` // `org.jboss.gm,cli,1.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.2` // `org.jboss.gm,cli,1.6.2,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `org.jboss.gm:cli:1.8` // `org.jboss.gm,cli,1.8,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `io.annot8.components.text` - `io.annot8:annot8-components-types:0.4.0` // `io.annot8,annot8-components-types,0.4.0,io.annot8.components.text,0.4.0,explicit,io.annot8.api + io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + java.json.bind + org.slf4j,false,-`
 - :cd: `io.cucumber.core` - `com.github.harry389:cucumber-core:5.0.0-RC3` // `com.github.harry389,cucumber-core,5.0.0-RC3,io.cucumber.core,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
@@ -2918,6 +2920,7 @@
 - :cd: `io.micronaut.configuration.mongo_reactive` - `io.micronaut.configuration:micronaut-mongo-reactive:1.2.0` // `io.micronaut.configuration,micronaut-mongo-reactive,1.2.0,io.micronaut.configuration.mongo_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.mongo_reactive` - `io.micronaut.configuration:micronaut-mongo-reactive:1.3.0` // `io.micronaut.configuration,micronaut-mongo-reactive,1.3.0,io.micronaut.configuration.mongo_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.mongo_reactive` - `io.micronaut.configuration:micronaut-mongo-reactive:2.0.0` // `io.micronaut.configuration,micronaut-mongo-reactive,2.0.0,io.micronaut.configuration.mongo_reactive,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.mongo_reactive` - `io.micronaut.configuration:micronaut-mongo-reactive:2.0.1` // `io.micronaut.configuration,micronaut-mongo-reactive,2.0.1,io.micronaut.configuration.mongo_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.multitenancy_gorm` - `io.micronaut.configuration:micronaut-multitenancy-gorm:1.0.0` // `io.micronaut.configuration,micronaut-multitenancy-gorm,1.0.0,io.micronaut.configuration.multitenancy_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.multitenancy_gorm` - `io.micronaut.configuration:micronaut-multitenancy-gorm:1.0.0.RC3` // `io.micronaut.configuration,micronaut-multitenancy-gorm,1.0.0.RC3,io.micronaut.configuration.multitenancy_gorm,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.multitenancy_gorm` - `io.micronaut.configuration:micronaut-multitenancy-gorm:1.0.1` // `io.micronaut.configuration,micronaut-multitenancy-gorm,1.0.1,io.micronaut.configuration.multitenancy_gorm,-,automatic,-,false,-`
@@ -4109,6 +4112,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.4-jre14,jakarta.mail,1.0.6.4-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.5-jre14,jakarta.mail,1.0.6.5-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.7-jre14,jakarta.mail,1.0.6.7-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.0-jre14,jakarta.mail,1.0.7.0-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -4139,6 +4143,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.116.0` // `org.finra.herd,herd-access-validator,0.116.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.117.0` // `org.finra.herd,herd-access-validator,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.118.0` // `org.finra.herd,herd-access-validator,0.118.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.119.0` // `org.finra.herd,herd-access-validator,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
@@ -4156,6 +4161,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.116.0` // `org.finra.herd,herd-downloader,0.116.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.117.0` // `org.finra.herd,herd-downloader,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.118.0` // `org.finra.herd,herd-downloader,0.118.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-downloader:0.119.0` // `org.finra.herd,herd-downloader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4186,6 +4192,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.116.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.116.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.117.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.118.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.118.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.119.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4216,6 +4223,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.116.0` // `org.finra.herd,herd-retention-expiration-exporter,0.116.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.117.0` // `org.finra.herd,herd-retention-expiration-exporter,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.118.0` // `org.finra.herd,herd-retention-expiration-exporter,0.118.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.119.0` // `org.finra.herd,herd-retention-expiration-exporter,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4246,6 +4254,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.116.0` // `org.finra.herd,herd-uploader,0.116.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.117.0` // `org.finra.herd,herd-uploader,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.118.0` // `org.finra.herd,herd-uploader,0.118.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-uploader:0.119.0` // `org.finra.herd,herd-uploader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4627,6 +4636,7 @@
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.3` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.4` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.4,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-2-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-2-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5033,6 +5043,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.0` // `com.sagframe,sqltoy-quickvo,4.10.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.1` // `com.sagframe,sqltoy-quickvo,4.10.1,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.13` // `com.sagframe,sqltoy-quickvo,4.9.13,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.9` // `com.sagframe,sqltoy-quickvo,4.9.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.snowflake:snowflake-kafka-connector:1.1.0` // `com.snowflake,snowflake-kafka-connector,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5137,6 +5148,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.78` // `io.nosqlbench,virtdata-lib-curves4,3.12.78,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.79` // `io.nosqlbench,virtdata-lib-curves4,3.12.79,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.81` // `io.nosqlbench,virtdata-lib-curves4,3.12.81,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.82` // `io.nosqlbench,virtdata-lib-curves4,3.12.82,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5452,6 +5464,7 @@
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.78` // `io.nosqlbench,nb,3.12.78,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.79` // `io.nosqlbench,nb,3.12.79,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.81` // `io.nosqlbench,nb,3.12.81,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.82` // `io.nosqlbench,nb,3.12.82,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.60` // `org.bouncycastle,bcpkix-jdk15on,1.60,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.61` // `org.bouncycastle,bcpkix-jdk15on,1.61,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15on:1.62` // `org.bouncycastle,bcpkix-jdk15on,1.62,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -5543,6 +5556,7 @@
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.6` // `org.eclipse.milo,server-examples,0.3.6,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.7` // `org.eclipse.milo,server-examples,0.3.7,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.8` // `org.eclipse.milo,server-examples,0.3.8,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.0` // `org.eclipse.milo,server-examples,0.4.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.netbeans.external:bcprov:RELEASE113` // `org.netbeans.external,bcprov,RELEASE113,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -5856,9 +5870,11 @@
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:stack-tests:0.3.4` // `org.eclipse.milo,stack-tests,0.3.4,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:stack-tests:0.3.5` // `org.eclipse.milo,stack-tests,0.3.5,org.eclipse.milo.opcua,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua` - `org.eclipse.milo:stack-tests:0.3.6` // `org.eclipse.milo,stack-tests,0.3.6,org.eclipse.milo.opcua,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.0` // `org.eclipse.milo,bsd-core,0.4.0,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` - `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
+- :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.4.3` // `org.noear,solonjt.executor.s.graaljs,1.0.4.3,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-core:2.1` // `org.hamcrest,hamcrest-core,2.1,org.hamcrest,-,automatic,-,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-library:2.1` // `org.hamcrest,hamcrest-library,2.1,org.hamcrest,-,automatic,-,false,-`
 - :dvd: `org.hibernate.commons.annotations` - `com.guicedee.services:hibernate-commons-annotations:0.70.0.1` // `com.guicedee.services,hibernate-commons-annotations,0.70.0.1,org.hibernate.commons.annotations,0.70.0.1,explicit,java.base + java.compiler + org.jboss.logging,false,-`

@@ -6308,8 +6308,10 @@
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.7` // `org.eclipse.milo,sdk-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.8` // `org.eclipse.milo,sdk-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.4.0` // `org.eclipse.milo,sdk-tests,0.4.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.7` // `org.eclipse.milo,stack-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.8` // `org.eclipse.milo,stack-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.0` // `org.eclipse.milo,stack-tests,0.4.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.1` // `org.apache.openjpa,openjpa-kubernetes,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.1` // `org.apache.openjpa,openjpa-maven-plugin,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0` // `au.com.dius,pact-jvm-consumer,4.0.0,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -13151,6 +13153,7 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.16.0` // `com.synopsys.integration,polaris-common,0.16.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.17.0` // `com.synopsys.integration,polaris-common,0.17.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.18.0` // `com.synopsys.integration,polaris-common,0.18.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.19.0` // `com.synopsys.integration,polaris-common,0.19.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
@@ -14770,7 +14773,9 @@
 - :cd: `org.talend.sdk.component.runtime.updatable-component` - `org.talend.sdk.component:updatable-component:1.1.9` // `org.talend.sdk.component,updatable-component,1.1.9,org.talend.sdk.component.runtime.updatable-component,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime.urlvalidation-component` - `org.talend.sdk.component:urlvalidation-component:1.1.9` // `org.talend.sdk.component,urlvalidation-component,1.1.9,org.talend.sdk.component.runtime.urlvalidation-component,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.0-BETA` // `org.tools4j,elara-chronicle,1.0-BETA,org.tools4j.elara-chronicle,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.1` // `org.tools4j,elara-chronicle,1.1,org.tools4j.elara-chronicle,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.0-BETA` // `org.tools4j,elara-core,1.0-BETA,org.tools4j.elara-core,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.1` // `org.tools4j,elara-core,1.1,org.tools4j.elara-core,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.6` // `org.typemeta,funcj-codec,0.6.6,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.7` // `org.typemeta,funcj-codec,0.6.7,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec-core` - `org.typemeta:funcj-codec-core:0.6.11` // `org.typemeta,funcj-codec-core,0.6.11,org.typemeta.funcj-codec-core,-,automatic,-,false,-`

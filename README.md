@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6396 Java modules published at Maven Central
+Counted 6403 Java modules published at Maven Central
 
-## Summary 2020-04-08T01:05:05.203603Z
+## Summary 2020-04-09T01:05:59.787523Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-08T01:05:05.203603Z
-Scanned 47,815 files in 5 seconds.
+Started scan at 2020-04-09T01:05:59.787523Z
+Scanned 47,914 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_08_00_45_19.csv
+    last -> modulescanner-report-2020_04_09_00_45_43.csv
 
-Parsed 3,226,339 lines in total.
-  51,557 -> captions skipped
-  269,989 -> duplicates skipped
-  150,996 -> module related
+Parsed 3,233,541 lines in total.
+  51,653 -> captions skipped
+  271,083 -> duplicates skipped
+  151,330 -> module related
 
-Collected 6,396 unique modules.
-  automatic :cd: -> 4,627
-  explicit :dvd: -> 1,769
+Collected 6,403 unique modules.
+  automatic :cd: -> 4,631
+  explicit :dvd: -> 1,772
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1431, explicit=120, plain=27428}` 	 5.65%
+ - `2020_04={automatic=1692, explicit=140, plain=33106}` 	 5.53%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15515](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21038](suspicious/naming.md)
-- Modular impostors: [7508](suspicious/impostors.md)
+- Invalid module names: [15520](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21070](suspicious/naming.md)
+- Modular impostors: [7524](suspicious/impostors.md)
 
-## Unique Modules (6396)
+## Unique Modules (6403)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -234,9 +234,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.0`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.0`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.0`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.5`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.5`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.5`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -311,9 +311,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.2`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.2`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.2`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.3`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.3`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.3`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.2`
@@ -366,7 +366,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
-- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.5.1`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.5.2`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
@@ -426,7 +426,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.0`
 - :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.0`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
-- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.2.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.3.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.3`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
@@ -1554,6 +1554,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.importers` - `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.1.0`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
+- :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M1`
+- :dvd: `org.glassfish.jaxb.runtime` - `org.glassfish.jaxb:jaxb-runtime:3.0.0-M1`
+- :dvd: `org.glassfish.jaxb.xjc` - `org.glassfish.jaxb:jaxb-xjc:3.0.0-M1`
 - :dvd: `org.graalvm.js` - `org.graalvm.js:js:20.0.0`
 - :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:20.0.0`
 - :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:20.0.0`
