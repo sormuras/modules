@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6403 Java modules published at Maven Central
+Counted 6408 Java modules published at Maven Central
 
-## Summary 2020-04-09T01:05:59.787523Z
+## Summary 2020-04-10T01:07:06.103673Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-09T01:05:59.787523Z
-Scanned 47,914 files in 6 seconds.
+Started scan at 2020-04-10T01:07:06.103673Z
+Scanned 48,017 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_09_00_45_43.csv
+    last -> modulescanner-report-2020_04_10_00_50_23.csv
 
-Parsed 3,233,541 lines in total.
-  51,653 -> captions skipped
-  271,083 -> duplicates skipped
-  151,330 -> module related
+Parsed 3,238,765 lines in total.
+  51,754 -> captions skipped
+  271,563 -> duplicates skipped
+  151,430 -> module related
 
-Collected 6,403 unique modules.
-  automatic :cd: -> 4,631
+Collected 6,408 unique modules.
+  automatic :cd: -> 4,636
   explicit :dvd: -> 1,772
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1692, explicit=140, plain=33106}` 	 5.53%
+ - `2020_04={automatic=1719, explicit=148, plain=37649}` 	 4.96%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15520](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21070](suspicious/naming.md)
-- Modular impostors: [7524](suspicious/impostors.md)
+- Invalid module names: [15530](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21113](suspicious/naming.md)
+- Modular impostors: [7536](suspicious/impostors.md)
 
-## Unique Modules (6403)
+## Unique Modules (6408)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -234,9 +234,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.5`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.5`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.5`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.6`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.6`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.6`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -312,12 +312,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.3`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.0.3`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.3`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0-beta.1`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.2`
-- :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.1`
+- :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.6.0`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.0`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.0`
@@ -410,7 +410,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0.rc1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.29`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.30`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -472,7 +472,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.17`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.18`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`

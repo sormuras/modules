@@ -33,9 +33,11 @@
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.1.0` // `com.azure,azure-security-keyvault-keys,4.1.0,com.azure.security.keyvault.keys,4.1.0,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.1` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.1,com.azure.security.keyvault.keys,4.2.0-beta.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.2` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.2,com.azure.security.keyvault.keys,4.2.0-beta.2,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
+- :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.3` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.3,com.azure.security.keyvault.keys,4.2.0-beta.3,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.0.1` // `com.azure,azure-security-keyvault-secrets,4.0.1,com.azure.security.keyvault.secrets,4.0.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.1.0` // `com.azure,azure-security-keyvault-secrets,4.1.0,com.azure.security.keyvault.secrets,4.1.0,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.1` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.1,com.azure.security.keyvault.secrets,4.2.0-beta.1,explicit,com.azure.core + java.base,false,-`
+- :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.2` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.2,com.azure.security.keyvault.secrets,4.2.0-beta.2,explicit,com.azure.core + java.base,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha2,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha3,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
@@ -229,6 +231,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jre11.jackson.core:jackson-core:0.63.0.19` // `com.jwebmp.jre11.jackson.core,jackson-core,0.63.0.19,com.fasterxml.jackson.core,-,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.0-BUILD-RELEASE` // `com.quicko,api-client,3.0.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.1-BUILD-RELEASE` // `com.quicko,api-client,3.0.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.33` // `de.charite.compbio,jannovar-cli,0.33,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.34` // `de.charite.compbio,jannovar-cli,0.34,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `io.github.jaredpetersen:kafka-connect-arangodb:1.0.6` // `io.github.jaredpetersen,kafka-connect-arangodb,1.0.6,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
@@ -237,6 +240,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.3.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.3.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.3.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.3.1,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.4.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.4.0,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.4.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.4.1,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.1` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.1,com.fasterxml.jackson.datatype.jdk8,0.65.0.1,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.2` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.2,com.fasterxml.jackson.datatype.jdk8,0.65.0.2,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.3` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.3,com.fasterxml.jackson.datatype.jdk8,0.65.0.3,explicit,com.fasterxml.jackson.databind + java.base,false,-`
@@ -325,6 +329,8 @@
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc.pouch:core:2.1` // `com.github.cowwoc.pouch,core,2.1,com.github.cowwoc.pouch.core,2.1,explicit,java.base + org.slf4j,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.2` // `com.github.davidmoten,kool,0.1.2,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.3` // `com.github.davidmoten,kool,0.1.3,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.4` // `com.github.davidmoten,kool,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.4` // `com.github.davidmoten,kool-json,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring:1.0.5` // `com.github.fartherp,dbtest-spring,1.0.5,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring-boot:1.0.5` // `com.github.fartherp,dbtest-spring-boot,1.0.5,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp.spring.boot:shiro-redisson-spring-boot-autoconfigure:1.0.8` // `com.github.fartherp.spring.boot,shiro-redisson-spring-boot-autoconfigure,1.0.8,com.github.fartherp,-,automatic,-,false,-`
@@ -2216,6 +2222,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.5` // `com.vladmihalcea,hibernate-types-43,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.6` // `com.vladmihalcea,hibernate-types-43,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.7` // `com.vladmihalcea,hibernate-types-43,2.9.7,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.8` // `com.vladmihalcea,hibernate-types-43,2.9.8,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2240,6 +2247,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.5` // `com.vladmihalcea,hibernate-types-5,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.6` // `com.vladmihalcea,hibernate-types-5,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.7` // `com.vladmihalcea,hibernate-types-5,2.9.7,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.8` // `com.vladmihalcea,hibernate-types-5,2.9.8,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2264,6 +2272,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.5` // `com.vladmihalcea,hibernate-types-52,2.9.5,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.6` // `com.vladmihalcea,hibernate-types-52,2.9.6,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.7` // `com.vladmihalcea,hibernate-types-52,2.9.7,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.8` // `com.vladmihalcea,hibernate-types-52,2.9.8,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
@@ -5044,6 +5053,8 @@
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.0` // `com.sagframe,sqltoy-quickvo,4.10.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.1` // `com.sagframe,sqltoy-quickvo,4.10.1,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.8` // `com.sagframe,sqltoy-quickvo,4.10.8,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.9` // `com.sagframe,sqltoy-quickvo,4.10.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.13` // `com.sagframe,sqltoy-quickvo,4.9.13,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.9` // `com.sagframe,sqltoy-quickvo,4.9.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.snowflake:snowflake-kafka-connector:1.1.0` // `com.snowflake,snowflake-kafka-connector,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6774,6 +6785,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.32.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.32.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.33.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.33.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.34.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.34.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.35.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.35.0,org.objectweb.asm.tree,7.2.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.8` // `com.uber.nullaway,jar-infer-cli,0.7.8,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
