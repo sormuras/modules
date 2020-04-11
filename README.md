@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 6408 Java modules published at Maven Central
+Counted 6423 Java modules published at Maven Central
 
-## Summary 2020-04-10T01:07:06.103673Z
+## Summary 2020-04-11T01:08:06.992712Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-10T01:07:06.103673Z
-Scanned 48,017 files in 6 seconds.
+Started scan at 2020-04-11T01:08:06.992712Z
+Scanned 48,123 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_10_00_50_23.csv
+    last -> modulescanner-report-2020_04_11_00_52_06.csv
 
-Parsed 3,238,765 lines in total.
-  51,754 -> captions skipped
-  271,563 -> duplicates skipped
-  151,430 -> module related
+Parsed 3,244,430 lines in total.
+  51,860 -> captions skipped
+  271,960 -> duplicates skipped
+  151,623 -> module related
 
-Collected 6,408 unique modules.
-  automatic :cd: -> 4,636
-  explicit :dvd: -> 1,772
+Collected 6,423 unique modules.
+  automatic :cd: -> 4,639
+  explicit :dvd: -> 1,784
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.1
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.2
 org.objectweb.asm -> org.ow2.asm:asm:8.0.1
 com.google.common -> com.google.guava:guava:28.2-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1719, explicit=148, plain=37649}` 	 4.96%
+ - `2020_04={automatic=1819, explicit=212, plain=42618}` 	 4.77%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15530](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21113](suspicious/naming.md)
-- Modular impostors: [7536](suspicious/impostors.md)
+- Invalid module names: [15536](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21131](suspicious/naming.md)
+- Modular impostors: [7541](suspicious/impostors.md)
 
-## Unique Modules (6408)
+## Unique Modules (6423)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -528,6 +528,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
+- :dvd: `com.io7m.coffeepick.adoptopenjdk_v3` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.adoptopenjdk_v3:0.2.0`
+- :dvd: `com.io7m.coffeepick.client.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.api:0.2.0`
+- :dvd: `com.io7m.coffeepick.client.vanilla` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.vanilla:0.2.0`
+- :dvd: `com.io7m.coffeepick.jdk_java_net` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.jdk_java_net:0.2.0`
+- :dvd: `com.io7m.coffeepick.repository.spi` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.repository.spi:0.2.0`
+- :dvd: `com.io7m.coffeepick.runtime` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime:0.2.0`
+- :dvd: `com.io7m.coffeepick.runtime.database` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.database:0.2.0`
+- :dvd: `com.io7m.coffeepick.runtime.format.xml` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.format.xml:0.2.0`
+- :dvd: `com.io7m.coffeepick.runtime.parser.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.parser.api:0.2.0`
+- :dvd: `com.io7m.coffeepick.runtime.parser.spi` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.parser.spi:0.2.0`
+- :dvd: `com.io7m.coffeepick.shipilev_net` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.shipilev_net:0.2.0`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
 - :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:1.0.1`
 - :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:1.0.1`
@@ -607,9 +618,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.junsigned.core` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.core:2.0.0`
 - :dvd: `com.io7m.junsigned.documentation` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.documentation:2.0.0`
 - :dvd: `com.io7m.junsigned.ranges` :left_right_arrow: `com.io7m.junsigned:com.io7m.junsigned.ranges:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:2.0.0`
-- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:2.0.0`
+- :dvd: `com.io7m.jwheatsheaf.api` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.api:2.0.1`
+- :dvd: `com.io7m.jwheatsheaf.oxygen` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.oxygen:2.0.1`
+- :dvd: `com.io7m.jwheatsheaf.ui` :left_right_arrow: `com.io7m.jwheatsheaf:com.io7m.jwheatsheaf.ui:2.0.1`
 - :dvd: `com.io7m.jxe.core` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.core:0.0.2`
 - :dvd: `com.io7m.jxe.documentation` :left_right_arrow: `com.io7m.jxe:com.io7m.jxe.documentation:0.0.2`
 - :dvd: `com.io7m.mutable.numbers.core` :left_right_arrow: `com.io7m.mutable.numbers:com.io7m.mutable.numbers.core:2.0.0`
@@ -1246,8 +1257,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` - `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` - `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.0`
-- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.0`
+- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.1`
+- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.1`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
@@ -1580,55 +1591,56 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.48`
 - :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.32`
-- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.1`
-- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.1`
-- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.1`
-- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.1`
-- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.6.1`
-- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.6.1`
-- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.6.1`
-- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.6.1`
-- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.6.1`
-- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.6.1`
-- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.6.1`
-- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.6.1`
-- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.1`
-- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.1`
+- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.2`
+- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.2`
+- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.2`
+- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.2`
+- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.6.2`
+- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.6.2`
+- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.6.2`
+- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.6.2`
+- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.6.2`
+- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.6.2`
+- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.6.2`
+- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.6.2`
+- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.2`
+- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.2`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.13`
 - :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:2.0.0-M2`
-- :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.entypo` - `org.kordamp.ikonli:ikonli-entypo-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.feather` - `org.kordamp.ikonli:ikonli-feather-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.fontawesome` - `org.kordamp.ikonli:ikonli-fontawesome-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.fontawesome5` - `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.fontelico` - `org.kordamp.ikonli:ikonli-fontelico-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.foundation` - `org.kordamp.ikonli:ikonli-foundation-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.hawconsfilled` - `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.hawconsstroke` - `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.icomoon` - `org.kordamp.ikonli:ikonli-icomoon-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.ionicons` - `org.kordamp.ikonli:ikonli-ionicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.ionicons4` - `org.kordamp.ikonli:ikonli-ionicons4-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.javafx` - `org.kordamp.ikonli:ikonli-javafx:11.3.5`
-- :dvd: `org.kordamp.ikonli.ligaturesymbols` - `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.linecons` - `org.kordamp.ikonli:ikonli-linecons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.maki` - `org.kordamp.ikonli:ikonli-maki-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.maki2` - `org.kordamp.ikonli:ikonli-maki2-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.mapicons` - `org.kordamp.ikonli:ikonli-mapicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.material` - `org.kordamp.ikonli:ikonli-material-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.materialdesign` - `org.kordamp.ikonli:ikonli-materialdesign-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.metrizeicons` - `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.octicons` - `org.kordamp.ikonli:ikonli-octicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.openiconic` - `org.kordamp.ikonli:ikonli-openiconic-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.paymentfont` - `org.kordamp.ikonli:ikonli-paymentfont-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.runestroicons` - `org.kordamp.ikonli:ikonli-runestroicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.swing` - `org.kordamp.ikonli:ikonli-swing:11.3.5`
-- :dvd: `org.kordamp.ikonli.themify` - `org.kordamp.ikonli:ikonli-themify-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.typicons` - `org.kordamp.ikonli:ikonli-typicons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.weathericons` - `org.kordamp.ikonli:ikonli-weathericons-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.websymbols` - `org.kordamp.ikonli:ikonli-websymbols-pack:11.3.5`
-- :dvd: `org.kordamp.ikonli.zondicons` - `org.kordamp.ikonli:ikonli-zondicons-pack:11.3.5`
+- :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.entypo` - `org.kordamp.ikonli:ikonli-entypo-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.feather` - `org.kordamp.ikonli:ikonli-feather-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.fontawesome` - `org.kordamp.ikonli:ikonli-fontawesome-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.fontawesome5` - `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.fontelico` - `org.kordamp.ikonli:ikonli-fontelico-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.foundation` - `org.kordamp.ikonli:ikonli-foundation-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.hawconsfilled` - `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.hawconsstroke` - `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.icomoon` - `org.kordamp.ikonli:ikonli-icomoon-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.ionicons` - `org.kordamp.ikonli:ikonli-ionicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.ionicons4` - `org.kordamp.ikonli:ikonli-ionicons4-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.javafx` - `org.kordamp.ikonli:ikonli-javafx:11.4.0`
+- :dvd: `org.kordamp.ikonli.ligaturesymbols` - `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.linecons` - `org.kordamp.ikonli:ikonli-linecons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.maki` - `org.kordamp.ikonli:ikonli-maki-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.maki2` - `org.kordamp.ikonli:ikonli-maki2-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.mapicons` - `org.kordamp.ikonli:ikonli-mapicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.material` - `org.kordamp.ikonli:ikonli-material-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.materialdesign` - `org.kordamp.ikonli:ikonli-materialdesign-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.metrizeicons` - `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.ociicons` - `org.kordamp.ikonli:ikonli-ociicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.octicons` - `org.kordamp.ikonli:ikonli-octicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.openiconic` - `org.kordamp.ikonli:ikonli-openiconic-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.paymentfont` - `org.kordamp.ikonli:ikonli-paymentfont-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.runestroicons` - `org.kordamp.ikonli:ikonli-runestroicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.swing` - `org.kordamp.ikonli:ikonli-swing:11.4.0`
+- :dvd: `org.kordamp.ikonli.themify` - `org.kordamp.ikonli:ikonli-themify-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.typicons` - `org.kordamp.ikonli:ikonli-typicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.weathericons` - `org.kordamp.ikonli:ikonli-weathericons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.websymbols` - `org.kordamp.ikonli:ikonli-websymbols-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.zondicons` - `org.kordamp.ikonli:ikonli-zondicons-pack:11.4.0`
 - :dvd: `org.lanternpowered.lmbda` - `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` - `org.leadpony.joy:joy:2.0.0-RC1`
 - :dvd: `org.leadpony.justify` - `org.leadpony.justify:justify:2.1.0`
