@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6423 Java modules published at Maven Central
+Counted 6425 Java modules published at Maven Central
 
-## Summary 2020-04-11T01:08:06.992712Z
+## Summary 2020-04-12T01:08:37.793735Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-11T01:08:06.992712Z
-Scanned 48,123 files in 7 seconds.
+Started scan at 2020-04-12T01:08:37.793735Z
+Scanned 48,233 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_11_00_52_06.csv
+    last -> modulescanner-report-2020_04_12_00_54_48.csv
 
-Parsed 3,244,430 lines in total.
-  51,860 -> captions skipped
-  271,960 -> duplicates skipped
-  151,623 -> module related
+Parsed 3,248,429 lines in total.
+  51,968 -> captions skipped
+  273,034 -> duplicates skipped
+  151,635 -> module related
 
-Collected 6,423 unique modules.
+Collected 6,425 unique modules.
   automatic :cd: -> 4,639
-  explicit :dvd: -> 1,784
+  explicit :dvd: -> 1,786
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1819, explicit=212, plain=42618}` 	 4.77%
+ - `2020_04={automatic=1819, explicit=217, plain=45423}` 	 4.48%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,10 +115,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [15536](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21131](suspicious/naming.md)
-- Modular impostors: [7541](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21136](suspicious/naming.md)
+- Modular impostors: [7543](suspicious/impostors.md)
 
-## Unique Modules (6423)
+## Unique Modules (6425)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -303,6 +303,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.8`
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
+- :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.4.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.2`
@@ -1030,7 +1031,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.68`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.69`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1887,9 +1888,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky` - `tk.plogitech:darksky-forecast-api:2.1.0`
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
+- :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.0.4`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.1.1`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`

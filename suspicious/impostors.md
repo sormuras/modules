@@ -4123,6 +4123,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.7-jre14,jakarta.mail,1.0.6.7-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.0-jre14,jakarta.mail,1.0.7.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.1-jre14,jakarta.mail,1.0.7.1-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.2-jre14,jakarta.mail,1.0.7.2-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.3-jre14,jakarta.mail,1.0.7.3-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
