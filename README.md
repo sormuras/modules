@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6425 Java modules published at Maven Central
+Counted 6448 Java modules published at Maven Central
 
-## Summary 2020-04-12T01:08:37.793735Z
+## Summary 2020-04-13T01:09:24.270290Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-12T01:08:37.793735Z
-Scanned 48,233 files in 7 seconds.
+Started scan at 2020-04-13T01:09:24.270290Z
+Scanned 48,341 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_12_00_54_48.csv
+    last -> modulescanner-report-2020_04_13_00_50_04.csv
 
-Parsed 3,248,429 lines in total.
-  51,968 -> captions skipped
-  273,034 -> duplicates skipped
-  151,635 -> module related
+Parsed 3,251,044 lines in total.
+  52,076 -> captions skipped
+  273,369 -> duplicates skipped
+  151,704 -> module related
 
-Collected 6,425 unique modules.
-  automatic :cd: -> 4,639
-  explicit :dvd: -> 1,786
+Collected 6,448 unique modules.
+  automatic :cd: -> 4,651
+  explicit :dvd: -> 1,797
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1819, explicit=217, plain=45423}` 	 4.48%
+ - `2020_04={automatic=1853, explicit=234, plain=47526}` 	 4.39%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15536](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21136](suspicious/naming.md)
-- Modular impostors: [7543](suspicious/impostors.md)
+- Invalid module names: [15538](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21148](suspicious/naming.md)
+- Modular impostors: [7547](suspicious/impostors.md)
 
-## Unique Modules (6425)
+## Unique Modules (6448)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -532,6 +532,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.coffeepick.adoptopenjdk_v3` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.adoptopenjdk_v3:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.vanilla` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.vanilla:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.controller` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.controller:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.directories.api` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.directories.api:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.filechooser.api` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.filechooser.api:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.fx` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.fx:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.main` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.main:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.preferences` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.preferences:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.properties` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.properties:0.2.0`
+- :dvd: `com.io7m.coffeepick.gui.services.api` :left_right_arrow: `com.io7m.coffeepick.gui:com.io7m.coffeepick.gui.services.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.jdk_java_net` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.jdk_java_net:0.2.0`
 - :dvd: `com.io7m.coffeepick.repository.spi` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.repository.spi:0.2.0`
 - :dvd: `com.io7m.coffeepick.runtime` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime:0.2.0`
@@ -655,7 +663,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
-- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.0`
+- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.1`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
 - :dvd: `com.jwebmp.core.angularjs` - `com.jwebmp:jwebmp-angularjs:0.66.0.1`
@@ -1258,8 +1266,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` - `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` - `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.1`
-- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.1`
+- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.3`
+- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.3`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
@@ -1888,10 +1896,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky` - `tk.plogitech:darksky-forecast-api:2.1.0`
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
+- :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.0`
+- :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.0`
+- :dvd: `uk.co.caprica.vlcj.natives` - `uk.co.caprica:vlcj-natives:4.5.0`
 - :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.1.1`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.2.0`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`

@@ -6312,6 +6312,7 @@
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.7` // `org.eclipse.milo,stack-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.8` // `org.eclipse.milo,stack-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.0` // `org.eclipse.milo,stack-tests,0.4.0,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${project.artifactId}` - `com.io7m.modulechaser:com.io7m.modulechaser:0.0.2` // `com.io7m.modulechaser,com.io7m.modulechaser,0.0.2,${project.artifactId},-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.1` // `org.apache.openjpa,openjpa-kubernetes,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.1` // `org.apache.openjpa,openjpa-maven-plugin,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0` // `au.com.dius,pact-jvm-consumer,4.0.0,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -13572,6 +13573,7 @@
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.27-233513` // `name.remal,public-data,2020.3.27-233513,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.3.4-000015` // `name.remal,public-data,2020.3.4-000015,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.4.1-211010` // `name.remal,public-data,2020.4.1-211010,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` - `name.remal:public-data:2020.4.7-203510` // `name.remal,public-data,2020.4.7-203510,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.3` // `net.bzzt,reproducible-build,0.3,net.bzzt.reproducible-build,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-builds-jvm-stripper` - `net.bzzt:reproducible-builds-jvm-stripper:0.9` // `net.bzzt,reproducible-builds-jvm-stripper,0.9,net.bzzt.reproducible-builds-jvm-stripper,-,automatic,-,false,-`
