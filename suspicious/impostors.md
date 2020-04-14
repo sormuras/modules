@@ -2403,6 +2403,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.14` // `com.yahoo.elide,elide-blog-example,4.5.14,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.15` // `com.yahoo.elide,elide-blog-example,4.5.15,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.16` // `com.yahoo.elide,elide-blog-example,4.5.16,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.0` // `com.yahoo.elide,elide-blog-example,4.6.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -2411,6 +2412,7 @@
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-network-bootstrapper:4.3` // `net.corda,corda-tools-network-bootstrapper,4.3,io.github.classgraph,4.8.41,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-network-bootstrapper:4.4` // `net.corda,corda-tools-network-bootstrapper,4.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC2` // `org.restheart,restheart,5.0.0-RC2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC3` // `org.restheart,restheart,5.0.0-RC3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.0` // `io.github.factoryfx,microserviceRestResource,2.1.0,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.1` // `io.github.factoryfx,microserviceRestResource,2.1.1,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.2` // `io.github.factoryfx,microserviceRestResource,2.1.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -4126,6 +4128,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.2-jre14,jakarta.mail,1.0.7.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.3-jre14,jakarta.mail,1.0.7.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.4-jre14,jakarta.mail,1.0.7.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.5-jre14,jakarta.mail,1.0.7.5-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.6-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.6-jre14,jakarta.mail,1.0.7.6-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -4879,6 +4883,7 @@
 - :dvd: `org.apache.commons.lang3` - `com.jwebmp.jre11:commons-lang3:0.63.0.16` // `com.jwebmp.jre11,commons-lang3,0.63.0.16,org.apache.commons.lang3,-,explicit,java.base + java.desktop,false,-`
 - :dvd: `org.apache.commons.lang3` - `com.jwebmp.jre11:commons-lang3:0.63.0.17` // `com.jwebmp.jre11,commons-lang3,0.63.0.17,org.apache.commons.lang3,-,explicit,java.base + java.desktop,false,-`
 - :dvd: `org.apache.commons.lang3` - `com.jwebmp.jre11:commons-lang3:0.63.0.19` // `com.jwebmp.jre11,commons-lang3,0.63.0.19,org.apache.commons.lang3,-,explicit,java.base + java.desktop,false,-`
+- :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.10-0` // `de.knightsoft-net,gwt-commons-lang3,3.10-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.7-0` // `de.knightsoft-net,gwt-commons-lang3,3.7-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.8-0` // `de.knightsoft-net,gwt-commons-lang3,3.8-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.8.1-0` // `de.knightsoft-net,gwt-commons-lang3,3.8.1-0,org.apache.commons.lang3,-,automatic,-,false,-`
@@ -5060,6 +5065,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.8` // `com.sagframe,sqltoy-quickvo,4.10.8,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.9` // `com.sagframe,sqltoy-quickvo,4.10.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.0` // `com.sagframe,sqltoy-quickvo,4.11.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.1` // `com.sagframe,sqltoy-quickvo,4.11.1,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.13` // `com.sagframe,sqltoy-quickvo,4.9.13,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.9` // `com.sagframe,sqltoy-quickvo,4.9.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.snowflake:snowflake-kafka-connector:1.1.0` // `com.snowflake,snowflake-kafka-connector,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5490,6 +5496,7 @@
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.63` // `org.bouncycastle,bcpkix-jdk15to18,1.63,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.64` // `org.bouncycastle,bcpkix-jdk15to18,1.64,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.65` // `org.bouncycastle,bcpkix-jdk15to18,1.65,org.bouncycastle.pkix,-,automatic,-,false,-`
+- :dvd: `org.bouncycastle.pkix` - `org.testcontainers:testcontainers:1.14.0` // `org.testcontainers,testcontainers,1.14.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:jwt-sample:2.7.0` // `org.wso2.msf4j,jwt-sample,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-fileserver:2.7.0` // `org.wso2.msf4j,petstore-fileserver,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-pet:2.7.0` // `org.wso2.msf4j,petstore-pet,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`

@@ -1,30 +1,30 @@
 # sormuras/modules
-Counted 6448 Java modules published at Maven Central
+Counted 6455 Java modules published at Maven Central
 
-## Summary 2020-04-13T01:09:24.270290Z
+## Summary 2020-04-14T01:10:24.708233Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-13T01:09:24.270290Z
-Scanned 48,341 files in 6 seconds.
+Started scan at 2020-04-14T01:10:24.708233Z
+Scanned 48,452 files in 5 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_13_00_50_04.csv
+    last -> modulescanner-report-2020_04_14_00_56_43.csv
 
-Parsed 3,251,044 lines in total.
-  52,076 -> captions skipped
-  273,369 -> duplicates skipped
-  151,704 -> module related
+Parsed 3,254,441 lines in total.
+  52,187 -> captions skipped
+  274,111 -> duplicates skipped
+  151,797 -> module related
 
-Collected 6,448 unique modules.
-  automatic :cd: -> 4,651
-  explicit :dvd: -> 1,797
+Collected 6,455 unique modules.
+  automatic :cd: -> 4,654
+  explicit :dvd: -> 1,801
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.2
 org.objectweb.asm -> org.ow2.asm:asm:8.0.1
-com.google.common -> com.google.guava:guava:28.2-jre
+com.google.common -> com.google.guava:guava:29.0-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
  org.joda.collect -> org.joda:joda-collect:1.0.1
  org.joda.convert -> org.joda:joda-convert:2.2.1
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:28.2-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1853, explicit=234, plain=47526}` 	 4.39%
+ - `2020_04={automatic=1864, explicit=278, plain=49977}` 	 4.29%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15538](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21148](suspicious/naming.md)
-- Modular impostors: [7547](suspicious/impostors.md)
+- Invalid module names: [15546](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21171](suspicious/naming.md)
+- Modular impostors: [7554](suspicious/impostors.md)
 
-## Unique Modules (6448)
+## Unique Modules (6455)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -202,6 +202,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
+- :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` - `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` - `ch.qos.logback:logback-core:1.3.0-alpha5`
 - :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.10.0`
@@ -871,46 +872,47 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.http` - `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` - `com.samskivert:jmustache:1.15`
 - :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.14.0`
-- :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.7`
-- :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.7`
-- :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.7`
-- :dvd: `com.speedment.common.codegen` - `com.speedment.common:codegen:3.2.7`
-- :dvd: `com.speedment.common.codegenxml` - `com.speedment.common:codegenxml:3.2.7`
-- :dvd: `com.speedment.common.collection` - `com.speedment.common:collection:3.2.7`
-- :dvd: `com.speedment.common.combinatorics` - `com.speedment.common:combinatorics:3.2.7`
-- :dvd: `com.speedment.common.function` - `com.speedment.common:function:3.2.7`
-- :dvd: `com.speedment.common.injector` - `com.speedment.common:injector:3.2.7`
-- :dvd: `com.speedment.common.invariant` - `com.speedment.common:invariant:3.2.7`
-- :dvd: `com.speedment.common.json` - `com.speedment.common:json:3.2.7`
-- :dvd: `com.speedment.common.jvm_version` - `com.speedment.common:jvm-version:3.2.7`
-- :dvd: `com.speedment.common.logger` - `com.speedment.common:logger:3.2.7`
+- :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.9`
+- :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.9`
+- :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.9`
+- :dvd: `com.speedment.common.codegen` - `com.speedment.common:codegen:3.2.9`
+- :dvd: `com.speedment.common.codegenxml` - `com.speedment.common:codegenxml:3.2.9`
+- :dvd: `com.speedment.common.collection` - `com.speedment.common:collection:3.2.9`
+- :dvd: `com.speedment.common.combinatorics` - `com.speedment.common:combinatorics:3.2.9`
+- :dvd: `com.speedment.common.function` - `com.speedment.common:function:3.2.9`
+- :dvd: `com.speedment.common.injector` - `com.speedment.common:injector:3.2.9`
+- :dvd: `com.speedment.common.invariant` - `com.speedment.common:invariant:3.2.9`
+- :dvd: `com.speedment.common.json` - `com.speedment.common:json:3.2.9`
+- :dvd: `com.speedment.common.jvm_version` - `com.speedment.common:jvm-version:3.2.9`
+- :dvd: `com.speedment.common.logger` - `com.speedment.common:logger:3.2.9`
 - :dvd: `com.speedment.common.mapbuilder` - `com.speedment.common:mapbuilder:3.2.2`
-- :dvd: `com.speedment.common.mapstream` - `com.speedment.common:mapstream:3.2.7`
-- :dvd: `com.speedment.common.rest` - `com.speedment.common:rest:3.2.7`
-- :dvd: `com.speedment.common.singletonstream` - `com.speedment.common:singleton-stream:3.2.7`
-- :dvd: `com.speedment.common.tuple` - `com.speedment.common:tuple:3.2.7`
-- :dvd: `com.speedment.generator.core` - `com.speedment.generator:generator-core:3.2.7`
-- :dvd: `com.speedment.generator.standard` - `com.speedment.generator:generator-standard:3.2.7`
-- :dvd: `com.speedment.generator.translator` - `com.speedment.generator:generator-translator:3.2.7`
-- :dvd: `com.speedment.plugins.enums` - `com.speedment.plugins:enum-generator:3.2.7`
-- :dvd: `com.speedment.plugins.json` - `com.speedment.plugins:json-stream:3.2.7`
-- :dvd: `com.speedment.runtime.application` - `com.speedment.runtime:runtime-application:3.2.7`
-- :dvd: `com.speedment.runtime.bulk` - `com.speedment.runtime:runtime-bulk:3.2.7`
-- :dvd: `com.speedment.runtime.compute` - `com.speedment.runtime:runtime-compute:3.2.7`
-- :dvd: `com.speedment.runtime.config` - `com.speedment.runtime:runtime-config:3.2.7`
-- :dvd: `com.speedment.runtime.connector.mariadb` - `com.speedment.runtime:connector-mariadb:3.2.7`
-- :dvd: `com.speedment.runtime.connector.mysql` - `com.speedment.runtime:connector-mysql:3.2.7`
-- :dvd: `com.speedment.runtime.connector.postgres` - `com.speedment.runtime:connector-postgres:3.2.7`
-- :dvd: `com.speedment.runtime.connector.sqlite` - `com.speedment.runtime:connector-sqlite:3.2.7`
-- :dvd: `com.speedment.runtime.core` - `com.speedment.runtime:runtime-core:3.2.7`
-- :dvd: `com.speedment.runtime.field` - `com.speedment.runtime:runtime-field:3.2.7`
-- :dvd: `com.speedment.runtime.join` - `com.speedment.runtime:runtime-join:3.2.7`
-- :dvd: `com.speedment.runtime.typemapper` - `com.speedment.runtime:runtime-typemapper:3.2.7`
-- :dvd: `com.speedment.runtime.welcome` - `com.speedment.runtime:runtime-welcome:3.2.7`
-- :dvd: `com.speedment.tool.actions` - `com.speedment.tool:tool-actions:3.2.7`
-- :dvd: `com.speedment.tool.config` - `com.speedment.tool:tool-config:3.2.7`
-- :dvd: `com.speedment.tool.core` - `com.speedment.tool:tool-core:3.2.7`
-- :dvd: `com.speedment.tool.propertyeditor` - `com.speedment.tool:tool-propertyeditor:3.2.7`
+- :dvd: `com.speedment.common.mapstream` - `com.speedment.common:mapstream:3.2.9`
+- :dvd: `com.speedment.common.rest` - `com.speedment.common:rest:3.2.9`
+- :dvd: `com.speedment.common.singletonstream` - `com.speedment.common:singleton-stream:3.2.9`
+- :dvd: `com.speedment.common.tuple` - `com.speedment.common:tuple:3.2.9`
+- :dvd: `com.speedment.generator.core` - `com.speedment.generator:generator-core:3.2.9`
+- :dvd: `com.speedment.generator.standard` - `com.speedment.generator:generator-standard:3.2.9`
+- :dvd: `com.speedment.generator.translator` - `com.speedment.generator:generator-translator:3.2.9`
+- :dvd: `com.speedment.plugins.enums` - `com.speedment.plugins:enum-generator:3.2.9`
+- :dvd: `com.speedment.plugins.json` - `com.speedment.plugins:json-stream:3.2.9`
+- :dvd: `com.speedment.runtime.application` - `com.speedment.runtime:runtime-application:3.2.9`
+- :dvd: `com.speedment.runtime.bulk` - `com.speedment.runtime:runtime-bulk:3.2.9`
+- :dvd: `com.speedment.runtime.compute` - `com.speedment.runtime:runtime-compute:3.2.9`
+- :dvd: `com.speedment.runtime.config` - `com.speedment.runtime:runtime-config:3.2.9`
+- :dvd: `com.speedment.runtime.connector.mariadb` - `com.speedment.runtime:connector-mariadb:3.2.9`
+- :dvd: `com.speedment.runtime.connector.mysql` - `com.speedment.runtime:connector-mysql:3.2.9`
+- :dvd: `com.speedment.runtime.connector.postgres` - `com.speedment.runtime:connector-postgres:3.2.9`
+- :dvd: `com.speedment.runtime.connector.sqlite` - `com.speedment.runtime:connector-sqlite:3.2.9`
+- :dvd: `com.speedment.runtime.core` - `com.speedment.runtime:runtime-core:3.2.9`
+- :dvd: `com.speedment.runtime.field` - `com.speedment.runtime:runtime-field:3.2.9`
+- :dvd: `com.speedment.runtime.join` - `com.speedment.runtime:runtime-join:3.2.9`
+- :dvd: `com.speedment.runtime.typemapper` - `com.speedment.runtime:runtime-typemapper:3.2.9`
+- :dvd: `com.speedment.runtime.welcome` - `com.speedment.runtime:runtime-welcome:3.2.9`
+- :dvd: `com.speedment.test.connector` - `com.speedment.test:connector:3.2.9`
+- :dvd: `com.speedment.tool.actions` - `com.speedment.tool:tool-actions:3.2.9`
+- :dvd: `com.speedment.tool.config` - `com.speedment.tool:tool-config:3.2.9`
+- :dvd: `com.speedment.tool.core` - `com.speedment.tool:tool-core:3.2.9`
+- :dvd: `com.speedment.tool.propertyeditor` - `com.speedment.tool:tool-propertyeditor:3.2.9`
 - :dvd: `com.spotify.dns` - `com.spotify:dns:3.2.2`
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
@@ -1059,6 +1061,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.14`
 - :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.14`
 - :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.14`
+- :dvd: `io.github.joealisson.mmocore` - `io.github.joealisson:async-mmocore:3.0.0`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` - `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` - `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
 - :dvd: `io.github.jsoagger.core.bridge` - `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
@@ -1896,8 +1899,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky` - `tk.plogitech:darksky-forecast-api:2.1.0`
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
+- :dvd: `uk.co.caprica.media.scanner` - `uk.co.caprica:media-scanner:1.0.0`
 - :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.0`
-- :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.0`
+- :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.1`
 - :dvd: `uk.co.caprica.vlcj.natives` - `uk.co.caprica:vlcj-natives:4.5.0`
 - :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
