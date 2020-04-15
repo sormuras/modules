@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6455 Java modules published at Maven Central
+Counted 6470 Java modules published at Maven Central
 
-## Summary 2020-04-14T01:10:24.708233Z
+## Summary 2020-04-15T01:10:28.808469Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-14T01:10:24.708233Z
-Scanned 48,452 files in 5 seconds.
+Started scan at 2020-04-15T01:10:28.808469Z
+Scanned 48,562 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_14_00_56_43.csv
+    last -> modulescanner-report-2020_04_15_00_44_00.csv
 
-Parsed 3,254,441 lines in total.
-  52,187 -> captions skipped
-  274,111 -> duplicates skipped
-  151,797 -> module related
+Parsed 3,258,897 lines in total.
+  52,297 -> captions skipped
+  274,565 -> duplicates skipped
+  152,067 -> module related
 
-Collected 6,455 unique modules.
-  automatic :cd: -> 4,654
-  explicit :dvd: -> 1,801
+Collected 6,470 unique modules.
+  automatic :cd: -> 4,659
+  explicit :dvd: -> 1,811
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1864, explicit=278, plain=49977}` 	 4.29%
+ - `2020_04={automatic=1952, explicit=379, plain=53599}` 	 4.35%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15546](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21171](suspicious/naming.md)
-- Modular impostors: [7554](suspicious/impostors.md)
+- Invalid module names: [15550](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21194](suspicious/naming.md)
+- Modular impostors: [7608](suspicious/impostors.md)
 
-## Unique Modules (6455)
+## Unique Modules (6470)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -235,9 +235,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.6`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.6`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.6`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.4.7`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.4.7`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.4.7`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -1061,7 +1061,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.14`
 - :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.14`
 - :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.14`
-- :dvd: `io.github.joealisson.mmocore` - `io.github.joealisson:async-mmocore:3.0.0`
+- :dvd: `io.github.joealisson.mmocore` - `io.github.joealisson:async-mmocore:3.0.1`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` - `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` - `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
 - :dvd: `io.github.jsoagger.core.bridge` - `io.github.jsoagger:jsoagger-core-bridge:1.0.3`
@@ -1285,6 +1285,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
+- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.0`
 - :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.3`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
@@ -1408,93 +1409,102 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bouncycastle.fips.pkix` - `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` - `org.bouncycastle:bctls-fips:1.0.10`
 - :dvd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15on:1.65`
-- :dvd: `org.bytedeco.ale` - `org.bytedeco:ale:0.6.0-1.5.2`
-- :dvd: `org.bytedeco.ale.platform` - `org.bytedeco:ale-platform:0.6.0-1.5.2`
-- :dvd: `org.bytedeco.arpackng` - `org.bytedeco:arpack-ng:3.7.0-1.5.2`
-- :dvd: `org.bytedeco.arpackng.platform` - `org.bytedeco:arpack-ng-platform:3.7.0-1.5.2`
-- :dvd: `org.bytedeco.artoolkitplus` - `org.bytedeco:artoolkitplus:2.3.1-1.5.2`
-- :dvd: `org.bytedeco.artoolkitplus.platform` - `org.bytedeco:artoolkitplus-platform:2.3.1-1.5.2`
-- :dvd: `org.bytedeco.caffe` - `org.bytedeco:caffe:1.0-1.5.2`
-- :dvd: `org.bytedeco.caffe.platform` - `org.bytedeco:caffe-platform:1.0-1.5.2`
-- :dvd: `org.bytedeco.chilitags` - `org.bytedeco:chilitags:master-1.5.2`
-- :dvd: `org.bytedeco.chilitags.platform` - `org.bytedeco:chilitags-platform:master-1.5.2`
-- :dvd: `org.bytedeco.cminpack` - `org.bytedeco:cminpack:1.3.6-1.5.2`
-- :dvd: `org.bytedeco.cminpack.platform` - `org.bytedeco:cminpack-platform:1.3.6-1.5.2`
-- :dvd: `org.bytedeco.cpu_features` - `org.bytedeco:cpu_features:0.4.1-1.5.2`
-- :dvd: `org.bytedeco.cpu_features.platform` - `org.bytedeco:cpu_features-platform:0.4.1-1.5.2`
-- :dvd: `org.bytedeco.cpython` - `org.bytedeco:cpython:3.7.5-1.5.2`
-- :dvd: `org.bytedeco.cpython.platform` - `org.bytedeco:cpython-platform:3.7.5-1.5.2`
-- :dvd: `org.bytedeco.cuda` - `org.bytedeco:cuda:10.2-7.6-1.5.2`
-- :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform:10.2-7.6-1.5.2`
-- :dvd: `org.bytedeco.dnnl` - `org.bytedeco:dnnl:1.1.1-1.5.2`
-- :dvd: `org.bytedeco.dnnl.platform` - `org.bytedeco:dnnl-platform:1.1.1-1.5.2`
-- :dvd: `org.bytedeco.ffmpeg` - `org.bytedeco:ffmpeg:4.2.1-1.5.2`
-- :dvd: `org.bytedeco.ffmpeg.platform` - `org.bytedeco:ffmpeg-platform:4.2.1-1.5.2`
-- :dvd: `org.bytedeco.fftw` - `org.bytedeco:fftw:3.3.8-1.5.2`
-- :dvd: `org.bytedeco.fftw.platform` - `org.bytedeco:fftw-platform:3.3.8-1.5.2`
-- :dvd: `org.bytedeco.flandmark` - `org.bytedeco:flandmark:1.07-1.5.2`
-- :dvd: `org.bytedeco.flandmark.platform` - `org.bytedeco:flandmark-platform:1.07-1.5.2`
-- :dvd: `org.bytedeco.flycapture` - `org.bytedeco:flycapture:2.13.3.31-1.5.2`
-- :dvd: `org.bytedeco.flycapture.platform` - `org.bytedeco:flycapture-platform:2.13.3.31-1.5.2`
-- :dvd: `org.bytedeco.gsl` - `org.bytedeco:gsl:2.6-1.5.2`
-- :dvd: `org.bytedeco.gsl.platform` - `org.bytedeco:gsl-platform:2.6-1.5.2`
-- :dvd: `org.bytedeco.hdf5` - `org.bytedeco:hdf5:1.10.5-1.5.2`
-- :dvd: `org.bytedeco.hdf5.platform` - `org.bytedeco:hdf5-platform:1.10.5-1.5.2`
-- :dvd: `org.bytedeco.javacpp` - `org.bytedeco:javacpp:1.5.2`
-- :dvd: `org.bytedeco.javacv` - `org.bytedeco:javacv:1.5.2`
-- :dvd: `org.bytedeco.javacv.platform` - `org.bytedeco:javacv-platform:1.5.2`
-- :dvd: `org.bytedeco.leptonica` - `org.bytedeco:leptonica:1.78.0-1.5.2`
-- :dvd: `org.bytedeco.leptonica.platform` - `org.bytedeco:leptonica-platform:1.78.0-1.5.2`
-- :dvd: `org.bytedeco.libdc1394` - `org.bytedeco:libdc1394:2.2.6-1.5.2`
-- :dvd: `org.bytedeco.libdc1394.platform` - `org.bytedeco:libdc1394-platform:2.2.6-1.5.2`
-- :dvd: `org.bytedeco.libfreenect` - `org.bytedeco:libfreenect:0.5.7-1.5.2`
-- :dvd: `org.bytedeco.libfreenect.platform` - `org.bytedeco:libfreenect-platform:0.5.7-1.5.2`
-- :dvd: `org.bytedeco.libfreenect2` - `org.bytedeco:libfreenect2:0.2.0-1.5.2`
-- :dvd: `org.bytedeco.libfreenect2.platform` - `org.bytedeco:libfreenect2-platform:0.2.0-1.5.2`
-- :dvd: `org.bytedeco.libpostal` - `org.bytedeco:libpostal:1.1-alpha-1.5.2`
-- :dvd: `org.bytedeco.libpostal.platform` - `org.bytedeco:libpostal-platform:1.1-alpha-1.5.2`
-- :dvd: `org.bytedeco.librealsense` - `org.bytedeco:librealsense:1.12.4-1.5.2`
-- :dvd: `org.bytedeco.librealsense.platform` - `org.bytedeco:librealsense-platform:1.12.4-1.5.2`
-- :dvd: `org.bytedeco.librealsense2` - `org.bytedeco:librealsense2:2.29.0-1.5.2`
-- :dvd: `org.bytedeco.librealsense2.platform` - `org.bytedeco:librealsense2-platform:2.29.0-1.5.2`
-- :dvd: `org.bytedeco.liquidfun` - `org.bytedeco:liquidfun:master-1.5.2`
-- :dvd: `org.bytedeco.liquidfun.platform` - `org.bytedeco:liquidfun-platform:master-1.5.2`
-- :dvd: `org.bytedeco.llvm` - `org.bytedeco:llvm:9.0.0-1.5.2`
-- :dvd: `org.bytedeco.llvm.platform` - `org.bytedeco:llvm-platform:9.0.0-1.5.2`
-- :dvd: `org.bytedeco.mkl` - `org.bytedeco:mkl:2019.5-1.5.2`
-- :dvd: `org.bytedeco.mkl.platform` - `org.bytedeco:mkl-platform:2019.5-1.5.2`
-- :dvd: `org.bytedeco.mkldnn` - `org.bytedeco:mkl-dnn:0.21.2-1.5.2`
-- :dvd: `org.bytedeco.mkldnn.platform` - `org.bytedeco:mkl-dnn-platform:0.21.2-1.5.2`
-- :dvd: `org.bytedeco.mxnet` - `org.bytedeco:mxnet:1.5.1-1.5.2`
-- :dvd: `org.bytedeco.mxnet.platform` - `org.bytedeco:mxnet-platform:1.5.1-1.5.2`
-- :dvd: `org.bytedeco.ngraph` - `org.bytedeco:ngraph:0.26.0-1.5.2`
-- :dvd: `org.bytedeco.ngraph.platform` - `org.bytedeco:ngraph-platform:0.26.0-1.5.2`
-- :dvd: `org.bytedeco.numpy` - `org.bytedeco:numpy:1.17.3-1.5.2`
-- :dvd: `org.bytedeco.numpy.platform` - `org.bytedeco:numpy-platform:1.17.3-1.5.2`
-- :dvd: `org.bytedeco.onnx` - `org.bytedeco:onnx:1.6.0-1.5.2`
-- :dvd: `org.bytedeco.onnx.platform` - `org.bytedeco:onnx-platform:1.6.0-1.5.2`
-- :dvd: `org.bytedeco.onnxruntime` - `org.bytedeco:onnxruntime:0.5.0-1.5.2`
-- :dvd: `org.bytedeco.onnxruntime.platform` - `org.bytedeco:onnxruntime-platform:0.5.0-1.5.2`
-- :dvd: `org.bytedeco.openblas` - `org.bytedeco:openblas:0.3.7-1.5.2`
-- :dvd: `org.bytedeco.openblas.platform` - `org.bytedeco:openblas-platform:0.3.7-1.5.2`
-- :dvd: `org.bytedeco.opencv` - `org.bytedeco:opencv:4.1.2-1.5.2`
-- :dvd: `org.bytedeco.opencv.platform` - `org.bytedeco:opencv-platform:4.1.2-1.5.2`
-- :dvd: `org.bytedeco.qt` - `org.bytedeco:qt:5.13.1-1.5.2`
-- :dvd: `org.bytedeco.qt.platform` - `org.bytedeco:qt-platform:5.13.1-1.5.2`
-- :dvd: `org.bytedeco.skia` - `org.bytedeco:skia:1.68.0-1.5.2`
-- :dvd: `org.bytedeco.skia.platform` - `org.bytedeco:skia-platform:1.68.0-1.5.2`
-- :dvd: `org.bytedeco.spinnaker` - `org.bytedeco:spinnaker:1.19.0.22-1.5.2`
-- :dvd: `org.bytedeco.spinnaker.platform` - `org.bytedeco:spinnaker-platform:1.19.0.22-1.5.2`
-- :dvd: `org.bytedeco.systems` - `org.bytedeco:systems:1.5.2`
-- :dvd: `org.bytedeco.systems.platform` - `org.bytedeco:systems-platform:1.5.2`
-- :dvd: `org.bytedeco.tensorflow` - `org.bytedeco:tensorflow:1.15.0-1.5.2`
-- :dvd: `org.bytedeco.tensorflow.platform` - `org.bytedeco:tensorflow-platform:1.15.0-1.5.2`
-- :dvd: `org.bytedeco.tensorrt` - `org.bytedeco:tensorrt:6.0-1.5.2`
-- :dvd: `org.bytedeco.tensorrt.platform` - `org.bytedeco:tensorrt-platform:6.0-1.5.2`
-- :dvd: `org.bytedeco.tesseract` - `org.bytedeco:tesseract:4.1.0-1.5.2`
-- :dvd: `org.bytedeco.tesseract.platform` - `org.bytedeco:tesseract-platform:4.1.0-1.5.2`
-- :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.2`
-- :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.2`
+- :dvd: `org.bytedeco.ale` - `org.bytedeco:ale:0.6.1-1.5.3`
+- :dvd: `org.bytedeco.ale.platform` - `org.bytedeco:ale-platform:0.6.1-1.5.3`
+- :dvd: `org.bytedeco.arpackng` - `org.bytedeco:arpack-ng:3.7.0-1.5.3`
+- :dvd: `org.bytedeco.arpackng.platform` - `org.bytedeco:arpack-ng-platform:3.7.0-1.5.3`
+- :dvd: `org.bytedeco.arrow` - `org.bytedeco:arrow:0.16.0-1.5.3`
+- :dvd: `org.bytedeco.arrow.platform` - `org.bytedeco:arrow-platform:0.16.0-1.5.3`
+- :dvd: `org.bytedeco.artoolkitplus` - `org.bytedeco:artoolkitplus:2.3.1-1.5.3`
+- :dvd: `org.bytedeco.artoolkitplus.platform` - `org.bytedeco:artoolkitplus-platform:2.3.1-1.5.3`
+- :dvd: `org.bytedeco.caffe` - `org.bytedeco:caffe:1.0-1.5.3`
+- :dvd: `org.bytedeco.caffe.platform` - `org.bytedeco:caffe-platform:1.0-1.5.3`
+- :dvd: `org.bytedeco.chilitags` - `org.bytedeco:chilitags:master-1.5.3`
+- :dvd: `org.bytedeco.chilitags.platform` - `org.bytedeco:chilitags-platform:master-1.5.3`
+- :dvd: `org.bytedeco.cminpack` - `org.bytedeco:cminpack:1.3.6-1.5.3`
+- :dvd: `org.bytedeco.cminpack.platform` - `org.bytedeco:cminpack-platform:1.3.6-1.5.3`
+- :dvd: `org.bytedeco.cpu_features` - `org.bytedeco:cpu_features:0.4.1-1.5.3`
+- :dvd: `org.bytedeco.cpu_features.platform` - `org.bytedeco:cpu_features-platform:0.4.1-1.5.3`
+- :dvd: `org.bytedeco.cpython` - `org.bytedeco:cpython:3.7.7-1.5.3`
+- :dvd: `org.bytedeco.cpython.platform` - `org.bytedeco:cpython-platform:3.7.7-1.5.3`
+- :dvd: `org.bytedeco.cuda` - `org.bytedeco:cuda:10.2-7.6-1.5.3`
+- :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform:10.2-7.6-1.5.3`
+- :dvd: `org.bytedeco.dnnl` - `org.bytedeco:dnnl:1.3-1.5.3`
+- :dvd: `org.bytedeco.dnnl.platform` - `org.bytedeco:dnnl-platform:1.3-1.5.3`
+- :dvd: `org.bytedeco.ffmpeg` - `org.bytedeco:ffmpeg:4.2.2-1.5.3`
+- :dvd: `org.bytedeco.ffmpeg.platform` - `org.bytedeco:ffmpeg-platform:4.2.2-1.5.3`
+- :dvd: `org.bytedeco.fftw` - `org.bytedeco:fftw:3.3.8-1.5.3`
+- :dvd: `org.bytedeco.fftw.platform` - `org.bytedeco:fftw-platform:3.3.8-1.5.3`
+- :dvd: `org.bytedeco.flandmark` - `org.bytedeco:flandmark:1.07-1.5.3`
+- :dvd: `org.bytedeco.flandmark.platform` - `org.bytedeco:flandmark-platform:1.07-1.5.3`
+- :dvd: `org.bytedeco.flycapture` - `org.bytedeco:flycapture:2.13.3.31-1.5.3`
+- :dvd: `org.bytedeco.flycapture.platform` - `org.bytedeco:flycapture-platform:2.13.3.31-1.5.3`
+- :dvd: `org.bytedeco.gsl` - `org.bytedeco:gsl:2.6-1.5.3`
+- :dvd: `org.bytedeco.gsl.platform` - `org.bytedeco:gsl-platform:2.6-1.5.3`
+- :dvd: `org.bytedeco.gym` - `org.bytedeco:gym:0.17.1-1.5.3`
+- :dvd: `org.bytedeco.gym.platform` - `org.bytedeco:gym-platform:0.17.1-1.5.3`
+- :dvd: `org.bytedeco.hdf5` - `org.bytedeco:hdf5:1.12.0-1.5.3`
+- :dvd: `org.bytedeco.hdf5.platform` - `org.bytedeco:hdf5-platform:1.12.0-1.5.3`
+- :dvd: `org.bytedeco.hyperscan` - `org.bytedeco:hyperscan:5.2.1-1.5.3`
+- :dvd: `org.bytedeco.hyperscan.platform` - `org.bytedeco:hyperscan-platform:5.2.1-1.5.3`
+- :dvd: `org.bytedeco.javacpp` - `org.bytedeco:javacpp:1.5.3`
+- :dvd: `org.bytedeco.javacpp.platform` - `org.bytedeco:javacpp-platform:1.5.3`
+- :dvd: `org.bytedeco.javacv` - `org.bytedeco:javacv:1.5.3`
+- :dvd: `org.bytedeco.javacv.platform` - `org.bytedeco:javacv-platform:1.5.3`
+- :dvd: `org.bytedeco.leptonica` - `org.bytedeco:leptonica:1.79.0-1.5.3`
+- :dvd: `org.bytedeco.leptonica.platform` - `org.bytedeco:leptonica-platform:1.79.0-1.5.3`
+- :dvd: `org.bytedeco.libdc1394` - `org.bytedeco:libdc1394:2.2.6-1.5.3`
+- :dvd: `org.bytedeco.libdc1394.platform` - `org.bytedeco:libdc1394-platform:2.2.6-1.5.3`
+- :dvd: `org.bytedeco.libfreenect` - `org.bytedeco:libfreenect:0.5.7-1.5.3`
+- :dvd: `org.bytedeco.libfreenect.platform` - `org.bytedeco:libfreenect-platform:0.5.7-1.5.3`
+- :dvd: `org.bytedeco.libfreenect2` - `org.bytedeco:libfreenect2:0.2.0-1.5.3`
+- :dvd: `org.bytedeco.libfreenect2.platform` - `org.bytedeco:libfreenect2-platform:0.2.0-1.5.3`
+- :dvd: `org.bytedeco.libpostal` - `org.bytedeco:libpostal:1.1-alpha-1.5.3`
+- :dvd: `org.bytedeco.libpostal.platform` - `org.bytedeco:libpostal-platform:1.1-alpha-1.5.3`
+- :dvd: `org.bytedeco.librealsense` - `org.bytedeco:librealsense:1.12.4-1.5.3`
+- :dvd: `org.bytedeco.librealsense.platform` - `org.bytedeco:librealsense-platform:1.12.4-1.5.3`
+- :dvd: `org.bytedeco.librealsense2` - `org.bytedeco:librealsense2:2.29.0-1.5.3`
+- :dvd: `org.bytedeco.librealsense2.platform` - `org.bytedeco:librealsense2-platform:2.29.0-1.5.3`
+- :dvd: `org.bytedeco.liquidfun` - `org.bytedeco:liquidfun:master-1.5.3`
+- :dvd: `org.bytedeco.liquidfun.platform` - `org.bytedeco:liquidfun-platform:master-1.5.3`
+- :dvd: `org.bytedeco.llvm` - `org.bytedeco:llvm:10.0.0-1.5.3`
+- :dvd: `org.bytedeco.llvm.platform` - `org.bytedeco:llvm-platform:10.0.0-1.5.3`
+- :dvd: `org.bytedeco.mkl` - `org.bytedeco:mkl:2020.1-1.5.3`
+- :dvd: `org.bytedeco.mkl.platform` - `org.bytedeco:mkl-platform:2020.1-1.5.3`
+- :dvd: `org.bytedeco.mkldnn` - `org.bytedeco:mkl-dnn:0.21.4-1.5.3`
+- :dvd: `org.bytedeco.mkldnn.platform` - `org.bytedeco:mkl-dnn-platform:0.21.4-1.5.3`
+- :dvd: `org.bytedeco.mxnet` - `org.bytedeco:mxnet:1.6.0-1.5.3`
+- :dvd: `org.bytedeco.mxnet.platform` - `org.bytedeco:mxnet-platform:1.6.0-1.5.3`
+- :dvd: `org.bytedeco.ngraph` - `org.bytedeco:ngraph:0.26.0-1.5.3`
+- :dvd: `org.bytedeco.ngraph.platform` - `org.bytedeco:ngraph-platform:0.26.0-1.5.3`
+- :dvd: `org.bytedeco.numpy` - `org.bytedeco:numpy:1.18.2-1.5.3`
+- :dvd: `org.bytedeco.numpy.platform` - `org.bytedeco:numpy-platform:1.18.2-1.5.3`
+- :dvd: `org.bytedeco.onnx` - `org.bytedeco:onnx:1.6.0-1.5.3`
+- :dvd: `org.bytedeco.onnx.platform` - `org.bytedeco:onnx-platform:1.6.0-1.5.3`
+- :dvd: `org.bytedeco.onnxruntime` - `org.bytedeco:onnxruntime:1.2.0-1.5.3`
+- :dvd: `org.bytedeco.onnxruntime.platform` - `org.bytedeco:onnxruntime-platform:1.2.0-1.5.3`
+- :dvd: `org.bytedeco.openblas` - `org.bytedeco:openblas:0.3.9-1.5.3`
+- :dvd: `org.bytedeco.openblas.platform` - `org.bytedeco:openblas-platform:0.3.9-1.5.3`
+- :dvd: `org.bytedeco.opencv` - `org.bytedeco:opencv:4.3.0-1.5.3`
+- :dvd: `org.bytedeco.opencv.platform` - `org.bytedeco:opencv-platform:4.3.0-1.5.3`
+- :dvd: `org.bytedeco.qt` - `org.bytedeco:qt:5.14.2-1.5.3`
+- :dvd: `org.bytedeco.qt.platform` - `org.bytedeco:qt-platform:5.14.2-1.5.3`
+- :dvd: `org.bytedeco.scipy` - `org.bytedeco:scipy:1.4.1-1.5.3`
+- :dvd: `org.bytedeco.scipy.platform` - `org.bytedeco:scipy-platform:1.4.1-1.5.3`
+- :dvd: `org.bytedeco.skia` - `org.bytedeco:skia:1.68.1-1.5.3`
+- :dvd: `org.bytedeco.skia.platform` - `org.bytedeco:skia-platform:1.68.1-1.5.3`
+- :dvd: `org.bytedeco.spinnaker` - `org.bytedeco:spinnaker:1.27.0.48-1.5.3`
+- :dvd: `org.bytedeco.spinnaker.platform` - `org.bytedeco:spinnaker-platform:1.27.0.48-1.5.3`
+- :dvd: `org.bytedeco.systems` - `org.bytedeco:systems:1.5.3`
+- :dvd: `org.bytedeco.systems.platform` - `org.bytedeco:systems-platform:1.5.3`
+- :dvd: `org.bytedeco.tensorflow` - `org.bytedeco:tensorflow:1.15.2-1.5.3`
+- :dvd: `org.bytedeco.tensorflow.platform` - `org.bytedeco:tensorflow-platform:1.15.2-1.5.3`
+- :dvd: `org.bytedeco.tensorrt` - `org.bytedeco:tensorrt:7.0-1.5.3`
+- :dvd: `org.bytedeco.tensorrt.platform` - `org.bytedeco:tensorrt-platform:7.0-1.5.3`
+- :dvd: `org.bytedeco.tesseract` - `org.bytedeco:tesseract:4.1.1-1.5.3`
+- :dvd: `org.bytedeco.tesseract.platform` - `org.bytedeco:tesseract-platform:4.1.1-1.5.3`
+- :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.3`
+- :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.3`
 - :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
 - :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.1`
 - :dvd: `org.controlsfx.samples` - `org.controlsfx:controlsfx-samples:11.0.1`
