@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6470 Java modules published at Maven Central
+Counted 6473 Java modules published at Maven Central
 
-## Summary 2020-04-15T01:10:28.808469Z
+## Summary 2020-04-16T01:10:35.884144Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-15T01:10:28.808469Z
-Scanned 48,562 files in 6 seconds.
+Started scan at 2020-04-16T01:10:35.884144Z
+Scanned 48,663 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_15_00_44_00.csv
+    last -> modulescanner-report-2020_04_16_00_49_04.csv
 
-Parsed 3,258,897 lines in total.
-  52,297 -> captions skipped
-  274,565 -> duplicates skipped
-  152,067 -> module related
+Parsed 3,266,037 lines in total.
+  52,398 -> captions skipped
+  274,959 -> duplicates skipped
+  152,787 -> module related
 
-Collected 6,470 unique modules.
-  automatic :cd: -> 4,659
+Collected 6,473 unique modules.
+  automatic :cd: -> 4,662
   explicit :dvd: -> 1,811
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=1952, explicit=379, plain=53599}` 	 4.35%
+ - `2020_04={automatic=2340, explicit=381, plain=59524}` 	 4.57%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15550](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21194](suspicious/naming.md)
-- Modular impostors: [7608](suspicious/impostors.md)
+- Invalid module names: [15687](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21363](suspicious/naming.md)
+- Modular impostors: [7632](suspicious/impostors.md)
 
-## Unique Modules (6470)
+## Unique Modules (6473)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -997,7 +997,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.5`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.6`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
@@ -1577,7 +1577,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.websocket.util` - `org.eclipse.jetty.websocket:websocket-util:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha2`
-- :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:1.0.7`
+- :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:2.0.0-M1`
 - :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.27`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
