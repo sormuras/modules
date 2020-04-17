@@ -13264,6 +13264,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.5` // `com.synopsys.integration,jenkins-common,0.1.5,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.6` // `com.synopsys.integration,jenkins-common,0.1.6,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.7` // `com.synopsys.integration,jenkins-common,0.1.7,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.8` // `com.synopsys.integration,jenkins-common,0.1.8,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -13295,6 +13296,7 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.18.0` // `com.synopsys.integration,polaris-common,0.18.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.19.0` // `com.synopsys.integration,polaris-common,0.19.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.19.1` // `com.synopsys.integration,polaris-common,0.19.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.20.0` // `com.synopsys.integration,polaris-common,0.20.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
