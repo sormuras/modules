@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6475 Java modules published at Maven Central
+Counted 6476 Java modules published at Maven Central
 
-## Summary 2020-04-17T01:11:24.417423Z
+## Summary 2020-04-18T01:12:04.297405Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-17T01:11:24.417423Z
-Scanned 48,760 files in 7 seconds.
+Started scan at 2020-04-18T01:12:04.297405Z
+Scanned 48,858 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_17_00_53_02.csv
+    last -> modulescanner-report-2020_04_18_00_54_32.csv
 
-Parsed 3,272,184 lines in total.
-  52,495 -> captions skipped
-  275,544 -> duplicates skipped
-  153,137 -> module related
+Parsed 3,279,567 lines in total.
+  52,593 -> captions skipped
+  276,250 -> duplicates skipped
+  154,509 -> module related
 
-Collected 6,475 unique modules.
-  automatic :cd: -> 4,664
+Collected 6,476 unique modules.
+  automatic :cd: -> 4,665
   explicit :dvd: -> 1,811
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=2610, explicit=394, plain=64639}` 	 4.65%
+ - `2020_04={automatic=3135, explicit=401, plain=69846}` 	 5.06%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [15689](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21418](suspicious/naming.md)
-- Modular impostors: [7642](suspicious/impostors.md)
+- Invalid module names: [16343](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21584](suspicious/naming.md)
+- Modular impostors: [7662](suspicious/impostors.md)
 
-## Unique Modules (6475)
+## Unique Modules (6476)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -938,8 +938,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:2.3.3-b01`
 - :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:2.3.3-b01`
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:2.3.3-b01`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.3.5`
-- :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.3.5`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.0`
+- :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
 - :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.6.0`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
@@ -1041,7 +1041,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.69`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.71`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1578,7 +1578,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.util` - `org.eclipse.jetty.websocket:websocket-util:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.alpha2`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:2.0.0-M1`
-- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.27`
+- :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.28`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
 - :dvd: `org.fissore.jrecordbind.example` - `org.fissore.jrecordbind.example:jrecordbind-example:3.2.0`
 - :dvd: `org.fissore.jrecordbindtests` - `org.fissore.jrecordbind:jrecordbind-test:3.2.0`
@@ -1911,10 +1911,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.co.caprica.media.scanner` - `uk.co.caprica:media-scanner:1.0.0`
 - :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.1`
-- :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.1`
+- :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.2`
 - :dvd: `uk.co.caprica.vlcj.natives` - `uk.co.caprica:vlcj-natives:4.5.0`
 - :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
-- :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.0`
+- :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.2.0`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`

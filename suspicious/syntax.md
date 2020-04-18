@@ -825,6 +825,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:7.35.0.Final` // `org.dashbuilder,dashbuilder-client-all,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:7.36.0.20200330` // `org.dashbuilder,dashbuilder-client-all,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:7.36.0.20200331` // `org.dashbuilder,dashbuilder-client-all,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-client-all:7.36.1.Final` // `org.dashbuilder,dashbuilder-client-all,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-cms-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -839,6 +840,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:7.35.0.Final` // `org.dashbuilder,dashbuilder-cms-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:7.36.0.20200330` // `org.dashbuilder,dashbuilder-cms-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-cms-client:7.36.0.20200331` // `org.dashbuilder,dashbuilder-cms-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-cms-client:7.36.1.Final` // `org.dashbuilder,dashbuilder-cms-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-common-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -853,6 +855,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:7.35.0.Final` // `org.dashbuilder,dashbuilder-common-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:7.36.0.20200330` // `org.dashbuilder,dashbuilder-common-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-common-client:7.36.0.20200331` // `org.dashbuilder,dashbuilder-common-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-common-client:7.36.1.Final` // `org.dashbuilder,dashbuilder-common-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,2.23.0.Final,-,-,automatic,-,false,-`
@@ -867,6 +870,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:7.35.0.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:7.36.0.20200330` // `org.dashbuilder,dashbuilder-dataset-cdi,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:7.36.0.20200331` // `org.dashbuilder,dashbuilder-dataset-cdi,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-dataset-cdi:7.36.1.Final` // `org.dashbuilder,dashbuilder-dataset-cdi,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -881,6 +885,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:7.35.0.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:7.36.0.20200330` // `org.dashbuilder,dashbuilder-dataset-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:7.36.0.20200331` // `org.dashbuilder,dashbuilder-dataset-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-dataset-client:7.36.1.Final` // `org.dashbuilder,dashbuilder-dataset-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:2.21.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:2.22.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:2.23.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,2.23.0.Final,-,-,automatic,-,false,-`
@@ -895,6 +900,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:7.35.0.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:7.36.0.20200330` // `org.dashbuilder,dashbuilder-dataset-editor,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:7.36.0.20200331` // `org.dashbuilder,dashbuilder-dataset-editor,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-dataset-editor:7.36.1.Final` // `org.dashbuilder,dashbuilder-dataset-editor,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -909,6 +915,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:7.35.0.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:7.36.0.20200330` // `org.dashbuilder,dashbuilder-displayer-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:7.36.0.20200331` // `org.dashbuilder,dashbuilder-displayer-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-displayer-api:7.36.1.Final` // `org.dashbuilder,dashbuilder-displayer-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -923,6 +930,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:7.35.0.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:7.36.0.20200330` // `org.dashbuilder,dashbuilder-displayer-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:7.36.0.20200331` // `org.dashbuilder,dashbuilder-displayer-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-displayer-client:7.36.1.Final` // `org.dashbuilder,dashbuilder-displayer-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,2.23.0.Final,-,-,automatic,-,false,-`
@@ -937,6 +945,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:7.35.0.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:7.36.0.20200330` // `org.dashbuilder,dashbuilder-displayer-editor,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:7.36.0.20200331` // `org.dashbuilder,dashbuilder-displayer-editor,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-displayer-editor:7.36.1.Final` // `org.dashbuilder,dashbuilder-displayer-editor,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:2.21.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:2.22.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:2.23.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,2.23.0.Final,-,-,automatic,-,false,-`
@@ -951,6 +960,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:7.35.0.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:7.36.0.20200330` // `org.dashbuilder,dashbuilder-displayer-screen,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:7.36.0.20200331` // `org.dashbuilder,dashbuilder-displayer-screen,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-displayer-screen:7.36.1.Final` // `org.dashbuilder,dashbuilder-displayer-screen,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -965,6 +975,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:7.35.0.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:7.36.0.20200330` // `org.dashbuilder,dashbuilder-navigation-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:7.36.0.20200331` // `org.dashbuilder,dashbuilder-navigation-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-navigation-api:7.36.1.Final` // `org.dashbuilder,dashbuilder-navigation-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -979,6 +990,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:7.35.0.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:7.36.0.20200330` // `org.dashbuilder,dashbuilder-navigation-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:7.36.0.20200331` // `org.dashbuilder,dashbuilder-navigation-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-navigation-backend:7.36.1.Final` // `org.dashbuilder,dashbuilder-navigation-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:2.21.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:2.22.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:2.23.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -993,6 +1005,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:7.35.0.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:7.36.0.20200330` // `org.dashbuilder,dashbuilder-navigation-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:7.36.0.20200331` // `org.dashbuilder,dashbuilder-navigation-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-navigation-client:7.36.1.Final` // `org.dashbuilder,dashbuilder-navigation-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1007,6 +1020,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:7.35.0.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:7.36.0.20200330` // `org.dashbuilder,dashbuilder-renderer-c3,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:7.36.0.20200331` // `org.dashbuilder,dashbuilder-renderer-c3,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-renderer-c3:7.36.1.Final` // `org.dashbuilder,dashbuilder-renderer-c3,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1021,6 +1035,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:7.35.0.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:7.36.0.20200330` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:7.36.0.20200331` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-renderer-chartjs:7.36.1.Final` // `org.dashbuilder,dashbuilder-renderer-chartjs,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1035,6 +1050,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:7.35.0.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:7.36.0.20200330` // `org.dashbuilder,dashbuilder-renderer-default,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:7.36.0.20200331` // `org.dashbuilder,dashbuilder-renderer-default,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-renderer-default:7.36.1.Final` // `org.dashbuilder,dashbuilder-renderer-default,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1049,6 +1065,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:7.35.0.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:7.36.0.20200330` // `org.dashbuilder,dashbuilder-renderer-google,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:7.36.0.20200331` // `org.dashbuilder,dashbuilder-renderer-google,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-renderer-google:7.36.1.Final` // `org.dashbuilder,dashbuilder-renderer-google,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-lienzo:2.21.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-lienzo:2.22.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-renderer-lienzo:2.23.0.Final` // `org.dashbuilder,dashbuilder-renderer-lienzo,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1074,6 +1091,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-server-all:7.35.0.Final` // `org.dashbuilder,dashbuilder-server-all,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-server-all:7.36.0.20200330` // `org.dashbuilder,dashbuilder-server-all,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-server-all:7.36.0.20200331` // `org.dashbuilder,dashbuilder-server-all,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-server-all:7.36.1.Final` // `org.dashbuilder,dashbuilder-server-all,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services:2.21.0.Final` // `org.dashbuilder,dashbuilder-services,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services:2.22.0.Final` // `org.dashbuilder,dashbuilder-services,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services:2.23.0.Final` // `org.dashbuilder,dashbuilder-services,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1088,6 +1106,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-services:7.35.0.Final` // `org.dashbuilder,dashbuilder-services,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services:7.36.0.20200330` // `org.dashbuilder,dashbuilder-services,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services:7.36.0.20200331` // `org.dashbuilder,dashbuilder-services,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-services:7.36.1.Final` // `org.dashbuilder,dashbuilder-services,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:2.21.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:2.22.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:2.23.0.Final` // `org.dashbuilder,dashbuilder-services-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1102,6 +1121,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:7.35.0.Final` // `org.dashbuilder,dashbuilder-services-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:7.36.0.20200330` // `org.dashbuilder,dashbuilder-services-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-services-api:7.36.0.20200331` // `org.dashbuilder,dashbuilder-services-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-services-api:7.36.1.Final` // `org.dashbuilder,dashbuilder-services-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:2.21.0.Final` // `org.dashbuilder,dashbuilder-validations,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:2.22.0.Final` // `org.dashbuilder,dashbuilder-validations,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:2.23.0.Final` // `org.dashbuilder,dashbuilder-validations,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1116,6 +1136,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:7.35.0.Final` // `org.dashbuilder,dashbuilder-validations,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:7.36.0.20200330` // `org.dashbuilder,dashbuilder-validations,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-validations:7.36.0.20200331` // `org.dashbuilder,dashbuilder-validations,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-validations:7.36.1.Final` // `org.dashbuilder,dashbuilder-validations,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:2.21.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:2.22.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:2.23.0.Final` // `org.dashbuilder,dashbuilder-widgets,2.23.0.Final,-,-,automatic,-,false,-`
@@ -1130,6 +1151,7 @@
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:7.35.0.Final` // `org.dashbuilder,dashbuilder-widgets,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:7.36.0.20200330` // `org.dashbuilder,dashbuilder-widgets,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-widgets:7.36.0.20200331` // `org.dashbuilder,dashbuilder-widgets,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.dashbuilder:dashbuilder-widgets:7.36.1.Final` // `org.dashbuilder,dashbuilder-widgets,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-integration-tests:7.14.0.Final` // `org.drools,camel-container-integration-tests,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-integration-tests:7.15.0.Final` // `org.drools,camel-container-integration-tests,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-integration-tests:7.16.0.Final` // `org.drools,camel-container-integration-tests,7.16.0.Final,-,-,automatic,-,false,-`
@@ -1153,6 +1175,7 @@
 - :cd: `` - `org.drools:camel-container-integration-tests:7.34.0.Final` // `org.drools,camel-container-integration-tests,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-integration-tests:7.35.0.Final` // `org.drools,camel-container-integration-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-integration-tests:7.36.0.Final` // `org.drools,camel-container-integration-tests,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:camel-container-integration-tests:7.36.1.Final` // `org.drools,camel-container-integration-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-api:7.14.0.Final` // `org.drools,camel-container-tests-api,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-api:7.15.0.Final` // `org.drools,camel-container-tests-api,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-api:7.16.0.Final` // `org.drools,camel-container-tests-api,7.16.0.Final,-,-,automatic,-,false,-`
@@ -1176,6 +1199,7 @@
 - :cd: `` - `org.drools:camel-container-tests-api:7.34.0.Final` // `org.drools,camel-container-tests-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-api:7.35.0.Final` // `org.drools,camel-container-tests-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-api:7.36.0.Final` // `org.drools,camel-container-tests-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:camel-container-tests-api:7.36.1.Final` // `org.drools,camel-container-tests-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-model:7.16.0.Final` // `org.drools,camel-container-tests-model,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-model:7.17.0.Final` // `org.drools,camel-container-tests-model,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-model:7.18.0.Final` // `org.drools,camel-container-tests-model,7.18.0.Final,-,-,automatic,-,false,-`
@@ -1197,6 +1221,7 @@
 - :cd: `` - `org.drools:camel-container-tests-model:7.34.0.Final` // `org.drools,camel-container-tests-model,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-model:7.35.0.Final` // `org.drools,camel-container-tests-model,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:camel-container-tests-model:7.36.0.Final` // `org.drools,camel-container-tests-model,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:camel-container-tests-model:7.36.1.Final` // `org.drools,camel-container-tests-model,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.22.0.t042` // `org.drools,drools-scenario-simulation-api,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.23.0.Final` // `org.drools,drools-scenario-simulation-api,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.24.0.t043` // `org.drools,drools-scenario-simulation-api,7.24.0.t043,-,-,automatic,-,false,-`
@@ -1214,6 +1239,7 @@
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.35.0.Final` // `org.drools,drools-scenario-simulation-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.36.0.20200330` // `org.drools,drools-scenario-simulation-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-api:7.36.0.20200331` // `org.drools,drools-scenario-simulation-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:drools-scenario-simulation-api:7.36.1.Final` // `org.drools,drools-scenario-simulation-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.22.0.t042` // `org.drools,drools-scenario-simulation-backend,7.22.0.t042,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.23.0.Final` // `org.drools,drools-scenario-simulation-backend,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.24.0.t043` // `org.drools,drools-scenario-simulation-backend,7.24.0.t043,-,-,automatic,-,false,-`
@@ -1231,14 +1257,20 @@
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.35.0.Final` // `org.drools,drools-scenario-simulation-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.36.0.20200330` // `org.drools,drools-scenario-simulation-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-scenario-simulation-backend:7.36.0.20200331` // `org.drools,drools-scenario-simulation-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:drools-scenario-simulation-backend:7.36.1.Final` // `org.drools,drools-scenario-simulation-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-marshaller:7.34.0.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-marshaller,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-marshaller:7.35.0.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-marshaller,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-marshaller:7.36.0.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-marshaller,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-marshaller:7.36.1.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-marshaller,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-webapp-common:7.35.0.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-webapp-common,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-webapp-common:7.36.0.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-webapp-common,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:drools-wb-scenario-simulation-editor-kogito-webapp-common:7.36.1.Final` // `org.drools,drools-wb-scenario-simulation-editor-kogito-webapp-common,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:ha-core:7.36.0.Final` // `org.drools,ha-core,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:ha-core:7.36.1.Final` // `org.drools,ha-core,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:ha-core-infra:7.36.0.Final` // `org.drools,ha-core-infra,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:ha-core-infra:7.36.1.Final` // `org.drools,ha-core-infra,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools:ha-remote:7.36.0.Final` // `org.drools,ha-remote,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools:ha-remote:7.36.1.Final` // `org.drools,ha-remote,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1268,6 +1300,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-domain,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1297,6 +1330,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-test-kjar,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1326,6 +1360,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-with-domain-tests:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-with-domain-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1355,6 +1390,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-domain:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-domain,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1384,6 +1420,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-test-kjar:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-test-kjar,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.10.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.11.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.12.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1413,6 +1450,7 @@
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.35.0.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.36.0.20200330` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.36.0.20200331` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:drools-kie-ci-without-domain-tests:7.36.1.Final` // `org.drools.testcoverage,drools-kie-ci-without-domain-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1440,6 +1478,7 @@
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.34.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.35.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.36.0.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:kie-maven-plugin-separate-model-test-suite:7.36.1.Final` // `org.drools.testcoverage,kie-maven-plugin-separate-model-test-suite,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.10.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.11.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.12.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1467,6 +1506,7 @@
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.34.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.35.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.36.0.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:kie-maven-plugin-test-suite:7.36.1.Final` // `org.drools.testcoverage,kie-maven-plugin-test-suite,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.10.0.Final` // `org.drools.testcoverage,kie-spring-test,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.11.0.Final` // `org.drools.testcoverage,kie-spring-test,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.12.0.Final` // `org.drools.testcoverage,kie-spring-test,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1494,6 +1534,7 @@
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.34.0.Final` // `org.drools.testcoverage,kie-spring-test,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.35.0.Final` // `org.drools.testcoverage,kie-spring-test,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kie-spring-test:7.36.0.Final` // `org.drools.testcoverage,kie-spring-test,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:kie-spring-test:7.36.1.Final` // `org.drools.testcoverage,kie-spring-test,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1521,6 +1562,7 @@
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.34.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.35.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.36.0.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:kjar-with-instrumentation-wrapper:7.36.1.Final` // `org.drools.testcoverage,kjar-with-instrumentation-wrapper,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.10.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.11.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.12.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1548,6 +1590,7 @@
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.34.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.35.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.36.0.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:kjar-with-separate-instrumentation-wrapper:7.36.1.Final` // `org.drools.testcoverage,kjar-with-separate-instrumentation-wrapper,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.10.0.Final` // `org.drools.testcoverage,model-wrapper,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.11.0.Final` // `org.drools.testcoverage,model-wrapper,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.12.0.Final` // `org.drools.testcoverage,model-wrapper,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1575,6 +1618,7 @@
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.34.0.Final` // `org.drools.testcoverage,model-wrapper,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.35.0.Final` // `org.drools.testcoverage,model-wrapper,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.36.0.Final` // `org.drools.testcoverage,model-wrapper,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.drools.testcoverage:model-wrapper:7.36.1.Final` // `org.drools.testcoverage,model-wrapper,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.hortonmachine:hm-apps:0.9.3` // `org.hortonmachine,hm-apps,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.hortonmachine:hm-apps:0.9.4` // `org.hortonmachine,hm-apps,0.9.4,-,-,automatic,-,false,-`
 - :cd: `` - `org.hortonmachine:hm-apps:0.9.5` // `org.hortonmachine,hm-apps,0.9.5,-,-,automatic,-,false,-`
@@ -1641,6 +1685,7 @@
 - :cd: `` - `org.jbpm:jbpm-event-emitters-elasticsearch:7.34.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-event-emitters-elasticsearch:7.35.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-event-emitters-elasticsearch:7.36.0.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm:jbpm-event-emitters-elasticsearch:7.36.1.Final` // `org.jbpm,jbpm-event-emitters-elasticsearch,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.10.0.Final` // `org.jbpm,jbpm-executor-ejb,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.11.0.Final` // `org.jbpm,jbpm-executor-ejb,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.12.0.Final` // `org.jbpm,jbpm-executor-ejb,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1668,6 +1713,7 @@
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.34.0.Final` // `org.jbpm,jbpm-executor-ejb,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.35.0.Final` // `org.jbpm,jbpm-executor-ejb,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-executor-ejb:7.36.0.Final` // `org.jbpm,jbpm-executor-ejb,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm:jbpm-executor-ejb:7.36.1.Final` // `org.jbpm,jbpm-executor-ejb,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-task-assigning-core:7.31.0.Final` // `org.jbpm,jbpm-task-assigning-core,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-task-assigning-core:7.32.0.Final` // `org.jbpm,jbpm-task-assigning-core,7.32.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-task-assigning-core:7.33.0.Final` // `org.jbpm,jbpm-task-assigning-core,7.33.0.Final,-,-,automatic,-,false,-`
@@ -1691,6 +1737,7 @@
 - :cd: `` - `org.jbpm:jbpm-workitems-template-resources:7.34.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-workitems-template-resources:7.35.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-workitems-template-resources:7.36.0.Final` // `org.jbpm,jbpm-workitems-template-resources,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm:jbpm-workitems-template-resources:7.36.1.Final` // `org.jbpm,jbpm-workitems-template-resources,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-xes:7.19.0.Final` // `org.jbpm,jbpm-xes,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-xes:7.20.0.Final` // `org.jbpm,jbpm-xes,7.20.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-xes:7.21.0.Final` // `org.jbpm,jbpm-xes,7.21.0.Final,-,-,automatic,-,false,-`
@@ -1709,6 +1756,7 @@
 - :cd: `` - `org.jbpm:jbpm-xes:7.34.0.Final` // `org.jbpm,jbpm-xes,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-xes:7.35.0.Final` // `org.jbpm,jbpm-xes,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm:jbpm-xes:7.36.0.Final` // `org.jbpm,jbpm-xes,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm:jbpm-xes:7.36.1.Final` // `org.jbpm,jbpm-xes,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.10.0.Final` // `org.jbpm.contrib,archive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.11.0.Final` // `org.jbpm.contrib,archive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.12.0.Final` // `org.jbpm.contrib,archive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1736,6 +1784,7 @@
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.34.0.Final` // `org.jbpm.contrib,archive-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.35.0.Final` // `org.jbpm.contrib,archive-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:archive-workitem:7.36.0.Final` // `org.jbpm.contrib,archive-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:archive-workitem:7.36.1.Final` // `org.jbpm.contrib,archive-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.17.0.Final` // `org.jbpm.contrib,docker-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.18.0.Final` // `org.jbpm.contrib,docker-workitem,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.19.0.Final` // `org.jbpm.contrib,docker-workitem,7.19.0.Final,-,-,automatic,-,false,-`
@@ -1756,6 +1805,7 @@
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.34.0.Final` // `org.jbpm.contrib,docker-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.35.0.Final` // `org.jbpm.contrib,docker-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:docker-workitem:7.36.0.Final` // `org.jbpm.contrib,docker-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:docker-workitem:7.36.1.Final` // `org.jbpm.contrib,docker-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.10.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.11.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.12.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1783,6 +1833,7 @@
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.34.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.35.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.36.0.Final` // `org.jbpm.contrib,dropbox-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:dropbox-workitem:7.36.1.Final` // `org.jbpm.contrib,dropbox-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.10.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.11.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.12.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1810,6 +1861,7 @@
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.34.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.35.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.36.0.Final` // `org.jbpm.contrib,ethereum-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:ethereum-workitem:7.36.1.Final` // `org.jbpm.contrib,ethereum-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.10.0.Final` // `org.jbpm.contrib,exec-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.11.0.Final` // `org.jbpm.contrib,exec-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.12.0.Final` // `org.jbpm.contrib,exec-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1837,6 +1889,7 @@
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.34.0.Final` // `org.jbpm.contrib,exec-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.35.0.Final` // `org.jbpm.contrib,exec-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:exec-workitem:7.36.0.Final` // `org.jbpm.contrib,exec-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:exec-workitem:7.36.1.Final` // `org.jbpm.contrib,exec-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.12.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.13.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.14.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -1862,6 +1915,7 @@
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.34.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.35.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.36.0.Final` // `org.jbpm.contrib,execute-sql-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:execute-sql-workitem:7.36.1.Final` // `org.jbpm.contrib,execute-sql-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.10.0.Final` // `org.jbpm.contrib,ftp-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.11.0.Final` // `org.jbpm.contrib,ftp-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.12.0.Final` // `org.jbpm.contrib,ftp-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1889,6 +1943,7 @@
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.34.0.Final` // `org.jbpm.contrib,ftp-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.35.0.Final` // `org.jbpm.contrib,ftp-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ftp-workitem:7.36.0.Final` // `org.jbpm.contrib,ftp-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:ftp-workitem:7.36.1.Final` // `org.jbpm.contrib,ftp-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.10.0.Final` // `org.jbpm.contrib,github-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.11.0.Final` // `org.jbpm.contrib,github-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.12.0.Final` // `org.jbpm.contrib,github-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1916,6 +1971,7 @@
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.34.0.Final` // `org.jbpm.contrib,github-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.35.0.Final` // `org.jbpm.contrib,github-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:github-workitem:7.36.0.Final` // `org.jbpm.contrib,github-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:github-workitem:7.36.1.Final` // `org.jbpm.contrib,github-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.10.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.11.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.12.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1943,6 +1999,7 @@
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.34.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.35.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.36.0.Final` // `org.jbpm.contrib,google-calendar-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-calendar-workitem:7.36.1.Final` // `org.jbpm.contrib,google-calendar-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.10.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.11.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.12.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1970,6 +2027,7 @@
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.34.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.35.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.36.0.Final` // `org.jbpm.contrib,google-drive-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-drive-workitem:7.36.1.Final` // `org.jbpm.contrib,google-drive-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.10.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.11.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.12.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -1997,6 +2055,7 @@
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.34.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.35.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.36.0.Final` // `org.jbpm.contrib,google-mail-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-mail-workitem:7.36.1.Final` // `org.jbpm.contrib,google-mail-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.15.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.16.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.17.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2019,6 +2078,7 @@
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.34.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.35.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.36.0.Final` // `org.jbpm.contrib,google-maps-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-maps-workitem:7.36.1.Final` // `org.jbpm.contrib,google-maps-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.10.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.11.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.12.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2046,6 +2106,7 @@
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.34.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.35.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.36.0.Final` // `org.jbpm.contrib,google-sheets-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-sheets-workitem:7.36.1.Final` // `org.jbpm.contrib,google-sheets-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.10.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.11.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.12.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2073,6 +2134,7 @@
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.34.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.35.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.36.0.Final` // `org.jbpm.contrib,google-tasks-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-tasks-workitem:7.36.1.Final` // `org.jbpm.contrib,google-tasks-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.10.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.11.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.12.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2100,6 +2162,7 @@
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.34.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.35.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.36.0.Final` // `org.jbpm.contrib,google-translate-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:google-translate-workitem:7.36.1.Final` // `org.jbpm.contrib,google-translate-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.10.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.11.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.12.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2127,6 +2190,7 @@
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.34.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.35.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.36.0.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:ibm-watson-workitem:7.36.1.Final` // `org.jbpm.contrib,ibm-watson-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.10.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.11.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.12.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2154,6 +2218,7 @@
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.34.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.35.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.36.0.Final` // `org.jbpm.contrib,ifttt-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:ifttt-workitem:7.36.1.Final` // `org.jbpm.contrib,ifttt-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.10.0.Final` // `org.jbpm.contrib,jabber-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.11.0.Final` // `org.jbpm.contrib,jabber-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.12.0.Final` // `org.jbpm.contrib,jabber-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2181,6 +2246,7 @@
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.34.0.Final` // `org.jbpm.contrib,jabber-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.35.0.Final` // `org.jbpm.contrib,jabber-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jabber-workitem:7.36.0.Final` // `org.jbpm.contrib,jabber-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:jabber-workitem:7.36.1.Final` // `org.jbpm.contrib,jabber-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.10.0.Final` // `org.jbpm.contrib,java-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.11.0.Final` // `org.jbpm.contrib,java-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.12.0.Final` // `org.jbpm.contrib,java-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2208,6 +2274,7 @@
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.34.0.Final` // `org.jbpm.contrib,java-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.35.0.Final` // `org.jbpm.contrib,java-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:java-workitem:7.36.0.Final` // `org.jbpm.contrib,java-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:java-workitem:7.36.1.Final` // `org.jbpm.contrib,java-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.10.0.Final` // `org.jbpm.contrib,jira-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.11.0.Final` // `org.jbpm.contrib,jira-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.12.0.Final` // `org.jbpm.contrib,jira-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2235,6 +2302,7 @@
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.34.0.Final` // `org.jbpm.contrib,jira-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.35.0.Final` // `org.jbpm.contrib,jira-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jira-workitem:7.36.0.Final` // `org.jbpm.contrib,jira-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:jira-workitem:7.36.1.Final` // `org.jbpm.contrib,jira-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.10.0.Final` // `org.jbpm.contrib,jpa-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.11.0.Final` // `org.jbpm.contrib,jpa-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.12.0.Final` // `org.jbpm.contrib,jpa-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2262,6 +2330,7 @@
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.34.0.Final` // `org.jbpm.contrib,jpa-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.35.0.Final` // `org.jbpm.contrib,jpa-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:jpa-workitem:7.36.0.Final` // `org.jbpm.contrib,jpa-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:jpa-workitem:7.36.1.Final` // `org.jbpm.contrib,jpa-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.15.0.Final` // `org.jbpm.contrib,kafka-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.16.0.Final` // `org.jbpm.contrib,kafka-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.17.0.Final` // `org.jbpm.contrib,kafka-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2284,6 +2353,7 @@
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.34.0.Final` // `org.jbpm.contrib,kafka-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.35.0.Final` // `org.jbpm.contrib,kafka-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:kafka-workitem:7.36.0.Final` // `org.jbpm.contrib,kafka-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:kafka-workitem:7.36.1.Final` // `org.jbpm.contrib,kafka-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.10.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.11.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.12.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2311,6 +2381,7 @@
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.34.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.35.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.36.0.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:mavenembedder-workitem:7.36.1.Final` // `org.jbpm.contrib,mavenembedder-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.16.0.Final` // `org.jbpm.contrib,okta-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.17.0.Final` // `org.jbpm.contrib,okta-workitem,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.18.0.Final` // `org.jbpm.contrib,okta-workitem,7.18.0.Final,-,-,automatic,-,false,-`
@@ -2332,6 +2403,7 @@
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.34.0.Final` // `org.jbpm.contrib,okta-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.35.0.Final` // `org.jbpm.contrib,okta-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:okta-workitem:7.36.0.Final` // `org.jbpm.contrib,okta-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:okta-workitem:7.36.1.Final` // `org.jbpm.contrib,okta-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.10.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.11.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.12.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2359,6 +2431,7 @@
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.34.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.35.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.36.0.Final` // `org.jbpm.contrib,openweathermap-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:openweathermap-workitem:7.36.1.Final` // `org.jbpm.contrib,openweathermap-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.10.0.Final` // `org.jbpm.contrib,parser-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.11.0.Final` // `org.jbpm.contrib,parser-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.12.0.Final` // `org.jbpm.contrib,parser-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2386,6 +2459,7 @@
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.34.0.Final` // `org.jbpm.contrib,parser-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.35.0.Final` // `org.jbpm.contrib,parser-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:parser-workitem:7.36.0.Final` // `org.jbpm.contrib,parser-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:parser-workitem:7.36.1.Final` // `org.jbpm.contrib,parser-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.15.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.16.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.17.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2408,6 +2482,7 @@
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.34.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.35.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.36.0.Final` // `org.jbpm.contrib,pastebin-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:pastebin-workitem:7.36.1.Final` // `org.jbpm.contrib,pastebin-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.12.0.Final` // `org.jbpm.contrib,pdf-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.13.0.Final` // `org.jbpm.contrib,pdf-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.14.0.Final` // `org.jbpm.contrib,pdf-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -2433,6 +2508,7 @@
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.34.0.Final` // `org.jbpm.contrib,pdf-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.35.0.Final` // `org.jbpm.contrib,pdf-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:pdf-workitem:7.36.0.Final` // `org.jbpm.contrib,pdf-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:pdf-workitem:7.36.1.Final` // `org.jbpm.contrib,pdf-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository:7.10.0.Final` // `org.jbpm.contrib,repository,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository:7.11.0.Final` // `org.jbpm.contrib,repository,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository:7.12.0.Final` // `org.jbpm.contrib,repository,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2460,6 +2536,7 @@
 - :cd: `` - `org.jbpm.contrib:repository:7.34.0.Final` // `org.jbpm.contrib,repository,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository:7.35.0.Final` // `org.jbpm.contrib,repository,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository:7.36.0.Final` // `org.jbpm.contrib,repository,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:repository:7.36.1.Final` // `org.jbpm.contrib,repository,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.10.0.Final` // `org.jbpm.contrib,repository-springboot,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.11.0.Final` // `org.jbpm.contrib,repository-springboot,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.12.0.Final` // `org.jbpm.contrib,repository-springboot,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2487,6 +2564,7 @@
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.34.0.Final` // `org.jbpm.contrib,repository-springboot,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.35.0.Final` // `org.jbpm.contrib,repository-springboot,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:repository-springboot:7.36.0.Final` // `org.jbpm.contrib,repository-springboot,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:repository-springboot:7.36.1.Final` // `org.jbpm.contrib,repository-springboot,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.12.0.Final` // `org.jbpm.contrib,riot-workitem,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.13.0.Final` // `org.jbpm.contrib,riot-workitem,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.14.0.Final` // `org.jbpm.contrib,riot-workitem,7.14.0.Final,-,-,automatic,-,false,-`
@@ -2512,6 +2590,7 @@
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.34.0.Final` // `org.jbpm.contrib,riot-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.35.0.Final` // `org.jbpm.contrib,riot-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:riot-workitem:7.36.0.Final` // `org.jbpm.contrib,riot-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:riot-workitem:7.36.1.Final` // `org.jbpm.contrib,riot-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.10.0.Final` // `org.jbpm.contrib,rss-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.11.0.Final` // `org.jbpm.contrib,rss-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.12.0.Final` // `org.jbpm.contrib,rss-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2539,6 +2618,7 @@
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.34.0.Final` // `org.jbpm.contrib,rss-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.35.0.Final` // `org.jbpm.contrib,rss-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:rss-workitem:7.36.0.Final` // `org.jbpm.contrib,rss-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:rss-workitem:7.36.1.Final` // `org.jbpm.contrib,rss-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.10.0.Final` // `org.jbpm.contrib,slack-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.11.0.Final` // `org.jbpm.contrib,slack-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.12.0.Final` // `org.jbpm.contrib,slack-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2566,6 +2646,7 @@
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.34.0.Final` // `org.jbpm.contrib,slack-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.35.0.Final` // `org.jbpm.contrib,slack-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:slack-workitem:7.36.0.Final` // `org.jbpm.contrib,slack-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:slack-workitem:7.36.1.Final` // `org.jbpm.contrib,slack-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:template-resources:7.10.0.Final` // `org.jbpm.contrib,template-resources,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:template-resources:7.11.0.Final` // `org.jbpm.contrib,template-resources,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:template-resources:7.12.0.Final` // `org.jbpm.contrib,template-resources,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2593,6 +2674,7 @@
 - :cd: `` - `org.jbpm.contrib:template-resources:7.34.0.Final` // `org.jbpm.contrib,template-resources,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:template-resources:7.35.0.Final` // `org.jbpm.contrib,template-resources,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:template-resources:7.36.0.Final` // `org.jbpm.contrib,template-resources,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:template-resources:7.36.1.Final` // `org.jbpm.contrib,template-resources,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.10.0.Final` // `org.jbpm.contrib,transform-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.11.0.Final` // `org.jbpm.contrib,transform-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.12.0.Final` // `org.jbpm.contrib,transform-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2620,6 +2702,7 @@
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.34.0.Final` // `org.jbpm.contrib,transform-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.35.0.Final` // `org.jbpm.contrib,transform-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:transform-workitem:7.36.0.Final` // `org.jbpm.contrib,transform-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:transform-workitem:7.36.1.Final` // `org.jbpm.contrib,transform-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.10.0.Final` // `org.jbpm.contrib,twitter-workitem,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.11.0.Final` // `org.jbpm.contrib,twitter-workitem,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.12.0.Final` // `org.jbpm.contrib,twitter-workitem,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2647,6 +2730,7 @@
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.34.0.Final` // `org.jbpm.contrib,twitter-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.35.0.Final` // `org.jbpm.contrib,twitter-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:twitter-workitem:7.36.0.Final` // `org.jbpm.contrib,twitter-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:twitter-workitem:7.36.1.Final` // `org.jbpm.contrib,twitter-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.15.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.16.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.17.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2669,6 +2753,7 @@
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.34.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.35.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.36.0.Final` // `org.jbpm.contrib,vimeo-workitem,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.jbpm.contrib:vimeo-workitem:7.36.1.Final` // `org.jbpm.contrib,vimeo-workitem,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-deployment-validation:7.15.0.Final` // `org.kie,business-central-deployment-validation,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-deployment-validation:7.16.0.Final` // `org.kie,business-central-deployment-validation,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-deployment-validation:7.17.0.Final` // `org.kie,business-central-deployment-validation,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2691,6 +2776,7 @@
 - :cd: `` - `org.kie:business-central-deployment-validation:7.34.0.Final` // `org.kie,business-central-deployment-validation,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-deployment-validation:7.35.0.Final` // `org.kie,business-central-deployment-validation,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-deployment-validation:7.36.0.Final` // `org.kie,business-central-deployment-validation,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:business-central-deployment-validation:7.36.1.Final` // `org.kie,business-central-deployment-validation,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-gui:7.15.0.Final` // `org.kie,business-central-tests-gui,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-gui:7.16.0.Final` // `org.kie,business-central-tests-gui,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-gui:7.17.0.Final` // `org.kie,business-central-tests-gui,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2713,6 +2799,7 @@
 - :cd: `` - `org.kie:business-central-tests-gui:7.34.0.Final` // `org.kie,business-central-tests-gui,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-gui:7.35.0.Final` // `org.kie,business-central-tests-gui,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-gui:7.36.0.Final` // `org.kie,business-central-tests-gui,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:business-central-tests-gui:7.36.1.Final` // `org.kie,business-central-tests-gui,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-rest:7.15.0.Final` // `org.kie,business-central-tests-rest,7.15.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-rest:7.16.0.Final` // `org.kie,business-central-tests-rest,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-rest:7.17.0.Final` // `org.kie,business-central-tests-rest,7.17.0.Final,-,-,automatic,-,false,-`
@@ -2735,6 +2822,7 @@
 - :cd: `` - `org.kie:business-central-tests-rest:7.34.0.Final` // `org.kie,business-central-tests-rest,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-rest:7.35.0.Final` // `org.kie,business-central-tests-rest,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:business-central-tests-rest:7.36.0.Final` // `org.kie,business-central-tests-rest,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:business-central-tests-rest:7.36.1.Final` // `org.kie,business-central-tests-rest,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:ha-core-infra:7.34.0.Final` // `org.kie,ha-core-infra,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:ha-core-infra:7.35.0.Final` // `org.kie,ha-core-infra,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:hacep:7.34.0.Final` // `org.kie,hacep,7.34.0.Final,-,-,automatic,-,false,-`
@@ -2743,10 +2831,12 @@
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-logistic-regression:7.34.0.Final` // `org.kie,jbpm-recommendation-pmml-logistic-regression,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-logistic-regression:7.35.0.Final` // `org.kie,jbpm-recommendation-pmml-logistic-regression,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-logistic-regression:7.36.0.Final` // `org.kie,jbpm-recommendation-pmml-logistic-regression,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-recommendation-pmml-logistic-regression:7.36.1.Final` // `org.kie,jbpm-recommendation-pmml-logistic-regression,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-random-forest:7.33.0.Final` // `org.kie,jbpm-recommendation-pmml-random-forest,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-random-forest:7.34.0.Final` // `org.kie,jbpm-recommendation-pmml-random-forest,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-random-forest:7.35.0.Final` // `org.kie,jbpm-recommendation-pmml-random-forest,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-recommendation-pmml-random-forest:7.36.0.Final` // `org.kie,jbpm-recommendation-pmml-random-forest,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-recommendation-pmml-random-forest:7.36.1.Final` // `org.kie,jbpm-recommendation-pmml-random-forest,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.10.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.11.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.12.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2774,6 +2864,7 @@
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.34.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.35.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.36.0.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-spring-boot-autoconfiguration:7.36.1.Final` // `org.kie,jbpm-spring-boot-autoconfiguration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.16.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.16.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.17.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.17.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.18.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.18.0.Final,-,-,automatic,-,false,-`
@@ -2795,6 +2886,7 @@
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.34.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.35.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.36.0.Final` // `org.kie,jbpm-spring-boot-data-sources,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-spring-boot-data-sources:7.36.1.Final` // `org.kie,jbpm-spring-boot-data-sources,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2822,6 +2914,7 @@
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.34.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.35.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.36.0.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-spring-boot-sample-basic:7.36.1.Final` // `org.kie,jbpm-spring-boot-sample-basic,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.10.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.11.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.12.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2849,6 +2942,7 @@
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.34.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.35.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.36.0.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:jbpm-spring-boot-starter-basic:7.36.1.Final` // `org.kie,jbpm-spring-boot-starter-basic,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2876,6 +2970,7 @@
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.34.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.35.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.36.0.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:keycloak-kie-server-spring-boot-sample:7.36.1.Final` // `org.kie,keycloak-kie-server-spring-boot-sample,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-gwthelper-maven-plugin:1.0` // `org.kie,kie-gwthelper-maven-plugin,1.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-maven-plugin:7.14.0.Final` // `org.kie,kie-maven-plugin,7.14.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-maven-plugin:7.15.0.Final` // `org.kie,kie-maven-plugin,7.15.0.Final,-,-,automatic,-,false,-`
@@ -2900,6 +2995,7 @@
 - :cd: `` - `org.kie:kie-maven-plugin:7.34.0.Final` // `org.kie,kie-maven-plugin,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-maven-plugin:7.35.0.Final` // `org.kie,kie-maven-plugin,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-maven-plugin:7.36.0.Final` // `org.kie,kie-maven-plugin,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-maven-plugin:7.36.1.Final` // `org.kie,kie-maven-plugin,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-remote:7.25.0.Final` // `org.kie,kie-remote,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-remote:7.26.0.Final` // `org.kie,kie-remote,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-remote:7.27.0.Final` // `org.kie,kie-remote,7.27.0.Final,-,-,automatic,-,false,-`
@@ -2938,6 +3034,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration:7.34.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration:7.35.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration:7.36.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration:7.36.1.Final` // `org.kie,kie-server-spring-boot-autoconfiguration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2965,6 +3062,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.34.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.35.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.36.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-drools:7.36.1.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-drools,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -2992,6 +3090,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.34.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.35.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.36.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-jbpm:7.36.1.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-jbpm,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3019,6 +3118,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.34.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.35.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.36.0.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-autoconfiguration-optaplanner:7.36.1.Final` // `org.kie,kie-server-spring-boot-autoconfiguration-optaplanner,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.13.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.14.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.14.0.Final,-,-,automatic,-,false,-`
@@ -3044,6 +3144,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.34.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.35.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.36.0.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-integ-tests-sample:7.36.1.Final` // `org.kie,kie-server-spring-boot-integ-tests-sample,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.10.0.Final` // `org.kie,kie-server-spring-boot-sample,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.11.0.Final` // `org.kie,kie-server-spring-boot-sample,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.12.0.Final` // `org.kie,kie-server-spring-boot-sample,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3071,6 +3172,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.34.0.Final` // `org.kie,kie-server-spring-boot-sample,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.35.0.Final` // `org.kie,kie-server-spring-boot-sample,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-sample:7.36.0.Final` // `org.kie,kie-server-spring-boot-sample,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-sample:7.36.1.Final` // `org.kie,kie-server-spring-boot-sample,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3098,6 +3200,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.34.0.Final` // `org.kie,kie-server-spring-boot-starter,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.35.0.Final` // `org.kie,kie-server-spring-boot-starter,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter:7.36.0.Final` // `org.kie,kie-server-spring-boot-starter,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-starter:7.36.1.Final` // `org.kie,kie-server-spring-boot-starter,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3125,6 +3228,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.34.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.35.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.36.0.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-starter-drools:7.36.1.Final` // `org.kie,kie-server-spring-boot-starter-drools,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3152,6 +3256,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.34.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.35.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.36.0.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-starter-jbpm:7.36.1.Final` // `org.kie,kie-server-spring-boot-starter-jbpm,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.10.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.11.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.12.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3179,6 +3284,7 @@
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.34.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.35.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.36.0.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:kie-server-spring-boot-starter-optaplanner:7.36.1.Final` // `org.kie,kie-server-spring-boot-starter-optaplanner,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-wb-deployment-validation:7.10.0.Final` // `org.kie,kie-wb-deployment-validation,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-wb-deployment-validation:7.11.0.Final` // `org.kie,kie-wb-deployment-validation,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:kie-wb-deployment-validation:7.12.0.Final` // `org.kie,kie-wb-deployment-validation,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3224,6 +3330,7 @@
 - :cd: `` - `org.kie:openshift-kie-jdkhttp:7.34.0.Final` // `org.kie,openshift-kie-jdkhttp,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-jdkhttp:7.35.0.Final` // `org.kie,openshift-kie-jdkhttp,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-jdkhttp:7.36.0.Final` // `org.kie,openshift-kie-jdkhttp,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:openshift-kie-jdkhttp:7.36.1.Final` // `org.kie,openshift-kie-jdkhttp,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-springboot:7.25.0.Final` // `org.kie,openshift-kie-springboot,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-springboot:7.26.0.Final` // `org.kie,openshift-kie-springboot,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-springboot:7.27.0.Final` // `org.kie,openshift-kie-springboot,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3236,6 +3343,7 @@
 - :cd: `` - `org.kie:openshift-kie-springboot:7.34.0.Final` // `org.kie,openshift-kie-springboot,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-springboot:7.35.0.Final` // `org.kie,openshift-kie-springboot,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:openshift-kie-springboot:7.36.0.Final` // `org.kie,openshift-kie-springboot,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:openshift-kie-springboot:7.36.1.Final` // `org.kie,openshift-kie-springboot,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-client:7.25.0.Final` // `org.kie,sample-hacep-project-client,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-client:7.26.0.Final` // `org.kie,sample-hacep-project-client,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-client:7.27.0.Final` // `org.kie,sample-hacep-project-client,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3248,6 +3356,7 @@
 - :cd: `` - `org.kie:sample-hacep-project-client:7.34.0.Final` // `org.kie,sample-hacep-project-client,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-client:7.35.0.Final` // `org.kie,sample-hacep-project-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-client:7.36.0.Final` // `org.kie,sample-hacep-project-client,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:sample-hacep-project-client:7.36.1.Final` // `org.kie,sample-hacep-project-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.25.0.Final` // `org.kie,sample-hacep-project-kjar,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.26.0.Final` // `org.kie,sample-hacep-project-kjar,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.27.0.Final` // `org.kie,sample-hacep-project-kjar,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3260,6 +3369,7 @@
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.34.0.Final` // `org.kie,sample-hacep-project-kjar,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.35.0.Final` // `org.kie,sample-hacep-project-kjar,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie:sample-hacep-project-kjar:7.36.0.Final` // `org.kie,sample-hacep-project-kjar,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie:sample-hacep-project-kjar:7.36.1.Final` // `org.kie,sample-hacep-project-kjar,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.kogito:data-index-service:0.3.0` // `org.kie.kogito,data-index-service,0.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.kogito:data-index-service:0.4.0` // `org.kie.kogito,data-index-service,0.4.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.kogito:data-index-service:0.5.0` // `org.kie.kogito,data-index-service,0.5.0,-,-,automatic,-,false,-`
@@ -3803,6 +3913,7 @@
 - :cd: `` - `org.kie.server:kie-server-controller-plugin:7.34.0.Final` // `org.kie.server,kie-server-controller-plugin,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-controller-plugin:7.35.0.Final` // `org.kie.server,kie-server-controller-plugin,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-controller-plugin:7.36.0.Final` // `org.kie.server,kie-server-controller-plugin,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-controller-plugin:7.36.1.Final` // `org.kie.server,kie-server-controller-plugin,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.10.0.Final` // `org.kie.server,kie-server-maven-plugin,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.11.0.Final` // `org.kie.server,kie-server-maven-plugin,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.12.0.Final` // `org.kie.server,kie-server-maven-plugin,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3830,24 +3941,31 @@
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.34.0.Final` // `org.kie.server,kie-server-maven-plugin,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.35.0.Final` // `org.kie.server,kie-server-maven-plugin,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-maven-plugin:7.36.0.Final` // `org.kie.server,kie-server-maven-plugin,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-maven-plugin:7.36.1.Final` // `org.kie.server,kie-server-maven-plugin,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-rest-task-assigning-runtime:7.34.0.Final` // `org.kie.server,kie-server-rest-task-assigning-runtime,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-rest-task-assigning-runtime:7.35.0.Final` // `org.kie.server,kie-server-rest-task-assigning-runtime,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-rest-task-assigning-runtime:7.36.0.Final` // `org.kie.server,kie-server-rest-task-assigning-runtime,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-rest-task-assigning-runtime:7.36.1.Final` // `org.kie.server,kie-server-rest-task-assigning-runtime,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-core:7.34.0.Final` // `org.kie.server,kie-server-services-task-assigning-core,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-core:7.35.0.Final` // `org.kie.server,kie-server-services-task-assigning-core,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-core:7.36.0.Final` // `org.kie.server,kie-server-services-task-assigning-core,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-services-task-assigning-core:7.36.1.Final` // `org.kie.server,kie-server-services-task-assigning-core,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-planning:7.34.0.Final` // `org.kie.server,kie-server-services-task-assigning-planning,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-planning:7.35.0.Final` // `org.kie.server,kie-server-services-task-assigning-planning,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-planning:7.36.0.Final` // `org.kie.server,kie-server-services-task-assigning-planning,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-services-task-assigning-planning:7.36.1.Final` // `org.kie.server,kie-server-services-task-assigning-planning,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-runtime:7.34.0.Final` // `org.kie.server,kie-server-services-task-assigning-runtime,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-runtime:7.35.0.Final` // `org.kie.server,kie-server-services-task-assigning-runtime,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-runtime:7.36.0.Final` // `org.kie.server,kie-server-services-task-assigning-runtime,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-services-task-assigning-runtime:7.36.1.Final` // `org.kie.server,kie-server-services-task-assigning-runtime,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-api:7.34.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-api:7.35.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-api:7.36.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-api:7.36.1.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-simple:7.34.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-simple,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-simple:7.35.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-simple,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-simple:7.36.0.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-simple,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.server:kie-server-services-task-assigning-user-system-simple:7.36.1.Final` // `org.kie.server,kie-server-services-task-assigning-user-system-simple,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-api,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-api,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-api,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3861,6 +3979,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-api:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-core,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-core,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-core,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3874,6 +3993,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-core,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-core,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-core,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-core:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-core,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-csv,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-csv,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-csv,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3887,6 +4007,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-csv,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-csv,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-csv,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-csv:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-csv,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3900,6 +4021,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-elasticsearch:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-elasticsearch,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-shared,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-shared,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-shared,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3913,6 +4035,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-shared,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-shared,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-shared,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-shared:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-shared,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.25.0.Final` // `org.kie.soup,kie-soup-dataset-sql,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.26.0.Final` // `org.kie.soup,kie-soup-dataset-sql,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.27.0.Final` // `org.kie.soup,kie-soup-dataset-sql,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3926,6 +4049,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.35.0.Final` // `org.kie.soup,kie-soup-dataset-sql,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.36.0.20200330` // `org.kie.soup,kie-soup-dataset-sql,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.36.0.20200331` // `org.kie.soup,kie-soup-dataset-sql,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-dataset-sql:7.36.1.Final` // `org.kie.soup,kie-soup-dataset-sql,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-json:7.25.0.Final` // `org.kie.soup,kie-soup-json,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-json:7.26.0.Final` // `org.kie.soup,kie-soup-json,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-json:7.27.0.Final` // `org.kie.soup,kie-soup-json,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3939,6 +4063,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-json:7.35.0.Final` // `org.kie.soup,kie-soup-json,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-json:7.36.0.20200330` // `org.kie.soup,kie-soup-json,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-json:7.36.0.20200331` // `org.kie.soup,kie-soup-json,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-json:7.36.1.Final` // `org.kie.soup,kie-soup-json,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.25.0.Final` // `org.kie.soup,kie-soup-maven-integration,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.26.0.Final` // `org.kie.soup,kie-soup-maven-integration,7.26.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.27.0.Final` // `org.kie.soup,kie-soup-maven-integration,7.27.0.Final,-,-,automatic,-,false,-`
@@ -3952,6 +4077,7 @@
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.35.0.Final` // `org.kie.soup,kie-soup-maven-integration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.36.0.20200330` // `org.kie.soup,kie-soup-maven-integration,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.36.0.20200331` // `org.kie.soup,kie-soup-maven-integration,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.soup:kie-soup-maven-integration:7.36.1.Final` // `org.kie.soup,kie-soup-maven-integration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.12.0.Final,-,-,automatic,-,false,-`
@@ -3979,6 +4105,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-api:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4006,6 +4133,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-forms-migration:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-forms-migration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4033,6 +4161,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-migration-tool:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-migration-tool,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4060,6 +4189,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-pom-migration:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-pom-migration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4087,6 +4217,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-project-migration:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-project-migration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.10.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.11.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.12.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4114,6 +4245,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-configuration-migration:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-system-configuration-migration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.24.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.25.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.25.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.26.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.26.0.Final,-,-,automatic,-,false,-`
@@ -4127,6 +4259,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.34.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.35.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.36.0.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-cli-system-to-space-configuration-migration:7.36.1.Final` // `org.kie.workbench,kie-wb-common-cli-system-to-space-configuration-migration,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.12.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.12.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.13.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.13.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.14.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.14.0.Final,-,-,automatic,-,false,-`
@@ -4152,6 +4285,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.34.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.35.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.36.0.Final` // `org.kie.workbench,kie-wb-common-command-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-command-api:7.36.1.Final` // `org.kie.workbench,kie-wb-common-command-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.30.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.31.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.32.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.32.0.Final,-,-,automatic,-,false,-`
@@ -4159,6 +4293,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.34.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.35.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.36.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-common:7.36.1.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-common,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.30.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.31.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.32.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.32.0.Final,-,-,automatic,-,false,-`
@@ -4166,6 +4301,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.34.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.35.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.36.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller:7.36.1.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller-tests:7.32.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller-tests,7.32.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-dmn-webapp-kogito-marshaller-tests:7.33.0.Final` // `org.kie.workbench,kie-wb-common-dmn-webapp-kogito-marshaller-tests,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-kogito-webapp-base:7.29.0.Final` // `org.kie.workbench,kie-wb-common-kogito-webapp-base,7.29.0.Final,-,-,automatic,-,false,-`
@@ -4176,6 +4312,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-kogito-webapp-base:7.34.0.Final` // `org.kie.workbench,kie-wb-common-kogito-webapp-base,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-kogito-webapp-base:7.35.0.Final` // `org.kie.workbench,kie-wb-common-kogito-webapp-base,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-kogito-webapp-base:7.36.0.Final` // `org.kie.workbench,kie-wb-common-kogito-webapp-base,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-kogito-webapp-base:7.36.1.Final` // `org.kie.workbench,kie-wb-common-kogito-webapp-base,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.10.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.11.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.12.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4203,6 +4340,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.34.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.35.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.36.0.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-common-wf-sdm-extensions:7.36.1.Final` // `org.kie.workbench,kie-wb-common-wf-sdm-extensions,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.10.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.11.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.12.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4230,6 +4368,7 @@
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.34.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.35.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.36.0.Final` // `org.kie.workbench,kie-wb-testing-utils,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench:kie-wb-testing-utils:7.36.1.Final` // `org.kie.workbench,kie-wb-testing-utils,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.18.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.18.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.19.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.19.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.20.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.20.0.Final,-,-,automatic,-,false,-`
@@ -4249,6 +4388,7 @@
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.34.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.35.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.36.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-adf-processors-tests:7.36.1.Final` // `org.kie.workbench.forms,kie-wb-common-forms-adf-processors-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.10.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.11.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.12.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4276,6 +4416,7 @@
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.34.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.35.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.36.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-backend-services:7.36.1.Final` // `org.kie.workbench.forms,kie-wb-common-forms-backend-services,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.10.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.11.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.12.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4303,6 +4444,7 @@
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.34.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.35.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.36.0.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.forms:kie-wb-common-forms-integration-tests:7.36.1.Final` // `org.kie.workbench.forms,kie-wb-common-forms-integration-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.10.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.11.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.12.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4330,6 +4472,7 @@
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.34.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.35.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.36.0.Final` // `org.kie.workbench.playground,curriculumcourse,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:curriculumcourse:7.36.1.Final` // `org.kie.workbench.playground,curriculumcourse,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.10.0.Final` // `org.kie.workbench.playground,dinnerparty,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.11.0.Final` // `org.kie.workbench.playground,dinnerparty,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.12.0.Final` // `org.kie.workbench.playground,dinnerparty,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4357,6 +4500,7 @@
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.34.0.Final` // `org.kie.workbench.playground,dinnerparty,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.35.0.Final` // `org.kie.workbench.playground,dinnerparty,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:dinnerparty:7.36.0.Final` // `org.kie.workbench.playground,dinnerparty,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:dinnerparty:7.36.1.Final` // `org.kie.workbench.playground,dinnerparty,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.10.0.Final` // `org.kie.workbench.playground,employeerostering,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.11.0.Final` // `org.kie.workbench.playground,employeerostering,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.12.0.Final` // `org.kie.workbench.playground,employeerostering,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4384,6 +4528,7 @@
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.34.0.Final` // `org.kie.workbench.playground,employeerostering,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.35.0.Final` // `org.kie.workbench.playground,employeerostering,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:employeerostering:7.36.0.Final` // `org.kie.workbench.playground,employeerostering,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:employeerostering:7.36.1.Final` // `org.kie.workbench.playground,employeerostering,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.10.0.Final` // `org.kie.workbench.playground,evaluation,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.11.0.Final` // `org.kie.workbench.playground,evaluation,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.12.0.Final` // `org.kie.workbench.playground,evaluation,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4411,6 +4556,7 @@
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.34.0.Final` // `org.kie.workbench.playground,evaluation,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.35.0.Final` // `org.kie.workbench.playground,evaluation,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:evaluation:7.36.0.Final` // `org.kie.workbench.playground,evaluation,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:evaluation:7.36.1.Final` // `org.kie.workbench.playground,evaluation,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:itorders:7.10.0.Final` // `org.kie.workbench.playground,itorders,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:itorders:7.11.0.Final` // `org.kie.workbench.playground,itorders,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:itorders:7.12.0.Final` // `org.kie.workbench.playground,itorders,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4438,6 +4584,7 @@
 - :cd: `` - `org.kie.workbench.playground:itorders:7.34.0.Final` // `org.kie.workbench.playground,itorders,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:itorders:7.35.0.Final` // `org.kie.workbench.playground,itorders,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:itorders:7.36.0.Final` // `org.kie.workbench.playground,itorders,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:itorders:7.36.1.Final` // `org.kie.workbench.playground,itorders,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.10.0.Final` // `org.kie.workbench.playground,mortgage-process,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.11.0.Final` // `org.kie.workbench.playground,mortgage-process,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.12.0.Final` // `org.kie.workbench.playground,mortgage-process,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4465,6 +4612,7 @@
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.34.0.Final` // `org.kie.workbench.playground,mortgage-process,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.35.0.Final` // `org.kie.workbench.playground,mortgage-process,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgage-process:7.36.0.Final` // `org.kie.workbench.playground,mortgage-process,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:mortgage-process:7.36.1.Final` // `org.kie.workbench.playground,mortgage-process,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.10.0.Final` // `org.kie.workbench.playground,mortgages,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.11.0.Final` // `org.kie.workbench.playground,mortgages,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.12.0.Final` // `org.kie.workbench.playground,mortgages,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4492,6 +4640,7 @@
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.34.0.Final` // `org.kie.workbench.playground,mortgages,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.35.0.Final` // `org.kie.workbench.playground,mortgages,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:mortgages:7.36.0.Final` // `org.kie.workbench.playground,mortgages,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:mortgages:7.36.1.Final` // `org.kie.workbench.playground,mortgages,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.10.0.Final` // `org.kie.workbench.playground,optacloud,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.11.0.Final` // `org.kie.workbench.playground,optacloud,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.12.0.Final` // `org.kie.workbench.playground,optacloud,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4519,6 +4668,7 @@
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.34.0.Final` // `org.kie.workbench.playground,optacloud,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.35.0.Final` // `org.kie.workbench.playground,optacloud,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:optacloud:7.36.0.Final` // `org.kie.workbench.playground,optacloud,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:optacloud:7.36.1.Final` // `org.kie.workbench.playground,optacloud,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.23.0.Final` // `org.kie.workbench.playground,traffic-violation,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.24.0.Final` // `org.kie.workbench.playground,traffic-violation,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.25.0.Final` // `org.kie.workbench.playground,traffic-violation,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4533,10 +4683,12 @@
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.34.0.Final` // `org.kie.workbench.playground,traffic-violation,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.35.0.Final` // `org.kie.workbench.playground,traffic-violation,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.playground:traffic-violation:7.36.0.Final` // `org.kie.workbench.playground,traffic-violation,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.playground:traffic-violation:7.36.1.Final` // `org.kie.workbench.playground,traffic-violation,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:base-kie-project:7.33.0.Final` // `org.kie.workbench.screens,base-kie-project,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:base-kie-project:7.34.0.Final` // `org.kie.workbench.screens,base-kie-project,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:base-kie-project:7.35.0.Final` // `org.kie.workbench.screens,base-kie-project,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:base-kie-project:7.36.0.Final` // `org.kie.workbench.screens,base-kie-project,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.screens:base-kie-project:7.36.1.Final` // `org.kie.workbench.screens,base-kie-project,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.21.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.22.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.23.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.23.0.Final,-,-,automatic,-,false,-`
@@ -4553,6 +4705,7 @@
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.34.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.35.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.36.0.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.screens:kie-wb-common-library-spaces-screen:7.36.1.Final` // `org.kie.workbench.screens,kie-wb-common-library-spaces-screen,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.29.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.30.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.31.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.31.0.Final,-,-,automatic,-,false,-`
@@ -4561,6 +4714,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-emf:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-emf,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.29.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.30.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.31.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.31.0.Final,-,-,automatic,-,false,-`
@@ -4569,6 +4723,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-marshalling:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-marshalling,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4596,6 +4751,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-api:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4623,6 +4779,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-backend:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.10.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.10.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.11.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.11.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.12.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.12.0.Final,-,-,automatic,-,false,-`
@@ -4650,6 +4807,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-bpmn-project-client:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-bpmn-project-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.23.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.24.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.25.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4664,6 +4822,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-case-mgmt-project-backend:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-case-mgmt-project-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.23.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.24.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.25.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4678,6 +4837,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-api:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.23.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.24.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.25.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4692,6 +4852,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-backend:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.23.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.24.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.25.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4706,6 +4867,7 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-client:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.23.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.24.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.24.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.25.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.25.0.Final,-,-,automatic,-,false,-`
@@ -4720,9 +4882,11 @@
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-jbpm-designer-integration-shared:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-jbpm-designer-integration-shared,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-kogito-runtime-common:7.34.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-kogito-runtime-common,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-kogito-runtime-common:7.35.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-kogito-runtime-common,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-kogito-runtime-common:7.36.0.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-kogito-runtime-common,7.36.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.kie.workbench.stunner:kie-wb-common-stunner-kogito-runtime-common:7.36.1.Final` // `org.kie.workbench.stunner,kie-wb-common-stunner-kogito-runtime-common,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.1` // `org.neo4j,neo4j-ast-3.5,3.5.1,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.10` // `org.neo4j,neo4j-ast-3.5,3.5.10,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.11` // `org.neo4j,neo4j-ast-3.5,3.5.11,-,-,automatic,-,false,-`
@@ -4867,15 +5031,18 @@
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-autoconfigure:7.34.0.Final` // `org.optaplanner,optaplanner-spring-boot-autoconfigure,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-autoconfigure:7.35.0.Final` // `org.optaplanner,optaplanner-spring-boot-autoconfigure,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-autoconfigure:7.36.0.20200331` // `org.optaplanner,optaplanner-spring-boot-autoconfigure,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.optaplanner:optaplanner-spring-boot-autoconfigure:7.36.1.Final` // `org.optaplanner,optaplanner-spring-boot-autoconfigure,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.32.0.Final` // `org.optaplanner,optaplanner-spring-boot-starter,7.32.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.33.0.Final` // `org.optaplanner,optaplanner-spring-boot-starter,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.34.0.Final` // `org.optaplanner,optaplanner-spring-boot-starter,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.35.0.Final` // `org.optaplanner,optaplanner-spring-boot-starter,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.36.0.20200331` // `org.optaplanner,optaplanner-spring-boot-starter,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.optaplanner:optaplanner-spring-boot-starter:7.36.1.Final` // `org.optaplanner,optaplanner-spring-boot-starter,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-client-api:7.34.0.Final` // `org.uberfire,appformer-client-api,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-client-api:7.35.0.Final` // `org.uberfire,appformer-client-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-client-api:7.36.0.20200330` // `org.uberfire,appformer-client-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-client-api:7.36.0.20200331` // `org.uberfire,appformer-client-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:appformer-client-api:7.36.1.Final` // `org.uberfire,appformer-client-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js:2.21.0.Final` // `org.uberfire,appformer-js,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js:2.22.0.Final` // `org.uberfire,appformer-js,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js:2.23.0.Final` // `org.uberfire,appformer-js,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4890,6 +5057,7 @@
 - :cd: `` - `org.uberfire:appformer-js:7.35.0.Final` // `org.uberfire,appformer-js,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js:7.36.0.20200330` // `org.uberfire,appformer-js,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js:7.36.0.20200331` // `org.uberfire,appformer-js,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:appformer-js:7.36.1.Final` // `org.uberfire,appformer-js,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js-bridge:2.21.0.Final` // `org.uberfire,appformer-js-bridge,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js-bridge:2.22.0.Final` // `org.uberfire,appformer-js-bridge,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js-bridge:2.23.0.Final` // `org.uberfire,appformer-js-bridge,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4904,12 +5072,14 @@
 - :cd: `` - `org.uberfire:appformer-js-bridge:7.35.0.Final` // `org.uberfire,appformer-js-bridge,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js-bridge:7.36.0.20200330` // `org.uberfire,appformer-js-bridge,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-js-bridge:7.36.0.20200331` // `org.uberfire,appformer-js-bridge,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:appformer-js-bridge:7.36.1.Final` // `org.uberfire,appformer-js-bridge,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.32.0.k20191223` // `org.uberfire,appformer-kogito-bridge,7.32.0.k20191223,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.33.0.Final` // `org.uberfire,appformer-kogito-bridge,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.34.0.Final` // `org.uberfire,appformer-kogito-bridge,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.35.0.Final` // `org.uberfire,appformer-kogito-bridge,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.36.0.20200330` // `org.uberfire,appformer-kogito-bridge,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:appformer-kogito-bridge:7.36.0.20200331` // `org.uberfire,appformer-kogito-bridge,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:appformer-kogito-bridge:7.36.1.Final` // `org.uberfire,appformer-kogito-bridge,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-all:2.21.0.Final` // `org.uberfire,uberfire-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-all:2.22.0.Final` // `org.uberfire,uberfire-all,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-all:2.23.0.Final` // `org.uberfire,uberfire-all,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4924,6 +5094,7 @@
 - :cd: `` - `org.uberfire:uberfire-all:7.35.0.Final` // `org.uberfire,uberfire-all,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-all:7.36.0.20200330` // `org.uberfire,uberfire-all,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-all:7.36.0.20200331` // `org.uberfire,uberfire-all,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-all:7.36.1.Final` // `org.uberfire,uberfire-all,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-api:2.21.0.Final` // `org.uberfire,uberfire-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-api:2.22.0.Final` // `org.uberfire,uberfire-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-api:2.23.0.Final` // `org.uberfire,uberfire-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4938,6 +5109,7 @@
 - :cd: `` - `org.uberfire:uberfire-api:7.35.0.Final` // `org.uberfire,uberfire-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-api:7.36.0.20200330` // `org.uberfire,uberfire-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-api:7.36.0.20200331` // `org.uberfire,uberfire-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-api:7.36.1.Final` // `org.uberfire,uberfire-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-api:2.21.0.Final` // `org.uberfire,uberfire-apps-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-api:2.22.0.Final` // `org.uberfire,uberfire-apps-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-api:2.23.0.Final` // `org.uberfire,uberfire-apps-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4952,6 +5124,7 @@
 - :cd: `` - `org.uberfire:uberfire-apps-api:7.35.0.Final` // `org.uberfire,uberfire-apps-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-api:7.36.0.20200330` // `org.uberfire,uberfire-apps-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-api:7.36.0.20200331` // `org.uberfire,uberfire-apps-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-apps-api:7.36.1.Final` // `org.uberfire,uberfire-apps-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-backend:2.21.0.Final` // `org.uberfire,uberfire-apps-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-backend:2.22.0.Final` // `org.uberfire,uberfire-apps-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-backend:2.23.0.Final` // `org.uberfire,uberfire-apps-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4966,6 +5139,7 @@
 - :cd: `` - `org.uberfire:uberfire-apps-backend:7.35.0.Final` // `org.uberfire,uberfire-apps-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-backend:7.36.0.20200330` // `org.uberfire,uberfire-apps-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-backend:7.36.0.20200331` // `org.uberfire,uberfire-apps-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-apps-backend:7.36.1.Final` // `org.uberfire,uberfire-apps-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-client:2.21.0.Final` // `org.uberfire,uberfire-apps-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-client:2.22.0.Final` // `org.uberfire,uberfire-apps-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-client:2.23.0.Final` // `org.uberfire,uberfire-apps-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4980,6 +5154,7 @@
 - :cd: `` - `org.uberfire:uberfire-apps-client:7.35.0.Final` // `org.uberfire,uberfire-apps-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-client:7.36.0.20200330` // `org.uberfire,uberfire-apps-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-apps-client:7.36.0.20200331` // `org.uberfire,uberfire-apps-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-apps-client:7.36.1.Final` // `org.uberfire,uberfire-apps-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-api:2.21.0.Final` // `org.uberfire,uberfire-backend-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-api:2.22.0.Final` // `org.uberfire,uberfire-backend-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-api:2.23.0.Final` // `org.uberfire,uberfire-backend-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -4994,6 +5169,7 @@
 - :cd: `` - `org.uberfire:uberfire-backend-api:7.35.0.Final` // `org.uberfire,uberfire-backend-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-api:7.36.0.20200330` // `org.uberfire,uberfire-backend-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-api:7.36.0.20200331` // `org.uberfire,uberfire-backend-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-backend-api:7.36.1.Final` // `org.uberfire,uberfire-backend-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:2.21.0.Final` // `org.uberfire,uberfire-backend-cdi,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:2.22.0.Final` // `org.uberfire,uberfire-backend-cdi,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:2.23.0.Final` // `org.uberfire,uberfire-backend-cdi,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5008,6 +5184,7 @@
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:7.35.0.Final` // `org.uberfire,uberfire-backend-cdi,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:7.36.0.20200330` // `org.uberfire,uberfire-backend-cdi,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-cdi:7.36.0.20200331` // `org.uberfire,uberfire-backend-cdi,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-backend-cdi:7.36.1.Final` // `org.uberfire,uberfire-backend-cdi,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-server:2.21.0.Final` // `org.uberfire,uberfire-backend-server,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-server:2.22.0.Final` // `org.uberfire,uberfire-backend-server,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-server:2.23.0.Final` // `org.uberfire,uberfire-backend-server,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5022,6 +5199,7 @@
 - :cd: `` - `org.uberfire:uberfire-backend-server:7.35.0.Final` // `org.uberfire,uberfire-backend-server,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-server:7.36.0.20200330` // `org.uberfire,uberfire-backend-server,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-backend-server:7.36.0.20200331` // `org.uberfire,uberfire-backend-server,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-backend-server:7.36.1.Final` // `org.uberfire,uberfire-backend-server,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client:2.21.0.Final` // `org.uberfire,uberfire-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client:2.22.0.Final` // `org.uberfire,uberfire-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client:2.23.0.Final` // `org.uberfire,uberfire-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5036,6 +5214,7 @@
 - :cd: `` - `org.uberfire:uberfire-client:7.35.0.Final` // `org.uberfire,uberfire-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client:7.36.0.20200330` // `org.uberfire,uberfire-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client:7.36.0.20200331` // `org.uberfire,uberfire-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-client:7.36.1.Final` // `org.uberfire,uberfire-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-all:2.21.0.Final` // `org.uberfire,uberfire-client-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-all:2.22.0.Final` // `org.uberfire,uberfire-client-all,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-all:2.23.0.Final` // `org.uberfire,uberfire-client-all,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5050,6 +5229,7 @@
 - :cd: `` - `org.uberfire:uberfire-client-all:7.35.0.Final` // `org.uberfire,uberfire-client-all,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-all:7.36.0.20200330` // `org.uberfire,uberfire-client-all,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-all:7.36.0.20200331` // `org.uberfire,uberfire-client-all,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-client-all:7.36.1.Final` // `org.uberfire,uberfire-client-all,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-api:2.21.0.Final` // `org.uberfire,uberfire-client-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-api:2.22.0.Final` // `org.uberfire,uberfire-client-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-api:2.23.0.Final` // `org.uberfire,uberfire-client-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5064,6 +5244,7 @@
 - :cd: `` - `org.uberfire:uberfire-client-api:7.35.0.Final` // `org.uberfire,uberfire-client-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-api:7.36.0.20200330` // `org.uberfire,uberfire-client-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-api:7.36.0.20200331` // `org.uberfire,uberfire-client-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-client-api:7.36.1.Final` // `org.uberfire,uberfire-client-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-backend:2.21.0.Final` // `org.uberfire,uberfire-client-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-backend:2.22.0.Final` // `org.uberfire,uberfire-client-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-backend:2.23.0.Final` // `org.uberfire,uberfire-client-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5078,12 +5259,14 @@
 - :cd: `` - `org.uberfire:uberfire-client-backend:7.35.0.Final` // `org.uberfire,uberfire-client-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-backend:7.36.0.20200330` // `org.uberfire,uberfire-client-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-client-backend:7.36.0.20200331` // `org.uberfire,uberfire-client-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-client-backend:7.36.1.Final` // `org.uberfire,uberfire-client-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.32.0.k20191223` // `org.uberfire,uberfire-commons,7.32.0.k20191223,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.33.0.Final` // `org.uberfire,uberfire-commons,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.34.0.Final` // `org.uberfire,uberfire-commons,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.35.0.Final` // `org.uberfire,uberfire-commons,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.36.0.20200330` // `org.uberfire,uberfire-commons,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons:7.36.0.20200331` // `org.uberfire,uberfire-commons,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-commons:7.36.1.Final` // `org.uberfire,uberfire-commons,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:2.21.0.Final` // `org.uberfire,uberfire-commons-editor-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:2.22.0.Final` // `org.uberfire,uberfire-commons-editor-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:2.23.0.Final` // `org.uberfire,uberfire-commons-editor-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5098,6 +5281,7 @@
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:7.35.0.Final` // `org.uberfire,uberfire-commons-editor-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:7.36.0.20200330` // `org.uberfire,uberfire-commons-editor-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-api:7.36.0.20200331` // `org.uberfire,uberfire-commons-editor-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-commons-editor-api:7.36.1.Final` // `org.uberfire,uberfire-commons-editor-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:2.21.0.Final` // `org.uberfire,uberfire-commons-editor-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:2.22.0.Final` // `org.uberfire,uberfire-commons-editor-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:2.23.0.Final` // `org.uberfire,uberfire-commons-editor-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5112,6 +5296,7 @@
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:7.35.0.Final` // `org.uberfire,uberfire-commons-editor-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:7.36.0.20200330` // `org.uberfire,uberfire-commons-editor-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-backend:7.36.0.20200331` // `org.uberfire,uberfire-commons-editor-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-commons-editor-backend:7.36.1.Final` // `org.uberfire,uberfire-commons-editor-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:2.21.0.Final` // `org.uberfire,uberfire-commons-editor-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:2.22.0.Final` // `org.uberfire,uberfire-commons-editor-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:2.23.0.Final` // `org.uberfire,uberfire-commons-editor-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5126,6 +5311,7 @@
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:7.35.0.Final` // `org.uberfire,uberfire-commons-editor-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:7.36.0.20200330` // `org.uberfire,uberfire-commons-editor-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-commons-editor-client:7.36.0.20200331` // `org.uberfire,uberfire-commons-editor-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-commons-editor-client:7.36.1.Final` // `org.uberfire,uberfire-commons-editor-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-api:2.21.0.Final` // `org.uberfire,uberfire-experimental-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-api:2.22.0.Final` // `org.uberfire,uberfire-experimental-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-api:2.23.0.Final` // `org.uberfire,uberfire-experimental-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5140,6 +5326,7 @@
 - :cd: `` - `org.uberfire:uberfire-experimental-api:7.35.0.Final` // `org.uberfire,uberfire-experimental-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-api:7.36.0.20200330` // `org.uberfire,uberfire-experimental-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-api:7.36.0.20200331` // `org.uberfire,uberfire-experimental-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-experimental-api:7.36.1.Final` // `org.uberfire,uberfire-experimental-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:2.21.0.Final` // `org.uberfire,uberfire-experimental-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:2.22.0.Final` // `org.uberfire,uberfire-experimental-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:2.23.0.Final` // `org.uberfire,uberfire-experimental-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5154,6 +5341,7 @@
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:7.35.0.Final` // `org.uberfire,uberfire-experimental-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:7.36.0.20200330` // `org.uberfire,uberfire-experimental-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-backend:7.36.0.20200331` // `org.uberfire,uberfire-experimental-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-experimental-backend:7.36.1.Final` // `org.uberfire,uberfire-experimental-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-client:2.21.0.Final` // `org.uberfire,uberfire-experimental-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-client:2.22.0.Final` // `org.uberfire,uberfire-experimental-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-client:2.23.0.Final` // `org.uberfire,uberfire-experimental-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5168,6 +5356,7 @@
 - :cd: `` - `org.uberfire:uberfire-experimental-client:7.35.0.Final` // `org.uberfire,uberfire-experimental-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-client:7.36.0.20200330` // `org.uberfire,uberfire-experimental-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-experimental-client:7.36.0.20200331` // `org.uberfire,uberfire-experimental-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-experimental-client:7.36.1.Final` // `org.uberfire,uberfire-experimental-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-io:2.21.0.Final` // `org.uberfire,uberfire-io,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-io:2.22.0.Final` // `org.uberfire,uberfire-io,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-io:2.23.0.Final` // `org.uberfire,uberfire-io,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5182,6 +5371,7 @@
 - :cd: `` - `org.uberfire:uberfire-io:7.35.0.Final` // `org.uberfire,uberfire-io,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-io:7.36.0.20200330` // `org.uberfire,uberfire-io,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-io:7.36.0.20200331` // `org.uberfire,uberfire-io,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-io:7.36.1.Final` // `org.uberfire,uberfire-io,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-js:2.21.0.Final` // `org.uberfire,uberfire-js,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-js:2.22.0.Final` // `org.uberfire,uberfire-js,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-js:2.23.0.Final` // `org.uberfire,uberfire-js,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5196,6 +5386,7 @@
 - :cd: `` - `org.uberfire:uberfire-js:7.35.0.Final` // `org.uberfire,uberfire-js,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-js:7.36.0.20200330` // `org.uberfire,uberfire-js,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-js:7.36.0.20200331` // `org.uberfire,uberfire-js,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-js:7.36.1.Final` // `org.uberfire,uberfire-js,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:2.21.0.Final` // `org.uberfire,uberfire-layout-editor-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:2.22.0.Final` // `org.uberfire,uberfire-layout-editor-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:2.23.0.Final` // `org.uberfire,uberfire-layout-editor-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5210,6 +5401,7 @@
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:7.35.0.Final` // `org.uberfire,uberfire-layout-editor-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:7.36.0.20200330` // `org.uberfire,uberfire-layout-editor-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-api:7.36.0.20200331` // `org.uberfire,uberfire-layout-editor-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-layout-editor-api:7.36.1.Final` // `org.uberfire,uberfire-layout-editor-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:2.21.0.Final` // `org.uberfire,uberfire-layout-editor-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:2.22.0.Final` // `org.uberfire,uberfire-layout-editor-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:2.23.0.Final` // `org.uberfire,uberfire-layout-editor-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5224,6 +5416,7 @@
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:7.35.0.Final` // `org.uberfire,uberfire-layout-editor-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:7.36.0.20200330` // `org.uberfire,uberfire-layout-editor-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-backend:7.36.0.20200331` // `org.uberfire,uberfire-layout-editor-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-layout-editor-backend:7.36.1.Final` // `org.uberfire,uberfire-layout-editor-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:2.21.0.Final` // `org.uberfire,uberfire-layout-editor-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:2.22.0.Final` // `org.uberfire,uberfire-layout-editor-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:2.23.0.Final` // `org.uberfire,uberfire-layout-editor-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5238,6 +5431,7 @@
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:7.35.0.Final` // `org.uberfire,uberfire-layout-editor-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:7.36.0.20200330` // `org.uberfire,uberfire-layout-editor-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-layout-editor-client:7.36.0.20200331` // `org.uberfire,uberfire-layout-editor-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-layout-editor-client:7.36.1.Final` // `org.uberfire,uberfire-layout-editor-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:2.21.0.Final` // `org.uberfire,uberfire-m2repo-editor-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:2.22.0.Final` // `org.uberfire,uberfire-m2repo-editor-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:2.23.0.Final` // `org.uberfire,uberfire-m2repo-editor-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5252,6 +5446,7 @@
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:7.35.0.Final` // `org.uberfire,uberfire-m2repo-editor-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:7.36.0.20200330` // `org.uberfire,uberfire-m2repo-editor-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:7.36.0.20200331` // `org.uberfire,uberfire-m2repo-editor-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-m2repo-editor-api:7.36.1.Final` // `org.uberfire,uberfire-m2repo-editor-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:2.21.0.Final` // `org.uberfire,uberfire-m2repo-editor-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:2.22.0.Final` // `org.uberfire,uberfire-m2repo-editor-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:2.23.0.Final` // `org.uberfire,uberfire-m2repo-editor-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5266,6 +5461,7 @@
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:7.35.0.Final` // `org.uberfire,uberfire-m2repo-editor-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:7.36.0.20200330` // `org.uberfire,uberfire-m2repo-editor-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:7.36.0.20200331` // `org.uberfire,uberfire-m2repo-editor-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-m2repo-editor-backend:7.36.1.Final` // `org.uberfire,uberfire-m2repo-editor-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:2.21.0.Final` // `org.uberfire,uberfire-m2repo-editor-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:2.22.0.Final` // `org.uberfire,uberfire-m2repo-editor-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:2.23.0.Final` // `org.uberfire,uberfire-m2repo-editor-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5280,6 +5476,7 @@
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:7.35.0.Final` // `org.uberfire,uberfire-m2repo-editor-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:7.36.0.20200330` // `org.uberfire,uberfire-m2repo-editor-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:7.36.0.20200331` // `org.uberfire,uberfire-m2repo-editor-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-m2repo-editor-client:7.36.1.Final` // `org.uberfire,uberfire-m2repo-editor-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-api:2.21.0.Final` // `org.uberfire,uberfire-message-console-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-api:2.22.0.Final` // `org.uberfire,uberfire-message-console-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-api:2.23.0.Final` // `org.uberfire,uberfire-message-console-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5294,6 +5491,7 @@
 - :cd: `` - `org.uberfire:uberfire-message-console-api:7.35.0.Final` // `org.uberfire,uberfire-message-console-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-api:7.36.0.20200330` // `org.uberfire,uberfire-message-console-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-api:7.36.0.20200331` // `org.uberfire,uberfire-message-console-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-message-console-api:7.36.1.Final` // `org.uberfire,uberfire-message-console-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:2.21.0.Final` // `org.uberfire,uberfire-message-console-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:2.22.0.Final` // `org.uberfire,uberfire-message-console-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:2.23.0.Final` // `org.uberfire,uberfire-message-console-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5308,6 +5506,7 @@
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:7.35.0.Final` // `org.uberfire,uberfire-message-console-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:7.36.0.20200330` // `org.uberfire,uberfire-message-console-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-backend:7.36.0.20200331` // `org.uberfire,uberfire-message-console-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-message-console-backend:7.36.1.Final` // `org.uberfire,uberfire-message-console-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-client:2.21.0.Final` // `org.uberfire,uberfire-message-console-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-client:2.22.0.Final` // `org.uberfire,uberfire-message-console-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-client:2.23.0.Final` // `org.uberfire,uberfire-message-console-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5322,6 +5521,7 @@
 - :cd: `` - `org.uberfire:uberfire-message-console-client:7.35.0.Final` // `org.uberfire,uberfire-message-console-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-client:7.36.0.20200330` // `org.uberfire,uberfire-message-console-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-message-console-client:7.36.0.20200331` // `org.uberfire,uberfire-message-console-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-message-console-client:7.36.1.Final` // `org.uberfire,uberfire-message-console-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-api:2.21.0.Final` // `org.uberfire,uberfire-metadata-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-api:2.22.0.Final` // `org.uberfire,uberfire-metadata-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-api:2.23.0.Final` // `org.uberfire,uberfire-metadata-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5336,6 +5536,7 @@
 - :cd: `` - `org.uberfire:uberfire-metadata-api:7.35.0.Final` // `org.uberfire,uberfire-metadata-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-api:7.36.0.20200330` // `org.uberfire,uberfire-metadata-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-api:7.36.0.20200331` // `org.uberfire,uberfire-metadata-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-metadata-api:7.36.1.Final` // `org.uberfire,uberfire-metadata-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:2.21.0.Final` // `org.uberfire,uberfire-metadata-backend-elasticsearch,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:2.22.0.Final` // `org.uberfire,uberfire-metadata-backend-elasticsearch,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:2.23.0.Final` // `org.uberfire,uberfire-metadata-backend-elasticsearch,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5350,6 +5551,7 @@
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:7.35.0.Final` // `org.uberfire,uberfire-metadata-backend-elasticsearch,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:7.36.0.20200330` // `org.uberfire,uberfire-metadata-backend-elasticsearch,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:7.36.0.20200331` // `org.uberfire,uberfire-metadata-backend-elasticsearch,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-metadata-backend-elasticsearch:7.36.1.Final` // `org.uberfire,uberfire-metadata-backend-elasticsearch,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:2.21.0.Final` // `org.uberfire,uberfire-metadata-backend-infinispan,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:2.22.0.Final` // `org.uberfire,uberfire-metadata-backend-infinispan,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:2.23.0.Final` // `org.uberfire,uberfire-metadata-backend-infinispan,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5364,6 +5566,7 @@
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:7.35.0.Final` // `org.uberfire,uberfire-metadata-backend-infinispan,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:7.36.0.20200330` // `org.uberfire,uberfire-metadata-backend-infinispan,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:7.36.0.20200331` // `org.uberfire,uberfire-metadata-backend-infinispan,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-metadata-backend-infinispan:7.36.1.Final` // `org.uberfire,uberfire-metadata-backend-infinispan,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:2.21.0.Final` // `org.uberfire,uberfire-metadata-backend-lucene,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:2.22.0.Final` // `org.uberfire,uberfire-metadata-backend-lucene,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:2.23.0.Final` // `org.uberfire,uberfire-metadata-backend-lucene,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5378,6 +5581,7 @@
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:7.35.0.Final` // `org.uberfire,uberfire-metadata-backend-lucene,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:7.36.0.20200330` // `org.uberfire,uberfire-metadata-backend-lucene,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:7.36.0.20200331` // `org.uberfire,uberfire-metadata-backend-lucene,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-metadata-backend-lucene:7.36.1.Final` // `org.uberfire,uberfire-metadata-backend-lucene,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:2.21.0.Final` // `org.uberfire,uberfire-metadata-commons-io,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:2.22.0.Final` // `org.uberfire,uberfire-metadata-commons-io,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:2.23.0.Final` // `org.uberfire,uberfire-metadata-commons-io,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5392,6 +5596,7 @@
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:7.35.0.Final` // `org.uberfire,uberfire-metadata-commons-io,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:7.36.0.20200330` // `org.uberfire,uberfire-metadata-commons-io,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-metadata-commons-io:7.36.0.20200331` // `org.uberfire,uberfire-metadata-commons-io,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-metadata-commons-io:7.36.1.Final` // `org.uberfire,uberfire-metadata-commons-io,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-api:2.21.0.Final` // `org.uberfire,uberfire-nio2-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-api:2.22.0.Final` // `org.uberfire,uberfire-nio2-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-api:2.23.0.Final` // `org.uberfire,uberfire-nio2-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5406,6 +5611,7 @@
 - :cd: `` - `org.uberfire:uberfire-nio2-api:7.35.0.Final` // `org.uberfire,uberfire-nio2-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-api:7.36.0.20200330` // `org.uberfire,uberfire-nio2-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-api:7.36.0.20200331` // `org.uberfire,uberfire-nio2-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-nio2-api:7.36.1.Final` // `org.uberfire,uberfire-nio2-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:2.21.0.Final` // `org.uberfire,uberfire-nio2-fs,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:2.22.0.Final` // `org.uberfire,uberfire-nio2-fs,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:2.23.0.Final` // `org.uberfire,uberfire-nio2-fs,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5420,6 +5626,7 @@
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:7.35.0.Final` // `org.uberfire,uberfire-nio2-fs,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:7.36.0.20200330` // `org.uberfire,uberfire-nio2-fs,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-fs:7.36.0.20200331` // `org.uberfire,uberfire-nio2-fs,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-nio2-fs:7.36.1.Final` // `org.uberfire,uberfire-nio2-fs,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:2.21.0.Final` // `org.uberfire,uberfire-nio2-jgit,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:2.22.0.Final` // `org.uberfire,uberfire-nio2-jgit,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:2.23.0.Final` // `org.uberfire,uberfire-nio2-jgit,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5434,12 +5641,14 @@
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:7.35.0.Final` // `org.uberfire,uberfire-nio2-jgit,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:7.36.0.20200330` // `org.uberfire,uberfire-nio2-jgit,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-jgit:7.36.0.20200331` // `org.uberfire,uberfire-nio2-jgit,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-nio2-jgit:7.36.1.Final` // `org.uberfire,uberfire-nio2-jgit,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.32.0.k20191223` // `org.uberfire,uberfire-nio2-k8s,7.32.0.k20191223,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.33.0.Final` // `org.uberfire,uberfire-nio2-k8s,7.33.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.34.0.Final` // `org.uberfire,uberfire-nio2-k8s,7.34.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.35.0.Final` // `org.uberfire,uberfire-nio2-k8s,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.36.0.20200330` // `org.uberfire,uberfire-nio2-k8s,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.36.0.20200331` // `org.uberfire,uberfire-nio2-k8s,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-nio2-k8s:7.36.1.Final` // `org.uberfire,uberfire-nio2-k8s,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-model:2.21.0.Final` // `org.uberfire,uberfire-nio2-model,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-model:2.22.0.Final` // `org.uberfire,uberfire-nio2-model,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-model:2.23.0.Final` // `org.uberfire,uberfire-nio2-model,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5454,6 +5663,7 @@
 - :cd: `` - `org.uberfire:uberfire-nio2-model:7.35.0.Final` // `org.uberfire,uberfire-nio2-model,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-model:7.36.0.20200330` // `org.uberfire,uberfire-nio2-model,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-nio2-model:7.36.0.20200331` // `org.uberfire,uberfire-nio2-model,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-nio2-model:7.36.1.Final` // `org.uberfire,uberfire-nio2-model,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-api:2.21.0.Final` // `org.uberfire,uberfire-preferences-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-api:2.22.0.Final` // `org.uberfire,uberfire-preferences-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-api:2.23.0.Final` // `org.uberfire,uberfire-preferences-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5468,6 +5678,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-api:7.35.0.Final` // `org.uberfire,uberfire-preferences-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-api:7.36.0.20200330` // `org.uberfire,uberfire-preferences-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-api:7.36.0.20200331` // `org.uberfire,uberfire-preferences-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-api:7.36.1.Final` // `org.uberfire,uberfire-preferences-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:2.21.0.Final` // `org.uberfire,uberfire-preferences-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:2.22.0.Final` // `org.uberfire,uberfire-preferences-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:2.23.0.Final` // `org.uberfire,uberfire-preferences-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5482,6 +5693,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:7.35.0.Final` // `org.uberfire,uberfire-preferences-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:7.36.0.20200330` // `org.uberfire,uberfire-preferences-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-backend:7.36.0.20200331` // `org.uberfire,uberfire-preferences-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-backend:7.36.1.Final` // `org.uberfire,uberfire-preferences-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client:2.21.0.Final` // `org.uberfire,uberfire-preferences-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client:2.22.0.Final` // `org.uberfire,uberfire-preferences-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client:2.23.0.Final` // `org.uberfire,uberfire-preferences-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5496,6 +5708,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-client:7.35.0.Final` // `org.uberfire,uberfire-preferences-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client:7.36.0.20200330` // `org.uberfire,uberfire-preferences-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client:7.36.0.20200331` // `org.uberfire,uberfire-preferences-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-client:7.36.1.Final` // `org.uberfire,uberfire-preferences-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:2.22.0.Final` // `org.uberfire,uberfire-preferences-client-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:2.23.0.Final` // `org.uberfire,uberfire-preferences-client-backend,2.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:2.24.0.Final` // `org.uberfire,uberfire-preferences-client-backend,2.24.0.Final,-,-,automatic,-,false,-`
@@ -5509,6 +5722,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:7.35.0.Final` // `org.uberfire,uberfire-preferences-client-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:7.36.0.20200330` // `org.uberfire,uberfire-preferences-client-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-client-backend:7.36.0.20200331` // `org.uberfire,uberfire-preferences-client-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-client-backend:7.36.1.Final` // `org.uberfire,uberfire-preferences-client-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:2.21.0.Final` // `org.uberfire,uberfire-preferences-processors,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:2.22.0.Final` // `org.uberfire,uberfire-preferences-processors,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:2.23.0.Final` // `org.uberfire,uberfire-preferences-processors,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5523,6 +5737,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:7.35.0.Final` // `org.uberfire,uberfire-preferences-processors,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:7.36.0.20200330` // `org.uberfire,uberfire-preferences-processors,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-processors:7.36.0.20200331` // `org.uberfire,uberfire-preferences-processors,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-processors:7.36.1.Final` // `org.uberfire,uberfire-preferences-processors,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:2.21.0.Final` // `org.uberfire,uberfire-preferences-ui-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:2.22.0.Final` // `org.uberfire,uberfire-preferences-ui-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:2.23.0.Final` // `org.uberfire,uberfire-preferences-ui-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5537,6 +5752,7 @@
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:7.35.0.Final` // `org.uberfire,uberfire-preferences-ui-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:7.36.0.20200330` // `org.uberfire,uberfire-preferences-ui-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-preferences-ui-client:7.36.0.20200331` // `org.uberfire,uberfire-preferences-ui-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-preferences-ui-client:7.36.1.Final` // `org.uberfire,uberfire-preferences-ui-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-api:2.21.0.Final` // `org.uberfire,uberfire-project-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-api:2.22.0.Final` // `org.uberfire,uberfire-project-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-api:2.23.0.Final` // `org.uberfire,uberfire-project-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5551,6 +5767,7 @@
 - :cd: `` - `org.uberfire:uberfire-project-api:7.35.0.Final` // `org.uberfire,uberfire-project-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-api:7.36.0.20200330` // `org.uberfire,uberfire-project-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-api:7.36.0.20200331` // `org.uberfire,uberfire-project-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-project-api:7.36.1.Final` // `org.uberfire,uberfire-project-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-backend:2.21.0.Final` // `org.uberfire,uberfire-project-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-backend:2.22.0.Final` // `org.uberfire,uberfire-project-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-backend:2.23.0.Final` // `org.uberfire,uberfire-project-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5565,6 +5782,7 @@
 - :cd: `` - `org.uberfire:uberfire-project-backend:7.35.0.Final` // `org.uberfire,uberfire-project-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-backend:7.36.0.20200330` // `org.uberfire,uberfire-project-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-backend:7.36.0.20200331` // `org.uberfire,uberfire-project-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-project-backend:7.36.1.Final` // `org.uberfire,uberfire-project-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-builder:2.21.0.Final` // `org.uberfire,uberfire-project-builder,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-builder:2.22.0.Final` // `org.uberfire,uberfire-project-builder,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-builder:2.23.0.Final` // `org.uberfire,uberfire-project-builder,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5579,6 +5797,7 @@
 - :cd: `` - `org.uberfire:uberfire-project-builder:7.35.0.Final` // `org.uberfire,uberfire-project-builder,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-builder:7.36.0.20200330` // `org.uberfire,uberfire-project-builder,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-builder:7.36.0.20200331` // `org.uberfire,uberfire-project-builder,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-project-builder:7.36.1.Final` // `org.uberfire,uberfire-project-builder,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-client:2.21.0.Final` // `org.uberfire,uberfire-project-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-client:2.22.0.Final` // `org.uberfire,uberfire-project-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-client:2.23.0.Final` // `org.uberfire,uberfire-project-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5593,6 +5812,7 @@
 - :cd: `` - `org.uberfire:uberfire-project-client:7.35.0.Final` // `org.uberfire,uberfire-project-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-client:7.36.0.20200330` // `org.uberfire,uberfire-project-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-project-client:7.36.0.20200331` // `org.uberfire,uberfire-project-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-project-client:7.36.1.Final` // `org.uberfire,uberfire-project-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-backend:2.21.0.Final` // `org.uberfire,uberfire-rest-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-backend:2.22.0.Final` // `org.uberfire,uberfire-rest-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-backend:2.23.0.Final` // `org.uberfire,uberfire-rest-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5607,6 +5827,7 @@
 - :cd: `` - `org.uberfire:uberfire-rest-backend:7.35.0.Final` // `org.uberfire,uberfire-rest-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-backend:7.36.0.20200330` // `org.uberfire,uberfire-rest-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-backend:7.36.0.20200331` // `org.uberfire,uberfire-rest-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-rest-backend:7.36.1.Final` // `org.uberfire,uberfire-rest-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-client:2.21.0.Final` // `org.uberfire,uberfire-rest-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-client:2.22.0.Final` // `org.uberfire,uberfire-rest-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-client:2.23.0.Final` // `org.uberfire,uberfire-rest-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5621,6 +5842,7 @@
 - :cd: `` - `org.uberfire:uberfire-rest-client:7.35.0.Final` // `org.uberfire,uberfire-rest-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-client:7.36.0.20200330` // `org.uberfire,uberfire-rest-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-rest-client:7.36.0.20200331` // `org.uberfire,uberfire-rest-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-rest-client:7.36.1.Final` // `org.uberfire,uberfire-rest-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:2.21.0.Final` // `org.uberfire,uberfire-runtime-plugins-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:2.22.0.Final` // `org.uberfire,uberfire-runtime-plugins-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:2.23.0.Final` // `org.uberfire,uberfire-runtime-plugins-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5635,6 +5857,7 @@
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:7.35.0.Final` // `org.uberfire,uberfire-runtime-plugins-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:7.36.0.20200330` // `org.uberfire,uberfire-runtime-plugins-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:7.36.0.20200331` // `org.uberfire,uberfire-runtime-plugins-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-runtime-plugins-api:7.36.1.Final` // `org.uberfire,uberfire-runtime-plugins-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:2.21.0.Final` // `org.uberfire,uberfire-runtime-plugins-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:2.22.0.Final` // `org.uberfire,uberfire-runtime-plugins-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:2.23.0.Final` // `org.uberfire,uberfire-runtime-plugins-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5649,6 +5872,7 @@
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:7.35.0.Final` // `org.uberfire,uberfire-runtime-plugins-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:7.36.0.20200330` // `org.uberfire,uberfire-runtime-plugins-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:7.36.0.20200331` // `org.uberfire,uberfire-runtime-plugins-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-runtime-plugins-backend:7.36.1.Final` // `org.uberfire,uberfire-runtime-plugins-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:2.21.0.Final` // `org.uberfire,uberfire-runtime-plugins-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:2.22.0.Final` // `org.uberfire,uberfire-runtime-plugins-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:2.23.0.Final` // `org.uberfire,uberfire-runtime-plugins-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5663,6 +5887,7 @@
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:7.35.0.Final` // `org.uberfire,uberfire-runtime-plugins-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:7.36.0.20200330` // `org.uberfire,uberfire-runtime-plugins-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:7.36.0.20200331` // `org.uberfire,uberfire-runtime-plugins-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-runtime-plugins-client:7.36.1.Final` // `org.uberfire,uberfire-runtime-plugins-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-api:2.21.0.Final` // `org.uberfire,uberfire-security-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-api:2.22.0.Final` // `org.uberfire,uberfire-security-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-api:2.23.0.Final` // `org.uberfire,uberfire-security-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5677,6 +5902,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-api:7.35.0.Final` // `org.uberfire,uberfire-security-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-api:7.36.0.20200330` // `org.uberfire,uberfire-security-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-api:7.36.0.20200331` // `org.uberfire,uberfire-security-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-api:7.36.1.Final` // `org.uberfire,uberfire-security-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.30.0.Final` // `org.uberfire,uberfire-security-backend,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.31.0.Final` // `org.uberfire,uberfire-security-backend,7.31.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.32.0.k20191223` // `org.uberfire,uberfire-security-backend,7.32.0.k20191223,-,-,automatic,-,false,-`
@@ -5685,6 +5911,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.35.0.Final` // `org.uberfire,uberfire-security-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.36.0.20200330` // `org.uberfire,uberfire-security-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-backend:7.36.0.20200331` // `org.uberfire,uberfire-security-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-backend:7.36.1.Final` // `org.uberfire,uberfire-security-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client:2.21.0.Final` // `org.uberfire,uberfire-security-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client:2.22.0.Final` // `org.uberfire,uberfire-security-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client:2.23.0.Final` // `org.uberfire,uberfire-security-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5699,6 +5926,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-client:7.35.0.Final` // `org.uberfire,uberfire-security-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client:7.36.0.20200330` // `org.uberfire,uberfire-security-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client:7.36.0.20200331` // `org.uberfire,uberfire-security-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-client:7.36.1.Final` // `org.uberfire,uberfire-security-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:2.22.0.Final` // `org.uberfire,uberfire-security-client-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:2.23.0.Final` // `org.uberfire,uberfire-security-client-backend,2.23.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:2.24.0.Final` // `org.uberfire,uberfire-security-client-backend,2.24.0.Final,-,-,automatic,-,false,-`
@@ -5712,6 +5940,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:7.35.0.Final` // `org.uberfire,uberfire-security-client-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:7.36.0.20200330` // `org.uberfire,uberfire-security-client-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-client-backend:7.36.0.20200331` // `org.uberfire,uberfire-security-client-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-client-backend:7.36.1.Final` // `org.uberfire,uberfire-security-client-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-codegen:2.21.0.Final` // `org.uberfire,uberfire-security-codegen,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-codegen:2.22.0.Final` // `org.uberfire,uberfire-security-codegen,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-codegen:2.23.0.Final` // `org.uberfire,uberfire-security-codegen,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5726,6 +5955,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-codegen:7.35.0.Final` // `org.uberfire,uberfire-security-codegen,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-codegen:7.36.0.20200330` // `org.uberfire,uberfire-security-codegen,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-codegen:7.36.0.20200331` // `org.uberfire,uberfire-security-codegen,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-codegen:7.36.1.Final` // `org.uberfire,uberfire-security-codegen,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-api:2.21.0.Final` // `org.uberfire,uberfire-security-management-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-api:2.22.0.Final` // `org.uberfire,uberfire-security-management-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-api:2.23.0.Final` // `org.uberfire,uberfire-security-management-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5740,6 +5970,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-api:7.35.0.Final` // `org.uberfire,uberfire-security-management-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-api:7.36.0.20200330` // `org.uberfire,uberfire-security-management-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-api:7.36.0.20200331` // `org.uberfire,uberfire-security-management-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-api:7.36.1.Final` // `org.uberfire,uberfire-security-management-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:2.21.0.Final` // `org.uberfire,uberfire-security-management-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:2.22.0.Final` // `org.uberfire,uberfire-security-management-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:2.23.0.Final` // `org.uberfire,uberfire-security-management-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5754,6 +5985,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:7.35.0.Final` // `org.uberfire,uberfire-security-management-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:7.36.0.20200330` // `org.uberfire,uberfire-security-management-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-backend:7.36.0.20200331` // `org.uberfire,uberfire-security-management-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-backend:7.36.1.Final` // `org.uberfire,uberfire-security-management-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client:2.21.0.Final` // `org.uberfire,uberfire-security-management-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client:2.22.0.Final` // `org.uberfire,uberfire-security-management-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client:2.23.0.Final` // `org.uberfire,uberfire-security-management-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5768,6 +6000,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-client:7.35.0.Final` // `org.uberfire,uberfire-security-management-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client:7.36.0.20200330` // `org.uberfire,uberfire-security-management-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client:7.36.0.20200331` // `org.uberfire,uberfire-security-management-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-client:7.36.1.Final` // `org.uberfire,uberfire-security-management-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:2.21.0.Final` // `org.uberfire,uberfire-security-management-client-wb,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:2.22.0.Final` // `org.uberfire,uberfire-security-management-client-wb,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:2.23.0.Final` // `org.uberfire,uberfire-security-management-client-wb,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5782,6 +6015,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:7.35.0.Final` // `org.uberfire,uberfire-security-management-client-wb,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:7.36.0.20200330` // `org.uberfire,uberfire-security-management-client-wb,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-client-wb:7.36.0.20200331` // `org.uberfire,uberfire-security-management-client-wb,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-client-wb:7.36.1.Final` // `org.uberfire,uberfire-security-management-client-wb,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:2.21.0.Final` // `org.uberfire,uberfire-security-management-keycloak,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:2.22.0.Final` // `org.uberfire,uberfire-security-management-keycloak,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:2.23.0.Final` // `org.uberfire,uberfire-security-management-keycloak,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5796,6 +6030,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:7.35.0.Final` // `org.uberfire,uberfire-security-management-keycloak,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:7.36.0.20200330` // `org.uberfire,uberfire-security-management-keycloak,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-keycloak:7.36.0.20200331` // `org.uberfire,uberfire-security-management-keycloak,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-keycloak:7.36.1.Final` // `org.uberfire,uberfire-security-management-keycloak,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:2.21.0.Final` // `org.uberfire,uberfire-security-management-tomcat,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:2.22.0.Final` // `org.uberfire,uberfire-security-management-tomcat,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:2.23.0.Final` // `org.uberfire,uberfire-security-management-tomcat,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5810,6 +6045,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:7.35.0.Final` // `org.uberfire,uberfire-security-management-tomcat,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:7.36.0.20200330` // `org.uberfire,uberfire-security-management-tomcat,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-tomcat:7.36.0.20200331` // `org.uberfire,uberfire-security-management-tomcat,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-tomcat:7.36.1.Final` // `org.uberfire,uberfire-security-management-tomcat,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:2.21.0.Final` // `org.uberfire,uberfire-security-management-wildfly,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:2.22.0.Final` // `org.uberfire,uberfire-security-management-wildfly,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:2.23.0.Final` // `org.uberfire,uberfire-security-management-wildfly,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5824,6 +6060,7 @@
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:7.35.0.Final` // `org.uberfire,uberfire-security-management-wildfly,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:7.36.0.20200330` // `org.uberfire,uberfire-security-management-wildfly,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-security-management-wildfly:7.36.0.20200331` // `org.uberfire,uberfire-security-management-wildfly,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-security-management-wildfly:7.36.1.Final` // `org.uberfire,uberfire-security-management-wildfly,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server:2.21.0.Final` // `org.uberfire,uberfire-server,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server:2.22.0.Final` // `org.uberfire,uberfire-server,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server:2.23.0.Final` // `org.uberfire,uberfire-server,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5838,6 +6075,7 @@
 - :cd: `` - `org.uberfire:uberfire-server:7.35.0.Final` // `org.uberfire,uberfire-server,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server:7.36.0.20200330` // `org.uberfire,uberfire-server,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server:7.36.0.20200331` // `org.uberfire,uberfire-server,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-server:7.36.1.Final` // `org.uberfire,uberfire-server,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server-all:2.21.0.Final` // `org.uberfire,uberfire-server-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server-all:2.22.0.Final` // `org.uberfire,uberfire-server-all,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server-all:2.23.0.Final` // `org.uberfire,uberfire-server-all,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5852,6 +6090,7 @@
 - :cd: `` - `org.uberfire:uberfire-server-all:7.35.0.Final` // `org.uberfire,uberfire-server-all,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server-all:7.36.0.20200330` // `org.uberfire,uberfire-server-all,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-server-all:7.36.0.20200331` // `org.uberfire,uberfire-server-all,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-server-all:7.36.1.Final` // `org.uberfire,uberfire-server-all,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-api:2.21.0.Final` // `org.uberfire,uberfire-services-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-api:2.22.0.Final` // `org.uberfire,uberfire-services-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-api:2.23.0.Final` // `org.uberfire,uberfire-services-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5866,6 +6105,7 @@
 - :cd: `` - `org.uberfire:uberfire-services-api:7.35.0.Final` // `org.uberfire,uberfire-services-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-api:7.36.0.20200330` // `org.uberfire,uberfire-services-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-api:7.36.0.20200331` // `org.uberfire,uberfire-services-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-services-api:7.36.1.Final` // `org.uberfire,uberfire-services-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-backend:2.21.0.Final` // `org.uberfire,uberfire-services-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-backend:2.22.0.Final` // `org.uberfire,uberfire-services-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-backend:2.23.0.Final` // `org.uberfire,uberfire-services-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5880,6 +6120,7 @@
 - :cd: `` - `org.uberfire:uberfire-services-backend:7.35.0.Final` // `org.uberfire,uberfire-services-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-backend:7.36.0.20200330` // `org.uberfire,uberfire-services-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-services-backend:7.36.0.20200331` // `org.uberfire,uberfire-services-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-services-backend:7.36.1.Final` // `org.uberfire,uberfire-services-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-servlet-security:2.21.0.Final` // `org.uberfire,uberfire-servlet-security,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-servlet-security:2.22.0.Final` // `org.uberfire,uberfire-servlet-security,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-servlet-security:2.23.0.Final` // `org.uberfire,uberfire-servlet-security,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5894,6 +6135,7 @@
 - :cd: `` - `org.uberfire:uberfire-servlet-security:7.35.0.Final` // `org.uberfire,uberfire-servlet-security,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-servlet-security:7.36.0.20200330` // `org.uberfire,uberfire-servlet-security,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-servlet-security:7.36.0.20200331` // `org.uberfire,uberfire-servlet-security,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-servlet-security:7.36.1.Final` // `org.uberfire,uberfire-servlet-security,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:2.21.0.Final` // `org.uberfire,uberfire-simple-docks-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:2.22.0.Final` // `org.uberfire,uberfire-simple-docks-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:2.23.0.Final` // `org.uberfire,uberfire-simple-docks-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5908,6 +6150,7 @@
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:7.35.0.Final` // `org.uberfire,uberfire-simple-docks-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:7.36.0.20200330` // `org.uberfire,uberfire-simple-docks-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-simple-docks-client:7.36.0.20200331` // `org.uberfire,uberfire-simple-docks-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-simple-docks-client:7.36.1.Final` // `org.uberfire,uberfire-simple-docks-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-api:2.21.0.Final` // `org.uberfire,uberfire-ssh-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-api:2.22.0.Final` // `org.uberfire,uberfire-ssh-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-api:2.23.0.Final` // `org.uberfire,uberfire-ssh-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5922,6 +6165,7 @@
 - :cd: `` - `org.uberfire:uberfire-ssh-api:7.35.0.Final` // `org.uberfire,uberfire-ssh-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-api:7.36.0.20200330` // `org.uberfire,uberfire-ssh-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-api:7.36.0.20200331` // `org.uberfire,uberfire-ssh-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-ssh-api:7.36.1.Final` // `org.uberfire,uberfire-ssh-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:2.21.0.Final` // `org.uberfire,uberfire-ssh-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:2.22.0.Final` // `org.uberfire,uberfire-ssh-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:2.23.0.Final` // `org.uberfire,uberfire-ssh-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5936,6 +6180,7 @@
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:7.35.0.Final` // `org.uberfire,uberfire-ssh-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:7.36.0.20200330` // `org.uberfire,uberfire-ssh-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-backend:7.36.0.20200331` // `org.uberfire,uberfire-ssh-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-ssh-backend:7.36.1.Final` // `org.uberfire,uberfire-ssh-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-client:2.21.0.Final` // `org.uberfire,uberfire-ssh-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-client:2.22.0.Final` // `org.uberfire,uberfire-ssh-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-client:2.23.0.Final` // `org.uberfire,uberfire-ssh-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5950,6 +6195,7 @@
 - :cd: `` - `org.uberfire:uberfire-ssh-client:7.35.0.Final` // `org.uberfire,uberfire-ssh-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-client:7.36.0.20200330` // `org.uberfire,uberfire-ssh-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-ssh-client:7.36.0.20200331` // `org.uberfire,uberfire-ssh-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-ssh-client:7.36.1.Final` // `org.uberfire,uberfire-ssh-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-api:2.21.0.Final` // `org.uberfire,uberfire-structure-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-api:2.22.0.Final` // `org.uberfire,uberfire-structure-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-api:2.23.0.Final` // `org.uberfire,uberfire-structure-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5964,6 +6210,7 @@
 - :cd: `` - `org.uberfire:uberfire-structure-api:7.35.0.Final` // `org.uberfire,uberfire-structure-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-api:7.36.0.20200330` // `org.uberfire,uberfire-structure-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-api:7.36.0.20200331` // `org.uberfire,uberfire-structure-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-structure-api:7.36.1.Final` // `org.uberfire,uberfire-structure-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-backend:2.21.0.Final` // `org.uberfire,uberfire-structure-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-backend:2.22.0.Final` // `org.uberfire,uberfire-structure-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-backend:2.23.0.Final` // `org.uberfire,uberfire-structure-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5978,6 +6225,7 @@
 - :cd: `` - `org.uberfire:uberfire-structure-backend:7.35.0.Final` // `org.uberfire,uberfire-structure-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-backend:7.36.0.20200330` // `org.uberfire,uberfire-structure-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-backend:7.36.0.20200331` // `org.uberfire,uberfire-structure-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-structure-backend:7.36.1.Final` // `org.uberfire,uberfire-structure-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-client:2.21.0.Final` // `org.uberfire,uberfire-structure-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-client:2.22.0.Final` // `org.uberfire,uberfire-structure-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-client:2.23.0.Final` // `org.uberfire,uberfire-structure-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -5992,6 +6240,7 @@
 - :cd: `` - `org.uberfire:uberfire-structure-client:7.35.0.Final` // `org.uberfire,uberfire-structure-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-client:7.36.0.20200330` // `org.uberfire,uberfire-structure-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-structure-client:7.36.0.20200331` // `org.uberfire,uberfire-structure-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-structure-client:7.36.1.Final` // `org.uberfire,uberfire-structure-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-test-utils:2.21.0.Final` // `org.uberfire,uberfire-test-utils,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-test-utils:2.22.0.Final` // `org.uberfire,uberfire-test-utils,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-test-utils:2.23.0.Final` // `org.uberfire,uberfire-test-utils,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6006,6 +6255,7 @@
 - :cd: `` - `org.uberfire:uberfire-test-utils:7.35.0.Final` // `org.uberfire,uberfire-test-utils,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-test-utils:7.36.0.20200330` // `org.uberfire,uberfire-test-utils,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-test-utils:7.36.0.20200331` // `org.uberfire,uberfire-test-utils,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-test-utils:7.36.1.Final` // `org.uberfire,uberfire-test-utils,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-testing-utils:2.21.0.Final` // `org.uberfire,uberfire-testing-utils,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-testing-utils:2.22.0.Final` // `org.uberfire,uberfire-testing-utils,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-testing-utils:2.23.0.Final` // `org.uberfire,uberfire-testing-utils,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6020,6 +6270,7 @@
 - :cd: `` - `org.uberfire:uberfire-testing-utils:7.35.0.Final` // `org.uberfire,uberfire-testing-utils,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-testing-utils:7.36.0.20200330` // `org.uberfire,uberfire-testing-utils,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-testing-utils:7.36.0.20200331` // `org.uberfire,uberfire-testing-utils,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-testing-utils:7.36.1.Final` // `org.uberfire,uberfire-testing-utils,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:2.21.0.Final` // `org.uberfire,uberfire-widget-markdown,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:2.22.0.Final` // `org.uberfire,uberfire-widget-markdown,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:2.23.0.Final` // `org.uberfire,uberfire-widget-markdown,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6034,6 +6285,7 @@
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:7.35.0.Final` // `org.uberfire,uberfire-widget-markdown,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:7.36.0.20200330` // `org.uberfire,uberfire-widget-markdown,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widget-markdown:7.36.0.20200331` // `org.uberfire,uberfire-widget-markdown,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widget-markdown:7.36.1.Final` // `org.uberfire,uberfire-widget-markdown,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:2.21.0.Final` // `org.uberfire,uberfire-widgets-commons,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:2.22.0.Final` // `org.uberfire,uberfire-widgets-commons,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:2.23.0.Final` // `org.uberfire,uberfire-widgets-commons,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6048,6 +6300,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:7.35.0.Final` // `org.uberfire,uberfire-widgets-commons,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:7.36.0.20200330` // `org.uberfire,uberfire-widgets-commons,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-commons:7.36.0.20200331` // `org.uberfire,uberfire-widgets-commons,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-commons:7.36.1.Final` // `org.uberfire,uberfire-widgets-commons,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.29.0.Final` // `org.uberfire,uberfire-widgets-core-ace,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.30.0.Final` // `org.uberfire,uberfire-widgets-core-ace,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.31.0.Final` // `org.uberfire,uberfire-widgets-core-ace,7.31.0.Final,-,-,automatic,-,false,-`
@@ -6057,6 +6310,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.35.0.Final` // `org.uberfire,uberfire-widgets-core-ace,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.36.0.20200330` // `org.uberfire,uberfire-widgets-core-ace,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.36.0.20200331` // `org.uberfire,uberfire-widgets-core-ace,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-core-ace:7.36.1.Final` // `org.uberfire,uberfire-widgets-core-ace,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:2.21.0.Final` // `org.uberfire,uberfire-widgets-core-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:2.22.0.Final` // `org.uberfire,uberfire-widgets-core-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:2.23.0.Final` // `org.uberfire,uberfire-widgets-core-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6071,6 +6325,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:7.35.0.Final` // `org.uberfire,uberfire-widgets-core-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:7.36.0.20200330` // `org.uberfire,uberfire-widgets-core-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-client:7.36.0.20200331` // `org.uberfire,uberfire-widgets-core-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-core-client:7.36.1.Final` // `org.uberfire,uberfire-widgets-core-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.29.0.Final` // `org.uberfire,uberfire-widgets-core-editors,7.29.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.30.0.Final` // `org.uberfire,uberfire-widgets-core-editors,7.30.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.31.0.Final` // `org.uberfire,uberfire-widgets-core-editors,7.31.0.Final,-,-,automatic,-,false,-`
@@ -6080,6 +6335,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.35.0.Final` // `org.uberfire,uberfire-widgets-core-editors,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.36.0.20200330` // `org.uberfire,uberfire-widgets-core-editors,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.36.0.20200331` // `org.uberfire,uberfire-widgets-core-editors,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-core-editors:7.36.1.Final` // `org.uberfire,uberfire-widgets-core-editors,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:2.21.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:2.22.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:2.23.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6094,6 +6350,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:7.35.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:7.36.0.20200330` // `org.uberfire,uberfire-widgets-properties-editor-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:7.36.0.20200331` // `org.uberfire,uberfire-widgets-properties-editor-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-api:7.36.1.Final` // `org.uberfire,uberfire-widgets-properties-editor-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:2.21.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:2.22.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:2.23.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6108,6 +6365,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:7.35.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:7.36.0.20200330` // `org.uberfire,uberfire-widgets-properties-editor-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:7.36.0.20200331` // `org.uberfire,uberfire-widgets-properties-editor-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-backend:7.36.1.Final` // `org.uberfire,uberfire-widgets-properties-editor-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:2.21.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:2.22.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:2.23.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6122,6 +6380,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:7.35.0.Final` // `org.uberfire,uberfire-widgets-properties-editor-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:7.36.0.20200330` // `org.uberfire,uberfire-widgets-properties-editor-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:7.36.0.20200331` // `org.uberfire,uberfire-widgets-properties-editor-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-properties-editor-client:7.36.1.Final` // `org.uberfire,uberfire-widgets-properties-editor-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:2.21.0.Final` // `org.uberfire,uberfire-widgets-security-management,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:2.22.0.Final` // `org.uberfire,uberfire-widgets-security-management,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:2.23.0.Final` // `org.uberfire,uberfire-widgets-security-management,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6136,6 +6395,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:7.35.0.Final` // `org.uberfire,uberfire-widgets-security-management,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:7.36.0.20200330` // `org.uberfire,uberfire-widgets-security-management,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-security-management:7.36.0.20200331` // `org.uberfire,uberfire-widgets-security-management,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-security-management:7.36.1.Final` // `org.uberfire,uberfire-widgets-security-management,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:2.21.0.Final` // `org.uberfire,uberfire-widgets-service-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:2.22.0.Final` // `org.uberfire,uberfire-widgets-service-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:2.23.0.Final` // `org.uberfire,uberfire-widgets-service-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6150,6 +6410,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:7.35.0.Final` // `org.uberfire,uberfire-widgets-service-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:7.36.0.20200330` // `org.uberfire,uberfire-widgets-service-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-api:7.36.0.20200331` // `org.uberfire,uberfire-widgets-service-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-service-api:7.36.1.Final` // `org.uberfire,uberfire-widgets-service-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:2.21.0.Final` // `org.uberfire,uberfire-widgets-service-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:2.22.0.Final` // `org.uberfire,uberfire-widgets-service-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:2.23.0.Final` // `org.uberfire,uberfire-widgets-service-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6164,6 +6425,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:7.35.0.Final` // `org.uberfire,uberfire-widgets-service-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:7.36.0.20200330` // `org.uberfire,uberfire-widgets-service-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-service-backend:7.36.0.20200331` // `org.uberfire,uberfire-widgets-service-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-service-backend:7.36.1.Final` // `org.uberfire,uberfire-widgets-service-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-table:2.21.0.Final` // `org.uberfire,uberfire-widgets-table,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-table:2.22.0.Final` // `org.uberfire,uberfire-widgets-table,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-table:2.23.0.Final` // `org.uberfire,uberfire-widgets-table,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6178,6 +6440,7 @@
 - :cd: `` - `org.uberfire:uberfire-widgets-table:7.35.0.Final` // `org.uberfire,uberfire-widgets-table,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-table:7.36.0.20200330` // `org.uberfire,uberfire-widgets-table,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-widgets-table:7.36.0.20200331` // `org.uberfire,uberfire-widgets-table,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-widgets-table:7.36.1.Final` // `org.uberfire,uberfire-widgets-table,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:2.21.0.Final` // `org.uberfire,uberfire-wires-bayesian-network-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:2.22.0.Final` // `org.uberfire,uberfire-wires-bayesian-network-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:2.23.0.Final` // `org.uberfire,uberfire-wires-bayesian-network-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6192,6 +6455,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:7.35.0.Final` // `org.uberfire,uberfire-wires-bayesian-network-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:7.36.0.20200330` // `org.uberfire,uberfire-wires-bayesian-network-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:7.36.0.20200331` // `org.uberfire,uberfire-wires-bayesian-network-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bayesian-network-client:7.36.1.Final` // `org.uberfire,uberfire-wires-bayesian-network-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:2.21.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:2.22.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:2.23.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6206,6 +6470,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:7.35.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:7.36.0.20200330` // `org.uberfire,uberfire-wires-bayesian-parser-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:7.36.0.20200331` // `org.uberfire,uberfire-wires-bayesian-parser-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-api:7.36.1.Final` // `org.uberfire,uberfire-wires-bayesian-parser-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:2.21.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:2.22.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:2.23.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6220,6 +6485,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:7.35.0.Final` // `org.uberfire,uberfire-wires-bayesian-parser-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:7.36.0.20200330` // `org.uberfire,uberfire-wires-bayesian-parser-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:7.36.0.20200331` // `org.uberfire,uberfire-wires-bayesian-parser-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bayesian-parser-backend:7.36.1.Final` // `org.uberfire,uberfire-wires-bayesian-parser-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:2.21.0.Final` // `org.uberfire,uberfire-wires-bpmn-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:2.22.0.Final` // `org.uberfire,uberfire-wires-bpmn-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:2.23.0.Final` // `org.uberfire,uberfire-wires-bpmn-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6234,6 +6500,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:7.35.0.Final` // `org.uberfire,uberfire-wires-bpmn-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:7.36.0.20200330` // `org.uberfire,uberfire-wires-bpmn-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:7.36.0.20200331` // `org.uberfire,uberfire-wires-bpmn-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bpmn-api:7.36.1.Final` // `org.uberfire,uberfire-wires-bpmn-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:2.21.0.Final` // `org.uberfire,uberfire-wires-bpmn-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:2.22.0.Final` // `org.uberfire,uberfire-wires-bpmn-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:2.23.0.Final` // `org.uberfire,uberfire-wires-bpmn-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6248,6 +6515,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:7.35.0.Final` // `org.uberfire,uberfire-wires-bpmn-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:7.36.0.20200330` // `org.uberfire,uberfire-wires-bpmn-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:7.36.0.20200331` // `org.uberfire,uberfire-wires-bpmn-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bpmn-backend:7.36.1.Final` // `org.uberfire,uberfire-wires-bpmn-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:2.21.0.Final` // `org.uberfire,uberfire-wires-bpmn-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:2.22.0.Final` // `org.uberfire,uberfire-wires-bpmn-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:2.23.0.Final` // `org.uberfire,uberfire-wires-bpmn-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6262,6 +6530,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:7.35.0.Final` // `org.uberfire,uberfire-wires-bpmn-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:7.36.0.20200330` // `org.uberfire,uberfire-wires-bpmn-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:7.36.0.20200331` // `org.uberfire,uberfire-wires-bpmn-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-bpmn-client:7.36.1.Final` // `org.uberfire,uberfire-wires-bpmn-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:2.21.0.Final` // `org.uberfire,uberfire-wires-core-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:2.22.0.Final` // `org.uberfire,uberfire-wires-core-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:2.23.0.Final` // `org.uberfire,uberfire-wires-core-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6276,6 +6545,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:7.35.0.Final` // `org.uberfire,uberfire-wires-core-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:7.36.0.20200330` // `org.uberfire,uberfire-wires-core-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-api:7.36.0.20200331` // `org.uberfire,uberfire-wires-core-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-core-api:7.36.1.Final` // `org.uberfire,uberfire-wires-core-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:2.21.0.Final` // `org.uberfire,uberfire-wires-core-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:2.22.0.Final` // `org.uberfire,uberfire-wires-core-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:2.23.0.Final` // `org.uberfire,uberfire-wires-core-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6290,6 +6560,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:7.35.0.Final` // `org.uberfire,uberfire-wires-core-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:7.36.0.20200330` // `org.uberfire,uberfire-wires-core-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-client:7.36.0.20200331` // `org.uberfire,uberfire-wires-core-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-core-client:7.36.1.Final` // `org.uberfire,uberfire-wires-core-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:2.21.0.Final` // `org.uberfire,uberfire-wires-core-grids,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:2.22.0.Final` // `org.uberfire,uberfire-wires-core-grids,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:2.23.0.Final` // `org.uberfire,uberfire-wires-core-grids,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6304,6 +6575,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:7.35.0.Final` // `org.uberfire,uberfire-wires-core-grids,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:7.36.0.20200330` // `org.uberfire,uberfire-wires-core-grids,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-grids:7.36.0.20200331` // `org.uberfire,uberfire-wires-core-grids,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-core-grids:7.36.1.Final` // `org.uberfire,uberfire-wires-core-grids,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:2.21.0.Final` // `org.uberfire,uberfire-wires-core-scratchpad,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:2.22.0.Final` // `org.uberfire,uberfire-wires-core-scratchpad,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:2.23.0.Final` // `org.uberfire,uberfire-wires-core-scratchpad,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6318,6 +6590,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:7.35.0.Final` // `org.uberfire,uberfire-wires-core-scratchpad,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:7.36.0.20200330` // `org.uberfire,uberfire-wires-core-scratchpad,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:7.36.0.20200331` // `org.uberfire,uberfire-wires-core-scratchpad,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-core-scratchpad:7.36.1.Final` // `org.uberfire,uberfire-wires-core-scratchpad,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:2.21.0.Final` // `org.uberfire,uberfire-wires-core-trees,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:2.22.0.Final` // `org.uberfire,uberfire-wires-core-trees,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:2.23.0.Final` // `org.uberfire,uberfire-wires-core-trees,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6332,6 +6605,7 @@
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:7.35.0.Final` // `org.uberfire,uberfire-wires-core-trees,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:7.36.0.20200330` // `org.uberfire,uberfire-wires-core-trees,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-wires-core-trees:7.36.0.20200331` // `org.uberfire,uberfire-wires-core-trees,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-wires-core-trees:7.36.1.Final` // `org.uberfire,uberfire-wires-core-trees,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client:2.21.0.Final` // `org.uberfire,uberfire-workbench-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client:2.22.0.Final` // `org.uberfire,uberfire-workbench-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client:2.23.0.Final` // `org.uberfire,uberfire-workbench-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6346,6 +6620,7 @@
 - :cd: `` - `org.uberfire:uberfire-workbench-client:7.35.0.Final` // `org.uberfire,uberfire-workbench-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client:7.36.0.20200330` // `org.uberfire,uberfire-workbench-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client:7.36.0.20200331` // `org.uberfire,uberfire-workbench-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workbench-client:7.36.1.Final` // `org.uberfire,uberfire-workbench-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:2.21.0.Final` // `org.uberfire,uberfire-workbench-client-backend,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:2.22.0.Final` // `org.uberfire,uberfire-workbench-client-backend,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:2.23.0.Final` // `org.uberfire,uberfire-workbench-client-backend,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6360,6 +6635,7 @@
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:7.35.0.Final` // `org.uberfire,uberfire-workbench-client-backend,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:7.36.0.20200330` // `org.uberfire,uberfire-workbench-client-backend,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-backend:7.36.0.20200331` // `org.uberfire,uberfire-workbench-client-backend,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workbench-client-backend:7.36.1.Final` // `org.uberfire,uberfire-workbench-client-backend,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:2.21.0.Final` // `org.uberfire,uberfire-workbench-client-views-patternfly,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:2.22.0.Final` // `org.uberfire,uberfire-workbench-client-views-patternfly,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:2.23.0.Final` // `org.uberfire,uberfire-workbench-client-views-patternfly,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6374,6 +6650,7 @@
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:7.35.0.Final` // `org.uberfire,uberfire-workbench-client-views-patternfly,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:7.36.0.20200330` // `org.uberfire,uberfire-workbench-client-views-patternfly,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:7.36.0.20200331` // `org.uberfire,uberfire-workbench-client-views-patternfly,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workbench-client-views-patternfly:7.36.1.Final` // `org.uberfire,uberfire-workbench-client-views-patternfly,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:2.21.0.Final` // `org.uberfire,uberfire-workbench-processors,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:2.22.0.Final` // `org.uberfire,uberfire-workbench-processors,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:2.23.0.Final` // `org.uberfire,uberfire-workbench-processors,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6388,6 +6665,7 @@
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:7.35.0.Final` // `org.uberfire,uberfire-workbench-processors,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:7.36.0.20200330` // `org.uberfire,uberfire-workbench-processors,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors:7.36.0.20200331` // `org.uberfire,uberfire-workbench-processors,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workbench-processors:7.36.1.Final` // `org.uberfire,uberfire-workbench-processors,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:2.21.0.Final` // `org.uberfire,uberfire-workbench-processors-tests,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:2.22.0.Final` // `org.uberfire,uberfire-workbench-processors-tests,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:2.23.0.Final` // `org.uberfire,uberfire-workbench-processors-tests,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6402,6 +6680,7 @@
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:7.35.0.Final` // `org.uberfire,uberfire-workbench-processors-tests,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:7.36.0.20200330` // `org.uberfire,uberfire-workbench-processors-tests,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:7.36.0.20200331` // `org.uberfire,uberfire-workbench-processors-tests,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workbench-processors-tests:7.36.1.Final` // `org.uberfire,uberfire-workbench-processors-tests,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-api:2.21.0.Final` // `org.uberfire,uberfire-workingset-api,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-api:2.22.0.Final` // `org.uberfire,uberfire-workingset-api,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-api:2.23.0.Final` // `org.uberfire,uberfire-workingset-api,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6416,6 +6695,7 @@
 - :cd: `` - `org.uberfire:uberfire-workingset-api:7.35.0.Final` // `org.uberfire,uberfire-workingset-api,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-api:7.36.0.20200330` // `org.uberfire,uberfire-workingset-api,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-api:7.36.0.20200331` // `org.uberfire,uberfire-workingset-api,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workingset-api:7.36.1.Final` // `org.uberfire,uberfire-workingset-api,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-client:2.21.0.Final` // `org.uberfire,uberfire-workingset-client,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-client:2.22.0.Final` // `org.uberfire,uberfire-workingset-client,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-client:2.23.0.Final` // `org.uberfire,uberfire-workingset-client,2.23.0.Final,-,-,automatic,-,false,-`
@@ -6430,6 +6710,7 @@
 - :cd: `` - `org.uberfire:uberfire-workingset-client:7.35.0.Final` // `org.uberfire,uberfire-workingset-client,7.35.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-client:7.36.0.20200330` // `org.uberfire,uberfire-workingset-client,7.36.0.20200330,-,-,automatic,-,false,-`
 - :cd: `` - `org.uberfire:uberfire-workingset-client:7.36.0.20200331` // `org.uberfire,uberfire-workingset-client,7.36.0.20200331,-,-,automatic,-,false,-`
+- :cd: `` - `org.uberfire:uberfire-workingset-client:7.36.1.Final` // `org.uberfire,uberfire-workingset-client,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics:metrics-logback:4.1.0-rc2` // `io.dropwizard.metrics,metrics-logback,4.1.0-rc2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `io.dropwizard.metrics5:metrics-logback:5.0.0` // `io.dropwizard.metrics5,metrics-logback,5.0.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.7` // `org.eclipse.milo,sdk-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
@@ -6951,6 +7232,7 @@
 - :cd: `cas-server-core` :left_right_arrow: `org.apereo.cas:cas-server-core:6.2.0-RC1` // `org.apereo.cas,cas-server-core,6.2.0-RC1,cas-server-core,-,automatic,-,false,-`
 - :cd: `cas-server-core` :left_right_arrow: `org.apereo.cas:cas-server-core:6.2.0-RC2` // `org.apereo.cas,cas-server-core,6.2.0-RC2,cas-server-core,-,automatic,-,false,-`
 - :cd: `cas-server-core` :left_right_arrow: `org.apereo.cas:cas-server-core:6.2.0-RC3` // `org.apereo.cas,cas-server-core,6.2.0-RC3,cas-server-core,-,automatic,-,false,-`
+- :cd: `cas-server-core` :left_right_arrow: `org.apereo.cas:cas-server-core:6.2.0-RC4` // `org.apereo.cas,cas-server-core,6.2.0-RC4,cas-server-core,-,automatic,-,false,-`
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.0.0` // `org.apereo.cas,cas-server-core-api,6.0.0,cas-server-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api,6.0.0-RC1,cas-server-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api,6.0.0-RC2,cas-server-core-api,-,automatic,-,false,-`
@@ -6969,6 +7251,7 @@
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api,6.2.0-RC1,cas-server-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api,6.2.0-RC2,cas-server-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api,6.2.0-RC3,cas-server-core-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-api` :left_right_arrow: `org.apereo.cas:cas-server-core-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api,6.2.0-RC4,cas-server-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.0.0` // `org.apereo.cas,cas-server-core-api-audit,6.0.0,cas-server-core-api-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-audit,6.0.0-RC1,cas-server-core-api-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-audit,6.0.0-RC2,cas-server-core-api-audit,-,automatic,-,false,-`
@@ -6987,6 +7270,7 @@
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-audit,6.2.0-RC1,cas-server-core-api-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-audit,6.2.0-RC2,cas-server-core-api-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-audit,6.2.0-RC3,cas-server-core-api-audit,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-api-audit:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-audit,6.2.0-RC4,cas-server-core-api-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.0.0` // `org.apereo.cas,cas-server-core-api-authentication,6.0.0,cas-server-core-api-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-authentication,6.0.0-RC1,cas-server-core-api-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-authentication,6.0.0-RC2,cas-server-core-api-authentication,-,automatic,-,false,-`
@@ -7005,6 +7289,7 @@
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-authentication,6.2.0-RC1,cas-server-core-api-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-authentication,6.2.0-RC2,cas-server-core-api-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-authentication,6.2.0-RC3,cas-server-core-api-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-api-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-authentication,6.2.0-RC4,cas-server-core-api-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.0.0` // `org.apereo.cas,cas-server-core-api-configuration,6.0.0,cas-server-core-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-configuration,6.0.0-RC1,cas-server-core-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-configuration,6.0.0-RC2,cas-server-core-api-configuration,-,automatic,-,false,-`
@@ -7023,6 +7308,7 @@
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-configuration,6.2.0-RC1,cas-server-core-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-configuration,6.2.0-RC2,cas-server-core-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-configuration,6.2.0-RC3,cas-server-core-api-configuration,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-configuration,6.2.0-RC4,cas-server-core-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.0.0` // `org.apereo.cas,cas-server-core-api-configuration-model,6.0.0,cas-server-core-api-configuration-model,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-configuration-model,6.0.0-RC1,cas-server-core-api-configuration-model,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-configuration-model,6.0.0-RC2,cas-server-core-api-configuration-model,-,automatic,-,false,-`
@@ -7041,6 +7327,7 @@
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-configuration-model,6.2.0-RC1,cas-server-core-api-configuration-model,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-configuration-model,6.2.0-RC2,cas-server-core-api-configuration-model,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-configuration-model,6.2.0-RC3,cas-server-core-api-configuration-model,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-configuration-model` :left_right_arrow: `org.apereo.cas:cas-server-core-api-configuration-model:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-configuration-model,6.2.0-RC4,cas-server-core-api-configuration-model,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.1.0` // `org.apereo.cas,cas-server-core-api-cookie,6.1.0,cas-server-core-api-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.1.0-RC3` // `org.apereo.cas,cas-server-core-api-cookie,6.1.0-RC3,cas-server-core-api-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.1.0-RC4` // `org.apereo.cas,cas-server-core-api-cookie,6.1.0-RC4,cas-server-core-api-cookie,-,automatic,-,false,-`
@@ -7051,6 +7338,7 @@
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-cookie,6.2.0-RC1,cas-server-core-api-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-cookie,6.2.0-RC2,cas-server-core-api-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-cookie,6.2.0-RC3,cas-server-core-api-cookie,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-api-cookie:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-cookie,6.2.0-RC4,cas-server-core-api-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.0.0` // `org.apereo.cas,cas-server-core-api-events,6.0.0,cas-server-core-api-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-events,6.0.0-RC1,cas-server-core-api-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-events,6.0.0-RC2,cas-server-core-api-events,-,automatic,-,false,-`
@@ -7069,6 +7357,7 @@
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-events,6.2.0-RC1,cas-server-core-api-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-events,6.2.0-RC2,cas-server-core-api-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-events,6.2.0-RC3,cas-server-core-api-events,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-events` :left_right_arrow: `org.apereo.cas:cas-server-core-api-events:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-events,6.2.0-RC4,cas-server-core-api-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.0.0` // `org.apereo.cas,cas-server-core-api-logout,6.0.0,cas-server-core-api-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-logout,6.0.0-RC1,cas-server-core-api-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-logout,6.0.0-RC2,cas-server-core-api-logout,-,automatic,-,false,-`
@@ -7087,6 +7376,7 @@
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-logout,6.2.0-RC1,cas-server-core-api-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-logout,6.2.0-RC2,cas-server-core-api-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-logout,6.2.0-RC3,cas-server-core-api-logout,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-api-logout:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-logout,6.2.0-RC4,cas-server-core-api-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.0.0` // `org.apereo.cas,cas-server-core-api-mfa,6.0.0,cas-server-core-api-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.0.0-RC3` // `org.apereo.cas,cas-server-core-api-mfa,6.0.0-RC3,cas-server-core-api-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.0.0-RC4` // `org.apereo.cas,cas-server-core-api-mfa,6.0.0-RC4,cas-server-core-api-mfa,-,automatic,-,false,-`
@@ -7103,6 +7393,7 @@
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-mfa,6.2.0-RC1,cas-server-core-api-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-mfa,6.2.0-RC2,cas-server-core-api-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-mfa,6.2.0-RC3,cas-server-core-api-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-api-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-mfa,6.2.0-RC4,cas-server-core-api-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.0.0` // `org.apereo.cas,cas-server-core-api-monitor,6.0.0,cas-server-core-api-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-monitor,6.0.0-RC1,cas-server-core-api-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-monitor,6.0.0-RC2,cas-server-core-api-monitor,-,automatic,-,false,-`
@@ -7121,6 +7412,7 @@
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-monitor,6.2.0-RC1,cas-server-core-api-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-monitor,6.2.0-RC2,cas-server-core-api-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-monitor,6.2.0-RC3,cas-server-core-api-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-api-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-monitor,6.2.0-RC4,cas-server-core-api-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.0.0` // `org.apereo.cas,cas-server-core-api-protocol,6.0.0,cas-server-core-api-protocol,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-protocol,6.0.0-RC1,cas-server-core-api-protocol,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-protocol,6.0.0-RC2,cas-server-core-api-protocol,-,automatic,-,false,-`
@@ -7139,6 +7431,7 @@
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-protocol,6.2.0-RC1,cas-server-core-api-protocol,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-protocol,6.2.0-RC2,cas-server-core-api-protocol,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-protocol,6.2.0-RC3,cas-server-core-api-protocol,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-protocol` :left_right_arrow: `org.apereo.cas:cas-server-core-api-protocol:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-protocol,6.2.0-RC4,cas-server-core-api-protocol,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.0.0` // `org.apereo.cas,cas-server-core-api-services,6.0.0,cas-server-core-api-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-services,6.0.0-RC1,cas-server-core-api-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-services,6.0.0-RC2,cas-server-core-api-services,-,automatic,-,false,-`
@@ -7157,6 +7450,7 @@
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-services,6.2.0-RC1,cas-server-core-api-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-services,6.2.0-RC2,cas-server-core-api-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-services,6.2.0-RC3,cas-server-core-api-services,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-services` :left_right_arrow: `org.apereo.cas:cas-server-core-api-services:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-services,6.2.0-RC4,cas-server-core-api-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-test-category` :left_right_arrow: `org.apereo.cas:cas-server-core-api-test-category:6.0.0` // `org.apereo.cas,cas-server-core-api-test-category,6.0.0,cas-server-core-api-test-category,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-test-category` :left_right_arrow: `org.apereo.cas:cas-server-core-api-test-category:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-test-category,6.0.0-RC1,cas-server-core-api-test-category,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-test-category` :left_right_arrow: `org.apereo.cas:cas-server-core-api-test-category:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-test-category,6.0.0-RC2,cas-server-core-api-test-category,-,automatic,-,false,-`
@@ -7182,6 +7476,7 @@
 - :cd: `cas-server-core-api-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-api-throttle:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-throttle,6.2.0-RC1,cas-server-core-api-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-api-throttle:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-throttle,6.2.0-RC2,cas-server-core-api-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-api-throttle:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-throttle,6.2.0-RC3,cas-server-core-api-throttle,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-api-throttle:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-throttle,6.2.0-RC4,cas-server-core-api-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.0.0` // `org.apereo.cas,cas-server-core-api-ticket,6.0.0,cas-server-core-api-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-ticket,6.0.0-RC1,cas-server-core-api-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-ticket,6.0.0-RC2,cas-server-core-api-ticket,-,automatic,-,false,-`
@@ -7200,6 +7495,7 @@
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-ticket,6.2.0-RC1,cas-server-core-api-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-ticket,6.2.0-RC2,cas-server-core-api-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-ticket,6.2.0-RC3,cas-server-core-api-ticket,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-ticket` :left_right_arrow: `org.apereo.cas:cas-server-core-api-ticket:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-ticket,6.2.0-RC4,cas-server-core-api-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.0.0` // `org.apereo.cas,cas-server-core-api-util,6.0.0,cas-server-core-api-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-util,6.0.0-RC1,cas-server-core-api-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-util,6.0.0-RC2,cas-server-core-api-util,-,automatic,-,false,-`
@@ -7218,6 +7514,7 @@
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-util,6.2.0-RC1,cas-server-core-api-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-util,6.2.0-RC2,cas-server-core-api-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-util,6.2.0-RC3,cas-server-core-api-util,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-util` :left_right_arrow: `org.apereo.cas:cas-server-core-api-util:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-util,6.2.0-RC4,cas-server-core-api-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.0.0` // `org.apereo.cas,cas-server-core-api-validation,6.0.0,cas-server-core-api-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-validation,6.0.0-RC1,cas-server-core-api-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-validation,6.0.0-RC2,cas-server-core-api-validation,-,automatic,-,false,-`
@@ -7236,6 +7533,7 @@
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-validation,6.2.0-RC1,cas-server-core-api-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-validation,6.2.0-RC2,cas-server-core-api-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-validation,6.2.0-RC3,cas-server-core-api-validation,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-api-validation:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-validation,6.2.0-RC4,cas-server-core-api-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.0.0` // `org.apereo.cas,cas-server-core-api-web,6.0.0,cas-server-core-api-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-web,6.0.0-RC1,cas-server-core-api-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-web,6.0.0-RC2,cas-server-core-api-web,-,automatic,-,false,-`
@@ -7254,6 +7552,7 @@
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-web,6.2.0-RC1,cas-server-core-api-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-web,6.2.0-RC2,cas-server-core-api-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-web,6.2.0-RC3,cas-server-core-api-web,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-web` :left_right_arrow: `org.apereo.cas:cas-server-core-api-web:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-web,6.2.0-RC4,cas-server-core-api-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.0.0` // `org.apereo.cas,cas-server-core-api-webflow,6.0.0,cas-server-core-api-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-core-api-webflow,6.0.0-RC1,cas-server-core-api-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-core-api-webflow,6.0.0-RC2,cas-server-core-api-webflow,-,automatic,-,false,-`
@@ -7272,6 +7571,7 @@
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-core-api-webflow,6.2.0-RC1,cas-server-core-api-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-core-api-webflow,6.2.0-RC2,cas-server-core-api-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-core-api-webflow,6.2.0-RC3,cas-server-core-api-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-core-api-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-api-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-core-api-webflow,6.2.0-RC4,cas-server-core-api-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.0.0` // `org.apereo.cas,cas-server-core-audit,6.0.0,cas-server-core-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.0.0-RC1` // `org.apereo.cas,cas-server-core-audit,6.0.0-RC1,cas-server-core-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.0.0-RC2` // `org.apereo.cas,cas-server-core-audit,6.0.0-RC2,cas-server-core-audit,-,automatic,-,false,-`
@@ -7290,6 +7590,7 @@
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.2.0-RC1` // `org.apereo.cas,cas-server-core-audit,6.2.0-RC1,cas-server-core-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.2.0-RC2` // `org.apereo.cas,cas-server-core-audit,6.2.0-RC2,cas-server-core-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.2.0-RC3` // `org.apereo.cas,cas-server-core-audit,6.2.0-RC3,cas-server-core-audit,-,automatic,-,false,-`
+- :cd: `cas-server-core-audit` :left_right_arrow: `org.apereo.cas:cas-server-core-audit:6.2.0-RC4` // `org.apereo.cas,cas-server-core-audit,6.2.0-RC4,cas-server-core-audit,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.0.0` // `org.apereo.cas,cas-server-core-audit-api,6.0.0,cas-server-core-audit-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-audit-api,6.0.0-RC1,cas-server-core-audit-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-audit-api,6.0.0-RC2,cas-server-core-audit-api,-,automatic,-,false,-`
@@ -7308,6 +7609,7 @@
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-audit-api,6.2.0-RC1,cas-server-core-audit-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-audit-api,6.2.0-RC2,cas-server-core-audit-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-audit-api,6.2.0-RC3,cas-server-core-audit-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-audit-api` :left_right_arrow: `org.apereo.cas:cas-server-core-audit-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-audit-api,6.2.0-RC4,cas-server-core-audit-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.0.0` // `org.apereo.cas,cas-server-core-authentication,6.0.0,cas-server-core-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-core-authentication,6.0.0-RC1,cas-server-core-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-core-authentication,6.0.0-RC2,cas-server-core-authentication,-,automatic,-,false,-`
@@ -7326,6 +7628,7 @@
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication,6.2.0-RC1,cas-server-core-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication,6.2.0-RC2,cas-server-core-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication,6.2.0-RC3,cas-server-core-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication,6.2.0-RC4,cas-server-core-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.0.0` // `org.apereo.cas,cas-server-core-authentication-api,6.0.0,cas-server-core-authentication-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-authentication-api,6.0.0-RC1,cas-server-core-authentication-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-authentication-api,6.0.0-RC2,cas-server-core-authentication-api,-,automatic,-,false,-`
@@ -7344,6 +7647,7 @@
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication-api,6.2.0-RC1,cas-server-core-authentication-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication-api,6.2.0-RC2,cas-server-core-authentication-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication-api,6.2.0-RC3,cas-server-core-authentication-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication-api,6.2.0-RC4,cas-server-core-authentication-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.0.0` // `org.apereo.cas,cas-server-core-authentication-attributes,6.0.0,cas-server-core-authentication-attributes,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.0.0-RC1` // `org.apereo.cas,cas-server-core-authentication-attributes,6.0.0-RC1,cas-server-core-authentication-attributes,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.0.0-RC2` // `org.apereo.cas,cas-server-core-authentication-attributes,6.0.0-RC2,cas-server-core-authentication-attributes,-,automatic,-,false,-`
@@ -7362,6 +7666,7 @@
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication-attributes,6.2.0-RC1,cas-server-core-authentication-attributes,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication-attributes,6.2.0-RC2,cas-server-core-authentication-attributes,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication-attributes,6.2.0-RC3,cas-server-core-authentication-attributes,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication-attributes` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-attributes:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication-attributes,6.2.0-RC4,cas-server-core-authentication-attributes,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.0.0` // `org.apereo.cas,cas-server-core-authentication-mfa,6.0.0,cas-server-core-authentication-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-core-authentication-mfa,6.0.0-RC1,cas-server-core-authentication-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-core-authentication-mfa,6.0.0-RC2,cas-server-core-authentication-mfa,-,automatic,-,false,-`
@@ -7380,6 +7685,7 @@
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication-mfa,6.2.0-RC1,cas-server-core-authentication-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication-mfa,6.2.0-RC2,cas-server-core-authentication-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication-mfa,6.2.0-RC3,cas-server-core-authentication-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication-mfa,6.2.0-RC4,cas-server-core-authentication-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.0.0` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.0.0,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.0.0-RC3` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.0.0-RC3,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.0.0-RC4` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.0.0-RC4,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
@@ -7396,6 +7702,7 @@
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.2.0-RC1,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.2.0-RC2,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.2.0-RC3,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-mfa-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication-mfa-api,6.2.0-RC4,cas-server-core-authentication-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.0.0` // `org.apereo.cas,cas-server-core-authentication-throttle,6.0.0,cas-server-core-authentication-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.0.0-RC2` // `org.apereo.cas,cas-server-core-authentication-throttle,6.0.0-RC2,cas-server-core-authentication-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.0.0-RC3` // `org.apereo.cas,cas-server-core-authentication-throttle,6.0.0-RC3,cas-server-core-authentication-throttle,-,automatic,-,false,-`
@@ -7413,6 +7720,7 @@
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.2.0-RC1` // `org.apereo.cas,cas-server-core-authentication-throttle,6.2.0-RC1,cas-server-core-authentication-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.2.0-RC2` // `org.apereo.cas,cas-server-core-authentication-throttle,6.2.0-RC2,cas-server-core-authentication-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.2.0-RC3` // `org.apereo.cas,cas-server-core-authentication-throttle,6.2.0-RC3,cas-server-core-authentication-throttle,-,automatic,-,false,-`
+- :cd: `cas-server-core-authentication-throttle` :left_right_arrow: `org.apereo.cas:cas-server-core-authentication-throttle:6.2.0-RC4` // `org.apereo.cas,cas-server-core-authentication-throttle,6.2.0-RC4,cas-server-core-authentication-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.0.0` // `org.apereo.cas,cas-server-core-configuration,6.0.0,cas-server-core-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.0.0-RC1` // `org.apereo.cas,cas-server-core-configuration,6.0.0-RC1,cas-server-core-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.0.0-RC2` // `org.apereo.cas,cas-server-core-configuration,6.0.0-RC2,cas-server-core-configuration,-,automatic,-,false,-`
@@ -7431,6 +7739,7 @@
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.2.0-RC1` // `org.apereo.cas,cas-server-core-configuration,6.2.0-RC1,cas-server-core-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.2.0-RC2` // `org.apereo.cas,cas-server-core-configuration,6.2.0-RC2,cas-server-core-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.2.0-RC3` // `org.apereo.cas,cas-server-core-configuration,6.2.0-RC3,cas-server-core-configuration,-,automatic,-,false,-`
+- :cd: `cas-server-core-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration:6.2.0-RC4` // `org.apereo.cas,cas-server-core-configuration,6.2.0-RC4,cas-server-core-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.0.0` // `org.apereo.cas,cas-server-core-configuration-api,6.0.0,cas-server-core-configuration-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-configuration-api,6.0.0-RC1,cas-server-core-configuration-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-configuration-api,6.0.0-RC2,cas-server-core-configuration-api,-,automatic,-,false,-`
@@ -7449,6 +7758,7 @@
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-configuration-api,6.2.0-RC1,cas-server-core-configuration-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-configuration-api,6.2.0-RC2,cas-server-core-configuration-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-configuration-api,6.2.0-RC3,cas-server-core-configuration-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-configuration-api` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-configuration-api,6.2.0-RC4,cas-server-core-configuration-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.0.0` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.0.0,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.0.0-RC1` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.0.0-RC1,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.0.0-RC2` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.0.0-RC2,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
@@ -7467,6 +7777,7 @@
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.2.0-RC1` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.2.0-RC1,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.2.0-RC2` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.2.0-RC2,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
 - :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.2.0-RC3` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.2.0-RC3,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
+- :cd: `cas-server-core-configuration-metadata-repository` :left_right_arrow: `org.apereo.cas:cas-server-core-configuration-metadata-repository:6.2.0-RC4` // `org.apereo.cas,cas-server-core-configuration-metadata-repository,6.2.0-RC4,cas-server-core-configuration-metadata-repository,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.0.0` // `org.apereo.cas,cas-server-core-cookie,6.0.0,cas-server-core-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.0.0-RC1` // `org.apereo.cas,cas-server-core-cookie,6.0.0-RC1,cas-server-core-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.0.0-RC2` // `org.apereo.cas,cas-server-core-cookie,6.0.0-RC2,cas-server-core-cookie,-,automatic,-,false,-`
@@ -7485,6 +7796,7 @@
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.2.0-RC1` // `org.apereo.cas,cas-server-core-cookie,6.2.0-RC1,cas-server-core-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.2.0-RC2` // `org.apereo.cas,cas-server-core-cookie,6.2.0-RC2,cas-server-core-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.2.0-RC3` // `org.apereo.cas,cas-server-core-cookie,6.2.0-RC3,cas-server-core-cookie,-,automatic,-,false,-`
+- :cd: `cas-server-core-cookie` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie:6.2.0-RC4` // `org.apereo.cas,cas-server-core-cookie,6.2.0-RC4,cas-server-core-cookie,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.0.0` // `org.apereo.cas,cas-server-core-cookie-api,6.0.0,cas-server-core-cookie-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-cookie-api,6.0.0-RC1,cas-server-core-cookie-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-cookie-api,6.0.0-RC2,cas-server-core-cookie-api,-,automatic,-,false,-`
@@ -7503,6 +7815,7 @@
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-cookie-api,6.2.0-RC1,cas-server-core-cookie-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-cookie-api,6.2.0-RC2,cas-server-core-cookie-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-cookie-api,6.2.0-RC3,cas-server-core-cookie-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-cookie-api` :left_right_arrow: `org.apereo.cas:cas-server-core-cookie-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-cookie-api,6.2.0-RC4,cas-server-core-cookie-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.0.0` // `org.apereo.cas,cas-server-core-events,6.0.0,cas-server-core-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.0.0-RC1` // `org.apereo.cas,cas-server-core-events,6.0.0-RC1,cas-server-core-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.0.0-RC2` // `org.apereo.cas,cas-server-core-events,6.0.0-RC2,cas-server-core-events,-,automatic,-,false,-`
@@ -7521,6 +7834,7 @@
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.2.0-RC1` // `org.apereo.cas,cas-server-core-events,6.2.0-RC1,cas-server-core-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.2.0-RC2` // `org.apereo.cas,cas-server-core-events,6.2.0-RC2,cas-server-core-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.2.0-RC3` // `org.apereo.cas,cas-server-core-events,6.2.0-RC3,cas-server-core-events,-,automatic,-,false,-`
+- :cd: `cas-server-core-events` :left_right_arrow: `org.apereo.cas:cas-server-core-events:6.2.0-RC4` // `org.apereo.cas,cas-server-core-events,6.2.0-RC4,cas-server-core-events,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.1.0` // `org.apereo.cas,cas-server-core-events-api,6.1.0,cas-server-core-events-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.1.0-RC5` // `org.apereo.cas,cas-server-core-events-api,6.1.0-RC5,cas-server-core-events-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.1.0-RC6` // `org.apereo.cas,cas-server-core-events-api,6.1.0-RC6,cas-server-core-events-api,-,automatic,-,false,-`
@@ -7529,6 +7843,7 @@
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-events-api,6.2.0-RC1,cas-server-core-events-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-events-api,6.2.0-RC2,cas-server-core-events-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-events-api,6.2.0-RC3,cas-server-core-events-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-events-api` :left_right_arrow: `org.apereo.cas:cas-server-core-events-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-events-api,6.2.0-RC4,cas-server-core-events-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.0.0` // `org.apereo.cas,cas-server-core-events-configuration,6.0.0,cas-server-core-events-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.0.0-RC1` // `org.apereo.cas,cas-server-core-events-configuration,6.0.0-RC1,cas-server-core-events-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.0.0-RC2` // `org.apereo.cas,cas-server-core-events-configuration,6.0.0-RC2,cas-server-core-events-configuration,-,automatic,-,false,-`
@@ -7547,6 +7862,7 @@
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.2.0-RC1` // `org.apereo.cas,cas-server-core-events-configuration,6.2.0-RC1,cas-server-core-events-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.2.0-RC2` // `org.apereo.cas,cas-server-core-events-configuration,6.2.0-RC2,cas-server-core-events-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.2.0-RC3` // `org.apereo.cas,cas-server-core-events-configuration,6.2.0-RC3,cas-server-core-events-configuration,-,automatic,-,false,-`
+- :cd: `cas-server-core-events-configuration` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration:6.2.0-RC4` // `org.apereo.cas,cas-server-core-events-configuration,6.2.0-RC4,cas-server-core-events-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.0.0` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.0.0,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.0.0-RC1` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.0.0-RC1,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.0.0-RC2` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.0.0-RC2,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
@@ -7565,6 +7881,7 @@
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.2.0-RC1` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.2.0-RC1,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.2.0-RC2` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.2.0-RC2,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
 - :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.2.0-RC3` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.2.0-RC3,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
+- :cd: `cas-server-core-events-configuration-cloud-bus` :left_right_arrow: `org.apereo.cas:cas-server-core-events-configuration-cloud-bus:6.2.0-RC4` // `org.apereo.cas,cas-server-core-events-configuration-cloud-bus,6.2.0-RC4,cas-server-core-events-configuration-cloud-bus,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.0.0` // `org.apereo.cas,cas-server-core-logging,6.0.0,cas-server-core-logging,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.0.0-RC1` // `org.apereo.cas,cas-server-core-logging,6.0.0-RC1,cas-server-core-logging,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.0.0-RC2` // `org.apereo.cas,cas-server-core-logging,6.0.0-RC2,cas-server-core-logging,-,automatic,-,false,-`
@@ -7583,6 +7900,7 @@
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.2.0-RC1` // `org.apereo.cas,cas-server-core-logging,6.2.0-RC1,cas-server-core-logging,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.2.0-RC2` // `org.apereo.cas,cas-server-core-logging,6.2.0-RC2,cas-server-core-logging,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.2.0-RC3` // `org.apereo.cas,cas-server-core-logging,6.2.0-RC3,cas-server-core-logging,-,automatic,-,false,-`
+- :cd: `cas-server-core-logging` :left_right_arrow: `org.apereo.cas:cas-server-core-logging:6.2.0-RC4` // `org.apereo.cas,cas-server-core-logging,6.2.0-RC4,cas-server-core-logging,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.0.0` // `org.apereo.cas,cas-server-core-logging-api,6.0.0,cas-server-core-logging-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.0.0-RC4` // `org.apereo.cas,cas-server-core-logging-api,6.0.0-RC4,cas-server-core-logging-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.0.1` // `org.apereo.cas,cas-server-core-logging-api,6.0.1,cas-server-core-logging-api,-,automatic,-,false,-`
@@ -7598,6 +7916,7 @@
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-logging-api,6.2.0-RC1,cas-server-core-logging-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-logging-api,6.2.0-RC2,cas-server-core-logging-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-logging-api,6.2.0-RC3,cas-server-core-logging-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-logging-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-logging-api,6.2.0-RC4,cas-server-core-logging-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-config` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-config:6.0.0-RC1` // `org.apereo.cas,cas-server-core-logging-config,6.0.0-RC1,cas-server-core-logging-config,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-config` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-config:6.0.0-RC2` // `org.apereo.cas,cas-server-core-logging-config,6.0.0-RC2,cas-server-core-logging-config,-,automatic,-,false,-`
 - :cd: `cas-server-core-logging-config` :left_right_arrow: `org.apereo.cas:cas-server-core-logging-config:6.0.0-RC3` // `org.apereo.cas,cas-server-core-logging-config,6.0.0-RC3,cas-server-core-logging-config,-,automatic,-,false,-`
@@ -7619,6 +7938,7 @@
 - :cd: `cas-server-core-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-logout:6.2.0-RC1` // `org.apereo.cas,cas-server-core-logout,6.2.0-RC1,cas-server-core-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-logout:6.2.0-RC2` // `org.apereo.cas,cas-server-core-logout,6.2.0-RC2,cas-server-core-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-logout:6.2.0-RC3` // `org.apereo.cas,cas-server-core-logout,6.2.0-RC3,cas-server-core-logout,-,automatic,-,false,-`
+- :cd: `cas-server-core-logout` :left_right_arrow: `org.apereo.cas:cas-server-core-logout:6.2.0-RC4` // `org.apereo.cas,cas-server-core-logout,6.2.0-RC4,cas-server-core-logout,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.0.0` // `org.apereo.cas,cas-server-core-logout-api,6.0.0,cas-server-core-logout-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-logout-api,6.0.0-RC1,cas-server-core-logout-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-logout-api,6.0.0-RC2,cas-server-core-logout-api,-,automatic,-,false,-`
@@ -7637,6 +7957,7 @@
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-logout-api,6.2.0-RC1,cas-server-core-logout-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-logout-api,6.2.0-RC2,cas-server-core-logout-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-logout-api,6.2.0-RC3,cas-server-core-logout-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-logout-api` :left_right_arrow: `org.apereo.cas:cas-server-core-logout-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-logout-api,6.2.0-RC4,cas-server-core-logout-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.0.0` // `org.apereo.cas,cas-server-core-monitor,6.0.0,cas-server-core-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-core-monitor,6.0.0-RC1,cas-server-core-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-core-monitor,6.0.0-RC2,cas-server-core-monitor,-,automatic,-,false,-`
@@ -7655,6 +7976,7 @@
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-core-monitor,6.2.0-RC1,cas-server-core-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-core-monitor,6.2.0-RC2,cas-server-core-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-core-monitor,6.2.0-RC3,cas-server-core-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-core-monitor` :left_right_arrow: `org.apereo.cas:cas-server-core-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-core-monitor,6.2.0-RC4,cas-server-core-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.0.0` // `org.apereo.cas,cas-server-core-rest,6.0.0,cas-server-core-rest,-,automatic,-,false,-`
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-core-rest,6.0.0-RC1,cas-server-core-rest,-,automatic,-,false,-`
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-core-rest,6.0.0-RC2,cas-server-core-rest,-,automatic,-,false,-`
@@ -7673,6 +7995,7 @@
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-core-rest,6.2.0-RC1,cas-server-core-rest,-,automatic,-,false,-`
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-core-rest,6.2.0-RC2,cas-server-core-rest,-,automatic,-,false,-`
 - :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-core-rest,6.2.0-RC3,cas-server-core-rest,-,automatic,-,false,-`
+- :cd: `cas-server-core-rest` :left_right_arrow: `org.apereo.cas:cas-server-core-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-core-rest,6.2.0-RC4,cas-server-core-rest,-,automatic,-,false,-`
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.0.0` // `org.apereo.cas,cas-server-core-services,6.0.0,cas-server-core-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.0.0-RC1` // `org.apereo.cas,cas-server-core-services,6.0.0-RC1,cas-server-core-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.0.0-RC2` // `org.apereo.cas,cas-server-core-services,6.0.0-RC2,cas-server-core-services,-,automatic,-,false,-`
@@ -7691,6 +8014,7 @@
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.2.0-RC1` // `org.apereo.cas,cas-server-core-services,6.2.0-RC1,cas-server-core-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.2.0-RC2` // `org.apereo.cas,cas-server-core-services,6.2.0-RC2,cas-server-core-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.2.0-RC3` // `org.apereo.cas,cas-server-core-services,6.2.0-RC3,cas-server-core-services,-,automatic,-,false,-`
+- :cd: `cas-server-core-services` :left_right_arrow: `org.apereo.cas:cas-server-core-services:6.2.0-RC4` // `org.apereo.cas,cas-server-core-services,6.2.0-RC4,cas-server-core-services,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.0.0` // `org.apereo.cas,cas-server-core-services-api,6.0.0,cas-server-core-services-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-services-api,6.0.0-RC1,cas-server-core-services-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-services-api,6.0.0-RC2,cas-server-core-services-api,-,automatic,-,false,-`
@@ -7709,6 +8033,7 @@
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-services-api,6.2.0-RC1,cas-server-core-services-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-services-api,6.2.0-RC2,cas-server-core-services-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-services-api,6.2.0-RC3,cas-server-core-services-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-services-api` :left_right_arrow: `org.apereo.cas:cas-server-core-services-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-services-api,6.2.0-RC4,cas-server-core-services-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.0.0` // `org.apereo.cas,cas-server-core-services-authentication,6.0.0,cas-server-core-services-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-core-services-authentication,6.0.0-RC1,cas-server-core-services-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-core-services-authentication,6.0.0-RC2,cas-server-core-services-authentication,-,automatic,-,false,-`
@@ -7727,6 +8052,7 @@
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-core-services-authentication,6.2.0-RC1,cas-server-core-services-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-core-services-authentication,6.2.0-RC2,cas-server-core-services-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-core-services-authentication,6.2.0-RC3,cas-server-core-services-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-core-services-authentication` :left_right_arrow: `org.apereo.cas:cas-server-core-services-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-core-services-authentication,6.2.0-RC4,cas-server-core-services-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.0.0` // `org.apereo.cas,cas-server-core-services-registry,6.0.0,cas-server-core-services-registry,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-core-services-registry,6.0.0-RC1,cas-server-core-services-registry,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-core-services-registry,6.0.0-RC2,cas-server-core-services-registry,-,automatic,-,false,-`
@@ -7745,6 +8071,7 @@
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-core-services-registry,6.2.0-RC1,cas-server-core-services-registry,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-core-services-registry,6.2.0-RC2,cas-server-core-services-registry,-,automatic,-,false,-`
 - :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-core-services-registry,6.2.0-RC3,cas-server-core-services-registry,-,automatic,-,false,-`
+- :cd: `cas-server-core-services-registry` :left_right_arrow: `org.apereo.cas:cas-server-core-services-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-core-services-registry,6.2.0-RC4,cas-server-core-services-registry,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.0.0` // `org.apereo.cas,cas-server-core-tickets,6.0.0,cas-server-core-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.0.0-RC1` // `org.apereo.cas,cas-server-core-tickets,6.0.0-RC1,cas-server-core-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.0.0-RC2` // `org.apereo.cas,cas-server-core-tickets,6.0.0-RC2,cas-server-core-tickets,-,automatic,-,false,-`
@@ -7763,6 +8090,7 @@
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.2.0-RC1` // `org.apereo.cas,cas-server-core-tickets,6.2.0-RC1,cas-server-core-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.2.0-RC2` // `org.apereo.cas,cas-server-core-tickets,6.2.0-RC2,cas-server-core-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.2.0-RC3` // `org.apereo.cas,cas-server-core-tickets,6.2.0-RC3,cas-server-core-tickets,-,automatic,-,false,-`
+- :cd: `cas-server-core-tickets` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets:6.2.0-RC4` // `org.apereo.cas,cas-server-core-tickets,6.2.0-RC4,cas-server-core-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.0.0` // `org.apereo.cas,cas-server-core-tickets-api,6.0.0,cas-server-core-tickets-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-tickets-api,6.0.0-RC1,cas-server-core-tickets-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-tickets-api,6.0.0-RC2,cas-server-core-tickets-api,-,automatic,-,false,-`
@@ -7781,6 +8109,7 @@
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-tickets-api,6.2.0-RC1,cas-server-core-tickets-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-tickets-api,6.2.0-RC2,cas-server-core-tickets-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-tickets-api,6.2.0-RC3,cas-server-core-tickets-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-tickets-api` :left_right_arrow: `org.apereo.cas:cas-server-core-tickets-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-tickets-api,6.2.0-RC4,cas-server-core-tickets-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.0.0` // `org.apereo.cas,cas-server-core-util,6.0.0,cas-server-core-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.0.0-RC1` // `org.apereo.cas,cas-server-core-util,6.0.0-RC1,cas-server-core-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.0.0-RC2` // `org.apereo.cas,cas-server-core-util,6.0.0-RC2,cas-server-core-util,-,automatic,-,false,-`
@@ -7799,6 +8128,7 @@
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.2.0-RC1` // `org.apereo.cas,cas-server-core-util,6.2.0-RC1,cas-server-core-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.2.0-RC2` // `org.apereo.cas,cas-server-core-util,6.2.0-RC2,cas-server-core-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.2.0-RC3` // `org.apereo.cas,cas-server-core-util,6.2.0-RC3,cas-server-core-util,-,automatic,-,false,-`
+- :cd: `cas-server-core-util` :left_right_arrow: `org.apereo.cas:cas-server-core-util:6.2.0-RC4` // `org.apereo.cas,cas-server-core-util,6.2.0-RC4,cas-server-core-util,-,automatic,-,false,-`
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.0.0` // `org.apereo.cas,cas-server-core-util-api,6.0.0,cas-server-core-util-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-util-api,6.0.0-RC1,cas-server-core-util-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-util-api,6.0.0-RC2,cas-server-core-util-api,-,automatic,-,false,-`
@@ -7817,6 +8147,7 @@
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-util-api,6.2.0-RC1,cas-server-core-util-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-util-api,6.2.0-RC2,cas-server-core-util-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-util-api,6.2.0-RC3,cas-server-core-util-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-util-api` :left_right_arrow: `org.apereo.cas:cas-server-core-util-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-util-api,6.2.0-RC4,cas-server-core-util-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.0.0` // `org.apereo.cas,cas-server-core-validation,6.0.0,cas-server-core-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.0.0-RC1` // `org.apereo.cas,cas-server-core-validation,6.0.0-RC1,cas-server-core-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.0.0-RC2` // `org.apereo.cas,cas-server-core-validation,6.0.0-RC2,cas-server-core-validation,-,automatic,-,false,-`
@@ -7835,6 +8166,7 @@
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.2.0-RC1` // `org.apereo.cas,cas-server-core-validation,6.2.0-RC1,cas-server-core-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.2.0-RC2` // `org.apereo.cas,cas-server-core-validation,6.2.0-RC2,cas-server-core-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.2.0-RC3` // `org.apereo.cas,cas-server-core-validation,6.2.0-RC3,cas-server-core-validation,-,automatic,-,false,-`
+- :cd: `cas-server-core-validation` :left_right_arrow: `org.apereo.cas:cas-server-core-validation:6.2.0-RC4` // `org.apereo.cas,cas-server-core-validation,6.2.0-RC4,cas-server-core-validation,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.0.0` // `org.apereo.cas,cas-server-core-validation-api,6.0.0,cas-server-core-validation-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-validation-api,6.0.0-RC1,cas-server-core-validation-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-validation-api,6.0.0-RC2,cas-server-core-validation-api,-,automatic,-,false,-`
@@ -7853,6 +8185,7 @@
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-validation-api,6.2.0-RC1,cas-server-core-validation-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-validation-api,6.2.0-RC2,cas-server-core-validation-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-validation-api,6.2.0-RC3,cas-server-core-validation-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-validation-api` :left_right_arrow: `org.apereo.cas:cas-server-core-validation-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-validation-api,6.2.0-RC4,cas-server-core-validation-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.0.0` // `org.apereo.cas,cas-server-core-web,6.0.0,cas-server-core-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.0.0-RC1` // `org.apereo.cas,cas-server-core-web,6.0.0-RC1,cas-server-core-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.0.0-RC2` // `org.apereo.cas,cas-server-core-web,6.0.0-RC2,cas-server-core-web,-,automatic,-,false,-`
@@ -7871,6 +8204,7 @@
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.2.0-RC1` // `org.apereo.cas,cas-server-core-web,6.2.0-RC1,cas-server-core-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.2.0-RC2` // `org.apereo.cas,cas-server-core-web,6.2.0-RC2,cas-server-core-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.2.0-RC3` // `org.apereo.cas,cas-server-core-web,6.2.0-RC3,cas-server-core-web,-,automatic,-,false,-`
+- :cd: `cas-server-core-web` :left_right_arrow: `org.apereo.cas:cas-server-core-web:6.2.0-RC4` // `org.apereo.cas,cas-server-core-web,6.2.0-RC4,cas-server-core-web,-,automatic,-,false,-`
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.0.0` // `org.apereo.cas,cas-server-core-web-api,6.0.0,cas-server-core-web-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-web-api,6.0.0-RC1,cas-server-core-web-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-web-api,6.0.0-RC2,cas-server-core-web-api,-,automatic,-,false,-`
@@ -7889,6 +8223,7 @@
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-web-api,6.2.0-RC1,cas-server-core-web-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-web-api,6.2.0-RC2,cas-server-core-web-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-web-api,6.2.0-RC3,cas-server-core-web-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-web-api` :left_right_arrow: `org.apereo.cas:cas-server-core-web-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-web-api,6.2.0-RC4,cas-server-core-web-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.0.0` // `org.apereo.cas,cas-server-core-webflow,6.0.0,cas-server-core-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-core-webflow,6.0.0-RC1,cas-server-core-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-core-webflow,6.0.0-RC2,cas-server-core-webflow,-,automatic,-,false,-`
@@ -7907,6 +8242,7 @@
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-core-webflow,6.2.0-RC1,cas-server-core-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-core-webflow,6.2.0-RC2,cas-server-core-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-core-webflow,6.2.0-RC3,cas-server-core-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-core-webflow` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-core-webflow,6.2.0-RC4,cas-server-core-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.0.0` // `org.apereo.cas,cas-server-core-webflow-api,6.0.0,cas-server-core-webflow-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.0.0-RC1` // `org.apereo.cas,cas-server-core-webflow-api,6.0.0-RC1,cas-server-core-webflow-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.0.0-RC2` // `org.apereo.cas,cas-server-core-webflow-api,6.0.0-RC2,cas-server-core-webflow-api,-,automatic,-,false,-`
@@ -7925,6 +8261,7 @@
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-webflow-api,6.2.0-RC1,cas-server-core-webflow-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-webflow-api,6.2.0-RC2,cas-server-core-webflow-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-webflow-api,6.2.0-RC3,cas-server-core-webflow-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-webflow-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-webflow-api,6.2.0-RC4,cas-server-core-webflow-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.0.0` // `org.apereo.cas,cas-server-core-webflow-mfa,6.0.0,cas-server-core-webflow-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.0.0-RC3` // `org.apereo.cas,cas-server-core-webflow-mfa,6.0.0-RC3,cas-server-core-webflow-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.0.0-RC4` // `org.apereo.cas,cas-server-core-webflow-mfa,6.0.0-RC4,cas-server-core-webflow-mfa,-,automatic,-,false,-`
@@ -7941,6 +8278,7 @@
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-core-webflow-mfa,6.2.0-RC1,cas-server-core-webflow-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-core-webflow-mfa,6.2.0-RC2,cas-server-core-webflow-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-core-webflow-mfa,6.2.0-RC3,cas-server-core-webflow-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-core-webflow-mfa` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-core-webflow-mfa,6.2.0-RC4,cas-server-core-webflow-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.0.0` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.0.0,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.0.0-RC3` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.0.0-RC3,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.0.0-RC4` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.0.0-RC4,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
@@ -7957,6 +8295,7 @@
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.2.0-RC1` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.2.0-RC1,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.2.0-RC2` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.2.0-RC2,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.2.0-RC3` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.2.0-RC3,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
+- :cd: `cas-server-core-webflow-mfa-api` :left_right_arrow: `org.apereo.cas:cas-server-core-webflow-mfa-api:6.2.0-RC4` // `org.apereo.cas,cas-server-core-webflow-mfa-api,6.2.0-RC4,cas-server-core-webflow-mfa-api,-,automatic,-,false,-`
 - :cd: `cas-server-documentation` :left_right_arrow: `org.apereo.cas:cas-server-documentation:6.0.0-RC1` // `org.apereo.cas,cas-server-documentation,6.0.0-RC1,cas-server-documentation,-,automatic,-,false,-`
 - :cd: `cas-server-documentation-swagger` :left_right_arrow: `org.apereo.cas:cas-server-documentation-swagger:6.0.0` // `org.apereo.cas,cas-server-documentation-swagger,6.0.0,cas-server-documentation-swagger,-,automatic,-,false,-`
 - :cd: `cas-server-documentation-swagger` :left_right_arrow: `org.apereo.cas:cas-server-documentation-swagger:6.0.0-RC1` // `org.apereo.cas,cas-server-documentation-swagger,6.0.0-RC1,cas-server-documentation-swagger,-,automatic,-,false,-`
@@ -7985,6 +8324,7 @@
 - :cd: `cas-server-support-acceptto-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-acceptto-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-acceptto-mfa,6.2.0-RC1,cas-server-support-acceptto-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-acceptto-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-acceptto-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-acceptto-mfa,6.2.0-RC2,cas-server-support-acceptto-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-acceptto-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-acceptto-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-acceptto-mfa,6.2.0-RC3,cas-server-support-acceptto-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-acceptto-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-acceptto-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-acceptto-mfa,6.2.0-RC4,cas-server-support-acceptto-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.0.0` // `org.apereo.cas,cas-server-support-actions,6.0.0,cas-server-support-actions,-,automatic,-,false,-`
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.0.0-RC1` // `org.apereo.cas,cas-server-support-actions,6.0.0-RC1,cas-server-support-actions,-,automatic,-,false,-`
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.0.0-RC2` // `org.apereo.cas,cas-server-support-actions,6.0.0-RC2,cas-server-support-actions,-,automatic,-,false,-`
@@ -8003,6 +8343,7 @@
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.2.0-RC1` // `org.apereo.cas,cas-server-support-actions,6.2.0-RC1,cas-server-support-actions,-,automatic,-,false,-`
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.2.0-RC2` // `org.apereo.cas,cas-server-support-actions,6.2.0-RC2,cas-server-support-actions,-,automatic,-,false,-`
 - :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.2.0-RC3` // `org.apereo.cas,cas-server-support-actions,6.2.0-RC3,cas-server-support-actions,-,automatic,-,false,-`
+- :cd: `cas-server-support-actions` :left_right_arrow: `org.apereo.cas:cas-server-support-actions:6.2.0-RC4` // `org.apereo.cas,cas-server-support-actions,6.2.0-RC4,cas-server-support-actions,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.0.0` // `org.apereo.cas,cas-server-support-audit-couchbase,6.0.0,cas-server-support-audit-couchbase,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.0.0-RC1` // `org.apereo.cas,cas-server-support-audit-couchbase,6.0.0-RC1,cas-server-support-audit-couchbase,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.0.0-RC2` // `org.apereo.cas,cas-server-support-audit-couchbase,6.0.0-RC2,cas-server-support-audit-couchbase,-,automatic,-,false,-`
@@ -8021,6 +8362,7 @@
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-couchbase,6.2.0-RC1,cas-server-support-audit-couchbase,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-couchbase,6.2.0-RC2,cas-server-support-audit-couchbase,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-couchbase,6.2.0-RC3,cas-server-support-audit-couchbase,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-couchbase` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchbase:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-couchbase,6.2.0-RC4,cas-server-support-audit-couchbase,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-audit-couchdb,6.0.0,cas-server-support-audit-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-audit-couchdb,6.0.0-RC3,cas-server-support-audit-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-audit-couchdb,6.0.0-RC4,cas-server-support-audit-couchdb,-,automatic,-,false,-`
@@ -8037,6 +8379,7 @@
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-couchdb,6.2.0-RC1,cas-server-support-audit-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-couchdb,6.2.0-RC2,cas-server-support-audit-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-couchdb,6.2.0-RC3,cas-server-support-audit-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-couchdb,6.2.0-RC4,cas-server-support-audit-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.1.0` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.1.0,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.1.0-RC4` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.1.0-RC4,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.1.0-RC5` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.1.0-RC5,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
@@ -8046,6 +8389,7 @@
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.2.0-RC1,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.2.0-RC2,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.2.0-RC3,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-dynamodb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-dynamodb,6.2.0-RC4,cas-server-support-audit-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-audit-jdbc,6.0.0,cas-server-support-audit-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-audit-jdbc,6.0.0-RC1,cas-server-support-audit-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-audit-jdbc,6.0.0-RC2,cas-server-support-audit-jdbc,-,automatic,-,false,-`
@@ -8064,6 +8408,7 @@
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-jdbc,6.2.0-RC1,cas-server-support-audit-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-jdbc,6.2.0-RC2,cas-server-support-audit-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-jdbc,6.2.0-RC3,cas-server-support-audit-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-jdbc,6.2.0-RC4,cas-server-support-audit-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.0.0` // `org.apereo.cas,cas-server-support-audit-mongo,6.0.0,cas-server-support-audit-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-audit-mongo,6.0.0-RC1,cas-server-support-audit-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-audit-mongo,6.0.0-RC2,cas-server-support-audit-mongo,-,automatic,-,false,-`
@@ -8082,6 +8427,7 @@
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-mongo,6.2.0-RC1,cas-server-support-audit-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-mongo,6.2.0-RC2,cas-server-support-audit-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-mongo,6.2.0-RC3,cas-server-support-audit-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-mongo,6.2.0-RC4,cas-server-support-audit-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.1.0` // `org.apereo.cas,cas-server-support-audit-redis,6.1.0,cas-server-support-audit-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.1.0-RC2` // `org.apereo.cas,cas-server-support-audit-redis,6.1.0-RC2,cas-server-support-audit-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.1.0-RC3` // `org.apereo.cas,cas-server-support-audit-redis,6.1.0-RC3,cas-server-support-audit-redis,-,automatic,-,false,-`
@@ -8093,6 +8439,7 @@
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-redis,6.2.0-RC1,cas-server-support-audit-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-redis,6.2.0-RC2,cas-server-support-audit-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-redis,6.2.0-RC3,cas-server-support-audit-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-redis,6.2.0-RC4,cas-server-support-audit-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.0.0` // `org.apereo.cas,cas-server-support-audit-rest,6.0.0,cas-server-support-audit-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-audit-rest,6.0.0-RC1,cas-server-support-audit-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-audit-rest,6.0.0-RC2,cas-server-support-audit-rest,-,automatic,-,false,-`
@@ -8111,6 +8458,7 @@
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-audit-rest,6.2.0-RC1,cas-server-support-audit-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-audit-rest,6.2.0-RC2,cas-server-support-audit-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-audit-rest,6.2.0-RC3,cas-server-support-audit-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-audit-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-audit-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-audit-rest,6.2.0-RC4,cas-server-support-audit-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.0.0` // `org.apereo.cas,cas-server-support-aup-core,6.0.0,cas-server-support-aup-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-core,6.0.0-RC1,cas-server-support-aup-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-core,6.0.0-RC2,cas-server-support-aup-core,-,automatic,-,false,-`
@@ -8129,6 +8477,7 @@
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-core,6.2.0-RC1,cas-server-support-aup-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-core,6.2.0-RC2,cas-server-support-aup-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-core,6.2.0-RC3,cas-server-support-aup-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-core` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-core,6.2.0-RC4,cas-server-support-aup-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-aup-couchdb,6.0.0,cas-server-support-aup-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-aup-couchdb,6.0.0-RC3,cas-server-support-aup-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-aup-couchdb,6.0.0-RC4,cas-server-support-aup-couchdb,-,automatic,-,false,-`
@@ -8145,6 +8494,7 @@
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-couchdb,6.2.0-RC1,cas-server-support-aup-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-couchdb,6.2.0-RC2,cas-server-support-aup-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-couchdb,6.2.0-RC3,cas-server-support-aup-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-couchdb,6.2.0-RC4,cas-server-support-aup-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-aup-jdbc,6.0.0,cas-server-support-aup-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-jdbc,6.0.0-RC1,cas-server-support-aup-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-jdbc,6.0.0-RC2,cas-server-support-aup-jdbc,-,automatic,-,false,-`
@@ -8163,6 +8513,7 @@
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-jdbc,6.2.0-RC1,cas-server-support-aup-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-jdbc,6.2.0-RC2,cas-server-support-aup-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-jdbc,6.2.0-RC3,cas-server-support-aup-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-jdbc,6.2.0-RC4,cas-server-support-aup-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.0.0` // `org.apereo.cas,cas-server-support-aup-ldap,6.0.0,cas-server-support-aup-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-ldap,6.0.0-RC1,cas-server-support-aup-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-ldap,6.0.0-RC2,cas-server-support-aup-ldap,-,automatic,-,false,-`
@@ -8181,6 +8532,7 @@
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-ldap,6.2.0-RC1,cas-server-support-aup-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-ldap,6.2.0-RC2,cas-server-support-aup-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-ldap,6.2.0-RC3,cas-server-support-aup-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-ldap,6.2.0-RC4,cas-server-support-aup-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.0.0` // `org.apereo.cas,cas-server-support-aup-mongo,6.0.0,cas-server-support-aup-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-mongo,6.0.0-RC1,cas-server-support-aup-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-mongo,6.0.0-RC2,cas-server-support-aup-mongo,-,automatic,-,false,-`
@@ -8199,6 +8551,7 @@
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-mongo,6.2.0-RC1,cas-server-support-aup-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-mongo,6.2.0-RC2,cas-server-support-aup-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-mongo,6.2.0-RC3,cas-server-support-aup-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-mongo,6.2.0-RC4,cas-server-support-aup-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.1.0` // `org.apereo.cas,cas-server-support-aup-redis,6.1.0,cas-server-support-aup-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.1.0-RC5` // `org.apereo.cas,cas-server-support-aup-redis,6.1.0-RC5,cas-server-support-aup-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.1.0-RC6` // `org.apereo.cas,cas-server-support-aup-redis,6.1.0-RC6,cas-server-support-aup-redis,-,automatic,-,false,-`
@@ -8207,6 +8560,7 @@
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-redis,6.2.0-RC1,cas-server-support-aup-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-redis,6.2.0-RC2,cas-server-support-aup-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-redis,6.2.0-RC3,cas-server-support-aup-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-redis,6.2.0-RC4,cas-server-support-aup-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.0.0` // `org.apereo.cas,cas-server-support-aup-rest,6.0.0,cas-server-support-aup-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-rest,6.0.0-RC1,cas-server-support-aup-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-rest,6.0.0-RC2,cas-server-support-aup-rest,-,automatic,-,false,-`
@@ -8225,6 +8579,7 @@
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-rest,6.2.0-RC1,cas-server-support-aup-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-rest,6.2.0-RC2,cas-server-support-aup-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-rest,6.2.0-RC3,cas-server-support-aup-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-rest,6.2.0-RC4,cas-server-support-aup-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.0.0` // `org.apereo.cas,cas-server-support-aup-webflow,6.0.0,cas-server-support-aup-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aup-webflow,6.0.0-RC1,cas-server-support-aup-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aup-webflow,6.0.0-RC2,cas-server-support-aup-webflow,-,automatic,-,false,-`
@@ -8243,6 +8598,7 @@
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aup-webflow,6.2.0-RC1,cas-server-support-aup-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aup-webflow,6.2.0-RC2,cas-server-support-aup-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aup-webflow,6.2.0-RC3,cas-server-support-aup-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-aup-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-aup-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aup-webflow,6.2.0-RC4,cas-server-support-aup-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.0.0` // `org.apereo.cas,cas-server-support-authy,6.0.0,cas-server-support-authy,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.0.0-RC1` // `org.apereo.cas,cas-server-support-authy,6.0.0-RC1,cas-server-support-authy,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.0.0-RC2` // `org.apereo.cas,cas-server-support-authy,6.0.0-RC2,cas-server-support-authy,-,automatic,-,false,-`
@@ -8261,6 +8617,7 @@
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.2.0-RC1` // `org.apereo.cas,cas-server-support-authy,6.2.0-RC1,cas-server-support-authy,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.2.0-RC2` // `org.apereo.cas,cas-server-support-authy,6.2.0-RC2,cas-server-support-authy,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.2.0-RC3` // `org.apereo.cas,cas-server-support-authy,6.2.0-RC3,cas-server-support-authy,-,automatic,-,false,-`
+- :cd: `cas-server-support-authy` :left_right_arrow: `org.apereo.cas:cas-server-support-authy:6.2.0-RC4` // `org.apereo.cas,cas-server-support-authy,6.2.0-RC4,cas-server-support-authy,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.0.0` // `org.apereo.cas,cas-server-support-authy-core,6.0.0,cas-server-support-authy-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-authy-core,6.0.0-RC1,cas-server-support-authy-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-authy-core,6.0.0-RC2,cas-server-support-authy-core,-,automatic,-,false,-`
@@ -8279,6 +8636,7 @@
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-authy-core,6.2.0-RC1,cas-server-support-authy-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-authy-core,6.2.0-RC2,cas-server-support-authy-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-authy-core,6.2.0-RC3,cas-server-support-authy-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-authy-core` :left_right_arrow: `org.apereo.cas:cas-server-support-authy-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-authy-core,6.2.0-RC4,cas-server-support-authy-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.0.0` // `org.apereo.cas,cas-server-support-aws,6.0.0,cas-server-support-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.0.0-RC1` // `org.apereo.cas,cas-server-support-aws,6.0.0-RC1,cas-server-support-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.0.0-RC2` // `org.apereo.cas,cas-server-support-aws,6.0.0-RC2,cas-server-support-aws,-,automatic,-,false,-`
@@ -8297,6 +8655,7 @@
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aws,6.2.0-RC1,cas-server-support-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aws,6.2.0-RC2,cas-server-support-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aws,6.2.0-RC3,cas-server-support-aws,-,automatic,-,false,-`
+- :cd: `cas-server-support-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-aws:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aws,6.2.0-RC4,cas-server-support-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.0.0` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.0.0,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.0.0-RC4` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.0.0-RC4,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.0.1` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.0.1,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
@@ -8312,8 +8671,10 @@
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.2.0-RC1,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.2.0-RC2,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.2.0-RC3,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-aws-cognito-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-aws-cognito-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-aws-cognito-authentication,6.2.0-RC4,cas-server-support-aws-cognito-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-azuread-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-azuread-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-azuread-authentication,6.2.0-RC2,cas-server-support-azuread-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-azuread-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-azuread-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-azuread-authentication,6.2.0-RC3,cas-server-support-azuread-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-azuread-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-azuread-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-azuread-authentication,6.2.0-RC4,cas-server-support-azuread-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.0.0` // `org.apereo.cas,cas-server-support-basic,6.0.0,cas-server-support-basic,-,automatic,-,false,-`
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.0.0-RC1` // `org.apereo.cas,cas-server-support-basic,6.0.0-RC1,cas-server-support-basic,-,automatic,-,false,-`
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.0.0-RC2` // `org.apereo.cas,cas-server-support-basic,6.0.0-RC2,cas-server-support-basic,-,automatic,-,false,-`
@@ -8332,6 +8693,7 @@
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.2.0-RC1` // `org.apereo.cas,cas-server-support-basic,6.2.0-RC1,cas-server-support-basic,-,automatic,-,false,-`
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.2.0-RC2` // `org.apereo.cas,cas-server-support-basic,6.2.0-RC2,cas-server-support-basic,-,automatic,-,false,-`
 - :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.2.0-RC3` // `org.apereo.cas,cas-server-support-basic,6.2.0-RC3,cas-server-support-basic,-,automatic,-,false,-`
+- :cd: `cas-server-support-basic` :left_right_arrow: `org.apereo.cas:cas-server-support-basic:6.2.0-RC4` // `org.apereo.cas,cas-server-support-basic,6.2.0-RC4,cas-server-support-basic,-,automatic,-,false,-`
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.0.0` // `org.apereo.cas,cas-server-support-bom,6.0.0,cas-server-support-bom,-,automatic,-,false,-`
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.0.0-RC1` // `org.apereo.cas,cas-server-support-bom,6.0.0-RC1,cas-server-support-bom,-,automatic,-,false,-`
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.0.0-RC2` // `org.apereo.cas,cas-server-support-bom,6.0.0-RC2,cas-server-support-bom,-,automatic,-,false,-`
@@ -8350,6 +8712,7 @@
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.2.0-RC1` // `org.apereo.cas,cas-server-support-bom,6.2.0-RC1,cas-server-support-bom,-,automatic,-,false,-`
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.2.0-RC2` // `org.apereo.cas,cas-server-support-bom,6.2.0-RC2,cas-server-support-bom,-,automatic,-,false,-`
 - :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.2.0-RC3` // `org.apereo.cas,cas-server-support-bom,6.2.0-RC3,cas-server-support-bom,-,automatic,-,false,-`
+- :cd: `cas-server-support-bom` :left_right_arrow: `org.apereo.cas:cas-server-support-bom:6.2.0-RC4` // `org.apereo.cas,cas-server-support-bom,6.2.0-RC4,cas-server-support-bom,-,automatic,-,false,-`
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.0.0` // `org.apereo.cas,cas-server-support-bootadmin-client,6.0.0,cas-server-support-bootadmin-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.0.0-RC1` // `org.apereo.cas,cas-server-support-bootadmin-client,6.0.0-RC1,cas-server-support-bootadmin-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.0.0-RC2` // `org.apereo.cas,cas-server-support-bootadmin-client,6.0.0-RC2,cas-server-support-bootadmin-client,-,automatic,-,false,-`
@@ -8368,6 +8731,7 @@
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.2.0-RC1` // `org.apereo.cas,cas-server-support-bootadmin-client,6.2.0-RC1,cas-server-support-bootadmin-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.2.0-RC2` // `org.apereo.cas,cas-server-support-bootadmin-client,6.2.0-RC2,cas-server-support-bootadmin-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.2.0-RC3` // `org.apereo.cas,cas-server-support-bootadmin-client,6.2.0-RC3,cas-server-support-bootadmin-client,-,automatic,-,false,-`
+- :cd: `cas-server-support-bootadmin-client` :left_right_arrow: `org.apereo.cas:cas-server-support-bootadmin-client:6.2.0-RC4` // `org.apereo.cas,cas-server-support-bootadmin-client,6.2.0-RC4,cas-server-support-bootadmin-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.0.0` // `org.apereo.cas,cas-server-support-captcha,6.0.0,cas-server-support-captcha,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.0.0-RC1` // `org.apereo.cas,cas-server-support-captcha,6.0.0-RC1,cas-server-support-captcha,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.0.0-RC2` // `org.apereo.cas,cas-server-support-captcha,6.0.0-RC2,cas-server-support-captcha,-,automatic,-,false,-`
@@ -8386,8 +8750,10 @@
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.2.0-RC1` // `org.apereo.cas,cas-server-support-captcha,6.2.0-RC1,cas-server-support-captcha,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.2.0-RC2` // `org.apereo.cas,cas-server-support-captcha,6.2.0-RC2,cas-server-support-captcha,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.2.0-RC3` // `org.apereo.cas,cas-server-support-captcha,6.2.0-RC3,cas-server-support-captcha,-,automatic,-,false,-`
+- :cd: `cas-server-support-captcha` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha:6.2.0-RC4` // `org.apereo.cas,cas-server-support-captcha,6.2.0-RC4,cas-server-support-captcha,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha-core` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-captcha-core,6.2.0-RC2,cas-server-support-captcha-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-captcha-core` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-captcha-core,6.2.0-RC3,cas-server-support-captcha-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-captcha-core` :left_right_arrow: `org.apereo.cas:cas-server-support-captcha-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-captcha-core,6.2.0-RC4,cas-server-support-captcha-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.0.0` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.0.0,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.0.0-RC1,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.0.0-RC2,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
@@ -8406,6 +8772,7 @@
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.2.0-RC1,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.2.0-RC2,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.2.0-RC3,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-cassandra-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cassandra-authentication,6.2.0-RC4,cas-server-support-cassandra-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.0.0` // `org.apereo.cas,cas-server-support-cassandra-core,6.0.0,cas-server-support-cassandra-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-core,6.0.0-RC1,cas-server-support-cassandra-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-core,6.0.0-RC2,cas-server-support-cassandra-core,-,automatic,-,false,-`
@@ -8424,6 +8791,7 @@
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-core,6.2.0-RC1,cas-server-support-cassandra-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-core,6.2.0-RC2,cas-server-support-cassandra-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-core,6.2.0-RC3,cas-server-support-cassandra-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-cassandra-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cassandra-core,6.2.0-RC4,cas-server-support-cassandra-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.1.0` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.1.0,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.1.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.1.0-RC2,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.1.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.1.0-RC3,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
@@ -8435,6 +8803,7 @@
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.2.0-RC1,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.2.0-RC2,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.2.0-RC3,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-cassandra-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cassandra-service-registry,6.2.0-RC4,cas-server-support-cassandra-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.1.0` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.1.0,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.1.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.1.0-RC2,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.1.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.1.0-RC3,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
@@ -8446,6 +8815,7 @@
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.2.0-RC1,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.2.0-RC2,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.2.0-RC3,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-cassandra-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cassandra-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cassandra-ticket-registry,6.2.0-RC4,cas-server-support-cassandra-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.0.0` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.0.0,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.0.0-RC1,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.0.0-RC2,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
@@ -8464,6 +8834,7 @@
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.2.0-RC1,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.2.0-RC2,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.2.0-RC3,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-cloud-directory-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-cloud-directory-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cloud-directory-authentication,6.2.0-RC4,cas-server-support-cloud-directory-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration,6.0.0-RC1,cas-server-support-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration,6.0.0-RC2,cas-server-support-configuration,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration:6.0.0-RC3` // `org.apereo.cas,cas-server-support-configuration,6.0.0-RC3,cas-server-support-configuration,-,automatic,-,false,-`
@@ -8485,6 +8856,7 @@
 - :cd: `cas-server-support-configuration-cloud-amqp` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-amqp:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-amqp,6.2.0-RC1,cas-server-support-configuration-cloud-amqp,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-amqp` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-amqp:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-amqp,6.2.0-RC2,cas-server-support-configuration-cloud-amqp,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-amqp` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-amqp:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-amqp,6.2.0-RC3,cas-server-support-configuration-cloud-amqp,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-amqp` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-amqp:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-amqp,6.2.0-RC4,cas-server-support-configuration-cloud-amqp,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.0.0,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.0.0-RC1,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.0.0-RC2,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
@@ -8503,6 +8875,7 @@
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.2.0-RC1,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.2.0-RC2,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.2.0-RC3,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-s3:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-s3,6.2.0-RC4,cas-server-support-configuration-cloud-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.0.0,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.0.0-RC1,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.0.0-RC2,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
@@ -8521,7 +8894,9 @@
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.2.0-RC1,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.2.0-RC2,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.2.0-RC3,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-aws-secretsmanager` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-secretsmanager:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-secretsmanager,6.2.0-RC4,cas-server-support-configuration-cloud-aws-secretsmanager,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-aws-ssm` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-ssm:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-ssm,6.2.0-RC3,cas-server-support-configuration-cloud-aws-ssm,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-aws-ssm` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-aws-ssm:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-aws-ssm,6.2.0-RC4,cas-server-support-configuration-cloud-aws-ssm,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.0.0,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.0.0-RC1,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.0.0-RC2,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
@@ -8540,6 +8915,7 @@
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.2.0-RC1,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.2.0-RC2,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.2.0-RC3,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-azure-keyvault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-azure-keyvault:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-azure-keyvault,6.2.0-RC4,cas-server-support-configuration-cloud-azure-keyvault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.0.0,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.0.0-RC1,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.0.0-RC2,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
@@ -8558,6 +8934,7 @@
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.2.0-RC1,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.2.0-RC2,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.2.0-RC3,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-dynamodb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-dynamodb,6.2.0-RC4,cas-server-support-configuration-cloud-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.0.0,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.0.0-RC1,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.0.0-RC2,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
@@ -8576,6 +8953,7 @@
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.2.0-RC1,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.2.0-RC2,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.2.0-RC3,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-jdbc,6.2.0-RC4,cas-server-support-configuration-cloud-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.0.0,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.0.0-RC1,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.0.0-RC2,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
@@ -8594,6 +8972,7 @@
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.2.0-RC1,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.2.0-RC2,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.2.0-RC3,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-kafka` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-kafka:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-kafka,6.2.0-RC4,cas-server-support-configuration-cloud-kafka,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.0.0,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.0.0-RC1,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.0.0-RC2,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
@@ -8612,7 +8991,9 @@
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.2.0-RC1,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.2.0-RC2,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.2.0-RC3,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-mongo,6.2.0-RC4,cas-server-support-configuration-cloud-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-rest,6.2.0-RC3,cas-server-support-configuration-cloud-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-rest,6.2.0-RC4,cas-server-support-configuration-cloud-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.0.0,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.0.0-RC1,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.0.0-RC2,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
@@ -8631,6 +9012,7 @@
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.2.0-RC1,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.2.0-RC2,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.2.0-RC3,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-vault` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-vault:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-vault,6.2.0-RC4,cas-server-support-configuration-cloud-vault,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.0.0` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.0.0,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.0.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.0.0-RC1,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.0.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.0.0-RC2,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
@@ -8649,6 +9031,7 @@
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.2.0-RC1` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.2.0-RC1,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.2.0-RC2` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.2.0-RC2,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
 - :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.2.0-RC3` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.2.0-RC3,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
+- :cd: `cas-server-support-configuration-cloud-zookeeper` :left_right_arrow: `org.apereo.cas:cas-server-support-configuration-cloud-zookeeper:6.2.0-RC4` // `org.apereo.cas,cas-server-support-configuration-cloud-zookeeper,6.2.0-RC4,cas-server-support-configuration-cloud-zookeeper,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.0.0` // `org.apereo.cas,cas-server-support-consent-api,6.0.0,cas-server-support-consent-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-api,6.0.0-RC1,cas-server-support-consent-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-api,6.0.0-RC2,cas-server-support-consent-api,-,automatic,-,false,-`
@@ -8667,6 +9050,7 @@
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-api,6.2.0-RC1,cas-server-support-consent-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-api,6.2.0-RC2,cas-server-support-consent-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-api,6.2.0-RC3,cas-server-support-consent-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-api` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-api,6.2.0-RC4,cas-server-support-consent-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.0.0` // `org.apereo.cas,cas-server-support-consent-core,6.0.0,cas-server-support-consent-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-core,6.0.0-RC1,cas-server-support-consent-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-core,6.0.0-RC2,cas-server-support-consent-core,-,automatic,-,false,-`
@@ -8685,6 +9069,7 @@
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-core,6.2.0-RC1,cas-server-support-consent-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-core,6.2.0-RC2,cas-server-support-consent-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-core,6.2.0-RC3,cas-server-support-consent-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-core` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-core,6.2.0-RC4,cas-server-support-consent-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-consent-couchdb,6.0.0,cas-server-support-consent-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-consent-couchdb,6.0.0-RC3,cas-server-support-consent-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-consent-couchdb,6.0.0-RC4,cas-server-support-consent-couchdb,-,automatic,-,false,-`
@@ -8701,6 +9086,7 @@
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-couchdb,6.2.0-RC1,cas-server-support-consent-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-couchdb,6.2.0-RC2,cas-server-support-consent-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-couchdb,6.2.0-RC3,cas-server-support-consent-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-couchdb,6.2.0-RC4,cas-server-support-consent-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-consent-jdbc,6.0.0,cas-server-support-consent-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-jdbc,6.0.0-RC1,cas-server-support-consent-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-jdbc,6.0.0-RC2,cas-server-support-consent-jdbc,-,automatic,-,false,-`
@@ -8719,6 +9105,7 @@
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-jdbc,6.2.0-RC1,cas-server-support-consent-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-jdbc,6.2.0-RC2,cas-server-support-consent-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-jdbc,6.2.0-RC3,cas-server-support-consent-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-jdbc,6.2.0-RC4,cas-server-support-consent-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.0.0` // `org.apereo.cas,cas-server-support-consent-ldap,6.0.0,cas-server-support-consent-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-ldap,6.0.0-RC1,cas-server-support-consent-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-ldap,6.0.0-RC2,cas-server-support-consent-ldap,-,automatic,-,false,-`
@@ -8737,6 +9124,7 @@
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-ldap,6.2.0-RC1,cas-server-support-consent-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-ldap,6.2.0-RC2,cas-server-support-consent-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-ldap,6.2.0-RC3,cas-server-support-consent-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-ldap,6.2.0-RC4,cas-server-support-consent-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.0.0` // `org.apereo.cas,cas-server-support-consent-mongo,6.0.0,cas-server-support-consent-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-mongo,6.0.0-RC1,cas-server-support-consent-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-mongo,6.0.0-RC2,cas-server-support-consent-mongo,-,automatic,-,false,-`
@@ -8755,6 +9143,7 @@
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-mongo,6.2.0-RC1,cas-server-support-consent-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-mongo,6.2.0-RC2,cas-server-support-consent-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-mongo,6.2.0-RC3,cas-server-support-consent-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-mongo,6.2.0-RC4,cas-server-support-consent-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.1.0` // `org.apereo.cas,cas-server-support-consent-redis,6.1.0,cas-server-support-consent-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.1.0-RC5` // `org.apereo.cas,cas-server-support-consent-redis,6.1.0-RC5,cas-server-support-consent-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.1.0-RC6` // `org.apereo.cas,cas-server-support-consent-redis,6.1.0-RC6,cas-server-support-consent-redis,-,automatic,-,false,-`
@@ -8763,6 +9152,7 @@
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-redis,6.2.0-RC1,cas-server-support-consent-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-redis,6.2.0-RC2,cas-server-support-consent-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-redis,6.2.0-RC3,cas-server-support-consent-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-redis,6.2.0-RC4,cas-server-support-consent-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.0.0` // `org.apereo.cas,cas-server-support-consent-rest,6.0.0,cas-server-support-consent-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-rest,6.0.0-RC1,cas-server-support-consent-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-rest,6.0.0-RC2,cas-server-support-consent-rest,-,automatic,-,false,-`
@@ -8781,6 +9171,7 @@
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-rest,6.2.0-RC1,cas-server-support-consent-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-rest,6.2.0-RC2,cas-server-support-consent-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-rest,6.2.0-RC3,cas-server-support-consent-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-rest,6.2.0-RC4,cas-server-support-consent-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.0.0` // `org.apereo.cas,cas-server-support-consent-webflow,6.0.0,cas-server-support-consent-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consent-webflow,6.0.0-RC1,cas-server-support-consent-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consent-webflow,6.0.0-RC2,cas-server-support-consent-webflow,-,automatic,-,false,-`
@@ -8799,6 +9190,7 @@
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consent-webflow,6.2.0-RC1,cas-server-support-consent-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consent-webflow,6.2.0-RC2,cas-server-support-consent-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consent-webflow,6.2.0-RC3,cas-server-support-consent-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-consent-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-consent-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consent-webflow,6.2.0-RC4,cas-server-support-consent-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.0.0` // `org.apereo.cas,cas-server-support-consul-client,6.0.0,cas-server-support-consul-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.0.0-RC1` // `org.apereo.cas,cas-server-support-consul-client,6.0.0-RC1,cas-server-support-consul-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.0.0-RC2` // `org.apereo.cas,cas-server-support-consul-client,6.0.0-RC2,cas-server-support-consul-client,-,automatic,-,false,-`
@@ -8817,6 +9209,7 @@
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.2.0-RC1` // `org.apereo.cas,cas-server-support-consul-client,6.2.0-RC1,cas-server-support-consul-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.2.0-RC2` // `org.apereo.cas,cas-server-support-consul-client,6.2.0-RC2,cas-server-support-consul-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.2.0-RC3` // `org.apereo.cas,cas-server-support-consul-client,6.2.0-RC3,cas-server-support-consul-client,-,automatic,-,false,-`
+- :cd: `cas-server-support-consul-client` :left_right_arrow: `org.apereo.cas:cas-server-support-consul-client:6.2.0-RC4` // `org.apereo.cas,cas-server-support-consul-client,6.2.0-RC4,cas-server-support-consul-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.0.0` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.0.0,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.0.0-RC1,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.0.0-RC2,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
@@ -8835,6 +9228,7 @@
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.2.0-RC1,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.2.0-RC2,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.2.0-RC3,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-cosmosdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cosmosdb-core,6.2.0-RC4,cas-server-support-cosmosdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.0.0,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.0.0-RC1,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.0.0-RC2,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
@@ -8853,6 +9247,7 @@
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.2.0-RC1,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.2.0-RC2,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.2.0-RC3,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-cosmosdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-cosmosdb-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-cosmosdb-service-registry,6.2.0-RC4,cas-server-support-cosmosdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.0.0` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.0.0,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.0.0-RC1,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.0.0-RC2,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
@@ -8871,6 +9266,7 @@
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.2.0-RC1,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.2.0-RC2,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.2.0-RC3,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchbase-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchbase-authentication,6.2.0-RC4,cas-server-support-couchbase-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.0.0` // `org.apereo.cas,cas-server-support-couchbase-core,6.0.0,cas-server-support-couchbase-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-core,6.0.0-RC1,cas-server-support-couchbase-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-core,6.0.0-RC2,cas-server-support-couchbase-core,-,automatic,-,false,-`
@@ -8889,6 +9285,7 @@
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-core,6.2.0-RC1,cas-server-support-couchbase-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-core,6.2.0-RC2,cas-server-support-couchbase-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchbase-core,6.2.0-RC3,cas-server-support-couchbase-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchbase-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchbase-core,6.2.0-RC4,cas-server-support-couchbase-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.0.0,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.0.0-RC1,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.0.0-RC2,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
@@ -8907,6 +9304,7 @@
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.2.0-RC1,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.2.0-RC2,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.2.0-RC3,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchbase-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchbase-service-registry,6.2.0-RC4,cas-server-support-couchbase-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.0.0,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.0.0-RC1,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.0.0-RC2,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
@@ -8925,6 +9323,7 @@
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.2.0-RC1,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.2.0-RC2,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.2.0-RC3,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchbase-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchbase-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchbase-ticket-registry,6.2.0-RC4,cas-server-support-couchbase-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.0.0` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.0.0,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.0.0-RC3` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.0.0-RC3,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.0.0-RC4` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.0.0-RC4,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
@@ -8941,6 +9340,7 @@
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.2.0-RC1,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.2.0-RC2,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.2.0-RC3,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchdb-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchdb-authentication,6.2.0-RC4,cas-server-support-couchdb-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.0.0` // `org.apereo.cas,cas-server-support-couchdb-core,6.0.0,cas-server-support-couchdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-core,6.0.0-RC1,cas-server-support-couchdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-core,6.0.0-RC2,cas-server-support-couchdb-core,-,automatic,-,false,-`
@@ -8959,6 +9359,7 @@
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-core,6.2.0-RC1,cas-server-support-couchdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-core,6.2.0-RC2,cas-server-support-couchdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchdb-core,6.2.0-RC3,cas-server-support-couchdb-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchdb-core,6.2.0-RC4,cas-server-support-couchdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.0.0,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.0.0-RC1,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.0.0-RC2,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
@@ -8977,6 +9378,7 @@
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.2.0-RC1,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.2.0-RC2,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.2.0-RC3,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchdb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchdb-service-registry,6.2.0-RC4,cas-server-support-couchdb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.0.0,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.0.0-RC1,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.0.0-RC2,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
@@ -8995,6 +9397,7 @@
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.2.0-RC1,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.2.0-RC2,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.2.0-RC3,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-couchdb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-couchdb-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-couchdb-ticket-registry,6.2.0-RC4,cas-server-support-couchdb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.0.0` // `org.apereo.cas,cas-server-support-digest-authentication,6.0.0,cas-server-support-digest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-digest-authentication,6.0.0-RC1,cas-server-support-digest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-digest-authentication,6.0.0-RC2,cas-server-support-digest-authentication,-,automatic,-,false,-`
@@ -9013,6 +9416,7 @@
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-digest-authentication,6.2.0-RC1,cas-server-support-digest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-digest-authentication,6.2.0-RC2,cas-server-support-digest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-digest-authentication,6.2.0-RC3,cas-server-support-digest-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-digest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-digest-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-digest-authentication,6.2.0-RC4,cas-server-support-digest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.0.0` // `org.apereo.cas,cas-server-support-discovery-profile,6.0.0,cas-server-support-discovery-profile,-,automatic,-,false,-`
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.0.0-RC1` // `org.apereo.cas,cas-server-support-discovery-profile,6.0.0-RC1,cas-server-support-discovery-profile,-,automatic,-,false,-`
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.0.0-RC2` // `org.apereo.cas,cas-server-support-discovery-profile,6.0.0-RC2,cas-server-support-discovery-profile,-,automatic,-,false,-`
@@ -9031,6 +9435,7 @@
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.2.0-RC1` // `org.apereo.cas,cas-server-support-discovery-profile,6.2.0-RC1,cas-server-support-discovery-profile,-,automatic,-,false,-`
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.2.0-RC2` // `org.apereo.cas,cas-server-support-discovery-profile,6.2.0-RC2,cas-server-support-discovery-profile,-,automatic,-,false,-`
 - :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.2.0-RC3` // `org.apereo.cas,cas-server-support-discovery-profile,6.2.0-RC3,cas-server-support-discovery-profile,-,automatic,-,false,-`
+- :cd: `cas-server-support-discovery-profile` :left_right_arrow: `org.apereo.cas:cas-server-support-discovery-profile:6.2.0-RC4` // `org.apereo.cas,cas-server-support-discovery-profile,6.2.0-RC4,cas-server-support-discovery-profile,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.0.0` // `org.apereo.cas,cas-server-support-duo,6.0.0,cas-server-support-duo,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-duo,6.0.0-RC1,cas-server-support-duo,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-duo,6.0.0-RC2,cas-server-support-duo,-,automatic,-,false,-`
@@ -9049,6 +9454,7 @@
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-duo,6.2.0-RC1,cas-server-support-duo,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-duo,6.2.0-RC2,cas-server-support-duo,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-duo,6.2.0-RC3,cas-server-support-duo,-,automatic,-,false,-`
+- :cd: `cas-server-support-duo` :left_right_arrow: `org.apereo.cas:cas-server-support-duo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-duo,6.2.0-RC4,cas-server-support-duo,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.0.0` // `org.apereo.cas,cas-server-support-duo-core,6.0.0,cas-server-support-duo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-duo-core,6.0.0-RC1,cas-server-support-duo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-duo-core,6.0.0-RC2,cas-server-support-duo-core,-,automatic,-,false,-`
@@ -9067,6 +9473,7 @@
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-duo-core,6.2.0-RC1,cas-server-support-duo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-duo-core,6.2.0-RC2,cas-server-support-duo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-duo-core,6.2.0-RC3,cas-server-support-duo-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-duo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-duo-core,6.2.0-RC4,cas-server-support-duo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.0.0` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.0.0,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.0.0-RC1,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.0.0-RC2,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
@@ -9085,6 +9492,7 @@
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.2.0-RC1,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.2.0-RC2,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.2.0-RC3,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-duo-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-duo-core-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-duo-core-mfa,6.2.0-RC4,cas-server-support-duo-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.0.0` // `org.apereo.cas,cas-server-support-dynamodb-core,6.0.0,cas-server-support-dynamodb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-core,6.0.0-RC1,cas-server-support-dynamodb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-core,6.0.0-RC2,cas-server-support-dynamodb-core,-,automatic,-,false,-`
@@ -9103,6 +9511,7 @@
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-core,6.2.0-RC1,cas-server-support-dynamodb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-core,6.2.0-RC2,cas-server-support-dynamodb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-dynamodb-core,6.2.0-RC3,cas-server-support-dynamodb-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-dynamodb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-dynamodb-core,6.2.0-RC4,cas-server-support-dynamodb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.0.0,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.0.0-RC1,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.0.0-RC2,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
@@ -9121,6 +9530,7 @@
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.2.0-RC1,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.2.0-RC2,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.2.0-RC3,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-dynamodb-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-dynamodb-service-registry,6.2.0-RC4,cas-server-support-dynamodb-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.0.0,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.0.0-RC1,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.0.0-RC2,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
@@ -9139,6 +9549,7 @@
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.2.0-RC1,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.2.0-RC2,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.2.0-RC3,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-dynamodb-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-dynamodb-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-dynamodb-ticket-registry,6.2.0-RC4,cas-server-support-dynamodb-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.0.0` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.0.0,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.0.0-RC1,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.0.0-RC2,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
@@ -9157,6 +9568,7 @@
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.2.0-RC1,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.2.0-RC2,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.2.0-RC3,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-ehcache-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ehcache-monitor,6.2.0-RC4,cas-server-support-ehcache-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.0.0,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.0.0-RC1,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.0.0-RC2,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
@@ -9175,8 +9587,10 @@
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.2.0-RC1,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.2.0-RC2,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.2.0-RC3,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-ehcache-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ehcache-ticket-registry,6.2.0-RC4,cas-server-support-ehcache-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache3-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache3-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ehcache3-ticket-registry,6.2.0-RC2,cas-server-support-ehcache3-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ehcache3-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache3-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ehcache3-ticket-registry,6.2.0-RC3,cas-server-support-ehcache3-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-ehcache3-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ehcache3-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ehcache3-ticket-registry,6.2.0-RC4,cas-server-support-ehcache3-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.0.0` // `org.apereo.cas,cas-server-support-electrofence,6.0.0,cas-server-support-electrofence,-,automatic,-,false,-`
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.0.0-RC1` // `org.apereo.cas,cas-server-support-electrofence,6.0.0-RC1,cas-server-support-electrofence,-,automatic,-,false,-`
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.0.0-RC2` // `org.apereo.cas,cas-server-support-electrofence,6.0.0-RC2,cas-server-support-electrofence,-,automatic,-,false,-`
@@ -9195,6 +9609,7 @@
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.2.0-RC1` // `org.apereo.cas,cas-server-support-electrofence,6.2.0-RC1,cas-server-support-electrofence,-,automatic,-,false,-`
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.2.0-RC2` // `org.apereo.cas,cas-server-support-electrofence,6.2.0-RC2,cas-server-support-electrofence,-,automatic,-,false,-`
 - :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.2.0-RC3` // `org.apereo.cas,cas-server-support-electrofence,6.2.0-RC3,cas-server-support-electrofence,-,automatic,-,false,-`
+- :cd: `cas-server-support-electrofence` :left_right_arrow: `org.apereo.cas:cas-server-support-electrofence:6.2.0-RC4` // `org.apereo.cas,cas-server-support-electrofence,6.2.0-RC4,cas-server-support-electrofence,-,automatic,-,false,-`
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.0.0` // `org.apereo.cas,cas-server-support-eureka-client,6.0.0,cas-server-support-eureka-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.0.0-RC1` // `org.apereo.cas,cas-server-support-eureka-client,6.0.0-RC1,cas-server-support-eureka-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.0.0-RC2` // `org.apereo.cas,cas-server-support-eureka-client,6.0.0-RC2,cas-server-support-eureka-client,-,automatic,-,false,-`
@@ -9213,6 +9628,7 @@
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.2.0-RC1` // `org.apereo.cas,cas-server-support-eureka-client,6.2.0-RC1,cas-server-support-eureka-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.2.0-RC2` // `org.apereo.cas,cas-server-support-eureka-client,6.2.0-RC2,cas-server-support-eureka-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.2.0-RC3` // `org.apereo.cas,cas-server-support-eureka-client,6.2.0-RC3,cas-server-support-eureka-client,-,automatic,-,false,-`
+- :cd: `cas-server-support-eureka-client` :left_right_arrow: `org.apereo.cas:cas-server-support-eureka-client:6.2.0-RC4` // `org.apereo.cas,cas-server-support-eureka-client,6.2.0-RC4,cas-server-support-eureka-client,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-events-couchdb,6.0.0,cas-server-support-events-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-events-couchdb,6.0.0-RC3,cas-server-support-events-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-events-couchdb,6.0.0-RC4,cas-server-support-events-couchdb,-,automatic,-,false,-`
@@ -9229,6 +9645,7 @@
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-events-couchdb,6.2.0-RC1,cas-server-support-events-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-events-couchdb,6.2.0-RC2,cas-server-support-events-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-events-couchdb,6.2.0-RC3,cas-server-support-events-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-events-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-events-couchdb,6.2.0-RC4,cas-server-support-events-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.0.0` // `org.apereo.cas,cas-server-support-events-influxdb,6.0.0,cas-server-support-events-influxdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.0.0-RC1` // `org.apereo.cas,cas-server-support-events-influxdb,6.0.0-RC1,cas-server-support-events-influxdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.0.0-RC2` // `org.apereo.cas,cas-server-support-events-influxdb,6.0.0-RC2,cas-server-support-events-influxdb,-,automatic,-,false,-`
@@ -9247,6 +9664,7 @@
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-events-influxdb,6.2.0-RC1,cas-server-support-events-influxdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-events-influxdb,6.2.0-RC2,cas-server-support-events-influxdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-events-influxdb,6.2.0-RC3,cas-server-support-events-influxdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-events-influxdb` :left_right_arrow: `org.apereo.cas:cas-server-support-events-influxdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-events-influxdb,6.2.0-RC4,cas-server-support-events-influxdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.0.0` // `org.apereo.cas,cas-server-support-events-jpa,6.0.0,cas-server-support-events-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-events-jpa,6.0.0-RC1,cas-server-support-events-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-events-jpa,6.0.0-RC2,cas-server-support-events-jpa,-,automatic,-,false,-`
@@ -9265,6 +9683,7 @@
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-events-jpa,6.2.0-RC1,cas-server-support-events-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-events-jpa,6.2.0-RC2,cas-server-support-events-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-events-jpa,6.2.0-RC3,cas-server-support-events-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-events-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-events-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-events-jpa,6.2.0-RC4,cas-server-support-events-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.0.0` // `org.apereo.cas,cas-server-support-events-memory,6.0.0,cas-server-support-events-memory,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.0.0-RC1` // `org.apereo.cas,cas-server-support-events-memory,6.0.0-RC1,cas-server-support-events-memory,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.0.0-RC2` // `org.apereo.cas,cas-server-support-events-memory,6.0.0-RC2,cas-server-support-events-memory,-,automatic,-,false,-`
@@ -9283,6 +9702,7 @@
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.2.0-RC1` // `org.apereo.cas,cas-server-support-events-memory,6.2.0-RC1,cas-server-support-events-memory,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.2.0-RC2` // `org.apereo.cas,cas-server-support-events-memory,6.2.0-RC2,cas-server-support-events-memory,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.2.0-RC3` // `org.apereo.cas,cas-server-support-events-memory,6.2.0-RC3,cas-server-support-events-memory,-,automatic,-,false,-`
+- :cd: `cas-server-support-events-memory` :left_right_arrow: `org.apereo.cas:cas-server-support-events-memory:6.2.0-RC4` // `org.apereo.cas,cas-server-support-events-memory,6.2.0-RC4,cas-server-support-events-memory,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.0.0` // `org.apereo.cas,cas-server-support-events-mongo,6.0.0,cas-server-support-events-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-events-mongo,6.0.0-RC1,cas-server-support-events-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-events-mongo,6.0.0-RC2,cas-server-support-events-mongo,-,automatic,-,false,-`
@@ -9301,6 +9721,7 @@
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-events-mongo,6.2.0-RC1,cas-server-support-events-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-events-mongo,6.2.0-RC2,cas-server-support-events-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-events-mongo,6.2.0-RC3,cas-server-support-events-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-events-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-events-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-events-mongo,6.2.0-RC4,cas-server-support-events-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.0.0` // `org.apereo.cas,cas-server-support-fortress,6.0.0,cas-server-support-fortress,-,automatic,-,false,-`
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.0.0-RC1` // `org.apereo.cas,cas-server-support-fortress,6.0.0-RC1,cas-server-support-fortress,-,automatic,-,false,-`
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.0.0-RC2` // `org.apereo.cas,cas-server-support-fortress,6.0.0-RC2,cas-server-support-fortress,-,automatic,-,false,-`
@@ -9319,6 +9740,7 @@
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.2.0-RC1` // `org.apereo.cas,cas-server-support-fortress,6.2.0-RC1,cas-server-support-fortress,-,automatic,-,false,-`
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.2.0-RC2` // `org.apereo.cas,cas-server-support-fortress,6.2.0-RC2,cas-server-support-fortress,-,automatic,-,false,-`
 - :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.2.0-RC3` // `org.apereo.cas,cas-server-support-fortress,6.2.0-RC3,cas-server-support-fortress,-,automatic,-,false,-`
+- :cd: `cas-server-support-fortress` :left_right_arrow: `org.apereo.cas:cas-server-support-fortress:6.2.0-RC4` // `org.apereo.cas,cas-server-support-fortress,6.2.0-RC4,cas-server-support-fortress,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.0.0` // `org.apereo.cas,cas-server-support-gauth,6.0.0,cas-server-support-gauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gauth,6.0.0-RC1,cas-server-support-gauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gauth,6.0.0-RC2,cas-server-support-gauth,-,automatic,-,false,-`
@@ -9337,6 +9759,7 @@
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth,6.2.0-RC1,cas-server-support-gauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth,6.2.0-RC2,cas-server-support-gauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth,6.2.0-RC3,cas-server-support-gauth,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth,6.2.0-RC4,cas-server-support-gauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.0.0` // `org.apereo.cas,cas-server-support-gauth-core,6.0.0,cas-server-support-gauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gauth-core,6.0.0-RC1,cas-server-support-gauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gauth-core,6.0.0-RC2,cas-server-support-gauth-core,-,automatic,-,false,-`
@@ -9355,6 +9778,7 @@
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-core,6.2.0-RC1,cas-server-support-gauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-core,6.2.0-RC2,cas-server-support-gauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-core,6.2.0-RC3,cas-server-support-gauth-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-core,6.2.0-RC4,cas-server-support-gauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.0.0` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.0.0,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.0.0-RC1,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.0.0-RC2,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
@@ -9373,6 +9797,7 @@
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.2.0-RC1,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.2.0-RC2,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.2.0-RC3,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-core-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-core-mfa,6.2.0-RC4,cas-server-support-gauth-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.0.0,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.0.0-RC3,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.0.0-RC4,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
@@ -9389,6 +9814,7 @@
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.2.0-RC1,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.2.0-RC2,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.2.0-RC3,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-couchdb,6.2.0-RC4,cas-server-support-gauth-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.0.0` // `org.apereo.cas,cas-server-support-gauth-jpa,6.0.0,cas-server-support-gauth-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gauth-jpa,6.0.0-RC1,cas-server-support-gauth-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gauth-jpa,6.0.0-RC2,cas-server-support-gauth-jpa,-,automatic,-,false,-`
@@ -9407,6 +9833,7 @@
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-jpa,6.2.0-RC1,cas-server-support-gauth-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-jpa,6.2.0-RC2,cas-server-support-gauth-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-jpa,6.2.0-RC3,cas-server-support-gauth-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-jpa,6.2.0-RC4,cas-server-support-gauth-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.0.0` // `org.apereo.cas,cas-server-support-gauth-mongo,6.0.0,cas-server-support-gauth-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gauth-mongo,6.0.0-RC1,cas-server-support-gauth-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gauth-mongo,6.0.0-RC2,cas-server-support-gauth-mongo,-,automatic,-,false,-`
@@ -9425,6 +9852,7 @@
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-mongo,6.2.0-RC1,cas-server-support-gauth-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-mongo,6.2.0-RC2,cas-server-support-gauth-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-mongo,6.2.0-RC3,cas-server-support-gauth-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-mongo,6.2.0-RC4,cas-server-support-gauth-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.1.0` // `org.apereo.cas,cas-server-support-gauth-redis,6.1.0,cas-server-support-gauth-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.1.0-RC3` // `org.apereo.cas,cas-server-support-gauth-redis,6.1.0-RC3,cas-server-support-gauth-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.1.0-RC4` // `org.apereo.cas,cas-server-support-gauth-redis,6.1.0-RC4,cas-server-support-gauth-redis,-,automatic,-,false,-`
@@ -9435,6 +9863,7 @@
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gauth-redis,6.2.0-RC1,cas-server-support-gauth-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gauth-redis,6.2.0-RC2,cas-server-support-gauth-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gauth-redis,6.2.0-RC3,cas-server-support-gauth-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-gauth-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-gauth-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gauth-redis,6.2.0-RC4,cas-server-support-gauth-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.0.0` // `org.apereo.cas,cas-server-support-generic,6.0.0,cas-server-support-generic,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.0.0-RC1` // `org.apereo.cas,cas-server-support-generic,6.0.0-RC1,cas-server-support-generic,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.0.0-RC2` // `org.apereo.cas,cas-server-support-generic,6.0.0-RC2,cas-server-support-generic,-,automatic,-,false,-`
@@ -9453,6 +9882,7 @@
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.2.0-RC1` // `org.apereo.cas,cas-server-support-generic,6.2.0-RC1,cas-server-support-generic,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.2.0-RC2` // `org.apereo.cas,cas-server-support-generic,6.2.0-RC2,cas-server-support-generic,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.2.0-RC3` // `org.apereo.cas,cas-server-support-generic,6.2.0-RC3,cas-server-support-generic,-,automatic,-,false,-`
+- :cd: `cas-server-support-generic` :left_right_arrow: `org.apereo.cas:cas-server-support-generic:6.2.0-RC4` // `org.apereo.cas,cas-server-support-generic,6.2.0-RC4,cas-server-support-generic,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.0.0` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.0.0,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.0.0-RC1,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.0.0-RC2,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
@@ -9471,6 +9901,7 @@
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.2.0-RC1,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.2.0-RC2,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.2.0-RC3,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-generic-remote-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-generic-remote-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-generic-remote-webflow,6.2.0-RC4,cas-server-support-generic-remote-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.0.0` // `org.apereo.cas,cas-server-support-geolocation,6.0.0,cas-server-support-geolocation,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.0.0-RC1` // `org.apereo.cas,cas-server-support-geolocation,6.0.0-RC1,cas-server-support-geolocation,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.0.0-RC2` // `org.apereo.cas,cas-server-support-geolocation,6.0.0-RC2,cas-server-support-geolocation,-,automatic,-,false,-`
@@ -9489,6 +9920,7 @@
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.2.0-RC1` // `org.apereo.cas,cas-server-support-geolocation,6.2.0-RC1,cas-server-support-geolocation,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.2.0-RC2` // `org.apereo.cas,cas-server-support-geolocation,6.2.0-RC2,cas-server-support-geolocation,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.2.0-RC3` // `org.apereo.cas,cas-server-support-geolocation,6.2.0-RC3,cas-server-support-geolocation,-,automatic,-,false,-`
+- :cd: `cas-server-support-geolocation` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation:6.2.0-RC4` // `org.apereo.cas,cas-server-support-geolocation,6.2.0-RC4,cas-server-support-geolocation,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.0.0` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.0.0,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.0.0-RC1` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.0.0-RC1,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.0.0-RC2` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.0.0-RC2,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
@@ -9507,6 +9939,7 @@
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.2.0-RC1` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.2.0-RC1,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.2.0-RC2` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.2.0-RC2,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.2.0-RC3` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.2.0-RC3,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
+- :cd: `cas-server-support-geolocation-googlemaps` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-googlemaps:6.2.0-RC4` // `org.apereo.cas,cas-server-support-geolocation-googlemaps,6.2.0-RC4,cas-server-support-geolocation-googlemaps,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.0.0` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.0.0,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.0.0-RC1` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.0.0-RC1,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.0.0-RC2` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.0.0-RC2,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
@@ -9525,9 +9958,11 @@
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.2.0-RC1` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.2.0-RC1,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.2.0-RC2` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.2.0-RC2,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
 - :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.2.0-RC3` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.2.0-RC3,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
+- :cd: `cas-server-support-geolocation-maxmind` :left_right_arrow: `org.apereo.cas:cas-server-support-geolocation-maxmind:6.2.0-RC4` // `org.apereo.cas,cas-server-support-geolocation-maxmind,6.2.0-RC4,cas-server-support-geolocation-maxmind,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-core` :left_right_arrow: `org.apereo.cas:cas-server-support-git-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-git-core,6.2.0-RC1,cas-server-support-git-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-core` :left_right_arrow: `org.apereo.cas:cas-server-support-git-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-git-core,6.2.0-RC2,cas-server-support-git-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-core` :left_right_arrow: `org.apereo.cas:cas-server-support-git-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-git-core,6.2.0-RC3,cas-server-support-git-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-git-core` :left_right_arrow: `org.apereo.cas:cas-server-support-git-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-git-core,6.2.0-RC4,cas-server-support-git-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.1.0` // `org.apereo.cas,cas-server-support-git-service-registry,6.1.0,cas-server-support-git-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.1.0-RC1` // `org.apereo.cas,cas-server-support-git-service-registry,6.1.0-RC1,cas-server-support-git-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.1.0-RC2` // `org.apereo.cas,cas-server-support-git-service-registry,6.1.0-RC2,cas-server-support-git-service-registry,-,automatic,-,false,-`
@@ -9540,6 +9975,7 @@
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-git-service-registry,6.2.0-RC1,cas-server-support-git-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-git-service-registry,6.2.0-RC2,cas-server-support-git-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-git-service-registry,6.2.0-RC3,cas-server-support-git-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-git-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-git-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-git-service-registry,6.2.0-RC4,cas-server-support-git-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.1.0` // `org.apereo.cas,cas-server-support-google-analytics,6.1.0,cas-server-support-google-analytics,-,automatic,-,false,-`
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.1.0-RC3` // `org.apereo.cas,cas-server-support-google-analytics,6.1.0-RC3,cas-server-support-google-analytics,-,automatic,-,false,-`
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.1.0-RC4` // `org.apereo.cas,cas-server-support-google-analytics,6.1.0-RC4,cas-server-support-google-analytics,-,automatic,-,false,-`
@@ -9550,6 +9986,7 @@
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.2.0-RC1` // `org.apereo.cas,cas-server-support-google-analytics,6.2.0-RC1,cas-server-support-google-analytics,-,automatic,-,false,-`
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.2.0-RC2` // `org.apereo.cas,cas-server-support-google-analytics,6.2.0-RC2,cas-server-support-google-analytics,-,automatic,-,false,-`
 - :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.2.0-RC3` // `org.apereo.cas,cas-server-support-google-analytics,6.2.0-RC3,cas-server-support-google-analytics,-,automatic,-,false,-`
+- :cd: `cas-server-support-google-analytics` :left_right_arrow: `org.apereo.cas:cas-server-support-google-analytics:6.2.0-RC4` // `org.apereo.cas,cas-server-support-google-analytics,6.2.0-RC4,cas-server-support-google-analytics,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.0.0` // `org.apereo.cas,cas-server-support-grouper,6.0.0,cas-server-support-grouper,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.0.0-RC1` // `org.apereo.cas,cas-server-support-grouper,6.0.0-RC1,cas-server-support-grouper,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.0.0-RC2` // `org.apereo.cas,cas-server-support-grouper,6.0.0-RC2,cas-server-support-grouper,-,automatic,-,false,-`
@@ -9568,6 +10005,7 @@
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.2.0-RC1` // `org.apereo.cas,cas-server-support-grouper,6.2.0-RC1,cas-server-support-grouper,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.2.0-RC2` // `org.apereo.cas,cas-server-support-grouper,6.2.0-RC2,cas-server-support-grouper,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.2.0-RC3` // `org.apereo.cas,cas-server-support-grouper,6.2.0-RC3,cas-server-support-grouper,-,automatic,-,false,-`
+- :cd: `cas-server-support-grouper` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper:6.2.0-RC4` // `org.apereo.cas,cas-server-support-grouper,6.2.0-RC4,cas-server-support-grouper,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.0.0` // `org.apereo.cas,cas-server-support-grouper-core,6.0.0,cas-server-support-grouper-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-grouper-core,6.0.0-RC1,cas-server-support-grouper-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-grouper-core,6.0.0-RC2,cas-server-support-grouper-core,-,automatic,-,false,-`
@@ -9586,6 +10024,7 @@
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-grouper-core,6.2.0-RC1,cas-server-support-grouper-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-grouper-core,6.2.0-RC2,cas-server-support-grouper-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-grouper-core,6.2.0-RC3,cas-server-support-grouper-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-grouper-core` :left_right_arrow: `org.apereo.cas:cas-server-support-grouper-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-grouper-core,6.2.0-RC4,cas-server-support-grouper-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.0.0` // `org.apereo.cas,cas-server-support-gua,6.0.0,cas-server-support-gua,-,automatic,-,false,-`
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.0.0-RC1` // `org.apereo.cas,cas-server-support-gua,6.0.0-RC1,cas-server-support-gua,-,automatic,-,false,-`
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.0.0-RC2` // `org.apereo.cas,cas-server-support-gua,6.0.0-RC2,cas-server-support-gua,-,automatic,-,false,-`
@@ -9604,6 +10043,7 @@
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.2.0-RC1` // `org.apereo.cas,cas-server-support-gua,6.2.0-RC1,cas-server-support-gua,-,automatic,-,false,-`
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.2.0-RC2` // `org.apereo.cas,cas-server-support-gua,6.2.0-RC2,cas-server-support-gua,-,automatic,-,false,-`
 - :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.2.0-RC3` // `org.apereo.cas,cas-server-support-gua,6.2.0-RC3,cas-server-support-gua,-,automatic,-,false,-`
+- :cd: `cas-server-support-gua` :left_right_arrow: `org.apereo.cas:cas-server-support-gua:6.2.0-RC4` // `org.apereo.cas,cas-server-support-gua,6.2.0-RC4,cas-server-support-gua,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast,6.0.0,cas-server-support-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.0.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast,6.0.0-RC3,cas-server-support-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.0.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast,6.0.0-RC4,cas-server-support-hazelcast,-,automatic,-,false,-`
@@ -9620,6 +10060,7 @@
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast,6.2.0-RC1,cas-server-support-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast,6.2.0-RC2,cas-server-support-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast,6.2.0-RC3,cas-server-support-hazelcast,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast,6.2.0-RC4,cas-server-support-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-core,6.0.0,cas-server-support-hazelcast-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-core,6.0.0-RC1,cas-server-support-hazelcast-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-core,6.0.0-RC2,cas-server-support-hazelcast-core,-,automatic,-,false,-`
@@ -9638,6 +10079,7 @@
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-core,6.2.0-RC1,cas-server-support-hazelcast-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-core,6.2.0-RC2,cas-server-support-hazelcast-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-core,6.2.0-RC3,cas-server-support-hazelcast-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-core` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-core,6.2.0-RC4,cas-server-support-hazelcast-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.0.0,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.0.0-RC1,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.0.0-RC2,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
@@ -9656,6 +10098,7 @@
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.2.0-RC1,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.2.0-RC2,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.2.0-RC3,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-discovery-aws` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-aws:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-discovery-aws,6.2.0-RC4,cas-server-support-hazelcast-discovery-aws,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.0.0,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.0.0-RC1,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.0.0-RC2,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
@@ -9674,6 +10117,7 @@
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.2.0-RC1,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.2.0-RC2,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.2.0-RC3,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-discovery-azure` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-azure:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-discovery-azure,6.2.0-RC4,cas-server-support-hazelcast-discovery-azure,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.0.0,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.0.0-RC1,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.0.0-RC2,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
@@ -9692,6 +10136,7 @@
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.2.0-RC1,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.2.0-RC2,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.2.0-RC3,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-discovery-jclouds` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-jclouds:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-discovery-jclouds,6.2.0-RC4,cas-server-support-hazelcast-discovery-jclouds,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.0.0,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.0.0-RC2,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.0.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.0.0-RC3,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
@@ -9709,6 +10154,7 @@
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.2.0-RC1,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.2.0-RC2,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.2.0-RC3,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-discovery-kubernetes` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-kubernetes:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-discovery-kubernetes,6.2.0-RC4,cas-server-support-hazelcast-discovery-kubernetes,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.0.0,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.0.0-RC2,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.0.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.0.0-RC3,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
@@ -9726,6 +10172,7 @@
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.2.0-RC1,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.2.0-RC2,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.2.0-RC3,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-discovery-swarm` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-discovery-swarm:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-discovery-swarm,6.2.0-RC4,cas-server-support-hazelcast-discovery-swarm,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.0.0,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.0.0-RC1,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.0.0-RC2,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
@@ -9744,6 +10191,7 @@
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.2.0-RC1,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.2.0-RC2,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.2.0-RC3,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-monitor,6.2.0-RC4,cas-server-support-hazelcast-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.0.0,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.0.0-RC1,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.0.0-RC2,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
@@ -9762,6 +10210,7 @@
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.2.0-RC1,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.2.0-RC2,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.2.0-RC3,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-hazelcast-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-hazelcast-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-hazelcast-ticket-registry,6.2.0-RC4,cas-server-support-hazelcast-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.0.0,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.0.0-RC1,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.0.0-RC2,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
@@ -9780,6 +10229,7 @@
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.2.0-RC1,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.2.0-RC2,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.2.0-RC3,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-ignite-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ignite-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ignite-ticket-registry,6.2.0-RC4,cas-server-support-ignite-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.0.0,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.0.0-RC1,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.0.0-RC2,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
@@ -9798,6 +10248,7 @@
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.2.0-RC1,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.2.0-RC2,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.2.0-RC3,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-infinispan-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-infinispan-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-infinispan-ticket-registry,6.2.0-RC4,cas-server-support-infinispan-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.0.0` // `org.apereo.cas,cas-server-support-influxdb-core,6.0.0,cas-server-support-influxdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-influxdb-core,6.0.0-RC1,cas-server-support-influxdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-influxdb-core,6.0.0-RC2,cas-server-support-influxdb-core,-,automatic,-,false,-`
@@ -9816,6 +10267,7 @@
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-influxdb-core,6.2.0-RC1,cas-server-support-influxdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-influxdb-core,6.2.0-RC2,cas-server-support-influxdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-influxdb-core,6.2.0-RC3,cas-server-support-influxdb-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-influxdb-core` :left_right_arrow: `org.apereo.cas:cas-server-support-influxdb-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-influxdb-core,6.2.0-RC4,cas-server-support-influxdb-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.0.0` // `org.apereo.cas,cas-server-support-interrupt-api,6.0.0,cas-server-support-interrupt-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.0.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-api,6.0.0-RC1,cas-server-support-interrupt-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-api,6.0.0-RC2,cas-server-support-interrupt-api,-,automatic,-,false,-`
@@ -9834,6 +10286,7 @@
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-api,6.2.0-RC1,cas-server-support-interrupt-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-api,6.2.0-RC2,cas-server-support-interrupt-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-interrupt-api,6.2.0-RC3,cas-server-support-interrupt-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-interrupt-api` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-interrupt-api,6.2.0-RC4,cas-server-support-interrupt-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.0.0` // `org.apereo.cas,cas-server-support-interrupt-core,6.0.0,cas-server-support-interrupt-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-core,6.0.0-RC1,cas-server-support-interrupt-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-core,6.0.0-RC2,cas-server-support-interrupt-core,-,automatic,-,false,-`
@@ -9852,6 +10305,7 @@
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-core,6.2.0-RC1,cas-server-support-interrupt-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-core,6.2.0-RC2,cas-server-support-interrupt-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-interrupt-core,6.2.0-RC3,cas-server-support-interrupt-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-interrupt-core` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-interrupt-core,6.2.0-RC4,cas-server-support-interrupt-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.0.0` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.0.0,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.0.0-RC1,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.0.0-RC2,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
@@ -9870,6 +10324,7 @@
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.2.0-RC1,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.2.0-RC2,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.2.0-RC3,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-interrupt-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-interrupt-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-interrupt-webflow,6.2.0-RC4,cas-server-support-interrupt-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.1.0` // `org.apereo.cas,cas-server-support-javamelody,6.1.0,cas-server-support-javamelody,-,automatic,-,false,-`
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.1.0-RC3` // `org.apereo.cas,cas-server-support-javamelody,6.1.0-RC3,cas-server-support-javamelody,-,automatic,-,false,-`
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.1.0-RC4` // `org.apereo.cas,cas-server-support-javamelody,6.1.0-RC4,cas-server-support-javamelody,-,automatic,-,false,-`
@@ -9880,6 +10335,7 @@
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.2.0-RC1` // `org.apereo.cas,cas-server-support-javamelody,6.2.0-RC1,cas-server-support-javamelody,-,automatic,-,false,-`
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.2.0-RC2` // `org.apereo.cas,cas-server-support-javamelody,6.2.0-RC2,cas-server-support-javamelody,-,automatic,-,false,-`
 - :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.2.0-RC3` // `org.apereo.cas,cas-server-support-javamelody,6.2.0-RC3,cas-server-support-javamelody,-,automatic,-,false,-`
+- :cd: `cas-server-support-javamelody` :left_right_arrow: `org.apereo.cas:cas-server-support-javamelody:6.2.0-RC4` // `org.apereo.cas,cas-server-support-javamelody,6.2.0-RC4,cas-server-support-javamelody,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-jdbc,6.0.0,cas-server-support-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jdbc,6.0.0-RC1,cas-server-support-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jdbc,6.0.0-RC2,cas-server-support-jdbc,-,automatic,-,false,-`
@@ -9898,6 +10354,7 @@
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jdbc,6.2.0-RC1,cas-server-support-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jdbc,6.2.0-RC2,cas-server-support-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jdbc,6.2.0-RC3,cas-server-support-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jdbc,6.2.0-RC4,cas-server-support-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.0.0` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.0.0,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.0.0-RC1,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.0.0-RC2,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
@@ -9916,6 +10373,7 @@
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.2.0-RC1,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.2.0-RC2,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.2.0-RC3,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-jdbc-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jdbc-authentication,6.2.0-RC4,cas-server-support-jdbc-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.0.0` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.0.0,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.0.0-RC1,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.0.0-RC2,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
@@ -9934,6 +10392,7 @@
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.2.0-RC1,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.2.0-RC2,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.2.0-RC3,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
+- :cd: `cas-server-support-jdbc-drivers` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-drivers:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jdbc-drivers,6.2.0-RC4,cas-server-support-jdbc-drivers,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.0.0` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.0.0,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.0.0-RC1,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.0.0-RC2,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
@@ -9952,6 +10411,7 @@
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.2.0-RC1,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.2.0-RC2,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.2.0-RC3,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-jdbc-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-jdbc-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jdbc-monitor,6.2.0-RC4,cas-server-support-jdbc-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.0.0,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.0.0-RC1,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.0.0-RC2,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
@@ -9970,6 +10430,7 @@
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.2.0-RC1,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.2.0-RC2,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.2.0-RC3,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-jms-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jms-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jms-ticket-registry,6.2.0-RC4,cas-server-support-jms-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.1.0` // `org.apereo.cas,cas-server-support-jmx,6.1.0,cas-server-support-jmx,-,automatic,-,false,-`
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.1.0-RC5` // `org.apereo.cas,cas-server-support-jmx,6.1.0-RC5,cas-server-support-jmx,-,automatic,-,false,-`
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.1.0-RC6` // `org.apereo.cas,cas-server-support-jmx,6.1.0-RC6,cas-server-support-jmx,-,automatic,-,false,-`
@@ -9978,7 +10439,10 @@
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jmx,6.2.0-RC1,cas-server-support-jmx,-,automatic,-,false,-`
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jmx,6.2.0-RC2,cas-server-support-jmx,-,automatic,-,false,-`
 - :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jmx,6.2.0-RC3,cas-server-support-jmx,-,automatic,-,false,-`
+- :cd: `cas-server-support-jmx` :left_right_arrow: `org.apereo.cas:cas-server-support-jmx:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jmx,6.2.0-RC4,cas-server-support-jmx,-,automatic,-,false,-`
+- :cd: `cas-server-support-jpa-eclipselink` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-eclipselink:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jpa-eclipselink,6.2.0-RC4,cas-server-support-jpa-eclipselink,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-hibernate` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-hibernate:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jpa-hibernate,6.2.0-RC3,cas-server-support-jpa-hibernate,-,automatic,-,false,-`
+- :cd: `cas-server-support-jpa-hibernate` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-hibernate:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jpa-hibernate,6.2.0-RC4,cas-server-support-jpa-hibernate,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.0.0,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.0.0-RC1,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.0.0-RC2,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
@@ -9997,6 +10461,7 @@
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.2.0-RC1,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.2.0-RC2,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.2.0-RC3,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-jpa-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jpa-service-registry,6.2.0-RC4,cas-server-support-jpa-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.0.0,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.0.0-RC1,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.0.0-RC2,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
@@ -10015,6 +10480,7 @@
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.2.0-RC1,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.2.0-RC2,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.2.0-RC3,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-jpa-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jpa-ticket-registry,6.2.0-RC4,cas-server-support-jpa-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.0.0` // `org.apereo.cas,cas-server-support-jpa-util,6.0.0,cas-server-support-jpa-util,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.0.0-RC1` // `org.apereo.cas,cas-server-support-jpa-util,6.0.0-RC1,cas-server-support-jpa-util,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.0.0-RC2` // `org.apereo.cas,cas-server-support-jpa-util,6.0.0-RC2,cas-server-support-jpa-util,-,automatic,-,false,-`
@@ -10033,6 +10499,7 @@
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.2.0-RC1` // `org.apereo.cas,cas-server-support-jpa-util,6.2.0-RC1,cas-server-support-jpa-util,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.2.0-RC2` // `org.apereo.cas,cas-server-support-jpa-util,6.2.0-RC2,cas-server-support-jpa-util,-,automatic,-,false,-`
 - :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.2.0-RC3` // `org.apereo.cas,cas-server-support-jpa-util,6.2.0-RC3,cas-server-support-jpa-util,-,automatic,-,false,-`
+- :cd: `cas-server-support-jpa-util` :left_right_arrow: `org.apereo.cas:cas-server-support-jpa-util:6.2.0-RC4` // `org.apereo.cas,cas-server-support-jpa-util,6.2.0-RC4,cas-server-support-jpa-util,-,automatic,-,false,-`
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-json-service-registry,6.0.0,cas-server-support-json-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-json-service-registry,6.0.0-RC1,cas-server-support-json-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-json-service-registry,6.0.0-RC2,cas-server-support-json-service-registry,-,automatic,-,false,-`
@@ -10051,6 +10518,7 @@
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-json-service-registry,6.2.0-RC1,cas-server-support-json-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-json-service-registry,6.2.0-RC2,cas-server-support-json-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-json-service-registry,6.2.0-RC3,cas-server-support-json-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-json-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-json-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-json-service-registry,6.2.0-RC4,cas-server-support-json-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.0.0` // `org.apereo.cas,cas-server-support-ldap,6.0.0,cas-server-support-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ldap,6.0.0-RC1,cas-server-support-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ldap,6.0.0-RC2,cas-server-support-ldap,-,automatic,-,false,-`
@@ -10069,6 +10537,7 @@
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ldap,6.2.0-RC1,cas-server-support-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ldap,6.2.0-RC2,cas-server-support-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ldap,6.2.0-RC3,cas-server-support-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ldap,6.2.0-RC4,cas-server-support-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.0.0` // `org.apereo.cas,cas-server-support-ldap-core,6.0.0,cas-server-support-ldap-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ldap-core,6.0.0-RC1,cas-server-support-ldap-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ldap-core,6.0.0-RC2,cas-server-support-ldap-core,-,automatic,-,false,-`
@@ -10087,6 +10556,7 @@
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ldap-core,6.2.0-RC1,cas-server-support-ldap-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ldap-core,6.2.0-RC2,cas-server-support-ldap-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ldap-core,6.2.0-RC3,cas-server-support-ldap-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-ldap-core` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ldap-core,6.2.0-RC4,cas-server-support-ldap-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.0.0` // `org.apereo.cas,cas-server-support-ldap-monitor,6.0.0,cas-server-support-ldap-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ldap-monitor,6.0.0-RC1,cas-server-support-ldap-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ldap-monitor,6.0.0-RC2,cas-server-support-ldap-monitor,-,automatic,-,false,-`
@@ -10105,6 +10575,7 @@
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ldap-monitor,6.2.0-RC1,cas-server-support-ldap-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ldap-monitor,6.2.0-RC2,cas-server-support-ldap-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ldap-monitor,6.2.0-RC3,cas-server-support-ldap-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-ldap-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ldap-monitor,6.2.0-RC4,cas-server-support-ldap-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.0.0,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.0.0-RC1,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.0.0-RC2,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
@@ -10123,6 +10594,7 @@
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.2.0-RC1,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.2.0-RC2,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.2.0-RC3,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-ldap-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-ldap-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ldap-service-registry,6.2.0-RC4,cas-server-support-ldap-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.0.0` // `org.apereo.cas,cas-server-support-logback,6.0.0,cas-server-support-logback,-,automatic,-,false,-`
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.0.0-RC4` // `org.apereo.cas,cas-server-support-logback,6.0.0-RC4,cas-server-support-logback,-,automatic,-,false,-`
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.0.1` // `org.apereo.cas,cas-server-support-logback,6.0.1,cas-server-support-logback,-,automatic,-,false,-`
@@ -10138,6 +10610,7 @@
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.2.0-RC1` // `org.apereo.cas,cas-server-support-logback,6.2.0-RC1,cas-server-support-logback,-,automatic,-,false,-`
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.2.0-RC2` // `org.apereo.cas,cas-server-support-logback,6.2.0-RC2,cas-server-support-logback,-,automatic,-,false,-`
 - :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.2.0-RC3` // `org.apereo.cas,cas-server-support-logback,6.2.0-RC3,cas-server-support-logback,-,automatic,-,false,-`
+- :cd: `cas-server-support-logback` :left_right_arrow: `org.apereo.cas:cas-server-support-logback:6.2.0-RC4` // `org.apereo.cas,cas-server-support-logback,6.2.0-RC4,cas-server-support-logback,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.0.0` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.0.0,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.0.0-RC1` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.0.0-RC1,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.0.0-RC2` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.0.0-RC2,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
@@ -10156,6 +10629,7 @@
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.2.0-RC1` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.2.0-RC1,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.2.0-RC2` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.2.0-RC2,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.2.0-RC3` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.2.0-RC3,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
+- :cd: `cas-server-support-logging-config-cloudwatch` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-cloudwatch:6.2.0-RC4` // `org.apereo.cas,cas-server-support-logging-config-cloudwatch,6.2.0-RC4,cas-server-support-logging-config-cloudwatch,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.0.0` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.0.0,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.0.0-RC1` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.0.0-RC1,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.0.0-RC2` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.0.0-RC2,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
@@ -10174,6 +10648,7 @@
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.2.0-RC1` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.2.0-RC1,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.2.0-RC2` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.2.0-RC2,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
 - :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.2.0-RC3` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.2.0-RC3,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
+- :cd: `cas-server-support-logging-config-splunk` :left_right_arrow: `org.apereo.cas:cas-server-support-logging-config-splunk:6.2.0-RC4` // `org.apereo.cas,cas-server-support-logging-config-splunk,6.2.0-RC4,cas-server-support-logging-config-splunk,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.0.0` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.0.0,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.0.0-RC1` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.0.0-RC1,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.0.0-RC2` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.0.0-RC2,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
@@ -10192,6 +10667,7 @@
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.2.0-RC1` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.2.0-RC1,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.2.0-RC2` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.2.0-RC2,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.2.0-RC3` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.2.0-RC3,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
+- :cd: `cas-server-support-memcached-aws-elasticache` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-aws-elasticache:6.2.0-RC4` // `org.apereo.cas,cas-server-support-memcached-aws-elasticache,6.2.0-RC4,cas-server-support-memcached-aws-elasticache,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.0.0` // `org.apereo.cas,cas-server-support-memcached-core,6.0.0,cas-server-support-memcached-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-memcached-core,6.0.0-RC1,cas-server-support-memcached-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-memcached-core,6.0.0-RC2,cas-server-support-memcached-core,-,automatic,-,false,-`
@@ -10210,6 +10686,7 @@
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-memcached-core,6.2.0-RC1,cas-server-support-memcached-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-memcached-core,6.2.0-RC2,cas-server-support-memcached-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-memcached-core,6.2.0-RC3,cas-server-support-memcached-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-memcached-core` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-memcached-core,6.2.0-RC4,cas-server-support-memcached-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.0.0` // `org.apereo.cas,cas-server-support-memcached-monitor,6.0.0,cas-server-support-memcached-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-memcached-monitor,6.0.0-RC1,cas-server-support-memcached-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-memcached-monitor,6.0.0-RC2,cas-server-support-memcached-monitor,-,automatic,-,false,-`
@@ -10228,6 +10705,7 @@
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-memcached-monitor,6.2.0-RC1,cas-server-support-memcached-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-memcached-monitor,6.2.0-RC2,cas-server-support-memcached-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-memcached-monitor,6.2.0-RC3,cas-server-support-memcached-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-memcached-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-memcached-monitor,6.2.0-RC4,cas-server-support-memcached-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.0.0` // `org.apereo.cas,cas-server-support-memcached-spy,6.0.0,cas-server-support-memcached-spy,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.0.0-RC1` // `org.apereo.cas,cas-server-support-memcached-spy,6.0.0-RC1,cas-server-support-memcached-spy,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.0.0-RC2` // `org.apereo.cas,cas-server-support-memcached-spy,6.0.0-RC2,cas-server-support-memcached-spy,-,automatic,-,false,-`
@@ -10246,6 +10724,7 @@
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.2.0-RC1` // `org.apereo.cas,cas-server-support-memcached-spy,6.2.0-RC1,cas-server-support-memcached-spy,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.2.0-RC2` // `org.apereo.cas,cas-server-support-memcached-spy,6.2.0-RC2,cas-server-support-memcached-spy,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.2.0-RC3` // `org.apereo.cas,cas-server-support-memcached-spy,6.2.0-RC3,cas-server-support-memcached-spy,-,automatic,-,false,-`
+- :cd: `cas-server-support-memcached-spy` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-spy:6.2.0-RC4` // `org.apereo.cas,cas-server-support-memcached-spy,6.2.0-RC4,cas-server-support-memcached-spy,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.0.0,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.0.0-RC1,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.0.0-RC2,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
@@ -10264,6 +10743,7 @@
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.2.0-RC1,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.2.0-RC2,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.2.0-RC3,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-memcached-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-memcached-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-memcached-ticket-registry,6.2.0-RC4,cas-server-support-memcached-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.0.0` // `org.apereo.cas,cas-server-support-metrics,6.0.0,cas-server-support-metrics,-,automatic,-,false,-`
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.0.0-RC1` // `org.apereo.cas,cas-server-support-metrics,6.0.0-RC1,cas-server-support-metrics,-,automatic,-,false,-`
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.0.0-RC2` // `org.apereo.cas,cas-server-support-metrics,6.0.0-RC2,cas-server-support-metrics,-,automatic,-,false,-`
@@ -10282,6 +10762,7 @@
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.2.0-RC1` // `org.apereo.cas,cas-server-support-metrics,6.2.0-RC1,cas-server-support-metrics,-,automatic,-,false,-`
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.2.0-RC2` // `org.apereo.cas,cas-server-support-metrics,6.2.0-RC2,cas-server-support-metrics,-,automatic,-,false,-`
 - :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.2.0-RC3` // `org.apereo.cas,cas-server-support-metrics,6.2.0-RC3,cas-server-support-metrics,-,automatic,-,false,-`
+- :cd: `cas-server-support-metrics` :left_right_arrow: `org.apereo.cas:cas-server-support-metrics:6.2.0-RC4` // `org.apereo.cas,cas-server-support-metrics,6.2.0-RC4,cas-server-support-metrics,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.0.0` // `org.apereo.cas,cas-server-support-mongo,6.0.0,cas-server-support-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-mongo,6.0.0-RC1,cas-server-support-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-mongo,6.0.0-RC2,cas-server-support-mongo,-,automatic,-,false,-`
@@ -10300,6 +10781,7 @@
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-mongo,6.2.0-RC1,cas-server-support-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-mongo,6.2.0-RC2,cas-server-support-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-mongo,6.2.0-RC3,cas-server-support-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-mongo,6.2.0-RC4,cas-server-support-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.0.0` // `org.apereo.cas,cas-server-support-mongo-core,6.0.0,cas-server-support-mongo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-mongo-core,6.0.0-RC1,cas-server-support-mongo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-mongo-core,6.0.0-RC2,cas-server-support-mongo-core,-,automatic,-,false,-`
@@ -10318,6 +10800,7 @@
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-mongo-core,6.2.0-RC1,cas-server-support-mongo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-mongo-core,6.2.0-RC2,cas-server-support-mongo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-mongo-core,6.2.0-RC3,cas-server-support-mongo-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-mongo-core` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-mongo-core,6.2.0-RC4,cas-server-support-mongo-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.0.0` // `org.apereo.cas,cas-server-support-mongo-monitor,6.0.0,cas-server-support-mongo-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.0.0-RC1` // `org.apereo.cas,cas-server-support-mongo-monitor,6.0.0-RC1,cas-server-support-mongo-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.0.0-RC2` // `org.apereo.cas,cas-server-support-mongo-monitor,6.0.0-RC2,cas-server-support-mongo-monitor,-,automatic,-,false,-`
@@ -10336,6 +10819,7 @@
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.2.0-RC1` // `org.apereo.cas,cas-server-support-mongo-monitor,6.2.0-RC1,cas-server-support-mongo-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.2.0-RC2` // `org.apereo.cas,cas-server-support-mongo-monitor,6.2.0-RC2,cas-server-support-mongo-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.2.0-RC3` // `org.apereo.cas,cas-server-support-mongo-monitor,6.2.0-RC3,cas-server-support-mongo-monitor,-,automatic,-,false,-`
+- :cd: `cas-server-support-mongo-monitor` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-monitor:6.2.0-RC4` // `org.apereo.cas,cas-server-support-mongo-monitor,6.2.0-RC4,cas-server-support-mongo-monitor,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.0.0,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.0.0-RC1,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.0.0-RC2,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
@@ -10354,6 +10838,7 @@
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.2.0-RC1,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.2.0-RC2,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.2.0-RC3,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-mongo-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-mongo-service-registry,6.2.0-RC4,cas-server-support-mongo-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.0.0,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.0.0-RC1,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.0.0-RC2,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
@@ -10372,6 +10857,7 @@
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.2.0-RC1,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.2.0-RC2,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.2.0-RC3,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-mongo-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-mongo-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-mongo-ticket-registry,6.2.0-RC4,cas-server-support-mongo-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.0.0` // `org.apereo.cas,cas-server-support-oauth,6.0.0,cas-server-support-oauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oauth,6.0.0-RC1,cas-server-support-oauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth,6.0.0-RC2,cas-server-support-oauth,-,automatic,-,false,-`
@@ -10390,6 +10876,7 @@
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth,6.2.0-RC1,cas-server-support-oauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth,6.2.0-RC2,cas-server-support-oauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth,6.2.0-RC3,cas-server-support-oauth,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth,6.2.0-RC4,cas-server-support-oauth,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.0.0` // `org.apereo.cas,cas-server-support-oauth-api,6.0.0,cas-server-support-oauth-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oauth-api,6.0.0-RC1,cas-server-support-oauth-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth-api,6.0.0-RC2,cas-server-support-oauth-api,-,automatic,-,false,-`
@@ -10408,6 +10895,7 @@
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-api,6.2.0-RC1,cas-server-support-oauth-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-api,6.2.0-RC2,cas-server-support-oauth-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-api,6.2.0-RC3,cas-server-support-oauth-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-api,6.2.0-RC4,cas-server-support-oauth-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.0.0` // `org.apereo.cas,cas-server-support-oauth-core,6.0.0,cas-server-support-oauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oauth-core,6.0.0-RC1,cas-server-support-oauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth-core,6.0.0-RC2,cas-server-support-oauth-core,-,automatic,-,false,-`
@@ -10426,6 +10914,7 @@
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-core,6.2.0-RC1,cas-server-support-oauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-core,6.2.0-RC2,cas-server-support-oauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-core,6.2.0-RC3,cas-server-support-oauth-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-core,6.2.0-RC4,cas-server-support-oauth-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.1.0` // `org.apereo.cas,cas-server-support-oauth-core-api,6.1.0,cas-server-support-oauth-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.1.0-RC2` // `org.apereo.cas,cas-server-support-oauth-core-api,6.1.0-RC2,cas-server-support-oauth-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.1.0-RC3` // `org.apereo.cas,cas-server-support-oauth-core-api,6.1.0-RC3,cas-server-support-oauth-core-api,-,automatic,-,false,-`
@@ -10437,6 +10926,7 @@
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-core-api,6.2.0-RC1,cas-server-support-oauth-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-core-api,6.2.0-RC2,cas-server-support-oauth-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-core-api,6.2.0-RC3,cas-server-support-oauth-core-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-core-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-core-api,6.2.0-RC4,cas-server-support-oauth-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.0.0` // `org.apereo.cas,cas-server-support-oauth-services,6.0.0,cas-server-support-oauth-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oauth-services,6.0.0-RC1,cas-server-support-oauth-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth-services,6.0.0-RC2,cas-server-support-oauth-services,-,automatic,-,false,-`
@@ -10455,6 +10945,7 @@
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-services,6.2.0-RC1,cas-server-support-oauth-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-services,6.2.0-RC2,cas-server-support-oauth-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-services,6.2.0-RC3,cas-server-support-oauth-services,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-services:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-services,6.2.0-RC4,cas-server-support-oauth-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.0.0` // `org.apereo.cas,cas-server-support-oauth-uma,6.0.0,cas-server-support-oauth-uma,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth-uma,6.0.0-RC2,cas-server-support-oauth-uma,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.0.0-RC3` // `org.apereo.cas,cas-server-support-oauth-uma,6.0.0-RC3,cas-server-support-oauth-uma,-,automatic,-,false,-`
@@ -10472,6 +10963,7 @@
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-uma,6.2.0-RC1,cas-server-support-oauth-uma,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-uma,6.2.0-RC2,cas-server-support-oauth-uma,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-uma,6.2.0-RC3,cas-server-support-oauth-uma,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-uma` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-uma,6.2.0-RC4,cas-server-support-oauth-uma,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.0.0` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.0.0,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.0.0-RC4` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.0.0-RC4,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.0.1` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.0.1,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
@@ -10487,7 +10979,9 @@
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.2.0-RC1,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.2.0-RC2,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.2.0-RC3,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-uma-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-uma-core,6.2.0-RC4,cas-server-support-oauth-uma-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-uma-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-uma-jpa,6.2.0-RC3,cas-server-support-oauth-uma-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-uma-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-uma-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-uma-jpa,6.2.0-RC4,cas-server-support-oauth-uma-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.0.0` // `org.apereo.cas,cas-server-support-oauth-webflow,6.0.0,cas-server-support-oauth-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oauth-webflow,6.0.0-RC1,cas-server-support-oauth-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oauth-webflow,6.0.0-RC2,cas-server-support-oauth-webflow,-,automatic,-,false,-`
@@ -10506,6 +11000,7 @@
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oauth-webflow,6.2.0-RC1,cas-server-support-oauth-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oauth-webflow,6.2.0-RC2,cas-server-support-oauth-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oauth-webflow,6.2.0-RC3,cas-server-support-oauth-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-oauth-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-oauth-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oauth-webflow,6.2.0-RC4,cas-server-support-oauth-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.0.0` // `org.apereo.cas,cas-server-support-oidc,6.0.0,cas-server-support-oidc,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oidc,6.0.0-RC1,cas-server-support-oidc,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oidc,6.0.0-RC2,cas-server-support-oidc,-,automatic,-,false,-`
@@ -10524,6 +11019,7 @@
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oidc,6.2.0-RC1,cas-server-support-oidc,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oidc,6.2.0-RC2,cas-server-support-oidc,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oidc,6.2.0-RC3,cas-server-support-oidc,-,automatic,-,false,-`
+- :cd: `cas-server-support-oidc` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oidc,6.2.0-RC4,cas-server-support-oidc,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.0.0` // `org.apereo.cas,cas-server-support-oidc-core,6.0.0,cas-server-support-oidc-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oidc-core,6.0.0-RC1,cas-server-support-oidc-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oidc-core,6.0.0-RC2,cas-server-support-oidc-core,-,automatic,-,false,-`
@@ -10542,6 +11038,7 @@
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oidc-core,6.2.0-RC1,cas-server-support-oidc-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oidc-core,6.2.0-RC2,cas-server-support-oidc-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oidc-core,6.2.0-RC3,cas-server-support-oidc-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-oidc-core` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oidc-core,6.2.0-RC4,cas-server-support-oidc-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.1.0` // `org.apereo.cas,cas-server-support-oidc-core-api,6.1.0,cas-server-support-oidc-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.1.0-RC2` // `org.apereo.cas,cas-server-support-oidc-core-api,6.1.0-RC2,cas-server-support-oidc-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.1.0-RC3` // `org.apereo.cas,cas-server-support-oidc-core-api,6.1.0-RC3,cas-server-support-oidc-core-api,-,automatic,-,false,-`
@@ -10553,6 +11050,7 @@
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oidc-core-api,6.2.0-RC1,cas-server-support-oidc-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oidc-core-api,6.2.0-RC2,cas-server-support-oidc-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oidc-core-api,6.2.0-RC3,cas-server-support-oidc-core-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-oidc-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-core-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oidc-core-api,6.2.0-RC4,cas-server-support-oidc-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.0.0` // `org.apereo.cas,cas-server-support-oidc-services,6.0.0,cas-server-support-oidc-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.0.0-RC1` // `org.apereo.cas,cas-server-support-oidc-services,6.0.0-RC1,cas-server-support-oidc-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.0.0-RC2` // `org.apereo.cas,cas-server-support-oidc-services,6.0.0-RC2,cas-server-support-oidc-services,-,automatic,-,false,-`
@@ -10571,8 +11069,10 @@
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.2.0-RC1` // `org.apereo.cas,cas-server-support-oidc-services,6.2.0-RC1,cas-server-support-oidc-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.2.0-RC2` // `org.apereo.cas,cas-server-support-oidc-services,6.2.0-RC2,cas-server-support-oidc-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.2.0-RC3` // `org.apereo.cas,cas-server-support-oidc-services,6.2.0-RC3,cas-server-support-oidc-services,-,automatic,-,false,-`
+- :cd: `cas-server-support-oidc-services` :left_right_arrow: `org.apereo.cas:cas-server-support-oidc-services:6.2.0-RC4` // `org.apereo.cas,cas-server-support-oidc-services,6.2.0-RC4,cas-server-support-oidc-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-okta-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-okta-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-okta-authentication,6.2.0-RC2,cas-server-support-okta-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-okta-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-okta-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-okta-authentication,6.2.0-RC3,cas-server-support-okta-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-okta-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-okta-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-okta-authentication,6.2.0-RC4,cas-server-support-okta-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.0.0` // `org.apereo.cas,cas-server-support-openid,6.0.0,cas-server-support-openid,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.0.0-RC1` // `org.apereo.cas,cas-server-support-openid,6.0.0-RC1,cas-server-support-openid,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.0.0-RC2` // `org.apereo.cas,cas-server-support-openid,6.0.0-RC2,cas-server-support-openid,-,automatic,-,false,-`
@@ -10591,6 +11091,7 @@
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.2.0-RC1` // `org.apereo.cas,cas-server-support-openid,6.2.0-RC1,cas-server-support-openid,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.2.0-RC2` // `org.apereo.cas,cas-server-support-openid,6.2.0-RC2,cas-server-support-openid,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.2.0-RC3` // `org.apereo.cas,cas-server-support-openid,6.2.0-RC3,cas-server-support-openid,-,automatic,-,false,-`
+- :cd: `cas-server-support-openid` :left_right_arrow: `org.apereo.cas:cas-server-support-openid:6.2.0-RC4` // `org.apereo.cas,cas-server-support-openid,6.2.0-RC4,cas-server-support-openid,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.0.0` // `org.apereo.cas,cas-server-support-openid-webflow,6.0.0,cas-server-support-openid-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-openid-webflow,6.0.0-RC1,cas-server-support-openid-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-openid-webflow,6.0.0-RC2,cas-server-support-openid-webflow,-,automatic,-,false,-`
@@ -10609,6 +11110,7 @@
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-openid-webflow,6.2.0-RC1,cas-server-support-openid-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-openid-webflow,6.2.0-RC2,cas-server-support-openid-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-openid-webflow,6.2.0-RC3,cas-server-support-openid-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-openid-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-openid-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-openid-webflow,6.2.0-RC4,cas-server-support-openid-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.0.0` // `org.apereo.cas,cas-server-support-otp-mfa,6.0.0,cas-server-support-otp-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-otp-mfa,6.0.0-RC1,cas-server-support-otp-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-otp-mfa,6.0.0-RC2,cas-server-support-otp-mfa,-,automatic,-,false,-`
@@ -10627,6 +11129,7 @@
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-otp-mfa,6.2.0-RC1,cas-server-support-otp-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-otp-mfa,6.2.0-RC2,cas-server-support-otp-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-otp-mfa,6.2.0-RC3,cas-server-support-otp-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-otp-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-otp-mfa,6.2.0-RC4,cas-server-support-otp-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.0.0` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.0.0,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.0.0-RC4` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.0.0-RC4,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.0.1` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.0.1,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
@@ -10642,6 +11145,7 @@
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.2.0-RC1,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.2.0-RC2,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.2.0-RC3,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-otp-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-otp-mfa-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-otp-mfa-core,6.2.0-RC4,cas-server-support-otp-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.0.0` // `org.apereo.cas,cas-server-support-pac4j,6.0.0,cas-server-support-pac4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pac4j,6.0.0-RC1,cas-server-support-pac4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pac4j,6.0.0-RC2,cas-server-support-pac4j,-,automatic,-,false,-`
@@ -10660,6 +11164,7 @@
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j,6.2.0-RC1,cas-server-support-pac4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j,6.2.0-RC2,cas-server-support-pac4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j,6.2.0-RC3,cas-server-support-pac4j,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j,6.2.0-RC4,cas-server-support-pac4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.1.0` // `org.apereo.cas,cas-server-support-pac4j-api,6.1.0,cas-server-support-pac4j-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.1.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-api,6.1.0-RC3,cas-server-support-pac4j-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.1.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-api,6.1.0-RC4,cas-server-support-pac4j-api,-,automatic,-,false,-`
@@ -10670,6 +11175,7 @@
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-api,6.2.0-RC1,cas-server-support-pac4j-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-api,6.2.0-RC2,cas-server-support-pac4j-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-api,6.2.0-RC3,cas-server-support-pac4j-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j-api` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-api,6.2.0-RC4,cas-server-support-pac4j-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.0.0` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.0.0,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.0.0-RC1,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.0.0-RC2,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
@@ -10688,6 +11194,7 @@
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.2.0-RC1,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.2.0-RC2,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.2.0-RC3,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-authentication,6.2.0-RC4,cas-server-support-pac4j-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.0.0` // `org.apereo.cas,cas-server-support-pac4j-core,6.0.0,cas-server-support-pac4j-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-core,6.0.0-RC1,cas-server-support-pac4j-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-core,6.0.0-RC2,cas-server-support-pac4j-core,-,automatic,-,false,-`
@@ -10706,6 +11213,7 @@
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-core,6.2.0-RC1,cas-server-support-pac4j-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-core,6.2.0-RC2,cas-server-support-pac4j-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-core,6.2.0-RC3,cas-server-support-pac4j-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-core,6.2.0-RC4,cas-server-support-pac4j-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.0.0` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.0.0,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.0.0-RC1,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.0.0-RC2,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
@@ -10724,6 +11232,7 @@
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.2.0-RC1,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.2.0-RC2,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.2.0-RC3,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j-core-clients` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-core-clients:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-core-clients,6.2.0-RC4,cas-server-support-pac4j-core-clients,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.0.0` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.0.0,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.0.0-RC1,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.0.0-RC2,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
@@ -10742,6 +11251,7 @@
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.2.0-RC1,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.2.0-RC2,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.2.0-RC3,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-pac4j-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pac4j-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pac4j-webflow,6.2.0-RC4,cas-server-support-pac4j-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.0.0` // `org.apereo.cas,cas-server-support-passwordless,6.0.0,cas-server-support-passwordless,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.0.0-RC1` // `org.apereo.cas,cas-server-support-passwordless,6.0.0-RC1,cas-server-support-passwordless,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.0.0-RC2` // `org.apereo.cas,cas-server-support-passwordless,6.0.0-RC2,cas-server-support-passwordless,-,automatic,-,false,-`
@@ -10760,9 +11270,13 @@
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.2.0-RC1` // `org.apereo.cas,cas-server-support-passwordless,6.2.0-RC1,cas-server-support-passwordless,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.2.0-RC2` // `org.apereo.cas,cas-server-support-passwordless,6.2.0-RC2,cas-server-support-passwordless,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.2.0-RC3` // `org.apereo.cas,cas-server-support-passwordless,6.2.0-RC3,cas-server-support-passwordless,-,automatic,-,false,-`
+- :cd: `cas-server-support-passwordless` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless:6.2.0-RC4` // `org.apereo.cas,cas-server-support-passwordless,6.2.0-RC4,cas-server-support-passwordless,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-passwordless-jpa,6.2.0-RC3,cas-server-support-passwordless-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-passwordless-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-passwordless-jpa,6.2.0-RC4,cas-server-support-passwordless-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-passwordless-ldap,6.2.0-RC3,cas-server-support-passwordless-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-passwordless-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-passwordless-ldap,6.2.0-RC4,cas-server-support-passwordless-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-passwordless-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-passwordless-webflow,6.2.0-RC3,cas-server-support-passwordless-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-passwordless-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-passwordless-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-passwordless-webflow,6.2.0-RC4,cas-server-support-passwordless-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.0.0` // `org.apereo.cas,cas-server-support-person-directory,6.0.0,cas-server-support-person-directory,-,automatic,-,false,-`
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.0.0-RC1` // `org.apereo.cas,cas-server-support-person-directory,6.0.0-RC1,cas-server-support-person-directory,-,automatic,-,false,-`
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.0.0-RC2` // `org.apereo.cas,cas-server-support-person-directory,6.0.0-RC2,cas-server-support-person-directory,-,automatic,-,false,-`
@@ -10781,6 +11295,7 @@
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.2.0-RC1` // `org.apereo.cas,cas-server-support-person-directory,6.2.0-RC1,cas-server-support-person-directory,-,automatic,-,false,-`
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.2.0-RC2` // `org.apereo.cas,cas-server-support-person-directory,6.2.0-RC2,cas-server-support-person-directory,-,automatic,-,false,-`
 - :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.2.0-RC3` // `org.apereo.cas,cas-server-support-person-directory,6.2.0-RC3,cas-server-support-person-directory,-,automatic,-,false,-`
+- :cd: `cas-server-support-person-directory` :left_right_arrow: `org.apereo.cas:cas-server-support-person-directory:6.2.0-RC4` // `org.apereo.cas,cas-server-support-person-directory,6.2.0-RC4,cas-server-support-person-directory,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.0.0` // `org.apereo.cas,cas-server-support-pm,6.0.0,cas-server-support-pm,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pm,6.0.0-RC1,cas-server-support-pm,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pm,6.0.0-RC2,cas-server-support-pm,-,automatic,-,false,-`
@@ -10799,6 +11314,7 @@
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm,6.2.0-RC1,cas-server-support-pm,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm,6.2.0-RC2,cas-server-support-pm,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm,6.2.0-RC3,cas-server-support-pm,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm` :left_right_arrow: `org.apereo.cas:cas-server-support-pm:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm,6.2.0-RC4,cas-server-support-pm,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.1.0` // `org.apereo.cas,cas-server-support-pm-core,6.1.0,cas-server-support-pm-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.1.0-RC5` // `org.apereo.cas,cas-server-support-pm-core,6.1.0-RC5,cas-server-support-pm-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.1.0-RC6` // `org.apereo.cas,cas-server-support-pm-core,6.1.0-RC6,cas-server-support-pm-core,-,automatic,-,false,-`
@@ -10807,6 +11323,7 @@
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm-core,6.2.0-RC1,cas-server-support-pm-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm-core,6.2.0-RC2,cas-server-support-pm-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm-core,6.2.0-RC3,cas-server-support-pm-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm-core` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm-core,6.2.0-RC4,cas-server-support-pm-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-pm-jdbc,6.0.0,cas-server-support-pm-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pm-jdbc,6.0.0-RC1,cas-server-support-pm-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pm-jdbc,6.0.0-RC2,cas-server-support-pm-jdbc,-,automatic,-,false,-`
@@ -10825,6 +11342,7 @@
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm-jdbc,6.2.0-RC1,cas-server-support-pm-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm-jdbc,6.2.0-RC2,cas-server-support-pm-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm-jdbc,6.2.0-RC3,cas-server-support-pm-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm-jdbc,6.2.0-RC4,cas-server-support-pm-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.0.0` // `org.apereo.cas,cas-server-support-pm-ldap,6.0.0,cas-server-support-pm-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pm-ldap,6.0.0-RC1,cas-server-support-pm-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pm-ldap,6.0.0-RC2,cas-server-support-pm-ldap,-,automatic,-,false,-`
@@ -10843,6 +11361,7 @@
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm-ldap,6.2.0-RC1,cas-server-support-pm-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm-ldap,6.2.0-RC2,cas-server-support-pm-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm-ldap,6.2.0-RC3,cas-server-support-pm-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm-ldap,6.2.0-RC4,cas-server-support-pm-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.0.0` // `org.apereo.cas,cas-server-support-pm-rest,6.0.0,cas-server-support-pm-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pm-rest,6.0.0-RC1,cas-server-support-pm-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pm-rest,6.0.0-RC2,cas-server-support-pm-rest,-,automatic,-,false,-`
@@ -10861,6 +11380,7 @@
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm-rest,6.2.0-RC1,cas-server-support-pm-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm-rest,6.2.0-RC2,cas-server-support-pm-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm-rest,6.2.0-RC3,cas-server-support-pm-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm-rest,6.2.0-RC4,cas-server-support-pm-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.0.0` // `org.apereo.cas,cas-server-support-pm-webflow,6.0.0,cas-server-support-pm-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-pm-webflow,6.0.0-RC1,cas-server-support-pm-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-pm-webflow,6.0.0-RC2,cas-server-support-pm-webflow,-,automatic,-,false,-`
@@ -10879,6 +11399,7 @@
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-pm-webflow,6.2.0-RC1,cas-server-support-pm-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-pm-webflow,6.2.0-RC2,cas-server-support-pm-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-pm-webflow,6.2.0-RC3,cas-server-support-pm-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-pm-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-pm-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-pm-webflow,6.2.0-RC4,cas-server-support-pm-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.0.0` // `org.apereo.cas,cas-server-support-radius,6.0.0,cas-server-support-radius,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.0.0-RC1` // `org.apereo.cas,cas-server-support-radius,6.0.0-RC1,cas-server-support-radius,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.0.0-RC2` // `org.apereo.cas,cas-server-support-radius,6.0.0-RC2,cas-server-support-radius,-,automatic,-,false,-`
@@ -10897,6 +11418,7 @@
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.2.0-RC1` // `org.apereo.cas,cas-server-support-radius,6.2.0-RC1,cas-server-support-radius,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.2.0-RC2` // `org.apereo.cas,cas-server-support-radius,6.2.0-RC2,cas-server-support-radius,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.2.0-RC3` // `org.apereo.cas,cas-server-support-radius,6.2.0-RC3,cas-server-support-radius,-,automatic,-,false,-`
+- :cd: `cas-server-support-radius` :left_right_arrow: `org.apereo.cas:cas-server-support-radius:6.2.0-RC4` // `org.apereo.cas,cas-server-support-radius,6.2.0-RC4,cas-server-support-radius,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.0.0` // `org.apereo.cas,cas-server-support-radius-core,6.0.0,cas-server-support-radius-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-radius-core,6.0.0-RC1,cas-server-support-radius-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-radius-core,6.0.0-RC2,cas-server-support-radius-core,-,automatic,-,false,-`
@@ -10915,6 +11437,7 @@
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-radius-core,6.2.0-RC1,cas-server-support-radius-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-radius-core,6.2.0-RC2,cas-server-support-radius-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-radius-core,6.2.0-RC3,cas-server-support-radius-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-radius-core` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-radius-core,6.2.0-RC4,cas-server-support-radius-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.0.0` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.0.0,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.0.0-RC1,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.0.0-RC2,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
@@ -10933,6 +11456,7 @@
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.2.0-RC1,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.2.0-RC2,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.2.0-RC3,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-radius-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-core-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-radius-core-mfa,6.2.0-RC4,cas-server-support-radius-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.0.0` // `org.apereo.cas,cas-server-support-radius-mfa,6.0.0,cas-server-support-radius-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-radius-mfa,6.0.0-RC1,cas-server-support-radius-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-radius-mfa,6.0.0-RC2,cas-server-support-radius-mfa,-,automatic,-,false,-`
@@ -10951,6 +11475,7 @@
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-radius-mfa,6.2.0-RC1,cas-server-support-radius-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-radius-mfa,6.2.0-RC2,cas-server-support-radius-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-radius-mfa,6.2.0-RC3,cas-server-support-radius-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-radius-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-radius-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-radius-mfa,6.2.0-RC4,cas-server-support-radius-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.1.0` // `org.apereo.cas,cas-server-support-redis-authentication,6.1.0,cas-server-support-redis-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.1.0-RC5` // `org.apereo.cas,cas-server-support-redis-authentication,6.1.0-RC5,cas-server-support-redis-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.1.0-RC6` // `org.apereo.cas,cas-server-support-redis-authentication,6.1.0-RC6,cas-server-support-redis-authentication,-,automatic,-,false,-`
@@ -10959,6 +11484,7 @@
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-redis-authentication,6.2.0-RC1,cas-server-support-redis-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-redis-authentication,6.2.0-RC2,cas-server-support-redis-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-redis-authentication,6.2.0-RC3,cas-server-support-redis-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-redis-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-redis-authentication,6.2.0-RC4,cas-server-support-redis-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.0.0` // `org.apereo.cas,cas-server-support-redis-core,6.0.0,cas-server-support-redis-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-redis-core,6.0.0-RC1,cas-server-support-redis-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-redis-core,6.0.0-RC2,cas-server-support-redis-core,-,automatic,-,false,-`
@@ -10977,6 +11503,7 @@
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-redis-core,6.2.0-RC1,cas-server-support-redis-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-redis-core,6.2.0-RC2,cas-server-support-redis-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-redis-core,6.2.0-RC3,cas-server-support-redis-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-redis-core` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-redis-core,6.2.0-RC4,cas-server-support-redis-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-redis-service-registry,6.0.0,cas-server-support-redis-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-redis-service-registry,6.0.0-RC1,cas-server-support-redis-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-redis-service-registry,6.0.0-RC2,cas-server-support-redis-service-registry,-,automatic,-,false,-`
@@ -10995,6 +11522,7 @@
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-redis-service-registry,6.2.0-RC1,cas-server-support-redis-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-redis-service-registry,6.2.0-RC2,cas-server-support-redis-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-redis-service-registry,6.2.0-RC3,cas-server-support-redis-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-redis-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-redis-service-registry,6.2.0-RC4,cas-server-support-redis-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.0.0` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.0.0,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.0.0-RC1,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.0.0-RC2,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
@@ -11013,6 +11541,7 @@
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.2.0-RC1,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.2.0-RC2,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.2.0-RC3,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-redis-ticket-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-redis-ticket-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-redis-ticket-registry,6.2.0-RC4,cas-server-support-redis-ticket-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.0.0` // `org.apereo.cas,cas-server-support-reports,6.0.0,cas-server-support-reports,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.0.0-RC1` // `org.apereo.cas,cas-server-support-reports,6.0.0-RC1,cas-server-support-reports,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.0.0-RC2` // `org.apereo.cas,cas-server-support-reports,6.0.0-RC2,cas-server-support-reports,-,automatic,-,false,-`
@@ -11031,6 +11560,7 @@
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.2.0-RC1` // `org.apereo.cas,cas-server-support-reports,6.2.0-RC1,cas-server-support-reports,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.2.0-RC2` // `org.apereo.cas,cas-server-support-reports,6.2.0-RC2,cas-server-support-reports,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.2.0-RC3` // `org.apereo.cas,cas-server-support-reports,6.2.0-RC3,cas-server-support-reports,-,automatic,-,false,-`
+- :cd: `cas-server-support-reports` :left_right_arrow: `org.apereo.cas:cas-server-support-reports:6.2.0-RC4` // `org.apereo.cas,cas-server-support-reports,6.2.0-RC4,cas-server-support-reports,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.1.0` // `org.apereo.cas,cas-server-support-reports-core,6.1.0,cas-server-support-reports-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.1.0-RC3` // `org.apereo.cas,cas-server-support-reports-core,6.1.0-RC3,cas-server-support-reports-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.1.0-RC4` // `org.apereo.cas,cas-server-support-reports-core,6.1.0-RC4,cas-server-support-reports-core,-,automatic,-,false,-`
@@ -11041,6 +11571,7 @@
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-reports-core,6.2.0-RC1,cas-server-support-reports-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-reports-core,6.2.0-RC2,cas-server-support-reports-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-reports-core,6.2.0-RC3,cas-server-support-reports-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-reports-core` :left_right_arrow: `org.apereo.cas:cas-server-support-reports-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-reports-core,6.2.0-RC4,cas-server-support-reports-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.0.0` // `org.apereo.cas,cas-server-support-rest,6.0.0,cas-server-support-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest,6.0.0-RC1,cas-server-support-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest,6.0.0-RC2,cas-server-support-rest,-,automatic,-,false,-`
@@ -11059,6 +11590,7 @@
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest,6.2.0-RC1,cas-server-support-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest,6.2.0-RC2,cas-server-support-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest,6.2.0-RC3,cas-server-support-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest,6.2.0-RC4,cas-server-support-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.0.0` // `org.apereo.cas,cas-server-support-rest-authentication,6.0.0,cas-server-support-rest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest-authentication,6.0.0-RC1,cas-server-support-rest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest-authentication,6.0.0-RC2,cas-server-support-rest-authentication,-,automatic,-,false,-`
@@ -11077,6 +11609,7 @@
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-authentication,6.2.0-RC1,cas-server-support-rest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-authentication,6.2.0-RC2,cas-server-support-rest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-authentication,6.2.0-RC3,cas-server-support-rest-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-authentication,6.2.0-RC4,cas-server-support-rest-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.1.0` // `org.apereo.cas,cas-server-support-rest-core,6.1.0,cas-server-support-rest-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.1.0-RC2` // `org.apereo.cas,cas-server-support-rest-core,6.1.0-RC2,cas-server-support-rest-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.1.0-RC3` // `org.apereo.cas,cas-server-support-rest-core,6.1.0-RC3,cas-server-support-rest-core,-,automatic,-,false,-`
@@ -11088,6 +11621,7 @@
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-core,6.2.0-RC1,cas-server-support-rest-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-core,6.2.0-RC2,cas-server-support-rest-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-core,6.2.0-RC3,cas-server-support-rest-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-core` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-core,6.2.0-RC4,cas-server-support-rest-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-rest-service-registry,6.0.0,cas-server-support-rest-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest-service-registry,6.0.0-RC1,cas-server-support-rest-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest-service-registry,6.0.0-RC2,cas-server-support-rest-service-registry,-,automatic,-,false,-`
@@ -11106,6 +11640,7 @@
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-service-registry,6.2.0-RC1,cas-server-support-rest-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-service-registry,6.2.0-RC2,cas-server-support-rest-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-service-registry,6.2.0-RC3,cas-server-support-rest-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-service-registry,6.2.0-RC4,cas-server-support-rest-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.0.0` // `org.apereo.cas,cas-server-support-rest-services,6.0.0,cas-server-support-rest-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest-services,6.0.0-RC1,cas-server-support-rest-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest-services,6.0.0-RC2,cas-server-support-rest-services,-,automatic,-,false,-`
@@ -11124,6 +11659,7 @@
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-services,6.2.0-RC1,cas-server-support-rest-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-services,6.2.0-RC2,cas-server-support-rest-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-services,6.2.0-RC3,cas-server-support-rest-services,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-services` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-services:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-services,6.2.0-RC4,cas-server-support-rest-services,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.0.0` // `org.apereo.cas,cas-server-support-rest-tokens,6.0.0,cas-server-support-rest-tokens,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest-tokens,6.0.0-RC1,cas-server-support-rest-tokens,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest-tokens,6.0.0-RC2,cas-server-support-rest-tokens,-,automatic,-,false,-`
@@ -11142,6 +11678,7 @@
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-tokens,6.2.0-RC1,cas-server-support-rest-tokens,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-tokens,6.2.0-RC2,cas-server-support-rest-tokens,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-tokens,6.2.0-RC3,cas-server-support-rest-tokens,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-tokens` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-tokens:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-tokens,6.2.0-RC4,cas-server-support-rest-tokens,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.0.0` // `org.apereo.cas,cas-server-support-rest-x509,6.0.0,cas-server-support-rest-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.0.0-RC1` // `org.apereo.cas,cas-server-support-rest-x509,6.0.0-RC1,cas-server-support-rest-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.0.0-RC2` // `org.apereo.cas,cas-server-support-rest-x509,6.0.0-RC2,cas-server-support-rest-x509,-,automatic,-,false,-`
@@ -11160,6 +11697,7 @@
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.2.0-RC1` // `org.apereo.cas,cas-server-support-rest-x509,6.2.0-RC1,cas-server-support-rest-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.2.0-RC2` // `org.apereo.cas,cas-server-support-rest-x509,6.2.0-RC2,cas-server-support-rest-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.2.0-RC3` // `org.apereo.cas,cas-server-support-rest-x509,6.2.0-RC3,cas-server-support-rest-x509,-,automatic,-,false,-`
+- :cd: `cas-server-support-rest-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-rest-x509:6.2.0-RC4` // `org.apereo.cas,cas-server-support-rest-x509,6.2.0-RC4,cas-server-support-rest-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.0.0` // `org.apereo.cas,cas-server-support-saml,6.0.0,cas-server-support-saml,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml,6.0.0-RC1,cas-server-support-saml,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml,6.0.0-RC2,cas-server-support-saml,-,automatic,-,false,-`
@@ -11178,6 +11716,7 @@
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml,6.2.0-RC1,cas-server-support-saml,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml,6.2.0-RC2,cas-server-support-saml,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml,6.2.0-RC3,cas-server-support-saml,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml` :left_right_arrow: `org.apereo.cas:cas-server-support-saml:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml,6.2.0-RC4,cas-server-support-saml,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.0.0` // `org.apereo.cas,cas-server-support-saml-core,6.0.0,cas-server-support-saml-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-core,6.0.0-RC1,cas-server-support-saml-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-core,6.0.0-RC2,cas-server-support-saml-core,-,automatic,-,false,-`
@@ -11196,6 +11735,7 @@
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-core,6.2.0-RC1,cas-server-support-saml-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-core,6.2.0-RC2,cas-server-support-saml-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-core,6.2.0-RC3,cas-server-support-saml-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-core,6.2.0-RC4,cas-server-support-saml-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.0.0` // `org.apereo.cas,cas-server-support-saml-core-api,6.0.0,cas-server-support-saml-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-core-api,6.0.0-RC2,cas-server-support-saml-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.0.0-RC3` // `org.apereo.cas,cas-server-support-saml-core-api,6.0.0-RC3,cas-server-support-saml-core-api,-,automatic,-,false,-`
@@ -11213,6 +11753,7 @@
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-core-api,6.2.0-RC1,cas-server-support-saml-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-core-api,6.2.0-RC2,cas-server-support-saml-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-core-api,6.2.0-RC3,cas-server-support-saml-core-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-core-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-core-api,6.2.0-RC4,cas-server-support-saml-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.0.0` // `org.apereo.cas,cas-server-support-saml-googleapps,6.0.0,cas-server-support-saml-googleapps,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-googleapps,6.0.0-RC1,cas-server-support-saml-googleapps,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-googleapps,6.0.0-RC2,cas-server-support-saml-googleapps,-,automatic,-,false,-`
@@ -11231,6 +11772,7 @@
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-googleapps,6.2.0-RC1,cas-server-support-saml-googleapps,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-googleapps,6.2.0-RC2,cas-server-support-saml-googleapps,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-googleapps,6.2.0-RC3,cas-server-support-saml-googleapps,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-googleapps` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-googleapps,6.2.0-RC4,cas-server-support-saml-googleapps,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.0.0` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.0.0,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.0.0-RC1,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.0.0-RC2,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
@@ -11249,6 +11791,7 @@
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.2.0-RC1,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.2.0-RC2,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.2.0-RC3,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-googleapps-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-googleapps-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-googleapps-core,6.2.0-RC4,cas-server-support-saml-googleapps-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp,6.0.0,cas-server-support-saml-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp,6.0.0-RC1,cas-server-support-saml-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp,6.0.0-RC2,cas-server-support-saml-idp,-,automatic,-,false,-`
@@ -11267,6 +11810,7 @@
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp,6.2.0-RC1,cas-server-support-saml-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp,6.2.0-RC2,cas-server-support-saml-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp,6.2.0-RC3,cas-server-support-saml-idp,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp,6.2.0-RC4,cas-server-support-saml-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-core,6.0.0,cas-server-support-saml-idp-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-core,6.0.0-RC1,cas-server-support-saml-idp-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-core,6.0.0-RC2,cas-server-support-saml-idp-core,-,automatic,-,false,-`
@@ -11285,12 +11829,14 @@
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-core,6.2.0-RC1,cas-server-support-saml-idp-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-core,6.2.0-RC2,cas-server-support-saml-idp-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-core,6.2.0-RC3,cas-server-support-saml-idp-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-core,6.2.0-RC4,cas-server-support-saml-idp-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.1.0` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.1.0,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.1.1` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.1.1,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.1.2` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.1.2,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.2.0-RC1,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.2.0-RC2,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.2.0-RC3,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-discovery` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-discovery:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-discovery,6.2.0-RC4,cas-server-support-saml-idp-discovery,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.0.0,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.0.0-RC1,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.0.0-RC2,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
@@ -11309,6 +11855,7 @@
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.2.0-RC1,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.2.0-RC2,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.2.0-RC3,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata,6.2.0-RC4,cas-server-support-saml-idp-metadata,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.0.0,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.0.0-RC1,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.0.0-RC2,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
@@ -11327,6 +11874,7 @@
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.2.0-RC1,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.2.0-RC2,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.2.0-RC3,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata-aws-s3` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-aws-s3:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-aws-s3,6.2.0-RC4,cas-server-support-saml-idp-metadata-aws-s3,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.0.0,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.0.0-RC3,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.0.0-RC4,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
@@ -11343,6 +11891,7 @@
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.2.0-RC1,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.2.0-RC2,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.2.0-RC3,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-couchdb,6.2.0-RC4,cas-server-support-saml-idp-metadata-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.0.0,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.0.0-RC1,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.0.0-RC2,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
@@ -11361,6 +11910,7 @@
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.2.0-RC1,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.2.0-RC2,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.2.0-RC3,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-jpa,6.2.0-RC4,cas-server-support-saml-idp-metadata-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.0.0,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.0.0-RC1,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.0.0-RC2,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
@@ -11379,6 +11929,7 @@
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.2.0-RC1,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.2.0-RC2,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.2.0-RC3,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-mongo,6.2.0-RC4,cas-server-support-saml-idp-metadata-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.0.0,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.0.0-RC1,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.0.0-RC2,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
@@ -11397,6 +11948,7 @@
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.2.0-RC1,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.2.0-RC2,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.2.0-RC3,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-metadata-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-metadata-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-metadata-rest,6.2.0-RC4,cas-server-support-saml-idp-metadata-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.0.0,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.0.0-RC1,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.0.0-RC2,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
@@ -11415,6 +11967,7 @@
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.2.0-RC1,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.2.0-RC2,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.2.0-RC3,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-ticket` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-ticket:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-ticket,6.2.0-RC4,cas-server-support-saml-idp-ticket,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.0.0` // `org.apereo.cas,cas-server-support-saml-idp-web,6.0.0,cas-server-support-saml-idp-web,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-web,6.0.0-RC1,cas-server-support-saml-idp-web,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-web,6.0.0-RC2,cas-server-support-saml-idp-web,-,automatic,-,false,-`
@@ -11433,6 +11986,7 @@
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-idp-web,6.2.0-RC1,cas-server-support-saml-idp-web,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-idp-web,6.2.0-RC2,cas-server-support-saml-idp-web,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-idp-web,6.2.0-RC3,cas-server-support-saml-idp-web,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-idp-web` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-idp-web:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-idp-web,6.2.0-RC4,cas-server-support-saml-idp-web,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.0.0` // `org.apereo.cas,cas-server-support-saml-mdui,6.0.0,cas-server-support-saml-mdui,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-mdui,6.0.0-RC1,cas-server-support-saml-mdui,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-mdui,6.0.0-RC2,cas-server-support-saml-mdui,-,automatic,-,false,-`
@@ -11451,6 +12005,7 @@
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-mdui,6.2.0-RC1,cas-server-support-saml-mdui,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-mdui,6.2.0-RC2,cas-server-support-saml-mdui,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-mdui,6.2.0-RC3,cas-server-support-saml-mdui,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-mdui` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-mdui,6.2.0-RC4,cas-server-support-saml-mdui,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.0.0` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.0.0,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.0.0-RC1,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.0.0-RC2,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
@@ -11469,6 +12024,7 @@
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.2.0-RC1,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.2.0-RC2,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.2.0-RC3,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-mdui-core` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-mdui-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-mdui-core,6.2.0-RC4,cas-server-support-saml-mdui-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.0.0` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.0.0,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.0.0-RC1` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.0.0-RC1,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.0.0-RC2` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.0.0-RC2,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
@@ -11487,6 +12043,7 @@
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.2.0-RC1` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.2.0-RC1,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.2.0-RC2` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.2.0-RC2,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
 - :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.2.0-RC3` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.2.0-RC3,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
+- :cd: `cas-server-support-saml-sp-integrations` :left_right_arrow: `org.apereo.cas:cas-server-support-saml-sp-integrations:6.2.0-RC4` // `org.apereo.cas,cas-server-support-saml-sp-integrations,6.2.0-RC4,cas-server-support-saml-sp-integrations,-,automatic,-,false,-`
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.0.0` // `org.apereo.cas,cas-server-support-scim,6.0.0,cas-server-support-scim,-,automatic,-,false,-`
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.0.0-RC1` // `org.apereo.cas,cas-server-support-scim,6.0.0-RC1,cas-server-support-scim,-,automatic,-,false,-`
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.0.0-RC2` // `org.apereo.cas,cas-server-support-scim,6.0.0-RC2,cas-server-support-scim,-,automatic,-,false,-`
@@ -11505,6 +12062,7 @@
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.2.0-RC1` // `org.apereo.cas,cas-server-support-scim,6.2.0-RC1,cas-server-support-scim,-,automatic,-,false,-`
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.2.0-RC2` // `org.apereo.cas,cas-server-support-scim,6.2.0-RC2,cas-server-support-scim,-,automatic,-,false,-`
 - :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.2.0-RC3` // `org.apereo.cas,cas-server-support-scim,6.2.0-RC3,cas-server-support-scim,-,automatic,-,false,-`
+- :cd: `cas-server-support-scim` :left_right_arrow: `org.apereo.cas:cas-server-support-scim:6.2.0-RC4` // `org.apereo.cas,cas-server-support-scim,6.2.0-RC4,cas-server-support-scim,-,automatic,-,false,-`
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.1.0` // `org.apereo.cas,cas-server-support-script-engines,6.1.0,cas-server-support-script-engines,-,automatic,-,false,-`
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.1.0-RC5` // `org.apereo.cas,cas-server-support-script-engines,6.1.0-RC5,cas-server-support-script-engines,-,automatic,-,false,-`
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.1.0-RC6` // `org.apereo.cas,cas-server-support-script-engines,6.1.0-RC6,cas-server-support-script-engines,-,automatic,-,false,-`
@@ -11513,6 +12071,7 @@
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.2.0-RC1` // `org.apereo.cas,cas-server-support-script-engines,6.2.0-RC1,cas-server-support-script-engines,-,automatic,-,false,-`
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.2.0-RC2` // `org.apereo.cas,cas-server-support-script-engines,6.2.0-RC2,cas-server-support-script-engines,-,automatic,-,false,-`
 - :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.2.0-RC3` // `org.apereo.cas,cas-server-support-script-engines,6.2.0-RC3,cas-server-support-script-engines,-,automatic,-,false,-`
+- :cd: `cas-server-support-script-engines` :left_right_arrow: `org.apereo.cas:cas-server-support-script-engines:6.2.0-RC4` // `org.apereo.cas,cas-server-support-script-engines,6.2.0-RC4,cas-server-support-script-engines,-,automatic,-,false,-`
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.0.0` // `org.apereo.cas,cas-server-support-sentry,6.0.0,cas-server-support-sentry,-,automatic,-,false,-`
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sentry,6.0.0-RC1,cas-server-support-sentry,-,automatic,-,false,-`
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sentry,6.0.0-RC2,cas-server-support-sentry,-,automatic,-,false,-`
@@ -11531,6 +12090,7 @@
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sentry,6.2.0-RC1,cas-server-support-sentry,-,automatic,-,false,-`
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sentry,6.2.0-RC2,cas-server-support-sentry,-,automatic,-,false,-`
 - :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sentry,6.2.0-RC3,cas-server-support-sentry,-,automatic,-,false,-`
+- :cd: `cas-server-support-sentry` :left_right_arrow: `org.apereo.cas:cas-server-support-sentry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sentry,6.2.0-RC4,cas-server-support-sentry,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.0.0` // `org.apereo.cas,cas-server-support-service-registry-stream,6.0.0,cas-server-support-service-registry-stream,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.0.0-RC1` // `org.apereo.cas,cas-server-support-service-registry-stream,6.0.0-RC1,cas-server-support-service-registry-stream,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.0.0-RC2` // `org.apereo.cas,cas-server-support-service-registry-stream,6.0.0-RC2,cas-server-support-service-registry-stream,-,automatic,-,false,-`
@@ -11549,6 +12109,7 @@
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.2.0-RC1` // `org.apereo.cas,cas-server-support-service-registry-stream,6.2.0-RC1,cas-server-support-service-registry-stream,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.2.0-RC2` // `org.apereo.cas,cas-server-support-service-registry-stream,6.2.0-RC2,cas-server-support-service-registry-stream,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.2.0-RC3` // `org.apereo.cas,cas-server-support-service-registry-stream,6.2.0-RC3,cas-server-support-service-registry-stream,-,automatic,-,false,-`
+- :cd: `cas-server-support-service-registry-stream` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream:6.2.0-RC4` // `org.apereo.cas,cas-server-support-service-registry-stream,6.2.0-RC4,cas-server-support-service-registry-stream,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.0.0` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.0.0,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.0.0-RC1` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.0.0-RC1,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.0.0-RC2` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.0.0-RC2,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
@@ -11567,6 +12128,7 @@
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.2.0-RC1` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.2.0-RC1,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.2.0-RC2` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.2.0-RC2,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.2.0-RC3` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.2.0-RC3,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
+- :cd: `cas-server-support-service-registry-stream-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-service-registry-stream-hazelcast:6.2.0-RC4` // `org.apereo.cas,cas-server-support-service-registry-stream-hazelcast,6.2.0-RC4,cas-server-support-service-registry-stream-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.0.0` // `org.apereo.cas,cas-server-support-session-hazelcast,6.0.0,cas-server-support-session-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.0.0-RC1` // `org.apereo.cas,cas-server-support-session-hazelcast,6.0.0-RC1,cas-server-support-session-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.0.0-RC2` // `org.apereo.cas,cas-server-support-session-hazelcast,6.0.0-RC2,cas-server-support-session-hazelcast,-,automatic,-,false,-`
@@ -11585,6 +12147,7 @@
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.2.0-RC1` // `org.apereo.cas,cas-server-support-session-hazelcast,6.2.0-RC1,cas-server-support-session-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.2.0-RC2` // `org.apereo.cas,cas-server-support-session-hazelcast,6.2.0-RC2,cas-server-support-session-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.2.0-RC3` // `org.apereo.cas,cas-server-support-session-hazelcast,6.2.0-RC3,cas-server-support-session-hazelcast,-,automatic,-,false,-`
+- :cd: `cas-server-support-session-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-session-hazelcast:6.2.0-RC4` // `org.apereo.cas,cas-server-support-session-hazelcast,6.2.0-RC4,cas-server-support-session-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-session-jdbc,6.0.0,cas-server-support-session-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-session-jdbc,6.0.0-RC2,cas-server-support-session-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.0.0-RC3` // `org.apereo.cas,cas-server-support-session-jdbc,6.0.0-RC3,cas-server-support-session-jdbc,-,automatic,-,false,-`
@@ -11602,6 +12165,7 @@
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-session-jdbc,6.2.0-RC1,cas-server-support-session-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-session-jdbc,6.2.0-RC2,cas-server-support-session-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-session-jdbc,6.2.0-RC3,cas-server-support-session-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-session-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-session-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-session-jdbc,6.2.0-RC4,cas-server-support-session-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.0.0` // `org.apereo.cas,cas-server-support-session-mongo,6.0.0,cas-server-support-session-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-session-mongo,6.0.0-RC1,cas-server-support-session-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-session-mongo,6.0.0-RC2,cas-server-support-session-mongo,-,automatic,-,false,-`
@@ -11620,6 +12184,7 @@
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-session-mongo,6.2.0-RC1,cas-server-support-session-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-session-mongo,6.2.0-RC2,cas-server-support-session-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-session-mongo,6.2.0-RC3,cas-server-support-session-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-session-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-session-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-session-mongo,6.2.0-RC4,cas-server-support-session-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.0.0` // `org.apereo.cas,cas-server-support-session-redis,6.0.0,cas-server-support-session-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.0.0-RC1` // `org.apereo.cas,cas-server-support-session-redis,6.0.0-RC1,cas-server-support-session-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.0.0-RC2` // `org.apereo.cas,cas-server-support-session-redis,6.0.0-RC2,cas-server-support-session-redis,-,automatic,-,false,-`
@@ -11638,6 +12203,7 @@
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-session-redis,6.2.0-RC1,cas-server-support-session-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-session-redis,6.2.0-RC2,cas-server-support-session-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-session-redis,6.2.0-RC3,cas-server-support-session-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-session-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-session-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-session-redis,6.2.0-RC4,cas-server-support-session-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.0.0` // `org.apereo.cas,cas-server-support-shibboleth,6.0.0,cas-server-support-shibboleth,-,automatic,-,false,-`
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.0.0-RC1` // `org.apereo.cas,cas-server-support-shibboleth,6.0.0-RC1,cas-server-support-shibboleth,-,automatic,-,false,-`
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.0.0-RC2` // `org.apereo.cas,cas-server-support-shibboleth,6.0.0-RC2,cas-server-support-shibboleth,-,automatic,-,false,-`
@@ -11656,6 +12222,7 @@
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.2.0-RC1` // `org.apereo.cas,cas-server-support-shibboleth,6.2.0-RC1,cas-server-support-shibboleth,-,automatic,-,false,-`
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.2.0-RC2` // `org.apereo.cas,cas-server-support-shibboleth,6.2.0-RC2,cas-server-support-shibboleth,-,automatic,-,false,-`
 - :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.2.0-RC3` // `org.apereo.cas,cas-server-support-shibboleth,6.2.0-RC3,cas-server-support-shibboleth,-,automatic,-,false,-`
+- :cd: `cas-server-support-shibboleth` :left_right_arrow: `org.apereo.cas:cas-server-support-shibboleth:6.2.0-RC4` // `org.apereo.cas,cas-server-support-shibboleth,6.2.0-RC4,cas-server-support-shibboleth,-,automatic,-,false,-`
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.0.0` // `org.apereo.cas,cas-server-support-shiro-authentication,6.0.0,cas-server-support-shiro-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-shiro-authentication,6.0.0-RC1,cas-server-support-shiro-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-shiro-authentication,6.0.0-RC2,cas-server-support-shiro-authentication,-,automatic,-,false,-`
@@ -11674,6 +12241,7 @@
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-shiro-authentication,6.2.0-RC1,cas-server-support-shiro-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-shiro-authentication,6.2.0-RC2,cas-server-support-shiro-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-shiro-authentication,6.2.0-RC3,cas-server-support-shiro-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-shiro-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-shiro-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-shiro-authentication,6.2.0-RC4,cas-server-support-shiro-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.0.0` // `org.apereo.cas,cas-server-support-simple-mfa,6.0.0,cas-server-support-simple-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-simple-mfa,6.0.0-RC1,cas-server-support-simple-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-simple-mfa,6.0.0-RC2,cas-server-support-simple-mfa,-,automatic,-,false,-`
@@ -11692,12 +12260,14 @@
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-simple-mfa,6.2.0-RC1,cas-server-support-simple-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-simple-mfa,6.2.0-RC2,cas-server-support-simple-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-simple-mfa,6.2.0-RC3,cas-server-support-simple-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-simple-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-simple-mfa,6.2.0-RC4,cas-server-support-simple-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.1.0` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.1.0,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.1.1` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.1.1,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.1.2` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.1.2,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.2.0-RC1,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.2.0-RC2,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.2.0-RC3,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-simple-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-simple-mfa-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-simple-mfa-core,6.2.0-RC4,cas-server-support-simple-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.0.0` // `org.apereo.cas,cas-server-support-sleuth,6.0.0,cas-server-support-sleuth,-,automatic,-,false,-`
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sleuth,6.0.0-RC1,cas-server-support-sleuth,-,automatic,-,false,-`
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sleuth,6.0.0-RC2,cas-server-support-sleuth,-,automatic,-,false,-`
@@ -11716,6 +12286,7 @@
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sleuth,6.2.0-RC1,cas-server-support-sleuth,-,automatic,-,false,-`
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sleuth,6.2.0-RC2,cas-server-support-sleuth,-,automatic,-,false,-`
 - :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sleuth,6.2.0-RC3,cas-server-support-sleuth,-,automatic,-,false,-`
+- :cd: `cas-server-support-sleuth` :left_right_arrow: `org.apereo.cas:cas-server-support-sleuth:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sleuth,6.2.0-RC4,cas-server-support-sleuth,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.0.0` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.0.0,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.0.0-RC1,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.0.0-RC2,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
@@ -11734,6 +12305,7 @@
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.2.0-RC1,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.2.0-RC2,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.2.0-RC3,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
+- :cd: `cas-server-support-sms-aws-sns` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-aws-sns:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sms-aws-sns,6.2.0-RC4,cas-server-support-sms-aws-sns,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.0.0` // `org.apereo.cas,cas-server-support-sms-clickatell,6.0.0,cas-server-support-sms-clickatell,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sms-clickatell,6.0.0-RC1,cas-server-support-sms-clickatell,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sms-clickatell,6.0.0-RC2,cas-server-support-sms-clickatell,-,automatic,-,false,-`
@@ -11752,6 +12324,7 @@
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sms-clickatell,6.2.0-RC1,cas-server-support-sms-clickatell,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sms-clickatell,6.2.0-RC2,cas-server-support-sms-clickatell,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sms-clickatell,6.2.0-RC3,cas-server-support-sms-clickatell,-,automatic,-,false,-`
+- :cd: `cas-server-support-sms-clickatell` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-clickatell:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sms-clickatell,6.2.0-RC4,cas-server-support-sms-clickatell,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.0.0` // `org.apereo.cas,cas-server-support-sms-nexmo,6.0.0,cas-server-support-sms-nexmo,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sms-nexmo,6.0.0-RC1,cas-server-support-sms-nexmo,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sms-nexmo,6.0.0-RC2,cas-server-support-sms-nexmo,-,automatic,-,false,-`
@@ -11770,6 +12343,7 @@
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sms-nexmo,6.2.0-RC1,cas-server-support-sms-nexmo,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sms-nexmo,6.2.0-RC2,cas-server-support-sms-nexmo,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sms-nexmo,6.2.0-RC3,cas-server-support-sms-nexmo,-,automatic,-,false,-`
+- :cd: `cas-server-support-sms-nexmo` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-nexmo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sms-nexmo,6.2.0-RC4,cas-server-support-sms-nexmo,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.0.0` // `org.apereo.cas,cas-server-support-sms-textmagic,6.0.0,cas-server-support-sms-textmagic,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sms-textmagic,6.0.0-RC1,cas-server-support-sms-textmagic,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sms-textmagic,6.0.0-RC2,cas-server-support-sms-textmagic,-,automatic,-,false,-`
@@ -11788,6 +12362,7 @@
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sms-textmagic,6.2.0-RC1,cas-server-support-sms-textmagic,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sms-textmagic,6.2.0-RC2,cas-server-support-sms-textmagic,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sms-textmagic,6.2.0-RC3,cas-server-support-sms-textmagic,-,automatic,-,false,-`
+- :cd: `cas-server-support-sms-textmagic` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-textmagic:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sms-textmagic,6.2.0-RC4,cas-server-support-sms-textmagic,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.0.0` // `org.apereo.cas,cas-server-support-sms-twilio,6.0.0,cas-server-support-sms-twilio,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.0.0-RC1` // `org.apereo.cas,cas-server-support-sms-twilio,6.0.0-RC1,cas-server-support-sms-twilio,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.0.0-RC2` // `org.apereo.cas,cas-server-support-sms-twilio,6.0.0-RC2,cas-server-support-sms-twilio,-,automatic,-,false,-`
@@ -11806,6 +12381,7 @@
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.2.0-RC1` // `org.apereo.cas,cas-server-support-sms-twilio,6.2.0-RC1,cas-server-support-sms-twilio,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.2.0-RC2` // `org.apereo.cas,cas-server-support-sms-twilio,6.2.0-RC2,cas-server-support-sms-twilio,-,automatic,-,false,-`
 - :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.2.0-RC3` // `org.apereo.cas,cas-server-support-sms-twilio,6.2.0-RC3,cas-server-support-sms-twilio,-,automatic,-,false,-`
+- :cd: `cas-server-support-sms-twilio` :left_right_arrow: `org.apereo.cas:cas-server-support-sms-twilio:6.2.0-RC4` // `org.apereo.cas,cas-server-support-sms-twilio,6.2.0-RC4,cas-server-support-sms-twilio,-,automatic,-,false,-`
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.0.0` // `org.apereo.cas,cas-server-support-soap-authentication,6.0.0,cas-server-support-soap-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.0.0-RC4` // `org.apereo.cas,cas-server-support-soap-authentication,6.0.0-RC4,cas-server-support-soap-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.0.1` // `org.apereo.cas,cas-server-support-soap-authentication,6.0.1,cas-server-support-soap-authentication,-,automatic,-,false,-`
@@ -11821,6 +12397,7 @@
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-soap-authentication,6.2.0-RC1,cas-server-support-soap-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-soap-authentication,6.2.0-RC2,cas-server-support-soap-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-soap-authentication,6.2.0-RC3,cas-server-support-soap-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-soap-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-soap-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-soap-authentication,6.2.0-RC4,cas-server-support-soap-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.0.0` // `org.apereo.cas,cas-server-support-spnego,6.0.0,cas-server-support-spnego,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.0.0-RC1` // `org.apereo.cas,cas-server-support-spnego,6.0.0-RC1,cas-server-support-spnego,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.0.0-RC2` // `org.apereo.cas,cas-server-support-spnego,6.0.0-RC2,cas-server-support-spnego,-,automatic,-,false,-`
@@ -11839,6 +12416,7 @@
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.2.0-RC1` // `org.apereo.cas,cas-server-support-spnego,6.2.0-RC1,cas-server-support-spnego,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.2.0-RC2` // `org.apereo.cas,cas-server-support-spnego,6.2.0-RC2,cas-server-support-spnego,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.2.0-RC3` // `org.apereo.cas,cas-server-support-spnego,6.2.0-RC3,cas-server-support-spnego,-,automatic,-,false,-`
+- :cd: `cas-server-support-spnego` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego:6.2.0-RC4` // `org.apereo.cas,cas-server-support-spnego,6.2.0-RC4,cas-server-support-spnego,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.0.0` // `org.apereo.cas,cas-server-support-spnego-webflow,6.0.0,cas-server-support-spnego-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-spnego-webflow,6.0.0-RC1,cas-server-support-spnego-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-spnego-webflow,6.0.0-RC2,cas-server-support-spnego-webflow,-,automatic,-,false,-`
@@ -11857,6 +12435,7 @@
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-spnego-webflow,6.2.0-RC1,cas-server-support-spnego-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-spnego-webflow,6.2.0-RC2,cas-server-support-spnego-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-spnego-webflow,6.2.0-RC3,cas-server-support-spnego-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-spnego-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-spnego-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-spnego-webflow,6.2.0-RC4,cas-server-support-spnego-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-api,6.0.0,cas-server-support-surrogate-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-api,6.0.0-RC1,cas-server-support-surrogate-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-api,6.0.0-RC2,cas-server-support-surrogate-api,-,automatic,-,false,-`
@@ -11875,6 +12454,7 @@
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-api,6.2.0-RC1,cas-server-support-surrogate-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-api,6.2.0-RC2,cas-server-support-surrogate-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-api,6.2.0-RC3,cas-server-support-surrogate-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-api` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-api,6.2.0-RC4,cas-server-support-surrogate-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.0.0,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.0.0-RC1,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.0.0-RC2,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
@@ -11893,6 +12473,7 @@
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.2.0-RC1,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.2.0-RC2,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.2.0-RC3,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication,6.2.0-RC4,cas-server-support-surrogate-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.0.0,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.0.0-RC3,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.0.0-RC4,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
@@ -11909,6 +12490,7 @@
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.2.0-RC1,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.2.0-RC2,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.2.0-RC3,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-authentication-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication-couchdb,6.2.0-RC4,cas-server-support-surrogate-authentication-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.0.0,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.0.0-RC1,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.0.0-RC2,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
@@ -11927,6 +12509,7 @@
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.2.0-RC1,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.2.0-RC2,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.2.0-RC3,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-authentication-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication-jdbc,6.2.0-RC4,cas-server-support-surrogate-authentication-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.0.0,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.0.0-RC1,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.0.0-RC2,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
@@ -11945,6 +12528,7 @@
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.2.0-RC1,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.2.0-RC2,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.2.0-RC3,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-authentication-ldap` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-ldap:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication-ldap,6.2.0-RC4,cas-server-support-surrogate-authentication-ldap,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.0.0,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.0.0-RC1,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.0.0-RC2,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
@@ -11963,6 +12547,7 @@
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.2.0-RC1,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.2.0-RC2,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.2.0-RC3,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-authentication-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-authentication-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-authentication-rest,6.2.0-RC4,cas-server-support-surrogate-authentication-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.0.0` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.0.0,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.0.0-RC1,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.0.0-RC2,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
@@ -11981,6 +12566,8 @@
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.2.0-RC1,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.2.0-RC2,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.2.0-RC3,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-surrogate-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-surrogate-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-surrogate-webflow,6.2.0-RC4,cas-server-support-surrogate-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-swagger` :left_right_arrow: `org.apereo.cas:cas-server-support-swagger:6.2.0-RC4` // `org.apereo.cas,cas-server-support-swagger,6.2.0-RC4,cas-server-support-swagger,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.0.0` // `org.apereo.cas,cas-server-support-swivel,6.0.0,cas-server-support-swivel,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.0.0-RC1` // `org.apereo.cas,cas-server-support-swivel,6.0.0-RC1,cas-server-support-swivel,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.0.0-RC2` // `org.apereo.cas,cas-server-support-swivel,6.0.0-RC2,cas-server-support-swivel,-,automatic,-,false,-`
@@ -11999,6 +12586,7 @@
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.2.0-RC1` // `org.apereo.cas,cas-server-support-swivel,6.2.0-RC1,cas-server-support-swivel,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.2.0-RC2` // `org.apereo.cas,cas-server-support-swivel,6.2.0-RC2,cas-server-support-swivel,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.2.0-RC3` // `org.apereo.cas,cas-server-support-swivel,6.2.0-RC3,cas-server-support-swivel,-,automatic,-,false,-`
+- :cd: `cas-server-support-swivel` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel:6.2.0-RC4` // `org.apereo.cas,cas-server-support-swivel,6.2.0-RC4,cas-server-support-swivel,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.0.0` // `org.apereo.cas,cas-server-support-swivel-core,6.0.0,cas-server-support-swivel-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-swivel-core,6.0.0-RC1,cas-server-support-swivel-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-swivel-core,6.0.0-RC2,cas-server-support-swivel-core,-,automatic,-,false,-`
@@ -12017,6 +12605,7 @@
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-swivel-core,6.2.0-RC1,cas-server-support-swivel-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-swivel-core,6.2.0-RC2,cas-server-support-swivel-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-swivel-core,6.2.0-RC3,cas-server-support-swivel-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-swivel-core` :left_right_arrow: `org.apereo.cas:cas-server-support-swivel-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-swivel-core,6.2.0-RC4,cas-server-support-swivel-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.0.0` // `org.apereo.cas,cas-server-support-syncope-authentication,6.0.0,cas-server-support-syncope-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-syncope-authentication,6.0.0-RC1,cas-server-support-syncope-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-syncope-authentication,6.0.0-RC2,cas-server-support-syncope-authentication,-,automatic,-,false,-`
@@ -12035,6 +12624,7 @@
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-syncope-authentication,6.2.0-RC1,cas-server-support-syncope-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-syncope-authentication,6.2.0-RC2,cas-server-support-syncope-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-syncope-authentication,6.2.0-RC3,cas-server-support-syncope-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-syncope-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-syncope-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-syncope-authentication,6.2.0-RC4,cas-server-support-syncope-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.0.0` // `org.apereo.cas,cas-server-support-themes,6.0.0,cas-server-support-themes,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.0.0-RC1` // `org.apereo.cas,cas-server-support-themes,6.0.0-RC1,cas-server-support-themes,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.0.0-RC2` // `org.apereo.cas,cas-server-support-themes,6.0.0-RC2,cas-server-support-themes,-,automatic,-,false,-`
@@ -12053,8 +12643,11 @@
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.2.0-RC1` // `org.apereo.cas,cas-server-support-themes,6.2.0-RC1,cas-server-support-themes,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.2.0-RC2` // `org.apereo.cas,cas-server-support-themes,6.2.0-RC2,cas-server-support-themes,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.2.0-RC3` // `org.apereo.cas,cas-server-support-themes,6.2.0-RC3,cas-server-support-themes,-,automatic,-,false,-`
+- :cd: `cas-server-support-themes` :left_right_arrow: `org.apereo.cas:cas-server-support-themes:6.2.0-RC4` // `org.apereo.cas,cas-server-support-themes,6.2.0-RC4,cas-server-support-themes,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes-collection` :left_right_arrow: `org.apereo.cas:cas-server-support-themes-collection:6.2.0-RC3` // `org.apereo.cas,cas-server-support-themes-collection,6.2.0-RC3,cas-server-support-themes-collection,-,automatic,-,false,-`
+- :cd: `cas-server-support-themes-collection` :left_right_arrow: `org.apereo.cas:cas-server-support-themes-collection:6.2.0-RC4` // `org.apereo.cas,cas-server-support-themes-collection,6.2.0-RC4,cas-server-support-themes-collection,-,automatic,-,false,-`
 - :cd: `cas-server-support-themes-core` :left_right_arrow: `org.apereo.cas:cas-server-support-themes-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-themes-core,6.2.0-RC3,cas-server-support-themes-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-themes-core` :left_right_arrow: `org.apereo.cas:cas-server-support-themes-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-themes-core,6.2.0-RC4,cas-server-support-themes-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.0.0` // `org.apereo.cas,cas-server-support-throttle,6.0.0,cas-server-support-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.0.0-RC1` // `org.apereo.cas,cas-server-support-throttle,6.0.0-RC1,cas-server-support-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.0.0-RC2` // `org.apereo.cas,cas-server-support-throttle,6.0.0-RC2,cas-server-support-throttle,-,automatic,-,false,-`
@@ -12073,6 +12666,7 @@
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle,6.2.0-RC1,cas-server-support-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle,6.2.0-RC2,cas-server-support-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle,6.2.0-RC3,cas-server-support-throttle,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle,6.2.0-RC4,cas-server-support-throttle,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.0.0` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.0.0,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.0.0-RC4` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.0.0-RC4,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.0.1` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.0.1,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
@@ -12088,6 +12682,7 @@
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.2.0-RC1,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.2.0-RC2,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.2.0-RC3,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-bucket4j` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-bucket4j:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-bucket4j,6.2.0-RC4,cas-server-support-throttle-bucket4j,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.0.0` // `org.apereo.cas,cas-server-support-throttle-core,6.0.0,cas-server-support-throttle-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-throttle-core,6.0.0-RC1,cas-server-support-throttle-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.0.0-RC4` // `org.apereo.cas,cas-server-support-throttle-core,6.0.0-RC4,cas-server-support-throttle-core,-,automatic,-,false,-`
@@ -12104,6 +12699,7 @@
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-core,6.2.0-RC1,cas-server-support-throttle-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-core,6.2.0-RC2,cas-server-support-throttle-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-core,6.2.0-RC3,cas-server-support-throttle-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-core` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-core,6.2.0-RC4,cas-server-support-throttle-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.0.0,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.0.0-RC3,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.0.0-RC4,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
@@ -12120,6 +12716,7 @@
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.2.0-RC1,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.2.0-RC2,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.2.0-RC3,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-couchdb,6.2.0-RC4,cas-server-support-throttle-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.0.0` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.0.0,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.0.0-RC3` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.0.0-RC3,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.0.0-RC4` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.0.0-RC4,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
@@ -12136,6 +12733,7 @@
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.2.0-RC1,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.2.0-RC2,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.2.0-RC3,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-hazelcast` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-hazelcast:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-hazelcast,6.2.0-RC4,cas-server-support-throttle-hazelcast,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.0.0,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.0.0-RC1,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.0.0-RC2,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
@@ -12154,6 +12752,7 @@
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.2.0-RC1,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.2.0-RC2,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.2.0-RC3,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-jdbc,6.2.0-RC4,cas-server-support-throttle-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.0.0` // `org.apereo.cas,cas-server-support-throttle-mongo,6.0.0,cas-server-support-throttle-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-throttle-mongo,6.0.0-RC1,cas-server-support-throttle-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-throttle-mongo,6.0.0-RC2,cas-server-support-throttle-mongo,-,automatic,-,false,-`
@@ -12172,6 +12771,7 @@
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-mongo,6.2.0-RC1,cas-server-support-throttle-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-mongo,6.2.0-RC2,cas-server-support-throttle-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-mongo,6.2.0-RC3,cas-server-support-throttle-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-mongo,6.2.0-RC4,cas-server-support-throttle-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.1.0` // `org.apereo.cas,cas-server-support-throttle-redis,6.1.0,cas-server-support-throttle-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.1.0-RC4` // `org.apereo.cas,cas-server-support-throttle-redis,6.1.0-RC4,cas-server-support-throttle-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.1.0-RC5` // `org.apereo.cas,cas-server-support-throttle-redis,6.1.0-RC5,cas-server-support-throttle-redis,-,automatic,-,false,-`
@@ -12181,7 +12781,9 @@
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-throttle-redis,6.2.0-RC1,cas-server-support-throttle-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-throttle-redis,6.2.0-RC2,cas-server-support-throttle-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-throttle-redis,6.2.0-RC3,cas-server-support-throttle-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-throttle-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-throttle-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-throttle-redis,6.2.0-RC4,cas-server-support-throttle-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-thymeleaf` :left_right_arrow: `org.apereo.cas:cas-server-support-thymeleaf:6.2.0-RC3` // `org.apereo.cas,cas-server-support-thymeleaf,6.2.0-RC3,cas-server-support-thymeleaf,-,automatic,-,false,-`
+- :cd: `cas-server-support-thymeleaf` :left_right_arrow: `org.apereo.cas:cas-server-support-thymeleaf:6.2.0-RC4` // `org.apereo.cas,cas-server-support-thymeleaf,6.2.0-RC4,cas-server-support-thymeleaf,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.0.0` // `org.apereo.cas,cas-server-support-token-authentication,6.0.0,cas-server-support-token-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.0.0-RC1` // `org.apereo.cas,cas-server-support-token-authentication,6.0.0-RC1,cas-server-support-token-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.0.0-RC2` // `org.apereo.cas,cas-server-support-token-authentication,6.0.0-RC2,cas-server-support-token-authentication,-,automatic,-,false,-`
@@ -12200,6 +12802,7 @@
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.2.0-RC1` // `org.apereo.cas,cas-server-support-token-authentication,6.2.0-RC1,cas-server-support-token-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.2.0-RC2` // `org.apereo.cas,cas-server-support-token-authentication,6.2.0-RC2,cas-server-support-token-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.2.0-RC3` // `org.apereo.cas,cas-server-support-token-authentication,6.2.0-RC3,cas-server-support-token-authentication,-,automatic,-,false,-`
+- :cd: `cas-server-support-token-authentication` :left_right_arrow: `org.apereo.cas:cas-server-support-token-authentication:6.2.0-RC4` // `org.apereo.cas,cas-server-support-token-authentication,6.2.0-RC4,cas-server-support-token-authentication,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.0.0` // `org.apereo.cas,cas-server-support-token-core,6.0.0,cas-server-support-token-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-token-core,6.0.0-RC1,cas-server-support-token-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-token-core,6.0.0-RC2,cas-server-support-token-core,-,automatic,-,false,-`
@@ -12218,6 +12821,7 @@
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-token-core,6.2.0-RC1,cas-server-support-token-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-token-core,6.2.0-RC2,cas-server-support-token-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-token-core,6.2.0-RC3,cas-server-support-token-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-token-core` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-token-core,6.2.0-RC4,cas-server-support-token-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.1.0` // `org.apereo.cas,cas-server-support-token-core-api,6.1.0,cas-server-support-token-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.1.0-RC2` // `org.apereo.cas,cas-server-support-token-core-api,6.1.0-RC2,cas-server-support-token-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.1.0-RC3` // `org.apereo.cas,cas-server-support-token-core-api,6.1.0-RC3,cas-server-support-token-core-api,-,automatic,-,false,-`
@@ -12229,6 +12833,7 @@
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-token-core-api,6.2.0-RC1,cas-server-support-token-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-token-core-api,6.2.0-RC2,cas-server-support-token-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-token-core-api,6.2.0-RC3,cas-server-support-token-core-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-token-core-api` :left_right_arrow: `org.apereo.cas:cas-server-support-token-core-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-token-core-api,6.2.0-RC4,cas-server-support-token-core-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.0.0` // `org.apereo.cas,cas-server-support-token-tickets,6.0.0,cas-server-support-token-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.0.0-RC1` // `org.apereo.cas,cas-server-support-token-tickets,6.0.0-RC1,cas-server-support-token-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.0.0-RC2` // `org.apereo.cas,cas-server-support-token-tickets,6.0.0-RC2,cas-server-support-token-tickets,-,automatic,-,false,-`
@@ -12247,6 +12852,7 @@
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.2.0-RC1` // `org.apereo.cas,cas-server-support-token-tickets,6.2.0-RC1,cas-server-support-token-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.2.0-RC2` // `org.apereo.cas,cas-server-support-token-tickets,6.2.0-RC2,cas-server-support-token-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.2.0-RC3` // `org.apereo.cas,cas-server-support-token-tickets,6.2.0-RC3,cas-server-support-token-tickets,-,automatic,-,false,-`
+- :cd: `cas-server-support-token-tickets` :left_right_arrow: `org.apereo.cas:cas-server-support-token-tickets:6.2.0-RC4` // `org.apereo.cas,cas-server-support-token-tickets,6.2.0-RC4,cas-server-support-token-tickets,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.0.0` // `org.apereo.cas,cas-server-support-token-webflow,6.0.0,cas-server-support-token-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-token-webflow,6.0.0-RC1,cas-server-support-token-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-token-webflow,6.0.0-RC2,cas-server-support-token-webflow,-,automatic,-,false,-`
@@ -12265,6 +12871,7 @@
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-token-webflow,6.2.0-RC1,cas-server-support-token-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-token-webflow,6.2.0-RC2,cas-server-support-token-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-token-webflow,6.2.0-RC3,cas-server-support-token-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-token-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-token-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-token-webflow,6.2.0-RC4,cas-server-support-token-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.0.0` // `org.apereo.cas,cas-server-support-trusted,6.0.0,cas-server-support-trusted,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted,6.0.0-RC1,cas-server-support-trusted,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted,6.0.0-RC2,cas-server-support-trusted,-,automatic,-,false,-`
@@ -12283,6 +12890,7 @@
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted,6.2.0-RC1,cas-server-support-trusted,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted,6.2.0-RC2,cas-server-support-trusted,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted,6.2.0-RC3,cas-server-support-trusted,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted,6.2.0-RC4,cas-server-support-trusted,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.0.0` // `org.apereo.cas,cas-server-support-trusted-mfa,6.0.0,cas-server-support-trusted-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa,6.0.0-RC1,cas-server-support-trusted-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa,6.0.0-RC2,cas-server-support-trusted-mfa,-,automatic,-,false,-`
@@ -12301,6 +12909,7 @@
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa,6.2.0-RC1,cas-server-support-trusted-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa,6.2.0-RC2,cas-server-support-trusted-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa,6.2.0-RC3,cas-server-support-trusted-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa,6.2.0-RC4,cas-server-support-trusted-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.1.0` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.1.0,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.1.0-RC5` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.1.0-RC5,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.1.0-RC6` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.1.0-RC6,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
@@ -12309,6 +12918,7 @@
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.2.0-RC1,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.2.0-RC2,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.2.0-RC3,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-core` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-core,6.2.0-RC4,cas-server-support-trusted-mfa-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.0.0,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.0.0-RC3,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.0.0-RC4,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
@@ -12325,6 +12935,7 @@
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.2.0-RC1,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.2.0-RC2,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.2.0-RC3,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-couchdb,6.2.0-RC4,cas-server-support-trusted-mfa-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.1.0` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.1.0,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.1.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.1.0-RC4,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.1.0-RC5` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.1.0-RC5,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
@@ -12334,6 +12945,7 @@
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.2.0-RC1,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.2.0-RC2,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.2.0-RC3,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-dynamodb` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-dynamodb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-dynamodb,6.2.0-RC4,cas-server-support-trusted-mfa-dynamodb,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.0.0` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.0.0,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.0.0-RC1,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.0.0-RC2,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
@@ -12352,6 +12964,7 @@
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.2.0-RC1,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.2.0-RC2,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.2.0-RC3,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-jdbc` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-jdbc:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-jdbc,6.2.0-RC4,cas-server-support-trusted-mfa-jdbc,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.0.0` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.0.0,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.0.0-RC1,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.0.0-RC2,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
@@ -12370,6 +12983,7 @@
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.2.0-RC1,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.2.0-RC2,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.2.0-RC3,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-mongo,6.2.0-RC4,cas-server-support-trusted-mfa-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.0.0` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.0.0,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.0.0-RC1,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.0.0-RC2,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
@@ -12388,6 +13002,7 @@
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.2.0-RC1,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.2.0-RC2,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.2.0-RC3,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-mfa-rest` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-mfa-rest:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-mfa-rest,6.2.0-RC4,cas-server-support-trusted-mfa-rest,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.0.0` // `org.apereo.cas,cas-server-support-trusted-webflow,6.0.0,cas-server-support-trusted-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-trusted-webflow,6.0.0-RC1,cas-server-support-trusted-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-trusted-webflow,6.0.0-RC2,cas-server-support-trusted-webflow,-,automatic,-,false,-`
@@ -12406,6 +13021,7 @@
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-trusted-webflow,6.2.0-RC1,cas-server-support-trusted-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-trusted-webflow,6.2.0-RC2,cas-server-support-trusted-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-trusted-webflow,6.2.0-RC3,cas-server-support-trusted-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-trusted-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-trusted-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-trusted-webflow,6.2.0-RC4,cas-server-support-trusted-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.0.0` // `org.apereo.cas,cas-server-support-u2f,6.0.0,cas-server-support-u2f,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.0.0-RC1` // `org.apereo.cas,cas-server-support-u2f,6.0.0-RC1,cas-server-support-u2f,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.0.0-RC2` // `org.apereo.cas,cas-server-support-u2f,6.0.0-RC2,cas-server-support-u2f,-,automatic,-,false,-`
@@ -12424,6 +13040,7 @@
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f,6.2.0-RC1,cas-server-support-u2f,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f,6.2.0-RC2,cas-server-support-u2f,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f,6.2.0-RC3,cas-server-support-u2f,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f,6.2.0-RC4,cas-server-support-u2f,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.0.0` // `org.apereo.cas,cas-server-support-u2f-core,6.0.0,cas-server-support-u2f-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-u2f-core,6.0.0-RC1,cas-server-support-u2f-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-u2f-core,6.0.0-RC2,cas-server-support-u2f-core,-,automatic,-,false,-`
@@ -12442,6 +13059,7 @@
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f-core,6.2.0-RC1,cas-server-support-u2f-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f-core,6.2.0-RC2,cas-server-support-u2f-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f-core,6.2.0-RC3,cas-server-support-u2f-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f-core` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f-core,6.2.0-RC4,cas-server-support-u2f-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.0.0,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.0.0-RC3,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.0.0-RC4,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
@@ -12458,6 +13076,7 @@
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.2.0-RC1,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.2.0-RC2,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.2.0-RC3,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f-couchdb,6.2.0-RC4,cas-server-support-u2f-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.0.0` // `org.apereo.cas,cas-server-support-u2f-jpa,6.0.0,cas-server-support-u2f-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-u2f-jpa,6.0.0-RC1,cas-server-support-u2f-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-u2f-jpa,6.0.0-RC2,cas-server-support-u2f-jpa,-,automatic,-,false,-`
@@ -12476,6 +13095,7 @@
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f-jpa,6.2.0-RC1,cas-server-support-u2f-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f-jpa,6.2.0-RC2,cas-server-support-u2f-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f-jpa,6.2.0-RC3,cas-server-support-u2f-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f-jpa,6.2.0-RC4,cas-server-support-u2f-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.0.0` // `org.apereo.cas,cas-server-support-u2f-mongo,6.0.0,cas-server-support-u2f-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-u2f-mongo,6.0.0-RC1,cas-server-support-u2f-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-u2f-mongo,6.0.0-RC2,cas-server-support-u2f-mongo,-,automatic,-,false,-`
@@ -12494,6 +13114,7 @@
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f-mongo,6.2.0-RC1,cas-server-support-u2f-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f-mongo,6.2.0-RC2,cas-server-support-u2f-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f-mongo,6.2.0-RC3,cas-server-support-u2f-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f-mongo,6.2.0-RC4,cas-server-support-u2f-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.1.0` // `org.apereo.cas,cas-server-support-u2f-redis,6.1.0,cas-server-support-u2f-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.1.0-RC5` // `org.apereo.cas,cas-server-support-u2f-redis,6.1.0-RC5,cas-server-support-u2f-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.1.0-RC6` // `org.apereo.cas,cas-server-support-u2f-redis,6.1.0-RC6,cas-server-support-u2f-redis,-,automatic,-,false,-`
@@ -12502,6 +13123,7 @@
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.2.0-RC1` // `org.apereo.cas,cas-server-support-u2f-redis,6.2.0-RC1,cas-server-support-u2f-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-u2f-redis,6.2.0-RC2,cas-server-support-u2f-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-u2f-redis,6.2.0-RC3,cas-server-support-u2f-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-u2f-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-u2f-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-u2f-redis,6.2.0-RC4,cas-server-support-u2f-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.0.0` // `org.apereo.cas,cas-server-support-validation,6.0.0,cas-server-support-validation,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.0.0-RC1` // `org.apereo.cas,cas-server-support-validation,6.0.0-RC1,cas-server-support-validation,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.0.0-RC2` // `org.apereo.cas,cas-server-support-validation,6.0.0-RC2,cas-server-support-validation,-,automatic,-,false,-`
@@ -12520,6 +13142,7 @@
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.2.0-RC1` // `org.apereo.cas,cas-server-support-validation,6.2.0-RC1,cas-server-support-validation,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.2.0-RC2` // `org.apereo.cas,cas-server-support-validation,6.2.0-RC2,cas-server-support-validation,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.2.0-RC3` // `org.apereo.cas,cas-server-support-validation,6.2.0-RC3,cas-server-support-validation,-,automatic,-,false,-`
+- :cd: `cas-server-support-validation` :left_right_arrow: `org.apereo.cas:cas-server-support-validation:6.2.0-RC4` // `org.apereo.cas,cas-server-support-validation,6.2.0-RC4,cas-server-support-validation,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.1.0` // `org.apereo.cas,cas-server-support-validation-core,6.1.0,cas-server-support-validation-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.1.0-RC5` // `org.apereo.cas,cas-server-support-validation-core,6.1.0-RC5,cas-server-support-validation-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.1.0-RC6` // `org.apereo.cas,cas-server-support-validation-core,6.1.0-RC6,cas-server-support-validation-core,-,automatic,-,false,-`
@@ -12528,6 +13151,7 @@
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-validation-core,6.2.0-RC1,cas-server-support-validation-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-validation-core,6.2.0-RC2,cas-server-support-validation-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-validation-core,6.2.0-RC3,cas-server-support-validation-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-validation-core` :left_right_arrow: `org.apereo.cas:cas-server-support-validation-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-validation-core,6.2.0-RC4,cas-server-support-validation-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.0.0` // `org.apereo.cas,cas-server-support-ws-idp,6.0.0,cas-server-support-ws-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ws-idp,6.0.0-RC1,cas-server-support-ws-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ws-idp,6.0.0-RC2,cas-server-support-ws-idp,-,automatic,-,false,-`
@@ -12546,6 +13170,7 @@
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ws-idp,6.2.0-RC1,cas-server-support-ws-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ws-idp,6.2.0-RC2,cas-server-support-ws-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ws-idp,6.2.0-RC3,cas-server-support-ws-idp,-,automatic,-,false,-`
+- :cd: `cas-server-support-ws-idp` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ws-idp,6.2.0-RC4,cas-server-support-ws-idp,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.0.0` // `org.apereo.cas,cas-server-support-ws-idp-api,6.0.0,cas-server-support-ws-idp-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ws-idp-api,6.0.0-RC1,cas-server-support-ws-idp-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ws-idp-api,6.0.0-RC2,cas-server-support-ws-idp-api,-,automatic,-,false,-`
@@ -12564,6 +13189,7 @@
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ws-idp-api,6.2.0-RC1,cas-server-support-ws-idp-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ws-idp-api,6.2.0-RC2,cas-server-support-ws-idp-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ws-idp-api,6.2.0-RC3,cas-server-support-ws-idp-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-ws-idp-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-idp-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ws-idp-api,6.2.0-RC4,cas-server-support-ws-idp-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.0.0` // `org.apereo.cas,cas-server-support-ws-sts,6.0.0,cas-server-support-ws-sts,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.0.0-RC1` // `org.apereo.cas,cas-server-support-ws-sts,6.0.0-RC1,cas-server-support-ws-sts,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.0.0-RC2` // `org.apereo.cas,cas-server-support-ws-sts,6.0.0-RC2,cas-server-support-ws-sts,-,automatic,-,false,-`
@@ -12582,6 +13208,7 @@
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ws-sts,6.2.0-RC1,cas-server-support-ws-sts,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ws-sts,6.2.0-RC2,cas-server-support-ws-sts,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ws-sts,6.2.0-RC3,cas-server-support-ws-sts,-,automatic,-,false,-`
+- :cd: `cas-server-support-ws-sts` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ws-sts,6.2.0-RC4,cas-server-support-ws-sts,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.1.0` // `org.apereo.cas,cas-server-support-ws-sts-api,6.1.0,cas-server-support-ws-sts-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.1.0-RC3` // `org.apereo.cas,cas-server-support-ws-sts-api,6.1.0-RC3,cas-server-support-ws-sts-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.1.0-RC4` // `org.apereo.cas,cas-server-support-ws-sts-api,6.1.0-RC4,cas-server-support-ws-sts-api,-,automatic,-,false,-`
@@ -12592,6 +13219,7 @@
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.2.0-RC1` // `org.apereo.cas,cas-server-support-ws-sts-api,6.2.0-RC1,cas-server-support-ws-sts-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.2.0-RC2` // `org.apereo.cas,cas-server-support-ws-sts-api,6.2.0-RC2,cas-server-support-ws-sts-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.2.0-RC3` // `org.apereo.cas,cas-server-support-ws-sts-api,6.2.0-RC3,cas-server-support-ws-sts-api,-,automatic,-,false,-`
+- :cd: `cas-server-support-ws-sts-api` :left_right_arrow: `org.apereo.cas:cas-server-support-ws-sts-api:6.2.0-RC4` // `org.apereo.cas,cas-server-support-ws-sts-api,6.2.0-RC4,cas-server-support-ws-sts-api,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.0.0` // `org.apereo.cas,cas-server-support-wsfederation,6.0.0,cas-server-support-wsfederation,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.0.0-RC1` // `org.apereo.cas,cas-server-support-wsfederation,6.0.0-RC1,cas-server-support-wsfederation,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.0.0-RC2` // `org.apereo.cas,cas-server-support-wsfederation,6.0.0-RC2,cas-server-support-wsfederation,-,automatic,-,false,-`
@@ -12610,6 +13238,7 @@
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.2.0-RC1` // `org.apereo.cas,cas-server-support-wsfederation,6.2.0-RC1,cas-server-support-wsfederation,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.2.0-RC2` // `org.apereo.cas,cas-server-support-wsfederation,6.2.0-RC2,cas-server-support-wsfederation,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.2.0-RC3` // `org.apereo.cas,cas-server-support-wsfederation,6.2.0-RC3,cas-server-support-wsfederation,-,automatic,-,false,-`
+- :cd: `cas-server-support-wsfederation` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation:6.2.0-RC4` // `org.apereo.cas,cas-server-support-wsfederation,6.2.0-RC4,cas-server-support-wsfederation,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.0.0` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.0.0,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.0.0-RC1,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.0.0-RC2,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
@@ -12628,6 +13257,7 @@
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.2.0-RC1,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.2.0-RC2,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.2.0-RC3,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-wsfederation-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-wsfederation-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-wsfederation-webflow,6.2.0-RC4,cas-server-support-wsfederation-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.0.0` // `org.apereo.cas,cas-server-support-x509,6.0.0,cas-server-support-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.0.0-RC1` // `org.apereo.cas,cas-server-support-x509,6.0.0-RC1,cas-server-support-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.0.0-RC2` // `org.apereo.cas,cas-server-support-x509,6.0.0-RC2,cas-server-support-x509,-,automatic,-,false,-`
@@ -12646,6 +13276,7 @@
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.2.0-RC1` // `org.apereo.cas,cas-server-support-x509,6.2.0-RC1,cas-server-support-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.2.0-RC2` // `org.apereo.cas,cas-server-support-x509,6.2.0-RC2,cas-server-support-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.2.0-RC3` // `org.apereo.cas,cas-server-support-x509,6.2.0-RC3,cas-server-support-x509,-,automatic,-,false,-`
+- :cd: `cas-server-support-x509` :left_right_arrow: `org.apereo.cas:cas-server-support-x509:6.2.0-RC4` // `org.apereo.cas,cas-server-support-x509,6.2.0-RC4,cas-server-support-x509,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.0.0` // `org.apereo.cas,cas-server-support-x509-core,6.0.0,cas-server-support-x509-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-x509-core,6.0.0-RC1,cas-server-support-x509-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-x509-core,6.0.0-RC2,cas-server-support-x509-core,-,automatic,-,false,-`
@@ -12664,6 +13295,7 @@
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-x509-core,6.2.0-RC1,cas-server-support-x509-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-x509-core,6.2.0-RC2,cas-server-support-x509-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-x509-core,6.2.0-RC3,cas-server-support-x509-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-x509-core` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-x509-core,6.2.0-RC4,cas-server-support-x509-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.0.0` // `org.apereo.cas,cas-server-support-x509-webflow,6.0.0,cas-server-support-x509-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.0.0-RC1` // `org.apereo.cas,cas-server-support-x509-webflow,6.0.0-RC1,cas-server-support-x509-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.0.0-RC2` // `org.apereo.cas,cas-server-support-x509-webflow,6.0.0-RC2,cas-server-support-x509-webflow,-,automatic,-,false,-`
@@ -12682,6 +13314,7 @@
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.2.0-RC1` // `org.apereo.cas,cas-server-support-x509-webflow,6.2.0-RC1,cas-server-support-x509-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.2.0-RC2` // `org.apereo.cas,cas-server-support-x509-webflow,6.2.0-RC2,cas-server-support-x509-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.2.0-RC3` // `org.apereo.cas,cas-server-support-x509-webflow,6.2.0-RC3,cas-server-support-x509-webflow,-,automatic,-,false,-`
+- :cd: `cas-server-support-x509-webflow` :left_right_arrow: `org.apereo.cas:cas-server-support-x509-webflow:6.2.0-RC4` // `org.apereo.cas,cas-server-support-x509-webflow,6.2.0-RC4,cas-server-support-x509-webflow,-,automatic,-,false,-`
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.0.0` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.0.0,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.0.0-RC1,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.0.0-RC2,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
@@ -12700,6 +13333,7 @@
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.2.0-RC1,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.2.0-RC2,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.2.0-RC3,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
+- :cd: `cas-server-support-yaml-service-registry` :left_right_arrow: `org.apereo.cas:cas-server-support-yaml-service-registry:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yaml-service-registry,6.2.0-RC4,cas-server-support-yaml-service-registry,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.0.0` // `org.apereo.cas,cas-server-support-yubikey,6.0.0,cas-server-support-yubikey,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yubikey,6.0.0-RC1,cas-server-support-yubikey,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yubikey,6.0.0-RC2,cas-server-support-yubikey,-,automatic,-,false,-`
@@ -12718,6 +13352,7 @@
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey,6.2.0-RC1,cas-server-support-yubikey,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey,6.2.0-RC2,cas-server-support-yubikey,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey,6.2.0-RC3,cas-server-support-yubikey,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey,6.2.0-RC4,cas-server-support-yubikey,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.0.0` // `org.apereo.cas,cas-server-support-yubikey-core,6.0.0,cas-server-support-yubikey-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-core,6.0.0-RC1,cas-server-support-yubikey-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-core,6.0.0-RC2,cas-server-support-yubikey-core,-,automatic,-,false,-`
@@ -12736,6 +13371,7 @@
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-core,6.2.0-RC1,cas-server-support-yubikey-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-core,6.2.0-RC2,cas-server-support-yubikey-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-core,6.2.0-RC3,cas-server-support-yubikey-core,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-core` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-core,6.2.0-RC4,cas-server-support-yubikey-core,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.0.0` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.0.0,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.0.0-RC1,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.0.0-RC2,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
@@ -12754,6 +13390,7 @@
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.2.0-RC1,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.2.0-RC2,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.2.0-RC3,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-core-mfa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-core-mfa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-core-mfa,6.2.0-RC4,cas-server-support-yubikey-core-mfa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.0.0` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.0.0,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.0.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.0.0-RC3,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.0.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.0.0-RC4,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
@@ -12770,6 +13407,7 @@
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.2.0-RC1,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.2.0-RC2,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.2.0-RC3,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-couchdb` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-couchdb:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-couchdb,6.2.0-RC4,cas-server-support-yubikey-couchdb,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.0.0` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.0.0,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.0.0-RC1,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.0.0-RC2,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
@@ -12788,6 +13426,7 @@
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.2.0-RC1,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.2.0-RC2,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.2.0-RC3,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-jpa` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-jpa:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-jpa,6.2.0-RC4,cas-server-support-yubikey-jpa,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.0.0` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.0.0,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.0.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.0.0-RC1,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.0.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.0.0-RC2,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
@@ -12806,8 +13445,10 @@
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.2.0-RC1` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.2.0-RC1,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.2.0-RC2,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.2.0-RC3,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-mongo` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-mongo:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-mongo,6.2.0-RC4,cas-server-support-yubikey-mongo,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-redis:6.2.0-RC2` // `org.apereo.cas,cas-server-support-yubikey-redis,6.2.0-RC2,cas-server-support-yubikey-redis,-,automatic,-,false,-`
 - :cd: `cas-server-support-yubikey-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-redis:6.2.0-RC3` // `org.apereo.cas,cas-server-support-yubikey-redis,6.2.0-RC3,cas-server-support-yubikey-redis,-,automatic,-,false,-`
+- :cd: `cas-server-support-yubikey-redis` :left_right_arrow: `org.apereo.cas:cas-server-support-yubikey-redis:6.2.0-RC4` // `org.apereo.cas,cas-server-support-yubikey-redis,6.2.0-RC4,cas-server-support-yubikey-redis,-,automatic,-,false,-`
 - :cd: `cas-server-webapp` :left_right_arrow: `org.apereo.cas:cas-server-webapp:6.1.0-RC2` // `org.apereo.cas,cas-server-webapp,6.1.0-RC2,cas-server-webapp,-,automatic,-,false,-`
 - :cd: `cas-server-webapp` :left_right_arrow: `org.apereo.cas:cas-server-webapp:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp,6.1.0-RC3,cas-server-webapp,-,automatic,-,false,-`
 - :cd: `cas-server-webapp` :left_right_arrow: `org.apereo.cas:cas-server-webapp:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp,6.1.0-RC4,cas-server-webapp,-,automatic,-,false,-`
@@ -12832,6 +13473,7 @@
 - :cd: `cas-server-webapp-config` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-config,6.2.0-RC1,cas-server-webapp-config,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-config` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-config,6.2.0-RC2,cas-server-webapp-config,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-config` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-config,6.2.0-RC3,cas-server-webapp-config,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-config` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-config,6.2.0-RC4,cas-server-webapp-config,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC2` // `org.apereo.cas,cas-server-webapp-config-server,6.1.0-RC2,cas-server-webapp-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp-config-server,6.1.0-RC3,cas-server-webapp-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp-config-server,6.1.0-RC4,cas-server-webapp-config-server,-,automatic,-,false,-`
@@ -12856,6 +13498,7 @@
 - :cd: `cas-server-webapp-init` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-init,6.2.0-RC1,cas-server-webapp-init,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-init,6.2.0-RC2,cas-server-webapp-init,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-init,6.2.0-RC3,cas-server-webapp-init,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-init` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-init,6.2.0-RC4,cas-server-webapp-init,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.0.0` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.0.0,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.0.0-RC3` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.0.0-RC3,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.0.0-RC4` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.0.0-RC4,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
@@ -12872,6 +13515,7 @@
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.2.0-RC1,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.2.0-RC2,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.2.0-RC3,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-init-bootadmin-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-bootadmin-server:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-init-bootadmin-server,6.2.0-RC4,cas-server-webapp-init-bootadmin-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.0.0` // `org.apereo.cas,cas-server-webapp-init-config-server,6.0.0,cas-server-webapp-init-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.0.0-RC3` // `org.apereo.cas,cas-server-webapp-init-config-server,6.0.0-RC3,cas-server-webapp-init-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.0.0-RC4` // `org.apereo.cas,cas-server-webapp-init-config-server,6.0.0-RC4,cas-server-webapp-init-config-server,-,automatic,-,false,-`
@@ -12888,6 +13532,7 @@
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-init-config-server,6.2.0-RC1,cas-server-webapp-init-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-init-config-server,6.2.0-RC2,cas-server-webapp-init-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-init-config-server,6.2.0-RC3,cas-server-webapp-init-config-server,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-init-config-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-config-server:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-init-config-server,6.2.0-RC4,cas-server-webapp-init-config-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.0.0` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.0.0,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.0.0-RC3` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.0.0-RC3,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.0.0-RC4` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.0.0-RC4,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
@@ -12904,6 +13549,7 @@
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.2.0-RC1,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.2.0-RC2,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.2.0-RC3,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-init-eureka-server` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-eureka-server:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-init-eureka-server,6.2.0-RC4,cas-server-webapp-init-eureka-server,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.0.0` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.0.0,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.0.0-RC4` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.0.0-RC4,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.0.1` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.0.1,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
@@ -12919,6 +13565,7 @@
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.2.0-RC1,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.2.0-RC2,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.2.0-RC3,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-init-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-init-tomcat:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-init-tomcat,6.2.0-RC4,cas-server-webapp-init-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-jetty` :left_right_arrow: `org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC2` // `org.apereo.cas,cas-server-webapp-jetty,6.1.0-RC2,cas-server-webapp-jetty,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-jetty` :left_right_arrow: `org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp-jetty,6.1.0-RC3,cas-server-webapp-jetty,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-jetty` :left_right_arrow: `org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp-jetty,6.1.0-RC4,cas-server-webapp-jetty,-,automatic,-,false,-`
@@ -12930,6 +13577,7 @@
 - :cd: `cas-server-webapp-resources` :left_right_arrow: `org.apereo.cas:cas-server-webapp-resources:6.2.0-RC1` // `org.apereo.cas,cas-server-webapp-resources,6.2.0-RC1,cas-server-webapp-resources,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-resources` :left_right_arrow: `org.apereo.cas:cas-server-webapp-resources:6.2.0-RC2` // `org.apereo.cas,cas-server-webapp-resources,6.2.0-RC2,cas-server-webapp-resources,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-resources` :left_right_arrow: `org.apereo.cas:cas-server-webapp-resources:6.2.0-RC3` // `org.apereo.cas,cas-server-webapp-resources,6.2.0-RC3,cas-server-webapp-resources,-,automatic,-,false,-`
+- :cd: `cas-server-webapp-resources` :left_right_arrow: `org.apereo.cas:cas-server-webapp-resources:6.2.0-RC4` // `org.apereo.cas,cas-server-webapp-resources,6.2.0-RC4,cas-server-webapp-resources,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC2` // `org.apereo.cas,cas-server-webapp-tomcat,6.1.0-RC2,cas-server-webapp-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC3` // `org.apereo.cas,cas-server-webapp-tomcat,6.1.0-RC3,cas-server-webapp-tomcat,-,automatic,-,false,-`
 - :cd: `cas-server-webapp-tomcat` :left_right_arrow: `org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4` // `org.apereo.cas,cas-server-webapp-tomcat,6.1.0-RC4,cas-server-webapp-tomcat,-,automatic,-,false,-`
@@ -14038,6 +14686,7 @@
 - :cd: `org.drools.wb.enum.editor.api` - `org.drools:drools-wb-enum-editor-api:7.34.0.Final` // `org.drools,drools-wb-enum-editor-api,7.34.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` - `org.drools:drools-wb-enum-editor-api:7.35.0.Final` // `org.drools,drools-wb-enum-editor-api,7.35.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.api` - `org.drools:drools-wb-enum-editor-api:7.36.0.Final` // `org.drools,drools-wb-enum-editor-api,7.36.0.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.api` - `org.drools:drools-wb-enum-editor-api:7.36.1.Final` // `org.drools,drools-wb-enum-editor-api,7.36.1.Final,org.drools.wb.enum.editor.api,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.10.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.10.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.11.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.11.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.12.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.12.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
@@ -14065,6 +14714,7 @@
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.34.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.34.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.35.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.35.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.36.0.Final` // `org.drools,drools-wb-enum-editor-backend,7.36.0.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.backend` - `org.drools:drools-wb-enum-editor-backend:7.36.1.Final` // `org.drools,drools-wb-enum-editor-backend,7.36.1.Final,org.drools.wb.enum.editor.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.10.0.Final` // `org.drools,drools-wb-enum-editor-client,7.10.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.11.0.Final` // `org.drools,drools-wb-enum-editor-client,7.11.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.12.0.Final` // `org.drools,drools-wb-enum-editor-client,7.12.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
@@ -14092,6 +14742,7 @@
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.34.0.Final` // `org.drools,drools-wb-enum-editor-client,7.34.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.35.0.Final` // `org.drools,drools-wb-enum-editor-client,7.35.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.36.0.Final` // `org.drools,drools-wb-enum-editor-client,7.36.0.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.enum.editor.client` - `org.drools:drools-wb-enum-editor-client:7.36.1.Final` // `org.drools,drools-wb-enum-editor-client,7.36.1.Final,org.drools.wb.enum.editor.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` - `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.13.v20181111` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.13.v20181111,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` - `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.14.v20181114` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.14.v20181114,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
@@ -14466,6 +15117,7 @@
 - :cd: `org.kie.wb.common.default.editor.api` - `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.34.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.34.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` - `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.35.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.35.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.api` - `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.36.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.36.0.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.api` - `org.kie.workbench.screens:kie-wb-common-default-editor-api:7.36.1.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-api,7.36.1.Final,org.kie.wb.common.default.editor.api,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.10.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.11.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.12.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
@@ -14493,6 +15145,7 @@
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.34.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.34.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.35.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.35.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.36.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.36.0.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.backend` - `org.kie.workbench.screens:kie-wb-common-default-editor-backend:7.36.1.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-backend,7.36.1.Final,org.kie.wb.common.default.editor.backend,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.10.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.10.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.11.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.11.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.12.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.12.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
@@ -14520,6 +15173,7 @@
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.34.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.34.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.35.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.35.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.36.0.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.36.0.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
+- :cd: `org.kie.wb.common.default.editor.client` - `org.kie.workbench.screens:kie-wb-common-default-editor-client:7.36.1.Final` // `org.kie.workbench.screens,kie-wb-common-default-editor-client,7.36.1.Final,org.kie.wb.common.default.editor.client,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway` - `org.lambdify:lambdify-apigateway:0.1.0.Final` // `org.lambdify,lambdify-apigateway,0.1.0.Final,org.lambdify.lambdify-apigateway,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway-java` - `org.lambdify:lambdify-apigateway-java:0.7.1.Final` // `org.lambdify,lambdify-apigateway-java,0.7.1.Final,org.lambdify.lambdify-apigateway-java,-,automatic,-,false,-`
 - :cd: `org.lambdify.lambdify-apigateway-java` - `org.lambdify:lambdify-apigateway-java:0.7.2.Final` // `org.lambdify,lambdify-apigateway-java,0.7.2.Final,org.lambdify.lambdify-apigateway-java,-,automatic,-,false,-`
