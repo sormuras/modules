@@ -8,8 +8,10 @@
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.0` // `ch.megard,akka-http-cors_2.12,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.1` // `ch.megard,akka-http-cors_2.12,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.2` // `ch.megard,akka-http-cors_2.12,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.3` // `ch.megard,akka-http-cors_2.12,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.1` // `ch.megard,akka-http-cors_2.13,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.2` // `ch.megard,akka-http-cors_2.13,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.3` // `ch.megard,akka-http-cors_2.13,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M3:0.3.1` // `ch.megard,akka-http-cors_2.13.0-M3,0.3.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.3.4` // `ch.megard,akka-http-cors_2.13.0-M5,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
@@ -4145,6 +4147,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.6.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.6.7-jre14,jakarta.mail,1.0.6.7-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.0-jre14,jakarta.mail,1.0.7.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.1-jre14,jakarta.mail,1.0.7.1-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.10-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.10-jre14,jakarta.mail,1.0.7.10-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.2-jre14,jakarta.mail,1.0.7.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.3-jre14,jakarta.mail,1.0.7.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.4-jre14,jakarta.mail,1.0.7.4-jre14,explicit,java.base,false,-`

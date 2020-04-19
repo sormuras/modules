@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6476 Java modules published at Maven Central
 
-## Summary 2020-04-18T01:12:04.297405Z
+## Summary 2020-04-19T01:12:32.524217Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-18T01:12:04.297405Z
-Scanned 48,858 files in 6 seconds.
+Started scan at 2020-04-19T01:12:32.524217Z
+Scanned 48,962 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_18_00_54_32.csv
+    last -> modulescanner-report-2020_04_19_00_57_52.csv
 
-Parsed 3,279,567 lines in total.
-  52,593 -> captions skipped
-  276,250 -> duplicates skipped
-  154,509 -> module related
+Parsed 3,282,868 lines in total.
+  52,697 -> captions skipped
+  276,846 -> duplicates skipped
+  154,629 -> module related
 
 Collected 6,476 unique modules.
   automatic :cd: -> 4,665
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=3135, explicit=401, plain=69846}` 	 5.06%
+ - `2020_04={automatic=3217, explicit=430, plain=72327}` 	 5.04%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,9 +114,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16343](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21584](suspicious/naming.md)
-- Modular impostors: [7662](suspicious/impostors.md)
+- Invalid module names: [16347](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21586](suspicious/naming.md)
+- Modular impostors: [7665](suspicious/impostors.md)
 
 ## Unique Modules (6476)
 
@@ -156,7 +156,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.util` - `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` - `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` - `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
-- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.1.3`
+- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.2.0`
 - :dvd: `be.yildizgames.engine.client.addon.ui` - `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` - `be.yildiz-games:engine-server:1.0.10`
 - :dvd: `be.yildizgames.engine.shared` - `be.yildiz-games:engine-shared:2.0.4`
@@ -488,33 +488,33 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.guicedee.guicedinjection` - `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` - `com.guicedee:guiced-undertow:62`
 - :dvd: `com.guicedee.logmaster` - `com.guicedee:guiced-log-master:62`
-- :dvd: `com.hack23.cia.model.common.impl` - `com.hack23.cia:model.common.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` - `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` - `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` - `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` - `com.hack23.cia:model.external.riksdagen.person.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` - `com.hack23.cia:model.external.riksdagen.personlista.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` - `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` - `com.hack23.cia:model.external.riksdagen.votering.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` - `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` - `com.hack23.cia:model.external.val.kommunvalkrets.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` - `com.hack23.cia:model.external.val.landstingvalkrets.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.val.partier.impl` - `com.hack23.cia:model.external.val.partier.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` - `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` - `com.hack23.cia:model.external.worldbank.countries.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` - `com.hack23.cia:model.external.worldbank.data.impl:2020.2.9`
-- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` - `com.hack23.cia:model.external.worldbank.indicators.impl:2020.2.9`
-- :dvd: `com.hack23.cia.service.api` - `com.hack23.cia:service.api:2020.2.9`
-- :dvd: `com.hack23.cia.service.component.agent.api` - `com.hack23.cia:service.component.agent.api:2020.2.9`
-- :dvd: `com.hack23.cia.service.component.agent.impl` - `com.hack23.cia:service.component.agent.impl:2020.2.9`
-- :dvd: `com.hack23.cia.service.data.api` - `com.hack23.cia:service.data.api:2020.2.9`
-- :dvd: `com.hack23.cia.service.data.impl` - `com.hack23.cia:service.data.impl:2020.2.9`
-- :dvd: `com.hack23.cia.service.external.common` - `com.hack23.cia:service.external.common:2020.2.9`
-- :dvd: `com.hack23.cia.service.external.esv` - `com.hack23.cia:service.external.esv:2020.2.9`
-- :dvd: `com.hack23.cia.service.external.riksdagen` - `com.hack23.cia:service.external.riksdagen:2020.2.9`
-- :dvd: `com.hack23.cia.service.external.val` - `com.hack23.cia:service.external.val:2020.2.9`
-- :dvd: `com.hack23.cia.service.external.worldbank` - `com.hack23.cia:service.external.worldbank:2020.2.9`
-- :dvd: `com.hack23.cia.service.impl` - `com.hack23.cia:service.impl:2020.2.9`
+- :dvd: `com.hack23.cia.model.common.impl` - `com.hack23.cia:model.common.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.documentcontent.impl` - `com.hack23.cia:model.external.riksdagen.documentcontent.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentlista.impl` - `com.hack23.cia:model.external.riksdagen.dokumentlista.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.dokumentstatus.impl` - `com.hack23.cia:model.external.riksdagen.dokumentstatus.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.person.impl` - `com.hack23.cia:model.external.riksdagen.person.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.personlista.impl` - `com.hack23.cia:model.external.riksdagen.personlista.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.utskottsforslag.impl` - `com.hack23.cia:model.external.riksdagen.utskottsforslag.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.votering.impl` - `com.hack23.cia:model.external.riksdagen.votering.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.riksdagen.voteringlista.impl` - `com.hack23.cia:model.external.riksdagen.voteringlista.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.val.kommunvalkrets.impl` - `com.hack23.cia:model.external.val.kommunvalkrets.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.val.landstingvalkrets.impl` - `com.hack23.cia:model.external.val.landstingvalkrets.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.val.partier.impl` - `com.hack23.cia:model.external.val.partier.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.val.riksdagsvalkrets.impl` - `com.hack23.cia:model.external.val.riksdagsvalkrets.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.worldbank.countries.impl` - `com.hack23.cia:model.external.worldbank.countries.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.worldbank.data.impl` - `com.hack23.cia:model.external.worldbank.data.impl:2020.4.19`
+- :dvd: `com.hack23.cia.model.external.worldbank.indicators.impl` - `com.hack23.cia:model.external.worldbank.indicators.impl:2020.4.19`
+- :dvd: `com.hack23.cia.service.api` - `com.hack23.cia:service.api:2020.4.19`
+- :dvd: `com.hack23.cia.service.component.agent.api` - `com.hack23.cia:service.component.agent.api:2020.4.19`
+- :dvd: `com.hack23.cia.service.component.agent.impl` - `com.hack23.cia:service.component.agent.impl:2020.4.19`
+- :dvd: `com.hack23.cia.service.data.api` - `com.hack23.cia:service.data.api:2020.4.19`
+- :dvd: `com.hack23.cia.service.data.impl` - `com.hack23.cia:service.data.impl:2020.4.19`
+- :dvd: `com.hack23.cia.service.external.common` - `com.hack23.cia:service.external.common:2020.4.19`
+- :dvd: `com.hack23.cia.service.external.esv` - `com.hack23.cia:service.external.esv:2020.4.19`
+- :dvd: `com.hack23.cia.service.external.riksdagen` - `com.hack23.cia:service.external.riksdagen:2020.4.19`
+- :dvd: `com.hack23.cia.service.external.val` - `com.hack23.cia:service.external.val:2020.4.19`
+- :dvd: `com.hack23.cia.service.external.worldbank` - `com.hack23.cia:service.external.worldbank:2020.4.19`
+- :dvd: `com.hack23.cia.service.impl` - `com.hack23.cia:service.impl:2020.4.19`
 - :dvd: `com.headius.invokebinder` - `com.headius:invokebinder:1.11`
 - :dvd: `com.headius.modulator` - `com.headius:modulator:1.2`
 - :dvd: `com.illucit.instatrie` - `com.illucit:instatrie:2.0.0`
@@ -1910,7 +1910,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.co.caprica.media.scanner` - `uk.co.caprica:media-scanner:1.0.0`
-- :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.1`
+- :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.1.1`
 - :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.2`
 - :dvd: `uk.co.caprica.vlcj.natives` - `uk.co.caprica:vlcj-natives:4.5.0`
 - :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
