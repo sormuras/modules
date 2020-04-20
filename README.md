@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6476 Java modules published at Maven Central
 
-## Summary 2020-04-19T01:12:32.524217Z
+## Summary 2020-04-20T01:12:51.944020Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-19T01:12:32.524217Z
-Scanned 48,962 files in 6 seconds.
+Started scan at 2020-04-20T01:12:51.944020Z
+Scanned 49,065 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_19_00_57_52.csv
+    last -> modulescanner-report-2020_04_20_00_53_14.csv
 
-Parsed 3,282,868 lines in total.
-  52,697 -> captions skipped
-  276,846 -> duplicates skipped
-  154,629 -> module related
+Parsed 3,287,054 lines in total.
+  52,800 -> captions skipped
+  276,908 -> duplicates skipped
+  154,692 -> module related
 
 Collected 6,476 unique modules.
   automatic :cd: -> 4,665
@@ -22,7 +22,7 @@ Collected 6,476 unique modules.
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.6.2
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:8.0.1
 com.google.common -> com.google.guava:guava:29.0-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=3217, explicit=430, plain=72327}` 	 5.04%
+ - `2020_04={automatic=3222, explicit=478, plain=76285}` 	 4.85%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,8 +115,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [16347](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21586](suspicious/naming.md)
-- Modular impostors: [7665](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21591](suspicious/naming.md)
+- Modular impostors: [7670](suspicious/impostors.md)
 
 ## Unique Modules (6476)
 
@@ -205,32 +205,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` - `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` - `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.10.0`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.10.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.10.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.10.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.10.0`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.11.0`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.11.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.11.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.11.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.11.0`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB` - `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.10.0`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.10.0`
-- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.10.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.10.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.10.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.10.0`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.10.0`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.10.0`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.10.0`
-- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.10.0`
-- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.10.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.11.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.11.0`
+- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.11.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.11.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.11.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.11.0`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.11.0`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.11.0`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.11.0`
+- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.11.0`
+- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.11.0`
 - :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.14.3`
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -422,11 +422,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` - `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc:pouch.core:2.0`
-- :dvd: `com.github.cowwoc.requirements.annotations` - `com.github.cowwoc.requirements:annotations:6.0.1`
-- :dvd: `com.github.cowwoc.requirements.generator` - `com.github.cowwoc.requirements:code_generator:6.0.1`
-- :dvd: `com.github.cowwoc.requirements.guava` - `com.github.cowwoc.requirements:guava:6.0.1`
-- :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.1`
-- :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.1`
+- :dvd: `com.github.cowwoc.requirements.annotations` - `com.github.cowwoc.requirements:annotations:6.0.3`
+- :dvd: `com.github.cowwoc.requirements.generator` - `com.github.cowwoc.requirements:code_generator:6.0.3`
+- :dvd: `com.github.cowwoc.requirements.guava` - `com.github.cowwoc.requirements:guava:6.0.3`
+- :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.3`
+- :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.3`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
 - :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.3.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
@@ -1601,7 +1601,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
 - :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.1`
-- :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.9`
+- :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.10`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
@@ -1613,20 +1613,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.48`
 - :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.32`
-- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.6.2`
-- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.6.2`
-- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.6.2`
-- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.6.2`
-- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.6.2`
-- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.6.2`
-- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.6.2`
-- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.6.2`
-- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.6.2`
-- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.6.2`
-- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.6.2`
-- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.6.2`
-- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.6.2`
-- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.6.2`
+- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
+- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
+- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
+- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.7.0-M1`
+- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.7.0-M1`
+- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.7.0-M1`
+- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.7.0-M1`
+- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.7.0-M1`
+- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.7.0-M1`
+- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.7.0-M1`
+- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0-M1`
+- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0-M1`
+- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0-M1`
+- :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.7.0-M1`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.13`
 - :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:2.0.0-M2`
 - :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.4.0`
