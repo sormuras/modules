@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6476 Java modules published at Maven Central
+Counted 6477 Java modules published at Maven Central
 
-## Summary 2020-04-20T01:12:51.944020Z
+## Summary 2020-04-21T01:13:53.106723Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-20T01:12:51.944020Z
-Scanned 49,065 files in 7 seconds.
+Started scan at 2020-04-21T01:13:53.106723Z
+Scanned 49,163 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_20_00_53_14.csv
+    last -> modulescanner-report-2020_04_21_00_57_11.csv
 
-Parsed 3,287,054 lines in total.
-  52,800 -> captions skipped
-  276,908 -> duplicates skipped
-  154,692 -> module related
+Parsed 3,292,744 lines in total.
+  52,898 -> captions skipped
+  277,673 -> duplicates skipped
+  155,071 -> module related
 
-Collected 6,476 unique modules.
-  automatic :cd: -> 4,665
+Collected 6,477 unique modules.
+  automatic :cd: -> 4,666
   explicit :dvd: -> 1,811
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=3222, explicit=478, plain=76285}` 	 4.85%
+ - `2020_04={automatic=3491, explicit=481, plain=80733}` 	 4.92%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16347](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21591](suspicious/naming.md)
-- Modular impostors: [7670](suspicious/impostors.md)
+- Invalid module names: [16423](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21610](suspicious/naming.md)
+- Modular impostors: [7682](suspicious/impostors.md)
 
-## Unique Modules (6476)
+## Unique Modules (6477)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -412,7 +412,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0.rc1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.30`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.31`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -997,7 +997,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.6`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
@@ -1611,7 +1611,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.48`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.49`
 - :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.32`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
