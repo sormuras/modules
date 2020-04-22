@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6477 Java modules published at Maven Central
+Counted 6483 Java modules published at Maven Central
 
-## Summary 2020-04-21T01:13:53.106723Z
+## Summary 2020-04-22T01:13:57.858549Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-21T01:13:53.106723Z
-Scanned 49,163 files in 6 seconds.
+Started scan at 2020-04-22T01:13:57.858549Z
+Scanned 49,261 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_21_00_57_11.csv
+    last -> modulescanner-report-2020_04_22_01_00_09.csv
 
-Parsed 3,292,744 lines in total.
-  52,898 -> captions skipped
-  277,673 -> duplicates skipped
-  155,071 -> module related
+Parsed 3,300,465 lines in total.
+  52,996 -> captions skipped
+  278,252 -> duplicates skipped
+  155,412 -> module related
 
-Collected 6,477 unique modules.
-  automatic :cd: -> 4,666
-  explicit :dvd: -> 1,811
+Collected 6,483 unique modules.
+  automatic :cd: -> 4,668
+  explicit :dvd: -> 1,815
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=3491, explicit=481, plain=80733}` 	 4.92%
+ - `2020_04={automatic=3796, explicit=489, plain=87436}` 	 4.90%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16423](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21610](suspicious/naming.md)
-- Modular impostors: [7682](suspicious/impostors.md)
+- Invalid module names: [16424](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21626](suspicious/naming.md)
+- Modular impostors: [7693](suspicious/impostors.md)
 
-## Unique Modules (6477)
+## Unique Modules (6483)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -311,6 +311,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.2`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.3`
@@ -520,6 +521,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.illucit.instatrie` - `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` - `com.illucit:lucene-utils:1.1.2`
 - :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.5`
+- :dvd: `com.io7m.boxwood.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.api:0.0.1`
+- :dvd: `com.io7m.boxwood.parser.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.parser.api:0.0.1`
+- :dvd: `com.io7m.boxwood.vanilla` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.vanilla:0.0.1`
 - :dvd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.documentation` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.documentation:4.0.0-beta0014`
@@ -995,7 +999,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
-- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.3`
+- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.4`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1041,7 +1045,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.71`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.72`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1608,11 +1612,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
 - :dvd: `org.joml` - `org.joml:joml:1.9.24`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
-- :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.12`
+- :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.49`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.32`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.33`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`

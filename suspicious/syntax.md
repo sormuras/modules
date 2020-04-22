@@ -14123,6 +14123,7 @@
 - :cd: `io.github.zlika.reproducible-build-maven-plugin` - `io.github.zlika:reproducible-build-maven-plugin:0.8` // `io.github.zlika,reproducible-build-maven-plugin,0.8,io.github.zlika.reproducible-build-maven-plugin,-,automatic,-,false,-`
 - :cd: `io.github.zlika.reproducible-build-maven-plugin` - `io.github.zlika:reproducible-build-maven-plugin:0.9` // `io.github.zlika,reproducible-build-maven-plugin,0.9,io.github.zlika.reproducible-build-maven-plugin,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.junit5-assert` - `io.qameta.allure:allure-junit5-assert:2.13.2` // `io.qameta.allure,allure-junit5-assert,2.13.2,io.qameta.allure.junit5-assert,-,automatic,-,false,-`
+- :cd: `io.qameta.allure.junit5-assert` - `io.qameta.allure:allure-junit5-assert:2.13.3` // `io.qameta.allure,allure-junit5-assert,2.13.3,io.qameta.allure.junit5-assert,-,automatic,-,false,-`
 - :cd: `io.skullabs.apt.class-generator` - `io.skullabs.apt:class-generator:0.1.0.Final` // `io.skullabs.apt,class-generator,0.1.0.Final,io.skullabs.apt.class-generator,-,automatic,-,false,-`
 - :cd: `io.skullabs.apt.class-generator` - `io.skullabs.apt:class-generator:0.2.0.Final` // `io.skullabs.apt,class-generator,0.2.0.Final,io.skullabs.apt.class-generator,-,automatic,-,false,-`
 - :cd: `io.skullabs.apt.class-generator` - `io.skullabs.apt:class-generator:0.3.0` // `io.skullabs.apt,class-generator,0.3.0,io.skullabs.apt.class-generator,-,automatic,-,false,-`

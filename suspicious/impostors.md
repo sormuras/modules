@@ -4107,7 +4107,9 @@
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.0` // `io.qameta.allure,allure-okhttp,2.13.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.1` // `io.qameta.allure,allure-okhttp,2.13.1,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.2` // `io.qameta.allure,allure-okhttp,2.13.2,io.qameta.allure.okhttp,-,automatic,-,false,-`
+- :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.13.3` // `io.qameta.allure,allure-okhttp,2.13.3,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.9.0` // `io.qameta.allure,allure-okhttp,2.9.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
+- :cd: `io.qameta.allure.scalatest` - `io.qameta.allure:allure-scalatest_2.13:2.13.3` // `io.qameta.allure,allure-scalatest_2.13,2.13.3,io.qameta.allure.scalatest,-,automatic,-,false,-`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:sql-import:0.2.1` // `io.vulpine.lib,sql-import,0.2.1,io.vulpine.lib.sql.load,-,explicit,java.base,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.guicedee.services:jakarta.activation:0.70.0.1` // `com.guicedee.services,jakarta.activation,0.70.0.1,jakarta.activation,0.70.0.1,explicit,java.base + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.activation` :left_right_arrow: `com.guicedee.services:jakarta.activation:0.70.0.1-rc1` // `com.guicedee.services,jakarta.activation,0.70.0.1-rc1,jakarta.activation,0.70.0.1-rc1,explicit,java.base + java.desktop + java.logging,false,-`
@@ -4509,6 +4511,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.8.1` // `com.undefinedlabs.scope,scope-agent,0.8.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.8.2-beta.1` // `com.undefinedlabs.scope,scope-agent,0.8.2-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.9.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.9.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.9.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.9.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.6` // `com.yahoo.elide,elide-blog-example,4.5.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.7` // `com.yahoo.elide,elide-blog-example,4.5.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.8` // `com.yahoo.elide,elide-blog-example,4.5.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5437,9 +5440,11 @@
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.22` // `org.apache.tika,tika-app,1.22,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.23` // `org.apache.tika,tika-app,1.23,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.24` // `org.apache.tika,tika-app,1.24,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.24.1` // `org.apache.tika,tika-app,1.24.1,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.22` // `org.apache.tika,tika-server,1.22,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.23` // `org.apache.tika,tika-server,1.23,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.24` // `org.apache.tika,tika-server,1.24,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.24.1` // `org.apache.tika,tika-server,1.24.1,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.60` // `org.bouncycastle,bcmail-jdk15on,1.60,org.bouncycastle.mail,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.61` // `org.bouncycastle,bcmail-jdk15on,1.61,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.62` // `org.bouncycastle,bcmail-jdk15on,1.62,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
@@ -5524,6 +5529,8 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.201.7` // `com.yahoo.vespa,vespa-hadoop,7.201.7,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.204.28` // `com.yahoo.vespa,vespa-hadoop,7.204.28,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.206.15` // `com.yahoo.vespa,vespa-hadoop,7.206.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.207.47` // `com.yahoo.vespa,vespa-hadoop,7.207.47,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.208.2` // `com.yahoo.vespa,vespa-hadoop,7.208.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -5597,6 +5604,7 @@
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.2` // `net.snowflake,snowflake-jdbc,3.12.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.3` // `net.snowflake,snowflake-jdbc,3.12.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.4` // `net.snowflake,snowflake-jdbc,3.12.4,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.apache.directory.server:apacheds-service:2.0.0.AM26` // `org.apache.directory.server,apacheds-service,2.0.0.AM26,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -6242,6 +6250,8 @@
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.0-RC2` // `org.junit.platform,junit-platform-console-standalone,1.5.0-RC2,org.junit.platform.console,1.5.0-RC2,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.1` // `org.junit.platform,junit-platform-console-standalone,1.5.1,org.junit.platform.console,1.5.1,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.2` // `org.junit.platform,junit-platform-console-standalone,1.5.2,org.junit.platform.console,1.5.2,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
+- :dvd: `org.junit.vintage.engine` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55:1.7.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit55,1.7.0,org.junit.vintage.engine,5.5.1,explicit,java.base + junit + org.apiguardian.api + org.junit.platform.engine,false,-`
+- :dvd: `org.junit.vintage.engine` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56:1.7.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit56,1.7.0,org.junit.vintage.engine,5.6.0,explicit,java.base + junit + org.apiguardian.api + org.junit.platform.engine,false,-`
 - :dvd: `org.jvnet.mimepull` - `de.dfki.cos.basys.platform.wrapper-bundle-settings:jersey-bundle:0.2.6` // `de.dfki.cos.basys.platform.wrapper-bundle-settings,jersey-bundle,0.2.6,org.jvnet.mimepull,-,explicit,java.base + java.logging,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.11.0.Final` // `org.jbpm.contrib,karaf-itests,7.11.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.12.0.Final` // `org.jbpm.contrib,karaf-itests,7.12.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
@@ -6847,6 +6857,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.5.2` // `com.netflix.nebula,gradle-lint-plugin,16.5.2,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.6.0` // `com.netflix.nebula,gradle-lint-plugin,16.6.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.7.0` // `com.netflix.nebula,gradle-lint-plugin,16.7.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.7.1` // `com.netflix.nebula,gradle-lint-plugin,16.7.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
