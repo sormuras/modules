@@ -365,6 +365,7 @@
 - :cd: `com.github.vebqa.vebtalpdf` - `com.github.vebqa:vebtal-msg:1.0.2.1` // `com.github.vebqa,vebtal-msg,1.0.2.1,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
 - :cd: `com.github.vebqa.vebtalpdf` - `com.github.vebqa:vebtal-msg:1.0.3` // `com.github.vebqa,vebtal-msg,1.0.3,com.github.vebqa.vebtalpdf,-,automatic,-,false,-`
 - :cd: `com.github.wumpz.diffutils` - `io.github.java-diff-utils:java-diff-utils:4.0` // `io.github.java-diff-utils,java-diff-utils,4.0,com.github.wumpz.diffutils,-,automatic,-,false,-`
+- :dvd: `com.gluonhq.attach.audio.recording` - `com.gluonhq.attach:augmented-reality:4.0.7` // `com.gluonhq.attach,augmented-reality,4.0.7,com.gluonhq.attach.audio.recording,-,explicit,com.gluonhq.attach.storage + com.gluonhq.attach.util + java.base + javafx.graphics,false,-`
 - :cd: `com.google.common` - `com.github.lafa.cache:cache:1.0.1` // `com.github.lafa.cache,cache,1.0.1,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.common` - `com.github.linlinisme:beyond-guava:1.0.0` // `com.github.linlinisme,beyond-guava,1.0.0,com.google.common,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.google.common` - `com.guicedee.services:guava:0.70.0.1` // `com.guicedee.services,guava,0.70.0.1,com.google.common,0.70.0.1,explicit,jakarta.activation + java.base + java.compiler + java.logging + jdk.unsupported,false,-`
@@ -2422,6 +2423,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.15` // `com.yahoo.elide,elide-blog-example,4.5.15,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.16` // `com.yahoo.elide,elide-blog-example,4.5.16,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.0` // `com.yahoo.elide,elide-blog-example,4.6.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.1` // `com.yahoo.elide,elide-blog-example,4.6.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -4376,6 +4378,7 @@
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.25` // `com.proofpoint.platform,jaxrs,2.25,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.26` // `com.proofpoint.platform,jaxrs,2.26,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.27` // `com.proofpoint.platform,jaxrs,2.27,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.28` // `com.proofpoint.platform,jaxrs,2.28,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0` // `com.undefinedlabs.scope,scope-agent,0.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0-beta1` // `com.undefinedlabs.scope,scope-agent,0.1.0-beta1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.1` // `com.undefinedlabs.scope,scope-agent,0.1.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4512,6 +4515,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.8.2-beta.1` // `com.undefinedlabs.scope,scope-agent,0.8.2-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.9.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.9.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.9.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.9.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.9.0-beta.3` // `com.undefinedlabs.scope,scope-agent,0.9.0-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.6` // `com.yahoo.elide,elide-blog-example,4.5.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.7` // `com.yahoo.elide,elide-blog-example,4.5.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.yahoo.elide:elide-blog-example:4.5.8` // `com.yahoo.elide,elide-blog-example,4.5.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -6202,6 +6206,7 @@
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.1.3` // `eu.xenit.care4alf,care4alf-6x,2.1.3,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.2.1` // `eu.xenit.care4alf,care4alf-6x,2.2.1,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.3.0` // `eu.xenit.care4alf,care4alf-6x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
+- :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.0` // `com.github.cukedoctor,cukedoctor-main,2.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `net.thisptr:jackson-jq-cli:0.0.10` // `net.thisptr,jackson-jq-cli,0.0.10,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1` // `com.guicedee.services,json,0.70.0.1,org.json,0.70.0.1,explicit,java.base,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1-rc1` // `com.guicedee.services,json,0.70.0.1-rc1,org.json,0.70.0.1-rc1,explicit,java.base,false,-`
@@ -6926,6 +6931,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.109` // `com.rookout,rook,0.1.109,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.110` // `com.rookout,rook,0.1.110,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.111` // `com.rookout,rook,0.1.111,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.112` // `com.rookout,rook,0.1.112,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`

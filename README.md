@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6483 Java modules published at Maven Central
+Counted 6518 Java modules published at Maven Central
 
-## Summary 2020-04-22T01:13:57.858549Z
+## Summary 2020-04-23T01:13:55.850646Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-22T01:13:57.858549Z
-Scanned 49,261 files in 7 seconds.
+Started scan at 2020-04-23T01:13:55.850646Z
+Scanned 49,357 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_22_01_00_09.csv
+    last -> modulescanner-report-2020_04_23_01_02_40.csv
 
-Parsed 3,300,465 lines in total.
-  52,996 -> captions skipped
-  278,252 -> duplicates skipped
-  155,412 -> module related
+Parsed 3,310,332 lines in total.
+  53,086 -> captions skipped
+  278,893 -> duplicates skipped
+  155,923 -> module related
 
-Collected 6,483 unique modules.
-  automatic :cd: -> 4,668
-  explicit :dvd: -> 1,815
+Collected 6,518 unique modules.
+  automatic :cd: -> 4,670
+  explicit :dvd: -> 1,848
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=3796, explicit=489, plain=87436}` 	 4.90%
+ - `2020_04={automatic=4135, explicit=524, plain=96061}` 	 4.85%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16424](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21626](suspicious/naming.md)
-- Modular impostors: [7693](suspicious/impostors.md)
+- Invalid module names: [16510](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21671](suspicious/naming.md)
+- Modular impostors: [7699](suspicious/impostors.md)
 
-## Unique Modules (6483)
+## Unique Modules (6518)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -471,11 +471,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-events:2.0.1`
 - :dvd: `com.github.themrmilchmann.mjl.options` - `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
+- :dvd: `com.gluonhq.attach.accelerometer` - `com.gluonhq.attach:accelerometer:4.0.7`
+- :dvd: `com.gluonhq.attach.audio.recording` - `com.gluonhq.attach:audio-recording:4.0.7`
+- :dvd: `com.gluonhq.attach.barcode` - `com.gluonhq.attach:barcode-scan:4.0.7`
+- :dvd: `com.gluonhq.attach.battery` - `com.gluonhq.attach:battery:4.0.7`
+- :dvd: `com.gluonhq.attach.ble` - `com.gluonhq.attach:ble:4.0.7`
+- :dvd: `com.gluonhq.attach.browser` - `com.gluonhq.attach:browser:4.0.7`
+- :dvd: `com.gluonhq.attach.cache` - `com.gluonhq.attach:cache:4.0.7`
+- :dvd: `com.gluonhq.attach.compass` - `com.gluonhq.attach:compass:4.0.7`
+- :dvd: `com.gluonhq.attach.connectivity` - `com.gluonhq.attach:connectivity:4.0.7`
+- :dvd: `com.gluonhq.attach.device` - `com.gluonhq.attach:device:4.0.7`
+- :dvd: `com.gluonhq.attach.dialer` - `com.gluonhq.attach:dialer:4.0.7`
+- :dvd: `com.gluonhq.attach.display` - `com.gluonhq.attach:display:4.0.7`
+- :dvd: `com.gluonhq.attach.inappbilling` - `com.gluonhq.attach:in-app-billing:4.0.7`
+- :dvd: `com.gluonhq.attach.keyboard` - `com.gluonhq.attach:keyboard:4.0.7`
+- :dvd: `com.gluonhq.attach.lifecycle` - `com.gluonhq.attach:lifecycle:4.0.7`
+- :dvd: `com.gluonhq.attach.local.notifications` - `com.gluonhq.attach:local-notifications:4.0.7`
+- :dvd: `com.gluonhq.attach.magnetometer` - `com.gluonhq.attach:magnetometer:4.0.7`
+- :dvd: `com.gluonhq.attach.orientation` - `com.gluonhq.attach:orientation:4.0.7`
+- :dvd: `com.gluonhq.attach.pictures` - `com.gluonhq.attach:pictures:4.0.7`
+- :dvd: `com.gluonhq.attach.position` - `com.gluonhq.attach:position:4.0.7`
+- :dvd: `com.gluonhq.attach.pushnotifications` - `com.gluonhq.attach:push-notifications:4.0.7`
+- :dvd: `com.gluonhq.attach.runtime.args` - `com.gluonhq.attach:runtime-args:4.0.7`
+- :dvd: `com.gluonhq.attach.settings` - `com.gluonhq.attach:settings:4.0.7`
+- :dvd: `com.gluonhq.attach.share` - `com.gluonhq.attach:share:4.0.7`
+- :dvd: `com.gluonhq.attach.statusbar` - `com.gluonhq.attach:statusbar:4.0.7`
+- :dvd: `com.gluonhq.attach.storage` - `com.gluonhq.attach:storage:4.0.7`
+- :dvd: `com.gluonhq.attach.util` - `com.gluonhq.attach:util:4.0.7`
+- :dvd: `com.gluonhq.attach.vibration` - `com.gluonhq.attach:vibration:4.0.7`
+- :dvd: `com.gluonhq.attach.video` - `com.gluonhq.attach:video:4.0.7`
 - :dvd: `com.gluonhq.connect` - `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.18`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.19`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -668,7 +697,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
-- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.1`
+- :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.2`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
 - :dvd: `com.jwebmp.core.angularjs` - `com.jwebmp:jwebmp-angularjs:0.66.0.1`
@@ -1310,6 +1339,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.tascalate.javaflow.tools.jar` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.jar:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.javaagent` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.javaagent:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.runtime` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.runtime:2.6.1`
+- :dvd: `nl.elec332.sdr.lib` - `nl.elec332.sdr:sdrlib:0.2-Beta`
+- :dvd: `nl.elec332.sdr.source.hackrf` - `nl.elec332.sdr.source:hackrfdriver:1.0-Beta`
+- :dvd: `nl.elec332.util.javarecorder` - `nl.elec332.util:javarecorder:0.1-Alpha`
+- :dvd: `nl.elec332.util.javarecorder.ffmpeg` - `nl.elec332.util:javarecorder-ffmpeg:0.1-Alpha`
 - :dvd: `nl.talsmasoftware.lazy4j` - `nl.talsmasoftware:lazy4j:1.0.1`
 - :dvd: `nl.talsmasoftware.reflection` - `nl.talsmasoftware:reflection:1.0.2`
 - :dvd: `nl.ulso.sprox` - `nl.ulso.sprox:sprox:4.0.0`
