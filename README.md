@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6518 Java modules published at Maven Central
+Counted 6537 Java modules published at Maven Central
 
-## Summary 2020-04-23T01:13:55.850646Z
+## Summary 2020-04-24T01:14:07.505039Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-23T01:13:55.850646Z
-Scanned 49,357 files in 6 seconds.
+Started scan at 2020-04-24T01:14:07.505039Z
+Scanned 49,448 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_23_01_02_40.csv
+    last -> modulescanner-report-2020_04_24_00_59_00.csv
 
-Parsed 3,310,332 lines in total.
-  53,086 -> captions skipped
-  278,893 -> duplicates skipped
-  155,923 -> module related
+Parsed 3,319,654 lines in total.
+  53,175 -> captions skipped
+  279,835 -> duplicates skipped
+  156,390 -> module related
 
-Collected 6,518 unique modules.
-  automatic :cd: -> 4,670
-  explicit :dvd: -> 1,848
+Collected 6,537 unique modules.
+  automatic :cd: -> 4,680
+  explicit :dvd: -> 1,857
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=4135, explicit=524, plain=96061}` 	 4.85%
+ - `2020_04={automatic=4475, explicit=582, plain=103885}` 	 4.87%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16510](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21671](suspicious/naming.md)
-- Modular impostors: [7699](suspicious/impostors.md)
+- Invalid module names: [16541](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21701](suspicious/naming.md)
+- Modular impostors: [7707](suspicious/impostors.md)
 
-## Unique Modules (6518)
+## Unique Modules (6537)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -244,39 +244,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `co.paralleluniverse.quasar.reactivestreams` - `co.paralleluniverse:quasar-reactive-streams:0.8.0`
 - :dvd: `codes.rafael.interceptablehttpclient` - `codes.rafael.interceptablehttpclient:interceptable-http-client:1.0`
 - :dvd: `colesico.framework.appbundle` - `net.colesico.framework:colesico-appbundle:1.9.0`
-- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.1.2`
-- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.1.2`
-- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:3.1.2`
-- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:3.1.2`
-- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:3.1.2`
-- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:3.1.2`
-- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:3.1.2`
+- :dvd: `colesico.framework.asyncjob` - `net.colesico.framework:colesico-asyncjob:3.2.0`
+- :dvd: `colesico.framework.bundle.base` - `net.colesico.framework:colesico-bundle-base:3.2.0`
+- :dvd: `colesico.framework.bundle.l10n` - `net.colesico.framework:colesico-bundle-l10n:3.2.0`
+- :dvd: `colesico.framework.bundle.mix` - `net.colesico.framework:colesico-bundle-mix:3.2.0`
+- :dvd: `colesico.framework.bundle.sql` - `net.colesico.framework:colesico-bundle-sql:3.2.0`
+- :dvd: `colesico.framework.bundle.web` - `net.colesico.framework:colesico-bundle-web:3.2.0`
+- :dvd: `colesico.framework.config` - `net.colesico.framework:colesico-config:3.2.0`
 - :dvd: `colesico.framework.dao` - `net.colesico.framework:colesico-dao:1.4.1`
-- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:3.1.2`
-- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:3.1.2`
-- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:3.1.2`
-- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:3.1.2`
-- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:3.1.2`
-- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:3.1.2`
-- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:3.1.2`
-- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:3.1.2`
-- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:3.1.2`
-- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:3.1.2`
-- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:3.1.2`
-- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:3.1.2`
-- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:3.1.2`
-- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:3.1.2`
-- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:3.1.2`
-- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:3.1.2`
-- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:3.1.2`
-- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:3.1.2`
-- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:3.1.2`
-- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:3.1.2`
-- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:3.1.2`
-- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:3.1.2`
-- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.1.2`
-- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.1.2`
-- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.1.2`
+- :dvd: `colesico.framework.eventbus` - `net.colesico.framework:colesico-eventbus:3.2.0`
+- :dvd: `colesico.framework.hikaricp` - `net.colesico.framework:colesico-hikaricp:3.2.0`
+- :dvd: `colesico.framework.htmlrenderer` - `net.colesico.framework:colesico-htmlrenderer:3.2.0`
+- :dvd: `colesico.framework.http` - `net.colesico.framework:colesico-http:3.2.0`
+- :dvd: `colesico.framework.httpserver` - `net.colesico.framework:colesico-httpserver:3.2.0`
+- :dvd: `colesico.framework.ioc` - `net.colesico.framework:colesico-ioc:3.2.0`
+- :dvd: `colesico.framework.jdbc` - `net.colesico.framework:colesico-jdbc:3.2.0`
+- :dvd: `colesico.framework.jdbi` - `net.colesico.framework:colesico-jdbi:3.2.0`
+- :dvd: `colesico.framework.jdbirec` - `net.colesico.framework:colesico-jdbirec:3.2.0`
+- :dvd: `colesico.framework.pebble` - `net.colesico.framework:colesico-pebble:3.2.0`
+- :dvd: `colesico.framework.profile` - `net.colesico.framework:colesico-profile:3.2.0`
+- :dvd: `colesico.framework.resource` - `net.colesico.framework:colesico-resource:3.2.0`
+- :dvd: `colesico.framework.restlet` - `net.colesico.framework:colesico-restlet:3.2.0`
+- :dvd: `colesico.framework.router` - `net.colesico.framework:colesico-router:3.2.0`
+- :dvd: `colesico.framework.rpc` - `net.colesico.framework:colesico-rpc:3.2.0`
+- :dvd: `colesico.framework.security` - `net.colesico.framework:colesico-security:3.2.0`
+- :dvd: `colesico.framework.service` - `net.colesico.framework:colesico-service:3.2.0`
+- :dvd: `colesico.framework.slf4j` - `net.colesico.framework:colesico-slf4j:3.2.0`
+- :dvd: `colesico.framework.teleapi` - `net.colesico.framework:colesico-teleapi:3.2.0`
+- :dvd: `colesico.framework.transaction` - `net.colesico.framework:colesico-transaction:3.2.0`
+- :dvd: `colesico.framework.translation` - `net.colesico.framework:colesico-translation:3.2.0`
+- :dvd: `colesico.framework.undertow` - `net.colesico.framework:colesico-undertow:3.2.0`
+- :dvd: `colesico.framework.validation` - `net.colesico.framework:colesico-validation:3.2.0`
+- :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.2.0`
+- :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.2.0`
+- :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.2.0`
 - :dvd: `com.acgist.snail` - `com.acgist:snail:1.3.0`
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
@@ -305,6 +306,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
+- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.1`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.4.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.2`
@@ -413,7 +415,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0.rc1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.31`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.32`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -953,8 +955,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:4.0.0-M2`
 - :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:4.0.0-M2`
 - :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:4.0.0-M2`
-- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M1`
-- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M1`
+- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M2`
+- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M2`
+- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M2`
 - :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.3`
 - :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:2.0.0-M2`
 - :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:2.0.0-M2`
@@ -962,15 +965,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:2.0.0-M1`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
 - :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3-b01`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:2.3.3-b01`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:2.7.9`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:2.3.3-b01`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:2.3.3-b01`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:2.3.3-b01`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M1`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.0`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
@@ -1071,10 +1074,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:5.6.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.72`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.75`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1624,9 +1627,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.importers` - `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.1.0`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M1`
-- :dvd: `org.glassfish.jaxb.runtime` - `org.glassfish.jaxb:jaxb-runtime:3.0.0-M1`
-- :dvd: `org.glassfish.jaxb.xjc` - `org.glassfish.jaxb:jaxb-xjc:3.0.0-M1`
+- :dvd: `org.glassfish.jaxb.core` - `org.glassfish.jaxb:jaxb-core:3.0.0-M2`
+- :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M2`
+- :dvd: `org.glassfish.jaxb.runtime` - `org.glassfish.jaxb:jaxb-runtime:3.0.0-M2`
+- :dvd: `org.glassfish.jaxb.xjc` - `org.glassfish.jaxb:jaxb-xjc:3.0.0-M2`
 - :dvd: `org.graalvm.js` - `org.graalvm.js:js:20.0.0`
 - :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:20.0.0`
 - :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:20.0.0`
@@ -1947,10 +1951,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.co.caprica.media.scanner` - `uk.co.caprica:media-scanner:1.0.0`
+- :dvd: `uk.co.caprica.nativestreams` - `uk.co.caprica:native-streams:2.0.0`
 - :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.1.1`
+- :dvd: `uk.co.caprica.vlcj.file.filters` - `uk.co.caprica:vlcj-file-filters:3.0.0`
+- :dvd: `uk.co.caprica.vlcj.info` - `uk.co.caprica:vlcj-info:2.0.0`
 - :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.2`
+- :dvd: `uk.co.caprica.vlcj.mrls` - `uk.co.caprica:vlcj-mrls:2.0.0`
 - :dvd: `uk.co.caprica.vlcj.natives` - `uk.co.caprica:vlcj-natives:4.5.0`
 - :dvd: `uk.co.caprica.vlcj.osx.stubs` - `uk.co.caprica:vlcj-osx-stubs:2.0.0`
+- :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.2.0`
