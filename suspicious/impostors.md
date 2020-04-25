@@ -241,6 +241,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:0.0.6` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,0.0.6,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:0.0.7` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,0.0.7,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:0.1.0` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,0.1.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.commonjava.maven.ext:pom-manipulation-cli:4.0` // `org.commonjava.maven.ext,pom-manipulation-cli,4.0,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.2.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.2.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.3.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.3.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.3.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.3.1,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
@@ -2129,6 +2130,7 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.13` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.13,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.14` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.15` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -2144,11 +2146,13 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.13` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.13,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.14` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.15` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.10` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.10,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.11` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.11,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.13` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.13,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.14` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.15` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -4157,6 +4161,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.1-jre14,jakarta.mail,1.0.7.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.10-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.10-jre14,jakarta.mail,1.0.7.10-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.11-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.11-jre14,jakarta.mail,1.0.7.11-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.12-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.12-jre14,jakarta.mail,1.0.7.12-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.2-jre14,jakarta.mail,1.0.7.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.3-jre14,jakarta.mail,1.0.7.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.7.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.7.4-jre14,jakarta.mail,1.0.7.4-jre14,explicit,java.base,false,-`
@@ -4194,6 +4199,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.117.0` // `org.finra.herd,herd-access-validator,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.118.0` // `org.finra.herd,herd-access-validator,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.119.0` // `org.finra.herd,herd-access-validator,0.119.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.120.0` // `org.finra.herd,herd-access-validator,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
@@ -4212,6 +4218,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.117.0` // `org.finra.herd,herd-downloader,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.118.0` // `org.finra.herd,herd-downloader,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.119.0` // `org.finra.herd,herd-downloader,0.119.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-downloader:0.120.0` // `org.finra.herd,herd-downloader,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4243,6 +4250,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.117.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.118.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.119.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.119.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.120.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4274,6 +4282,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.117.0` // `org.finra.herd,herd-retention-expiration-exporter,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.118.0` // `org.finra.herd,herd-retention-expiration-exporter,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.119.0` // `org.finra.herd,herd-retention-expiration-exporter,0.119.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.120.0` // `org.finra.herd,herd-retention-expiration-exporter,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4305,6 +4314,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.117.0` // `org.finra.herd,herd-uploader,0.117.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.118.0` // `org.finra.herd,herd-uploader,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.119.0` // `org.finra.herd,herd-uploader,0.119.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-uploader:0.120.0` // `org.finra.herd,herd-uploader,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4448,7 +4458,11 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.9-beta.5` // `com.undefinedlabs.scope,scope-agent,0.1.9-beta.5,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.9-beta.6` // `com.undefinedlabs.scope,scope-agent,0.1.9-beta.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.9-beta.7` // `com.undefinedlabs.scope,scope-agent,0.1.9-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.10.0` // `com.undefinedlabs.scope,scope-agent,0.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.10.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.10.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.10.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.10.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.10.0-beta.3` // `com.undefinedlabs.scope,scope-agent,0.10.0-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.10.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.10.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.0` // `com.undefinedlabs.scope,scope-agent,0.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1` // `com.undefinedlabs.scope,scope-agent,0.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5180,6 +5194,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.89` // `io.nosqlbench,nb,3.12.89,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.1` // `io.nosqlbench,virtdata-lib-curves4,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.17` // `io.nosqlbench,virtdata-lib-curves4,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.19` // `io.nosqlbench,virtdata-lib-curves4,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5236,6 +5251,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.86` // `io.nosqlbench,virtdata-lib-curves4,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.87` // `io.nosqlbench,virtdata-lib-curves4,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.88` // `io.nosqlbench,virtdata-lib-curves4,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.89` // `io.nosqlbench,virtdata-lib-curves4,3.12.89,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5418,6 +5434,7 @@
 - :dvd: `org.apache.logging.log4j` - `uk.gov.nca.graph:mapper:1.0` // `uk.gov.nca.graph,mapper,1.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.0` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.0,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.1` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.1,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
+- :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.2` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.2,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.46` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.46,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.47` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.47,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.48` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.48,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
@@ -6017,10 +6034,12 @@
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha2,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha3,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha4,org.hibernate.orm.agroal,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha5,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha1,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha2,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha3,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha4,org.hibernate.orm.c3p0,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha5,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1` // `com.guicedee.services,hibernate-core,0.70.0.1,org.hibernate.orm.core,0.70.0.1,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1-rc1` // `com.guicedee.services,hibernate-core,0.70.0.1-rc1,org.hibernate.orm.core,0.70.0.1-rc1,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1-rc13` // `com.guicedee.services,hibernate-core,0.70.0.1-rc13,org.hibernate.orm.core,0.70.0.1-rc13,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
@@ -6041,14 +6060,19 @@
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha2,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha3,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha4,org.hibernate.orm.core,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha5,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha3,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha4,org.hibernate.orm.ehcache,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha5,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha3,org.hibernate.orm.envers,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha4,org.hibernate.orm.envers,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha5,org.hibernate.orm.envers,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.graalvm` - `org.hibernate.orm:hibernate-graalvm:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-graalvm,6.0.0.Alpha5,org.hibernate.orm.graalvm,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha1,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha2,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha3,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha4,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha5,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1` // `com.guicedee.services,hibernate-jcache,0.70.0.1,org.hibernate.orm.jcache,0.70.0.1,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1-rc1` // `com.guicedee.services,hibernate-jcache,0.70.0.1-rc1,org.hibernate.orm.jcache,0.70.0.1-rc1,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1-rc13` // `com.guicedee.services,hibernate-jcache,0.70.0.1-rc13,org.hibernate.orm.jcache,0.70.0.1-rc13,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
@@ -6067,6 +6091,7 @@
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:62` // `com.guicedee.services,hibernate-jcache,62,org.hibernate.orm.jcache,62,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
 - :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha3,org.hibernate.orm.jcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha4,org.hibernate.orm.jcache,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha5,org.hibernate.orm.jcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha1,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha2,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha3,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
@@ -6091,22 +6116,27 @@
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha2,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha3,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha4,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha5,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha1,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha2,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha3,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha4,org.hibernate.orm.osgi,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha5,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha1,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha2,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha3,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha4,org.hibernate.orm.proxool,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha5,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha1,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha2,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha3,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha4,org.hibernate.orm.testing,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha5,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha1,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha2,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha3,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha4,org.hibernate.orm.vibur,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha5,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha1` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha1,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha2` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha2,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha3` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha3,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`

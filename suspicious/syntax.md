@@ -817,6 +817,7 @@
 - :cd: `` - `org.apache.logging.log4j:log4j-liquibase:2.12.1` // `org.apache.logging.log4j,log4j-liquibase,2.12.1,-,-,automatic,-,false,-`
 - :cd: `` - `org.apache.logging.log4j:log4j-liquibase:2.13.0` // `org.apache.logging.log4j,log4j-liquibase,2.13.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.apache.logging.log4j:log4j-liquibase:2.13.1` // `org.apache.logging.log4j,log4j-liquibase,2.13.1,-,-,automatic,-,false,-`
+- :cd: `` - `org.apache.logging.log4j:log4j-liquibase:2.13.2` // `org.apache.logging.log4j,log4j-liquibase,2.13.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:2.21.0.Final` // `org.dashbuilder,dashbuilder-client-all,2.21.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:2.22.0.Final` // `org.dashbuilder,dashbuilder-client-all,2.22.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.dashbuilder:dashbuilder-client-all:2.23.0.Final` // `org.dashbuilder,dashbuilder-client-all,2.23.0.Final,-,-,automatic,-,false,-`
@@ -15022,6 +15023,7 @@
 - :cd: `org.hibernate.orm.enhance-maven-plugin` - `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:5.4.9.Final` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,5.4.9.Final,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` - `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha3` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,6.0.0.Alpha3,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.enhance-maven-plugin` - `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha4` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,6.0.0.Alpha4,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.enhance-maven-plugin` - `org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha5` // `org.hibernate.orm.tooling,hibernate-enhance-maven-plugin,6.0.0.Alpha5,org.hibernate.orm.enhance-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate:hibernate-gradle-plugin:5.3.0.Beta1` // `org.hibernate,hibernate-gradle-plugin,5.3.0.Beta1,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate:hibernate-gradle-plugin:5.3.5.Final` // `org.hibernate,hibernate-gradle-plugin,5.3.5.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate:hibernate-gradle-plugin:5.3.6.Final` // `org.hibernate,hibernate-gradle-plugin,5.3.6.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
@@ -15037,6 +15039,7 @@
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate:hibernate-gradle-plugin:5.4.9.Final` // `org.hibernate,hibernate-gradle-plugin,5.4.9.Final,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-gradle-plugin,6.0.0.Alpha3,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-gradle-plugin,6.0.0.Alpha4,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.gradle-plugin` - `org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-gradle-plugin,6.0.0.Alpha5,org.hibernate.orm.gradle-plugin,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` - `org.immutables:android-stub:2.7.0` // `org.immutables,android-stub,2.7.0,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` - `org.immutables:android-stub:2.7.1` // `org.immutables,android-stub,2.7.1,org.immutables.android-stub,-,automatic,-,false,-`
 - :cd: `org.immutables.android-stub` - `org.immutables:android-stub:2.7.2` // `org.immutables,android-stub,2.7.2,org.immutables.android-stub,-,automatic,-,false,-`

@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6537 Java modules published at Maven Central
+Counted 6539 Java modules published at Maven Central
 
-## Summary 2020-04-24T01:14:07.505039Z
+## Summary 2020-04-25T01:15:00.101482Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-24T01:14:07.505039Z
-Scanned 49,448 files in 6 seconds.
+Started scan at 2020-04-25T01:15:00.101482Z
+Scanned 49,537 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_24_00_59_00.csv
+    last -> modulescanner-report-2020_04_25_00_56_50.csv
 
-Parsed 3,319,654 lines in total.
-  53,175 -> captions skipped
-  279,835 -> duplicates skipped
-  156,390 -> module related
+Parsed 3,329,478 lines in total.
+  53,264 -> captions skipped
+  280,942 -> duplicates skipped
+  156,745 -> module related
 
-Collected 6,537 unique modules.
-  automatic :cd: -> 4,680
+Collected 6,539 unique modules.
+  automatic :cd: -> 4,682
   explicit :dvd: -> 1,857
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=4475, explicit=582, plain=103885}` 	 4.87%
+ - `2020_04={automatic=4771, explicit=591, plain=112158}` 	 4.78%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16541](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21701](suspicious/naming.md)
-- Modular impostors: [7707](suspicious/impostors.md)
+- Invalid module names: [16544](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21718](suspicious/naming.md)
+- Modular impostors: [7737](suspicious/impostors.md)
 
-## Unique Modules (6537)
+## Unique Modules (6539)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -190,11 +190,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.4`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
-- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.11`
+- :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.12`
 - :dvd: `be.yildizgames.module.physics` - `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` - `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` - `be.yildiz-games:module-scripting:2.0.5`
-- :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.4`
+- :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.5`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
@@ -425,11 +425,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.collinalpert.java2db` - `com.github.collinalpert:java2db:2.3.1`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:lambda2sql:1.8`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc:pouch.core:2.0`
-- :dvd: `com.github.cowwoc.requirements.annotations` - `com.github.cowwoc.requirements:annotations:6.0.3`
-- :dvd: `com.github.cowwoc.requirements.generator` - `com.github.cowwoc.requirements:code_generator:6.0.3`
-- :dvd: `com.github.cowwoc.requirements.guava` - `com.github.cowwoc.requirements:guava:6.0.3`
-- :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.3`
-- :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.3`
+- :dvd: `com.github.cowwoc.requirements.annotations` - `com.github.cowwoc.requirements:annotations:6.0.4`
+- :dvd: `com.github.cowwoc.requirements.generator` - `com.github.cowwoc.requirements:code_generator:6.0.4`
+- :dvd: `com.github.cowwoc.requirements.guava` - `com.github.cowwoc.requirements:guava:6.0.4`
+- :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.4`
+- :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.4`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
 - :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.3.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
@@ -506,7 +506,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.19`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.20`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1400,7 +1400,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.apache.derby.optionaltools` - `org.apache.derby:derbyoptionaltools:10.15.2.0`
 - :dvd: `org.apache.derby.server` - `org.apache.derby:derbynet:10.15.2.0`
 - :dvd: `org.apache.derby.tools` - `org.apache.derby:derbytools:10.15.2.0`
-- :dvd: `org.apache.logging.log4j` - `org.apache.logging.log4j:log4j-api:2.13.1`
+- :dvd: `org.apache.logging.log4j` - `org.apache.logging.log4j:log4j-api:2.13.2`
 - :dvd: `org.apiguardian.api` - `org.apiguardian:apiguardian-api:1.1.0`
 - :dvd: `org.arakhne.afc.advanced.agentmotion` - `org.arakhne.afc.advanced:agentmotion:17.0`
 - :dvd: `org.arakhne.afc.advanced.attributes` - `org.arakhne.afc.advanced:attributes:17.0`
