@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6539 Java modules published at Maven Central
 
-## Summary 2020-04-25T01:15:00.101482Z
+## Summary 2020-04-26T01:15:06.335125Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-25T01:15:00.101482Z
-Scanned 49,537 files in 6 seconds.
+Started scan at 2020-04-26T01:15:06.335125Z
+Scanned 49,639 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_25_00_56_50.csv
+    last -> modulescanner-report-2020_04_26_01_03_10.csv
 
-Parsed 3,329,478 lines in total.
-  53,264 -> captions skipped
-  280,942 -> duplicates skipped
-  156,745 -> module related
+Parsed 3,333,282 lines in total.
+  53,366 -> captions skipped
+  281,019 -> duplicates skipped
+  156,812 -> module related
 
 Collected 6,539 unique modules.
   automatic :cd: -> 4,682
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=4771, explicit=591, plain=112158}` 	 4.78%
+ - `2020_04={automatic=4824, explicit=597, plain=115716}` 	 4.68%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,8 +115,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [16544](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21718](suspicious/naming.md)
-- Modular impostors: [7737](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21722](suspicious/naming.md)
+- Modular impostors: [7741](suspicious/impostors.md)
 
 ## Unique Modules (6539)
 
@@ -378,7 +378,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.entityassist` - `com.entityassist:entity-assist:62`
 - :dvd: `com.fasterxml.aalto` - `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` - `com.fasterxml:classmate:1.5.1`
-- :dvd: `com.fasterxml.jackson.core` - `com.fasterxml.jackson.core:jackson-core:2.11.0.rc1`
+- :dvd: `com.fasterxml.jackson.core` - `com.fasterxml.jackson.core:jackson-core:2.11.0`
 - :dvd: `com.fasterxml.jackson.dataformat.avro` - `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.11.0.rc1`
@@ -401,10 +401,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.jaxrs.json` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.jaxrs.smile` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.jaxrs.yaml` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.11.0.rc1`
-- :dvd: `com.fasterxml.jackson.jr.annotationsupport` - `com.fasterxml.jackson.jr:jackson-jr-annotation-support:2.11.0.rc1`
-- :dvd: `com.fasterxml.jackson.jr.ob` - `com.fasterxml.jackson.jr:jackson-jr-objects:2.11.0.rc1`
-- :dvd: `com.fasterxml.jackson.jr.retrofit2` - `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.11.0.rc1`
-- :dvd: `com.fasterxml.jackson.jr.stree` - `com.fasterxml.jackson.jr:jackson-jr-stree:2.11.0.rc1`
+- :dvd: `com.fasterxml.jackson.jr.annotationsupport` - `com.fasterxml.jackson.jr:jackson-jr-annotation-support:2.11.0`
+- :dvd: `com.fasterxml.jackson.jr.ob` - `com.fasterxml.jackson.jr:jackson-jr-objects:2.11.0`
+- :dvd: `com.fasterxml.jackson.jr.retrofit2` - `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.11.0`
+- :dvd: `com.fasterxml.jackson.jr.stree` - `com.fasterxml.jackson.jr:jackson-jr-stree:2.11.0`
 - :dvd: `com.fasterxml.jackson.module.afterburner` - `com.fasterxml.jackson.module:jackson-module-afterburner:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.module.guice` - `com.fasterxml.jackson.module:jackson-module-guice:2.11.0.rc1`
 - :dvd: `com.fasterxml.jackson.module.jaxb` - `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.11.0.rc1`
@@ -1952,7 +1952,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `top.marchand.xml.cp.protocol` - `top.marchand.xml:cp-protocol:2.1`
 - :dvd: `uk.co.caprica.media.scanner` - `uk.co.caprica:media-scanner:1.0.0`
 - :dvd: `uk.co.caprica.nativestreams` - `uk.co.caprica:native-streams:2.0.0`
-- :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.1.1`
+- :dvd: `uk.co.caprica.vlcj` - `uk.co.caprica:vlcj:4.5.2`
 - :dvd: `uk.co.caprica.vlcj.file.filters` - `uk.co.caprica:vlcj-file-filters:3.0.0`
 - :dvd: `uk.co.caprica.vlcj.info` - `uk.co.caprica:vlcj-info:2.0.0`
 - :dvd: `uk.co.caprica.vlcj.javafx` - `uk.co.caprica:vlcj-javafx:1.0.2`
