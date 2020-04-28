@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6545 Java modules published at Maven Central
+Counted 6550 Java modules published at Maven Central
 
-## Summary 2020-04-27T01:15:09.051125Z
+## Summary 2020-04-28T01:15:31.011973Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-27T01:15:09.051125Z
-Scanned 49,737 files in 6 seconds.
+Started scan at 2020-04-28T01:15:31.011973Z
+Scanned 49,831 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_27_00_58_43.csv
+    last -> modulescanner-report-2020_04_28_00_50_09.csv
 
-Parsed 3,337,858 lines in total.
-  53,464 -> captions skipped
-  281,591 -> duplicates skipped
-  157,069 -> module related
+Parsed 3,344,537 lines in total.
+  53,558 -> captions skipped
+  282,361 -> duplicates skipped
+  157,420 -> module related
 
-Collected 6,545 unique modules.
-  automatic :cd: -> 4,684
-  explicit :dvd: -> 1,861
+Collected 6,550 unique modules.
+  automatic :cd: -> 4,688
+  explicit :dvd: -> 1,862
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=4838, explicit=633, plain=119365}` 	 4.58%
+ - `2020_04={automatic=5135, explicit=638, plain=124829}` 	 4.62%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16560](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21837](suspicious/naming.md)
-- Modular impostors: [7817](suspicious/impostors.md)
+- Invalid module names: [16573](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21857](suspicious/naming.md)
+- Modular impostors: [7833](suspicious/impostors.md)
 
-## Unique Modules (6545)
+## Unique Modules (6550)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -372,7 +372,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
-- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.5.2`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.6.0`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
@@ -416,7 +416,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.32`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.33`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.33`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -1078,7 +1079,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.76`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.77`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1815,7 +1816,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.0`
-- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.2`
+- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.3`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
 - :dvd: `org.tentackle.database` - `org.tentackle:tentackle-database:11.6.0.0`
