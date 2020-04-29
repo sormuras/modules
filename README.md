@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6550 Java modules published at Maven Central
+Counted 6558 Java modules published at Maven Central
 
-## Summary 2020-04-28T01:15:31.011973Z
+## Summary 2020-04-29T01:15:50.284028Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-28T01:15:31.011973Z
-Scanned 49,831 files in 7 seconds.
+Started scan at 2020-04-29T01:15:50.284028Z
+Scanned 49,918 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_28_00_50_09.csv
+    last -> modulescanner-report-2020_04_29_00_59_34.csv
 
-Parsed 3,344,537 lines in total.
-  53,558 -> captions skipped
-  282,361 -> duplicates skipped
-  157,420 -> module related
+Parsed 3,352,669 lines in total.
+  53,645 -> captions skipped
+  284,022 -> duplicates skipped
+  157,787 -> module related
 
-Collected 6,550 unique modules.
-  automatic :cd: -> 4,688
-  explicit :dvd: -> 1,862
+Collected 6,558 unique modules.
+  automatic :cd: -> 4,695
+  explicit :dvd: -> 1,863
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=5135, explicit=638, plain=124829}` 	 4.62%
+ - `2020_04={automatic=5442, explicit=646, plain=130846}` 	 4.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,10 +115,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [16573](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21857](suspicious/naming.md)
-- Modular impostors: [7833](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21901](suspicious/naming.md)
+- Modular impostors: [7841](suspicious/impostors.md)
 
-## Unique Modules (6550)
+## Unique Modules (6558)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -182,9 +182,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.0`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.7`
 - :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.1`
-- :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.2`
+- :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.4`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
-- :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.1`
+- :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
 - :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.8`
 - :dvd: `be.yildizgames.module.graphic` - `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.4`
@@ -198,7 +198,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
-- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.0.2`
+- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.0.3`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
@@ -433,7 +433,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.4`
 - :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.4`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
-- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.3.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.4.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.3`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
@@ -508,7 +508,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.20`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.21`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1078,7 +1078,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.1.7`
+- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.2.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.77`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
@@ -1099,6 +1099,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.14`
 - :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.14`
 - :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.14`
+- :dvd: `io.github.jmcleodfoss.voluminouspaginationskin` - `io.github.jmcleodfoss:voluminouspaginationskin:2.0.0`
 - :dvd: `io.github.joealisson.mmocore` - `io.github.joealisson:async-mmocore:3.0.1`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` - `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
 - :dvd: `io.github.jsoagger.core.api` - `io.github.jsoagger:jsoagger-jfxcore-api:1.0.3`
@@ -1967,7 +1968,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.2.0`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.0`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
