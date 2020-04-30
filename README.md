@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6558 Java modules published at Maven Central
+Counted 6563 Java modules published at Maven Central
 
-## Summary 2020-04-29T01:15:50.284028Z
+## Summary 2020-04-30T01:16:43.822536Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-29T01:15:50.284028Z
-Scanned 49,918 files in 6 seconds.
+Started scan at 2020-04-30T01:16:43.822536Z
+Scanned 49,999 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_29_00_59_34.csv
+    last -> modulescanner-report-2020_04_30_01_04_16.csv
 
-Parsed 3,352,669 lines in total.
-  53,645 -> captions skipped
-  284,022 -> duplicates skipped
-  157,787 -> module related
+Parsed 3,364,053 lines in total.
+  53,726 -> captions skipped
+  285,650 -> duplicates skipped
+  158,268 -> module related
 
-Collected 6,558 unique modules.
-  automatic :cd: -> 4,695
+Collected 6,563 unique modules.
+  automatic :cd: -> 4,700
   explicit :dvd: -> 1,863
 
 ## Samples
@@ -51,7 +51,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=5442, explicit=646, plain=130846}` 	 4.65%
+ - `2020_04={automatic=5827, explicit=655, plain=140040}` 	 4.63%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +114,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16573](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21901](suspicious/naming.md)
-- Modular impostors: [7841](suspicious/impostors.md)
+- Invalid module names: [16589](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21960](suspicious/naming.md)
+- Modular impostors: [7853](suspicious/impostors.md)
 
-## Unique Modules (6558)
+## Unique Modules (6563)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -156,7 +156,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.util` - `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` - `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` - `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
-- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.2.0`
+- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.2.1`
 - :dvd: `be.yildizgames.engine.client.addon.ui` - `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` - `be.yildiz-games:engine-server:1.0.10`
 - :dvd: `be.yildizgames.engine.shared` - `be.yildiz-games:engine-shared:2.0.4`
@@ -187,7 +187,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
 - :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.8`
 - :dvd: `be.yildizgames.module.graphic` - `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.4`
+- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.5`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
 - :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.12`
@@ -415,7 +415,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.0`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
-- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.1`
+- :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
 - :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.33`
 - :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.33`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
@@ -1312,10 +1312,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.3`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
-- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.20.0`
-- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.20.0`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.9`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.9`
+- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.21.0`
+- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.21.0`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.10`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.10`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jsonb:3.0.0`
@@ -1655,8 +1655,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.49`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.33`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.50`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.34`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
