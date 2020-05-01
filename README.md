@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6563 Java modules published at Maven Central
+Counted 6600 Java modules published at Maven Central
 
-## Summary 2020-04-30T01:16:43.822536Z
+## Summary 2020-05-01T01:17:05.955448Z
 
 ```
 ## Summary
 
-Started scan at 2020-04-30T01:16:43.822536Z
-Scanned 49,999 files in 7 seconds.
+Started scan at 2020-05-01T01:17:05.955448Z
+Scanned 50,083 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_04_30_01_04_16.csv
+    last -> modulescanner-report-2020_05_01_01_04_25.csv
 
-Parsed 3,364,053 lines in total.
-  53,726 -> captions skipped
-  285,650 -> duplicates skipped
-  158,268 -> module related
+Parsed 3,374,018 lines in total.
+  53,810 -> captions skipped
+  286,342 -> duplicates skipped
+  158,991 -> module related
 
-Collected 6,563 unique modules.
-  automatic :cd: -> 4,700
-  explicit :dvd: -> 1,863
+Collected 6,600 unique modules.
+  automatic :cd: -> 4,722
+  explicit :dvd: -> 1,878
 
 ## Samples
             junit -> junit:junit:4.13
@@ -51,7 +51,8 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
- - `2020_04={automatic=5827, explicit=655, plain=140040}` 	 4.63%
+ - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
+ - `2020_05={plain=115}` 	 0.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -114,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16589](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [21960](suspicious/naming.md)
-- Modular impostors: [7853](suspicious/impostors.md)
+- Invalid module names: [16671](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22149](suspicious/naming.md)
+- Modular impostors: [7897](suspicious/impostors.md)
 
-## Unique Modules (6563)
+## Unique Modules (6600)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -156,7 +157,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.util` - `be.yildiz-games:common-util:1.0.6`
 - :dvd: `be.yildizgames.engine.client` - `be.yildiz-games:engine-client:2.1.1`
 - :dvd: `be.yildizgames.engine.client.addon.parser.xml` - `be.yildiz-games:engine-client-addon-parser-xml:2.1.0`
-- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.2.1`
+- :dvd: `be.yildizgames.engine.client.addon.statemachine` - `be.yildiz-games:engine-client-addon-statemachine:2.2.2`
 - :dvd: `be.yildizgames.engine.client.addon.ui` - `be.yildiz-games:engine-client-addon-ui:2.1.1`
 - :dvd: `be.yildizgames.engine.server` - `be.yildiz-games:engine-server:1.0.10`
 - :dvd: `be.yildizgames.engine.shared` - `be.yildiz-games:engine-shared:2.0.4`
@@ -194,7 +195,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.physics` - `be.yildiz-games:module-physics:2.0.5`
 - :dvd: `be.yildizgames.module.physics.bullet` - `be.yildiz-games:module-physics-bullet:2.0.7`
 - :dvd: `be.yildizgames.module.scripting` - `be.yildiz-games:module-scripting:2.0.5`
-- :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.5`
+- :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.6`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
@@ -205,32 +206,32 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` - `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` - `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.11.0`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.11.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.11.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.11.0`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.11.0`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.11.1`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.11.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.11.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.11.1`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.11.1`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB` - `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.11.0`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.11.0`
-- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.11.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.11.0`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.11.0`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.11.0`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.11.0`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.11.0`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.11.0`
-- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.11.0`
-- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.11.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.11.1`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.11.1`
+- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.11.1`
+- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.11.1`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.11.1`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.11.1`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.11.1`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.11.1`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.11.1`
+- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.11.1`
+- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.11.1`
 - :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.14.3`
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -512,12 +513,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
-- :dvd: `com.googlecode.blaisemath.graphics` - `com.googlecode.blaisemath:blaise-graphics:3.0.11`
+- :dvd: `com.googlecode.blaisemath.graphics` - `com.googlecode.blaisemath:blaise-graphics:3.0.12`
 - :dvd: `com.googlecode.blaisemath.graphics.ui` - `com.googlecode.blaisemath:blaise-graphics-ui:3.0.8`
 - :dvd: `com.googlecode.blaisemath.graphtheory` - `com.googlecode.blaisemath:blaise-graph-theory:4.0.5`
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` - `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` - `com.googlecode.blaisemath:blaise-json:1.0.10`
-- :dvd: `com.googlecode.blaisemath.svg` - `com.googlecode.blaisemath:blaise-svg:1.0.0`
+- :dvd: `com.googlecode.blaisemath.svg` - `com.googlecode.blaisemath:blaise-svg:1.0.1`
 - :dvd: `com.googlecode.lanterna` - `com.googlecode.lanterna:lanterna:3.1.0-alpha1`
 - :dvd: `com.guicedee.guicedinjection` - `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` - `com.guicedee:guiced-undertow:62`
@@ -902,6 +903,21 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.streaming.test` - `com.puresoltechnologies.streaming:test:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.tsv` - `com.puresoltechnologies.streaming:tsv:2.1.0`
 - :dvd: `com.puresoltechnologies.versioning` - `com.puresoltechnologies.versioning:versioning:2.0.0`
+- :dvd: `com.remondis.limbus.api` - `com.remondis.limbus:limbus-engine-api:3.0.1`
+- :dvd: `com.remondis.limbus.engine.implementation` - `com.remondis.limbus:limbus-engine-impl:3.0.1`
+- :dvd: `com.remondis.limbus.engine.interfaces` - `com.remondis.limbus:limbus-engine-interfaces:3.0.1`
+- :dvd: `com.remondis.limbus.events` - `com.remondis.limbus:limbus-event-multicaster:3.0.1`
+- :dvd: `com.remondis.limbus.jsse` - `com.remondis.limbus:limbus-jsse:3.0.1`
+- :dvd: `com.remondis.limbus.launcher` - `com.remondis.limbus:limbus-launcher:3.0.1`
+- :dvd: `com.remondis.limbus.logging.jdk` - `com.remondis.limbus:limbus-logging-jdk:3.0.1`
+- :dvd: `com.remondis.limbus.properties` - `com.remondis.limbus:limbus-properties:3.0.1`
+- :dvd: `com.remondis.limbus.showcase.launcher` - `com.remondis.limbus:limbus-showcase-launcher:3.0.1`
+- :dvd: `com.remondis.limbus.showcase.plugin` - `com.remondis.limbus:limbus-showcase-plugin:3.0.1`
+- :dvd: `com.remondis.limbus.system` - `com.remondis.limbus:limbus-system:3.0.1`
+- :dvd: `com.remondis.limbus.system.api` - `com.remondis.limbus:limbus-system-api:3.0.1`
+- :dvd: `com.remondis.limbus.tasks` - `com.remondis.limbus:limbus-task-scheduler:3.0.1`
+- :dvd: `com.remondis.limbus.utils` - `com.remondis.limbus:limbus-utils:3.0.1`
+- :dvd: `com.remondis.limbus.vfs` - `com.remondis.limbus:limbus-vfs:3.0.1`
 - :dvd: `com.roscopeco.moxy.annotations` - `com.roscopeco.moxy:moxy-annotations:0.94.0`
 - :dvd: `com.roscopeco.moxy.core` - `com.roscopeco.moxy:moxy-core:0.94.0`
 - :dvd: `com.roscopeco.moxy.junit` - `com.roscopeco.moxy:moxy-junit5:0.94.0`
@@ -966,13 +982,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:2.0.0-M2`
 - :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:2.0.0-M1`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3`
 - :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
 - :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:2.3.3-b01`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:2.3.3`
 - :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M1`
@@ -1559,7 +1575,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.2.0`
 - :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.2.0`
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
-- :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.3.1`
+- :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.3`
 - :dvd: `org.docx4j.JAXB_ReferenceImpl` - `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.3`
@@ -1968,7 +1984,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.0`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.1`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
