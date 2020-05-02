@@ -235,6 +235,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.0-BUILD-RELEASE` // `com.quicko,api-client,3.0.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.1-BUILD-RELEASE` // `com.quicko,api-client,3.0.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.2.4` // `com.snowflake,snowflake-kafka-connector,1.2.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.33` // `de.charite.compbio,jannovar-cli,0.33,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.34` // `de.charite.compbio,jannovar-cli,0.34,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `io.github.jaredpetersen:kafka-connect-arangodb:1.0.6` // `io.github.jaredpetersen,kafka-connect-arangodb,1.0.6,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
@@ -2431,6 +2432,7 @@
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.10` // `com.networknt,codegen-cli,2.0.10,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.11` // `com.networknt,codegen-cli,2.0.11,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.12` // `com.networknt,codegen-cli,2.0.12,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.13` // `com.networknt,codegen-cli,2.0.13,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.2` // `com.networknt,codegen-cli,2.0.2,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.3` // `com.networknt,codegen-cli,2.0.3,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.4` // `com.networknt,codegen-cli,2.0.4,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -4140,6 +4142,7 @@
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.1.0` // `io.pebbletemplates,pebble-spring4,3.1.0,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.1.1` // `io.pebbletemplates,pebble-spring4,3.1.1,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.1.2` // `io.pebbletemplates,pebble-spring4,3.1.2,io.pebbletemplates.spring,-,automatic,-,false,-`
+- :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.1.3` // `io.pebbletemplates,pebble-spring4,3.1.3,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.0.10` // `io.pebbletemplates,pebble-spring5,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.0.7` // `io.pebbletemplates,pebble-spring5,3.0.7,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.0.8` // `io.pebbletemplates,pebble-spring5,3.0.8,io.pebbletemplates.spring,-,automatic,-,false,-`
@@ -4147,9 +4150,11 @@
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.1.0` // `io.pebbletemplates,pebble-spring5,3.1.0,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.1.1` // `io.pebbletemplates,pebble-spring5,3.1.1,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.1.2` // `io.pebbletemplates,pebble-spring5,3.1.2,io.pebbletemplates.spring,-,automatic,-,false,-`
+- :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring5:3.1.3` // `io.pebbletemplates,pebble-spring5,3.1.3,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-legacy-spring-boot-starter:3.1.0` // `io.pebbletemplates,pebble-legacy-spring-boot-starter,3.1.0,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-legacy-spring-boot-starter:3.1.1` // `io.pebbletemplates,pebble-legacy-spring-boot-starter,3.1.1,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-legacy-spring-boot-starter:3.1.2` // `io.pebbletemplates,pebble-legacy-spring-boot-starter,3.1.2,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
+- :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-legacy-spring-boot-starter:3.1.3` // `io.pebbletemplates,pebble-legacy-spring-boot-starter,3.1.3,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.0.10` // `io.pebbletemplates,pebble-spring-boot-starter,3.0.10,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.0.7` // `io.pebbletemplates,pebble-spring-boot-starter,3.0.7,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.0.8` // `io.pebbletemplates,pebble-spring-boot-starter,3.0.8,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
@@ -4157,6 +4162,7 @@
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.1.0` // `io.pebbletemplates,pebble-spring-boot-starter,3.1.0,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.1.1` // `io.pebbletemplates,pebble-spring-boot-starter,3.1.1,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.1.2` // `io.pebbletemplates,pebble-spring-boot-starter,3.1.2,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
+- :cd: `io.pebbletemplates.spring.boot` - `io.pebbletemplates:pebble-spring-boot-starter:3.1.3` // `io.pebbletemplates,pebble-spring-boot-starter,3.1.3,io.pebbletemplates.spring.boot,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.10.0` // `io.qameta.allure,allure-okhttp,2.10.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.11.0` // `io.qameta.allure,allure-okhttp,2.11.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
 - :cd: `io.qameta.allure.okhttp` - `io.qameta.allure:allure-okhttp:2.12.0` // `io.qameta.allure,allure-okhttp,2.12.0,io.qameta.allure.okhttp,-,automatic,-,false,-`
@@ -4222,6 +4228,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.2-jre14,jakarta.mail,1.0.8.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.3-jre14,jakarta.mail,1.0.8.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.4-jre14,jakarta.mail,1.0.8.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.5-jre14,jakarta.mail,1.0.8.5-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -4808,6 +4815,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.1.3` // `com.google.gerrit,gerrit-acceptance-framework,3.1.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.1.4` // `com.google.gerrit,gerrit-acceptance-framework,3.1.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5267,6 +5275,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.93` // `io.nosqlbench,nb,3.12.93,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.94` // `io.nosqlbench,nb,3.12.94,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.95` // `io.nosqlbench,nb,3.12.95,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.96` // `io.nosqlbench,nb,3.12.96,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.1` // `io.nosqlbench,virtdata-lib-curves4,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.17` // `io.nosqlbench,virtdata-lib-curves4,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.19` // `io.nosqlbench,virtdata-lib-curves4,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5330,6 +5339,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.93` // `io.nosqlbench,virtdata-lib-curves4,3.12.93,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.94` // `io.nosqlbench,virtdata-lib-curves4,3.12.94,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.95` // `io.nosqlbench,virtdata-lib-curves4,3.12.95,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-curves4:3.12.96` // `io.nosqlbench,virtdata-lib-curves4,3.12.96,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.1` // `io.nosqlbench,virtdata-lib-random,3.12.1,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.17` // `io.nosqlbench,virtdata-lib-random,3.12.17,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:virtdata-lib-random:3.12.19` // `io.nosqlbench,virtdata-lib-random,3.12.19,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6917,6 +6927,7 @@
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.1.3` // `com.google.gerrit,gerrit-plugin-api,3.1.3,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.1.4` // `com.google.gerrit,gerrit-plugin-api,3.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc0` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc1` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -7130,6 +7141,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.111` // `com.rookout,rook,0.1.111,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.112` // `com.rookout,rook,0.1.112,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.113` // `com.rookout,rook,0.1.113,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.114` // `com.rookout,rook,0.1.114,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
