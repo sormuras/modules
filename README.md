@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6605 Java modules published at Maven Central
 
-## Summary 2020-05-02T01:17:06.857349Z
+## Summary 2020-05-03T01:17:16.527182Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-02T01:17:06.857349Z
-Scanned 50,178 files in 6 seconds.
+Started scan at 2020-05-03T01:17:16.527182Z
+Scanned 50,276 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_02_00_58_42.csv
+    last -> modulescanner-report-2020_05_03_01_07_18.csv
 
-Parsed 3,379,630 lines in total.
-  53,905 -> captions skipped
-  287,822 -> duplicates skipped
-  159,306 -> module related
+Parsed 3,382,665 lines in total.
+  54,003 -> captions skipped
+  288,684 -> duplicates skipped
+  159,384 -> module related
 
 Collected 6,605 unique modules.
   automatic :cd: -> 4,727
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=265, plain=3837}` 	 6.91%
+ - `2020_05={automatic=310, explicit=3, plain=5834}` 	 5.37%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,9 +115,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16678](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22180](suspicious/naming.md)
-- Modular impostors: [7909](suspicious/impostors.md)
+- Invalid module names: [16684](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22202](suspicious/naming.md)
+- Modular impostors: [7911](suspicious/impostors.md)
 
 ## Unique Modules (6605)
 
@@ -1092,10 +1092,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC1`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.2.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.77`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.78`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1288,7 +1288,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.3.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.3.1`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
