@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6605 Java modules published at Maven Central
+Counted 6624 Java modules published at Maven Central
 
-## Summary 2020-05-03T01:17:16.527182Z
+## Summary 2020-05-04T01:17:36.406454Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-03T01:17:16.527182Z
-Scanned 50,276 files in 6 seconds.
+Started scan at 2020-05-04T01:17:36.406454Z
+Scanned 50,369 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_03_01_07_18.csv
+    last -> modulescanner-report-2020_05_04_01_05_46.csv
 
-Parsed 3,382,665 lines in total.
-  54,003 -> captions skipped
-  288,684 -> duplicates skipped
-  159,384 -> module related
+Parsed 3,384,830 lines in total.
+  54,096 -> captions skipped
+  288,735 -> duplicates skipped
+  159,434 -> module related
 
-Collected 6,605 unique modules.
-  automatic :cd: -> 4,727
-  explicit :dvd: -> 1,878
+Collected 6,624 unique modules.
+  automatic :cd: -> 4,742
+  explicit :dvd: -> 1,882
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=310, explicit=3, plain=5834}` 	 5.37%
+ - `2020_05={automatic=346, explicit=10, plain=7805}` 	 4.56%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16684](suspicious/syntax.md)
+- Invalid module names: [16685](suspicious/syntax.md)
 - Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22202](suspicious/naming.md)
-- Modular impostors: [7911](suspicious/impostors.md)
+- Modular impostors: [7917](suspicious/impostors.md)
 
-## Unique Modules (6605)
+## Unique Modules (6624)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -199,7 +199,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
-- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.0.3`
+- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.1.0`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
@@ -689,6 +689,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
+- :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.1`
+- :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.1`
+- :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.1`
+- :dvd: `com.io7m.xstructural.xml` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.xml:0.0.1`
 - :dvd: `com.io7m.zeptoblog.cmdline` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.cmdline:0.4.0`
 - :dvd: `com.io7m.zeptoblog.commonmark` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.commonmark:0.4.0`
 - :dvd: `com.io7m.zeptoblog.core` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.core:0.4.0`
@@ -992,7 +996,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M1`
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M1`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.0`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.1`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
 - :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.6.0`
@@ -1049,7 +1053,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
-- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.4`
+- :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.32`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
