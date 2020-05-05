@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6624 Java modules published at Maven Central
+Counted 6634 Java modules published at Maven Central
 
-## Summary 2020-05-04T01:17:36.406454Z
+## Summary 2020-05-05T01:17:48.867700Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-04T01:17:36.406454Z
-Scanned 50,369 files in 6 seconds.
+Started scan at 2020-05-05T01:17:48.867700Z
+Scanned 50,458 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_04_01_05_46.csv
+    last -> modulescanner-report-2020_05_05_01_07_59.csv
 
-Parsed 3,384,830 lines in total.
-  54,096 -> captions skipped
-  288,735 -> duplicates skipped
-  159,434 -> module related
+Parsed 3,392,326 lines in total.
+  54,185 -> captions skipped
+  289,712 -> duplicates skipped
+  159,870 -> module related
 
-Collected 6,624 unique modules.
-  automatic :cd: -> 4,742
-  explicit :dvd: -> 1,882
+Collected 6,634 unique modules.
+  automatic :cd: -> 4,750
+  explicit :dvd: -> 1,884
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=346, explicit=10, plain=7805}` 	 4.56%
+ - `2020_05={automatic=736, explicit=18, plain=13799}` 	 5.46%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,10 +116,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [16685](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22202](suspicious/naming.md)
-- Modular impostors: [7917](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22226](suspicious/naming.md)
+- Modular impostors: [7931](suspicious/impostors.md)
 
-## Unique Modules (6624)
+## Unique Modules (6634)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -310,14 +310,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.1`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.4.0`
-- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.0.2`
-- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.1`
-- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.0`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.5.0`
+- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.0`
+- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.2`
+- :dvd: `com.azure.core.serializer.json.gson` - `com.azure:azure-core-serializer-json-gson:1.0.0-beta.1`
+- :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
+- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.2`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
-- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.0`
+- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.1`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.3`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0-beta.1`
@@ -1988,7 +1990,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.1`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.2`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
