@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6634 Java modules published at Maven Central
+Counted 6635 Java modules published at Maven Central
 
-## Summary 2020-05-05T01:17:48.867700Z
+## Summary 2020-05-06T01:18:14.743865Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-05T01:17:48.867700Z
-Scanned 50,458 files in 8 seconds.
+Started scan at 2020-05-06T01:18:14.743865Z
+Scanned 50,545 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_05_01_07_59.csv
+    last -> modulescanner-report-2020_05_06_01_04_33.csv
 
-Parsed 3,392,326 lines in total.
-  54,185 -> captions skipped
-  289,712 -> duplicates skipped
-  159,870 -> module related
+Parsed 3,399,631 lines in total.
+  54,272 -> captions skipped
+  290,512 -> duplicates skipped
+  160,184 -> module related
 
-Collected 6,634 unique modules.
-  automatic :cd: -> 4,750
+Collected 6,635 unique modules.
+  automatic :cd: -> 4,751
   explicit :dvd: -> 1,884
 
 ## Samples
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=736, explicit=18, plain=13799}` 	 5.46%
+ - `2020_05={automatic=1018, explicit=29, plain=19903}` 	 5.26%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16685](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22226](suspicious/naming.md)
-- Modular impostors: [7931](suspicious/impostors.md)
+- Invalid module names: [16690](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22234](suspicious/naming.md)
+- Modular impostors: [7939](suspicious/impostors.md)
 
-## Unique Modules (6634)
+## Unique Modules (6635)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -988,16 +988,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:2.0.0-M2`
 - :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:2.0.0-M1`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:2.3.3`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M2`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:2.3.3`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M1`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M1`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.1`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
@@ -1294,7 +1294,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.3.1`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.4.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
@@ -1462,7 +1462,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.arakhne.afc.gis.ui.gisroadfx` - `org.arakhne.afc.gis.ui:gisroadfx:17.0`
 - :dvd: `org.arakhne.afc.slf4j.slf4j_log4j` - `org.arakhne.afc.slf4j:slf4j-log4j:17.0`
 - :dvd: `org.argotsdk` - `org.argot-sdk:argot:1.4.0-rc2`
-- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.15.0`
+- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.16.0`
 - :dvd: `org.basinmc.lavatory` - `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` - `org.beryx:awt-color-factory:1.0.1`
 - :dvd: `org.bitbucket.cowwoc.requirements.annotations` - `org.bitbucket.cowwoc.requirements:annotations:5.2.2`
