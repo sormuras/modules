@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6635 Java modules published at Maven Central
+Counted 6639 Java modules published at Maven Central
 
-## Summary 2020-05-06T01:18:14.743865Z
+## Summary 2020-05-07T01:19:09.863047Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-06T01:18:14.743865Z
-Scanned 50,545 files in 6 seconds.
+Started scan at 2020-05-07T01:19:09.863047Z
+Scanned 50,632 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_06_01_04_33.csv
+    last -> modulescanner-report-2020_05_07_01_08_29.csv
 
-Parsed 3,399,631 lines in total.
-  54,272 -> captions skipped
-  290,512 -> duplicates skipped
-  160,184 -> module related
+Parsed 3,408,725 lines in total.
+  54,358 -> captions skipped
+  291,865 -> duplicates skipped
+  160,616 -> module related
 
-Collected 6,635 unique modules.
-  automatic :cd: -> 4,751
-  explicit :dvd: -> 1,884
+Collected 6,639 unique modules.
+  automatic :cd: -> 4,753
+  explicit :dvd: -> 1,886
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=1018, explicit=29, plain=19903}` 	 5.26%
+ - `2020_05={automatic=1381, explicit=41, plain=27126}` 	 5.24%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16690](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22234](suspicious/naming.md)
-- Modular impostors: [7939](suspicious/impostors.md)
+- Invalid module names: [16694](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22274](suspicious/naming.md)
+- Modular impostors: [7952](suspicious/impostors.md)
 
-## Unique Modules (6635)
+## Unique Modules (6639)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -308,7 +308,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
 - :dvd: `com.athaydes.keepup.core` - `com.athaydes.keepup:keepup-core:1.0-RC3`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
-- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.1`
+- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.2`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.5.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.0`
@@ -325,15 +325,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
-- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.2`
+- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.3`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.6.0`
-- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.0`
-- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.0`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.6.0`
-- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.0`
-- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.0`
-- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.0`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.6.1`
+- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.1`
+- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.1`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.6.1`
+- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.1`
+- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.1`
+- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.1`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha1`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha1`
 - :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha1`
@@ -471,6 +471,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.4`
 - :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.4`
 - :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.4`
+- :dvd: `com.github.ruediste.polymorphicGson` - `com.github.ruediste:polymorphic-gson:0.1`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
 - :dvd: `com.github.skjolber.aotc.agent` - `com.github.skjolber.aotc:agent:1.0.0`
@@ -1002,6 +1003,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
 - :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.6.0`
+- :dvd: `com.tobiasdiez.easybind` - `com.tobiasdiez:easybind:1.2.2`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
@@ -1294,7 +1296,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.4.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.4.1`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
