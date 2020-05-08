@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6639 Java modules published at Maven Central
+Counted 6645 Java modules published at Maven Central
 
-## Summary 2020-05-07T01:19:09.863047Z
+## Summary 2020-05-08T01:19:59.996018Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-07T01:19:09.863047Z
-Scanned 50,632 files in 6 seconds.
+Started scan at 2020-05-08T01:19:59.996018Z
+Scanned 50,726 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_07_01_08_29.csv
+    last -> modulescanner-report-2020_05_08_01_02_19.csv
 
-Parsed 3,408,725 lines in total.
-  54,358 -> captions skipped
-  291,865 -> duplicates skipped
-  160,616 -> module related
+Parsed 3,414,774 lines in total.
+  54,452 -> captions skipped
+  293,104 -> duplicates skipped
+  161,004 -> module related
 
-Collected 6,639 unique modules.
-  automatic :cd: -> 4,753
-  explicit :dvd: -> 1,886
+Collected 6,645 unique modules.
+  automatic :cd: -> 4,757
+  explicit :dvd: -> 1,888
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=1381, explicit=41, plain=27126}` 	 5.24%
+ - `2020_05={automatic=1739, explicit=48, plain=31454}` 	 5.68%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16694](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22274](suspicious/naming.md)
-- Modular impostors: [7952](suspicious/impostors.md)
+- Invalid module names: [16699](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22279](suspicious/naming.md)
+- Modular impostors: [7965](suspicious/impostors.md)
 
-## Unique Modules (6639)
+## Unique Modules (6645)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -236,9 +236,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.6.0`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.6.0`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.6.0`
+- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.6.5`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.6.5`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.6.5`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.6.5`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -311,7 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.2`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.5.0`
-- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.0`
+- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.1`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.2`
 - :dvd: `com.azure.core.serializer.json.gson` - `com.azure:azure-core-serializer-json-gson:1.0.0-beta.1`
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
@@ -320,7 +321,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.2`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.1`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.3`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.4`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
@@ -1653,6 +1654,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.fxyz3d.core` - `org.fxyz3d:fxyz3d:0.5.2`
 - :dvd: `org.fxyz3d.importers` - `org.fxyz3d:fxyz3d-importers:0.5.2`
 - :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.1.0`
+- :dvd: `org.glassfish.external.management.api` - `org.glassfish.external:management-api:3.2.3`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
 - :dvd: `org.glassfish.jaxb.core` - `org.glassfish.jaxb:jaxb-core:3.0.0-M2`
 - :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M2`
