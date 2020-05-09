@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6645 Java modules published at Maven Central
+Counted 6647 Java modules published at Maven Central
 
-## Summary 2020-05-08T01:19:59.996018Z
+## Summary 2020-05-09T01:20:50.646793Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-08T01:19:59.996018Z
-Scanned 50,726 files in 6 seconds.
+Started scan at 2020-05-09T01:20:50.646793Z
+Scanned 50,818 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_08_01_02_19.csv
+    last -> modulescanner-report-2020_05_09_01_04_13.csv
 
-Parsed 3,414,774 lines in total.
-  54,452 -> captions skipped
-  293,104 -> duplicates skipped
-  161,004 -> module related
+Parsed 3,422,334 lines in total.
+  54,544 -> captions skipped
+  294,141 -> duplicates skipped
+  162,104 -> module related
 
-Collected 6,645 unique modules.
-  automatic :cd: -> 4,757
-  explicit :dvd: -> 1,888
+Collected 6,647 unique modules.
+  automatic :cd: -> 4,758
+  explicit :dvd: -> 1,889
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=1739, explicit=48, plain=31454}` 	 5.68%
+ - `2020_05={automatic=2276, explicit=63, plain=36785}` 	 6.36%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [16699](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22279](suspicious/naming.md)
-- Modular impostors: [7965](suspicious/impostors.md)
+- Invalid module names: [17023](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22480](suspicious/naming.md)
+- Modular impostors: [7988](suspicious/impostors.md)
 
-## Unique Modules (6645)
+## Unique Modules (6647)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -312,7 +312,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.2`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.5.0`
-- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.1`
+- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.2`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.2`
 - :dvd: `com.azure.core.serializer.json.gson` - `com.azure:azure-core-serializer-json-gson:1.0.0-beta.1`
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
@@ -322,9 +322,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.1`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.4`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0-beta.1`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0-beta.1`
-- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.1`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0`
+- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.2`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.3`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
@@ -420,8 +420,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.33`
-- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.33`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.34`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.34`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -559,9 +559,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.illucit.instatrie` - `com.illucit:instatrie:2.0.0`
 - :dvd: `com.illucit.lucene.utils` - `com.illucit:lucene-utils:1.1.2`
 - :dvd: `com.io7m.blackthorne.api` :left_right_arrow: `com.io7m.blackthorne:com.io7m.blackthorne.api:0.0.5`
-- :dvd: `com.io7m.boxwood.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.api:0.0.1`
-- :dvd: `com.io7m.boxwood.parser.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.parser.api:0.0.1`
-- :dvd: `com.io7m.boxwood.vanilla` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.vanilla:0.0.1`
+- :dvd: `com.io7m.boxwood.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.api:0.0.2`
+- :dvd: `com.io7m.boxwood.parser.api` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.parser.api:0.0.2`
+- :dvd: `com.io7m.boxwood.vanilla` :left_right_arrow: `com.io7m.boxwood:com.io7m.boxwood.vanilla:0.0.2`
 - :dvd: `com.io7m.changelog.cmdline` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.cmdline:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.core` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.core:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.documentation` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.documentation:4.0.0-beta0014`
@@ -1017,6 +1017,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.zarbosoft.pidgoon` - `com.zarbosoft:pidgoon:0.0.4`
 - :dvd: `com.zarbosoft.pidgooncommand` - `com.zarbosoft:pidgoon-command:0.0.8`
 - :dvd: `com.zarbosoft.rendaw.common` - `com.zarbosoft.rendaw:common:1.0.11`
+- :dvd: `com.zaxxer.hikari` - `com.zaxxer:HikariCP:3.4.5`
 - :dvd: `com.zeroc.ice` - `com.zeroc:ice:3.7.3`
 - :dvd: `com.zeroc.icebox` - `com.zeroc:icebox:3.7.3`
 - :dvd: `com.zeroc.icebt` - `com.zeroc:icebt:3.7.3`
@@ -1465,7 +1466,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.arakhne.afc.gis.ui.gisroadfx` - `org.arakhne.afc.gis.ui:gisroadfx:17.0`
 - :dvd: `org.arakhne.afc.slf4j.slf4j_log4j` - `org.arakhne.afc.slf4j:slf4j-log4j:17.0`
 - :dvd: `org.argotsdk` - `org.argot-sdk:argot:1.4.0-rc2`
-- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.16.0`
+- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.16.1`
 - :dvd: `org.basinmc.lavatory` - `org.basinmc:lavatory:1.0`
 - :dvd: `org.beryx.awt.color` - `org.beryx:awt-color-factory:1.0.1`
 - :dvd: `org.bitbucket.cowwoc.requirements.annotations` - `org.bitbucket.cowwoc.requirements:annotations:5.2.2`
@@ -1681,8 +1682,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.50`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.34`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.51`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.35`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
@@ -1994,7 +1995,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.2`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`

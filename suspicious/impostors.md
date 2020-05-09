@@ -235,6 +235,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.0-BUILD-RELEASE` // `com.quicko,api-client,3.0.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.1-BUILD-RELEASE` // `com.quicko,api-client,3.0.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.3-BUILD-RELEASE` // `com.quicko,api-client,3.0.3-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.2.4` // `com.snowflake,snowflake-kafka-connector,1.2.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.33` // `de.charite.compbio,jannovar-cli,0.33,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.34` // `de.charite.compbio,jannovar-cli,0.34,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
@@ -2461,6 +2462,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.5.16` // `com.yahoo.elide,elide-blog-example,4.5.16,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.0` // `com.yahoo.elide,elide-blog-example,4.6.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.1` // `com.yahoo.elide,elide-blog-example,4.6.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.2` // `com.yahoo.elide,elide-blog-example,4.6.2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -3068,6 +3070,7 @@
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.3` // `io.micronaut.configuration,micronaut-openapi,1.4.3,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.4` // `io.micronaut.configuration,micronaut-openapi,1.4.4,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.4.5` // `io.micronaut.configuration,micronaut-openapi,1.4.5,io.micronaut.configuration.openapi,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.5.0` // `io.micronaut.configuration,micronaut-openapi,1.5.0,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0` // `io.micronaut.configuration,micronaut-picocli,1.0.0,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0.RC3` // `io.micronaut.configuration,micronaut-picocli,1.0.0.RC3,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.1` // `io.micronaut.configuration,micronaut-picocli,1.0.1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
@@ -4002,6 +4005,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.3` // `io.micronaut.test,micronaut-test-core,1.1.3,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.4` // `io.micronaut.test,micronaut-test-core,1.1.4,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.5` // `io.micronaut.test,micronaut-test-core,1.1.5,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC1` // `io.micronaut.test,micronaut-test-core,1.2.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -4017,6 +4021,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.3` // `io.micronaut.test,micronaut-test-junit5,1.1.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.4` // `io.micronaut.test,micronaut-test-junit5,1.1.4,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.5` // `io.micronaut.test,micronaut-test-junit5,1.1.5,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -4032,6 +4037,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.3` // `io.micronaut.test,micronaut-test-spock,1.1.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.4` // `io.micronaut.test,micronaut-test-spock,1.1.4,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.5` // `io.micronaut.test,micronaut-test-spock,1.1.5,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -4245,6 +4251,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.1-jre14,jakarta.mail,1.0.8.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.12-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.12-jre14,jakarta.mail,1.0.8.12-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.16-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.16-jre14,jakarta.mail,1.0.8.16-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.18-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.18-jre14,jakarta.mail,1.0.8.18-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.2-jre14,jakarta.mail,1.0.8.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.3-jre14,jakarta.mail,1.0.8.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.4-jre14,jakarta.mail,1.0.8.4-jre14,explicit,java.base,false,-`
@@ -4815,6 +4822,7 @@
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-2-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-2-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.6` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.2` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.3` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4844,6 +4852,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.1.4` // `com.google.gerrit,gerrit-acceptance-framework,3.1.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.0.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.0` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.opentracing.contrib.specialagent:opentracing-specialagent:1.1.1` // `io.opentracing.contrib.specialagent,opentracing-specialagent,1.1.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5216,6 +5225,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jswitcher-ui:1.2.2` // `com.github.xincao9,jswitcher-ui,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.12-jre14` // `com.guicedee.services,log4j-core,1.0.8.12-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.16-jre14` // `com.guicedee.services,log4j-core,1.0.8.16-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hpe.adm.octane.ciplugins:bamboo-ci-plugin:1.10.1` // `com.hpe.adm.octane.ciplugins,bamboo-ci-plugin,1.10.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.2` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5240,6 +5250,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.1` // `com.sagframe,sqltoy-quickvo,4.11.1,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.5` // `com.sagframe,sqltoy-quickvo,4.11.5,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.7` // `com.sagframe,sqltoy-quickvo,4.11.7,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.11.8` // `com.sagframe,sqltoy-quickvo,4.11.8,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.13` // `com.sagframe,sqltoy-quickvo,4.9.13,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.9.9` // `com.sagframe,sqltoy-quickvo,4.9.9,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.snowflake:snowflake-kafka-connector:1.1.0` // `com.snowflake,snowflake-kafka-connector,1.1.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5723,6 +5734,7 @@
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.64` // `org.bouncycastle,bcpkix-jdk15to18,1.64,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.65` // `org.bouncycastle,bcpkix-jdk15to18,1.65,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.0` // `org.keycloak,kcinit,10.0.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.1` // `org.keycloak,kcinit,10.0.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.testcontainers:testcontainers:1.14.0` // `org.testcontainers,testcontainers,1.14.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:jwt-sample:2.7.0` // `org.wso2.msf4j,jwt-sample,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-fileserver:2.7.0` // `org.wso2.msf4j,petstore-fileserver,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -5814,7 +5826,9 @@
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.0` // `org.eclipse.milo,server-examples,0.4.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.1` // `org.eclipse.milo,server-examples,0.4.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.0` // `org.keycloak,keycloak-admin-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.1` // `org.keycloak,keycloak-admin-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.0` // `org.keycloak,keycloak-client-registration-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.1` // `org.keycloak,keycloak-client-registration-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.netbeans.external:bcprov:RELEASE113` // `org.netbeans.external,bcprov,RELEASE113,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -5953,6 +5967,7 @@
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.36.0.20200330` // `org.drools,drools-verifier-drl,7.36.0.20200330,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.36.0.20200331` // `org.drools,drools-verifier-drl,7.36.0.20200331,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.36.1.Final` // `org.drools,drools-verifier-drl,7.36.1.Final,org.drools.verifier,-,automatic,-,false,-`
+- :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.37.0.Final` // `org.drools,drools-verifier-drl,7.37.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.12.0.Final` // `org.drools,drools-wb-verifier-webworker,7.12.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.13.0.Final` // `org.drools,drools-wb-verifier-webworker,7.13.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.14.0.Final` // `org.drools,drools-wb-verifier-webworker,7.14.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
@@ -5979,6 +5994,7 @@
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.35.0.Final` // `org.drools,drools-wb-verifier-webworker,7.35.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.36.0.Final` // `org.drools,drools-wb-verifier-webworker,7.36.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.36.1.Final` // `org.drools,drools-wb-verifier-webworker,7.36.1.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.37.0.Final` // `org.drools,drools-wb-verifier-webworker,7.37.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.12.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.12.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.13.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.13.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.14.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.14.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
@@ -6005,6 +6021,7 @@
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.35.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.35.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.36.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.36.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.36.1.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.36.1.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.37.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.37.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
 - :dvd: `org.eclipse.jetty.websocket.javax.client` - `org.eclipse.jetty.websocket:websocket-javax-client:10.0.0.alpha2` // `org.eclipse.jetty.websocket,websocket-javax-client,10.0.0.alpha2,org.eclipse.jetty.websocket.javax.client,10.0.0.alpha2,explicit,java.base + jetty.websocket.api + org.eclipse.jetty.client + org.eclipse.jetty.websocket.javax.common,false,-`
@@ -6469,6 +6486,7 @@
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.35.0.Final` // `org.jbpm.contrib,karaf-itests,7.35.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.36.0.Final` // `org.jbpm.contrib,karaf-itests,7.36.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.36.1.Final` // `org.jbpm.contrib,karaf-itests,7.36.1.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
+- :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.37.0.Final` // `org.jbpm.contrib,karaf-itests,7.37.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
@@ -6482,6 +6500,7 @@
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.35.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.35.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.36.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.36.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.36.1.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.36.1.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
+- :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.37.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.37.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.15.0.Final` // `org.kie,business-central-home-page-community,7.15.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.16.0.Final` // `org.kie,business-central-home-page-community,7.16.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.17.0.Final` // `org.kie,business-central-home-page-community,7.17.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
@@ -6505,6 +6524,7 @@
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.35.0.Final` // `org.kie,business-central-home-page-community,7.35.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.36.0.Final` // `org.kie,business-central-home-page-community,7.36.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.36.1.Final` // `org.kie,business-central-home-page-community,7.36.1.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.37.0.Final` // `org.kie,business-central-home-page-community,7.37.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.15.0.Final` // `org.kie,business-central-theme-community,7.15.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.16.0.Final` // `org.kie,business-central-theme-community,7.16.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.17.0.Final` // `org.kie,business-central-theme-community,7.17.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
@@ -6528,6 +6548,7 @@
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.35.0.Final` // `org.kie,business-central-theme-community,7.35.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.36.0.Final` // `org.kie,business-central-theme-community,7.36.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.36.1.Final` // `org.kie,business-central-theme-community,7.36.1.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.37.0.Final` // `org.kie,business-central-theme-community,7.37.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.15.0.Final` // `org.kie,business-central-theme-product,7.15.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.16.0.Final` // `org.kie,business-central-theme-product,7.16.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.17.0.Final` // `org.kie,business-central-theme-product,7.17.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
@@ -6551,6 +6572,7 @@
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.35.0.Final` // `org.kie,business-central-theme-product,7.35.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.36.0.Final` // `org.kie,business-central-theme-product,7.36.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.36.1.Final` // `org.kie,business-central-theme-product,7.36.1.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.37.0.Final` // `org.kie,business-central-theme-product,7.37.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.5` // `org.lamblin,lamblin-local-runner,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.6` // `org.lamblin,lamblin-local-runner,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
@@ -6978,6 +7000,7 @@
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.1.4` // `com.google.gerrit,gerrit-plugin-api,3.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc0` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc1` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc2` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
