@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6647 Java modules published at Maven Central
 
-## Summary 2020-05-09T01:20:50.646793Z
+## Summary 2020-05-10T01:21:09.477837Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-09T01:20:50.646793Z
-Scanned 50,818 files in 8 seconds.
+Started scan at 2020-05-10T01:21:09.477837Z
+Scanned 50,922 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_09_01_04_13.csv
+    last -> modulescanner-report-2020_05_10_01_05_36.csv
 
-Parsed 3,422,334 lines in total.
-  54,544 -> captions skipped
-  294,141 -> duplicates skipped
-  162,104 -> module related
+Parsed 3,425,189 lines in total.
+  54,648 -> captions skipped
+  294,302 -> duplicates skipped
+  162,165 -> module related
 
 Collected 6,647 unique modules.
   automatic :cd: -> 4,758
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=2276, explicit=63, plain=36785}` 	 6.36%
+ - `2020_05={automatic=2278, explicit=97, plain=39314}` 	 6.04%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,8 +116,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17023](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22480](suspicious/naming.md)
-- Modular impostors: [7988](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22502](suspicious/naming.md)
+- Modular impostors: [7991](suspicious/impostors.md)
 
 ## Unique Modules (6647)
 
@@ -1700,40 +1700,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.vintage.engine` - `org.junit.vintage:junit-vintage-engine:5.7.0-M1`
 - :dvd: `org.jvnet.mimepull` - `org.jvnet.mimepull:mimepull:1.9.13`
 - :dvd: `org.jvnet.staxex` - `org.jvnet.staxex:stax-ex:2.0.0-M2`
-- :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.entypo` - `org.kordamp.ikonli:ikonli-entypo-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.feather` - `org.kordamp.ikonli:ikonli-feather-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.fontawesome` - `org.kordamp.ikonli:ikonli-fontawesome-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.fontawesome5` - `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.fontelico` - `org.kordamp.ikonli:ikonli-fontelico-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.foundation` - `org.kordamp.ikonli:ikonli-foundation-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.hawconsfilled` - `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.hawconsstroke` - `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.icomoon` - `org.kordamp.ikonli:ikonli-icomoon-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.ionicons` - `org.kordamp.ikonli:ikonli-ionicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.ionicons4` - `org.kordamp.ikonli:ikonli-ionicons4-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.javafx` - `org.kordamp.ikonli:ikonli-javafx:11.4.0`
-- :dvd: `org.kordamp.ikonli.ligaturesymbols` - `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.linecons` - `org.kordamp.ikonli:ikonli-linecons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.maki` - `org.kordamp.ikonli:ikonli-maki-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.maki2` - `org.kordamp.ikonli:ikonli-maki2-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.mapicons` - `org.kordamp.ikonli:ikonli-mapicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.material` - `org.kordamp.ikonli:ikonli-material-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.materialdesign` - `org.kordamp.ikonli:ikonli-materialdesign-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.metrizeicons` - `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.ociicons` - `org.kordamp.ikonli:ikonli-ociicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.octicons` - `org.kordamp.ikonli:ikonli-octicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.openiconic` - `org.kordamp.ikonli:ikonli-openiconic-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.paymentfont` - `org.kordamp.ikonli:ikonli-paymentfont-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.runestroicons` - `org.kordamp.ikonli:ikonli-runestroicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.swing` - `org.kordamp.ikonli:ikonli-swing:11.4.0`
-- :dvd: `org.kordamp.ikonli.themify` - `org.kordamp.ikonli:ikonli-themify-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.typicons` - `org.kordamp.ikonli:ikonli-typicons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.weathericons` - `org.kordamp.ikonli:ikonli-weathericons-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.websymbols` - `org.kordamp.ikonli:ikonli-websymbols-pack:11.4.0`
-- :dvd: `org.kordamp.ikonli.zondicons` - `org.kordamp.ikonli:ikonli-zondicons-pack:11.4.0`
+- :dvd: `org.kordamp.ikonli.dashicons` - `org.kordamp.ikonli:ikonli-dashicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.devicons` - `org.kordamp.ikonli:ikonli-devicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.elusive` - `org.kordamp.ikonli:ikonli-elusive-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.entypo` - `org.kordamp.ikonli:ikonli-entypo-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.feather` - `org.kordamp.ikonli:ikonli-feather-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.fontawesome` - `org.kordamp.ikonli:ikonli-fontawesome-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.fontawesome5` - `org.kordamp.ikonli:ikonli-fontawesome5-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.fontelico` - `org.kordamp.ikonli:ikonli-fontelico-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.foundation` - `org.kordamp.ikonli:ikonli-foundation-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.hawconsfilled` - `org.kordamp.ikonli:ikonli-hawconsfilled-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.hawconsstroke` - `org.kordamp.ikonli:ikonli-hawconsstroke-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.icomoon` - `org.kordamp.ikonli:ikonli-icomoon-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.ionicons` - `org.kordamp.ikonli:ikonli-ionicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.ionicons4` - `org.kordamp.ikonli:ikonli-ionicons4-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.javafx` - `org.kordamp.ikonli:ikonli-javafx:11.5.0`
+- :dvd: `org.kordamp.ikonli.ligaturesymbols` - `org.kordamp.ikonli:ikonli-ligaturesymbols-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.linecons` - `org.kordamp.ikonli:ikonli-linecons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.maki` - `org.kordamp.ikonli:ikonli-maki-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.maki2` - `org.kordamp.ikonli:ikonli-maki2-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.mapicons` - `org.kordamp.ikonli:ikonli-mapicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.material` - `org.kordamp.ikonli:ikonli-material-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.materialdesign` - `org.kordamp.ikonli:ikonli-materialdesign-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.metrizeicons` - `org.kordamp.ikonli:ikonli-metrizeicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.ociicons` - `org.kordamp.ikonli:ikonli-ociicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.octicons` - `org.kordamp.ikonli:ikonli-octicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.openiconic` - `org.kordamp.ikonli:ikonli-openiconic-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.paymentfont` - `org.kordamp.ikonli:ikonli-paymentfont-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.runestroicons` - `org.kordamp.ikonli:ikonli-runestroicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.swing` - `org.kordamp.ikonli:ikonli-swing:11.5.0`
+- :dvd: `org.kordamp.ikonli.themify` - `org.kordamp.ikonli:ikonli-themify-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.typicons` - `org.kordamp.ikonli:ikonli-typicons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.weathericons` - `org.kordamp.ikonli:ikonli-weathericons-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.websymbols` - `org.kordamp.ikonli:ikonli-websymbols-pack:11.5.0`
+- :dvd: `org.kordamp.ikonli.zondicons` - `org.kordamp.ikonli:ikonli-zondicons-pack:11.5.0`
 - :dvd: `org.lanternpowered.lmbda` - `org.lanternpowered:lmbda:1.0.0`
 - :dvd: `org.leadpony.joy` - `org.leadpony.joy:joy:2.0.0-RC1`
 - :dvd: `org.leadpony.joy.classic` - `org.leadpony.joy:joy-classic:2.0.0-RC2`

@@ -6170,6 +6170,7 @@
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.4.3` // `org.noear,solonjt.executor.s.graaljs,1.0.4.3,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
+- :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.4.5` // `org.noear,solonjt.executor.s.graaljs,1.0.4.5,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
 - :dvd: `org.graalvm.truffle` - `org.noear:solonjt.executor.s.graaljs:1.0.4.4` // `org.noear,solonjt.executor.s.graaljs,1.0.4.4,org.graalvm.truffle,-,explicit,java.base + java.desktop + java.logging + java.management + jdk.unsupported + org.graalvm.sdk,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-core:2.1` // `org.hamcrest,hamcrest-core,2.1,org.hamcrest,-,automatic,-,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-library:2.1` // `org.hamcrest,hamcrest-library,2.1,org.hamcrest,-,automatic,-,false,-`
@@ -6408,6 +6409,7 @@
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.3.0` // `eu.xenit.care4alf,care4alf-6x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.0` // `com.github.cukedoctor,cukedoctor-main,2.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.1` // `com.github.cukedoctor,cukedoctor-main,2.1,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
+- :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:3.0` // `com.github.cukedoctor,cukedoctor-main,3.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `net.thisptr:jackson-jq-cli:0.0.10` // `net.thisptr,jackson-jq-cli,0.0.10,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1` // `com.guicedee.services,json,0.70.0.1,org.json,0.70.0.1,explicit,java.base,false,-`
 - :dvd: `org.json` - `com.guicedee.services:json:0.70.0.1-rc1` // `com.guicedee.services,json,0.70.0.1-rc1,org.json,0.70.0.1-rc1,explicit,java.base,false,-`
@@ -6591,6 +6593,7 @@
 - :cd: `org.lamblin` - `org.lamblin:lamblin-test:0.3.0` // `org.lamblin,lamblin-test,0.3.0,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-test:0.3.1` // `org.lamblin,lamblin-test,0.3.1,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-test:0.3.2` // `org.lamblin,lamblin-test,0.3.2,org.lamblin,-,automatic,-,false,-`
+- :dvd: `org.leadpony.justify` - `com.mparticle:smartype-generator:1.0.0` // `com.mparticle,smartype-generator,1.0.0,org.leadpony.justify,3.0.0-RC1,explicit,com.ibm.icu + jakarta.json + java.base + java.logging,false,-`
 - :dvd: `org.lwjgl` - `org.lwjgl.osgi:org.lwjgl.lwjgl:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.lwjgl,3.2.1.1,org.lwjgl,-,explicit,java.base + jdk.unsupported,false,-`
 - :dvd: `org.lwjgl` - `org.lwjgl.osgi:org.lwjgl.lwjgl:3.2.1.2` // `org.lwjgl.osgi,org.lwjgl.lwjgl,3.2.1.2,org.lwjgl,-,explicit,java.base + jdk.unsupported,false,-`
 - :dvd: `org.lwjgl.assimp` :left_right_arrow: `org.lwjgl.osgi:org.lwjgl.assimp:3.2.1.1` // `org.lwjgl.osgi,org.lwjgl.assimp,3.2.1.1,org.lwjgl.assimp,-,explicit,java.base + org.lwjgl,false,-`
