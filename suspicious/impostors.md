@@ -2406,7 +2406,9 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:9.1.0` // `io.cucumber,gherkin,9.1.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:9.2.0` // `io.cucumber,gherkin,9.2.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:5.6.0` // `io.cucumber,cucumber-scala_2.12,5.6.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:5.7.0` // `io.cucumber,cucumber-scala_2.12,5.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.6.0` // `io.cucumber,cucumber-scala_2.13,5.6.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.7.0` // `io.cucumber,cucumber-scala_2.13,5.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:2.0.4` // `io.cucumber,tag-expressions,2.0.4,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.testng` - `com.github.harry389:cucumber-testng:4.7.4` // `com.github.harry389,cucumber-testng,4.7.4,io.cucumber.testng,-,automatic,-,false,-`
 - :cd: `io.cucumber.testng` - `com.github.harry389:cucumber-testng:5.0.0-RC3` // `com.github.harry389,cucumber-testng,5.0.0-RC3,io.cucumber.testng,-,automatic,-,false,-`
@@ -4257,6 +4259,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.4-jre14,jakarta.mail,1.0.8.4-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.5-jre14,jakarta.mail,1.0.8.5-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.6-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.6-jre14,jakarta.mail,1.0.8.6-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.0-jre14,jakarta.mail,1.0.9.0-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
@@ -4443,6 +4446,7 @@
 - :dvd: `net.bytebuddy` - `com.criteo.java:garmadon-agent:1.4.0` // `com.criteo.java,garmadon-agent,1.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.github.jsimone:webapp-runner:9.0.27.1` // `com.github.jsimone,webapp-runner,9.0.27.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.2.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.2.1` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.30.0` // `com.heroku,webapp-runner,9.0.30.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.31.0` // `com.heroku,webapp-runner,9.0.31.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.nordstrom.ui-tools:local-grid-utility:1.3.3` // `com.nordstrom.ui-tools,local-grid-utility,1.3.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5226,6 +5230,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.12-jre14` // `com.guicedee.services,log4j-core,1.0.8.12-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.16-jre14` // `com.guicedee.services,log4j-core,1.0.8.16-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.0-jre14` // `com.guicedee.services,log4j-core,1.0.9.0-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hpe.adm.octane.ciplugins:bamboo-ci-plugin:1.10.1` // `com.hpe.adm.octane.ciplugins,bamboo-ci-plugin,1.10.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.2` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -7301,6 +7306,7 @@
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.2.0` // `org.simpleflatmapper,sfm-converter-jre6,8.2.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.2.1` // `org.simpleflatmapper,sfm-converter-jre6,8.2.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.2.2` // `org.simpleflatmapper,sfm-converter-jre6,8.2.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.2.3` // `org.simpleflatmapper,sfm-converter-jre6,8.2.3,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.0.0` // `org.simpleflatmapper,sfm-converter-jre9,8.0.0,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.0.1` // `org.simpleflatmapper,sfm-converter-jre9,8.0.1,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.0.2` // `org.simpleflatmapper,sfm-converter-jre9,8.0.2,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
@@ -7310,6 +7316,7 @@
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.2.0` // `org.simpleflatmapper,sfm-converter-jre9,8.2.0,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.2.1` // `org.simpleflatmapper,sfm-converter-jre9,8.2.1,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.2.2` // `org.simpleflatmapper,sfm-converter-jre9,8.2.2,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
+- :dvd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre9:8.2.3` // `org.simpleflatmapper,sfm-converter-jre9,8.2.3,org.simpleflatmapper.converter,-,explicit,java.base + org.simpleflatmapper.util,false,-`
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.0.0,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.0.1,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.0.2,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
@@ -7319,6 +7326,7 @@
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.2.0` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.2.0,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.2.1` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.2.1,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.2.2` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.2.2,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre6:8.2.3` // `org.simpleflatmapper,sfm-converter-joda-time-jre6,8.2.3,org.simpleflatmapper.converter.joda,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.0.0` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.0.0,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.0.1` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.0.1,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.0.2` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.0.2,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
@@ -7328,6 +7336,7 @@
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.2.0` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.2.0,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.2.1` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.2.1,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.2.2` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.2.2,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
+- :dvd: `org.simpleflatmapper.converter.joda` - `org.simpleflatmapper:sfm-converter-joda-time-jre9:8.2.3` // `org.simpleflatmapper,sfm-converter-joda-time-jre9,8.2.3,org.simpleflatmapper.converter.joda,-,explicit,java.base + org.joda.time + org.simpleflatmapper.converter + org.simpleflatmapper.util,false,-`
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.0.0,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.0.1,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.0.2,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
@@ -7337,6 +7346,7 @@
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.2.0` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.2.0,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.2.1` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.2.1,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.2.2` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.2.2,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre6:8.2.3` // `org.simpleflatmapper,sfm-converter-protobuf-jre6,8.2.3,org.simpleflatmapper.converter.protobuf,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.0.0` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.0.0,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.0.1` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.0.1,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.0.2` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.0.2,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
@@ -7346,6 +7356,7 @@
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.2.0` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.2.0,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.2.1` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.2.1,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
 - :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.2.2` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.2.2,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
+- :dvd: `org.simpleflatmapper.converter.protobuf` - `org.simpleflatmapper:sfm-converter-protobuf-jre9:8.2.3` // `org.simpleflatmapper,sfm-converter-protobuf-jre9,8.2.3,org.simpleflatmapper.converter.protobuf,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.util + protobuf.java,false,-`
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.0.0` // `org.simpleflatmapper,sfm-csv-jre6,8.0.0,org.simpleflatmapper.csv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.0.1` // `org.simpleflatmapper,sfm-csv-jre6,8.0.1,org.simpleflatmapper.csv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.0.2` // `org.simpleflatmapper,sfm-csv-jre6,8.0.2,org.simpleflatmapper.csv,-,automatic,-,false,-`
@@ -7355,6 +7366,7 @@
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.2.0` // `org.simpleflatmapper,sfm-csv-jre6,8.2.0,org.simpleflatmapper.csv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.2.1` // `org.simpleflatmapper,sfm-csv-jre6,8.2.1,org.simpleflatmapper.csv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.2.2` // `org.simpleflatmapper,sfm-csv-jre6,8.2.2,org.simpleflatmapper.csv,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre6:8.2.3` // `org.simpleflatmapper,sfm-csv-jre6,8.2.3,org.simpleflatmapper.csv,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.0.0` // `org.simpleflatmapper,sfm-csv-jre9,8.0.0,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.0.1` // `org.simpleflatmapper,sfm-csv-jre9,8.0.1,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.0.2` // `org.simpleflatmapper,sfm-csv-jre9,8.0.2,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
@@ -7364,6 +7376,7 @@
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.2.0` // `org.simpleflatmapper,sfm-csv-jre9,8.2.0,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.2.1` // `org.simpleflatmapper,sfm-csv-jre9,8.2.1,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.2.2` // `org.simpleflatmapper,sfm-csv-jre9,8.2.2,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
+- :dvd: `org.simpleflatmapper.csv` - `org.simpleflatmapper:sfm-csv-jre9:8.2.3` // `org.simpleflatmapper,sfm-csv-jre9,8.2.3,org.simpleflatmapper.csv,-,explicit,java.base + org.simpleflatmapper.lightningcsv + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.0.0` // `org.simpleflatmapper,sfm-datastax-jre6,8.0.0,org.simpleflatmapper.datastax,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.0.1` // `org.simpleflatmapper,sfm-datastax-jre6,8.0.1,org.simpleflatmapper.datastax,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.0.2` // `org.simpleflatmapper,sfm-datastax-jre6,8.0.2,org.simpleflatmapper.datastax,-,automatic,-,false,-`
@@ -7373,6 +7386,7 @@
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.2.0` // `org.simpleflatmapper,sfm-datastax-jre6,8.2.0,org.simpleflatmapper.datastax,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.2.1` // `org.simpleflatmapper,sfm-datastax-jre6,8.2.1,org.simpleflatmapper.datastax,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.2.2` // `org.simpleflatmapper,sfm-datastax-jre6,8.2.2,org.simpleflatmapper.datastax,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre6:8.2.3` // `org.simpleflatmapper,sfm-datastax-jre6,8.2.3,org.simpleflatmapper.datastax,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.0.0` // `org.simpleflatmapper,sfm-datastax-jre9,8.0.0,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.0.1` // `org.simpleflatmapper,sfm-datastax-jre9,8.0.1,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.0.2` // `org.simpleflatmapper,sfm-datastax-jre9,8.0.2,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
@@ -7382,6 +7396,7 @@
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.2.0` // `org.simpleflatmapper,sfm-datastax-jre9,8.2.0,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.2.1` // `org.simpleflatmapper,sfm-datastax-jre9,8.2.1,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.2.2` // `org.simpleflatmapper,sfm-datastax-jre9,8.2.2,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
+- :dvd: `org.simpleflatmapper.datastax` - `org.simpleflatmapper:sfm-datastax-jre9:8.2.3` // `org.simpleflatmapper,sfm-datastax-jre9,8.2.3,org.simpleflatmapper.datastax,-,explicit,cassandra.driver.core + guava + java.base + org.simpleflatmapper.map + org.simpleflatmapper.tuple,false,-`
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.0.0` // `org.simpleflatmapper,sfm-jdbc-jre6,8.0.0,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.0.1` // `org.simpleflatmapper,sfm-jdbc-jre6,8.0.1,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.0.2` // `org.simpleflatmapper,sfm-jdbc-jre6,8.0.2,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
@@ -7391,6 +7406,7 @@
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.2.0` // `org.simpleflatmapper,sfm-jdbc-jre6,8.2.0,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.2.1` // `org.simpleflatmapper,sfm-jdbc-jre6,8.2.1,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.2.2` // `org.simpleflatmapper,sfm-jdbc-jre6,8.2.2,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre6:8.2.3` // `org.simpleflatmapper,sfm-jdbc-jre6,8.2.3,org.simpleflatmapper.jdbc,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.0.0` // `org.simpleflatmapper,sfm-jdbc-jre9,8.0.0,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.0.1` // `org.simpleflatmapper,sfm-jdbc-jre9,8.0.1,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.0.2` // `org.simpleflatmapper,sfm-jdbc-jre9,8.0.2,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
@@ -7400,6 +7416,7 @@
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.2.0` // `org.simpleflatmapper,sfm-jdbc-jre9,8.2.0,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.2.1` // `org.simpleflatmapper,sfm-jdbc-jre9,8.2.1,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.2.2` // `org.simpleflatmapper,sfm-jdbc-jre9,8.2.2,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
+- :dvd: `org.simpleflatmapper.jdbc` - `org.simpleflatmapper:sfm-jdbc-jre9:8.2.3` // `org.simpleflatmapper,sfm-jdbc-jre9,8.2.3,org.simpleflatmapper.jdbc,-,explicit,java.base + java.sql + org.simpleflatmapper.map,false,-`
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.0.0` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.0.0,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.0.1` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.0.1,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.0.2` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.0.2,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
@@ -7409,6 +7426,7 @@
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.2.0` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.2.0,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.2.1` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.2.1,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.2.2` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.2.2,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre6:8.2.3` // `org.simpleflatmapper,sfm-springjdbc-jre6,8.2.3,org.simpleflatmapper.jdbc.spring,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.0.0` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.0.0,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.0.1` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.0.1,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.0.2` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.0.2,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
@@ -7418,6 +7436,7 @@
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.2.0` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.2.0,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.2.1` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.2.1,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
 - :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.2.2` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.2.2,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
+- :dvd: `org.simpleflatmapper.jdbc.spring` - `org.simpleflatmapper:sfm-springjdbc-jre9:8.2.3` // `org.simpleflatmapper,sfm-springjdbc-jre9,8.2.3,org.simpleflatmapper.jdbc.spring,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + spring.beans + spring.core + spring.jdbc + spring.tx,false,-`
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.0.0` // `org.simpleflatmapper,sfm-jdbi-jre6,8.0.0,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.0.1` // `org.simpleflatmapper,sfm-jdbi-jre6,8.0.1,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.0.2` // `org.simpleflatmapper,sfm-jdbi-jre6,8.0.2,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
@@ -7427,6 +7446,7 @@
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.2.0` // `org.simpleflatmapper,sfm-jdbi-jre6,8.2.0,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.2.1` // `org.simpleflatmapper,sfm-jdbi-jre6,8.2.1,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.2.2` // `org.simpleflatmapper,sfm-jdbi-jre6,8.2.2,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre6:8.2.3` // `org.simpleflatmapper,sfm-jdbi-jre6,8.2.3,org.simpleflatmapper.jdbi,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.0.0` // `org.simpleflatmapper,sfm-jdbi-jre9,8.0.0,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.0.1` // `org.simpleflatmapper,sfm-jdbi-jre9,8.0.1,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.0.2` // `org.simpleflatmapper,sfm-jdbi-jre9,8.0.2,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
@@ -7436,6 +7456,7 @@
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.2.0` // `org.simpleflatmapper,sfm-jdbi-jre9,8.2.0,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.2.1` // `org.simpleflatmapper,sfm-jdbi-jre9,8.2.1,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.2.2` // `org.simpleflatmapper,sfm-jdbi-jre9,8.2.2,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
+- :dvd: `org.simpleflatmapper.jdbi` - `org.simpleflatmapper:sfm-jdbi-jre9:8.2.3` // `org.simpleflatmapper,sfm-jdbi-jre9,8.2.3,org.simpleflatmapper.jdbi,-,explicit,java.base + java.sql + jdbi + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.0.0` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.0.0,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.0.1` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.0.1,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.0.2` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.0.2,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
@@ -7445,6 +7466,7 @@
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.2.0` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.2.0,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.2.1` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.2.1,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.2.2` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.2.2,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
+- :dvd: `org.simpleflatmapper.jdbi3` - `org.simpleflatmapper:sfm-jdbi3-jre9:8.2.3` // `org.simpleflatmapper,sfm-jdbi3-jre9,8.2.3,org.simpleflatmapper.jdbi3,-,explicit,java.base + java.sql + jdbi3.core + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.0.0` // `org.simpleflatmapper,sfm-jooq-jre6,8.0.0,org.simpleflatmapper.jooq,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.0.1` // `org.simpleflatmapper,sfm-jooq-jre6,8.0.1,org.simpleflatmapper.jooq,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.0.2` // `org.simpleflatmapper,sfm-jooq-jre6,8.0.2,org.simpleflatmapper.jooq,-,automatic,-,false,-`
@@ -7454,6 +7476,7 @@
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.2.0` // `org.simpleflatmapper,sfm-jooq-jre6,8.2.0,org.simpleflatmapper.jooq,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.2.1` // `org.simpleflatmapper,sfm-jooq-jre6,8.2.1,org.simpleflatmapper.jooq,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.2.2` // `org.simpleflatmapper,sfm-jooq-jre6,8.2.2,org.simpleflatmapper.jooq,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre6:8.2.3` // `org.simpleflatmapper,sfm-jooq-jre6,8.2.3,org.simpleflatmapper.jooq,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.0.0` // `org.simpleflatmapper,sfm-jooq-jre9,8.0.0,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.0.1` // `org.simpleflatmapper,sfm-jooq-jre9,8.0.1,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.0.2` // `org.simpleflatmapper,sfm-jooq-jre9,8.0.2,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
@@ -7463,6 +7486,7 @@
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.2.0` // `org.simpleflatmapper,sfm-jooq-jre9,8.2.0,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.2.1` // `org.simpleflatmapper,sfm-jooq-jre9,8.2.1,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.2.2` // `org.simpleflatmapper,sfm-jooq-jre9,8.2.2,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
+- :dvd: `org.simpleflatmapper.jooq` - `org.simpleflatmapper:sfm-jooq-jre9:8.2.3` // `org.simpleflatmapper,sfm-jooq-jre9,8.2.3,org.simpleflatmapper.jooq,-,explicit,java.base + java.sql + org.jooq + org.simpleflatmapper.jdbc + org.simpleflatmapper.map,false,-`
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.0.0` // `org.simpleflatmapper,lightning-csv-jre6,8.0.0,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.0.1` // `org.simpleflatmapper,lightning-csv-jre6,8.0.1,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.0.2` // `org.simpleflatmapper,lightning-csv-jre6,8.0.2,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
@@ -7472,6 +7496,7 @@
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.2.0` // `org.simpleflatmapper,lightning-csv-jre6,8.2.0,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.2.1` // `org.simpleflatmapper,lightning-csv-jre6,8.2.1,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.2.2` // `org.simpleflatmapper,lightning-csv-jre6,8.2.2,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre6:8.2.3` // `org.simpleflatmapper,lightning-csv-jre6,8.2.3,org.simpleflatmapper.lightningcsv,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.0.0` // `org.simpleflatmapper,lightning-csv-jre9,8.0.0,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.0.1` // `org.simpleflatmapper,lightning-csv-jre9,8.0.1,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.0.2` // `org.simpleflatmapper,lightning-csv-jre9,8.0.2,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
@@ -7481,6 +7506,7 @@
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.2.0` // `org.simpleflatmapper,lightning-csv-jre9,8.2.0,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.2.1` // `org.simpleflatmapper,lightning-csv-jre9,8.2.1,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.2.2` // `org.simpleflatmapper,lightning-csv-jre9,8.2.2,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
+- :dvd: `org.simpleflatmapper.lightningcsv` - `org.simpleflatmapper:lightning-csv-jre9:8.2.3` // `org.simpleflatmapper,lightning-csv-jre9,8.2.3,org.simpleflatmapper.lightningcsv,-,explicit,java.base + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.0.0` // `org.simpleflatmapper,sfm-map-jre6,8.0.0,org.simpleflatmapper.map,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.0.1` // `org.simpleflatmapper,sfm-map-jre6,8.0.1,org.simpleflatmapper.map,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.0.2` // `org.simpleflatmapper,sfm-map-jre6,8.0.2,org.simpleflatmapper.map,-,automatic,-,false,-`
@@ -7490,6 +7516,7 @@
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.2.0` // `org.simpleflatmapper,sfm-map-jre6,8.2.0,org.simpleflatmapper.map,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.2.1` // `org.simpleflatmapper,sfm-map-jre6,8.2.1,org.simpleflatmapper.map,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.2.2` // `org.simpleflatmapper,sfm-map-jre6,8.2.2,org.simpleflatmapper.map,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre6:8.2.3` // `org.simpleflatmapper,sfm-map-jre6,8.2.3,org.simpleflatmapper.map,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.0.0` // `org.simpleflatmapper,sfm-map-jre9,8.0.0,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.0.1` // `org.simpleflatmapper,sfm-map-jre9,8.0.1,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.0.2` // `org.simpleflatmapper,sfm-map-jre9,8.0.2,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
@@ -7499,6 +7526,7 @@
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.2.0` // `org.simpleflatmapper,sfm-map-jre9,8.2.0,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.2.1` // `org.simpleflatmapper,sfm-map-jre9,8.2.1,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
 - :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.2.2` // `org.simpleflatmapper,sfm-map-jre9,8.2.2,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
+- :dvd: `org.simpleflatmapper.map` - `org.simpleflatmapper:sfm-map-jre9:8.2.3` // `org.simpleflatmapper,sfm-map-jre9,8.2.3,org.simpleflatmapper.map,-,explicit,java.base + java.logging + org.simpleflatmapper.reflect,false,-`
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.0.0` // `org.simpleflatmapper,sfm-poi-jre6,8.0.0,org.simpleflatmapper.poi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.0.1` // `org.simpleflatmapper,sfm-poi-jre6,8.0.1,org.simpleflatmapper.poi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.0.2` // `org.simpleflatmapper,sfm-poi-jre6,8.0.2,org.simpleflatmapper.poi,-,automatic,-,false,-`
@@ -7508,6 +7536,7 @@
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.2.0` // `org.simpleflatmapper,sfm-poi-jre6,8.2.0,org.simpleflatmapper.poi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.2.1` // `org.simpleflatmapper,sfm-poi-jre6,8.2.1,org.simpleflatmapper.poi,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.2.2` // `org.simpleflatmapper,sfm-poi-jre6,8.2.2,org.simpleflatmapper.poi,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre6:8.2.3` // `org.simpleflatmapper,sfm-poi-jre6,8.2.3,org.simpleflatmapper.poi,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.0.0` // `org.simpleflatmapper,sfm-poi-jre9,8.0.0,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.0.1` // `org.simpleflatmapper,sfm-poi-jre9,8.0.1,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.0.2` // `org.simpleflatmapper,sfm-poi-jre9,8.0.2,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
@@ -7517,6 +7546,7 @@
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.2.0` // `org.simpleflatmapper,sfm-poi-jre9,8.2.0,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.2.1` // `org.simpleflatmapper,sfm-poi-jre9,8.2.1,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
 - :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.2.2` // `org.simpleflatmapper,sfm-poi-jre9,8.2.2,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
+- :dvd: `org.simpleflatmapper.poi` - `org.simpleflatmapper:sfm-poi-jre9:8.2.3` // `org.simpleflatmapper,sfm-poi-jre9,8.2.3,org.simpleflatmapper.poi,-,explicit,java.base + org.simpleflatmapper.csv + org.simpleflatmapper.map + poi,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.0.0` // `org.simpleflatmapper,sfm-querydsl-jre6,8.0.0,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.0.1` // `org.simpleflatmapper,sfm-querydsl-jre6,8.0.1,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.0.2` // `org.simpleflatmapper,sfm-querydsl-jre6,8.0.2,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
@@ -7526,6 +7556,7 @@
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.2.0` // `org.simpleflatmapper,sfm-querydsl-jre6,8.2.0,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.2.1` // `org.simpleflatmapper,sfm-querydsl-jre6,8.2.1,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.2.2` // `org.simpleflatmapper,sfm-querydsl-jre6,8.2.2,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre6:8.2.3` // `org.simpleflatmapper,sfm-querydsl-jre6,8.2.3,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.0.0` // `org.simpleflatmapper,sfm-querydsl-jre9,8.0.0,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.0.1` // `org.simpleflatmapper,sfm-querydsl-jre9,8.0.1,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.0.2` // `org.simpleflatmapper,sfm-querydsl-jre9,8.0.2,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
@@ -7535,6 +7566,7 @@
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.2.0` // `org.simpleflatmapper,sfm-querydsl-jre9,8.2.0,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.2.1` // `org.simpleflatmapper,sfm-querydsl-jre9,8.2.1,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.2.2` // `org.simpleflatmapper,sfm-querydsl-jre9,8.2.2,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.querydsl` - `org.simpleflatmapper:sfm-querydsl-jre9:8.2.3` // `org.simpleflatmapper,sfm-querydsl-jre9,8.2.3,org.simpleflatmapper.querydsl,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.0.0` // `org.simpleflatmapper,sfm-reflect-jre6,8.0.0,org.simpleflatmapper.reflect,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.0.1` // `org.simpleflatmapper,sfm-reflect-jre6,8.0.1,org.simpleflatmapper.reflect,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.0.2` // `org.simpleflatmapper,sfm-reflect-jre6,8.0.2,org.simpleflatmapper.reflect,-,automatic,-,false,-`
@@ -7544,6 +7576,7 @@
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.2.0` // `org.simpleflatmapper,sfm-reflect-jre6,8.2.0,org.simpleflatmapper.reflect,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.2.1` // `org.simpleflatmapper,sfm-reflect-jre6,8.2.1,org.simpleflatmapper.reflect,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.2.2` // `org.simpleflatmapper,sfm-reflect-jre6,8.2.2,org.simpleflatmapper.reflect,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre6:8.2.3` // `org.simpleflatmapper,sfm-reflect-jre6,8.2.3,org.simpleflatmapper.reflect,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.0.0` // `org.simpleflatmapper,sfm-reflect-jre9,8.0.0,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.0.1` // `org.simpleflatmapper,sfm-reflect-jre9,8.0.1,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.0.2` // `org.simpleflatmapper,sfm-reflect-jre9,8.0.2,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
@@ -7553,6 +7586,7 @@
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.2.0` // `org.simpleflatmapper,sfm-reflect-jre9,8.2.0,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.2.1` // `org.simpleflatmapper,sfm-reflect-jre9,8.2.1,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.2.2` // `org.simpleflatmapper,sfm-reflect-jre9,8.2.2,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
+- :dvd: `org.simpleflatmapper.reflect` - `org.simpleflatmapper:sfm-reflect-jre9:8.2.3` // `org.simpleflatmapper,sfm-reflect-jre9,8.2.3,org.simpleflatmapper.reflect,-,explicit,java.base + org.simpleflatmapper.converter + org.simpleflatmapper.ow2asm + org.simpleflatmapper.util,false,-`
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.0.0` // `org.simpleflatmapper,sfm-sql2o-jre6,8.0.0,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.0.1` // `org.simpleflatmapper,sfm-sql2o-jre6,8.0.1,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.0.2` // `org.simpleflatmapper,sfm-sql2o-jre6,8.0.2,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
@@ -7562,6 +7596,7 @@
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.2.0` // `org.simpleflatmapper,sfm-sql2o-jre6,8.2.0,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.2.1` // `org.simpleflatmapper,sfm-sql2o-jre6,8.2.1,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.2.2` // `org.simpleflatmapper,sfm-sql2o-jre6,8.2.2,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre6:8.2.3` // `org.simpleflatmapper,sfm-sql2o-jre6,8.2.3,org.simpleflatmapper.sql2o,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.0.0` // `org.simpleflatmapper,sfm-sql2o-jre9,8.0.0,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.0.1` // `org.simpleflatmapper,sfm-sql2o-jre9,8.0.1,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.0.2` // `org.simpleflatmapper,sfm-sql2o-jre9,8.0.2,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
@@ -7571,6 +7606,7 @@
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.2.0` // `org.simpleflatmapper,sfm-sql2o-jre9,8.2.0,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.2.1` // `org.simpleflatmapper,sfm-sql2o-jre9,8.2.1,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
 - :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.2.2` // `org.simpleflatmapper,sfm-sql2o-jre9,8.2.2,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
+- :dvd: `org.simpleflatmapper.sql2o` - `org.simpleflatmapper:sfm-sql2o-jre9:8.2.3` // `org.simpleflatmapper,sfm-sql2o-jre9,8.2.3,org.simpleflatmapper.sql2o,-,explicit,java.base + java.sql + org.simpleflatmapper.jdbc + org.simpleflatmapper.map + sql2o,false,-`
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.0.0` // `org.simpleflatmapper,sfm-tuples-jre6,8.0.0,org.simpleflatmapper.tuple,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.0.1` // `org.simpleflatmapper,sfm-tuples-jre6,8.0.1,org.simpleflatmapper.tuple,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.0.2` // `org.simpleflatmapper,sfm-tuples-jre6,8.0.2,org.simpleflatmapper.tuple,-,automatic,-,false,-`
@@ -7580,6 +7616,7 @@
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.2.0` // `org.simpleflatmapper,sfm-tuples-jre6,8.2.0,org.simpleflatmapper.tuple,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.2.1` // `org.simpleflatmapper,sfm-tuples-jre6,8.2.1,org.simpleflatmapper.tuple,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.2.2` // `org.simpleflatmapper,sfm-tuples-jre6,8.2.2,org.simpleflatmapper.tuple,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre6:8.2.3` // `org.simpleflatmapper,sfm-tuples-jre6,8.2.3,org.simpleflatmapper.tuple,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.0.0` // `org.simpleflatmapper,sfm-tuples-jre9,8.0.0,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.0.1` // `org.simpleflatmapper,sfm-tuples-jre9,8.0.1,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.0.2` // `org.simpleflatmapper,sfm-tuples-jre9,8.0.2,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
@@ -7589,6 +7626,7 @@
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.2.0` // `org.simpleflatmapper,sfm-tuples-jre9,8.2.0,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.2.1` // `org.simpleflatmapper,sfm-tuples-jre9,8.2.1,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.2.2` // `org.simpleflatmapper,sfm-tuples-jre9,8.2.2,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
+- :dvd: `org.simpleflatmapper.tuple` - `org.simpleflatmapper:sfm-tuples-jre9:8.2.3` // `org.simpleflatmapper,sfm-tuples-jre9,8.2.3,org.simpleflatmapper.tuple,-,explicit,java.base,false,-`
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.0.0` // `org.simpleflatmapper,sfm-util-jre6,8.0.0,org.simpleflatmapper.util,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.0.1` // `org.simpleflatmapper,sfm-util-jre6,8.0.1,org.simpleflatmapper.util,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.0.2` // `org.simpleflatmapper,sfm-util-jre6,8.0.2,org.simpleflatmapper.util,-,automatic,-,false,-`
@@ -7598,6 +7636,7 @@
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.2.0` // `org.simpleflatmapper,sfm-util-jre6,8.2.0,org.simpleflatmapper.util,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.2.1` // `org.simpleflatmapper,sfm-util-jre6,8.2.1,org.simpleflatmapper.util,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.2.2` // `org.simpleflatmapper,sfm-util-jre6,8.2.2,org.simpleflatmapper.util,-,automatic,-,false,-`
+- :cd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre6:8.2.3` // `org.simpleflatmapper,sfm-util-jre6,8.2.3,org.simpleflatmapper.util,-,automatic,-,false,-`
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.0.0` // `org.simpleflatmapper,sfm-util-jre9,8.0.0,org.simpleflatmapper.util,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.0.1` // `org.simpleflatmapper,sfm-util-jre9,8.0.1,org.simpleflatmapper.util,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.0.2` // `org.simpleflatmapper,sfm-util-jre9,8.0.2,org.simpleflatmapper.util,-,explicit,java.base,false,-`
@@ -7607,6 +7646,7 @@
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.2.0` // `org.simpleflatmapper,sfm-util-jre9,8.2.0,org.simpleflatmapper.util,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.2.1` // `org.simpleflatmapper,sfm-util-jre9,8.2.1,org.simpleflatmapper.util,-,explicit,java.base,false,-`
 - :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.2.2` // `org.simpleflatmapper,sfm-util-jre9,8.2.2,org.simpleflatmapper.util,-,explicit,java.base,false,-`
+- :dvd: `org.simpleflatmapper.util` - `org.simpleflatmapper:sfm-util-jre9:8.2.3` // `org.simpleflatmapper,sfm-util-jre9,8.2.3,org.simpleflatmapper.util,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `ch.hsr.adv:adv-commons:1.0` // `ch.hsr.adv,adv-commons,1.0,org.slf4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.0-b` // `com.bytes-pot,daraja-api,1.0-b,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.bytes-pot:daraja-api:1.1-b` // `com.bytes-pot,daraja-api,1.1-b,org.slf4j,-,explicit,java.base,false,-`

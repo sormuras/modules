@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6647 Java modules published at Maven Central
+Counted 6650 Java modules published at Maven Central
 
-## Summary 2020-05-10T01:21:09.477837Z
+## Summary 2020-05-11T01:22:02.706287Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-10T01:21:09.477837Z
-Scanned 50,922 files in 6 seconds.
+Started scan at 2020-05-11T01:22:02.706287Z
+Scanned 51,024 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_10_01_05_36.csv
+    last -> modulescanner-report-2020_05_11_01_08_56.csv
 
-Parsed 3,425,189 lines in total.
-  54,648 -> captions skipped
-  294,302 -> duplicates skipped
-  162,165 -> module related
+Parsed 3,427,890 lines in total.
+  54,750 -> captions skipped
+  294,536 -> duplicates skipped
+  162,283 -> module related
 
-Collected 6,647 unique modules.
-  automatic :cd: -> 4,758
+Collected 6,650 unique modules.
+  automatic :cd: -> 4,761
   explicit :dvd: -> 1,889
 
 ## Samples
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=2278, explicit=97, plain=39314}` 	 6.04%
+ - `2020_05={automatic=2313, explicit=101, plain=41561}` 	 5.81%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17023](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22502](suspicious/naming.md)
-- Modular impostors: [7991](suspicious/impostors.md)
+- Invalid module names: [17047](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22517](suspicious/naming.md)
+- Modular impostors: [8031](suspicious/impostors.md)
 
-## Unique Modules (6647)
+## Unique Modules (6650)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1350,8 +1350,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.0`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.3`
+- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.1`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.7`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.1`
@@ -1666,8 +1666,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:20.0.0`
 - :dvd: `org.icroco.jcip.annotations` - `org.icroco:jcip-annotations:1.1.0`
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
-- :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.5`
-- :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.5`
+- :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.6`
+- :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.6`
 - :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
