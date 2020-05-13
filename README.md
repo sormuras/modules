@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6661 Java modules published at Maven Central
+Counted 6662 Java modules published at Maven Central
 
-## Summary 2020-05-12T01:23:06.911015Z
+## Summary 2020-05-13T01:23:30.519370Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-12T01:23:06.911015Z
-Scanned 51,103 files in 7 seconds.
+Started scan at 2020-05-13T01:23:30.519370Z
+Scanned 51,193 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_12_01_05_06.csv
+    last -> modulescanner-report-2020_05_13_01_12_16.csv
 
-Parsed 3,435,521 lines in total.
-  54,829 -> captions skipped
-  295,868 -> duplicates skipped
-  162,819 -> module related
+Parsed 3,442,573 lines in total.
+  54,919 -> captions skipped
+  296,541 -> duplicates skipped
+  163,242 -> module related
 
-Collected 6,661 unique modules.
+Collected 6,662 unique modules.
   automatic :cd: -> 4,767
-  explicit :dvd: -> 1,894
+  explicit :dvd: -> 1,895
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=2648, explicit=224, plain=47245}` 	 6.08%
+ - `2020_05={automatic=2959, explicit=230, plain=53111}` 	 6.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17048](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22574](suspicious/naming.md)
-- Modular impostors: [8051](suspicious/impostors.md)
+- Invalid module names: [17051](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22663](suspicious/naming.md)
+- Modular impostors: [8065](suspicious/impostors.md)
 
-## Unique Modules (6661)
+## Unique Modules (6662)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1044,7 +1044,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.materialstackicons` - `de.jensd:fontawesomefx-materialstackicons:2.1-5-9.1.2`
 - :dvd: `de.jensd.fx.glyphs.octicons` - `de.jensd:fontawesomefx-octicons:4.3.0-9.1.2`
 - :dvd: `de.jensd.fx.glyphs.weathericons` - `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
-- :dvd: `de.powerstat.phplib.templateengine` - `de.powerstat.phplib:templateengine:1.1`
+- :dvd: `de.powerstat.phplib.templateengine` - `de.powerstat.phplib:templateengine:1.5`
+- :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.1`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
@@ -1067,7 +1068,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` - `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` - `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.2.0`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.3.0`
 - :dvd: `io.annot8.api` - `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` - `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` - `io.annot8:annot8-common-data:0.4.0`
@@ -1303,7 +1304,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.4.1`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.5.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
@@ -1407,7 +1408,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.saga.execution` - `no.ssb.saga:distributed-saga-execution:0.8`
 - :dvd: `no.ssb.sagalog` - `no.ssb.saga:sagalog-api:0.5`
 - :dvd: `no.ssb.sagalog.file` - `no.ssb.saga:sagalog-file:0.5`
-- :dvd: `no.ssb.sagalog.postgres` - `no.ssb.saga:sagalog-postgres:0.5`
+- :dvd: `no.ssb.sagalog.postgres` - `no.ssb.saga:sagalog-postgres:0.6`
 - :dvd: `no.ssb.sagalog.pulsar` - `no.ssb.saga:sagalog-pulsar:0.1`
 - :dvd: `one.lfa.opdsget.api` :left_right_arrow: `one.lfa:one.lfa.opdsget.api:1.1.2`
 - :dvd: `one.lfa.opdsget.cmdline` :left_right_arrow: `one.lfa:one.lfa.opdsget.cmdline:1.1.2`
@@ -1744,7 +1745,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.leadpony.joy.classic` - `org.leadpony.joy:joy-classic:2.0.0-RC2`
 - :dvd: `org.leadpony.joy.core` - `org.leadpony.joy:joy-core:2.0.0-RC2`
 - :dvd: `org.leadpony.joy.yaml` - `org.leadpony.joy:joy-yaml:2.0.0-RC2`
-- :dvd: `org.leadpony.justify` - `org.leadpony.justify:justify:3.0.0-RC1`
+- :dvd: `org.leadpony.justify` - `org.leadpony.justify:justify:3.0.0-RC2`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`

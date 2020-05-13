@@ -14609,6 +14609,7 @@
 - :cd: `io.skullabs.injector.injector-core` - `io.skullabs.injector:injector-core:1.1.0.Final` // `io.skullabs.injector,injector-core,1.1.0.Final,io.skullabs.injector.injector-core,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-core` - `io.skullabs.injector:injector-core:1.2.0` // `io.skullabs.injector,injector-core,1.2.0,io.skullabs.injector.injector-core,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-core` - `io.skullabs.injector:injector-core:1.3.0` // `io.skullabs.injector,injector-core,1.3.0,io.skullabs.injector.injector-core,-,automatic,-,false,-`
+- :cd: `io.skullabs.injector.injector-core` - `io.skullabs.injector:injector-core:1.4.0` // `io.skullabs.injector,injector-core,1.4.0,io.skullabs.injector.injector-core,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:0.1.0.Final` // `io.skullabs.injector,injector-processor,0.1.0.Final,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:0.2.0.Final` // `io.skullabs.injector,injector-processor,0.2.0.Final,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:0.3.0.Final` // `io.skullabs.injector,injector-processor,0.3.0.Final,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
@@ -14616,11 +14617,13 @@
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:1.1.0.Final` // `io.skullabs.injector,injector-processor,1.1.0.Final,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:1.2.0` // `io.skullabs.injector,injector-processor,1.2.0,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:1.3.0` // `io.skullabs.injector,injector-processor,1.3.0,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
+- :cd: `io.skullabs.injector.injector-processor` - `io.skullabs.injector:injector-processor:1.4.0` // `io.skullabs.injector,injector-processor,1.4.0,io.skullabs.injector.injector-processor,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:0.3.0.Final` // `io.skullabs.injector,injector-sample,0.3.0.Final,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:1.0.0.Final` // `io.skullabs.injector,injector-sample,1.0.0.Final,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:1.1.0.Final` // `io.skullabs.injector,injector-sample,1.1.0.Final,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:1.2.0` // `io.skullabs.injector,injector-sample,1.2.0,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
 - :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:1.3.0` // `io.skullabs.injector,injector-sample,1.3.0,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
+- :cd: `io.skullabs.injector.injector-sample` - `io.skullabs.injector:injector-sample:1.4.0` // `io.skullabs.injector,injector-sample,1.4.0,io.skullabs.injector.injector-sample,-,automatic,-,false,-`
 - :cd: `io.skullabs.kikaha.kikaha-bcrypt` - `io.skullabs.kikaha:kikaha-bcrypt:2.1.10.Final` // `io.skullabs.kikaha,kikaha-bcrypt,2.1.10.Final,io.skullabs.kikaha.kikaha-bcrypt,-,automatic,-,false,-`
 - :cd: `io.skullabs.kikaha.kikaha-bcrypt` - `io.skullabs.kikaha:kikaha-bcrypt:2.1.7.Final` // `io.skullabs.kikaha,kikaha-bcrypt,2.1.7.Final,io.skullabs.kikaha.kikaha-bcrypt,-,automatic,-,false,-`
 - :cd: `io.skullabs.kikaha.kikaha-bcrypt` - `io.skullabs.kikaha:kikaha-bcrypt:2.1.8.Final` // `io.skullabs.kikaha,kikaha-bcrypt,2.1.8.Final,io.skullabs.kikaha.kikaha-bcrypt,-,automatic,-,false,-`
