@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6662 Java modules published at Maven Central
+Counted 6668 Java modules published at Maven Central
 
-## Summary 2020-05-13T01:23:30.519370Z
+## Summary 2020-05-14T01:23:40.945697Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-13T01:23:30.519370Z
-Scanned 51,193 files in 7 seconds.
+Started scan at 2020-05-14T01:23:40.945697Z
+Scanned 51,279 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_13_01_12_16.csv
+    last -> modulescanner-report-2020_05_14_01_14_07.csv
 
-Parsed 3,442,573 lines in total.
-  54,919 -> captions skipped
-  296,541 -> duplicates skipped
-  163,242 -> module related
+Parsed 3,451,226 lines in total.
+  55,005 -> captions skipped
+  297,650 -> duplicates skipped
+  163,723 -> module related
 
-Collected 6,662 unique modules.
-  automatic :cd: -> 4,767
-  explicit :dvd: -> 1,895
+Collected 6,668 unique modules.
+  automatic :cd: -> 4,772
+  explicit :dvd: -> 1,896
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=2959, explicit=230, plain=53111}` 	 6.00%
+ - `2020_05={automatic=3321, explicit=244, plain=60087}` 	 5.93%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17051](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22663](suspicious/naming.md)
-- Modular impostors: [8065](suspicious/impostors.md)
+- Invalid module names: [17061](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22743](suspicious/naming.md)
+- Modular impostors: [8080](suspicious/impostors.md)
 
-## Unique Modules (6662)
+## Unique Modules (6668)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -978,12 +978,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.spotify.futures` - `com.spotify:futures-extra:4.2.2`
 - :dvd: `com.squareup.gifencoder` - `com.squareup:gifencoder:0.10.1`
 - :dvd: `com.squedgy.utilities` - `com.squedgy:my-utilities:1.4`
-- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:4.0.0-M2`
-- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:4.0.0-M2`
-- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:4.0.0-M2`
-- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M2`
-- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M2`
-- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M2`
+- :dvd: `com.sun.istack.runtime` - `com.sun.istack:istack-commons-runtime:4.0.0-M3`
+- :dvd: `com.sun.istack.test` - `com.sun.istack:istack-commons-test:4.0.0-M3`
+- :dvd: `com.sun.istack.tools` - `com.sun.istack:istack-commons-tools:4.0.0-M3`
+- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M3`
+- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M3`
+- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M3`
 - :dvd: `com.sun.xml.dtdparser` - `com.sun.xml.dtd-parser:dtd-parser:1.4.3`
 - :dvd: `com.sun.xml.fastinfoset` - `com.sun.xml.fastinfoset:FastInfoset:2.0.0-M2`
 - :dvd: `com.sun.xml.fastinfoset.rtt` - `com.sun.xml.fastinfoset:FastInfosetRoundTripTests:2.0.0-M2`
@@ -1663,10 +1663,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.gaul.modernizer_maven_annotations` - `org.gaul:modernizer-maven-annotations:2.1.0`
 - :dvd: `org.glassfish.external.management.api` - `org.glassfish.external:management-api:3.2.3`
 - :dvd: `org.glassfish.java.json` - `org.glassfish:javax.json:1.1.3`
-- :dvd: `org.glassfish.jaxb.core` - `org.glassfish.jaxb:jaxb-core:3.0.0-M2`
-- :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M2`
-- :dvd: `org.glassfish.jaxb.runtime` - `org.glassfish.jaxb:jaxb-runtime:3.0.0-M2`
-- :dvd: `org.glassfish.jaxb.xjc` - `org.glassfish.jaxb:jaxb-xjc:3.0.0-M2`
+- :dvd: `org.glassfish.jaxb.core` - `org.glassfish.jaxb:jaxb-core:3.0.0-M3`
+- :dvd: `org.glassfish.jaxb.jxc` - `org.glassfish.jaxb:jaxb-jxc:3.0.0-M3`
+- :dvd: `org.glassfish.jaxb.runtime` - `org.glassfish.jaxb:jaxb-runtime:3.0.0-M3`
+- :dvd: `org.glassfish.jaxb.xjc` - `org.glassfish.jaxb:jaxb-xjc:3.0.0-M3`
 - :dvd: `org.graalvm.js` - `org.graalvm.js:js:20.0.0`
 - :dvd: `org.graalvm.js.launcher` - `org.graalvm.js:js-launcher:20.0.0`
 - :dvd: `org.graalvm.truffle` - `org.graalvm.truffle:truffle-api:20.0.0`
@@ -2007,7 +2007,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
-- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.2`
+- :dvd: `xyz.cofe.cxel` - `xyz.cofe:cxel:0.3`
+- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.3.2`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
