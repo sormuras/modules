@@ -247,6 +247,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jre11.jackson.core:jackson-core:0.63.0.17` // `com.jwebmp.jre11.jackson.core,jackson-core,0.63.0.17,com.fasterxml.jackson.core,-,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jre11.jackson.core:jackson-core:0.63.0.19` // `com.jwebmp.jre11.jackson.core,jackson-core,0.63.0.19,com.fasterxml.jackson.core,-,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.microsoft.azure:spark-cdm-connector:0.10` // `com.microsoft.azure,spark-cdm-connector,0.10,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.microsoft.azure:spark-cdm-connector:0.12` // `com.microsoft.azure,spark-cdm-connector,0.12,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.0-BUILD-RELEASE` // `com.quicko,api-client,3.0.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.1-BUILD-RELEASE` // `com.quicko,api-client,3.0.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -471,6 +472,7 @@
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.11.1` // `com.google.protobuf,protobuf-javalite,3.11.1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.11.3` // `com.google.protobuf,protobuf-javalite,3.11.3,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.11.4` // `com.google.protobuf,protobuf-javalite,3.11.4,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0` // `com.google.protobuf,protobuf-javalite,3.12.0,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-1` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-2` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.headius.invokebinder` - `org.asciidoctor:asciidoctor-ant:1.6.2` // `org.asciidoctor,asciidoctor-ant,1.6.2,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
@@ -2270,6 +2272,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.8.0` // `com.vladmihalcea,hibernate-types-43,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.0` // `com.vladmihalcea,hibernate-types-43,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.1` // `com.vladmihalcea,hibernate-types-43,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.10` // `com.vladmihalcea,hibernate-types-43,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.2` // `com.vladmihalcea,hibernate-types-43,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2296,6 +2299,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.8.0` // `com.vladmihalcea,hibernate-types-5,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.0` // `com.vladmihalcea,hibernate-types-5,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.1` // `com.vladmihalcea,hibernate-types-5,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.10` // `com.vladmihalcea,hibernate-types-5,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.2` // `com.vladmihalcea,hibernate-types-5,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2322,6 +2326,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.8.0` // `com.vladmihalcea,hibernate-types-52,2.8.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.0` // `com.vladmihalcea,hibernate-types-52,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.1` // `com.vladmihalcea,hibernate-types-52,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.10` // `com.vladmihalcea,hibernate-types-52,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.2` // `com.vladmihalcea,hibernate-types-52,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -4193,6 +4198,7 @@
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.4` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.4,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.3.0` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.3.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.4.0` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.4.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.4.1` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.4.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.10` // `io.pebbletemplates,pebble-spring4,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.7` // `io.pebbletemplates,pebble-spring4,3.0.7,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.8` // `io.pebbletemplates,pebble-spring4,3.0.8,io.pebbletemplates.spring,-,automatic,-,false,-`
@@ -4294,6 +4300,10 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.0-jre14,jakarta.mail,1.0.9.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.1-jre14,jakarta.mail,1.0.9.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.2-jre14,jakarta.mail,1.0.9.2-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.3-jre14,jakarta.mail,1.0.9.3-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.4-jre14,jakarta.mail,1.0.9.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.5-jre14,jakarta.mail,1.0.9.5-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.7-jre14,jakarta.mail,1.0.9.7-jre14,explicit,java.base,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC4` // `com.sun.mail,jakarta.mail,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` :left_right_arrow: `com.sun.mail:jakarta.mail:2.0.0-RC5` // `com.sun.mail,jakarta.mail,2.0.0-RC5,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC4` // `com.sun.mail,mailapi,2.0.0-RC4,jakarta.mail,-,automatic,-,false,-`
@@ -5278,6 +5288,10 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.0-jre14` // `com.guicedee.services,log4j-core,1.0.9.0-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.1-jre14` // `com.guicedee.services,log4j-core,1.0.9.1-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.2-jre14` // `com.guicedee.services,log4j-core,1.0.9.2-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.3-jre14` // `com.guicedee.services,log4j-core,1.0.9.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.4-jre14` // `com.guicedee.services,log4j-core,1.0.9.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.5-jre14` // `com.guicedee.services,log4j-core,1.0.9.5-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.7-jre14` // `com.guicedee.services,log4j-core,1.0.9.7-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hedera.hashgraph:java-sdk:0.2.0` // `com.hedera.hashgraph,java-sdk,0.2.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.hpe.adm.octane.ciplugins:bamboo-ci-plugin:1.10.1` // `com.hpe.adm.octane.ciplugins,bamboo-ci-plugin,1.10.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.2` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5289,6 +5303,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.13` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.13,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.14` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.14,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.15` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.15,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.16` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.16,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.9` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.9,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.27.0` // `com.netflix.conductor,conductor-es6-persistence,2.27.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.27.0-beta.2` // `com.netflix.conductor,conductor-es6-persistence,2.27.0-beta.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5364,6 +5379,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.cellery.security:io.cellery.security.cell.sts.server:0.6.0` // `io.cellery.security,io.cellery.security.cell.sts.server,0.6.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.103` // `io.nosqlbench,driver-cql-shaded,3.12.103,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.104` // `io.nosqlbench,driver-cql-shaded,3.12.104,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.106` // `io.nosqlbench,driver-cql-shaded,3.12.106,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -7221,6 +7237,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.7.0` // `com.netflix.nebula,gradle-lint-plugin,16.7.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.7.1` // `com.netflix.nebula,gradle-lint-plugin,16.7.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.8.0` // `com.netflix.nebula,gradle-lint-plugin,16.8.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.8.1` // `com.netflix.nebula,gradle-lint-plugin,16.8.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -7268,6 +7285,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.39.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.39.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.40.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.40.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.41.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.41.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.42.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.42.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
@@ -7760,6 +7778,8 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.31` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.31,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.33` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.33,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.34` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.34,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.5-jre14` // `com.guicedee.services,sl4j,1.0.9.5-jre14,org.slf4j,1.0.9.5-jre14,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.7-jre14` // `com.guicedee.services,sl4j,1.0.9.7-jre14,org.slf4j,1.0.9.7-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.0-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.0-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.1-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.1-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`

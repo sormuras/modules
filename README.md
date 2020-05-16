@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6674 Java modules published at Maven Central
+Counted 6680 Java modules published at Maven Central
 
-## Summary 2020-05-15T01:24:05.376482Z
+## Summary 2020-05-16T01:25:09.402444Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-15T01:24:05.376482Z
-Scanned 51,368 files in 6 seconds.
+Started scan at 2020-05-16T01:25:09.402444Z
+Scanned 51,448 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_15_01_05_04.csv
+    last -> modulescanner-report-2020_05_16_01_01_13.csv
 
-Parsed 3,457,969 lines in total.
-  55,094 -> captions skipped
-  298,821 -> duplicates skipped
-  164,328 -> module related
+Parsed 3,467,044 lines in total.
+  55,174 -> captions skipped
+  300,099 -> duplicates skipped
+  164,782 -> module related
 
-Collected 6,674 unique modules.
-  automatic :cd: -> 4,776
-  explicit :dvd: -> 1,898
+Collected 6,680 unique modules.
+  automatic :cd: -> 4,781
+  explicit :dvd: -> 1,899
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=3673, explicit=283, plain=64965}` 	 6.09%
+ - `2020_05={automatic=4083, explicit=291, plain=72228}` 	 6.06%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17132](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22863](suspicious/naming.md)
-- Modular impostors: [8103](suspicious/impostors.md)
+- Invalid module names: [17138](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22873](suspicious/naming.md)
+- Modular impostors: [8123](suspicious/impostors.md)
 
-## Unique Modules (6674)
+## Unique Modules (6680)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -180,7 +180,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.launcher.shared` - `be.yildiz-games:launcher-shared:1.0.3`
 - :dvd: `be.yildizgames.module.audio` - `be.yildiz-games:module-audio:2.0.7`
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
-- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.0`
+- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.1`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.7`
 - :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.1`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.4`
@@ -318,7 +318,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.2.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.4`
-- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.2`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.3`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.1`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.4`
@@ -1003,8 +1003,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M2`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.2`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
-- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.6.0`
-- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.6.0`
+- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.7.0`
+- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.7.0`
 - :dvd: `com.tobiasdiez.easybind` - `com.tobiasdiez:easybind:1.2.2`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
@@ -1062,7 +1062,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.33`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.34`
+- :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
@@ -1689,8 +1690,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.52`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.36`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.53`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.37`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
