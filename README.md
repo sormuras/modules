@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6680 Java modules published at Maven Central
+Counted 6685 Java modules published at Maven Central
 
-## Summary 2020-05-16T01:25:09.402444Z
+## Summary 2020-05-17T01:25:20.752752Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-16T01:25:09.402444Z
-Scanned 51,448 files in 7 seconds.
+Started scan at 2020-05-17T01:25:20.752752Z
+Scanned 51,539 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_16_01_01_13.csv
+    last -> modulescanner-report-2020_05_17_01_09_57.csv
 
-Parsed 3,467,044 lines in total.
-  55,174 -> captions skipped
-  300,099 -> duplicates skipped
-  164,782 -> module related
+Parsed 3,470,971 lines in total.
+  55,265 -> captions skipped
+  300,197 -> duplicates skipped
+  164,895 -> module related
 
-Collected 6,680 unique modules.
-  automatic :cd: -> 4,781
-  explicit :dvd: -> 1,899
+Collected 6,685 unique modules.
+  automatic :cd: -> 4,783
+  explicit :dvd: -> 1,902
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=4083, explicit=291, plain=72228}` 	 6.06%
+ - `2020_05={automatic=4092, explicit=299, plain=75853}` 	 5.79%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,10 +116,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17138](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22873](suspicious/naming.md)
-- Modular impostors: [8123](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22962](suspicious/naming.md)
+- Modular impostors: [8130](suspicious/impostors.md)
 
-## Unique Modules (6680)
+## Unique Modules (6685)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -524,7 +524,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` - `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` - `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` - `com.googlecode.blaisemath:blaise-svg:1.0.1`
-- :dvd: `com.googlecode.lanterna` - `com.googlecode.lanterna:lanterna:3.1.0-alpha1`
+- :dvd: `com.googlecode.lanterna` - `com.googlecode.lanterna:lanterna:3.1.0-beta1`
 - :dvd: `com.guicedee.guicedinjection` - `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` - `com.guicedee:guiced-undertow:62`
 - :dvd: `com.guicedee.logmaster` - `com.guicedee:guiced-log-master:62`
@@ -826,6 +826,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.core` - `com.kohlschutter.junixsocket:junixsocket-core:2.3.2`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` - `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.2`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` - `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.2`
+- :dvd: `com.mihaibojin.props.core` - `com.mihaibojin.props:props-core:0.0.1`
 - :dvd: `com.moilioncircle.redis.replicator` - `com.moilioncircle:redis-replicator:3.4.0`
 - :dvd: `com.moilioncircle.redis.sink.api` - `com.moilioncircle:redis-sink-api:1.2.1`
 - :dvd: `com.ncredinburgh.incontrol` - `com.ncredinburgh:in-control:1.1`
@@ -933,7 +934,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` - `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` - `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` - `com.samskivert:jmustache:1.15`
-- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.14.0`
+- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.14.1`
 - :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.9`
 - :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.9`
 - :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.9`
@@ -1011,7 +1012,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
-- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.3`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.5`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1070,7 +1071,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` - `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` - `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.3.1`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.3.2`
 - :dvd: `io.annot8.api` - `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` - `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` - `io.annot8:annot8-common-data:0.4.0`
@@ -1128,6 +1129,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.14`
 - :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.14`
 - :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.14`
+- :dvd: `io.github.jmcleodfoss.msg` - `io.github.jmcleodfoss:msg:1.0.0`
+- :dvd: `io.github.jmcleodfoss.msg_example` - `io.github.jmcleodfoss:msg_example:1.0.0`
 - :dvd: `io.github.jmcleodfoss.voluminouspaginationskin` - `io.github.jmcleodfoss:voluminouspaginationskin:2.0.0`
 - :dvd: `io.github.joealisson.mmocore` - `io.github.joealisson:async-mmocore:3.0.1`
 - :dvd: `io.github.jsoagger.cloud.stub.operations` - `io.github.jsoagger:jsoagger-cloudstub-operations:1.0.3`
