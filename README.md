@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6685 Java modules published at Maven Central
+Counted 6690 Java modules published at Maven Central
 
-## Summary 2020-05-17T01:25:20.752752Z
+## Summary 2020-05-18T01:25:29.253018Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-17T01:25:20.752752Z
-Scanned 51,539 files in 7 seconds.
+Started scan at 2020-05-18T01:25:29.253018Z
+Scanned 51,631 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_17_01_09_57.csv
+    last -> modulescanner-report-2020_05_18_00_59_55.csv
 
-Parsed 3,470,971 lines in total.
-  55,265 -> captions skipped
-  300,197 -> duplicates skipped
-  164,895 -> module related
+Parsed 3,474,187 lines in total.
+  55,357 -> captions skipped
+  300,344 -> duplicates skipped
+  165,014 -> module related
 
-Collected 6,685 unique modules.
-  automatic :cd: -> 4,783
-  explicit :dvd: -> 1,902
+Collected 6,690 unique modules.
+  automatic :cd: -> 4,784
+  explicit :dvd: -> 1,906
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=4092, explicit=299, plain=75853}` 	 5.79%
+ - `2020_05={automatic=4115, explicit=317, plain=78711}` 	 5.63%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17138](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [22962](suspicious/naming.md)
-- Modular impostors: [8130](suspicious/impostors.md)
+- Invalid module names: [17139](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23033](suspicious/naming.md)
+- Modular impostors: [8136](suspicious/impostors.md)
 
-## Unique Modules (6685)
+## Unique Modules (6690)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -180,9 +180,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.launcher.shared` - `be.yildiz-games:launcher-shared:1.0.3`
 - :dvd: `be.yildizgames.module.audio` - `be.yildiz-games:module-audio:2.0.7`
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
-- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.1`
+- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.2`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.7`
-- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.1`
+- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.2`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.4`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
@@ -198,7 +198,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.6`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.1`
+- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.3`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.1.0`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.2`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
@@ -711,6 +711,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
+- :dvd: `com.justifiedsolutions.justpdf` - `com.justifiedsolutions:justPDF:0.1.0`
 - :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.2`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
@@ -992,16 +993,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.fastinfoset.utilities` - `com.sun.xml.fastinfoset:FastInfosetUtilities:2.0.0-M2`
 - :dvd: `com.sun.xml.messaging.saaj` - `com.sun.xml.messaging.saaj:saaj-impl:2.0.0-M1`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M3`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M2`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M2`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.2`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.7.0`
@@ -1012,7 +1013,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
-- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.5`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.8`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1063,7 +1064,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.34`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.35`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1606,6 +1607,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.docx4j.openxml_objects` - `org.docx4j:docx4j-openxml-objects:11.1.3`
 - :dvd: `org.docx4j.openxml_objects_pml` - `org.docx4j:docx4j-openxml-objects-pml:11.1.3`
 - :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.3`
+- :dvd: `org.drombler.iso9660fs` - `org.drombler.iso9660fs:drombler-iso9660fs:0.4`
 - :dvd: `org.dyn4j` - `org.dyn4j:dyn4j:3.4.0`
 - :dvd: `org.eclipse.jetty.alpn.client` - `org.eclipse.jetty:jetty-alpn-client:10.0.0.alpha2`
 - :dvd: `org.eclipse.jetty.alpn.conscrypt.client` - `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0.alpha2`
@@ -1679,6 +1681,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.6`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.6`
+- :dvd: `org.javamoney.moneta` - `org.javamoney.moneta:moneta-core:1.4`
+- :dvd: `org.javamoney.moneta.convert` - `org.javamoney.moneta:moneta-convert:1.4`
 - :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
