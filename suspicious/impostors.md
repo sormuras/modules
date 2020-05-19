@@ -4305,6 +4305,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.8.6-jre14` // `com.guicedee.services,jakarta.mail,1.0.8.6-jre14,jakarta.mail,1.0.8.6-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.0-jre14,jakarta.mail,1.0.9.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.1-jre14,jakarta.mail,1.0.9.1-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.10-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.10-jre14,jakarta.mail,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.2-jre14,jakarta.mail,1.0.9.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.3-jre14,jakarta.mail,1.0.9.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.4-jre14,jakarta.mail,1.0.9.4-jre14,explicit,java.base,false,-`
@@ -4344,6 +4345,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.118.0` // `org.finra.herd,herd-access-validator,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.119.0` // `org.finra.herd,herd-access-validator,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.120.0` // `org.finra.herd,herd-access-validator,0.120.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.122.0` // `org.finra.herd,herd-access-validator,0.122.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
@@ -4363,6 +4365,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.118.0` // `org.finra.herd,herd-downloader,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.119.0` // `org.finra.herd,herd-downloader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.120.0` // `org.finra.herd,herd-downloader,0.120.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-downloader:0.122.0` // `org.finra.herd,herd-downloader,0.122.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4395,6 +4398,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.118.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.119.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.120.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.120.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.122.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.122.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4427,6 +4431,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.118.0` // `org.finra.herd,herd-retention-expiration-exporter,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.119.0` // `org.finra.herd,herd-retention-expiration-exporter,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.120.0` // `org.finra.herd,herd-retention-expiration-exporter,0.120.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.122.0` // `org.finra.herd,herd-retention-expiration-exporter,0.122.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4459,6 +4464,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.118.0` // `org.finra.herd,herd-uploader,0.118.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.119.0` // `org.finra.herd,herd-uploader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.120.0` // `org.finra.herd,herd-uploader,0.120.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-uploader:0.122.0` // `org.finra.herd,herd-uploader,0.122.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4913,6 +4919,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc3` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5253,6 +5260,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.datarobot:datarobot-mlops:5.3.0` // `com.datarobot,datarobot-mlops,5.3.0,org.apache.logging.log4j,2.12.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.datarobot:datarobot-mlops:5.3.0.1` // `com.datarobot,datarobot-mlops,5.3.0.1,org.apache.logging.log4j,2.12.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.datarobot:datarobot-mlops:6.0.0` // `com.datarobot,datarobot-mlops,6.0.0,org.apache.logging.log4j,2.12.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.datarobot:datarobot-mlops:6.1.3` // `com.datarobot,datarobot-mlops,6.1.3,org.apache.logging.log4j,2.12.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.dlsc.workbenchfx:workbenchfx-core:1.0.0` // `com.dlsc.workbenchfx,workbenchfx-core,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.apache.logging.log4j` - `com.dlsc.workbenchfx:workbenchfx-core:11.0.0` // `com.dlsc.workbenchfx,workbenchfx-core,11.0.0,org.apache.logging.log4j,-,explicit,java.base,false,java.awt.dnd.peer.DragSourceContextPeer  Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + java.awt.dnd.peer.DropTargetContextPeer  Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
 - :dvd: `org.apache.logging.log4j` - `com.github.daggerok.sonar:sonar-breaker:0.1.4` // `com.github.daggerok.sonar,sonar-breaker,0.1.4,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -5295,6 +5303,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.0-jre14` // `com.guicedee.services,log4j-core,1.0.9.0-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.1-jre14` // `com.guicedee.services,log4j-core,1.0.9.1-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.10-jre14` // `com.guicedee.services,log4j-core,1.0.9.10-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.2-jre14` // `com.guicedee.services,log4j-core,1.0.9.2-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.3-jre14` // `com.guicedee.services,log4j-core,1.0.9.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.4-jre14` // `com.guicedee.services,log4j-core,1.0.9.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
@@ -5583,6 +5592,7 @@
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.4.2` // `org.apache.pulsar,pulsar-functions-runtime-all,2.4.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.0` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.1` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.2` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:blobstore-migrator:2.0.0` // `org.apache.storm,blobstore-migrator,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:blobstore-migrator:2.1.0` // `org.apache.storm,blobstore-migrator,2.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:flux-examples:2.0.0` // `org.apache.storm,flux-examples,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5668,6 +5678,7 @@
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.85` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.85,org.assertj.core,3.15.0,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.86` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.86,org.assertj.core,3.15.0,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.87` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.87,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
+- :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.88` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.88,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.3` // `org.robotframework,javafxlibrary,0.5.3,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.4` // `org.robotframework,javafxlibrary,0.5.4,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :cd: `org.axonframework.springboot` - `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC2` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC2,org.axonframework.springboot,-,automatic,-,false,-`
@@ -7103,6 +7114,7 @@
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc0` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc1` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc2` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc3` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc3,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -7186,6 +7198,7 @@
 - :dvd: `org.objectweb.asm` - `org.python:jython-standalone:2.7.2rc1` // `org.python,jython-standalone,2.7.2rc1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.robotframework:robotframework:3.2` // `org.robotframework,robotframework,3.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.robotframework:robotframework:3.2.1` // `org.robotframework,robotframework,3.2.1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.tomitribe.jkta:jkta:0.4` // `org.tomitribe.jkta,jkta,0.4,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.github.fromage.quasi:quasi-core:0.7.10` // `com.github.fromage.quasi,quasi-core,0.7.10,org.objectweb.asm.commons,6.2.0,explicit,org.objectweb.asm + java.base + org.objectweb.asm.tree.analysis + org.objectweb.asm.tree,true,-`
 - :dvd: `org.objectweb.asm.commons` - `com.github.upthewaterspout.fates:fates-instrumentation:0.1.0` // `com.github.upthewaterspout.fates,fates-instrumentation,0.1.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.github.upthewaterspout.fates:fates-instrumentation:0.2.0` // `com.github.upthewaterspout.fates,fates-instrumentation,0.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -7295,6 +7308,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.40.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.40.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.41.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.41.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.42.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.42.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.43.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.43.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
@@ -7791,6 +7805,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.33` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.33,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.34` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.34,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.35` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.35,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.5-jre14` // `com.guicedee.services,sl4j,1.0.9.5-jre14,org.slf4j,1.0.9.5-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.7-jre14` // `com.guicedee.services,sl4j,1.0.9.7-jre14,org.slf4j,1.0.9.7-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
