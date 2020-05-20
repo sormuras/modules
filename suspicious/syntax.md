@@ -14182,6 +14182,7 @@
 - :cd: `com.github.albfernandez.pmd-gds` - `com.github.albfernandez:pmd-gds:2.19.0` // `com.github.albfernandez,pmd-gds,2.19.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-gds` - `com.github.albfernandez:pmd-gds:2.21.0` // `com.github.albfernandez,pmd-gds,2.21.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-gds` - `com.github.albfernandez:pmd-gds:2.22.0` // `com.github.albfernandez,pmd-gds,2.22.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
+- :cd: `com.github.albfernandez.pmd-gds` - `com.github.albfernandez:pmd-gds:2.23.0` // `com.github.albfernandez,pmd-gds,2.23.0,com.github.albfernandez.pmd-gds,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.pmd-java-safenames` - `com.github.albfernandez:pmd-java-safenames:1.1.0` // `com.github.albfernandez,pmd-java-safenames,1.1.0,com.github.albfernandez.pmd-java-safenames,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.richfaces.richfaces-a4j` - `com.github.albfernandez.richfaces:richfaces-a4j:4.6.12.ayg` // `com.github.albfernandez.richfaces,richfaces-a4j,4.6.12.ayg,com.github.albfernandez.richfaces.richfaces-a4j,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.richfaces.richfaces-core` - `com.github.albfernandez.richfaces:richfaces-core:4.6.12.ayg` // `com.github.albfernandez.richfaces,richfaces-core,4.6.12.ayg,com.github.albfernandez.richfaces.richfaces-core,-,automatic,-,false,-`

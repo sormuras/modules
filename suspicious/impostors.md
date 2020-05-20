@@ -19,6 +19,7 @@
 - :cd: `ch.obermuhlner.scriptengine.jshell` - `ch.obermuhlner:jshell-scriptengine:1.1.0` // `ch.obermuhlner,jshell-scriptengine,1.1.0,ch.obermuhlner.scriptengine.jshell,-,automatic,-,false,-`
 - :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.24` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.24,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.25` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.25,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
+- :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.26` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.26,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring:1.0.0` // `ch.rasc,wamp2spring,1.0.0,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.1` // `ch.rasc,wamp2spring-reactive,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.2` // `ch.rasc,wamp2spring-reactive,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
@@ -376,7 +377,9 @@
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.2` // `com.github.davidmoten,kool,0.1.2,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.3` // `com.github.davidmoten,kool,0.1.3,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.4` // `com.github.davidmoten,kool,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.5` // `com.github.davidmoten,kool,0.1.5,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.4` // `com.github.davidmoten,kool-json,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.5` // `com.github.davidmoten,kool-json,0.1.5,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring:1.0.5` // `com.github.fartherp,dbtest-spring,1.0.5,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring-boot:1.0.5` // `com.github.fartherp,dbtest-spring-boot,1.0.5,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp.spring.boot:shiro-redisson-spring-boot-autoconfigure:1.0.8` // `com.github.fartherp.spring.boot,shiro-redisson-spring-boot-autoconfigure,1.0.8,com.github.fartherp,-,automatic,-,false,-`
@@ -4306,6 +4309,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.0-jre14,jakarta.mail,1.0.9.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.1-jre14,jakarta.mail,1.0.9.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.10-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.10-jre14,jakarta.mail,1.0.9.10-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.11-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.11-jre14,jakarta.mail,1.0.9.11-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.2-jre14,jakarta.mail,1.0.9.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.3-jre14,jakarta.mail,1.0.9.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.4-jre14,jakarta.mail,1.0.9.4-jre14,explicit,java.base,false,-`
@@ -4628,6 +4632,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.12.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.12.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.12.0-beta.3` // `com.undefinedlabs.scope,scope-agent,0.12.0-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.13.0` // `com.undefinedlabs.scope,scope-agent,0.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.14.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.14.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.0` // `com.undefinedlabs.scope,scope-agent,0.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1` // `com.undefinedlabs.scope,scope-agent,0.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4888,6 +4893,7 @@
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.6` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.7` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.2` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.3` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5304,6 +5310,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.0-jre14` // `com.guicedee.services,log4j-core,1.0.9.0-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.1-jre14` // `com.guicedee.services,log4j-core,1.0.9.1-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.10-jre14` // `com.guicedee.services,log4j-core,1.0.9.10-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.11-jre14` // `com.guicedee.services,log4j-core,1.0.9.11-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.2-jre14` // `com.guicedee.services,log4j-core,1.0.9.2-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.3-jre14` // `com.guicedee.services,log4j-core,1.0.9.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.4-jre14` // `com.guicedee.services,log4j-core,1.0.9.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
@@ -5588,6 +5595,9 @@
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.4` // `net.corda,corda-tools-blob-inspector,4.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.flink:statefun-ridesharing-example-simulator:2.0.0` // `org.apache.flink,statefun-ridesharing-example-simulator,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.hbase.operator.tools:hbase-hbck2:1.0.0` // `org.apache.hbase.operator.tools,hbase-hbck2,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.jena:jena-fuseki-fulljar:3.15.0` // `org.apache.jena,jena-fuseki-fulljar,3.15.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.jena:jena-fuseki-geosparql:3.15.0` // `org.apache.jena,jena-fuseki-geosparql,3.15.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.jena:jena-fuseki-server:3.15.0` // `org.apache.jena,jena-fuseki-server,3.15.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.4.1` // `org.apache.pulsar,pulsar-functions-runtime-all,2.4.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.4.2` // `org.apache.pulsar,pulsar-functions-runtime-all,2.4.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.0` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -5799,6 +5809,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.218.37` // `com.yahoo.vespa,vespa-hadoop,7.218.37,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.219.14` // `com.yahoo.vespa,vespa-hadoop,7.219.14,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.220.14` // `com.yahoo.vespa,vespa-hadoop,7.220.14,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.223.70` // `com.yahoo.vespa,vespa-hadoop,7.223.70,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7184,6 +7195,7 @@
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.0.2` // `org.graalvm.nativeimage,svm,19.3.0.2,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:19.3.1` // `org.graalvm.nativeimage,svm,19.3.1,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:20.0.0` // `org.graalvm.nativeimage,svm,20.0.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `org.graalvm.nativeimage:svm:20.1.0` // `org.graalvm.nativeimage,svm,20.1.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.netbeans.external:asm-7.2:RELEASE113` // `org.netbeans.external,asm-7.2,RELEASE113,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2` // `org.noear,solon.extend.jetty.jsp,1.0.2,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `org.noear:solon.extend.jetty.jsp:1.0.2.1` // `org.noear,solon.extend.jetty.jsp,1.0.2.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -7806,6 +7818,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.34` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.34,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.35` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.35,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.11-jre14` // `com.guicedee.services,sl4j,1.0.9.11-jre14,org.slf4j,1.0.9.11-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.5-jre14` // `com.guicedee.services,sl4j,1.0.9.5-jre14,org.slf4j,1.0.9.5-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.7-jre14` // `com.guicedee.services,sl4j,1.0.9.7-jre14,org.slf4j,1.0.9.7-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
