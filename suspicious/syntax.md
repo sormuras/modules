@@ -715,6 +715,7 @@
 - :cd: `` - `io.github.dunwu:dunwu-starter-web:0.4.7` // `io.github.dunwu,dunwu-starter-web,0.4.7,-,-,automatic,-,false,-`
 - :cd: `` - `io.github.dunwu:dunwu-util:0.4.7` // `io.github.dunwu,dunwu-util,0.4.7,-,-,automatic,-,false,-`
 - :cd: `` - `io.github.dunwu:dunwu-web:0.4.7` // `io.github.dunwu,dunwu-web,0.4.7,-,-,automatic,-,false,-`
+- :cd: `` - `io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE` // `io.github.malteseduck.springframework.data,spring-data-marklogic,2.2.0.RELEASE,-,-,automatic,-,false,-`
 - :cd: `` - `io.netty:netty-microbench:4.1.29.Final` // `io.netty,netty-microbench,4.1.29.Final,-,-,automatic,-,false,-`
 - :cd: `` - `io.netty:netty-microbench:4.1.30.Final` // `io.netty,netty-microbench,4.1.30.Final,-,-,automatic,-,false,-`
 - :cd: `` - `io.netty:netty-microbench:4.1.31.Final` // `io.netty,netty-microbench,4.1.31.Final,-,-,automatic,-,false,-`
@@ -7630,6 +7631,10 @@
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.6` // `au.com.dius,pact-specification-test,4.0.6,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.7` // `au.com.dius,pact-specification-test,4.0.7,au.com.dius.pact-specification-test,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-specification-test` - `au.com.dius:pact-specification-test:4.0.8` // `au.com.dius,pact-specification-test,4.0.8,au.com.dius.pact-specification-test,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.consumer.specs2_2.13` - `au.com.dius.pact.consumer:specs2_2.13:4.1.0` // `au.com.dius.pact.consumer,specs2_2.13,4.1.0,au.com.dius.pact.consumer.specs2_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.0` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.0,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.0` // `au.com.dius.pact.provider,scalatest_2.13,4.1.0,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.0` // `au.com.dius.pact.provider,specs2_2.13,4.1.0,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_consumer_specs2_2.12` - `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.10` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.10,au.com.dius.pact_jvm_consumer_specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_consumer_specs2_2.12` - `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.9` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.9,au.com.dius.pact_jvm_consumer_specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_provider_scalasupport_2.12` - `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.10` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.10,au.com.dius.pact_jvm_provider_scalasupport_2.12,-,automatic,-,false,-`

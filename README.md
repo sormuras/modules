@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6713 Java modules published at Maven Central
+Counted 6749 Java modules published at Maven Central
 
-## Summary 2020-05-20T01:26:32.286856Z
+## Summary 2020-05-21T01:26:54.509328Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-20T01:26:32.286856Z
-Scanned 51,768 files in 6 seconds.
+Started scan at 2020-05-21T01:26:54.509328Z
+Scanned 51,855 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_20_01_09_05.csv
+    last -> modulescanner-report-2020_05_21_01_17_00.csv
 
-Parsed 3,487,721 lines in total.
-  55,490 -> captions skipped
-  302,018 -> duplicates skipped
-  165,847 -> module related
+Parsed 3,496,893 lines in total.
+  55,577 -> captions skipped
+  302,644 -> duplicates skipped
+  166,265 -> module related
 
-Collected 6,713 unique modules.
-  automatic :cd: -> 4,788
-  explicit :dvd: -> 1,925
+Collected 6,749 unique modules.
+  automatic :cd: -> 4,814
+  explicit :dvd: -> 1,935
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=4704, explicit=353, plain=89605}` 	 5.64%
+ - `2020_05={automatic=5039, explicit=373, plain=97646}` 	 5.54%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17163](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23189](suspicious/naming.md)
-- Modular impostors: [8164](suspicious/impostors.md)
+- Invalid module names: [17168](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23236](suspicious/naming.md)
+- Modular impostors: [8175](suspicious/impostors.md)
 
-## Unique Modules (6713)
+## Unique Modules (6749)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -707,7 +707,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jamesratzlaff.bitmanip` - `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` - `com.jamesratzlaff:byte-functions:2019.04.01`
 - :dvd: `com.jfoenix` - `com.jfoenix:jfoenix:9.0.9`
-- :dvd: `com.jongsoft.lang` - `com.jongsoft.lang:language:0.0.9`
+- :dvd: `com.jongsoft.lang` - `com.jongsoft.lang:language:1.0.0`
 - :dvd: `com.jongsoft.lang.collection` - `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` - `com.jongsoft.lang:commons:0.0.2`
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
@@ -1015,7 +1015,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
-- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.9`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.13`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1353,8 +1353,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.3`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
-- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.21.0`
-- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.21.0`
+- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.0`
+- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.22.0`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.10`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.10`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
@@ -1703,7 +1703,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
 - :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.54`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.38`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.39`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
@@ -1864,7 +1864,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
-- :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.0`
+- :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.1`
 - :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.3`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
@@ -1929,6 +1929,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.marc` - `org.xbib:marc:2.3.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.0.4`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.0.4`
+- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.49.1`
+- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.49.1`
+- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.49.1`
+- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.49.1`
+- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.49.1`
+- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.49.1`
+- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.49.1`
+- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.49.1`
+- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.49.1`
 - :dvd: `pl.tlinkowski.annotation.basic` - `pl.tlinkowski.annotation:basic-annotations:0.1.0`
 - :dvd: `pl.tlinkowski.gradle.my.settings` - `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.4`
 - :dvd: `pl.tlinkowski.unij.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.api:0.1.1`
@@ -2033,6 +2042,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
+- :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
