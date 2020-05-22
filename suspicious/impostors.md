@@ -482,6 +482,7 @@
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0` // `com.google.protobuf,protobuf-javalite,3.12.0,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-1` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-2` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.1` // `com.google.protobuf,protobuf-javalite,3.12.1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.headius.invokebinder` - `org.asciidoctor:asciidoctor-ant:1.6.2` // `org.asciidoctor,asciidoctor-ant,1.6.2,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.0.0` // `org.jruby,jruby-complete,9.2.0.0,com.headius.invokebinder,-,explicit,java.base + java.logging,true,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.1.0` // `org.jruby,jruby-complete,9.2.1.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -2417,6 +2418,7 @@
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.1` // `org.jboss.gm,cli,1.6.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.2` // `org.jboss.gm,cli,1.6.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.8` // `org.jboss.gm,cli,1.8,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `org.jboss.gm:cli:1.9` // `org.jboss.gm,cli,1.9,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `io.annot8.components.text` - `io.annot8:annot8-components-types:0.4.0` // `io.annot8,annot8-components-types,0.4.0,io.annot8.components.text,0.4.0,explicit,io.annot8.api + io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + java.json.bind + org.slf4j,false,-`
 - :cd: `io.cucumber.core` - `com.github.harry389:cucumber-core:5.0.0-RC3` // `com.github.harry389,cucumber-core,5.0.0-RC3,io.cucumber.core,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
@@ -2501,6 +2503,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.0` // `com.yahoo.elide,elide-blog-example,4.6.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.1` // `com.yahoo.elide,elide-blog-example,4.6.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.2` // `com.yahoo.elide,elide-blog-example,4.6.2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.3` // `com.yahoo.elide,elide-blog-example,4.6.3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -4320,6 +4323,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.1-jre14,jakarta.mail,1.0.9.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.10-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.10-jre14,jakarta.mail,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.11-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.11-jre14,jakarta.mail,1.0.9.11-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.13-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.13-jre14,jakarta.mail,1.0.9.13-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.14-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.14-jre14,jakarta.mail,1.0.9.14-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.2-jre14,jakarta.mail,1.0.9.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.3-jre14,jakarta.mail,1.0.9.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.9.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.9.4-jre14,jakarta.mail,1.0.9.4-jre14,explicit,java.base,false,-`
@@ -4782,6 +4787,7 @@
 - :dvd: `net.bytebuddy` - `nl.jqno.equalsverifier:equalsverifier:3.0.2` // `nl.jqno.equalsverifier,equalsverifier,3.0.2,net.bytebuddy,-,explicit,net.bytebuddy.agent + java.base + jdk.unsupported + java.instrument,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.4.0` // `org.agrona,agrona-agent,1.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.4.1` // `org.agrona,agrona-agent,1.4.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.5.0` // `org.agrona,agrona-agent,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.10.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.11.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.12.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.12.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5321,6 +5327,8 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.1-jre14` // `com.guicedee.services,log4j-core,1.0.9.1-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.10-jre14` // `com.guicedee.services,log4j-core,1.0.9.10-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.11-jre14` // `com.guicedee.services,log4j-core,1.0.9.11-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.13-jre14` // `com.guicedee.services,log4j-core,1.0.9.13-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.14-jre14` // `com.guicedee.services,log4j-core,1.0.9.14-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.2-jre14` // `com.guicedee.services,log4j-core,1.0.9.2-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.3-jre14` // `com.guicedee.services,log4j-core,1.0.9.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.9.4-jre14` // `com.guicedee.services,log4j-core,1.0.9.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
@@ -5415,6 +5423,11 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.103` // `io.nosqlbench,driver-cql-shaded,3.12.103,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.104` // `io.nosqlbench,driver-cql-shaded,3.12.104,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.106` // `io.nosqlbench,driver-cql-shaded,3.12.106,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.109` // `io.nosqlbench,driver-cql-shaded,3.12.109,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.110` // `io.nosqlbench,driver-cql-shaded,3.12.110,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.111` // `io.nosqlbench,driver-cql-shaded,3.12.111,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.113` // `io.nosqlbench,driver-cql-shaded,3.12.113,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.114` // `io.nosqlbench,driver-cql-shaded,3.12.114,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -7360,6 +7373,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.113` // `com.rookout,rook,0.1.113,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.114` // `com.rookout,rook,0.1.114,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.115` // `com.rookout,rook,0.1.115,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.116` // `com.rookout,rook,0.1.116,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -7830,6 +7844,8 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.35` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.35,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.11-jre14` // `com.guicedee.services,sl4j,1.0.9.11-jre14,org.slf4j,1.0.9.11-jre14,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.13-jre14` // `com.guicedee.services,sl4j,1.0.9.13-jre14,org.slf4j,1.0.9.13-jre14,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.14-jre14` // `com.guicedee.services,sl4j,1.0.9.14-jre14,org.slf4j,1.0.9.14-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.5-jre14` // `com.guicedee.services,sl4j,1.0.9.5-jre14,org.slf4j,1.0.9.5-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.7-jre14` // `com.guicedee.services,sl4j,1.0.9.7-jre14,org.slf4j,1.0.9.7-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`

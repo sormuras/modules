@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6749 Java modules published at Maven Central
+Counted 6779 Java modules published at Maven Central
 
-## Summary 2020-05-21T01:26:54.509328Z
+## Summary 2020-05-22T01:26:56.066742Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-21T01:26:54.509328Z
-Scanned 51,855 files in 6 seconds.
+Started scan at 2020-05-22T01:26:56.066742Z
+Scanned 51,947 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_21_01_17_00.csv
+    last -> modulescanner-report-2020_05_22_01_11_54.csv
 
-Parsed 3,496,893 lines in total.
-  55,577 -> captions skipped
-  302,644 -> duplicates skipped
-  166,265 -> module related
+Parsed 3,504,784 lines in total.
+  55,669 -> captions skipped
+  304,118 -> duplicates skipped
+  166,710 -> module related
 
-Collected 6,749 unique modules.
-  automatic :cd: -> 4,814
-  explicit :dvd: -> 1,935
+Collected 6,779 unique modules.
+  automatic :cd: -> 4,837
+  explicit :dvd: -> 1,942
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5039, explicit=373, plain=97646}` 	 5.54%
+ - `2020_05={automatic=5437, explicit=381, plain=103526}` 	 5.62%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,10 +116,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17168](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23236](suspicious/naming.md)
-- Modular impostors: [8175](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23259](suspicious/naming.md)
+- Modular impostors: [8191](suspicious/impostors.md)
 
-## Unique Modules (6749)
+## Unique Modules (6779)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1927,6 +1927,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.guice` - `org.xbib:guice:4.4.2`
 - :dvd: `org.xbib.javax.inject` - `org.xbib:javax-inject:1`
 - :dvd: `org.xbib.marc` - `org.xbib:marc:2.3.0`
+- :dvd: `org.xbib.metrics.api` - `org.xbib:metrics-api:2.1.0`
+- :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.0.4`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.0.4`
 - :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.49.1`
@@ -1938,6 +1940,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.49.1`
 - :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.49.1`
 - :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.49.1`
+- :dvd: `org.xbib.z3950lib.api` - `org.xbib:z3950-api:2.1.0`
+- :dvd: `org.xbib.z3950lib.asn` - `org.xbib:z3950-asn1:2.1.0`
+- :dvd: `org.xbib.z3950lib.client` - `org.xbib:z3950-client:2.1.0`
+- :dvd: `org.xbib.z3950lib.client.netty` - `org.xbib:z3950-client-netty:2.1.0`
+- :dvd: `org.xbib.z3950lib.common` - `org.xbib:z3950-common:2.1.0`
 - :dvd: `pl.tlinkowski.annotation.basic` - `pl.tlinkowski.annotation:basic-annotations:0.1.0`
 - :dvd: `pl.tlinkowski.gradle.my.settings` - `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.4`
 - :dvd: `pl.tlinkowski.unij.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.api:0.1.1`
@@ -2040,7 +2047,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.1.0-V20`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.2.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
