@@ -2410,6 +2410,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.1` // `io.jooby,jooby-cli,2.8.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.2` // `io.jooby,jooby-cli,2.8.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.3` // `io.jooby,jooby-cli,2.8.3,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.4` // `io.jooby,jooby-cli,2.8.4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.36` // `org.caseine,caseine.vpl.tools.CLI,0.0.36,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.37` // `org.caseine,caseine.vpl.tools.CLI,0.0.37,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.38` // `org.caseine,caseine.vpl.tools.CLI,0.0.38,info.picocli,-,explicit,java.base,false,-`
@@ -4942,6 +4943,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc3` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc4` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5104,6 +5106,7 @@
 - :dvd: `org.apache.commons.compress` - `com.guicedee.services:commons-compress:62` // `com.guicedee.services,commons-compress,62,org.apache.commons.compress,62,explicit,com.github.luben.zstd_jni + dec + java.base + org.tukaani.xz,false,-`
 - :dvd: `org.apache.commons.compress` - `io.github.1tchy.java9modular.org.apache.commons:commons-compress:1.18.1` // `io.github.1tchy.java9modular.org.apache.commons,commons-compress,1.18.1,org.apache.commons.compress,1.18.1,explicit,java.base,false,-`
 - :dvd: `org.apache.commons.compress` - `io.github.1tchy.java9modular.org.apache.commons:commons-compress:1.19.0` // `io.github.1tchy.java9modular.org.apache.commons,commons-compress,1.19.0,org.apache.commons.compress,1.19.0,explicit,java.base,false,-`
+- :cd: `org.apache.commons.configuration2` - `consulting.freiheitsgrade.patched:commons-configuration2:2.7` // `consulting.freiheitsgrade.patched,commons-configuration2,2.7,org.apache.commons.configuration2,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.commons.lang3` - `com.guicedee.services:commons-lang3:0.70.0.1` // `com.guicedee.services,commons-lang3,0.70.0.1,org.apache.commons.lang3,0.70.0.1,explicit,java.base + java.desktop,false,-`
 - :dvd: `org.apache.commons.lang3` - `com.guicedee.services:commons-lang3:0.70.0.1-rc1` // `com.guicedee.services,commons-lang3,0.70.0.1-rc1,org.apache.commons.lang3,0.70.0.1-rc1,explicit,java.base + java.desktop,false,-`
 - :dvd: `org.apache.commons.lang3` - `com.guicedee.services:commons-lang3:0.70.0.1-rc13` // `com.guicedee.services,commons-lang3,0.70.0.1-rc13,org.apache.commons.lang3,0.70.0.1-rc13,explicit,java.base + java.desktop,false,-`
@@ -7150,6 +7153,7 @@
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc1` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc2` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc3` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc3,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc4` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc4,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`

@@ -14786,9 +14786,11 @@
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.0-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.0-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.1-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.1-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.2-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.2-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
+- :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.3-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.3-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.0-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.0-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.1-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.1-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.2-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.2-RELEASE,jt.808.server.support,-,automatic,-,false,-`
+- :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.3-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.3-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.0` // `net.dreamlu,mica-plus-error-catch,1.1.0,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.1` // `net.dreamlu,mica-plus-error-catch,1.1.1,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.2` // `net.dreamlu,mica-plus-error-catch,1.1.2,mica.plus.error.catch,-,automatic,-,false,-`

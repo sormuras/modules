@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6779 Java modules published at Maven Central
+Counted 6784 Java modules published at Maven Central
 
-## Summary 2020-05-22T01:26:56.066742Z
+## Summary 2020-05-23T01:27:39.049931Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-22T01:26:56.066742Z
-Scanned 51,947 files in 6 seconds.
+Started scan at 2020-05-23T01:27:39.049931Z
+Scanned 52,035 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_22_01_11_54.csv
+    last -> modulescanner-report-2020_05_23_01_09_17.csv
 
-Parsed 3,504,784 lines in total.
-  55,669 -> captions skipped
-  304,118 -> duplicates skipped
-  166,710 -> module related
+Parsed 3,510,349 lines in total.
+  55,757 -> captions skipped
+  304,676 -> duplicates skipped
+  167,012 -> module related
 
-Collected 6,779 unique modules.
-  automatic :cd: -> 4,837
-  explicit :dvd: -> 1,942
+Collected 6,784 unique modules.
+  automatic :cd: -> 4,838
+  explicit :dvd: -> 1,946
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5437, explicit=381, plain=103526}` 	 5.62%
+ - `2020_05={automatic=5704, explicit=388, plain=108143}` 	 5.63%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17168](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23259](suspicious/naming.md)
-- Modular impostors: [8191](suspicious/impostors.md)
+- Invalid module names: [17170](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23281](suspicious/naming.md)
+- Modular impostors: [8195](suspicious/impostors.md)
 
-## Unique Modules (6779)
+## Unique Modules (6784)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1407,7 +1407,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.rawdata.gcs` - `no.ssb.rawdata:rawdata-client-provider-gcs:0.7`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-streams-provider-kafka:0.1`
 - :dvd: `no.ssb.rawdata.lmdb` - `no.ssb.rawdata:rawdata-client-provider-lmdb:0.2`
-- :dvd: `no.ssb.rawdata.postgres` - `no.ssb.rawdata:rawdata-client-provider-postgres:0.8`
+- :dvd: `no.ssb.rawdata.postgres` - `no.ssb.rawdata:rawdata-client-provider-postgres:0.9`
 - :dvd: `no.ssb.rawdata.provider.postgres` - `no.ssb.rawdata:rawdata-client-provider-postgres:0.1`
 - :dvd: `no.ssb.rawdata.pulsar` - `no.ssb.rawdata:rawdata-client-provider-pulsar:0.3`
 - :dvd: `no.ssb.rawdata.state.provider.h2db` - `no.ssb.rawdata:rawdata-state-provider-h2:0.1`
@@ -1417,7 +1417,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `no.ssb.saga.execution` - `no.ssb.saga:distributed-saga-execution:0.8`
 - :dvd: `no.ssb.sagalog` - `no.ssb.saga:sagalog-api:0.5`
 - :dvd: `no.ssb.sagalog.file` - `no.ssb.saga:sagalog-file:0.5`
-- :dvd: `no.ssb.sagalog.postgres` - `no.ssb.saga:sagalog-postgres:0.6`
+- :dvd: `no.ssb.sagalog.postgres` - `no.ssb.saga:sagalog-postgres:0.7`
 - :dvd: `no.ssb.sagalog.pulsar` - `no.ssb.saga:sagalog-pulsar:0.1`
 - :dvd: `one.lfa.opdsget.api` :left_right_arrow: `one.lfa:one.lfa.opdsget.api:1.1.2`
 - :dvd: `one.lfa.opdsget.cmdline` :left_right_arrow: `one.lfa:one.lfa.opdsget.cmdline:1.1.2`
@@ -1923,6 +1923,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.elasticsearch.spatial4j` - `org.xbib.elasticsearch:spatial4j:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.tdigest` - `org.xbib.elasticsearch:tdigest:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.testframework` - `org.xbib.elasticsearch:elasticsearch-test-framework:6.3.2.4`
+- :dvd: `org.xbib.elx.api` - `org.xbib:elx-api:6.3.2.7`
+- :dvd: `org.xbib.elx.common` - `org.xbib:elx-common:6.3.2.7`
+- :dvd: `org.xbib.elx.node` - `org.xbib:elx-node:6.3.2.7`
+- :dvd: `org.xbib.elx.transport` - `org.xbib:elx-transport:6.3.2.7`
 - :dvd: `org.xbib.guava` - `org.xbib:guava:28.1`
 - :dvd: `org.xbib.guice` - `org.xbib:guice:4.4.2`
 - :dvd: `org.xbib.javax.inject` - `org.xbib:javax-inject:1`
@@ -2047,7 +2051,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.2.0-V20`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.3.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
