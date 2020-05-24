@@ -9,9 +9,11 @@
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.1` // `ch.megard,akka-http-cors_2.12,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.2` // `ch.megard,akka-http-cors_2.12,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.3` // `ch.megard,akka-http-cors_2.12,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.0.0-RC1` // `ch.megard,akka-http-cors_2.12,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.1` // `ch.megard,akka-http-cors_2.13,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.2` // `ch.megard,akka-http-cors_2.13,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.3` // `ch.megard,akka-http-cors_2.13,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.0.0-RC1` // `ch.megard,akka-http-cors_2.13,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M3:0.3.1` // `ch.megard,akka-http-cors_2.13.0-M3,0.3.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.3.4` // `ch.megard,akka-http-cors_2.13.0-M5,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
@@ -2516,6 +2518,7 @@
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC2` // `org.restheart,restheart,5.0.0-RC2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC3` // `org.restheart,restheart,5.0.0-RC3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC4` // `org.restheart,restheart,5.0.0-RC4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.1` // `org.restheart,restheart,5.0.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.0` // `io.github.factoryfx,microserviceRestResource,2.1.0,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.1` // `io.github.factoryfx,microserviceRestResource,2.1.1,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.2` // `io.github.factoryfx,microserviceRestResource,2.1.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -7378,6 +7381,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.114` // `com.rookout,rook,0.1.114,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.115` // `com.rookout,rook,0.1.115,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.116` // `com.rookout,rook,0.1.116,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.117` // `com.rookout,rook,0.1.117,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`

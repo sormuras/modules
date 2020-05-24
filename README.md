@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6784 Java modules published at Maven Central
+Counted 6789 Java modules published at Maven Central
 
-## Summary 2020-05-23T01:27:39.049931Z
+## Summary 2020-05-24T01:27:48.996403Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-23T01:27:39.049931Z
-Scanned 52,035 files in 6 seconds.
+Started scan at 2020-05-24T01:27:48.996403Z
+Scanned 52,138 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_23_01_09_17.csv
+    last -> modulescanner-report-2020_05_24_01_01_51.csv
 
-Parsed 3,510,349 lines in total.
-  55,757 -> captions skipped
-  304,676 -> duplicates skipped
-  167,012 -> module related
+Parsed 3,511,935 lines in total.
+  55,860 -> captions skipped
+  304,777 -> duplicates skipped
+  167,092 -> module related
 
-Collected 6,784 unique modules.
-  automatic :cd: -> 4,838
+Collected 6,789 unique modules.
+  automatic :cd: -> 4,843
   explicit :dvd: -> 1,946
 
 ## Samples
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5704, explicit=388, plain=108143}` 	 5.63%
+ - `2020_05={automatic=5771, explicit=391, plain=109445}` 	 5.63%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,10 +116,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17170](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23281](suspicious/naming.md)
-- Modular impostors: [8195](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23287](suspicious/naming.md)
+- Modular impostors: [8199](suspicious/impostors.md)
 
-## Unique Modules (6784)
+## Unique Modules (6789)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -601,8 +601,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.jade.vanilla` :left_right_arrow: `com.io7m.jade:com.io7m.jade.vanilla:1.0.1`
 - :dvd: `com.io7m.jaffirm.core` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.core:3.0.4`
 - :dvd: `com.io7m.jaffirm.documentation` :left_right_arrow: `com.io7m.jaffirm:com.io7m.jaffirm.documentation:3.0.4`
-- :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.2`
-- :dvd: `com.io7m.jbssio.vanilla` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.vanilla:0.0.2`
+- :dvd: `com.io7m.jbssio.api` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.api:0.0.3`
+- :dvd: `com.io7m.jbssio.vanilla` :left_right_arrow: `com.io7m.jbssio:com.io7m.jbssio.vanilla:0.0.3`
 - :dvd: `com.io7m.jcip.annotations` :left_right_arrow: `com.io7m.jcip:com.io7m.jcip.annotations:2.0.0`
 - :dvd: `com.io7m.jcoords.core` :left_right_arrow: `com.io7m.jcoords:com.io7m.jcoords.core:1.0.0`
 - :dvd: `com.io7m.jcoords.documentation` :left_right_arrow: `com.io7m.jcoords:com.io7m.jcoords.documentation:1.0.0`
@@ -2051,7 +2051,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.3.0-V20`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.4.0-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
