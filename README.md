@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6789 Java modules published at Maven Central
+Counted 6803 Java modules published at Maven Central
 
-## Summary 2020-05-24T01:27:48.996403Z
+## Summary 2020-05-25T01:28:39.923466Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-24T01:27:48.996403Z
-Scanned 52,138 files in 7 seconds.
+Started scan at 2020-05-25T01:28:39.923466Z
+Scanned 52,232 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_24_01_01_51.csv
+    last -> modulescanner-report-2020_05_25_01_00_48.csv
 
-Parsed 3,511,935 lines in total.
-  55,860 -> captions skipped
-  304,777 -> duplicates skipped
-  167,092 -> module related
+Parsed 3,515,295 lines in total.
+  55,954 -> captions skipped
+  306,166 -> duplicates skipped
+  167,345 -> module related
 
-Collected 6,789 unique modules.
-  automatic :cd: -> 4,843
-  explicit :dvd: -> 1,946
+Collected 6,803 unique modules.
+  automatic :cd: -> 4,854
+  explicit :dvd: -> 1,949
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5771, explicit=391, plain=109445}` 	 5.63%
+ - `2020_05={automatic=5846, explicit=426, plain=111069}` 	 5.65%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17170](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23287](suspicious/naming.md)
-- Modular impostors: [8199](suspicious/impostors.md)
+- Invalid module names: [17193](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23383](suspicious/naming.md)
+- Modular impostors: [8223](suspicious/impostors.md)
 
-## Unique Modules (6789)
+## Unique Modules (6803)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -335,37 +335,38 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.1`
 - :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.1`
 - :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.1`
-- :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.core.testsuite` - `com.blazebit:blaze-persistence-core-testsuite:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.criteria` - `com.blazebit:blaze-persistence-jpa-criteria-api:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.criteria.impl` - `com.blazebit:blaze-persistence-jpa-criteria-impl:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data` - `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` - `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.eclipselink` - `com.blazebit:blaze-persistence-integration-eclipselink:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.graphql` - `com.blazebit:blaze-persistence-integration-graphql:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.hibernate` - `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.hibernate.base` - `com.blazebit:blaze-persistence-integration-hibernate-base:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.jackson` - `com.blazebit:blaze-persistence-integration-jackson:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.jaxrs` - `com.blazebit:blaze-persistence-integration-jaxrs:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.jpa` - `com.blazebit:blaze-persistence-integration-jpa-base:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.openjpa` - `com.blazebit:blaze-persistence-integration-openjpa:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data` - `com.blazebit:blaze-persistence-integration-spring-data-base:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data.impl` - `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.5.0-Alpha2`
+- :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.core.testsuite` - `com.blazebit:blaze-persistence-core-testsuite:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.criteria` - `com.blazebit:blaze-persistence-jpa-criteria-api:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.criteria.impl` - `com.blazebit:blaze-persistence-jpa-criteria-impl:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data` - `com.blazebit:blaze-persistence-integration-deltaspike-data-api:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.base` - `com.blazebit:blaze-persistence-integration-deltaspike-data-base:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-api:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.deltaspike.data.rest.impl` - `com.blazebit:blaze-persistence-integration-deltaspike-data-rest-impl:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.eclipselink` - `com.blazebit:blaze-persistence-integration-eclipselink:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.graphql` - `com.blazebit:blaze-persistence-integration-graphql:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.hibernate` - `com.blazebit:blaze-persistence-integration-hibernate-4.2:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.hibernate.base` - `com.blazebit:blaze-persistence-integration-hibernate-base:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.jackson` - `com.blazebit:blaze-persistence-integration-jackson:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.jaxrs` - `com.blazebit:blaze-persistence-integration-jaxrs:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.jpa` - `com.blazebit:blaze-persistence-integration-jpa-base:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.openjpa` - `com.blazebit:blaze-persistence-integration-openjpa:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data` - `com.blazebit:blaze-persistence-integration-spring-data-base:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data.impl` - `com.blazebit:blaze-persistence-integration-spring-data-1.x:1.5.0-Alpha3`
 - :dvd: `com.blazebit.persistence.integration.spring.data.rest` - `com.blazebit:blaze-persistence-integration-spring-data-rest:1.4.0-Alpha3`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` - `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` - `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.view.cdi` - `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.integration.view.spring` - `com.blazebit:blaze-persistence-integration-entity-view-spring:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view` - `com.blazebit:blaze-persistence-entity-view-api:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view.impl` - `com.blazebit:blaze-persistence-entity-view-impl:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view.processor` - `com.blazebit:blaze-persistence-entity-view-processor:1.5.0-Alpha2`
-- :dvd: `com.blazebit.persistence.view.testsuite` - `com.blazebit:blaze-persistence-entity-view-testsuite:1.5.0-Alpha2`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webflux` - `com.blazebit:blaze-persistence-integration-spring-data-webflux:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.data.webmvc` - `com.blazebit:blaze-persistence-integration-spring-data-webmvc:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.spring.hateoas.webmvc` - `com.blazebit:blaze-persistence-integration-spring-hateoas-webmvc:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.view.cdi` - `com.blazebit:blaze-persistence-integration-entity-view-cdi:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.integration.view.spring` - `com.blazebit:blaze-persistence-integration-entity-view-spring:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view` - `com.blazebit:blaze-persistence-entity-view-api:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view.impl` - `com.blazebit:blaze-persistence-entity-view-impl:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view.processor` - `com.blazebit:blaze-persistence-entity-view-processor:1.5.0-Alpha3`
+- :dvd: `com.blazebit.persistence.view.testsuite` - `com.blazebit:blaze-persistence-entity-view-testsuite:1.5.0-Alpha3`
 - :dvd: `com.calendarfx.recurrence` - `com.calendarfx:recurrence:11.6.4`
 - :dvd: `com.calendarfx.view` - `com.calendarfx:view:11.8.3`
 - :dvd: `com.conversantmedia.disruptor` - `com.conversantmedia:disruptor:1.2.17`
@@ -475,6 +476,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.4`
 - :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.4`
 - :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.4`
+- :dvd: `com.github.robtimus.obfuscation.annotations` - `com.github.robtimus:obfuscation-annotations:1.0.1`
+- :dvd: `com.github.robtimus.obfuscation.jackson.databind` - `com.github.robtimus:obfuscation-jackson-databind:1.0.1`
 - :dvd: `com.github.ruediste.polymorphicGson` - `com.github.ruediste:polymorphic-gson:0.1`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
 - :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
@@ -1353,8 +1356,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.3`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
-- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.0`
-- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.22.0`
+- :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.1`
+- :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.22.1`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.10`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.10`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
