@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6803 Java modules published at Maven Central
+Counted 6811 Java modules published at Maven Central
 
-## Summary 2020-05-25T01:28:39.923466Z
+## Summary 2020-05-26T01:29:35.131953Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-25T01:28:39.923466Z
-Scanned 52,232 files in 7 seconds.
+Started scan at 2020-05-26T01:29:35.131953Z
+Scanned 52,326 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_25_01_00_48.csv
+    last -> modulescanner-report-2020_05_26_01_17_09.csv
 
-Parsed 3,515,295 lines in total.
-  55,954 -> captions skipped
-  306,166 -> duplicates skipped
-  167,345 -> module related
+Parsed 3,521,100 lines in total.
+  56,048 -> captions skipped
+  306,743 -> duplicates skipped
+  167,519 -> module related
 
-Collected 6,803 unique modules.
-  automatic :cd: -> 4,854
-  explicit :dvd: -> 1,949
+Collected 6,811 unique modules.
+  automatic :cd: -> 4,861
+  explicit :dvd: -> 1,950
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5846, explicit=426, plain=111069}` 	 5.65%
+ - `2020_05={automatic=5988, explicit=438, plain=116029}` 	 5.54%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,10 +116,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17193](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23383](suspicious/naming.md)
-- Modular impostors: [8223](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23395](suspicious/naming.md)
+- Modular impostors: [8231](suspicious/impostors.md)
 
-## Unique Modules (6803)
+## Unique Modules (6811)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -378,7 +378,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
-- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.6.0`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.7.0`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
@@ -519,7 +519,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.22`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.23`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1605,14 +1605,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
-- :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.3`
-- :dvd: `org.docx4j.JAXB_ReferenceImpl` - `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.3`
-- :dvd: `org.docx4j.core` - `org.docx4j:docx4j-core:11.1.3`
-- :dvd: `org.docx4j.docx4j_diffx` - `org.docx4j:docx4j-diffx:11.1.3`
-- :dvd: `org.docx4j.docx_anon` - `org.docx4j:docx4j-docx-anon:11.1.3`
-- :dvd: `org.docx4j.openxml_objects` - `org.docx4j:docx4j-openxml-objects:11.1.3`
-- :dvd: `org.docx4j.openxml_objects_pml` - `org.docx4j:docx4j-openxml-objects-pml:11.1.3`
-- :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.3`
+- :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.7`
+- :dvd: `org.docx4j.JAXB_ReferenceImpl` - `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.7`
+- :dvd: `org.docx4j.core` - `org.docx4j:docx4j-core:11.1.7`
+- :dvd: `org.docx4j.docx4j_diffx` - `org.docx4j:docx4j-diffx:11.1.7`
+- :dvd: `org.docx4j.docx_anon` - `org.docx4j:docx4j-docx-anon:11.1.7`
+- :dvd: `org.docx4j.export_fo` - `org.docx4j:docx4j-export-fo:11.1.7`
+- :dvd: `org.docx4j.openxml_objects` - `org.docx4j:docx4j-openxml-objects:11.1.7`
+- :dvd: `org.docx4j.openxml_objects_pml` - `org.docx4j:docx4j-openxml-objects-pml:11.1.7`
+- :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.7`
 - :dvd: `org.drombler.iso9660fs` - `org.drombler.iso9660fs:drombler-iso9660fs:0.4`
 - :dvd: `org.dyn4j` - `org.dyn4j:dyn4j:3.4.0`
 - :dvd: `org.eclipse.jetty.alpn.client` - `org.eclipse.jetty:jetty-alpn-client:10.0.0.alpha2`
@@ -1868,7 +1869,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
 - :dvd: `org.slf4j.simple` - `org.slf4j:slf4j-simple:2.0.0-alpha1`
 - :dvd: `org.snmp4j` - `org.snmp4j:snmp4j:3.4.1`
-- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.3`
+- :dvd: `org.snmp4j.agent` - `org.snmp4j:snmp4j-agent:3.3.4`
 - :dvd: `org.tentackle.common` - `org.tentackle:tentackle-common:11.6.0.0`
 - :dvd: `org.tentackle.core` - `org.tentackle:tentackle-core:11.6.0.0`
 - :dvd: `org.tentackle.database` - `org.tentackle:tentackle-database:11.6.0.0`
