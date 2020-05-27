@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6811 Java modules published at Maven Central
+Counted 6830 Java modules published at Maven Central
 
-## Summary 2020-05-26T01:29:35.131953Z
+## Summary 2020-05-27T01:29:58.708475Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-26T01:29:35.131953Z
-Scanned 52,326 files in 7 seconds.
+Started scan at 2020-05-27T01:29:58.708475Z
+Scanned 52,416 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_26_01_17_09.csv
+    last -> modulescanner-report-2020_05_27_01_14_06.csv
 
-Parsed 3,521,100 lines in total.
-  56,048 -> captions skipped
-  306,743 -> duplicates skipped
-  167,519 -> module related
+Parsed 3,528,048 lines in total.
+  56,138 -> captions skipped
+  307,466 -> duplicates skipped
+  168,025 -> module related
 
-Collected 6,811 unique modules.
-  automatic :cd: -> 4,861
-  explicit :dvd: -> 1,950
+Collected 6,830 unique modules.
+  automatic :cd: -> 4,874
+  explicit :dvd: -> 1,956
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=5988, explicit=438, plain=116029}` 	 5.54%
+ - `2020_05={automatic=6311, explicit=473, plain=121658}` 	 5.58%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17193](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23395](suspicious/naming.md)
-- Modular impostors: [8231](suspicious/impostors.md)
+- Invalid module names: [17197](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23429](suspicious/naming.md)
+- Modular impostors: [8341](suspicious/impostors.md)
 
-## Unique Modules (6811)
+## Unique Modules (6830)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -133,7 +133,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.common.client` - `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` - `be.yildiz-games:common-compression:2.0.6`
 - :dvd: `be.yildizgames.common.configuration` - `be.yildiz-games:common-configuration:1.3.3`
-- :dvd: `be.yildizgames.common.csv` - `be.yildiz-games:common-csv:1.0.2`
+- :dvd: `be.yildizgames.common.csv` - `be.yildiz-games:common-csv:1.0.3`
 - :dvd: `be.yildizgames.common.exception` - `be.yildiz-games:common-exception:1.0.4`
 - :dvd: `be.yildizgames.common.file` - `be.yildiz-games:common-file:2.1.0`
 - :dvd: `be.yildizgames.common.file.xml` - `be.yildiz-games:common-file-xml:2.0.3`
@@ -206,32 +206,33 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
 - :dvd: `ch.qos.logback.classic` - `ch.qos.logback:logback-classic:1.3.0-alpha5`
 - :dvd: `ch.qos.logback.core` - `ch.qos.logback:logback-core:1.3.0-alpha5`
-- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.11.1`
-- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.11.1`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.11.1`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.11.1`
-- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.11.1`
-- :dvd: `ch.tutteli.atrium.api.infix.en_GB` - `ch.tutteli.atrium:atrium-api-infix-en_GB:0.9.0-alpha2`
+- :dvd: `ch.tutteli.atrium.api.cc.en_GB` - `ch.tutteli.atrium:atrium-api-cc-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.api.cc.infix.en_GB` - `ch.tutteli.atrium:atrium-api-cc-infix-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB` - `ch.tutteli.atrium:atrium-api-fluent-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-jdk8:0.12.0`
+- :dvd: `ch.tutteli.atrium.api.fluent.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-fluent-en_GB-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.api.infix.en_GB` - `ch.tutteli.atrium:atrium-api-infix-en_GB:0.12.0`
 - :dvd: `ch.tutteli.atrium.api.infix.en_GB.jdk8` - `ch.tutteli.atrium:atrium-api-infix-en_GB-jdk8:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.9.0-alpha2`
-- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.11.1`
-- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.11.1`
-- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.11.1`
-- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.11.1`
-- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.11.1`
-- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.11.1`
-- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.11.1`
-- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.11.1`
-- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.11.1`
-- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.11.1`
-- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.11.1`
+- :dvd: `ch.tutteli.atrium.api.infix.en_GB.kotlin_1_3` - `ch.tutteli.atrium:atrium-api-infix-en_GB-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-en_GB-robstoll:0.12.0`
+- :dvd: `ch.tutteli.atrium.bundle.cc.infix.en_GB.robstoll` - `ch.tutteli.atrium:atrium-cc-infix-en_GB-robstoll:0.12.0`
+- :dvd: `ch.tutteli.atrium.core.api` - `ch.tutteli.atrium:atrium-core-api:0.12.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll` - `ch.tutteli.atrium:atrium-core-robstoll:0.12.0`
+- :dvd: `ch.tutteli.atrium.core.robstoll.lib` - `ch.tutteli.atrium:atrium-core-robstoll-lib:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.api` - `ch.tutteli.atrium:atrium-domain-api:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.api.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-api-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.builders` - `ch.tutteli.atrium:atrium-domain-builders:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.builders.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-builders-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll` - `ch.tutteli.atrium:atrium-domain-robstoll:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib` - `ch.tutteli.atrium:atrium-domain-robstoll-lib:0.12.0`
+- :dvd: `ch.tutteli.atrium.domain.robstoll.lib.kotlin_1_3` - `ch.tutteli.atrium:atrium-domain-robstoll-lib-kotlin_1_3:0.12.0`
+- :dvd: `ch.tutteli.atrium.fluent.en_GB` - `ch.tutteli.atrium:atrium-fluent-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.infix.en_GB` - `ch.tutteli.atrium:atrium-infix-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.translations.de_CH` - `ch.tutteli.atrium:atrium-translations-de_CH:0.12.0`
+- :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.12.0`
+- :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.12.0`
+- :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.12.0`
 - :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.14.3`
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
@@ -441,7 +442,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.cowwoc.requirements.java` - `com.github.cowwoc.requirements:java:6.0.4`
 - :dvd: `com.github.cowwoc.requirements.natives` - `com.github.cowwoc.requirements:natives:6.0.4`
 - :dvd: `com.github.elopteryx.reflect` - `com.github.elopteryx:bean-mirror:1.0.0`
-- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.4.0`
+- :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.5.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.3`
 - :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
@@ -1061,6 +1062,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` - `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
+- :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.1.0`
 - :dvd: `dk.tbsalling.ais.messages` - `dk.tbsalling:aismessages:3.1.0`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.2.1`
@@ -1070,7 +1072,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.35`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.36`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1316,7 +1318,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.6.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
@@ -1890,6 +1892,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.threeten.extra` - `org.threeten:threeten-extra:1.5.0`
 - :dvd: `org.transentials.cardhouse.commons` - `org.transentials:cardhouse-commons:1.1.1`
 - :dvd: `org.update4j` - `org.update4j:update4j:1.4.5`
+- :dvd: `org.xbib.charset` - `org.xbib:bibliographic-character-sets:2.0.0`
 - :dvd: `org.xbib.content.core` - `org.xbib:content-core:2.2.0`
 - :dvd: `org.xbib.content.csv` - `org.xbib:content-csv:2.2.0`
 - :dvd: `org.xbib.content.json` - `org.xbib:content-json:2.2.0`
@@ -1948,6 +1951,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.49.1`
 - :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.49.1`
 - :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.49.1`
+- :dvd: `org.xbib.oai` - `org.xbib:oai-common:2.3.0`
+- :dvd: `org.xbib.oai.client` - `org.xbib:oai-client:2.3.0`
+- :dvd: `org.xbib.time` - `org.xbib:time:2.1.0`
 - :dvd: `org.xbib.z3950lib.api` - `org.xbib:z3950-api:2.1.0`
 - :dvd: `org.xbib.z3950lib.asn` - `org.xbib:z3950-asn1:2.1.0`
 - :dvd: `org.xbib.z3950lib.client` - `org.xbib:z3950-client:2.1.0`
