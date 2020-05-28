@@ -503,6 +503,7 @@
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-1` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-2` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.1` // `com.google.protobuf,protobuf-javalite,3.12.1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.2` // `com.google.protobuf,protobuf-javalite,3.12.2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `com.headius.invokebinder` - `org.asciidoctor:asciidoctor-ant:1.6.2` // `org.asciidoctor,asciidoctor-ant,1.6.2,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.0.0` // `org.jruby,jruby-complete,9.2.0.0,com.headius.invokebinder,-,explicit,java.base + java.logging,true,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.1.0` // `org.jruby,jruby-complete,9.2.1.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -513,6 +514,9 @@
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.6.0` // `org.jruby,jruby-complete,9.2.6.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.7.0` // `org.jruby,jruby-complete,9.2.7.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
 - :dvd: `com.headius.invokebinder` - `org.jruby:jruby-complete:9.2.8.0` // `org.jruby,jruby-complete,9.2.8.0,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
+- :cd: `com.helger.as2lib` - `com.helger.as2:as2-lib:4.6.0` // `com.helger.as2,as2-lib,4.6.0,com.helger.as2lib,-,automatic,-,false,-`
+- :cd: `com.helger.as2lib.partner.mongodb` - `com.helger.as2:as2-partnership-mongodb:4.6.0` // `com.helger.as2,as2-partnership-mongodb,4.6.0,com.helger.as2lib.partner.mongodb,-,automatic,-,false,-`
+- :cd: `com.helger.as2servlet` - `com.helger.as2:as2-servlet:4.6.0` // `com.helger.as2,as2-servlet,4.6.0,com.helger.as2servlet,-,automatic,-,false,-`
 - :cd: `com.helger.bdve` - `com.helger.bdve:ph-bdve-engine:5.3.0` // `com.helger.bdve,ph-bdve-engine,5.3.0,com.helger.bdve,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve:ph-bdve-cii:5.3.0` // `com.helger.bdve,ph-bdve-cii,5.3.0,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve:ph-bdve-ebinterface:5.3.0` // `com.helger.bdve,ph-bdve-ebinterface,5.3.0,com.helger.bdve.ebinterface,-,automatic,-,false,-`
@@ -550,6 +554,7 @@
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.4` // `com.helger,phoss-directory-businesscard,0.8.4,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.5` // `com.helger,phoss-directory-businesscard,0.8.5,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.6` // `com.helger,phoss-directory-businesscard,0.8.6,com.helger.pd.businesscard,-,automatic,-,false,-`
+- :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.7` // `com.helger,phoss-directory-businesscard,0.8.7,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.0` // `com.helger,phoss-directory-client,0.8.0,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.1` // `com.helger,phoss-directory-client,0.8.1,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.2` // `com.helger,phoss-directory-client,0.8.2,com.helger.pd.client,-,automatic,-,false,-`
@@ -557,6 +562,7 @@
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.4` // `com.helger,phoss-directory-client,0.8.4,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.5` // `com.helger,phoss-directory-client,0.8.5,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.6` // `com.helger,phoss-directory-client,0.8.6,com.helger.pd.client,-,automatic,-,false,-`
+- :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.7` // `com.helger,phoss-directory-client,0.8.7,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.0` // `com.helger,phoss-directory-indexer,0.8.0,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.1` // `com.helger,phoss-directory-indexer,0.8.1,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.2` // `com.helger,phoss-directory-indexer,0.8.2,com.helger.pd.indexer,-,automatic,-,false,-`
@@ -564,6 +570,7 @@
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.4` // `com.helger,phoss-directory-indexer,0.8.4,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.5` // `com.helger,phoss-directory-indexer,0.8.5,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.6` // `com.helger,phoss-directory-indexer,0.8.6,com.helger.pd.indexer,-,automatic,-,false,-`
+- :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.7` // `com.helger,phoss-directory-indexer,0.8.7,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.0` // `com.helger,phoss-directory-searchapi,0.8.0,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.1` // `com.helger,phoss-directory-searchapi,0.8.1,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.2` // `com.helger,phoss-directory-searchapi,0.8.2,com.helger.pd.searchapi,-,automatic,-,false,-`
@@ -571,11 +578,21 @@
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.4` // `com.helger,phoss-directory-searchapi,0.8.4,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.5` // `com.helger,phoss-directory-searchapi,0.8.5,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.6` // `com.helger,phoss-directory-searchapi,0.8.6,com.helger.pd.searchapi,-,automatic,-,false,-`
+- :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.7` // `com.helger,phoss-directory-searchapi,0.8.7,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.0` // `com.helger.peppol,peppol-commons,8.1.0,com.helger.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.as2client` - `com.helger.peppol:as2-peppol-client:5.4.0` // `com.helger.peppol,as2-peppol-client,5.4.0,com.helger.peppol.as2client,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.as2servlet` - `com.helger.peppol:as2-peppol-servlet:5.4.0` // `com.helger.peppol,as2-peppol-servlet,5.4.0,com.helger.peppol.as2servlet,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.0` // `com.helger.peppol,peppol-sbdh,8.1.0,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.0` // `com.helger.peppol,peppol-sml-client,8.1.0,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.0` // `com.helger.peppol,peppol-testfiles,8.1.0,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.0` // `com.helger.peppol,peppol-id,8.1.0,com.helger.peppolid,-,automatic,-,false,-`
+- :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.9.17` // `com.helger.phase4,phase4-lib,0.9.17,com.helger.phase4,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.9.17` // `com.helger.phase4,phase4-cef-client,0.9.17,com.helger.phase4.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.9.17` // `com.helger.phase4,phase4-peppol-client,0.9.17,com.helger.phase4.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.9.17` // `com.helger.phase4,phase4-peppol-servlet,0.9.17,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.9.17` // `com.helger.phase4,phase4-profile-cef,0.9.17,com.helger.phase4.profile.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.9.17` // `com.helger.phase4,phase4-profile-peppol,0.9.17,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.servlet` - `com.helger.phase4:phase4-servlet:0.9.17` // `com.helger.phase4,phase4-servlet,0.9.17,com.helger.phase4.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.5` // `com.helger.photon,ph-oton-ajax,8.2.5,com.helger.photon.ajax,-,automatic,-,false,-`
 - :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.5` // `com.helger.photon,ph-oton-api,8.2.5,com.helger.photon.api,-,automatic,-,false,-`
 - :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.5` // `com.helger.photon,ph-oton-app,8.2.5,com.helger.photon.app,-,automatic,-,false,-`
@@ -2953,6 +2970,7 @@
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.0` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.0,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.1` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.1,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.2` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.2,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.3` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.3,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.0` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.0,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.0.RC3` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.0.RC3,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.1` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.1,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
@@ -2993,6 +3011,7 @@
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.0` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.0,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.1` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.1,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.2,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.3,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.0` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.0,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.0.RC3,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.1` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.1,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
@@ -3018,6 +3037,7 @@
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.0` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.0,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.1` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.1,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.2,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.3,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.0` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.0,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.0.RC3,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.1` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.1,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
@@ -3043,6 +3063,7 @@
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.0` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.0,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.1` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.1,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.2,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.3,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.0` // `io.micronaut.configuration,micronaut-jmx,1.0.0,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jmx,1.0.0.RC3,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.1` // `io.micronaut.configuration,micronaut-jmx,1.0.1,io.micronaut.configuration.jmx,-,automatic,-,false,-`
@@ -4410,6 +4431,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.1-jre14,jakarta.mail,1.0.10.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.3-jre14,jakarta.mail,1.0.10.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.4-jre14,jakarta.mail,1.0.10.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.11.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.11.0-jre14,jakarta.mail,1.0.11.0-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.11.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.11.2-jre14,jakarta.mail,1.0.11.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.2-jre13,jakarta.mail,1.0.4.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.3-jre13,jakarta.mail,1.0.4.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.4-jre13,jakarta.mail,1.0.4.4-jre13,explicit,java.base,false,-`
@@ -4777,6 +4800,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.13.0` // `com.undefinedlabs.scope,scope-agent,0.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.14.0-beta.1` // `com.undefinedlabs.scope,scope-agent,0.14.0-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.14.0-beta.2` // `com.undefinedlabs.scope,scope-agent,0.14.0-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.14.0-beta.3` // `com.undefinedlabs.scope,scope-agent,0.14.0-beta.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.0` // `com.undefinedlabs.scope,scope-agent,0.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1` // `com.undefinedlabs.scope,scope-agent,0.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4874,6 +4898,7 @@
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.26.0` // `io.aeron,aeron-agent,1.26.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.27.0` // `io.aeron,aeron-agent,1.27.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.0` // `io.aeron,aeron-agent,1.28.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.1` // `io.aeron,aeron-agent,1.28.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -4918,6 +4943,7 @@
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.4.0` // `org.agrona,agrona-agent,1.4.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.4.1` // `org.agrona,agrona-agent,1.4.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.5.0` // `org.agrona,agrona-agent,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.5.1` // `org.agrona,agrona-agent,1.5.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.10.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.11.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.12.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.12.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5189,6 +5215,7 @@
 - :cd: `org.apache.bcel` - `org.checkerframework.annotatedlib:bcel:6.4.1` // `org.checkerframework.annotatedlib,bcel,6.4.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` - `org.checkerframework.annotatedlib:bcel:6.4.1.1` // `org.checkerframework.annotatedlib,bcel,6.4.1.1,org.apache.bcel,-,automatic,-,false,-`
 - :cd: `org.apache.bcel` - `org.checkerframework.annotatedlib:commons-bcel:0.0.1` // `org.checkerframework.annotatedlib,commons-bcel,0.0.1,org.apache.bcel,-,automatic,-,false,-`
+- :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.10:2.21.0` // `org.apache.beam,beam-runners-flink-1.10,2.21.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.17.0` // `org.apache.beam,beam-runners-flink-1.8,2.17.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.18.0` // `org.apache.beam,beam-runners-flink-1.8,2.18.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.19.0` // `org.apache.beam,beam-runners-flink-1.8,2.19.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
@@ -5197,6 +5224,8 @@
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.18.0` // `org.apache.beam,beam-runners-flink-1.9,2.18.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.19.0` // `org.apache.beam,beam-runners-flink-1.9,2.19.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.20.0` // `org.apache.beam,beam-runners-flink-1.9,2.20.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
+- :cd: `org.apache.beam.sdk.expansion.service` - `org.apache.beam:beam-sdks-java-expansion-service:2.21.0` // `org.apache.beam,beam-sdks-java-expansion-service,2.21.0,org.apache.beam.sdk.expansion.service,-,automatic,-,false,-`
+- :cd: `org.apache.beam.sdk.extensions.protobuf` - `org.apache.beam:beam-sdks-java-extensions-ml:2.21.0` // `org.apache.beam,beam-sdks-java-extensions-ml,2.21.0,org.apache.beam.sdk.extensions.protobuf,-,automatic,-,false,-`
 - :dvd: `org.apache.commons.collections4` - `com.guicedee.services:commons-collections4:0.70.0.1` // `com.guicedee.services,commons-collections4,0.70.0.1,org.apache.commons.collections4,0.70.0.1,explicit,java.base + java.xml,false,-`
 - :dvd: `org.apache.commons.collections4` - `com.guicedee.services:commons-collections4:0.70.0.1-rc1` // `com.guicedee.services,commons-collections4,0.70.0.1-rc1,org.apache.commons.collections4,0.70.0.1-rc1,explicit,java.base + java.xml,false,-`
 - :dvd: `org.apache.commons.collections4` - `com.guicedee.services:commons-collections4:0.70.0.1-rc13` // `com.guicedee.services,commons-collections4,0.70.0.1-rc13,org.apache.commons.collections4,0.70.0.1-rc13,explicit,java.base + java.xml,false,-`
@@ -5456,6 +5485,8 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.10.1-jre14` // `com.guicedee.services,log4j-core,1.0.10.1-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.10.3-jre14` // `com.guicedee.services,log4j-core,1.0.10.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.10.4-jre14` // `com.guicedee.services,log4j-core,1.0.10.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.11.0-jre14` // `com.guicedee.services,log4j-core,1.0.11.0-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.11.2-jre14` // `com.guicedee.services,log4j-core,1.0.11.2-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.12-jre14` // `com.guicedee.services,log4j-core,1.0.8.12-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.16-jre14` // `com.guicedee.services,log4j-core,1.0.8.16-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
@@ -5565,6 +5596,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.111` // `io.nosqlbench,driver-cql-shaded,3.12.111,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.113` // `io.nosqlbench,driver-cql-shaded,3.12.113,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.114` // `io.nosqlbench,driver-cql-shaded,3.12.114,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.115` // `io.nosqlbench,driver-cql-shaded,3.12.115,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.116` // `io.nosqlbench,driver-cql-shaded,3.12.116,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -5972,6 +6005,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.220.14` // `com.yahoo.vespa,vespa-hadoop,7.220.14,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.223.70` // `com.yahoo.vespa,vespa-hadoop,7.223.70,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.225.71` // `com.yahoo.vespa,vespa-hadoop,7.225.71,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.226.6` // `com.yahoo.vespa,vespa-hadoop,7.226.6,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6446,8 +6480,10 @@
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.1` // `org.eclipse.milo,bsd-core,0.4.1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.1` // `org.flywaydb.enterprise,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.2` // `org.flywaydb.enterprise,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.3` // `org.flywaydb.enterprise,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` - `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
@@ -7487,6 +7523,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.42.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.42.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.43.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.43.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.44.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.44.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.45.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.45.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
@@ -7991,6 +8028,8 @@
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.1-jre14` // `com.guicedee.services,sl4j,1.0.10.1-jre14,org.slf4j,1.0.10.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.3-jre14` // `com.guicedee.services,sl4j,1.0.10.3-jre14,org.slf4j,1.0.10.3-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.4-jre14` // `com.guicedee.services,sl4j,1.0.10.4-jre14,org.slf4j,1.0.10.4-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.11.0-jre14` // `com.guicedee.services,sl4j,1.0.11.0-jre14,org.slf4j,1.0.11.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.11.2-jre14` // `com.guicedee.services,sl4j,1.0.11.2-jre14,org.slf4j,1.0.11.2-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.11-jre14` // `com.guicedee.services,sl4j,1.0.9.11-jre14,org.slf4j,1.0.9.11-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.13-jre14` // `com.guicedee.services,sl4j,1.0.9.13-jre14,org.slf4j,1.0.9.13-jre14,explicit,java.base,false,-`
@@ -8063,6 +8102,7 @@
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.1` // `org.tinylog,tinylog-api-scala_2.12,2.1.1,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.2` // `org.tinylog,tinylog-api-scala_2.12,2.1.2,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.12.0` // `org.trellisldp,trellis-constraint,0.12.0,org.trellisldp.constraint,-,automatic,-,false,-`
+- :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.12.1` // `org.trellisldp,trellis-constraint,0.12.1,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`

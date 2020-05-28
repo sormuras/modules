@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6830 Java modules published at Maven Central
+Counted 6834 Java modules published at Maven Central
 
-## Summary 2020-05-27T01:29:58.708475Z
+## Summary 2020-05-28T01:30:35.680887Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-27T01:29:58.708475Z
-Scanned 52,416 files in 8 seconds.
+Started scan at 2020-05-28T01:30:35.680887Z
+Scanned 52,505 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_27_01_14_06.csv
+    last -> modulescanner-report-2020_05_28_01_15_51.csv
 
-Parsed 3,528,048 lines in total.
-  56,138 -> captions skipped
-  307,466 -> duplicates skipped
-  168,025 -> module related
+Parsed 3,536,542 lines in total.
+  56,225 -> captions skipped
+  308,380 -> duplicates skipped
+  168,547 -> module related
 
-Collected 6,830 unique modules.
-  automatic :cd: -> 4,874
-  explicit :dvd: -> 1,956
+Collected 6,834 unique modules.
+  automatic :cd: -> 4,877
+  explicit :dvd: -> 1,957
 
 ## Samples
             junit -> junit:junit:4.13
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=6311, explicit=473, plain=121658}` 	 5.58%
+ - `2020_05={automatic=6653, explicit=507, plain=128629}` 	 5.57%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,11 +115,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17197](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23429](suspicious/naming.md)
-- Modular impostors: [8341](suspicious/impostors.md)
+- Invalid module names: [17198](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23534](suspicious/naming.md)
+- Modular impostors: [8381](suspicious/impostors.md)
 
-## Unique Modules (6830)
+## Unique Modules (6834)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -285,33 +285,34 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` - `com.aitusoftware:transport:0.4.0`
-- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.8`
-- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.8`
-- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.8`
-- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.8`
-- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.8`
-- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.8`
-- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.8`
-- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.8`
-- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.8`
-- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.8`
-- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.8`
-- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.8`
-- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.8`
-- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.8`
-- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.8`
-- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.8`
-- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.8`
-- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.8`
-- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.8`
-- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.8`
-- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.8`
-- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.8`
-- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.8`
+- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.9`
+- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.9`
+- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.9`
+- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.9`
+- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.9`
+- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.9`
+- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.9`
+- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.9`
+- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.9`
+- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.9`
+- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.9`
+- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.9`
+- :dvd: `com.almasb.fxgl.logging` - `com.github.almasb:fxgl-logging:11.9`
+- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.9`
+- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.9`
+- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.9`
+- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.9`
+- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.9`
+- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.9`
+- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.9`
+- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.9`
+- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.9`
+- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.9`
+- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.9`
 - :dvd: `com.athaydes.keepup.core` - `com.athaydes.keepup:keepup-core:1.0-RC3`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.2`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.4`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.5`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.5.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.1.2`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.2`
@@ -1027,13 +1028,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.zarbosoft.pidgooncommand` - `com.zarbosoft:pidgoon-command:0.0.8`
 - :dvd: `com.zarbosoft.rendaw.common` - `com.zarbosoft.rendaw:common:1.0.11`
 - :dvd: `com.zaxxer.hikari` - `com.zaxxer:HikariCP:3.4.5`
-- :dvd: `com.zeroc.ice` - `com.zeroc:ice:3.7.3`
-- :dvd: `com.zeroc.icebox` - `com.zeroc:icebox:3.7.3`
-- :dvd: `com.zeroc.icebt` - `com.zeroc:icebt:3.7.3`
-- :dvd: `com.zeroc.icediscovery` - `com.zeroc:icediscovery:3.7.3`
-- :dvd: `com.zeroc.icelocatordiscovery` - `com.zeroc:icelocatordiscovery:3.7.3`
-- :dvd: `com.zeroc.icepatch2` - `com.zeroc:icepatch2:3.7.3`
-- :dvd: `com.zeroc.icessl` - `com.zeroc:icessl:3.7.3`
+- :dvd: `com.zeroc.ice` - `com.zeroc:ice:3.7.4`
+- :dvd: `com.zeroc.icebox` - `com.zeroc:icebox:3.7.4`
+- :dvd: `com.zeroc.icebt` - `com.zeroc:icebt:3.7.4`
+- :dvd: `com.zeroc.icediscovery` - `com.zeroc:icediscovery:3.7.4`
+- :dvd: `com.zeroc.icelocatordiscovery` - `com.zeroc:icelocatordiscovery:3.7.4`
+- :dvd: `com.zeroc.icepatch2` - `com.zeroc:icepatch2:3.7.4`
+- :dvd: `com.zeroc.icessl` - `com.zeroc:icessl:3.7.4`
 - :dvd: `de.dandit.cartogram.core` - `de.dandit:cartogram-core:0.2.0`
 - :dvd: `de.dandit.cartogram.geo` - `de.dandit:cartogram-geo:0.2.0`
 - :dvd: `de.japrost.jabudget.domain` - `de.japrost.jabudget:jabudget-domain:0.0.3`
@@ -1117,7 +1118,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
-- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.2.0`
+- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.3.1`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.78`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
@@ -1318,7 +1319,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.0`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.1`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
