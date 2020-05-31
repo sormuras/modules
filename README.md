@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6947 Java modules published at Maven Central
 
-## Summary 2020-05-30T01:31:08.618134Z
+## Summary 2020-05-31T01:31:09.947831Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-30T01:31:08.618134Z
-Scanned 52,678 files in 6 seconds.
+Started scan at 2020-05-31T01:31:09.947831Z
+Scanned 52,772 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_30_01_21_57.csv
+    last -> modulescanner-report-2020_05_31_01_11_25.csv
 
-Parsed 3,551,782 lines in total.
-  56,398 -> captions skipped
-  309,979 -> duplicates skipped
-  170,414 -> module related
+Parsed 3,554,387 lines in total.
+  56,492 -> captions skipped
+  310,068 -> duplicates skipped
+  170,505 -> module related
 
 Collected 6,947 unique modules.
   automatic :cd: -> 4,974
@@ -52,7 +52,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=7387, explicit=622, plain=140230}` 	 5.71%
+ - `2020_05={automatic=7457, explicit=631, plain=142561}` 	 5.67%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,8 +116,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [17893](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23780](suspicious/naming.md)
-- Modular impostors: [8458](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23791](suspicious/naming.md)
+- Modular impostors: [8459](suspicious/impostors.md)
 
 ## Unique Modules (6947)
 
@@ -237,10 +237,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.6.5`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.6.5`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.6.5`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.6.5`
+- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.7.0`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.7.0`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.7.0`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.7.0`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -1833,11 +1833,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0.1`
 - :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0.1`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.1`
-- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.1`
-- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.1`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:4.0.7`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:2.0.7`
+- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.2`
+- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.2`
+- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.2`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.2`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.2`
 - :dvd: `org.opentest4j` - `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` - `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` - `org.panteleyev:persistence:19.2.0`
