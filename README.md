@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6947 Java modules published at Maven Central
 
-## Summary 2020-05-31T01:31:09.947831Z
+## Summary 2020-06-01T01:31:27.811987Z
 
 ```
 ## Summary
 
-Started scan at 2020-05-31T01:31:09.947831Z
-Scanned 52,772 files in 7 seconds.
+Started scan at 2020-06-01T01:31:27.811987Z
+Scanned 52,864 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_05_31_01_11_25.csv
+    last -> modulescanner-report-2020_06_01_01_10_15.csv
 
-Parsed 3,554,387 lines in total.
-  56,492 -> captions skipped
-  310,068 -> duplicates skipped
-  170,505 -> module related
+Parsed 3,556,165 lines in total.
+  56,584 -> captions skipped
+  310,136 -> duplicates skipped
+  170,572 -> module related
 
 Collected 6,947 unique modules.
   automatic :cd: -> 4,974
@@ -52,7 +52,8 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
- - `2020_05={automatic=7457, explicit=631, plain=142561}` 	 5.67%
+ - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
+ - `2020_06={plain=53}` 	 0.00%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -115,9 +116,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17893](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23791](suspicious/naming.md)
-- Modular impostors: [8459](suspicious/impostors.md)
+- Invalid module names: [17916](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23792](suspicious/naming.md)
+- Modular impostors: [8461](suspicious/impostors.md)
 
 ## Unique Modules (6947)
 
@@ -1020,7 +1021,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
-- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.15`
+- :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.16`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1119,7 +1120,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.3.1`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.78`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.80`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1708,7 +1709,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
-- :dvd: `org.joml` - `org.joml:joml:1.9.24`
+- :dvd: `org.joml` - `org.joml:joml:1.9.25`
 - :dvd: `org.jooq.jool` - `org.jooq:jool:0.9.14`
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
@@ -2077,7 +2078,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.co.caprica.vlcj.subs` - `uk.co.caprica:vlcj-subs:1.0.0`
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
-- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.3`
+- :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.4`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.4.2-V20`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
