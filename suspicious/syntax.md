@@ -7996,8 +7996,10 @@
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:4.3.1` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,4.3.1,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:5.0.0` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,5.0.0,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
 - :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:5.0.1` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,5.0.1,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
+- :cd: `biz.aQute.bnd.embedded-repo` :left_right_arrow: `biz.aQute.bnd:biz.aQute.bnd.embedded-repo:5.1.0` // `biz.aQute.bnd,biz.aQute.bnd.embedded-repo,5.1.0,biz.aQute.bnd.embedded-repo,-,automatic,-,false,-`
 - :cd: `biz.aQute.tester.junit-platform` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester.junit-platform:5.0.0` // `biz.aQute.bnd,biz.aQute.tester.junit-platform,5.0.0,biz.aQute.tester.junit-platform,-,automatic,-,false,-`
 - :cd: `biz.aQute.tester.junit-platform` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester.junit-platform:5.0.1` // `biz.aQute.bnd,biz.aQute.tester.junit-platform,5.0.1,biz.aQute.tester.junit-platform,-,automatic,-,false,-`
+- :cd: `biz.aQute.tester.junit-platform` :left_right_arrow: `biz.aQute.bnd:biz.aQute.tester.junit-platform:5.1.0` // `biz.aQute.bnd,biz.aQute.tester.junit-platform,5.1.0,biz.aQute.tester.junit-platform,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.0.0-RC4` // `org.apereo.cas,cas-mgmt-api-configuration,6.0.0-RC4,cas-mgmt-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.0.1` // `org.apereo.cas,cas-mgmt-api-configuration,6.0.1,cas-mgmt-api-configuration,-,automatic,-,false,-`
 - :cd: `cas-mgmt-api-configuration` :left_right_arrow: `org.apereo.cas:cas-mgmt-api-configuration:6.1.0-RC2` // `org.apereo.cas,cas-mgmt-api-configuration,6.1.0-RC2,cas-mgmt-api-configuration,-,automatic,-,false,-`
@@ -17049,6 +17051,9 @@
 - :cd: `proto-pruner` :left_right_arrow: `com.squareup.wire:proto-pruner:3.0.3` // `com.squareup.wire,proto-pruner,3.0.3,proto-pruner,-,automatic,-,false,-`
 - :cd: `queryman-builder` :left_right_arrow: `org.queryman:queryman-builder:1.0.0` // `org.queryman,queryman-builder,1.0.0,queryman-builder,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard-orient-server` - `ru.vyarus:dropwizard-orient-server:3.0.0` // `ru.vyarus,dropwizard-orient-server,3.0.0,ru.vyarus.dropwizard-orient-server,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.admin-rest` - `ru.vyarus.guicey:guicey-admin-rest:5.1.0-1` // `ru.vyarus.guicey,guicey-admin-rest,5.1.0-1,ru.vyarus.dropwizard.guicey.admin-rest,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.lifecycle-annotations` - `ru.vyarus.guicey:guicey-lifecycle-annotations:5.1.0-1` // `ru.vyarus.guicey,guicey-lifecycle-annotations,5.1.0-1,ru.vyarus.dropwizard.guicey.lifecycle-annotations,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.server-pages` - `ru.vyarus.guicey:guicey-server-pages:5.1.0-1` // `ru.vyarus.guicey,guicey-server-pages,5.1.0-1,ru.vyarus.dropwizard.guicey.server-pages,-,automatic,-,false,-`
 - :cd: `ru.vyarus.guice-validator` - `ru.vyarus:guice-validator:2.0.0` // `ru.vyarus,guice-validator,2.0.0,ru.vyarus.guice-validator,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.81` // `net.serenity-bdd,serenity-ant-task,2.0.81,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.82` // `net.serenity-bdd,serenity-ant-task,2.0.82,serenity-ant-task,-,automatic,-,false,-`
