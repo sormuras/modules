@@ -313,6 +313,8 @@
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.0` // `com.github.priytam,exampleApp,1.0,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1` // `com.github.priytam,exampleApp,1.1,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1-java-8` // `com.github.priytam,exampleApp,1.1-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.2-java-8` // `com.github.priytam,exampleApp,1.2-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.3-java-8` // `com.github.priytam,exampleApp,1.3-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.1` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.1,com.fasterxml.jackson.datatype.jdk8,0.65.0.1,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.2` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.2,com.fasterxml.jackson.datatype.jdk8,0.65.0.2,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jackson.datatype:jackson-datatype-jdk8:0.65.0.3` // `com.jwebmp.jackson.datatype,jackson-datatype-jdk8,0.65.0.3,com.fasterxml.jackson.datatype.jdk8,0.65.0.3,explicit,com.fasterxml.jackson.databind + java.base,false,-`
@@ -2444,6 +2446,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.0` // `com.vladmihalcea,hibernate-types-43,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.1` // `com.vladmihalcea,hibernate-types-43,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.10` // `com.vladmihalcea,hibernate-types-43,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.11` // `com.vladmihalcea,hibernate-types-43,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.2` // `com.vladmihalcea,hibernate-types-43,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2471,6 +2474,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.0` // `com.vladmihalcea,hibernate-types-5,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.1` // `com.vladmihalcea,hibernate-types-5,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.10` // `com.vladmihalcea,hibernate-types-5,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.11` // `com.vladmihalcea,hibernate-types-5,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.2` // `com.vladmihalcea,hibernate-types-5,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2498,6 +2502,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.0` // `com.vladmihalcea,hibernate-types-52,2.9.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.1` // `com.vladmihalcea,hibernate-types-52,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.10` // `com.vladmihalcea,hibernate-types-52,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.11` // `com.vladmihalcea,hibernate-types-52,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.2` // `com.vladmihalcea,hibernate-types-52,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -3020,6 +3025,7 @@
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.2` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.2,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.3` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.3,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.4` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.4,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.hibernate_jpa` - `io.micronaut.configuration:micronaut-hibernate-jpa:2.2.5` // `io.micronaut.configuration,micronaut-hibernate-jpa,2.2.5,io.micronaut.configuration.hibernate_jpa,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.0` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.0,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.0.RC3` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.0.RC3,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.hibernate_validator` - `io.micronaut.configuration:micronaut-hibernate-validator:1.0.1` // `io.micronaut.configuration,micronaut-hibernate-validator,1.0.1,io.micronaut.configuration.hibernate_validator,-,automatic,-,false,-`
@@ -3062,6 +3068,7 @@
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.2,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.3,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.4` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.4,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_dbcp` - `io.micronaut.configuration:micronaut-jdbc-dbcp:2.2.5` // `io.micronaut.configuration,micronaut-jdbc-dbcp,2.2.5,io.micronaut.configuration.jdbc_dbcp,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.0` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.0,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.0.RC3,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:1.0.1` // `io.micronaut.configuration,micronaut-jdbc-hikari,1.0.1,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
@@ -3089,6 +3096,7 @@
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.2,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.3,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.4` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.4,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_hikari` - `io.micronaut.configuration:micronaut-jdbc-hikari:2.2.5` // `io.micronaut.configuration,micronaut-jdbc-hikari,2.2.5,io.micronaut.configuration.jdbc_hikari,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.0` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.0,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.0.RC3,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:1.0.1` // `io.micronaut.configuration,micronaut-jdbc-tomcat,1.0.1,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
@@ -3116,6 +3124,7 @@
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.2` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.2,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.3` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.3,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.4` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.4,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.jdbc_tomcat` - `io.micronaut.configuration:micronaut-jdbc-tomcat:2.2.5` // `io.micronaut.configuration,micronaut-jdbc-tomcat,2.2.5,io.micronaut.configuration.jdbc_tomcat,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.0` // `io.micronaut.configuration,micronaut-jmx,1.0.0,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.0.RC3` // `io.micronaut.configuration,micronaut-jmx,1.0.0.RC3,io.micronaut.configuration.jmx,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.jmx` - `io.micronaut.configuration:micronaut-jmx:1.0.1` // `io.micronaut.configuration,micronaut-jmx,1.0.1,io.micronaut.configuration.jmx,-,automatic,-,false,-`
@@ -3358,6 +3367,7 @@
 - :cd: `io.micronaut.configuration.postgres_reactive` - `io.micronaut.configuration:micronaut-postgres-reactive:1.3.0` // `io.micronaut.configuration,micronaut-postgres-reactive,1.3.0,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.postgres_reactive` - `io.micronaut.configuration:micronaut-postgres-reactive:1.3.0.RC1` // `io.micronaut.configuration,micronaut-postgres-reactive,1.3.0.RC1,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.postgres_reactive` - `io.micronaut.configuration:micronaut-postgres-reactive:1.4.0` // `io.micronaut.configuration,micronaut-postgres-reactive,1.4.0,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.postgres_reactive` - `io.micronaut.configuration:micronaut-postgres-reactive:1.4.1.TEST` // `io.micronaut.configuration,micronaut-postgres-reactive,1.4.1.TEST,io.micronaut.configuration.postgres_reactive,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.rabbitmq` - `io.micronaut.configuration:micronaut-rabbitmq:1.0.0` // `io.micronaut.configuration,micronaut-rabbitmq,1.0.0,io.micronaut.configuration.rabbitmq,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.rabbitmq` - `io.micronaut.configuration:micronaut-rabbitmq:1.0.0.RC3` // `io.micronaut.configuration,micronaut-rabbitmq,1.0.0.RC3,io.micronaut.configuration.rabbitmq,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.rabbitmq` - `io.micronaut.configuration:micronaut-rabbitmq:1.0.1` // `io.micronaut.configuration,micronaut-rabbitmq,1.0.1,io.micronaut.configuration.rabbitmq,-,automatic,-,false,-`
@@ -4576,6 +4586,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.119.0` // `org.finra.herd,herd-access-validator,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.120.0` // `org.finra.herd,herd-access-validator,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.122.0` // `org.finra.herd,herd-access-validator,0.122.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-access-validator:0.123.0` // `org.finra.herd,herd-access-validator,0.123.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.100.0` // `org.finra.herd,herd-downloader,0.100.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.102.0` // `org.finra.herd,herd-downloader,0.102.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.103.0` // `org.finra.herd,herd-downloader,0.103.0,java.json,-,explicit,java.base,false,-`
@@ -4596,6 +4607,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.119.0` // `org.finra.herd,herd-downloader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.120.0` // `org.finra.herd,herd-downloader,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.122.0` // `org.finra.herd,herd-downloader,0.122.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-downloader:0.123.0` // `org.finra.herd,herd-downloader,0.123.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.86.0` // `org.finra.herd,herd-downloader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.87.0` // `org.finra.herd,herd-downloader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-downloader:0.88.0` // `org.finra.herd,herd-downloader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4629,6 +4641,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.119.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.120.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.122.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.122.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.123.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.123.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.86.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.87.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-destroyer:0.88.0` // `org.finra.herd,herd-retention-expiration-destroyer,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4662,6 +4675,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.119.0` // `org.finra.herd,herd-retention-expiration-exporter,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.120.0` // `org.finra.herd,herd-retention-expiration-exporter,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.122.0` // `org.finra.herd,herd-retention-expiration-exporter,0.122.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.123.0` // `org.finra.herd,herd-retention-expiration-exporter,0.123.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.86.0` // `org.finra.herd,herd-retention-expiration-exporter,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.87.0` // `org.finra.herd,herd-retention-expiration-exporter,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-retention-expiration-exporter:0.88.0` // `org.finra.herd,herd-retention-expiration-exporter,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -4695,6 +4709,7 @@
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.119.0` // `org.finra.herd,herd-uploader,0.119.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.120.0` // `org.finra.herd,herd-uploader,0.120.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.122.0` // `org.finra.herd,herd-uploader,0.122.0,java.json,-,explicit,java.base,false,-`
+- :dvd: `java.json` - `org.finra.herd:herd-uploader:0.123.0` // `org.finra.herd,herd-uploader,0.123.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.86.0` // `org.finra.herd,herd-uploader,0.86.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.87.0` // `org.finra.herd,herd-uploader,0.87.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `org.finra.herd:herd-uploader:0.88.0` // `org.finra.herd,herd-uploader,0.88.0,java.json,-,explicit,java.base,false,-`
@@ -6117,6 +6132,7 @@
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.65` // `org.bouncycastle,bcpkix-jdk15to18,1.65,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.0` // `org.keycloak,kcinit,10.0.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.1` // `org.keycloak,kcinit,10.0.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.2` // `org.keycloak,kcinit,10.0.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.testcontainers:testcontainers:1.14.0` // `org.testcontainers,testcontainers,1.14.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:jwt-sample:2.7.0` // `org.wso2.msf4j,jwt-sample,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-fileserver:2.7.0` // `org.wso2.msf4j,petstore-fileserver,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -6214,8 +6230,10 @@
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.1` // `org.eclipse.milo,server-examples,0.4.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.0` // `org.keycloak,keycloak-admin-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.1` // `org.keycloak,keycloak-admin-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.2` // `org.keycloak,keycloak-admin-cli,10.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.0` // `org.keycloak,keycloak-client-registration-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.1` // `org.keycloak,keycloak-client-registration-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.2` // `org.keycloak,keycloak-client-registration-cli,10.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.netbeans.external:bcprov:RELEASE113` // `org.netbeans.external,bcprov,RELEASE113,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -6722,6 +6740,7 @@
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta5` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta5,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta6` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta6,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta7` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta7,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta8` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta8,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Alpha4` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Alpha4,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Alpha5` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Alpha5,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Alpha6` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Alpha6,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
@@ -6735,6 +6754,7 @@
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta5` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta5,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta6` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta6,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta7` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta7,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta8` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta8,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Alpha1` // `org.hibernate.search,hibernate-search-engine,6.0.0.Alpha1,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Alpha2` // `org.hibernate.search,hibernate-search-engine,6.0.0.Alpha2,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Alpha3` // `org.hibernate.search,hibernate-search-engine,6.0.0.Alpha3,org.hibernate.search.engine,-,automatic,-,false,-`
@@ -6751,12 +6771,14 @@
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta5` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta5,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta6` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta6,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta7` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta7,org.hibernate.search.engine,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta8` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta8,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta2` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta2,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta3` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta3,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta4` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta4,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta5` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta5,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta6` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta6,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta7` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta7,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta8` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta8,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.util.internal.common` - `org.hibernate.search:hibernate-search-util-common:6.0.0.Alpha3` // `org.hibernate.search,hibernate-search-util-common,6.0.0.Alpha3,org.hibernate.search.util.internal.common,-,automatic,-,false,-`
 - :dvd: `org.hibernate.validator` - `com.guicedee.services:hibernate-validator:0.70.0.1` // `com.guicedee.services,hibernate-validator,0.70.0.1,org.hibernate.validator,0.70.0.1,explicit,com.fasterxml.classmate + java.base + java.compiler + java.desktop + java.persistence + java.scripting + java.validation + java.xml + javax.el + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.validator` - `com.guicedee.services:hibernate-validator:0.70.0.1-rc1` // `com.guicedee.services,hibernate-validator,0.70.0.1-rc1,org.hibernate.validator,0.70.0.1-rc1,explicit,com.fasterxml.classmate + java.base + java.compiler + java.desktop + java.persistence + java.scripting + java.validation + java.xml + javax.el + org.jboss.logging,false,-`

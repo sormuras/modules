@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 6954 Java modules published at Maven Central
+Counted 6957 Java modules published at Maven Central
 
-## Summary 2020-06-02T01:31:26.301155Z
+## Summary 2020-06-03T01:32:06.171493Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-02T01:31:26.301155Z
-Scanned 52,955 files in 8 seconds.
+Started scan at 2020-06-03T01:32:06.171493Z
+Scanned 53,045 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_02_01_20_33.csv
+    last -> modulescanner-report-2020_06_03_01_18_46.csv
 
-Parsed 3,562,552 lines in total.
-  56,675 -> captions skipped
-  310,841 -> duplicates skipped
-  171,053 -> module related
+Parsed 3,568,846 lines in total.
+  56,765 -> captions skipped
+  311,467 -> duplicates skipped
+  171,429 -> module related
 
-Collected 6,954 unique modules.
+Collected 6,957 unique modules.
   automatic :cd: -> 4,976
-  explicit :dvd: -> 1,978
+  explicit :dvd: -> 1,981
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=278, explicit=124, plain=5163}` 	 7.79%
+ - `2020_06={automatic=578, explicit=130, plain=10365}` 	 6.83%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17921](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23840](suspicious/naming.md)
-- Modular impostors: [8487](suspicious/impostors.md)
+- Invalid module names: [17942](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23867](suspicious/naming.md)
+- Modular impostors: [8509](suspicious/impostors.md)
 
-## Unique Modules (6954)
+## Unique Modules (6957)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1013,8 +1013,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.2`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
-- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.7.0`
-- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.7.0`
+- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.7.1`
+- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.7.1`
 - :dvd: `com.tobiasdiez.easybind` - `com.tobiasdiez:easybind:1.2.2`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
@@ -1378,9 +1378,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
 - :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.1`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.7`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.8`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
+- :dvd: `net.sf.rubycollect4j` - `net.sf.rubycollect4j:rubycollect4j:2.1.0`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.1`
 - :dvd: `net.sourceforge.urin` - `net.sourceforge.urin:urin:3.11`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
@@ -1398,8 +1399,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.tascalate.javaflow.tools.jar` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.jar:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.javaagent` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.javaagent:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.runtime` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.runtime:2.6.1`
+- :dvd: `nl.elec332.lib.bitdecoder` - `nl.elec332.lib:bitdecoder:0.1`
 - :dvd: `nl.elec332.sdr.lib` - `nl.elec332.sdr:sdrlib:0.2-Beta`
 - :dvd: `nl.elec332.sdr.source.hackrf` - `nl.elec332.sdr.source:hackrfdriver:1.0-Beta`
+- :dvd: `nl.elec332.sdr.source.uhd` - `nl.elec332.sdr.source:uhddriver:0.1-Alpha`
 - :dvd: `nl.elec332.util.javarecorder` - `nl.elec332.util:javarecorder:0.1-Alpha`
 - :dvd: `nl.elec332.util.javarecorder.ffmpeg` - `nl.elec332.util:javarecorder-ffmpeg:0.1-Alpha`
 - :dvd: `nl.talsmasoftware.lazy4j` - `nl.talsmasoftware:lazy4j:1.0.1`

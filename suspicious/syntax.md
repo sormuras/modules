@@ -143,6 +143,7 @@
 - :cd: `` - `com.blazebit:blaze-job-checkstyle-rules:1.0.0-Alpha5` // `com.blazebit,blaze-job-checkstyle-rules,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-checkstyle-rules:1.0.0-Alpha6` // `com.blazebit,blaze-job-checkstyle-rules,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-checkstyle-rules:1.0.0-Alpha7` // `com.blazebit,blaze-job-checkstyle-rules,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-checkstyle-rules:1.0.0-Alpha8` // `com.blazebit,blaze-job-checkstyle-rules,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha1` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha2` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha3` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -150,6 +151,7 @@
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha5` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha6` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha7` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-core-api:1.0.0-Alpha8` // `com.blazebit,blaze-job-core-api,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha1` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha2` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha3` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -157,6 +159,7 @@
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha5` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha6` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha7` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-core-impl:1.0.0-Alpha8` // `com.blazebit,blaze-job-core-impl,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha1` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha2` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha3` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -164,8 +167,11 @@
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha5` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha6` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha7` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-documentation:1.0.0-Alpha8` // `com.blazebit,blaze-job-documentation,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-entity-view-model:1.0.0-Alpha7` // `com.blazebit,blaze-job-entity-view-model,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-entity-view-model:1.0.0-Alpha8` // `com.blazebit,blaze-job-entity-view-model,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-entity-view-storage:1.0.0-Alpha7` // `com.blazebit,blaze-job-entity-view-storage,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-entity-view-storage:1.0.0-Alpha8` // `com.blazebit,blaze-job-entity-view-storage,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha1` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha2` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha3` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -173,6 +179,7 @@
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha5` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha6` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha7` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-jpa-model:1.0.0-Alpha8` // `com.blazebit,blaze-job-jpa-model,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha1` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha2` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha3` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -180,6 +187,7 @@
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha5` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha6` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha7` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-jpa-storage:1.0.0-Alpha8` // `com.blazebit,blaze-job-jpa-storage,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha1` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha2` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha3` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -187,6 +195,7 @@
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha5` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha6` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha7` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-memory-model:1.0.0-Alpha8` // `com.blazebit,blaze-job-memory-model,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha1` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha2` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha3` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -194,6 +203,7 @@
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha5` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha6` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha7` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-memory-storage:1.0.0-Alpha8` // `com.blazebit,blaze-job-memory-storage,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha1` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha2` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha3` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -201,6 +211,7 @@
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha5` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha6` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha7` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-processor-hibernate-insert-select:1.0.0-Alpha8` // `com.blazebit,blaze-job-processor-hibernate-insert-select,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha1` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha2` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha3` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -208,6 +219,7 @@
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha5` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha6` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha7` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-processor-memory:1.0.0-Alpha8` // `com.blazebit,blaze-job-processor-memory,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha1` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha2` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha3` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -215,6 +227,7 @@
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha5` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha6` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha7` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-schedule-cron:1.0.0-Alpha8` // `com.blazebit,blaze-job-schedule-cron,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha1` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha2` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha3` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -222,6 +235,7 @@
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha5` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha6` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha7` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-schedule-spring:1.0.0-Alpha8` // `com.blazebit,blaze-job-schedule-spring,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha1` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha2` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha3` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -229,6 +243,7 @@
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha5` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha6` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha7` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-testsuite:1.0.0-Alpha8` // `com.blazebit,blaze-job-testsuite,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha1` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha2` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha3` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -236,6 +251,7 @@
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha5` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha6` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha7` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-transaction-jpa:1.0.0-Alpha8` // `com.blazebit,blaze-job-transaction-jpa,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha1` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha2` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha3` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -243,6 +259,7 @@
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha5` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha6` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha7` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-transaction-jta:1.0.0-Alpha8` // `com.blazebit,blaze-job-transaction-jta,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha1` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha2` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha3` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -250,6 +267,7 @@
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha5` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha6` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha6,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha7` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha7,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-job-transaction-spring:1.0.0-Alpha8` // `com.blazebit,blaze-job-transaction-spring,1.0.0-Alpha8,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-notify-channel-memory:1.0.0-Alpha1` // `com.blazebit,blaze-notify-channel-memory,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-notify-channel-memory:1.0.0-Alpha2` // `com.blazebit,blaze-notify-channel-memory,1.0.0-Alpha2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-notify-channel-memory:1.0.0-Alpha3` // `com.blazebit,blaze-notify-channel-memory,1.0.0-Alpha3,-,-,automatic,-,false,-`
@@ -16074,6 +16092,7 @@
 - :cd: `org.eclipse.jetty.example-async-rest.examples.asyc.rest` - `org.eclipse.jetty.example-async-rest:example-async-rest-jar:9.4.14.v20181114` // `org.eclipse.jetty.example-async-rest,example-async-rest-jar,9.4.14.v20181114,org.eclipse.jetty.example-async-rest.examples.asyc.rest,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.14` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.14,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.18` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.18,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.19` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.19,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:10.0.6` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,10.0.6,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
@@ -16101,6 +16120,7 @@
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:9.0.0.033_Simrel_2019_12` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e,9.0.0.033_Simrel_2019_12,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.14` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.14,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.18` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.18,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.19` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.19,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:10.0.6` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.doc,10.0.6,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc,-,automatic,-,false,-`
@@ -16148,6 +16168,7 @@
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.nls,9.0.0.033_Simrel_2019_12,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.14` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.14,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.18` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.18,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
+- :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.19` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.19,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.2` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.2,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.3` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.3,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
 - :cd: `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui` - `org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:10.0.6` // `org.eclipse.scout.sdk.s2e,org.eclipse.scout.sdk.s2e.ui,10.0.6,org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui,-,automatic,-,false,-`
