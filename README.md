@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 6965 Java modules published at Maven Central
 
-## Summary 2020-06-04T01:32:20.253348Z
+## Summary 2020-06-05T01:32:46.714105Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-04T01:32:20.253348Z
-Scanned 53,127 files in 8 seconds.
+Started scan at 2020-06-05T01:32:46.714105Z
+Scanned 53,210 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_04_01_17_55.csv
+    last -> modulescanner-report-2020_06_05_01_18_57.csv
 
-Parsed 3,576,164 lines in total.
-  56,845 -> captions skipped
-  312,280 -> duplicates skipped
-  171,889 -> module related
+Parsed 3,583,376 lines in total.
+  56,928 -> captions skipped
+  312,803 -> duplicates skipped
+  172,433 -> module related
 
 Collected 6,965 unique modules.
   automatic :cd: -> 4,982
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=888, explicit=247, plain=16330}` 	 6.95%
+ - `2020_06={automatic=1354, explicit=269, plain=22392}` 	 7.25%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,9 +116,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17942](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23883](suspicious/naming.md)
-- Modular impostors: [8526](suspicious/impostors.md)
+- Invalid module names: [17957](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23912](suspicious/naming.md)
+- Modular impostors: [8538](suspicious/impostors.md)
 
 ## Unique Modules (6965)
 
@@ -331,10 +331,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.3`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.6.1`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.1`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.1`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.6.1`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.7.0-beta.1`
 - :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.1`
 - :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.1`
 - :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.1`
@@ -523,7 +523,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.24`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.25`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -713,7 +713,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.zeptoblog.glossary` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.glossary:0.4.0`
 - :dvd: `com.jamesratzlaff.bitmanip` - `com.jamesratzlaff:bit-manip:2019.04.03`
 - :dvd: `com.jamesratzlaff.byteFunctions` - `com.jamesratzlaff:byte-functions:2019.04.01`
-- :dvd: `com.jfoenix` - `com.jfoenix:jfoenix:9.0.9`
+- :dvd: `com.jfoenix` - `com.jfoenix:jfoenix:9.0.10`
 - :dvd: `com.jongsoft.lang` - `com.jongsoft.lang:language:1.0.0`
 - :dvd: `com.jongsoft.lang.collection` - `com.jongsoft.lang:collections:0.0.2`
 - :dvd: `com.jongsoft.lang.common` - `com.jongsoft.lang:commons:0.0.2`
@@ -1075,7 +1075,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.37`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.38`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1368,8 +1368,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.1`
 - :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.22.1`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.10`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.10`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.11`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.11`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jsonb:3.0.0`
@@ -1382,7 +1382,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.8`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
-- :dvd: `net.sf.rubycollect4j` - `net.sf.rubycollect4j:rubycollect4j:2.1.0`
+- :dvd: `net.sf.rubycollect4j` - `net.sf.rubycollect4j:rubycollect4j:2.1.1`
 - :dvd: `net.snaq.jclap` - `net.snaq:jclap:2.1`
 - :dvd: `net.sourceforge.urin` - `net.sourceforge.urin:urin:3.11`
 - :dvd: `net.tascalate.asmx` :left_right_arrow: `net.tascalate:net.tascalate.asmx:7.1.0`
@@ -1723,8 +1723,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.54`
-- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.39`
+- :dvd: `org.jruby.jcodings` - `org.jruby.jcodings:jcodings:1.0.55`
+- :dvd: `org.jruby.joni` - `org.jruby.joni:joni:2.1.40`
 - :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-M1`
 - :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-M1`
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
@@ -1951,18 +1951,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.elx.transport` - `org.xbib:elx-transport:6.3.2.7`
 - :dvd: `org.xbib.guava` - `org.xbib:guava:28.1`
 - :dvd: `org.xbib.guice` - `org.xbib:guice:4.4.2`
-- :dvd: `org.xbib.io.archive` - `org.xbib:io-archive:1.0.0`
-- :dvd: `org.xbib.io.archive.ar` - `org.xbib:io-archive-ar:1.0.0`
-- :dvd: `org.xbib.io.archive.cpio` - `org.xbib:io-archive-cpio:1.0.0`
-- :dvd: `org.xbib.io.archive.dump` - `org.xbib:io-archive-dump:1.0.0`
-- :dvd: `org.xbib.io.archive.jar` - `org.xbib:io-archive-jar:1.0.0`
-- :dvd: `org.xbib.io.archive.tar` - `org.xbib:io-archive-tar:1.0.0`
-- :dvd: `org.xbib.io.archive.zip` - `org.xbib:io-archive-zip:1.0.0`
-- :dvd: `org.xbib.io.codec` - `org.xbib:io-codec:1.0.0`
-- :dvd: `org.xbib.io.compress.bzip` - `org.xbib:io-compress-bzip2:1.0.0`
-- :dvd: `org.xbib.io.compress.lzf` - `org.xbib:io-compress-lzf:1.0.0`
-- :dvd: `org.xbib.io.compress.xz` - `org.xbib:io-compress-xz:1.0.0`
-- :dvd: `org.xbib.io.compress.zlib` - `org.xbib:io-compress-zlib:1.0.0`
+- :dvd: `org.xbib.io.archive` - `org.xbib:io-archive:1.0.1`
+- :dvd: `org.xbib.io.archive.ar` - `org.xbib:io-archive-ar:1.0.1`
+- :dvd: `org.xbib.io.archive.cpio` - `org.xbib:io-archive-cpio:1.0.1`
+- :dvd: `org.xbib.io.archive.dump` - `org.xbib:io-archive-dump:1.0.1`
+- :dvd: `org.xbib.io.archive.jar` - `org.xbib:io-archive-jar:1.0.1`
+- :dvd: `org.xbib.io.archive.tar` - `org.xbib:io-archive-tar:1.0.1`
+- :dvd: `org.xbib.io.archive.zip` - `org.xbib:io-archive-zip:1.0.1`
+- :dvd: `org.xbib.io.codec` - `org.xbib:io-codec:1.0.1`
+- :dvd: `org.xbib.io.compress.bzip` - `org.xbib:io-compress-bzip2:1.0.1`
+- :dvd: `org.xbib.io.compress.lzf` - `org.xbib:io-compress-lzf:1.0.1`
+- :dvd: `org.xbib.io.compress.xz` - `org.xbib:io-compress-xz:1.0.1`
+- :dvd: `org.xbib.io.compress.zlib` - `org.xbib:io-compress-zlib:1.0.1`
 - :dvd: `org.xbib.javax.inject` - `org.xbib:javax-inject:1`
 - :dvd: `org.xbib.marc` - `org.xbib:marc:2.3.0`
 - :dvd: `org.xbib.metrics.api` - `org.xbib:metrics-api:2.1.0`
