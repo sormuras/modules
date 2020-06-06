@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 6965 Java modules published at Maven Central
+Counted 7013 Java modules published at Maven Central
 
-## Summary 2020-06-05T01:32:46.714105Z
+## Summary 2020-06-06T01:33:17.035874Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-05T01:32:46.714105Z
-Scanned 53,210 files in 7 seconds.
+Started scan at 2020-06-06T01:33:17.035874Z
+Scanned 53,296 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_05_01_18_57.csv
+    last -> modulescanner-report-2020_06_06_01_14_53.csv
 
-Parsed 3,583,376 lines in total.
-  56,928 -> captions skipped
-  312,803 -> duplicates skipped
-  172,433 -> module related
+Parsed 3,588,742 lines in total.
+  57,014 -> captions skipped
+  313,252 -> duplicates skipped
+  172,795 -> module related
 
-Collected 6,965 unique modules.
-  automatic :cd: -> 4,982
+Collected 7,013 unique modules.
+  automatic :cd: -> 5,030
   explicit :dvd: -> 1,983
 
 ## Samples
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=1354, explicit=269, plain=22392}` 	 7.25%
+ - `2020_06={automatic=1679, explicit=276, plain=26861}` 	 7.28%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17957](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23912](suspicious/naming.md)
-- Modular impostors: [8538](suspicious/impostors.md)
+- Invalid module names: [17958](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23936](suspicious/naming.md)
+- Modular impostors: [8543](suspicious/impostors.md)
 
-## Unique Modules (6965)
+## Unique Modules (7013)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -199,7 +199,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.6`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.3`
+- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.4`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.0`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.3`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
@@ -1065,7 +1065,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
 - :dvd: `de.sormuras.mainrunner.engine` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.engine:2.1.5`
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` - `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
-- :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.1.0`
+- :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.2.0`
 - :dvd: `dk.tbsalling.ais.messages` - `dk.tbsalling:aismessages:3.1.0`
 - :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.1`
 - :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.2.1`
@@ -1121,7 +1121,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.3.1`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.80`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.83`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1967,8 +1967,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.marc` - `org.xbib:marc:2.3.0`
 - :dvd: `org.xbib.metrics.api` - `org.xbib:metrics-api:2.1.0`
 - :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
-- :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.0.4`
-- :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.0.4`
+- :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.1.0`
+- :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.1.0`
 - :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.49.1`
 - :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.49.1`
 - :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.49.1`

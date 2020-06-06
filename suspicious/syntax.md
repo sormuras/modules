@@ -15043,6 +15043,7 @@
 - :cd: `com.imsweb.staging.eod.public` - `com.imsweb:staging-algorithm-eod-public:1.7.2` // `com.imsweb,staging-algorithm-eod-public,1.7.2,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` - `com.imsweb:staging-algorithm-eod-public:1.7.3` // `com.imsweb,staging-algorithm-eod-public,1.7.3,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.imsweb.staging.eod.public` - `com.imsweb:staging-algorithm-eod-public:1.7.4` // `com.imsweb,staging-algorithm-eod-public,1.7.4,com.imsweb.staging.eod.public,-,automatic,-,false,-`
+- :cd: `com.imsweb.staging.eod.public` - `com.imsweb:staging-algorithm-eod-public:2.0` // `com.imsweb,staging-algorithm-eod-public,2.0,com.imsweb.staging.eod.public,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` - `com.blackducksoftware.integration:blackduck-common:42.1.0` // `com.blackducksoftware.integration,blackduck-common,42.1.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` - `com.blackducksoftware.integration:blackduck-common:42.2.0` // `com.blackducksoftware.integration,blackduck-common,42.2.0,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.blackduck-common` - `com.blackducksoftware.integration:blackduck-common:42.2.1` // `com.blackducksoftware.integration,blackduck-common,42.2.1,com.synopsys.integration.blackduck-common,-,automatic,-,false,-`
