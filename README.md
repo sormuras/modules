@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7013 Java modules published at Maven Central
+Counted 7016 Java modules published at Maven Central
 
-## Summary 2020-06-06T01:33:17.035874Z
+## Summary 2020-06-07T01:34:05.094721Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-06T01:33:17.035874Z
-Scanned 53,296 files in 7 seconds.
+Started scan at 2020-06-07T01:34:05.094721Z
+Scanned 53,389 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_06_01_14_53.csv
+    last -> modulescanner-report-2020_06_07_01_16_18.csv
 
-Parsed 3,588,742 lines in total.
-  57,014 -> captions skipped
-  313,252 -> duplicates skipped
-  172,795 -> module related
+Parsed 3,590,869 lines in total.
+  57,107 -> captions skipped
+  313,354 -> duplicates skipped
+  172,878 -> module related
 
-Collected 7,013 unique modules.
-  automatic :cd: -> 5,030
-  explicit :dvd: -> 1,983
+Collected 7,016 unique modules.
+  automatic :cd: -> 5,029
+  explicit :dvd: -> 1,987
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=1679, explicit=276, plain=26861}` 	 7.28%
+ - `2020_06={automatic=1697, explicit=326, plain=28710}` 	 7.05%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17958](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23936](suspicious/naming.md)
-- Modular impostors: [8543](suspicious/impostors.md)
+- Invalid module names: [17966](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23937](suspicious/naming.md)
+- Modular impostors: [8549](suspicious/impostors.md)
 
-## Unique Modules (7013)
+## Unique Modules (7016)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1118,7 +1118,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0-RC2`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.3.1`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.83`
@@ -1629,49 +1629,52 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.7`
 - :dvd: `org.drombler.iso9660fs` - `org.drombler.iso9660fs:drombler-iso9660fs:0.4`
 - :dvd: `org.dyn4j` - `org.dyn4j:dyn4j:3.4.0`
-- :dvd: `org.eclipse.jetty.alpn.client` - `org.eclipse.jetty:jetty-alpn-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.alpn.conscrypt.client` - `org.eclipse.jetty:jetty-alpn-conscrypt-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.alpn.conscrypt.server` - `org.eclipse.jetty:jetty-alpn-conscrypt-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.alpn.java.client` - `org.eclipse.jetty:jetty-alpn-java-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.alpn.java.server` - `org.eclipse.jetty:jetty-alpn-java-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.alpn.server` - `org.eclipse.jetty:jetty-alpn-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.annotations` - `org.eclipse.jetty:jetty-annotations:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.apache.jsp` - `org.eclipse.jetty:apache-jsp:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.client` - `org.eclipse.jetty:jetty-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.deploy` - `org.eclipse.jetty:jetty-deploy:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.fcgi.client` - `org.eclipse.jetty.fcgi:fcgi-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.fcgi.server` - `org.eclipse.jetty.fcgi:fcgi-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http` - `org.eclipse.jetty:jetty-http:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http2.client` - `org.eclipse.jetty.http2:http2-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http2.common` - `org.eclipse.jetty.http2:http2-common:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http2.hpack` - `org.eclipse.jetty.http2:http2-hpack:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http2.http.client.transport` - `org.eclipse.jetty.http2:http2-http-client-transport:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.http2.server` - `org.eclipse.jetty.http2:http2-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.io` - `org.eclipse.jetty:jetty-io:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.jaas` - `org.eclipse.jetty:jetty-jaas:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.jmx` - `org.eclipse.jetty:jetty-jmx:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.jndi` - `org.eclipse.jetty:jetty-jndi:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.logging` - `org.eclipse.jetty:jetty-slf4j-impl:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.plus` - `org.eclipse.jetty:jetty-plus:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.proxy` - `org.eclipse.jetty:jetty-proxy:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.quickstart` - `org.eclipse.jetty:jetty-quickstart:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.rewrite` - `org.eclipse.jetty:jetty-rewrite:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.security` - `org.eclipse.jetty:jetty-security:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.security.jaspi` - `org.eclipse.jetty:jetty-jaspi:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.server` - `org.eclipse.jetty:jetty-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.servlet` - `org.eclipse.jetty:jetty-servlet:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.servlets` - `org.eclipse.jetty:jetty-servlets:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.spring` - `org.eclipse.jetty:jetty-spring:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.unixsocket.client` - `org.eclipse.jetty:jetty-unixsocket-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.unixsocket.common` - `org.eclipse.jetty:jetty-unixsocket-common:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.unixsocket.server` - `org.eclipse.jetty:jetty-unixsocket-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.util` - `org.eclipse.jetty:jetty-util:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.util.ajax` - `org.eclipse.jetty:jetty-util-ajax:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.webapp` - `org.eclipse.jetty:jetty-webapp:10.0.0.beta0`
+- :dvd: `org.eclipse.jetty.alpn.client` - `org.eclipse.jetty:jetty-alpn-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.conscrypt.client` - `org.eclipse.jetty:jetty-alpn-conscrypt-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.conscrypt.server` - `org.eclipse.jetty:jetty-alpn-conscrypt-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.java.client` - `org.eclipse.jetty:jetty-alpn-java-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.java.server` - `org.eclipse.jetty:jetty-alpn-java-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.alpn.server` - `org.eclipse.jetty:jetty-alpn-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.annotations` - `org.eclipse.jetty:jetty-annotations:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.apache.jsp` - `org.eclipse.jetty:apache-jsp:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.client` - `org.eclipse.jetty:jetty-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.deploy` - `org.eclipse.jetty:jetty-deploy:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.fcgi.client` - `org.eclipse.jetty.fcgi:fcgi-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.fcgi.server` - `org.eclipse.jetty.fcgi:fcgi-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http` - `org.eclipse.jetty:jetty-http:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http2.client` - `org.eclipse.jetty.http2:http2-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http2.common` - `org.eclipse.jetty.http2:http2-common:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http2.hpack` - `org.eclipse.jetty.http2:http2-hpack:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http2.http.client.transport` - `org.eclipse.jetty.http2:http2-http-client-transport:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.http2.server` - `org.eclipse.jetty.http2:http2-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.io` - `org.eclipse.jetty:jetty-io:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.jaas` - `org.eclipse.jetty:jetty-jaas:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.jmx` - `org.eclipse.jetty:jetty-jmx:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.jndi` - `org.eclipse.jetty:jetty-jndi:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.logging` - `org.eclipse.jetty:jetty-slf4j-impl:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.plus` - `org.eclipse.jetty:jetty-plus:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.proxy` - `org.eclipse.jetty:jetty-proxy:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.quickstart` - `org.eclipse.jetty:jetty-quickstart:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.rewrite` - `org.eclipse.jetty:jetty-rewrite:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.security` - `org.eclipse.jetty:jetty-security:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.security.jaspi` - `org.eclipse.jetty:jetty-jaspi:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.server` - `org.eclipse.jetty:jetty-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.servlet` - `org.eclipse.jetty:jetty-servlet:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.servlets` - `org.eclipse.jetty:jetty-servlets:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.spring` - `org.eclipse.jetty:jetty-spring:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.unixsocket.client` - `org.eclipse.jetty:jetty-unixsocket-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.unixsocket.common` - `org.eclipse.jetty:jetty-unixsocket-common:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.unixsocket.server` - `org.eclipse.jetty:jetty-unixsocket-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.util` - `org.eclipse.jetty:jetty-util:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.util.ajax` - `org.eclipse.jetty:jetty-util-ajax:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.webapp` - `org.eclipse.jetty:jetty-webapp:11.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.websocket.core` - `org.eclipse.jetty.websocket:websocket-core:10.0.0.alpha2`
-- :dvd: `org.eclipse.jetty.websocket.core.client` - `org.eclipse.jetty.websocket:websocket-core-client:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.websocket.core.common` - `org.eclipse.jetty.websocket:websocket-core-common:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.websocket.core.server` - `org.eclipse.jetty.websocket:websocket-core-server:10.0.0.beta0`
+- :dvd: `org.eclipse.jetty.websocket.core.client` - `org.eclipse.jetty.websocket:websocket-core-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.core.common` - `org.eclipse.jetty.websocket:websocket-core-common:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.core.server` - `org.eclipse.jetty.websocket:websocket-core-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.jakarta.client` - `org.eclipse.jetty.websocket:websocket-jakarta-client:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.jakarta.common` - `org.eclipse.jetty.websocket:websocket-jakarta-common:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.jakarta.server` - `org.eclipse.jetty.websocket:websocket-jakarta-server:11.0.0-alpha0`
 - :dvd: `org.eclipse.jetty.websocket.javax.client` - `org.eclipse.jetty.websocket:javax-websocket-client:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.websocket.javax.common` - `org.eclipse.jetty.websocket:javax-websocket-common:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.websocket.javax.server` - `org.eclipse.jetty.websocket:javax-websocket-server:10.0.0.alpha1`
@@ -1680,9 +1683,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.eclipse.jetty.websocket.jetty.common` - `org.eclipse.jetty.websocket:jetty-websocket-common:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.websocket.jetty.server` - `org.eclipse.jetty.websocket:jetty-websocket-server:10.0.0.alpha1`
 - :dvd: `org.eclipse.jetty.websocket.servlet` - `org.eclipse.jetty.websocket:websocket-servlet:10.0.0.alpha2`
-- :dvd: `org.eclipse.jetty.websocket.util` - `org.eclipse.jetty.websocket:websocket-util:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.websocket.util.server` - `org.eclipse.jetty.websocket:websocket-util-server:10.0.0.beta0`
-- :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:10.0.0.beta0`
+- :dvd: `org.eclipse.jetty.websocket.util` - `org.eclipse.jetty.websocket:websocket-util:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.websocket.util.server` - `org.eclipse.jetty.websocket:websocket-util-server:11.0.0-alpha0`
+- :dvd: `org.eclipse.jetty.xml` - `org.eclipse.jetty:jetty-xml:11.0.0-alpha0`
 - :dvd: `org.eclipse.yasson` - `org.eclipse:yasson:2.0.0-M1`
 - :dvd: `org.fernice.reflare.ten` - `org.fernice:fernice-reflare-access-jdk-10:1.0.28`
 - :dvd: `org.fissore.jrecordbind` - `org.fissore.jrecordbind:jrecordbind:3.2.0`
@@ -1881,6 +1884,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-6`
+- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.0`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
