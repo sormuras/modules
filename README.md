@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7016 Java modules published at Maven Central
 
-## Summary 2020-06-07T01:34:05.094721Z
+## Summary 2020-06-08T01:34:50.840090Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-07T01:34:05.094721Z
-Scanned 53,389 files in 6 seconds.
+Started scan at 2020-06-08T01:34:50.840090Z
+Scanned 53,481 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_07_01_16_18.csv
+    last -> modulescanner-report-2020_06_08_01_20_53.csv
 
-Parsed 3,590,869 lines in total.
-  57,107 -> captions skipped
-  313,354 -> duplicates skipped
-  172,878 -> module related
+Parsed 3,593,195 lines in total.
+  57,199 -> captions skipped
+  313,568 -> duplicates skipped
+  172,951 -> module related
 
 Collected 7,016 unique modules.
   automatic :cd: -> 5,029
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=1697, explicit=326, plain=28710}` 	 7.05%
+ - `2020_06={automatic=1733, explicit=328, plain=30657}` 	 6.72%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,9 +116,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [17966](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23937](suspicious/naming.md)
-- Modular impostors: [8549](suspicious/impostors.md)
+- Invalid module names: [17967](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [23956](suspicious/naming.md)
+- Modular impostors: [8564](suspicious/impostors.md)
 
 ## Unique Modules (7016)
 
@@ -533,7 +533,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.googlecode.blaisemath.graphtheory.ui` - `com.googlecode.blaisemath:blaise-graph-theory-ui:4.0.4`
 - :dvd: `com.googlecode.blaisemath.json` - `com.googlecode.blaisemath:blaise-json:1.0.10`
 - :dvd: `com.googlecode.blaisemath.svg` - `com.googlecode.blaisemath:blaise-svg:1.0.1`
-- :dvd: `com.googlecode.lanterna` - `com.googlecode.lanterna:lanterna:3.1.0-beta1`
+- :dvd: `com.googlecode.lanterna` - `com.googlecode.lanterna:lanterna:3.1.0-beta2`
 - :dvd: `com.guicedee.guicedinjection` - `com.guicedee:guiced-injection:62`
 - :dvd: `com.guicedee.guicedservlets.undertow` - `com.guicedee:guiced-undertow:62`
 - :dvd: `com.guicedee.logmaster` - `com.guicedee:guiced-log-master:62`
@@ -1884,7 +1884,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-6`
-- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.0`
+- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.1`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
