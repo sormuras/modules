@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7020 Java modules published at Maven Central
+Counted 7028 Java modules published at Maven Central
 
-## Summary 2020-06-09T01:35:50.230009Z
+## Summary 2020-06-10T01:35:40.041818Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-09T01:35:50.230009Z
-Scanned 53,563 files in 7 seconds.
+Started scan at 2020-06-10T01:35:40.041818Z
+Scanned 53,642 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_09_01_21_20.csv
+    last -> modulescanner-report-2020_06_10_01_11_59.csv
 
-Parsed 3,599,056 lines in total.
-  57,281 -> captions skipped
-  314,055 -> duplicates skipped
-  173,517 -> module related
+Parsed 3,607,149 lines in total.
+  57,360 -> captions skipped
+  314,844 -> duplicates skipped
+  173,992 -> module related
 
-Collected 7,020 unique modules.
-  automatic :cd: -> 5,033
+Collected 7,028 unique modules.
+  automatic :cd: -> 5,041
   explicit :dvd: -> 1,987
 
 ## Samples
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=2098, explicit=369, plain=35383}` 	 6.97%
+ - `2020_06={automatic=2471, explicit=399, plain=42133}` 	 6.81%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18002](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24033](suspicious/naming.md)
-- Modular impostors: [8612](suspicious/impostors.md)
+- Invalid module names: [18014](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24080](suspicious/naming.md)
+- Modular impostors: [8625](suspicious/impostors.md)
 
-## Unique Modules (7020)
+## Unique Modules (7028)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -327,9 +327,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.4`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0`
-- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.2`
+- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
-- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.3`
+- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.1`
@@ -425,10 +425,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.35`
-- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.35`
-- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.35`
-- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.35`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.36`
+- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.36`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.36`
+- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.36`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -482,8 +482,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robtimus.obfuscation.annotations` - `com.github.robtimus:obfuscation-annotations:1.0.1`
 - :dvd: `com.github.robtimus.obfuscation.jackson.databind` - `com.github.robtimus:obfuscation-jackson-databind:1.0.1`
 - :dvd: `com.github.ruediste.polymorphicGson` - `com.github.ruediste:polymorphic-gson:0.1`
-- :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.7.2`
-- :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.7.2`
+- :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.8.0`
+- :dvd: `com.github.rvesse.airline.io` - `com.github.rvesse:airline-io:2.8.0`
 - :dvd: `com.github.skjolber.aotc.agent` - `com.github.skjolber.aotc:agent:1.0.0`
 - :dvd: `com.github.themrmilchmann.kopt` - `com.github.themrmilchmann.kopt:kopt:0.4.0`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-events:2.0.1`
@@ -720,7 +720,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.jongsoft.lang.fasterxml` - `com.jongsoft.lang:language-fasterxml:0.0.7`
 - :dvd: `com.jongsoft.lang.functional` - `com.jongsoft.lang:functional:0.0.2`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors.socket:com.jtconnors.socket:11.0.1`
-- :dvd: `com.justifiedsolutions.justpdf` - `com.justifiedsolutions:justPDF:1.0.1`
+- :dvd: `com.justifiedsolutions.justpdf` - `com.justifiedsolutions:justPDF:1.1.0`
 - :dvd: `com.justifiedsolutions.openpdf` - `com.justifiedsolutions:openpdf:1.1.2`
 - :dvd: `com.jwebmp.components.bootstrap.themes.sbadmin2` - `com.jwebmp:jwebmp-sb2-admin-theme:0.66.0.1`
 - :dvd: `com.jwebmp.core` - `com.jwebmp:jwebmp-core:0.66.0.1`
@@ -1121,7 +1121,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.83`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.84`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
@@ -1618,15 +1618,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
-- :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.7`
-- :dvd: `org.docx4j.JAXB_ReferenceImpl` - `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.7`
-- :dvd: `org.docx4j.core` - `org.docx4j:docx4j-core:11.1.7`
-- :dvd: `org.docx4j.docx4j_diffx` - `org.docx4j:docx4j-diffx:11.1.7`
-- :dvd: `org.docx4j.docx_anon` - `org.docx4j:docx4j-docx-anon:11.1.7`
-- :dvd: `org.docx4j.export_fo` - `org.docx4j:docx4j-export-fo:11.1.7`
-- :dvd: `org.docx4j.openxml_objects` - `org.docx4j:docx4j-openxml-objects:11.1.7`
-- :dvd: `org.docx4j.openxml_objects_pml` - `org.docx4j:docx4j-openxml-objects-pml:11.1.7`
-- :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.7`
+- :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.8`
+- :dvd: `org.docx4j.JAXB_ReferenceImpl` - `org.docx4j:docx4j-JAXB-ReferenceImpl:11.1.8`
+- :dvd: `org.docx4j.core` - `org.docx4j:docx4j-core:11.1.8`
+- :dvd: `org.docx4j.docx4j_diffx` - `org.docx4j:docx4j-diffx:11.1.8`
+- :dvd: `org.docx4j.docx_anon` - `org.docx4j:docx4j-docx-anon:11.1.8`
+- :dvd: `org.docx4j.export_fo` - `org.docx4j:docx4j-export-fo:11.1.8`
+- :dvd: `org.docx4j.openxml_objects` - `org.docx4j:docx4j-openxml-objects:11.1.8`
+- :dvd: `org.docx4j.openxml_objects_pml` - `org.docx4j:docx4j-openxml-objects-pml:11.1.8`
+- :dvd: `org.docx4j.openxml_objects_sml` - `org.docx4j:docx4j-openxml-objects-sml:11.1.8`
 - :dvd: `org.drombler.iso9660fs` - `org.drombler.iso9660fs:drombler-iso9660fs:0.4`
 - :dvd: `org.dyn4j` - `org.dyn4j:dyn4j:3.4.0`
 - :dvd: `org.eclipse.jetty.alpn.client` - `org.eclipse.jetty:jetty-alpn-client:11.0.0-alpha0`
@@ -1830,12 +1830,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.meeuw.i18n.regions` - `org.meeuw.i18n:i18n-regions:1.0.0`
 - :dvd: `org.meeuw.i18n.subdivisions` - `org.meeuw.i18n:i18n-regions-subdivisions:1.0.0`
 - :dvd: `org.mycore.mets.model` - `org.mycore.mets:mets-model:2.0`
-- :dvd: `org.mycore.oai.pmh` - `org.mycore:oaipmh:2.0`
-- :dvd: `org.mycore.oai.pmh.dataprovider` - `org.mycore:oaipmh-dataprovider:2.0`
-- :dvd: `org.mycore.oai.pmh.dataprovider.impl` - `org.mycore:oaipmh-dataprovider-impl:2.0`
-- :dvd: `org.mycore.oai.pmh.harvester` - `org.mycore:oaipmh-harvester:2.0`
-- :dvd: `org.mycore.oai.pmh.harvester.impl` - `org.mycore:oaipmh-harvester-impl:2.0`
-- :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.0`
+- :dvd: `org.mycore.oai.pmh` - `org.mycore:oaipmh:2.1`
+- :dvd: `org.mycore.oai.pmh.dataprovider` - `org.mycore:oaipmh-dataprovider:2.1`
+- :dvd: `org.mycore.oai.pmh.dataprovider.impl` - `org.mycore:oaipmh-dataprovider-impl:2.1`
+- :dvd: `org.mycore.oai.pmh.harvester` - `org.mycore:oaipmh-harvester:2.1`
+- :dvd: `org.mycore.oai.pmh.harvester.impl` - `org.mycore:oaipmh-harvester-impl:2.1`
+- :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.1`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` - `org.myire:thrice:3.1`
 - :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0.1`
@@ -1846,11 +1846,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0.1`
 - :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0.1`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.2`
-- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.2`
-- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.2`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.2`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.2`
+- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.3`
+- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.3`
+- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.3`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.3`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.3`
 - :dvd: `org.opentest4j` - `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` - `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` - `org.panteleyev:persistence:19.2.0`
