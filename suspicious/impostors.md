@@ -569,39 +569,51 @@
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve:ph-bdve-cii:5.3.0` // `com.helger.bdve,ph-bdve-cii,5.3.0,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve:ph-bdve-cii:5.3.1` // `com.helger.bdve,ph-bdve-cii,5.3.1,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.0,com.helger.bdve.cii,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.1,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve:ph-bdve-ebinterface:5.3.0` // `com.helger.bdve,ph-bdve-ebinterface,5.3.0,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve:ph-bdve-ebinterface:5.3.1` // `com.helger.bdve,ph-bdve-ebinterface,5.3.1,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.0,com.helger.bdve.ebinterface,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.1,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve:ph-bdve-ehf:5.3.0` // `com.helger.bdve,ph-bdve-ehf,5.3.0,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve:ph-bdve-ehf:5.3.1` // `com.helger.bdve,ph-bdve-ehf,5.3.1,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.0,com.helger.bdve.ehf,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.1,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve:ph-bdve-en16931:5.3.0` // `com.helger.bdve,ph-bdve-en16931,5.3.0,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve:ph-bdve-en16931:5.3.1` // `com.helger.bdve,ph-bdve-en16931,5.3.1,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.0,com.helger.bdve.en16931,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.1,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve:ph-bdve-energieefactuur:5.3.0` // `com.helger.bdve,ph-bdve-energieefactuur,5.3.0,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve:ph-bdve-energieefactuur:5.3.1` // `com.helger.bdve,ph-bdve-energieefactuur,5.3.1,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.0,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.1,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve:ph-bdve-oioubl:5.3.0` // `com.helger.bdve,ph-bdve-oioubl,5.3.0,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve:ph-bdve-oioubl:5.3.1` // `com.helger.bdve,ph-bdve-oioubl,5.3.1,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.0,com.helger.bdve.oioubl,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.1,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve:ph-bdve-peppol:5.3.0` // `com.helger.bdve,ph-bdve-peppol,5.3.0,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve:ph-bdve-peppol:5.3.1` // `com.helger.bdve,ph-bdve-peppol,5.3.1,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.0,com.helger.bdve.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.1,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve:ph-bdve-simplerinvoicing:5.3.0` // `com.helger.bdve,ph-bdve-simplerinvoicing,5.3.0,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve:ph-bdve-simplerinvoicing:5.3.1` // `com.helger.bdve,ph-bdve-simplerinvoicing,5.3.1,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.0,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.1,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve:ph-bdve-teapps:5.3.0` // `com.helger.bdve,ph-bdve-teapps,5.3.0,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve:ph-bdve-teapps:5.3.1` // `com.helger.bdve,ph-bdve-teapps,5.3.1,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.0,com.helger.bdve.teapps,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.1,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve:ph-bdve-ubl:5.3.0` // `com.helger.bdve,ph-bdve-ubl,5.3.0,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve:ph-bdve-ubl:5.3.1` // `com.helger.bdve,ph-bdve-ubl,5.3.1,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.0,com.helger.bdve.ubl,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.1,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve:ph-bdve-ublbe:5.3.0` // `com.helger.bdve,ph-bdve-ublbe,5.3.0,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve:ph-bdve-ublbe:5.3.1` // `com.helger.bdve,ph-bdve-ublbe,5.3.1,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.0,com.helger.bdve.ublbe,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.1,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve:ph-bdve-xrechnung:5.3.0` // `com.helger.bdve,ph-bdve-xrechnung,5.3.0,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve:ph-bdve-xrechnung:5.3.1` // `com.helger.bdve,ph-bdve-xrechnung,5.3.1,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.0,com.helger.bdve.xrechnung,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.1` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.1,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.cii.d16a1` - `com.helger.cii:ph-cii-d16a-1:2.2.0` // `com.helger.cii,ph-cii-d16a-1,2.2.0,com.helger.cii.d16a1,-,automatic,-,false,-`
 - :cd: `com.helger.cii.d16b` - `com.helger.cii:ph-cii-d16b:2.2.0` // `com.helger.cii,ph-cii-d16b,2.2.0,com.helger.cii.d16b,-,automatic,-,false,-`
 - :cd: `com.helger.cii.testfiles` - `com.helger.cii:ph-cii-testfiles:2.2.0` // `com.helger.cii,ph-cii-testfiles,2.2.0,com.helger.cii.testfiles,-,automatic,-,false,-`
@@ -2392,6 +2404,7 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.14` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.15` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.18` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -2408,12 +2421,14 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.14` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.15` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.18` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.10` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.10,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.11` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.11,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.13` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.13,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.14` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.14,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.15` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.15,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.18` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -2754,6 +2769,7 @@
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.0-RC4` // `org.restheart,restheart,5.0.0-RC4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.0.1` // `org.restheart,restheart,5.0.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.0` // `org.restheart,restheart,5.1.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.1` // `org.restheart,restheart,5.1.1,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.0` // `io.github.factoryfx,microserviceRestResource,2.1.0,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.1` // `io.github.factoryfx,microserviceRestResource,2.1.1,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.2` // `io.github.factoryfx,microserviceRestResource,2.1.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -4327,6 +4343,7 @@
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.3.3` // `io.micronaut,micronaut-spring,1.3.3,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:2.0.0.M1` // `io.micronaut,micronaut-spring,2.0.0.M1,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC1` // `io.micronaut.spring,micronaut-spring,2.1.0.RC1,io.micronaut.spring.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC2` // `io.micronaut.spring,micronaut-spring,2.1.0.RC2,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0` // `io.micronaut.test,micronaut-test-core,1.0.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC1` // `io.micronaut.test,micronaut-test-core,1.0.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC2` // `io.micronaut.test,micronaut-test-core,1.0.0.RC2,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -6195,6 +6212,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.228.15` // `com.yahoo.vespa,vespa-hadoop,7.228.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.229.35` // `com.yahoo.vespa,vespa-hadoop,7.229.35,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.232.23` // `com.yahoo.vespa,vespa-hadoop,7.232.23,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.233.7` // `com.yahoo.vespa,vespa-hadoop,7.233.7,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6694,9 +6712,11 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.1` // `org.flywaydb.enterprise,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.2` // `org.flywaydb.enterprise,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.3` // `org.flywaydb.enterprise,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.4` // `org.flywaydb.enterprise,flyway-core,6.4.4,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.4` // `org.flywaydb.pro,flyway-core,6.4.4,org.flywaydb.core,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` - `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
@@ -7222,17 +7242,29 @@
 - :cd: `org.mybatis.spring` - `com.pig4cloud:mybatis-spring:0.0.2` // `com.pig4cloud,mybatis-spring,0.0.2,org.mybatis.spring,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring.boot.autoconfigure` - `com.pig4cloud.spring.boot:mybatis-spring-boot-autoconfigure:0.1.1` // `com.pig4cloud.spring.boot,mybatis-spring-boot-autoconfigure,0.1.1,org.mybatis.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring.boot.starter` - `com.pig4cloud.spring.boot:mybatis-spring-boot-starter:0.1.1` // `com.pig4cloud.spring.boot,mybatis-spring-boot-starter,0.1.1,org.mybatis.spring.boot.starter,-,automatic,-,false,-`
+- :cd: `org.neo4j.annotation_processors` - `org.graphfoundation.ongdb:ongdb-annotation-processors:3.6.0` // `org.graphfoundation.ongdb,ongdb-annotation-processors,3.6.0,org.neo4j.annotation_processors,-,automatic,-,false,-`
 - :cd: `org.neo4j.annotation_processors` - `org.graphfoundation.ongdb:ongdb-annotation-processors:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-annotation-processors,3.6.0.M2,org.neo4j.annotation_processors,-,automatic,-,false,-`
+- :cd: `org.neo4j.backup` - `org.graphfoundation.ongdb:ongdb-backup:3.6.0` // `org.graphfoundation.ongdb,ongdb-backup,3.6.0,org.neo4j.backup,-,automatic,-,false,-`
 - :cd: `org.neo4j.backup` - `org.graphfoundation.ongdb:ongdb-backup:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-backup,3.6.0.M2,org.neo4j.backup,-,automatic,-,false,-`
+- :cd: `org.neo4j.bolt` - `org.graphfoundation.ongdb:ongdb-bolt:3.6.0` // `org.graphfoundation.ongdb,ongdb-bolt,3.6.0,org.neo4j.bolt,-,automatic,-,false,-`
 - :cd: `org.neo4j.bolt` - `org.graphfoundation.ongdb:ongdb-bolt:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-bolt,3.6.0.M2,org.neo4j.bolt,-,automatic,-,false,-`
+- :cd: `org.neo4j.causalclustering` - `org.graphfoundation.ongdb:ongdb-causal-clustering:3.6.0` // `org.graphfoundation.ongdb,ongdb-causal-clustering,3.6.0,org.neo4j.causalclustering,-,automatic,-,false,-`
 - :cd: `org.neo4j.causalclustering` - `org.graphfoundation.ongdb:ongdb-causal-clustering:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-causal-clustering,3.6.0.M2,org.neo4j.causalclustering,-,automatic,-,false,-`
+- :cd: `org.neo4j.cluster` - `org.graphfoundation.ongdb:ongdb-cluster:3.6.0` // `org.graphfoundation.ongdb,ongdb-cluster,3.6.0,org.neo4j.cluster,-,automatic,-,false,-`
 - :cd: `org.neo4j.cluster` - `org.graphfoundation.ongdb:ongdb-cluster:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cluster,3.6.0.M2,org.neo4j.cluster,-,automatic,-,false,-`
+- :cd: `org.neo4j.codegen` - `org.graphfoundation.ongdb:ongdb-codegen:3.6.0` // `org.graphfoundation.ongdb,ongdb-codegen,3.6.0,org.neo4j.codegen,-,automatic,-,false,-`
 - :cd: `org.neo4j.codegen` - `org.graphfoundation.ongdb:ongdb-codegen:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-codegen,3.6.0.M2,org.neo4j.codegen,-,automatic,-,false,-`
+- :cd: `org.neo4j.collection` - `org.graphfoundation.ongdb:ongdb-collections:3.6.0` // `org.graphfoundation.ongdb,ongdb-collections,3.6.0,org.neo4j.collection,-,automatic,-,false,-`
 - :cd: `org.neo4j.collection` - `org.graphfoundation.ongdb:ongdb-collections:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-collections,3.6.0.M2,org.neo4j.collection,-,automatic,-,false,-`
+- :cd: `org.neo4j.collection.concurrent` - `org.graphfoundation.ongdb:ongdb-concurrent:3.6.0` // `org.graphfoundation.ongdb,ongdb-concurrent,3.6.0,org.neo4j.collection.concurrent,-,automatic,-,false,-`
 - :cd: `org.neo4j.collection.concurrent` - `org.graphfoundation.ongdb:ongdb-concurrent:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-concurrent,3.6.0.M2,org.neo4j.collection.concurrent,-,automatic,-,false,-`
+- :cd: `org.neo4j.com` - `org.graphfoundation.ongdb:ongdb-com:3.6.0` // `org.graphfoundation.ongdb,ongdb-com,3.6.0,org.neo4j.com,-,automatic,-,false,-`
 - :cd: `org.neo4j.com` - `org.graphfoundation.ongdb:ongdb-com:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-com,3.6.0.M2,org.neo4j.com,-,automatic,-,false,-`
+- :cd: `org.neo4j.commandline` - `org.graphfoundation.ongdb:ongdb-command-line:3.6.0` // `org.graphfoundation.ongdb,ongdb-command-line,3.6.0,org.neo4j.commandline,-,automatic,-,false,-`
 - :cd: `org.neo4j.commandline` - `org.graphfoundation.ongdb:ongdb-command-line:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-command-line,3.6.0.M2,org.neo4j.commandline,-,automatic,-,false,-`
+- :cd: `org.neo4j.common` - `org.graphfoundation.ongdb:ongdb-common:3.6.0` // `org.graphfoundation.ongdb,ongdb-common,3.6.0,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.graphfoundation.ongdb:ongdb-common:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-common,3.6.0.M2,org.neo4j.common,-,automatic,-,false,-`
+- :cd: `org.neo4j.common` - `org.graphfoundation.ongdb:ongdb-data-collector:3.6.0` // `org.graphfoundation.ongdb,ongdb-data-collector,3.6.0,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.graphfoundation.ongdb:ongdb-data-collector:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-data-collector,3.6.0.M2,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.neo4j:neo4j-data-collector:3.5.1` // `org.neo4j,neo4j-data-collector,3.5.1,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.neo4j:neo4j-data-collector:3.5.10` // `org.neo4j,neo4j-data-collector,3.5.10,org.neo4j.common,-,automatic,-,false,-`
@@ -7247,12 +7279,19 @@
 - :cd: `org.neo4j.common` - `org.neo4j:neo4j-data-collector:3.5.7` // `org.neo4j,neo4j-data-collector,3.5.7,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.neo4j:neo4j-data-collector:3.5.8` // `org.neo4j,neo4j-data-collector,3.5.8,org.neo4j.common,-,automatic,-,false,-`
 - :cd: `org.neo4j.common` - `org.neo4j:neo4j-data-collector:3.5.9` // `org.neo4j,neo4j-data-collector,3.5.9,org.neo4j.common,-,automatic,-,false,-`
+- :cd: `org.neo4j.community` - `org.graphfoundation.ongdb:ongdb:3.6.0` // `org.graphfoundation.ongdb,ongdb,3.6.0,org.neo4j.community,-,automatic,-,false,-`
 - :cd: `org.neo4j.community` - `org.graphfoundation.ongdb:ongdb:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb,3.6.0.M2,org.neo4j.community,-,automatic,-,false,-`
+- :cd: `org.neo4j.configuration` - `org.graphfoundation.ongdb:ongdb-configuration:3.6.0` // `org.graphfoundation.ongdb,ongdb-configuration,3.6.0,org.neo4j.configuration,-,automatic,-,false,-`
 - :cd: `org.neo4j.configuration` - `org.graphfoundation.ongdb:ongdb-configuration:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-configuration,3.6.0.M2,org.neo4j.configuration,-,automatic,-,false,-`
+- :cd: `org.neo4j.consistency` - `org.graphfoundation.ongdb:ongdb-consistency-check:3.6.0` // `org.graphfoundation.ongdb,ongdb-consistency-check,3.6.0,org.neo4j.consistency,-,automatic,-,false,-`
 - :cd: `org.neo4j.consistency` - `org.graphfoundation.ongdb:ongdb-consistency-check:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-consistency-check,3.6.0.M2,org.neo4j.consistency,-,automatic,-,false,-`
+- :cd: `org.neo4j.csv` - `org.graphfoundation.ongdb:ongdb-csv:3.6.0` // `org.graphfoundation.ongdb,ongdb-csv,3.6.0,org.neo4j.csv,-,automatic,-,false,-`
 - :cd: `org.neo4j.csv` - `org.graphfoundation.ongdb:ongdb-csv:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-csv,3.6.0.M2,org.neo4j.csv,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher` - `org.graphfoundation.ongdb:ongdb-cypher:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher,3.6.0,org.neo4j.cypher,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher` - `org.graphfoundation.ongdb:ongdb-cypher:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher,3.6.0.M2,org.neo4j.cypher,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher,3.6.0,org.neo4j.cypher.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher,3.6.0.M2,org.neo4j.cypher.enterprise,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal` - `org.graphfoundation.ongdb:ongdb-cypher-expression-evaluator:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-expression-evaluator,3.6.0,org.neo4j.cypher.internal,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal` - `org.graphfoundation.ongdb:ongdb-cypher-expression-evaluator:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-expression-evaluator,3.6.0.M2,org.neo4j.cypher.internal,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0-alpha0-20181130` // `org.neo4j,neo4j-front-end-4.0,4.0-alpha0-20181130,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0-alpha0-20190301` // `org.neo4j,neo4j-front-end-4.0,4.0-alpha0-20190301,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
@@ -7263,11 +7302,17 @@
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.3` // `org.neo4j,neo4j-front-end-4.0,4.0.3,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.4` // `org.neo4j,neo4j-front-end-4.0,4.0.4,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.5` // `org.neo4j,neo4j-front-end-4.0,4.0.5,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.0,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.0.M2,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.interpreted` - `org.graphfoundation.ongdb:ongdb-cypher-interpreted-runtime:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-interpreted-runtime,3.6.0,org.neo4j.cypher.internal.runtime.interpreted,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.interpreted` - `org.graphfoundation.ongdb:ongdb-cypher-interpreted-runtime:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-interpreted-runtime,3.6.0.M2,org.neo4j.cypher.internal.runtime.interpreted,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-acceptance-spec-suite:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-acceptance-spec-suite,3.6.0,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-acceptance-spec-suite:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-acceptance-spec-suite,3.6.0.M2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-compatibility-spec-suite:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-compatibility-spec-suite,3.6.0,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-compatibility-spec-suite:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-compatibility-spec-suite,3.6.0.M2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-runtime-util:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-runtime-util,3.6.0,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-runtime-util:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-runtime-util,3.6.0.M2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-spec-suite-tools:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-spec-suite-tools,3.6.0,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.graphfoundation.ongdb:ongdb-cypher-spec-suite-tools:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-spec-suite-tools,3.6.0.M2,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.0` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.0,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.neo4j:neo4j-cypher-acceptance-spec-suite:3.5.0-beta02` // `org.neo4j,neo4j-cypher-acceptance-spec-suite,3.5.0-beta02,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
@@ -7317,13 +7362,21 @@
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.7` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.7,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.8` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.8,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.util` - `org.neo4j:neo4j-cypher-spec-suite-tools:3.5.9` // `org.neo4j,neo4j-cypher-spec-suite-tools,3.5.9,org.neo4j.cypher.internal.runtime.util,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.runtime.vectorized` - `org.graphfoundation.ongdb:ongdb-cypher-morsel-runtime:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-morsel-runtime,3.6.0,org.neo4j.cypher.internal.runtime.vectorized,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.vectorized` - `org.graphfoundation.ongdb:ongdb-cypher-morsel-runtime:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-morsel-runtime,3.6.0.M2,org.neo4j.cypher.internal.runtime.vectorized,-,automatic,-,false,-`
+- :cd: `org.neo4j.dbms` - `org.graphfoundation.ongdb:ongdb-dbms:3.6.0` // `org.graphfoundation.ongdb,ongdb-dbms,3.6.0,org.neo4j.dbms,-,automatic,-,false,-`
 - :cd: `org.neo4j.dbms` - `org.graphfoundation.ongdb:ongdb-dbms:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-dbms,3.6.0.M2,org.neo4j.dbms,-,automatic,-,false,-`
+- :cd: `org.neo4j.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise,3.6.0,org.neo4j.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise,3.6.0.M2,org.neo4j.enterprise,-,automatic,-,false,-`
+- :cd: `org.neo4j.ext.udc` - `org.graphfoundation.ongdb:ongdb-udc:3.6.0` // `org.graphfoundation.ongdb,ongdb-udc,3.6.0,org.neo4j.ext.udc,-,automatic,-,false,-`
 - :cd: `org.neo4j.ext.udc` - `org.graphfoundation.ongdb:ongdb-udc:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-udc,3.6.0.M2,org.neo4j.ext.udc,-,automatic,-,false,-`
+- :cd: `org.neo4j.gis.spatial.index` - `org.graphfoundation.ongdb:ongdb-spatial-index:3.6.0` // `org.graphfoundation.ongdb,ongdb-spatial-index,3.6.0,org.neo4j.gis.spatial.index,-,automatic,-,false,-`
 - :cd: `org.neo4j.gis.spatial.index` - `org.graphfoundation.ongdb:ongdb-spatial-index:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-spatial-index,3.6.0.M2,org.neo4j.gis.spatial.index,-,automatic,-,false,-`
+- :cd: `org.neo4j.graphalgo` - `org.graphfoundation.ongdb:ongdb-graph-algo:3.6.0` // `org.graphfoundation.ongdb,ongdb-graph-algo,3.6.0,org.neo4j.graphalgo,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphalgo` - `org.graphfoundation.ongdb:ongdb-graph-algo:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-graph-algo,3.6.0.M2,org.neo4j.graphalgo,-,automatic,-,false,-`
+- :cd: `org.neo4j.graphdb` - `org.graphfoundation.ongdb:ongdb-graphdb-api:3.6.0` // `org.graphfoundation.ongdb,ongdb-graphdb-api,3.6.0,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.graphfoundation.ongdb:ongdb-graphdb-api:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-graphdb-api,3.6.0.M2,org.neo4j.graphdb,-,automatic,-,false,-`
+- :cd: `org.neo4j.graphdb` - `org.graphfoundation.ongdb:ongdb-procedure-api:3.6.0` // `org.graphfoundation.ongdb,ongdb-procedure-api,3.6.0,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.graphfoundation.ongdb:ongdb-procedure-api:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-procedure-api,3.6.0.M2,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.neo4j:neo4j-procedure-api:3.5.0` // `org.neo4j,neo4j-procedure-api,3.5.0,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.neo4j:neo4j-procedure-api:3.5.0-alpha07` // `org.neo4j,neo4j-procedure-api,3.5.0-alpha07,org.neo4j.graphdb,-,automatic,-,false,-`
@@ -7345,17 +7398,29 @@
 - :cd: `org.neo4j.graphdb` - `org.neo4j:neo4j-procedure-api:3.5.7` // `org.neo4j,neo4j-procedure-api,3.5.7,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.neo4j:neo4j-procedure-api:3.5.8` // `org.neo4j,neo4j-procedure-api,3.5.8,org.neo4j.graphdb,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb` - `org.neo4j:neo4j-procedure-api:3.5.9` // `org.neo4j,neo4j-procedure-api,3.5.9,org.neo4j.graphdb,-,automatic,-,false,-`
+- :cd: `org.neo4j.graphdb.resource` - `org.graphfoundation.ongdb:ongdb-resource:3.6.0` // `org.graphfoundation.ongdb,ongdb-resource,3.6.0,org.neo4j.graphdb.resource,-,automatic,-,false,-`
 - :cd: `org.neo4j.graphdb.resource` - `org.graphfoundation.ongdb:ongdb-resource:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-resource,3.6.0.M2,org.neo4j.graphdb.resource,-,automatic,-,false,-`
+- :cd: `org.neo4j.index` - `org.graphfoundation.ongdb:ongdb-index:3.6.0` // `org.graphfoundation.ongdb,ongdb-index,3.6.0,org.neo4j.index,-,automatic,-,false,-`
 - :cd: `org.neo4j.index` - `org.graphfoundation.ongdb:ongdb-index:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-index,3.6.0.M2,org.neo4j.index,-,automatic,-,false,-`
+- :cd: `org.neo4j.index.lucene` - `org.graphfoundation.ongdb:ongdb-lucene-index:3.6.0` // `org.graphfoundation.ongdb,ongdb-lucene-index,3.6.0,org.neo4j.index.lucene,-,automatic,-,false,-`
 - :cd: `org.neo4j.index.lucene` - `org.graphfoundation.ongdb:ongdb-lucene-index:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-lucene-index,3.6.0.M2,org.neo4j.index.lucene,-,automatic,-,false,-`
+- :cd: `org.neo4j.integrationtests` - `org.graphfoundation.ongdb:ongdb-integrationtests:3.6.0` // `org.graphfoundation.ongdb,ongdb-integrationtests,3.6.0,org.neo4j.integrationtests,-,automatic,-,false,-`
 - :cd: `org.neo4j.integrationtests` - `org.graphfoundation.ongdb:ongdb-integrationtests:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-integrationtests,3.6.0.M2,org.neo4j.integrationtests,-,automatic,-,false,-`
+- :cd: `org.neo4j.internal.diagnostics` - `org.graphfoundation.ongdb:ongdb-diagnostics:3.6.0` // `org.graphfoundation.ongdb,ongdb-diagnostics,3.6.0,org.neo4j.internal.diagnostics,-,automatic,-,false,-`
 - :cd: `org.neo4j.internal.diagnostics` - `org.graphfoundation.ongdb:ongdb-diagnostics:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-diagnostics,3.6.0.M2,org.neo4j.internal.diagnostics,-,automatic,-,false,-`
+- :cd: `org.neo4j.internal.enterprise.cypher.acceptance.spec.suite` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher-acceptance-spec-suite:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher-acceptance-spec-suite,3.6.0,org.neo4j.internal.enterprise.cypher.acceptance.spec.suite,-,automatic,-,false,-`
 - :cd: `org.neo4j.internal.enterprise.cypher.acceptance.spec.suite` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher-acceptance-spec-suite:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher-acceptance-spec-suite,3.6.0.M2,org.neo4j.internal.enterprise.cypher.acceptance.spec.suite,-,automatic,-,false,-`
+- :cd: `org.neo4j.internal.enterprise.cypher.compatibility.spec.suite` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher-compatibility-spec-suite:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher-compatibility-spec-suite,3.6.0,org.neo4j.internal.enterprise.cypher.compatibility.spec.suite,-,automatic,-,false,-`
 - :cd: `org.neo4j.internal.enterprise.cypher.compatibility.spec.suite` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher-compatibility-spec-suite:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher-compatibility-spec-suite,3.6.0.M2,org.neo4j.internal.enterprise.cypher.compatibility.spec.suite,-,automatic,-,false,-`
+- :cd: `org.neo4j.internal.kernel.api` - `org.graphfoundation.ongdb:ongdb-kernel-api:3.6.0` // `org.graphfoundation.ongdb,ongdb-kernel-api,3.6.0,org.neo4j.internal.kernel.api,-,automatic,-,false,-`
 - :cd: `org.neo4j.internal.kernel.api` - `org.graphfoundation.ongdb:ongdb-kernel-api:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-kernel-api,3.6.0.M2,org.neo4j.internal.kernel.api,-,automatic,-,false,-`
+- :cd: `org.neo4j.io` - `org.graphfoundation.ongdb:ongdb-io:3.6.0` // `org.graphfoundation.ongdb,ongdb-io,3.6.0,org.neo4j.io,-,automatic,-,false,-`
 - :cd: `org.neo4j.io` - `org.graphfoundation.ongdb:ongdb-io:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-io,3.6.0.M2,org.neo4j.io,-,automatic,-,false,-`
+- :cd: `org.neo4j.jmx` - `org.graphfoundation.ongdb:ongdb-jmx:3.6.0` // `org.graphfoundation.ongdb,ongdb-jmx,3.6.0,org.neo4j.jmx,-,automatic,-,false,-`
 - :cd: `org.neo4j.jmx` - `org.graphfoundation.ongdb:ongdb-jmx:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-jmx,3.6.0.M2,org.neo4j.jmx,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel` - `org.graphfoundation.ongdb:ongdb-kernel:3.6.0` // `org.graphfoundation.ongdb,ongdb-kernel,3.6.0,org.neo4j.kernel,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel` - `org.graphfoundation.ongdb:ongdb-kernel:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-kernel,3.6.0.M2,org.neo4j.kernel,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.graphfoundation.ongdb:ongdb-fulltext-index:3.6.0` // `org.graphfoundation.ongdb,ongdb-fulltext-index,3.6.0,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.graphfoundation.ongdb:ongdb-fulltext-index:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-fulltext-index,3.6.0.M2,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:3.5.0` // `org.neo4j,neo4j-fulltext-index,3.5.0,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:3.5.0-beta03` // `org.neo4j,neo4j-fulltext-index,3.5.0-beta03,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
@@ -7379,27 +7444,49 @@
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.0.3` // `org.neo4j,neo4j-fulltext-index,4.0.3,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.0.4` // `org.neo4j,neo4j-fulltext-index,4.0.4,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.0.5` // `org.neo4j,neo4j-fulltext-index,4.0.5,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-kernel:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-kernel,3.6.0,org.neo4j.kernel.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-kernel:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-kernel,3.6.0.M2,org.neo4j.kernel.enterprise,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.ha` - `org.graphfoundation.ongdb:ongdb-ha:3.6.0` // `org.graphfoundation.ongdb,ongdb-ha,3.6.0,org.neo4j.kernel.ha,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.ha` - `org.graphfoundation.ongdb:ongdb-ha:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-ha,3.6.0.M2,org.neo4j.kernel.ha,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.impl.locking.deferred` - `org.graphfoundation.ongdb:ongdb-deferred-locks:3.6.0` // `org.graphfoundation.ongdb,ongdb-deferred-locks,3.6.0,org.neo4j.kernel.impl.locking.deferred,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.impl.locking.deferred` - `org.graphfoundation.ongdb:ongdb-deferred-locks:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-deferred-locks,3.6.0.M2,org.neo4j.kernel.impl.locking.deferred,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.impl.query` - `org.graphfoundation.ongdb:ongdb-query-logging:3.6.0` // `org.graphfoundation.ongdb,ongdb-query-logging,3.6.0,org.neo4j.kernel.impl.query,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.impl.query` - `org.graphfoundation.ongdb:ongdb-query-logging:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-query-logging,3.6.0.M2,org.neo4j.kernel.impl.query,-,automatic,-,false,-`
+- :cd: `org.neo4j.legacy` - `org.graphfoundation.ongdb:ongdb-legacy:3.6.0` // `org.graphfoundation.ongdb,ongdb-legacy,3.6.0,org.neo4j.legacy,-,automatic,-,false,-`
 - :cd: `org.neo4j.legacy` - `org.graphfoundation.ongdb:ongdb-legacy:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-legacy,3.6.0.M2,org.neo4j.legacy,-,automatic,-,false,-`
+- :cd: `org.neo4j.logging` - `org.graphfoundation.ongdb:ongdb-logging:3.6.0` // `org.graphfoundation.ongdb,ongdb-logging,3.6.0,org.neo4j.logging,-,automatic,-,false,-`
 - :cd: `org.neo4j.logging` - `org.graphfoundation.ongdb:ongdb-logging:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-logging,3.6.0.M2,org.neo4j.logging,-,automatic,-,false,-`
+- :cd: `org.neo4j.logging.slf4j` - `org.graphfoundation.ongdb:ongdb-slf4j:3.6.0` // `org.graphfoundation.ongdb,ongdb-slf4j,3.6.0,org.neo4j.logging.slf4j,-,automatic,-,false,-`
 - :cd: `org.neo4j.logging.slf4j` - `org.graphfoundation.ongdb:ongdb-slf4j:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-slf4j,3.6.0.M2,org.neo4j.logging.slf4j,-,automatic,-,false,-`
+- :cd: `org.neo4j.management` - `org.graphfoundation.ongdb:ongdb-management:3.6.0` // `org.graphfoundation.ongdb,ongdb-management,3.6.0,org.neo4j.management,-,automatic,-,false,-`
 - :cd: `org.neo4j.management` - `org.graphfoundation.ongdb:ongdb-management:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-management,3.6.0.M2,org.neo4j.management,-,automatic,-,false,-`
+- :cd: `org.neo4j.metrics` - `org.graphfoundation.ongdb:ongdb-metrics:3.6.0` // `org.graphfoundation.ongdb,ongdb-metrics,3.6.0,org.neo4j.metrics,-,automatic,-,false,-`
 - :cd: `org.neo4j.metrics` - `org.graphfoundation.ongdb:ongdb-metrics:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-metrics,3.6.0.M2,org.neo4j.metrics,-,automatic,-,false,-`
+- :cd: `org.neo4j.pushtocloud` - `org.graphfoundation.ongdb:ongdb-push-to-cloud:3.6.0` // `org.graphfoundation.ongdb,ongdb-push-to-cloud,3.6.0,org.neo4j.pushtocloud,-,automatic,-,false,-`
 - :cd: `org.neo4j.pushtocloud` - `org.graphfoundation.ongdb:ongdb-push-to-cloud:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-push-to-cloud,3.6.0.M2,org.neo4j.pushtocloud,-,automatic,-,false,-`
+- :cd: `org.neo4j.random.values` - `org.graphfoundation.ongdb:ongdb-random-values:3.6.0` // `org.graphfoundation.ongdb,ongdb-random-values,3.6.0,org.neo4j.random.values,-,automatic,-,false,-`
 - :cd: `org.neo4j.random.values` - `org.graphfoundation.ongdb:ongdb-random-values:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-random-values,3.6.0.M2,org.neo4j.random.values,-,automatic,-,false,-`
+- :cd: `org.neo4j.server.api` - `org.graphfoundation.ongdb:server-api:3.6.0` // `org.graphfoundation.ongdb,server-api,3.6.0,org.neo4j.server.api,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.api` - `org.graphfoundation.ongdb:server-api:3.6.0.M2` // `org.graphfoundation.ongdb,server-api,3.6.0.M2,org.neo4j.server.api,-,automatic,-,false,-`
+- :cd: `org.neo4j.server.plugins` - `org.graphfoundation.ongdb:server-plugin-test:3.6.0` // `org.graphfoundation.ongdb,server-plugin-test,3.6.0,org.neo4j.server.plugins,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.plugins` - `org.graphfoundation.ongdb:server-plugin-test:3.6.0.M2` // `org.graphfoundation.ongdb,server-plugin-test,3.6.0.M2,org.neo4j.server.plugins,-,automatic,-,false,-`
+- :cd: `org.neo4j.server.security` - `org.graphfoundation.ongdb:ongdb-security:3.6.0` // `org.graphfoundation.ongdb,ongdb-security,3.6.0,org.neo4j.server.security,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.security` - `org.graphfoundation.ongdb:ongdb-security:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-security,3.6.0.M2,org.neo4j.server.security,-,automatic,-,false,-`
+- :cd: `org.neo4j.server.security.enterprise` - `org.graphfoundation.ongdb:ongdb-security-enterprise:3.6.0` // `org.graphfoundation.ongdb,ongdb-security-enterprise,3.6.0,org.neo4j.server.security.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.security.enterprise` - `org.graphfoundation.ongdb:ongdb-security-enterprise:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-security-enterprise,3.6.0.M2,org.neo4j.server.security.enterprise,-,automatic,-,false,-`
+- :cd: `org.neo4j.server.security.enterprise.auth.plugin` - `org.graphfoundation.ongdb:ongdb-auth-plugin-api:3.6.0` // `org.graphfoundation.ongdb,ongdb-auth-plugin-api,3.6.0,org.neo4j.server.security.enterprise.auth.plugin,-,automatic,-,false,-`
 - :cd: `org.neo4j.server.security.enterprise.auth.plugin` - `org.graphfoundation.ongdb:ongdb-auth-plugin-api:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-auth-plugin-api,3.6.0.M2,org.neo4j.server.security.enterprise.auth.plugin,-,automatic,-,false,-`
+- :cd: `org.neo4j.ssl` - `org.graphfoundation.ongdb:ongdb-ssl:3.6.0` // `org.graphfoundation.ongdb,ongdb-ssl,3.6.0,org.neo4j.ssl,-,automatic,-,false,-`
 - :cd: `org.neo4j.ssl` - `org.graphfoundation.ongdb:ongdb-ssl:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-ssl,3.6.0.M2,org.neo4j.ssl,-,automatic,-,false,-`
+- :cd: `org.neo4j.tooling.procedure` - `org.graphfoundation.ongdb:procedure-compiler:3.6.0` // `org.graphfoundation.ongdb,procedure-compiler,3.6.0,org.neo4j.tooling.procedure,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.procedure` - `org.graphfoundation.ongdb:procedure-compiler:3.6.0.M2` // `org.graphfoundation.ongdb,procedure-compiler,3.6.0.M2,org.neo4j.tooling.procedure,-,automatic,-,false,-`
+- :cd: `org.neo4j.tooling.procedure.enterprise.tests` - `org.graphfoundation.ongdb:ongdb-procedure-compiler-enterprise-tests:3.6.0` // `org.graphfoundation.ongdb,ongdb-procedure-compiler-enterprise-tests,3.6.0,org.neo4j.tooling.procedure.enterprise.tests,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.procedure.enterprise.tests` - `org.graphfoundation.ongdb:ongdb-procedure-compiler-enterprise-tests:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-procedure-compiler-enterprise-tests,3.6.0.M2,org.neo4j.tooling.procedure.enterprise.tests,-,automatic,-,false,-`
+- :cd: `org.neo4j.tools` - `org.graphfoundation.ongdb:ongdb-tools:3.6.0` // `org.graphfoundation.ongdb,ongdb-tools,3.6.0,org.neo4j.tools,-,automatic,-,false,-`
 - :cd: `org.neo4j.tools` - `org.graphfoundation.ongdb:ongdb-tools:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-tools,3.6.0.M2,org.neo4j.tools,-,automatic,-,false,-`
+- :cd: `org.neo4j.unsafe` - `org.graphfoundation.ongdb:ongdb-unsafe:3.6.0` // `org.graphfoundation.ongdb,ongdb-unsafe,3.6.0,org.neo4j.unsafe,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `org.neo4j.unsafe` - `org.graphfoundation.ongdb:ongdb-unsafe:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-unsafe,3.6.0.M2,org.neo4j.unsafe,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `org.neo4j.values` - `org.graphfoundation.ongdb:ongdb-values:3.6.0` // `org.graphfoundation.ongdb,ongdb-values,3.6.0,org.neo4j.values,-,automatic,-,false,-`
 - :cd: `org.neo4j.values` - `org.graphfoundation.ongdb:ongdb-values:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-values,3.6.0.M2,org.neo4j.values,-,automatic,-,false,-`
 - :dvd: `org.objectweb.asm` - `cn.cyejing:dsync-dominate:0.1.2` // `cn.cyejing,dsync-dominate,0.1.2,org.objectweb.asm,6.0,explicit,java.base,false,com.sun.tools.javac.processing.JavacFiler Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Options         Use javax.tools and javax.lang.model @since 1.6 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9 + sun.reflect.annotation.AnnotationType    Removed. See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.objectweb.asm` - `cn.cyejing:dsync-dominate:0.1.3` // `cn.cyejing,dsync-dominate,0.1.3,org.objectweb.asm,6.0,explicit,java.base,false,-`
@@ -8364,6 +8451,7 @@
 - :cd: `software.amazon.eventstream` - `software.amazon.eventstream:eventstream:1.0.0` // `software.amazon.eventstream,eventstream,1.0.0,software.amazon.eventstream,-,automatic,-,false,-`
 - :cd: `software.amazon.eventstream` - `software.amazon.eventstream:eventstream:1.0.1` // `software.amazon.eventstream,eventstream,1.0.1,software.amazon.eventstream,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.0.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.0.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.1.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.1.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.1.RELEASE.patched` // `com.labun,spring-tx,5.2.1.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.3.RELEASE.patched` // `com.labun,spring-tx,5.2.3.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :dvd: `swim.api` - `org.swimos:swim-api:3.10.0` // `org.swimos,swim-api,3.10.0,swim.api,-,explicit,java.base + swim.codec + swim.concurrent + swim.dataflow + swim.http + swim.io + swim.math + swim.mqtt + swim.observable + swim.spatial + swim.streamlet + swim.structure + swim.util + swim.warp + swim.ws,false,-`

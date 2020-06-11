@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7028 Java modules published at Maven Central
+Counted 7048 Java modules published at Maven Central
 
-## Summary 2020-06-10T01:35:40.041818Z
+## Summary 2020-06-11T01:36:17.958358Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-10T01:35:40.041818Z
-Scanned 53,642 files in 7 seconds.
+Started scan at 2020-06-11T01:36:17.958358Z
+Scanned 53,724 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_10_01_11_59.csv
+    last -> modulescanner-report-2020_06_11_01_18_26.csv
 
-Parsed 3,607,149 lines in total.
-  57,360 -> captions skipped
-  314,844 -> duplicates skipped
-  173,992 -> module related
+Parsed 3,612,862 lines in total.
+  57,442 -> captions skipped
+  315,695 -> duplicates skipped
+  174,705 -> module related
 
-Collected 7,028 unique modules.
-  automatic :cd: -> 5,041
-  explicit :dvd: -> 1,987
+Collected 7,048 unique modules.
+  automatic :cd: -> 5,060
+  explicit :dvd: -> 1,988
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=2471, explicit=399, plain=42133}` 	 6.81%
+ - `2020_06={automatic=2905, explicit=409, plain=46200}` 	 7.17%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18014](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24080](suspicious/naming.md)
-- Modular impostors: [8625](suspicious/impostors.md)
+- Invalid module names: [18033](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24242](suspicious/naming.md)
+- Modular impostors: [8713](suspicious/impostors.md)
 
-## Unique Modules (7028)
+## Unique Modules (7048)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -312,8 +312,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.9`
 - :dvd: `com.athaydes.keepup.core` - `com.athaydes.keepup:keepup-core:1.0-RC3`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
-- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.2`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0-beta.5`
+- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.3`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.5.1`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.2.0`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.3`
@@ -321,10 +321,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
-- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1-beta.4`
-- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.1`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1`
+- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.2`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.2`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.4`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
@@ -897,6 +897,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.nextbreakpoint.nextfractal.core` :left_right_arrow: `com.nextbreakpoint:com.nextbreakpoint.nextfractal.core:2.1.0`
 - :dvd: `com.nextbreakpoint.nextfractal.mandelbrot` :left_right_arrow: `com.nextbreakpoint:com.nextbreakpoint.nextfractal.mandelbrot:2.1.0`
 - :dvd: `com.nextbreakpoint.nextfractal.runtime` :left_right_arrow: `com.nextbreakpoint:com.nextbreakpoint.nextfractal.runtime:2.1.0`
+- :dvd: `com.okta.cli` - `com.okta.cli:okta-cli:0.3.1`
 - :dvd: `com.pgssoft.httpclient` - `com.pgs-soft:HttpClientMock:1.0.0`
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
@@ -1014,8 +1015,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
 - :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.2`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
-- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.7.1`
-- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.7.1`
+- :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.8.0`
+- :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.8.0`
 - :dvd: `com.tobiasdiez.easybind` - `com.tobiasdiez:easybind:1.2.2`
 - :dvd: `com.torchmind.authenticator` - `com.torchmind:authenticator:1.1.0`
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
@@ -1059,7 +1060,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.phplib.templateengine` - `de.powerstat.phplib:templateengine:1.5`
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:2.1`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.2.0.3`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1121,7 +1122,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.84`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.85`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`

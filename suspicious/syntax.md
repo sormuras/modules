@@ -1850,10 +1850,15 @@
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.36.1.Final` // `org.drools.testcoverage,model-wrapper,7.36.1.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.37.0.Final` // `org.drools.testcoverage,model-wrapper,7.37.0.Final,-,-,automatic,-,false,-`
 - :cd: `` - `org.drools.testcoverage:model-wrapper:7.38.0.Final` // `org.drools.testcoverage,model-wrapper,7.38.0.Final,-,-,automatic,-,false,-`
+- :cd: `` - `org.graphfoundation.ongdb:ongdb-ast-3.6:3.6.0` // `org.graphfoundation.ongdb,ongdb-ast-3.6,3.6.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.graphfoundation.ongdb:ongdb-ast-3.6:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-ast-3.6,3.6.0.M2,-,-,automatic,-,false,-`
+- :cd: `` - `org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.0` // `org.graphfoundation.ongdb,ongdb-expressions-3.6,3.6.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-expressions-3.6,3.6.0.M2,-,-,automatic,-,false,-`
+- :cd: `` - `org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.0` // `org.graphfoundation.ongdb,ongdb-parser-3.6,3.6.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-parser-3.6,3.6.0.M2,-,-,automatic,-,false,-`
+- :cd: `` - `org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.0` // `org.graphfoundation.ongdb,ongdb-rewriting-3.6,3.6.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-rewriting-3.6,3.6.0.M2,-,-,automatic,-,false,-`
+- :cd: `` - `org.graphfoundation.ongdb.licensing-proxy:zstd-proxy:3.6.0` // `org.graphfoundation.ongdb.licensing-proxy,zstd-proxy,3.6.0,-,-,automatic,-,false,-`
 - :cd: `` - `org.graphfoundation.ongdb.licensing-proxy:zstd-proxy:3.6.0.M2` // `org.graphfoundation.ongdb.licensing-proxy,zstd-proxy,3.6.0.M2,-,-,automatic,-,false,-`
 - :cd: `` - `org.hortonmachine:hm-apps:0.9.3` // `org.hortonmachine,hm-apps,0.9.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.hortonmachine:hm-apps:0.9.4` // `org.hortonmachine,hm-apps,0.9.4,-,-,automatic,-,false,-`
@@ -15286,6 +15291,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.8` // `com.synopsys.integration,jenkins-common,0.1.8,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.1.9` // `com.synopsys.integration,jenkins-common,0.1.9,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.0` // `com.synopsys.integration,jenkins-common,0.2.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.1` // `com.synopsys.integration,jenkins-common,0.2.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
@@ -16458,8 +16464,10 @@
 - :cd: `org.jberet.jberet-rest-commons` - `org.jberet:jberet-rest-commons:1.4.0.Final` // `org.jberet,jberet-rest-commons,1.4.0.Final,org.jberet.jberet-rest-commons,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.3.0.Final` // `org.jberet,jberet-schedule-executor,1.3.0.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.4.0.Final` // `org.jberet,jberet-schedule-executor,1.4.0.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.4.1.Final` // `org.jberet,jberet-schedule-executor,1.4.1.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-timer` - `org.jberet:jberet-schedule-timer:1.3.0.Final` // `org.jberet,jberet-schedule-timer,1.3.0.Final,org.jberet.jberet-schedule-timer,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-timer` - `org.jberet:jberet-schedule-timer:1.4.0.Final` // `org.jberet,jberet-schedule-timer,1.4.0.Final,org.jberet.jberet-schedule-timer,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-schedule-timer` - `org.jberet:jberet-schedule-timer:1.4.1.Final` // `org.jberet,jberet-schedule-timer,1.4.1.Final,org.jberet.jberet-schedule-timer,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-se` - `org.jberet:jberet-se:1.3.0.Final` // `org.jberet,jberet-se,1.3.0.Final,org.jberet.jberet-se,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-se` - `org.jberet:jberet-se:1.4.0.Alpha` // `org.jberet,jberet-se,1.4.0.Alpha,org.jberet.jberet-se,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-support` - `org.jberet:jberet-support:1.3.0.Final` // `org.jberet,jberet-support,1.3.0.Final,org.jberet.jberet-support,-,automatic,-,false,-`
@@ -16765,6 +16773,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.0.2` // `org.mongodb.scala,mongo-scala-driver_2.13,4.0.2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0-beta1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0-beta2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.algo-it` - `org.graphfoundation.ongdb.community:algo-it:3.6.0` // `org.graphfoundation.ongdb.community,algo-it,3.6.0,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` - `org.graphfoundation.ongdb.community:algo-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,algo-it,3.6.0.M2,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` - `org.neo4j.community:algo-it:3.5.0` // `org.neo4j.community,algo-it,3.5.0,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` - `org.neo4j.community:algo-it:3.5.0-alpha07` // `org.neo4j.community,algo-it,3.5.0-alpha07,org.neo4j.community.algo-it,-,automatic,-,false,-`
@@ -16786,6 +16795,7 @@
 - :cd: `org.neo4j.community.algo-it` - `org.neo4j.community:algo-it:3.5.7` // `org.neo4j.community,algo-it,3.5.7,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` - `org.neo4j.community:algo-it:3.5.8` // `org.neo4j.community,algo-it,3.5.8,org.neo4j.community.algo-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.algo-it` - `org.neo4j.community:algo-it:3.5.9` // `org.neo4j.community,algo-it,3.5.9,org.neo4j.community.algo-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.bolt-it` - `org.graphfoundation.ongdb.community:bolt-it:3.6.0` // `org.graphfoundation.ongdb.community,bolt-it,3.6.0,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` - `org.graphfoundation.ongdb.community:bolt-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,bolt-it,3.6.0.M2,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` - `org.neo4j.community:bolt-it:3.5.0` // `org.neo4j.community,bolt-it,3.5.0,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` - `org.neo4j.community:bolt-it:3.5.0-alpha07` // `org.neo4j.community,bolt-it,3.5.0-alpha07,org.neo4j.community.bolt-it,-,automatic,-,false,-`
@@ -16807,6 +16817,7 @@
 - :cd: `org.neo4j.community.bolt-it` - `org.neo4j.community:bolt-it:3.5.7` // `org.neo4j.community,bolt-it,3.5.7,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` - `org.neo4j.community:bolt-it:3.5.8` // `org.neo4j.community,bolt-it,3.5.8,org.neo4j.community.bolt-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt-it` - `org.neo4j.community:bolt-it:3.5.9` // `org.neo4j.community,bolt-it,3.5.9,org.neo4j.community.bolt-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.community-it` - `org.graphfoundation.ongdb.community:community-it:3.6.0` // `org.graphfoundation.ongdb.community,community-it,3.6.0,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` - `org.graphfoundation.ongdb.community:community-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,community-it,3.6.0.M2,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` - `org.neo4j.community:community-it:3.5.0` // `org.neo4j.community,community-it,3.5.0,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` - `org.neo4j.community:community-it:3.5.0-alpha07` // `org.neo4j.community,community-it,3.5.0-alpha07,org.neo4j.community.community-it,-,automatic,-,false,-`
@@ -16828,6 +16839,7 @@
 - :cd: `org.neo4j.community.community-it` - `org.neo4j.community:community-it:3.5.7` // `org.neo4j.community,community-it,3.5.7,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` - `org.neo4j.community:community-it:3.5.8` // `org.neo4j.community,community-it,3.5.8,org.neo4j.community.community-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.community-it` - `org.neo4j.community:community-it:3.5.9` // `org.neo4j.community,community-it,3.5.9,org.neo4j.community.community-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.consistency-it` - `org.graphfoundation.ongdb.community:consistency-it:3.6.0` // `org.graphfoundation.ongdb.community,consistency-it,3.6.0,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` - `org.graphfoundation.ongdb.community:consistency-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,consistency-it,3.6.0.M2,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` - `org.neo4j.community:consistency-it:3.5.0` // `org.neo4j.community,consistency-it,3.5.0,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` - `org.neo4j.community:consistency-it:3.5.0-alpha07` // `org.neo4j.community,consistency-it,3.5.0-alpha07,org.neo4j.community.consistency-it,-,automatic,-,false,-`
@@ -16849,6 +16861,7 @@
 - :cd: `org.neo4j.community.consistency-it` - `org.neo4j.community:consistency-it:3.5.7` // `org.neo4j.community,consistency-it,3.5.7,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` - `org.neo4j.community:consistency-it:3.5.8` // `org.neo4j.community,consistency-it,3.5.8,org.neo4j.community.consistency-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.consistency-it` - `org.neo4j.community:consistency-it:3.5.9` // `org.neo4j.community,consistency-it,3.5.9,org.neo4j.community.consistency-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.cypher-it` - `org.graphfoundation.ongdb.community:cypher-it:3.6.0` // `org.graphfoundation.ongdb.community,cypher-it,3.6.0,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` - `org.graphfoundation.ongdb.community:cypher-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,cypher-it,3.6.0.M2,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` - `org.neo4j.community:cypher-it:3.5.0` // `org.neo4j.community,cypher-it,3.5.0,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` - `org.neo4j.community:cypher-it:3.5.0-alpha07` // `org.neo4j.community,cypher-it,3.5.0-alpha07,org.neo4j.community.cypher-it,-,automatic,-,false,-`
@@ -16870,6 +16883,7 @@
 - :cd: `org.neo4j.community.cypher-it` - `org.neo4j.community:cypher-it:3.5.7` // `org.neo4j.community,cypher-it,3.5.7,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` - `org.neo4j.community:cypher-it:3.5.8` // `org.neo4j.community,cypher-it,3.5.8,org.neo4j.community.cypher-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.cypher-it` - `org.neo4j.community:cypher-it:3.5.9` // `org.neo4j.community,cypher-it,3.5.9,org.neo4j.community.cypher-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.dbms-it` - `org.graphfoundation.ongdb.community:dbms-it:3.6.0` // `org.graphfoundation.ongdb.community,dbms-it,3.6.0,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` - `org.graphfoundation.ongdb.community:dbms-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,dbms-it,3.6.0.M2,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` - `org.neo4j.community:dbms-it:3.5.0` // `org.neo4j.community,dbms-it,3.5.0,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` - `org.neo4j.community:dbms-it:3.5.0-alpha07` // `org.neo4j.community,dbms-it,3.5.0-alpha07,org.neo4j.community.dbms-it,-,automatic,-,false,-`
@@ -16891,6 +16905,7 @@
 - :cd: `org.neo4j.community.dbms-it` - `org.neo4j.community:dbms-it:3.5.7` // `org.neo4j.community,dbms-it,3.5.7,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` - `org.neo4j.community:dbms-it:3.5.8` // `org.neo4j.community,dbms-it,3.5.8,org.neo4j.community.dbms-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.dbms-it` - `org.neo4j.community:dbms-it:3.5.9` // `org.neo4j.community,dbms-it,3.5.9,org.neo4j.community.dbms-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.import-it` - `org.graphfoundation.ongdb.community:import-it:3.6.0` // `org.graphfoundation.ongdb.community,import-it,3.6.0,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` - `org.graphfoundation.ongdb.community:import-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,import-it,3.6.0.M2,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` - `org.neo4j.community:import-it:3.5.0` // `org.neo4j.community,import-it,3.5.0,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` - `org.neo4j.community:import-it:3.5.0-alpha07` // `org.neo4j.community,import-it,3.5.0-alpha07,org.neo4j.community.import-it,-,automatic,-,false,-`
@@ -16912,6 +16927,7 @@
 - :cd: `org.neo4j.community.import-it` - `org.neo4j.community:import-it:3.5.7` // `org.neo4j.community,import-it,3.5.7,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` - `org.neo4j.community:import-it:3.5.8` // `org.neo4j.community,import-it,3.5.8,org.neo4j.community.import-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.import-it` - `org.neo4j.community:import-it:3.5.9` // `org.neo4j.community,import-it,3.5.9,org.neo4j.community.import-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.index-it` - `org.graphfoundation.ongdb.community:index-it:3.6.0` // `org.graphfoundation.ongdb.community,index-it,3.6.0,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` - `org.graphfoundation.ongdb.community:index-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,index-it,3.6.0.M2,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` - `org.neo4j.community:index-it:3.5.0` // `org.neo4j.community,index-it,3.5.0,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` - `org.neo4j.community:index-it:3.5.0-alpha07` // `org.neo4j.community,index-it,3.5.0-alpha07,org.neo4j.community.index-it,-,automatic,-,false,-`
@@ -16933,6 +16949,7 @@
 - :cd: `org.neo4j.community.index-it` - `org.neo4j.community:index-it:3.5.7` // `org.neo4j.community,index-it,3.5.7,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` - `org.neo4j.community:index-it:3.5.8` // `org.neo4j.community,index-it,3.5.8,org.neo4j.community.index-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.index-it` - `org.neo4j.community:index-it:3.5.9` // `org.neo4j.community,index-it,3.5.9,org.neo4j.community.index-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.it-test-support` - `org.graphfoundation.ongdb.community:it-test-support:3.6.0` // `org.graphfoundation.ongdb.community,it-test-support,3.6.0,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` - `org.graphfoundation.ongdb.community:it-test-support:3.6.0.M2` // `org.graphfoundation.ongdb.community,it-test-support,3.6.0.M2,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` - `org.neo4j.community:it-test-support:3.5.0` // `org.neo4j.community,it-test-support,3.5.0,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` - `org.neo4j.community:it-test-support:3.5.0-alpha07` // `org.neo4j.community,it-test-support,3.5.0-alpha07,org.neo4j.community.it-test-support,-,automatic,-,false,-`
@@ -16954,6 +16971,7 @@
 - :cd: `org.neo4j.community.it-test-support` - `org.neo4j.community:it-test-support:3.5.7` // `org.neo4j.community,it-test-support,3.5.7,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` - `org.neo4j.community:it-test-support:3.5.8` // `org.neo4j.community,it-test-support,3.5.8,org.neo4j.community.it-test-support,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.it-test-support` - `org.neo4j.community:it-test-support:3.5.9` // `org.neo4j.community,it-test-support,3.5.9,org.neo4j.community.it-test-support,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.kernel-it` - `org.graphfoundation.ongdb.community:kernel-it:3.6.0` // `org.graphfoundation.ongdb.community,kernel-it,3.6.0,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` - `org.graphfoundation.ongdb.community:kernel-it:3.6.0.M2` // `org.graphfoundation.ongdb.community,kernel-it,3.6.0.M2,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` - `org.neo4j.community:kernel-it:3.5.0` // `org.neo4j.community,kernel-it,3.5.0,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` - `org.neo4j.community:kernel-it:3.5.0-alpha07` // `org.neo4j.community,kernel-it,3.5.0-alpha07,org.neo4j.community.kernel-it,-,automatic,-,false,-`
@@ -16975,6 +16993,7 @@
 - :cd: `org.neo4j.community.kernel-it` - `org.neo4j.community:kernel-it:3.5.7` // `org.neo4j.community,kernel-it,3.5.7,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` - `org.neo4j.community:kernel-it:3.5.8` // `org.neo4j.community,kernel-it,3.5.8,org.neo4j.community.kernel-it,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.kernel-it` - `org.neo4j.community:kernel-it:3.5.9` // `org.neo4j.community,kernel-it,3.5.9,org.neo4j.community.kernel-it,-,automatic,-,false,-`
+- :cd: `org.neo4j.tooling.import` - `org.graphfoundation.ongdb:ongdb-import-tool:3.6.0` // `org.graphfoundation.ongdb,ongdb-import-tool,3.6.0,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` - `org.graphfoundation.ongdb:ongdb-import-tool:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-import-tool,3.6.0.M2,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` - `org.neo4j:neo4j-import-tool:3.5.0` // `org.neo4j,neo4j-import-tool,3.5.0,org.neo4j.tooling.import,-,automatic,-,false,-`
 - :cd: `org.neo4j.tooling.import` - `org.neo4j:neo4j-import-tool:3.5.0-alpha07` // `org.neo4j,neo4j-import-tool,3.5.0-alpha07,org.neo4j.tooling.import,-,automatic,-,false,-`
