@@ -62,6 +62,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.0-Alpha4` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.0-Alpha5` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.1` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.2` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0` // `com.blazebit,blaze-domain-core-api,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha1` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha2` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -69,6 +70,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha4` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha5` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.1` // `com.blazebit,blaze-domain-core-api,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.2` // `com.blazebit,blaze-domain-core-api,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0` // `com.blazebit,blaze-domain-core-impl,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha1` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha2` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -76,6 +78,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha4` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha5` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.1` // `com.blazebit,blaze-domain-core-impl,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.2` // `com.blazebit,blaze-domain-core-impl,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0` // `com.blazebit,blaze-domain-declarative-api,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -83,6 +86,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha4` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.1` // `com.blazebit,blaze-domain-declarative-api,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.2` // `com.blazebit,blaze-domain-declarative-api,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0` // `com.blazebit,blaze-domain-declarative-impl,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -90,6 +94,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha4` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.1` // `com.blazebit,blaze-domain-declarative-impl,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.2` // `com.blazebit,blaze-domain-declarative-impl,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -97,6 +102,7 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha4` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.1` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.2` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-persistence:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-persistence,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0` // `com.blazebit,blaze-domain-documentation,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0-Alpha1` // `com.blazebit,blaze-domain-documentation,1.0.0-Alpha1,-,-,automatic,-,false,-`
@@ -105,9 +111,11 @@
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0-Alpha4` // `com.blazebit,blaze-domain-documentation,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0-Alpha5` // `com.blazebit,blaze-domain-documentation,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.1` // `com.blazebit,blaze-domain-documentation,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.2` // `com.blazebit,blaze-domain-documentation,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-persistence:1.0.0-Alpha1` // `com.blazebit,blaze-domain-persistence,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.0` // `com.blazebit,blaze-domain-typescript,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.1` // `com.blazebit,blaze-domain-typescript,1.0.1,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.2` // `com.blazebit,blaze-domain-typescript,1.0.2,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha3` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha4` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha5` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha5,-,-,automatic,-,false,-`
@@ -15241,6 +15249,7 @@
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.0.4` // `com.synopsys.integration,integration-common,20.0.4,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.1.0` // `com.synopsys.integration,integration-common,20.1.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:20.1.1` // `com.synopsys.integration,integration-common,20.1.1,com.synopsys.integration.integration-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.integration-common` - `com.synopsys.integration:integration-common:21.0.0` // `com.synopsys.integration,integration-common,21.0.0,com.synopsys.integration.integration-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.0` // `com.blackducksoftware.integration,integration-reporting,0.3.0,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.1` // `com.blackducksoftware.integration,integration-reporting,0.3.1,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.integration-reporting` - `com.blackducksoftware.integration:integration-reporting:0.3.2` // `com.blackducksoftware.integration,integration-reporting,0.3.2,com.synopsys.integration.integration-reporting,-,automatic,-,false,-`
@@ -16460,8 +16469,10 @@
 - :cd: `org.jberet.jberet-core` - `org.jberet:jberet-core:1.4.0.Alpha` // `org.jberet,jberet-core,1.4.0.Alpha,org.jberet.jberet-core,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-rest-api` - `org.jberet:jberet-rest-api:1.3.0.Final` // `org.jberet,jberet-rest-api,1.3.0.Final,org.jberet.jberet-rest-api,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-rest-api` - `org.jberet:jberet-rest-api:1.4.0.Final` // `org.jberet,jberet-rest-api,1.4.0.Final,org.jberet.jberet-rest-api,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-rest-api` - `org.jberet:jberet-rest-api:1.4.1.Final` // `org.jberet,jberet-rest-api,1.4.1.Final,org.jberet.jberet-rest-api,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-rest-commons` - `org.jberet:jberet-rest-commons:1.3.0.Final` // `org.jberet,jberet-rest-commons,1.3.0.Final,org.jberet.jberet-rest-commons,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-rest-commons` - `org.jberet:jberet-rest-commons:1.4.0.Final` // `org.jberet,jberet-rest-commons,1.4.0.Final,org.jberet.jberet-rest-commons,-,automatic,-,false,-`
+- :cd: `org.jberet.jberet-rest-commons` - `org.jberet:jberet-rest-commons:1.4.1.Final` // `org.jberet,jberet-rest-commons,1.4.1.Final,org.jberet.jberet-rest-commons,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.3.0.Final` // `org.jberet,jberet-schedule-executor,1.3.0.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.4.0.Final` // `org.jberet,jberet-schedule-executor,1.4.0.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
 - :cd: `org.jberet.jberet-schedule-executor` - `org.jberet:jberet-schedule-executor:1.4.1.Final` // `org.jberet,jberet-schedule-executor,1.4.1.Final,org.jberet.jberet-schedule-executor,-,automatic,-,false,-`
@@ -17044,6 +17055,7 @@
 - :cd: `org.richfaces.richfaces-resource-optimizer-maven-plugin` - `com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.8.ayg` // `com.github.albfernandez.richfaces,richfaces-resource-optimizer-maven-plugin,4.6.8.ayg,org.richfaces.richfaces-resource-optimizer-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.richfaces.richfaces-resource-optimizer-maven-plugin` - `com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.9.ayg` // `com.github.albfernandez.richfaces,richfaces-resource-optimizer-maven-plugin,4.6.9.ayg,org.richfaces.richfaces-resource-optimizer-maven-plugin,-,automatic,-,false,-`
 - :cd: `org.spockframework.groovy2-compat` - `org.spockframework:spock-groovy2-compat:2.0-M2-groovy-2.5` // `org.spockframework,spock-groovy2-compat,2.0-M2-groovy-2.5,org.spockframework.groovy2-compat,-,automatic,-,false,-`
+- :cd: `org.spockframework.groovy2-compat` - `org.spockframework:spock-groovy2-compat:2.0-M3-groovy-2.5` // `org.spockframework,spock-groovy2-compat,2.0-M3-groovy-2.5,org.spockframework.groovy2-compat,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime..standalone` - `org.talend.sdk.component:component-runtime-standalone:0.0.6` // `org.talend.sdk.component,component-runtime-standalone,0.0.6,org.talend.sdk.component.runtime..standalone,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime.activeif-component` - `org.talend.sdk.component:activeif-component:1.1.9` // `org.talend.sdk.component,activeif-component,1.1.9,org.talend.sdk.component.runtime.activeif-component,-,automatic,-,false,-`
 - :cd: `org.talend.sdk.component.runtime.checkbox-component` - `org.talend.sdk.component:checkbox-component:1.1.9` // `org.talend.sdk.component,checkbox-component,1.1.9,org.talend.sdk.component.runtime.checkbox-component,-,automatic,-,false,-`

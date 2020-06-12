@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7048 Java modules published at Maven Central
+Counted 7054 Java modules published at Maven Central
 
-## Summary 2020-06-11T01:36:17.958358Z
+## Summary 2020-06-12T01:36:58.601166Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-11T01:36:17.958358Z
-Scanned 53,724 files in 7 seconds.
+Started scan at 2020-06-12T01:36:58.601166Z
+Scanned 53,796 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_11_01_18_26.csv
+    last -> modulescanner-report-2020_06_12_01_26_00.csv
 
-Parsed 3,612,862 lines in total.
-  57,442 -> captions skipped
-  315,695 -> duplicates skipped
-  174,705 -> module related
+Parsed 3,622,648 lines in total.
+  57,514 -> captions skipped
+  317,099 -> duplicates skipped
+  175,091 -> module related
 
-Collected 7,048 unique modules.
-  automatic :cd: -> 5,060
-  explicit :dvd: -> 1,988
+Collected 7,054 unique modules.
+  automatic :cd: -> 5,064
+  explicit :dvd: -> 1,990
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=2905, explicit=409, plain=46200}` 	 7.17%
+ - `2020_06={automatic=3209, explicit=417, plain=54124}` 	 6.70%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18033](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24242](suspicious/naming.md)
-- Modular impostors: [8713](suspicious/impostors.md)
+- Invalid module names: [18045](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24292](suspicious/naming.md)
+- Modular impostors: [8725](suspicious/impostors.md)
 
-## Unique Modules (7048)
+## Unique Modules (7054)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -330,7 +330,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
-- :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.2`
+- :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.3`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.1`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.1`
@@ -381,7 +381,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
-- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.7.0`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.7.1`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
@@ -488,6 +488,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.themrmilchmann.kopt` - `com.github.themrmilchmann.kopt:kopt:0.4.0`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-events:2.0.1`
 - :dvd: `com.github.themrmilchmann.mjl.options` - `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
+- :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.1`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.attach.accelerometer` - `com.gluonhq.attach:accelerometer:4.0.7`
@@ -1119,7 +1120,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.0.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.85`
@@ -1885,7 +1886,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-6`
-- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.1`
+- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.2`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
@@ -2105,10 +2106,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
+- :dvd: `xyz.cofe.simpletypes` - `xyz.cofe:simple-types:1.0`
 - :dvd: `xyz.cofe.text` - `xyz.cofe:text:1.0`
 - :dvd: `xyz.cofe.text.lex` - `xyz.cofe:text-lex:1.0`
 - :dvd: `xyz.cofe.text.out` - `xyz.cofe:text-out:1.0`
-- :dvd: `xyz.cofe.text.template.basic` - `xyz.cofe:basic-template:1.0`
+- :dvd: `xyz.cofe.text.template.basic` - `xyz.cofe:basic-template:1.1`
 - :dvd: `xyz.cofe.typeconv` - `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` - `xyz.cofe:types-spi:1.1`
 - :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.4`
