@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7054 Java modules published at Maven Central
+Counted 7061 Java modules published at Maven Central
 
-## Summary 2020-06-12T01:36:58.601166Z
+## Summary 2020-06-13T01:37:31.664695Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-12T01:36:58.601166Z
-Scanned 53,796 files in 7 seconds.
+Started scan at 2020-06-13T01:37:31.664695Z
+Scanned 53,873 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_12_01_26_00.csv
+    last -> modulescanner-report-2020_06_13_01_16_10.csv
 
-Parsed 3,622,648 lines in total.
-  57,514 -> captions skipped
-  317,099 -> duplicates skipped
-  175,091 -> module related
+Parsed 3,629,065 lines in total.
+  57,591 -> captions skipped
+  317,861 -> duplicates skipped
+  175,601 -> module related
 
-Collected 7,054 unique modules.
-  automatic :cd: -> 5,064
-  explicit :dvd: -> 1,990
+Collected 7,061 unique modules.
+  automatic :cd: -> 5,070
+  explicit :dvd: -> 1,991
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=3209, explicit=417, plain=54124}` 	 6.70%
+ - `2020_06={automatic=3661, explicit=429, plain=59192}` 	 6.91%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18045](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24292](suspicious/naming.md)
-- Modular impostors: [8725](suspicious/impostors.md)
+- Invalid module names: [18046](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24311](suspicious/naming.md)
+- Modular impostors: [8751](suspicious/impostors.md)
 
-## Unique Modules (7054)
+## Unique Modules (7061)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -331,13 +331,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.3`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0-beta.1`
-- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.1`
-- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.6.1`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.7.0-beta.1`
-- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.1`
-- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.4.1`
-- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.1`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0`
+- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.2`
+- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.7.0`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.7.0`
+- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.2`
+- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.5.0`
+- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.2`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha5`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha5`
 - :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha5`
@@ -1077,7 +1077,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.38`
+- :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.40`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1120,10 +1121,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.85`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.86`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
