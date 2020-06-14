@@ -315,6 +315,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.1-BUILD-RELEASE` // `com.quicko,api-client,3.0.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.3-BUILD-RELEASE` // `com.quicko,api-client,3.0.3-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.0-BUILD-RELEASE` // `com.quicko,api-client,3.1.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.2.4` // `com.snowflake,snowflake-kafka-connector,1.2.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.0` // `com.snowflake,snowflake-kafka-connector,1.3.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.1` // `com.snowflake,snowflake-kafka-connector,1.3.1,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
@@ -4615,6 +4616,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.11.6-jre14` // `com.guicedee.services,jakarta.mail,1.0.11.6-jre14,jakarta.mail,1.0.11.6-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.11.7-jre14` // `com.guicedee.services,jakarta.mail,1.0.11.7-jre14,jakarta.mail,1.0.11.7-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.0-jre14,jakarta.mail,1.0.12.0-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.1-jre14,jakarta.mail,1.0.12.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.2-jre13,jakarta.mail,1.0.4.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.3-jre13,jakarta.mail,1.0.4.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.4-jre13,jakarta.mail,1.0.4.4-jre13,explicit,java.base,false,-`
@@ -5710,6 +5712,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.11.6-jre14` // `com.guicedee.services,log4j-core,1.0.11.6-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.11.7-jre14` // `com.guicedee.services,log4j-core,1.0.11.7-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.0-jre14` // `com.guicedee.services,log4j-core,1.0.12.0-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.1-jre14` // `com.guicedee.services,log4j-core,1.0.12.1-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.12-jre14` // `com.guicedee.services,log4j-core,1.0.8.12-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.16-jre14` // `com.guicedee.services,log4j-core,1.0.8.16-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
@@ -8396,6 +8399,7 @@
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.11.6-jre14` // `com.guicedee.services,sl4j,1.0.11.6-jre14,org.slf4j,1.0.11.6-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.11.7-jre14` // `com.guicedee.services,sl4j,1.0.11.7-jre14,org.slf4j,1.0.11.7-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.0-jre14` // `com.guicedee.services,sl4j,1.0.12.0-jre14,org.slf4j,1.0.12.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.1-jre14` // `com.guicedee.services,sl4j,1.0.12.1-jre14,org.slf4j,1.0.12.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.11-jre14` // `com.guicedee.services,sl4j,1.0.9.11-jre14,org.slf4j,1.0.9.11-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.13-jre14` // `com.guicedee.services,sl4j,1.0.9.13-jre14,org.slf4j,1.0.9.13-jre14,explicit,java.base,false,-`
@@ -8472,6 +8476,7 @@
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.2` // `org.tinylog,tinylog-api-scala_2.12,2.1.2,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.12.0` // `org.trellisldp,trellis-constraint,0.12.0,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.12.1` // `org.trellisldp,trellis-constraint,0.12.1,org.trellisldp.constraint,-,automatic,-,false,-`
+- :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.12.2` // `org.trellisldp,trellis-constraint,0.12.2,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`

@@ -17117,9 +17117,11 @@
 - :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.0-BETA` // `org.tools4j,elara-chronicle,1.0-BETA,org.tools4j.elara-chronicle,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.1` // `org.tools4j,elara-chronicle,1.1,org.tools4j.elara-chronicle,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.2` // `org.tools4j,elara-chronicle,1.2,org.tools4j.elara-chronicle,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-chronicle` - `org.tools4j:elara-chronicle:1.3` // `org.tools4j,elara-chronicle,1.3,org.tools4j.elara-chronicle,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.0-BETA` // `org.tools4j,elara-core,1.0-BETA,org.tools4j.elara-core,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.1` // `org.tools4j,elara-core,1.1,org.tools4j.elara-core,-,automatic,-,false,-`
 - :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.2` // `org.tools4j,elara-core,1.2,org.tools4j.elara-core,-,automatic,-,false,-`
+- :cd: `org.tools4j.elara-core` - `org.tools4j:elara-core:1.3` // `org.tools4j,elara-core,1.3,org.tools4j.elara-core,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.6` // `org.typemeta,funcj-codec,0.6.6,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec` - `org.typemeta:funcj-codec:0.6.7` // `org.typemeta,funcj-codec,0.6.7,org.typemeta.funcj-codec,-,automatic,-,false,-`
 - :cd: `org.typemeta.funcj-codec-core` - `org.typemeta:funcj-codec-core:0.6.11` // `org.typemeta,funcj-codec-core,0.6.11,org.typemeta.funcj-codec-core,-,automatic,-,false,-`

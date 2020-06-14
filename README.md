@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7061 Java modules published at Maven Central
 
-## Summary 2020-06-13T01:37:31.664695Z
+## Summary 2020-06-14T01:37:32.292847Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-13T01:37:31.664695Z
-Scanned 53,873 files in 8 seconds.
+Started scan at 2020-06-14T01:37:32.292847Z
+Scanned 53,954 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_13_01_16_10.csv
+    last -> modulescanner-report-2020_06_14_01_17_46.csv
 
-Parsed 3,629,065 lines in total.
-  57,591 -> captions skipped
-  317,861 -> duplicates skipped
-  175,601 -> module related
+Parsed 3,631,700 lines in total.
+  57,670 -> captions skipped
+  318,339 -> duplicates skipped
+  175,663 -> module related
 
 Collected 7,061 unique modules.
   automatic :cd: -> 5,070
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=3661, explicit=429, plain=59192}` 	 6.91%
+ - `2020_06={automatic=3704, explicit=432, plain=61208}` 	 6.76%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,9 +116,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18046](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24311](suspicious/naming.md)
-- Modular impostors: [8751](suspicious/impostors.md)
+- Invalid module names: [18048](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24320](suspicious/naming.md)
+- Modular impostors: [8756](suspicious/impostors.md)
 
 ## Unique Modules (7061)
 
@@ -1125,7 +1125,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.86`
-- :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.4`
+- :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.6`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.14`
 - :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.14`
 - :dvd: `io.github.factoryfx.factory` - `io.github.factoryfx:factory:2.2.14`
@@ -2103,7 +2103,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
 - :dvd: `xyz.cofe.cxel` - `xyz.cofe:cxel:0.3`
-- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.3.2`
+- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.4`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
