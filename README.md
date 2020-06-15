@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7061 Java modules published at Maven Central
+Counted 7066 Java modules published at Maven Central
 
-## Summary 2020-06-14T01:37:32.292847Z
+## Summary 2020-06-15T01:37:51.988485Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-14T01:37:32.292847Z
-Scanned 53,954 files in 8 seconds.
+Started scan at 2020-06-15T01:37:51.988485Z
+Scanned 54,040 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_14_01_17_46.csv
+    last -> modulescanner-report-2020_06_15_01_23_21.csv
 
-Parsed 3,631,700 lines in total.
-  57,670 -> captions skipped
-  318,339 -> duplicates skipped
-  175,663 -> module related
+Parsed 3,634,390 lines in total.
+  57,756 -> captions skipped
+  319,175 -> duplicates skipped
+  175,729 -> module related
 
-Collected 7,061 unique modules.
+Collected 7,066 unique modules.
   automatic :cd: -> 5,070
-  explicit :dvd: -> 1,991
+  explicit :dvd: -> 1,996
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=3704, explicit=432, plain=61208}` 	 6.76%
+ - `2020_06={automatic=3737, explicit=440, plain=62910}` 	 6.64%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18048](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24320](suspicious/naming.md)
-- Modular impostors: [8756](suspicious/impostors.md)
+- Invalid module names: [18049](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24336](suspicious/naming.md)
+- Modular impostors: [8764](suspicious/impostors.md)
 
-## Unique Modules (7061)
+## Unique Modules (7066)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -181,9 +181,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.launcher.shared` - `be.yildiz-games:launcher-shared:1.0.3`
 - :dvd: `be.yildizgames.module.audio` - `be.yildiz-games:module-audio:2.0.7`
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
-- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.0.2`
+- :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.1.0`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.8`
-- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.2`
+- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.3`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.5`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
@@ -488,6 +488,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.themrmilchmann.kopt` - `com.github.themrmilchmann.kopt:kopt:0.4.0`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-events:2.0.1`
 - :dvd: `com.github.themrmilchmann.mjl.options` - `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
+- :dvd: `com.github.wnameless.advancedoptional` - `com.github.wnameless:advanced-optional:1.0.1`
 - :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.1`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
@@ -1353,6 +1354,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `jfxtras.icalendarfx` - `org.jfxtras:jfxtras-icalendarfx:10.0-r1`
 - :dvd: `jfxtras.menu` - `org.jfxtras:jfxtras-menu:10.0-r1`
 - :dvd: `jfxtras.window` - `org.jfxtras:jfxtras-window:10.0-r1`
+- :dvd: `ky.korins.swrng` - `ky.korins:swrng-provider:1.0.0`
 - :dvd: `kz.btsd.bot.botsdk` - `kz.btsd:bot-sdk:1.0.0`
 - :dvd: `kz.btsd.bot.scenario.sdk` - `kz.btsd:bot-scenario-sdk:1.0.0`
 - :dvd: `moe.maple.crypto` - `moe.maple:crypto:1.1.0`
@@ -2019,6 +2021,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `se.l4.commons.types` - `se.l4.commons:commons-types:1.2.1`
 - :dvd: `se.l4.crayon` - `se.l4.crayon:crayon-core:1.1.0`
 - :dvd: `se.l4.crayon.services` - `se.l4.crayon:crayon-lib-services:1.1.0`
+- :dvd: `se.l4.vibe` - `se.l4.vibe:vibe-api:0.4.0`
+- :dvd: `se.l4.vibe.influxdb` - `se.l4.vibe:vibe-backend-influxdb:0.4.0`
+- :dvd: `se.l4.vibe.mail` - `se.l4.vibe:vibe-backend-mail:0.4.0`
 - :dvd: `si.uom.quantity` - `si.uom:si-quantity:2.0.1`
 - :dvd: `si.uom.units` - `si.uom:si-units:2.0.1`
 - :dvd: `swim.api` - `ai.swim:swim-api:3.10.0`
@@ -2103,7 +2108,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
 - :dvd: `xyz.cofe.cxel` - `xyz.cofe:cxel:0.3`
-- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.4`
+- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.5`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
