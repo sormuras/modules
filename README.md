@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7066 Java modules published at Maven Central
+Counted 7093 Java modules published at Maven Central
 
-## Summary 2020-06-15T01:37:51.988485Z
+## Summary 2020-06-16T01:38:36.011785Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-15T01:37:51.988485Z
-Scanned 54,040 files in 8 seconds.
+Started scan at 2020-06-16T01:38:36.011785Z
+Scanned 54,118 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_15_01_23_21.csv
+    last -> modulescanner-report-2020_06_16_01_26_57.csv
 
-Parsed 3,634,390 lines in total.
-  57,756 -> captions skipped
-  319,175 -> duplicates skipped
-  175,729 -> module related
+Parsed 3,641,768 lines in total.
+  57,834 -> captions skipped
+  320,661 -> duplicates skipped
+  176,439 -> module related
 
-Collected 7,066 unique modules.
-  automatic :cd: -> 5,070
-  explicit :dvd: -> 1,996
+Collected 7,093 unique modules.
+  automatic :cd: -> 5,088
+  explicit :dvd: -> 2,005
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=3737, explicit=440, plain=62910}` 	 6.64%
+ - `2020_06={automatic=4188, explicit=452, plain=68014}` 	 6.82%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18049](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24336](suspicious/naming.md)
-- Modular impostors: [8764](suspicious/impostors.md)
+- Invalid module names: [18223](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24349](suspicious/naming.md)
+- Modular impostors: [8824](suspicious/impostors.md)
 
-## Unique Modules (7066)
+## Unique Modules (7093)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -325,8 +325,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.2`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.2`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.0`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.0`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.1`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
@@ -491,6 +491,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.wnameless.advancedoptional` - `com.github.wnameless:advanced-optional:1.0.1`
 - :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.1`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
+- :dvd: `com.github.wnameless.json.flattener` - `com.github.wnameless.json:json-flattener:0.9.0`
+- :dvd: `com.github.wnameless.spring.routing.resolver` - `com.github.wnameless.spring:spring-routing-resolver:0.6.0`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
 - :dvd: `com.gluonhq.attach.accelerometer` - `com.gluonhq.attach:accelerometer:4.0.7`
 - :dvd: `com.gluonhq.attach.audio.recording` - `com.gluonhq.attach:audio-recording:4.0.7`
@@ -1078,6 +1080,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
+- :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.7`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.40`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
@@ -1722,6 +1725,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
 - :dvd: `org.jfree.svg` :left_right_arrow: `org.jfree:org.jfree.svg:4.1`
 - :dvd: `org.jfxtras.styles.jmetro` - `org.jfxtras:jmetro:11.6.12`
+- :dvd: `org.jgrapht.core` - `org.jgrapht:jgrapht-core:1.5.0`
+- :dvd: `org.jgrapht.demo` - `org.jgrapht:jgrapht-demo:1.5.0`
+- :dvd: `org.jgrapht.ext` - `org.jgrapht:jgrapht-ext:1.5.0`
+- :dvd: `org.jgrapht.guava` - `org.jgrapht:jgrapht-guava:1.5.0`
+- :dvd: `org.jgrapht.io` - `org.jgrapht:jgrapht-io:1.5.0`
+- :dvd: `org.jgrapht.opt` - `org.jgrapht:jgrapht-opt:1.5.0`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
