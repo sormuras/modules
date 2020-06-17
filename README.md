@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7093 Java modules published at Maven Central
+Counted 7114 Java modules published at Maven Central
 
-## Summary 2020-06-16T01:38:36.011785Z
+## Summary 2020-06-17T01:39:29.078199Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-16T01:38:36.011785Z
-Scanned 54,118 files in 8 seconds.
+Started scan at 2020-06-17T01:39:29.078199Z
+Scanned 54,201 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_16_01_26_57.csv
+    last -> modulescanner-report-2020_06_17_01_01_47.csv
 
-Parsed 3,641,768 lines in total.
-  57,834 -> captions skipped
-  320,661 -> duplicates skipped
-  176,439 -> module related
+Parsed 3,647,958 lines in total.
+  57,915 -> captions skipped
+  321,231 -> duplicates skipped
+  176,867 -> module related
 
-Collected 7,093 unique modules.
-  automatic :cd: -> 5,088
-  explicit :dvd: -> 2,005
+Collected 7,114 unique modules.
+  automatic :cd: -> 5,090
+  explicit :dvd: -> 2,024
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=4188, explicit=452, plain=68014}` 	 6.82%
+ - `2020_06={automatic=4540, explicit=497, plain=73125}` 	 6.89%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,10 +117,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [18223](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24349](suspicious/naming.md)
-- Modular impostors: [8824](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24360](suspicious/naming.md)
+- Modular impostors: [8844](suspicious/impostors.md)
 
-## Unique Modules (7093)
+## Unique Modules (7114)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -489,7 +489,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-events:2.0.1`
 - :dvd: `com.github.themrmilchmann.mjl.options` - `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
 - :dvd: `com.github.wnameless.advancedoptional` - `com.github.wnameless:advanced-optional:1.0.1`
-- :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.1`
+- :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.2`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
 - :dvd: `com.github.wnameless.json.flattener` - `com.github.wnameless.json:json-flattener:0.9.0`
 - :dvd: `com.github.wnameless.spring.routing.resolver` - `com.github.wnameless.spring:spring-routing-resolver:0.6.0`
@@ -1082,7 +1082,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.7`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.40`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.41`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
@@ -1926,17 +1926,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.transentials.cardhouse.commons` - `org.transentials:cardhouse-commons:1.1.1`
 - :dvd: `org.update4j` - `org.update4j:update4j:1.4.5`
 - :dvd: `org.xbib.charset` - `org.xbib:bibliographic-character-sets:2.0.0`
-- :dvd: `org.xbib.content.core` - `org.xbib:content-core:2.2.0`
-- :dvd: `org.xbib.content.csv` - `org.xbib:content-csv:2.2.0`
-- :dvd: `org.xbib.content.json` - `org.xbib:content-json:2.2.0`
-- :dvd: `org.xbib.content.language` - `org.xbib:content-language:2.2.0`
-- :dvd: `org.xbib.content.rdf` - `org.xbib:content-rdf:2.2.0`
-- :dvd: `org.xbib.content.resource` - `org.xbib:content-resource:2.2.0`
-- :dvd: `org.xbib.content.smile` - `org.xbib:content-smile:2.2.0`
-- :dvd: `org.xbib.content.xml` - `org.xbib:content-xml:2.2.0`
-- :dvd: `org.xbib.content.yaml` - `org.xbib:content-yaml:2.2.0`
-- :dvd: `org.xbib.cql` - `org.xbib:cql-common:3.0.0`
-- :dvd: `org.xbib.cql.elasticsearch` - `org.xbib:cql-elasticsearch:3.0.0`
+- :dvd: `org.xbib.content.core` - `org.xbib:content-core:2.3.1`
+- :dvd: `org.xbib.content.csv` - `org.xbib:content-csv:2.3.1`
+- :dvd: `org.xbib.content.json` - `org.xbib:content-json:2.3.1`
+- :dvd: `org.xbib.content.language` - `org.xbib:content-language:2.3.1`
+- :dvd: `org.xbib.content.rdf` - `org.xbib:content-rdf:2.3.1`
+- :dvd: `org.xbib.content.resource` - `org.xbib:content-resource:2.3.1`
+- :dvd: `org.xbib.content.smile` - `org.xbib:content-smile:2.3.1`
+- :dvd: `org.xbib.content.xml` - `org.xbib:content-xml:2.3.1`
+- :dvd: `org.xbib.content.yaml` - `org.xbib:content-yaml:2.3.1`
+- :dvd: `org.xbib.cql` - `org.xbib:cql-common:3.0.1`
+- :dvd: `org.xbib.cql.elasticsearch` - `org.xbib:cql-elasticsearch:3.0.1`
 - :dvd: `org.xbib.elasticsearch.ant` - `org.xbib.elasticsearch:ant:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.classloader` - `org.xbib.elasticsearch:classloader:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.guava` - `org.xbib.elasticsearch:guava:6.3.2.1`
@@ -1969,6 +1969,21 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.elx.transport` - `org.xbib:elx-transport:6.3.2.7`
 - :dvd: `org.xbib.guava` - `org.xbib:guava:28.1`
 - :dvd: `org.xbib.guice` - `org.xbib:guice:4.4.2`
+- :dvd: `org.xbib.interlibrary.action.avail` - `org.xbib:interlibrary-action-avail:3.0.0`
+- :dvd: `org.xbib.interlibrary.action.config` - `org.xbib:interlibrary-action-config:3.0.0`
+- :dvd: `org.xbib.interlibrary.action.resolve` - `org.xbib:interlibrary-action-resolve:3.0.0`
+- :dvd: `org.xbib.interlibrary.action.search` - `org.xbib:interlibrary-action-search:3.0.0`
+- :dvd: `org.xbib.interlibrary.api` - `org.xbib:interlibrary-api:3.0.0`
+- :dvd: `org.xbib.interlibrary.common` - `org.xbib:interlibrary-common:3.0.0`
+- :dvd: `org.xbib.interlibrary.ldap` - `org.xbib:interlibrary-ldap:3.0.0`
+- :dvd: `org.xbib.interlibrary.z` - `org.xbib:interlibrary-z:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.bvb` - `org.xbib:interlibrary-z-bvb:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.gbv` - `org.xbib:interlibrary-z-gbv:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.hbz` - `org.xbib:interlibrary-z-hbz:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.hebis` - `org.xbib:interlibrary-z-hebis:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.kobv` - `org.xbib:interlibrary-z-kobv:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.swb` - `org.xbib:interlibrary-z-swb:3.0.0`
+- :dvd: `org.xbib.interlibrary.z.zdb` - `org.xbib:interlibrary-z-zdb:3.0.0`
 - :dvd: `org.xbib.io.archive` - `org.xbib:io-archive:1.0.1`
 - :dvd: `org.xbib.io.archive.ar` - `org.xbib:io-archive-ar:1.0.1`
 - :dvd: `org.xbib.io.archive.cpio` - `org.xbib:io-archive-cpio:1.0.1`
@@ -1987,15 +2002,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.1.0`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.1.0`
-- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.49.1`
-- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.49.1`
-- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.49.1`
-- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.49.1`
-- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.49.1`
-- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.49.1`
-- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.49.1`
-- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.49.1`
-- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.49.1`
+- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.50.1`
+- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.50.1`
+- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.50.1`
+- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.50.1`
+- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.50.1`
+- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.50.1`
+- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.50.1`
+- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.50.1`
+- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.50.1`
 - :dvd: `org.xbib.oai` - `org.xbib:oai-common:2.3.0`
 - :dvd: `org.xbib.oai.client` - `org.xbib:oai-client:2.3.0`
 - :dvd: `org.xbib.rpm` - `org.xbib:rpm-core:2.0.0`
@@ -2110,18 +2125,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.4.2-V20`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.3-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
 - :dvd: `xyz.cofe.cxel` - `xyz.cofe:cxel:0.3`
+- :dvd: `xyz.cofe.data.events` - `xyz.cofe:data-events:1.0`
+- :dvd: `xyz.cofe.data.table` - `xyz.cofe:data-table:1.0`
 - :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.5`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
 - :dvd: `xyz.cofe.simpletypes` - `xyz.cofe:simple-types:1.0`
+- :dvd: `xyz.cofe.sql.cpool` - `xyz.cofe:cpool:1.0`
+- :dvd: `xyz.cofe.sql.stream` - `xyz.cofe:sql-stream:1.0`
 - :dvd: `xyz.cofe.text` - `xyz.cofe:text:1.0`
 - :dvd: `xyz.cofe.text.lex` - `xyz.cofe:text-lex:1.0`
 - :dvd: `xyz.cofe.text.out` - `xyz.cofe:text-out:1.0`
