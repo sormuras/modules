@@ -340,9 +340,11 @@
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.0` // `za.co.absa.spline,admin,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.1` // `za.co.absa.spline,admin,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.2` // `za.co.absa.spline,admin,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.3` // `za.co.absa.spline,admin,0.5.3,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.0` // `za.co.absa.spline,rest-api-doc-generator,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.1` // `za.co.absa.spline,rest-api-doc-generator,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.2` // `za.co.absa.spline,rest-api-doc-generator,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.3` // `za.co.absa.spline,rest-api-doc-generator,0.5.3,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.0` // `com.hortonworks.registries,avro-examples,0.9.0,com.fasterxml.jackson.dataformat.csv,2.10.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.3.0` // `io.bdeploy,api,2.3.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.4.0` // `io.bdeploy,api,2.4.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
@@ -5349,6 +5351,7 @@
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.5-native-mt-1.4-M1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.5-native-mt-1.4-M1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.6` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.7` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.3.7-native-mt-1.4-M2` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.3.7-native-mt-1.4-M2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.2` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.3` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5365,6 +5368,7 @@
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.14.0` // `co.elastic.apm,apm-agent-attach,1.14.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.15.0` // `co.elastic.apm,apm-agent-attach,1.15.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.16.0` // `co.elastic.apm,apm-agent-attach,1.16.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.17.0` // `co.elastic.apm,apm-agent-attach,1.17.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.4.0` // `co.elastic.apm,apm-agent-attach,1.4.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.5.0` // `co.elastic.apm,apm-agent-attach,1.5.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.6.0` // `co.elastic.apm,apm-agent-attach,1.6.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5384,6 +5388,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc3` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.0-rc4` // `com.google.gerrit,gerrit-acceptance-framework,3.2.0-rc4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -5825,6 +5830,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.4.2` // `com.nimblygames.packr,packr-all,2.4.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.5.0` // `com.nimblygames.packr,packr-all,2.5.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.0` // `com.nimblygames.packr,packr-all,2.6.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.2` // `com.nimblygames.packr,packr-all,2.6.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.0` // `com.sagframe,sqltoy-quickvo,4.10.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -5907,6 +5913,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.119` // `io.nosqlbench,driver-cql-shaded,3.12.119,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.120` // `io.nosqlbench,driver-cql-shaded,3.12.120,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.121` // `io.nosqlbench,driver-cql-shaded,3.12.121,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.122` // `io.nosqlbench,driver-cql-shaded,3.12.122,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6096,6 +6103,7 @@
 - :dvd: `org.apache.logging.log4j` - `me.escoffier.fluid:review-example:0.8` // `me.escoffier.fluid,review-example,0.8,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.security.x509.X500Name               Use javax.security.auth.x500.X500Principal @since 1.4`
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.3` // `net.corda,corda-tools-blob-inspector,4.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `net.corda:corda-tools-blob-inspector:4.4` // `net.corda,corda-tools-blob-inspector,4.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `nl.basjes.parse.useragent:yauaa-commandline:5.18` // `nl.basjes.parse.useragent,yauaa-commandline,5.18,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.flink:statefun-ridesharing-example-simulator:2.0.0` // `org.apache.flink,statefun-ridesharing-example-simulator,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.flink:statefun-ridesharing-example-simulator:2.1.0` // `org.apache.flink,statefun-ridesharing-example-simulator,2.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.hbase.operator.tools:hbase-hbck2:1.0.0` // `org.apache.hbase.operator.tools,hbase-hbck2,1.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -6107,6 +6115,7 @@
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.0` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.1` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.5.2` // `org.apache.pulsar,pulsar-functions-runtime-all,2.5.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.apache.pulsar:pulsar-functions-runtime-all:2.6.0` // `org.apache.pulsar,pulsar-functions-runtime-all,2.6.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:blobstore-migrator:2.0.0` // `org.apache.storm,blobstore-migrator,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:blobstore-migrator:2.1.0` // `org.apache.storm,blobstore-migrator,2.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.apache.storm:flux-examples:2.0.0` // `org.apache.storm,flux-examples,2.0.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -6329,6 +6338,8 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.234.10` // `com.yahoo.vespa,vespa-hadoop,7.234.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.235.16` // `com.yahoo.vespa,vespa-hadoop,7.235.16,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.236.32` // `com.yahoo.vespa,vespa-hadoop,7.236.32,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.237.14` // `com.yahoo.vespa,vespa-hadoop,7.237.14,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.238.12` // `com.yahoo.vespa,vespa-hadoop,7.238.12,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7762,6 +7773,7 @@
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc3` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc3,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.0-rc4` // `com.google.gerrit,gerrit-plugin-api,3.2.0-rc4,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.1` // `com.google.gerrit,gerrit-plugin-api,3.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.google.gerrit:gerrit-plugin-api:3.2.2` // `com.google.gerrit,gerrit-plugin-api,3.2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.7.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.7.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.8.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.8.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.objectweb.asm` - `com.graphaware.neo4j:graphaware-framework-embedded:3.4.9.52` // `com.graphaware.neo4j,graphaware-framework-embedded,3.4.9.52,org.objectweb.asm,6.2.0,explicit,java.base,false,sun.misc.Cleaner                         Use java.lang.ref.PhantomReference @since 1.2 or java.lang.ref.Cleaner @since 9 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -8579,6 +8591,7 @@
 - :dvd: `se.l4.commons.guice` - `se.l4.commons:commons-guice:1.1.0` // `se.l4.commons,commons-guice,1.1.0,se.l4.commons.guice,-,explicit,java.base + se.l4.commons.types + com.google.guice,true,-`
 - :dvd: `se.l4.commons.guice` - `se.l4.commons:commons-guice:1.2.0` // `se.l4.commons,commons-guice,1.2.0,se.l4.commons.guice,1.2.0,explicit,com.google.guice + java.base + se.l4.commons.types,false,-`
 - :dvd: `se.l4.commons.guice` - `se.l4.commons:commons-guice:1.2.1` // `se.l4.commons,commons-guice,1.2.1,se.l4.commons.guice,1.2.1,explicit,com.google.guice + java.base + se.l4.commons.types,false,-`
+- :dvd: `se.l4.commons.guice` - `se.l4.commons:commons-guice:1.2.2` // `se.l4.commons,commons-guice,1.2.2,se.l4.commons.guice,1.2.2,explicit,com.google.guice + java.base + se.l4.commons.types,false,-`
 - :cd: `software.amazon.eventstream` - `software.amazon.eventstream:eventstream:1.0.0` // `software.amazon.eventstream,eventstream,1.0.0,software.amazon.eventstream,-,automatic,-,false,-`
 - :cd: `software.amazon.eventstream` - `software.amazon.eventstream:eventstream:1.0.1` // `software.amazon.eventstream,eventstream,1.0.1,software.amazon.eventstream,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.0.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.0.RELEASE,spring.data.geode,-,automatic,-,false,-`

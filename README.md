@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7114 Java modules published at Maven Central
+Counted 7122 Java modules published at Maven Central
 
-## Summary 2020-06-17T01:39:29.078199Z
+## Summary 2020-06-18T01:40:26.696084Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-17T01:39:29.078199Z
-Scanned 54,201 files in 7 seconds.
+Started scan at 2020-06-18T01:40:26.696084Z
+Scanned 54,287 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_17_01_01_47.csv
+    last -> modulescanner-report-2020_06_18_01_25_27.csv
 
-Parsed 3,647,958 lines in total.
-  57,915 -> captions skipped
-  321,231 -> duplicates skipped
-  176,867 -> module related
+Parsed 3,654,115 lines in total.
+  58,001 -> captions skipped
+  321,841 -> duplicates skipped
+  177,464 -> module related
 
-Collected 7,114 unique modules.
-  automatic :cd: -> 5,090
-  explicit :dvd: -> 2,024
+Collected 7,122 unique modules.
+  automatic :cd: -> 5,096
+  explicit :dvd: -> 2,026
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=4540, explicit=497, plain=73125}` 	 6.89%
+ - `2020_06={automatic=4947, explicit=503, plain=77989}` 	 6.99%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18223](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24360](suspicious/naming.md)
-- Modular impostors: [8844](suspicious/impostors.md)
+- Invalid module names: [18225](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24529](suspicious/naming.md)
+- Modular impostors: [8857](suspicious/impostors.md)
 
-## Unique Modules (7114)
+## Unique Modules (7122)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -490,6 +490,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.themrmilchmann.mjl.options` - `com.github.themrmilchmann.mjl:mjl-options:0.3.0`
 - :dvd: `com.github.wnameless.advancedoptional` - `com.github.wnameless:advanced-optional:1.0.1`
 - :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.2`
+- :dvd: `com.github.wnameless.io.reader.parallel` - `com.github.wnameless.io:parallel-reader:1.0.0`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
 - :dvd: `com.github.wnameless.json.flattener` - `com.github.wnameless.json:json-flattener:0.9.0`
 - :dvd: `com.github.wnameless.spring.routing.resolver` - `com.github.wnameless.spring:spring-routing-resolver:0.6.0`
@@ -2038,11 +2039,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `pw.krejci.log4j2.tracedepth` - `pw.krejci:tracedepth-log4j2-plugin:0.1.0`
 - :dvd: `ro.derbederos.hamcrest` - `ro.derbederos.hamcrest:lambdamatchers:0.17`
 - :dvd: `ro.derbederos.untwist` - `ro.derbederos:untwist:0.5`
+- :dvd: `se.l4.commons.config` - `se.l4.commons:commons-config:1.2.2`
 - :dvd: `se.l4.commons.guice` - `se.l4.commons:commons-config:1.2.1`
-- :dvd: `se.l4.commons.id` - `se.l4.commons:commons-id:1.2.1`
-- :dvd: `se.l4.commons.io` - `se.l4.commons:commons-io:1.2.1`
-- :dvd: `se.l4.commons.serialization` - `se.l4.commons:commons-serialization:1.2.1`
-- :dvd: `se.l4.commons.types` - `se.l4.commons:commons-types:1.2.1`
+- :dvd: `se.l4.commons.id` - `se.l4.commons:commons-id:1.2.2`
+- :dvd: `se.l4.commons.io` - `se.l4.commons:commons-io:1.2.2`
+- :dvd: `se.l4.commons.serialization` - `se.l4.commons:commons-serialization:1.2.2`
+- :dvd: `se.l4.commons.types` - `se.l4.commons:commons-types:1.2.2`
 - :dvd: `se.l4.crayon` - `se.l4.crayon:crayon-core:1.1.0`
 - :dvd: `se.l4.crayon.services` - `se.l4.crayon:crayon-lib-services:1.1.0`
 - :dvd: `se.l4.vibe` - `se.l4.vibe:vibe-api:0.4.0`
