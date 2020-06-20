@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7124 Java modules published at Maven Central
+Counted 7128 Java modules published at Maven Central
 
-## Summary 2020-06-19T01:40:50.068983Z
+## Summary 2020-06-20T01:40:59.593910Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-19T01:40:50.068983Z
-Scanned 54,344 files in 7 seconds.
+Started scan at 2020-06-20T01:40:59.593910Z
+Scanned 54,437 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_19_01_18_38.csv
+    last -> modulescanner-report-2020_06_20_01_22_00.csv
 
-Parsed 3,661,590 lines in total.
-  58,058 -> captions skipped
-  322,233 -> duplicates skipped
-  178,084 -> module related
+Parsed 3,668,523 lines in total.
+  58,151 -> captions skipped
+  323,088 -> duplicates skipped
+  178,484 -> module related
 
-Collected 7,124 unique modules.
-  automatic :cd: -> 5,096
-  explicit :dvd: -> 2,028
+Collected 7,128 unique modules.
+  automatic :cd: -> 5,097
+  explicit :dvd: -> 2,031
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=5262, explicit=639, plain=84395}` 	 6.99%
+ - `2020_06={automatic=5604, explicit=650, plain=89980}` 	 6.95%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18325](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24577](suspicious/naming.md)
-- Modular impostors: [8878](suspicious/impostors.md)
+- Invalid module names: [18332](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24597](suspicious/naming.md)
+- Modular impostors: [8898](suspicious/impostors.md)
 
-## Unique Modules (7124)
+## Unique Modules (7128)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -492,6 +492,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.wnameless.aws.pricelist.api` - `com.github.wnameless.aws:aws-price-list-api:1.0.2`
 - :dvd: `com.github.wnameless.io.reader.parallel` - `com.github.wnameless.io:parallel-reader:1.0.0`
 - :dvd: `com.github.wnameless.json.base` - `com.github.wnameless.json:json-base:1.1.1`
+- :dvd: `com.github.wnameless.json.beanpopulator` - `com.github.wnameless.json:json-bean-populator:0.4.0`
 - :dvd: `com.github.wnameless.json.flattener` - `com.github.wnameless.json:json-flattener:0.9.0`
 - :dvd: `com.github.wnameless.spring.routing.resolver` - `com.github.wnameless.spring:spring-routing-resolver:0.6.0`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
@@ -1030,6 +1031,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.16`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.7.20200620`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1082,7 +1084,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
-- :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.7`
+- :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.41`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
@@ -1250,7 +1252,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.accesslog` - `io.helidon.microprofile:helidon-microprofile-access-log:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.cdi` - `io.helidon.microprofile.cdi:helidon-microprofile-cdi:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.config` - `io.helidon.microprofile.config:helidon-microprofile-config:2.0.0-RC2`
-- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.4`
+- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.5`
 - :dvd: `io.helidon.microprofile.cors` - `io.helidon.microprofile:helidon-microprofile-cors:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.faulttolerance` - `io.helidon.microprofile:helidon-microprofile-fault-tolerance:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.grpc.client` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-client:2.0.0-RC2`
@@ -1259,7 +1261,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.grpc.server` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-server:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.health` - `io.helidon.microprofile.health:helidon-microprofile-health:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.jwt.auth` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:2.0.0-RC2`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.4`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.5`
 - :dvd: `io.helidon.microprofile.messaging` - `io.helidon.microprofile.messaging:helidon-microprofile-messaging:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics:2.0.0-RC2`
 - :dvd: `io.helidon.microprofile.oidc` - `io.helidon.microprofile:helidon-microprofile-oidc:2.0.0-RC2`
@@ -1389,8 +1391,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.1`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.8`
+- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.2`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.9`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.sf.rubycollect4j` - `net.sf.rubycollect4j:rubycollect4j:2.1.1`
@@ -2107,9 +2109,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `swim.web` - `ai.swim:swim-web:3.10.0`
 - :dvd: `swim.ws` - `ai.swim:swim-ws:3.10.0`
 - :dvd: `swim.xml` - `ai.swim:swim-xml:3.10.0`
-- :dvd: `systems.uom.common` - `systems.uom:systems-common:2.0.1`
-- :dvd: `systems.uom.quantity` - `systems.uom:systems-quantity:2.0.1`
-- :dvd: `systems.uom.unicode` - `systems.uom:systems-unicode:2.0.1`
+- :dvd: `systems.uom.common` - `systems.uom:systems-common:2.0.2`
+- :dvd: `systems.uom.quantity` - `systems.uom:systems-quantity:2.0.2`
+- :dvd: `systems.uom.ucum` - `systems.uom:systems-ucum:2.0.2`
+- :dvd: `systems.uom.unicode` - `systems.uom:systems-unicode:2.0.2`
 - :dvd: `tech.pantheon.triemap` - `tech.pantheon.triemap:triemap:1.1.0`
 - :dvd: `tech.units.indriya` - `tech.units:indriya:2.0.2`
 - :dvd: `tech.uom.lib.common` - `tech.uom.lib:uom-lib-common:2.0-PRD`

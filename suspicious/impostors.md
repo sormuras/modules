@@ -2565,6 +2565,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.1` // `com.vladmihalcea,hibernate-types-43,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.10` // `com.vladmihalcea,hibernate-types-43,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.11` // `com.vladmihalcea,hibernate-types-43,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.12` // `com.vladmihalcea,hibernate-types-43,2.9.12,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.2` // `com.vladmihalcea,hibernate-types-43,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.3` // `com.vladmihalcea,hibernate-types-43,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.4` // `com.vladmihalcea,hibernate-types-43,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2593,6 +2594,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.1` // `com.vladmihalcea,hibernate-types-5,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.10` // `com.vladmihalcea,hibernate-types-5,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.11` // `com.vladmihalcea,hibernate-types-5,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.12` // `com.vladmihalcea,hibernate-types-5,2.9.12,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.2` // `com.vladmihalcea,hibernate-types-5,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.3` // `com.vladmihalcea,hibernate-types-5,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.4` // `com.vladmihalcea,hibernate-types-5,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2621,6 +2623,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.1` // `com.vladmihalcea,hibernate-types-52,2.9.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.10` // `com.vladmihalcea,hibernate-types-52,2.9.10,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.11` // `com.vladmihalcea,hibernate-types-52,2.9.11,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.12` // `com.vladmihalcea,hibernate-types-52,2.9.12,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.2` // `com.vladmihalcea,hibernate-types-52,2.9.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.3` // `com.vladmihalcea,hibernate-types-52,2.9.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.9.4` // `com.vladmihalcea,hibernate-types-52,2.9.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -2649,18 +2652,22 @@
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-beta4` // `eu.toop,tc-api,2.0.0-beta4,eu.toop.connector.api,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-beta5` // `eu.toop,tc-api,2.0.0-beta5,eu.toop.connector.api,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-rc1` // `eu.toop,tc-api,2.0.0-rc1,eu.toop.connector.api,-,automatic,-,false,-`
+- :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-rc2` // `eu.toop,tc-api,2.0.0-rc2,eu.toop.connector.api,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.app` - `eu.toop:tc-main:2.0.0-beta3` // `eu.toop,tc-main,2.0.0-beta3,eu.toop.connector.app,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.app` - `eu.toop:tc-main:2.0.0-beta4` // `eu.toop,tc-main,2.0.0-beta4,eu.toop.connector.app,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.app` - `eu.toop:tc-main:2.0.0-beta5` // `eu.toop,tc-main,2.0.0-beta5,eu.toop.connector.app,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.app` - `eu.toop:tc-main:2.0.0-rc1` // `eu.toop,tc-main,2.0.0-rc1,eu.toop.connector.app,-,automatic,-,false,-`
+- :cd: `eu.toop.connector.app` - `eu.toop:tc-main:2.0.0-rc2` // `eu.toop,tc-main,2.0.0-rc2,eu.toop.connector.app,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.def` - `eu.toop:tc-mem-external:2.0.0-beta3` // `eu.toop,tc-mem-external,2.0.0-beta3,eu.toop.connector.mem.def,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.def` - `eu.toop:tc-mem-external:2.0.0-beta4` // `eu.toop,tc-mem-external,2.0.0-beta4,eu.toop.connector.mem.def,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.def` - `eu.toop:tc-mem-external:2.0.0-beta5` // `eu.toop,tc-mem-external,2.0.0-beta5,eu.toop.connector.mem.def,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.def` - `eu.toop:tc-mem-external:2.0.0-rc1` // `eu.toop,tc-mem-external,2.0.0-rc1,eu.toop.connector.mem.def,-,automatic,-,false,-`
+- :cd: `eu.toop.connector.mem.def` - `eu.toop:tc-mem-external:2.0.0-rc2` // `eu.toop,tc-mem-external,2.0.0-rc2,eu.toop.connector.mem.def,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.phase4` - `eu.toop:tc-mem-phase4:2.0.0-beta3` // `eu.toop,tc-mem-phase4,2.0.0-beta3,eu.toop.connector.mem.phase4,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.phase4` - `eu.toop:tc-mem-phase4:2.0.0-beta4` // `eu.toop,tc-mem-phase4,2.0.0-beta4,eu.toop.connector.mem.phase4,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.phase4` - `eu.toop:tc-mem-phase4:2.0.0-beta5` // `eu.toop,tc-mem-phase4,2.0.0-beta5,eu.toop.connector.mem.phase4,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.mem.phase4` - `eu.toop:tc-mem-phase4:2.0.0-rc1` // `eu.toop,tc-mem-phase4,2.0.0-rc1,eu.toop.connector.mem.phase4,-,automatic,-,false,-`
+- :cd: `eu.toop.connector.mem.phase4` - `eu.toop:tc-mem-phase4:2.0.0-rc2` // `eu.toop,tc-mem-phase4,2.0.0-rc2,eu.toop.connector.mem.phase4,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` - `eu.toop:toop-mem-phase4:0.10.0` // `eu.toop,toop-mem-phase4,0.10.0,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` - `eu.toop:toop-mem-phase4:0.10.1` // `eu.toop,toop-mem-phase4,0.10.1,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` - `eu.toop:toop-mem-phase4:0.10.2` // `eu.toop,toop-mem-phase4,0.10.2,eu.toop.connector.r2d2client,-,automatic,-,false,-`
@@ -2689,8 +2696,11 @@
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.1.0` // `com.tngtech.keycloakmock,standalone,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.2.0` // `com.tngtech.keycloakmock,standalone,0.2.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.3.0` // `com.tngtech.keycloakmock,standalone,0.3.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.4.0` // `com.tngtech.keycloakmock,standalone,0.4.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `de.jpdigital:owlapi-simplex-cli:0.1.0` // `de.jpdigital,owlapi-simplex-cli,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `de.jpdigital:owlapi-simplex-cli:0.1.1` // `de.jpdigital,owlapi-simplex-cli,0.1.1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `eu.toop:toop-demoui-dcstandalone:2.0.0-rc1` // `eu.toop,toop-demoui-dcstandalone,2.0.0-rc1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `eu.toop:toop-demoui-dcstandalone:2.0.0-rc2` // `eu.toop,toop-demoui-dcstandalone,2.0.0-rc2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `info.picocli:picocli-jpms-module:4.0.0-alpha-2` // `info.picocli,picocli-jpms-module,4.0.0-alpha-2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `info.picocli:picocli-jpms-module:4.0.0-alpha-3` // `info.picocli,picocli-jpms-module,4.0.0-alpha-3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.0.6` // `io.jooby,jooby-cli,2.0.6,info.picocli,-,explicit,java.base,false,-`
@@ -2865,6 +2875,7 @@
 - :dvd: `io.helidon.metrics` - `io.helidon.metrics:helidon-metrics2:1.4.2` // `io.helidon.metrics,helidon-metrics2,1.4.2,io.helidon.metrics,1.4.2,explicit,io.helidon.common + io.helidon.common.metrics + io.helidon.media.jsonp.server + io.helidon.webserver + java.base + java.json + java.logging + java.management + microprofile.metrics.api,false,-`
 - :dvd: `io.helidon.metrics` - `io.helidon.metrics:helidon-metrics2:1.4.3` // `io.helidon.metrics,helidon-metrics2,1.4.3,io.helidon.metrics,1.4.3,explicit,io.helidon.common + io.helidon.common.metrics + io.helidon.media.jsonp.server + io.helidon.webserver + java.base + java.json + java.logging + java.management + microprofile.metrics.api,false,-`
 - :dvd: `io.helidon.metrics` - `io.helidon.metrics:helidon-metrics2:1.4.4` // `io.helidon.metrics,helidon-metrics2,1.4.4,io.helidon.metrics,1.4.4,explicit,io.helidon.common + io.helidon.common.metrics + io.helidon.media.jsonp.server + io.helidon.webserver + java.base + java.json + java.logging + java.management + microprofile.metrics.api,false,-`
+- :dvd: `io.helidon.metrics` - `io.helidon.metrics:helidon-metrics2:1.4.5` // `io.helidon.metrics,helidon-metrics2,1.4.5,io.helidon.metrics,1.4.5,explicit,io.helidon.common + io.helidon.common.metrics + io.helidon.media.jsonp.server + io.helidon.webserver + java.base + java.json + java.logging + java.management + microprofile.metrics.api,false,-`
 - :dvd: `io.helidon.metrics` - `io.helidon.microprofile.metrics:helidon-metrics-se:0.10.6` // `io.helidon.microprofile.metrics,helidon-metrics-se,0.10.6,io.helidon.metrics,-,explicit,io.helidon.common + io.helidon.webserver + io.helidon.webserver.json + java.base + java.logging + java.management + microprofile.metrics.api + org.glassfish.java.json,false,-`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.3.0` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.3.0,io.helidon.microprofile.metrics,1.3.0,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.3.1` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.3.1,io.helidon.microprofile.metrics,1.3.1,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
@@ -2873,6 +2884,7 @@
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.4.2` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.4.2,io.helidon.microprofile.metrics,1.4.2,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.4.3` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.4.3,io.helidon.microprofile.metrics,1.4.3,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.4.4` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.4.4,io.helidon.microprofile.metrics,1.4.4,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
+- :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics2:1.4.5` // `io.helidon.microprofile.metrics,helidon-microprofile-metrics2,1.4.5,io.helidon.microprofile.metrics,1.4.5,explicit,cdi.api + io.helidon.common.metrics + io.helidon.metrics + io.helidon.microprofile.server + java.annotation + java.base + java.logging + javax.inject + javax.interceptor.api + microprofile.config.api,false,-`
 - :dvd: `io.helidon.security.abac.policy` - `io.helidon.security.abac:helidon-security-abac-policy:0.11.0` // `io.helidon.security.abac,helidon-security-abac-policy,0.11.0,io.helidon.security.abac.policy,-,explicit,io.helidon.security.providers.abac + java.base + java.logging,false,-`
 - :dvd: `io.helidon.security.abac.policy` - `io.helidon.security.abac:helidon-security-abac-policy:0.11.1` // `io.helidon.security.abac,helidon-security-abac-policy,0.11.1,io.helidon.security.abac.policy,-,explicit,io.helidon.security.providers.abac + java.base + java.logging,false,-`
 - :dvd: `io.helidon.security.abac.policy` - `io.helidon.security.abac:helidon-security-abac-policy:1.0.0` // `io.helidon.security.abac,helidon-security-abac-policy,1.0.0,io.helidon.security.abac.policy,-,explicit,io.helidon.security.providers.abac + java.base + java.logging,false,-`
@@ -4436,6 +4448,7 @@
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.3.2` // `io.micronaut,micronaut-spring,1.3.2,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.3.3` // `io.micronaut,micronaut-spring,1.3.3,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:2.0.0.M1` // `io.micronaut,micronaut-spring,2.0.0.M1,io.micronaut.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0` // `io.micronaut.spring,micronaut-spring,2.1.0,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC1` // `io.micronaut.spring,micronaut-spring,2.1.0.RC1,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC2` // `io.micronaut.spring,micronaut-spring,2.1.0.RC2,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC3` // `io.micronaut.spring,micronaut-spring,2.1.0.RC3,io.micronaut.spring.spring,-,automatic,-,false,-`
@@ -4454,6 +4467,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.3` // `io.micronaut.test,micronaut-test-core,1.1.3,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.4` // `io.micronaut.test,micronaut-test-core,1.1.4,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.1.5` // `io.micronaut.test,micronaut-test-core,1.1.5,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0` // `io.micronaut.test,micronaut-test-core,1.2.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC1` // `io.micronaut.test,micronaut-test-core,1.2.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC4` // `io.micronaut.test,micronaut-test-core,1.2.0.RC4,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC5` // `io.micronaut.test,micronaut-test-core,1.2.0.RC5,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -4473,6 +4487,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.3` // `io.micronaut.test,micronaut-test-junit5,1.1.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.4` // `io.micronaut.test,micronaut-test-junit5,1.1.4,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.1.5` // `io.micronaut.test,micronaut-test-junit5,1.1.5,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0` // `io.micronaut.test,micronaut-test-junit5,1.2.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC4` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC4,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC5` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC5,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -4492,6 +4507,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.3` // `io.micronaut.test,micronaut-test-spock,1.1.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.4` // `io.micronaut.test,micronaut-test-spock,1.1.4,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.1.5` // `io.micronaut.test,micronaut-test-spock,1.1.5,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0` // `io.micronaut.test,micronaut-test-spock,1.2.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC4` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC4,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC5` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC5,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -5103,6 +5119,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.6` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.6,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.7` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.7,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.8` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.9` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.0` // `com.undefinedlabs.scope,scope-agent,0.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1` // `com.undefinedlabs.scope,scope-agent,0.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5784,6 +5801,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.2` // `com.github.vzakharchenko,radius-plugin,1.2.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.3` // `com.github.vzakharchenko,radius-plugin,1.2.3,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.4` // `com.github.vzakharchenko,radius-plugin,1.2.4,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.5` // `com.github.vzakharchenko,radius-plugin,1.2.5,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -6872,6 +6890,7 @@
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.4.5` // `org.noear,solonjt.executor.s.graaljs,1.0.4.5,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.4.6` // `org.noear,solonjt.executor.s.graaljs,1.0.4.6,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
 - :dvd: `org.graalvm.truffle` - `org.noear:solonjt.executor.s.graaljs:1.0.4.4` // `org.noear,solonjt.executor.s.graaljs,1.0.4.4,org.graalvm.truffle,-,explicit,java.base + java.desktop + java.logging + java.management + jdk.unsupported + org.graalvm.sdk,false,-`
+- :dvd: `org.graalvm.truffle` - `org.noear:solonjt.executor.s.graaljs:1.0.4.7` // `org.noear,solonjt.executor.s.graaljs,1.0.4.7,org.graalvm.truffle,-,explicit,java.base + java.desktop + java.logging + java.management + jdk.unsupported + org.graalvm.sdk,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-core:2.1` // `org.hamcrest,hamcrest-core,2.1,org.hamcrest,-,automatic,-,false,-`
 - :cd: `org.hamcrest` - `org.hamcrest:hamcrest-library:2.1` // `org.hamcrest,hamcrest-library,2.1,org.hamcrest,-,automatic,-,false,-`
 - :dvd: `org.hibernate.commons.annotations` - `com.guicedee.services:hibernate-commons-annotations:0.70.0.1` // `com.guicedee.services,hibernate-commons-annotations,0.70.0.1,org.hibernate.commons.annotations,0.70.0.1,explicit,java.base + java.compiler + org.jboss.logging,false,-`
@@ -8109,6 +8128,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.58` // `org.reaktivity,nukleus-oauth,0.58,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.59` // `org.reaktivity,nukleus-oauth,0.59,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.60` // `org.reaktivity,nukleus-oauth,0.60,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.61` // `org.reaktivity,nukleus-oauth,0.61,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
