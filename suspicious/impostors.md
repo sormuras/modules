@@ -2726,6 +2726,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.4` // `io.jooby,jooby-cli,2.8.4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.5` // `io.jooby,jooby-cli,2.8.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.6` // `io.jooby,jooby-cli,2.8.6,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.7` // `io.jooby,jooby-cli,2.8.7,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.36` // `org.caseine,caseine.vpl.tools.CLI,0.0.36,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.37` // `org.caseine,caseine.vpl.tools.CLI,0.0.37,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.38` // `org.caseine,caseine.vpl.tools.CLI,0.0.38,info.picocli,-,explicit,java.base,false,-`
@@ -4718,6 +4719,7 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.2-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.2-jre14,jakarta.mail,1.0.12.2-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.3-jre14,jakarta.mail,1.0.12.3-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.4-jre14,jakarta.mail,1.0.12.4-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.12.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.12.5-jre14,jakarta.mail,1.0.12.5-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.2-jre13,jakarta.mail,1.0.4.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.3-jre13,jakarta.mail,1.0.4.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.4-jre13,jakarta.mail,1.0.4.4-jre13,explicit,java.base,false,-`
@@ -5645,6 +5647,7 @@
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.10-0` // `de.knightsoft-net,gwt-commons-lang3,3.10-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.10-1` // `de.knightsoft-net,gwt-commons-lang3,3.10-1,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.10-2` // `de.knightsoft-net,gwt-commons-lang3,3.10-2,org.apache.commons.lang3,-,automatic,-,false,-`
+- :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.10-3` // `de.knightsoft-net,gwt-commons-lang3,3.10-3,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.7-0` // `de.knightsoft-net,gwt-commons-lang3,3.7-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.8-0` // `de.knightsoft-net,gwt-commons-lang3,3.8-0,org.apache.commons.lang3,-,automatic,-,false,-`
 - :cd: `org.apache.commons.lang3` - `de.knightsoft-net:gwt-commons-lang3:3.8.1-0` // `de.knightsoft-net,gwt-commons-lang3,3.8.1-0,org.apache.commons.lang3,-,automatic,-,false,-`
@@ -5827,6 +5830,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.2-jre14` // `com.guicedee.services,log4j-core,1.0.12.2-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.3-jre14` // `com.guicedee.services,log4j-core,1.0.12.3-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.4-jre14` // `com.guicedee.services,log4j-core,1.0.12.4-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.12.5-jre14` // `com.guicedee.services,log4j-core,1.0.12.5-jre14,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.12-jre14` // `com.guicedee.services,log4j-core,1.0.8.12-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.16-jre14` // `com.guicedee.services,log4j-core,1.0.8.16-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.guicedee.services:log4j-core:1.0.8.18-jre14` // `com.guicedee.services,log4j-core,1.0.8.18-jre14,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
@@ -8491,6 +8495,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M3` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M3,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M4` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M4,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M5` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M5,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M6` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.100` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.100,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.104` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.104,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
@@ -8511,6 +8516,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.53` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.53,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.54` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.54,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.55` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.55,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.56` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.56,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
@@ -8541,6 +8547,7 @@
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.2-jre14` // `com.guicedee.services,sl4j,1.0.12.2-jre14,org.slf4j,1.0.12.2-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.3-jre14` // `com.guicedee.services,sl4j,1.0.12.3-jre14,org.slf4j,1.0.12.3-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.4-jre14` // `com.guicedee.services,sl4j,1.0.12.4-jre14,org.slf4j,1.0.12.4-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.12.5-jre14` // `com.guicedee.services,sl4j,1.0.12.5-jre14,org.slf4j,1.0.12.5-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.10-jre14` // `com.guicedee.services,sl4j,1.0.9.10-jre14,org.slf4j,1.0.9.10-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.11-jre14` // `com.guicedee.services,sl4j,1.0.9.11-jre14,org.slf4j,1.0.9.11-jre14,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.9.13-jre14` // `com.guicedee.services,sl4j,1.0.9.13-jre14,org.slf4j,1.0.9.13-jre14,explicit,java.base,false,-`

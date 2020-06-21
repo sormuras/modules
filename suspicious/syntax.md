@@ -15218,6 +15218,7 @@
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.0-rc4` // `org.simplejavamail,cli-module,6.0.0-rc4,cli-module,-,automatic,-,false,-`
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.1` // `org.simplejavamail,cli-module,6.0.1,cli-module,-,automatic,-,false,-`
 - :cd: `cli-module` :left_right_arrow: `org.simplejavamail:cli-module:6.0.2` // `org.simplejavamail,cli-module,6.0.2,cli-module,-,automatic,-,false,-`
+- :cd: `com.beanit.asn1bean-compiler` - `com.beanit:asn1bean-compiler:1.12.0` // `com.beanit,asn1bean-compiler,1.12.0,com.beanit.asn1bean-compiler,-,automatic,-,false,-`
 - :cd: `com.beanit.jasn1-compiler` - `com.beanit:jasn1-compiler:1.11.3` // `com.beanit,jasn1-compiler,1.11.3,com.beanit.jasn1-compiler,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.examples.quarkus.testsuite.native.h2` - `com.blazebit:blaze-persistence-examples-quarkus-testsuite-native-h2:1.5.0-Alpha3` // `com.blazebit,blaze-persistence-examples-quarkus-testsuite-native-h2,1.5.0-Alpha3,com.blazebit.persistence.examples.quarkus.testsuite.native.h2,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.examples.quarkus.testsuite.native.h2` - `com.blazebit:blaze-persistence-examples-quarkus-testsuite-native-h2:1.5.0-Alpha4` // `com.blazebit,blaze-persistence-examples-quarkus-testsuite-native-h2,1.5.0-Alpha4,com.blazebit.persistence.examples.quarkus.testsuite.native.h2,-,automatic,-,false,-`
@@ -15865,10 +15866,12 @@
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.1-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.1-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.2-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.2-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.3-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.3-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
+- :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.4-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.4-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.0-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.0-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.1-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.1-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.2-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.2-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.3-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.3-RELEASE,jt.808.server.support,-,automatic,-,false,-`
+- :cd: `jt.808.server.support` - `io.github.hylexus.jt:jt-808-server-support:1.0.4-RELEASE` // `io.github.hylexus.jt,jt-808-server-support,1.0.4-RELEASE,jt.808.server.support,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.0` // `net.dreamlu,mica-plus-error-catch,1.1.0,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.1` // `net.dreamlu,mica-plus-error-catch,1.1.1,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.1.2` // `net.dreamlu,mica-plus-error-catch,1.1.2,mica.plus.error.catch,-,automatic,-,false,-`

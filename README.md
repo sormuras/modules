@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7128 Java modules published at Maven Central
+Counted 7131 Java modules published at Maven Central
 
-## Summary 2020-06-20T01:40:59.593910Z
+## Summary 2020-06-21T01:41:59.480990Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-20T01:40:59.593910Z
-Scanned 54,437 files in 7 seconds.
+Started scan at 2020-06-21T01:41:59.480990Z
+Scanned 54,532 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_20_01_22_00.csv
+    last -> modulescanner-report-2020_06_21_01_23_18.csv
 
-Parsed 3,668,523 lines in total.
-  58,151 -> captions skipped
-  323,088 -> duplicates skipped
-  178,484 -> module related
+Parsed 3,671,007 lines in total.
+  58,246 -> captions skipped
+  323,335 -> duplicates skipped
+  178,554 -> module related
 
-Collected 7,128 unique modules.
-  automatic :cd: -> 5,097
+Collected 7,131 unique modules.
+  automatic :cd: -> 5,100
   explicit :dvd: -> 2,031
 
 ## Samples
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=5604, explicit=650, plain=89980}` 	 6.95%
+ - `2020_06={automatic=5631, explicit=653, plain=92052}` 	 6.83%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18332](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24597](suspicious/naming.md)
-- Modular impostors: [8898](suspicious/impostors.md)
+- Invalid module names: [18335](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24627](suspicious/naming.md)
+- Modular impostors: [8905](suspicious/impostors.md)
 
-## Unique Modules (7128)
+## Unique Modules (7131)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1031,7 +1031,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.16`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
-- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.7.20200620`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200621`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1375,8 +1375,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `moe.tristan.easyfxml.natives.platform` - `moe.tristan:easyfxml-platform:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.form.user` - `moe.tristan:easyfxml-sample-form-user:3.3.0`
 - :dvd: `moe.tristan.easyfxml.samples.helloworld` - `moe.tristan:easyfxml-sample-hello-world:3.3.0`
-- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.3.3`
-- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.3.3`
+- :dvd: `net.adoptopenjdk.v3.api` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.api:0.4.0`
+- :dvd: `net.adoptopenjdk.v3.vanilla` :left_right_arrow: `net.adoptopenjdk:net.adoptopenjdk.v3.vanilla:0.4.0`
 - :dvd: `net.bbmsoft.audio.controls` - `net.bbmsoft:audio-controls:0.1.0`
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.1`
