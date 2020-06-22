@@ -8133,6 +8133,8 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.59` // `org.reaktivity,nukleus-oauth,0.59,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.60` // `org.reaktivity,nukleus-oauth,0.60,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.61` // `org.reaktivity,nukleus-oauth,0.61,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
+- :dvd: `org.seleniumhq.selenium.java` - `io.github.multicatch:cucumber-audit-standalone:1.0.0` // `io.github.multicatch,cucumber-audit-standalone,1.0.0,org.seleniumhq.selenium.java,-,explicit,java.base,false,-`
+- :dvd: `org.seleniumhq.selenium.java` - `io.github.multicatch:cucumber-audit-standalone:1.0.1` // `io.github.multicatch,cucumber-audit-standalone,1.0.1,org.seleniumhq.selenium.java,-,explicit,java.base,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
