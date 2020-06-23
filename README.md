@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7132 Java modules published at Maven Central
+Counted 7136 Java modules published at Maven Central
 
-## Summary 2020-06-22T01:42:55.117973Z
+## Summary 2020-06-23T01:43:31.234884Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-22T01:42:55.117973Z
-Scanned 54,623 files in 8 seconds.
+Started scan at 2020-06-23T01:43:31.234884Z
+Scanned 54,705 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_22_01_31_33.csv
+    last -> modulescanner-report-2020_06_23_01_31_53.csv
 
-Parsed 3,673,029 lines in total.
-  58,337 -> captions skipped
-  323,611 -> duplicates skipped
-  178,572 -> module related
+Parsed 3,679,043 lines in total.
+  58,419 -> captions skipped
+  324,171 -> duplicates skipped
+  179,007 -> module related
 
-Collected 7,132 unique modules.
-  automatic :cd: -> 5,100
-  explicit :dvd: -> 2,032
+Collected 7,136 unique modules.
+  automatic :cd: -> 5,103
+  explicit :dvd: -> 2,033
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=5635, explicit=654, plain=93689}` 	 6.71%
+ - `2020_06={automatic=5973, explicit=656, plain=98626}` 	 6.72%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18339](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24634](suspicious/naming.md)
-- Modular impostors: [8907](suspicious/impostors.md)
+- Invalid module names: [18379](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24655](suspicious/naming.md)
+- Modular impostors: [8941](suspicious/impostors.md)
 
-## Unique Modules (7132)
+## Unique Modules (7136)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -381,7 +381,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.deere.isg.worktracker.spring` - `com.deere.isg.work-tracker:work-tracker-spring:1.1.0-rc4`
 - :dvd: `com.deere.isg.worktracker.spring.boot` - `com.deere.isg.work-tracker:work-tracker-spring-boot:1.1.0-rc4`
 - :dvd: `com.dlsc.formsfx` - `com.dlsc.formsfx:formsfx-core:11.4.1`
-- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.7.1`
+- :dvd: `com.dlsc.gemsfx` - `com.dlsc.gemsfx:gemsfx:1.7.2`
 - :dvd: `com.dlsc.pickerfx` - `com.dlsc.pickerfx:pickerfx:1.0.2`
 - :dvd: `com.dlsc.preferencesfx` - `com.dlsc.preferencesfx:preferencesfx-core:11.6.0`
 - :dvd: `com.dlsc.unitfx` - `com.dlsc.unitfx:unitfx:1.0.7`
@@ -1067,6 +1067,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.jensd.fx.glyphs.weathericons` - `de.jensd:fontawesomefx-weathericons:2.0.10-9.1.2`
 - :dvd: `de.powerstat.phplib.templateengine` - `de.powerstat.phplib:templateengine:1.5`
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
+- :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.1.2`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.2.0.3`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
