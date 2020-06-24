@@ -15896,6 +15896,7 @@
 - :cd: `mica.plus.error.catch` - `net.dreamlu:mica-plus-error-catch:1.2.2` // `net.dreamlu,mica-plus-error-catch,1.2.2,mica.plus.error.catch,-,automatic,-,false,-`
 - :cd: `micrometer.registry.new.relic` - `io.micrometer:micrometer-registry-new-relic:1.5.0` // `io.micrometer,micrometer-registry-new-relic,1.5.0,micrometer.registry.new.relic,-,automatic,-,false,-`
 - :cd: `micrometer.registry.new.relic` - `io.micrometer:micrometer-registry-new-relic:1.5.1` // `io.micrometer,micrometer-registry-new-relic,1.5.1,micrometer.registry.new.relic,-,automatic,-,false,-`
+- :cd: `micrometer.registry.new.relic` - `io.micrometer:micrometer-registry-new-relic:1.5.2` // `io.micrometer,micrometer-registry-new-relic,1.5.2,micrometer.registry.new.relic,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.105` // `name.remal,gradle-plugins,1.0.105,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.106` // `name.remal,gradle-plugins,1.0.106,name.remal.gradle-plugins,-,automatic,-,false,-`
 - :cd: `name.remal.gradle-plugins` - `name.remal:gradle-plugins:1.0.107` // `name.remal,gradle-plugins,1.0.107,name.remal.gradle-plugins,-,automatic,-,false,-`
@@ -17510,8 +17511,11 @@
 - :cd: `queryman-builder` :left_right_arrow: `org.queryman:queryman-builder:1.0.0` // `org.queryman,queryman-builder,1.0.0,queryman-builder,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard-orient-server` - `ru.vyarus:dropwizard-orient-server:3.0.0` // `ru.vyarus,dropwizard-orient-server,3.0.0,ru.vyarus.dropwizard-orient-server,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard.guicey.admin-rest` - `ru.vyarus.guicey:guicey-admin-rest:5.1.0-1` // `ru.vyarus.guicey,guicey-admin-rest,5.1.0-1,ru.vyarus.dropwizard.guicey.admin-rest,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.admin-rest` - `ru.vyarus.guicey:guicey-admin-rest:5.1.0-2` // `ru.vyarus.guicey,guicey-admin-rest,5.1.0-2,ru.vyarus.dropwizard.guicey.admin-rest,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard.guicey.lifecycle-annotations` - `ru.vyarus.guicey:guicey-lifecycle-annotations:5.1.0-1` // `ru.vyarus.guicey,guicey-lifecycle-annotations,5.1.0-1,ru.vyarus.dropwizard.guicey.lifecycle-annotations,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.lifecycle-annotations` - `ru.vyarus.guicey:guicey-lifecycle-annotations:5.1.0-2` // `ru.vyarus.guicey,guicey-lifecycle-annotations,5.1.0-2,ru.vyarus.dropwizard.guicey.lifecycle-annotations,-,automatic,-,false,-`
 - :cd: `ru.vyarus.dropwizard.guicey.server-pages` - `ru.vyarus.guicey:guicey-server-pages:5.1.0-1` // `ru.vyarus.guicey,guicey-server-pages,5.1.0-1,ru.vyarus.dropwizard.guicey.server-pages,-,automatic,-,false,-`
+- :cd: `ru.vyarus.dropwizard.guicey.server-pages` - `ru.vyarus.guicey:guicey-server-pages:5.1.0-2` // `ru.vyarus.guicey,guicey-server-pages,5.1.0-2,ru.vyarus.dropwizard.guicey.server-pages,-,automatic,-,false,-`
 - :cd: `ru.vyarus.guice-validator` - `ru.vyarus:guice-validator:2.0.0` // `ru.vyarus,guice-validator,2.0.0,ru.vyarus.guice-validator,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.81` // `net.serenity-bdd,serenity-ant-task,2.0.81,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.0.82` // `net.serenity-bdd,serenity-ant-task,2.0.82,serenity-ant-task,-,automatic,-,false,-`
