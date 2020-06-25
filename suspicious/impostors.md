@@ -734,16 +734,22 @@
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.0` // `com.helger.peppol,peppol-id,8.1.0,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.1` // `com.helger.peppol,peppol-id,8.1.1,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.0` // `com.helger.phase4,phase4-lib,0.10.0,com.helger.phase4,-,automatic,-,false,-`
+- :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.1` // `com.helger.phase4,phase4-lib,0.10.1,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.9.17` // `com.helger.phase4,phase4-lib,0.9.17,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.10.0` // `com.helger.phase4,phase4-cef-client,0.10.0,com.helger.phase4.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.10.1` // `com.helger.phase4,phase4-cef-client,0.10.1,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.9.17` // `com.helger.phase4,phase4-cef-client,0.9.17,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.10.0` // `com.helger.phase4,phase4-peppol-client,0.10.0,com.helger.phase4.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.10.1` // `com.helger.phase4,phase4-peppol-client,0.10.1,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.9.17` // `com.helger.phase4,phase4-peppol-client,0.9.17,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.10.0` // `com.helger.phase4,phase4-peppol-servlet,0.10.0,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.10.1` // `com.helger.phase4,phase4-peppol-servlet,0.10.1,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.9.17` // `com.helger.phase4,phase4-peppol-servlet,0.9.17,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.10.0` // `com.helger.phase4,phase4-profile-cef,0.10.0,com.helger.phase4.profile.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.10.1` // `com.helger.phase4,phase4-profile-cef,0.10.1,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.9.17` // `com.helger.phase4,phase4-profile-cef,0.9.17,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.10.0` // `com.helger.phase4,phase4-profile-peppol,0.10.0,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.10.1` // `com.helger.phase4,phase4-profile-peppol,0.10.1,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.9.17` // `com.helger.phase4,phase4-profile-peppol,0.9.17,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.servlet` - `com.helger.phase4:phase4-servlet:0.9.17` // `com.helger.phase4,phase4-servlet,0.9.17,com.helger.phase4.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.5` // `com.helger.photon,ph-oton-ajax,8.2.5,com.helger.photon.ajax,-,automatic,-,false,-`
@@ -2837,6 +2843,8 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.2` // `com.yahoo.elide,elide-blog-example,4.6.2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.3` // `com.yahoo.elide,elide-blog-example,4.6.3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.4` // `com.yahoo.elide,elide-blog-example,4.6.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.5` // `com.yahoo.elide,elide-blog-example,4.6.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `cz.o2.proxima:proxima-beam-io-pubsub:0.4.0` // `cz.o2.proxima,proxima-beam-io-pubsub,0.4.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `io.github.classgraph` - `net.corda:corda-tools-blob-inspector:4.0` // `net.corda,corda-tools-blob-inspector,4.0,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
@@ -5166,6 +5174,7 @@
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.8` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.8,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.0-beta.9` // `com.undefinedlabs.scope,scope-agent,0.15.0-beta.9,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.15.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.15.1-beta.2` // `com.undefinedlabs.scope,scope-agent,0.15.1-beta.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.0` // `com.undefinedlabs.scope,scope-agent,0.2.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1` // `com.undefinedlabs.scope,scope-agent,0.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.2.1-beta.1` // `com.undefinedlabs.scope,scope-agent,0.2.1-beta.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -6433,6 +6442,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.237.14` // `com.yahoo.vespa,vespa-hadoop,7.237.14,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.238.12` // `com.yahoo.vespa,vespa-hadoop,7.238.12,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.240.27` // `com.yahoo.vespa,vespa-hadoop,7.240.27,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.241.12` // `com.yahoo.vespa,vespa-hadoop,7.241.12,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -8191,6 +8201,7 @@
 - :cd: `org.reaktivity.nukleus.auth.jwt` - `org.reaktivity:nukleus-oauth:0.61` // `org.reaktivity,nukleus-oauth,0.61,org.reaktivity.nukleus.auth.jwt,-,automatic,-,false,-`
 - :dvd: `org.seleniumhq.selenium.java` - `io.github.multicatch:cucumber-audit-standalone:1.0.0` // `io.github.multicatch,cucumber-audit-standalone,1.0.0,org.seleniumhq.selenium.java,-,explicit,java.base,false,-`
 - :dvd: `org.seleniumhq.selenium.java` - `io.github.multicatch:cucumber-audit-standalone:1.0.1` // `io.github.multicatch,cucumber-audit-standalone,1.0.1,org.seleniumhq.selenium.java,-,explicit,java.base,false,-`
+- :dvd: `org.seleniumhq.selenium.java` - `io.github.multicatch:cucumber-audit-standalone:1.0.2` // `io.github.multicatch,cucumber-audit-standalone,1.0.2,org.seleniumhq.selenium.java,-,explicit,java.base,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.0` // `org.simpleflatmapper,sfm-converter-jre6,8.0.0,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.1` // `org.simpleflatmapper,sfm-converter-jre6,8.0.1,org.simpleflatmapper.converter,-,automatic,-,false,-`
 - :cd: `org.simpleflatmapper.converter` - `org.simpleflatmapper:sfm-converter-jre6:8.0.2` // `org.simpleflatmapper,sfm-converter-jre6,8.0.2,org.simpleflatmapper.converter,-,automatic,-,false,-`
