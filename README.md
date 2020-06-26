@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7153 Java modules published at Maven Central
+Counted 7175 Java modules published at Maven Central
 
-## Summary 2020-06-25T01:45:02.473919Z
+## Summary 2020-06-26T01:45:51.200890Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-25T01:45:02.473919Z
-Scanned 54,859 files in 7 seconds.
+Started scan at 2020-06-26T01:45:51.200890Z
+Scanned 54,936 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_25_01_28_24.csv
+    last -> modulescanner-report-2020_06_26_01_31_48.csv
 
-Parsed 3,694,602 lines in total.
-  58,571 -> captions skipped
-  326,327 -> duplicates skipped
-  179,958 -> module related
+Parsed 3,702,986 lines in total.
+  58,647 -> captions skipped
+  326,754 -> duplicates skipped
+  180,388 -> module related
 
-Collected 7,153 unique modules.
-  automatic :cd: -> 5,108
-  explicit :dvd: -> 2,045
+Collected 7,175 unique modules.
+  automatic :cd: -> 5,127
+  explicit :dvd: -> 2,048
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=6640, explicit=785, plain=110926}` 	 6.69%
+ - `2020_06={automatic=6965, explicit=825, plain=118377}` 	 6.58%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18383](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24770](suspicious/naming.md)
-- Modular impostors: [8977](suspicious/impostors.md)
+- Invalid module names: [18384](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24820](suspicious/naming.md)
+- Modular impostors: [8991](suspicious/impostors.md)
 
-## Unique Modules (7153)
+## Unique Modules (7175)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -321,7 +321,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.0`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
-- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.0.1`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.1.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.2`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.2`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
@@ -388,41 +388,41 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.entityassist` - `com.entityassist:entity-assist:62`
 - :dvd: `com.fasterxml.aalto` - `com.fasterxml:aalto-xml:1.2.2`
 - :dvd: `com.fasterxml.classmate` - `com.fasterxml:classmate:1.5.1`
-- :dvd: `com.fasterxml.jackson.core` - `com.fasterxml.jackson.core:jackson-core:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.avro` - `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.cbor` - `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.ion` - `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.javaprop` - `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.protobuf` - `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.smile` - `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.xml` - `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.0`
-- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.guava` - `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.hppc` - `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.jaxrs` - `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.joda` - `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.jsonorg` - `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.jsr310` - `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.0`
-- :dvd: `com.fasterxml.jackson.datatype.jsr353` - `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.11.0`
-- :dvd: `com.fasterxml.jackson.jaxrs.base` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.11.0`
-- :dvd: `com.fasterxml.jackson.jaxrs.cbor` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.11.0`
-- :dvd: `com.fasterxml.jackson.jaxrs.json` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.11.0`
-- :dvd: `com.fasterxml.jackson.jaxrs.smile` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.11.0`
-- :dvd: `com.fasterxml.jackson.jaxrs.yaml` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.11.0`
-- :dvd: `com.fasterxml.jackson.jr.annotationsupport` - `com.fasterxml.jackson.jr:jackson-jr-annotation-support:2.11.0`
-- :dvd: `com.fasterxml.jackson.jr.ob` - `com.fasterxml.jackson.jr:jackson-jr-objects:2.11.0`
-- :dvd: `com.fasterxml.jackson.jr.retrofit2` - `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.11.0`
-- :dvd: `com.fasterxml.jackson.jr.stree` - `com.fasterxml.jackson.jr:jackson-jr-stree:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.afterburner` - `com.fasterxml.jackson.module:jackson-module-afterburner:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.guice` - `com.fasterxml.jackson.module:jackson-module-guice:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.jaxb` - `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.jsonSchema` - `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.mrbean` - `com.fasterxml.jackson.module:jackson-module-mrbean:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.osgi` - `com.fasterxml.jackson.module:jackson-module-osgi:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.0`
-- :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.0`
+- :dvd: `com.fasterxml.jackson.core` - `com.fasterxml.jackson.core:jackson-core:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.avro` - `com.fasterxml.jackson.dataformat:jackson-dataformat-avro:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` - `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.ion` - `com.fasterxml.jackson.dataformat:jackson-dataformat-ion:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.javaprop` - `com.fasterxml.jackson.dataformat:jackson-dataformat-properties:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.protobuf` - `com.fasterxml.jackson.dataformat:jackson-dataformat-protobuf:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.smile` - `com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.xml` - `com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.1`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.guava` - `com.fasterxml.jackson.datatype:jackson-datatype-guava:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.hppc` - `com.fasterxml.jackson.datatype:jackson-datatype-hppc:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.jaxrs` - `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.joda` - `com.fasterxml.jackson.datatype:jackson-datatype-joda:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsonorg` - `com.fasterxml.jackson.datatype:jackson-datatype-json-org:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsr310` - `com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.1`
+- :dvd: `com.fasterxml.jackson.datatype.jsr353` - `com.fasterxml.jackson.datatype:jackson-datatype-jsr353:2.11.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.base` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.11.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.cbor` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider:2.11.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.json` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.11.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.smile` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-smile-provider:2.11.1`
+- :dvd: `com.fasterxml.jackson.jaxrs.yaml` - `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider:2.11.1`
+- :dvd: `com.fasterxml.jackson.jr.annotationsupport` - `com.fasterxml.jackson.jr:jackson-jr-annotation-support:2.11.1`
+- :dvd: `com.fasterxml.jackson.jr.ob` - `com.fasterxml.jackson.jr:jackson-jr-objects:2.11.1`
+- :dvd: `com.fasterxml.jackson.jr.retrofit2` - `com.fasterxml.jackson.jr:jackson-jr-retrofit2:2.11.1`
+- :dvd: `com.fasterxml.jackson.jr.stree` - `com.fasterxml.jackson.jr:jackson-jr-stree:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.afterburner` - `com.fasterxml.jackson.module:jackson-module-afterburner:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.guice` - `com.fasterxml.jackson.module:jackson-module-guice:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.jaxb` - `com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.jsonSchema` - `com.fasterxml.jackson.module:jackson-module-jsonSchema:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.mrbean` - `com.fasterxml.jackson.module:jackson-module-mrbean:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.osgi` - `com.fasterxml.jackson.module:jackson-module-osgi:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.paramnames` - `com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.1`
+- :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
 - :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.36`
@@ -1131,7 +1131,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.1`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.0`
@@ -1341,6 +1341,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
+- :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.0`
+- :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.0`
+- :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.0`
 - :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.1`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`

@@ -15700,6 +15700,7 @@
 - :cd: `dropwizard-guicey.spa` - `ru.vyarus.guicey:guicey-spa:5.0.0-0-rc.2` // `ru.vyarus.guicey,guicey-spa,5.0.0-0-rc.2,dropwizard-guicey.spa,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.spa` - `ru.vyarus.guicey:guicey-spa:5.0.1-1` // `ru.vyarus.guicey,guicey-spa,5.0.1-1,dropwizard-guicey.spa,-,automatic,-,false,-`
 - :cd: `dropwizard-guicey.validation` - `ru.vyarus.guicey:guicey-validation:5.0.1-1` // `ru.vyarus.guicey,guicey-validation,5.0.1-1,dropwizard-guicey.validation,-,automatic,-,false,-`
+- :cd: `emailaddress-rfc2822` :left_right_arrow: `com.github.bbottema:emailaddress-rfc2822:2.2.0` // `com.github.bbottema,emailaddress-rfc2822,2.2.0,emailaddress-rfc2822,-,automatic,-,false,-`
 - :cd: `info.solidsoft.mockito.mockito-java8` - `info.solidsoft.mockito:mockito-java8:2.4.0` // `info.solidsoft.mockito,mockito-java8,2.4.0,info.solidsoft.mockito.mockito-java8,-,automatic,-,false,-`
 - :cd: `info.solidsoft.mockito.mockito-java8` - `info.solidsoft.mockito:mockito-java8:2.5.0` // `info.solidsoft.mockito,mockito-java8,2.5.0,info.solidsoft.mockito.mockito-java8,-,automatic,-,false,-`
 - :cd: `io.github.java-diff-utils` - `io.github.java-diff-utils:java-diff-utils:4.4` // `io.github.java-diff-utils,java-diff-utils,4.4,io.github.java-diff-utils,-,automatic,-,false,-`
