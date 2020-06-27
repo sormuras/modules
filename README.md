@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7175 Java modules published at Maven Central
+Counted 7199 Java modules published at Maven Central
 
-## Summary 2020-06-26T01:45:51.200890Z
+## Summary 2020-06-27T01:46:23.224867Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-26T01:45:51.200890Z
-Scanned 54,936 files in 7 seconds.
+Started scan at 2020-06-27T01:46:23.224867Z
+Scanned 55,014 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_26_01_31_48.csv
+    last -> modulescanner-report-2020_06_27_01_25_53.csv
 
-Parsed 3,702,986 lines in total.
-  58,647 -> captions skipped
-  326,754 -> duplicates skipped
-  180,388 -> module related
+Parsed 3,710,862 lines in total.
+  58,725 -> captions skipped
+  327,563 -> duplicates skipped
+  181,062 -> module related
 
-Collected 7,175 unique modules.
-  automatic :cd: -> 5,127
-  explicit :dvd: -> 2,048
+Collected 7,199 unique modules.
+  automatic :cd: -> 5,144
+  explicit :dvd: -> 2,055
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=6965, explicit=825, plain=118377}` 	 6.58%
+ - `2020_06={automatic=7445, explicit=840, plain=124692}` 	 6.64%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,11 +116,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18384](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24820](suspicious/naming.md)
-- Modular impostors: [8991](suspicious/impostors.md)
+- Invalid module names: [18407](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24941](suspicious/naming.md)
+- Modular impostors: [9026](suspicious/impostors.md)
 
-## Unique Modules (7175)
+## Unique Modules (7199)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -129,7 +129,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie.javafxlednumberdisplay` - `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` - `be.webtechie:pi-headers:0.1.1`
 - :dvd: `be.webtechie.resistorcalculator` - `be.webtechie:resistor-calculator:0.1.4`
-- :dvd: `be.yildizgames.common.application` - `be.yildiz-games:common-application:1.0.14`
+- :dvd: `be.yildizgames.common.application` - `be.yildiz-games:common-application:1.0.16`
 - :dvd: `be.yildizgames.common.authentication` - `be.yildiz-games:common-authentication:1.1.7`
 - :dvd: `be.yildizgames.common.client` - `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` - `be.yildiz-games:common-compression:2.0.6`
@@ -2159,9 +2159,15 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.data.events` - `xyz.cofe:data-events:1.0`
 - :dvd: `xyz.cofe.data.table` - `xyz.cofe:data-table:1.0`
 - :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.5`
+- :dvd: `xyz.cofe.gui.swing.all` - `xyz.cofe:gui-swing-all:1.3`
+- :dvd: `xyz.cofe.gui.swing.base` - `xyz.cofe:gui-swing-base:1.3`
+- :dvd: `xyz.cofe.gui.swing.color` - `xyz.cofe:gui-swing-color:1.1`
+- :dvd: `xyz.cofe.gui.swing.str` - `xyz.cofe:gui-swing-str:1.1`
+- :dvd: `xyz.cofe.gui.swing.tmodel` - `xyz.cofe:gui-swing-tmodel:1.1`
 - :dvd: `xyz.cofe.io.fn` - `xyz.cofe:iofun:1.0`
 - :dvd: `xyz.cofe.io.fs` - `xyz.cofe:fs:1.1`
 - :dvd: `xyz.cofe.io.fs.typeconv` - `xyz.cofe:fs-types:1.0`
+- :dvd: `xyz.cofe.j2d` - `xyz.cofe:gui-swing-j2d:1.1`
 - :dvd: `xyz.cofe.simpletypes` - `xyz.cofe:simple-types:1.0`
 - :dvd: `xyz.cofe.sql.cpool` - `xyz.cofe:cpool:1.0`
 - :dvd: `xyz.cofe.sql.stream` - `xyz.cofe:sql-stream:1.0`
@@ -2171,5 +2177,6 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.text.template.basic` - `xyz.cofe:basic-template:1.1`
 - :dvd: `xyz.cofe.typeconv` - `xyz.cofe:types:1.0`
 - :dvd: `xyz.cofe.typeconv.spi` - `xyz.cofe:types-spi:1.1`
+- :dvd: `xyz.cofe.xml.utl` - `xyz.cofe:xml-utl:1.0`
 - :dvd: `xyz.cofe.xparse` - `xyz.cofe:xparse:1.4`
 - :dvd: `xyz.ielis.hyperutil.reference` - `xyz.ielis.hyperutil:hyperutil-reference:0.1.3`
