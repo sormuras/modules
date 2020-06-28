@@ -1,24 +1,24 @@
 # sormuras/modules
 Counted 7199 Java modules published at Maven Central
 
-## Summary 2020-06-27T01:46:23.224867Z
+## Summary 2020-06-28T01:46:45.517325Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-27T01:46:23.224867Z
-Scanned 55,014 files in 7 seconds.
+Started scan at 2020-06-28T01:46:45.517325Z
+Scanned 55,102 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_27_01_25_53.csv
+    last -> modulescanner-report-2020_06_28_01_27_03.csv
 
-Parsed 3,710,862 lines in total.
-  58,725 -> captions skipped
-  327,563 -> duplicates skipped
-  181,062 -> module related
+Parsed 3,712,919 lines in total.
+  58,813 -> captions skipped
+  327,630 -> duplicates skipped
+  181,117 -> module related
 
 Collected 7,199 unique modules.
-  automatic :cd: -> 5,144
-  explicit :dvd: -> 2,055
+  automatic :cd: -> 5,142
+  explicit :dvd: -> 2,057
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=7445, explicit=840, plain=124692}` 	 6.64%
+ - `2020_06={automatic=7473, explicit=846, plain=126539}` 	 6.57%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -116,9 +116,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [18407](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24941](suspicious/naming.md)
-- Modular impostors: [9026](suspicious/impostors.md)
+- Invalid module names: [18412](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24955](suspicious/naming.md)
+- Modular impostors: [9028](suspicious/impostors.md)
 
 ## Unique Modules (7199)
 
@@ -588,6 +588,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
+- :dvd: `com.io7m.claypot.core` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.core:0.0.2`
+- :dvd: `com.io7m.claypot.example` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.example:0.0.2`
 - :dvd: `com.io7m.coffeepick.adoptopenjdk_v3` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.adoptopenjdk_v3:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.vanilla` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.vanilla:0.2.0`
@@ -1031,7 +1033,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.16`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
-- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200621`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200627`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1387,8 +1389,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.bbmsoft.audio.controls.api` - `net.bbmsoft:audio-controls-api:0.1.0`
 - :dvd: `net.bis5.mattermost4j.core` - `net.bis5.mattermost4j:mattermost4j-core:0.22.1`
 - :dvd: `net.bis5.mattermost4j.models` - `net.bis5.mattermost4j:mattermost-models:0.22.1`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.12`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.12`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.13`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.13`
 - :dvd: `net.dongliu.commons` - `net.dongliu:commons:8.1.5`
 - :dvd: `net.dongliu.cute.http` - `net.dongliu:cute-http:3.0.0`
 - :dvd: `net.dongliu.cute.http.jsonb` - `net.dongliu:cute-http-jsonb:3.0.0`
@@ -1909,7 +1911,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-6`
 - :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-6`
-- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.2`
+- :dvd: `org.shredzone.commons.suncalc` - `org.shredzone.commons:commons-suncalc:3.3`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`

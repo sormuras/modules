@@ -376,6 +376,7 @@
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8:0.67.0.9` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-jdk8,0.67.0.9,com.fasterxml.jackson.datatype.jdk8,0.67.0.9,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8:0.68.0.1` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-jdk8,0.68.0.1,com.fasterxml.jackson.datatype.jdk8,0.68.0.1,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-connector-iceberg:1.2.6` // `io.mantisrx,mantis-connector-iceberg,1.2.6,com.fasterxml.jackson.datatype.jdk8,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-connector-iceberg:1.2.7` // `io.mantisrx,mantis-connector-iceberg,1.2.7,com.fasterxml.jackson.datatype.jdk8,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.10` // `io.mantisrx,mantis-publish-netty,1.2.10,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.11` // `io.mantisrx,mantis-publish-netty,1.2.11,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.12` // `io.mantisrx,mantis-publish-netty,1.2.12,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
@@ -2771,6 +2772,7 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:11.0.0` // `io.cucumber,gherkin,11.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:12.0.0` // `io.cucumber,gherkin,12.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:13.0.0` // `io.cucumber,gherkin,13.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
+- :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.0` // `io.cucumber,gherkin,14.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
