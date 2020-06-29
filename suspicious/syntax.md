@@ -16064,6 +16064,7 @@
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.5.1-154011` // `name.remal,public-data,2020.5.1-154011,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.5.13-224156` // `name.remal,public-data,2020.5.13-224156,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.5.6-162511` // `name.remal,public-data,2020.5.6-162511,name.remal.public-data,-,automatic,-,false,-`
+- :cd: `name.remal.public-data` - `name.remal:public-data:2020.6.25-163014` // `name.remal,public-data,2020.6.25-163014,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.6.4-160015` // `name.remal,public-data,2020.6.4-160015,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `name.remal.public-data` - `name.remal:public-data:2020.6.8-164513` // `name.remal,public-data,2020.6.8-164513,name.remal.public-data,-,automatic,-,false,-`
 - :cd: `net.bzzt.reproducible-build` - `net.bzzt:reproducible-build:0.2` // `net.bzzt,reproducible-build,0.2,net.bzzt.reproducible-build,-,automatic,-,false,-`
