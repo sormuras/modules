@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7201 Java modules published at Maven Central
+Counted 7205 Java modules published at Maven Central
 
-## Summary 2020-06-29T01:47:07.476824Z
+## Summary 2020-06-30T01:48:08.089477Z
 
 ```
 ## Summary
 
-Started scan at 2020-06-29T01:47:07.476824Z
-Scanned 55,187 files in 8 seconds.
+Started scan at 2020-06-30T01:48:08.089477Z
+Scanned 55,262 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_06_29_01_30_13.csv
+    last -> modulescanner-report-2020_06_30_01_27_01.csv
 
-Parsed 3,715,574 lines in total.
-  58,898 -> captions skipped
-  327,892 -> duplicates skipped
-  181,144 -> module related
+Parsed 3,722,261 lines in total.
+  58,973 -> captions skipped
+  328,818 -> duplicates skipped
+  181,501 -> module related
 
-Collected 7,201 unique modules.
-  automatic :cd: -> 5,143
-  explicit :dvd: -> 2,058
+Collected 7,205 unique modules.
+  automatic :cd: -> 5,146
+  explicit :dvd: -> 2,059
 
 ## Samples
             junit -> junit:junit:4.13
@@ -53,7 +53,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_03={automatic=7874, explicit=613, plain=176241}` 	 4.82%
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
- - `2020_06={automatic=7479, explicit=849, plain=128820}` 	 6.46%
+ - `2020_06={automatic=7787, explicit=857, plain=134149}` 	 6.44%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,15 +117,15 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [18413](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [24967](suspicious/naming.md)
-- Modular impostors: [9033](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25003](suspicious/naming.md)
+- Modular impostors: [9038](suspicious/impostors.md)
 
-## Unique Modules (7201)
+## Unique Modules (7205)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `app.keve.ktlsh` - `app.keve.ktlsh:ktlsh:1.0.0`
+- :dvd: `app.keve.ktlsh` - `app.keve.ktlsh:ktlsh:1.0.1`
 - :dvd: `be.webtechie` - `be.webtechie:javafx-led-number-display:0.0.2`
 - :dvd: `be.webtechie.javafxlednumberdisplay` - `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` - `be.webtechie:pi-headers:0.1.1`
@@ -426,10 +426,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.36`
-- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.36`
-- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.36`
-- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.36`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.37`
+- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.37`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.37`
+- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.37`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -1628,8 +1628,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.3`
 - :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.3`
 - :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
-- :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.1`
-- :dvd: `org.controlsfx.samples` - `org.controlsfx:controlsfx-samples:11.0.1`
+- :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.2`
+- :dvd: `org.controlsfx.fxsampler` - `org.controlsfx:fxsampler:1.0.11`
+- :dvd: `org.controlsfx.samples` - `org.controlsfx:controlsfx-samples:11.0.2`
 - :dvd: `org.copperengine.cassandra.loadtest` - `org.copper-engine:cassandra-loadtest:5.2.0`
 - :dvd: `org.copperengine.cassandra.storage` - `org.copper-engine:cassandra-storage:5.2.0`
 - :dvd: `org.copperengine.core` - `org.copper-engine:copper-coreengine:5.2.0`

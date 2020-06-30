@@ -377,6 +377,7 @@
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8:0.68.0.1` // `com.jwebmp.jpms.jackson.datatype,jackson-datatype-jdk8,0.68.0.1,com.fasterxml.jackson.datatype.jdk8,0.68.0.1,explicit,com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-connector-iceberg:1.2.6` // `io.mantisrx,mantis-connector-iceberg,1.2.6,com.fasterxml.jackson.datatype.jdk8,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-connector-iceberg:1.2.7` // `io.mantisrx,mantis-connector-iceberg,1.2.7,com.fasterxml.jackson.datatype.jdk8,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-connector-iceberg:1.2.8` // `io.mantisrx,mantis-connector-iceberg,1.2.8,com.fasterxml.jackson.datatype.jdk8,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.10` // `io.mantisrx,mantis-publish-netty,1.2.10,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.11` // `io.mantisrx,mantis-publish-netty,1.2.11,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.jdk8` - `io.mantisrx:mantis-publish-netty:1.2.12` // `io.mantisrx,mantis-publish-netty,1.2.12,com.fasterxml.jackson.datatype.jdk8,2.10.0.pr1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
@@ -2774,6 +2775,7 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:12.0.0` // `io.cucumber,gherkin,12.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:13.0.0` // `io.cucumber,gherkin,13.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.0` // `io.cucumber,gherkin,14.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
+- :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.1` // `io.cucumber,gherkin,14.0.1,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -5106,6 +5108,7 @@
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.29` // `com.proofpoint.platform,jaxrs,2.29,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.30` // `com.proofpoint.platform,jaxrs,2.30,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.32` // `com.proofpoint.platform,jaxrs,2.32,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.33` // `com.proofpoint.platform,jaxrs,2.33,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.qcloud.oceanus:flink-python_2.11:1.10.1` // `com.qcloud.oceanus,flink-python_2.11,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0` // `com.undefinedlabs.scope,scope-agent,0.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0-beta1` // `com.undefinedlabs.scope,scope-agent,0.1.0-beta1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5970,6 +5973,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.0` // `com.nimblygames.packr,packr-all,2.6.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.2` // `com.nimblygames.packr,packr-all,2.6.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.3` // `com.nimblygames.packr,packr-all,2.6.3,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.6.4` // `com.nimblygames.packr,packr-all,2.6.4,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.oceanprotocol:secret-store-client:0.0.3` // `com.oceanprotocol,secret-store-client,0.0.3,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.opkloud:kloudminions-api:1.0.6` // `com.opkloud,kloudminions-api,1.0.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.sagframe:sqltoy-quickvo:4.10.0` // `com.sagframe,sqltoy-quickvo,4.10.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -8144,6 +8148,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.48.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.48.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.49.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.49.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.50.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.50.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.52.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.52.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
