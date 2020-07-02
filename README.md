@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7213 Java modules published at Maven Central
+Counted 7228 Java modules published at Maven Central
 
-## Summary 2020-07-01T01:48:25.437534Z
+## Summary 2020-07-02T01:49:28.051899Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-01T01:48:25.437534Z
-Scanned 55,340 files in 9 seconds.
+Started scan at 2020-07-02T01:49:28.051899Z
+Scanned 55,420 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_01_01_25_37.csv
+    last -> modulescanner-report-2020_07_02_01_39_44.csv
 
-Parsed 3,730,174 lines in total.
-  59,051 -> captions skipped
-  329,960 -> duplicates skipped
-  183,125 -> module related
+Parsed 3,738,309 lines in total.
+  59,131 -> captions skipped
+  330,543 -> duplicates skipped
+  183,464 -> module related
 
-Collected 7,213 unique modules.
-  automatic :cd: -> 5,154
+Collected 7,228 unique modules.
+  automatic :cd: -> 5,169
   explicit :dvd: -> 2,059
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={plain=387}` 	 0.00%
+ - `2020_07={automatic=303, explicit=2, plain=7520}` 	 4.06%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19081](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25231](suspicious/naming.md)
-- Modular impostors: [9063](suspicious/impostors.md)
+- Invalid module names: [19082](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25250](suspicious/naming.md)
+- Modular impostors: [9077](suspicious/impostors.md)
 
-## Unique Modules (7213)
+## Unique Modules (7228)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -185,7 +185,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
 - :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.1.0`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.8`
-- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.3`
+- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.4`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.5`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
@@ -1351,7 +1351,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.1`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
-- :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC2`
+- :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC3`
 - :dvd: `jakarta.json.bind` - `jakarta.json.bind:jakarta.json.bind-api:2.0.0-RC2`
 - :dvd: `jakarta.jws` - `jakarta.jws:jakarta.jws-api:3.0.0-RC2`
 - :dvd: `jakarta.persistence` - `jakarta.persistence:jakarta.persistence-api:3.0.0-RC2`
