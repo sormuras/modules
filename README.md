@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7228 Java modules published at Maven Central
+Counted 7231 Java modules published at Maven Central
 
-## Summary 2020-07-02T01:49:28.051899Z
+## Summary 2020-07-03T01:50:04.661995Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-02T01:49:28.051899Z
-Scanned 55,420 files in 7 seconds.
+Started scan at 2020-07-03T01:50:04.661995Z
+Scanned 55,496 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_02_01_39_44.csv
+    last -> modulescanner-report-2020_07_03_01_31_50.csv
 
-Parsed 3,738,309 lines in total.
-  59,131 -> captions skipped
-  330,543 -> duplicates skipped
-  183,464 -> module related
+Parsed 3,745,809 lines in total.
+  59,206 -> captions skipped
+  331,065 -> duplicates skipped
+  183,762 -> module related
 
-Collected 7,228 unique modules.
+Collected 7,231 unique modules.
   automatic :cd: -> 5,169
-  explicit :dvd: -> 2,059
+  explicit :dvd: -> 2,062
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=303, explicit=2, plain=7520}` 	 4.06%
+ - `2020_07={automatic=565, explicit=13, plain=14125}` 	 4.09%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,10 +118,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [19082](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25250](suspicious/naming.md)
-- Modular impostors: [9077](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25270](suspicious/naming.md)
+- Modular impostors: [9082](suspicious/impostors.md)
 
-## Unique Modules (7228)
+## Unique Modules (7231)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -284,7 +284,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.2.0`
 - :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.2.0`
 - :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.2.0`
-- :dvd: `com.acgist.snail` - `com.acgist:snail:1.3.0`
+- :dvd: `com.acgist.snail` - `com.acgist:snail:1.4.0`
+- :dvd: `com.acgist.snail.extend` - `com.acgist:snail.extend:1.4.0`
+- :dvd: `com.acgist.snail.javafx` - `com.acgist:snail.javafx:1.4.0`
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` - `com.aitusoftware:transport:0.4.0`
@@ -316,16 +318,17 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.3`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.5.1`
-- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.2.0`
-- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.3`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.6.0`
+- :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.3.0`
+- :dvd: `com.azure.core.experimental` - `com.azure:azure-core-experimental:1.0.0-beta.1`
+- :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.4`
 - :dvd: `com.azure.core.serializer.json.gson` - `com.azure:azure-core-serializer-json-gson:1.0.0-beta.1`
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
-- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.0`
+- :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.1.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.2`
-- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.2`
+- :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.1`
@@ -2163,8 +2166,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `xyz.cofe.cxel` - `xyz.cofe:cxel:0.3`
 - :dvd: `xyz.cofe.data.events` - `xyz.cofe:data-events:1.0`
 - :dvd: `xyz.cofe.data.table` - `xyz.cofe:data-table:1.0`
-- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.5`
-- :dvd: `xyz.cofe.gui.swing.all` - `xyz.cofe:gui-swing-all:1.3`
+- :dvd: `xyz.cofe.ecolls` - `xyz.cofe:ecolls:1.6`
+- :dvd: `xyz.cofe.gui.swing.all` - `xyz.cofe:gui-swing-all:1.4`
 - :dvd: `xyz.cofe.gui.swing.base` - `xyz.cofe:gui-swing-base:1.3`
 - :dvd: `xyz.cofe.gui.swing.color` - `xyz.cofe:gui-swing-color:1.1`
 - :dvd: `xyz.cofe.gui.swing.str` - `xyz.cofe:gui-swing-str:1.1`

@@ -321,6 +321,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.2-BUILD-RELEASE` // `com.quicko,api-client,3.0.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.0.3-BUILD-RELEASE` // `com.quicko,api-client,3.0.3-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.0-BUILD-RELEASE` // `com.quicko,api-client,3.1.0-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.1-BUILD-RELEASE` // `com.quicko,api-client,3.1.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.2.4` // `com.snowflake,snowflake-kafka-connector,1.2.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.0` // `com.snowflake,snowflake-kafka-connector,1.3.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.1` // `com.snowflake,snowflake-kafka-connector,1.3.1,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
@@ -2757,6 +2758,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.6` // `io.jooby,jooby-cli,2.8.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.7` // `io.jooby,jooby-cli,2.8.7,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.8` // `io.jooby,jooby-cli,2.8.8,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.8.9` // `io.jooby,jooby-cli,2.8.9,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.36` // `org.caseine,caseine.vpl.tools.CLI,0.0.36,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.37` // `org.caseine,caseine.vpl.tools.CLI,0.0.37,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.38` // `org.caseine,caseine.vpl.tools.CLI,0.0.38,info.picocli,-,explicit,java.base,false,-`
@@ -5091,6 +5093,7 @@
 - :dvd: `net.bytebuddy` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.2.1` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.2.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.30.0` // `com.heroku,webapp-runner,9.0.30.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.31.0` // `com.heroku,webapp-runner,9.0.31.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.heroku:webapp-runner:9.0.36.1` // `com.heroku,webapp-runner,9.0.36.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.nordstrom.ui-tools:local-grid-utility:1.3.3` // `com.nordstrom.ui-tools,local-grid-utility,1.3.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:1.95` // `com.proofpoint.platform,jaxrs,1.95,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:1.96` // `com.proofpoint.platform,jaxrs,1.96,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -8031,7 +8034,9 @@
 - :dvd: `org.objectweb.asm` - `io.ebean.tools:ebean-init:1.7` // `io.ebean.tools,ebean-init,1.7,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.ebean.tools:ebean-init:1.8` // `io.ebean.tools,ebean-init,1.8,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.ebean.tools:ebean-init:1.9` // `io.ebean.tools,ebean-init,1.9,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.0.Final` // `io.quarkus,quarkus-cli,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.5.2.Final` // `io.quarkus,quarkus-ide-launcher,1.5.2.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.0.Final` // `io.quarkus,quarkus-ide-launcher,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.2.0` // `net.onedaybeard.graftt,agent,0.2.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
