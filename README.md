@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7231 Java modules published at Maven Central
+Counted 7233 Java modules published at Maven Central
 
-## Summary 2020-07-03T01:50:04.661995Z
+## Summary 2020-07-04T01:50:08.353369Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-03T01:50:04.661995Z
-Scanned 55,496 files in 7 seconds.
+Started scan at 2020-07-04T01:50:08.353369Z
+Scanned 55,582 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_03_01_31_50.csv
+    last -> modulescanner-report-2020_07_04_01_40_47.csv
 
-Parsed 3,745,809 lines in total.
-  59,206 -> captions skipped
-  331,065 -> duplicates skipped
-  183,762 -> module related
+Parsed 3,751,668 lines in total.
+  59,292 -> captions skipped
+  331,869 -> duplicates skipped
+  183,868 -> module related
 
-Collected 7,231 unique modules.
-  automatic :cd: -> 5,169
-  explicit :dvd: -> 2,062
+Collected 7,233 unique modules.
+  automatic :cd: -> 5,170
+  explicit :dvd: -> 2,063
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=565, explicit=13, plain=14125}` 	 4.09%
+ - `2020_07={automatic=627, explicit=17, plain=18988}` 	 3.39%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19082](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25270](suspicious/naming.md)
-- Modular impostors: [9082](suspicious/impostors.md)
+- Invalid module names: [19088](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25298](suspicious/naming.md)
+- Modular impostors: [9088](suspicious/impostors.md)
 
-## Unique Modules (7231)
+## Unique Modules (7233)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1038,7 +1038,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.17`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
-- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200627`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200703`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1076,7 +1076,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.2.0.3`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.3-M1`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1138,7 +1138,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.1.2`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.1`
@@ -1631,6 +1631,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.tesseract.platform` - `org.bytedeco:tesseract-platform:4.1.1-1.5.3`
 - :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.3`
 - :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.3`
+- :dvd: `org.chocosolver.examples` - `org.choco-solver:examples:4.10.3`
 - :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
 - :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.2`
 - :dvd: `org.controlsfx.fxsampler` - `org.controlsfx:fxsampler:1.0.11`

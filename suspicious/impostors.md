@@ -357,6 +357,7 @@
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.3.0` // `io.bdeploy,api,2.3.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.4.0` // `io.bdeploy,api,2.4.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.0` // `io.bdeploy,api,2.5.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.1` // `io.bdeploy,api,2.5.1,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.0` // `com.github.priytam,exampleApp,1.0,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1` // `com.github.priytam,exampleApp,1.1,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1-java-8` // `com.github.priytam,exampleApp,1.1-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
@@ -5544,6 +5545,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.1` // `com.google.gerrit,gerrit-acceptance-framework,3.2.1,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.1` // `com.nerdvision,example,2.0.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.2` // `com.nerdvision,example,2.0.2,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -6526,6 +6528,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.241.12` // `com.yahoo.vespa,vespa-hadoop,7.241.12,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.242.24` // `com.yahoo.vespa,vespa-hadoop,7.242.24,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.244.2` // `com.yahoo.vespa,vespa-hadoop,7.244.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.246.11` // `com.yahoo.vespa,vespa-hadoop,7.246.11,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6607,6 +6610,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.99.5` // `com.linecorp.armeria,armeria,0.99.5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.99.6` // `com.linecorp.armeria,armeria,0.99.6,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.99.7` // `com.linecorp.armeria,armeria,0.99.7,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.99.8` // `com.linecorp.armeria,armeria,0.99.8,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.2` // `net.snowflake,snowflake-jdbc,3.12.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.3` // `net.snowflake,snowflake-jdbc,3.12.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -7852,6 +7856,7 @@
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.2.0` // `com.bmuschko,gradle-docker-plugin,6.2.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.3.0` // `com.bmuschko,gradle-docker-plugin,6.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.4.0` // `com.bmuschko,gradle-docker-plugin,6.4.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.5.0` // `com.bmuschko,gradle-docker-plugin,6.5.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.datastax.junitpytest:pytest-gradle-plugin:0.1` // `com.datastax.junitpytest,pytest-gradle-plugin,0.1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:expressions:2.5` // `com.github.collinalpert,expressions,2.5,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -8781,6 +8786,7 @@
 - :dvd: `org.slf4j` - `se.bjurr.gitchangelog:git-changelog-command-line:1.52` // `se.bjurr.gitchangelog,git-changelog-command-line,1.52,org.slf4j,-,explicit,java.base,false,-`
 - :cd: `org.slf4j.jul` - `org.netbeans.external:slf4j-jdk14:RELEASE113` // `org.netbeans.external,slf4j-jdk14,RELEASE113,org.slf4j.jul,-,automatic,-,false,-`
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.32` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.32,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.34` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.34,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.53` // `se.bjurr.gitchangelog,git-changelog-command-line,1.53,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.54` // `se.bjurr.gitchangelog,git-changelog-command-line,1.54,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
