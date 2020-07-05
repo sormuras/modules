@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7233 Java modules published at Maven Central
+Counted 7235 Java modules published at Maven Central
 
-## Summary 2020-07-04T01:50:08.353369Z
+## Summary 2020-07-05T01:50:29.217393Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-04T01:50:08.353369Z
-Scanned 55,582 files in 7 seconds.
+Started scan at 2020-07-05T01:50:29.217393Z
+Scanned 55,663 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_04_01_40_47.csv
+    last -> modulescanner-report-2020_07_05_01_29_06.csv
 
-Parsed 3,751,668 lines in total.
-  59,292 -> captions skipped
-  331,869 -> duplicates skipped
-  183,868 -> module related
+Parsed 3,753,487 lines in total.
+  59,373 -> captions skipped
+  332,167 -> duplicates skipped
+  183,935 -> module related
 
-Collected 7,233 unique modules.
-  automatic :cd: -> 5,170
-  explicit :dvd: -> 2,063
+Collected 7,235 unique modules.
+  automatic :cd: -> 5,171
+  explicit :dvd: -> 2,064
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=627, explicit=17, plain=18988}` 	 3.39%
+ - `2020_07={automatic=640, explicit=29, plain=20361}` 	 3.29%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,10 +118,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [19088](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25298](suspicious/naming.md)
-- Modular impostors: [9088](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25332](suspicious/naming.md)
+- Modular impostors: [9096](suspicious/impostors.md)
 
-## Unique Modules (7233)
+## Unique Modules (7235)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -593,8 +593,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
-- :dvd: `com.io7m.claypot.core` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.core:0.0.2`
-- :dvd: `com.io7m.claypot.example` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.example:0.0.2`
+- :dvd: `com.io7m.claypot.core` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.core:0.0.3`
+- :dvd: `com.io7m.claypot.example` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.example:0.0.3`
 - :dvd: `com.io7m.coffeepick.adoptopenjdk_v3` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.adoptopenjdk_v3:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.vanilla` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.vanilla:0.2.0`
@@ -716,10 +716,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.1`
-- :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.1`
-- :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.1`
-- :dvd: `com.io7m.xstructural.xml` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.xml:0.0.1`
+- :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.3`
+- :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.3`
+- :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.3`
+- :dvd: `com.io7m.xstructural.xml` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.xml:0.0.3`
 - :dvd: `com.io7m.zeptoblog.cmdline` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.cmdline:0.4.0`
 - :dvd: `com.io7m.zeptoblog.commonmark` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.commonmark:0.4.0`
 - :dvd: `com.io7m.zeptoblog.core` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.core:0.4.0`
@@ -1141,7 +1141,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.0`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
-- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.4.1`
+- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.0`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.87`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.6`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.15`
@@ -1426,6 +1426,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.tascalate.javaflow.tools.jar` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.jar:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.javaagent` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.javaagent:2.6.1`
 - :dvd: `net.tascalate.javaflow.tools.runtime` :left_right_arrow: `net.tascalate.javaflow:net.tascalate.javaflow.tools.runtime:2.6.1`
+- :dvd: `nl.basjes.collections.prefixmap` - `nl.basjes.collections:prefixmap:1.2`
 - :dvd: `nl.elec332.lib.bitdecoder` - `nl.elec332.lib:bitdecoder:0.1`
 - :dvd: `nl.elec332.sdr.lib` - `nl.elec332.sdr:sdrlib:0.2-Beta`
 - :dvd: `nl.elec332.sdr.source.hackrf` - `nl.elec332.sdr.source:hackrfdriver:1.0-Beta`
