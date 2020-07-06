@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7235 Java modules published at Maven Central
+Counted 7236 Java modules published at Maven Central
 
-## Summary 2020-07-05T01:50:29.217393Z
+## Summary 2020-07-06T01:50:44.273946Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-05T01:50:29.217393Z
-Scanned 55,663 files in 7 seconds.
+Started scan at 2020-07-06T01:50:44.273946Z
+Scanned 55,756 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_05_01_29_06.csv
+    last -> modulescanner-report-2020_07_06_01_35_24.csv
 
-Parsed 3,753,487 lines in total.
-  59,373 -> captions skipped
-  332,167 -> duplicates skipped
-  183,935 -> module related
+Parsed 3,756,272 lines in total.
+  59,466 -> captions skipped
+  332,565 -> duplicates skipped
+  183,979 -> module related
 
-Collected 7,235 unique modules.
-  automatic :cd: -> 5,171
+Collected 7,236 unique modules.
+  automatic :cd: -> 5,172
   explicit :dvd: -> 2,064
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=640, explicit=29, plain=20361}` 	 3.29%
+ - `2020_07={automatic=665, explicit=34, plain=22611}` 	 3.09%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19088](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25332](suspicious/naming.md)
-- Modular impostors: [9096](suspicious/impostors.md)
+- Invalid module names: [19089](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25344](suspicious/naming.md)
+- Modular impostors: [9097](suspicious/impostors.md)
 
-## Unique Modules (7235)
+## Unique Modules (7236)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -716,10 +716,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.3`
-- :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.3`
-- :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.3`
-- :dvd: `com.io7m.xstructural.xml` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.xml:0.0.3`
+- :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
+- :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
+- :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
+- :dvd: `com.io7m.xstructural.xml` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.xml:0.0.4`
 - :dvd: `com.io7m.zeptoblog.cmdline` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.cmdline:0.4.0`
 - :dvd: `com.io7m.zeptoblog.commonmark` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.commonmark:0.4.0`
 - :dvd: `com.io7m.zeptoblog.core` :left_right_arrow: `com.io7m.zeptoblog:com.io7m.zeptoblog.core:0.4.0`
@@ -1103,7 +1103,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` - `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` - `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.3.2`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.4.0`
 - :dvd: `io.annot8.api` - `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` - `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` - `io.annot8:annot8-common-data:0.4.0`

@@ -16541,6 +16541,7 @@
 - :cd: `io.skullabs.kos.tests-report` - `io.skullabs.kos:tests-report:0.2.0` // `io.skullabs.kos,tests-report,0.2.0,io.skullabs.kos.tests-report,-,automatic,-,false,-`
 - :cd: `io.skullabs.kos.tests-report` - `io.skullabs.kos:tests-report:0.3.0` // `io.skullabs.kos,tests-report,0.3.0,io.skullabs.kos.tests-report,-,automatic,-,false,-`
 - :cd: `java-socks-proxy-server` :left_right_arrow: `com.github.bbottema:java-socks-proxy-server:1.0.1` // `com.github.bbottema,java-socks-proxy-server,1.0.1,java-socks-proxy-server,-,automatic,-,false,-`
+- :cd: `java-socks-proxy-server` :left_right_arrow: `com.github.bbottema:java-socks-proxy-server:1.0.2` // `com.github.bbottema,java-socks-proxy-server,1.0.2,java-socks-proxy-server,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.0-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.0-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.1-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.1-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`
 - :cd: `jt.808.server.spring.boot.stater` - `io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.2-RELEASE` // `io.github.hylexus.jt,jt-808-server-spring-boot-stater,1.0.2-RELEASE,jt.808.server.spring.boot.stater,-,automatic,-,false,-`

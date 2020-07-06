@@ -8805,6 +8805,7 @@
 - :dvd: `org.slf4j.simple` - `se.bjurr.violations:violation-comments-to-github-command-line:1.9` // `se.bjurr.violations,violation-comments-to-github-command-line,1.9,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.violations:violation-comments-to-gitlab-command-line:1.11` // `se.bjurr.violations,violation-comments-to-gitlab-command-line,1.11,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.violations:violations-command-line:1.5` // `se.bjurr.violations,violations-command-line,1.5,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` - `se.bjurr.violations:violations-command-line:1.7` // `se.bjurr.violations,violations-command-line,1.7,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0` // `org.tinylog,tinylog-api-scala_2.12,2.1.0,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC1` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC1,org.tinylog.api.scala,-,automatic,-,false,-`
 - :cd: `org.tinylog.api.scala` - `org.tinylog:tinylog-api-scala_2.12:2.1.0-RC2` // `org.tinylog,tinylog-api-scala_2.12,2.1.0-RC2,org.tinylog.api.scala,-,automatic,-,false,-`
