@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7236 Java modules published at Maven Central
+Counted 7240 Java modules published at Maven Central
 
-## Summary 2020-07-06T01:50:44.273946Z
+## Summary 2020-07-07T01:51:37.483950Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-06T01:50:44.273946Z
-Scanned 55,756 files in 7 seconds.
+Started scan at 2020-07-07T01:51:37.483950Z
+Scanned 55,839 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_06_01_35_24.csv
+    last -> modulescanner-report-2020_07_07_01_37_21.csv
 
-Parsed 3,756,272 lines in total.
-  59,466 -> captions skipped
-  332,565 -> duplicates skipped
-  183,979 -> module related
+Parsed 3,765,271 lines in total.
+  59,549 -> captions skipped
+  333,123 -> duplicates skipped
+  185,056 -> module related
 
-Collected 7,236 unique modules.
-  automatic :cd: -> 5,172
-  explicit :dvd: -> 2,064
+Collected 7,240 unique modules.
+  automatic :cd: -> 5,174
+  explicit :dvd: -> 2,066
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=665, explicit=34, plain=22611}` 	 3.09%
+ - `2020_07={automatic=1206, explicit=40, plain=29892}` 	 4.17%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19089](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25344](suspicious/naming.md)
-- Modular impostors: [9097](suspicious/impostors.md)
+- Invalid module names: [19415](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25515](suspicious/naming.md)
+- Modular impostors: [9130](suspicious/impostors.md)
 
-## Unique Modules (7236)
+## Unique Modules (7240)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -236,7 +236,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.atrium.translations.en_GB` - `ch.tutteli.atrium:atrium-translations-en_GB:0.12.0`
 - :dvd: `ch.tutteli.atrium.verbs` - `ch.tutteli.atrium:atrium-verbs:0.12.0`
 - :dvd: `ch.tutteli.atrium.verbs.internal` - `ch.tutteli.atrium:atrium-verbs-internal:0.12.0`
-- :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.14.3`
+- :dvd: `ch.tutteli.kbox` - `ch.tutteli.kbox:kbox:0.15.1`
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
@@ -1404,7 +1404,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.2`
+- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.3`
 - :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.9`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
@@ -1556,8 +1556,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.cpython.platform` - `org.bytedeco:cpython-platform:3.7.7-1.5.3`
 - :dvd: `org.bytedeco.cuda` - `org.bytedeco:cuda:10.2-7.6-1.5.3`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform:10.2-7.6-1.5.3`
-- :dvd: `org.bytedeco.dnnl` - `org.bytedeco:dnnl:1.3-1.5.3`
-- :dvd: `org.bytedeco.dnnl.platform` - `org.bytedeco:dnnl-platform:1.3-1.5.3`
+- :dvd: `org.bytedeco.dnnl` - `org.bytedeco:dnnl:1.5-1.5.3`
+- :dvd: `org.bytedeco.dnnl.platform` - `org.bytedeco:dnnl-platform:1.5-1.5.3`
 - :dvd: `org.bytedeco.ffmpeg` - `org.bytedeco:ffmpeg:4.2.2-1.5.3`
 - :dvd: `org.bytedeco.ffmpeg.platform` - `org.bytedeco:ffmpeg-platform:4.2.2-1.5.3`
 - :dvd: `org.bytedeco.fftw` - `org.bytedeco:fftw:3.3.8-1.5.3`
@@ -1633,6 +1633,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bytedeco.videoinput` - `org.bytedeco:videoinput:0.200-1.5.3`
 - :dvd: `org.bytedeco.videoinput.platform` - `org.bytedeco:videoinput-platform:0.200-1.5.3`
 - :dvd: `org.chocosolver.examples` - `org.choco-solver:examples:4.10.3`
+- :dvd: `org.chocosolver.parsers` - `org.choco-solver:choco-parsers:4.10.3`
+- :dvd: `org.chocosolver.solver` - `org.choco-solver:choco-solver:4.10.3`
 - :dvd: `org.codehaus.plexus.languages.java` - `org.codehaus.plexus:plexus-java:1.0.5`
 - :dvd: `org.controlsfx.controls` - `org.controlsfx:controlsfx:11.0.2`
 - :dvd: `org.controlsfx.fxsampler` - `org.controlsfx:fxsampler:1.0.11`
