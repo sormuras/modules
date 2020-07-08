@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7240 Java modules published at Maven Central
+Counted 7242 Java modules published at Maven Central
 
-## Summary 2020-07-07T01:51:37.483950Z
+## Summary 2020-07-08T01:51:54.862714Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-07T01:51:37.483950Z
-Scanned 55,839 files in 8 seconds.
+Started scan at 2020-07-08T01:51:54.862714Z
+Scanned 55,930 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_07_01_37_21.csv
+    last -> modulescanner-report-2020_07_08_01_34_31.csv
 
-Parsed 3,765,271 lines in total.
-  59,549 -> captions skipped
-  333,123 -> duplicates skipped
-  185,056 -> module related
+Parsed 3,772,335 lines in total.
+  59,640 -> captions skipped
+  333,967 -> duplicates skipped
+  185,615 -> module related
 
-Collected 7,240 unique modules.
-  automatic :cd: -> 5,174
-  explicit :dvd: -> 2,066
+Collected 7,242 unique modules.
+  automatic :cd: -> 5,175
+  explicit :dvd: -> 2,067
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=1206, explicit=40, plain=29892}` 	 4.17%
+ - `2020_07={automatic=1547, explicit=95, plain=35462}` 	 4.63%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19415](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25515](suspicious/naming.md)
-- Modular impostors: [9130](suspicious/impostors.md)
+- Invalid module names: [19512](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25559](suspicious/naming.md)
+- Modular impostors: [9152](suspicious/impostors.md)
 
-## Unique Modules (7240)
+## Unique Modules (7242)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -316,8 +316,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.9`
 - :dvd: `com.athaydes.keepup.core` - `com.athaydes.keepup:keepup-core:1.0-RC3`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
-- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.3`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.0`
+- :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.4`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.1`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.6.0`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.3.0`
 - :dvd: `com.azure.core.experimental` - `com.azure:azure-core-experimental:1.0.0-beta.1`
@@ -327,7 +327,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.1.0`
-- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.2`
+- :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.1`
@@ -336,13 +336,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.3`
-- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.7.0`
-- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.5.2`
-- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.7.0`
-- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.7.0`
-- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.1.2`
-- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.5.0`
-- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.5.2`
+- :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.8.0-beta.1`
+- :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.6.0-beta.1`
+- :dvd: `com.azure.storage.blob.changefeed` - `com.azure:azure-storage-blob-changefeed:12.0.0-beta.1`
+- :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.8.0-beta.1`
+- :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.8.0-beta.1`
+- :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.2.0-beta.1`
+- :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.6.0-beta.1`
+- :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.6.0-beta.1`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha5`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha5`
 - :dvd: `com.blazebit.persistence.core.parser` - `com.blazebit:blaze-persistence-core-parser:1.5.0-Alpha5`
@@ -501,40 +502,40 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.wnameless.json.flattener` - `com.github.wnameless.json:json-flattener:0.9.0`
 - :dvd: `com.github.wnameless.spring.routing.resolver` - `com.github.wnameless.spring:spring-routing-resolver:0.6.0`
 - :dvd: `com.gitlab.haynes.paranamer` - `com.gitlab.haynes.paranamer:paranamer:2.9.0`
-- :dvd: `com.gluonhq.attach.accelerometer` - `com.gluonhq.attach:accelerometer:4.0.7`
-- :dvd: `com.gluonhq.attach.audio.recording` - `com.gluonhq.attach:audio-recording:4.0.7`
-- :dvd: `com.gluonhq.attach.barcode` - `com.gluonhq.attach:barcode-scan:4.0.7`
-- :dvd: `com.gluonhq.attach.battery` - `com.gluonhq.attach:battery:4.0.7`
-- :dvd: `com.gluonhq.attach.ble` - `com.gluonhq.attach:ble:4.0.7`
-- :dvd: `com.gluonhq.attach.browser` - `com.gluonhq.attach:browser:4.0.7`
-- :dvd: `com.gluonhq.attach.cache` - `com.gluonhq.attach:cache:4.0.7`
-- :dvd: `com.gluonhq.attach.compass` - `com.gluonhq.attach:compass:4.0.7`
-- :dvd: `com.gluonhq.attach.connectivity` - `com.gluonhq.attach:connectivity:4.0.7`
-- :dvd: `com.gluonhq.attach.device` - `com.gluonhq.attach:device:4.0.7`
-- :dvd: `com.gluonhq.attach.dialer` - `com.gluonhq.attach:dialer:4.0.7`
-- :dvd: `com.gluonhq.attach.display` - `com.gluonhq.attach:display:4.0.7`
-- :dvd: `com.gluonhq.attach.inappbilling` - `com.gluonhq.attach:in-app-billing:4.0.7`
-- :dvd: `com.gluonhq.attach.keyboard` - `com.gluonhq.attach:keyboard:4.0.7`
-- :dvd: `com.gluonhq.attach.lifecycle` - `com.gluonhq.attach:lifecycle:4.0.7`
-- :dvd: `com.gluonhq.attach.local.notifications` - `com.gluonhq.attach:local-notifications:4.0.7`
-- :dvd: `com.gluonhq.attach.magnetometer` - `com.gluonhq.attach:magnetometer:4.0.7`
-- :dvd: `com.gluonhq.attach.orientation` - `com.gluonhq.attach:orientation:4.0.7`
-- :dvd: `com.gluonhq.attach.pictures` - `com.gluonhq.attach:pictures:4.0.7`
-- :dvd: `com.gluonhq.attach.position` - `com.gluonhq.attach:position:4.0.7`
-- :dvd: `com.gluonhq.attach.pushnotifications` - `com.gluonhq.attach:push-notifications:4.0.7`
-- :dvd: `com.gluonhq.attach.runtime.args` - `com.gluonhq.attach:runtime-args:4.0.7`
-- :dvd: `com.gluonhq.attach.settings` - `com.gluonhq.attach:settings:4.0.7`
-- :dvd: `com.gluonhq.attach.share` - `com.gluonhq.attach:share:4.0.7`
-- :dvd: `com.gluonhq.attach.statusbar` - `com.gluonhq.attach:statusbar:4.0.7`
-- :dvd: `com.gluonhq.attach.storage` - `com.gluonhq.attach:storage:4.0.7`
-- :dvd: `com.gluonhq.attach.util` - `com.gluonhq.attach:util:4.0.7`
-- :dvd: `com.gluonhq.attach.vibration` - `com.gluonhq.attach:vibration:4.0.7`
-- :dvd: `com.gluonhq.attach.video` - `com.gluonhq.attach:video:4.0.7`
+- :dvd: `com.gluonhq.attach.accelerometer` - `com.gluonhq.attach:accelerometer:4.0.8`
+- :dvd: `com.gluonhq.attach.audio.recording` - `com.gluonhq.attach:audio-recording:4.0.8`
+- :dvd: `com.gluonhq.attach.barcode` - `com.gluonhq.attach:barcode-scan:4.0.8`
+- :dvd: `com.gluonhq.attach.battery` - `com.gluonhq.attach:battery:4.0.8`
+- :dvd: `com.gluonhq.attach.ble` - `com.gluonhq.attach:ble:4.0.8`
+- :dvd: `com.gluonhq.attach.browser` - `com.gluonhq.attach:browser:4.0.8`
+- :dvd: `com.gluonhq.attach.cache` - `com.gluonhq.attach:cache:4.0.8`
+- :dvd: `com.gluonhq.attach.compass` - `com.gluonhq.attach:compass:4.0.8`
+- :dvd: `com.gluonhq.attach.connectivity` - `com.gluonhq.attach:connectivity:4.0.8`
+- :dvd: `com.gluonhq.attach.device` - `com.gluonhq.attach:device:4.0.8`
+- :dvd: `com.gluonhq.attach.dialer` - `com.gluonhq.attach:dialer:4.0.8`
+- :dvd: `com.gluonhq.attach.display` - `com.gluonhq.attach:display:4.0.8`
+- :dvd: `com.gluonhq.attach.inappbilling` - `com.gluonhq.attach:in-app-billing:4.0.8`
+- :dvd: `com.gluonhq.attach.keyboard` - `com.gluonhq.attach:keyboard:4.0.8`
+- :dvd: `com.gluonhq.attach.lifecycle` - `com.gluonhq.attach:lifecycle:4.0.8`
+- :dvd: `com.gluonhq.attach.local.notifications` - `com.gluonhq.attach:local-notifications:4.0.8`
+- :dvd: `com.gluonhq.attach.magnetometer` - `com.gluonhq.attach:magnetometer:4.0.8`
+- :dvd: `com.gluonhq.attach.orientation` - `com.gluonhq.attach:orientation:4.0.8`
+- :dvd: `com.gluonhq.attach.pictures` - `com.gluonhq.attach:pictures:4.0.8`
+- :dvd: `com.gluonhq.attach.position` - `com.gluonhq.attach:position:4.0.8`
+- :dvd: `com.gluonhq.attach.pushnotifications` - `com.gluonhq.attach:push-notifications:4.0.8`
+- :dvd: `com.gluonhq.attach.runtime.args` - `com.gluonhq.attach:runtime-args:4.0.8`
+- :dvd: `com.gluonhq.attach.settings` - `com.gluonhq.attach:settings:4.0.8`
+- :dvd: `com.gluonhq.attach.share` - `com.gluonhq.attach:share:4.0.8`
+- :dvd: `com.gluonhq.attach.statusbar` - `com.gluonhq.attach:statusbar:4.0.8`
+- :dvd: `com.gluonhq.attach.storage` - `com.gluonhq.attach:storage:4.0.8`
+- :dvd: `com.gluonhq.attach.util` - `com.gluonhq.attach:util:4.0.8`
+- :dvd: `com.gluonhq.attach.vibration` - `com.gluonhq.attach:vibration:4.0.8`
+- :dvd: `com.gluonhq.attach.video` - `com.gluonhq.attach:video:4.0.8`
 - :dvd: `com.gluonhq.connect` - `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.25`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.26`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -915,18 +916,18 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.puresoltechnologies.graphs.graph` - `com.puresoltechnologies.graphs:graph:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.statemodel` - `com.puresoltechnologies.graphs:statemodel:2.0.1`
 - :dvd: `com.puresoltechnologies.graphs.trees` - `com.puresoltechnologies.graphs:trees:2.0.1`
-- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.9.0`
-- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.9.0`
+- :dvd: `com.puresoltechnologies.javafx.charts` - `com.puresoltechnologies.javafx:charts:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.extensions` - `com.puresoltechnologies.javafx:extensions:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.perspectives` - `com.puresoltechnologies.javafx:perspectives:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.preferences` - `com.puresoltechnologies.javafx:preferences:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.rcp` - `com.puresoltechnologies.javafx:rcp:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.reactive` - `com.puresoltechnologies.javafx:reactive:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.services` - `com.puresoltechnologies.javafx:services:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.showroom` - `com.puresoltechnologies.javafx:showroom:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.tasks` - `com.puresoltechnologies.javafx:tasks:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.testing` - `com.puresoltechnologies.javafx:testing:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.utils` - `com.puresoltechnologies.javafx:utils:0.10.0`
+- :dvd: `com.puresoltechnologies.javafx.workspaces` - `com.puresoltechnologies.javafx:workspaces:0.10.0`
 - :dvd: `com.puresoltechnologies.streaming.binary` - `com.puresoltechnologies.streaming:binary:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.binary.mapper` - `com.puresoltechnologies.streaming:binary.mapper:2.1.0`
 - :dvd: `com.puresoltechnologies.streaming.common.mapper` - `com.puresoltechnologies.streaming:common.mapper:2.1.0`
@@ -1138,7 +1139,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.0`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.1`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.0`
@@ -1535,7 +1536,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.bouncycastle.fips.core` - `org.bouncycastle:bc-fips:1.0.2`
 - :dvd: `org.bouncycastle.fips.pkix` - `org.bouncycastle:bcpkix-fips:1.0.3`
 - :dvd: `org.bouncycastle.fips.tls` - `org.bouncycastle:bctls-fips:1.0.10`
-- :dvd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15on:1.65`
+- :dvd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15on:1.66`
 - :dvd: `org.bytedeco.ale` - `org.bytedeco:ale:0.6.1-1.5.3`
 - :dvd: `org.bytedeco.ale.platform` - `org.bytedeco:ale-platform:0.6.1-1.5.3`
 - :dvd: `org.bytedeco.arpackng` - `org.bytedeco:arpack-ng:3.7.0-1.5.3`
