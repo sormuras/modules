@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7242 Java modules published at Maven Central
+Counted 7243 Java modules published at Maven Central
 
-## Summary 2020-07-08T01:51:54.862714Z
+## Summary 2020-07-09T01:51:59.056663Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-08T01:51:54.862714Z
-Scanned 55,930 files in 7 seconds.
+Started scan at 2020-07-09T01:51:59.056663Z
+Scanned 56,025 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_08_01_34_31.csv
+    last -> modulescanner-report-2020_07_09_01_41_43.csv
 
-Parsed 3,772,335 lines in total.
-  59,640 -> captions skipped
-  333,967 -> duplicates skipped
-  185,615 -> module related
+Parsed 3,778,170 lines in total.
+  59,735 -> captions skipped
+  334,888 -> duplicates skipped
+  186,107 -> module related
 
-Collected 7,242 unique modules.
+Collected 7,243 unique modules.
   automatic :cd: -> 5,175
-  explicit :dvd: -> 2,067
+  explicit :dvd: -> 2,068
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=1547, explicit=95, plain=35462}` 	 4.63%
+ - `2020_07={automatic=1940, explicit=99, plain=39789}` 	 5.12%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19512](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25559](suspicious/naming.md)
-- Modular impostors: [9152](suspicious/impostors.md)
+- Invalid module names: [19538](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25615](suspicious/naming.md)
+- Modular impostors: [9165](suspicious/impostors.md)
 
-## Unique Modules (7242)
+## Unique Modules (7243)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -318,7 +318,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.4`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.1`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.6.0`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.7.0-beta.1`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.3.0`
 - :dvd: `com.azure.core.experimental` - `com.azure:azure-core-experimental:1.0.0-beta.1`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.4`
@@ -330,8 +330,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.1`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.1`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.2`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.2`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
@@ -343,6 +343,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.8.0-beta.1`
 - :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.2.0-beta.1`
 - :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.6.0-beta.1`
+- :dvd: `com.azure.storage.internal.avro` - `com.azure:azure-storage-internal-avro:12.0.0-beta.1`
 - :dvd: `com.azure.storage.queue` - `com.azure:azure-storage-queue:12.6.0-beta.1`
 - :dvd: `com.blazebit.persistence.core` - `com.blazebit:blaze-persistence-core-api:1.5.0-Alpha5`
 - :dvd: `com.blazebit.persistence.core.impl` - `com.blazebit:blaze-persistence-core-impl:1.5.0-Alpha5`

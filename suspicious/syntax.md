@@ -63,6 +63,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.0-Alpha5` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.1` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.2` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.3` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.4` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-checkstyle-rules:1.0.5` // `com.blazebit,blaze-domain-checkstyle-rules,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0` // `com.blazebit,blaze-domain-core-api,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha1` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha2` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -71,6 +74,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.0-Alpha5` // `com.blazebit,blaze-domain-core-api,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.1` // `com.blazebit,blaze-domain-core-api,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.2` // `com.blazebit,blaze-domain-core-api,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.3` // `com.blazebit,blaze-domain-core-api,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.4` // `com.blazebit,blaze-domain-core-api,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-api:1.0.5` // `com.blazebit,blaze-domain-core-api,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0` // `com.blazebit,blaze-domain-core-impl,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha1` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha2` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -79,6 +85,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.0-Alpha5` // `com.blazebit,blaze-domain-core-impl,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.1` // `com.blazebit,blaze-domain-core-impl,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.2` // `com.blazebit,blaze-domain-core-impl,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.3` // `com.blazebit,blaze-domain-core-impl,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.4` // `com.blazebit,blaze-domain-core-impl,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-core-impl:1.0.5` // `com.blazebit,blaze-domain-core-impl,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0` // `com.blazebit,blaze-domain-declarative-api,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -87,6 +96,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-api,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.1` // `com.blazebit,blaze-domain-declarative-api,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.2` // `com.blazebit,blaze-domain-declarative-api,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.3` // `com.blazebit,blaze-domain-declarative-api,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.4` // `com.blazebit,blaze-domain-declarative-api,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-api:1.0.5` // `com.blazebit,blaze-domain-declarative-api,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0` // `com.blazebit,blaze-domain-declarative-impl,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -95,6 +107,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-impl,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.1` // `com.blazebit,blaze-domain-declarative-impl,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.2` // `com.blazebit,blaze-domain-declarative-impl,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.3` // `com.blazebit,blaze-domain-declarative-impl,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.4` // `com.blazebit,blaze-domain-declarative-impl,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-impl:1.0.5` // `com.blazebit,blaze-domain-declarative-impl,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha2` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha2,-,-,automatic,-,false,-`
@@ -103,6 +118,9 @@
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.0-Alpha5` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.1` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.2` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.3` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.4` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-declarative-integration-cdi:1.0.5` // `com.blazebit,blaze-domain-declarative-integration-cdi,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-declarative-persistence:1.0.0-Alpha1` // `com.blazebit,blaze-domain-declarative-persistence,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0` // `com.blazebit,blaze-domain-documentation,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0-Alpha1` // `com.blazebit,blaze-domain-documentation,1.0.0-Alpha1,-,-,automatic,-,false,-`
@@ -112,10 +130,16 @@
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.0-Alpha5` // `com.blazebit,blaze-domain-documentation,1.0.0-Alpha5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.1` // `com.blazebit,blaze-domain-documentation,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.2` // `com.blazebit,blaze-domain-documentation,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.3` // `com.blazebit,blaze-domain-documentation,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.4` // `com.blazebit,blaze-domain-documentation,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-documentation:1.0.5` // `com.blazebit,blaze-domain-documentation,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-persistence:1.0.0-Alpha1` // `com.blazebit,blaze-domain-persistence,1.0.0-Alpha1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.0` // `com.blazebit,blaze-domain-typescript,1.0.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.1` // `com.blazebit,blaze-domain-typescript,1.0.1,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.2` // `com.blazebit,blaze-domain-typescript,1.0.2,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.3` // `com.blazebit,blaze-domain-typescript,1.0.3,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.4` // `com.blazebit,blaze-domain-typescript,1.0.4,-,-,automatic,-,false,-`
+- :cd: `` - `com.blazebit:blaze-domain-typescript:1.0.5` // `com.blazebit,blaze-domain-typescript,1.0.5,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha3` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha3,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha4` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha4,-,-,automatic,-,false,-`
 - :cd: `` - `com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha5` // `com.blazebit,blaze-expression-checkstyle-rules,1.0.0-Alpha5,-,-,automatic,-,false,-`
@@ -6258,6 +6282,7 @@
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.11` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.11,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.12` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.13` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.13,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.14` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.14,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.2` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.3` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.4` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.4,-,-,automatic,-,false,-`
@@ -6280,6 +6305,7 @@
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.11` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.11,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.12` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.13` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.13,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.14` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.14,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.2` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.3` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.4` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.4,-,-,automatic,-,false,-`

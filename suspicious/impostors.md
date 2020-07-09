@@ -282,6 +282,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `ch.dsivd.copper:copper:1.2.0` // `ch.dsivd.copper,copper,1.2.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.daml:ledger-api-test-tool:1.3.0-snapshot.20200701.4616.0.bdbefd11` // `com.daml,ledger-api-test-tool,1.3.0-snapshot.20200701.4616.0.bdbefd11,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.daml:ledger-api-test-tool:1.3.0-snapshot.20200706.4664.0.5db06051` // `com.daml,ledger-api-test-tool,1.3.0-snapshot.20200706.4664.0.5db06051,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.daml:ledger-api-test-tool:1.3.0-snapshot.20200708.4686.0.95dfa18e` // `com.daml,ledger-api-test-tool,1.3.0-snapshot.20200708.4686.0.95dfa18e,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.github.cukedoctor:cukedoctor-main:3.1` // `com.github.cukedoctor,cukedoctor-main,3.1,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.14` // `com.heroku.sdk,heroku-deploy-complete,2.0.14,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.15` // `com.heroku.sdk,heroku-deploy-complete,2.0.15,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -866,6 +867,7 @@
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.3.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.3.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.4.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.4.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.4.1` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.4.1,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
+- :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.5.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.5.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.imsweb.algorithms.staging` - `com.imsweb:seerapi-client-java:4.8` // `com.imsweb,seerapi-client-java,4.8,com.imsweb.algorithms.staging,-,automatic,-,false,-`
 - :cd: `com.io7m.changelog.text` - `com.io7m.changelog:com.io7m.changelog.xom:4.0.0-beta0001` // `com.io7m.changelog,com.io7m.changelog.xom,4.0.0-beta0001,com.io7m.changelog.text,-,automatic,-,false,-`
 - :dvd: `com.jtconnors.socket` :left_right_arrow: `com.jtconnors:com.jtconnors.socket:11.0.2` // `com.jtconnors,com.jtconnors.socket,11.0.2,com.jtconnors.socket,-,explicit,java.base + java.logging,false,-`
@@ -6465,6 +6467,7 @@
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.63` // `org.bouncycastle,bcmail-jdk15to18,1.63,org.bouncycastle.mail,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.64` // `org.bouncycastle,bcmail-jdk15to18,1.64,org.bouncycastle.mail,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.65` // `org.bouncycastle,bcmail-jdk15to18,1.65,org.bouncycastle.mail,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15to18:1.66` // `org.bouncycastle,bcmail-jdk15to18,1.66,org.bouncycastle.mail,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.danielflower.apprunner:restabuild:0.6.0` // `com.danielflower.apprunner,restabuild,0.6.0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.google.gerrit:gerrit-acceptance-framework:3.1.0` // `com.google.gerrit,gerrit-acceptance-framework,3.1.0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `com.google.gerrit:gerrit-acceptance-framework:3.1.0-rc0` // `com.google.gerrit,gerrit-acceptance-framework,3.1.0-rc0,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -6491,6 +6494,7 @@
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.63` // `org.bouncycastle,bcpg-jdk15to18,1.63,org.bouncycastle.pg,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.64` // `org.bouncycastle,bcpg-jdk15to18,1.64,org.bouncycastle.pg,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.65` // `org.bouncycastle,bcpg-jdk15to18,1.65,org.bouncycastle.pg,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.pg` - `org.bouncycastle:bcpg-jdk15to18:1.66` // `org.bouncycastle,bcpg-jdk15to18,1.66,org.bouncycastle.pg,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.netbeans.external:bcpg:RELEASE113` // `org.netbeans.external,bcpg,RELEASE113,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.sonarsource.scm.git:sonar-scm-git-plugin:1.11.0.11` // `org.sonarsource.scm.git,sonar-scm-git-plugin,1.11.0.11,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pg` - `org.sonarsource.scm.git:sonar-scm-git-plugin:1.11.1.2008` // `org.sonarsource.scm.git,sonar-scm-git-plugin,1.11.1.2008,org.bouncycastle.pg,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -6575,6 +6579,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.246.11` // `com.yahoo.vespa,vespa-hadoop,7.246.11,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.247.32` // `com.yahoo.vespa,vespa-hadoop,7.247.32,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.248.5` // `com.yahoo.vespa,vespa-hadoop,7.248.5,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.249.12` // `com.yahoo.vespa,vespa-hadoop,7.249.12,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6608,6 +6613,7 @@
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.63` // `org.bouncycastle,bcpkix-jdk15to18,1.63,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.64` // `org.bouncycastle,bcpkix-jdk15to18,1.64,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.65` // `org.bouncycastle,bcpkix-jdk15to18,1.65,org.bouncycastle.pkix,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.pkix` - `org.bouncycastle:bcpkix-jdk15to18:1.66` // `org.bouncycastle,bcpkix-jdk15to18,1.66,org.bouncycastle.pkix,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.0` // `org.keycloak,kcinit,10.0.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.1` // `org.keycloak,kcinit,10.0.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.2` // `org.keycloak,kcinit,10.0.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -6702,6 +6708,7 @@
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.63` // `org.bouncycastle,bcprov-jdk15to18,1.63,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.64` // `org.bouncycastle,bcprov-jdk15to18,1.64,org.bouncycastle.provider,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.65` // `org.bouncycastle,bcprov-jdk15to18,1.65,org.bouncycastle.provider,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-jdk15to18:1.66` // `org.bouncycastle,bcprov-jdk15to18,1.66,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.0` // `org.eclipse.milo,server-examples,0.3.0,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.0-M1` // `org.eclipse.milo,server-examples,0.3.0-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.3.1` // `org.eclipse.milo,server-examples,0.3.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -6762,6 +6769,7 @@
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.63` // `org.bouncycastle,bctls-jdk15to18,1.63,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.64` // `org.bouncycastle,bctls-jdk15to18,1.64,org.bouncycastle.tls,-,automatic,-,false,-`
 - :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.65` // `org.bouncycastle,bctls-jdk15to18,1.65,org.bouncycastle.tls,-,automatic,-,false,-`
+- :cd: `org.bouncycastle.tls` - `org.bouncycastle:bctls-jdk15to18:1.66` // `org.bouncycastle,bctls-jdk15to18,1.66,org.bouncycastle.tls,-,automatic,-,false,-`
 - :dvd: `org.bytedeco.caffe.platform` - `org.bytedeco:caffe-platform-gpu:1.0-1.5.2` // `org.bytedeco,caffe-platform-gpu,1.0-1.5.2,org.bytedeco.caffe.platform,-,explicit,java.base + org.bytedeco.caffe.linux.x86_64.gpu + org.bytedeco.caffe.macosx.x86_64.gpu,false,-`
 - :dvd: `org.bytedeco.caffe.platform` - `org.bytedeco:caffe-platform-gpu:1.0-1.5.3` // `org.bytedeco,caffe-platform-gpu,1.0-1.5.3,org.bytedeco.caffe.platform,-,explicit,java.base + org.bytedeco.caffe.linux.x86_64.gpu + org.bytedeco.caffe.macosx.x86_64.gpu,false,-`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.1-7.6-1.5.2` // `org.bytedeco,cuda-platform-redist,10.1-7.6-1.5.2,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
@@ -7976,6 +7984,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.1.4` // `com.github.collinalpert,lambda2sql,2.1.4,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2` // `com.github.collinalpert,lambda2sql,2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2.1` // `com.github.collinalpert,lambda2sql,2.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2.2` // `com.github.collinalpert,lambda2sql,2.2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.1.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.21.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.22.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -8733,8 +8742,10 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M4` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M4,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M5` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M5,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M6` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M6,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M7` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M7,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.100` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.100,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.104` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.104,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.105` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.105,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.96` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.96,org.slf4j,-,explicit,java.base,false,-`
@@ -8754,6 +8765,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.54` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.54,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.55` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.55,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.56` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.56,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.57` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.57,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
@@ -8770,6 +8782,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.34` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.34,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.35` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.35,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.36` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.36,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.37` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.37,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.0-jre14` // `com.guicedee.services,sl4j,1.0.10.0-jre14,org.slf4j,1.0.10.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.1-jre14` // `com.guicedee.services,sl4j,1.0.10.1-jre14,org.slf4j,1.0.10.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.3-jre14` // `com.guicedee.services,sl4j,1.0.10.3-jre14,org.slf4j,1.0.10.3-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
