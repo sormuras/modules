@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7243 Java modules published at Maven Central
 
-## Summary 2020-07-09T01:51:59.056663Z
+## Summary 2020-07-10T01:52:07.299645Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-09T01:51:59.056663Z
-Scanned 56,025 files in 8 seconds.
+Started scan at 2020-07-10T01:52:07.299645Z
+Scanned 56,111 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_09_01_41_43.csv
+    last -> modulescanner-report-2020_07_10_01_37_13.csv
 
-Parsed 3,778,170 lines in total.
-  59,735 -> captions skipped
-  334,888 -> duplicates skipped
-  186,107 -> module related
+Parsed 3,786,382 lines in total.
+  59,819 -> captions skipped
+  336,464 -> duplicates skipped
+  186,449 -> module related
 
 Collected 7,243 unique modules.
   automatic :cd: -> 5,175
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=1940, explicit=99, plain=39789}` 	 5.12%
+ - `2020_07={automatic=2244, explicit=103, plain=45999}` 	 5.10%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,9 +117,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19538](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25615](suspicious/naming.md)
-- Modular impostors: [9165](suspicious/impostors.md)
+- Invalid module names: [19545](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25630](suspicious/naming.md)
+- Modular impostors: [9177](suspicious/impostors.md)
 
 ## Unique Modules (7243)
 
@@ -330,8 +330,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
-- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.1.2`
-- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.1.2`
+- :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.2.0-beta.1`
+- :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.2.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
@@ -1140,7 +1140,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.annot8.implementations.support` - `io.annot8:annot8-implementations-support:0.4.0`
 - :dvd: `io.annot8.testing.tck.impl` - `io.annot8:annot8-impl-tck:0.4.0`
 - :dvd: `io.annot8.testing.testimpl` - `io.annot8:annot8-test-impl:0.4.0`
-- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.1`
+- :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.0`
@@ -1353,7 +1353,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.0`
 - :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.0`
 - :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.0`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.7.1`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.8.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC3`

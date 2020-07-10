@@ -349,6 +349,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.5.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.5.0,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.5.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.5.1,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.0,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.1,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.0` // `za.co.absa.spline,admin,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.1` // `za.co.absa.spline,admin,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.2` // `za.co.absa.spline,admin,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -362,6 +363,7 @@
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.4.0` // `io.bdeploy,api,2.4.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.0` // `io.bdeploy,api,2.5.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.1` // `io.bdeploy,api,2.5.1,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.2` // `io.bdeploy,api,2.5.2,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.0` // `com.github.priytam,exampleApp,1.0,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1` // `com.github.priytam,exampleApp,1.1,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1-java-8` // `com.github.priytam,exampleApp,1.1-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
@@ -2833,6 +2835,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.1.2` // `io.cucumber,cucumber-scala_2.12,6.1.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.2.0` // `io.cucumber,cucumber-scala_2.12,6.2.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.2.1` // `io.cucumber,cucumber-scala_2.12,6.2.1,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.2.2` // `io.cucumber,cucumber-scala_2.12,6.2.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.6.0` // `io.cucumber,cucumber-scala_2.13,5.6.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.7.0` // `io.cucumber,cucumber-scala_2.13,5.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.0.0` // `io.cucumber,cucumber-scala_2.13,6.0.0,io.cucumber.scala,-,automatic,-,false,-`
@@ -2840,6 +2843,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.1.2` // `io.cucumber,cucumber-scala_2.13,6.1.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.2.0` // `io.cucumber,cucumber-scala_2.13,6.2.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.2.1` // `io.cucumber,cucumber-scala_2.13,6.2.1,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.2.2` // `io.cucumber,cucumber-scala_2.13,6.2.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:2.0.4` // `io.cucumber,tag-expressions,2.0.4,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:3.0.0` // `io.cucumber,tag-expressions,3.0.0,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.testng` - `com.github.harry389:cucumber-testng:4.7.4` // `com.github.harry389,cucumber-testng,4.7.4,io.cucumber.testng,-,automatic,-,false,-`
@@ -2903,6 +2907,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.3` // `com.yahoo.elide,elide-blog-example,4.6.3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.4` // `com.yahoo.elide,elide-blog-example,4.6.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.5` // `com.yahoo.elide,elide-blog-example,4.6.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.6` // `com.yahoo.elide,elide-blog-example,4.6.6,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `cz.o2.proxima:proxima-beam-io-pubsub:0.4.0` // `cz.o2.proxima,proxima-beam-io-pubsub,0.4.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -4925,8 +4930,11 @@
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC5` // `com.sun.mail,mailapi,2.0.0-RC5,jakarta.mail,-,automatic,-,false,-`
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC6` // `com.sun.mail,mailapi,2.0.0-RC6,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client:2.0.0-M2` // `org.glassfish.tyrus.bundles,tyrus-standalone-client,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
+- :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client:2.0.0-M3` // `org.glassfish.tyrus.bundles,tyrus-standalone-client,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client-jdk:2.0.0-M2` // `org.glassfish.tyrus.bundles,tyrus-standalone-client-jdk,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
+- :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client-jdk:2.0.0-M3` // `org.glassfish.tyrus.bundles,tyrus-standalone-client-jdk,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.ext:tyrus-client-cli:2.0.0-M2` // `org.glassfish.tyrus.ext,tyrus-client-cli,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
+- :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.ext:tyrus-client-cli:2.0.0-M3` // `org.glassfish.tyrus.ext,tyrus-client-cli,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.2.0` // `com.scalar-labs,scalardl-client-sdk,1.2.0,java.json,-,explicit,java.base,false,-`
@@ -5588,6 +5596,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.google.gerrit:gerrit-acceptance-framework:3.2.2` // `com.google.gerrit,gerrit-acceptance-framework,3.2.2,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.1` // `com.nerdvision,example,2.0.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.2` // `com.nerdvision,example,2.0.2,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.4` // `com.nerdvision,example,2.0.4,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -6038,6 +6047,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.27.4` // `com.netflix.conductor,conductor-es6-persistence,2.27.4,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.27.5` // `com.netflix.conductor,conductor-es6-persistence,2.27.5,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.27.6` // `com.netflix.conductor,conductor-es6-persistence,2.27.6,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.28.0` // `com.netflix.conductor,conductor-es6-persistence,2.28.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.3.0` // `com.nimblygames.packr,packr-all,2.3.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.4.2` // `com.nimblygames.packr,packr-all,2.4.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.5.0` // `com.nimblygames.packr,packr-all,2.5.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -6132,6 +6142,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.124` // `io.nosqlbench,driver-cql-shaded,3.12.124,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.125` // `io.nosqlbench,driver-cql-shaded,3.12.125,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.126` // `io.nosqlbench,driver-cql-shaded,3.12.126,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.127` // `io.nosqlbench,driver-cql-shaded,3.12.127,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.128` // `io.nosqlbench,driver-cql-shaded,3.12.128,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
