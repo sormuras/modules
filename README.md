@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7243 Java modules published at Maven Central
 
-## Summary 2020-07-10T01:52:07.299645Z
+## Summary 2020-07-11T01:52:37.728512Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-10T01:52:07.299645Z
-Scanned 56,111 files in 7 seconds.
+Started scan at 2020-07-11T01:52:37.728512Z
+Scanned 56,200 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_10_01_37_13.csv
+    last -> modulescanner-report-2020_07_11_01_35_26.csv
 
-Parsed 3,786,382 lines in total.
-  59,819 -> captions skipped
-  336,464 -> duplicates skipped
-  186,449 -> module related
+Parsed 3,790,964 lines in total.
+  59,908 -> captions skipped
+  336,781 -> duplicates skipped
+  186,765 -> module related
 
 Collected 7,243 unique modules.
   automatic :cd: -> 5,175
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2244, explicit=103, plain=45999}` 	 5.10%
+ - `2020_07={automatic=2284, explicit=113, plain=49859}` 	 4.81%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,9 +117,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19545](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25630](suspicious/naming.md)
-- Modular impostors: [9177](suspicious/impostors.md)
+- Invalid module names: [19655](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25783](suspicious/naming.md)
+- Modular impostors: [9180](suspicious/impostors.md)
 
 ## Unique Modules (7243)
 
@@ -329,10 +329,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.1.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.5`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.6`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.2.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.2.0-beta.1`
-- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.3`
+- :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.4`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.3`
@@ -432,10 +432,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.1`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.37`
-- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.37`
-- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.37`
-- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.37`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.38`
+- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.38`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.38`
+- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.38`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -1078,7 +1078,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.3-M1`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.3`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1350,9 +1350,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.vulpine.lib.http` - `io.vulpine.lib:http:0.3.0`
 - :dvd: `io.vulpine.lib.json.schema.builder` - `io.vulpine.lib:json-schema-builder:2.2.0`
 - :dvd: `io.vulpine.lib.sql.load` - `io.vulpine.lib:java-sql-import:0.2.0`
-- :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.0`
-- :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.0`
-- :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.0`
+- :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.1`
+- :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.1`
+- :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.1`
 - :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.8.0`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
