@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7243 Java modules published at Maven Central
+Counted 7261 Java modules published at Maven Central
 
-## Summary 2020-07-11T01:52:37.728512Z
+## Summary 2020-07-12T01:53:11.488806Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-11T01:52:37.728512Z
-Scanned 56,200 files in 7 seconds.
+Started scan at 2020-07-12T01:53:11.488806Z
+Scanned 56,289 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_11_01_35_26.csv
+    last -> modulescanner-report-2020_07_12_01_33_26.csv
 
-Parsed 3,790,964 lines in total.
-  59,908 -> captions skipped
-  336,781 -> duplicates skipped
-  186,765 -> module related
+Parsed 3,794,076 lines in total.
+  59,997 -> captions skipped
+  337,291 -> duplicates skipped
+  186,876 -> module related
 
-Collected 7,243 unique modules.
-  automatic :cd: -> 5,175
-  explicit :dvd: -> 2,068
+Collected 7,261 unique modules.
+  automatic :cd: -> 5,177
+  explicit :dvd: -> 2,084
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2284, explicit=113, plain=49859}` 	 4.81%
+ - `2020_07={automatic=2299, explicit=156, plain=52261}` 	 4.70%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,10 +118,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [19655](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25783](suspicious/naming.md)
-- Modular impostors: [9180](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25827](suspicious/naming.md)
+- Modular impostors: [9189](suspicious/impostors.md)
 
-## Unique Modules (7243)
+## Unique Modules (7261)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -185,7 +185,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.audio.openal` - `be.yildiz-games:module-audio-openal:2.0.12`
 - :dvd: `be.yildizgames.module.database` - `be.yildiz-games:module-database:3.1.0`
 - :dvd: `be.yildizgames.module.database.derby` - `be.yildiz-games:module-database-derby:1.0.8`
-- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.4`
+- :dvd: `be.yildizgames.module.database.hsqldb` - `be.yildiz-games:module-database-hsqldb:1.0.5`
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.5`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
@@ -595,8 +595,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.changelog.writer.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.writer.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.api` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.api:4.0.0-beta0014`
 - :dvd: `com.io7m.changelog.xml.vanilla` :left_right_arrow: `com.io7m.changelog:com.io7m.changelog.xml.vanilla:4.0.0-beta0014`
-- :dvd: `com.io7m.claypot.core` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.core:0.0.3`
-- :dvd: `com.io7m.claypot.example` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.example:0.0.3`
+- :dvd: `com.io7m.claypot.core` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.core:0.0.4`
+- :dvd: `com.io7m.claypot.example` :left_right_arrow: `com.io7m.claypot:com.io7m.claypot.example:0.0.4`
 - :dvd: `com.io7m.coffeepick.adoptopenjdk_v3` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.adoptopenjdk_v3:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.client.vanilla` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.client.vanilla:0.2.0`
@@ -718,6 +718,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
+- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.2`
+- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.2`
+- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.2`
+- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.2`
+- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.2`
+- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.2`
+- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.2`
+- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.2`
+- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.2`
+- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.2`
+- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.2`
+- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.2`
+- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.2`
+- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.2`
+- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.2`
+- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.2`
 - :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
 - :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
 - :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
@@ -1086,13 +1102,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.uniheidelberg.ziti.sus.VersionComparator` - `de.uni-heidelberg.ziti.sus:VersionComparator:1.1`
 - :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.2.0`
 - :dvd: `dk.tbsalling.ais.messages` - `dk.tbsalling:aismessages:3.1.0`
-- :dvd: `es.jlarriba.jrmapi` - `es.jlarriba:jrmapi:0.5`
-- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.2.1`
-- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.2.1`
-- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.2.1`
-- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.2.1`
-- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.2.1`
-- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.2.1`
+- :dvd: `es.jlarriba.jrmapi` - `es.jlarriba:jrmapi:0.6`
+- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.3.0`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
@@ -1876,7 +1892,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.mycore.oai.pmh.harvester.impl` - `org.mycore:oaipmh-harvester-impl:2.1`
 - :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.1`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
-- :dvd: `org.myire.thrice` - `org.myire:thrice:3.1`
+- :dvd: `org.myire.thrice` - `org.myire:thrice:3.2`
 - :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0.1`
 - :dvd: `org.objectweb.asm.all` - `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` - `org.ow2.asm:asm-debug-all:6.0_BETA`
