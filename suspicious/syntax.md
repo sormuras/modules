@@ -6348,6 +6348,7 @@
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.18` // `org.neo4j,neo4j-ast-3.5,3.5.18,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.19` // `org.neo4j,neo4j-ast-3.5,3.5.19,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.2` // `org.neo4j,neo4j-ast-3.5,3.5.2,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.20` // `org.neo4j,neo4j-ast-3.5,3.5.20,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.3` // `org.neo4j,neo4j-ast-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.4` // `org.neo4j,neo4j-ast-3.5,3.5.4,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ast-3.5:3.5.5` // `org.neo4j,neo4j-ast-3.5,3.5.5,-,-,automatic,-,false,-`
@@ -6368,6 +6369,7 @@
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.18` // `org.neo4j,neo4j-expressions-3.5,3.5.18,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.19` // `org.neo4j,neo4j-expressions-3.5,3.5.19,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.2` // `org.neo4j,neo4j-expressions-3.5,3.5.2,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.20` // `org.neo4j,neo4j-expressions-3.5,3.5.20,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.3` // `org.neo4j,neo4j-expressions-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.4` // `org.neo4j,neo4j-expressions-3.5,3.5.4,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-expressions-3.5:3.5.5` // `org.neo4j,neo4j-expressions-3.5,3.5.5,-,-,automatic,-,false,-`
@@ -6434,6 +6436,7 @@
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.18` // `org.neo4j,neo4j-parser-3.5,3.5.18,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.19` // `org.neo4j,neo4j-parser-3.5,3.5.19,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.2` // `org.neo4j,neo4j-parser-3.5,3.5.2,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.20` // `org.neo4j,neo4j-parser-3.5,3.5.20,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.3` // `org.neo4j,neo4j-parser-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.4` // `org.neo4j,neo4j-parser-3.5,3.5.4,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-parser-3.5:3.5.5` // `org.neo4j,neo4j-parser-3.5,3.5.5,-,-,automatic,-,false,-`
@@ -6454,6 +6457,7 @@
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.18` // `org.neo4j,neo4j-rewriting-3.5,3.5.18,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.19` // `org.neo4j,neo4j-rewriting-3.5,3.5.19,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.2` // `org.neo4j,neo4j-rewriting-3.5,3.5.2,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.20` // `org.neo4j,neo4j-rewriting-3.5,3.5.20,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.3` // `org.neo4j,neo4j-rewriting-3.5,3.5.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.4` // `org.neo4j,neo4j-rewriting-3.5,3.5.4,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-rewriting-3.5:3.5.5` // `org.neo4j,neo4j-rewriting-3.5,3.5.5,-,-,automatic,-,false,-`

@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7263 Java modules published at Maven Central
+Counted 7269 Java modules published at Maven Central
 
-## Summary 2020-07-13T01:53:43.105023Z
+## Summary 2020-07-14T01:53:47.942874Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-13T01:53:43.105023Z
-Scanned 56,383 files in 8 seconds.
+Started scan at 2020-07-14T01:53:47.942874Z
+Scanned 56,468 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_13_01_36_46.csv
+    last -> modulescanner-report-2020_07_14_01_30_08.csv
 
-Parsed 3,796,013 lines in total.
-  60,091 -> captions skipped
-  337,799 -> duplicates skipped
-  186,982 -> module related
+Parsed 3,801,514 lines in total.
+  60,176 -> captions skipped
+  338,204 -> duplicates skipped
+  187,196 -> module related
 
-Collected 7,263 unique modules.
-  automatic :cd: -> 5,179
+Collected 7,269 unique modules.
+  automatic :cd: -> 5,185
   explicit :dvd: -> 2,084
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2339, explicit=157, plain=53490}` 	 4.67%
+ - `2020_07={automatic=2519, explicit=161, plain=58287}` 	 4.60%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19681](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25860](suspicious/naming.md)
-- Modular impostors: [9195](suspicious/impostors.md)
+- Invalid module names: [19685](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25867](suspicious/naming.md)
+- Modular impostors: [9214](suspicious/impostors.md)
 
-## Unique Modules (7263)
+## Unique Modules (7269)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -284,9 +284,9 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `colesico.framework.weblet` - `net.colesico.framework:colesico-weblet:3.2.0`
 - :dvd: `colesico.framework.webstatic` - `net.colesico.framework:colesico-webstatic:3.2.0`
 - :dvd: `colesico.framework.widget` - `net.colesico.framework:colesico-widget:3.2.0`
-- :dvd: `com.acgist.snail` - `com.acgist:snail:1.4.0`
-- :dvd: `com.acgist.snail.extend` - `com.acgist:snail.extend:1.4.0`
-- :dvd: `com.acgist.snail.javafx` - `com.acgist:snail.javafx:1.4.0`
+- :dvd: `com.acgist.snail` - `com.acgist:snail:1.4.1`
+- :dvd: `com.acgist.snail.extend` - `com.acgist:snail.extend:1.4.1`
+- :dvd: `com.acgist.snail.javafx` - `com.acgist:snail.javafx:1.4.1`
 - :dvd: `com.acvitech.spa4j` - `com.acvitech:spa4j:0.2.1`
 - :dvd: `com.aitusoftware.proxygen` - `com.aitusoftware:proxygen:0.3.0`
 - :dvd: `com.aitusoftware.transport` - `com.aitusoftware:transport:0.4.0`
@@ -1447,7 +1447,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `nl.basjes.collections.prefixmap` - `nl.basjes.collections:prefixmap:1.2`
 - :dvd: `nl.elec332.lib.bitdecoder` - `nl.elec332.lib:bitdecoder:0.1`
 - :dvd: `nl.elec332.sdr.lib` - `nl.elec332.sdr:sdrlib:0.2-Beta`
-- :dvd: `nl.elec332.sdr.source.hackrf` - `nl.elec332.sdr.source:hackrfdriver:1.0-Beta`
+- :dvd: `nl.elec332.sdr.source.hackrf` - `nl.elec332.sdr.source:hackrfdriver:1.0.1-Beta`
 - :dvd: `nl.elec332.sdr.source.uhd` - `nl.elec332.sdr.source:uhddriver:0.1-Alpha`
 - :dvd: `nl.elec332.util.javarecorder` - `nl.elec332.util:javarecorder:0.1-Alpha`
 - :dvd: `nl.elec332.util.javarecorder.ffmpeg` - `nl.elec332.util:javarecorder-ffmpeg:0.1-Alpha`
