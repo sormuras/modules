@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 7269 Java modules published at Maven Central
+Counted 7276 Java modules published at Maven Central
 
-## Summary 2020-07-14T01:53:47.942874Z
+## Summary 2020-07-15T01:54:06.386306Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-14T01:53:47.942874Z
-Scanned 56,468 files in 8 seconds.
+Started scan at 2020-07-15T01:54:06.386306Z
+Scanned 56,548 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_14_01_30_08.csv
+    last -> modulescanner-report-2020_07_15_01_36_47.csv
 
-Parsed 3,801,514 lines in total.
-  60,176 -> captions skipped
-  338,204 -> duplicates skipped
-  187,196 -> module related
+Parsed 3,807,149 lines in total.
+  60,256 -> captions skipped
+  338,408 -> duplicates skipped
+  187,415 -> module related
 
-Collected 7,269 unique modules.
-  automatic :cd: -> 5,185
-  explicit :dvd: -> 2,084
+Collected 7,276 unique modules.
+  automatic :cd: -> 5,191
+  explicit :dvd: -> 2,085
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0-M1
-org.objectweb.asm -> org.ow2.asm:asm:8.0.1
+org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
 com.google.common -> com.google.guava:guava:29.0-jre
    org.joda.beans -> org.joda:joda-beans:2.8.0
  org.joda.collect -> org.joda:joda-collect:1.0.1
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2519, explicit=161, plain=58287}` 	 4.60%
+ - `2020_07={automatic=2603, explicit=172, plain=63419}` 	 4.38%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19685](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25867](suspicious/naming.md)
-- Modular impostors: [9214](suspicious/impostors.md)
+- Invalid module names: [19709](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25954](suspicious/naming.md)
+- Modular impostors: [9227](suspicious/impostors.md)
 
-## Unique Modules (7269)
+## Unique Modules (7276)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -326,7 +326,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.1`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
-- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.1.0`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.2.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.6`
@@ -334,7 +334,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.2.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.4`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
-- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:1.0.0-beta.4`
+- :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:11.0.0`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.3`
 - :dvd: `com.azure.storage.blob` - `com.azure:azure-storage-blob:12.8.0-beta.1`
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.6.0-beta.1`
@@ -1094,7 +1094,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.3`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.4`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1115,7 +1115,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.41`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
-- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.3.7`
+- :dvd: `eu.javaspecialists.books.dynamicproxies` - `eu.javaspecialists.books.dynamicproxies:core:1.4.1`
 - :dvd: `fr.cril.cli` :left_right_arrow: `fr.cril.cli:fr.cril.cli:1.0.0`
 - :dvd: `fr.inria.corese.compiler` - `fr.inria.corese:compiler:4.1.1`
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
@@ -1665,6 +1665,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.2.0`
 - :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.2.0`
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
+- :dvd: `org.cryptomator.cloudaccess` - `org.cryptomator:cloud-access:0.1.0-beta7`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.8`
@@ -1893,13 +1894,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.mycore.oai.pmh.jaxb` - `org.mycore:oaipmh-jaxb:2.1`
 - :dvd: `org.myire.scent` - `org.myire:scent:2.2`
 - :dvd: `org.myire.thrice` - `org.myire:thrice:3.2`
-- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:8.0.1`
+- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:9.0-beta`
 - :dvd: `org.objectweb.asm.all` - `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` - `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:8.0.1`
-- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:8.0.1`
-- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:8.0.1`
-- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:8.0.1`
+- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:9.0-beta`
+- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:9.0-beta`
+- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0-beta`
+- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0-beta`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.3`
 - :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.3`
@@ -2160,7 +2161,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `systems.uom.quantity` - `systems.uom:systems-quantity:2.0.2`
 - :dvd: `systems.uom.ucum` - `systems.uom:systems-ucum:2.0.2`
 - :dvd: `systems.uom.unicode` - `systems.uom:systems-unicode:2.0.2`
-- :dvd: `tech.pantheon.triemap` - `tech.pantheon.triemap:triemap:1.1.0`
+- :dvd: `tech.pantheon.triemap` - `tech.pantheon.triemap:triemap:1.2.0`
 - :dvd: `tech.units.indriya` - `tech.units:indriya:2.0.2`
 - :dvd: `tech.uom.lib.common` - `tech.uom.lib:uom-lib-common:2.0-PRD`
 - :dvd: `tk.plogitech.darksky` - `tk.plogitech:darksky-forecast-api:2.1.0`

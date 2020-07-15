@@ -17554,6 +17554,7 @@
 - :cd: `org.apache.wicket.native-websocket.javax` - `org.apache.wicket:wicket-native-websocket-javax:9.0.0-M1` // `org.apache.wicket,wicket-native-websocket-javax,9.0.0-M1,org.apache.wicket.native-websocket.javax,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.native-websocket.javax` - `org.apache.wicket:wicket-native-websocket-javax:9.0.0-M2` // `org.apache.wicket,wicket-native-websocket-javax,9.0.0-M2,org.apache.wicket.native-websocket.javax,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.native-websocket.javax` - `org.apache.wicket:wicket-native-websocket-javax:9.0.0-M3` // `org.apache.wicket,wicket-native-websocket-javax,9.0.0-M3,org.apache.wicket.native-websocket.javax,-,automatic,-,false,-`
+- :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M1` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M1,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M2` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M2,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
 - :cd: `org.apache.wicket.objectsizeof-agent` - `org.apache.wicket:wicket-objectsizeof-agent:9.0.0-M3` // `org.apache.wicket,wicket-objectsizeof-agent,9.0.0-M3,org.apache.wicket.objectsizeof-agent,-,automatic,-,false,-`
@@ -18798,6 +18799,7 @@
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.1` // `net.serenity-bdd,serenity-ant-task,2.2.1,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.10` // `net.serenity-bdd,serenity-ant-task,2.2.10,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.11` // `net.serenity-bdd,serenity-ant-task,2.2.11,serenity-ant-task,-,automatic,-,false,-`
+- :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.12` // `net.serenity-bdd,serenity-ant-task,2.2.12,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.2` // `net.serenity-bdd,serenity-ant-task,2.2.2,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.4` // `net.serenity-bdd,serenity-ant-task,2.2.4,serenity-ant-task,-,automatic,-,false,-`
 - :cd: `serenity-ant-task` :left_right_arrow: `net.serenity-bdd:serenity-ant-task:2.2.5` // `net.serenity-bdd,serenity-ant-task,2.2.5,serenity-ant-task,-,automatic,-,false,-`
@@ -18830,6 +18832,7 @@
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.1` // `net.serenity-bdd,serenity-assertions,2.2.1,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.10` // `net.serenity-bdd,serenity-assertions,2.2.10,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.11` // `net.serenity-bdd,serenity-assertions,2.2.11,serenity-assertions,-,automatic,-,false,-`
+- :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.12` // `net.serenity-bdd,serenity-assertions,2.2.12,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.2` // `net.serenity-bdd,serenity-assertions,2.2.2,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.4` // `net.serenity-bdd,serenity-assertions,2.2.4,serenity-assertions,-,automatic,-,false,-`
 - :cd: `serenity-assertions` :left_right_arrow: `net.serenity-bdd:serenity-assertions:2.2.5` // `net.serenity-bdd,serenity-assertions,2.2.5,serenity-assertions,-,automatic,-,false,-`
@@ -18862,6 +18865,7 @@
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.1` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.1,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.10` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.10,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.11` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.11,serenity-browsermob-plugin,-,automatic,-,false,-`
+- :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.12` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.12,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.2` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.2,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.4` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.4,serenity-browsermob-plugin,-,automatic,-,false,-`
 - :cd: `serenity-browsermob-plugin` :left_right_arrow: `net.serenity-bdd:serenity-browsermob-plugin:2.2.5` // `net.serenity-bdd,serenity-browsermob-plugin,2.2.5,serenity-browsermob-plugin,-,automatic,-,false,-`
@@ -18894,6 +18898,7 @@
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.1` // `net.serenity-bdd,serenity-browserstack,2.2.1,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.10` // `net.serenity-bdd,serenity-browserstack,2.2.10,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.11` // `net.serenity-bdd,serenity-browserstack,2.2.11,serenity-browserstack,-,automatic,-,false,-`
+- :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.12` // `net.serenity-bdd,serenity-browserstack,2.2.12,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.2` // `net.serenity-bdd,serenity-browserstack,2.2.2,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.4` // `net.serenity-bdd,serenity-browserstack,2.2.4,serenity-browserstack,-,automatic,-,false,-`
 - :cd: `serenity-browserstack` :left_right_arrow: `net.serenity-bdd:serenity-browserstack:2.2.5` // `net.serenity-bdd,serenity-browserstack,2.2.5,serenity-browserstack,-,automatic,-,false,-`
@@ -18926,6 +18931,7 @@
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.1` // `net.serenity-bdd,serenity-core,2.2.1,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.10` // `net.serenity-bdd,serenity-core,2.2.10,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.11` // `net.serenity-bdd,serenity-core,2.2.11,serenity-core,-,automatic,-,false,-`
+- :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.12` // `net.serenity-bdd,serenity-core,2.2.12,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.2` // `net.serenity-bdd,serenity-core,2.2.2,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.4` // `net.serenity-bdd,serenity-core,2.2.4,serenity-core,-,automatic,-,false,-`
 - :cd: `serenity-core` :left_right_arrow: `net.serenity-bdd:serenity-core:2.2.5` // `net.serenity-bdd,serenity-core,2.2.5,serenity-core,-,automatic,-,false,-`
@@ -18969,6 +18975,7 @@
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.1` // `net.serenity-bdd,serenity-ensure,2.2.1,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.10` // `net.serenity-bdd,serenity-ensure,2.2.10,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.11` // `net.serenity-bdd,serenity-ensure,2.2.11,serenity-ensure,-,automatic,-,false,-`
+- :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.12` // `net.serenity-bdd,serenity-ensure,2.2.12,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.2` // `net.serenity-bdd,serenity-ensure,2.2.2,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.4` // `net.serenity-bdd,serenity-ensure,2.2.4,serenity-ensure,-,automatic,-,false,-`
 - :cd: `serenity-ensure` :left_right_arrow: `net.serenity-bdd:serenity-ensure:2.2.5` // `net.serenity-bdd,serenity-ensure,2.2.5,serenity-ensure,-,automatic,-,false,-`
@@ -19001,6 +19008,7 @@
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.1` // `net.serenity-bdd,serenity-gradle-plugin,2.2.1,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.10` // `net.serenity-bdd,serenity-gradle-plugin,2.2.10,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.11` // `net.serenity-bdd,serenity-gradle-plugin,2.2.11,serenity-gradle-plugin,-,automatic,-,false,-`
+- :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.12` // `net.serenity-bdd,serenity-gradle-plugin,2.2.12,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.2` // `net.serenity-bdd,serenity-gradle-plugin,2.2.2,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.4` // `net.serenity-bdd,serenity-gradle-plugin,2.2.4,serenity-gradle-plugin,-,automatic,-,false,-`
 - :cd: `serenity-gradle-plugin` :left_right_arrow: `net.serenity-bdd:serenity-gradle-plugin:2.2.5` // `net.serenity-bdd,serenity-gradle-plugin,2.2.5,serenity-gradle-plugin,-,automatic,-,false,-`
@@ -19021,6 +19029,7 @@
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.1` // `net.serenity-bdd,serenity-json-summary-report,2.2.1,serenity-json-summary-report,-,automatic,-,false,-`
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.10` // `net.serenity-bdd,serenity-json-summary-report,2.2.10,serenity-json-summary-report,-,automatic,-,false,-`
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.11` // `net.serenity-bdd,serenity-json-summary-report,2.2.11,serenity-json-summary-report,-,automatic,-,false,-`
+- :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.12` // `net.serenity-bdd,serenity-json-summary-report,2.2.12,serenity-json-summary-report,-,automatic,-,false,-`
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.2` // `net.serenity-bdd,serenity-json-summary-report,2.2.2,serenity-json-summary-report,-,automatic,-,false,-`
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.4` // `net.serenity-bdd,serenity-json-summary-report,2.2.4,serenity-json-summary-report,-,automatic,-,false,-`
 - :cd: `serenity-json-summary-report` :left_right_arrow: `net.serenity-bdd:serenity-json-summary-report:2.2.5` // `net.serenity-bdd,serenity-json-summary-report,2.2.5,serenity-json-summary-report,-,automatic,-,false,-`
@@ -19053,6 +19062,7 @@
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.1` // `net.serenity-bdd,serenity-junit,2.2.1,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.10` // `net.serenity-bdd,serenity-junit,2.2.10,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.11` // `net.serenity-bdd,serenity-junit,2.2.11,serenity-junit,-,automatic,-,false,-`
+- :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.12` // `net.serenity-bdd,serenity-junit,2.2.12,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.2` // `net.serenity-bdd,serenity-junit,2.2.2,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.4` // `net.serenity-bdd,serenity-junit,2.2.4,serenity-junit,-,automatic,-,false,-`
 - :cd: `serenity-junit` :left_right_arrow: `net.serenity-bdd:serenity-junit:2.2.5` // `net.serenity-bdd,serenity-junit,2.2.5,serenity-junit,-,automatic,-,false,-`
@@ -19086,6 +19096,7 @@
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.1` // `net.serenity-bdd,serenity-model,2.2.1,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.10` // `net.serenity-bdd,serenity-model,2.2.10,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.11` // `net.serenity-bdd,serenity-model,2.2.11,serenity-model,-,automatic,-,false,-`
+- :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.12` // `net.serenity-bdd,serenity-model,2.2.12,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.2` // `net.serenity-bdd,serenity-model,2.2.2,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.4` // `net.serenity-bdd,serenity-model,2.2.4,serenity-model,-,automatic,-,false,-`
 - :cd: `serenity-model` :left_right_arrow: `net.serenity-bdd:serenity-model:2.2.5` // `net.serenity-bdd,serenity-model,2.2.5,serenity-model,-,automatic,-,false,-`
@@ -19118,6 +19129,7 @@
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.1` // `net.serenity-bdd,serenity-report-resources,2.2.1,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.10` // `net.serenity-bdd,serenity-report-resources,2.2.10,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.11` // `net.serenity-bdd,serenity-report-resources,2.2.11,serenity-report-resources,-,automatic,-,false,-`
+- :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.12` // `net.serenity-bdd,serenity-report-resources,2.2.12,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.2` // `net.serenity-bdd,serenity-report-resources,2.2.2,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.4` // `net.serenity-bdd,serenity-report-resources,2.2.4,serenity-report-resources,-,automatic,-,false,-`
 - :cd: `serenity-report-resources` :left_right_arrow: `net.serenity-bdd:serenity-report-resources:2.2.5` // `net.serenity-bdd,serenity-report-resources,2.2.5,serenity-report-resources,-,automatic,-,false,-`
@@ -19150,6 +19162,7 @@
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.1` // `net.serenity-bdd,serenity-reports,2.2.1,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.10` // `net.serenity-bdd,serenity-reports,2.2.10,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.11` // `net.serenity-bdd,serenity-reports,2.2.11,serenity-reports,-,automatic,-,false,-`
+- :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.12` // `net.serenity-bdd,serenity-reports,2.2.12,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.2` // `net.serenity-bdd,serenity-reports,2.2.2,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.4` // `net.serenity-bdd,serenity-reports,2.2.4,serenity-reports,-,automatic,-,false,-`
 - :cd: `serenity-reports` :left_right_arrow: `net.serenity-bdd:serenity-reports:2.2.5` // `net.serenity-bdd,serenity-reports,2.2.5,serenity-reports,-,automatic,-,false,-`
@@ -19182,6 +19195,7 @@
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.1` // `net.serenity-bdd,serenity-reports-configuration,2.2.1,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.10` // `net.serenity-bdd,serenity-reports-configuration,2.2.10,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.11` // `net.serenity-bdd,serenity-reports-configuration,2.2.11,serenity-reports-configuration,-,automatic,-,false,-`
+- :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.12` // `net.serenity-bdd,serenity-reports-configuration,2.2.12,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.2` // `net.serenity-bdd,serenity-reports-configuration,2.2.2,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.4` // `net.serenity-bdd,serenity-reports-configuration,2.2.4,serenity-reports-configuration,-,automatic,-,false,-`
 - :cd: `serenity-reports-configuration` :left_right_arrow: `net.serenity-bdd:serenity-reports-configuration:2.2.5` // `net.serenity-bdd,serenity-reports-configuration,2.2.5,serenity-reports-configuration,-,automatic,-,false,-`
@@ -19214,6 +19228,7 @@
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.1` // `net.serenity-bdd,serenity-rest-assured,2.2.1,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.10` // `net.serenity-bdd,serenity-rest-assured,2.2.10,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.11` // `net.serenity-bdd,serenity-rest-assured,2.2.11,serenity-rest-assured,-,automatic,-,false,-`
+- :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.12` // `net.serenity-bdd,serenity-rest-assured,2.2.12,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.2` // `net.serenity-bdd,serenity-rest-assured,2.2.2,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.4` // `net.serenity-bdd,serenity-rest-assured,2.2.4,serenity-rest-assured,-,automatic,-,false,-`
 - :cd: `serenity-rest-assured` :left_right_arrow: `net.serenity-bdd:serenity-rest-assured:2.2.5` // `net.serenity-bdd,serenity-rest-assured,2.2.5,serenity-rest-assured,-,automatic,-,false,-`
@@ -19246,6 +19261,7 @@
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.1` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.1,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.10` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.10,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.11` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.11,serenity-sample-alternative-resources,-,automatic,-,false,-`
+- :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.12` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.12,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.2` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.2,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.4` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.4,serenity-sample-alternative-resources,-,automatic,-,false,-`
 - :cd: `serenity-sample-alternative-resources` :left_right_arrow: `net.serenity-bdd:serenity-sample-alternative-resources:2.2.5` // `net.serenity-bdd,serenity-sample-alternative-resources,2.2.5,serenity-sample-alternative-resources,-,automatic,-,false,-`
@@ -19278,6 +19294,7 @@
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.1` // `net.serenity-bdd,serenity-screenplay,2.2.1,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.10` // `net.serenity-bdd,serenity-screenplay,2.2.10,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.11` // `net.serenity-bdd,serenity-screenplay,2.2.11,serenity-screenplay,-,automatic,-,false,-`
+- :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.12` // `net.serenity-bdd,serenity-screenplay,2.2.12,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.2` // `net.serenity-bdd,serenity-screenplay,2.2.2,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.4` // `net.serenity-bdd,serenity-screenplay,2.2.4,serenity-screenplay,-,automatic,-,false,-`
 - :cd: `serenity-screenplay` :left_right_arrow: `net.serenity-bdd:serenity-screenplay:2.2.5` // `net.serenity-bdd,serenity-screenplay,2.2.5,serenity-screenplay,-,automatic,-,false,-`
@@ -19310,6 +19327,7 @@
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.1` // `net.serenity-bdd,serenity-screenplay-rest,2.2.1,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.10` // `net.serenity-bdd,serenity-screenplay-rest,2.2.10,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.11` // `net.serenity-bdd,serenity-screenplay-rest,2.2.11,serenity-screenplay-rest,-,automatic,-,false,-`
+- :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.12` // `net.serenity-bdd,serenity-screenplay-rest,2.2.12,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.2` // `net.serenity-bdd,serenity-screenplay-rest,2.2.2,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.4` // `net.serenity-bdd,serenity-screenplay-rest,2.2.4,serenity-screenplay-rest,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-rest` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-rest:2.2.5` // `net.serenity-bdd,serenity-screenplay-rest,2.2.5,serenity-screenplay-rest,-,automatic,-,false,-`
@@ -19342,6 +19360,7 @@
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.1` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.1,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.10` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.10,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.11` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.11,serenity-screenplay-webdriver,-,automatic,-,false,-`
+- :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.12` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.12,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.2` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.2,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.4` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.4,serenity-screenplay-webdriver,-,automatic,-,false,-`
 - :cd: `serenity-screenplay-webdriver` :left_right_arrow: `net.serenity-bdd:serenity-screenplay-webdriver:2.2.5` // `net.serenity-bdd,serenity-screenplay-webdriver,2.2.5,serenity-screenplay-webdriver,-,automatic,-,false,-`
@@ -19363,6 +19382,7 @@
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.1` // `net.serenity-bdd,serenity-single-page-report,2.2.1,serenity-single-page-report,-,automatic,-,false,-`
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.10` // `net.serenity-bdd,serenity-single-page-report,2.2.10,serenity-single-page-report,-,automatic,-,false,-`
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.11` // `net.serenity-bdd,serenity-single-page-report,2.2.11,serenity-single-page-report,-,automatic,-,false,-`
+- :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.12` // `net.serenity-bdd,serenity-single-page-report,2.2.12,serenity-single-page-report,-,automatic,-,false,-`
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.2` // `net.serenity-bdd,serenity-single-page-report,2.2.2,serenity-single-page-report,-,automatic,-,false,-`
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.4` // `net.serenity-bdd,serenity-single-page-report,2.2.4,serenity-single-page-report,-,automatic,-,false,-`
 - :cd: `serenity-single-page-report` :left_right_arrow: `net.serenity-bdd:serenity-single-page-report:2.2.5` // `net.serenity-bdd,serenity-single-page-report,2.2.5,serenity-single-page-report,-,automatic,-,false,-`
@@ -19395,6 +19415,7 @@
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.1` // `net.serenity-bdd,serenity-spring,2.2.1,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.10` // `net.serenity-bdd,serenity-spring,2.2.10,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.11` // `net.serenity-bdd,serenity-spring,2.2.11,serenity-spring,-,automatic,-,false,-`
+- :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.12` // `net.serenity-bdd,serenity-spring,2.2.12,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.2` // `net.serenity-bdd,serenity-spring,2.2.2,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.4` // `net.serenity-bdd,serenity-spring,2.2.4,serenity-spring,-,automatic,-,false,-`
 - :cd: `serenity-spring` :left_right_arrow: `net.serenity-bdd:serenity-spring:2.2.5` // `net.serenity-bdd,serenity-spring,2.2.5,serenity-spring,-,automatic,-,false,-`
@@ -19427,6 +19448,7 @@
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.1` // `net.serenity-bdd,serenity-stats,2.2.1,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.10` // `net.serenity-bdd,serenity-stats,2.2.10,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.11` // `net.serenity-bdd,serenity-stats,2.2.11,serenity-stats,-,automatic,-,false,-`
+- :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.12` // `net.serenity-bdd,serenity-stats,2.2.12,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.2` // `net.serenity-bdd,serenity-stats,2.2.2,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.4` // `net.serenity-bdd,serenity-stats,2.2.4,serenity-stats,-,automatic,-,false,-`
 - :cd: `serenity-stats` :left_right_arrow: `net.serenity-bdd:serenity-stats:2.2.5` // `net.serenity-bdd,serenity-stats,2.2.5,serenity-stats,-,automatic,-,false,-`
@@ -19459,6 +19481,7 @@
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.1` // `net.serenity-bdd,serenity-test-utils,2.2.1,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.10` // `net.serenity-bdd,serenity-test-utils,2.2.10,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.11` // `net.serenity-bdd,serenity-test-utils,2.2.11,serenity-test-utils,-,automatic,-,false,-`
+- :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.12` // `net.serenity-bdd,serenity-test-utils,2.2.12,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.2` // `net.serenity-bdd,serenity-test-utils,2.2.2,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.4` // `net.serenity-bdd,serenity-test-utils,2.2.4,serenity-test-utils,-,automatic,-,false,-`
 - :cd: `serenity-test-utils` :left_right_arrow: `net.serenity-bdd:serenity-test-utils:2.2.5` // `net.serenity-bdd,serenity-test-utils,2.2.5,serenity-test-utils,-,automatic,-,false,-`
@@ -19491,6 +19514,7 @@
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.1` // `net.serenity-bdd,serenity-zalenium,2.2.1,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.10` // `net.serenity-bdd,serenity-zalenium,2.2.10,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.11` // `net.serenity-bdd,serenity-zalenium,2.2.11,serenity-zalenium,-,automatic,-,false,-`
+- :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.12` // `net.serenity-bdd,serenity-zalenium,2.2.12,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.2` // `net.serenity-bdd,serenity-zalenium,2.2.2,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.4` // `net.serenity-bdd,serenity-zalenium,2.2.4,serenity-zalenium,-,automatic,-,false,-`
 - :cd: `serenity-zalenium` :left_right_arrow: `net.serenity-bdd:serenity-zalenium:2.2.5` // `net.serenity-bdd,serenity-zalenium,2.2.5,serenity-zalenium,-,automatic,-,false,-`
