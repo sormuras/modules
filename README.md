@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7279 Java modules published at Maven Central
 
-## Summary 2020-07-16T01:54:11.978469Z
+## Summary 2020-07-17T01:54:43.616018Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-16T01:54:11.978469Z
-Scanned 56,631 files in 7 seconds.
+Started scan at 2020-07-17T01:54:43.616018Z
+Scanned 56,712 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_16_01_41_26.csv
+    last -> modulescanner-report-2020_07_17_01_28_15.csv
 
-Parsed 3,814,253 lines in total.
-  60,339 -> captions skipped
-  339,082 -> duplicates skipped
-  187,866 -> module related
+Parsed 3,820,987 lines in total.
+  60,420 -> captions skipped
+  339,624 -> duplicates skipped
+  188,058 -> module related
 
 Collected 7,279 unique modules.
   automatic :cd: -> 5,192
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2904, explicit=226, plain=69315}` 	 4.52%
+ - `2020_07={automatic=2977, explicit=227, plain=75234}` 	 4.26%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,8 +118,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [19713](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [25997](suspicious/naming.md)
-- Modular impostors: [9276](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26099](suspicious/naming.md)
+- Modular impostors: [9292](suspicious/impostors.md)
 
 ## Unique Modules (7279)
 
@@ -203,7 +203,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.4`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.0`
-- :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.3`
+- :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.4`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
