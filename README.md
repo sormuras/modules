@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7279 Java modules published at Maven Central
+Counted 7281 Java modules published at Maven Central
 
-## Summary 2020-07-17T01:54:43.616018Z
+## Summary 2020-07-18T01:55:08.443316Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-17T01:54:43.616018Z
-Scanned 56,712 files in 6 seconds.
+Started scan at 2020-07-18T01:55:08.443316Z
+Scanned 56,792 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_17_01_28_15.csv
+    last -> modulescanner-report-2020_07_18_01_30_05.csv
 
-Parsed 3,820,987 lines in total.
-  60,420 -> captions skipped
-  339,624 -> duplicates skipped
-  188,058 -> module related
+Parsed 3,828,669 lines in total.
+  60,500 -> captions skipped
+  341,184 -> duplicates skipped
+  188,792 -> module related
 
-Collected 7,279 unique modules.
-  automatic :cd: -> 5,192
-  explicit :dvd: -> 2,087
+Collected 7,281 unique modules.
+  automatic :cd: -> 5,193
+  explicit :dvd: -> 2,088
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=2977, explicit=227, plain=75234}` 	 4.26%
+ - `2020_07={automatic=3294, explicit=237, plain=80542}` 	 4.38%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [19713](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26099](suspicious/naming.md)
-- Modular impostors: [9292](suspicious/impostors.md)
+- Invalid module names: [20093](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26117](suspicious/naming.md)
+- Modular impostors: [9301](suspicious/impostors.md)
 
-## Unique Modules (7279)
+## Unique Modules (7281)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -191,7 +191,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
 - :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.9`
 - :dvd: `be.yildizgames.module.graphic` - `be.yildiz-games:module-graphic:2.1.4`
-- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.5`
+- :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.6`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
 - :dvd: `be.yildizgames.module.network` - `be.yildiz-games:module-network:2.1.7`
 - :dvd: `be.yildizgames.module.network.netty` - `be.yildiz-games:module-network-netty:2.0.13`
@@ -201,7 +201,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.scripting.ruby` - `be.yildiz-games:module-scripting-ruby:1.0.6`
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
-- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.4`
+- :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.5`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.0`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.4`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
@@ -342,6 +342,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.storage.blob.batch` - `com.azure:azure-storage-blob-batch:12.6.0-beta.1`
 - :dvd: `com.azure.storage.blob.changefeed` - `com.azure:azure-storage-blob-changefeed:12.0.0-beta.1`
 - :dvd: `com.azure.storage.blob.cryptography` - `com.azure:azure-storage-blob-cryptography:12.8.0-beta.1`
+- :dvd: `com.azure.storage.blob.nio` - `com.azure:azure-storage-blob-nio:12.0.0-beta.1`
 - :dvd: `com.azure.storage.common` - `com.azure:azure-storage-common:12.8.0-beta.1`
 - :dvd: `com.azure.storage.file.datalake` - `com.azure:azure-storage-file-datalake:12.2.0-beta.1`
 - :dvd: `com.azure.storage.file.share` - `com.azure:azure-storage-file-share:12.6.0-beta.1`
@@ -1096,7 +1097,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.4`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.5`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -1161,7 +1162,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
-- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.0`
+- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.1`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.87`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.6`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.15`
@@ -1904,11 +1905,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0-beta`
 - :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0-beta`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.3`
-- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.3`
-- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.3`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.3`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.3`
+- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.4`
+- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.4`
+- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.4`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.4`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.4`
 - :dvd: `org.opentest4j` - `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` - `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` - `org.panteleyev:persistence:19.2.0`
