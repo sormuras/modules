@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7281 Java modules published at Maven Central
+Counted 7287 Java modules published at Maven Central
 
-## Summary 2020-07-18T01:55:08.443316Z
+## Summary 2020-07-19T01:55:17.668339Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-18T01:55:08.443316Z
-Scanned 56,792 files in 7 seconds.
+Started scan at 2020-07-19T01:55:17.668339Z
+Scanned 56,873 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_18_01_30_05.csv
+    last -> modulescanner-report-2020_07_19_01_35_27.csv
 
-Parsed 3,828,669 lines in total.
-  60,500 -> captions skipped
-  341,184 -> duplicates skipped
-  188,792 -> module related
+Parsed 3,834,616 lines in total.
+  60,581 -> captions skipped
+  341,508 -> duplicates skipped
+  188,859 -> module related
 
-Collected 7,281 unique modules.
-  automatic :cd: -> 5,193
-  explicit :dvd: -> 2,088
+Collected 7,287 unique modules.
+  automatic :cd: -> 5,197
+  explicit :dvd: -> 2,090
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=3294, explicit=237, plain=80542}` 	 4.38%
+ - `2020_07={automatic=3321, explicit=242, plain=86017}` 	 4.14%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20093](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26117](suspicious/naming.md)
-- Modular impostors: [9301](suspicious/impostors.md)
+- Invalid module names: [20097](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26138](suspicious/naming.md)
+- Modular impostors: [9311](suspicious/impostors.md)
 
-## Unique Modules (7281)
+## Unique Modules (7287)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -457,7 +457,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.gw2toolbelt.gw2ml` - `com.github.gw2toolbelt.gw2ml:gw2ml:1.5.0`
 - :dvd: `com.github.jj3l.maven.example` - `com.github.jj3l:maven-example:1.2.0`
 - :dvd: `com.github.johnpoth.jshell` - `com.github.johnpoth:jshell-maven-plugin:1.3`
-- :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.6.0`
+- :dvd: `com.github.marschall.charsequences` - `com.github.marschall:charsequences:0.7.0`
 - :dvd: `com.github.marschall.getrandom` - `com.github.marschall:getrandom-provider:0.1.1`
 - :dvd: `com.github.marschall.jfr.jdbc` - `com.github.marschall:jfr-jdbc:0.4.0`
 - :dvd: `com.github.marschall.jfrjdbc` - `com.github.marschall:jfr-jdbc:0.1.0`
@@ -1207,7 +1207,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.pustike.json` - `io.github.pustike:pustike-json:0.1.0`
 - :dvd: `io.github.pustike.persist` - `io.github.pustike:pustike-persist:0.9.0`
 - :dvd: `io.github.robertograham.rleparser` - `io.github.robertograham:rle-parser-module:1.0.0`
-- :dvd: `io.github.sskorol.testdatasupplier` - `io.github.sskorol:test-data-supplier:1.9.0`
+- :dvd: `io.github.sskorol.testdatasupplier` - `io.github.sskorol:test-data-supplier:1.9.2`
 - :dvd: `io.github.threetenjaxb.core` - `io.github.threeten-jaxb:threeten-jaxb-core:1.2`
 - :dvd: `io.github.tomdw.java.modules.spring.integration.tests` - `io.github.tomdw.java.modules.spring:integration-tests:0.0.3`
 - :dvd: `io.github.tomdw.java.modules.spring.samples.basicapplication.application` - `io.github.tomdw.java.modules.spring.samples.basicapplication:application:0.0.3`
@@ -2166,6 +2166,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `systems.uom.unicode` - `systems.uom:systems-unicode:2.0.2`
 - :dvd: `tech.pantheon.triemap` - `tech.pantheon.triemap:triemap:1.2.0`
 - :dvd: `tech.units.indriya` - `tech.units:indriya:2.0.2`
+- :dvd: `tech.uom.domain.energy.quantity` - `tech.uom.domain:uom-energy-quantity:2.0`
+- :dvd: `tech.uom.domain.imaging` - `tech.uom.domain:uom-imaging:2.0`
 - :dvd: `tech.uom.lib.common` - `tech.uom.lib:uom-lib-common:2.0-PRD`
 - :dvd: `tk.plogitech.darksky` - `tk.plogitech:darksky-forecast-api:2.1.0`
 - :dvd: `tk.plogitech.darksky.jackson` - `tk.plogitech:darksky-forecast-api-jackson:2.1.0`
