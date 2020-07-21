@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7295 Java modules published at Maven Central
 
-## Summary 2020-07-20T01:56:06.400511Z
+## Summary 2020-07-21T01:55:57.648520Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-20T01:56:06.400511Z
-Scanned 56,963 files in 7 seconds.
+Started scan at 2020-07-21T01:55:57.648520Z
+Scanned 57,044 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_20_01_43_32.csv
+    last -> modulescanner-report-2020_07_21_01_14_53.csv
 
-Parsed 3,837,113 lines in total.
-  60,671 -> captions skipped
-  341,957 -> duplicates skipped
-  188,908 -> module related
+Parsed 3,844,606 lines in total.
+  60,752 -> captions skipped
+  342,805 -> duplicates skipped
+  189,238 -> module related
 
 Collected 7,295 unique modules.
   automatic :cd: -> 5,205
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=3343, explicit=243, plain=87926}` 	 4.08%
+ - `2020_07={automatic=3617, explicit=253, plain=94160}` 	 4.11%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,9 +117,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20098](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26157](suspicious/naming.md)
-- Modular impostors: [9317](suspicious/impostors.md)
+- Invalid module names: [20099](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26184](suspicious/naming.md)
+- Modular impostors: [9335](suspicious/impostors.md)
 
 ## Unique Modules (7295)
 
@@ -131,7 +131,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.webtechie.javafxlednumberdisplay` - `be.webtechie:javafx-led-number-display:0.0.3`
 - :dvd: `be.webtechie.piheaders` - `be.webtechie:pi-headers:0.1.1`
 - :dvd: `be.webtechie.resistorcalculator` - `be.webtechie:resistor-calculator:0.1.4`
-- :dvd: `be.yildizgames.common.application` - `be.yildiz-games:common-application:1.0.16`
+- :dvd: `be.yildizgames.common.application` - `be.yildiz-games:common-application:1.0.17`
 - :dvd: `be.yildizgames.common.authentication` - `be.yildiz-games:common-authentication:1.1.7`
 - :dvd: `be.yildizgames.common.client` - `be.yildiz-games:common-client:3.0.2`
 - :dvd: `be.yildizgames.common.compression` - `be.yildiz-games:common-compression:2.0.6`
@@ -870,7 +870,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.kohlschutter.junixsocket.core` - `com.kohlschutter.junixsocket:junixsocket-core:2.3.2`
 - :dvd: `com.kohlschutter.junixsocket.nativecommon` - `com.kohlschutter.junixsocket:junixsocket-native-common:2.3.2`
 - :dvd: `com.kohlschutter.junixsocket.nativecustom` - `com.kohlschutter.junixsocket:junixsocket-native-custom:2.3.2`
-- :dvd: `com.mihaibojin.props.core` - `com.mihaibojin.props:props-core:0.0.2`
+- :dvd: `com.mihaibojin.props.core` - `com.mihaibojin.props:props-core:0.0.3`
 - :dvd: `com.moilioncircle.redis.replicator` - `com.moilioncircle:redis-replicator:3.4.0`
 - :dvd: `com.moilioncircle.redis.sink.api` - `com.moilioncircle:redis-sink-api:1.2.1`
 - :dvd: `com.ncredinburgh.incontrol` - `com.ncredinburgh:in-control:1.1`
@@ -1059,7 +1059,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.17`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
-- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200703`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200720`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -1283,7 +1283,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.accesslog` - `io.helidon.microprofile:helidon-microprofile-access-log:2.0.1`
 - :dvd: `io.helidon.microprofile.cdi` - `io.helidon.microprofile.cdi:helidon-microprofile-cdi:2.0.1`
 - :dvd: `io.helidon.microprofile.config` - `io.helidon.microprofile.config:helidon-microprofile-config:2.0.1`
-- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.5`
+- :dvd: `io.helidon.microprofile.config.cdi` - `io.helidon.microprofile.config:helidon-microprofile-config-cdi:1.4.6`
 - :dvd: `io.helidon.microprofile.cors` - `io.helidon.microprofile:helidon-microprofile-cors:2.0.1`
 - :dvd: `io.helidon.microprofile.faulttolerance` - `io.helidon.microprofile:helidon-microprofile-fault-tolerance:2.0.1`
 - :dvd: `io.helidon.microprofile.grpc.client` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-client:2.0.1`
@@ -1292,7 +1292,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.helidon.microprofile.grpc.server` - `io.helidon.microprofile.grpc:helidon-microprofile-grpc-server:2.0.1`
 - :dvd: `io.helidon.microprofile.health` - `io.helidon.microprofile.health:helidon-microprofile-health:2.0.1`
 - :dvd: `io.helidon.microprofile.jwt.auth` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth:2.0.1`
-- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.5`
+- :dvd: `io.helidon.microprofile.jwt.auth.cdi` - `io.helidon.microprofile.jwt:helidon-microprofile-jwt-auth-cdi:1.4.6`
 - :dvd: `io.helidon.microprofile.messaging` - `io.helidon.microprofile.messaging:helidon-microprofile-messaging:2.0.1`
 - :dvd: `io.helidon.microprofile.metrics` - `io.helidon.microprofile.metrics:helidon-microprofile-metrics:2.0.1`
 - :dvd: `io.helidon.microprofile.oidc` - `io.helidon.microprofile:helidon-microprofile-oidc:2.0.1`
@@ -1668,7 +1668,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.2.0`
 - :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.2.0`
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
-- :dvd: `org.cryptomator.cloudaccess` - `org.cryptomator:cloud-access:0.1.0-beta7`
+- :dvd: `org.cryptomator.cloudaccess` - `org.cryptomator:cloud-access:0.2.0-beta1`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.8`
@@ -1761,10 +1761,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.6`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.6`
-- :dvd: `org.javamoney.moneta` - `org.javamoney.moneta:moneta-core:1.4`
-- :dvd: `org.javamoney.moneta.convert` - `org.javamoney.moneta:moneta-convert:1.4`
-- :dvd: `org.javamoney.moneta.convert.ecb` - `org.javamoney.moneta:moneta-convert-ecb:1.4`
-- :dvd: `org.javamoney.moneta.convert.imf` - `org.javamoney.moneta:moneta-convert-imf:1.4`
+- :dvd: `org.javamoney.moneta` - `org.javamoney.moneta:moneta-core:1.4.1`
+- :dvd: `org.javamoney.moneta.convert` - `org.javamoney.moneta:moneta-convert:1.4.1`
+- :dvd: `org.javamoney.moneta.convert.ecb` - `org.javamoney.moneta:moneta-convert-ecb:1.4.1`
+- :dvd: `org.javamoney.moneta.convert.imf` - `org.javamoney.moneta:moneta-convert-imf:1.4.1`
 - :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
