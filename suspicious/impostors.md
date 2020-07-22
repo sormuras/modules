@@ -628,6 +628,7 @@
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.0-rc-2` // `com.google.protobuf,protobuf-javalite,3.12.0-rc-2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.1` // `com.google.protobuf,protobuf-javalite,3.12.1,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:3.12.2` // `com.google.protobuf,protobuf-javalite,3.12.2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `com.google.protobuf` - `com.google.protobuf:protobuf-javalite:4.0.0-rc-2` // `com.google.protobuf,protobuf-javalite,4.0.0-rc-2,com.google.protobuf,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `com.hazelcast.jet.elastic` - `com.hazelcast.jet:hazelcast-jet-elasticsearch-6:4.2` // `com.hazelcast.jet,hazelcast-jet-elasticsearch-6,4.2,com.hazelcast.jet.elastic,-,automatic,-,false,-`
 - :cd: `com.hazelcast.jet.elastic` - `com.hazelcast.jet:hazelcast-jet-elasticsearch-7:4.2` // `com.hazelcast.jet,hazelcast-jet-elasticsearch-7,4.2,com.hazelcast.jet.elastic,-,automatic,-,false,-`
 - :dvd: `com.headius.invokebinder` - `org.asciidoctor:asciidoctor-ant:1.6.2` // `org.asciidoctor,asciidoctor-ant,1.6.2,com.headius.invokebinder,-,explicit,java.base + java.logging,false,-`
@@ -4701,6 +4702,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC5` // `io.micronaut.test,micronaut-test-core,1.2.0.RC5,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC6` // `io.micronaut.test,micronaut-test-core,1.2.0.RC6,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.1` // `io.micronaut.test,micronaut-test-core,1.2.1,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.2` // `io.micronaut.test,micronaut-test-core,1.2.2,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -4722,6 +4724,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC5` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC5,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC6` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC6,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.1` // `io.micronaut.test,micronaut-test-junit5,1.2.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.2` // `io.micronaut.test,micronaut-test-junit5,1.2.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -4743,6 +4746,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC5` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC5,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC6` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC6,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.1` // `io.micronaut.test,micronaut-test-spock,1.2.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.2` // `io.micronaut.test,micronaut-test-spock,1.2.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -5277,6 +5281,7 @@
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.32` // `com.proofpoint.platform,jaxrs,2.32,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.33` // `com.proofpoint.platform,jaxrs,2.33,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.34` // `com.proofpoint.platform,jaxrs,2.34,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `com.proofpoint.platform:jaxrs:2.35` // `com.proofpoint.platform,jaxrs,2.35,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.qcloud.oceanus:flink-python_2.11:1.10.1` // `com.qcloud.oceanus,flink-python_2.11,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0` // `com.undefinedlabs.scope,scope-agent,0.1.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `com.undefinedlabs.scope:scope-agent:0.1.0-beta1` // `com.undefinedlabs.scope,scope-agent,0.1.0-beta1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5483,6 +5488,7 @@
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.0` // `io.aeron,aeron-agent,1.28.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.1` // `io.aeron,aeron-agent,1.28.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.2` // `io.aeron,aeron-agent,1.28.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.29.0` // `io.aeron,aeron-agent,1.29.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -5616,9 +5622,11 @@
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.10.0` // `org.apache.flink,flink-python_2.11,1.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.10.1` // `org.apache.flink,flink-python_2.11,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.11.0` // `org.apache.flink,flink-python_2.11,1.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.11.1` // `org.apache.flink,flink-python_2.11,1.11.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.10.0` // `org.apache.flink,flink-python_2.12,1.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.10.1` // `org.apache.flink,flink-python_2.12,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.11.0` // `org.apache.flink,flink-python_2.12,1.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.11.1` // `org.apache.flink,flink-python_2.12,1.11.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.hadoop:hadoop-client-minicluster:3.3.0` // `org.apache.hadoop,hadoop-client-minicluster,3.3.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.skywalking:apm-agent:6.0.0-GA` // `org.apache.skywalking,apm-agent,6.0.0-GA,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.skywalking:apm-agent:6.0.0-alpha` // `org.apache.skywalking,apm-agent,6.0.0-alpha,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -6255,6 +6263,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.129` // `io.nosqlbench,driver-cql-shaded,3.12.129,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.130` // `io.nosqlbench,driver-cql-shaded,3.12.130,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.131` // `io.nosqlbench,driver-cql-shaded,3.12.131,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.132` // `io.nosqlbench,driver-cql-shaded,3.12.132,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.133` // `io.nosqlbench,driver-cql-shaded,3.12.133,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6717,6 +6727,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.251.31` // `com.yahoo.vespa,vespa-hadoop,7.251.31,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.252.6` // `com.yahoo.vespa,vespa-hadoop,7.252.6,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.254.8` // `com.yahoo.vespa,vespa-hadoop,7.254.8,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.255.24` // `com.yahoo.vespa,vespa-hadoop,7.255.24,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -8269,8 +8280,10 @@
 - :dvd: `org.objectweb.asm` - `io.ebean.tools:ebean-init:1.8` // `io.ebean.tools,ebean-init,1.8,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.ebean.tools:ebean-init:1.9` // `io.ebean.tools,ebean-init,1.9,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.0.Final` // `io.quarkus,quarkus-cli,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.1.Final` // `io.quarkus,quarkus-cli,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.5.2.Final` // `io.quarkus,quarkus-ide-launcher,1.5.2.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.0.Final` // `io.quarkus,quarkus-ide-launcher,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.1.Final` // `io.quarkus,quarkus-ide-launcher,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.2.0` // `net.onedaybeard.graftt,agent,0.2.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
@@ -8439,9 +8452,11 @@
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.194` // `fish.payara.extras,payara-embedded-all,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.201` // `fish.payara.extras,payara-embedded-all,5.201,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.2` // `fish.payara.extras,payara-embedded-all,5.2020.2,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.3` // `fish.payara.extras,payara-embedded-all,5.2020.3,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.194` // `fish.payara.extras,payara-embedded-web,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.201` // `fish.payara.extras,payara-embedded-web,5.201,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.2` // `fish.payara.extras,payara-embedded-web,5.2020.2,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.3` // `fish.payara.extras,payara-embedded-web,5.2020.3,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.6` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.6,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.100` // `com.rookout,rook,0.1.100,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`

@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7295 Java modules published at Maven Central
+Counted 7300 Java modules published at Maven Central
 
-## Summary 2020-07-21T01:55:57.648520Z
+## Summary 2020-07-22T01:56:56.330077Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-21T01:55:57.648520Z
-Scanned 57,044 files in 8 seconds.
+Started scan at 2020-07-22T01:56:56.330077Z
+Scanned 57,128 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_21_01_14_53.csv
+    last -> modulescanner-report-2020_07_22_01_45_59.csv
 
-Parsed 3,844,606 lines in total.
-  60,752 -> captions skipped
-  342,805 -> duplicates skipped
-  189,238 -> module related
+Parsed 3,853,448 lines in total.
+  60,836 -> captions skipped
+  343,590 -> duplicates skipped
+  189,628 -> module related
 
-Collected 7,295 unique modules.
-  automatic :cd: -> 5,205
-  explicit :dvd: -> 2,090
+Collected 7,300 unique modules.
+  automatic :cd: -> 5,209
+  explicit :dvd: -> 2,091
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=3617, explicit=253, plain=94160}` 	 4.11%
+ - `2020_07={automatic=3938, explicit=255, plain=101743}` 	 4.12%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20099](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26184](suspicious/naming.md)
-- Modular impostors: [9335](suspicious/impostors.md)
+- Invalid module names: [20127](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26208](suspicious/naming.md)
+- Modular impostors: [9350](suspicious/impostors.md)
 
-## Unique Modules (7295)
+## Unique Modules (7300)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1059,7 +1059,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.17`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
-- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200720`
+- :dvd: `com.xenoamess.cyan_potion.sdl_game_controller_db_util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.8.20200721`
 - :dvd: `com.zarbosoft.appdirsj` - `com.zarbosoft:appdirsj:0.0.5`
 - :dvd: `com.zarbosoft.interface1` - `com.zarbosoft:interface:2.0.2`
 - :dvd: `com.zarbosoft.luxem` - `com.zarbosoft:luxem:1.0.8`
@@ -2052,6 +2052,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.io.compress.lzf` - `org.xbib:io-compress-lzf:1.0.1`
 - :dvd: `org.xbib.io.compress.xz` - `org.xbib:io-compress-xz:1.0.1`
 - :dvd: `org.xbib.io.compress.zlib` - `org.xbib:io-compress-zlib:1.0.1`
+- :dvd: `org.xbib.io.jdbc.pool` - `org.xbib:connection-pool-jdbc:0.0.1`
 - :dvd: `org.xbib.javax.inject` - `org.xbib:javax-inject:1`
 - :dvd: `org.xbib.marc` - `org.xbib:marc:2.3.0`
 - :dvd: `org.xbib.metrics.api` - `org.xbib:metrics-api:2.1.0`
