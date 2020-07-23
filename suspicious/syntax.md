@@ -8821,11 +8821,13 @@
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.3.8` // `org.eclipse.milo,sdk-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.4.0` // `org.eclipse.milo,sdk-tests,0.4.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.4.1` // `org.eclipse.milo,sdk-tests,0.4.1,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.4.2` // `org.eclipse.milo,sdk-tests,0.4.2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:sdk-tests:0.4.2-M1` // `org.eclipse.milo,sdk-tests,0.4.2-M1,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.7` // `org.eclipse.milo,stack-tests,0.3.7,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.3.8` // `org.eclipse.milo,stack-tests,0.3.8,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.0` // `org.eclipse.milo,stack-tests,0.4.0,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.1` // `org.eclipse.milo,stack-tests,0.4.1,${javaModuleName},-,automatic,-,false,-`
+- :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.2` // `org.eclipse.milo,stack-tests,0.4.2,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${javaModuleName}` - `org.eclipse.milo:stack-tests:0.4.2-M1` // `org.eclipse.milo,stack-tests,0.4.2-M1,${javaModuleName},-,automatic,-,false,-`
 - :cd: `${project.artifactId}` - `com.io7m.modulechaser:com.io7m.modulechaser:0.0.2` // `com.io7m.modulechaser,com.io7m.modulechaser,0.0.2,${project.artifactId},-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.1` // `org.apache.openjpa,openjpa-kubernetes,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
@@ -17228,6 +17230,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.0` // `com.synopsys.integration,jenkins-common,0.2.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.1` // `com.synopsys.integration,jenkins-common,0.2.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.2` // `com.synopsys.integration,jenkins-common,0.2.2,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.3.0` // `com.synopsys.integration,jenkins-common,0.3.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`

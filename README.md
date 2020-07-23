@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7300 Java modules published at Maven Central
+Counted 7303 Java modules published at Maven Central
 
-## Summary 2020-07-22T01:56:56.330077Z
+## Summary 2020-07-23T01:57:48.284061Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-22T01:56:56.330077Z
-Scanned 57,128 files in 7 seconds.
+Started scan at 2020-07-23T01:57:48.284061Z
+Scanned 57,201 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_22_01_45_59.csv
+    last -> modulescanner-report-2020_07_23_01_34_10.csv
 
-Parsed 3,853,448 lines in total.
-  60,836 -> captions skipped
-  343,590 -> duplicates skipped
-  189,628 -> module related
+Parsed 3,862,035 lines in total.
+  60,908 -> captions skipped
+  344,619 -> duplicates skipped
+  190,132 -> module related
 
-Collected 7,300 unique modules.
-  automatic :cd: -> 5,209
-  explicit :dvd: -> 2,091
+Collected 7,303 unique modules.
+  automatic :cd: -> 5,211
+  explicit :dvd: -> 2,092
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=3938, explicit=255, plain=101743}` 	 4.12%
+ - `2020_07={automatic=4363, explicit=275, plain=108725}` 	 4.27%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20127](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26208](suspicious/naming.md)
-- Modular impostors: [9350](suspicious/impostors.md)
+- Invalid module names: [20130](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26226](suspicious/naming.md)
+- Modular impostors: [9388](suspicious/impostors.md)
 
-## Unique Modules (7300)
+## Unique Modules (7303)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -1047,7 +1047,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M3`
 - :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M3`
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
-- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.4.2`
+- :dvd: `com.thecoderscorner.tcmenu.javaapi` - `com.thecoderscorner.tcmenu:tcMenuJavaAPI:1.5.0`
 - :dvd: `com.thecoderscorner.tcmenu.plugin.api` - `com.thecoderscorner.tcmenu:tcMenuCodePluginApi:1.4.0`
 - :dvd: `com.thorstenmarx.modules.api` - `com.thorstenmarx.modules:modules-api:2.8.0`
 - :dvd: `com.thorstenmarx.modules.manager` - `com.thorstenmarx.modules:modules-manager:2.8.0`
@@ -1162,7 +1162,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.cucumber.junit.platform.engine` - `io.cucumber:cucumber-junit-platform-engine:6.2.2`
 - :dvd: `io.earcam.unexceptional` :left_right_arrow: `io.earcam:io.earcam.unexceptional:1.0.0`
 - :dvd: `io.floodgate.sdk` - `io.floodgate:sdk:1.0.0`
-- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.1`
+- :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.3`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.87`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.6`
 - :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.15`
@@ -1668,7 +1668,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.copperengine.performancetest` - `org.copper-engine:copper-performance-test:5.2.0`
 - :dvd: `org.copperengine.regtest` - `org.copper-engine:copper-regtest:5.2.0`
 - :dvd: `org.copperengine.spring` - `org.copper-engine:copper-spring:5.2.0`
-- :dvd: `org.cryptomator.cloudaccess` - `org.cryptomator:cloud-access:0.2.0-beta1`
+- :dvd: `org.cryptomator.cloudaccess` - `org.cryptomator:cloud-access:0.2.0-beta2`
 - :dvd: `org.cryptomator.siv` - `org.cryptomator:siv-mode:1.4.0`
 - :dvd: `org.danekja.jdk.serializable.functional` - `org.danekja:jdk-serializable-functional:1.9.0`
 - :dvd: `org.docx4j.JAXB_MOXy` - `org.docx4j:docx4j-JAXB-MOXy:11.1.8`
@@ -1905,11 +1905,11 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0-beta`
 - :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0-beta`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.4`
-- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.4`
-- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.4`
+- :dvd: `org.opendaylight.yangtools.concepts` - `org.opendaylight.yangtools:concepts:5.0.5`
+- :dvd: `org.opendaylight.yangtools.util` - `org.opendaylight.yangtools:util:5.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.common` - `org.opendaylight.yangtools:yang-common:5.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.parser.antlr` - `org.opendaylight.yangtools:yang-parser-antlr:5.0.5`
+- :dvd: `org.opendaylight.yangtools.yang.xpath.antlr` - `org.opendaylight.yangtools:yang-xpath-antlr:5.0.5`
 - :dvd: `org.opentest4j` - `org.opentest4j:opentest4j:1.2.0`
 - :dvd: `org.panteleyev.crypto` - `org.panteleyev:crypto:1.0.1`
 - :dvd: `org.panteleyev.persistence` - `org.panteleyev:persistence:19.2.0`
@@ -2059,15 +2059,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.1.0`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.1.0`
-- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.50.1`
-- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.50.1`
-- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.50.1`
-- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.50.1`
-- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.50.1`
-- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.50.1`
-- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.50.1`
-- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.50.1`
-- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.50.1`
+- :dvd: `org.xbib.netty.http.bouncycastle` - `org.xbib:netty-http-bouncycastle:4.1.51.0`
+- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.51.0`
+- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.51.0`
+- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.51.0`
+- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.51.0`
+- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.51.0`
+- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.51.0`
+- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.51.0`
+- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.51.0`
+- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.51.0`
 - :dvd: `org.xbib.oai` - `org.xbib:oai-common:2.3.0`
 - :dvd: `org.xbib.oai.client` - `org.xbib:oai-client:2.3.0`
 - :dvd: `org.xbib.rpm` - `org.xbib:rpm-core:2.0.0`
@@ -2188,7 +2189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.3-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
-- :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.3`
+- :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.4`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
