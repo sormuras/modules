@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7303 Java modules published at Maven Central
+Counted 7304 Java modules published at Maven Central
 
-## Summary 2020-07-23T01:57:48.284061Z
+## Summary 2020-07-24T01:58:00.078164Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-23T01:57:48.284061Z
-Scanned 57,201 files in 8 seconds.
+Started scan at 2020-07-24T01:58:00.078164Z
+Scanned 57,281 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_23_01_34_10.csv
+    last -> modulescanner-report-2020_07_24_01_43_18.csv
 
-Parsed 3,862,035 lines in total.
-  60,908 -> captions skipped
-  344,619 -> duplicates skipped
-  190,132 -> module related
+Parsed 3,868,667 lines in total.
+  60,988 -> captions skipped
+  345,631 -> duplicates skipped
+  190,501 -> module related
 
-Collected 7,303 unique modules.
-  automatic :cd: -> 5,211
+Collected 7,304 unique modules.
+  automatic :cd: -> 5,212
   explicit :dvd: -> 2,092
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=4363, explicit=275, plain=108725}` 	 4.27%
+ - `2020_07={automatic=4635, explicit=292, plain=113896}` 	 4.33%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20130](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26226](suspicious/naming.md)
-- Modular impostors: [9388](suspicious/impostors.md)
+- Invalid module names: [20163](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26262](suspicious/naming.md)
+- Modular impostors: [9399](suspicious/impostors.md)
 
-## Unique Modules (7303)
+## Unique Modules (7304)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -240,10 +240,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.7.0`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.7.0`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.7.0`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.7.0`
+- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.7.1`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.7.1`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.7.1`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.7.1`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -318,7 +318,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.4`
 - :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.1`
-- :dvd: `com.azure.core` - `com.azure:azure-core:1.7.0-beta.1`
+- :dvd: `com.azure.core` - `com.azure:azure-core:1.7.0-beta.2`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.3.0`
 - :dvd: `com.azure.core.experimental` - `com.azure:azure-core-experimental:1.0.0-beta.1`
 - :dvd: `com.azure.core.http.okhttp` - `com.azure:azure-core-http-okhttp:1.2.4`
@@ -331,7 +331,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.2.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
-- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.6`
+- :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.7`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.2.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.2.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.4`
@@ -1097,7 +1097,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.5`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.6`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`
@@ -2059,16 +2059,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.1.0`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.1.0`
-- :dvd: `org.xbib.netty.http.bouncycastle` - `org.xbib:netty-http-bouncycastle:4.1.51.0`
-- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.51.0`
-- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.51.0`
-- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.51.0`
-- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.51.0`
-- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.51.0`
-- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.51.0`
-- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.51.0`
-- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.51.0`
-- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.51.0`
+- :dvd: `org.xbib.netty.http.bouncycastle` - `org.xbib:netty-http-bouncycastle:4.1.51.1`
+- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.51.1`
+- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.51.1`
+- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.51.1`
+- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.51.1`
+- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.51.1`
+- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.51.1`
+- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.51.1`
+- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.51.1`
+- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.51.1`
 - :dvd: `org.xbib.oai` - `org.xbib:oai-common:2.3.0`
 - :dvd: `org.xbib.oai.client` - `org.xbib:oai-client:2.3.0`
 - :dvd: `org.xbib.rpm` - `org.xbib:rpm-core:2.0.0`
