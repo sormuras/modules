@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7305 Java modules published at Maven Central
+Counted 7306 Java modules published at Maven Central
 
-## Summary 2020-07-25T01:58:58.718518Z
+## Summary 2020-07-26T01:59:40.959519Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-25T01:58:58.718518Z
-Scanned 57,356 files in 7 seconds.
+Started scan at 2020-07-26T01:59:40.959519Z
+Scanned 57,446 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_25_01_41_59.csv
+    last -> modulescanner-report-2020_07_26_01_40_34.csv
 
-Parsed 3,878,499 lines in total.
-  61,061 -> captions skipped
-  348,550 -> duplicates skipped
-  191,768 -> module related
+Parsed 3,881,192 lines in total.
+  61,151 -> captions skipped
+  348,626 -> duplicates skipped
+  191,835 -> module related
 
-Collected 7,305 unique modules.
-  automatic :cd: -> 5,213
+Collected 7,306 unique modules.
+  automatic :cd: -> 5,214
   explicit :dvd: -> 2,092
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=5277, explicit=306, plain=119469}` 	 4.67%
+ - `2020_07={automatic=5280, explicit=335, plain=121929}` 	 4.61%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,10 +118,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [20492](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26521](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26556](suspicious/naming.md)
 - Modular impostors: [9422](suspicious/impostors.md)
 
-## Unique Modules (7305)
+## Unique Modules (7306)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -189,7 +189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.database.mysql` - `be.yildiz-games:module-database-mysql:1.0.5`
 - :dvd: `be.yildizgames.module.database.pool.c3p0` - `be.yildiz-games:module-database-pool-c3p0:1.0.0`
 - :dvd: `be.yildizgames.module.database.pool.hikari` - `be.yildiz-games:module-database-pool-hikari:1.0.2`
-- :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.9`
+- :dvd: `be.yildizgames.module.database.postgresql` - `be.yildiz-games:module-database-postgresql:1.0.10`
 - :dvd: `be.yildizgames.module.graphic` - `be.yildiz-games:module-graphic:2.1.4`
 - :dvd: `be.yildizgames.module.http` - `be.yildiz-games:module-http:1.1.6`
 - :dvd: `be.yildizgames.module.messaging` - `be.yildiz-games:module-messaging:2.0.3`
@@ -202,7 +202,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs` - `be.yildiz-games:module-vfs:1.0.0`
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.5`
-- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.0`
+- :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.1`
 - :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.4`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
@@ -240,10 +240,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `ch.tutteli.niok` - `ch.tutteli.niok:niok:1.3.4`
 - :dvd: `ch.tutteli.spek.extensions` - `ch.tutteli.spek:tutteli-spek-extensions:1.1.0`
 - :dvd: `cn.nextop.lite.pool` - `cn.nextop:lite-pool:1.0.0-RC3`
-- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.7.1`
-- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.7.1`
-- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.7.1`
-- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.7.1`
+- :dvd: `co.com.sofka.application` - `co.com.sofka:application:0.7.2`
+- :dvd: `co.com.sofka.business` - `co.com.sofka:business:0.7.2`
+- :dvd: `co.com.sofka.domain` - `co.com.sofka:domain:0.7.2`
+- :dvd: `co.com.sofka.infraestructure` - `co.com.sofka:infrastructure:0.7.2`
 - :dvd: `co.paralleluniverse.quasar.actors` - `co.paralleluniverse:quasar-actors:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.core` - `co.paralleluniverse:quasar-core:0.8.0`
 - :dvd: `co.paralleluniverse.quasar.disruptor` - `co.paralleluniverse:quasar-disruptor:0.8.0`
@@ -721,22 +721,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.2`
-- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.2`
-- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.2`
-- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.2`
-- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.2`
-- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.2`
-- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.2`
-- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.2`
-- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.2`
-- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.2`
-- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.2`
-- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.2`
-- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.2`
-- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.2`
-- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.2`
-- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.2`
+- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.3`
+- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.3`
+- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.3`
+- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.3`
+- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.3`
+- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.3`
+- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.3`
+- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.3`
+- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.3`
+- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.3`
+- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.3`
+- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.3`
+- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.3`
+- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.3`
+- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.3`
+- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.3`
 - :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
 - :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
 - :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
@@ -1106,12 +1106,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.2.0`
 - :dvd: `dk.tbsalling.ais.messages` - `dk.tbsalling:aismessages:3.1.0`
 - :dvd: `es.jlarriba.jrmapi` - `es.jlarriba:jrmapi:0.6`
-- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.3.0`
-- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.3.0`
-- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.3.0`
-- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.3.0`
-- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.3.0`
-- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.3.0`
+- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.3.1`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
@@ -2187,7 +2187,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.4-V21`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.5-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.4`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
