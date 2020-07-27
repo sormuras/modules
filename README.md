@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7306 Java modules published at Maven Central
+Counted 7307 Java modules published at Maven Central
 
-## Summary 2020-07-26T01:59:40.959519Z
+## Summary 2020-07-27T02:00:09.420054Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-26T01:59:40.959519Z
-Scanned 57,446 files in 8 seconds.
+Started scan at 2020-07-27T02:00:09.420054Z
+Scanned 57,533 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_26_01_40_34.csv
+    last -> modulescanner-report-2020_07_27_01_49_11.csv
 
-Parsed 3,881,192 lines in total.
-  61,151 -> captions skipped
-  348,626 -> duplicates skipped
-  191,835 -> module related
+Parsed 3,884,336 lines in total.
+  61,238 -> captions skipped
+  349,474 -> duplicates skipped
+  191,892 -> module related
 
-Collected 7,306 unique modules.
-  automatic :cd: -> 5,214
+Collected 7,307 unique modules.
+  automatic :cd: -> 5,215
   explicit :dvd: -> 2,092
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=5280, explicit=335, plain=121929}` 	 4.61%
+ - `2020_07={automatic=5296, explicit=336, plain=124081}` 	 4.54%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20492](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26556](suspicious/naming.md)
-- Modular impostors: [9422](suspicious/impostors.md)
+- Invalid module names: [20496](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26583](suspicious/naming.md)
+- Modular impostors: [9431](suspicious/impostors.md)
 
-## Unique Modules (7306)
+## Unique Modules (7307)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -203,7 +203,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `be.yildizgames.module.vfs.physfs` - `be.yildiz-games:module-vfs-physfs:1.0.1`
 - :dvd: `be.yildizgames.module.webserver.undertow` - `be.yildiz-games:module-webserver-undertow:1.1.5`
 - :dvd: `be.yildizgames.module.window` - `be.yildiz-games:module-window:4.2.1`
-- :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.4`
+- :dvd: `be.yildizgames.module.window.javafx` - `be.yildiz-games:module-window-javafx:2.0.5`
 - :dvd: `br.com.jarch.agent` - `br.com.jarch:jarch-agent:19.12.0`
 - :dvd: `cafe.cryptography.curve25519_elisabeth` - `cafe.cryptography:curve25519-elisabeth:0.1.0`
 - :dvd: `cafe.cryptography.ed25519_elisabeth` - `cafe.cryptography:ed25519-elisabeth:0.1.0`
