@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7307 Java modules published at Maven Central
+Counted 7310 Java modules published at Maven Central
 
-## Summary 2020-07-27T02:00:09.420054Z
+## Summary 2020-07-28T02:00:12.416773Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-27T02:00:09.420054Z
-Scanned 57,533 files in 8 seconds.
+Started scan at 2020-07-28T02:00:12.416773Z
+Scanned 57,616 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_27_01_49_11.csv
+    last -> modulescanner-report-2020_07_28_01_49_38.csv
 
-Parsed 3,884,336 lines in total.
-  61,238 -> captions skipped
-  349,474 -> duplicates skipped
-  191,892 -> module related
+Parsed 3,889,607 lines in total.
+  61,321 -> captions skipped
+  350,029 -> duplicates skipped
+  192,198 -> module related
 
-Collected 7,307 unique modules.
-  automatic :cd: -> 5,215
+Collected 7,310 unique modules.
+  automatic :cd: -> 5,218
   explicit :dvd: -> 2,092
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=5296, explicit=336, plain=124081}` 	 4.54%
+ - `2020_07={automatic=5568, explicit=343, plain=128408}` 	 4.60%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,10 +118,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [20496](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26583](suspicious/naming.md)
-- Modular impostors: [9431](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26602](suspicious/naming.md)
+- Modular impostors: [9439](suspicious/impostors.md)
 
-## Unique Modules (7307)
+## Unique Modules (7310)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -539,7 +539,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
-- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.26`
+- :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.27`
 - :dvd: `com.googlecode.blaisemath.app` - `com.googlecode.blaisemath:blaise-app:1.0.0-beta`
 - :dvd: `com.googlecode.blaisemath.common` - `com.googlecode.blaisemath:blaise-common:1.0.8`
 - :dvd: `com.googlecode.blaisemath.firestarter` - `com.googlecode.blaisemath:firestarter:2.0.0-beta`
@@ -1372,7 +1372,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.1`
 - :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.1`
 - :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.1`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.9.1`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.9.2`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC3`
@@ -1761,10 +1761,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.immutables.vavr.encodings` - `org.immutables.vavr:vavr-encodings:0.6.0`
 - :dvd: `org.javacord.api` - `org.javacord:javacord-api:3.0.6`
 - :dvd: `org.javacord.core` - `org.javacord:javacord-core:3.0.6`
-- :dvd: `org.javamoney.moneta` - `org.javamoney.moneta:moneta-core:1.4.1`
-- :dvd: `org.javamoney.moneta.convert` - `org.javamoney.moneta:moneta-convert:1.4.1`
-- :dvd: `org.javamoney.moneta.convert.ecb` - `org.javamoney.moneta:moneta-convert-ecb:1.4.1`
-- :dvd: `org.javamoney.moneta.convert.imf` - `org.javamoney.moneta:moneta-convert-imf:1.4.1`
+- :dvd: `org.javamoney.moneta` - `org.javamoney.moneta:moneta-core:1.4.2`
+- :dvd: `org.javamoney.moneta.convert` - `org.javamoney.moneta:moneta-convert:1.4.2`
+- :dvd: `org.javamoney.moneta.convert.ecb` - `org.javamoney.moneta:moneta-convert-ecb:1.4.2`
+- :dvd: `org.javamoney.moneta.convert.imf` - `org.javamoney.moneta:moneta-convert-imf:1.4.2`
 - :dvd: `org.jfree.chart3d` :left_right_arrow: `org.jfree:org.jfree.chart3d:2.0`
 - :dvd: `org.jfree.chart3d.fx` :left_right_arrow: `org.jfree:org.jfree.chart3d.fx:2.0`
 - :dvd: `org.jfree.pdf` :left_right_arrow: `org.jfree:org.jfree.pdf:2.0`
@@ -2189,7 +2189,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
 - :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.5-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
-- :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.4`
+- :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.5`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
 - :dvd: `us.hebi.matlab.io` - `us.hebi.matlab:mat-file-io:0.1.2`
 - :dvd: `xyz.cofe.cbuffer` - `xyz.cofe:cbuffer:1.0`
