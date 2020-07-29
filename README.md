@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7310 Java modules published at Maven Central
+Counted 7321 Java modules published at Maven Central
 
-## Summary 2020-07-28T02:00:12.416773Z
+## Summary 2020-07-29T02:00:21.122526Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-28T02:00:12.416773Z
-Scanned 57,616 files in 7 seconds.
+Started scan at 2020-07-29T02:00:21.122526Z
+Scanned 57,695 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_28_01_49_38.csv
+    last -> modulescanner-report-2020_07_29_01_37_45.csv
 
-Parsed 3,889,607 lines in total.
-  61,321 -> captions skipped
-  350,029 -> duplicates skipped
-  192,198 -> module related
+Parsed 3,895,651 lines in total.
+  61,398 -> captions skipped
+  350,476 -> duplicates skipped
+  192,695 -> module related
 
-Collected 7,310 unique modules.
-  automatic :cd: -> 5,218
+Collected 7,321 unique modules.
+  automatic :cd: -> 5,229
   explicit :dvd: -> 2,092
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=5568, explicit=343, plain=128408}` 	 4.60%
+ - `2020_07={automatic=5946, explicit=346, plain=133431}` 	 4.72%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20496](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26602](suspicious/naming.md)
-- Modular impostors: [9439](suspicious/impostors.md)
+- Invalid module names: [20500](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26671](suspicious/naming.md)
+- Modular impostors: [9482](suspicious/impostors.md)
 
-## Unique Modules (7310)
+## Unique Modules (7321)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -317,7 +317,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.athaydes.keepup.core` - `com.athaydes.keepup:keepup-core:1.0-RC3`
 - :dvd: `com.athaydes.logfx` - `com.athaydes.logfx:logfx:1.0-RC10`
 - :dvd: `com.azure.ai.formrecognizer` - `com.azure:azure-ai-formrecognizer:1.0.0-beta.4`
-- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:1.0.1`
+- :dvd: `com.azure.ai.textanalytics` - `com.azure:azure-ai-textanalytics:5.0.0`
 - :dvd: `com.azure.core` - `com.azure:azure-core:1.7.0-beta.2`
 - :dvd: `com.azure.core.amqp` - `com.azure:azure-core-amqp:1.3.0`
 - :dvd: `com.azure.core.experimental` - `com.azure:azure-core-experimental:1.0.0-beta.1`
@@ -1425,8 +1425,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.dongliu.xhttp.json` - `net.dongliu:xhttp-json-api:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jackson` - `net.dongliu:xhttp-json-jackson:2.1.1`
 - :dvd: `net.dongliu.xhttp.json.jsonb` - `net.dongliu:xhttp-json-jsonb:2.1.1`
-- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.3`
-- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.9`
+- :dvd: `net.finmath.lib` - `net.finmath:finmath-lib:5.0.4`
+- :dvd: `net.finmath.plots` - `net.finmath:finmath-lib-plot-extensions:0.3.10`
 - :dvd: `net.kautler.command` - `net.kautler:command-framework:0.3.0`
 - :dvd: `net.kyori.bootstrap` - `net.kyori:bootstrap:1.0.0`
 - :dvd: `net.sf.rubycollect4j` - `net.sf.rubycollect4j:rubycollect4j:2.1.1`
