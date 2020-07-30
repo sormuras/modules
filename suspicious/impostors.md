@@ -2804,6 +2804,7 @@
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.3` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.3,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.sonatype.nexus:nexus-orient-component-migrator:3.25.0-03` // `org.sonatype.nexus,nexus-orient-component-migrator,3.25.0-03,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `org.sonatype.nexus:nexus-orient-component-migrator:3.25.1-02` // `org.sonatype.nexus,nexus-orient-component-migrator,3.25.1-02,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.0` // `tr.com.infumia,db,1.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.1` // `tr.com.infumia,db,1.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.3` // `tr.com.infumia,db,1.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -2938,6 +2939,7 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:13.0.0` // `io.cucumber,gherkin,13.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.0` // `io.cucumber,gherkin,14.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.1` // `io.cucumber,gherkin,14.0.1,io.cucumber.gherkin,-,automatic,-,false,-`
+- :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.1.0` // `io.cucumber,gherkin,14.1.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -3059,6 +3061,7 @@
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.13` // `io.github.factoryfx,microserviceRestResource,2.2.13,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.14` // `io.github.factoryfx,microserviceRestResource,2.2.14,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.15` // `io.github.factoryfx,microserviceRestResource,2.2.15,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
+- :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.16` // `io.github.factoryfx,microserviceRestResource,2.2.16,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.2` // `io.github.factoryfx,microserviceRestResource,2.2.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.3` // `io.github.factoryfx,microserviceRestResource,2.2.3,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.4` // `io.github.factoryfx,microserviceRestResource,2.2.4,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -6820,6 +6823,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.256.6` // `com.yahoo.vespa,vespa-hadoop,7.256.6,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.257.6` // `com.yahoo.vespa,vespa-hadoop,7.257.6,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.258.11` // `com.yahoo.vespa,vespa-hadoop,7.258.11,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.259.2` // `com.yahoo.vespa,vespa-hadoop,7.259.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7363,6 +7367,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.0` // `org.flywaydb.enterprise,flyway-core,6.5.0,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.1` // `org.flywaydb.enterprise,flyway-core,6.5.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.2` // `org.flywaydb.enterprise,flyway-core,6.5.2,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.3` // `org.flywaydb.enterprise,flyway-core,6.5.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -7370,6 +7375,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.0` // `org.flywaydb.pro,flyway-core,6.5.0,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.1` // `org.flywaydb.pro,flyway-core,6.5.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.2` // `org.flywaydb.pro,flyway-core,6.5.2,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.3` // `org.flywaydb.pro,flyway-core,6.5.3,org.flywaydb.core,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` - `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
@@ -8215,6 +8221,7 @@
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.4.0` // `com.bmuschko,gradle-docker-plugin,6.4.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.5.0` // `com.bmuschko,gradle-docker-plugin,6.5.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.6.0` // `com.bmuschko,gradle-docker-plugin,6.6.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.6.1` // `com.bmuschko,gradle-docker-plugin,6.6.1,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.datastax.junitpytest:pytest-gradle-plugin:0.1` // `com.datastax.junitpytest,pytest-gradle-plugin,0.1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:expressions:2.5` // `com.github.collinalpert,expressions,2.5,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:jaque:2.4.1` // `com.github.collinalpert,jaque,2.4.1,org.objectweb.asm,7.0.0,explicit,java.base,false,-`

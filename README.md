@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7321 Java modules published at Maven Central
+Counted 7325 Java modules published at Maven Central
 
-## Summary 2020-07-29T02:00:21.122526Z
+## Summary 2020-07-30T02:01:22.731813Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-29T02:00:21.122526Z
-Scanned 57,695 files in 7 seconds.
+Started scan at 2020-07-30T02:01:22.731813Z
+Scanned 57,774 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_29_01_37_45.csv
+    last -> modulescanner-report-2020_07_30_01_44_48.csv
 
-Parsed 3,895,651 lines in total.
-  61,398 -> captions skipped
-  350,476 -> duplicates skipped
-  192,695 -> module related
+Parsed 3,901,716 lines in total.
+  61,477 -> captions skipped
+  351,321 -> duplicates skipped
+  193,151 -> module related
 
-Collected 7,321 unique modules.
-  automatic :cd: -> 5,229
-  explicit :dvd: -> 2,092
+Collected 7,325 unique modules.
+  automatic :cd: -> 5,231
+  explicit :dvd: -> 2,094
 
 ## Samples
             junit -> junit:junit:4.13
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=5946, explicit=346, plain=133431}` 	 4.72%
+ - `2020_07={automatic=6286, explicit=396, plain=138116}` 	 4.84%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20500](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26671](suspicious/naming.md)
-- Modular impostors: [9482](suspicious/impostors.md)
+- Invalid module names: [20525](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26705](suspicious/naming.md)
+- Modular impostors: [9489](suspicious/impostors.md)
 
-## Unique Modules (7321)
+## Unique Modules (7325)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -328,13 +328,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.azure.core.serializer.json.jackson` - `com.azure:azure-core-serializer-json-jackson:1.0.0-beta.2`
 - :dvd: `com.azure.core.test` - `com.azure:azure-core-test:1.3.1`
 - :dvd: `com.azure.core.tracing.opentelemetry` - `com.azure:azure-core-tracing-opentelemetry:1.0.0-beta.5`
-- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.2.0`
+- :dvd: `com.azure.cosmos` - `com.azure:azure-cosmos:4.3.0`
 - :dvd: `com.azure.data.appconfiguration` - `com.azure:azure-data-appconfiguration:1.1.3`
 - :dvd: `com.azure.http.netty` - `com.azure:azure-core-http-netty:1.5.3`
 - :dvd: `com.azure.identity` - `com.azure:azure-identity:1.1.0-beta.7`
 - :dvd: `com.azure.messaging.eventhubs` - `com.azure:azure-messaging-eventhubs:5.2.0-beta.1`
 - :dvd: `com.azure.messaging.eventhubs.checkpointstore.blob` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.2.0-beta.1`
 - :dvd: `com.azure.messaging.servicebus` - `com.azure:azure-messaging-servicebus:7.0.0-beta.4`
+- :dvd: `com.azure.sdk.template` - `com.azure:azure-sdk-template:1.1.0`
 - :dvd: `com.azure.search` - `com.azure:azure-search:11.0.0-beta.1`
 - :dvd: `com.azure.search.documents` - `com.azure:azure-search-documents:11.0.0`
 - :dvd: `com.azure.security.keyvault.certificates` - `com.azure:azure-security-keyvault-certificates:4.1.0-beta.4`
@@ -619,6 +620,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.coffeepick.runtime.parser.api` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.parser.api:0.2.0`
 - :dvd: `com.io7m.coffeepick.runtime.parser.spi` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.runtime.parser.spi:0.2.0`
 - :dvd: `com.io7m.coffeepick.shipilev_net` :left_right_arrow: `com.io7m.coffeepick:com.io7m.coffeepick.shipilev_net:0.2.0`
+- :dvd: `com.io7m.ethermaker.core` :left_right_arrow: `com.io7m.ethermaker:com.io7m.ethermaker.core:1.0.0`
 - :dvd: `com.io7m.immutables.style` :left_right_arrow: `com.io7m.immutables.style:com.io7m.immutables.style:0.0.1`
 - :dvd: `com.io7m.jade.api` :left_right_arrow: `com.io7m.jade:com.io7m.jade.api:1.0.1`
 - :dvd: `com.io7m.jade.documentation` :left_right_arrow: `com.io7m.jade:com.io7m.jade.documentation:1.0.1`
@@ -721,22 +723,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.3`
-- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.3`
-- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.3`
-- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.3`
-- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.3`
-- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.3`
-- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.3`
-- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.3`
-- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.3`
-- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.3`
-- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.3`
-- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.3`
-- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.3`
-- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.3`
-- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.3`
-- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.3`
+- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.6`
+- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.6`
+- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.6`
+- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.6`
+- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.6`
+- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.6`
+- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.6`
+- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.6`
+- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.6`
+- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.6`
+- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.6`
+- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.6`
+- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.6`
+- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.6`
+- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.6`
+- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.6`
 - :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
 - :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
 - :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
@@ -1165,24 +1167,24 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.fusionauth` - `io.fusionauth:fusionauth-jwt:3.5.3`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.87`
 - :dvd: `io.github.dsheirer.rrapi` - `io.github.dsheirer:radio-reference-api:15.1.6`
-- :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.15`
-- :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.15`
-- :dvd: `io.github.factoryfx.factory` - `io.github.factoryfx:factory:2.2.15`
-- :dvd: `io.github.factoryfx.javafxDistributionClient` - `io.github.factoryfx:javafxDistributionClient:2.2.15`
-- :dvd: `io.github.factoryfx.javafxDistributionServer` - `io.github.factoryfx:javafxDistributionServer:2.2.15`
-- :dvd: `io.github.factoryfx.javafxFactoryEditing` - `io.github.factoryfx:javafxFactoryEditing:2.2.15`
+- :dvd: `io.github.factoryfx.copperBridge` - `io.github.factoryfx:copperBridge:2.2.16`
+- :dvd: `io.github.factoryfx.domFactoryEditing` - `io.github.factoryfx:domFactoryEditing:2.2.16`
+- :dvd: `io.github.factoryfx.factory` - `io.github.factoryfx:factory:2.2.16`
+- :dvd: `io.github.factoryfx.javafxDistributionClient` - `io.github.factoryfx:javafxDistributionClient:2.2.16`
+- :dvd: `io.github.factoryfx.javafxDistributionServer` - `io.github.factoryfx:javafxDistributionServer:2.2.16`
+- :dvd: `io.github.factoryfx.javafxFactoryEditing` - `io.github.factoryfx:javafxFactoryEditing:2.2.16`
 - :dvd: `io.github.factoryfx.javascript` - `io.github.factoryfx:javascript:2.0.25`
 - :dvd: `io.github.factoryfx.javascriptDataEditing` - `io.github.factoryfx:javascriptDataEditing:2.0.25`
-- :dvd: `io.github.factoryfx.jettyFactory` - `io.github.factoryfx:jettyFactory:2.2.15`
-- :dvd: `io.github.factoryfx.microserviceRestClient` - `io.github.factoryfx:microserviceRestClient:2.2.15`
-- :dvd: `io.github.factoryfx.microserviceRestCommon` - `io.github.factoryfx:microserviceRestCommon:2.2.15`
+- :dvd: `io.github.factoryfx.jettyFactory` - `io.github.factoryfx:jettyFactory:2.2.16`
+- :dvd: `io.github.factoryfx.microserviceRestClient` - `io.github.factoryfx:microserviceRestClient:2.2.16`
+- :dvd: `io.github.factoryfx.microserviceRestCommon` - `io.github.factoryfx:microserviceRestCommon:2.2.16`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestServer:2.0.25`
 - :dvd: `io.github.factoryfx.nanoservice` - `io.github.factoryfx:nanoservice:2.0.25`
-- :dvd: `io.github.factoryfx.oracledbStorage` - `io.github.factoryfx:oracledbStorage:2.2.15`
-- :dvd: `io.github.factoryfx.postgresqlStorage` - `io.github.factoryfx:postgresqlStorage:2.2.15`
-- :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.15`
-- :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.15`
-- :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.15`
+- :dvd: `io.github.factoryfx.oracledbStorage` - `io.github.factoryfx:oracledbStorage:2.2.16`
+- :dvd: `io.github.factoryfx.postgresqlStorage` - `io.github.factoryfx:postgresqlStorage:2.2.16`
+- :dvd: `io.github.factoryfx.soapFactory` - `io.github.factoryfx:soapFactory:2.2.16`
+- :dvd: `io.github.factoryfx.starter` - `io.github.factoryfx:initializr:2.2.16`
+- :dvd: `io.github.factoryfx.typescriptGenerator` - `io.github.factoryfx:typescriptGenerator:2.2.16`
 - :dvd: `io.github.jmcleodfoss.msg` - `io.github.jmcleodfoss:msg:1.0.0`
 - :dvd: `io.github.jmcleodfoss.msg_example` - `io.github.jmcleodfoss:msg_example:1.0.0`
 - :dvd: `io.github.jmcleodfoss.voluminouspaginationskin` - `io.github.jmcleodfoss:voluminouspaginationskin:2.0.0`
