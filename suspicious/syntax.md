@@ -19134,6 +19134,7 @@
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.0.0-rc0` // `org.mongodb,mongodb-driver-legacy,4.0.0-rc0,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.0.1` // `org.mongodb,mongodb-driver-legacy,4.0.1,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.0.2` // `org.mongodb,mongodb-driver-legacy,4.0.2,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
+- :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.1.0` // `org.mongodb,mongodb-driver-legacy,4.1.0,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.1.0-beta1` // `org.mongodb,mongodb-driver-legacy,4.1.0-beta1,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.1.0-beta2` // `org.mongodb,mongodb-driver-legacy,4.1.0-beta2,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
 - :cd: `org.mongodb.mongodb-driver-legacy` - `org.mongodb:mongodb-driver-legacy:4.1.0-rc0` // `org.mongodb,mongodb-driver-legacy,4.1.0-rc0,org.mongodb.mongodb-driver-legacy,-,automatic,-,false,-`
@@ -19143,6 +19144,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.11,4.0.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.0.1` // `org.mongodb.scala,mongo-scala-bson_2.11,4.0.1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.0.2` // `org.mongodb.scala,mongo-scala-bson_2.11,4.0.2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.1.0` // `org.mongodb.scala,mongo-scala-bson_2.11,4.1.0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-bson_2.11,4.1.0-beta1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-bson_2.11,4.1.0-beta2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.11:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.11,4.1.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
@@ -19151,6 +19153,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.12,4.0.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.0.1` // `org.mongodb.scala,mongo-scala-bson_2.12,4.0.1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.0.2` // `org.mongodb.scala,mongo-scala-bson_2.12,4.0.2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.1.0` // `org.mongodb.scala,mongo-scala-bson_2.12,4.1.0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-bson_2.12,4.1.0-beta1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-bson_2.12,4.1.0-beta2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.12:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.12,4.1.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
@@ -19159,6 +19162,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.13,4.0.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.0.1` // `org.mongodb.scala,mongo-scala-bson_2.13,4.0.1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.0.2` // `org.mongodb.scala,mongo-scala-bson_2.13,4.0.2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.1.0` // `org.mongodb.scala,mongo-scala-bson_2.13,4.1.0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-bson_2.13,4.1.0-beta1,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-bson_2.13,4.1.0-beta2,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-bson` - `org.mongodb.scala:mongo-scala-bson_2.13:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-bson_2.13,4.1.0-rc0,org.mongodb.scala.mongo-scala-bson,-,automatic,-,false,-`
@@ -19168,6 +19172,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.11,4.0.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.0.1` // `org.mongodb.scala,mongo-scala-driver_2.11,4.0.1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.0.2` // `org.mongodb.scala,mongo-scala-driver_2.11,4.0.2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.1.0` // `org.mongodb.scala,mongo-scala-driver_2.11,4.1.0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-driver_2.11,4.1.0-beta1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-driver_2.11,4.1.0-beta2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.11:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.11,4.1.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
@@ -19176,6 +19181,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.12,4.0.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.0.1` // `org.mongodb.scala,mongo-scala-driver_2.12,4.0.1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.0.2` // `org.mongodb.scala,mongo-scala-driver_2.12,4.0.2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.1.0` // `org.mongodb.scala,mongo-scala-driver_2.12,4.1.0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-driver_2.12,4.1.0-beta1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-driver_2.12,4.1.0-beta2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.12:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.12,4.1.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
@@ -19184,6 +19190,7 @@
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.0.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.13,4.0.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.0.1` // `org.mongodb.scala,mongo-scala-driver_2.13,4.0.1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.0.2` // `org.mongodb.scala,mongo-scala-driver_2.13,4.0.2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
+- :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0-beta1` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0-beta1,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0-beta2` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0-beta2,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`
 - :cd: `org.mongodb.scala.mongo-scala-driver` - `org.mongodb.scala:mongo-scala-driver_2.13:4.1.0-rc0` // `org.mongodb.scala,mongo-scala-driver_2.13,4.1.0-rc0,org.mongodb.scala.mongo-scala-driver,-,automatic,-,false,-`

@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7325 Java modules published at Maven Central
+Counted 7327 Java modules published at Maven Central
 
-## Summary 2020-07-30T02:01:22.731813Z
+## Summary 2020-07-31T02:01:54.029385Z
 
 ```
 ## Summary
 
-Started scan at 2020-07-30T02:01:22.731813Z
-Scanned 57,774 files in 7 seconds.
+Started scan at 2020-07-31T02:01:54.029385Z
+Scanned 57,849 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_07_30_01_44_48.csv
+    last -> modulescanner-report-2020_07_31_01_40_42.csv
 
-Parsed 3,901,716 lines in total.
-  61,477 -> captions skipped
-  351,321 -> duplicates skipped
-  193,151 -> module related
+Parsed 3,907,789 lines in total.
+  61,551 -> captions skipped
+  351,863 -> duplicates skipped
+  193,514 -> module related
 
-Collected 7,325 unique modules.
-  automatic :cd: -> 5,231
+Collected 7,327 unique modules.
+  automatic :cd: -> 5,233
   explicit :dvd: -> 2,094
 
 ## Samples
@@ -54,7 +54,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_04={automatic=6189, explicit=701, plain=148391}` 	 4.64%
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
- - `2020_07={automatic=6286, explicit=396, plain=138116}` 	 4.84%
+ - `2020_07={automatic=6586, explicit=418, plain=143210}` 	 4.89%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -117,11 +117,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20525](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26705](suspicious/naming.md)
-- Modular impostors: [9489](suspicious/impostors.md)
+- Invalid module names: [20532](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26732](suspicious/naming.md)
+- Modular impostors: [9496](suspicious/impostors.md)
 
-## Unique Modules (7325)
+## Unique Modules (7327)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -723,22 +723,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.6`
-- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.6`
-- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.6`
-- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.6`
-- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.6`
-- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.6`
-- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.6`
-- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.6`
-- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.6`
-- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.6`
-- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.6`
-- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.6`
-- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.6`
-- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.6`
-- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.6`
-- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.6`
+- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.11`
+- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.11`
+- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.11`
+- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.11`
+- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.11`
+- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.11`
+- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.11`
+- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.11`
+- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.11`
+- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.11`
+- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.11`
+- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.11`
+- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.11`
+- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.11`
+- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.11`
+- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.11`
 - :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
 - :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
 - :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
@@ -1108,12 +1108,12 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `dev.buildtool.json` - `dev.buildtool:json-tools:0.2.0`
 - :dvd: `dk.tbsalling.ais.messages` - `dk.tbsalling:aismessages:3.1.0`
 - :dvd: `es.jlarriba.jrmapi` - `es.jlarriba:jrmapi:0.6`
-- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.3.1`
-- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.3.1`
-- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.3.1`
-- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.3.1`
-- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.3.1`
-- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.3.1`
+- :dvd: `eu.dariolucia.ccsds.encdec` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.encdec:0.3.2`
+- :dvd: `eu.dariolucia.ccsds.examples` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.examples:0.3.2`
+- :dvd: `eu.dariolucia.ccsds.inspector` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.inspector:0.3.2`
+- :dvd: `eu.dariolucia.ccsds.sle.utl` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utl:0.3.2`
+- :dvd: `eu.dariolucia.ccsds.sle.utlfx` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.sle.utlfx:0.3.2`
+- :dvd: `eu.dariolucia.ccsds.tmtc` :left_right_arrow: `eu.dariolucia.ccsds:eu.dariolucia.ccsds.tmtc:0.3.2`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
