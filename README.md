@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7328 Java modules published at Maven Central
+Counted 7340 Java modules published at Maven Central
 
-## Summary 2020-08-01T02:02:33.046166Z
+## Summary 2020-08-02T02:03:08.456564Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-01T02:02:33.046166Z
-Scanned 57,922 files in 7 seconds.
+Started scan at 2020-08-02T02:03:08.456564Z
+Scanned 58,009 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_01_01_51_11.csv
+    last -> modulescanner-report-2020_08_02_01_51_57.csv
 
-Parsed 3,916,908 lines in total.
-  61,624 -> captions skipped
-  354,042 -> duplicates skipped
-  194,037 -> module related
+Parsed 3,920,949 lines in total.
+  61,711 -> captions skipped
+  354,639 -> duplicates skipped
+  194,193 -> module related
 
-Collected 7,328 unique modules.
-  automatic :cd: -> 5,234
-  explicit :dvd: -> 2,094
+Collected 7,340 unique modules.
+  automatic :cd: -> 5,235
+  explicit :dvd: -> 2,105
 
 ## Samples
             junit -> junit:junit:4.13
@@ -55,7 +55,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=447, plain=149024}` 	 4.94%
- - `2020_08={automatic=5, plain=530}` 	 0.94%
+ - `2020_08={automatic=18, explicit=32, plain=3731}` 	 1.34%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -119,10 +119,10 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [20641](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26769](suspicious/naming.md)
-- Modular impostors: [9516](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26858](suspicious/naming.md)
+- Modular impostors: [9538](suspicious/impostors.md)
 
-## Unique Modules (7328)
+## Unique Modules (7340)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -491,7 +491,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.github.robozonky.notifications` - `com.github.robozonky:robozonky-notifications:5.7.4`
 - :dvd: `com.github.robozonky.strategy.natural` - `com.github.robozonky:robozonky-strategy-natural:5.7.4`
 - :dvd: `com.github.robozonky.test` - `com.github.robozonky:robozonky-test:5.7.4`
-- :dvd: `com.github.robtimus.obfuscation.annotations` - `com.github.robtimus:obfuscation-annotations:1.0.1`
+- :dvd: `com.github.robtimus.obfuscation` - `com.github.robtimus:obfuscation-core:1.2`
+- :dvd: `com.github.robtimus.obfuscation.annotations` - `com.github.robtimus:obfuscation-annotations:1.1`
 - :dvd: `com.github.robtimus.obfuscation.jackson.databind` - `com.github.robtimus:obfuscation-jackson-databind:1.0.1`
 - :dvd: `com.github.ruediste.polymorphicGson` - `com.github.ruediste:polymorphic-gson:0.1`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline:2.8.0`
@@ -724,22 +725,22 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.io7m.smfj.validation.main` :left_right_arrow: `com.io7m.smfj:com.io7m.smfj.validation.main:0.15.0`
 - :dvd: `com.io7m.timehack6435126.core` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.core:2.0.0`
 - :dvd: `com.io7m.timehack6435126.documentation` :left_right_arrow: `com.io7m.timehack6435126:com.io7m.timehack6435126.documentation:2.0.0`
-- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.11`
-- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.11`
-- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.11`
-- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.11`
-- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.11`
-- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.11`
-- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.11`
-- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.11`
-- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.11`
-- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.11`
-- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.11`
-- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.11`
-- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.11`
-- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.11`
-- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.11`
-- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.11`
+- :dvd: `com.io7m.waxmill.boot` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.boot:0.0.12`
+- :dvd: `com.io7m.waxmill.client.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.api:0.0.12`
+- :dvd: `com.io7m.waxmill.client.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.client.vanilla:0.0.12`
+- :dvd: `com.io7m.waxmill.cmdline` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.cmdline:0.0.12`
+- :dvd: `com.io7m.waxmill.database.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.api:0.0.12`
+- :dvd: `com.io7m.waxmill.database.vanilla` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.database.vanilla:0.0.12`
+- :dvd: `com.io7m.waxmill.exceptions` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.exceptions:0.0.12`
+- :dvd: `com.io7m.waxmill.locks` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.locks:0.0.12`
+- :dvd: `com.io7m.waxmill.machines` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.machines:0.0.12`
+- :dvd: `com.io7m.waxmill.parser.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.parser.api:0.0.12`
+- :dvd: `com.io7m.waxmill.process.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.api:0.0.12`
+- :dvd: `com.io7m.waxmill.process.posix` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.process.posix:0.0.12`
+- :dvd: `com.io7m.waxmill.realize` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.realize:0.0.12`
+- :dvd: `com.io7m.waxmill.serializer.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.serializer.api:0.0.12`
+- :dvd: `com.io7m.waxmill.strings.api` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.strings.api:0.0.12`
+- :dvd: `com.io7m.waxmill.xml` :left_right_arrow: `com.io7m.waxmill:com.io7m.waxmill.xml:0.0.12`
 - :dvd: `com.io7m.xstructural.api` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.api:0.0.4`
 - :dvd: `com.io7m.xstructural.cmdline` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.cmdline:0.0.4`
 - :dvd: `com.io7m.xstructural.vanilla` :left_right_arrow: `com.io7m.xstructural:com.io7m.xstructural.vanilla:0.0.4`
@@ -1127,7 +1128,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `fr.inria.corese.corese_core` - `fr.inria.corese:corese-core:4.1.1`
 - :dvd: `fr.inria.corese.kgram` - `fr.inria.corese:kgram:4.1.1`
 - :dvd: `fr.inria.corese.sparql` - `fr.inria.corese:sparql:4.1.1`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.4.0`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.5.0`
 - :dvd: `io.annot8.api` - `io.annot8:annot8-api:0.4.0`
 - :dvd: `io.annot8.common.components` - `io.annot8:annot8-common-components:0.4.0`
 - :dvd: `io.annot8.common.data` - `io.annot8:annot8-common-data:0.4.0`
@@ -1375,7 +1376,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.winterframework.core` - `io.winterframework:winter-core:1.0.1`
 - :dvd: `io.winterframework.core.annotation` - `io.winterframework:winter-core-annotation:1.0.1`
 - :dvd: `io.winterframework.core.compiler` - `io.winterframework:winter-core-compiler:1.0.1`
-- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.9.2`
+- :dvd: `io.xlate.staedi` - `io.xlate:staedi:1.9.3`
 - :dvd: `it.univr.bcel` - `it.univr.bcel:it-univr-bcel:1.1.0`
 - :dvd: `jakarta.activation` - `jakarta.activation:jakarta.activation-api:2.0.0-RC3`
 - :dvd: `jakarta.json` - `jakarta.json:jakarta.json-api:2.0.0-RC3`
@@ -1887,7 +1888,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.meeuw.i18n` - `org.meeuw.i18n:i18n-regions:0.5`
 - :dvd: `org.meeuw.i18n.continents` - `org.meeuw.i18n:i18n-regions-continents:1.1.0`
 - :dvd: `org.meeuw.i18n.countries` - `org.meeuw.i18n:i18n-regions-countries:1.1.0`
-- :dvd: `org.meeuw.i18n.formerlyassigned` - `org.meeuw.i18n:i18n-formerly-assigned:0.5`
+- :dvd: `org.meeuw.i18n.formerlyassigned` - `org.meeuw.i18n:i18n-formerly-assigned:0.6`
 - :dvd: `org.meeuw.i18n.openlocationcode` - `org.meeuw.i18n:i18n-regions-openlocationcode:1.1.0`
 - :dvd: `org.meeuw.i18n.regions` - `org.meeuw.i18n:i18n-regions:1.1.0`
 - :dvd: `org.meeuw.i18n.subdivisions` - `org.meeuw.i18n:i18n-regions-subdivisions:1.1.0`
@@ -2110,6 +2111,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `se.l4.vibe` - `se.l4.vibe:vibe-api:0.4.0`
 - :dvd: `se.l4.vibe.influxdb` - `se.l4.vibe:vibe-backend-influxdb:0.4.0`
 - :dvd: `se.l4.vibe.mail` - `se.l4.vibe:vibe-backend-mail:0.4.0`
+- :dvd: `se.l4.ylem.ids` - `se.l4.ylem.ids:ylem-ids:1.0.0`
+- :dvd: `se.l4.ylem.io` - `se.l4.ylem.io:ylem-io:1.0.0`
+- :dvd: `se.l4.ylem.types.conversion` - `se.l4.ylem.types:ylem-types-conversion:1.0.0`
+- :dvd: `se.l4.ylem.types.discovery` - `se.l4.ylem.types:ylem-types-discovery:1.0.0`
+- :dvd: `se.l4.ylem.types.instances` - `se.l4.ylem.types:ylem-types-instances:1.0.0`
+- :dvd: `se.l4.ylem.types.instances.guice` - `se.l4.ylem.types:ylem-types-instances-guice:1.0.0`
+- :dvd: `se.l4.ylem.types.mapping` - `se.l4.ylem.types:ylem-types-mapping:1.0.0`
+- :dvd: `se.l4.ylem.types.matching` - `se.l4.ylem.types:ylem-types-matching:1.0.0`
+- :dvd: `se.l4.ylem.types.proxies` - `se.l4.ylem.types:ylem-types-proxies:1.0.0`
+- :dvd: `se.l4.ylem.types.reflect` - `se.l4.ylem.types:ylem-types-reflect:1.0.0`
 - :dvd: `si.uom.quantity` - `si.uom:si-quantity:2.0.1`
 - :dvd: `si.uom.units` - `si.uom:si-units:2.0.1`
 - :dvd: `swim.api` - `ai.swim:swim-api:3.10.0`
@@ -2190,7 +2201,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.5-V21`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.6-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.5`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
