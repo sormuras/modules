@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7341 Java modules published at Maven Central
+Counted 7352 Java modules published at Maven Central
 
-## Summary 2020-08-03T02:03:54.238204Z
+## Summary 2020-08-04T02:03:52.230044Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-03T02:03:54.238204Z
-Scanned 58,096 files in 7 seconds.
+Started scan at 2020-08-04T02:03:52.230044Z
+Scanned 58,175 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_03_01_41_28.csv
+    last -> modulescanner-report-2020_08_04_01_43_42.csv
 
-Parsed 3,922,857 lines in total.
-  61,798 -> captions skipped
-  354,768 -> duplicates skipped
-  194,315 -> module related
+Parsed 3,928,261 lines in total.
+  61,877 -> captions skipped
+  355,484 -> duplicates skipped
+  194,729 -> module related
 
-Collected 7,341 unique modules.
-  automatic :cd: -> 5,232
-  explicit :dvd: -> 2,109
+Collected 7,352 unique modules.
+  automatic :cd: -> 5,235
+  explicit :dvd: -> 2,117
 
 ## Samples
             junit -> junit:junit:4.13
@@ -55,7 +55,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=447, plain=149024}` 	 4.94%
- - `2020_08={automatic=46, explicit=84, plain=5301}` 	 2.45%
+ - `2020_08={automatic=433, explicit=98, plain=9496}` 	 5.59%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,11 +118,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20642](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26896](suspicious/naming.md)
-- Modular impostors: [9541](suspicious/impostors.md)
+- Invalid module names: [20643](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26899](suspicious/naming.md)
+- Modular impostors: [9550](suspicious/impostors.md)
 
-## Unique Modules (7341)
+## Unique Modules (7352)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -437,10 +437,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.fasterxml.jackson.module:jackson-module-paranamer:2.11.2`
 - :dvd: `com.fasterxml.uuid` - `com.fasterxml.uuid:java-uuid-generator:4.0.1`
 - :dvd: `com.fazecast.jSerialComm` - `com.fazecast:jSerialComm:2.6.2`
-- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.38`
-- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.38`
-- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.38`
-- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.38`
+- :dvd: `com.formdev.flatlaf` - `com.formdev:flatlaf:0.39`
+- :dvd: `com.formdev.flatlaf.extras` - `com.formdev:flatlaf-extras:0.39`
+- :dvd: `com.formdev.flatlaf.intellijthemes` - `com.formdev:flatlaf-intellij-themes:0.39`
+- :dvd: `com.formdev.flatlaf.swingx` - `com.formdev:flatlaf-swingx:0.39`
 - :dvd: `com.github.akurilov.commons` - `com.github.akurilov:java-commons:2.3.6`
 - :dvd: `com.github.akurilov.confuse` - `com.github.akurilov:confuse:1.2.1`
 - :dvd: `com.github.akurilov.confuse.io.json` - `com.github.akurilov:confuse-io-json:1.1.0`
@@ -983,7 +983,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.rudolfschmidt.alkun` - `com.rudolfschmidt:alkun:4.0.0`
 - :dvd: `com.rudolfschmidt.http` - `com.rudolfschmidt.http:http:1.0.1`
 - :dvd: `com.samskivert.jmustache` - `com.samskivert:jmustache:1.15`
-- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.14.1`
+- :dvd: `com.sothawo.mapjfx` - `com.sothawo:mapjfx:2.15.0`
 - :dvd: `com.speedment.common.annotation` - `com.speedment.common:annotation:3.2.9`
 - :dvd: `com.speedment.common.archtest` - `com.speedment.common:archtest:3.2.9`
 - :dvd: `com.speedment.common.benchmark` - `com.speedment.common:benchmark:3.2.9`
@@ -1060,6 +1060,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
+- :dvd: `com.truthbean.logger.core` - `com.truthbean.logger:logger-core:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.jdk` - `com.truthbean.logger:jdk-adapter:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.log4j` - `com.truthbean.logger:log4j-adapter:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.log4j2` - `com.truthbean.logger:log4j2-adapter:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.log4j2.boot` - `com.truthbean.logger:log4j2-boot:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.slf4j` - `com.truthbean.logger:slf4j-adapter:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.slf4j.boot` - `com.truthbean.logger:slf4j-boot:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.stdout` - `com.truthbean.logger:stdout-adapter:0.1.0-RELEASE`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.17`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
@@ -2205,7 +2213,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.6-V21`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.7-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.5`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
