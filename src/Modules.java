@@ -341,10 +341,10 @@ public class Modules {
               sample("junit"),
               sample("org.junit.jupiter"),
               sample("org.objectweb.asm"),
-              sample("com.google.common"),
+              sample("org.lwjgl"),
               sample("org.joda.beans"),
-              sample("org.joda.collect"),
-              sample("org.joda.convert"),
+              sample("org.slf4j"),
+              sample("de.sormuras.bach"),
               "");
       var strings = new ArrayList<>(head);
       strings.add("");
