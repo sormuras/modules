@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7354 Java modules published at Maven Central
 
-## Summary 2020-08-05T02:03:59.290969Z
+## Summary 2020-08-05T13:25:32.492996Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-05T02:03:59.290969Z
-Scanned 58,250 files in 8 seconds.
+Started scan at 2020-08-05T13:25:32.492996Z
+Scanned 58,289 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_05_01_38_03.csv
+    last -> modulescanner-report-2020_08_05_13_09_41.csv
 
-Parsed 3,933,966 lines in total.
-  61,952 -> captions skipped
-  356,122 -> duplicates skipped
-  195,065 -> module related
+Parsed 3,936,077 lines in total.
+  61,991 -> captions skipped
+  356,147 -> duplicates skipped
+  195,108 -> module related
 
 Collected 7,354 unique modules.
   automatic :cd: -> 5,235
@@ -24,10 +24,10 @@ Collected 7,354 unique modules.
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0-M1
 org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
-com.google.common -> com.google.guava:guava:29.0-jre
+        org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.0
- org.joda.collect -> org.joda:joda-collect:1.0.1
- org.joda.convert -> org.joda:joda-convert:2.2.1
+        org.slf4j -> org.slf4j:slf4j-api:2.0.0-alpha1
+ de.sormuras.bach -> de.sormuras.bach:de.sormuras.bach:11.7
 
 
 ## History
@@ -55,7 +55,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=447, plain=149024}` 	 4.94%
- - `2020_08={automatic=694, explicit=117, plain=14152}` 	 5.73%
+ - `2020_08={automatic=713, explicit=126, plain=16156}` 	 5.19%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,9 +118,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20644](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26949](suspicious/naming.md)
-- Modular impostors: [9555](suspicious/impostors.md)
+- Invalid module names: [20646](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26957](suspicious/naming.md)
+- Modular impostors: [9560](suspicious/impostors.md)
 
 ## Unique Modules (7354)
 
@@ -1060,14 +1060,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.torchmind.observable` - `com.torchmind:observables:1.1.0`
 - :dvd: `com.torchmind.utility.cidr` - `com.torchmind.utility:cidr:2.1.0`
 - :dvd: `com.torchmind.utility.version` - `com.torchmind.utility:version:2.0`
-- :dvd: `com.truthbean.logger.core` - `com.truthbean.logger:logger-core:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.jdk` - `com.truthbean.logger:jdk-adapter:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.log4j` - `com.truthbean.logger:log4j-adapter:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.log4j2` - `com.truthbean.logger:log4j2-adapter:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.log4j2.boot` - `com.truthbean.logger:log4j2-boot:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.slf4j` - `com.truthbean.logger:slf4j-adapter:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.slf4j.boot` - `com.truthbean.logger:slf4j-boot:0.1.0-RELEASE`
-- :dvd: `com.truthbean.logger.stdout` - `com.truthbean.logger:stdout-adapter:0.1.0-RELEASE`
+- :dvd: `com.truthbean.logger.core` - `com.truthbean.logger:logger-core:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.jdk` - `com.truthbean.logger:jdk-adapter:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.log4j` - `com.truthbean.logger:log4j-adapter:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.log4j2` - `com.truthbean.logger:log4j2-adapter:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.log4j2.boot` - `com.truthbean.logger:log4j2-boot:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.slf4j` - `com.truthbean.logger:slf4j-adapter:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.slf4j.boot` - `com.truthbean.logger:slf4j-boot:0.1.1-RELEASE`
+- :dvd: `com.truthbean.logger.stdout` - `com.truthbean.logger:stdout-adapter:0.1.1-RELEASE`
 - :dvd: `com.volkhart.memory` - `com.volkhart.memory:measurer:0.1.1`
 - :dvd: `com.wexalian.jtrakt` - `com.wexalian.jtrakt:jtrakt:0.0.17`
 - :dvd: `com.xenoamess.cyan_potion.SDL_GameControllerDB_Util` - `com.xenoamess.cyan_potion:SDL_GameControllerDB_Util:1.6.20200618`
@@ -1109,7 +1109,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `de.powerstat.validation` - `de.powerstat.validation:validation:2.2`
 - :dvd: `de.sfuhrm.openssl4j` - `de.sfuhrm:openssl4j:0.2.0`
 - :dvd: `de.skuzzle.semantic` - `de.skuzzle:semantic-version:2.1.0`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.6`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.7`
 - :dvd: `de.sormuras.bartholdy` - `de.sormuras:bartholdy:0.2.3`
 - :dvd: `de.sormuras.javacompilerscriptengine` - `de.sormuras:java-compiler-script-engine:0.2.1`
 - :dvd: `de.sormuras.mainrunner.api` :left_right_arrow: `de.sormuras.mainrunner:de.sormuras.mainrunner.api:2.1.5`

@@ -2628,6 +2628,7 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.18` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.19` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.19,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.20` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.20,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.1.3-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-12.1.3-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -2646,6 +2647,7 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.16` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.18` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.19` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.19,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-12.2.1.4:5.0.20` // `com.oracle.bedrock.coherence,coherence-12.2.1.4,5.0.20,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.10` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.10,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.11` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.11,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.13` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.13,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -2654,6 +2656,7 @@
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.16` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.16,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.18` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.18,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.19` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.19,com.oracle.bedrock.coherence,-,automatic,-,false,-`
+- :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.20` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.20,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.5` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.5,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.6` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.6,com.oracle.bedrock.coherence,-,automatic,-,false,-`
 - :cd: `com.oracle.bedrock.coherence` - `com.oracle.bedrock.coherence:coherence-3.7.1-testing-support:5.0.7` // `com.oracle.bedrock.coherence,coherence-3.7.1-testing-support,5.0.7,com.oracle.bedrock.coherence,-,automatic,-,false,-`
@@ -6277,6 +6280,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.28.0` // `com.netflix.conductor,conductor-es6-persistence,2.28.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.28.1` // `com.netflix.conductor,conductor-es6-persistence,2.28.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.28.2` // `com.netflix.conductor,conductor-es6-persistence,2.28.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.28.3` // `com.netflix.conductor,conductor-es6-persistence,2.28.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.3.0` // `com.nimblygames.packr,packr-all,2.3.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.4.2` // `com.nimblygames.packr,packr-all,2.4.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.5.0` // `com.nimblygames.packr,packr-all,2.5.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -7695,6 +7699,7 @@
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.3.0` // `eu.xenit.care4alf,care4alf-6x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm:0.40.0` // `org.kill-bill.billing,killbill-platform-osgi-bundles-kpm,0.40.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
 - :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-logger:0.40.0` // `org.kill-bill.billing,killbill-platform-osgi-bundles-logger,0.40.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
+- :dvd: `org.joda.money` - `org.kill-bill.billing.plugin.java:avatax-plugin:0.8.0` // `org.kill-bill.billing.plugin.java,avatax-plugin,0.8.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.0` // `com.github.cukedoctor,cukedoctor-main,2.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.1` // `com.github.cukedoctor,cukedoctor-main,2.1,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:3.0` // `com.github.cukedoctor,cukedoctor-main,3.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
