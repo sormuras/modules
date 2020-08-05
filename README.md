@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7355 Java modules published at Maven Central
 
-## Summary 2020-08-05T17:00:35.463538Z
+## Summary 2020-08-05T17:19:02.785320Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-05T17:00:35.463538Z
-Scanned 58,300 files in 7 seconds.
+Started scan at 2020-08-05T17:19:02.785320Z
+Scanned 58,301 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_05_16_35_19.csv
+    last -> modulescanner-report-2020_08_05_16_53_55.csv
 
-Parsed 3,937,019 lines in total.
-  62,002 -> captions skipped
+Parsed 3,937,082 lines in total.
+  62,003 -> captions skipped
   356,243 -> duplicates skipped
-  195,146 -> module related
+  195,147 -> module related
 
 Collected 7,355 unique modules.
   automatic :cd: -> 5,235
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=447, plain=149024}` 	 4.94%
- - `2020_08={automatic=741, explicit=136, plain=16953}` 	 5.17%
+ - `2020_08={automatic=741, explicit=136, plain=17014}` 	 5.15%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -86,6 +86,8 @@ This project applies that strategy to compile a _database_ of unique module name
 ### Unique modules on Maven Central
 
 * [module-maven.properties](module-maven.properties) - Module name to Maven `${group}:${artifact}` ID database
+* :cd: [module-maven-automatic.properties](module-maven-automatic.properties) - Module name (derived from Manifest entry) to Maven `${group}:${artifact}` ID database
+* :dvd: [module-maven-explicit.properties](module-maven-explicit.properties) - Module name (compile descriptor) to Maven `${group}:${artifact}` ID database
 * [module-version.properties](module-version.properties) - Module name to current version database
 * [modules.properties](modules.properties) - Module name to CSV source line database
  
@@ -119,7 +121,7 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [20646](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26957](suspicious/naming.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26958](suspicious/naming.md)
 - Modular impostors: [9560](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
@@ -195,6 +197,14 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-M1`
 - :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.7.0-M1`
 - :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.7.0-M1`
+- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.7.0-M1`
+- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.7.0-M1`
+- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.7.0-M1`
+- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.7.0-M1`
+- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.7.0-M1`
+- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0-M1`
+- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0-M1`
+- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0-M1`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
@@ -241,26 +251,6 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0-beta`
 - :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0-beta`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
-- :dvd: `org.seleniumhq.selenium.api` - `org.seleniumhq.selenium:selenium-api:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.chrome_driver` - `org.seleniumhq.selenium:selenium-chrome-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.chromium_driver` - `org.seleniumhq.selenium:selenium-chromium-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.devtools` - `org.seleniumhq.selenium:selenium-devtools:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.edge_driver` - `org.seleniumhq.selenium:selenium-edge-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.edgehtml_driver` - `org.seleniumhq.selenium:selenium-edgehtml-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.firefox_driver` - `org.seleniumhq.selenium:selenium-firefox-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.firefox_xpi_driver` - `org.seleniumhq.selenium:selenium-firefox-xpi-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.grid` - `org.seleniumhq.selenium:selenium-grid:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.http` - `org.seleniumhq.selenium:selenium-http:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.ie_driver` - `org.seleniumhq.selenium:selenium-ie-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.java` - `org.seleniumhq.selenium:selenium-java:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.json` - `org.seleniumhq.selenium:selenium-json:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.leg_rc` - `org.seleniumhq.selenium:selenium-leg-rc:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.lift` - `org.seleniumhq.selenium:lift:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.opera_driver` - `org.seleniumhq.selenium:selenium-opera-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.remote_driver` - `org.seleniumhq.selenium:selenium-remote-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.safari_driver` - `org.seleniumhq.selenium:selenium-safari-driver:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.session_map_redis` - `org.seleniumhq.selenium:selenium-session-map-redis:4.0.0-alpha-6`
-- :dvd: `org.seleniumhq.selenium.support` - `org.seleniumhq.selenium:selenium-support:4.0.0-alpha-6`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`
 - :dvd: `org.slf4j.nop` - `org.slf4j:slf4j-nop:2.0.0-alpha1`
