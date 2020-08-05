@@ -157,6 +157,27 @@ public class Modules {
 
   static class Module implements Comparable<Module> {
 
+    static final Set<String> HIGHLIGHT_GROUPS =
+        Set.of(
+            "de.sormuras.bach",
+            "junit",
+            "org.junit.jupiter",
+            "com.github.almasb",
+            "com.gluonhq",
+            "com.sun.xml.bind",
+            "com.sun.xml.ws",
+            "eu.hansolo",
+            "info.picocli",
+            "io.github.classgraph",
+            "net.bytebuddy",
+            "org.assertj",
+            "org.joda",
+            "org.jooq",
+            "org.lwjgl",
+            "org.ow2.asm",
+            "org.seleniumhq.selenium",
+            "org.slf4j");
+
     final String line;
 
     final String mavenGroupId;
@@ -223,6 +244,10 @@ public class Modules {
 
     boolean isExplicit() {
       return "explicit".equals(moduleMode);
+    }
+
+    boolean isHighlight() {
+      return isExplicit() && HIGHLIGHT_GROUPS.contains(mavenGroupId);
     }
 
     String name() {
@@ -383,12 +408,12 @@ public class Modules {
               + "](suspicious/naming.md)");
       md.add("- Modular impostors: [" + suspiciousImpostors.size() + "](suspicious/impostors.md)");
       md.add("");
-      md.add("## Unique Modules (" + modules.size() + ")");
+      md.add("## Explicit Unique Modules Highlights");
       md.add("");
       md.add("Module names listed in this section are unique and well-formed.");
       md.add("Include them in your `module-info.java` module descriptors.");
       md.add("");
-      modules.values().stream().filter(Module::isExplicit).forEach(it -> md.add(it.toMarkdown()));
+      modules.values().stream().filter(Module::isHighlight).forEach(it -> md.add(it.toMarkdown()));
       return md;
     }
 
