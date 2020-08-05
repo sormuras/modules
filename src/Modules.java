@@ -162,6 +162,7 @@ public class Modules {
             "de.sormuras.bach",
             "junit",
             "org.junit.jupiter",
+            "org.junit.platform",
             "com.github.almasb",
             "com.gluonhq",
             "com.sun.xml.bind",
@@ -175,7 +176,6 @@ public class Modules {
             "org.jooq",
             "org.lwjgl",
             "org.ow2.asm",
-            "org.seleniumhq.selenium",
             "org.slf4j");
 
     final String line;
@@ -435,14 +435,21 @@ public class Modules {
       // to properties files...
       var nameToLineList = new ArrayList<String>();
       var nameToMavenList = new ArrayList<String>();
+      var nameToMavenAutomaticList = new ArrayList<String>();
+      var nameToMavenExplicitList = new ArrayList<String>();
       var nameToVersionList = new ArrayList<String>();
       for (var item : modules.values()) {
         nameToLineList.add(item.moduleName + '=' + item.line);
-        nameToMavenList.add(item.moduleName + '=' + item.mavenGroupColonArtifact);
+        var maven = item.moduleName + '=' + item.mavenGroupColonArtifact;
+        nameToMavenList.add(maven);
+        if (item.isAutomatic()) nameToMavenAutomaticList.add(maven);
+        if (item.isExplicit()) nameToMavenExplicitList.add(maven);
         nameToVersionList.add(item.moduleName + '=' + item.mavenVersion);
       }
       Files.write(Path.of("modules.properties"), nameToLineList);
       Files.write(Path.of("module-maven.properties"), nameToMavenList);
+      Files.write(Path.of("module-maven-automatic.properties"), nameToMavenAutomaticList);
+      Files.write(Path.of("module-maven-explicit.properties"), nameToMavenExplicitList);
       Files.write(Path.of("module-version.properties"), nameToVersionList);
 
       // to suspicious files...

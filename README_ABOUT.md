@@ -26,6 +26,8 @@ This project applies that strategy to compile a _database_ of unique module name
 ### Unique modules on Maven Central
 
 * [module-maven.properties](module-maven.properties) - Module name to Maven `${group}:${artifact}` ID database
+* :cd: [module-maven-automatic.properties](module-maven-automatic.properties) - Module name (derived from Manifest entry) to Maven `${group}:${artifact}` ID database
+* :dvd: [module-maven-explicit.properties](module-maven-explicit.properties) - Module name (compile descriptor) to Maven `${group}:${artifact}` ID database
 * [module-version.properties](module-version.properties) - Module name to current version database
 * [modules.properties](modules.properties) - Module name to CSV source line database
  
