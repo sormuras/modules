@@ -362,6 +362,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.0` // `com.snowflake,snowflake-kafka-connector,1.4.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.1` // `com.snowflake,snowflake-kafka-connector,1.4.1,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.2` // `com.snowflake,snowflake-kafka-connector,1.4.2,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.3` // `com.snowflake,snowflake-kafka-connector,1.4.3,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.33` // `de.charite.compbio,jannovar-cli,0.33,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.34` // `de.charite.compbio,jannovar-cli,0.34,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.35` // `de.charite.compbio,jannovar-cli,0.35,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
@@ -6157,6 +6158,7 @@
 - :dvd: `org.apache.logging.log4j` - `au.org.consumerdatastandards:codegen:1.0.0-RC5` // `au.org.consumerdatastandards,codegen,1.0.0-RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `au.org.consumerdatastandards:codegen:1.0.0-RC6` // `au.org.consumerdatastandards,codegen,1.0.0-RC6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `au.org.consumerdatastandards:codegen:1.1.1` // `au.org.consumerdatastandards,codegen,1.1.1,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.alibaba.ververica:flink-connector-test-util:1.0.0` // `com.alibaba.ververica,flink-connector-test-util,1.0.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ardikars.jxnet:jxnet-example:1.5.5.RC5` // `com.ardikars.jxnet,jxnet-example,1.5.5.RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.arpitos:artos:0.0.1` // `com.arpitos,artos,0.0.1,org.apache.logging.log4j,-,explicit,java.base,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :dvd: `org.apache.logging.log4j` - `com.criteo.java:garmadon-readers-elasticsearch:0.0.1` // `com.criteo.java,garmadon-readers-elasticsearch,0.0.1,org.apache.logging.log4j,-,explicit,java.base,false,java.awt.peer.ComponentPeer              Should not use. See https://bugs.openjdk.java.net/browse/JDK-8037739 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260 + sun.reflect.Reflection                   Use java.lang.StackWalker @since 9`
@@ -8463,10 +8465,12 @@
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.0.Final` // `io.quarkus,quarkus-cli,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.1.Final` // `io.quarkus,quarkus-cli,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR1` // `io.quarkus,quarkus-cli,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR2` // `io.quarkus,quarkus-cli,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.5.2.Final` // `io.quarkus,quarkus-ide-launcher,1.5.2.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.0.Final` // `io.quarkus,quarkus-ide-launcher,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.1.Final` // `io.quarkus,quarkus-ide-launcher,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR1` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR2` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.2.0` // `net.onedaybeard.graftt,agent,0.2.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
@@ -8670,6 +8674,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.122` // `com.rookout,rook,0.1.122,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.123` // `com.rookout,rook,0.1.123,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.124` // `com.rookout,rook,0.1.124,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.125` // `com.rookout,rook,0.1.125,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`

@@ -19682,6 +19682,7 @@
 - :cd: `outlook-message-parser` :left_right_arrow: `org.simplejavamail:outlook-message-parser:1.7.5` // `org.simplejavamail,outlook-message-parser,1.7.5,outlook-message-parser,-,automatic,-,false,-`
 - :cd: `outlook-message-parser` :left_right_arrow: `org.simplejavamail:outlook-message-parser:1.7.6` // `org.simplejavamail,outlook-message-parser,1.7.6,outlook-message-parser,-,automatic,-,false,-`
 - :cd: `outlook-message-parser` :left_right_arrow: `org.simplejavamail:outlook-message-parser:1.7.7` // `org.simplejavamail,outlook-message-parser,1.7.7,outlook-message-parser,-,automatic,-,false,-`
+- :cd: `outlook-message-parser` :left_right_arrow: `org.simplejavamail:outlook-message-parser:1.7.8` // `org.simplejavamail,outlook-message-parser,1.7.8,outlook-message-parser,-,automatic,-,false,-`
 - :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0` // `org.simplejavamail,outlook-module,6.0.0,outlook-module,-,automatic,-,false,-`
 - :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0-rc1` // `org.simplejavamail,outlook-module,6.0.0-rc1,outlook-module,-,automatic,-,false,-`
 - :cd: `outlook-module` :left_right_arrow: `org.simplejavamail:outlook-module:6.0.0-rc2` // `org.simplejavamail,outlook-module,6.0.0-rc2,outlook-module,-,automatic,-,false,-`

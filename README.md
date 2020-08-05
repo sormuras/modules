@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7352 Java modules published at Maven Central
+Counted 7354 Java modules published at Maven Central
 
-## Summary 2020-08-04T02:03:52.230044Z
+## Summary 2020-08-05T02:03:59.290969Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-04T02:03:52.230044Z
-Scanned 58,175 files in 8 seconds.
+Started scan at 2020-08-05T02:03:59.290969Z
+Scanned 58,250 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_04_01_43_42.csv
+    last -> modulescanner-report-2020_08_05_01_38_03.csv
 
-Parsed 3,928,261 lines in total.
-  61,877 -> captions skipped
-  355,484 -> duplicates skipped
-  194,729 -> module related
+Parsed 3,933,966 lines in total.
+  61,952 -> captions skipped
+  356,122 -> duplicates skipped
+  195,065 -> module related
 
-Collected 7,352 unique modules.
+Collected 7,354 unique modules.
   automatic :cd: -> 5,235
-  explicit :dvd: -> 2,117
+  explicit :dvd: -> 2,119
 
 ## Samples
             junit -> junit:junit:4.13
@@ -55,7 +55,7 @@ com.google.common -> com.google.guava:guava:29.0-jre
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=447, plain=149024}` 	 4.94%
- - `2020_08={automatic=433, explicit=98, plain=9496}` 	 5.59%
+ - `2020_08={automatic=694, explicit=117, plain=14152}` 	 5.73%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -118,11 +118,11 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [20643](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26899](suspicious/naming.md)
-- Modular impostors: [9550](suspicious/impostors.md)
+- Invalid module names: [20644](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [26949](suspicious/naming.md)
+- Modular impostors: [9555](suspicious/impostors.md)
 
-## Unique Modules (7352)
+## Unique Modules (7354)
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
@@ -2007,8 +2007,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.content.smile` - `org.xbib:content-smile:2.3.1`
 - :dvd: `org.xbib.content.xml` - `org.xbib:content-xml:2.3.1`
 - :dvd: `org.xbib.content.yaml` - `org.xbib:content-yaml:2.3.1`
-- :dvd: `org.xbib.cql` - `org.xbib:cql-common:3.0.1`
-- :dvd: `org.xbib.cql.elasticsearch` - `org.xbib:cql-elasticsearch:3.0.1`
+- :dvd: `org.xbib.cql` - `org.xbib:cql-common:3.0.2`
+- :dvd: `org.xbib.cql.elasticsearch` - `org.xbib:cql-elasticsearch:3.0.2`
 - :dvd: `org.xbib.elasticsearch.ant` - `org.xbib.elasticsearch:ant:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.classloader` - `org.xbib.elasticsearch:classloader:6.3.2.1`
 - :dvd: `org.xbib.elasticsearch.guava` - `org.xbib.elasticsearch:guava:6.3.2.1`
@@ -2075,25 +2075,27 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.xbib.metrics.common` - `org.xbib:metrics-common:2.1.0`
 - :dvd: `org.xbib.net.http` - `org.xbib:net-http:2.1.0`
 - :dvd: `org.xbib.net.url` - `org.xbib:net-url:2.1.0`
-- :dvd: `org.xbib.netty.http.bouncycastle` - `org.xbib:netty-http-bouncycastle:4.1.51.2`
-- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.51.2`
-- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.51.2`
-- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.51.2`
-- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.51.2`
-- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.51.2`
-- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.51.2`
-- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.51.2`
-- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.51.2`
-- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.51.2`
+- :dvd: `org.xbib.netty.http.bouncycastle` - `org.xbib:netty-http-bouncycastle:4.1.51.3`
+- :dvd: `org.xbib.netty.http.client` - `org.xbib:netty-http-client:4.1.51.3`
+- :dvd: `org.xbib.netty.http.client.api` - `org.xbib:netty-http-client-api:4.1.51.3`
+- :dvd: `org.xbib.netty.http.client.rest` - `org.xbib:netty-http-client-rest:4.1.51.3`
+- :dvd: `org.xbib.netty.http.common` - `org.xbib:netty-http-common:4.1.51.3`
+- :dvd: `org.xbib.netty.http.epoll` - `org.xbib:netty-http-epoll:4.1.51.3`
+- :dvd: `org.xbib.netty.http.kqueue` - `org.xbib:netty-http-kqueue:4.1.51.3`
+- :dvd: `org.xbib.netty.http.server` - `org.xbib:netty-http-server:4.1.51.3`
+- :dvd: `org.xbib.netty.http.server.api` - `org.xbib:netty-http-server-api:4.1.51.3`
+- :dvd: `org.xbib.netty.http.server.rest` - `org.xbib:netty-http-server-rest:4.1.51.3`
 - :dvd: `org.xbib.oai` - `org.xbib:oai-common:2.3.0`
 - :dvd: `org.xbib.oai.client` - `org.xbib:oai-client:2.3.0`
 - :dvd: `org.xbib.rpm` - `org.xbib:rpm-core:2.0.0`
 - :dvd: `org.xbib.time` - `org.xbib:time:2.1.0`
-- :dvd: `org.xbib.z3950lib.api` - `org.xbib:z3950-api:2.1.0`
-- :dvd: `org.xbib.z3950lib.asn` - `org.xbib:z3950-asn1:2.1.0`
+- :dvd: `org.xbib.z3950lib.api` - `org.xbib:z3950-api:2.2.1`
+- :dvd: `org.xbib.z3950lib.asn` - `org.xbib:z3950-asn1:2.2.1`
 - :dvd: `org.xbib.z3950lib.client` - `org.xbib:z3950-client:2.1.0`
-- :dvd: `org.xbib.z3950lib.client.netty` - `org.xbib:z3950-client-netty:2.1.0`
-- :dvd: `org.xbib.z3950lib.common` - `org.xbib:z3950-common:2.1.0`
+- :dvd: `org.xbib.z3950lib.client.api` - `org.xbib:z3950-client-api:2.2.1`
+- :dvd: `org.xbib.z3950lib.client.jdk` - `org.xbib:z3950-client-jdk:2.2.1`
+- :dvd: `org.xbib.z3950lib.client.netty` - `org.xbib:z3950-client-netty:2.2.1`
+- :dvd: `org.xbib.z3950lib.common` - `org.xbib:z3950-common:2.2.1`
 - :dvd: `pl.tlinkowski.annotation.basic` - `pl.tlinkowski.annotation:basic-annotations:0.1.0`
 - :dvd: `pl.tlinkowski.gradle.my.settings` - `pl.tlinkowski.gradle.my:my-settings-gradle-plugin:0.1.4`
 - :dvd: `pl.tlinkowski.unij.api` :left_right_arrow: `pl.tlinkowski.unij:pl.tlinkowski.unij.api:0.1.1`
@@ -2213,7 +2215,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `uk.gov.dstl.geo.osgb` - `uk.gov.dstl.geo:osgb:1.0.1`
 - :dvd: `uk.gov.nca.remedi4j` - `uk.gov.nca:remedi4j:1.1`
 - :dvd: `uk.oczadly.karl.csgogsi` - `uk.oczadly.karl:csgo-gsi:1.3.5`
-- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.7-V21`
+- :dvd: `uk.oczadly.karl.jnano` - `uk.oczadly.karl:jnano:2.5.8-V21`
 - :dvd: `uk.offtopica.monerocore` - `uk.offtopica:monerocore:0.1.0`
 - :dvd: `uk.offtopica.monerorpc` - `uk.offtopica:monerorpc:0.2.5`
 - :dvd: `us.hebi.glue` - `us.hebi.glue:glue:1.1`
