@@ -11,11 +11,13 @@
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:0.4.3` // `ch.megard,akka-http-cors_2.12,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.0.0` // `ch.megard,akka-http-cors_2.12,1.0.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.0.0-RC1` // `ch.megard,akka-http-cors_2.12,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.1.0` // `ch.megard,akka-http-cors_2.12,1.1.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.1` // `ch.megard,akka-http-cors_2.13,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.2` // `ch.megard,akka-http-cors_2.13,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.3` // `ch.megard,akka-http-cors_2.13,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.0.0` // `ch.megard,akka-http-cors_2.13,1.0.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.0.0-RC1` // `ch.megard,akka-http-cors_2.13,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.1.0` // `ch.megard,akka-http-cors_2.13,1.1.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M3:0.3.1` // `ch.megard,akka-http-cors_2.13.0-M3,0.3.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.3.4` // `ch.megard,akka-http-cors_2.13.0-M5,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
@@ -6691,6 +6693,8 @@
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.1` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.1,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.2` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.2,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.3` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.3,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
+- :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.102` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.102,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
+- :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.103` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.103,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.46` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.46,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.47` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.47,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.48` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.48,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
@@ -6874,6 +6878,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.261.8` // `com.yahoo.vespa,vespa-hadoop,7.261.8,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.263.4` // `com.yahoo.vespa,vespa-hadoop,7.263.4,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.264.3` // `com.yahoo.vespa,vespa-hadoop,7.264.3,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.265.10` // `com.yahoo.vespa,vespa-hadoop,7.265.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
