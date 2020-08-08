@@ -2964,6 +2964,7 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.0.1` // `io.cucumber,gherkin,14.0.1,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.1.0` // `io.cucumber,gherkin,14.1.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.2.0` // `io.cucumber,gherkin,14.2.0,io.cucumber.gherkin,-,automatic,-,false,-`
+- :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:15.0.0` // `io.cucumber,gherkin,15.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -6392,6 +6393,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.132` // `io.nosqlbench,driver-cql-shaded,3.12.132,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.133` // `io.nosqlbench,driver-cql-shaded,3.12.133,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.134` // `io.nosqlbench,driver-cql-shaded,3.12.134,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.135` // `io.nosqlbench,driver-cql-shaded,3.12.135,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -8491,11 +8493,13 @@
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.6.1.Final` // `io.quarkus,quarkus-cli,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR1` // `io.quarkus,quarkus-cli,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR2` // `io.quarkus,quarkus-cli,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.Final` // `io.quarkus,quarkus-cli,1.7.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.5.2.Final` // `io.quarkus,quarkus-ide-launcher,1.5.2.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.0.Final` // `io.quarkus,quarkus-ide-launcher,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.1.Final` // `io.quarkus,quarkus-ide-launcher,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR1` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR2` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.Final` // `io.quarkus,quarkus-ide-launcher,1.7.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.2.0` // `net.onedaybeard.graftt,agent,0.2.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
@@ -8657,6 +8661,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.53.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.53.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.54.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.54.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.55.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.55.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.56.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.56.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
