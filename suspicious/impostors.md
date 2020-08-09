@@ -2956,6 +2956,7 @@
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.2.1` // `io.cucumber,datatable,3.2.1,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.0` // `io.cucumber,datatable,3.3.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.1` // `io.cucumber,datatable,3.3.1,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.4.0` // `io.cucumber,datatable,3.4.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:10.0.0` // `io.cucumber,gherkin,10.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:11.0.0` // `io.cucumber,gherkin,11.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:12.0.0` // `io.cucumber,gherkin,12.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
