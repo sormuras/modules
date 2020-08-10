@@ -9629,6 +9629,7 @@
 - :cd: `au.com.dius.pact.consumer.specs2_2.13` - `au.com.dius.pact.consumer:specs2_2.13:4.1.4` // `au.com.dius.pact.consumer,specs2_2.13,4.1.4,au.com.dius.pact.consumer.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.consumer.specs2_2.13` - `au.com.dius.pact.consumer:specs2_2.13:4.1.5` // `au.com.dius.pact.consumer,specs2_2.13,4.1.5,au.com.dius.pact.consumer.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.consumer.specs2_2.13` - `au.com.dius.pact.consumer:specs2_2.13:4.1.6` // `au.com.dius.pact.consumer,specs2_2.13,4.1.6,au.com.dius.pact.consumer.specs2_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.consumer.specs2_2.13` - `au.com.dius.pact.consumer:specs2_2.13:4.1.7` // `au.com.dius.pact.consumer,specs2_2.13,4.1.7,au.com.dius.pact.consumer.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.0` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.0,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.1` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.1,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.2` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.2,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
@@ -9636,6 +9637,7 @@
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.4` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.4,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.5` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.5,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.6` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.6,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.scalasupport_2.13` - `au.com.dius.pact.provider:scalasupport_2.13:4.1.7` // `au.com.dius.pact.provider,scalasupport_2.13,4.1.7,au.com.dius.pact.provider.scalasupport_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.0` // `au.com.dius.pact.provider,scalatest_2.13,4.1.0,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.1` // `au.com.dius.pact.provider,scalatest_2.13,4.1.1,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.2` // `au.com.dius.pact.provider,scalatest_2.13,4.1.2,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
@@ -9643,6 +9645,7 @@
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.4` // `au.com.dius.pact.provider,scalatest_2.13,4.1.4,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.5` // `au.com.dius.pact.provider,scalatest_2.13,4.1.5,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.6` // `au.com.dius.pact.provider,scalatest_2.13,4.1.6,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.scalatest_2.13` - `au.com.dius.pact.provider:scalatest_2.13:4.1.7` // `au.com.dius.pact.provider,scalatest_2.13,4.1.7,au.com.dius.pact.provider.scalatest_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.0` // `au.com.dius.pact.provider,specs2_2.13,4.1.0,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.1` // `au.com.dius.pact.provider,specs2_2.13,4.1.1,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.2` // `au.com.dius.pact.provider,specs2_2.13,4.1.2,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
@@ -9650,6 +9653,7 @@
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.4` // `au.com.dius.pact.provider,specs2_2.13,4.1.4,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.5` // `au.com.dius.pact.provider,specs2_2.13,4.1.5,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.6` // `au.com.dius.pact.provider,specs2_2.13,4.1.6,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
+- :cd: `au.com.dius.pact.provider.specs2_2.13` - `au.com.dius.pact.provider:specs2_2.13:4.1.7` // `au.com.dius.pact.provider,specs2_2.13,4.1.7,au.com.dius.pact.provider.specs2_2.13,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_consumer_specs2_2.12` - `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.10` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.10,au.com.dius.pact_jvm_consumer_specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_consumer_specs2_2.12` - `au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.9` // `au.com.dius,pact-jvm-consumer-specs2_2.12,4.0.9,au.com.dius.pact_jvm_consumer_specs2_2.12,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact_jvm_provider_scalasupport_2.12` - `au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.10` // `au.com.dius,pact-jvm-provider-scalasupport_2.12,4.0.10,au.com.dius.pact_jvm_provider_scalasupport_2.12,-,automatic,-,false,-`
