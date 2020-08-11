@@ -5851,6 +5851,7 @@
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.6.RELEASE` // `io.projectreactor,reactor-tools,3.3.6.RELEASE,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.7.RELEASE` // `io.projectreactor,reactor-tools,3.3.7.RELEASE,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.8.RELEASE` // `io.projectreactor,reactor-tools,3.3.8.RELEASE,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.9.RELEASE` // `io.projectreactor,reactor-tools,3.3.9.RELEASE,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:4.0` // `net.corda,corda-tools-explorer,4.0,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -6279,6 +6280,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.2-2` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.2-2,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.3` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.3,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.4` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.4,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.5` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.5,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.khubla.olmreader:olmreader:1.8.0` // `com.khubla.olmreader,olmreader,1.8.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.10` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.10,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.12` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.12,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -6402,6 +6404,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.133` // `io.nosqlbench,driver-cql-shaded,3.12.133,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.134` // `io.nosqlbench,driver-cql-shaded,3.12.134,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.135` // `io.nosqlbench,driver-cql-shaded,3.12.135,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.136` // `io.nosqlbench,driver-cql-shaded,3.12.136,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6703,6 +6706,7 @@
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.1` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.1,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.2` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.2,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.3` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.3,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
+- :dvd: `org.apiguardian.api` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56:2.0.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit56,2.0.0,org.apiguardian.api,1.1.0,explicit,java.base,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.102` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.102,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.103` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.103,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.46` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.46,org.assertj.core,3.13.1,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
@@ -6889,6 +6893,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.263.4` // `com.yahoo.vespa,vespa-hadoop,7.263.4,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.264.3` // `com.yahoo.vespa,vespa-hadoop,7.264.3,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.265.10` // `com.yahoo.vespa,vespa-hadoop,7.265.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.266.25` // `com.yahoo.vespa,vespa-hadoop,7.266.25,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7783,6 +7788,7 @@
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.1` // `org.junit.platform,junit-platform-console-standalone,1.5.1,org.junit.platform.console,1.5.1,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console-standalone:1.5.2` // `org.junit.platform,junit-platform-console-standalone,1.5.2,org.junit.platform.console,1.5.2,explicit,java.base + org.apiguardian.api + org.junit.platform.reporting,false,-`
 - :dvd: `org.junit.vintage.engine` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55:1.7.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit55,1.7.0,org.junit.vintage.engine,5.5.1,explicit,java.base + junit + org.apiguardian.api + org.junit.platform.engine,false,-`
+- :dvd: `org.junit.vintage.engine` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55:2.0.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit55,2.0.0,org.junit.vintage.engine,5.5.1,explicit,java.base + junit + org.apiguardian.api + org.junit.platform.engine,false,-`
 - :dvd: `org.junit.vintage.engine` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56:1.7.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit56,1.7.0,org.junit.vintage.engine,5.6.0,explicit,java.base + junit + org.apiguardian.api + org.junit.platform.engine,false,-`
 - :dvd: `org.jvnet.mimepull` - `de.dfki.cos.basys.platform.wrapper-bundle-settings:jersey-bundle:0.2.6` // `de.dfki.cos.basys.platform.wrapper-bundle-settings,jersey-bundle,0.2.6,org.jvnet.mimepull,-,explicit,java.base + java.logging,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.11.0.Final` // `org.jbpm.contrib,karaf-itests,7.11.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
@@ -9594,3 +9600,4 @@
 - :dvd: `tech.pantheon.triemap` - `org.opendaylight.aaa:aaa-cli-jar:0.10.2` // `org.opendaylight.aaa,aaa-cli-jar,0.10.2,tech.pantheon.triemap,-,explicit,java.base,false,-`
 - :dvd: `tech.pantheon.triemap` - `org.opendaylight.aaa:aaa-cli-jar:0.11.0` // `org.opendaylight.aaa,aaa-cli-jar,0.11.0,tech.pantheon.triemap,-,explicit,java.base,false,-`
 - :dvd: `tech.pantheon.triemap` - `org.opendaylight.aaa:aaa-cli-jar:0.11.1` // `org.opendaylight.aaa,aaa-cli-jar,0.11.1,tech.pantheon.triemap,-,explicit,java.base,false,-`
+- :dvd: `tech.pantheon.triemap` - `org.opendaylight.aaa:aaa-cli-jar:0.11.2` // `org.opendaylight.aaa,aaa-cli-jar,0.11.2,tech.pantheon.triemap,-,explicit,java.base,false,-`
