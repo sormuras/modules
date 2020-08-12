@@ -325,6 +325,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-standalone:3.0.1` // `com.heroku.sdk,heroku-deploy-standalone,3.0.1,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-standalone:3.0.2` // `com.heroku.sdk,heroku-deploy-standalone,3.0.2,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-standalone:3.0.3` // `com.heroku.sdk,heroku-deploy-standalone,3.0.3,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-standalone:3.0.4` // `com.heroku.sdk,heroku-deploy-standalone,3.0.4,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.hortonworks.registries:schema-registry-core:0.9.0` // `com.hortonworks.registries,schema-registry-core,0.9.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.hortonworks.registries:storage-tool:0.9.0` // `com.hortonworks.registries,storage-tool,0.9.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.jwebmp.jackson.core:jackson-core:0.63.0.54` // `com.jwebmp.jackson.core,jackson-core,0.63.0.54,com.fasterxml.jackson.core,0.63.0.54,explicit,java.base,false,-`
@@ -393,6 +394,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.5.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.5.1,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.0,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.1,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.2` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.2,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.0` // `za.co.absa.spline,admin,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.1` // `za.co.absa.spline,admin,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.2` // `za.co.absa.spline,admin,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -528,6 +530,7 @@
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.22.0` // `org.apache.beam,beam-runners-spark-job-server,2.22.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.23.0` // `org.apache.beam,beam-runners-spark-job-server,2.23.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-docbook-xslt:1.1.1` // `com.github.albfernandez.seam,seam-docbook-xslt,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
+- :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-jdocbook-style:1.1.1` // `com.github.albfernandez.seam,seam-jdocbook-style,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:java2db:2.3.3` // `com.github.collinalpert,java2db,2.3.3,com.github.collinalpert.lambda2sql,-,explicit,jaque + java.base,true,-`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:java2db:2.3.4` // `com.github.collinalpert,java2db,2.3.4,com.github.collinalpert.lambda2sql,-,explicit,jaque + java.base,true,-`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc.pouch:core:2.1` // `com.github.cowwoc.pouch,core,2.1,com.github.cowwoc.pouch.core,2.1,explicit,java.base + org.slf4j,false,-`
@@ -6405,6 +6408,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.134` // `io.nosqlbench,driver-cql-shaded,3.12.134,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.135` // `io.nosqlbench,driver-cql-shaded,3.12.135,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.136` // `io.nosqlbench,driver-cql-shaded,3.12.136,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.137` // `io.nosqlbench,driver-cql-shaded,3.12.137,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.138` // `io.nosqlbench,driver-cql-shaded,3.12.138,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -8719,6 +8724,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.123` // `com.rookout,rook,0.1.123,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.124` // `com.rookout,rook,0.1.124,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.125` // `com.rookout,rook,0.1.125,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.126` // `com.rookout,rook,0.1.126,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
