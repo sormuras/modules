@@ -17863,6 +17863,7 @@
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.19.0` // `com.synopsys.integration,polaris-common,0.19.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.19.1` // `com.synopsys.integration,polaris-common,0.19.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.20.0` // `com.synopsys.integration,polaris-common,0.20.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.21.0` // `com.synopsys.integration,polaris-common,0.21.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.8.0` // `com.synopsys.integration,polaris-common,0.8.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.0` // `com.synopsys.integration,polaris-common,0.9.0,com.synopsys.integration.polaris-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.polaris-common` - `com.synopsys.integration:polaris-common:0.9.1` // `com.synopsys.integration,polaris-common,0.9.1,com.synopsys.integration.polaris-common,-,automatic,-,false,-`

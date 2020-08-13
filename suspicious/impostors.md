@@ -44,6 +44,7 @@
 - :dvd: `co.paralleluniverse.quasar.core` - `com.hiddenswitch:spellsource-net:0.8.20` // `com.hiddenswitch,spellsource-net,0.8.20,co.paralleluniverse.quasar.core,-,explicit,com.google.common + java.base + java.instrument + java.management + jdk.unsupported + kryo,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.0.1` // `com.azure,azure-security-keyvault-keys,4.0.1,com.azure.security.keyvault.keys,4.0.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.1.0` // `com.azure,azure-security-keyvault-keys,4.1.0,com.azure.security.keyvault.keys,4.1.0,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
+- :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0` // `com.azure,azure-security-keyvault-keys,4.2.0,com.azure.security.keyvault.keys,4.2.0,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.1` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.1,com.azure.security.keyvault.keys,4.2.0-beta.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.2` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.2,com.azure.security.keyvault.keys,4.2.0-beta.2,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.3` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.3,com.azure.security.keyvault.keys,4.2.0-beta.3,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
@@ -51,6 +52,7 @@
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.5` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.5,com.azure.security.keyvault.keys,4.2.0-beta.5,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.0.1` // `com.azure,azure-security-keyvault-secrets,4.0.1,com.azure.security.keyvault.secrets,4.0.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.1.0` // `com.azure,azure-security-keyvault-secrets,4.1.0,com.azure.security.keyvault.secrets,4.1.0,explicit,com.azure.core + java.base,false,-`
+- :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0` // `com.azure,azure-security-keyvault-secrets,4.2.0,com.azure.security.keyvault.secrets,4.2.0,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.1` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.1,com.azure.security.keyvault.secrets,4.2.0-beta.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.2` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.2,com.azure.security.keyvault.secrets,4.2.0-beta.2,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.3` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.3,com.azure.security.keyvault.secrets,4.2.0-beta.3,explicit,com.azure.core + java.base,false,-`
@@ -2979,6 +2981,7 @@
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.1.0` // `io.cucumber,gherkin,14.1.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:14.2.0` // `io.cucumber,gherkin,14.2.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:15.0.0` // `io.cucumber,gherkin,15.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
+- :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:15.0.1` // `io.cucumber,gherkin,15.0.1,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.0` // `io.cucumber,gherkin,8.1.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.1.1` // `io.cucumber,gherkin,8.1.1,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:8.2.0` // `io.cucumber,gherkin,8.2.0,io.cucumber.gherkin,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -6415,6 +6418,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.136` // `io.nosqlbench,driver-cql-shaded,3.12.136,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.137` // `io.nosqlbench,driver-cql-shaded,3.12.137,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.138` // `io.nosqlbench,driver-cql-shaded,3.12.138,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.139` // `io.nosqlbench,driver-cql-shaded,3.12.139,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.140` // `io.nosqlbench,driver-cql-shaded,3.12.140,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -6906,6 +6911,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.265.10` // `com.yahoo.vespa,vespa-hadoop,7.265.10,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.266.25` // `com.yahoo.vespa,vespa-hadoop,7.266.25,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.267.11` // `com.yahoo.vespa,vespa-hadoop,7.267.11,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.268.15` // `com.yahoo.vespa,vespa-hadoop,7.268.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -9359,6 +9365,7 @@
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.0.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.0.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.1.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.1.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.2.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.2.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.3.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.3.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.1.RELEASE.patched` // `com.labun,spring-tx,5.2.1.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.3.RELEASE.patched` // `com.labun,spring-tx,5.2.3.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :dvd: `swim.api` - `org.swimos:swim-api:3.10.0` // `org.swimos,swim-api,3.10.0,swim.api,-,explicit,java.base + swim.codec + swim.concurrent + swim.dataflow + swim.http + swim.io + swim.math + swim.mqtt + swim.observable + swim.spatial + swim.streamlet + swim.structure + swim.util + swim.warp + swim.ws,false,-`
