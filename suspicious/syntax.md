@@ -1,4 +1,5 @@
 - :cd: `` - `com.arangodb:arangodb-spring-data:3.2.5` // `com.arangodb,arangodb-spring-data,3.2.5,-,-,automatic,-,false,-`
+- :cd: `` - `com.arangodb:arangodb-spring-data:3.3.0` // `com.arangodb,arangodb-spring-data,3.3.0,-,-,automatic,-,false,-`
 - :cd: `` - `com.azure:azure-core-http-okhttp:1.0.0-preview.4` // `com.azure,azure-core-http-okhttp,1.0.0-preview.4,-,-,automatic,-,false,-`
 - :cd: `` - `com.azure:azure-keyvault-certificates:4.0.0-preview.3` // `com.azure,azure-keyvault-certificates,4.0.0-preview.3,-,-,automatic,-,false,-`
 - :cd: `` - `com.azure:azure-messaging-eventhubs-checkpointstore-blob:1.0.0-preview.1` // `com.azure,azure-messaging-eventhubs-checkpointstore-blob,1.0.0-preview.1,-,-,automatic,-,false,-`
