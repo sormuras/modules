@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7372 Java modules published at Maven Central
+Counted 7373 Java modules published at Maven Central
 
-## Summary 2020-08-15T02:09:38.349797Z
+## Summary 2020-08-16T02:10:02.003206Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-15T02:09:38.349797Z
-Scanned 59,025 files in 8 seconds.
+Started scan at 2020-08-16T02:10:02.003206Z
+Scanned 59,108 files in 6 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_15_01_53_41.csv
+    last -> modulescanner-report-2020_08_16_02_00_03.csv
 
-Parsed 3,995,781 lines in total.
-  62,722 -> captions skipped
-  362,292 -> duplicates skipped
-  198,390 -> module related
+Parsed 3,999,135 lines in total.
+  62,804 -> captions skipped
+  362,343 -> duplicates skipped
+  198,419 -> module related
 
-Collected 7,372 unique modules.
+Collected 7,373 unique modules.
   automatic :cd: -> 5,245
-  explicit :dvd: -> 2,127
+  explicit :dvd: -> 2,128
 
 ## Samples
             junit -> junit:junit:4.13
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=3234, explicit=196, plain=65702}` 	 5.22%
+ - `2020_08={automatic=3235, explicit=199, plain=68894}` 	 4.98%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,8 +121,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [20811](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27385](suspicious/naming.md)
-- Modular impostors: [9650](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27405](suspicious/naming.md)
+- Modular impostors: [9655](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
