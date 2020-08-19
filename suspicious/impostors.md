@@ -314,6 +314,7 @@
 - :dvd: `com.fasterxml.classmate` - `com.guicedee.services:classmate:0.70.0.7` // `com.guicedee.services,classmate,0.70.0.7,com.fasterxml.classmate,0.70.0.7,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.classmate` - `com.guicedee.services:classmate:62` // `com.guicedee.services,classmate,62,com.fasterxml.classmate,62,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.classmate` - `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix:0.40.0` // `org.kill-bill.billing,killbill-platform-osgi-bundles-test-beatrix,0.40.0,com.fasterxml.classmate,1.5.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.classmate` - `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix:0.40.1` // `org.kill-bill.billing,killbill-platform-osgi-bundles-test-beatrix,0.40.1,com.fasterxml.classmate,1.5.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `ch.dsivd.copper:copper:1.2.0` // `ch.dsivd.copper,copper,1.2.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.daml:ledger-api-test-tool:1.3.0-snapshot.20200701.4616.0.bdbefd11` // `com.daml,ledger-api-test-tool,1.3.0-snapshot.20200701.4616.0.bdbefd11,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.daml:ledger-api-test-tool:1.3.0-snapshot.20200706.4664.0.5db06051` // `com.daml,ledger-api-test-tool,1.3.0-snapshot.20200706.4664.0.5db06051,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
@@ -375,6 +376,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.1` // `com.snowflake,snowflake-kafka-connector,1.4.1,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.2` // `com.snowflake,snowflake-kafka-connector,1.4.2,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.3` // `com.snowflake,snowflake-kafka-connector,1.4.3,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.4.4` // `com.snowflake,snowflake-kafka-connector,1.4.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.33` // `de.charite.compbio,jannovar-cli,0.33,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.34` // `de.charite.compbio,jannovar-cli,0.34,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `de.charite.compbio:jannovar-cli:0.35` // `de.charite.compbio,jannovar-cli,0.35,com.fasterxml.jackson.core,3.0.0-SNAPSHOT,explicit,java.base,false,-`
@@ -409,6 +411,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.2` // `za.co.absa.spline,rest-api-doc-generator,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.3` // `za.co.absa.spline,rest-api-doc-generator,0.5.3,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.8.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.8.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.0` // `com.hortonworks.registries,avro-examples,0.9.0,com.fasterxml.jackson.dataformat.csv,2.10.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.3.0` // `io.bdeploy,api,2.3.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.4.0` // `io.bdeploy,api,2.4.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
@@ -535,7 +538,9 @@
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.22.0` // `org.apache.beam,beam-runners-spark-job-server,2.22.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.23.0` // `org.apache.beam,beam-runners-spark-job-server,2.23.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-docbook-xslt:1.1.1` // `com.github.albfernandez.seam,seam-docbook-xslt,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
+- :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-docbook-xslt:1.2.0` // `com.github.albfernandez.seam,seam-docbook-xslt,1.2.0,com.github.albfernandez.javadbf,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-jdocbook-style:1.1.1` // `com.github.albfernandez.seam,seam-jdocbook-style,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
+- :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-jdocbook-style:1.2.0` // `com.github.albfernandez.seam,seam-jdocbook-style,1.2.0,com.github.albfernandez.javadbf,-,automatic,-,false,-`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:java2db:2.3.3` // `com.github.collinalpert,java2db,2.3.3,com.github.collinalpert.lambda2sql,-,explicit,jaque + java.base,true,-`
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:java2db:2.3.4` // `com.github.collinalpert,java2db,2.3.4,com.github.collinalpert.lambda2sql,-,explicit,jaque + java.base,true,-`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc.pouch:core:2.1` // `com.github.cowwoc.pouch,core,2.1,com.github.cowwoc.pouch.core,2.1,explicit,java.base + org.slf4j,false,-`
@@ -810,14 +815,19 @@
 - :cd: `com.helger.font.source_sans_pro` - `com.helger.font:ph-fonts-source-sans-pro:4.1.1` // `com.helger.font,ph-fonts-source-sans-pro,4.1.1,com.helger.font.source_sans_pro,-,automatic,-,false,-`
 - :cd: `com.helger.http` - `com.helger.web:ph-http:9.3.0` // `com.helger.web,ph-http,9.3.0,com.helger.http,-,automatic,-,false,-`
 - :cd: `com.helger.http` - `com.helger.web:ph-http:9.3.1` // `com.helger.web,ph-http,9.3.1,com.helger.http,-,automatic,-,false,-`
+- :cd: `com.helger.http` - `com.helger.web:ph-http:9.3.2` // `com.helger.web,ph-http,9.3.2,com.helger.http,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.0` // `com.helger.web,ph-httpclient,9.3.0,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.1` // `com.helger.web,ph-httpclient,9.3.1,com.helger.httpclient,-,automatic,-,false,-`
+- :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.2` // `com.helger.web,ph-httpclient,9.3.2,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.0` // `com.helger.web,ph-jsch,9.3.0,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.1` // `com.helger.web,ph-jsch,9.3.1,com.helger.jsch,-,automatic,-,false,-`
+- :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.2` // `com.helger.web,ph-jsch,9.3.2,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.0` // `com.helger.web,ph-mail,9.3.0,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.1` // `com.helger.web,ph-mail,9.3.1,com.helger.mail,-,automatic,-,false,-`
+- :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.2` // `com.helger.web,ph-mail,9.3.2,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.0` // `com.helger.web,ph-network,9.3.0,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.1` // `com.helger.web,ph-network,9.3.1,com.helger.network,-,automatic,-,false,-`
+- :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.2` // `com.helger.web,ph-network,9.3.2,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.0` // `com.helger,phoss-directory-businesscard,0.8.0,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.1` // `com.helger,phoss-directory-businesscard,0.8.1,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.2` // `com.helger,phoss-directory-businesscard,0.8.2,com.helger.pd.businesscard,-,automatic,-,false,-`
@@ -947,8 +957,10 @@
 - :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.5` // `com.helger.photon,ph-oton-datatables,8.2.5,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.0` // `com.helger.web,ph-servlet,9.3.0,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.1` // `com.helger.web,ph-servlet,9.3.1,com.helger.servlet,-,automatic,-,false,-`
+- :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.2` // `com.helger.web,ph-servlet,9.3.2,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.0` // `com.helger.web,ph-sitemap,9.3.0,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.1` // `com.helger.web,ph-sitemap,9.3.1,com.helger.sitemap,-,automatic,-,false,-`
+- :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.2` // `com.helger.web,ph-sitemap,9.3.2,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.0` // `com.helger.peppol,peppol-smp-client,8.1.0,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.1` // `com.helger.peppol,peppol-smp-client,8.1.1,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.2` // `com.helger.peppol,peppol-smp-client,8.1.2,com.helger.smpclient,-,automatic,-,false,-`
@@ -956,6 +968,7 @@
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.4` // `com.helger.peppol,peppol-smp-client,8.1.4,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.0` // `com.helger.web,ph-smtp,9.3.0,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.1` // `com.helger.web,ph-smtp,9.3.1,com.helger.smtp,-,automatic,-,false,-`
+- :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.2` // `com.helger.web,ph-smtp,9.3.2,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.ubl.api` - `com.helger.ubl:ph-ubl-api:6.3.0` // `com.helger.ubl,ph-ubl-api,6.3.0,com.helger.ubl.api,-,automatic,-,false,-`
 - :cd: `com.helger.ubl.testfiles` - `com.helger.ubl:ph-ubl-testfiles:6.3.0` // `com.helger.ubl,ph-ubl-testfiles,6.3.0,com.helger.ubl.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.ubl20` - `com.helger.ubl:ph-ubl20:6.3.0` // `com.helger.ubl,ph-ubl20,6.3.0,com.helger.ubl20,-,automatic,-,false,-`
@@ -970,8 +983,10 @@
 - :cd: `com.helger.ubltr` - `com.helger.ubl:ph-ubltr:6.3.0` // `com.helger.ubl,ph-ubltr,6.3.0,com.helger.ubltr,-,automatic,-,false,-`
 - :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.3.0` // `com.helger.web,ph-useragent,9.3.0,com.helger.useragent,-,automatic,-,false,-`
 - :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.3.1` // `com.helger.web,ph-useragent,9.3.1,com.helger.useragent,-,automatic,-,false,-`
+- :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.3.2` // `com.helger.web,ph-useragent,9.3.2,com.helger.useragent,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.0` // `com.helger.web,ph-web,9.3.0,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.1` // `com.helger.web,ph-web,9.3.1,com.helger.web,-,automatic,-,false,-`
+- :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.2` // `com.helger.web,ph-web,9.3.2,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.3.0` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.3.0,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp2` - `com.helger.xsd:ph-xsds-bdxr-smp2:2.3.0` // `com.helger.xsd,ph-xsds-bdxr-smp2,2.3.0,com.helger.xsds.bdxr.smp2,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.ccts.cct.schemamodule` - `com.helger.xsd:ph-xsds-ccts-cct-schemamodule:2.3.0` // `com.helger.xsd,ph-xsds-ccts-cct-schemamodule,2.3.0,com.helger.xsds.ccts.cct.schemamodule,-,automatic,-,false,-`
@@ -986,6 +1001,7 @@
 - :cd: `com.helger.xsds.xmlenc11` - `com.helger.xsd:ph-xsds-xmlenc11:2.3.0` // `com.helger.xsd,ph-xsds-xmlenc11,2.3.0,com.helger.xsds.xmlenc11,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.0` // `com.helger.web,ph-xservlet,9.3.0,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.1` // `com.helger.web,ph-xservlet,9.3.1,com.helger.xservlet,-,automatic,-,false,-`
+- :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.2` // `com.helger.web,ph-xservlet,9.3.2,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0-rc1` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0-rc1,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0-rc2` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0-rc2,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
@@ -2731,6 +2747,7 @@
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.17` // `com.expedia.www,haystack-agent,0.1.17,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.8` // `com.expedia.www,haystack-agent,0.1.8,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.9` // `com.expedia.www,haystack-agent,0.1.9,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
+- :dvd: `com.sun.xml.fastinfoset` - `org.realityforge.keycloak.converger:keycloak-converger:1.9` // `org.realityforge.keycloak.converger,keycloak-converger,1.9,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:jaxws-rt:2.3.3-b01` // `com.sun.xml.ws,jaxws-rt,2.3.3-b01,com.sun.xml.ws,2.3.3-b01,explicit,com.sun.xml.bind + com.sun.xml.fastinfoset + com.sun.xml.streambuffer + com.sun.xml.ws.policy + jakarta.activation + java.annotation + java.base + java.desktop + java.jws + java.logging + java.management + java.servlet + java.xml + java.xml.bind + java.xml.soap + java.xml.ws + jdk.httpserver + org.jvnet.mimepull + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:jaxws-rt:3.0.0-M1` // `com.sun.xml.ws,jaxws-rt,3.0.0-M1,com.sun.xml.ws,3.0.0-M1,explicit,com.sun.xml.bind + com.sun.xml.fastinfoset + com.sun.xml.streambuffer + jakarta.activation + jakarta.annotation + jakarta.jws + jakarta.xml.bind + jakarta.xml.soap + jakarta.xml.ws + java.base + java.desktop + java.logging + java.management + java.servlet + java.xml + jdk.httpserver + org.jvnet.mimepull + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:jaxws-rt:3.0.0-M2` // `com.sun.xml.ws,jaxws-rt,3.0.0-M2,com.sun.xml.ws,3.0.0-M2,explicit,com.sun.xml.bind + com.sun.xml.fastinfoset + com.sun.xml.streambuffer + jakarta.activation + jakarta.annotation + jakarta.jws + jakarta.xml.bind + jakarta.xml.soap + jakarta.xml.ws + java.base + java.desktop + java.logging + java.management + java.servlet + java.xml + jdk.httpserver + org.jvnet.mimepull + org.jvnet.staxex,false,-`
@@ -2840,6 +2857,7 @@
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.3` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.3,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
+- :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.0.1` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.0.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.sonatype.nexus:nexus-orient-component-migrator:3.25.0-03` // `org.sonatype.nexus,nexus-orient-component-migrator,3.25.0-03,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.sonatype.nexus:nexus-orient-component-migrator:3.25.1-02` // `org.sonatype.nexus,nexus-orient-component-migrator,3.25.1-02,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:2.0` // `tr.com.infumia,KekoUtil,2.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -2863,6 +2881,9 @@
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:3.8` // `tr.com.infumia,KekoUtil,3.8,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:3.9` // `tr.com.infumia,KekoUtil,3.9,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.0` // `tr.com.infumia,KekoUtil,4.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.1` // `tr.com.infumia,KekoUtil,4.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.2` // `tr.com.infumia,KekoUtil,4.2,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.3` // `tr.com.infumia,KekoUtil,4.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.0` // `tr.com.infumia,db,1.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.1` // `tr.com.infumia,db,1.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.3` // `tr.com.infumia,db,1.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -6946,6 +6967,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.266.25` // `com.yahoo.vespa,vespa-hadoop,7.266.25,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.267.11` // `com.yahoo.vespa,vespa-hadoop,7.267.11,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.268.15` // `com.yahoo.vespa,vespa-hadoop,7.268.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.270.21` // `com.yahoo.vespa,vespa-hadoop,7.270.21,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7494,6 +7516,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.2` // `org.flywaydb.enterprise,flyway-core,6.5.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.3` // `org.flywaydb.enterprise,flyway-core,6.5.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.4` // `org.flywaydb.enterprise,flyway-core,6.5.4,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.5.5` // `org.flywaydb.enterprise,flyway-core,6.5.5,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -7503,6 +7526,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.2` // `org.flywaydb.pro,flyway-core,6.5.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.3` // `org.flywaydb.pro,flyway-core,6.5.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.4` // `org.flywaydb.pro,flyway-core,6.5.4,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.5.5` // `org.flywaydb.pro,flyway-core,6.5.5,org.flywaydb.core,-,automatic,-,false,-`
 - :dvd: `org.glassfish.java.json` - `com.sebastian-daschner:jaxrs-analyzer:0.17` // `com.sebastian-daschner,jaxrs-analyzer,0.17,org.glassfish.java.json,-,explicit,java.base,false,-`
 - :dvd: `org.glassfish.java.json` - `cz.cuni.mff.d3s.spl:spl-evaluation-java:1.0.4` // `cz.cuni.mff.d3s.spl,spl-evaluation-java,1.0.4,org.glassfish.java.json,-,explicit,java.base,true,-`
 - :dvd: `org.graalvm.js` - `org.noear:solonjt.executor.s.graaljs:1.0.3.9` // `org.noear,solonjt.executor.s.graaljs,1.0.3.9,org.graalvm.js,-,explicit,com.ibm.icu + com.oracle.truffle.regex + java.base + java.management + java.scripting + jdk.management + jdk.unsupported + org.graalvm.sdk + org.graalvm.truffle + org.objectweb.asm + org.objectweb.asm.commons + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis + org.objectweb.asm.util,false,-`
@@ -7743,6 +7767,7 @@
 - :dvd: `org.hibernate.validator` - `com.guicedee.services:hibernate-validator:0.70.0.6` // `com.guicedee.services,hibernate-validator,0.70.0.6,org.hibernate.validator,0.70.0.6,explicit,com.fasterxml.classmate + java.base + java.compiler + java.desktop + java.persistence + java.scripting + java.validation + java.xml + javax.el + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.validator` - `com.guicedee.services:hibernate-validator:0.70.0.7` // `com.guicedee.services,hibernate-validator,0.70.0.7,org.hibernate.validator,0.70.0.7,explicit,com.fasterxml.classmate + java.base + java.compiler + java.desktop + java.persistence + java.scripting + java.validation + java.xml + javax.el + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.validator` - `com.guicedee.services:hibernate-validator:62` // `com.guicedee.services,hibernate-validator,62,org.hibernate.validator,62,explicit,com.fasterxml.classmate + java.base + java.compiler + java.desktop + java.persistence + java.scripting + java.validation + java.xml + javax.el + org.jboss.logging,false,-`
+- :cd: `org.jaudiolibs.pipes` - `org.jaudiolibs:pipes-core:2.0.0` // `org.jaudiolibs,pipes-core,2.0.0,org.jaudiolibs.pipes,-,automatic,-,false,-`
 - :cd: `org.jaudiolibs.pipes` - `org.jaudiolibs:pipes-core:2.0.0-beta-1` // `org.jaudiolibs,pipes-core,2.0.0-beta-1,org.jaudiolibs.pipes,-,automatic,-,false,-`
 - :dvd: `org.jboss.logging` - `com.guicedee.services:jboss-logmanager:0.70.0.1` // `com.guicedee.services,jboss-logmanager,0.70.0.1,org.jboss.logging,0.70.0.1,explicit,java.base + java.compiler + java.desktop + java.json + java.logging + java.xml,false,-`
 - :dvd: `org.jboss.logging` - `com.guicedee.services:jboss-logmanager:0.70.0.1-rc1` // `com.guicedee.services,jboss-logmanager,0.70.0.1-rc1,org.jboss.logging,0.70.0.1-rc1,explicit,java.base + java.compiler + java.desktop + java.json + java.logging + java.xml,false,-`
@@ -7789,7 +7814,9 @@
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.2.1` // `eu.xenit.care4alf,care4alf-6x,2.2.1,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.convert` - `eu.xenit.care4alf:care4alf-6x:2.3.0` // `eu.xenit.care4alf,care4alf-6x,2.3.0,org.joda.convert,-,explicit,java.base,false,-`
 - :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm:0.40.0` // `org.kill-bill.billing,killbill-platform-osgi-bundles-kpm,0.40.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
+- :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm:0.40.1` // `org.kill-bill.billing,killbill-platform-osgi-bundles-kpm,0.40.1,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
 - :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-logger:0.40.0` // `org.kill-bill.billing,killbill-platform-osgi-bundles-logger,0.40.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
+- :dvd: `org.joda.money` - `org.kill-bill.billing:killbill-platform-osgi-bundles-logger:0.40.1` // `org.kill-bill.billing,killbill-platform-osgi-bundles-logger,0.40.1,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
 - :dvd: `org.joda.money` - `org.kill-bill.billing.plugin.java:avatax-plugin:0.8.0` // `org.kill-bill.billing.plugin.java,avatax-plugin,0.8.0,org.joda.money,-,explicit,java.base + org.joda.convert,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.0` // `com.github.cukedoctor,cukedoctor-main,2.0,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
 - :dvd: `org.jruby.joni` - `com.github.cukedoctor:cukedoctor-main:2.1` // `com.github.cukedoctor,cukedoctor-main,2.1,org.jruby.joni,-,explicit,java.base + org.jruby.jcodings + org.objectweb.asm,false,-`
