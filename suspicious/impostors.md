@@ -410,6 +410,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.1` // `za.co.absa.spline,rest-api-doc-generator,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.2` // `za.co.absa.spline,rest-api-doc-generator,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.3` // `za.co.absa.spline,rest-api-doc-generator,0.5.3,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.4` // `za.co.absa.spline,rest-api-doc-generator,0.5.4,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.8.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.8.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.0` // `com.hortonworks.registries,avro-examples,0.9.0,com.fasterxml.jackson.dataformat.csv,2.10.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
@@ -535,6 +536,7 @@
 - :dvd: `com.fasterxml.jackson.module.jaxb` - `org.glassfish.main.admingui:jackson-module-jaxb-annotations:6.0.0-M1` // `org.glassfish.main.admingui,jackson-module-jaxb-annotations,6.0.0-M1,com.fasterxml.jackson.module.jaxb,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.activation + java.base + java.desktop + java.logging + java.xml + java.xml.bind,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.datamountaineer:kafka-connect-common:2.0.1` // `com.datamountaineer,kafka-connect-common,2.0.1,com.fasterxml.jackson.module.paranamer,2.10.1,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `com.datamountaineer:kafka-connect-common:2.0.2` // `com.datamountaineer,kafka-connect-common,2.0.2,com.fasterxml.jackson.module.paranamer,2.10.1,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
+- :dvd: `com.fasterxml.jackson.module.paranamer` - `com.datamountaineer:kafka-connect-common:2.0.3` // `com.datamountaineer,kafka-connect-common,2.0.3,com.fasterxml.jackson.module.paranamer,2.10.1,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.20.0` // `org.apache.beam,beam-runners-spark-job-server,2.20.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.22.0` // `org.apache.beam,beam-runners-spark-job-server,2.22.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.23.0` // `org.apache.beam,beam-runners-spark-job-server,2.23.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
@@ -866,6 +868,7 @@
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.2` // `com.helger.peppol,peppol-commons,8.1.2,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.3` // `com.helger.peppol,peppol-commons,8.1.3,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.4` // `com.helger.peppol,peppol-commons,8.1.4,com.helger.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.5` // `com.helger.peppol,peppol-commons,8.1.5,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.as2client` - `com.helger.peppol:as2-peppol-client:5.4.0` // `com.helger.peppol,as2-peppol-client,5.4.0,com.helger.peppol.as2client,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.as2servlet` - `com.helger.peppol:as2-peppol-servlet:5.4.0` // `com.helger.peppol,as2-peppol-servlet,5.4.0,com.helger.peppol.as2servlet,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.0` // `com.helger.peppol,peppol-sbdh,8.1.0,com.helger.peppol.sbdh,-,automatic,-,false,-`
@@ -873,21 +876,25 @@
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.2` // `com.helger.peppol,peppol-sbdh,8.1.2,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.3` // `com.helger.peppol,peppol-sbdh,8.1.3,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.4` // `com.helger.peppol,peppol-sbdh,8.1.4,com.helger.peppol.sbdh,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.5` // `com.helger.peppol,peppol-sbdh,8.1.5,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.0` // `com.helger.peppol,peppol-sml-client,8.1.0,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.1` // `com.helger.peppol,peppol-sml-client,8.1.1,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.2` // `com.helger.peppol,peppol-sml-client,8.1.2,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.3` // `com.helger.peppol,peppol-sml-client,8.1.3,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.4` // `com.helger.peppol,peppol-sml-client,8.1.4,com.helger.peppol.smlclient,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.5` // `com.helger.peppol,peppol-sml-client,8.1.5,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.0` // `com.helger.peppol,peppol-testfiles,8.1.0,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.1` // `com.helger.peppol,peppol-testfiles,8.1.1,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.2` // `com.helger.peppol,peppol-testfiles,8.1.2,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.3` // `com.helger.peppol,peppol-testfiles,8.1.3,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.4` // `com.helger.peppol,peppol-testfiles,8.1.4,com.helger.peppol.testfiles,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.5` // `com.helger.peppol,peppol-testfiles,8.1.5,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.0` // `com.helger.peppol,peppol-id,8.1.0,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.1` // `com.helger.peppol,peppol-id,8.1.1,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.2` // `com.helger.peppol,peppol-id,8.1.2,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.3` // `com.helger.peppol,peppol-id,8.1.3,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.4` // `com.helger.peppol,peppol-id,8.1.4,com.helger.peppolid,-,automatic,-,false,-`
+- :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.5` // `com.helger.peppol,peppol-id,8.1.5,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.0` // `com.helger.phase4,phase4-lib,0.10.0,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.1` // `com.helger.phase4,phase4-lib,0.10.1,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.2` // `com.helger.phase4,phase4-lib,0.10.2,com.helger.phase4,-,automatic,-,false,-`
@@ -926,36 +933,62 @@
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.9.17` // `com.helger.phase4,phase4-profile-peppol,0.9.17,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.servlet` - `com.helger.phase4:phase4-servlet:0.9.17` // `com.helger.phase4,phase4-servlet,0.9.17,com.helger.phase4.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.5` // `com.helger.photon,ph-oton-ajax,8.2.5,com.helger.photon.ajax,-,automatic,-,false,-`
+- :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.6` // `com.helger.photon,ph-oton-ajax,8.2.6,com.helger.photon.ajax,-,automatic,-,false,-`
 - :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.5` // `com.helger.photon,ph-oton-api,8.2.5,com.helger.photon.api,-,automatic,-,false,-`
+- :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.6` // `com.helger.photon,ph-oton-api,8.2.6,com.helger.photon.api,-,automatic,-,false,-`
 - :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.5` // `com.helger.photon,ph-oton-app,8.2.5,com.helger.photon.app,-,automatic,-,false,-`
+- :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.6` // `com.helger.photon,ph-oton-app,8.2.6,com.helger.photon.app,-,automatic,-,false,-`
 - :cd: `com.helger.photon.atom` - `com.helger.photon:ph-oton-atom:8.2.5` // `com.helger.photon,ph-oton-atom,8.2.5,com.helger.photon.atom,-,automatic,-,false,-`
+- :cd: `com.helger.photon.atom` - `com.helger.photon:ph-oton-atom:8.2.6` // `com.helger.photon,ph-oton-atom,8.2.6,com.helger.photon.atom,-,automatic,-,false,-`
 - :cd: `com.helger.photon.audit` - `com.helger.photon:ph-oton-audit:8.2.5` // `com.helger.photon,ph-oton-audit,8.2.5,com.helger.photon.audit,-,automatic,-,false,-`
+- :cd: `com.helger.photon.audit` - `com.helger.photon:ph-oton-audit:8.2.6` // `com.helger.photon,ph-oton-audit,8.2.6,com.helger.photon.audit,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3` - `com.helger.photon:ph-oton-bootstrap3:8.2.5` // `com.helger.photon,ph-oton-bootstrap3,8.2.5,com.helger.photon.bootstrap3,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3` - `com.helger.photon:ph-oton-bootstrap3:8.2.6` // `com.helger.photon,ph-oton-bootstrap3,8.2.6,com.helger.photon.bootstrap3,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.0` // `com.helger,ph-oton-bootstrap4-pages,8.1.0,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.1` // `com.helger,ph-oton-bootstrap4-pages,8.1.1,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.2` // `com.helger,ph-oton-bootstrap4-pages,8.1.2,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.3` // `com.helger,ph-oton-bootstrap4-pages,8.1.3,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.2.0` // `com.helger,ph-oton-bootstrap4-pages,8.2.0,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger.photon:ph-oton-bootstrap3-pages:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-pages,8.2.5,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.pages` - `com.helger.photon:ph-oton-bootstrap3-pages:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-pages,8.2.6,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.stub` - `com.helger.photon:ph-oton-bootstrap3-stub:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-stub,8.2.5,com.helger.photon.bootstrap3.stub,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.stub` - `com.helger.photon:ph-oton-bootstrap3-stub:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-stub,8.2.6,com.helger.photon.bootstrap3.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.uictrls` - `com.helger.photon:ph-oton-bootstrap3-uictrls:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-uictrls,8.2.5,com.helger.photon.bootstrap3.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.uictrls` - `com.helger.photon:ph-oton-bootstrap3-uictrls:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-uictrls,8.2.6,com.helger.photon.bootstrap3.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4` - `com.helger.photon:ph-oton-bootstrap4:8.2.5` // `com.helger.photon,ph-oton-bootstrap4,8.2.5,com.helger.photon.bootstrap4,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4` - `com.helger.photon:ph-oton-bootstrap4:8.2.6` // `com.helger.photon,ph-oton-bootstrap4,8.2.6,com.helger.photon.bootstrap4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.pages` - `com.helger.photon:ph-oton-bootstrap4-pages:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-pages,8.2.5,com.helger.photon.bootstrap4.pages,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.pages` - `com.helger.photon:ph-oton-bootstrap4-pages:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-pages,8.2.6,com.helger.photon.bootstrap4.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.stub` - `com.helger.photon:ph-oton-bootstrap4-stub:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-stub,8.2.5,com.helger.photon.bootstrap4.stub,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.stub` - `com.helger.photon:ph-oton-bootstrap4-stub:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-stub,8.2.6,com.helger.photon.bootstrap4.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.uictrls` - `com.helger.photon:ph-oton-bootstrap4-uictrls:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-uictrls,8.2.5,com.helger.photon.bootstrap4.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.uictrls` - `com.helger.photon:ph-oton-bootstrap4-uictrls:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-uictrls,8.2.6,com.helger.photon.bootstrap4.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.connect` - `com.helger.photon:ph-oton-connect:8.2.5` // `com.helger.photon,ph-oton-connect,8.2.5,com.helger.photon.connect,-,automatic,-,false,-`
+- :cd: `com.helger.photon.connect` - `com.helger.photon:ph-oton-connect:8.2.6` // `com.helger.photon,ph-oton-connect,8.2.6,com.helger.photon.connect,-,automatic,-,false,-`
 - :cd: `com.helger.photon.core` - `com.helger.photon:ph-oton-core:8.2.5` // `com.helger.photon,ph-oton-core,8.2.5,com.helger.photon.core,-,automatic,-,false,-`
+- :cd: `com.helger.photon.core` - `com.helger.photon:ph-oton-core:8.2.6` // `com.helger.photon,ph-oton-core,8.2.6,com.helger.photon.core,-,automatic,-,false,-`
 - :cd: `com.helger.photon.exchange` - `com.helger.photon:ph-oton-exchange:8.2.5` // `com.helger.photon,ph-oton-exchange,8.2.5,com.helger.photon.exchange,-,automatic,-,false,-`
+- :cd: `com.helger.photon.exchange` - `com.helger.photon:ph-oton-exchange:8.2.6` // `com.helger.photon,ph-oton-exchange,8.2.6,com.helger.photon.exchange,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html` - `com.helger.photon:ph-oton-html:8.2.5` // `com.helger.photon,ph-oton-html,8.2.5,com.helger.photon.html,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html` - `com.helger.photon:ph-oton-html:8.2.6` // `com.helger.photon,ph-oton-html,8.2.6,com.helger.photon.html,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jquery` - `com.helger.photon:ph-oton-jquery:8.2.5` // `com.helger.photon,ph-oton-jquery,8.2.5,com.helger.photon.html.jquery,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html.jquery` - `com.helger.photon:ph-oton-jquery:8.2.6` // `com.helger.photon,ph-oton-jquery,8.2.6,com.helger.photon.html.jquery,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jscode` - `com.helger.photon:ph-oton-jscode:8.2.5` // `com.helger.photon,ph-oton-jscode,8.2.5,com.helger.photon.html.jscode,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html.jscode` - `com.helger.photon:ph-oton-jscode:8.2.6` // `com.helger.photon,ph-oton-jscode,8.2.6,com.helger.photon.html.jscode,-,automatic,-,false,-`
 - :cd: `com.helger.photon.icon` - `com.helger.photon:ph-oton-icon:8.2.5` // `com.helger.photon,ph-oton-icon,8.2.5,com.helger.photon.icon,-,automatic,-,false,-`
+- :cd: `com.helger.photon.icon` - `com.helger.photon:ph-oton-icon:8.2.6` // `com.helger.photon,ph-oton-icon,8.2.6,com.helger.photon.icon,-,automatic,-,false,-`
 - :cd: `com.helger.photon.jetty` - `com.helger.photon:ph-oton-jetty:8.2.5` // `com.helger.photon,ph-oton-jetty,8.2.5,com.helger.photon.jetty,-,automatic,-,false,-`
+- :cd: `com.helger.photon.jetty` - `com.helger.photon:ph-oton-jetty:8.2.6` // `com.helger.photon,ph-oton-jetty,8.2.6,com.helger.photon.jetty,-,automatic,-,false,-`
 - :cd: `com.helger.photon.security` - `com.helger.photon:ph-oton-security:8.2.5` // `com.helger.photon,ph-oton-security,8.2.5,com.helger.photon.security,-,automatic,-,false,-`
+- :cd: `com.helger.photon.security` - `com.helger.photon:ph-oton-security:8.2.6` // `com.helger.photon,ph-oton-security,8.2.6,com.helger.photon.security,-,automatic,-,false,-`
 - :cd: `com.helger.photon.tinymce4` - `com.helger.photon:ph-oton-tinymce4:8.2.5` // `com.helger.photon,ph-oton-tinymce4,8.2.5,com.helger.photon.tinymce4,-,automatic,-,false,-`
+- :cd: `com.helger.photon.tinymce4` - `com.helger.photon:ph-oton-tinymce4:8.2.6` // `com.helger.photon,ph-oton-tinymce4,8.2.6,com.helger.photon.tinymce4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uicore` - `com.helger.photon:ph-oton-uicore:8.2.5` // `com.helger.photon,ph-oton-uicore,8.2.5,com.helger.photon.uicore,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uicore` - `com.helger.photon:ph-oton-uicore:8.2.6` // `com.helger.photon,ph-oton-uicore,8.2.6,com.helger.photon.uicore,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls` - `com.helger.photon:ph-oton-uictrls:8.2.5` // `com.helger.photon,ph-oton-uictrls,8.2.5,com.helger.photon.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uictrls` - `com.helger.photon:ph-oton-uictrls:8.2.6` // `com.helger.photon,ph-oton-uictrls,8.2.6,com.helger.photon.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.5` // `com.helger.photon,ph-oton-datatables,8.2.5,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.6` // `com.helger.photon,ph-oton-datatables,8.2.6,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.0` // `com.helger.web,ph-servlet,9.3.0,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.1` // `com.helger.web,ph-servlet,9.3.1,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.2` // `com.helger.web,ph-servlet,9.3.2,com.helger.servlet,-,automatic,-,false,-`
@@ -967,6 +1000,7 @@
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.2` // `com.helger.peppol,peppol-smp-client,8.1.2,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.3` // `com.helger.peppol,peppol-smp-client,8.1.3,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.4` // `com.helger.peppol,peppol-smp-client,8.1.4,com.helger.smpclient,-,automatic,-,false,-`
+- :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.5` // `com.helger.peppol,peppol-smp-client,8.1.5,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.0` // `com.helger.web,ph-smtp,9.3.0,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.1` // `com.helger.web,ph-smtp,9.3.1,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.2` // `com.helger.web,ph-smtp,9.3.2,com.helger.smtp,-,automatic,-,false,-`
@@ -3142,6 +3176,11 @@
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.2` // `org.restheart,restheart,5.1.2,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.3` // `org.restheart,restheart,5.1.3,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.4` // `org.restheart,restheart,5.1.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.5` // `org.restheart,restheart,5.1.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.2-spline-agent-bundle_2.11:0.5.4` // `za.co.absa.spline.agent.spark,spark-2.2-spline-agent-bundle_2.11,0.5.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.3-spline-agent-bundle_2.11:0.5.4` // `za.co.absa.spline.agent.spark,spark-2.3-spline-agent-bundle_2.11,0.5.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.4-spline-agent-bundle_2.11:0.5.4` // `za.co.absa.spline.agent.spark,spark-2.4-spline-agent-bundle_2.11,0.5.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.4-spline-agent-bundle_2.12:0.5.4` // `za.co.absa.spline.agent.spark,spark-2.4-spline-agent-bundle_2.12,0.5.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.0` // `io.github.factoryfx,microserviceRestResource,2.1.0,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.1` // `io.github.factoryfx,microserviceRestResource,2.1.1,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.1.2` // `io.github.factoryfx,microserviceRestResource,2.1.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -7286,6 +7325,7 @@
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.39.0.Final` // `org.drools,drools-verifier-drl,7.39.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.40.0.20200703` // `org.drools,drools-verifier-drl,7.40.0.20200703,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.41.0.t20200723` // `org.drools,drools-verifier-drl,7.41.0.t20200723,org.drools.verifier,-,automatic,-,false,-`
+- :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.42.0.Final` // `org.drools,drools-verifier-drl,7.42.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.12.0.Final` // `org.drools,drools-wb-verifier-webworker,7.12.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.13.0.Final` // `org.drools,drools-wb-verifier-webworker,7.13.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.14.0.Final` // `org.drools,drools-wb-verifier-webworker,7.14.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
@@ -7317,6 +7357,7 @@
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.39.0.Final` // `org.drools,drools-wb-verifier-webworker,7.39.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.40.0.20200703` // `org.drools,drools-wb-verifier-webworker,7.40.0.20200703,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.41.0.t20200723` // `org.drools,drools-wb-verifier-webworker,7.41.0.t20200723,org.drools.wb.verifier.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.42.0.Final` // `org.drools,drools-wb-verifier-webworker,7.42.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.12.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.12.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.13.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.13.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.14.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.14.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
@@ -7348,6 +7389,7 @@
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.39.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.39.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.40.0.20200703` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.40.0.20200703,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.41.0.t20200723` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.41.0.t20200723,org.drools.wb.verifier.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.42.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.42.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
 - :dvd: `org.eclipse.jetty.websocket.javax.client` - `org.eclipse.jetty.websocket:websocket-javax-client:10.0.0.alpha2` // `org.eclipse.jetty.websocket,websocket-javax-client,10.0.0.alpha2,org.eclipse.jetty.websocket.javax.client,10.0.0.alpha2,explicit,java.base + jetty.websocket.api + org.eclipse.jetty.client + org.eclipse.jetty.websocket.javax.common,false,-`
@@ -7563,6 +7605,7 @@
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha3,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha4,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha5,org.hibernate.orm.agroal,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.agroal` - `org.hibernate.orm:hibernate-agroal:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-agroal,6.0.0.Alpha6,org.hibernate.orm.agroal,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.14.0-RC1-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.14.0-RC1-jre14,org.hibernate.orm.c3p0,1.0.14.0-RC1-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.14.1-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.14.1-jre14,org.hibernate.orm.c3p0,1.0.14.1-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.14.3-jre8` // `com.guicedee.services,hibernate-c3p0,1.0.14.3-jre8,org.hibernate.orm.c3p0,1.0.14.3-jre8,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
@@ -7582,6 +7625,7 @@
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha3,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha4,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha5,org.hibernate.orm.c3p0,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha6,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1` // `com.guicedee.services,hibernate-core,0.70.0.1,org.hibernate.orm.core,0.70.0.1,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1-rc1` // `com.guicedee.services,hibernate-core,0.70.0.1-rc1,org.hibernate.orm.core,0.70.0.1-rc1,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:0.70.0.1-rc13` // `com.guicedee.services,hibernate-core,0.70.0.1-rc13,org.hibernate.orm.core,0.70.0.1-rc13,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
@@ -7604,6 +7648,7 @@
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha3,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha4,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha5,org.hibernate.orm.core,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha6,org.hibernate.orm.core,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.14.0-RC1-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.14.0-RC1-jre14,org.hibernate.orm.ehcache,1.0.14.0-RC1-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.14.1-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.14.1-jre14,org.hibernate.orm.ehcache,1.0.14.1-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.14.3-jre8` // `com.guicedee.services,hibernate-ehcache,1.0.14.3-jre8,org.hibernate.orm.ehcache,1.0.14.3-jre8,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
@@ -7621,15 +7666,19 @@
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha3,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha4,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha5,org.hibernate.orm.ehcache,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha6,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha3,org.hibernate.orm.envers,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha4,org.hibernate.orm.envers,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha5,org.hibernate.orm.envers,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.envers` - `org.hibernate.orm:hibernate-envers:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-envers,6.0.0.Alpha6,org.hibernate.orm.envers,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.graalvm` - `org.hibernate.orm:hibernate-graalvm:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-graalvm,6.0.0.Alpha5,org.hibernate.orm.graalvm,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.graalvm` - `org.hibernate.orm:hibernate-graalvm:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-graalvm,6.0.0.Alpha6,org.hibernate.orm.graalvm,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha1,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha2,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha3,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha4,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha5,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.hikaricp` - `org.hibernate.orm:hibernate-hikaricp:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-hikaricp,6.0.0.Alpha6,org.hibernate.orm.hikaricp,-,automatic,-,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1` // `com.guicedee.services,hibernate-jcache,0.70.0.1,org.hibernate.orm.jcache,0.70.0.1,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1-rc1` // `com.guicedee.services,hibernate-jcache,0.70.0.1-rc1,org.hibernate.orm.jcache,0.70.0.1-rc1,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
 - :dvd: `org.hibernate.orm.jcache` - `com.guicedee.services:hibernate-jcache:0.70.0.1-rc13` // `com.guicedee.services,hibernate-jcache,0.70.0.1-rc13,org.hibernate.orm.jcache,0.70.0.1-rc13,explicit,cache.api + java.base + org.hibernate.commons.annotations + org.hibernate.orm.core,false,-`
@@ -7649,6 +7698,7 @@
 - :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha3,org.hibernate.orm.jcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha4,org.hibernate.orm.jcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha5,org.hibernate.orm.jcache,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.jcache` - `org.hibernate.orm:hibernate-jcache:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-jcache,6.0.0.Alpha6,org.hibernate.orm.jcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha1,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha2,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jipijapa` - `org.hibernate.orm:hibernate-jipijapa:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jipijapa,6.0.0.Alpha3,org.hibernate.orm.jipijapa,-,automatic,-,false,-`
@@ -7674,26 +7724,31 @@
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha3,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha4,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha5,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.jpamodelgen` - `org.hibernate.orm:hibernate-jpamodelgen:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-jpamodelgen,6.0.0.Alpha6,org.hibernate.orm.jpamodelgen,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha1,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha2,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha3,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha4,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha5,org.hibernate.orm.osgi,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.osgi` - `org.hibernate.orm:hibernate-osgi:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-osgi,6.0.0.Alpha6,org.hibernate.orm.osgi,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha1,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha2,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha3,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha4,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha5,org.hibernate.orm.proxool,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.proxool` - `org.hibernate.orm:hibernate-proxool:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-proxool,6.0.0.Alpha6,org.hibernate.orm.proxool,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha1,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha2,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha3,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha4,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha5,org.hibernate.orm.testing,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.testing` - `org.hibernate.orm:hibernate-testing:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-testing,6.0.0.Alpha6,org.hibernate.orm.testing,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha1,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha2,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha3,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha4,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha5,org.hibernate.orm.vibur,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.vibur` - `org.hibernate.orm:hibernate-vibur:6.0.0.Alpha6` // `org.hibernate.orm,hibernate-vibur,6.0.0.Alpha6,org.hibernate.orm.vibur,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha1` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha1,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha2` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha2,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha3` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha3,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
@@ -7910,6 +7965,7 @@
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.39.0.Final` // `org.jbpm.contrib,karaf-itests,7.39.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.40.0.20200703` // `org.jbpm.contrib,karaf-itests,7.40.0.20200703,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.41.0.t20200723` // `org.jbpm.contrib,karaf-itests,7.41.0.t20200723,org.kie.karaf.itests.main,-,automatic,-,false,-`
+- :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.42.0.Final` // `org.jbpm.contrib,karaf-itests,7.42.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
@@ -7928,6 +7984,7 @@
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.39.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.39.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.40.0.20200703` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.40.0.20200703,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.41.0.t20200723` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.41.0.t20200723,org.kie.server.itests.dmn,-,automatic,-,false,-`
+- :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.42.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.42.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.15.0.Final` // `org.kie,business-central-home-page-community,7.15.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.16.0.Final` // `org.kie,business-central-home-page-community,7.16.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.17.0.Final` // `org.kie,business-central-home-page-community,7.17.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
@@ -7956,6 +8013,7 @@
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.39.0.Final` // `org.kie,business-central-home-page-community,7.39.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.40.0.20200703` // `org.kie,business-central-home-page-community,7.40.0.20200703,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.41.0.t20200723` // `org.kie,business-central-home-page-community,7.41.0.t20200723,org.kie.wb.home.page.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.42.0.Final` // `org.kie,business-central-home-page-community,7.42.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.15.0.Final` // `org.kie,business-central-theme-community,7.15.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.16.0.Final` // `org.kie,business-central-theme-community,7.16.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.17.0.Final` // `org.kie,business-central-theme-community,7.17.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
@@ -7984,6 +8042,7 @@
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.39.0.Final` // `org.kie,business-central-theme-community,7.39.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.40.0.20200703` // `org.kie,business-central-theme-community,7.40.0.20200703,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.41.0.t20200723` // `org.kie,business-central-theme-community,7.41.0.t20200723,org.kie.wb.theme.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.42.0.Final` // `org.kie,business-central-theme-community,7.42.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.15.0.Final` // `org.kie,business-central-theme-product,7.15.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.16.0.Final` // `org.kie,business-central-theme-product,7.16.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.17.0.Final` // `org.kie,business-central-theme-product,7.17.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
@@ -8012,6 +8071,7 @@
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.39.0.Final` // `org.kie,business-central-theme-product,7.39.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.40.0.20200703` // `org.kie,business-central-theme-product,7.40.0.20200703,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.41.0.t20200723` // `org.kie,business-central-theme-product,7.41.0.t20200723,org.kie.wb.theme.product,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.42.0.Final` // `org.kie,business-central-theme-product,7.42.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.5` // `org.lamblin,lamblin-local-runner,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.6` // `org.lamblin,lamblin-local-runner,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
@@ -9390,6 +9450,7 @@
 - :cd: `org.slf4j.jul` - `org.netbeans.external:slf4j-jdk14:RELEASE113` // `org.netbeans.external,slf4j-jdk14,RELEASE113,org.slf4j.jul,-,automatic,-,false,-`
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.32` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.32,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.34` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.34,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.37` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.37,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.53` // `se.bjurr.gitchangelog,git-changelog-command-line,1.53,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.54` // `se.bjurr.gitchangelog,git-changelog-command-line,1.54,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
@@ -9416,6 +9477,8 @@
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.13.1` // `org.trellisldp,trellis-constraint,0.13.1,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.14.0` // `org.trellisldp,trellis-constraint,0.14.0,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.14.1` // `org.trellisldp,trellis-constraint,0.14.1,org.trellisldp.constraint,-,automatic,-,false,-`
+- :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.14.2` // `org.trellisldp,trellis-constraint,0.14.2,org.trellisldp.constraint,-,automatic,-,false,-`
+- :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.15.0` // `org.trellisldp,trellis-constraint,0.15.0,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`
