@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7385 Java modules published at Maven Central
 
-## Summary 2020-08-23T02:13:38.064720Z
+## Summary 2020-08-24T02:14:20.540141Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-23T02:13:38.064720Z
-Scanned 59,608 files in 8 seconds.
+Started scan at 2020-08-24T02:14:20.540141Z
+Scanned 59,678 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_23_01_58_53.csv
+    last -> modulescanner-report-2020_08_24_01_51_21.csv
 
-Parsed 4,034,770 lines in total.
-  63,302 -> captions skipped
-  365,153 -> duplicates skipped
-  201,086 -> module related
+Parsed 4,036,519 lines in total.
+  63,372 -> captions skipped
+  365,171 -> duplicates skipped
+  201,103 -> module related
 
 Collected 7,385 unique modules.
   automatic :cd: -> 5,251
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=4847, explicit=248, plain=98554}` 	 5.17%
+ - `2020_08={automatic=4850, explicit=259, plain=100198}` 	 5.10%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -120,8 +120,8 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [21301](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27807](suspicious/naming.md)
+- Invalid module names: [21302](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27809](suspicious/naming.md)
 - Modular impostors: [9769](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
@@ -183,7 +183,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.87`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.14`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.14`
-- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.16.1`
+- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.17.0`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
