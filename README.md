@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7390 Java modules published at Maven Central
+Counted 7396 Java modules published at Maven Central
 
-## Summary 2020-08-25T02:15:08.619437Z
+## Summary 2020-08-26T02:15:17.897604Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-25T02:15:08.619437Z
-Scanned 59,736 files in 8 seconds.
+Started scan at 2020-08-26T02:15:17.897604Z
+Scanned 59,811 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_25_01_50_12.csv
+    last -> modulescanner-report-2020_08_26_01_59_05.csv
 
-Parsed 4,043,335 lines in total.
-  63,430 -> captions skipped
-  365,614 -> duplicates skipped
-  201,861 -> module related
+Parsed 4,048,034 lines in total.
+  63,505 -> captions skipped
+  365,782 -> duplicates skipped
+  201,982 -> module related
 
-Collected 7,390 unique modules.
-  automatic :cd: -> 5,256
+Collected 7,396 unique modules.
+  automatic :cd: -> 5,262
   explicit :dvd: -> 2,134
 
 ## Samples
@@ -27,7 +27,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.0
         org.slf4j -> org.slf4j:slf4j-api:2.0.0-alpha1
- de.sormuras.bach -> de.sormuras.bach:de.sormuras.bach:11.7
+ de.sormuras.bach -> de.sormuras.bach:de.sormuras.bach:11.8
 
 
 ## History
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=5322, explicit=297, plain=105755}` 	 5.31%
+ - `2020_08={automatic=5401, explicit=310, plain=110090}` 	 5.19%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,8 +121,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [21484](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27862](suspicious/naming.md)
-- Modular impostors: [9782](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27881](suspicious/naming.md)
+- Modular impostors: [9792](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -172,7 +172,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M3`
 - :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M3`
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
-- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.7`
+- :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.8`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
