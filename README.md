@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7396 Java modules published at Maven Central
+Counted 7399 Java modules published at Maven Central
 
-## Summary 2020-08-26T02:15:17.897604Z
+## Summary 2020-08-27T02:16:07.346320Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-26T02:15:17.897604Z
-Scanned 59,811 files in 7 seconds.
+Started scan at 2020-08-27T02:16:07.346320Z
+Scanned 59,874 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_26_01_59_05.csv
+    last -> modulescanner-report-2020_08_27_01_42_41.csv
 
-Parsed 4,048,034 lines in total.
-  63,505 -> captions skipped
-  365,782 -> duplicates skipped
-  201,982 -> module related
+Parsed 4,055,409 lines in total.
+  63,568 -> captions skipped
+  366,424 -> duplicates skipped
+  202,341 -> module related
 
-Collected 7,396 unique modules.
-  automatic :cd: -> 5,262
-  explicit :dvd: -> 2,134
+Collected 7,399 unique modules.
+  automatic :cd: -> 5,264
+  explicit :dvd: -> 2,135
 
 ## Samples
             junit -> junit:junit:4.13
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=5401, explicit=310, plain=110090}` 	 5.19%
+ - `2020_08={automatic=5724, explicit=318, plain=116401}` 	 5.19%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -120,9 +120,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [21484](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27881](suspicious/naming.md)
-- Modular impostors: [9792](suspicious/impostors.md)
+- Invalid module names: [21491](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27896](suspicious/naming.md)
+- Modular impostors: [9798](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -177,10 +177,10 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.42`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.43`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.5.0`
-- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.88`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.5.1`
+- :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.89`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.14`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.14`
 - :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.17.0`

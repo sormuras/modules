@@ -2931,6 +2931,7 @@
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.6` // `tr.com.infumia,KekoUtil,4.6,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.7` // `tr.com.infumia,KekoUtil,4.7,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:4.8` // `tr.com.infumia,KekoUtil,4.8,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:5.0` // `tr.com.infumia,KekoUtil,5.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.0` // `tr.com.infumia,db,1.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.1` // `tr.com.infumia,db,1.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.3` // `tr.com.infumia,db,1.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -4918,6 +4919,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.0.RC6` // `io.micronaut.test,micronaut-test-core,1.2.0.RC6,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.1` // `io.micronaut.test,micronaut-test-core,1.2.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.2` // `io.micronaut.test,micronaut-test-core,1.2.2,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.2.3` // `io.micronaut.test,micronaut-test-core,1.2.3,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -4940,6 +4942,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.0.RC6` // `io.micronaut.test,micronaut-test-junit5,1.2.0.RC6,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.1` // `io.micronaut.test,micronaut-test-junit5,1.2.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.2` // `io.micronaut.test,micronaut-test-junit5,1.2.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.2.3` // `io.micronaut.test,micronaut-test-junit5,1.2.3,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -4962,6 +4965,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.0.RC6` // `io.micronaut.test,micronaut-test-spock,1.2.0.RC6,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.1` // `io.micronaut.test,micronaut-test-spock,1.2.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.2` // `io.micronaut.test,micronaut-test-spock,1.2.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.2.3` // `io.micronaut.test,micronaut-test-spock,1.2.3,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -8683,12 +8687,14 @@
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR1` // `io.quarkus,quarkus-cli,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.CR2` // `io.quarkus,quarkus-cli,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.0.Final` // `io.quarkus,quarkus-cli,1.7.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-cli:1.7.1.Final` // `io.quarkus,quarkus-cli,1.7.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.5.2.Final` // `io.quarkus,quarkus-ide-launcher,1.5.2.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.0.Final` // `io.quarkus,quarkus-ide-launcher,1.6.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.6.1.Final` // `io.quarkus,quarkus-ide-launcher,1.6.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR1` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.CR2` // `io.quarkus,quarkus-ide-launcher,1.7.0.CR2,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.0.Final` // `io.quarkus,quarkus-ide-launcher,1.7.0.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `io.quarkus:quarkus-ide-launcher:1.7.1.Final` // `io.quarkus,quarkus-ide-launcher,1.7.1.Final,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.artemis:artemis-odb-cli:2.3.0` // `net.onedaybeard.artemis,artemis-odb-cli,2.3.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.1.3` // `net.onedaybeard.graftt,agent,0.1.3,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `net.onedaybeard.graftt:agent:0.2.0` // `net.onedaybeard.graftt,agent,0.2.0,org.objectweb.asm,7.1.0,explicit,java.base,false,-`
