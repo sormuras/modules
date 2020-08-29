@@ -7235,6 +7235,7 @@
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.12` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.13` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.14` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.15` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.2` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.3` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-bolt-native-types:3.2.4` // `org.neo4j,neo4j-ogm-bolt-native-types,3.2.4,-,-,automatic,-,false,-`
@@ -7258,6 +7259,7 @@
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.12` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.12,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.13` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.13,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.14` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.14,-,-,automatic,-,false,-`
+- :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.15` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.15,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.2` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.2,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.3` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.3,-,-,automatic,-,false,-`
 - :cd: `` - `org.neo4j:neo4j-ogm-embedded-native-types:3.2.4` // `org.neo4j,neo4j-ogm-embedded-native-types,3.2.4,-,-,automatic,-,false,-`
@@ -10017,6 +10019,7 @@
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-kubernetes:3.1.2` // `org.apache.openjpa,openjpa-kubernetes,3.1.2,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.1` // `org.apache.openjpa,openjpa-maven-plugin,3.1.1,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
 - :cd: `-SUBMODULES-NEED-TO-OVERRIDE-THIS-` - `org.apache.openjpa:openjpa-maven-plugin:3.1.2` // `org.apache.openjpa,openjpa-maven-plugin,3.1.2,-SUBMODULES-NEED-TO-OVERRIDE-THIS-,-,automatic,-,false,-`
+- :cd: `MinLog-SLF4J` :left_right_arrow: `com.dorkbox:MinLog-SLF4J:2.0` // `com.dorkbox,MinLog-SLF4J,2.0,MinLog-SLF4J,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0` // `au.com.dius,pact-jvm-consumer,4.0.0,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0-beta.1` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.1,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
 - :cd: `au.com.dius.pact-jvm-consumer` - `au.com.dius:pact-jvm-consumer:4.0.0-beta.2` // `au.com.dius,pact-jvm-consumer,4.0.0-beta.2,au.com.dius.pact-jvm-consumer,-,automatic,-,false,-`
@@ -18462,6 +18465,7 @@
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.1` // `com.synopsys.integration,jenkins-common,0.2.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.2.2` // `com.synopsys.integration,jenkins-common,0.2.2,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.3.0` // `com.synopsys.integration,jenkins-common,0.3.0,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
+- :cd: `com.synopsys.integration.jenkins-common` - `com.synopsys.integration:jenkins-common:0.3.1` // `com.synopsys.integration,jenkins-common,0.3.1,com.synopsys.integration.jenkins-common,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.0` // `com.blackducksoftware.integration,phone-home-client,0.21.0,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.1` // `com.blackducksoftware.integration,phone-home-client,0.21.1,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`
 - :cd: `com.synopsys.integration.phone-home-client` - `com.blackducksoftware.integration:phone-home-client:0.21.10` // `com.blackducksoftware.integration,phone-home-client,0.21.10,com.synopsys.integration.phone-home-client,-,automatic,-,false,-`

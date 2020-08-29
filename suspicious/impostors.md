@@ -369,6 +369,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.1-BUILD-RELEASE` // `com.quicko,api-client,3.1.1-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.2-BUILD-RELEASE` // `com.quicko,api-client,3.1.2-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.1.3-BUILD-RELEASE` // `com.quicko,api-client,3.1.3-BUILD-RELEASE,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.quicko:api-client:3.2.0-BUILD` // `com.quicko,api-client,3.2.0-BUILD,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.2.4` // `com.snowflake,snowflake-kafka-connector,1.2.4,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.0` // `com.snowflake,snowflake-kafka-connector,1.3.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.snowflake:snowflake-kafka-connector:1.3.1` // `com.snowflake,snowflake-kafka-connector,1.3.1,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
@@ -402,6 +403,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.1` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.1,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.2` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.2,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.0` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.0,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.1` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.1,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.0` // `za.co.absa.spline,admin,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.1` // `za.co.absa.spline,admin,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.2` // `za.co.absa.spline,admin,0.5.2,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -1031,17 +1033,29 @@
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.1` // `com.helger.web,ph-web,9.3.1,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.2` // `com.helger.web,ph-web,9.3.2,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.3.0` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.3.0,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.4.0` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.4.0,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp2` - `com.helger.xsd:ph-xsds-bdxr-smp2:2.3.0` // `com.helger.xsd,ph-xsds-bdxr-smp2,2.3.0,com.helger.xsds.bdxr.smp2,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.bdxr.smp2` - `com.helger.xsd:ph-xsds-bdxr-smp2:2.4.0` // `com.helger.xsd,ph-xsds-bdxr-smp2,2.4.0,com.helger.xsds.bdxr.smp2,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.ccts.cct.schemamodule` - `com.helger.xsd:ph-xsds-ccts-cct-schemamodule:2.3.0` // `com.helger.xsd,ph-xsds-ccts-cct-schemamodule,2.3.0,com.helger.xsds.ccts.cct.schemamodule,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.ccts.cct.schemamodule` - `com.helger.xsd:ph-xsds-ccts-cct-schemamodule:2.4.0` // `com.helger.xsd,ph-xsds-ccts-cct-schemamodule,2.4.0,com.helger.xsds.ccts.cct.schemamodule,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.wsaddr` - `com.helger.xsd:ph-xsds-wsaddr:2.3.0` // `com.helger.xsd,ph-xsds-wsaddr,2.3.0,com.helger.xsds.wsaddr,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.wsaddr` - `com.helger.xsd:ph-xsds-wsaddr:2.4.0` // `com.helger.xsd,ph-xsds-wsaddr,2.4.0,com.helger.xsds.wsaddr,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xades132` - `com.helger.xsd:ph-xsds-xades132:2.3.0` // `com.helger.xsd,ph-xsds-xades132,2.3.0,com.helger.xsds.xades132,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xades132` - `com.helger.xsd:ph-xsds-xades132:2.4.0` // `com.helger.xsd,ph-xsds-xades132,2.4.0,com.helger.xsds.xades132,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xades141` - `com.helger.xsd:ph-xsds-xades141:2.3.0` // `com.helger.xsd,ph-xsds-xades141,2.3.0,com.helger.xsds.xades141,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xades141` - `com.helger.xsd:ph-xsds-xades141:2.4.0` // `com.helger.xsd,ph-xsds-xades141,2.4.0,com.helger.xsds.xades141,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xlink` - `com.helger.xsd:ph-xsds-xlink:2.3.0` // `com.helger.xsd,ph-xsds-xlink,2.3.0,com.helger.xsds.xlink,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xlink` - `com.helger.xsd:ph-xsds-xlink:2.4.0` // `com.helger.xsd,ph-xsds-xlink,2.4.0,com.helger.xsds.xlink,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xml` - `com.helger.xsd:ph-xsds-xml:2.3.0` // `com.helger.xsd,ph-xsds-xml,2.3.0,com.helger.xsds.xml,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xml` - `com.helger.xsd:ph-xsds-xml:2.4.0` // `com.helger.xsd,ph-xsds-xml,2.4.0,com.helger.xsds.xml,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xmldsig` - `com.helger.xsd:ph-xsds-xmldsig:2.3.0` // `com.helger.xsd,ph-xsds-xmldsig,2.3.0,com.helger.xsds.xmldsig,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xmldsig` - `com.helger.xsd:ph-xsds-xmldsig:2.4.0` // `com.helger.xsd,ph-xsds-xmldsig,2.4.0,com.helger.xsds.xmldsig,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xmldsig11` - `com.helger.xsd:ph-xsds-xmldsig11:2.3.0` // `com.helger.xsd,ph-xsds-xmldsig11,2.3.0,com.helger.xsds.xmldsig11,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xmldsig11` - `com.helger.xsd:ph-xsds-xmldsig11:2.4.0` // `com.helger.xsd,ph-xsds-xmldsig11,2.4.0,com.helger.xsds.xmldsig11,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xmlenc` - `com.helger.xsd:ph-xsds-xmlenc:2.3.0` // `com.helger.xsd,ph-xsds-xmlenc,2.3.0,com.helger.xsds.xmlenc,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xmlenc` - `com.helger.xsd:ph-xsds-xmlenc:2.4.0` // `com.helger.xsd,ph-xsds-xmlenc,2.4.0,com.helger.xsds.xmlenc,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.xmlenc11` - `com.helger.xsd:ph-xsds-xmlenc11:2.3.0` // `com.helger.xsd,ph-xsds-xmlenc11,2.3.0,com.helger.xsds.xmlenc11,-,automatic,-,false,-`
+- :cd: `com.helger.xsds.xmlenc11` - `com.helger.xsd:ph-xsds-xmlenc11:2.4.0` // `com.helger.xsd,ph-xsds-xmlenc11,2.4.0,com.helger.xsds.xmlenc11,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.0` // `com.helger.web,ph-xservlet,9.3.0,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.1` // `com.helger.web,ph-xservlet,9.3.1,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.3.2` // `com.helger.web,ph-xservlet,9.3.2,com.helger.xservlet,-,automatic,-,false,-`
@@ -3150,6 +3164,7 @@
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.14` // `com.networknt,codegen-cli,2.0.14,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.15` // `com.networknt,codegen-cli,2.0.15,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.16` // `com.networknt,codegen-cli,2.0.16,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.17` // `com.networknt,codegen-cli,2.0.17,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.2` // `com.networknt,codegen-cli,2.0.2,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.3` // `com.networknt,codegen-cli,2.0.3,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.networknt:codegen-cli:2.0.4` // `com.networknt,codegen-cli,2.0.4,io.github.classgraph,4.8.22,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -3211,6 +3226,7 @@
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.16` // `io.github.factoryfx,microserviceRestResource,2.2.16,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.17` // `io.github.factoryfx,microserviceRestResource,2.2.17,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.18` // `io.github.factoryfx,microserviceRestResource,2.2.18,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
+- :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.19` // `io.github.factoryfx,microserviceRestResource,2.2.19,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.2` // `io.github.factoryfx,microserviceRestResource,2.2.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.3` // `io.github.factoryfx,microserviceRestResource,2.2.3,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.4` // `io.github.factoryfx,microserviceRestResource,2.2.4,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -5778,6 +5794,7 @@
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.5.0` // `org.agrona,agrona-agent,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.5.1` // `org.agrona,agrona-agent,1.5.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.6.0` // `org.agrona,agrona-agent,1.6.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.agrona:agrona-agent:1.7.0` // `org.agrona,agrona-agent,1.7.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.10.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.11.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.beam:beam-runners-flink-1.6-job-server:2.12.0` // `org.apache.beam,beam-runners-flink-1.6-job-server,2.12.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -7038,6 +7055,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.273.15` // `com.yahoo.vespa,vespa-hadoop,7.273.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.274.2` // `com.yahoo.vespa,vespa-hadoop,7.274.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.275.26` // `com.yahoo.vespa,vespa-hadoop,7.275.26,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.276.8` // `com.yahoo.vespa,vespa-hadoop,7.276.8,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -8797,6 +8815,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.9.1` // `com.netflix.nebula,gradle-lint-plugin,16.9.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:16.0.1` // `com.teamscale,teamscale-jacoco-agent,16.0.1,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:17.0.0` // `com.teamscale,teamscale-jacoco-agent,17.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:18.0.0` // `com.teamscale,teamscale-jacoco-agent,18.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -9491,6 +9510,7 @@
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.32` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.32,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.34` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.34,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.37` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.37,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
+- :dvd: `org.slf4j.simple` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.38` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.38,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.53` // `se.bjurr.gitchangelog,git-changelog-command-line,1.53,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.54` // `se.bjurr.gitchangelog,git-changelog-command-line,1.54,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
 - :dvd: `org.slf4j.simple` - `se.bjurr.gitchangelog:git-changelog-command-line:1.55` // `se.bjurr.gitchangelog,git-changelog-command-line,1.55,org.slf4j.simple,-,explicit,java.base + org.slf4j,false,-`
