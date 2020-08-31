@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7409 Java modules published at Maven Central
 
-## Summary 2020-08-30T02:16:55.427483Z
+## Summary 2020-08-31T02:17:42.228768Z
 
 ```
 ## Summary
 
-Started scan at 2020-08-30T02:16:55.427483Z
-Scanned 60,088 files in 8 seconds.
+Started scan at 2020-08-31T02:17:42.228768Z
+Scanned 60,163 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_08_30_02_07_30.csv
+    last -> modulescanner-report-2020_08_31_02_00_20.csv
 
-Parsed 4,071,943 lines in total.
-  63,782 -> captions skipped
-  368,922 -> duplicates skipped
-  203,574 -> module related
+Parsed 4,073,880 lines in total.
+  63,855 -> captions skipped
+  369,054 -> duplicates skipped
+  203,715 -> module related
 
 Collected 7,409 unique modules.
   automatic :cd: -> 5,269
@@ -55,7 +55,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=6311, explicit=426, plain=128990}` 	 5.22%
+ - `2020_08={automatic=6340, explicit=445, plain=130581}` 	 5.20%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -120,9 +120,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [21896](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [27995](suspicious/naming.md)
-- Modular impostors: [9832](suspicious/impostors.md)
+- Invalid module names: [21920](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28002](suspicious/naming.md)
+- Modular impostors: [9894](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -183,7 +183,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.89`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.14`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.14`
-- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.17.0`
+- :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.17.1`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
