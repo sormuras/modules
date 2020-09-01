@@ -392,6 +392,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:1.0.0` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,1.0.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:1.1.2` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,1.1.2,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:2.0.0` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,2.0.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient:2.0.1` // `no.nav.arbeidsgiver,altinn-rettigheter-proxy-klient,2.0.1,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.commonjava.maven.ext:pom-manipulation-cli:4.0` // `org.commonjava.maven.ext,pom-manipulation-cli,4.0,com.fasterxml.jackson.core,2.10.3,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.2.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.2.0,com.fasterxml.jackson.core,2.10.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.3.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.3.0,com.fasterxml.jackson.core,2.10.2,explicit,java.base,false,-`
@@ -3298,6 +3299,7 @@
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.18` // `io.github.factoryfx,microserviceRestResource,2.2.18,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.19` // `io.github.factoryfx,microserviceRestResource,2.2.19,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.2` // `io.github.factoryfx,microserviceRestResource,2.2.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
+- :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.20` // `io.github.factoryfx,microserviceRestResource,2.2.20,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.3` // `io.github.factoryfx,microserviceRestResource,2.2.3,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.4` // `io.github.factoryfx,microserviceRestResource,2.2.4,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.5` // `io.github.factoryfx,microserviceRestResource,2.2.5,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -3512,6 +3514,7 @@
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.0` // `io.micronaut.aws,micronaut-function-aws,2.0.0,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.0.RC1` // `io.micronaut.aws,micronaut-function-aws,2.0.0.RC1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.1` // `io.micronaut.aws,micronaut-function-aws,2.0.1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.2` // `io.micronaut.aws,micronaut-function-aws,2.0.2,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0.RC3` // `io.micronaut,micronaut-bom,1.0.0.RC3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.1` // `io.micronaut,micronaut-bom,1.0.1,io.micronaut.bom,-,automatic,-,false,-`
@@ -6961,6 +6964,7 @@
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.99` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.99,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.3` // `org.robotframework,javafxlibrary,0.5.3,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.4` // `org.robotframework,javafxlibrary,0.5.4,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
+- :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.5` // `org.robotframework,javafxlibrary,0.5.5,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :cd: `org.axonframework.springboot` - `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC2` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC2,org.axonframework.springboot,-,automatic,-,false,-`
 - :cd: `org.axonframework.springboot` - `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC3` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC3,org.axonframework.springboot,-,automatic,-,false,-`
 - :dvd: `org.beryx.awt.color` - `org.datasyslab:geospark-viz_2.1:1.2.0` // `org.datasyslab,geospark-viz_2.1,1.2.0,org.beryx.awt.color,-,explicit,java.base + java.desktop,false,-`
@@ -7165,6 +7169,7 @@
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:10.0.2` // `org.keycloak,kcinit,10.0.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:11.0.0` // `org.keycloak,kcinit,11.0.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:11.0.1` // `org.keycloak,kcinit,11.0.1,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `org.keycloak:kcinit:11.0.2` // `org.keycloak,kcinit,11.0.2,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.testcontainers:testcontainers:1.14.0` // `org.testcontainers,testcontainers,1.14.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:jwt-sample:2.7.0` // `org.wso2.msf4j,jwt-sample,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `org.wso2.msf4j:petstore-fileserver:2.7.0` // `org.wso2.msf4j,petstore-fileserver,2.7.0,org.bouncycastle.pkix,-,explicit,java.base + org.bouncycastle.provider,false,-`
@@ -7279,16 +7284,19 @@
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.1` // `org.eclipse.milo,server-examples,0.4.1,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.2` // `org.eclipse.milo,server-examples,0.4.2,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.2-M1` // `org.eclipse.milo,server-examples,0.4.2-M1,org.bouncycastle.provider,-,explicit,java.base,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.eclipse.milo:server-examples:0.4.3` // `org.eclipse.milo,server-examples,0.4.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.0` // `org.keycloak,keycloak-admin-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.1` // `org.keycloak,keycloak-admin-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:10.0.2` // `org.keycloak,keycloak-admin-cli,10.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:11.0.0` // `org.keycloak,keycloak-admin-cli,11.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:11.0.1` // `org.keycloak,keycloak-admin-cli,11.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-admin-cli:11.0.2` // `org.keycloak,keycloak-admin-cli,11.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.0` // `org.keycloak,keycloak-client-registration-cli,10.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.1` // `org.keycloak,keycloak-client-registration-cli,10.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:10.0.2` // `org.keycloak,keycloak-client-registration-cli,10.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:11.0.0` // `org.keycloak,keycloak-client-registration-cli,11.0.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:11.0.1` // `org.keycloak,keycloak-client-registration-cli,11.0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.keycloak:keycloak-client-registration-cli:11.0.2` // `org.keycloak,keycloak-client-registration-cli,11.0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.netbeans.external:bcprov:RELEASE113` // `org.netbeans.external,bcprov,RELEASE113,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.6-RC` // `org.verapdf.apps,pdfbox-apps,1.14.6-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.verapdf.apps:pdfbox-apps:1.14.7-RC` // `org.verapdf.apps,pdfbox-apps,1.14.7-RC,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -7674,6 +7682,7 @@
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.1` // `org.eclipse.milo,bsd-core,0.4.1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.2` // `org.eclipse.milo,bsd-core,0.4.2,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.2-M1` // `org.eclipse.milo,bsd-core,0.4.2-M1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.4.3` // `org.eclipse.milo,bsd-core,0.4.3,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.1` // `org.flywaydb.enterprise,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.2` // `org.flywaydb.enterprise,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.3` // `org.flywaydb.enterprise,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -8365,6 +8374,7 @@
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.5` // `org.neo4j,neo4j-front-end-4.0,4.0.5,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.6` // `org.neo4j,neo4j-front-end-4.0,4.0.6,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.7` // `org.neo4j,neo4j-front-end-4.0,4.0.7,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.8` // `org.neo4j,neo4j-front-end-4.0,4.0.8,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.1.0` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.1.0,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.1.1` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.1.1,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.0,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
@@ -8952,6 +8962,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.54.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.54.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.55.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.55.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.56.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.56.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.57.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.57.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
