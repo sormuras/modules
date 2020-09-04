@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7427 Java modules published at Maven Central
 
-## Summary 2020-09-03T02:19:13.568983Z
+## Summary 2020-09-04T02:19:43.906717Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-03T02:19:13.568983Z
-Scanned 60,363 files in 8 seconds.
+Started scan at 2020-09-04T02:19:43.906717Z
+Scanned 60,434 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_03_02_00_05.csv
+    last -> modulescanner-report-2020_09_04_01_48_15.csv
 
-Parsed 4,094,996 lines in total.
-  64,053 -> captions skipped
-  371,482 -> duplicates skipped
-  204,986 -> module related
+Parsed 4,101,358 lines in total.
+  64,124 -> captions skipped
+  372,188 -> duplicates skipped
+  205,448 -> module related
 
 Collected 7,427 unique modules.
   automatic :cd: -> 5,284
@@ -56,7 +56,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=464, plain=136914}` 	 5.21%
- - `2020_09={automatic=591, explicit=147, plain=10886}` 	 6.78%
+ - `2020_09={automatic=888, explicit=193, plain=16009}` 	 6.75%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,9 +121,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [21943](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28117](suspicious/naming.md)
-- Modular impostors: [9947](suspicious/impostors.md)
+- Invalid module names: [21976](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28171](suspicious/naming.md)
+- Modular impostors: [9979](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
