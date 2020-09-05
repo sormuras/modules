@@ -3221,6 +3221,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.2.2` // `io.cucumber,cucumber-scala_2.12,6.2.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.3.0` // `io.cucumber,cucumber-scala_2.12,6.3.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.4.0` // `io.cucumber,cucumber-scala_2.12,6.4.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.6.0` // `io.cucumber,cucumber-scala_2.12,6.6.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.6.0` // `io.cucumber,cucumber-scala_2.13,5.6.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.7.0` // `io.cucumber,cucumber-scala_2.13,5.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.0.0` // `io.cucumber,cucumber-scala_2.13,6.0.0,io.cucumber.scala,-,automatic,-,false,-`
@@ -3231,6 +3232,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.2.2` // `io.cucumber,cucumber-scala_2.13,6.2.2,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.3.0` // `io.cucumber,cucumber-scala_2.13,6.3.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.4.0` // `io.cucumber,cucumber-scala_2.13,6.4.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.6.0` // `io.cucumber,cucumber-scala_2.13,6.6.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:2.0.4` // `io.cucumber,tag-expressions,2.0.4,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:3.0.0` // `io.cucumber,tag-expressions,3.0.0,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.testng` - `com.github.harry389:cucumber-testng:4.7.4` // `com.github.harry389,cucumber-testng,4.7.4,io.cucumber.testng,-,automatic,-,false,-`
@@ -4024,6 +4026,7 @@
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.5.0` // `io.micronaut.configuration,micronaut-openapi,1.5.0,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.5.1` // `io.micronaut.configuration,micronaut-openapi,1.5.1,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.5.2` // `io.micronaut.configuration,micronaut-openapi,1.5.2,io.micronaut.configuration.openapi,-,automatic,-,false,-`
+- :cd: `io.micronaut.configuration.openapi` - `io.micronaut.configuration:micronaut-openapi:1.5.3` // `io.micronaut.configuration,micronaut-openapi,1.5.3,io.micronaut.configuration.openapi,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0` // `io.micronaut.configuration,micronaut-picocli,1.0.0,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.0.RC3` // `io.micronaut.configuration,micronaut-picocli,1.0.0.RC3,io.micronaut.configuration.picocli,-,automatic,-,false,-`
 - :cd: `io.micronaut.configuration.picocli` - `io.micronaut.configuration:micronaut-picocli:1.0.1` // `io.micronaut.configuration,micronaut-picocli,1.0.1,io.micronaut.configuration.picocli,-,automatic,-,false,-`
@@ -7960,6 +7963,7 @@
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha8` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha8,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Alpha9` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Alpha9,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta1` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta1,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta10` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta10,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta2` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta2,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta3` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta3,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch` - `org.hibernate.search:hibernate-search-backend-elasticsearch:6.0.0.Beta4` // `org.hibernate.search,hibernate-search-backend-elasticsearch,6.0.0.Beta4,org.hibernate.search.backend.elasticsearch,-,automatic,-,false,-`
@@ -7975,6 +7979,7 @@
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Alpha8` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Alpha8,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Alpha9` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Alpha9,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta1` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta1,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta10` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta10,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta2` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta2,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta3` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta3,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.backend.elasticsearch.aws` - `org.hibernate.search:hibernate-search-backend-elasticsearch-aws:6.0.0.Beta4` // `org.hibernate.search,hibernate-search-backend-elasticsearch-aws,6.0.0.Beta4,org.hibernate.search.backend.elasticsearch.aws,-,automatic,-,false,-`
@@ -7993,6 +7998,7 @@
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Alpha8` // `org.hibernate.search,hibernate-search-engine,6.0.0.Alpha8,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Alpha9` // `org.hibernate.search,hibernate-search-engine,6.0.0.Alpha9,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta1` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta1,org.hibernate.search.engine,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta10` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta10,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta2` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta2,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta3` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta3,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta4` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta4,org.hibernate.search.engine,-,automatic,-,false,-`
@@ -8001,6 +8007,7 @@
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta7` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta7,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta8` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta8,org.hibernate.search.engine,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.engine` - `org.hibernate.search:hibernate-search-engine:6.0.0.Beta9` // `org.hibernate.search,hibernate-search-engine,6.0.0.Beta9,org.hibernate.search.engine,-,automatic,-,false,-`
+- :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta10` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta10,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta2` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta2,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta3` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta3,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
 - :cd: `org.hibernate.search.mapper.pojo` - `org.hibernate.search:hibernate-search-mapper-pojo-base:6.0.0.Beta4` // `org.hibernate.search,hibernate-search-mapper-pojo-base,6.0.0.Beta4,org.hibernate.search.mapper.pojo,-,automatic,-,false,-`
@@ -9034,6 +9041,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.55.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.55.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.56.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.56.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.57.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.57.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.58.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.58.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
@@ -9620,6 +9628,7 @@
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.23` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.23,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.30` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.30,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.31` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.31,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.10` // `io.github.jdiscordbots,nightdream-logging,1.1.10,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.5` // `io.github.jdiscordbots,nightdream-logging,1.1.5,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.6` // `io.github.jdiscordbots,nightdream-logging,1.1.6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.7` // `io.github.jdiscordbots,nightdream-logging,1.1.7,org.slf4j,-,explicit,java.base,false,-`
