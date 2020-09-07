@@ -34,6 +34,12 @@ import static java.lang.System.Logger.Level.DEBUG;
 import static java.util.Comparator.comparing;
 import static java.util.stream.Collectors.toList;
 
+import org.neo4j.driver.AuthTokens;
+import org.neo4j.driver.GraphDatabase;
+import org.neo4j.driver.Session;
+import org.neo4j.driver.exceptions.ClientException;
+import org.neo4j.driver.summary.ResultSummary;
+
 public class Modules {
 
   private static final System.Logger logger = System.getLogger(Modules.class.getName());
@@ -70,6 +76,48 @@ public class Modules {
   }
 
   public static void main(String... args) throws Exception {
+
+    //  docker run --publish=7474:7474 --publish=7687:7687 -e 'NEO4J_AUTH=neo4j/secret' neo4j:4.1
+    // java --source 14 --enable-preview -cp /Users/msimons/.m2/repository/org/neo4j/driver/neo4j-java-driver/4.1.0/neo4j-java-driver-4.1.0.jar:/Users/msimons/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar src/Modules.java ../bucket
+    var driver = GraphDatabase.driver("bolt://localhost:7687", AuthTokens.basic("neo4j", "secret"));
+
+    try(var session = driver.session()) {
+      session.writeTransaction(tx -> tx.run("MATCH (n) DETACH DELETE n"));
+
+      try {
+        session.writeTransaction(tx -> tx.run(
+            """
+                CREATE CONSTRAINT module_unique_name
+                ON (m:Module)
+                ASSERT m.name IS UNIQUE
+                """
+        ));
+      } catch(ClientException e) {
+        // There should be better check if a constraint / index exists
+      }
+      try {
+        session.writeTransaction(tx -> tx.run(
+            """
+            CREATE CONSTRAINT artifact_unique_name
+            ON (a:Artifact)
+            ASSERT a.coordinates IS UNIQUE
+            """
+        ));
+      } catch(ClientException e) {
+        // There should be better check if a constraint / index exists
+      }
+      try {
+        session.writeTransaction(tx -> tx.run(
+            """
+            CREATE INDEX version_index FOR (v:Version)
+            ON (v.name)		  
+            """
+        ));
+      } catch(ClientException e) {
+        // There should be better check if a constraint / index exists
+      }
+    }
+
     var folder = Path.of(args.length == 0 ? "." : args[0]).normalize().toAbsolutePath();
     logger.log(DEBUG, "folder = {0}", folder);
     try (var stream = new FileInputStream("maven-group-alias.properties")) {
@@ -134,6 +182,36 @@ public class Modules {
           continue;
         }
 
+        if(!"-".equals(module.name())) {
+          try (var session = driver.session(); var tx = session.beginTransaction()) {
+
+            var query =
+                """
+                    WITH CASE COALESCE($moduleVersion, "") WHEN "" THEN "unknown" ELSE $moduleVersion END AS finalModuleVersion 
+                    MERGE (m:Module {name: $name})
+                    MERGE (a:Artifact {coordinates: $coordinates})
+                    MERGE (a) - [:CONTAINS] -> (v:Version {name: $artifactVersion})                    
+                    MERGE (v) - [:PROVIDES {version: finalModuleVersion}] -> (m)            
+                    RETURN m, a       
+                    """;
+            tx.run(query,
+                Map.of("name", module.name(), "coordinates", module.mavenGroupColonArtifact, "artifactVersion",
+                    module.mavenVersion, "moduleVersion", module.moduleVersion.trim())).consume();
+            for (String dependency : module.moduleDependencies) {
+              if("-".equals(dependency)) {
+                continue;
+              }
+              var createDependencyQuery = """
+                  MATCH (m:Module {name: $name}) 
+                  MERGE (d:Module {name: $dependency})
+                  MERGE (m) - [:DEPENDS_ON] -> (d)
+                  """;
+              tx.run(createDependencyQuery, Map.of("name", module.name(), "dependency", dependency)).consume();
+            }
+            tx.commit();
+          }
+        }
+
         // already known module
         if (module.mavenGroupColonArtifact.equals(candidate.mavenGroupColonArtifact)) {
           var now = candidate.mavenVersion;
@@ -153,6 +231,7 @@ public class Modules {
     }
 
     summary.write();
+    driver.close();
   }
 
   static class Module implements Comparable<Module> {
