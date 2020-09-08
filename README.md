@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7444 Java modules published at Maven Central
+Counted 7460 Java modules published at Maven Central
 
-## Summary 2020-09-08T02:22:01.811429Z
+## Summary 2020-09-08T07:59:56.716544Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-08T02:22:01.811429Z
-Scanned 60,730 files in 8 seconds.
+Started scan at 2020-09-08T07:59:56.716544Z
+Scanned 60,747 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_08_01_59_07.csv
+    last -> modulescanner-report-2020_09_08_07_45_37.csv
 
-Parsed 4,115,105 lines in total.
-  64,420 -> captions skipped
-  373,711 -> duplicates skipped
-  206,138 -> module related
+Parsed 4,115,758 lines in total.
+  64,437 -> captions skipped
+  373,712 -> duplicates skipped
+  206,144 -> module related
 
-Collected 7,444 unique modules.
+Collected 7,460 unique modules.
   automatic :cd: -> 5,294
-  explicit :dvd: -> 2,150
+  explicit :dvd: -> 2,166
 
 ## Samples
             junit -> junit:junit:4.13
@@ -34,19 +34,19 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2018_08={automatic=2281, explicit=287, plain=143500}` 	 1.79%
  - `2018_09={automatic=1753, explicit=254, plain=96024}` 	 2.09%
  - `2018_10={automatic=2409, explicit=255, plain=101481}` 	 2.63%
- - `2018_11={automatic=1066, explicit=107, plain=48559}` 	 2.42%
+ - `2018_11={automatic=1066, explicit=112, plain=48559}` 	 2.43%
  - `2018_12={automatic=2117, explicit=287, plain=203563}` 	 1.18%
- - `2019_01={automatic=3827, explicit=254, plain=103501}` 	 3.94%
+ - `2019_01={automatic=3827, explicit=272, plain=103501}` 	 3.96%
  - `2019_02={automatic=4604, explicit=554, plain=85957}` 	 6.00%
- - `2019_03={automatic=5502, explicit=637, plain=151127}` 	 4.06%
+ - `2019_03={automatic=5502, explicit=644, plain=151127}` 	 4.07%
  - `2019_04={automatic=4229, explicit=507, plain=154126}` 	 3.07%
- - `2019_05={automatic=6227, explicit=404, plain=156563}` 	 4.24%
+ - `2019_05={automatic=6227, explicit=417, plain=156563}` 	 4.24%
  - `2019_06={automatic=5993, explicit=420, plain=148139}` 	 4.33%
- - `2019_07={automatic=4908, explicit=745, plain=142638}` 	 3.96%
+ - `2019_07={automatic=4908, explicit=758, plain=142638}` 	 3.97%
  - `2019_08={automatic=5927, explicit=342, plain=144313}` 	 4.34%
  - `2019_09={automatic=5982, explicit=593, plain=155377}` 	 4.23%
- - `2019_10={automatic=6894, explicit=439, plain=157528}` 	 4.66%
- - `2019_11={automatic=5866, explicit=721, plain=127782}` 	 5.15%
+ - `2019_10={automatic=6894, explicit=443, plain=157528}` 	 4.66%
+ - `2019_11={automatic=5866, explicit=729, plain=127782}` 	 5.16%
  - `2019_12={automatic=5967, explicit=581, plain=132344}` 	 4.95%
  - `2020_01={automatic=5665, explicit=513, plain=152168}` 	 4.06%
  - `2020_02={automatic=6950, explicit=586, plain=145436}` 	 5.18%
@@ -55,8 +55,8 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_05={automatic=7493, explicit=636, plain=144059}` 	 5.64%
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
- - `2020_08={automatic=6663, explicit=464, plain=136914}` 	 5.21%
- - `2020_09={automatic=1281, explicit=236, plain=27247}` 	 5.57%
+ - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
+ - `2020_09={automatic=1287, explicit=236, plain=27876}` 	 5.46%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -122,8 +122,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [22010](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28358](suspicious/naming.md)
-- Modular impostors: [10012](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28259](suspicious/naming.md)
+- Modular impostors: [10013](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 

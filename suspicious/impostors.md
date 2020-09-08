@@ -5422,6 +5422,7 @@
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client-jdk:2.0.0-M3` // `org.glassfish.tyrus.bundles,tyrus-standalone-client-jdk,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.ext:tyrus-client-cli:2.0.0-M2` // `org.glassfish.tyrus.ext,tyrus-client-cli,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.ext:tyrus-client-cli:2.0.0-M3` // `org.glassfish.tyrus.ext,tyrus-client-cli,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
+- :dvd: `jamal.core` - `com.javax0.jamal:jamal-extensions:1.0.1` // `com.javax0.jamal,jamal-extensions,1.0.1,jamal.core,-,explicit,jamal.api + jamal.tools + java.base + java.scripting,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.0.0-alpha.20190222` // `com.scalar-labs,scalardl-client-sdk,1.0.0-alpha.20190222,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.1.0` // `com.scalar-labs,scalardl-client-sdk,1.1.0,java.json,-,explicit,java.base,false,-`
 - :dvd: `java.json` - `com.scalar-labs:scalardl-client-sdk:1.2.0` // `com.scalar-labs,scalardl-client-sdk,1.2.0,java.json,-,explicit,java.base,false,-`
