@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7460 Java modules published at Maven Central
+Counted 7466 Java modules published at Maven Central
 
-## Summary 2020-09-08T07:59:56.716544Z
+## Summary 2020-09-09T02:22:13.863769Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-08T07:59:56.716544Z
-Scanned 60,747 files in 7 seconds.
+Started scan at 2020-09-09T02:22:13.863769Z
+Scanned 60,794 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_08_07_45_37.csv
+    last -> modulescanner-report-2020_09_09_02_08_04.csv
 
-Parsed 4,115,758 lines in total.
-  64,437 -> captions skipped
-  373,712 -> duplicates skipped
-  206,144 -> module related
+Parsed 4,122,078 lines in total.
+  64,484 -> captions skipped
+  374,436 -> duplicates skipped
+  206,667 -> module related
 
-Collected 7,460 unique modules.
-  automatic :cd: -> 5,294
-  explicit :dvd: -> 2,166
+Collected 7,466 unique modules.
+  automatic :cd: -> 5,296
+  explicit :dvd: -> 2,170
 
 ## Samples
             junit -> junit:junit:4.13
@@ -56,7 +56,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=1287, explicit=236, plain=27876}` 	 5.46%
+ - `2020_09={automatic=1620, explicit=291, plain=32902}` 	 5.81%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,39 +121,39 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [22010](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28259](suspicious/naming.md)
-- Modular impostors: [10013](suspicious/impostors.md)
+- Invalid module names: [22040](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28340](suspicious/naming.md)
+- Modular impostors: [10037](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.10`
-- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.10`
-- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.10`
-- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.10`
-- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.10`
-- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.10`
-- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.10`
-- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.10`
-- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.10`
-- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.10`
-- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.10`
-- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.10`
-- :dvd: `com.almasb.fxgl.logging` - `com.github.almasb:fxgl-logging:11.10`
-- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.10`
-- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.10`
-- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.10`
-- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.10`
-- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.10`
-- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.10`
-- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.10`
-- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.10`
-- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.10`
-- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.10`
-- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.10`
+- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.11`
+- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.11`
+- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.11`
+- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.11`
+- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.11`
+- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.11`
+- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.11`
+- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.11`
+- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.11`
+- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.11`
+- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.11`
+- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.11`
+- :dvd: `com.almasb.fxgl.logging` - `com.github.almasb:fxgl-logging:11.11`
+- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.11`
+- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.11`
+- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.11`
+- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.11`
+- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.11`
+- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.11`
+- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.11`
+- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.11`
+- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.11`
+- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.11`
+- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.11`
 - :dvd: `com.gluonhq.connect` - `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+3`
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
@@ -163,16 +163,16 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M4`
 - :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M4`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M4`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M3`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M3`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M4`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.8`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
