@@ -3072,6 +3072,7 @@
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:6.3` // `tr.com.infumia,KekoUtil,6.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:6.4` // `tr.com.infumia,KekoUtil,6.4,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:6.5` // `tr.com.infumia,KekoUtil,6.5,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:6.6` // `tr.com.infumia,KekoUtil,6.6,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.0` // `tr.com.infumia,db,1.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.1` // `tr.com.infumia,db,1.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.3` // `tr.com.infumia,db,1.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -5631,9 +5632,14 @@
 - :dvd: `jfxtras.icalendaragenda` - `org.jfxtras:jfxtras-icalendaragenda:9.0-r1` // `org.jfxtras,jfxtras-icalendaragenda,9.0-r1,jfxtras.icalendaragenda,-,explicit,jfxtras.agenda + java.base + jfxtras.icalendarfx,true,-`
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.0` // `org.jetbrains.kotlin,kotlin-reflect,1.4.0,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.0-rc` // `org.jetbrains.kotlin,kotlin-reflect,1.4.0-rc,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
+- :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.10` // `org.jetbrains.kotlin,kotlin-reflect,1.4.10,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.2` // `no.entur,schema2proto-lib,1.2,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.3` // `no.entur,schema2proto-lib,1.3,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.4` // `no.entur,schema2proto-lib,1.4,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.5` // `no.entur,schema2proto-lib,1.5,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.0` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.0,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.10` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.0` // `io.github.baharmc,bedrock-edition,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.1` // `io.github.baharmc,bedrock-edition,1.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.2` // `io.github.baharmc,bedrock-edition,1.2,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
@@ -6135,6 +6141,7 @@
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.1` // `com.nerdvision,example,2.0.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.2` // `com.nerdvision,example,2.0.2,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.0.4` // `com.nerdvision,example,2.0.4,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `com.nerdvision:example:2.1.0` // `com.nerdvision,example,2.1.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.0` // `com.netsensia.rivalchess,rivalchess-engine,10.0.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.3` // `com.netsensia.rivalchess,rivalchess-engine,10.0.3,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `com.netsensia.rivalchess:rivalchess-engine:10.0.4` // `com.netsensia.rivalchess,rivalchess-engine,10.0.4,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -7601,6 +7608,7 @@
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.40.0.20200703` // `org.drools,drools-wb-verifier-webworker,7.40.0.20200703,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.41.0.t20200723` // `org.drools,drools-wb-verifier-webworker,7.41.0.t20200723,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.42.0.Final` // `org.drools,drools-wb-verifier-webworker,7.42.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.backend` - `org.drools:drools-wb-verifier-webworker:7.43.0.Final` // `org.drools,drools-wb-verifier-webworker,7.43.0.Final,org.drools.wb.verifier.backend,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.12.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.12.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.13.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.13.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.14.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.14.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
@@ -7633,6 +7641,7 @@
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.40.0.20200703` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.40.0.20200703,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.41.0.t20200723` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.41.0.t20200723,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.42.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.42.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
+- :cd: `org.drools.wb.verifier.client` - `org.drools:drools-wb-verifier-guided-decision-table-adapter:7.43.0.Final` // `org.drools,drools-wb-verifier-guided-decision-table-adapter,7.43.0.Final,org.drools.wb.verifier.client,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.compiler.apt` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.compiler.apt:1.3.100.v20171130-1050` // `org.eclipse.tycho,org.eclipse.jdt.compiler.apt,1.3.100.v20171130-1050,org.eclipse.jdt.compiler.apt,-,automatic,-,false,-`
 - :cd: `org.eclipse.jdt.core` :left_right_arrow: `org.eclipse.tycho:org.eclipse.jdt.core:3.14.0.v20171206-0802` // `org.eclipse.tycho,org.eclipse.jdt.core,3.14.0.v20171206-0802,org.eclipse.jdt.core,-,automatic,-,false,-`
 - :dvd: `org.eclipse.jetty.websocket.javax.client` - `org.eclipse.jetty.websocket:websocket-javax-client:10.0.0.alpha2` // `org.eclipse.jetty.websocket,websocket-javax-client,10.0.0.alpha2,org.eclipse.jetty.websocket.javax.client,10.0.0.alpha2,explicit,java.base + jetty.websocket.api + org.eclipse.jetty.client + org.eclipse.jetty.websocket.javax.common,false,-`
@@ -8224,6 +8233,7 @@
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.40.0.20200703` // `org.jbpm.contrib,karaf-itests,7.40.0.20200703,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.41.0.t20200723` // `org.jbpm.contrib,karaf-itests,7.41.0.t20200723,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.42.0.Final` // `org.jbpm.contrib,karaf-itests,7.42.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
+- :cd: `org.kie.karaf.itests.main` - `org.jbpm.contrib:karaf-itests:7.43.0.Final` // `org.jbpm.contrib,karaf-itests,7.43.0.Final,org.kie.karaf.itests.main,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.2.0` // `org.kie.kogito,drools-mvel-parser,0.2.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.3.0` // `org.kie.kogito,drools-mvel-parser,0.3.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
 - :cd: `org.kie.kogito.drools.constraint.parser` - `org.kie.kogito:drools-mvel-parser:0.4.0` // `org.kie.kogito,drools-mvel-parser,0.4.0,org.kie.kogito.drools.constraint.parser,-,automatic,-,false,-`
@@ -8243,6 +8253,7 @@
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.40.0.20200703` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.40.0.20200703,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.41.0.t20200723` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.41.0.t20200723,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.42.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.42.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
+- :cd: `org.kie.server.itests.dmn` - `org.kie.server:kie-server-integ-tests-scenario-simulation:7.43.0.Final` // `org.kie.server,kie-server-integ-tests-scenario-simulation,7.43.0.Final,org.kie.server.itests.dmn,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.15.0.Final` // `org.kie,business-central-home-page-community,7.15.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.16.0.Final` // `org.kie,business-central-home-page-community,7.16.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.17.0.Final` // `org.kie,business-central-home-page-community,7.17.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
@@ -8272,6 +8283,7 @@
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.40.0.20200703` // `org.kie,business-central-home-page-community,7.40.0.20200703,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.41.0.t20200723` // `org.kie,business-central-home-page-community,7.41.0.t20200723,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.42.0.Final` // `org.kie,business-central-home-page-community,7.42.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.home.page.community` - `org.kie:business-central-home-page-community:7.43.0.Final` // `org.kie,business-central-home-page-community,7.43.0.Final,org.kie.wb.home.page.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.15.0.Final` // `org.kie,business-central-theme-community,7.15.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.16.0.Final` // `org.kie,business-central-theme-community,7.16.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.17.0.Final` // `org.kie,business-central-theme-community,7.17.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
@@ -8301,6 +8313,7 @@
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.40.0.20200703` // `org.kie,business-central-theme-community,7.40.0.20200703,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.41.0.t20200723` // `org.kie,business-central-theme-community,7.41.0.t20200723,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.42.0.Final` // `org.kie,business-central-theme-community,7.42.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.community` - `org.kie:business-central-theme-community:7.43.0.Final` // `org.kie,business-central-theme-community,7.43.0.Final,org.kie.wb.theme.community,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.15.0.Final` // `org.kie,business-central-theme-product,7.15.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.16.0.Final` // `org.kie,business-central-theme-product,7.16.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.17.0.Final` // `org.kie,business-central-theme-product,7.17.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
@@ -8330,6 +8343,7 @@
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.40.0.20200703` // `org.kie,business-central-theme-product,7.40.0.20200703,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.41.0.t20200723` // `org.kie,business-central-theme-product,7.41.0.t20200723,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.42.0.Final` // `org.kie,business-central-theme-product,7.42.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
+- :cd: `org.kie.wb.theme.product` - `org.kie:business-central-theme-product:7.43.0.Final` // `org.kie,business-central-theme-product,7.43.0.Final,org.kie.wb.theme.product,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.5` // `org.lamblin,lamblin-local-runner,0.1.5,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.1.6` // `org.lamblin,lamblin-local-runner,0.1.6,org.lamblin,-,automatic,-,false,-`
 - :cd: `org.lamblin` - `org.lamblin:lamblin-local-runner:0.2.3` // `org.lamblin,lamblin-local-runner,0.2.3,org.lamblin,-,automatic,-,false,-`
@@ -9023,6 +9037,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:16.0.1` // `com.teamscale,teamscale-jacoco-agent,16.0.1,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:17.0.0` // `com.teamscale,teamscale-jacoco-agent,17.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:18.0.0` // `com.teamscale,teamscale-jacoco-agent,18.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:19.0.0` // `com.teamscale,teamscale-jacoco-agent,19.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -9756,6 +9771,7 @@
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.15.0` // `org.trellisldp,trellis-constraint,0.15.0,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
+- :dvd: `org.zalando.problem.gson` - `org.zalando:problem-gson:0.26.0-RC.0` // `org.zalando,problem-gson,0.26.0-RC.0,org.zalando.problem.gson,0.26.0-RC.0,explicit,com.google.gson + java.base + org.apiguardian.api + org.zalando.problem,false,-`
 - :dvd: `pl.tlinkowski.annotation.basic` :left_right_arrow: `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic:0.2.0` // `pl.tlinkowski.annotation,pl.tlinkowski.annotation.basic,0.2.0,pl.tlinkowski.annotation.basic,-,explicit,java.base + jsr305 + kotlin.annotations.jvm,false,-`
 - :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:pl.tlinkowski.gradle.my.settings:0.2.0` // `pl.tlinkowski.gradle.my,pl.tlinkowski.gradle.my.settings,0.2.0,pl.tlinkowski.gradle.my.settings,-,explicit,gradle.api + gradle.kotlin.dsl + java.base + kotlin.stdlib + kotlin.stdlib.jdk8,false,-`
 - :dvd: `pl.tlinkowski.gradle.my.settings` :left_right_arrow: `pl.tlinkowski.gradle.my:pl.tlinkowski.gradle.my.settings:0.3.0` // `pl.tlinkowski.gradle.my,pl.tlinkowski.gradle.my.settings,0.3.0,pl.tlinkowski.gradle.my.settings,-,explicit,gradle.api + gradle.kotlin.dsl + java.base + kotlin.stdlib + kotlin.stdlib.jdk8,false,-`
