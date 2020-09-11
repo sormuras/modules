@@ -50,6 +50,7 @@
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.3` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.3,com.azure.security.keyvault.keys,4.2.0-beta.3,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.4` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.4,com.azure.security.keyvault.keys,4.2.0-beta.4,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.5` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.5,com.azure.security.keyvault.keys,4.2.0-beta.5,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
+- :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.1` // `com.azure,azure-security-keyvault-keys,4.2.1,com.azure.security.keyvault.keys,4.2.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.0.1` // `com.azure,azure-security-keyvault-secrets,4.0.1,com.azure.security.keyvault.secrets,4.0.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.1.0` // `com.azure,azure-security-keyvault-secrets,4.1.0,com.azure.security.keyvault.secrets,4.1.0,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0` // `com.azure,azure-security-keyvault-secrets,4.2.0,com.azure.security.keyvault.secrets,4.2.0,explicit,com.azure.core + java.base,false,-`
@@ -57,6 +58,7 @@
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.2` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.2,com.azure.security.keyvault.secrets,4.2.0-beta.2,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.3` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.3,com.azure.security.keyvault.secrets,4.2.0-beta.3,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.4` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.4,com.azure.security.keyvault.secrets,4.2.0-beta.4,explicit,com.azure.core + java.base,false,-`
+- :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.1` // `com.azure,azure-security-keyvault-secrets,4.2.1,com.azure.security.keyvault.secrets,4.2.1,explicit,com.azure.core + java.base,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha2,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha3,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
@@ -442,12 +444,14 @@
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.0` // `com.hortonworks.registries,avro-examples,0.9.0,com.fasterxml.jackson.dataformat.csv,2.10.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `com.github.liuzhenghui:ecology-plugin-core:1.0.0` // `com.github.liuzhenghui,ecology-plugin-core,1.0.0,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.3.0` // `io.bdeploy,api,2.3.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.4.0` // `io.bdeploy,api,2.4.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.0` // `io.bdeploy,api,2.5.0,com.fasterxml.jackson.dataformat.yaml,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.1` // `io.bdeploy,api,2.5.1,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:2.5.2` // `io.bdeploy,api,2.5.2,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:3.0.0` // `io.bdeploy,api,3.0.0,com.fasterxml.jackson.dataformat.yaml,2.11.2,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.yaml` - `io.bdeploy:api:3.1.0` // `io.bdeploy,api,3.1.0,com.fasterxml.jackson.dataformat.yaml,2.11.2,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.0` // `com.github.priytam,exampleApp,1.0,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1` // `com.github.priytam,exampleApp,1.1,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.datatype.guava` - `com.github.priytam:exampleApp:1.1-java-8` // `com.github.priytam,exampleApp,1.1-java-8,com.fasterxml.jackson.datatype.guava,2.10.1,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.google.common + guava + java.base,false,-`
@@ -2898,6 +2902,7 @@
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.3.2` // `org.icij.extract,extract-cli,3.3.2,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.3.3` // `org.icij.extract,extract-cli,3.3.3,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.3.4` // `org.icij.extract,extract-cli,3.3.4,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.3.5` // `org.icij.extract,extract-cli,3.3.5,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.2.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.2.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.3.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.3.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.10` // `com.expedia.www,haystack-agent,0.1.10,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
@@ -3087,6 +3092,8 @@
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.2` // `de.stklcode.jvault,jvault-connector,0.8.2,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.9.0` // `de.stklcode.jvault,jvault-connector,0.9.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.ubleipzig.image.metadata` - `de.ubleipzig:image.metadata:0.1.0` // `de.ubleipzig,image.metadata,0.1.0,de.ubleipzig.image.metadata,-,automatic,-,false,-`
+- :cd: `edu.hm.hafner.codingstyle` - `edu.hm.hafner:karatest:2.0.0` // `edu.hm.hafner,karatest,2.0.0,edu.hm.hafner.codingstyle,-,automatic,-,false,-`
+- :cd: `edu.hm.hafner.codingstyle` - `edu.hm.hafner:karatest:2.0.1` // `edu.hm.hafner,karatest,2.0.1,edu.hm.hafner.codingstyle,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0` // `eu.toop,tc-api,2.0.0,eu.toop.connector.api,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-beta3` // `eu.toop,tc-api,2.0.0-beta3,eu.toop.connector.api,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.api` - `eu.toop:tc-api:2.0.0-beta4` // `eu.toop,tc-api,2.0.0-beta4,eu.toop.connector.api,-,automatic,-,false,-`
@@ -5061,6 +5068,7 @@
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC1` // `io.micronaut.spring,micronaut-spring,2.1.0.RC1,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC2` // `io.micronaut.spring,micronaut-spring,2.1.0.RC2,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.0.RC3` // `io.micronaut.spring,micronaut-spring,2.1.0.RC3,io.micronaut.spring.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.1` // `io.micronaut.spring,micronaut-spring,2.1.1,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0` // `io.micronaut.test,micronaut-test-core,1.0.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC1` // `io.micronaut.test,micronaut-test-core,1.0.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC2` // `io.micronaut.test,micronaut-test-core,1.0.0.RC2,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -5634,10 +5642,15 @@
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.0-rc` // `org.jetbrains.kotlin,kotlin-reflect,1.4.0-rc,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.10` // `org.jetbrains.kotlin,kotlin-reflect,1.4.10,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.2` // `no.entur,schema2proto-lib,1.2,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.3` // `no.entur,schema2proto-lib,1.3,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.4` // `no.entur,schema2proto-lib,1.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.5` // `no.entur,schema2proto-lib,1.5,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.6` // `no.entur,schema2proto-lib,1.6,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.7` // `no.entur,schema2proto-lib,1.7,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.8` // `no.entur,schema2proto-lib,1.8,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.9` // `no.entur,schema2proto-lib,1.9,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.0` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.0,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.10` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.0` // `io.github.baharmc,bedrock-edition,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
@@ -6734,6 +6747,7 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.141` // `io.nosqlbench,driver-cql-shaded,3.12.141,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.142` // `io.nosqlbench,driver-cql-shaded,3.12.142,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.143` // `io.nosqlbench,driver-cql-shaded,3.12.143,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.144` // `io.nosqlbench,driver-cql-shaded,3.12.144,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -7540,6 +7554,7 @@
 - :cd: `org.conscrypt` - `org.conscrypt:conscrypt-openjdk-uber:2.2.1` // `org.conscrypt,conscrypt-openjdk-uber,2.2.1,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` - `org.conscrypt:conscrypt-openjdk-uber:2.4.0` // `org.conscrypt,conscrypt-openjdk-uber,2.4.0,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.conscrypt` - `org.conscrypt:conscrypt-openjdk-uber:2.5.0` // `org.conscrypt,conscrypt-openjdk-uber,2.5.0,org.conscrypt,-,automatic,-,false,-`
+- :cd: `org.conscrypt` - `org.conscrypt:conscrypt-openjdk-uber:2.5.1` // `org.conscrypt,conscrypt-openjdk-uber,2.5.1,org.conscrypt,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.12.0.Final` // `org.drools,drools-verifier-drl,7.12.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.13.0.Final` // `org.drools,drools-verifier-drl,7.13.0.Final,org.drools.verifier,-,automatic,-,false,-`
 - :cd: `org.drools.verifier` - `org.drools:drools-verifier-drl:7.14.0.Final` // `org.drools,drools-verifier-drl,7.14.0.Final,org.drools.verifier,-,automatic,-,false,-`
@@ -9038,6 +9053,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:17.0.0` // `com.teamscale,teamscale-jacoco-agent,17.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:18.0.0` // `com.teamscale,teamscale-jacoco-agent,18.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:19.0.0` // `com.teamscale,teamscale-jacoco-agent,19.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.teamscale:teamscale-jacoco-agent:20.0.0` // `com.teamscale,teamscale-jacoco-agent,20.0.0,org.objectweb.asm.commons,7.2.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.0` // `com.viridiansoftware,desugar,1.0.0,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.viridiansoftware:desugar:1.0.1` // `com.viridiansoftware,desugar,1.0.1,org.objectweb.asm.commons,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.xdev-software:desktopkit-app:1.2.0` // `com.xdev-software,desktopkit-app,1.2.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -9105,6 +9121,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.56.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.56.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.57.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.57.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.58.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.58.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.59.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.59.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
