@@ -3208,6 +3208,7 @@
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.36` // `org.caseine,caseine.vpl.tools.CLI,0.0.36,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.37` // `org.caseine,caseine.vpl.tools.CLI,0.0.37,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.38` // `org.caseine,caseine.vpl.tools.CLI,0.0.38,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.41` // `org.caseine,caseine.vpl.tools.CLI,0.0.41,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.5` // `org.jboss.gm,cli,1.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6` // `org.jboss.gm,cli,1.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:1.6.1` // `org.jboss.gm,cli,1.6.1,info.picocli,-,explicit,java.base,false,-`
@@ -5691,6 +5692,8 @@
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.9` // `no.entur,schema2proto-lib,1.9,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.0` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.0,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.10` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.10,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurl:1.0.39` // `com.orange.ccmd,hurl,1.0.39,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurlfmt:1.0.39` // `com.orange.ccmd,hurlfmt,1.0.39,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.0` // `io.github.baharmc,bedrock-edition,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.1` // `io.github.baharmc,bedrock-edition,1.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.2` // `io.github.baharmc,bedrock-edition,1.2,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
