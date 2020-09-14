@@ -1,28 +1,28 @@
 # sormuras/modules
-Counted 7533 Java modules published at Maven Central
+Counted 7535 Java modules published at Maven Central
 
-## Summary 2020-09-13T02:24:28.700945Z
+## Summary 2020-09-14T02:24:41.321849Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-13T02:24:28.700945Z
-Scanned 61,076 files in 8 seconds.
+Started scan at 2020-09-14T02:24:41.321849Z
+Scanned 61,160 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_13_02_02_05.csv
+    last -> modulescanner-report-2020_09_14_02_09_47.csv
 
-Parsed 4,147,606 lines in total.
-  64,764 -> captions skipped
-  377,548 -> duplicates skipped
-  208,968 -> module related
+Parsed 4,150,359 lines in total.
+  64,848 -> captions skipped
+  377,579 -> duplicates skipped
+  208,997 -> module related
 
-Collected 7,533 unique modules.
+Collected 7,535 unique modules.
   automatic :cd: -> 5,342
-  explicit :dvd: -> 2,191
+  explicit :dvd: -> 2,193
 
 ## Samples
             junit -> junit:junit:4.13
-org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0-RC1
+org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0
 org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.0
@@ -56,7 +56,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=3001, explicit=521, plain=52737}` 	 6.68%
+ - `2020_09={automatic=3005, explicit=540, plain=55346}` 	 6.41%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,9 +121,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [22202](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28787](suspicious/naming.md)
-- Modular impostors: [10118](suspicious/impostors.md)
+- Invalid module names: [22203](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [28788](suspicious/naming.md)
+- Modular impostors: [10122](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -194,20 +194,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.jooq.joor` - `org.jooq:joor:0.9.13`
 - :dvd: `org.jooq.joou` - `org.jooq:joou:0.9.4`
 - :dvd: `org.jooq.joox` - `org.jooq:joox:1.6.2`
-- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0-RC1`
-- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0-RC1`
-- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0-RC1`
-- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.7.0-RC1`
-- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.7.0-RC1`
-- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.7.0-RC1`
-- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.7.0-RC1`
-- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.7.0-RC1`
-- :dvd: `org.junit.platform.jfr` - `org.junit.platform:junit-platform-jfr:1.7.0-RC1`
-- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.7.0-RC1`
-- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.7.0-RC1`
-- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0-RC1`
-- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0-RC1`
-- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0-RC1`
+- :dvd: `org.junit.jupiter` - `org.junit.jupiter:junit-jupiter:5.7.0`
+- :dvd: `org.junit.jupiter.api` - `org.junit.jupiter:junit-jupiter-api:5.7.0`
+- :dvd: `org.junit.jupiter.engine` - `org.junit.jupiter:junit-jupiter-engine:5.7.0`
+- :dvd: `org.junit.jupiter.migrationsupport` - `org.junit.jupiter:junit-jupiter-migrationsupport:5.7.0`
+- :dvd: `org.junit.jupiter.params` - `org.junit.jupiter:junit-jupiter-params:5.7.0`
+- :dvd: `org.junit.platform.commons` - `org.junit.platform:junit-platform-commons:1.7.0`
+- :dvd: `org.junit.platform.console` - `org.junit.platform:junit-platform-console:1.7.0`
+- :dvd: `org.junit.platform.engine` - `org.junit.platform:junit-platform-engine:1.7.0`
+- :dvd: `org.junit.platform.jfr` - `org.junit.platform:junit-platform-jfr:1.7.0`
+- :dvd: `org.junit.platform.launcher` - `org.junit.platform:junit-platform-launcher:1.7.0`
+- :dvd: `org.junit.platform.reporting` - `org.junit.platform:junit-platform-reporting:1.7.0`
+- :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0`
+- :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0`
+- :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
