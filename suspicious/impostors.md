@@ -1061,16 +1061,22 @@
 - :cd: `com.helger.phase4.servlet` - `com.helger.phase4:phase4-servlet:0.9.17` // `com.helger.phase4,phase4-servlet,0.9.17,com.helger.phase4.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.5` // `com.helger.photon,ph-oton-ajax,8.2.5,com.helger.photon.ajax,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.6` // `com.helger.photon,ph-oton-ajax,8.2.6,com.helger.photon.ajax,-,automatic,-,false,-`
+- :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.7` // `com.helger.photon,ph-oton-ajax,8.2.7,com.helger.photon.ajax,-,automatic,-,false,-`
 - :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.5` // `com.helger.photon,ph-oton-api,8.2.5,com.helger.photon.api,-,automatic,-,false,-`
 - :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.6` // `com.helger.photon,ph-oton-api,8.2.6,com.helger.photon.api,-,automatic,-,false,-`
+- :cd: `com.helger.photon.api` - `com.helger.photon:ph-oton-api:8.2.7` // `com.helger.photon,ph-oton-api,8.2.7,com.helger.photon.api,-,automatic,-,false,-`
 - :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.5` // `com.helger.photon,ph-oton-app,8.2.5,com.helger.photon.app,-,automatic,-,false,-`
 - :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.6` // `com.helger.photon,ph-oton-app,8.2.6,com.helger.photon.app,-,automatic,-,false,-`
+- :cd: `com.helger.photon.app` - `com.helger.photon:ph-oton-app:8.2.7` // `com.helger.photon,ph-oton-app,8.2.7,com.helger.photon.app,-,automatic,-,false,-`
 - :cd: `com.helger.photon.atom` - `com.helger.photon:ph-oton-atom:8.2.5` // `com.helger.photon,ph-oton-atom,8.2.5,com.helger.photon.atom,-,automatic,-,false,-`
 - :cd: `com.helger.photon.atom` - `com.helger.photon:ph-oton-atom:8.2.6` // `com.helger.photon,ph-oton-atom,8.2.6,com.helger.photon.atom,-,automatic,-,false,-`
+- :cd: `com.helger.photon.atom` - `com.helger.photon:ph-oton-atom:8.2.7` // `com.helger.photon,ph-oton-atom,8.2.7,com.helger.photon.atom,-,automatic,-,false,-`
 - :cd: `com.helger.photon.audit` - `com.helger.photon:ph-oton-audit:8.2.5` // `com.helger.photon,ph-oton-audit,8.2.5,com.helger.photon.audit,-,automatic,-,false,-`
 - :cd: `com.helger.photon.audit` - `com.helger.photon:ph-oton-audit:8.2.6` // `com.helger.photon,ph-oton-audit,8.2.6,com.helger.photon.audit,-,automatic,-,false,-`
+- :cd: `com.helger.photon.audit` - `com.helger.photon:ph-oton-audit:8.2.7` // `com.helger.photon,ph-oton-audit,8.2.7,com.helger.photon.audit,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3` - `com.helger.photon:ph-oton-bootstrap3:8.2.5` // `com.helger.photon,ph-oton-bootstrap3,8.2.5,com.helger.photon.bootstrap3,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3` - `com.helger.photon:ph-oton-bootstrap3:8.2.6` // `com.helger.photon,ph-oton-bootstrap3,8.2.6,com.helger.photon.bootstrap3,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3` - `com.helger.photon:ph-oton-bootstrap3:8.2.7` // `com.helger.photon,ph-oton-bootstrap3,8.2.7,com.helger.photon.bootstrap3,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.0` // `com.helger,ph-oton-bootstrap4-pages,8.1.0,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.1` // `com.helger,ph-oton-bootstrap4-pages,8.1.1,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.1.2` // `com.helger,ph-oton-bootstrap4-pages,8.1.2,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
@@ -1078,44 +1084,64 @@
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger:ph-oton-bootstrap4-pages:8.2.0` // `com.helger,ph-oton-bootstrap4-pages,8.2.0,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger.photon:ph-oton-bootstrap3-pages:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-pages,8.2.5,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.pages` - `com.helger.photon:ph-oton-bootstrap3-pages:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-pages,8.2.6,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.pages` - `com.helger.photon:ph-oton-bootstrap3-pages:8.2.7` // `com.helger.photon,ph-oton-bootstrap3-pages,8.2.7,com.helger.photon.bootstrap3.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.stub` - `com.helger.photon:ph-oton-bootstrap3-stub:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-stub,8.2.5,com.helger.photon.bootstrap3.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.stub` - `com.helger.photon:ph-oton-bootstrap3-stub:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-stub,8.2.6,com.helger.photon.bootstrap3.stub,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.stub` - `com.helger.photon:ph-oton-bootstrap3-stub:8.2.7` // `com.helger.photon,ph-oton-bootstrap3-stub,8.2.7,com.helger.photon.bootstrap3.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.uictrls` - `com.helger.photon:ph-oton-bootstrap3-uictrls:8.2.5` // `com.helger.photon,ph-oton-bootstrap3-uictrls,8.2.5,com.helger.photon.bootstrap3.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap3.uictrls` - `com.helger.photon:ph-oton-bootstrap3-uictrls:8.2.6` // `com.helger.photon,ph-oton-bootstrap3-uictrls,8.2.6,com.helger.photon.bootstrap3.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap3.uictrls` - `com.helger.photon:ph-oton-bootstrap3-uictrls:8.2.7` // `com.helger.photon,ph-oton-bootstrap3-uictrls,8.2.7,com.helger.photon.bootstrap3.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4` - `com.helger.photon:ph-oton-bootstrap4:8.2.5` // `com.helger.photon,ph-oton-bootstrap4,8.2.5,com.helger.photon.bootstrap4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4` - `com.helger.photon:ph-oton-bootstrap4:8.2.6` // `com.helger.photon,ph-oton-bootstrap4,8.2.6,com.helger.photon.bootstrap4,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4` - `com.helger.photon:ph-oton-bootstrap4:8.2.7` // `com.helger.photon,ph-oton-bootstrap4,8.2.7,com.helger.photon.bootstrap4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.pages` - `com.helger.photon:ph-oton-bootstrap4-pages:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-pages,8.2.5,com.helger.photon.bootstrap4.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.pages` - `com.helger.photon:ph-oton-bootstrap4-pages:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-pages,8.2.6,com.helger.photon.bootstrap4.pages,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.pages` - `com.helger.photon:ph-oton-bootstrap4-pages:8.2.7` // `com.helger.photon,ph-oton-bootstrap4-pages,8.2.7,com.helger.photon.bootstrap4.pages,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.stub` - `com.helger.photon:ph-oton-bootstrap4-stub:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-stub,8.2.5,com.helger.photon.bootstrap4.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.stub` - `com.helger.photon:ph-oton-bootstrap4-stub:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-stub,8.2.6,com.helger.photon.bootstrap4.stub,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.stub` - `com.helger.photon:ph-oton-bootstrap4-stub:8.2.7` // `com.helger.photon,ph-oton-bootstrap4-stub,8.2.7,com.helger.photon.bootstrap4.stub,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.uictrls` - `com.helger.photon:ph-oton-bootstrap4-uictrls:8.2.5` // `com.helger.photon,ph-oton-bootstrap4-uictrls,8.2.5,com.helger.photon.bootstrap4.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.bootstrap4.uictrls` - `com.helger.photon:ph-oton-bootstrap4-uictrls:8.2.6` // `com.helger.photon,ph-oton-bootstrap4-uictrls,8.2.6,com.helger.photon.bootstrap4.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.bootstrap4.uictrls` - `com.helger.photon:ph-oton-bootstrap4-uictrls:8.2.7` // `com.helger.photon,ph-oton-bootstrap4-uictrls,8.2.7,com.helger.photon.bootstrap4.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.connect` - `com.helger.photon:ph-oton-connect:8.2.5` // `com.helger.photon,ph-oton-connect,8.2.5,com.helger.photon.connect,-,automatic,-,false,-`
 - :cd: `com.helger.photon.connect` - `com.helger.photon:ph-oton-connect:8.2.6` // `com.helger.photon,ph-oton-connect,8.2.6,com.helger.photon.connect,-,automatic,-,false,-`
+- :cd: `com.helger.photon.connect` - `com.helger.photon:ph-oton-connect:8.2.7` // `com.helger.photon,ph-oton-connect,8.2.7,com.helger.photon.connect,-,automatic,-,false,-`
 - :cd: `com.helger.photon.core` - `com.helger.photon:ph-oton-core:8.2.5` // `com.helger.photon,ph-oton-core,8.2.5,com.helger.photon.core,-,automatic,-,false,-`
 - :cd: `com.helger.photon.core` - `com.helger.photon:ph-oton-core:8.2.6` // `com.helger.photon,ph-oton-core,8.2.6,com.helger.photon.core,-,automatic,-,false,-`
+- :cd: `com.helger.photon.core` - `com.helger.photon:ph-oton-core:8.2.7` // `com.helger.photon,ph-oton-core,8.2.7,com.helger.photon.core,-,automatic,-,false,-`
 - :cd: `com.helger.photon.exchange` - `com.helger.photon:ph-oton-exchange:8.2.5` // `com.helger.photon,ph-oton-exchange,8.2.5,com.helger.photon.exchange,-,automatic,-,false,-`
 - :cd: `com.helger.photon.exchange` - `com.helger.photon:ph-oton-exchange:8.2.6` // `com.helger.photon,ph-oton-exchange,8.2.6,com.helger.photon.exchange,-,automatic,-,false,-`
+- :cd: `com.helger.photon.exchange` - `com.helger.photon:ph-oton-exchange:8.2.7` // `com.helger.photon,ph-oton-exchange,8.2.7,com.helger.photon.exchange,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html` - `com.helger.photon:ph-oton-html:8.2.5` // `com.helger.photon,ph-oton-html,8.2.5,com.helger.photon.html,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html` - `com.helger.photon:ph-oton-html:8.2.6` // `com.helger.photon,ph-oton-html,8.2.6,com.helger.photon.html,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html` - `com.helger.photon:ph-oton-html:8.2.7` // `com.helger.photon,ph-oton-html,8.2.7,com.helger.photon.html,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jquery` - `com.helger.photon:ph-oton-jquery:8.2.5` // `com.helger.photon,ph-oton-jquery,8.2.5,com.helger.photon.html.jquery,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jquery` - `com.helger.photon:ph-oton-jquery:8.2.6` // `com.helger.photon,ph-oton-jquery,8.2.6,com.helger.photon.html.jquery,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html.jquery` - `com.helger.photon:ph-oton-jquery:8.2.7` // `com.helger.photon,ph-oton-jquery,8.2.7,com.helger.photon.html.jquery,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jscode` - `com.helger.photon:ph-oton-jscode:8.2.5` // `com.helger.photon,ph-oton-jscode,8.2.5,com.helger.photon.html.jscode,-,automatic,-,false,-`
 - :cd: `com.helger.photon.html.jscode` - `com.helger.photon:ph-oton-jscode:8.2.6` // `com.helger.photon,ph-oton-jscode,8.2.6,com.helger.photon.html.jscode,-,automatic,-,false,-`
+- :cd: `com.helger.photon.html.jscode` - `com.helger.photon:ph-oton-jscode:8.2.7` // `com.helger.photon,ph-oton-jscode,8.2.7,com.helger.photon.html.jscode,-,automatic,-,false,-`
 - :cd: `com.helger.photon.icon` - `com.helger.photon:ph-oton-icon:8.2.5` // `com.helger.photon,ph-oton-icon,8.2.5,com.helger.photon.icon,-,automatic,-,false,-`
 - :cd: `com.helger.photon.icon` - `com.helger.photon:ph-oton-icon:8.2.6` // `com.helger.photon,ph-oton-icon,8.2.6,com.helger.photon.icon,-,automatic,-,false,-`
+- :cd: `com.helger.photon.icon` - `com.helger.photon:ph-oton-icon:8.2.7` // `com.helger.photon,ph-oton-icon,8.2.7,com.helger.photon.icon,-,automatic,-,false,-`
 - :cd: `com.helger.photon.jetty` - `com.helger.photon:ph-oton-jetty:8.2.5` // `com.helger.photon,ph-oton-jetty,8.2.5,com.helger.photon.jetty,-,automatic,-,false,-`
 - :cd: `com.helger.photon.jetty` - `com.helger.photon:ph-oton-jetty:8.2.6` // `com.helger.photon,ph-oton-jetty,8.2.6,com.helger.photon.jetty,-,automatic,-,false,-`
+- :cd: `com.helger.photon.jetty` - `com.helger.photon:ph-oton-jetty:8.2.7` // `com.helger.photon,ph-oton-jetty,8.2.7,com.helger.photon.jetty,-,automatic,-,false,-`
 - :cd: `com.helger.photon.security` - `com.helger.photon:ph-oton-security:8.2.5` // `com.helger.photon,ph-oton-security,8.2.5,com.helger.photon.security,-,automatic,-,false,-`
 - :cd: `com.helger.photon.security` - `com.helger.photon:ph-oton-security:8.2.6` // `com.helger.photon,ph-oton-security,8.2.6,com.helger.photon.security,-,automatic,-,false,-`
+- :cd: `com.helger.photon.security` - `com.helger.photon:ph-oton-security:8.2.7` // `com.helger.photon,ph-oton-security,8.2.7,com.helger.photon.security,-,automatic,-,false,-`
 - :cd: `com.helger.photon.tinymce4` - `com.helger.photon:ph-oton-tinymce4:8.2.5` // `com.helger.photon,ph-oton-tinymce4,8.2.5,com.helger.photon.tinymce4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.tinymce4` - `com.helger.photon:ph-oton-tinymce4:8.2.6` // `com.helger.photon,ph-oton-tinymce4,8.2.6,com.helger.photon.tinymce4,-,automatic,-,false,-`
+- :cd: `com.helger.photon.tinymce4` - `com.helger.photon:ph-oton-tinymce4:8.2.7` // `com.helger.photon,ph-oton-tinymce4,8.2.7,com.helger.photon.tinymce4,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uicore` - `com.helger.photon:ph-oton-uicore:8.2.5` // `com.helger.photon,ph-oton-uicore,8.2.5,com.helger.photon.uicore,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uicore` - `com.helger.photon:ph-oton-uicore:8.2.6` // `com.helger.photon,ph-oton-uicore,8.2.6,com.helger.photon.uicore,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uicore` - `com.helger.photon:ph-oton-uicore:8.2.7` // `com.helger.photon,ph-oton-uicore,8.2.7,com.helger.photon.uicore,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls` - `com.helger.photon:ph-oton-uictrls:8.2.5` // `com.helger.photon,ph-oton-uictrls,8.2.5,com.helger.photon.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls` - `com.helger.photon:ph-oton-uictrls:8.2.6` // `com.helger.photon,ph-oton-uictrls,8.2.6,com.helger.photon.uictrls,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uictrls` - `com.helger.photon:ph-oton-uictrls:8.2.7` // `com.helger.photon,ph-oton-uictrls,8.2.7,com.helger.photon.uictrls,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.5` // `com.helger.photon,ph-oton-datatables,8.2.5,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
 - :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.6` // `com.helger.photon,ph-oton-datatables,8.2.6,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
+- :cd: `com.helger.photon.uictrls.datatables` - `com.helger.photon:ph-oton-datatables:8.2.7` // `com.helger.photon,ph-oton-datatables,8.2.7,com.helger.photon.uictrls.datatables,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.0` // `com.helger.web,ph-servlet,9.3.0,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.1` // `com.helger.web,ph-servlet,9.3.1,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.3.2` // `com.helger.web,ph-servlet,9.3.2,com.helger.servlet,-,automatic,-,false,-`
@@ -2906,6 +2932,7 @@
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.2.1` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.2.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.3.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.3.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `com.eternitywall:java-opentimestamps:1.18` // `com.eternitywall,java-opentimestamps,1.18,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` - `com.eternitywall:java-opentimestamps:1.19` // `com.eternitywall,java-opentimestamps,1.19,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `com.hortonworks.registries:schema-registry-core:0.8.1` // `com.hortonworks.registries,schema-registry-core,0.8.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.glassfish.jaxb:jaxb-runtime:2.3.2` // `org.glassfish.jaxb,jaxb-runtime,2.3.2,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.glassfish.jaxb:jaxb-runtime:2.4.0-b180725.0644` // `org.glassfish.jaxb,jaxb-runtime,2.4.0-b180725.0644,com.sun.xml.bind,-,explicit,org.jvnet.staxex + java.activation + java.xml.bind + com.sun.xml.txw2 + com.sun.istack.runtime + java.desktop + java.compiler + java.xml + com.sun.xml.fastinfoset + java.logging + java.base,true,-`
@@ -3113,6 +3140,8 @@
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:6.8` // `tr.com.infumia,KekoUtil,6.8,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:7.0` // `tr.com.infumia,KekoUtil,7.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:7.1` // `tr.com.infumia,KekoUtil,7.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:7.2` // `tr.com.infumia,KekoUtil,7.2,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `tr.com.infumia:KekoUtil:7.3` // `tr.com.infumia,KekoUtil,7.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.0` // `tr.com.infumia,db,1.0,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.1` // `tr.com.infumia,db,1.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `tr.com.infumia:db:1.3` // `tr.com.infumia,db,1.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -6136,10 +6165,12 @@
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.10.1` // `org.apache.flink,flink-python_2.11,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.11.0` // `org.apache.flink,flink-python_2.11,1.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.11.1` // `org.apache.flink,flink-python_2.11,1.11.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.11:1.11.2` // `org.apache.flink,flink-python_2.11,1.11.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.10.0` // `org.apache.flink,flink-python_2.12,1.10.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.10.1` // `org.apache.flink,flink-python_2.12,1.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.11.0` // `org.apache.flink,flink-python_2.12,1.11.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.11.1` // `org.apache.flink,flink-python_2.12,1.11.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.apache.flink:flink-python_2.12:1.11.2` // `org.apache.flink,flink-python_2.12,1.11.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.hadoop:hadoop-client-minicluster:3.3.0` // `org.apache.hadoop,hadoop-client-minicluster,3.3.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.skywalking:apm-agent:6.0.0-GA` // `org.apache.skywalking,apm-agent,6.0.0-GA,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.apache.skywalking:apm-agent:6.0.0-alpha` // `org.apache.skywalking,apm-agent,6.0.0-alpha,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -6335,6 +6366,7 @@
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.8.3` // `net.tascalate,net.tascalate.concurrent,0.8.3,net.tascalate.concurrent,0.8.3,explicit,java.base,false,-`
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.8.4` // `net.tascalate,net.tascalate.concurrent,0.8.4,net.tascalate.concurrent,0.8.4,explicit,java.base,false,-`
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.9.0` // `net.tascalate,net.tascalate.concurrent,0.9.0,net.tascalate.concurrent,0.9.0,explicit,java.base,false,-`
+- :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.9.1` // `net.tascalate,net.tascalate.concurrent,0.9.1,net.tascalate.concurrent,0.9.1,explicit,java.base,false,-`
 - :cd: `nl.talsmasoftware.context.metrics` - `nl.talsmasoftware.context:context-propagation-micrometer:1.0.8` // `nl.talsmasoftware.context,context-propagation-micrometer,1.0.8,nl.talsmasoftware.context.metrics,-,automatic,-,false,-`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-provider-kafka:0.2` // `no.ssb.rawdata,rawdata-client-provider-kafka,0.2,no.ssb.rawdata.kafka,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + de.huxhorn.sulky.ulid + jackson.annotations + java.base + java.logging + kafka.clients + kafka.streams + no.ssb.config + no.ssb.rawdata.api + no.ssb.service.provider.api + slf4j.api + snappy.java,false,-`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-provider-kafka:0.3` // `no.ssb.rawdata,rawdata-client-provider-kafka,0.3,no.ssb.rawdata.kafka,-,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + de.huxhorn.sulky.ulid + java.base + java.logging + kafka.clients + kafka.streams + no.ssb.config + no.ssb.rawdata.api + no.ssb.service.provider.api + org.slf4j + snappy.java,false,-`
@@ -7157,6 +7189,7 @@
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.3` // `org.robotframework,javafxlibrary,0.5.3,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.4` // `org.robotframework,javafxlibrary,0.5.4,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.5.5` // `org.robotframework,javafxlibrary,0.5.5,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
+- :dvd: `org.assertj.core` - `org.robotframework:javafxlibrary:0.6.0` // `org.robotframework,javafxlibrary,0.6.0,org.assertj.core,3.13.2,explicit,java.base + java.instrument + java.management + java.xml + org.junit.jupiter.api + org.opentest4j,false,-`
 - :cd: `org.axonframework.springboot` - `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC2` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC2,org.axonframework.springboot,-,automatic,-,false,-`
 - :cd: `org.axonframework.springboot` - `org.axonframework.extensions.kafka:axon-kafka-spring-boot-autoconfigure:4.0-RC3` // `org.axonframework.extensions.kafka,axon-kafka-spring-boot-autoconfigure,4.0-RC3,org.axonframework.springboot,-,automatic,-,false,-`
 - :dvd: `org.beryx.awt.color` - `org.datasyslab:geospark-viz_2.1:1.2.0` // `org.datasyslab,geospark-viz_2.1,1.2.0,org.beryx.awt.color,-,explicit,java.base + java.desktop,false,-`
@@ -7333,6 +7366,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.281.56` // `com.yahoo.vespa,vespa-hadoop,7.281.56,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.282.23` // `com.yahoo.vespa,vespa-hadoop,7.282.23,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.285.54` // `com.yahoo.vespa,vespa-hadoop,7.285.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.286.18` // `com.yahoo.vespa,vespa-hadoop,7.286.18,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -7400,6 +7434,7 @@
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.3` // `com.joinesty,nullafi-java-sdk,1.0.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.juliozynger.floorplan:floorplan-gradle-plugin:0.1` // `com.juliozynger.floorplan,floorplan-gradle-plugin,0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.juliozynger.floorplan:floorplan-gradle-plugin:0.2` // `com.juliozynger.floorplan,floorplan-gradle-plugin,0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.liferay.portal:release.dxp.api:7.3.10-ep5` // `com.liferay.portal,release.dxp.api,7.3.10-ep5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.92.0` // `com.linecorp.armeria,armeria,0.92.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.93.0` // `com.linecorp.armeria,armeria,0.93.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.94.0` // `com.linecorp.armeria,armeria,0.94.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -9744,6 +9779,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.35` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.35,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.36` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.36,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.37` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.37,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.38` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.38,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.0-jre14` // `com.guicedee.services,sl4j,1.0.10.0-jre14,org.slf4j,1.0.10.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.1-jre14` // `com.guicedee.services,sl4j,1.0.10.1-jre14,org.slf4j,1.0.10.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.3-jre14` // `com.guicedee.services,sl4j,1.0.10.3-jre14,org.slf4j,1.0.10.3-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
