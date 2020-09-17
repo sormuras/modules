@@ -597,6 +597,7 @@
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.20.0` // `org.apache.beam,beam-runners-spark-job-server,2.20.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.22.0` // `org.apache.beam,beam-runners-spark-job-server,2.22.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.23.0` // `org.apache.beam,beam-runners-spark-job-server,2.23.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
+- :dvd: `com.fasterxml.jackson.module.paranamer` - `org.apache.beam:beam-runners-spark-job-server:2.24.0` // `org.apache.beam,beam-runners-spark-job-server,2.24.0,com.fasterxml.jackson.module.paranamer,2.10.2,explicit,com.fasterxml.jackson.databind + java.base + paranamer,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-docbook-xslt:1.1.1` // `com.github.albfernandez.seam,seam-docbook-xslt,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-docbook-xslt:1.2.0` // `com.github.albfernandez.seam,seam-docbook-xslt,1.2.0,com.github.albfernandez.javadbf,-,automatic,-,false,-`
 - :cd: `com.github.albfernandez.javadbf` - `com.github.albfernandez.seam:seam-jdocbook-style:1.1.1` // `com.github.albfernandez.seam,seam-jdocbook-style,1.1.1,com.github.albfernandez.javadbf,-,automatic,-,false,-`
@@ -923,6 +924,7 @@
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.6` // `com.helger,phoss-directory-businesscard,0.8.6,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.7` // `com.helger,phoss-directory-businesscard,0.8.7,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.8` // `com.helger,phoss-directory-businesscard,0.8.8,com.helger.pd.businesscard,-,automatic,-,false,-`
+- :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.9.0` // `com.helger,phoss-directory-businesscard,0.9.0,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.0` // `com.helger,phoss-directory-client,0.8.0,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.1` // `com.helger,phoss-directory-client,0.8.1,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.2` // `com.helger,phoss-directory-client,0.8.2,com.helger.pd.client,-,automatic,-,false,-`
@@ -932,6 +934,7 @@
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.6` // `com.helger,phoss-directory-client,0.8.6,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.7` // `com.helger,phoss-directory-client,0.8.7,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.8.8` // `com.helger,phoss-directory-client,0.8.8,com.helger.pd.client,-,automatic,-,false,-`
+- :cd: `com.helger.pd.client` - `com.helger:phoss-directory-client:0.9.0` // `com.helger,phoss-directory-client,0.9.0,com.helger.pd.client,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.0` // `com.helger,phoss-directory-indexer,0.8.0,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.1` // `com.helger,phoss-directory-indexer,0.8.1,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.2` // `com.helger,phoss-directory-indexer,0.8.2,com.helger.pd.indexer,-,automatic,-,false,-`
@@ -941,6 +944,7 @@
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.6` // `com.helger,phoss-directory-indexer,0.8.6,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.7` // `com.helger,phoss-directory-indexer,0.8.7,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.8.8` // `com.helger,phoss-directory-indexer,0.8.8,com.helger.pd.indexer,-,automatic,-,false,-`
+- :cd: `com.helger.pd.indexer` - `com.helger:phoss-directory-indexer:0.9.0` // `com.helger,phoss-directory-indexer,0.9.0,com.helger.pd.indexer,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.0` // `com.helger,phoss-directory-searchapi,0.8.0,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.1` // `com.helger,phoss-directory-searchapi,0.8.1,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.2` // `com.helger,phoss-directory-searchapi,0.8.2,com.helger.pd.searchapi,-,automatic,-,false,-`
@@ -950,6 +954,7 @@
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.6` // `com.helger,phoss-directory-searchapi,0.8.6,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.7` // `com.helger,phoss-directory-searchapi,0.8.7,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.8.8` // `com.helger,phoss-directory-searchapi,0.8.8,com.helger.pd.searchapi,-,automatic,-,false,-`
+- :cd: `com.helger.pd.searchapi` - `com.helger:phoss-directory-searchapi:0.9.0` // `com.helger,phoss-directory-searchapi,0.9.0,com.helger.pd.searchapi,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.0` // `com.helger.peppol,peppol-commons,8.1.0,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.1` // `com.helger.peppol,peppol-commons,8.1.1,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.2` // `com.helger.peppol,peppol-commons,8.1.2,com.helger.peppol,-,automatic,-,false,-`
@@ -2961,6 +2966,7 @@
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.3.5` // `org.icij.extract,extract-cli,3.3.5,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.4.0` // `org.icij.extract,extract-cli,3.4.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.5.0` // `org.icij.extract,extract-cli,3.5.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` - `org.icij.extract:extract-cli:3.5.1` // `org.icij.extract,extract-cli,3.5.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.2.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.2.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.3.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.3.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.10` // `com.expedia.www,haystack-agent,0.1.10,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
@@ -3313,6 +3319,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.3.0` // `io.cucumber,cucumber-scala_2.12,6.3.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.4.0` // `io.cucumber,cucumber-scala_2.12,6.4.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.6.0` // `io.cucumber,cucumber-scala_2.12,6.6.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.12:6.7.0` // `io.cucumber,cucumber-scala_2.12,6.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.6.0` // `io.cucumber,cucumber-scala_2.13,5.6.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:5.7.0` // `io.cucumber,cucumber-scala_2.13,5.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.0.0` // `io.cucumber,cucumber-scala_2.13,6.0.0,io.cucumber.scala,-,automatic,-,false,-`
@@ -3324,6 +3331,7 @@
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.3.0` // `io.cucumber,cucumber-scala_2.13,6.3.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.4.0` // `io.cucumber,cucumber-scala_2.13,6.4.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.6.0` // `io.cucumber,cucumber-scala_2.13,6.6.0,io.cucumber.scala,-,automatic,-,false,-`
+- :cd: `io.cucumber.scala` - `io.cucumber:cucumber-scala_2.13:6.7.0` // `io.cucumber,cucumber-scala_2.13,6.7.0,io.cucumber.scala,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:2.0.4` // `io.cucumber,tag-expressions,2.0.4,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.tagexpressions` - `io.cucumber:tag-expressions:3.0.0` // `io.cucumber,tag-expressions,3.0.0,io.cucumber.tagexpressions,-,automatic,-,false,-`
 - :cd: `io.cucumber.testng` - `com.github.harry389:cucumber-testng:4.7.4` // `com.github.harry389,cucumber-testng,4.7.4,io.cucumber.testng,-,automatic,-,false,-`
@@ -5760,6 +5768,7 @@
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:network-common:1.0` // `io.github.baharmc,network-common,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:network-common:1.1` // `io.github.baharmc,network-common,1.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:network-common:1.2` // `io.github.baharmc,network-common,1.2,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `io.github.shiruka:common:1.0` // `io.github.shiruka,common,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `net.bytebuddy` - `cloud.orbit:orbit-redis-cluster:1.5.0` // `cloud.orbit,orbit-redis-cluster,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `cloud.orbit:orbit-redis-cluster:1.5.1` // `cloud.orbit,orbit-redis-cluster,1.5.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `co.elastic.apm:elastic-apm-agent:1.0.0` // `co.elastic.apm,elastic-apm-agent,1.0.0,net.bytebuddy,-,explicit,java.instrument + java.base + jdk.unsupported + net.bytebuddy.agent,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -6385,21 +6394,25 @@
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.10:2.21.0` // `org.apache.beam,beam-runners-flink-1.10,2.21.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.10:2.22.0` // `org.apache.beam,beam-runners-flink-1.10,2.22.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.10:2.23.0` // `org.apache.beam,beam-runners-flink-1.10,2.23.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
+- :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.10:2.24.0` // `org.apache.beam,beam-runners-flink-1.10,2.24.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.17.0` // `org.apache.beam,beam-runners-flink-1.8,2.17.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.18.0` // `org.apache.beam,beam-runners-flink-1.8,2.18.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.19.0` // `org.apache.beam,beam-runners-flink-1.8,2.19.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.20.0` // `org.apache.beam,beam-runners-flink-1.8,2.20.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.22.0` // `org.apache.beam,beam-runners-flink-1.8,2.22.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.23.0` // `org.apache.beam,beam-runners-flink-1.8,2.23.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
+- :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.8:2.24.0` // `org.apache.beam,beam-runners-flink-1.8,2.24.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.17.0` // `org.apache.beam,beam-runners-flink-1.9,2.17.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.18.0` // `org.apache.beam,beam-runners-flink-1.9,2.18.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.19.0` // `org.apache.beam,beam-runners-flink-1.9,2.19.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.20.0` // `org.apache.beam,beam-runners-flink-1.9,2.20.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.22.0` // `org.apache.beam,beam-runners-flink-1.9,2.22.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.23.0` // `org.apache.beam,beam-runners-flink-1.9,2.23.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
+- :cd: `org.apache.beam.runners.flink` - `org.apache.beam:beam-runners-flink-1.9:2.24.0` // `org.apache.beam,beam-runners-flink-1.9,2.24.0,org.apache.beam.runners.flink,-,automatic,-,false,-`
 - :cd: `org.apache.beam.sdk.expansion.service` - `org.apache.beam:beam-sdks-java-expansion-service:2.21.0` // `org.apache.beam,beam-sdks-java-expansion-service,2.21.0,org.apache.beam.sdk.expansion.service,-,automatic,-,false,-`
 - :cd: `org.apache.beam.sdk.expansion.service` - `org.apache.beam:beam-sdks-java-expansion-service:2.22.0` // `org.apache.beam,beam-sdks-java-expansion-service,2.22.0,org.apache.beam.sdk.expansion.service,-,automatic,-,false,-`
 - :cd: `org.apache.beam.sdk.expansion.service` - `org.apache.beam:beam-sdks-java-expansion-service:2.23.0` // `org.apache.beam,beam-sdks-java-expansion-service,2.23.0,org.apache.beam.sdk.expansion.service,-,automatic,-,false,-`
+- :cd: `org.apache.beam.sdk.expansion.service` - `org.apache.beam:beam-sdks-java-expansion-service:2.24.0` // `org.apache.beam,beam-sdks-java-expansion-service,2.24.0,org.apache.beam.sdk.expansion.service,-,automatic,-,false,-`
 - :cd: `org.apache.beam.sdk.extensions.protobuf` - `org.apache.beam:beam-sdks-java-extensions-ml:2.21.0` // `org.apache.beam,beam-sdks-java-extensions-ml,2.21.0,org.apache.beam.sdk.extensions.protobuf,-,automatic,-,false,-`
 - :cd: `org.apache.beam.sdk.extensions.protobuf` - `org.apache.beam:beam-sdks-java-extensions-ml:2.22.0` // `org.apache.beam,beam-sdks-java-extensions-ml,2.22.0,org.apache.beam.sdk.extensions.protobuf,-,automatic,-,false,-`
 - :dvd: `org.apache.commons.collections4` - `com.guicedee.services:commons-collections4:0.70.0.1` // `com.guicedee.services,commons-collections4,0.70.0.1,org.apache.commons.collections4,0.70.0.1,explicit,java.base + java.xml,false,-`
@@ -6613,6 +6626,7 @@
 - :dvd: `org.apache.logging.log4j` - `au.org.consumerdatastandards:codegen:1.0.0-RC6` // `au.org.consumerdatastandards,codegen,1.0.0-RC6,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `au.org.consumerdatastandards:codegen:1.1.1` // `au.org.consumerdatastandards,codegen,1.1.1,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.00` // `cn.net.mugui,spring,1.00,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.01` // `cn.net.mugui,spring,1.01,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.alibaba.ververica:flink-connector-test-util:1.0.0` // `com.alibaba.ververica,flink-connector-test-util,1.0.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.alibaba.ververica:flink-connector-test-util:1.1.0` // `com.alibaba.ververica,flink-connector-test-util,1.1.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ardikars.jxnet:jxnet-example:1.5.5.RC5` // `com.ardikars.jxnet,jxnet-example,1.5.5.RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -6715,6 +6729,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.3` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.3,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.4` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.4,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.5` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.5,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.6.0` // `com.ibm.ta.sdk,ta-sdk-sample,0.6.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.khubla.olmreader:olmreader:1.8.0` // `com.khubla.olmreader,olmreader,1.8.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.10` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.10,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.12` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.12,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -6850,6 +6865,8 @@
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.142` // `io.nosqlbench,driver-cql-shaded,3.12.142,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.143` // `io.nosqlbench,driver-cql-shaded,3.12.143,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.144` // `io.nosqlbench,driver-cql-shaded,3.12.144,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.146` // `io.nosqlbench,driver-cql-shaded,3.12.146,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.147` // `io.nosqlbench,driver-cql-shaded,3.12.147,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.86` // `io.nosqlbench,nb,3.12.86,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.87` // `io.nosqlbench,nb,3.12.87,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:nb:3.12.88` // `io.nosqlbench,nb,3.12.88,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -7470,6 +7487,7 @@
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.7` // `net.snowflake,snowflake-jdbc,3.12.7,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.8` // `net.snowflake,snowflake-jdbc,3.12.8,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.9` // `net.snowflake,snowflake-jdbc,3.12.9,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `org.apache.beam:beam-sdks-java-io-snowflake-expansion-service:2.24.0` // `org.apache.beam,beam-sdks-java-io-snowflake-expansion-service,2.24.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.apache.directory.server:apacheds-service:2.0.0.AM26` // `org.apache.directory.server,apacheds-service,2.0.0.AM26,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :cd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.60` // `org.bouncycastle,bcprov-debug-jdk15on,1.60,org.bouncycastle.provider,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.provider` - `org.bouncycastle:bcprov-debug-jdk15on:1.61` // `org.bouncycastle,bcprov-debug-jdk15on,1.61,org.bouncycastle.provider,-,explicit,java.base,false,-`
@@ -9295,6 +9313,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.129` // `com.rookout,rook,0.1.129,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.130` // `com.rookout,rook,0.1.130,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.132` // `com.rookout,rook,0.1.132,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.133` // `com.rookout,rook,0.1.133,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -9935,6 +9954,7 @@
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.1.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.1.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.2.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.2.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.3.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.3.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.4.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.4.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.1.RELEASE.patched` // `com.labun,spring-tx,5.2.1.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.3.RELEASE.patched` // `com.labun,spring-tx,5.2.3.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :dvd: `swim.api` - `org.swimos:swim-api:3.10.0` // `org.swimos,swim-api,3.10.0,swim.api,-,explicit,java.base + swim.codec + swim.concurrent + swim.dataflow + swim.http + swim.io + swim.math + swim.mqtt + swim.observable + swim.spatial + swim.streamlet + swim.structure + swim.util + swim.warp + swim.ws,false,-`
