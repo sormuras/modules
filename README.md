@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7570 Java modules published at Maven Central
 
-## Summary 2020-09-17T02:26:07.786448Z
+## Summary 2020-09-18T02:26:36.226894Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-17T02:26:07.786448Z
-Scanned 61,394 files in 7 seconds.
+Started scan at 2020-09-18T02:26:36.226894Z
+Scanned 61,469 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_17_02_10_30.csv
+    last -> modulescanner-report-2020_09_18_02_13_26.csv
 
-Parsed 4,170,197 lines in total.
-  65,082 -> captions skipped
-  379,975 -> duplicates skipped
-  211,412 -> module related
+Parsed 4,179,111 lines in total.
+  65,153 -> captions skipped
+  381,318 -> duplicates skipped
+  211,967 -> module related
 
 Collected 7,570 unique modules.
   automatic :cd: -> 5,344
@@ -56,7 +56,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=4384, explicit=614, plain=70139}` 	 7.13%
+ - `2020_09={automatic=4767, explicit=622, plain=77084}` 	 6.99%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,9 +121,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [22734](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29124](suspicious/naming.md)
-- Modular impostors: [10217](suspicious/impostors.md)
+- Invalid module names: [22749](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29169](suspicious/naming.md)
+- Modular impostors: [10321](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -175,7 +175,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M4`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.8`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.5`
-- :dvd: `eu.hansolo.jdp` - `eu.hansolo:jdp:1.3`
+- :dvd: `eu.hansolo.jdp` - `eu.hansolo:jdp:1.5`
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
