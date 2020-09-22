@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 7604 Java modules published at Maven Central
+Counted 7606 Java modules published at Maven Central
 
-## Summary 2020-09-21T02:26:38.734481Z
+## Summary 2020-09-22T02:27:12.524329Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-21T02:26:38.734481Z
-Scanned 61,716 files in 8 seconds.
+Started scan at 2020-09-22T02:27:12.524329Z
+Scanned 61,788 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_21_02_11_49.csv
+    last -> modulescanner-report-2020_09_22_01_56_18.csv
 
-Parsed 4,190,126 lines in total.
-  65,400 -> captions skipped
-  382,610 -> duplicates skipped
-  212,570 -> module related
+Parsed 4,195,002 lines in total.
+  65,472 -> captions skipped
+  383,389 -> duplicates skipped
+  212,994 -> module related
 
-Collected 7,604 unique modules.
-  automatic :cd: -> 5,347
-  explicit :dvd: -> 2,257
+Collected 7,606 unique modules.
+  automatic :cd: -> 5,348
+  explicit :dvd: -> 2,258
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0
-org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
+org.objectweb.asm -> org.ow2.asm:asm:9.0
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.0
         org.slf4j -> org.slf4j:slf4j-api:2.0.0-alpha1
@@ -56,7 +56,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0-beta
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=5071, explicit=661, plain=85957}` 	 6.67%
+ - `2020_09={automatic=5377, explicit=687, plain=89558}` 	 6.77%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -121,9 +121,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [22756](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29378](suspicious/naming.md)
-- Modular impostors: [10365](suspicious/impostors.md)
+- Invalid module names: [22757](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29420](suspicious/naming.md)
+- Modular impostors: [10414](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -246,13 +246,13 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.lwjgl.xxhash` - `org.lwjgl:lwjgl-xxhash:3.2.3`
 - :dvd: `org.lwjgl.yoga` - `org.lwjgl:lwjgl-yoga:3.2.3`
 - :dvd: `org.lwjgl.zstd` - `org.lwjgl:lwjgl-zstd:3.2.3`
-- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:9.0-beta`
+- :dvd: `org.objectweb.asm` - `org.ow2.asm:asm:9.0`
 - :dvd: `org.objectweb.asm.all` - `org.ow2.asm:asm-all:6.0_BETA`
 - :dvd: `org.objectweb.asm.all.debug` - `org.ow2.asm:asm-debug-all:6.0_BETA`
-- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:9.0-beta`
-- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:9.0-beta`
-- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0-beta`
-- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0-beta`
+- :dvd: `org.objectweb.asm.commons` - `org.ow2.asm:asm-commons:9.0`
+- :dvd: `org.objectweb.asm.tree` - `org.ow2.asm:asm-tree:9.0`
+- :dvd: `org.objectweb.asm.tree.analysis` - `org.ow2.asm:asm-analysis:9.0`
+- :dvd: `org.objectweb.asm.util` - `org.ow2.asm:asm-util:9.0`
 - :dvd: `org.objectweb.asm.xml` - `org.ow2.asm:asm-xml:6.2.1`
 - :dvd: `org.slf4j` - `org.slf4j:slf4j-api:2.0.0-alpha1`
 - :dvd: `org.slf4j.jul` - `org.slf4j:slf4j-jdk14:2.0.0-alpha1`

@@ -446,6 +446,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:7.6.2` // `org.n52.arctic-sea,iceland-statistics-kibana,7.6.2,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.0` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.0,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.1` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.1,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.2` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.2,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.openidentityplatform.commons.json-crypto:cli:2.0.7` // `org.openidentityplatform.commons.json-crypto,cli,2.0.7,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.0` // `za.co.absa.spline,admin,0.5.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:admin:0.5.1` // `za.co.absa.spline,admin,0.5.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -643,10 +644,14 @@
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.17.1-jre14` // `com.guicedee.services,openpdf,1.0.17.1-jre14,com.github.librepdf.openpdf,1.0.17.1-jre14,explicit,java.annotation + java.base + java.desktop,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.18.0-jre14` // `com.guicedee.services,openpdf,1.0.18.0-jre14,com.github.librepdf.openpdf,1.3.21,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.18.0-jre15` // `com.guicedee.services,openpdf,1.0.18.0-jre15,com.github.librepdf.openpdf,1.3.21,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
+- :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.18.1-jre14` // `com.guicedee.services,openpdf,1.0.18.1-jre14,com.github.librepdf.openpdf,1.3.21,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
+- :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.18.1-jre15` // `com.guicedee.services,openpdf,1.0.18.1-jre15,com.github.librepdf.openpdf,1.3.21,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.17.0-jre14` // `com.guicedee.services,zstd-jni,1.0.17.0-jre14,com.github.luben.zstd_jni,1.0.17.0-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.17.1-jre14` // `com.guicedee.services,zstd-jni,1.0.17.1-jre14,com.github.luben.zstd_jni,1.0.17.1-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.18.0-jre14` // `com.guicedee.services,zstd-jni,1.0.18.0-jre14,com.github.luben.zstd_jni,1.0.18.0-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.18.0-jre15` // `com.guicedee.services,zstd-jni,1.0.18.0-jre15,com.github.luben.zstd_jni,1.0.18.0-jre15,explicit,java.base,false,-`
+- :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.18.1-jre14` // `com.guicedee.services,zstd-jni,1.0.18.1-jre14,com.github.luben.zstd_jni,1.0.18.1-jre14,explicit,java.base,false,-`
+- :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.18.1-jre15` // `com.guicedee.services,zstd-jni,1.0.18.1-jre15,com.github.luben.zstd_jni,1.0.18.1-jre15,explicit,java.base,false,-`
 - :cd: `com.github.nhojpatrick.checkstyle.rules` - `com.github.nhojpatrick.qa:nhojpatrick-checkstyle-rules:1.0.0` // `com.github.nhojpatrick.qa,nhojpatrick-checkstyle-rules,1.0.0,com.github.nhojpatrick.checkstyle.rules,-,automatic,-,false,-`
 - :cd: `com.github.nhojpatrick.checkstyle.rules` - `com.github.nhojpatrick.qa:nhojpatrick-checkstyle-rules:1.0.1` // `com.github.nhojpatrick.qa,nhojpatrick-checkstyle-rules,1.0.1,com.github.nhojpatrick.checkstyle.rules,-,automatic,-,false,-`
 - :cd: `com.github.nhojpatrick.pmd.ruleset` - `com.github.nhojpatrick.qa:nhojpatrick-pmd-ruleset:1.0.0` // `com.github.nhojpatrick.qa,nhojpatrick-pmd-ruleset,1.0.0,com.github.nhojpatrick.pmd.ruleset,-,automatic,-,false,-`
@@ -660,6 +665,7 @@
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline-examples:2.7.2` // `com.github.rvesse,airline-examples,2.7.2,com.github.rvesse.airline,2.7.2,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline-examples:2.8.0` // `com.github.rvesse,airline-examples,2.8.0,com.github.rvesse.airline,2.8.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.7` // `io.stargate.starter,stargate-starter,0.0.7,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
+- :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.8` // `io.stargate.starter,stargate-starter,0.0.8,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.1.0` // `com.github.themrmilchmann.mjl,mjl-options,0.1.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.2.0` // `com.github.themrmilchmann.mjl,mjl-options,0.2.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :cd: `com.github.tomtung.latex2unicode` - `com.github.tomtung:latex2unicode_2.12:0.2.5` // `com.github.tomtung,latex2unicode_2.12,0.2.5,com.github.tomtung.latex2unicode,-,automatic,-,false,-`
@@ -3319,6 +3325,7 @@
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha3` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha4` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha5` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha5,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha6` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.0.0` // `com.instaclustr,instaclustr-backup-restore,1.0.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.0` // `com.instaclustr,instaclustr-backup-restore,1.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.1` // `com.instaclustr,instaclustr-backup-restore,1.1.1,info.picocli,-,explicit,java.base,false,-`
@@ -3516,6 +3523,7 @@
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.5` // `com.yahoo.elide,elide-blog-example,4.6.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.6` // `com.yahoo.elide,elide-blog-example,4.6.6,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.7` // `com.yahoo.elide,elide-blog-example,4.6.7,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `com.yahoo.elide:elide-blog-example:4.6.8` // `com.yahoo.elide,elide-blog-example,4.6.8,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `cz.o2.proxima:proxima-beam-io-pubsub:0.4.0` // `cz.o2.proxima,proxima-beam-io-pubsub,0.4.0,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.github.it-gorillaz:one-lambda:1.0.0` // `io.github.it-gorillaz,one-lambda,1.0.0,io.github.classgraph,4.1.6,explicit,java.base,false,sun.misc.Contended                       Removed. See http://openjdk.java.net/jeps/260 + sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -3559,6 +3567,7 @@
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.19` // `io.github.factoryfx,microserviceRestResource,2.2.19,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.2` // `io.github.factoryfx,microserviceRestResource,2.2.2,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.20` // `io.github.factoryfx,microserviceRestResource,2.2.20,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
+- :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.21` // `io.github.factoryfx,microserviceRestResource,2.2.21,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.3` // `io.github.factoryfx,microserviceRestResource,2.2.3,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.4` // `io.github.factoryfx,microserviceRestResource,2.2.4,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
 - :dvd: `io.github.factoryfx.microserviceRestServer` - `io.github.factoryfx:microserviceRestResource:2.2.5` // `io.github.factoryfx,microserviceRestResource,2.2.5,io.github.factoryfx.microserviceRestServer,-,explicit,io.github.factoryfx.microserviceRestCommon + java.base + java.ws.rs + jersey.media.jaxb,false,-`
@@ -3778,6 +3787,7 @@
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:2.0.0.RC2` // `io.micronaut,micronaut-aop,2.0.0.RC2,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:2.0.1` // `io.micronaut,micronaut-aop,2.0.1,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:2.0.2` // `io.micronaut,micronaut-aop,2.0.2,io.micronaut.aop,-,automatic,-,false,-`
+- :cd: `io.micronaut.aop` - `io.micronaut:micronaut-aop:2.0.3` // `io.micronaut,micronaut-aop,2.0.3,io.micronaut.aop,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.0` // `io.micronaut.aws,micronaut-function-aws,2.0.0,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.0.RC1` // `io.micronaut.aws,micronaut-function-aws,2.0.0.RC1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.0.1` // `io.micronaut.aws,micronaut-function-aws,2.0.1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
@@ -3842,6 +3852,7 @@
 - :cd: `io.micronaut.buffer_netty` - `io.micronaut:micronaut-buffer-netty:2.0.0.RC2` // `io.micronaut,micronaut-buffer-netty,2.0.0.RC2,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` - `io.micronaut:micronaut-buffer-netty:2.0.1` // `io.micronaut,micronaut-buffer-netty,2.0.1,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.buffer_netty` - `io.micronaut:micronaut-buffer-netty:2.0.2` // `io.micronaut,micronaut-buffer-netty,2.0.2,io.micronaut.buffer_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.buffer_netty` - `io.micronaut:micronaut-buffer-netty:2.0.3` // `io.micronaut,micronaut-buffer-netty,2.0.3,io.micronaut.buffer_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` - `io.micronaut:micronaut-cli:1.0.0` // `io.micronaut,micronaut-cli,1.0.0,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` - `io.micronaut:micronaut-cli:1.0.0.RC3` // `io.micronaut,micronaut-cli,1.0.0.RC3,io.micronaut.cli,-,automatic,-,false,-`
 - :cd: `io.micronaut.cli` - `io.micronaut:micronaut-cli:1.0.1` // `io.micronaut,micronaut-cli,1.0.1,io.micronaut.cli,-,automatic,-,false,-`
@@ -4355,6 +4366,7 @@
 - :cd: `io.micronaut.core` - `io.micronaut:micronaut-core:2.0.0.RC2` // `io.micronaut,micronaut-core,2.0.0.RC2,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` - `io.micronaut:micronaut-core:2.0.1` // `io.micronaut,micronaut-core,2.0.1,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.core` - `io.micronaut:micronaut-core:2.0.2` // `io.micronaut,micronaut-core,2.0.2,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
+- :cd: `io.micronaut.core` - `io.micronaut:micronaut-core:2.0.3` // `io.micronaut,micronaut-core,2.0.3,io.micronaut.core,-,automatic,-,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
 - :cd: `io.micronaut.discovery_client` - `io.micronaut:micronaut-discovery-client:1.0.0` // `io.micronaut,micronaut-discovery-client,1.0.0,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` - `io.micronaut:micronaut-discovery-client:1.0.0.RC3` // `io.micronaut,micronaut-discovery-client,1.0.0.RC3,io.micronaut.discovery_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.discovery_client` - `io.micronaut:micronaut-discovery-client:1.0.1` // `io.micronaut,micronaut-discovery-client,1.0.1,io.micronaut.discovery_client,-,automatic,-,false,-`
@@ -4430,6 +4442,7 @@
 - :cd: `io.micronaut.function` - `io.micronaut:micronaut-function:2.0.0.RC2` // `io.micronaut,micronaut-function,2.0.0.RC2,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` - `io.micronaut:micronaut-function:2.0.1` // `io.micronaut,micronaut-function,2.0.1,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function` - `io.micronaut:micronaut-function:2.0.2` // `io.micronaut,micronaut-function,2.0.2,io.micronaut.function,-,automatic,-,false,-`
+- :cd: `io.micronaut.function` - `io.micronaut:micronaut-function:2.0.3` // `io.micronaut,micronaut-function,2.0.3,io.micronaut.function,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_aws` - `io.micronaut:micronaut-function-aws:1.0.0` // `io.micronaut,micronaut-function-aws,1.0.0,io.micronaut.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_aws` - `io.micronaut:micronaut-function-aws:1.0.0.RC3` // `io.micronaut,micronaut-function-aws,1.0.0.RC3,io.micronaut.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_aws` - `io.micronaut:micronaut-function-aws:1.0.1` // `io.micronaut,micronaut-function-aws,1.0.1,io.micronaut.function_aws,-,automatic,-,false,-`
@@ -4474,6 +4487,7 @@
 - :cd: `io.micronaut.function_client` - `io.micronaut:micronaut-function-client:2.0.0.RC2` // `io.micronaut,micronaut-function-client,2.0.0.RC2,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` - `io.micronaut:micronaut-function-client:2.0.1` // `io.micronaut,micronaut-function-client,2.0.1,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_client` - `io.micronaut:micronaut-function-client:2.0.2` // `io.micronaut,micronaut-function-client,2.0.2,io.micronaut.function_client,-,automatic,-,false,-`
+- :cd: `io.micronaut.function_client` - `io.micronaut:micronaut-function-client:2.0.3` // `io.micronaut,micronaut-function-client,2.0.3,io.micronaut.function_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_groovy` - `io.micronaut:micronaut-function-groovy:1.0.0` // `io.micronaut,micronaut-function-groovy,1.0.0,io.micronaut.function_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_groovy` - `io.micronaut:micronaut-function-groovy:1.0.0.RC3` // `io.micronaut,micronaut-function-groovy,1.0.0.RC3,io.micronaut.function_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_groovy` - `io.micronaut:micronaut-function-groovy:1.0.1` // `io.micronaut,micronaut-function-groovy,1.0.1,io.micronaut.function_groovy,-,automatic,-,false,-`
@@ -4526,6 +4540,7 @@
 - :cd: `io.micronaut.function_web` - `io.micronaut:micronaut-function-web:2.0.0.RC2` // `io.micronaut,micronaut-function-web,2.0.0.RC2,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` - `io.micronaut:micronaut-function-web:2.0.1` // `io.micronaut,micronaut-function-web,2.0.1,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.function_web` - `io.micronaut:micronaut-function-web:2.0.2` // `io.micronaut,micronaut-function-web,2.0.2,io.micronaut.function_web,-,automatic,-,false,-`
+- :cd: `io.micronaut.function_web` - `io.micronaut:micronaut-function-web:2.0.3` // `io.micronaut,micronaut-function-web,2.0.3,io.micronaut.function_web,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:1.0.0` // `io.micronaut,micronaut-graal,1.0.0,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:1.0.0.RC3` // `io.micronaut,micronaut-graal,1.0.0.RC3,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:1.0.1` // `io.micronaut,micronaut-graal,1.0.1,io.micronaut.graal,-,automatic,-,false,-`
@@ -4564,6 +4579,7 @@
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:2.0.0.RC2` // `io.micronaut,micronaut-graal,2.0.0.RC2,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:2.0.1` // `io.micronaut,micronaut-graal,2.0.1,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:2.0.2` // `io.micronaut,micronaut-graal,2.0.2,io.micronaut.graal,-,automatic,-,false,-`
+- :cd: `io.micronaut.graal` - `io.micronaut:micronaut-graal:2.0.3` // `io.micronaut,micronaut-graal,2.0.3,io.micronaut.graal,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:1.0.0` // `io.micronaut,micronaut-http,1.0.0,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:1.0.0.RC3` // `io.micronaut,micronaut-http,1.0.0.RC3,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:1.0.1` // `io.micronaut,micronaut-http,1.0.1,io.micronaut.http,-,automatic,-,false,-`
@@ -4602,6 +4618,7 @@
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:2.0.0.RC2` // `io.micronaut,micronaut-http,2.0.0.RC2,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:2.0.1` // `io.micronaut,micronaut-http,2.0.1,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:2.0.2` // `io.micronaut,micronaut-http,2.0.2,io.micronaut.http,-,automatic,-,false,-`
+- :cd: `io.micronaut.http` - `io.micronaut:micronaut-http:2.0.3` // `io.micronaut,micronaut-http,2.0.3,io.micronaut.http,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:1.0.0` // `io.micronaut,micronaut-http-client,1.0.0,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:1.0.0.RC3` // `io.micronaut,micronaut-http-client,1.0.0.RC3,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:1.0.1` // `io.micronaut,micronaut-http-client,1.0.1,io.micronaut.http_client,-,automatic,-,false,-`
@@ -4640,6 +4657,7 @@
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:2.0.0.RC2` // `io.micronaut,micronaut-http-client,2.0.0.RC2,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:2.0.1` // `io.micronaut,micronaut-http-client,2.0.1,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:2.0.2` // `io.micronaut,micronaut-http-client,2.0.2,io.micronaut.http_client,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_client` - `io.micronaut:micronaut-http-client:2.0.3` // `io.micronaut,micronaut-http-client,2.0.3,io.micronaut.http_client,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:1.0.0` // `io.micronaut,micronaut-http-netty,1.0.0,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:1.0.0.RC3` // `io.micronaut,micronaut-http-netty,1.0.0.RC3,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:1.0.1` // `io.micronaut,micronaut-http-netty,1.0.1,io.micronaut.http_netty,-,automatic,-,false,-`
@@ -4678,6 +4696,7 @@
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:2.0.0.RC2` // `io.micronaut,micronaut-http-netty,2.0.0.RC2,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:2.0.1` // `io.micronaut,micronaut-http-netty,2.0.1,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:2.0.2` // `io.micronaut,micronaut-http-netty,2.0.2,io.micronaut.http_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_netty` - `io.micronaut:micronaut-http-netty:2.0.3` // `io.micronaut,micronaut-http-netty,2.0.3,io.micronaut.http_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:1.0.0` // `io.micronaut,micronaut-http-server,1.0.0,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:1.0.0.RC3` // `io.micronaut,micronaut-http-server,1.0.0.RC3,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:1.0.1` // `io.micronaut,micronaut-http-server,1.0.1,io.micronaut.http_server,-,automatic,-,false,-`
@@ -4716,6 +4735,7 @@
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:2.0.0.RC2` // `io.micronaut,micronaut-http-server,2.0.0.RC2,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:2.0.1` // `io.micronaut,micronaut-http-server,2.0.1,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:2.0.2` // `io.micronaut,micronaut-http-server,2.0.2,io.micronaut.http_server,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_server` - `io.micronaut:micronaut-http-server:2.0.3` // `io.micronaut,micronaut-http-server,2.0.3,io.micronaut.http_server,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:1.0.0` // `io.micronaut,micronaut-http-server-netty,1.0.0,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:1.0.0.RC3` // `io.micronaut,micronaut-http-server-netty,1.0.0.RC3,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:1.0.1` // `io.micronaut,micronaut-http-server-netty,1.0.1,io.micronaut.http_server_netty,-,automatic,-,false,-`
@@ -4754,6 +4774,7 @@
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:2.0.0.RC2` // `io.micronaut,micronaut-http-server-netty,2.0.0.RC2,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:2.0.1` // `io.micronaut,micronaut-http-server-netty,2.0.1,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:2.0.2` // `io.micronaut,micronaut-http-server-netty,2.0.2,io.micronaut.http_server_netty,-,automatic,-,false,-`
+- :cd: `io.micronaut.http_server_netty` - `io.micronaut:micronaut-http-server-netty:2.0.3` // `io.micronaut,micronaut-http-server-netty,2.0.3,io.micronaut.http_server_netty,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:1.0.0` // `io.micronaut,micronaut-inject,1.0.0,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:1.0.0.RC3` // `io.micronaut,micronaut-inject,1.0.0.RC3,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:1.0.1` // `io.micronaut,micronaut-inject,1.0.1,io.micronaut.inject,-,automatic,-,false,-`
@@ -4792,6 +4813,7 @@
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:2.0.0.RC2` // `io.micronaut,micronaut-inject,2.0.0.RC2,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:2.0.1` // `io.micronaut,micronaut-inject,2.0.1,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:2.0.2` // `io.micronaut,micronaut-inject,2.0.2,io.micronaut.inject,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject` - `io.micronaut:micronaut-inject:2.0.3` // `io.micronaut,micronaut-inject,2.0.3,io.micronaut.inject,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:1.0.0` // `io.micronaut,micronaut-inject-groovy,1.0.0,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:1.0.0.RC3` // `io.micronaut,micronaut-inject-groovy,1.0.0.RC3,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:1.0.1` // `io.micronaut,micronaut-inject-groovy,1.0.1,io.micronaut.inject_groovy,-,automatic,-,false,-`
@@ -4830,6 +4852,7 @@
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:2.0.0.RC2` // `io.micronaut,micronaut-inject-groovy,2.0.0.RC2,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:2.0.1` // `io.micronaut,micronaut-inject-groovy,2.0.1,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:2.0.2` // `io.micronaut,micronaut-inject-groovy,2.0.2,io.micronaut.inject_groovy,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject_groovy` - `io.micronaut:micronaut-inject-groovy:2.0.3` // `io.micronaut,micronaut-inject-groovy,2.0.3,io.micronaut.inject_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:1.0.0` // `io.micronaut,micronaut-inject-java,1.0.0,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:1.0.0.RC3` // `io.micronaut,micronaut-inject-java,1.0.0.RC3,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:1.0.1` // `io.micronaut,micronaut-inject-java,1.0.1,io.micronaut.inject_java,-,automatic,-,false,-`
@@ -4868,6 +4891,7 @@
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:2.0.0.RC2` // `io.micronaut,micronaut-inject-java,2.0.0.RC2,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:2.0.1` // `io.micronaut,micronaut-inject-java,2.0.1,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:2.0.2` // `io.micronaut,micronaut-inject-java,2.0.2,io.micronaut.inject_java,-,automatic,-,false,-`
+- :cd: `io.micronaut.inject_java` - `io.micronaut:micronaut-inject-java:2.0.3` // `io.micronaut,micronaut-inject-java,2.0.3,io.micronaut.inject_java,-,automatic,-,false,-`
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:1.0.0` // `io.micronaut,micronaut-inject-java-test,1.0.0,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:1.0.0.RC3` // `io.micronaut,micronaut-inject-java-test,1.0.0.RC3,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:1.0.1` // `io.micronaut,micronaut-inject-java-test,1.0.1,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
@@ -4906,6 +4930,7 @@
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:2.0.0.RC2` // `io.micronaut,micronaut-inject-java-test,2.0.0.RC2,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.main.JavaCompiler    Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:2.0.1` // `io.micronaut,micronaut-inject-java-test,2.0.1,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.main.JavaCompiler    Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:2.0.2` // `io.micronaut,micronaut-inject-java-test,2.0.2,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.main.JavaCompiler    Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
+- :cd: `io.micronaut.inject_java_test` - `io.micronaut:micronaut-inject-java-test:2.0.3` // `io.micronaut,micronaut-inject-java-test,2.0.3,io.micronaut.inject_java_test,-,automatic,-,false,com.sun.tools.javac.api.JavacTool        Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.main.JavaCompiler    Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacElements  Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.model.JavacTypes     Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.processing.JavacProcessingEnvironment Use javax.tools and javax.lang.model @since 1.6 + com.sun.tools.javac.util.Context         Use javax.tools and javax.lang.model @since 1.6`
 - :cd: `io.micronaut.jdbc` - `io.micronaut:micronaut-jdbc:1.0.0` // `io.micronaut,micronaut-jdbc,1.0.0,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` - `io.micronaut:micronaut-jdbc:1.0.0.RC3` // `io.micronaut,micronaut-jdbc,1.0.0.RC3,io.micronaut.jdbc,-,automatic,-,false,-`
 - :cd: `io.micronaut.jdbc` - `io.micronaut:micronaut-jdbc:1.0.1` // `io.micronaut,micronaut-jdbc,1.0.1,io.micronaut.jdbc,-,automatic,-,false,-`
@@ -4975,6 +5000,7 @@
 - :cd: `io.micronaut.management` - `io.micronaut:micronaut-management:2.0.0.RC2` // `io.micronaut,micronaut-management,2.0.0.RC2,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` - `io.micronaut:micronaut-management:2.0.1` // `io.micronaut,micronaut-management,2.0.1,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.management` - `io.micronaut:micronaut-management:2.0.2` // `io.micronaut,micronaut-management,2.0.2,io.micronaut.management,-,automatic,-,false,-`
+- :cd: `io.micronaut.management` - `io.micronaut:micronaut-management:2.0.3` // `io.micronaut,micronaut-management,2.0.3,io.micronaut.management,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:1.0.0` // `io.micronaut,micronaut-messaging,1.0.0,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:1.0.0.RC3` // `io.micronaut,micronaut-messaging,1.0.0.RC3,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:1.0.1` // `io.micronaut,micronaut-messaging,1.0.1,io.micronaut.messaging,-,automatic,-,false,-`
@@ -5013,6 +5039,7 @@
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:2.0.0.RC2` // `io.micronaut,micronaut-messaging,2.0.0.RC2,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:2.0.1` // `io.micronaut,micronaut-messaging,2.0.1,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:2.0.2` // `io.micronaut,micronaut-messaging,2.0.2,io.micronaut.messaging,-,automatic,-,false,-`
+- :cd: `io.micronaut.messaging` - `io.micronaut:micronaut-messaging:2.0.3` // `io.micronaut,micronaut-messaging,2.0.3,io.micronaut.messaging,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:1.0.0` // `io.micronaut,micronaut-multitenancy,1.0.0,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:1.0.0.RC3` // `io.micronaut,micronaut-multitenancy,1.0.0.RC3,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:1.0.1` // `io.micronaut,micronaut-multitenancy,1.0.1,io.micronaut.multitenancy,-,automatic,-,false,-`
@@ -5051,6 +5078,7 @@
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:2.0.0.RC2` // `io.micronaut,micronaut-multitenancy,2.0.0.RC2,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:2.0.1` // `io.micronaut,micronaut-multitenancy,2.0.1,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:2.0.2` // `io.micronaut,micronaut-multitenancy,2.0.2,io.micronaut.multitenancy,-,automatic,-,false,-`
+- :cd: `io.micronaut.multitenancy` - `io.micronaut:micronaut-multitenancy:2.0.3` // `io.micronaut,micronaut-multitenancy,2.0.3,io.micronaut.multitenancy,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:1.0.0` // `io.micronaut,micronaut-router,1.0.0,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:1.0.0.RC3` // `io.micronaut,micronaut-router,1.0.0.RC3,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:1.0.1` // `io.micronaut,micronaut-router,1.0.1,io.micronaut.router,-,automatic,-,false,-`
@@ -5089,6 +5117,7 @@
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:2.0.0.RC2` // `io.micronaut,micronaut-router,2.0.0.RC2,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:2.0.1` // `io.micronaut,micronaut-router,2.0.1,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:2.0.2` // `io.micronaut,micronaut-router,2.0.2,io.micronaut.router,-,automatic,-,false,-`
+- :cd: `io.micronaut.router` - `io.micronaut:micronaut-router:2.0.3` // `io.micronaut,micronaut-router,2.0.3,io.micronaut.router,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:1.0.0` // `io.micronaut,micronaut-runtime,1.0.0,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:1.0.0.RC3` // `io.micronaut,micronaut-runtime,1.0.0.RC3,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:1.0.1` // `io.micronaut,micronaut-runtime,1.0.1,io.micronaut.runtime,-,automatic,-,false,-`
@@ -5127,6 +5156,7 @@
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:2.0.0.RC2` // `io.micronaut,micronaut-runtime,2.0.0.RC2,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:2.0.1` // `io.micronaut,micronaut-runtime,2.0.1,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:2.0.2` // `io.micronaut,micronaut-runtime,2.0.2,io.micronaut.runtime,-,automatic,-,false,-`
+- :cd: `io.micronaut.runtime` - `io.micronaut:micronaut-runtime:2.0.3` // `io.micronaut,micronaut-runtime,2.0.3,io.micronaut.runtime,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` - `io.micronaut:micronaut-runtime-groovy:1.0.0` // `io.micronaut,micronaut-runtime-groovy,1.0.0,io.micronaut.runtime_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` - `io.micronaut:micronaut-runtime-groovy:1.0.0.RC3` // `io.micronaut,micronaut-runtime-groovy,1.0.0.RC3,io.micronaut.runtime_groovy,-,automatic,-,false,-`
 - :cd: `io.micronaut.runtime_groovy` - `io.micronaut:micronaut-runtime-groovy:1.0.1` // `io.micronaut,micronaut-runtime-groovy,1.0.1,io.micronaut.runtime_groovy,-,automatic,-,false,-`
@@ -5244,6 +5274,7 @@
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:2.0.0.RC2` // `io.micronaut,micronaut-session,2.0.0.RC2,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:2.0.1` // `io.micronaut,micronaut-session,2.0.1,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:2.0.2` // `io.micronaut,micronaut-session,2.0.2,io.micronaut.session,-,automatic,-,false,-`
+- :cd: `io.micronaut.session` - `io.micronaut:micronaut-session:2.0.3` // `io.micronaut,micronaut-session,2.0.3,io.micronaut.session,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.0.0` // `io.micronaut,micronaut-spring,1.0.0,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.0.0.RC3` // `io.micronaut,micronaut-spring,1.0.0.RC3,io.micronaut.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring` - `io.micronaut:micronaut-spring:1.0.1` // `io.micronaut,micronaut-spring,1.0.1,io.micronaut.spring,-,automatic,-,false,-`
@@ -5392,6 +5423,7 @@
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:2.0.0.RC2` // `io.micronaut,micronaut-tracing,2.0.0.RC2,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:2.0.1` // `io.micronaut,micronaut-tracing,2.0.1,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:2.0.2` // `io.micronaut,micronaut-tracing,2.0.2,io.micronaut.tracing,-,automatic,-,false,-`
+- :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:2.0.3` // `io.micronaut,micronaut-tracing,2.0.3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:1.0.0` // `io.micronaut,micronaut-validation,1.0.0,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:1.0.0.RC3` // `io.micronaut,micronaut-validation,1.0.0.RC3,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:1.0.1` // `io.micronaut,micronaut-validation,1.0.1,io.micronaut.validation,-,automatic,-,false,-`
@@ -5430,6 +5462,7 @@
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:2.0.0.RC2` // `io.micronaut,micronaut-validation,2.0.0.RC2,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:2.0.1` // `io.micronaut,micronaut-validation,2.0.1,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:2.0.2` // `io.micronaut,micronaut-validation,2.0.2,io.micronaut.validation,-,automatic,-,false,-`
+- :cd: `io.micronaut.validation` - `io.micronaut:micronaut-validation:2.0.3` // `io.micronaut,micronaut-validation,2.0.3,io.micronaut.validation,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` - `io.micronaut:micronaut-views:1.0.0.RC3` // `io.micronaut,micronaut-views,1.0.0.RC3,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` - `io.micronaut:micronaut-views:1.0.1` // `io.micronaut,micronaut-views,1.0.1,io.micronaut.views,-,automatic,-,false,-`
 - :cd: `io.micronaut.views` - `io.micronaut:micronaut-views:1.0.2` // `io.micronaut,micronaut-views,1.0.2,io.micronaut.views,-,automatic,-,false,-`
@@ -5487,6 +5520,7 @@
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.0.0.RC2` // `io.micronaut,micronaut-websocket,2.0.0.RC2,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.0.1` // `io.micronaut,micronaut-websocket,2.0.1,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.0.2` // `io.micronaut,micronaut-websocket,2.0.2,io.micronaut.websocket,-,automatic,-,false,-`
+- :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.0.3` // `io.micronaut,micronaut-websocket,2.0.3,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.1` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.4` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.4,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.3.0` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.3.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
@@ -5607,6 +5641,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.17.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.17.1-jre14,jakarta.mail,1.0.17.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.18.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.18.0-jre14,jakarta.mail,1.0.18.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.18.0-jre15` // `com.guicedee.services,jakarta.mail,1.0.18.0-jre15,jakarta.mail,1.0.18.0-jre15,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.18.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.18.1-jre14,jakarta.mail,1.0.18.1-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.18.1-jre15` // `com.guicedee.services,jakarta.mail,1.0.18.1-jre15,jakarta.mail,1.0.18.1-jre15,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.2-jre13,jakarta.mail,1.0.4.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.3-jre13,jakarta.mail,1.0.4.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.4-jre13,jakarta.mail,1.0.4.4-jre13,explicit,java.base,false,-`
@@ -6505,6 +6541,7 @@
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.8.4` // `net.tascalate,net.tascalate.concurrent,0.8.4,net.tascalate.concurrent,0.8.4,explicit,java.base,false,-`
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.9.0` // `net.tascalate,net.tascalate.concurrent,0.9.0,net.tascalate.concurrent,0.9.0,explicit,java.base,false,-`
 - :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.9.1` // `net.tascalate,net.tascalate.concurrent,0.9.1,net.tascalate.concurrent,0.9.1,explicit,java.base,false,-`
+- :dvd: `net.tascalate.concurrent` :left_right_arrow: `net.tascalate:net.tascalate.concurrent:0.9.2` // `net.tascalate,net.tascalate.concurrent,0.9.2,net.tascalate.concurrent,0.9.2,explicit,java.base,false,-`
 - :cd: `nl.talsmasoftware.context.metrics` - `nl.talsmasoftware.context:context-propagation-micrometer:1.0.8` // `nl.talsmasoftware.context,context-propagation-micrometer,1.0.8,nl.talsmasoftware.context.metrics,-,automatic,-,false,-`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-provider-kafka:0.2` // `no.ssb.rawdata,rawdata-client-provider-kafka,0.2,no.ssb.rawdata.kafka,-,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + de.huxhorn.sulky.ulid + jackson.annotations + java.base + java.logging + kafka.clients + kafka.streams + no.ssb.config + no.ssb.rawdata.api + no.ssb.service.provider.api + slf4j.api + snappy.java,false,-`
 - :dvd: `no.ssb.rawdata.kafka` - `no.ssb.rawdata:rawdata-client-provider-kafka:0.3` // `no.ssb.rawdata,rawdata-client-provider-kafka,0.3,no.ssb.rawdata.kafka,-,explicit,com.fasterxml.jackson.annotation + com.fasterxml.jackson.core + com.fasterxml.jackson.databind + de.huxhorn.sulky.ulid + java.base + java.logging + kafka.clients + kafka.streams + no.ssb.config + no.ssb.rawdata.api + no.ssb.service.provider.api + org.slf4j + snappy.java,false,-`
@@ -7304,10 +7341,13 @@
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.17.1-jre14` // `com.guicedee.services,log4j-core,1.0.17.1-jre14,org.apache.logging.log4j.core,1.0.17.1-jre14,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.18.0-jre14` // `com.guicedee.services,log4j-core,1.0.18.0-jre14,org.apache.logging.log4j.core,1.0.18.0-jre14,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.18.0-jre15` // `com.guicedee.services,log4j-core,1.0.18.0-jre15,org.apache.logging.log4j.core,1.0.18.0-jre15,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
+- :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.18.1-jre14` // `com.guicedee.services,log4j-core,1.0.18.1-jre14,org.apache.logging.log4j.core,1.0.18.1-jre14,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
+- :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.18.1-jre15` // `com.guicedee.services,log4j-core,1.0.18.1-jre15,org.apache.logging.log4j.core,1.0.18.1-jre15,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.0` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.0,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.1` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.1,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.2` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.2,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.3` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.3,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
+- :dvd: `org.apache.tomcat.juli` - `de.mklinger.tomcat:tomcat-juli-slf4j:9.0.38` // `de.mklinger.tomcat,tomcat-juli-slf4j,9.0.38,org.apache.tomcat.juli,9.0.38,explicit,java.base + java.logging + java.management + java.sql,false,-`
 - :dvd: `org.apiguardian.api` - `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56:2.0.0` // `org.eclipse.tycho,org.eclipse.tycho.surefire.junit56,2.0.0,org.apiguardian.api,1.1.0,explicit,java.base,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.102` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.102,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
 - :dvd: `org.assertj.core` - `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest:1.0.103` // `com.salesforce.dockerfile-image-update,dockerfile-image-update-itest,1.0.103,org.assertj.core,3.16.1,explicit,java.base + java.logging + java.management + java.xml + junit + net.bytebuddy + org.hamcrest + org.junit.jupiter.api + org.opentest4j,false,-`
@@ -7732,6 +7772,7 @@
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.1-7.6-1.5.2` // `org.bytedeco,cuda-platform-redist,10.1-7.6-1.5.2,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.2-7.6-1.5.2` // `org.bytedeco,cuda-platform-redist,10.2-7.6-1.5.2,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
 - :dvd: `org.bytedeco.cuda.platform` - `org.bytedeco:cuda-platform-redist:10.2-7.6-1.5.3` // `org.bytedeco,cuda-platform-redist,10.2-7.6-1.5.3,org.bytedeco.cuda.platform,-,explicit,java.base + org.bytedeco.cuda.linux.ppc64le.redist + org.bytedeco.cuda.linux.x86_64.redist + org.bytedeco.cuda.macosx.x86_64.redist + org.bytedeco.cuda.windows.x86_64.redist,false,-`
+- :dvd: `org.bytedeco.ffmpeg` - `com.github.javacpp-nogpl:ffmpeg:4.3.1-1.5.4` // `com.github.javacpp-nogpl,ffmpeg,4.3.1-1.5.4,org.bytedeco.ffmpeg,-,explicit,java.base + org.bytedeco.javacpp,false,-`
 - :dvd: `org.bytedeco.hdf5.platform` - `es.upm.etsisi:cf4j:2.1.1` // `es.upm.etsisi,cf4j,2.1.1,org.bytedeco.hdf5.platform,-,explicit,java.base + org.bytedeco.hdf5.linux.arm64 + org.bytedeco.hdf5.linux.armhf + org.bytedeco.hdf5.linux.ppc64le + org.bytedeco.hdf5.linux.x86 + org.bytedeco.hdf5.linux.x86_64 + org.bytedeco.hdf5.macosx.x86_64 + org.bytedeco.hdf5.windows.x86 + org.bytedeco.hdf5.windows.x86_64,false,-`
 - :dvd: `org.bytedeco.hdf5.platform` - `org.deeplearning4j:deeplearning4j-ui-standalone:1.0.0-beta6` // `org.deeplearning4j,deeplearning4j-ui-standalone,1.0.0-beta6,org.bytedeco.hdf5.platform,-,explicit,java.base + org.bytedeco.hdf5.linux.arm64 + org.bytedeco.hdf5.linux.armhf + org.bytedeco.hdf5.linux.ppc64le + org.bytedeco.hdf5.linux.x86 + org.bytedeco.hdf5.linux.x86_64 + org.bytedeco.hdf5.macosx.x86_64 + org.bytedeco.hdf5.windows.x86 + org.bytedeco.hdf5.windows.x86_64,false,-`
 - :dvd: `org.bytedeco.hdf5.platform` - `org.deeplearning4j:deeplearning4j-ui-standalone:1.0.0-beta7` // `org.deeplearning4j,deeplearning4j-ui-standalone,1.0.0-beta7,org.bytedeco.hdf5.platform,-,explicit,java.base + org.bytedeco.hdf5.linux.arm64 + org.bytedeco.hdf5.linux.armhf + org.bytedeco.hdf5.linux.ppc64le + org.bytedeco.hdf5.linux.x86 + org.bytedeco.hdf5.linux.x86_64 + org.bytedeco.hdf5.macosx.x86_64 + org.bytedeco.hdf5.windows.x86 + org.bytedeco.hdf5.windows.x86_64,false,-`
@@ -8162,6 +8203,8 @@
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.17.1-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.17.1-jre14,org.hibernate.orm.c3p0,1.0.17.1-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.18.0-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.18.0-jre14,org.hibernate.orm.c3p0,1.0.18.0-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.18.0-jre15` // `com.guicedee.services,hibernate-c3p0,1.0.18.0-jre15,org.hibernate.orm.c3p0,1.0.18.0-jre15,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.18.1-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.18.1-jre14,org.hibernate.orm.c3p0,1.0.18.1-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.18.1-jre15` // `com.guicedee.services,hibernate-c3p0,1.0.18.1-jre15,org.hibernate.orm.c3p0,1.0.18.1-jre15,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha1,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha2,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha3,org.hibernate.orm.c3p0,-,automatic,-,false,-`
@@ -8210,6 +8253,8 @@
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.17.1-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.17.1-jre14,org.hibernate.orm.ehcache,1.0.17.1-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.18.0-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.18.0-jre14,org.hibernate.orm.ehcache,1.0.18.0-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.18.0-jre15` // `com.guicedee.services,hibernate-ehcache,1.0.18.0-jre15,org.hibernate.orm.ehcache,1.0.18.0-jre15,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.18.1-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.18.1-jre14,org.hibernate.orm.ehcache,1.0.18.1-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.18.1-jre15` // `com.guicedee.services,hibernate-ehcache,1.0.18.1-jre15,org.hibernate.orm.ehcache,1.0.18.1-jre15,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha3,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha4,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha5,org.hibernate.orm.ehcache,-,automatic,-,false,-`
@@ -8738,6 +8783,8 @@
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.17.1-jre14` // `com.guicedee.services,mapstruct,1.0.17.1-jre14,org.mapstruct,1.0.17.1-jre14,explicit,java.base,false,-`
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.18.0-jre14` // `com.guicedee.services,mapstruct,1.0.18.0-jre14,org.mapstruct,1.0.18.0-jre14,explicit,java.base,false,-`
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.18.0-jre15` // `com.guicedee.services,mapstruct,1.0.18.0-jre15,org.mapstruct,1.0.18.0-jre15,explicit,java.base,false,-`
+- :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.18.1-jre14` // `com.guicedee.services,mapstruct,1.0.18.1-jre14,org.mapstruct,1.0.18.1-jre14,explicit,java.base,false,-`
+- :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.18.1-jre15` // `com.guicedee.services,mapstruct,1.0.18.1-jre15,org.mapstruct,1.0.18.1-jre15,explicit,java.base,false,-`
 - :cd: `org.mapstruct` - `org.mapstruct:mapstruct-jdk8:1.3.0.Beta1` // `org.mapstruct,mapstruct-jdk8,1.3.0.Beta1,org.mapstruct,-,automatic,-,false,-`
 - :dvd: `org.meeuw.i18n.continents` - `org.meeuw.i18n:i18n-regions-open-location-code:0.4` // `org.meeuw.i18n,i18n-regions-open-location-code,0.4,org.meeuw.i18n.continents,0.4,explicit,java.annotation + java.base + java.logging + java.validation + openlocationcode + org.checkerframework.checker.qual + org.meeuw.i18n,false,-`
 - :cd: `org.mnode.ical4j.core` - `com.github.ariordan:ical4j:3.0.19` // `com.github.ariordan,ical4j,3.0.19,org.mnode.ical4j.core,-,automatic,-,false,-`
@@ -9989,6 +10036,8 @@
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.17.1-jre14` // `com.guicedee.services,slf4j,1.0.17.1-jre14,org.slf4j,1.0.17.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.18.0-jre14` // `com.guicedee.services,slf4j,1.0.18.0-jre14,org.slf4j,1.0.18.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.18.0-jre15` // `com.guicedee.services,slf4j,1.0.18.0-jre15,org.slf4j,1.0.18.0-jre15,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.18.1-jre14` // `com.guicedee.services,slf4j,1.0.18.1-jre14,org.slf4j,1.0.18.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.18.1-jre15` // `com.guicedee.services,slf4j,1.0.18.1-jre15,org.slf4j,1.0.18.1-jre15,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.0-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.0-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.1-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.1-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
