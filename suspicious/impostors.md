@@ -1025,6 +1025,7 @@
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.1.8` // `com.helger.peppol,peppol-commons,8.1.8,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.2.1` // `com.helger.peppol,peppol-commons,8.2.1,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.2.2` // `com.helger.peppol,peppol-commons,8.2.2,com.helger.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.peppol` - `com.helger.peppol:peppol-commons:8.2.3` // `com.helger.peppol,peppol-commons,8.2.3,com.helger.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.as2client` - `com.helger.peppol:as2-peppol-client:5.4.0` // `com.helger.peppol,as2-peppol-client,5.4.0,com.helger.peppol.as2client,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.as2client` - `com.helger.peppol:as2-peppol-client:5.4.1` // `com.helger.peppol,as2-peppol-client,5.4.1,com.helger.peppol.as2client,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.as2client` - `com.helger.peppol:as2-peppol-client:5.4.2` // `com.helger.peppol,as2-peppol-client,5.4.2,com.helger.peppol.as2client,-,automatic,-,false,-`
@@ -1042,6 +1043,7 @@
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.1.8` // `com.helger.peppol,peppol-sbdh,8.1.8,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.2.1` // `com.helger.peppol,peppol-sbdh,8.2.1,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.2.2` // `com.helger.peppol,peppol-sbdh,8.2.2,com.helger.peppol.sbdh,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.sbdh` - `com.helger.peppol:peppol-sbdh:8.2.3` // `com.helger.peppol,peppol-sbdh,8.2.3,com.helger.peppol.sbdh,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.0` // `com.helger.peppol,peppol-sml-client,8.1.0,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.1` // `com.helger.peppol,peppol-sml-client,8.1.1,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.2` // `com.helger.peppol,peppol-sml-client,8.1.2,com.helger.peppol.smlclient,-,automatic,-,false,-`
@@ -1053,6 +1055,7 @@
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.1.8` // `com.helger.peppol,peppol-sml-client,8.1.8,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.2.1` // `com.helger.peppol,peppol-sml-client,8.2.1,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.2.2` // `com.helger.peppol,peppol-sml-client,8.2.2,com.helger.peppol.smlclient,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.smlclient` - `com.helger.peppol:peppol-sml-client:8.2.3` // `com.helger.peppol,peppol-sml-client,8.2.3,com.helger.peppol.smlclient,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.0` // `com.helger.peppol,peppol-testfiles,8.1.0,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.1` // `com.helger.peppol,peppol-testfiles,8.1.1,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.2` // `com.helger.peppol,peppol-testfiles,8.1.2,com.helger.peppol.testfiles,-,automatic,-,false,-`
@@ -1064,6 +1067,7 @@
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.1.8` // `com.helger.peppol,peppol-testfiles,8.1.8,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.2.1` // `com.helger.peppol,peppol-testfiles,8.2.1,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.2.2` // `com.helger.peppol,peppol-testfiles,8.2.2,com.helger.peppol.testfiles,-,automatic,-,false,-`
+- :cd: `com.helger.peppol.testfiles` - `com.helger.peppol:peppol-testfiles:8.2.3` // `com.helger.peppol,peppol-testfiles,8.2.3,com.helger.peppol.testfiles,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.0` // `com.helger.peppol,peppol-id,8.1.0,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.1` // `com.helger.peppol,peppol-id,8.1.1,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.2` // `com.helger.peppol,peppol-id,8.1.2,com.helger.peppolid,-,automatic,-,false,-`
@@ -1075,6 +1079,7 @@
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.1.8` // `com.helger.peppol,peppol-id,8.1.8,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.2.1` // `com.helger.peppol,peppol-id,8.2.1,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.2.2` // `com.helger.peppol,peppol-id,8.2.2,com.helger.peppolid,-,automatic,-,false,-`
+- :cd: `com.helger.peppolid` - `com.helger.peppol:peppol-id:8.2.3` // `com.helger.peppol,peppol-id,8.2.3,com.helger.peppolid,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.0` // `com.helger.phase4,phase4-lib,0.10.0,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.1` // `com.helger.phase4,phase4-lib,0.10.1,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.10.2` // `com.helger.phase4,phase4-lib,0.10.2,com.helger.phase4,-,automatic,-,false,-`
@@ -1272,6 +1277,7 @@
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.8` // `com.helger.peppol,peppol-smp-client,8.1.8,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.2.1` // `com.helger.peppol,peppol-smp-client,8.2.1,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.2.2` // `com.helger.peppol,peppol-smp-client,8.2.2,com.helger.smpclient,-,automatic,-,false,-`
+- :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.2.3` // `com.helger.peppol,peppol-smp-client,8.2.3,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.0` // `com.helger.web,ph-smtp,9.3.0,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.1` // `com.helger.web,ph-smtp,9.3.1,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.3.2` // `com.helger.web,ph-smtp,9.3.2,com.helger.smtp,-,automatic,-,false,-`
@@ -3375,6 +3381,7 @@
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.3.0` // `com.tngtech.keycloakmock,standalone,0.3.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.4.0` // `com.tngtech.keycloakmock,standalone,0.4.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.5.0` // `com.tngtech.keycloakmock,standalone,0.5.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.tngtech.keycloakmock:standalone:0.6.0` // `com.tngtech.keycloakmock,standalone,0.6.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `de.jpdigital:owlapi-simplex-cli:0.1.0` // `de.jpdigital,owlapi-simplex-cli,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `de.jpdigital:owlapi-simplex-cli:0.1.1` // `de.jpdigital,owlapi-simplex-cli,0.1.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `eu.toop:toop-demoui-dcstandalone:2.0.0` // `eu.toop,toop-demoui-dcstandalone,2.0.0,info.picocli,-,explicit,java.base,false,-`
@@ -5974,6 +5981,7 @@
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.shiruka:common:1.0` // `io.github.shiruka,common,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.shiruka:common:1.2` // `io.github.shiruka,common,1.2,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.shiruka:common:1.3` // `io.github.shiruka,common,1.3,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `io.github.shiruka:network:1.3` // `io.github.shiruka,network,1.3,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `net.bytebuddy` - `cloud.orbit:orbit-redis-cluster:1.5.0` // `cloud.orbit,orbit-redis-cluster,1.5.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `cloud.orbit:orbit-redis-cluster:1.5.1` // `cloud.orbit,orbit-redis-cluster,1.5.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `co.elastic.apm:elastic-apm-agent:1.0.0` // `co.elastic.apm,elastic-apm-agent,1.0.0,net.bytebuddy,-,explicit,java.instrument + java.base + jdk.unsupported + net.bytebuddy.agent,false,sun.misc.Unsafe                          See http://openjdk.java.net/jeps/260`
@@ -6941,6 +6949,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.5.5` // `com.ibm.ta.sdk,ta-sdk-sample,0.5.5,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ibm.ta.sdk:ta-sdk-sample:0.6.0` // `com.ibm.ta.sdk,ta-sdk-sample,0.6.0,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.khubla.olmreader:olmreader:1.8.0` // `com.khubla.olmreader,olmreader,1.8.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.macasaet.fernet:fernet-aws-secrets-manager-rotator:1.5.0` // `com.macasaet.fernet,fernet-aws-secrets-manager-rotator,1.5.0,org.apache.logging.log4j,2.13.2,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.10` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.10,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.12` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.12,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.microsoft.azure:azure-cosmos-cassandra-uploader:1.0.13` // `com.microsoft.azure,azure-cosmos-cassandra-uploader,1.0.13,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
@@ -8183,6 +8192,7 @@
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.0` // `org.eclipse.milo,bsd-core,0.5.0,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.0-M1` // `org.eclipse.milo,bsd-core,0.5.0-M1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.0-M2` // `org.eclipse.milo,bsd-core,0.5.0-M2,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.1` // `org.eclipse.milo,bsd-core,0.5.1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.1` // `org.flywaydb.enterprise,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.2` // `org.flywaydb.enterprise,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.3` // `org.flywaydb.enterprise,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
