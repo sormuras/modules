@@ -365,6 +365,7 @@ public class Modules {
               "## Samples",
               sample("junit"),
               sample("org.junit.jupiter"),
+              sample("org.junitpioneer"),
               sample("org.objectweb.asm"),
               sample("org.lwjgl"),
               sample("org.joda.beans"),
