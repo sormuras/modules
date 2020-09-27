@@ -3444,6 +3444,7 @@
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.0` // `io.cucumber,datatable,3.3.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.3.1` // `io.cucumber,datatable,3.3.1,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.4.0` // `io.cucumber,datatable,3.4.0,io.cucumber.datatable,-,automatic,-,false,-`
+- :cd: `io.cucumber.datatable` - `io.cucumber:datatable:3.5.0` // `io.cucumber,datatable,3.5.0,io.cucumber.datatable,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:10.0.0` // `io.cucumber,gherkin,10.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:11.0.0` // `io.cucumber,gherkin,11.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
 - :cd: `io.cucumber.gherkin` - `io.cucumber:gherkin:12.0.0` // `io.cucumber,gherkin,12.0.0,io.cucumber.gherkin,-,automatic,-,false,-`
@@ -10208,6 +10209,7 @@
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.14.1` // `org.trellisldp,trellis-constraint,0.14.1,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.14.2` // `org.trellisldp,trellis-constraint,0.14.2,org.trellisldp.constraint,-,automatic,-,false,-`
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.15.0` // `org.trellisldp,trellis-constraint,0.15.0,org.trellisldp.constraint,-,automatic,-,false,-`
+- :dvd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.16.0` // `org.trellisldp,trellis-constraint,0.16.0,org.trellisldp.constraint,-,explicit,jakarta.enterprise.cdi.api + java.base + org.apache.commons.rdf.api + org.trellisldp.api + org.trellisldp.vocabulary,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `org.zalando.problem.gson` - `org.zalando:problem-gson:0.26.0-RC.0` // `org.zalando,problem-gson,0.26.0-RC.0,org.zalando.problem.gson,0.26.0-RC.0,explicit,com.google.gson + java.base + org.apiguardian.api + org.zalando.problem,false,-`
