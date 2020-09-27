@@ -163,6 +163,7 @@ public class Modules {
             "junit",
             "org.junit.jupiter",
             "org.junit.platform",
+            "org.junitpioneer",
             "com.github.almasb",
             "com.gluonhq",
             "com.sun.xml.bind",
