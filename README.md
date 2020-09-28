@@ -1,18 +1,18 @@
 # sormuras/modules
 Counted 7621 Java modules published at Maven Central
 
-## Summary 2020-09-28T02:30:44.182802Z
+## Summary 2020-09-28T06:58:59.838572Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-28T02:30:44.182802Z
-Scanned 62,208 files in 8 seconds.
+Started scan at 2020-09-28T06:58:59.838572Z
+Scanned 62,223 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_28_01_46_10.csv
+    last -> modulescanner-report-2020_09_28_06_33_39.csv
 
-Parsed 4,226,558 lines in total.
-  65,892 -> captions skipped
+Parsed 4,227,102 lines in total.
+  65,907 -> captions skipped
   386,772 -> duplicates skipped
   214,682 -> module related
 
@@ -57,7 +57,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=6700, explicit=764, plain=115623}` 	 6.46%
+ - `2020_09={automatic=6700, explicit=764, plain=116152}` 	 6.43%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -209,6 +209,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0`
 - :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0`
 - :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0`
+- :dvd: `org.junitpioneer` - `org.junit-pioneer:junit-pioneer:0.9.1`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
