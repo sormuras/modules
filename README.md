@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 7622 Java modules published at Maven Central
+Counted 7647 Java modules published at Maven Central
 
-## Summary 2020-09-29T02:31:10.707106Z
+## Summary 2020-09-30T02:31:17.989457Z
 
 ```
 ## Summary
 
-Started scan at 2020-09-29T02:31:10.707106Z
-Scanned 62,281 files in 8 seconds.
+Started scan at 2020-09-30T02:31:17.989457Z
+Scanned 62,355 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_09_29_02_20_20.csv
+    last -> modulescanner-report-2020_09_30_02_11_22.csv
 
-Parsed 4,234,074 lines in total.
-  65,965 -> captions skipped
-  387,199 -> duplicates skipped
-  215,021 -> module related
+Parsed 4,240,887 lines in total.
+  66,039 -> captions skipped
+  388,303 -> duplicates skipped
+  215,416 -> module related
 
-Collected 7,622 unique modules.
-  automatic :cd: -> 5,329
+Collected 7,647 unique modules.
+  automatic :cd: -> 5,354
   explicit :dvd: -> 2,293
 
 ## Samples
             junit -> junit:junit:4.13
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0
- org.junitpioneer -> org.junit-pioneer:junit-pioneer:0.9.1
+ org.junitpioneer -> org.junit-pioneer:junit-pioneer:0.9.2
 org.objectweb.asm -> org.ow2.asm:asm:9.0
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.0
@@ -57,7 +57,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_06={automatic=8359, explicit=988, plain=138831}` 	 6.73%
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
- - `2020_09={automatic=6961, explicit=767, plain=122300}` 	 6.32%
+ - `2020_09={automatic=7294, explicit=807, plain=127540}` 	 6.35%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -123,8 +123,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [22769](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29655](suspicious/naming.md)
-- Modular impostors: [10530](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29667](suspicious/naming.md)
+- Modular impostors: [10540](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -209,7 +209,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0`
 - :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0`
 - :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0`
-- :dvd: `org.junitpioneer` - `org.junit-pioneer:junit-pioneer:0.9.1`
+- :dvd: `org.junitpioneer` - `org.junit-pioneer:junit-pioneer:0.9.2`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
