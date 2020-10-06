@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 7659 Java modules published at Maven Central
 
-## Summary 2020-10-05T02:34:29.096648Z
+## Summary 2020-10-06T02:34:41.838396Z
 
 ```
 ## Summary
 
-Started scan at 2020-10-05T02:34:29.096648Z
-Scanned 62,713 files in 8 seconds.
+Started scan at 2020-10-06T02:34:41.838396Z
+Scanned 62,787 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_10_05_02_10_15.csv
+    last -> modulescanner-report-2020_10_06_02_22_09.csv
 
-Parsed 4,267,900 lines in total.
-  66,393 -> captions skipped
-  393,792 -> duplicates skipped
-  217,468 -> module related
+Parsed 4,272,917 lines in total.
+  66,466 -> captions skipped
+  394,838 -> duplicates skipped
+  217,861 -> module related
 
 Collected 7,659 unique modules.
   automatic :cd: -> 5,356
@@ -58,7 +58,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
- - `2020_10={automatic=687, explicit=176, plain=13021}` 	 6.63%
+ - `2020_10={automatic=946, explicit=189, plain=16526}` 	 6.87%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -123,9 +123,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [23167](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29924](suspicious/naming.md)
-- Modular impostors: [10676](suspicious/impostors.md)
+- Invalid module names: [23190](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [29981](suspicious/naming.md)
+- Modular impostors: [10717](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 

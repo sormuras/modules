@@ -663,6 +663,8 @@
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.19.3-jre15` // `com.guicedee.services,openpdf,1.0.19.3-jre15,com.github.librepdf.openpdf,1.3.22,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.19.4-jre14` // `com.guicedee.services,openpdf,1.0.19.4-jre14,com.github.librepdf.openpdf,1.3.22,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.19.4-jre15` // `com.guicedee.services,openpdf,1.0.19.4-jre15,com.github.librepdf.openpdf,1.3.22,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
+- :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.19.5-jre14` // `com.guicedee.services,openpdf,1.0.19.5-jre14,com.github.librepdf.openpdf,1.3.22,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
+- :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.19.5-jre15` // `com.guicedee.services,openpdf,1.0.19.5-jre15,com.github.librepdf.openpdf,1.3.22,explicit,com.github.spotbugs.spotbugs + fop + imageio.tiff + java.base + org.bouncycastle.pkix + org.bouncycastle.provider + xmlgraphics.commons,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.17.0-jre14` // `com.guicedee.services,zstd-jni,1.0.17.0-jre14,com.github.luben.zstd_jni,1.0.17.0-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.17.1-jre14` // `com.guicedee.services,zstd-jni,1.0.17.1-jre14,com.github.luben.zstd_jni,1.0.17.1-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.18.0-jre14` // `com.guicedee.services,zstd-jni,1.0.18.0-jre14,com.github.luben.zstd_jni,1.0.18.0-jre14,explicit,java.base,false,-`
@@ -678,6 +680,8 @@
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.19.3-jre15` // `com.guicedee.services,zstd-jni,1.0.19.3-jre15,com.github.luben.zstd_jni,1.0.19.3-jre15,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.19.4-jre14` // `com.guicedee.services,zstd-jni,1.0.19.4-jre14,com.github.luben.zstd_jni,1.0.19.4-jre14,explicit,java.base,false,-`
 - :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.19.4-jre15` // `com.guicedee.services,zstd-jni,1.0.19.4-jre15,com.github.luben.zstd_jni,1.0.19.4-jre15,explicit,java.base,false,-`
+- :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.19.5-jre14` // `com.guicedee.services,zstd-jni,1.0.19.5-jre14,com.github.luben.zstd_jni,1.0.19.5-jre14,explicit,java.base,false,-`
+- :dvd: `com.github.luben.zstd_jni` - `com.guicedee.services:zstd-jni:1.0.19.5-jre15` // `com.guicedee.services,zstd-jni,1.0.19.5-jre15,com.github.luben.zstd_jni,1.0.19.5-jre15,explicit,java.base,false,-`
 - :cd: `com.github.nhojpatrick.checkstyle.rules` - `com.github.nhojpatrick.qa:nhojpatrick-checkstyle-rules:1.0.0` // `com.github.nhojpatrick.qa,nhojpatrick-checkstyle-rules,1.0.0,com.github.nhojpatrick.checkstyle.rules,-,automatic,-,false,-`
 - :cd: `com.github.nhojpatrick.checkstyle.rules` - `com.github.nhojpatrick.qa:nhojpatrick-checkstyle-rules:1.0.1` // `com.github.nhojpatrick.qa,nhojpatrick-checkstyle-rules,1.0.1,com.github.nhojpatrick.checkstyle.rules,-,automatic,-,false,-`
 - :cd: `com.github.nhojpatrick.pmd.ruleset` - `com.github.nhojpatrick.qa:nhojpatrick-pmd-ruleset:1.0.0` // `com.github.nhojpatrick.qa,nhojpatrick-pmd-ruleset,1.0.0,com.github.nhojpatrick.pmd.ruleset,-,automatic,-,false,-`
@@ -692,6 +696,8 @@
 - :dvd: `com.github.rvesse.airline` - `com.github.rvesse:airline-examples:2.8.0` // `com.github.rvesse,airline-examples,2.8.0,com.github.rvesse.airline,2.8.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.10` // `io.stargate.starter,stargate-starter,0.0.10,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.11` // `io.stargate.starter,stargate-starter,0.0.11,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
+- :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.13` // `io.stargate.starter,stargate-starter,0.0.13,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
+- :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.14` // `io.stargate.starter,stargate-starter,0.0.14,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.7` // `io.stargate.starter,stargate-starter,0.0.7,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.8` // `io.stargate.starter,stargate-starter,0.0.8,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.9` // `io.stargate.starter,stargate-starter,0.0.9,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
@@ -823,6 +829,7 @@
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.5,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.6,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.7,com.helger.bdve.cii,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.cii` - `com.helger.bdve.rules:ph-bdve-rules-cii:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-cii,1.0.8,com.helger.bdve.cii,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve:ph-bdve-ebinterface:5.3.0` // `com.helger.bdve,ph-bdve-ebinterface,5.3.0,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve:ph-bdve-ebinterface:5.3.1` // `com.helger.bdve,ph-bdve-ebinterface,5.3.1,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.0,com.helger.bdve.ebinterface,-,automatic,-,false,-`
@@ -833,6 +840,7 @@
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.5,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.6,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.7,com.helger.bdve.ebinterface,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ebinterface` - `com.helger.bdve.rules:ph-bdve-rules-ebinterface:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-ebinterface,1.0.8,com.helger.bdve.ebinterface,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve:ph-bdve-ehf:5.3.0` // `com.helger.bdve,ph-bdve-ehf,5.3.0,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve:ph-bdve-ehf:5.3.1` // `com.helger.bdve,ph-bdve-ehf,5.3.1,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.0,com.helger.bdve.ehf,-,automatic,-,false,-`
@@ -843,6 +851,7 @@
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.5,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.6,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.7,com.helger.bdve.ehf,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ehf` - `com.helger.bdve.rules:ph-bdve-rules-ehf:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-ehf,1.0.8,com.helger.bdve.ehf,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve:ph-bdve-en16931:5.3.0` // `com.helger.bdve,ph-bdve-en16931,5.3.0,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve:ph-bdve-en16931:5.3.1` // `com.helger.bdve,ph-bdve-en16931,5.3.1,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.0,com.helger.bdve.en16931,-,automatic,-,false,-`
@@ -853,6 +862,7 @@
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.5,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.6,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.7,com.helger.bdve.en16931,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.en16931` - `com.helger.bdve.rules:ph-bdve-rules-en16931:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-en16931,1.0.8,com.helger.bdve.en16931,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve:ph-bdve-energieefactuur:5.3.0` // `com.helger.bdve,ph-bdve-energieefactuur,5.3.0,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve:ph-bdve-energieefactuur:5.3.1` // `com.helger.bdve,ph-bdve-energieefactuur,5.3.1,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.0,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
@@ -863,6 +873,7 @@
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.5,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.6,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.7,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.energieefactuur` - `com.helger.bdve.rules:ph-bdve-rules-energieefactuur:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-energieefactuur,1.0.8,com.helger.bdve.energieefactuur,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve:ph-bdve-oioubl:5.3.0` // `com.helger.bdve,ph-bdve-oioubl,5.3.0,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve:ph-bdve-oioubl:5.3.1` // `com.helger.bdve,ph-bdve-oioubl,5.3.1,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.0,com.helger.bdve.oioubl,-,automatic,-,false,-`
@@ -873,6 +884,7 @@
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.5,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.6,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.7,com.helger.bdve.oioubl,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.oioubl` - `com.helger.bdve.rules:ph-bdve-rules-oioubl:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-oioubl,1.0.8,com.helger.bdve.oioubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve:ph-bdve-peppol:5.3.0` // `com.helger.bdve,ph-bdve-peppol,5.3.0,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve:ph-bdve-peppol:5.3.1` // `com.helger.bdve,ph-bdve-peppol,5.3.1,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.0,com.helger.bdve.peppol,-,automatic,-,false,-`
@@ -883,6 +895,7 @@
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.5,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.6,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.7,com.helger.bdve.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.peppol` - `com.helger.bdve.rules:ph-bdve-rules-peppol:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-peppol,1.0.8,com.helger.bdve.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve:ph-bdve-simplerinvoicing:5.3.0` // `com.helger.bdve,ph-bdve-simplerinvoicing,5.3.0,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve:ph-bdve-simplerinvoicing:5.3.1` // `com.helger.bdve,ph-bdve-simplerinvoicing,5.3.1,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.0,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
@@ -893,6 +906,7 @@
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.5,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.6,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.7,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.simplerinvoicing` - `com.helger.bdve.rules:ph-bdve-rules-simplerinvoicing:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-simplerinvoicing,1.0.8,com.helger.bdve.simplerinvoicing,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve:ph-bdve-teapps:5.3.0` // `com.helger.bdve,ph-bdve-teapps,5.3.0,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve:ph-bdve-teapps:5.3.1` // `com.helger.bdve,ph-bdve-teapps,5.3.1,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.0,com.helger.bdve.teapps,-,automatic,-,false,-`
@@ -903,6 +917,7 @@
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.5,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.6,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.7,com.helger.bdve.teapps,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.teapps` - `com.helger.bdve.rules:ph-bdve-rules-teapps:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-teapps,1.0.8,com.helger.bdve.teapps,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve:ph-bdve-ubl:5.3.0` // `com.helger.bdve,ph-bdve-ubl,5.3.0,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve:ph-bdve-ubl:5.3.1` // `com.helger.bdve,ph-bdve-ubl,5.3.1,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.0,com.helger.bdve.ubl,-,automatic,-,false,-`
@@ -913,6 +928,7 @@
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.5,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.6,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.7,com.helger.bdve.ubl,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ubl` - `com.helger.bdve.rules:ph-bdve-rules-ubl:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-ubl,1.0.8,com.helger.bdve.ubl,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve:ph-bdve-ublbe:5.3.0` // `com.helger.bdve,ph-bdve-ublbe,5.3.0,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve:ph-bdve-ublbe:5.3.1` // `com.helger.bdve,ph-bdve-ublbe,5.3.1,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.0,com.helger.bdve.ublbe,-,automatic,-,false,-`
@@ -923,6 +939,7 @@
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.5,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.6,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.7,com.helger.bdve.ublbe,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.ublbe` - `com.helger.bdve.rules:ph-bdve-rules-ublbe:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-ublbe,1.0.8,com.helger.bdve.ublbe,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve:ph-bdve-xrechnung:5.3.0` // `com.helger.bdve,ph-bdve-xrechnung,5.3.0,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve:ph-bdve-xrechnung:5.3.1` // `com.helger.bdve,ph-bdve-xrechnung,5.3.1,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.0` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.0,com.helger.bdve.xrechnung,-,automatic,-,false,-`
@@ -933,6 +950,7 @@
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.5` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.5,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.6` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.6,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.7` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.7,com.helger.bdve.xrechnung,-,automatic,-,false,-`
+- :cd: `com.helger.bdve.xrechnung` - `com.helger.bdve.rules:ph-bdve-rules-xrechnung:1.0.8` // `com.helger.bdve.rules,ph-bdve-rules-xrechnung,1.0.8,com.helger.bdve.xrechnung,-,automatic,-,false,-`
 - :cd: `com.helger.cii.d16a1` - `com.helger.cii:ph-cii-d16a-1:2.2.0` // `com.helger.cii,ph-cii-d16a-1,2.2.0,com.helger.cii.d16a1,-,automatic,-,false,-`
 - :cd: `com.helger.cii.d16a1` - `com.helger.cii:ph-cii-d16a-1:2.3.0` // `com.helger.cii,ph-cii-d16a-1,2.3.0,com.helger.cii.d16a1,-,automatic,-,false,-`
 - :cd: `com.helger.cii.d16a1` - `com.helger.cii:ph-cii-d16a-1:2.3.1` // `com.helger.cii,ph-cii-d16a-1,2.3.1,com.helger.cii.d16a1,-,automatic,-,false,-`
@@ -1121,6 +1139,7 @@
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.11.1` // `com.helger.phase4,phase4-lib,0.11.1,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.12.0` // `com.helger.phase4,phase4-lib,0.12.0,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.12.1` // `com.helger.phase4,phase4-lib,0.12.1,com.helger.phase4,-,automatic,-,false,-`
+- :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.12.2` // `com.helger.phase4,phase4-lib,0.12.2,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4` - `com.helger.phase4:phase4-lib:0.9.17` // `com.helger.phase4,phase4-lib,0.9.17,com.helger.phase4,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.10.0` // `com.helger.phase4,phase4-cef-client,0.10.0,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.10.1` // `com.helger.phase4,phase4-cef-client,0.10.1,com.helger.phase4.cef,-,automatic,-,false,-`
@@ -1133,6 +1152,7 @@
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.11.1` // `com.helger.phase4,phase4-cef-client,0.11.1,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.12.0` // `com.helger.phase4,phase4-cef-client,0.12.0,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.12.1` // `com.helger.phase4,phase4-cef-client,0.12.1,com.helger.phase4.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.12.2` // `com.helger.phase4,phase4-cef-client,0.12.2,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.cef` - `com.helger.phase4:phase4-cef-client:0.9.17` // `com.helger.phase4,phase4-cef-client,0.9.17,com.helger.phase4.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.10.0` // `com.helger.phase4,phase4-peppol-client,0.10.0,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.10.1` // `com.helger.phase4,phase4-peppol-client,0.10.1,com.helger.phase4.peppol,-,automatic,-,false,-`
@@ -1145,6 +1165,7 @@
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.11.1` // `com.helger.phase4,phase4-peppol-client,0.11.1,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.12.0` // `com.helger.phase4,phase4-peppol-client,0.12.0,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.12.1` // `com.helger.phase4,phase4-peppol-client,0.12.1,com.helger.phase4.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.12.2` // `com.helger.phase4,phase4-peppol-client,0.12.2,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol` - `com.helger.phase4:phase4-peppol-client:0.9.17` // `com.helger.phase4,phase4-peppol-client,0.9.17,com.helger.phase4.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.10.0` // `com.helger.phase4,phase4-peppol-servlet,0.10.0,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.10.1` // `com.helger.phase4,phase4-peppol-servlet,0.10.1,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
@@ -1157,6 +1178,7 @@
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.11.1` // `com.helger.phase4,phase4-peppol-servlet,0.11.1,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.12.0` // `com.helger.phase4,phase4-peppol-servlet,0.12.0,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.12.1` // `com.helger.phase4,phase4-peppol-servlet,0.12.1,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.12.2` // `com.helger.phase4,phase4-peppol-servlet,0.12.2,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.peppol.servlet` - `com.helger.phase4:phase4-peppol-servlet:0.9.17` // `com.helger.phase4,phase4-peppol-servlet,0.9.17,com.helger.phase4.peppol.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.10.0` // `com.helger.phase4,phase4-profile-cef,0.10.0,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.10.1` // `com.helger.phase4,phase4-profile-cef,0.10.1,com.helger.phase4.profile.cef,-,automatic,-,false,-`
@@ -1169,6 +1191,7 @@
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.11.1` // `com.helger.phase4,phase4-profile-cef,0.11.1,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.12.0` // `com.helger.phase4,phase4-profile-cef,0.12.0,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.12.1` // `com.helger.phase4,phase4-profile-cef,0.12.1,com.helger.phase4.profile.cef,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.12.2` // `com.helger.phase4,phase4-profile-cef,0.12.2,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.cef` - `com.helger.phase4:phase4-profile-cef:0.9.17` // `com.helger.phase4,phase4-profile-cef,0.9.17,com.helger.phase4.profile.cef,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.10.0` // `com.helger.phase4,phase4-profile-peppol,0.10.0,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.10.1` // `com.helger.phase4,phase4-profile-peppol,0.10.1,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
@@ -1181,6 +1204,7 @@
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.11.1` // `com.helger.phase4,phase4-profile-peppol,0.11.1,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.12.0` // `com.helger.phase4,phase4-profile-peppol,0.12.0,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.12.1` // `com.helger.phase4,phase4-profile-peppol,0.12.1,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
+- :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.12.2` // `com.helger.phase4,phase4-profile-peppol,0.12.2,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.profile.peppol` - `com.helger.phase4:phase4-profile-peppol:0.9.17` // `com.helger.phase4,phase4-profile-peppol,0.9.17,com.helger.phase4.profile.peppol,-,automatic,-,false,-`
 - :cd: `com.helger.phase4.servlet` - `com.helger.phase4:phase4-servlet:0.9.17` // `com.helger.phase4,phase4-servlet,0.9.17,com.helger.phase4.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.photon.ajax` - `com.helger.photon:ph-oton-ajax:8.2.5` // `com.helger.photon,ph-oton-ajax,8.2.5,com.helger.photon.ajax,-,automatic,-,false,-`
@@ -3424,8 +3448,12 @@
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:2.0.0-alpha8` // `com.instaclustr,instaclustr-backup-restore,2.0.0-alpha8,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:sstable-generator:1.0` // `com.instaclustr,sstable-generator,1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:sstable-generator:1.1` // `com.instaclustr,sstable-generator,1.1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:sstable-generator:1.2` // `com.instaclustr,sstable-generator,1.2,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:sstable-generator-cassandra-2:1.2` // `com.instaclustr,sstable-generator-cassandra-2,1.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:sstable-generator-cassandra-3:1.1` // `com.instaclustr,sstable-generator-cassandra-3,1.1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:sstable-generator-cassandra-3:1.2` // `com.instaclustr,sstable-generator-cassandra-3,1.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:sstable-generator-cassandra-4:1.1` // `com.instaclustr,sstable-generator-cassandra-4,1.1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:sstable-generator-cassandra-4:1.2` // `com.instaclustr,sstable-generator-cassandra-4,1.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.mygraphql.graphub:openapi2graphqls-cli:0.0.2` // `com.mygraphql.graphub,openapi2graphqls-cli,0.0.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.ninja-beans.crawler:cloudflare-iuam-solver-dist:0.1.0` // `com.ninja-beans.crawler,cloudflare-iuam-solver-dist,0.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.pessetto.origamismtp:OrigamiSMTP:2.0.0` // `com.pessetto.origamismtp,OrigamiSMTP,2.0.0,info.picocli,-,explicit,java.base,false,-`
@@ -5783,6 +5811,8 @@
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.19.3-jre15` // `com.guicedee.services,jakarta.mail,1.0.19.3-jre15,jakarta.mail,1.0.19.3-jre15,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.19.4-jre14` // `com.guicedee.services,jakarta.mail,1.0.19.4-jre14,jakarta.mail,1.0.19.4-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.19.4-jre15` // `com.guicedee.services,jakarta.mail,1.0.19.4-jre15,jakarta.mail,1.0.19.4-jre15,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.19.5-jre14` // `com.guicedee.services,jakarta.mail,1.0.19.5-jre14,jakarta.mail,1.0.19.5-jre14,explicit,java.base,false,-`
+- :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.19.5-jre15` // `com.guicedee.services,jakarta.mail,1.0.19.5-jre15,jakarta.mail,1.0.19.5-jre15,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.2-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.2-jre13,jakarta.mail,1.0.4.2-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.3-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.3-jre13,jakarta.mail,1.0.4.3-jre13,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.4.4-jre13` // `com.guicedee.services,jakarta.mail,1.0.4.4-jre13,jakarta.mail,1.0.4.4-jre13,explicit,java.base,false,-`
@@ -7091,6 +7121,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.29.1` // `com.netflix.conductor,conductor-es6-persistence,2.29.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.29.2` // `com.netflix.conductor,conductor-es6-persistence,2.29.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.29.3` // `com.netflix.conductor,conductor-es6-persistence,2.29.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.30.1` // `com.netflix.conductor,conductor-es6-persistence,2.30.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.3.0` // `com.nimblygames.packr,packr-all,2.3.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.4.2` // `com.nimblygames.packr,packr-all,2.4.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.5.0` // `com.nimblygames.packr,packr-all,2.5.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -7530,6 +7561,8 @@
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.19.3-jre15` // `com.guicedee.services,log4j-core,1.0.19.3-jre15,org.apache.logging.log4j.core,1.0.19.3-jre15,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.19.4-jre14` // `com.guicedee.services,log4j-core,1.0.19.4-jre14,org.apache.logging.log4j.core,1.0.19.4-jre14,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.19.4-jre15` // `com.guicedee.services,log4j-core,1.0.19.4-jre15,org.apache.logging.log4j.core,1.0.19.4-jre15,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
+- :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.19.5-jre14` // `com.guicedee.services,log4j-core,1.0.19.5-jre14,org.apache.logging.log4j.core,1.0.19.5-jre14,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
+- :dvd: `org.apache.logging.log4j.core` - `com.guicedee.services:log4j-core:1.0.19.5-jre15` // `com.guicedee.services,log4j-core,1.0.19.5-jre15,org.apache.logging.log4j.core,1.0.19.5-jre15,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + com.fasterxml.jackson.dataformat.xml + jakarta.activation + jakarta.mail + java.base + java.compiler + java.desktop + java.management + java.naming + java.rmi + java.scripting + java.sql + jdk.unsupported + org.apache.commons.compress + org.apache.commons.csv + org.codehaus.stax2,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.0` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.0,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.1` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.1,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
 - :cd: `org.apache.logging.log4j.slf4j` - `org.apache.logging.log4j:log4j-slf4j-impl:2.13.2` // `org.apache.logging.log4j,log4j-slf4j-impl,2.13.2,org.apache.logging.log4j.slf4j,-,automatic,-,false,-`
@@ -8419,6 +8452,8 @@
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.19.3-jre15` // `com.guicedee.services,hibernate-c3p0,1.0.19.3-jre15,org.hibernate.orm.c3p0,1.0.19.3-jre15,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.19.4-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.19.4-jre14,org.hibernate.orm.c3p0,1.0.19.4-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.19.4-jre15` // `com.guicedee.services,hibernate-c3p0,1.0.19.4-jre15,org.hibernate.orm.c3p0,1.0.19.4-jre15,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.19.5-jre14` // `com.guicedee.services,hibernate-c3p0,1.0.19.5-jre14,org.hibernate.orm.c3p0,1.0.19.5-jre14,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.c3p0` - `com.guicedee.services:hibernate-c3p0:1.0.19.5-jre15` // `com.guicedee.services,hibernate-c3p0,1.0.19.5-jre15,org.hibernate.orm.c3p0,1.0.19.5-jre15,explicit,java.base + java.sql + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha1,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha2,org.hibernate.orm.c3p0,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.c3p0` - `org.hibernate.orm:hibernate-c3p0:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-c3p0,6.0.0.Alpha3,org.hibernate.orm.c3p0,-,automatic,-,false,-`
@@ -8478,6 +8513,8 @@
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.19.3-jre15` // `com.guicedee.services,hibernate-ehcache,1.0.19.3-jre15,org.hibernate.orm.ehcache,1.0.19.3-jre15,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.19.4-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.19.4-jre14,org.hibernate.orm.ehcache,1.0.19.4-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.19.4-jre15` // `com.guicedee.services,hibernate-ehcache,1.0.19.4-jre15,org.hibernate.orm.ehcache,1.0.19.4-jre15,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.19.5-jre14` // `com.guicedee.services,hibernate-ehcache,1.0.19.5-jre14,org.hibernate.orm.ehcache,1.0.19.5-jre14,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
+- :dvd: `org.hibernate.orm.ehcache` - `com.guicedee.services:hibernate-ehcache:1.0.19.5-jre15` // `com.guicedee.services,hibernate-ehcache,1.0.19.5-jre15,org.hibernate.orm.ehcache,1.0.19.5-jre15,explicit,java.base + java.sql + org.ehcache + org.hibernate.orm.core + org.jboss.logging,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha3,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha4` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha4,org.hibernate.orm.ehcache,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.ehcache` - `org.hibernate.orm:hibernate-ehcache:6.0.0.Alpha5` // `org.hibernate.orm,hibernate-ehcache,6.0.0.Alpha5,org.hibernate.orm.ehcache,-,automatic,-,false,-`
@@ -9019,6 +9056,8 @@
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.19.3-jre15` // `com.guicedee.services,mapstruct,1.0.19.3-jre15,org.mapstruct,1.0.19.3-jre15,explicit,java.base,false,-`
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.19.4-jre14` // `com.guicedee.services,mapstruct,1.0.19.4-jre14,org.mapstruct,1.0.19.4-jre14,explicit,java.base,false,-`
 - :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.19.4-jre15` // `com.guicedee.services,mapstruct,1.0.19.4-jre15,org.mapstruct,1.0.19.4-jre15,explicit,java.base,false,-`
+- :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.19.5-jre14` // `com.guicedee.services,mapstruct,1.0.19.5-jre14,org.mapstruct,1.0.19.5-jre14,explicit,java.base,false,-`
+- :dvd: `org.mapstruct` - `com.guicedee.services:mapstruct:1.0.19.5-jre15` // `com.guicedee.services,mapstruct,1.0.19.5-jre15,org.mapstruct,1.0.19.5-jre15,explicit,java.base,false,-`
 - :cd: `org.mapstruct` - `org.mapstruct:mapstruct-jdk8:1.3.0.Beta1` // `org.mapstruct,mapstruct-jdk8,1.3.0.Beta1,org.mapstruct,-,automatic,-,false,-`
 - :dvd: `org.meeuw.i18n.continents` - `org.meeuw.i18n:i18n-regions-open-location-code:0.4` // `org.meeuw.i18n,i18n-regions-open-location-code,0.4,org.meeuw.i18n.continents,0.4,explicit,java.annotation + java.base + java.logging + java.validation + openlocationcode + org.checkerframework.checker.qual + org.meeuw.i18n,false,-`
 - :cd: `org.mnode.ical4j.core` - `com.github.ariordan:ical4j:3.0.19` // `com.github.ariordan,ical4j,3.0.19,org.mnode.ical4j.core,-,automatic,-,false,-`
@@ -10296,6 +10335,8 @@
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.19.3-jre15` // `com.guicedee.services,slf4j,1.0.19.3-jre15,org.slf4j,1.0.19.3-jre15,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.19.4-jre14` // `com.guicedee.services,slf4j,1.0.19.4-jre14,org.slf4j,1.0.19.4-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.19.4-jre15` // `com.guicedee.services,slf4j,1.0.19.4-jre15,org.slf4j,1.0.19.4-jre15,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.19.5-jre14` // `com.guicedee.services,slf4j,1.0.19.5-jre14,org.slf4j,1.0.19.5-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
+- :dvd: `org.slf4j` - `com.guicedee.services:slf4j:1.0.19.5-jre15` // `com.guicedee.services,slf4j,1.0.19.5-jre15,org.slf4j,1.0.19.5-jre15,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.5.7-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.5.7-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.0-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.0-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.6.1-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.6.1-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.dynamodb + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.classic + logback.core + slf4j.api,false,-`
