@@ -52,6 +52,7 @@
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.0-beta.5` // `com.azure,azure-security-keyvault-keys,4.2.0-beta.5,com.azure.security.keyvault.keys,4.2.0-beta.5,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.2.1` // `com.azure,azure-security-keyvault-keys,4.2.1,com.azure.security.keyvault.keys,4.2.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.3.0-beta.1` // `com.azure,azure-security-keyvault-keys,4.3.0-beta.1,com.azure.security.keyvault.keys,4.3.0-beta.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
+- :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.3.0-beta.2` // `com.azure,azure-security-keyvault-keys,4.3.0-beta.2,com.azure.security.keyvault.keys,4.3.0-beta.2,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.0.1` // `com.azure,azure-security-keyvault-secrets,4.0.1,com.azure.security.keyvault.secrets,4.0.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.1.0` // `com.azure,azure-security-keyvault-secrets,4.1.0,com.azure.security.keyvault.secrets,4.1.0,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0` // `com.azure,azure-security-keyvault-secrets,4.2.0,com.azure.security.keyvault.secrets,4.2.0,explicit,com.azure.core + java.base,false,-`
@@ -61,6 +62,7 @@
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.0-beta.4` // `com.azure,azure-security-keyvault-secrets,4.2.0-beta.4,com.azure.security.keyvault.secrets,4.2.0-beta.4,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.2.1` // `com.azure,azure-security-keyvault-secrets,4.2.1,com.azure.security.keyvault.secrets,4.2.1,explicit,com.azure.core + java.base,false,-`
 - :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.3.0-beta.1` // `com.azure,azure-security-keyvault-secrets,4.3.0-beta.1,com.azure.security.keyvault.secrets,4.3.0-beta.1,explicit,com.azure.core + java.base,false,-`
+- :dvd: `com.azure.security.keyvault.secrets` - `com.azure:azure-security-keyvault-secrets:4.3.0-beta.2` // `com.azure,azure-security-keyvault-secrets,4.3.0-beta.2,com.azure.security.keyvault.secrets,4.3.0-beta.2,explicit,com.azure.core + java.base,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha2` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha2,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
 - :cd: `com.blazebit.persistence.integration.datanucleus` - `com.blazebit:blaze-persistence-integration-datanucleus-5.1:1.3.0-Alpha3` // `com.blazebit,blaze-persistence-integration-datanucleus-5.1,1.3.0-Alpha3,com.blazebit.persistence.integration.datanucleus,-,automatic,-,false,-`
@@ -461,12 +463,15 @@
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.3` // `za.co.absa.spline,rest-api-doc-generator,0.5.3,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.4` // `za.co.absa.spline,rest-api-doc-generator,0.5.4,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `za.co.absa.spline:rest-api-doc-generator:0.5.5` // `za.co.absa.spline,rest-api-doc-generator,0.5.5,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `za.co.absa.utils:rest-api-doc-generator:1.0.0` // `za.co.absa.utils,rest-api-doc-generator,1.0.0,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `za.co.absa.utils:rest-api-doc-generator:1.0.1` // `za.co.absa.utils,rest-api-doc-generator,1.0.1,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `com.amazonaws:aws-xray-agent-plugin:2.7.1` // `com.amazonaws,aws-xray-agent-plugin,2.7.1,com.fasterxml.jackson.dataformat.cbor,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.8.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.8.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.2` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.2,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.0` // `com.hortonworks.registries,avro-examples,0.9.0,com.fasterxml.jackson.dataformat.csv,2.10.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.csv` - `com.hortonworks.registries:avro-examples:0.9.1` // `com.hortonworks.registries,avro-examples,0.9.1,com.fasterxml.jackson.dataformat.csv,2.10.5,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.javaprop` - `com.devappliance.ninjadoc:ninjadoc-openapi:0.0.1` // `com.devappliance.ninjadoc,ninjadoc-openapi,0.0.1,com.fasterxml.jackson.dataformat.javaprop,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `com.github.liuzhenghui:ecology-plugin-core:1.0.0` // `com.github.liuzhenghui,ecology-plugin-core,1.0.0,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.yaml` - `com.github.liuzhenghui:ecology-plugin-core:1.0.2` // `com.github.liuzhenghui,ecology-plugin-core,1.0.2,com.fasterxml.jackson.dataformat.yaml,2.11.1,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base + org.yaml.snakeyaml,false,-`
@@ -3446,6 +3451,8 @@
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha6` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha7` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha7,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-sidecar:2.0.0-alpha8` // `com.instaclustr,cassandra-sidecar,2.0.0-alpha8,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:esop:1.0.0` // `com.instaclustr,esop,1.0.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.instaclustr:icarus:1.0.0` // `com.instaclustr,icarus,1.0.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.0.0` // `com.instaclustr,instaclustr-backup-restore,1.0.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.0` // `com.instaclustr,instaclustr-backup-restore,1.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:instaclustr-backup-restore:1.1.1` // `com.instaclustr,instaclustr-backup-restore,1.1.1,info.picocli,-,explicit,java.base,false,-`
@@ -3942,6 +3949,8 @@
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.1.0` // `io.micronaut.aws,micronaut-function-aws,2.1.0,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.1.0.RC1` // `io.micronaut.aws,micronaut-function-aws,2.1.0.RC1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.1.0.RC2` // `io.micronaut.aws,micronaut-function-aws,2.1.0.RC2,io.micronaut.aws.function_aws,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.1.1` // `io.micronaut.aws,micronaut-function-aws,2.1.1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.2.0` // `io.micronaut.aws,micronaut-function-aws,2.2.0,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0.RC3` // `io.micronaut,micronaut-bom,1.0.0.RC3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.1` // `io.micronaut,micronaut-bom,1.0.1,io.micronaut.bom,-,automatic,-,false,-`
@@ -5783,7 +5792,9 @@
 - :dvd: `jakarta.activation` :left_right_arrow: `com.sun.activation:jakarta.activation:2.0.0-rc1` // `com.sun.activation,jakarta.activation,2.0.0-rc1,jakarta.activation,-,explicit,java.base + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.activation` - `org.apache.sling:org.apache.sling.javax.activation:0.2.0` // `org.apache.sling,org.apache.sling.javax.activation,0.2.0,jakarta.activation,-,explicit,java.base + java.desktop + java.logging,false,-`
 - :dvd: `jakarta.annotation` - `org.apache.tomcat:tomcat-annotations-api:10.0.0-M8` // `org.apache.tomcat,tomcat-annotations-api,10.0.0-M8,jakarta.annotation,2.0,explicit,java.base,false,-`
+- :dvd: `jakarta.annotation` - `org.apache.tomcat:tomcat-annotations-api:10.0.0-M9` // `org.apache.tomcat,tomcat-annotations-api,10.0.0-M9,jakarta.annotation,2.0,explicit,java.base,false,-`
 - :dvd: `jakarta.el.api` - `org.apache.tomcat:tomcat-el-api:10.0.0-M8` // `org.apache.tomcat,tomcat-el-api,10.0.0-M8,jakarta.el.api,4.0,explicit,java.base + java.desktop,false,-`
+- :dvd: `jakarta.el.api` - `org.apache.tomcat:tomcat-el-api:10.0.0-M9` // `org.apache.tomcat,tomcat-el-api,10.0.0-M9,jakarta.el.api,4.0,explicit,java.base + java.desktop,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.0-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.0-jre14,jakarta.mail,1.0.10.0-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.1-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.1-jre14,jakarta.mail,1.0.10.1-jre14,explicit,java.base,false,-`
 - :dvd: `jakarta.mail` :left_right_arrow: `com.guicedee.services:jakarta.mail:1.0.10.3-jre14` // `com.guicedee.services,jakarta.mail,1.0.10.3-jre14,jakarta.mail,1.0.10.3-jre14,explicit,java.base,false,-`
@@ -5895,7 +5906,9 @@
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC6` // `com.sun.mail,mailapi,2.0.0-RC6,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `jakarta.persistence` - `org.jboss.weld:weld-osgi-bundle:4.0.0.Beta1` // `org.jboss.weld,weld-osgi-bundle,4.0.0.Beta1,jakarta.persistence,3.0.0-RC2,explicit,java.base + java.instrument + java.logging + java.sql,false,-`
 - :dvd: `jakarta.persistence` - `org.jboss.weld:weld-osgi-bundle:4.0.0.Beta2` // `org.jboss.weld,weld-osgi-bundle,4.0.0.Beta2,jakarta.persistence,3.0.0-RC2,explicit,java.base + java.instrument + java.logging + java.sql,false,-`
+- :dvd: `jakarta.servlet` - `org.apache.tomcat:tomcat-servlet-api:10.0.0-M9` // `org.apache.tomcat,tomcat-servlet-api,10.0.0-M9,jakarta.servlet,5.0,explicit,java.base,false,-`
 - :dvd: `jakarta.websocket.api` - `org.apache.tomcat:tomcat-websocket-api:10.0.0-M8` // `org.apache.tomcat,tomcat-websocket-api,10.0.0-M8,jakarta.websocket.api,2.0,explicit,java.base,false,-`
+- :dvd: `jakarta.websocket.api` - `org.apache.tomcat:tomcat-websocket-api:10.0.0-M9` // `org.apache.tomcat,tomcat-websocket-api,10.0.0-M9,jakarta.websocket.api,2.0,explicit,java.base,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client:2.0.0-M2` // `org.glassfish.tyrus.bundles,tyrus-standalone-client,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client:2.0.0-M3` // `org.glassfish.tyrus.bundles,tyrus-standalone-client,2.0.0-M3,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
 - :dvd: `jakarta.xml.bind` - `org.glassfish.tyrus.bundles:tyrus-standalone-client-jdk:2.0.0-M2` // `org.glassfish.tyrus.bundles,tyrus-standalone-client-jdk,2.0.0-M2,jakarta.xml.bind,3.0.0-RC3,explicit,jakarta.activation + java.base + java.logging + java.xml,false,-`
@@ -6131,7 +6144,9 @@
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.0` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.0,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `org.jetbrains.kotlin:kotlin-osgi-bundle:1.4.10` // `org.jetbrains.kotlin,kotlin-osgi-bundle,1.4.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurl:1.0.39` // `com.orange.ccmd,hurl,1.0.39,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurl:1.0.40` // `com.orange.ccmd,hurl,1.0.40,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurlfmt:1.0.39` // `com.orange.ccmd,hurlfmt,1.0.39,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurlfmt:1.0.40` // `com.orange.ccmd,hurlfmt,1.0.40,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `dev.zacsweers.ticktock:ticktock-compiler:0.2.0` // `dev.zacsweers.ticktock,ticktock-compiler,0.2.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.0` // `io.github.baharmc,bedrock-edition,1.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `io.github.baharmc:bedrock-edition:1.1` // `io.github.baharmc,bedrock-edition,1.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
@@ -8416,6 +8431,7 @@
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.0-M1` // `org.eclipse.milo,bsd-core,0.5.0-M1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.0-M2` // `org.eclipse.milo,bsd-core,0.5.0-M2,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.1` // `org.eclipse.milo,bsd-core,0.5.1,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
+- :cd: `org.eclipse.milo.opcua.binaryschema.core` - `org.eclipse.milo:bsd-core:0.5.2` // `org.eclipse.milo,bsd-core,0.5.2,org.eclipse.milo.opcua.binaryschema.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.1` // `org.flywaydb.enterprise,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.2` // `org.flywaydb.enterprise,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:6.4.3` // `org.flywaydb.enterprise,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -8429,6 +8445,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.0` // `org.flywaydb.enterprise,flyway-core,7.0.0,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.0-beta1` // `org.flywaydb.enterprise,flyway-core,7.0.0-beta1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.1` // `org.flywaydb.enterprise,flyway-core,7.0.1,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.2` // `org.flywaydb.enterprise,flyway-core,7.0.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -10427,6 +10444,7 @@
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.7.5-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.7.5-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.access + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.8.0-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.8.0-JAVA9MODULE_SLF4J17,org.slf4j,-,explicit,aws.java.sdk.core + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.access + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.8.1-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.8.1-JAVA9MODULE_SLF4J17,org.slf4j,1.8.1-JAVA9MODULE_SLF4J17,explicit,aws.java.sdk.core + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.access + logback.classic + logback.core + slf4j.api,false,-`
+- :dvd: `org.slf4j` - `com.sndyuk:logback-more-appenders:1.8.2-JAVA9MODULE_SLF4J17` // `com.sndyuk,logback-more-appenders,1.8.2-JAVA9MODULE_SLF4J17,org.slf4j,1.8.2-JAVA9MODULE_SLF4J17,explicit,aws.java.sdk.core + aws.java.sdk.kinesis + aws.java.sdk.logs + fluency.core + fluency.fluentd + fluent.logger + java.base + logback.access + logback.classic + logback.core + slf4j.api,false,-`
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.23` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.23,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.30` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.30,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.31` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.31,org.slf4j,-,explicit,java.base,false,-`
