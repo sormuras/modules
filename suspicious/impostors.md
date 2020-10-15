@@ -3097,6 +3097,7 @@
 - :cd: `com.microsoft.onnxruntime` - `com.microsoft.onnxruntime:onnxruntime_gpu:1.3.1` // `com.microsoft.onnxruntime,onnxruntime_gpu,1.3.1,com.microsoft.onnxruntime,-,automatic,-,false,-`
 - :cd: `com.microsoft.onnxruntime` - `com.microsoft.onnxruntime:onnxruntime_gpu:1.4.0` // `com.microsoft.onnxruntime,onnxruntime_gpu,1.4.0,com.microsoft.onnxruntime,-,automatic,-,false,-`
 - :cd: `com.microsoft.onnxruntime` - `com.microsoft.onnxruntime:onnxruntime_gpu:1.5.1` // `com.microsoft.onnxruntime,onnxruntime_gpu,1.5.1,com.microsoft.onnxruntime,-,automatic,-,false,-`
+- :cd: `com.microsoft.onnxruntime` - `com.microsoft.onnxruntime:onnxruntime_gpu:1.5.2` // `com.microsoft.onnxruntime,onnxruntime_gpu,1.5.2,com.microsoft.onnxruntime,-,automatic,-,false,-`
 - :dvd: `com.microsoft.sqlserver.jdbc` - `com.guicedee.services:mssql-jdbc:0.70.0.1` // `com.guicedee.services,mssql-jdbc,0.70.0.1,com.microsoft.sqlserver.jdbc,0.70.0.1,explicit,adal4j + azure.client.runtime + azure.keyvault + azure.keyvault.webkey + client.runtime + java.base + java.naming + java.security.jgss + java.sql + okhttp3 + retrofit2,false,-`
 - :dvd: `com.microsoft.sqlserver.jdbc` - `com.guicedee.services:mssql-jdbc:0.70.0.1-rc1` // `com.guicedee.services,mssql-jdbc,0.70.0.1-rc1,com.microsoft.sqlserver.jdbc,0.70.0.1-rc1,explicit,adal4j + azure.client.runtime + azure.keyvault + azure.keyvault.webkey + client.runtime + java.base + java.naming + java.security.jgss + java.sql + okhttp3 + retrofit2,false,-`
 - :dvd: `com.microsoft.sqlserver.jdbc` - `com.guicedee.services:mssql-jdbc:0.70.0.1-rc13` // `com.guicedee.services,mssql-jdbc,0.70.0.1-rc13,com.microsoft.sqlserver.jdbc,0.70.0.1-rc13,explicit,adal4j + azure.client.runtime + azure.keyvault + azure.keyvault.webkey + client.runtime + java.base + java.naming + java.security.jgss + java.sql + okhttp3 + retrofit2,false,-`
@@ -3645,6 +3646,7 @@
 - :cd: `io.datakernel.launchers.rpc` - `io.datakernel:datakernel-launchers-rpc:3.0.1` // `io.datakernel,datakernel-launchers-rpc,3.0.1,io.datakernel.launchers.rpc,-,automatic,-,false,-`
 - :cd: `io.datakernel.launchers.rpc` - `io.datakernel:datakernel-launchers-rpc:3.1.0` // `io.datakernel,datakernel-launchers-rpc,3.1.0,io.datakernel.launchers.rpc,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.4` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.4,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.5` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.5,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `cloud.orbit:orbit-core:1.12.0` // `cloud.orbit,orbit-core,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `cloud.orbit:orbit-runtime:1.12.0` // `cloud.orbit,orbit-runtime,1.12.0,io.github.classgraph,4.8.14,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `com.github.bogie-clj:playground:0.1.1` // `com.github.bogie-clj,playground,0.1.1,io.github.classgraph,4.6.32,explicit,java.base + java.management + java.xml + jdk.unsupported,false,-`
@@ -6169,6 +6171,7 @@
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.10` // `org.jetbrains.kotlin,kotlin-reflect,1.4.10,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.2-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.2-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.3-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.3-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.13` // `no.entur,schema2proto-lib,1.13,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -6488,6 +6491,7 @@
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.28.2` // `io.aeron,aeron-agent,1.28.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.29.0` // `io.aeron,aeron-agent,1.29.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.30.0` // `io.aeron,aeron-agent,1.30.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `io.aeron:aeron-agent:1.31.0` // `io.aeron,aeron-agent,1.31.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.13.0` // `io.aeron,aeron-all,1.13.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.14.0` // `io.aeron,aeron-all,1.14.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `io.aeron:aeron-all:1.15.0` // `io.aeron,aeron-all,1.15.0,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
@@ -6793,6 +6797,8 @@
 - :cd: `net.java.truevfs.samples` - `net.java.truevfs:truevfs-samples_2.11:0.12.2` // `net.java.truevfs,truevfs-samples_2.11,0.12.2,net.java.truevfs.samples,-,automatic,-,false,-`
 - :cd: `net.java.truevfs.samples` - `net.java.truevfs:truevfs-samples_2.12:0.12.2` // `net.java.truevfs,truevfs-samples_2.12,0.12.2,net.java.truevfs.samples,-,automatic,-,false,-`
 - :cd: `net.java.truevfs.samples` - `net.java.truevfs:truevfs-samples_2.13:0.12.2` // `net.java.truevfs,truevfs-samples_2.13,0.12.2,net.java.truevfs.samples,-,automatic,-,false,-`
+- :cd: `net.kyori.adventure` - `me.lucko:adventure-api:4.0.0` // `me.lucko,adventure-api,4.0.0,net.kyori.adventure,-,automatic,-,false,-`
+- :cd: `net.kyori.adventure` - `me.lucko:adventure-api:4.0.1` // `me.lucko,adventure-api,4.0.1,net.kyori.adventure,-,automatic,-,false,-`
 - :cd: `net.kyori.event` - `net.kyori:event-api:3.0.0` // `net.kyori,event-api,3.0.0,net.kyori.event,-,automatic,-,false,-`
 - :cd: `net.kyori.text` - `net.kyori:text-api:2.0.0` // `net.kyori,text-api,2.0.0,net.kyori.text,-,automatic,-,false,-`
 - :cd: `net.kyori.text` - `net.kyori:text-api:3.0.0` // `net.kyori,text-api,3.0.0,net.kyori.text,-,automatic,-,false,-`
@@ -7094,6 +7100,7 @@
 - :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.02` // `cn.net.mugui,spring,1.02,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.03` // `cn.net.mugui,spring,1.03,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.05` // `cn.net.mugui,spring,1.05,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `cn.net.mugui:spring:1.06` // `cn.net.mugui,spring,1.06,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.alibaba.ververica:flink-connector-test-util:1.0.0` // `com.alibaba.ververica,flink-connector-test-util,1.0.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.alibaba.ververica:flink-connector-test-util:1.1.0` // `com.alibaba.ververica,flink-connector-test-util,1.1.0,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.ardikars.jxnet:jxnet-example:1.5.5.RC5` // `com.ardikars.jxnet,jxnet-example,1.5.5.RC5,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -8502,6 +8509,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.0-beta1` // `org.flywaydb.enterprise,flyway-core,7.0.0-beta1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.1` // `org.flywaydb.enterprise,flyway-core,7.0.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.2` // `org.flywaydb.enterprise,flyway-core,7.0.2,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.3` // `org.flywaydb.enterprise,flyway-core,7.0.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -9853,6 +9861,7 @@
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.14.3` // `io.joynr.tools.generator,joynr-generator-standalone,1.14.3,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.1` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.1,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.2` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.2,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.6.4` // `io.joynr.tools.generator,joynr-generator-standalone,1.6.4,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.6.5` // `io.joynr.tools.generator,joynr-generator-standalone,1.6.5,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.7.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.7.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -10532,8 +10541,11 @@
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.8` // `io.github.jdiscordbots,nightdream-logging,1.1.8,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.jdiscordbots:nightdream-logging:1.1.9` // `io.github.jdiscordbots,nightdream-logging,1.1.9,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit4:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit4,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit4:2.0.0-Beta6` // `io.github.origin-energy,java-snapshot-testing-junit4,2.0.0-Beta6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit5:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-junit5,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-junit5:2.0.0-Beta6` // `io.github.origin-energy,java-snapshot-testing-junit5,2.0.0-Beta6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-spock:2.0.0-Beta4` // `io.github.origin-energy,java-snapshot-testing-spock,2.0.0-Beta4,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `io.github.origin-energy:java-snapshot-testing-spock:2.0.0-Beta6` // `io.github.origin-energy,java-snapshot-testing-spock,2.0.0-Beta6,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.virtdata:virtdata-lib-curves4:2.12.01` // `io.virtdata,virtdata-lib-curves4,2.12.01,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.virtdata:virtdata-lib-curves4:2.12.02` // `io.virtdata,virtdata-lib-curves4,2.12.02,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `io.virtdata:virtdata-lib-curves4:2.12.03` // `io.virtdata,virtdata-lib-curves4,2.12.03,org.slf4j,-,explicit,java.base,false,-`
