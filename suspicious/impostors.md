@@ -6183,6 +6183,7 @@
 - :dvd: `kotlin.reflect` - `org.jetbrains.kotlin:kotlin-reflect:1.4.10` // `org.jetbrains.kotlin,kotlin-reflect,1.4.10,kotlin.reflect,-,explicit,java.base + kotlin.stdlib,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.2-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.2-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.3-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.3-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.4-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.4-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -6699,6 +6700,8 @@
 - :dvd: `net.bytebuddy` - `org.rapidpm.vaadin:nano-vaadin-undertow:01.00.03-RPM` // `org.rapidpm.vaadin,nano-vaadin-undertow,01.00.03-RPM,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.redisson:redisson-all:3.10.1` // `org.redisson,redisson-all,3.10.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.sheinbergon:needle-agent:0.2.0-RELEASE` // `org.sheinbergon,needle-agent,0.2.0-RELEASE,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.sheinbergon:needle-agent:0.2.1-RELEASE` // `org.sheinbergon,needle-agent,0.2.1-RELEASE,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.sheinbergon:needle-agent:0.3.0-RELEASE` // `org.sheinbergon,needle-agent,0.3.0-RELEASE,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.10.0` // `co.elastic.apm,apm-agent-attach,1.10.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.10.1` // `co.elastic.apm,apm-agent-attach,1.10.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.11.0` // `co.elastic.apm,apm-agent-attach,1.11.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
@@ -7047,6 +7050,9 @@
 - :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.3.7` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.3.7,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.4.0` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.4.0,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
 - :cd: `org.apache.isis.core.unittestsupport` - `org.apache.isis.core:isis-core-internaltestsupport:2.0.0-M3` // `org.apache.isis.core,isis-core-internaltestsupport,2.0.0-M3,org.apache.isis.core.unittestsupport,-,automatic,-,false,-`
+- :cd: `org.apache.isis.core.unittestsupport` - `org.apache.isis.core:isis-core-internaltestsupport:2.0.0-M4` // `org.apache.isis.core,isis-core-internaltestsupport,2.0.0-M4,org.apache.isis.core.unittestsupport,-,automatic,-,false,-`
+- :cd: `org.apache.isis.mappings.jaxrsclient.api` - `org.apache.isis.mappings:isis-mappings-jaxrsclient-applib:2.0.0-M4` // `org.apache.isis.mappings,isis-mappings-jaxrsclient-applib,2.0.0-M4,org.apache.isis.mappings.jaxrsclient.api,-,automatic,-,false,-`
+- :cd: `org.apache.isis.mappings.restclient` - `org.apache.isis.mappings:isis-mappings-restclient-applib:2.0.0-M4` // `org.apache.isis.mappings,isis-mappings-restclient-applib,2.0.0-M4,org.apache.isis.mappings.restclient,-,automatic,-,false,-`
 - :cd: `org.apache.jena.dboe` - `org.apache.jena:jena-dboe-index:3.8.0` // `org.apache.jena,jena-dboe-index,3.8.0,org.apache.jena.dboe,-,automatic,-,false,-`
 - :cd: `org.apache.jena.dboe` - `org.apache.jena:jena-dboe-index:3.9.0` // `org.apache.jena,jena-dboe-index,3.9.0,org.apache.jena.dboe,-,automatic,-,false,-`
 - :cd: `org.apache.jena.dboe` - `org.apache.jena:jena-dboe-index-test:3.8.0` // `org.apache.jena,jena-dboe-index-test,3.8.0,org.apache.jena.dboe,-,automatic,-,false,-`
