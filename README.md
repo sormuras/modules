@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7802 Java modules published at Maven Central
+Counted 7804 Java modules published at Maven Central
 
-## Summary 2020-10-20T02:40:42.227513Z
+## Summary 2020-10-21T02:41:39.796375Z
 
 ```
 ## Summary
 
-Started scan at 2020-10-20T02:40:42.227513Z
-Scanned 63,789 files in 7 seconds.
+Started scan at 2020-10-21T02:41:39.796375Z
+Scanned 63,857 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_10_20_02_17_41.csv
+    last -> modulescanner-report-2020_10_21_02_26_17.csv
 
-Parsed 4,354,769 lines in total.
-  67,465 -> captions skipped
-  404,132 -> duplicates skipped
-  224,149 -> module related
+Parsed 4,363,061 lines in total.
+  67,533 -> captions skipped
+  404,764 -> duplicates skipped
+  224,591 -> module related
 
-Collected 7,802 unique modules.
-  automatic :cd: -> 5,435
+Collected 7,804 unique modules.
+  automatic :cd: -> 5,437
   explicit :dvd: -> 2,367
 
 ## Samples
@@ -26,7 +26,7 @@ org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0
  org.junitpioneer -> org.junit-pioneer:junit-pioneer:1.0.0
 org.objectweb.asm -> org.ow2.asm:asm:9.0
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
-   org.joda.beans -> org.joda:joda-beans:2.8.0
+   org.joda.beans -> org.joda:joda-beans:2.8.1
         org.slf4j -> org.slf4j:slf4j-api:2.0.0-alpha1
  de.sormuras.bach -> de.sormuras.bach:de.sormuras.bach:11.9
 
@@ -58,7 +58,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_07={automatic=6909, explicit=455, plain=149024}` 	 4.94%
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
- - `2020_10={automatic=4525, explicit=551, plain=81797}` 	 6.21%
+ - `2020_10={automatic=4860, explicit=564, plain=88947}` 	 6.10%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -123,9 +123,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [24332](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [30968](suspicious/naming.md)
-- Modular impostors: [10935](suspicious/impostors.md)
+- Invalid module names: [24333](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [31033](suspicious/naming.md)
+- Modular impostors: [10963](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -188,7 +188,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.17`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.17`
 - :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.17.2`
-- :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.0`
+- :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.1`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`
 - :dvd: `org.joda.convert` - `org.joda:joda-convert:2.2.1`
 - :dvd: `org.joda.money` - `org.joda:joda-money:1.0.1`
