@@ -5646,6 +5646,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.1.0.M1` // `io.micronaut.test,micronaut-test-core,2.1.0.M1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.1.1` // `io.micronaut.test,micronaut-test-core,2.1.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.2.0` // `io.micronaut.test,micronaut-test-core,2.2.0,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.2.1` // `io.micronaut.test,micronaut-test-core,2.2.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -5674,6 +5675,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.1.0.M1` // `io.micronaut.test,micronaut-test-junit5,2.1.0.M1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.1.1` // `io.micronaut.test,micronaut-test-junit5,2.1.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.2.0` // `io.micronaut.test,micronaut-test-junit5,2.2.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.2.1` // `io.micronaut.test,micronaut-test-junit5,2.2.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -5702,6 +5704,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.1.0.M1` // `io.micronaut.test,micronaut-test-spock,2.1.0.M1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.1.1` // `io.micronaut.test,micronaut-test-spock,2.1.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.2.0` // `io.micronaut.test,micronaut-test-spock,2.2.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.2.1` // `io.micronaut.test,micronaut-test-spock,2.2.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -6302,6 +6305,7 @@
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.2` // `no.entur,schema2proto-lib,1.2,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.20` // `no.entur,schema2proto-lib,1.20,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.21` // `no.entur,schema2proto-lib,1.21,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.22` // `no.entur,schema2proto-lib,1.22,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.3` // `no.entur,schema2proto-lib,1.3,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.4` // `no.entur,schema2proto-lib,1.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.5` // `no.entur,schema2proto-lib,1.5,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -8069,6 +8073,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.300.57` // `com.yahoo.vespa,vespa-hadoop,7.300.57,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.301.24` // `com.yahoo.vespa,vespa-hadoop,7.301.24,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.304.50` // `com.yahoo.vespa,vespa-hadoop,7.304.50,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.305.19` // `com.yahoo.vespa,vespa-hadoop,7.305.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -10026,6 +10031,7 @@
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.1.3` // `com.netflix.nebula,gradle-lint-plugin,16.1.3,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.1.4` // `com.netflix.nebula,gradle-lint-plugin,16.1.4,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.10.0` // `com.netflix.nebula,gradle-lint-plugin,16.10.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.12.0` // `com.netflix.nebula,gradle-lint-plugin,16.12.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.2.0` // `com.netflix.nebula,gradle-lint-plugin,16.2.0,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.2.1` // `com.netflix.nebula,gradle-lint-plugin,16.2.1,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `com.netflix.nebula:gradle-lint-plugin:16.2.2` // `com.netflix.nebula,gradle-lint-plugin,16.2.2,org.objectweb.asm.commons,7.3.1,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -10078,6 +10084,7 @@
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.1` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.1,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.2` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.2,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.15.3` // `io.joynr.tools.generator,joynr-generator-standalone,1.15.3,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.6.4` // `io.joynr.tools.generator,joynr-generator-standalone,1.6.4,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.6.5` // `io.joynr.tools.generator,joynr-generator-standalone,1.6.5,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.commons` - `io.joynr.tools.generator:joynr-generator-standalone:1.7.0` // `io.joynr.tools.generator,joynr-generator-standalone,1.7.0,org.objectweb.asm.commons,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -10184,6 +10191,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.138` // `com.rookout,rook,0.1.138,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.139` // `com.rookout,rook,0.1.139,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.140` // `com.rookout,rook,0.1.140,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.141` // `com.rookout,rook,0.1.141,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -10857,6 +10865,7 @@
 - :cd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.15.0` // `org.trellisldp,trellis-constraint,0.15.0,org.trellisldp.constraint,-,automatic,-,false,-`
 - :dvd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.16.0` // `org.trellisldp,trellis-constraint,0.16.0,org.trellisldp.constraint,-,explicit,jakarta.enterprise.cdi.api + java.base + org.apache.commons.rdf.api + org.trellisldp.api + org.trellisldp.vocabulary,false,-`
 - :dvd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.16.1` // `org.trellisldp,trellis-constraint,0.16.1,org.trellisldp.constraint,-,explicit,jakarta.enterprise.cdi.api + java.base + org.apache.commons.rdf.api + org.trellisldp.api + org.trellisldp.vocabulary,false,-`
+- :dvd: `org.trellisldp.constraint` - `org.trellisldp:trellis-constraint:0.16.2` // `org.trellisldp,trellis-constraint,0.16.2,org.trellisldp.constraint,-,explicit,jakarta.enterprise.cdi.api + java.base + org.apache.commons.rdf.api + org.trellisldp.api + org.trellisldp.vocabulary,false,-`
 - :cd: `org.tukaani.xz` - `com.innoventsolutions.birt.runtime:org.tukaani.xz_1.8.0.v20180207-1613:4.8.0` // `com.innoventsolutions.birt.runtime,org.tukaani.xz_1.8.0.v20180207-1613,4.8.0,org.tukaani.xz,-,automatic,-,false,-`
 - :cd: `org.yaml.snakeyaml` - `be.cylab:snakeyaml:1.25.1` // `be.cylab,snakeyaml,1.25.1,org.yaml.snakeyaml,-,automatic,-,false,-`
 - :dvd: `org.zalando.problem.gson` - `org.zalando:problem-gson:0.26.0-RC.0` // `org.zalando,problem-gson,0.26.0-RC.0,org.zalando.problem.gson,0.26.0-RC.0,explicit,com.google.gson + java.base + org.apiguardian.api + org.zalando.problem,false,-`
@@ -10881,6 +10890,7 @@
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.2.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.2.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.3.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.3.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.4.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.4.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.5.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.5.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` - `com.github.iherasymenko:spring-data-jpa:2.3.4.1.RELEASE` // `com.github.iherasymenko,spring-data-jpa,2.3.4.1.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.1.RELEASE.patched` // `com.labun,spring-tx,5.2.1.RELEASE.patched,spring.tx,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.3.RELEASE.patched` // `com.labun,spring-tx,5.2.3.RELEASE.patched,spring.tx,-,automatic,-,false,-`
