@@ -3387,10 +3387,12 @@
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.3` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.3,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
+- :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-demo:1.0.4` // `com.vlkan.log4j2,log4j2-logstash-layout-demo,1.0.4,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.0` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.0,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.1` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.1,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.2` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.2,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.3` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.3,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
+- :cd: `com.vlkan.log4j2.logstash.layout` - `com.vlkan.log4j2:log4j2-logstash-layout-fatjar:1.0.4` // `com.vlkan.log4j2,log4j2-logstash-layout-fatjar,1.0.4,com.vlkan.log4j2.logstash.layout,-,automatic,-,false,-`
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.0.1` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.0.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.0.2` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.0.2,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.1` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -6306,6 +6308,8 @@
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.20` // `no.entur,schema2proto-lib,1.20,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.21` // `no.entur,schema2proto-lib,1.21,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.22` // `no.entur,schema2proto-lib,1.22,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.23` // `no.entur,schema2proto-lib,1.23,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.24` // `no.entur,schema2proto-lib,1.24,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.3` // `no.entur,schema2proto-lib,1.3,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.4` // `no.entur,schema2proto-lib,1.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.5` // `no.entur,schema2proto-lib,1.5,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -7379,6 +7383,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.29.3` // `com.netflix.conductor,conductor-es6-persistence,2.29.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.30.1` // `com.netflix.conductor,conductor-es6-persistence,2.30.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.30.2` // `com.netflix.conductor,conductor-es6-persistence,2.30.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.netflix.conductor:conductor-es6-persistence:2.30.3` // `com.netflix.conductor,conductor-es6-persistence,2.30.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.3.0` // `com.nimblygames.packr,packr-all,2.3.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.4.2` // `com.nimblygames.packr,packr-all,2.4.2,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.nimblygames.packr:packr-all:2.5.0` // `com.nimblygames.packr,packr-all,2.5.0,org.apache.logging.log4j,2.13.1,explicit,java.base,false,-`
@@ -8074,6 +8079,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.301.24` // `com.yahoo.vespa,vespa-hadoop,7.301.24,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.304.50` // `com.yahoo.vespa,vespa-hadoop,7.304.50,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.305.19` // `com.yahoo.vespa,vespa-hadoop,7.305.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.306.19` // `com.yahoo.vespa,vespa-hadoop,7.306.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -8697,6 +8703,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.3` // `org.flywaydb.enterprise,flyway-core,7.0.3,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.0.4` // `org.flywaydb.enterprise,flyway-core,7.0.4,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.1.0` // `org.flywaydb.enterprise,flyway-core,7.1.0,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.1.1` // `org.flywaydb.enterprise,flyway-core,7.1.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
