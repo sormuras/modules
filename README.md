@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 7855 Java modules published at Maven Central
+Counted 7870 Java modules published at Maven Central
 
-## Summary 2020-11-05T03:04:04.357970Z
+## Summary 2020-11-06T03:03:38.465895Z
 
 ```
 ## Summary
 
-Started scan at 2020-11-05T03:04:04.357970Z
-Scanned 64,853 files in 8 seconds.
+Started scan at 2020-11-06T03:03:38.465895Z
+Scanned 64,920 files in 9 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_11_05_02_46_29.csv
+    last -> modulescanner-report-2020_11_06_02_50_48.csv
 
-Parsed 4,488,193 lines in total.
-  68,523 -> captions skipped
-  418,941 -> duplicates skipped
-  230,466 -> module related
+Parsed 4,496,723 lines in total.
+  68,590 -> captions skipped
+  420,333 -> duplicates skipped
+  231,132 -> module related
 
-Collected 7,855 unique modules.
-  automatic :cd: -> 5,458
-  explicit :dvd: -> 2,397
+Collected 7,870 unique modules.
+  automatic :cd: -> 5,472
+  explicit :dvd: -> 2,398
 
 ## Samples
             junit -> junit:junit:4.13.1
@@ -59,7 +59,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
- - `2020_11={automatic=722, explicit=88, plain=22618}` 	 3.58%
+ - `2020_11={automatic=1054, explicit=140, plain=29023}` 	 4.11%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -124,9 +124,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [25158](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [31756](suspicious/naming.md)
-- Modular impostors: [11338](suspicious/impostors.md)
+- Invalid module names: [25203](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [31928](suspicious/naming.md)
+- Modular impostors: [11403](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -162,20 +162,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
 - :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.31`
-- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M4`
-- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M4`
-- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M4`
+- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M5`
+- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M5`
+- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M5`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M5`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M4`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M4`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M5`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.9`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.6`
 - :dvd: `eu.hansolo.jdp` - `eu.hansolo:jdp:1.5`
