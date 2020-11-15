@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 7921 Java modules published at Maven Central
+Counted 7934 Java modules published at Maven Central
 
-## Summary 2020-11-14T03:10:11.208052Z
+## Summary 2020-11-15T02:54:33.727464Z
 
 ```
 ## Summary
 
-Started scan at 2020-11-14T03:10:11.208052Z
-Scanned 65,474 files in 9 seconds.
+Started scan at 2020-11-15T02:54:33.727464Z
+Scanned 65,564 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_11_14_02_51_42.csv
+    last -> modulescanner-report-2020_11_15_02_29_56.csv
 
-Parsed 4,555,108 lines in total.
-  69,143 -> captions skipped
-  427,086 -> duplicates skipped
-  234,955 -> module related
+Parsed 4,558,516 lines in total.
+  69,233 -> captions skipped
+  427,237 -> duplicates skipped
+  235,035 -> module related
 
-Collected 7,921 unique modules.
-  automatic :cd: -> 5,485
+Collected 7,934 unique modules.
+  automatic :cd: -> 5,498
   explicit :dvd: -> 2,436
 
 ## Samples
@@ -59,7 +59,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
- - `2020_11={automatic=3604, explicit=289, plain=76279}` 	 5.10%
+ - `2020_11={automatic=3628, explicit=333, plain=79366}` 	 4.99%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -125,8 +125,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [25439](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [32598](suspicious/naming.md)
-- Modular impostors: [11621](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [32607](suspicious/naming.md)
+- Modular impostors: [11624](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
