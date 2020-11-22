@@ -3478,6 +3478,7 @@
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.3.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.3.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.4.0.Final` // `org.jboss.windup.web,windup-keycloak-tool,5.4.0.Final,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.5.0.Alpha1` // `org.jboss.windup.web,windup-keycloak-tool,5.5.0.Alpha1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` - `org.mustangproject:Mustang-CLI:2.0.1` // `org.mustangproject,Mustang-CLI,2.0.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.10` // `com.expedia.www,haystack-agent,0.1.10,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.11` // `com.expedia.www,haystack-agent,0.1.11,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.12` // `com.expedia.www,haystack-agent,0.1.12,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
@@ -3861,6 +3862,7 @@
 - :dvd: `info.picocli` - `org.jboss.gm:cli:2.1` // `org.jboss.gm,cli,2.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:2.2` // `org.jboss.gm,cli,2.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.jboss.gm:cli:2.3` // `org.jboss.gm,cli,2.3,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `org.jboss.gm:cli:2.4` // `org.jboss.gm,cli,2.4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `io.annot8.components.text` - `io.annot8:annot8-components-types:0.4.0` // `io.annot8,annot8-components-types,0.4.0,io.annot8.components.text,0.4.0,explicit,io.annot8.api + io.annot8.common.components + io.annot8.common.data + io.annot8.components.base + io.annot8.conventions + java.base + java.json.bind + org.slf4j,false,-`
 - :cd: `io.cucumber.core` - `com.github.harry389:cucumber-core:5.0.0-RC3` // `com.github.harry389,cucumber-core,5.0.0-RC3,io.cucumber.core,-,automatic,-,false,-`
 - :cd: `io.cucumber.datatable` - `io.cucumber:datatable:1.1.12` // `io.cucumber,datatable,1.1.12,io.cucumber.datatable,-,automatic,-,false,-`
@@ -6723,7 +6725,9 @@
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.3-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.3-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.4-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.4-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.5-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.5-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:3.0.0-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,3.0.0-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.5` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.5,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.13` // `no.entur,schema2proto-lib,1.13,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -10467,6 +10471,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.4.0` // `com.github.collinalpert,java2db,5.4.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.0` // `com.github.collinalpert,java2db,5.5.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.1` // `com.github.collinalpert,java2db,5.5.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.6.0` // `com.github.collinalpert,java2db,5.6.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -10488,6 +10493,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2` // `com.github.collinalpert,lambda2sql,2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2.1` // `com.github.collinalpert,lambda2sql,2.2.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.2.2` // `com.github.collinalpert,lambda2sql,2.2.2,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:2.3.0` // `com.github.collinalpert,lambda2sql,2.3.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example:1.1.0` // `com.github.roskart.dropwizard-jaxws,dropwizard-jaxws-example,1.1.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.21.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.21.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.tomakehurst:wiremock-jre8-standalone:2.22.0` // `com.github.tomakehurst,wiremock-jre8-standalone,2.22.0,org.objectweb.asm,7.0.0,explicit,java.base,false,-`
@@ -10831,6 +10837,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.64.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.64.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.65.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.65.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.66.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.66.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.67.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.67.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
@@ -10897,6 +10904,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.142` // `com.rookout,rook,0.1.142,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.143` // `com.rookout,rook,0.1.143,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.144` // `com.rookout,rook,0.1.144,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.145` // `com.rookout,rook,0.1.145,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
