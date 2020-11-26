@@ -1,29 +1,29 @@
 # sormuras/modules
-Counted 8015 Java modules published at Maven Central
+Counted 8020 Java modules published at Maven Central
 
-## Summary 2020-11-25T04:05:09.186626Z
+## Summary 2020-11-26T03:52:54.984269Z
 
 ```
 ## Summary
 
-Started scan at 2020-11-25T04:05:09.186626Z
-Scanned 66,260 files in 7 seconds.
+Started scan at 2020-11-26T03:52:54.984269Z
+Scanned 66,324 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_11_25_03_38_42.csv
+    last -> modulescanner-report-2020_11_26_03_21_54.csv
 
-Parsed 4,624,950 lines in total.
-  69,926 -> captions skipped
-  434,787 -> duplicates skipped
-  239,131 -> module related
+Parsed 4,632,761 lines in total.
+  69,990 -> captions skipped
+  434,937 -> duplicates skipped
+  239,298 -> module related
 
-Collected 8,015 unique modules.
-  automatic :cd: -> 5,545
-  explicit :dvd: -> 2,470
+Collected 8,020 unique modules.
+  automatic :cd: -> 5,549
+  explicit :dvd: -> 2,471
 
 ## Samples
             junit -> junit:junit:4.13.1
 org.junit.jupiter -> org.junit.jupiter:junit-jupiter:5.7.0
- org.junitpioneer -> org.junit-pioneer:junit-pioneer:1.0.0
+ org.junitpioneer -> org.junit-pioneer:junit-pioneer:1.1.0
 org.objectweb.asm -> org.ow2.asm:asm:9.0
         org.lwjgl -> org.lwjgl:lwjgl:3.2.3
    org.joda.beans -> org.joda:joda-beans:2.8.1
@@ -59,7 +59,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
- - `2020_11={automatic=6455, explicit=584, plain=133461}` 	 5.27%
+ - `2020_11={automatic=6504, explicit=621, plain=140891}` 	 5.06%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -125,8 +125,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [25497](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33235](suspicious/naming.md)
-- Modular impostors: [11956](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33271](suspicious/naming.md)
+- Modular impostors: [12001](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -162,20 +162,20 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `com.gluonhq.strange` - `com.gluonhq:strange:0.0.12`
 - :dvd: `com.gluonhq.strangefx` - `com.gluonhq:strangefx:0.0.8`
 - :dvd: `com.gluonhq.substrate` - `com.gluonhq:substrate:0.0.33`
-- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0-M5`
-- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0-M5`
-- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0-M5`
+- :dvd: `com.sun.xml.bind` - `com.sun.xml.bind:jaxb-impl:3.0.0`
+- :dvd: `com.sun.xml.bind.core` - `com.sun.xml.bind:jaxb-core:3.0.0`
+- :dvd: `com.sun.xml.bind.osgi` - `com.sun.xml.bind:jaxb-osgi:3.0.0`
 - :dvd: `com.sun.xml.ws` - `com.sun.xml.ws:rt:2.3.2`
-- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.eclipselink` - `com.sun.xml.ws:jaxws-eclipselink-plugin:3.0.0`
+- :dvd: `com.sun.xml.ws.fi` - `com.sun.xml.ws:rt-fi:3.0.0`
+- :dvd: `com.sun.xml.ws.httpspi.servlet` - `com.sun.xml.ws:httpspi-servlet:3.0.0`
 - :dvd: `com.sun.xml.ws.jaxws` - `com.sun.xml.ws:jaxws-rt:2.3.2`
-- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0-M5`
-- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0-M5`
+- :dvd: `com.sun.xml.ws.policy` - `com.sun.xml.ws:policy:3.0.0`
+- :dvd: `com.sun.xml.ws.rt` - `com.sun.xml.ws:rt:3.0.0`
+- :dvd: `com.sun.xml.ws.sdo` - `com.sun.xml.ws:sdo-eclipselink-plugin:3.0.0`
+- :dvd: `com.sun.xml.ws.servlet` - `com.sun.xml.ws:servlet:3.0.0`
+- :dvd: `com.sun.xml.ws.transport.async` - `com.sun.xml.ws:jaxws-async-client-transport:3.0.0`
+- :dvd: `com.sun.xml.ws.transport.local` - `com.sun.xml.ws:jaxws-local-transport:3.0.0`
 - :dvd: `de.sormuras.bach` :left_right_arrow: `de.sormuras.bach:de.sormuras.bach:11.9`
 - :dvd: `eu.hansolo.evt` - `eu.hansolo:evt:1.6`
 - :dvd: `eu.hansolo.jdp` - `eu.hansolo:jdp:1.5`
@@ -211,7 +211,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `org.junit.platform.runner` - `org.junit.platform:junit-platform-runner:1.7.0`
 - :dvd: `org.junit.platform.suite.api` - `org.junit.platform:junit-platform-suite-api:1.7.0`
 - :dvd: `org.junit.platform.testkit` - `org.junit.platform:junit-platform-testkit:1.7.0`
-- :dvd: `org.junitpioneer` - `org.junit-pioneer:junit-pioneer:1.0.0`
+- :dvd: `org.junitpioneer` - `org.junit-pioneer:junit-pioneer:1.1.0`
 - :dvd: `org.lwjgl` - `org.lwjgl:lwjgl:3.2.3`
 - :dvd: `org.lwjgl.assimp` - `org.lwjgl:lwjgl-assimp:3.2.3`
 - :dvd: `org.lwjgl.bgfx` - `org.lwjgl:lwjgl-bgfx:3.2.3`
