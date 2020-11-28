@@ -698,11 +698,13 @@
 - :dvd: `com.github.collinalpert.lambda2sql` - `com.github.collinalpert:java2db:2.3.4` // `com.github.collinalpert,java2db,2.3.4,com.github.collinalpert.lambda2sql,-,explicit,jaque + java.base,true,-`
 - :dvd: `com.github.cowwoc.pouch.core` - `com.github.cowwoc.pouch:core:2.1` // `com.github.cowwoc.pouch,core,2.1,com.github.cowwoc.pouch.core,2.1,explicit,java.base + org.slf4j,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.16` // `com.github.davidmoten,kool,0.1.16,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.17` // `com.github.davidmoten,kool,0.1.17,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.2` // `com.github.davidmoten,kool,0.1.2,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.3` // `com.github.davidmoten,kool,0.1.3,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.4` // `com.github.davidmoten,kool,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool:0.1.5` // `com.github.davidmoten,kool,0.1.5,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.16` // `com.github.davidmoten,kool-json,0.1.16,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
+- :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.17` // `com.github.davidmoten,kool-json,0.1.17,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.4` // `com.github.davidmoten,kool-json,0.1.4,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.davidmoten.wordwrap` - `com.github.davidmoten:kool-json:0.1.5` // `com.github.davidmoten,kool-json,0.1.5,com.github.davidmoten.wordwrap,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring:1.0.5` // `com.github.fartherp,dbtest-spring,1.0.5,com.github.fartherp,-,automatic,-,false,-`
@@ -4113,6 +4115,7 @@
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.4` // `org.restheart,restheart,5.1.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.5` // `org.restheart,restheart,5.1.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.6` // `org.restheart,restheart,5.1.6,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `org.restheart:restheart:5.1.7` // `org.restheart,restheart,5.1.7,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.2-spline-agent-bundle_2.11:0.5.4` // `za.co.absa.spline.agent.spark,spark-2.2-spline-agent-bundle_2.11,0.5.4,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.2-spline-agent-bundle_2.11:0.5.5` // `za.co.absa.spline.agent.spark,spark-2.2-spline-agent-bundle_2.11,0.5.5,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `za.co.absa.spline.agent.spark:spark-2.2-spline-agent-bundle_2.11:0.5.6` // `za.co.absa.spline.agent.spark,spark-2.2-spline-agent-bundle_2.11,0.5.6,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -7358,6 +7361,7 @@
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.4.1` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.4.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.4.1-native-mt` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.4.1-native-mt,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.4.2` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.4.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
+- :dvd: `net.bytebuddy` - `org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.4.2-native-mt` // `org.jetbrains.kotlinx,kotlinx-coroutines-debug,1.4.2-native-mt,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.1` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.1,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.2` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.2,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
 - :dvd: `net.bytebuddy` - `org.opendaylight.mdsal:mdsal-binding-dom-codec:4.0.3` // `org.opendaylight.mdsal,mdsal-binding-dom-codec,4.0.3,net.bytebuddy,-,explicit,java.base + java.instrument + jdk.unsupported + net.bytebuddy.agent,false,-`
