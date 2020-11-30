@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 8061 Java modules published at Maven Central
 
-## Summary 2020-11-29T03:02:06.052113Z
+## Summary 2020-11-30T03:02:51.264798Z
 
 ```
 ## Summary
 
-Started scan at 2020-11-29T03:02:06.052113Z
-Scanned 66,550 files in 8 seconds.
+Started scan at 2020-11-30T03:02:51.264798Z
+Scanned 66,629 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_11_29_02_43_53.csv
+    last -> modulescanner-report-2020_11_30_02_35_17.csv
 
-Parsed 4,648,868 lines in total.
-  70,216 -> captions skipped
-  436,244 -> duplicates skipped
-  240,474 -> module related
+Parsed 4,651,269 lines in total.
+  70,295 -> captions skipped
+  436,349 -> duplicates skipped
+  240,549 -> module related
 
 Collected 8,061 unique modules.
   automatic :cd: -> 5,549
@@ -59,7 +59,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_08={automatic=6663, explicit=488, plain=136914}` 	 5.22%
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
- - `2020_11={automatic=6760, explicit=719, plain=154289}` 	 4.85%
+ - `2020_11={automatic=6776, explicit=740, plain=156431}` 	 4.80%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -124,9 +124,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [26056](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33503](suspicious/naming.md)
-- Modular impostors: [12032](suspicious/impostors.md)
+- Invalid module names: [26059](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33530](suspicious/naming.md)
+- Modular impostors: [12040](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
