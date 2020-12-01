@@ -480,6 +480,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.0` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.0,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.1` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.1,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.2` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.2,com.fasterxml.jackson.core,2.11.2,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `org.n52.arctic-sea:iceland-statistics-kibana:8.0.3` // `org.n52.arctic-sea,iceland-statistics-kibana,8.0.3,com.fasterxml.jackson.core,2.12.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.openidentityplatform.commons.json-crypto:cli:2.0.7` // `org.openidentityplatform.commons.json-crypto,cli,2.0.7,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.openidentityplatform.commons.json-crypto:cli:2.0.8` // `org.openidentityplatform.commons.json-crypto,cli,2.0.8,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `org.openidentityplatform.commons.json-crypto:cli:2.0.9` // `org.openidentityplatform.commons.json-crypto,cli,2.0.9,com.fasterxml.jackson.core,2.11.1,explicit,java.base,false,-`
@@ -3513,6 +3514,7 @@
 - :cd: `com.peruncs.odbjca.api` - `com.peruncs:orientdb-jca:0.0.2` // `com.peruncs,orientdb-jca,0.0.2,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` - `com.peruncs.odbjca:odbjca-rar:0.0.1` // `com.peruncs.odbjca,odbjca-rar,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
 - :cd: `com.peruncs.odbjca.api` - `com.peruncs.odbjca:odbjca-rar-all:0.0.1` // `com.peruncs.odbjca,odbjca-rar-all,0.0.1,com.peruncs.odbjca.api,-,automatic,-,false,-`
+- :dvd: `com.samskivert.jmustache` - `io.garam:core:0.4` // `io.garam,core,0.4,com.samskivert.jmustache,1.15,explicit,java.base,false,-`
 - :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.3.1` // `com.sshtools,icon-generator-swt,1.3.1,com.sshtools.icongenerator.swing,1.3.1,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
 - :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.4.0` // `com.sshtools,icon-generator-swt,1.4.0,com.sshtools.icongenerator.swing,1.4.0,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.1.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.1.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
@@ -4094,6 +4096,7 @@
 - :dvd: `io.github.classgraph` - `io.cordite.braid:braid-corda:5.0.0-RC01` // `io.cordite.braid,braid-corda,5.0.0-RC01,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.braid:braid-corda:5.0.0-RC02` // `io.cordite.braid,braid-corda,5.0.0-RC02,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.braid:braid-corda:5.0.0-RC03` // `io.cordite.braid,braid-corda,5.0.0-RC03,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
+- :dvd: `io.github.classgraph` - `io.cordite.braid:braid-corda:5.0.0-RC04` // `io.cordite.braid,braid-corda,5.0.0-RC04,io.github.classgraph,-,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.4.5` // `io.cordite.services,network-map-service,0.4.5,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.cordite.services:network-map-service:0.5.2` // `io.cordite.services,network-map-service,0.5.2,io.github.classgraph,4.6.12,explicit,java.base + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `io.crysknife:crysknife-processor:0.1` // `io.crysknife,crysknife-processor,0.1,io.github.classgraph,4.8.53,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -8008,6 +8011,7 @@
 - :dvd: `org.apache.logging.log4j` - `de.charite.compbio:jannovar-cli:0.32` // `de.charite.compbio,jannovar-cli,0.32,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `de.sfuhrm:logwebconfig-example:0.8.2` // `de.sfuhrm,logwebconfig-example,0.8.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `de.wenzlaff.twbibel:de.wenzlaff.twbibel:0.0.3` // `de.wenzlaff.twbibel,de.wenzlaff.twbibel,0.0.3,org.apache.logging.log4j,2.12.1,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `es.us.isa:json-mutator:0.0.1` // `es.us.isa,json-mutator,0.0.1,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `eu.fthevenet:binjr:1.4.0` // `eu.fthevenet,binjr,1.4.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `eu.fthevenet:binjr:1.4.1` // `eu.fthevenet,binjr,1.4.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `eu.fthevenet:binjr:1.4.2` // `eu.fthevenet,binjr,1.4.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -8533,10 +8537,12 @@
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.23` // `org.apache.tika,tika-app,1.23,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.24` // `org.apache.tika,tika-app,1.24,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.24.1` // `org.apache.tika,tika-app,1.24.1,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-app:1.25` // `org.apache.tika,tika-app,1.25,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.22` // `org.apache.tika,tika-server,1.22,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.23` // `org.apache.tika,tika-server,1.23,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.24` // `org.apache.tika,tika-server,1.24,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.24.1` // `org.apache.tika,tika-server,1.24.1,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.mail` - `org.apache.tika:tika-server:1.25` // `org.apache.tika,tika-server,1.25,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-fips:1.0.2` // `org.bouncycastle,bcmail-fips,1.0.2,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.fips.core + org.bouncycastle.fips.pkix,false,-`
 - :cd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.60` // `org.bouncycastle,bcmail-jdk15on,1.60,org.bouncycastle.mail,-,automatic,-,false,-`
 - :dvd: `org.bouncycastle.mail` - `org.bouncycastle:bcmail-jdk15on:1.61` // `org.bouncycastle,bcmail-jdk15on,1.61,org.bouncycastle.mail,-,explicit,java.base + org.bouncycastle.pkix + org.bouncycastle.provider,false,-`
