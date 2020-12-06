@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 8086 Java modules published at Maven Central
 
-## Summary 2020-12-05T04:09:12.155042Z
+## Summary 2020-12-06T03:06:18.772760Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-05T04:09:12.155042Z
-Scanned 67,007 files in 8 seconds.
+Started scan at 2020-12-06T03:06:18.772760Z
+Scanned 67,081 files in 10 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_05_03_48_23.csv
+    last -> modulescanner-report-2020_12_06_02_46_51.csv
 
-Parsed 4,689,894 lines in total.
-  70,673 -> captions skipped
-  440,982 -> duplicates skipped
-  243,609 -> module related
+Parsed 4,692,949 lines in total.
+  70,745 -> captions skipped
+  441,127 -> duplicates skipped
+  243,726 -> module related
 
 Collected 8,086 unique modules.
   automatic :cd: -> 5,566
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=2021, explicit=38, plain=24044}` 	 8.56%
+ - `2020_12={automatic=2071, explicit=44, plain=26765}` 	 7.90%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -125,9 +125,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [26408](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33948](suspicious/naming.md)
-- Modular impostors: [12199](suspicious/impostors.md)
+- Invalid module names: [26433](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [33983](suspicious/naming.md)
+- Modular impostors: [12200](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 

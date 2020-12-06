@@ -4430,6 +4430,7 @@
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.2.1` // `io.micronaut.aws,micronaut-function-aws,2.2.1,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.2.2` // `io.micronaut.aws,micronaut-function-aws,2.2.2,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.2.3` // `io.micronaut.aws,micronaut-function-aws,2.2.3,io.micronaut.aws.function_aws,-,automatic,-,false,-`
+- :cd: `io.micronaut.aws.function_aws` - `io.micronaut.aws:micronaut-function-aws:2.2.4` // `io.micronaut.aws,micronaut-function-aws,2.2.4,io.micronaut.aws.function_aws,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0` // `io.micronaut,micronaut-bom,1.0.0,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.0.RC3` // `io.micronaut,micronaut-bom,1.0.0.RC3,io.micronaut.bom,-,automatic,-,false,-`
 - :cd: `io.micronaut.bom` - `io.micronaut:micronaut-bom:1.0.1` // `io.micronaut,micronaut-bom,1.0.1,io.micronaut.bom,-,automatic,-,false,-`
