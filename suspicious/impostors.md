@@ -391,6 +391,7 @@
 - :dvd: `com.fasterxml.jackson.core` - `com.github.cukedoctor:cukedoctor-main:3.3` // `com.github.cukedoctor,cukedoctor-main,3.3,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.github.cukedoctor:cukedoctor-main:3.4` // `com.github.cukedoctor,cukedoctor-main,3.4,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.github.cukedoctor:cukedoctor-main:3.5` // `com.github.cukedoctor,cukedoctor-main,3.5,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
+- :dvd: `com.fasterxml.jackson.core` - `com.github.cukedoctor:cukedoctor-main:3.5.1` // `com.github.cukedoctor,cukedoctor-main,3.5.1,com.fasterxml.jackson.core,2.11.0,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.14` // `com.heroku.sdk,heroku-deploy-complete,2.0.14,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.15` // `com.heroku.sdk,heroku-deploy-complete,2.0.15,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
 - :dvd: `com.fasterxml.jackson.core` - `com.heroku.sdk:heroku-deploy-complete:2.0.16` // `com.heroku.sdk,heroku-deploy-complete,2.0.16,com.fasterxml.jackson.core,2.10.1,explicit,java.base,false,-`
@@ -3581,6 +3582,7 @@
 - :dvd: `com.sun.xml.bind` - `org.jboss.windup.web:windup-keycloak-tool:5.5.0.Alpha1` // `org.jboss.windup.web,windup-keycloak-tool,5.5.0.Alpha1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.mustangproject:Mustang-CLI:2.0.1` // `org.mustangproject,Mustang-CLI,2.0.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `org.mustangproject:Mustang-CLI:2.0.2` // `org.mustangproject,Mustang-CLI,2.0.2,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
+- :dvd: `com.sun.xml.bind` - `org.mustangproject:Mustang-CLI:2.0.3` // `org.mustangproject,Mustang-CLI,2.0.3,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + jakarta.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.10` // `com.expedia.www,haystack-agent,0.1.10,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.11` // `com.expedia.www,haystack-agent,0.1.11,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
 - :dvd: `com.sun.xml.fastinfoset` - `com.expedia.www:haystack-agent:0.1.12` // `com.expedia.www,haystack-agent,0.1.12,com.sun.xml.fastinfoset,-,explicit,java.base + java.logging + java.xml,false,-`
@@ -9067,6 +9069,7 @@
 - :cd: `org.cache2k.jcache` - `org.cache2k:cache2k-spring:1.9.1.Alpha` // `org.cache2k,cache2k-spring,1.9.1.Alpha,org.cache2k.jcache,-,automatic,-,false,-`
 - :cd: `org.cache2k.jcache` - `org.cache2k:cache2k-spring:1.9.2.Alpha` // `org.cache2k,cache2k-spring,1.9.2.Alpha,org.cache2k.jcache,-,automatic,-,false,-`
 - :cd: `org.cache2k.jcache` - `org.cache2k:cache2k-spring:1.9.3.Alpha` // `org.cache2k,cache2k-spring,1.9.3.Alpha,org.cache2k.jcache,-,automatic,-,false,-`
+- :cd: `org.cache2k.jcache` - `org.cache2k:cache2k-spring:1.9.4.Beta` // `org.cache2k,cache2k-spring,1.9.4.Beta,org.cache2k.jcache,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker` - `io.github.eisop:checker:3.0.0-b2` // `io.github.eisop,checker,3.0.0-b2,org.checkerframework.checker,-,automatic,-,false,sun.reflect.annotation.AnnotationParser  Removed. See http://openjdk.java.net/jeps/260 + sun.reflect.annotation.AnnotationType    Removed. See http://openjdk.java.net/jeps/260 + sun.reflect.annotation.EnumConstantNotPresentExceptionProxy Removed. See http://openjdk.java.net/jeps/260 + sun.reflect.annotation.ExceptionProxy    Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `org.checkerframework.checker.qual` - `io.github.eisop:checker-qual:3.0.0-b1` // `io.github.eisop,checker-qual,3.0.0-b1,org.checkerframework.checker.qual,-,automatic,-,false,-`
 - :cd: `org.checkerframework.checker.qual` - `io.github.eisop:checker-qual:3.0.0-b2` // `io.github.eisop,checker-qual,3.0.0-b2,org.checkerframework.checker.qual,-,automatic,-,false,-`
@@ -10290,6 +10293,7 @@
 - :cd: `org.mybatis` - `com.github.huangzhouhong:mybatis:0.0.1` // `com.github.huangzhouhong,mybatis,0.0.1,org.mybatis,-,automatic,-,false,-`
 - :cd: `org.mybatis` - `com.github.huangzhouhong:mybatis:0.0.2` // `com.github.huangzhouhong,mybatis,0.0.2,org.mybatis,-,automatic,-,false,-`
 - :cd: `org.mybatis` - `com.pig4cloud:mybatis:0.5.2` // `com.pig4cloud,mybatis,0.5.2,org.mybatis,-,automatic,-,false,-`
+- :cd: `org.mybatis.scala` - `org.mybatis.scala:mybatis-scala-core_2.12:1.2.0` // `org.mybatis.scala,mybatis-scala-core_2.12,1.2.0,org.mybatis.scala,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring` - `com.pig4cloud:mybatis-spring:0.0.2` // `com.pig4cloud,mybatis-spring,0.0.2,org.mybatis.spring,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring.boot.autoconfigure` - `com.pig4cloud.spring.boot:mybatis-spring-boot-autoconfigure:0.1.1` // `com.pig4cloud.spring.boot,mybatis-spring-boot-autoconfigure,0.1.1,org.mybatis.spring.boot.autoconfigure,-,automatic,-,false,-`
 - :cd: `org.mybatis.spring.boot.starter` - `com.pig4cloud.spring.boot:mybatis-spring-boot-starter:0.1.1` // `com.pig4cloud.spring.boot,mybatis-spring-boot-starter,0.1.1,org.mybatis.spring.boot.starter,-,automatic,-,false,-`
