@@ -503,6 +503,7 @@
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `com.amazonaws:aws-xray-agent-plugin:2.8.0` // `com.amazonaws,aws-xray-agent-plugin,2.8.0,com.fasterxml.jackson.dataformat.cbor,2.11.0,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service:2.25.0` // `org.apache.beam,beam-sdks-java-io-kinesis-expansion-service,2.25.0,com.fasterxml.jackson.dataformat.cbor,2.10.2,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.10.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.10.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
+- :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.10.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.10.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.8.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.8.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.0` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.0,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
 - :dvd: `com.fasterxml.jackson.dataformat.cbor` - `org.elasticsearch.plugin:x-pack-sql-jdbc:7.9.1` // `org.elasticsearch.plugin,x-pack-sql-jdbc,7.9.1,com.fasterxml.jackson.dataformat.cbor,2.10.4,explicit,com.fasterxml.jackson.core + com.fasterxml.jackson.databind + java.base,false,-`
@@ -893,6 +894,7 @@
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.7` // `io.stargate.starter,stargate-starter,0.0.7,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.8` // `io.stargate.starter,stargate-starter,0.0.8,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.9` // `io.stargate.starter,stargate-starter,0.0.9,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
+- :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:1.0.0` // `io.stargate.starter,stargate-starter,1.0.0,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.1.0` // `com.github.themrmilchmann.mjl,mjl-options,0.1.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.2.0` // `com.github.themrmilchmann.mjl,mjl-options,0.2.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :cd: `com.github.tomtung.latex2unicode` - `com.github.tomtung:latex2unicode_2.12:0.2.5` // `com.github.tomtung,latex2unicode_2.12,0.2.5,com.github.tomtung.latex2unicode,-,automatic,-,false,-`
@@ -3963,6 +3965,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.3` // `io.jooby,jooby-cli,2.9.3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.4` // `io.jooby,jooby-cli,2.9.4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.sealights.on-premise.agents:sl-build-scanner:3.0.1796` // `io.sealights.on-premise.agents,sl-build-scanner,3.0.1796,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.sealights.on-premise.agents:sl-build-scanner:3.0.1812` // `io.sealights.on-premise.agents,sl-build-scanner,3.0.1812,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.36` // `org.caseine,caseine.vpl.tools.CLI,0.0.36,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.37` // `org.caseine,caseine.vpl.tools.CLI,0.0.37,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `org.caseine:caseine.vpl.tools.CLI:0.0.38` // `org.caseine,caseine.vpl.tools.CLI,0.0.38,info.picocli,-,explicit,java.base,false,-`
@@ -6106,6 +6109,7 @@
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.1` // `io.micronaut.spring,micronaut-spring,2.1.1,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:2.1.2` // `io.micronaut.spring,micronaut-spring,2.1.2,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:3.0.0` // `io.micronaut.spring,micronaut-spring,3.0.0,io.micronaut.spring.spring,-,automatic,-,false,-`
+- :cd: `io.micronaut.spring.spring` - `io.micronaut.spring:micronaut-spring:3.1.0` // `io.micronaut.spring,micronaut-spring,3.1.0,io.micronaut.spring.spring,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0` // `io.micronaut.test,micronaut-test-core,1.0.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC1` // `io.micronaut.test,micronaut-test-core,1.0.0.RC1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:1.0.0.RC2` // `io.micronaut.test,micronaut-test-core,1.0.0.RC2,io.micronaut.test.test_core,-,automatic,-,false,-`
@@ -8135,14 +8139,18 @@
 - :dvd: `org.apache.logging.log4j` - `io.github.shiruka:world-fragment:3.2.10` // `io.github.shiruka,world-fragment,3.2.10,org.apache.logging.log4j,2.14.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.github.shiruka:world-fragment:3.2.11` // `io.github.shiruka,world-fragment,3.2.11,org.apache.logging.log4j,2.14.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:mysql-schema-sample:1.3.0` // `io.javaoperatorsdk,mysql-schema-sample,1.3.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:mysql-schema-sample:1.4.0` // `io.javaoperatorsdk,mysql-schema-sample,1.4.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:tomcat-sample:1.3.0` // `io.javaoperatorsdk,tomcat-sample,1.3.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:tomcat-sample:1.4.0` // `io.javaoperatorsdk,tomcat-sample,1.4.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:webserver-sample:1.3.0` // `io.javaoperatorsdk,webserver-sample,1.3.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.javaoperatorsdk:webserver-sample:1.4.0` // `io.javaoperatorsdk,webserver-sample,1.4.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.kernel:kernel-auth-adapter:1.1.3` // `io.mosip.kernel,kernel-auth-adapter,1.1.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.kernel:kernel-auth-adapter:1.1.3-rc1` // `io.mosip.kernel,kernel-auth-adapter,1.1.3-rc1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.kernel:kernel-auth-adapter:1.1.3-rc2` // `io.mosip.kernel,kernel-auth-adapter,1.1.3-rc2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.2` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.2-rc2` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.2-rc2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.2-rc3` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.2-rc3,org.apache.logging.log4j,-,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.3` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.3-rc1` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.3-rc1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.mosip.registrationprocessor:registration-processor-common-camel-bridge:1.1.3-rc2` // `io.mosip.registrationprocessor,registration-processor-common-camel-bridge,1.1.3-rc2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `io.nosqlbench:driver-cql-shaded:3.12.103` // `io.nosqlbench,driver-cql-shaded,3.12.103,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
@@ -8926,6 +8934,7 @@
 - :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.2` // `io.mosip.registration,registration-libs,1.1.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.2-rc2` // `io.mosip.registration,registration-libs,1.1.2-rc2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.2-rc3` // `io.mosip.registration,registration-libs,1.1.2-rc3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.3` // `io.mosip.registration,registration-libs,1.1.3,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.3-rc1` // `io.mosip.registration,registration-libs,1.1.3-rc1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `io.mosip.registration:registration-libs:1.1.3-rc2` // `io.mosip.registration,registration-libs,1.1.3-rc2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `net.snowflake:snowflake-jdbc:3.12.1` // `net.snowflake,snowflake-jdbc,3.12.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -11195,12 +11204,14 @@
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.4` // `fish.payara.extras,payara-embedded-all,5.2020.4,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.5` // `fish.payara.extras,payara-embedded-all,5.2020.5,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.6` // `fish.payara.extras,payara-embedded-all,5.2020.6,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-all:5.2020.7` // `fish.payara.extras,payara-embedded-all,5.2020.7,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.194` // `fish.payara.extras,payara-embedded-web,5.194,org.objectweb.asm.tree.analysis,7.2.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.201` // `fish.payara.extras,payara-embedded-web,5.201,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.2` // `fish.payara.extras,payara-embedded-web,5.2020.2,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.3` // `fish.payara.extras,payara-embedded-web,5.2020.3,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.4` // `fish.payara.extras,payara-embedded-web,5.2020.4,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.6` // `fish.payara.extras,payara-embedded-web,5.2020.6,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
+- :dvd: `org.objectweb.asm.tree.analysis` - `fish.payara.extras:payara-embedded-web:5.2020.7` // `fish.payara.extras,payara-embedded-web,5.2020.7,org.objectweb.asm.tree.analysis,7.3.1,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.4` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.4,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.tree.analysis` - `org.apache.felix:org.apache.felix.scr.bnd:1.9.6` // `org.apache.felix,org.apache.felix.scr.bnd,1.9.6,org.objectweb.asm.tree.analysis,7.1.0,explicit,java.base + org.objectweb.asm.tree,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.100` // `com.rookout,rook,0.1.100,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -11251,6 +11262,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.146` // `com.rookout,rook,0.1.146,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.147` // `com.rookout,rook,0.1.147,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.148` // `com.rookout,rook,0.1.148,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.149` // `com.rookout,rook,0.1.149,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
@@ -11697,6 +11709,7 @@
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.23` // `com.credibledoc,substitution-core,1.0.23,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.24` // `com.credibledoc,substitution-core,1.0.24,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.25` // `com.credibledoc,substitution-core,1.0.25,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M1` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M1,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M3` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M3,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M4` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M4,org.slf4j,-,explicit,java.base,false,-`
@@ -11708,6 +11721,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.104` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.104,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.105` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.105,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.106` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.106,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.107` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.107,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.93` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.93,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.94` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.94,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback:7.0.96` // `com.github.tomcat-slf4j-logback,tomcat7-slf4j-logback,7.0.96,org.slf4j,-,explicit,java.base,false,-`
@@ -11729,6 +11743,7 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.56` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.56,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.57` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.57,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.59` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.59,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback:8.5.61` // `com.github.tomcat-slf4j-logback,tomcat85-slf4j-logback,8.5.61,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.16` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.16,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.17` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.17,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.19` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.19,org.slf4j,-,explicit,java.base,false,-`
@@ -11749,6 +11764,9 @@
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.38` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.38,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.39` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.39,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.40` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.40,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.41` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.41,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.41.SP1` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.41.SP1,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback:9.0.41.SP2` // `com.github.tomcat-slf4j-logback,tomcat9-slf4j-logback,9.0.41.SP2,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.0-jre14` // `com.guicedee.services,sl4j,1.0.10.0-jre14,org.slf4j,1.0.10.0-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.1-jre14` // `com.guicedee.services,sl4j,1.0.10.1-jre14,org.slf4j,1.0.10.1-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
 - :dvd: `org.slf4j` - `com.guicedee.services:sl4j:1.0.10.3-jre14` // `com.guicedee.services,sl4j,1.0.10.3-jre14,org.slf4j,1.0.10.3-jre14,explicit,java.base + org.apache.logging.log4j.core,false,-`
@@ -11979,6 +11997,7 @@
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.3.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.3.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.4.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.4.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.5.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.5.RELEASE,spring.data.geode,-,automatic,-,false,-`
+- :cd: `spring.data.geode` - `org.springframework.data:spring-data-gemfire:2.3.6.RELEASE` // `org.springframework.data,spring-data-gemfire,2.3.6.RELEASE,spring.data.geode,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` - `com.github.iherasymenko:spring-data-jpa:2.3.4.1.RELEASE` // `com.github.iherasymenko,spring-data-jpa,2.3.4.1.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.data.jpa` - `com.github.iherasymenko:spring-data-jpa:2.3.4.2.RELEASE` // `com.github.iherasymenko,spring-data-jpa,2.3.4.2.RELEASE,spring.data.jpa,-,automatic,-,false,-`
 - :cd: `spring.tx` - `com.labun:spring-tx:5.2.1.RELEASE.patched` // `com.labun,spring-tx,5.2.1.RELEASE.patched,spring.tx,-,automatic,-,false,-`
