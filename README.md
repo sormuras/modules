@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 8130 Java modules published at Maven Central
+Counted 8136 Java modules published at Maven Central
 
-## Summary 2020-12-11T06:11:58.878668Z
+## Summary 2020-12-12T05:23:33.789804Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-11T06:11:58.878668Z
-Scanned 67,449 files in 8 seconds.
+Started scan at 2020-12-12T05:23:33.789804Z
+Scanned 67,519 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_11_05_58_41.csv
+    last -> modulescanner-report-2020_12_12_05_01_24.csv
 
-Parsed 4,728,532 lines in total.
-  71,111 -> captions skipped
-  445,076 -> duplicates skipped
-  245,797 -> module related
+Parsed 4,738,480 lines in total.
+  71,181 -> captions skipped
+  446,415 -> duplicates skipped
+  246,430 -> module related
 
-Collected 8,130 unique modules.
-  automatic :cd: -> 5,600
-  explicit :dvd: -> 2,530
+Collected 8,136 unique modules.
+  automatic :cd: -> 5,605
+  explicit :dvd: -> 2,531
 
 ## Samples
             junit -> junit:junit:4.13.1
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=3626, explicit=186, plain=55962}` 	 6.81%
+ - `2020_12={automatic=4130, explicit=233, plain=63868}` 	 6.83%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -125,39 +125,40 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [26450](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34267](suspicious/naming.md)
-- Modular impostors: [12273](suspicious/impostors.md)
+- Invalid module names: [26456](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34322](suspicious/naming.md)
+- Modular impostors: [12294](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
 Module names listed in this section are unique and well-formed.
 Include them in your `module-info.java` module descriptors.
 
-- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.11`
-- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.11`
-- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.11`
-- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.11`
-- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.11`
-- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.11`
-- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.11`
-- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.11`
-- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.11`
-- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.11`
-- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.11`
-- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.11`
-- :dvd: `com.almasb.fxgl.logging` - `com.github.almasb:fxgl-logging:11.11`
-- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.11`
-- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.11`
-- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.11`
-- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.11`
-- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.11`
-- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.11`
-- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.11`
-- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.11`
-- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.11`
-- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.11`
-- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.11`
+- :dvd: `com.almasb.fxgl.achievement` - `com.github.almasb:fxgl-achievement:11.12`
+- :dvd: `com.almasb.fxgl.ai` - `com.github.almasb:fxgl-ai:11.12`
+- :dvd: `com.almasb.fxgl.all` - `com.github.almasb:fxgl:11.12`
+- :dvd: `com.almasb.fxgl.animation` - `com.github.almasb:fxgl-animation:11.12`
+- :dvd: `com.almasb.fxgl.controllerinput` - `com.github.almasb:fxgl-controllerinput:11.12`
+- :dvd: `com.almasb.fxgl.core` - `com.github.almasb:fxgl-core:11.12`
+- :dvd: `com.almasb.fxgl.cutscene` - `com.github.almasb:fxgl-cutscene:11.12`
+- :dvd: `com.almasb.fxgl.effects` - `com.github.almasb:fxgl-effects:11.12`
+- :dvd: `com.almasb.fxgl.entity` - `com.github.almasb:fxgl-entity:11.12`
+- :dvd: `com.almasb.fxgl.events` - `com.github.almasb:fxgl-events:11.12`
+- :dvd: `com.almasb.fxgl.input` - `com.github.almasb:fxgl-input:11.12`
+- :dvd: `com.almasb.fxgl.io` - `com.github.almasb:fxgl-io:11.12`
+- :dvd: `com.almasb.fxgl.localization` - `com.github.almasb:fxgl-localization:11.12`
+- :dvd: `com.almasb.fxgl.logging` - `com.github.almasb:fxgl-logging:11.12`
+- :dvd: `com.almasb.fxgl.media` - `com.github.almasb:fxgl-media:11.12`
+- :dvd: `com.almasb.fxgl.minigames` - `com.github.almasb:fxgl-minigames:11.12`
+- :dvd: `com.almasb.fxgl.net` - `com.github.almasb:fxgl-net:11.12`
+- :dvd: `com.almasb.fxgl.notification` - `com.github.almasb:fxgl-notification:11.12`
+- :dvd: `com.almasb.fxgl.profiles` - `com.github.almasb:fxgl-profiles:11.12`
+- :dvd: `com.almasb.fxgl.scene` - `com.github.almasb:fxgl-scene:11.12`
+- :dvd: `com.almasb.fxgl.test` - `com.github.almasb:fxgl-test:11.12`
+- :dvd: `com.almasb.fxgl.time` - `com.github.almasb:fxgl-time:11.12`
+- :dvd: `com.almasb.fxgl.trade` - `com.github.almasb:fxgl-trade:11.12`
+- :dvd: `com.almasb.fxgl.ui` - `com.github.almasb:fxgl-ui:11.12`
+- :dvd: `com.almasb.fxgl.zdeploy` - `com.github.almasb:fxgl-zdeploy:11.12`
 - :dvd: `com.almasb.fxlocal` - `com.github.almasb:fx-localization:1`
 - :dvd: `com.gluonhq.connect` - `com.gluonhq:connect:2.0.1`
 - :dvd: `com.gluonhq.maps` - `com.gluonhq:maps:2.0.0-ea+4`
