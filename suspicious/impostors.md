@@ -12,12 +12,14 @@
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.0.0` // `ch.megard,akka-http-cors_2.12,1.0.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.0.0-RC1` // `ch.megard,akka-http-cors_2.12,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.1.0` // `ch.megard,akka-http-cors_2.12,1.1.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.12:1.1.1` // `ch.megard,akka-http-cors_2.12,1.1.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.1` // `ch.megard,akka-http-cors_2.13,0.4.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.2` // `ch.megard,akka-http-cors_2.13,0.4.2,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:0.4.3` // `ch.megard,akka-http-cors_2.13,0.4.3,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.0.0` // `ch.megard,akka-http-cors_2.13,1.0.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.0.0-RC1` // `ch.megard,akka-http-cors_2.13,1.0.0-RC1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.1.0` // `ch.megard,akka-http-cors_2.13,1.1.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
+- :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13:1.1.1` // `ch.megard,akka-http-cors_2.13,1.1.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M3:0.3.1` // `ch.megard,akka-http-cors_2.13.0-M3,0.3.1,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.3.4` // `ch.megard,akka-http-cors_2.13.0-M5,0.3.4,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
@@ -3809,6 +3811,7 @@
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.5` // `de.mkammerer,argon2-jvm-nolibs,2.5,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.6` // `de.mkammerer,argon2-jvm-nolibs,2.6,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.7` // `de.mkammerer,argon2-jvm-nolibs,2.7,de.mkammerer.argon2,-,automatic,-,false,-`
+- :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.8` // `de.mkammerer,argon2-jvm-nolibs,2.8,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` - `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.0` // `de.stklcode.jvault,jvault-connector,0.8.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.1` // `de.stklcode.jvault,jvault-connector,0.8.1,de.stklcode.jvault.connector,-,automatic,-,false,-`
