@@ -11738,12 +11738,14 @@
 - :dvd: `org.slf4j` - `com.credibledoc:log-combiner:1.0.23` // `com.credibledoc,log-combiner,1.0.23,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:log-combiner:1.0.24` // `com.credibledoc,log-combiner,1.0.24,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:log-combiner:1.0.25` // `com.credibledoc,log-combiner,1.0.25,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.credibledoc:log-combiner:1.0.26` // `com.credibledoc,log-combiner,1.0.26,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.20` // `com.credibledoc,substitution-core,1.0.20,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.21` // `com.credibledoc,substitution-core,1.0.21,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.22` // `com.credibledoc,substitution-core,1.0.22,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.23` // `com.credibledoc,substitution-core,1.0.23,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.24` // `com.credibledoc,substitution-core,1.0.24,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.25` // `com.credibledoc,substitution-core,1.0.25,org.slf4j,-,explicit,java.base,false,-`
+- :dvd: `org.slf4j` - `com.credibledoc:substitution-core:1.0.26` // `com.credibledoc,substitution-core,1.0.26,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M1` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M1,org.slf4j,-,explicit,java.base,false,-`
 - :dvd: `org.slf4j` - `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback:10.0.0-M3` // `com.github.tomcat-slf4j-logback,tomcat10-slf4j-logback,10.0.0-M3,org.slf4j,-,explicit,java.base,false,-`
