@@ -904,6 +904,7 @@
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.8` // `io.stargate.starter,stargate-starter,0.0.8,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:0.0.9` // `io.stargate.starter,stargate-starter,0.0.9,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:1.0.0` // `io.stargate.starter,stargate-starter,1.0.0,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
+- :dvd: `com.github.rvesse.airline` - `io.stargate.starter:stargate-starter:1.0.1` // `io.stargate.starter,stargate-starter,1.0.1,com.github.rvesse.airline,2.7.0,explicit,com.github.rvesse.airline.io + java.base + javax.inject + org.apache.commons.collections4 + org.apache.commons.lang3,false,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.1.0` // `com.github.themrmilchmann.mjl,mjl-options,0.1.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :dvd: `com.github.themrmilchmann.mjl.events` - `com.github.themrmilchmann.mjl:mjl-options:0.2.0` // `com.github.themrmilchmann.mjl,mjl-options,0.2.0,com.github.themrmilchmann.mjl.events,-,explicit,jsr305 + java.base,true,-`
 - :cd: `com.github.tomtung.latex2unicode` - `com.github.tomtung:latex2unicode_2.12:0.2.5` // `com.github.tomtung,latex2unicode_2.12,0.2.5,com.github.tomtung.latex2unicode,-,automatic,-,false,-`
@@ -4100,6 +4101,7 @@
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.0` // `io.ebean,ebean-ddl-generator,12.6.0,io.ebean.ddlgen,-,automatic,-,false,-`
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.1.PreRelease.0` // `io.ebean,ebean-ddl-generator,12.6.1.PreRelease.0,io.ebean.ddlgen,-,automatic,-,false,-`
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.2` // `io.ebean,ebean-ddl-generator,12.6.2,io.ebean.ddlgen,-,automatic,-,false,-`
+- :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.3` // `io.ebean,ebean-ddl-generator,12.6.3,io.ebean.ddlgen,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.4` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.4,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.5` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.5,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.6` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.6,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -6382,6 +6384,8 @@
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.1.4` // `io.micronaut,micronaut-websocket,2.1.4,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.2.0` // `io.micronaut,micronaut-websocket,2.2.0,io.micronaut.websocket,-,automatic,-,false,-`
 - :cd: `io.micronaut.websocket` - `io.micronaut:micronaut-websocket:2.2.1` // `io.micronaut,micronaut-websocket,2.2.1,io.micronaut.websocket,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.api` - `io.opentelemetry:opentelemetry-api-baggage:0.13.0` // `io.opentelemetry,opentelemetry-api-baggage,0.13.0,io.opentelemetry.api,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.api` - `io.opentelemetry:opentelemetry-api-baggage:0.13.1` // `io.opentelemetry,opentelemetry-api-baggage,0.13.1,io.opentelemetry.api,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.1` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.2.4` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.2.4,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-contrib-otproto:0.3.0` // `io.opentelemetry,opentelemetry-sdk-contrib-otproto,0.3.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
@@ -6391,13 +6395,19 @@
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.10.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.10.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.11.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.11.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.12.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.12.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.13.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.13.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.13.1` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.13.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.6.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.6.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.7.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.7.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.7.1` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.7.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.8.0` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.8.0,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.exporters.otprotocol` - `io.opentelemetry:opentelemetry-sdk-extension-otproto:0.9.1` // `io.opentelemetry,opentelemetry-sdk-extension-otproto,0.9.1,io.opentelemetry.exporters.otprotocol,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.sdk.extension.trace.aws` - `io.opentelemetry:opentelemetry-sdk-extension-aws:0.12.0` // `io.opentelemetry,opentelemetry-sdk-extension-aws,0.12.0,io.opentelemetry.sdk.extension.trace.aws,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.sdk.extension.trace.aws` - `io.opentelemetry:opentelemetry-sdk-extension-aws:0.13.0` // `io.opentelemetry,opentelemetry-sdk-extension-aws,0.13.0,io.opentelemetry.sdk.extension.trace.aws,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.sdk.extension.trace.aws` - `io.opentelemetry:opentelemetry-sdk-extension-aws:0.13.1` // `io.opentelemetry,opentelemetry-sdk-extension-aws,0.13.1,io.opentelemetry.sdk.extension.trace.aws,-,automatic,-,false,-`
 - :cd: `io.opentelemetry.sdk.trace` - `io.opentelemetry:opentelemetry-sdk-trace:0.12.0` // `io.opentelemetry,opentelemetry-sdk-trace,0.12.0,io.opentelemetry.sdk.trace,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.sdk.trace` - `io.opentelemetry:opentelemetry-sdk-trace:0.13.0` // `io.opentelemetry,opentelemetry-sdk-trace,0.13.0,io.opentelemetry.sdk.trace,-,automatic,-,false,-`
+- :cd: `io.opentelemetry.sdk.trace` - `io.opentelemetry:opentelemetry-sdk-trace:0.13.1` // `io.opentelemetry,opentelemetry-sdk-trace,0.13.1,io.opentelemetry.sdk.trace,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.10` // `io.pebbletemplates,pebble-spring4,3.0.10,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.7` // `io.pebbletemplates,pebble-spring4,3.0.7,io.pebbletemplates.spring,-,automatic,-,false,-`
 - :cd: `io.pebbletemplates.spring` - `io.pebbletemplates:pebble-spring4:3.0.8` // `io.pebbletemplates,pebble-spring4,3.0.8,io.pebbletemplates.spring,-,automatic,-,false,-`
@@ -6959,6 +6969,7 @@
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:3.1.0-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,3.1.0-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.5` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.5,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.6` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.6,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.13` // `no.entur,schema2proto-lib,1.13,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -6992,6 +7003,7 @@
 - :dvd: `kotlin.stdlib.jdk8` - `com.github.hopshackle:NTBEA:0.1` // `com.github.hopshackle,NTBEA,0.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.github.hopshackle:NTBEA:0.2` // `com.github.hopshackle,NTBEA,0.2,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.github.hopshackle:NTBEA:0.2.1` // `com.github.hopshackle,NTBEA,0.2.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
+- :dvd: `kotlin.stdlib.jdk8` - `com.github.patrick-mc:twipe:1.0.3` // `com.github.patrick-mc,twipe,1.0.3,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.mparticle:smartype-generator:1.2.0` // `com.mparticle,smartype-generator,1.2.0,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.mparticle:smartype-generator:1.2.1` // `com.mparticle,smartype-generator,1.2.1,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
 - :dvd: `kotlin.stdlib.jdk8` - `com.orange.ccmd:hurl:1.0.39` // `com.orange.ccmd,hurl,1.0.39,kotlin.stdlib.jdk8,-,explicit,java.base + kotlin.stdlib + kotlin.stdlib.jdk7,false,-`
@@ -8013,6 +8025,7 @@
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.4` // `com.github.vzakharchenko,radius-plugin,1.2.4,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.5` // `com.github.vzakharchenko,radius-plugin,1.2.5,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.6` // `com.github.vzakharchenko,radius-plugin,1.2.6,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `com.github.vzakharchenko:radius-plugin:1.2.9` // `com.github.vzakharchenko,radius-plugin,1.2.9,org.apache.logging.log4j,2.14.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.1` // `com.github.xincao9,jsonrpc-benchmark,1.2.1,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.2` // `com.github.xincao9,jsonrpc-benchmark,1.2.2,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `com.github.xincao9:jsonrpc-benchmark:1.2.3` // `com.github.xincao9,jsonrpc-benchmark,1.2.3,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -8891,6 +8904,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.327.42` // `com.yahoo.vespa,vespa-hadoop,7.327.42,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.328.17` // `com.yahoo.vespa,vespa-hadoop,7.328.17,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.329.19` // `com.yahoo.vespa,vespa-hadoop,7.329.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.330.15` // `com.yahoo.vespa,vespa-hadoop,7.330.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
