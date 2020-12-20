@@ -6989,6 +6989,7 @@
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:2.0.5-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,2.0.5-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:3.0.0-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,3.0.0-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:3.1.0-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,3.1.0-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.github.answerail:dingtalk-spring-boot-starter:3.1.1-RELEASE` // `com.github.answerail,dingtalk-spring-boot-starter,3.1.1-RELEASE,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.5` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.5,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.6` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.6,kotlin.stdlib,-,explicit,java.base,false,-`

@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 8189 Java modules published at Maven Central
+Counted 8199 Java modules published at Maven Central
 
-## Summary 2020-12-19T03:14:30.534605Z
+## Summary 2020-12-20T03:13:55.044461Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-19T03:14:30.534605Z
-Scanned 68,020 files in 8 seconds.
+Started scan at 2020-12-20T03:13:55.044461Z
+Scanned 68,099 files in 9 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_19_02_53_47.csv
+    last -> modulescanner-report-2020_12_20_02_59_07.csv
 
-Parsed 4,794,086 lines in total.
-  71,682 -> captions skipped
-  450,545 -> duplicates skipped
-  249,059 -> module related
+Parsed 4,796,674 lines in total.
+  71,761 -> captions skipped
+  450,639 -> duplicates skipped
+  249,134 -> module related
 
-Collected 8,189 unique modules.
-  automatic :cd: -> 5,629
+Collected 8,199 unique modules.
+  automatic :cd: -> 5,639
   explicit :dvd: -> 2,560
 
 ## Samples
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=5982, explicit=496, plain=112214}` 	 5.77%
+ - `2020_12={automatic=6006, explicit=534, plain=114554}` 	 5.71%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -126,8 +126,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [26488](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34709](suspicious/naming.md)
-- Modular impostors: [12389](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34721](suspicious/naming.md)
+- Modular impostors: [12390](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
