@@ -1,23 +1,23 @@
 # sormuras/modules
-Counted 8199 Java modules published at Maven Central
+Counted 8201 Java modules published at Maven Central
 
-## Summary 2020-12-20T03:13:55.044461Z
+## Summary 2020-12-21T03:13:50.159522Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-20T03:13:55.044461Z
-Scanned 68,099 files in 9 seconds.
+Started scan at 2020-12-21T03:13:50.159522Z
+Scanned 68,179 files in 7 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_20_02_59_07.csv
+    last -> modulescanner-report-2020_12_21_02_55_00.csv
 
-Parsed 4,796,674 lines in total.
-  71,761 -> captions skipped
-  450,639 -> duplicates skipped
-  249,134 -> module related
+Parsed 4,799,411 lines in total.
+  71,841 -> captions skipped
+  450,738 -> duplicates skipped
+  249,224 -> module related
 
-Collected 8,199 unique modules.
-  automatic :cd: -> 5,639
+Collected 8,201 unique modules.
+  automatic :cd: -> 5,641
   explicit :dvd: -> 2,560
 
 ## Samples
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=6006, explicit=534, plain=114554}` 	 5.71%
+ - `2020_12={automatic=6047, explicit=572, plain=117022}` 	 5.66%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -126,8 +126,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [26488](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34721](suspicious/naming.md)
-- Modular impostors: [12390](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34731](suspicious/naming.md)
+- Modular impostors: [12391](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -189,8 +189,8 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `info.picocli` - `info.picocli:picocli:4.5.2`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.97`
-- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.18`
-- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.18`
+- :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.19`
+- :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.19`
 - :dvd: `org.assertj.core` - `org.assertj:assertj-core:3.18.1`
 - :dvd: `org.joda.beans` - `org.joda:joda-beans:2.8.1`
 - :dvd: `org.joda.collect` - `org.joda:joda-collect:1.0.1`

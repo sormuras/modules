@@ -3833,6 +3833,7 @@
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.6` // `de.mkammerer,argon2-jvm-nolibs,2.6,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.7` // `de.mkammerer,argon2-jvm-nolibs,2.7,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.8` // `de.mkammerer,argon2-jvm-nolibs,2.8,de.mkammerer.argon2,-,automatic,-,false,-`
+- :cd: `de.rototor.pdfbox.graphics2d` - `de.rototor.pdfbox:extended-tests:0.30` // `de.rototor.pdfbox,extended-tests,0.30,de.rototor.pdfbox.graphics2d,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` - `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.0` // `de.stklcode.jvault,jvault-connector,0.8.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.1` // `de.stklcode.jvault,jvault-connector,0.8.1,de.stklcode.jvault.connector,-,automatic,-,false,-`
