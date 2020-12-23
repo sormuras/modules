@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 8202 Java modules published at Maven Central
+Counted 8206 Java modules published at Maven Central
 
-## Summary 2020-12-22T03:23:04.192118Z
+## Summary 2020-12-23T03:20:41.201565Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-22T03:23:04.192118Z
-Scanned 68,251 files in 8 seconds.
+Started scan at 2020-12-23T03:20:41.201565Z
+Scanned 68,317 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_22_02_59_12.csv
+    last -> modulescanner-report-2020_12_23_02_56_57.csv
 
-Parsed 4,807,292 lines in total.
-  71,911 -> captions skipped
-  451,400 -> duplicates skipped
-  249,612 -> module related
+Parsed 4,816,577 lines in total.
+  71,974 -> captions skipped
+  451,786 -> duplicates skipped
+  249,991 -> module related
 
-Collected 8,202 unique modules.
-  automatic :cd: -> 5,642
-  explicit :dvd: -> 2,560
+Collected 8,206 unique modules.
+  automatic :cd: -> 5,645
+  explicit :dvd: -> 2,561
 
 ## Samples
             junit -> junit:junit:4.13.1
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=6356, explicit=573, plain=123783}` 	 5.60%
+ - `2020_12={automatic=6674, explicit=585, plain=132240}` 	 5.49%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -126,8 +126,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [26489](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34804](suspicious/naming.md)
-- Modular impostors: [12395](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34830](suspicious/naming.md)
+- Modular impostors: [12418](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
