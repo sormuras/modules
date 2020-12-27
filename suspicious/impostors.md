@@ -11003,6 +11003,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.0` // `com.github.collinalpert,java2db,5.5.0,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.1` // `com.github.collinalpert,java2db,5.5.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.6.0` // `com.github.collinalpert,java2db,5.6.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:6.0.0` // `com.github.collinalpert,java2db,6.0.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
@@ -11382,6 +11383,7 @@
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.67.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.67.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.68.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.68.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.69.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.69.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
+- :dvd: `org.objectweb.asm.tree` - `com.autonomousapps:dependency-analysis-gradle-plugin:0.70.0` // `com.autonomousapps,dependency-analysis-gradle-plugin,0.70.0,org.objectweb.asm.tree,8.0.1,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.10` // `com.uber.nullaway,jar-infer-cli,0.7.10,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.6` // `com.uber.nullaway,jar-infer-cli,0.7.6,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
 - :dvd: `org.objectweb.asm.tree` - `com.uber.nullaway:jar-infer-cli:0.7.7` // `com.uber.nullaway,jar-infer-cli,0.7.7,org.objectweb.asm.tree,7.1.0,explicit,java.base + org.objectweb.asm,false,-`
