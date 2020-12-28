@@ -25,6 +25,7 @@
 - :cd: `ch.megard.akka.http.cors` - `ch.megard:akka-http-cors_2.13.0-M5:0.4.0` // `ch.megard,akka-http-cors_2.13.0-M5,0.4.0,ch.megard.akka.http.cors,-,automatic,-,false,-`
 - :cd: `ch.obermuhlner.scriptengine.jshell` - `ch.obermuhlner:jshell-scriptengine:1.0.0` // `ch.obermuhlner,jshell-scriptengine,1.0.0,ch.obermuhlner.scriptengine.jshell,-,automatic,-,false,-`
 - :cd: `ch.obermuhlner.scriptengine.jshell` - `ch.obermuhlner:jshell-scriptengine:1.1.0` // `ch.obermuhlner,jshell-scriptengine,1.1.0,ch.obermuhlner.scriptengine.jshell,-,automatic,-,false,-`
+- :dvd: `ch.qos.logback.classic` - `com.github.gv2011.logback:logback-classic:1.3.0` // `com.github.gv2011.logback,logback-classic,1.3.0,ch.qos.logback.classic,1.3.0,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `com.optum.sourcehawk:sourcehawk-exec:0.2.0` // `com.optum.sourcehawk,sourcehawk-exec,0.2.0,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `com.optum.sourcehawk:sourcehawk-exec:0.2.1` // `com.optum.sourcehawk,sourcehawk-exec,0.2.1,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `com.optum.sourcehawk:sourcehawk-exec:0.2.2` // `com.optum.sourcehawk,sourcehawk-exec,0.2.2,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
@@ -39,6 +40,7 @@
 - :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.26` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.26,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.27` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.27,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
 - :dvd: `ch.qos.logback.classic` - `de.quantummaid.tutorials.basic-tutorial:step4:1.0.28` // `de.quantummaid.tutorials.basic-tutorial,step4,1.0.28,ch.qos.logback.classic,-,explicit,ch.qos.logback.core + java.base + java.management + javax.servlet.api + org.slf4j,false,-`
+- :dvd: `ch.qos.logback.core` - `com.github.gv2011.logback:logback-core:1.3.0` // `com.github.gv2011.logback,logback-core,1.3.0,ch.qos.logback.core,1.3.0,explicit,commons.compiler + jakarta.mail + janino + java.base + java.naming + java.sql + java.xml + javax.servlet.api,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring:1.0.0` // `ch.rasc,wamp2spring,1.0.0,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.1` // `ch.rasc,wamp2spring-reactive,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.2` // `ch.rasc,wamp2spring-reactive,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
@@ -746,6 +748,7 @@
 - :cd: `com.github.fartherp` - `com.github.fartherp:dbtest-spring-boot:1.0.5` // `com.github.fartherp,dbtest-spring-boot,1.0.5,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp.spring.boot:shiro-redisson-spring-boot-autoconfigure:1.0.8` // `com.github.fartherp.spring.boot,shiro-redisson-spring-boot-autoconfigure,1.0.8,com.github.fartherp,-,automatic,-,false,-`
 - :cd: `com.github.fartherp` - `com.github.fartherp.spring.boot:shiro-redisson-spring-boot-starter:1.0.8` // `com.github.fartherp.spring.boot,shiro-redisson-spring-boot-starter,1.0.8,com.github.fartherp,-,automatic,-,false,-`
+- :dvd: `com.github.gv2011.util` - `com.github.gv2011:util-apis:0.5.7` // `com.github.gv2011,util-apis,0.5.7,com.github.gv2011.util,0.5.7,explicit,jakarta.activation + java.base + java.management + java.naming + java.xml + org.slf4j,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.13.0-jre14` // `com.guicedee.services,openpdf,1.0.13.0-jre14,com.github.librepdf.openpdf,1.0.13.0-jre14,explicit,java.annotation + java.base + java.desktop,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.13.1-jre14` // `com.guicedee.services,openpdf,1.0.13.1-jre14,com.github.librepdf.openpdf,1.0.13.1-jre14,explicit,java.annotation + java.base + java.desktop,false,-`
 - :dvd: `com.github.librepdf.openpdf` - `com.guicedee.services:openpdf:1.0.13.2-jre14` // `com.guicedee.services,openpdf,1.0.13.2-jre14,com.github.librepdf.openpdf,1.0.13.2-jre14,explicit,java.annotation + java.base + java.desktop,false,-`
@@ -4009,6 +4012,7 @@
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.2` // `io.jooby,jooby-cli,2.9.2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.3` // `io.jooby,jooby-cli,2.9.3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.4` // `io.jooby,jooby-cli,2.9.4,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.jooby:jooby-cli:2.9.5` // `io.jooby,jooby-cli,2.9.5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.sealights.on-premise.agents:sl-build-scanner:3.0.1796` // `io.sealights.on-premise.agents,sl-build-scanner,3.0.1796,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.sealights.on-premise.agents:sl-build-scanner:3.0.1812` // `io.sealights.on-premise.agents,sl-build-scanner,3.0.1812,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.sealights.on-premise.agents:sl-build-scanner:3.1.1830` // `io.sealights.on-premise.agents,sl-build-scanner,3.1.1830,info.picocli,-,explicit,java.base,false,-`
