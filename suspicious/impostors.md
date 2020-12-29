@@ -3980,6 +3980,7 @@
 - :dvd: `info.picocli` - `info.picocli:picocli-jpms-module:4.0.0-alpha-2` // `info.picocli,picocli-jpms-module,4.0.0-alpha-2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `info.picocli:picocli-jpms-module:4.0.0-alpha-3` // `info.picocli,picocli-jpms-module,4.0.0-alpha-3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.github.asseco-pst:einstein:1.0.0` // `io.github.asseco-pst,einstein,1.0.0,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `io.github.asseco-pst:einstein:1.0.1` // `io.github.asseco-pst,einstein,1.0.1,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.0.6` // `io.jooby,jooby-cli,2.0.6,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.1.0` // `io.jooby,jooby-cli,2.1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `io.jooby:jooby-cli:2.2.0` // `io.jooby,jooby-cli,2.2.0,info.picocli,-,explicit,java.base,false,-`
@@ -6719,6 +6720,7 @@
 - :cd: `jakarta.mail` - `com.sun.mail:mailapi:2.0.0-RC6` // `com.sun.mail,mailapi,2.0.0-RC6,jakarta.mail,-,automatic,-,false,-`
 - :dvd: `jakarta.persistence` - `org.jboss.weld:weld-osgi-bundle:4.0.0.Beta1` // `org.jboss.weld,weld-osgi-bundle,4.0.0.Beta1,jakarta.persistence,3.0.0-RC2,explicit,java.base + java.instrument + java.logging + java.sql,false,-`
 - :dvd: `jakarta.persistence` - `org.jboss.weld:weld-osgi-bundle:4.0.0.Beta2` // `org.jboss.weld,weld-osgi-bundle,4.0.0.Beta2,jakarta.persistence,3.0.0-RC2,explicit,java.base + java.instrument + java.logging + java.sql,false,-`
+- :cd: `jakarta.servlet` - `com.github.codingandcoding:servlet-api:3.2.0` // `com.github.codingandcoding,servlet-api,3.2.0,jakarta.servlet,-,automatic,-,false,-`
 - :dvd: `jakarta.servlet` - `org.apache.tomcat:tomcat-servlet-api:10.0.0` // `org.apache.tomcat,tomcat-servlet-api,10.0.0,jakarta.servlet,5.0,explicit,java.base,false,-`
 - :dvd: `jakarta.servlet` - `org.apache.tomcat:tomcat-servlet-api:10.0.0-M10` // `org.apache.tomcat,tomcat-servlet-api,10.0.0-M10,jakarta.servlet,5.0,explicit,java.base,false,-`
 - :dvd: `jakarta.servlet` - `org.apache.tomcat:tomcat-servlet-api:10.0.0-M9` // `org.apache.tomcat,tomcat-servlet-api,10.0.0-M9,jakarta.servlet,5.0,explicit,java.base,false,-`
@@ -7971,6 +7973,7 @@
 - :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.3.7` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.3.7,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.4.0` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.4.0,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
 - :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.4.1` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.4.1,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
+- :cd: `org.apache.cxf.systests.microprofile.async` - `org.apache.cxf.systests:cxf-systests-microprofile-async:3.4.2` // `org.apache.cxf.systests,cxf-systests-microprofile-async,3.4.2,org.apache.cxf.systests.microprofile.async,-,automatic,-,false,-`
 - :cd: `org.apache.isis.core.unittestsupport` - `org.apache.isis.core:isis-core-internaltestsupport:2.0.0-M3` // `org.apache.isis.core,isis-core-internaltestsupport,2.0.0-M3,org.apache.isis.core.unittestsupport,-,automatic,-,false,-`
 - :cd: `org.apache.isis.core.unittestsupport` - `org.apache.isis.core:isis-core-internaltestsupport:2.0.0-M4` // `org.apache.isis.core,isis-core-internaltestsupport,2.0.0-M4,org.apache.isis.core.unittestsupport,-,automatic,-,false,-`
 - :cd: `org.apache.isis.mappings.jaxrsclient.api` - `org.apache.isis.mappings:isis-mappings-jaxrsclient-applib:2.0.0-M4` // `org.apache.isis.mappings,isis-mappings-jaxrsclient-applib,2.0.0-M4,org.apache.isis.mappings.jaxrsclient.api,-,automatic,-,false,-`
@@ -11008,6 +11011,7 @@
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.5.1` // `com.github.collinalpert,java2db,5.5.1,org.objectweb.asm,7.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:5.6.0` // `com.github.collinalpert,java2db,5.6.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:6.0.0` // `com.github.collinalpert,java2db,6.0.0,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.github.collinalpert:java2db:6.0.1` // `com.github.collinalpert,java2db,6.0.1,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.5` // `com.github.collinalpert,lambda2sql,1.5,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6` // `com.github.collinalpert,lambda2sql,1.6,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.github.collinalpert:lambda2sql:1.6.1` // `com.github.collinalpert,lambda2sql,1.6.1,org.objectweb.asm,6.2.0,explicit,java.base,false,-`
