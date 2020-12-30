@@ -1,24 +1,24 @@
 # sormuras/modules
-Counted 8231 Java modules published at Maven Central
+Counted 8245 Java modules published at Maven Central
 
-## Summary 2020-12-29T03:19:00.753421Z
+## Summary 2020-12-30T03:19:33.013504Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-29T03:19:00.753421Z
-Scanned 68,755 files in 8 seconds.
+Started scan at 2020-12-30T03:19:33.013504Z
+Scanned 68,832 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_29_02_57_56.csv
+    last -> modulescanner-report-2020_12_30_03_04_44.csv
 
-Parsed 4,842,063 lines in total.
-  72,410 -> captions skipped
-  453,813 -> duplicates skipped
-  251,548 -> module related
+Parsed 4,846,586 lines in total.
+  72,487 -> captions skipped
+  454,437 -> duplicates skipped
+  251,898 -> module related
 
-Collected 8,231 unique modules.
-  automatic :cd: -> 5,655
-  explicit :dvd: -> 2,576
+Collected 8,245 unique modules.
+  automatic :cd: -> 5,650
+  explicit :dvd: -> 2,595
 
 ## Samples
             junit -> junit:junit:4.13.1
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=7503, explicit=735, plain=153706}` 	 5.36%
+ - `2020_12={automatic=7783, explicit=761, plain=157178}` 	 5.44%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -125,9 +125,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [26884](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34964](suspicious/naming.md)
-- Modular impostors: [12467](suspicious/impostors.md)
+- Invalid module names: [26909](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34974](suspicious/naming.md)
+- Modular impostors: [12476](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
