@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 8245 Java modules published at Maven Central
 
-## Summary 2020-12-30T03:19:33.013504Z
+## Summary 2020-12-31T03:20:15.342717Z
 
 ```
 ## Summary
 
-Started scan at 2020-12-30T03:19:33.013504Z
-Scanned 68,832 files in 8 seconds.
+Started scan at 2020-12-31T03:20:15.342717Z
+Scanned 68,901 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2020_12_30_03_04_44.csv
+    last -> modulescanner-report-2020_12_31_02_55_38.csv
 
-Parsed 4,846,586 lines in total.
-  72,487 -> captions skipped
-  454,437 -> duplicates skipped
-  251,898 -> module related
+Parsed 4,852,991 lines in total.
+  72,556 -> captions skipped
+  455,084 -> duplicates skipped
+  252,241 -> module related
 
 Collected 8,245 unique modules.
   automatic :cd: -> 5,650
@@ -60,7 +60,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_09={automatic=7687, explicit=812, plain=133637}` 	 6.36%
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
- - `2020_12={automatic=7783, explicit=761, plain=157178}` 	 5.44%
+ - `2020_12={automatic=8065, explicit=765, plain=162524}` 	 5.43%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -126,8 +126,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [26909](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [34974](suspicious/naming.md)
-- Modular impostors: [12476](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [35013](suspicious/naming.md)
+- Modular impostors: [12494](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
