@@ -3863,6 +3863,7 @@
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.1` // `de.stklcode.jvault,jvault-connector,0.8.1,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.2` // `de.stklcode.jvault,jvault-connector,0.8.2,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.9.0` // `de.stklcode.jvault,jvault-connector,0.9.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
+- :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.9.1` // `de.stklcode.jvault,jvault-connector,0.9.1,de.stklcode.jvault.connector,-,automatic,-,false,-`
 - :cd: `de.ubleipzig.image.metadata` - `de.ubleipzig:image.metadata:0.1.0` // `de.ubleipzig,image.metadata,0.1.0,de.ubleipzig.image.metadata,-,automatic,-,false,-`
 - :cd: `edu.hm.hafner.codingstyle` - `edu.hm.hafner:karatest:2.0.0` // `edu.hm.hafner,karatest,2.0.0,edu.hm.hafner.codingstyle,-,automatic,-,false,-`
 - :cd: `edu.hm.hafner.codingstyle` - `edu.hm.hafner:karatest:2.0.1` // `edu.hm.hafner,karatest,2.0.1,edu.hm.hafner.codingstyle,-,automatic,-,false,-`
@@ -3914,6 +3915,11 @@
 - :cd: `eu.toop.connector.r2d2client` - `eu.toop:toop-mem-phase4:0.10.4` // `eu.toop,toop-mem-phase4,0.10.4,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :cd: `eu.toop.connector.r2d2client` - `eu.toop:toop-mem-phase4:0.10.5` // `eu.toop,toop-mem-phase4,0.10.5,eu.toop.connector.r2d2client,-,automatic,-,false,-`
 - :dvd: `geci.examples` - `com.javax0.geci:javageci-examples:1.6.0` // `com.javax0.geci,javageci-examples,1.6.0,geci.examples,1.5.1-SNAPSHOT,explicit,geci.annotation + geci.api + geci.core + geci.engine + geci.tools + java.base + java.xml,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha1` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha1,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha2` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha2,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha3` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha3,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha4` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha4,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha5` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha5,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.aeontronix.enhancedmule:enhanced-mule-installer-cli:1.0.0-beta2` // `com.aeontronix.enhancedmule,enhanced-mule-installer-cli,1.0.0-beta2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-3:1.0` // `com.instaclustr,cassandra-3,1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-4:1.0` // `com.instaclustr,cassandra-4,1.0,info.picocli,-,explicit,java.base,false,-`
@@ -7056,6 +7062,7 @@
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.4` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.4,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.5` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.5,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample:0.0.6` // `com.github.shynixn.mccoroutine,mccoroutine-bukkit-sample,0.0.6,kotlin.stdlib,-,explicit,java.base,false,-`
+- :dvd: `kotlin.stdlib` - `com.niklasarndt:healthchecksio-java:1.0.1` // `com.niklasarndt,healthchecksio-java,1.0.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.1` // `no.entur,schema2proto-lib,1.1,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.10` // `no.entur,schema2proto-lib,1.10,kotlin.stdlib,-,explicit,java.base,false,-`
 - :dvd: `kotlin.stdlib` - `no.entur:schema2proto-lib:1.13` // `no.entur,schema2proto-lib,1.13,kotlin.stdlib,-,explicit,java.base,false,-`
@@ -9850,6 +9857,7 @@
 - :dvd: `org.hibernate.orm.core` - `com.guicedee.services:hibernate-core:62` // `com.guicedee.services,hibernate-core,62,org.hibernate.orm.core,62,explicit,ant + antlr + com.fasterxml.classmate + dom4j + jakarta.enterprise.cdi + jandex + java.base + java.compiler + java.desktop + java.instrument + java.management + java.naming + java.persistence + java.sql + java.transaction + java.validation + java.xml.bind + javassist + javax.inject + javax.security.jacc.api + jdk.unsupported + net.bytebuddy + org.hibernate.commons.annotations + org.jboss.logging,false,-`
 - :cd: `org.hibernate.orm.core` - `org.beangle.hibernate:beangle-hibernate-core:5.4.17.Final` // `org.beangle.hibernate,beangle-hibernate-core,5.4.17.Final,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.beangle.hibernate:beangle-hibernate-core:5.4.21.Final` // `org.beangle.hibernate,beangle-hibernate-core,5.4.21.Final,org.hibernate.orm.core,-,automatic,-,false,-`
+- :cd: `org.hibernate.orm.core` - `org.beangle.hibernate:beangle-hibernate-core:5.4.27.Final` // `org.beangle.hibernate,beangle-hibernate-core,5.4.27.Final,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha1` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha1,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha2` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha2,org.hibernate.orm.core,-,automatic,-,false,-`
 - :cd: `org.hibernate.orm.core` - `org.hibernate.orm:hibernate-core:6.0.0.Alpha3` // `org.hibernate.orm,hibernate-core,6.0.0.Alpha3,org.hibernate.orm.core,-,automatic,-,false,-`
@@ -11496,6 +11504,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.148` // `com.rookout,rook,0.1.148,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.149` // `com.rookout,rook,0.1.149,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.150` // `com.rookout,rook,0.1.150,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.151` // `com.rookout,rook,0.1.151,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`

@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 8259 Java modules published at Maven Central
 
-## Summary 2021-01-03T03:22:37.435374Z
+## Summary 2021-01-04T03:23:14.053652Z
 
 ```
 ## Summary
 
-Started scan at 2021-01-03T03:22:37.435374Z
-Scanned 69,138 files in 9 seconds.
+Started scan at 2021-01-04T03:23:14.053652Z
+Scanned 69,218 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2021_01_03_03_07_40.csv
+    last -> modulescanner-report-2021_01_04_02_51_11.csv
 
-Parsed 4,864,704 lines in total.
-  72,793 -> captions skipped
-  457,011 -> duplicates skipped
-  252,671 -> module related
+Parsed 4,866,923 lines in total.
+  72,873 -> captions skipped
+  457,041 -> duplicates skipped
+  252,690 -> module related
 
 Collected 8,259 unique modules.
   automatic :cd: -> 5,593
@@ -61,7 +61,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
  - `2020_12={automatic=8343, explicit=773, plain=165765}` 	 5.50%
- - `2021_01={automatic=39, explicit=74, plain=5878}` 	 1.92%
+ - `2021_01={automatic=45, explicit=75, plain=7968}` 	 1.51%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -127,8 +127,8 @@ If you find your module listed there, or know an author of one, please [create a
 Module names listed in this section didn't make it into the `modules.properties` database.
 
 - Invalid module names: [26909](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [35040](suspicious/naming.md)
-- Modular impostors: [12498](suspicious/impostors.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [35043](suspicious/naming.md)
+- Modular impostors: [12507](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -188,7 +188,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
 - :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.45`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
-- :dvd: `info.picocli` - `info.picocli:picocli:4.6.0`
+- :dvd: `info.picocli` - `info.picocli:picocli:4.6.1`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.98`
 - :dvd: `net.bytebuddy` - `net.bytebuddy:byte-buddy:1.10.19`
 - :dvd: `net.bytebuddy.agent` - `net.bytebuddy:byte-buddy-agent:1.10.19`
