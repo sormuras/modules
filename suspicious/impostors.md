@@ -3595,6 +3595,7 @@
 - :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.3.1` // `com.sshtools,icon-generator-swt,1.3.1,com.sshtools.icongenerator.swing,1.3.1,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
 - :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.4.0` // `com.sshtools,icon-generator-swt,1.4.0,com.sshtools.icongenerator.swing,1.4.0,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
 - :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.4.2` // `com.sshtools,icon-generator-swt,1.4.2,com.sshtools.icongenerator.swing,1.4.2,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
+- :dvd: `com.sshtools.icongenerator.swing` - `com.sshtools:icon-generator-swt:1.4.3` // `com.sshtools,icon-generator-swt,1.4.3,com.sshtools.icongenerator.swing,1.4.3,explicit,com.sshtools.icongenerator.common + java.base + java.desktop + org.eclipse.swt.gtk.linux.x86_64,false,-`
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.1.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.1.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.2.0` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.2.0,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
 - :dvd: `com.sun.xml.bind` - `com.airbus-cyber-security.graylog:graylog-plugin-glpi:1.2.1` // `com.airbus-cyber-security.graylog,graylog-plugin-glpi,1.2.1,com.sun.xml.bind,-,explicit,com.sun.istack.runtime + com.sun.xml.fastinfoset + com.sun.xml.txw2 + java.activation + java.base + java.compiler + java.desktop + java.logging + java.xml + java.xml.bind + org.jvnet.staxex,false,-`
@@ -3672,6 +3673,7 @@
 - :cd: `com.vladmihalcea.flexypool.dropwizard` - `com.vladmihalcea.flexy-pool:flexy-micrometer-metrics:2.1.0` // `com.vladmihalcea.flexy-pool,flexy-micrometer-metrics,2.1.0,com.vladmihalcea.flexypool.dropwizard,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.10.0` // `com.vladmihalcea,hibernate-types-43,2.10.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.10.1` // `com.vladmihalcea,hibernate-types-43,2.10.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.10.2` // `com.vladmihalcea,hibernate-types-43,2.10.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.3.2` // `com.vladmihalcea,hibernate-types-43,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.3.3` // `com.vladmihalcea,hibernate-types-43,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.3.4` // `com.vladmihalcea,hibernate-types-43,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -3704,6 +3706,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-43:2.9.9` // `com.vladmihalcea,hibernate-types-43,2.9.9,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.10.0` // `com.vladmihalcea,hibernate-types-5,2.10.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.10.1` // `com.vladmihalcea,hibernate-types-5,2.10.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.10.2` // `com.vladmihalcea,hibernate-types-5,2.10.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.2` // `com.vladmihalcea,hibernate-types-5,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.3` // `com.vladmihalcea,hibernate-types-5,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.3.4` // `com.vladmihalcea,hibernate-types-5,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -3736,6 +3739,7 @@
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-5:2.9.9` // `com.vladmihalcea,hibernate-types-5,2.9.9,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.10.0` // `com.vladmihalcea,hibernate-types-52,2.10.0,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.10.1` // `com.vladmihalcea,hibernate-types-52,2.10.1,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
+- :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.10.2` // `com.vladmihalcea,hibernate-types-52,2.10.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.2` // `com.vladmihalcea,hibernate-types-52,2.3.2,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.3` // `com.vladmihalcea,hibernate-types-52,2.3.3,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
 - :cd: `com.vladmihalcea.hibernate.type` - `com.vladmihalcea:hibernate-types-52:2.3.4` // `com.vladmihalcea,hibernate-types-52,2.3.4,com.vladmihalcea.hibernate.type,-,automatic,-,false,-`
@@ -3857,6 +3861,7 @@
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.6` // `de.mkammerer,argon2-jvm-nolibs,2.6,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.7` // `de.mkammerer,argon2-jvm-nolibs,2.7,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.8` // `de.mkammerer,argon2-jvm-nolibs,2.8,de.mkammerer.argon2,-,automatic,-,false,-`
+- :cd: `de.mkammerer.argon2` - `de.mkammerer:argon2-jvm-nolibs:2.9` // `de.mkammerer,argon2-jvm-nolibs,2.9,de.mkammerer.argon2,-,automatic,-,false,-`
 - :cd: `de.rototor.pdfbox.graphics2d` - `de.rototor.pdfbox:extended-tests:0.30` // `de.rototor.pdfbox,extended-tests,0.30,de.rototor.pdfbox.graphics2d,-,automatic,-,false,-`
 - :cd: `de.sormuras.junit.platform.isolator.worker` - `de.sormuras:junit-platform-isolator-worker:1.0.0-M1` // `de.sormuras,junit-platform-isolator-worker,1.0.0-M1,de.sormuras.junit.platform.isolator.worker,-,automatic,-,false,-`
 - :cd: `de.stklcode.jvault.connector` - `de.stklcode.jvault:jvault-connector:0.8.0` // `de.stklcode.jvault,jvault-connector,0.8.0,de.stklcode.jvault.connector,-,automatic,-,false,-`
@@ -3920,6 +3925,7 @@
 - :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha3` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha3,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha4` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha4,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha5` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha5,info.picocli,-,explicit,java.base,false,-`
+- :dvd: `info.picocli` - `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli:1.3.0-alpha8` // `com.aeontronix.enhanced-mule,enhanced-mule-tools-cli,1.3.0-alpha8,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.aeontronix.enhancedmule:enhanced-mule-installer-cli:1.0.0-beta2` // `com.aeontronix.enhancedmule,enhanced-mule-installer-cli,1.0.0-beta2,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-3:1.0` // `com.instaclustr,cassandra-3,1.0,info.picocli,-,explicit,java.base,false,-`
 - :dvd: `info.picocli` - `com.instaclustr:cassandra-4:1.0` // `com.instaclustr,cassandra-4,1.0,info.picocli,-,explicit,java.base,false,-`
@@ -4151,6 +4157,7 @@
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.2` // `io.ebean,ebean-ddl-generator,12.6.2,io.ebean.ddlgen,-,automatic,-,false,-`
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.3` // `io.ebean,ebean-ddl-generator,12.6.3,io.ebean.ddlgen,-,automatic,-,false,-`
 - :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.4` // `io.ebean,ebean-ddl-generator,12.6.4,io.ebean.ddlgen,-,automatic,-,false,-`
+- :cd: `io.ebean.ddlgen` - `io.ebean:ebean-ddl-generator:12.6.5` // `io.ebean,ebean-ddl-generator,12.6.5,io.ebean.ddlgen,-,automatic,-,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.4` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.4,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.5` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.5,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
 - :dvd: `io.github.classgraph` - `ch.exense.step.library:step-library-kw-monitoring-system:1.0.6` // `ch.exense.step.library,step-library-kw-monitoring-system,1.0.6,io.github.classgraph,4.8.28,explicit,java.base + java.logging + java.management + java.xml + jdk.unsupported,false,-`
@@ -9023,6 +9030,7 @@
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.329.19` // `com.yahoo.vespa,vespa-hadoop,7.329.19,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.330.15` // `com.yahoo.vespa,vespa-hadoop,7.330.15,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.331.24` // `com.yahoo.vespa,vespa-hadoop,7.331.24,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
+- :dvd: `org.bouncycastle.pkix` - `com.yahoo.vespa:vespa-hadoop:7.334.42` // `com.yahoo.vespa,vespa-hadoop,7.334.42,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `de.aaschmid:taskwarrior-java-client:1.0` // `de.aaschmid,taskwarrior-java-client,1.0,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.52` // `io.nosqlbench,nb,3.12.52,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
 - :dvd: `org.bouncycastle.pkix` - `io.nosqlbench:nb:3.12.54` // `io.nosqlbench,nb,3.12.54,org.bouncycastle.pkix,-,explicit,java.base + java.logging + java.naming + org.bouncycastle.provider,false,-`
@@ -9100,6 +9108,8 @@
 - :dvd: `org.bouncycastle.provider` - `com.joinesty:nullafi-java-sdk:1.0.3` // `com.joinesty,nullafi-java-sdk,1.0.3,org.bouncycastle.provider,-,explicit,java.base,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.juliozynger.floorplan:floorplan-gradle-plugin:0.1` // `com.juliozynger.floorplan,floorplan-gradle-plugin,0.1,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.juliozynger.floorplan:floorplan-gradle-plugin:0.2` // `com.juliozynger.floorplan,floorplan-gradle-plugin,0.2,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.liferay:com.liferay.saml.opensaml.integration:4.0.25` // `com.liferay,com.liferay.saml.opensaml.integration,4.0.25,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
+- :dvd: `org.bouncycastle.provider` - `com.liferay:com.liferay.sync.engine:3.4.9` // `com.liferay,com.liferay.sync.engine,3.4.9,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.liferay.portal:release.dxp.api:7.3.10-ep5` // `com.liferay.portal,release.dxp.api,7.3.10-ep5,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.liferay.portal:release.dxp.api:7.3.10-ep6` // `com.liferay.portal,release.dxp.api,7.3.10-ep6,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
 - :dvd: `org.bouncycastle.provider` - `com.linecorp.armeria:armeria:0.92.0` // `com.linecorp.armeria,armeria,0.92.0,org.bouncycastle.provider,-,explicit,java.base + java.naming + java.sql,false,-`
@@ -11512,6 +11522,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.149` // `com.rookout,rook,0.1.149,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.150` // `com.rookout,rook,0.1.150,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.151` // `com.rookout,rook,0.1.151,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.152` // `com.rookout,rook,0.1.152,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
