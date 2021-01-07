@@ -1,20 +1,20 @@
 # sormuras/modules
 Counted 8270 Java modules published at Maven Central
 
-## Summary 2021-01-06T05:14:17.711443Z
+## Summary 2021-01-07T03:26:19.299486Z
 
 ```
 ## Summary
 
-Started scan at 2021-01-06T05:14:17.711443Z
-Scanned 69,375 files in 9 seconds.
+Started scan at 2021-01-07T03:26:19.299486Z
+Scanned 69,440 files in 8 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2021_01_06_05_01_49.csv
+    last -> modulescanner-report-2021_01_07_02_58_03.csv
 
-Parsed 4,881,840 lines in total.
-  73,030 -> captions skipped
-  458,236 -> duplicates skipped
-  253,439 -> module related
+Parsed 4,891,167 lines in total.
+  73,095 -> captions skipped
+  459,170 -> duplicates skipped
+  253,817 -> module related
 
 Collected 8,270 unique modules.
   automatic :cd: -> 5,602
@@ -61,7 +61,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
  - `2020_12={automatic=8343, explicit=773, plain=165765}` 	 5.50%
- - `2021_01={automatic=657, explicit=90, plain=20784}` 	 3.59%
+ - `2021_01={automatic=960, explicit=111, plain=28734}` 	 3.73%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
@@ -126,9 +126,9 @@ If you find your module listed there, or know an author of one, please [create a
 
 Module names listed in this section didn't make it into the `modules.properties` database.
 
-- Invalid module names: [26914](suspicious/syntax.md)
-- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [35142](suspicious/naming.md)
-- Modular impostors: [12525](suspicious/impostors.md)
+- Invalid module names: [26915](suspicious/syntax.md)
+- Naming is [_off_](http://blog.joda.org/2017/04/java-se-9-jpms-module-naming.html): [35166](suspicious/naming.md)
+- Modular impostors: [12554](suspicious/impostors.md)
 
 ## Explicit Unique Modules Highlights
 
@@ -186,7 +186,7 @@ Include them in your `module-info.java` module descriptors.
 - :dvd: `eu.hansolo.medusa` - `eu.hansolo:Medusa:11.5`
 - :dvd: `eu.hansolo.properties` - `eu.hansolo:properties:11.9`
 - :dvd: `eu.hansolo.regulators` - `eu.hansolo:regulators:11.7`
-- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.45`
+- :dvd: `eu.hansolo.tilesfx` - `eu.hansolo:tilesfx:11.46`
 - :dvd: `eu.hansolo.tilesfxweather` - `eu.hansolo:tilesfxweather:11.35`
 - :dvd: `info.picocli` - `info.picocli:picocli:4.6.1`
 - :dvd: `io.github.classgraph` - `io.github.classgraph:classgraph:4.8.98`
