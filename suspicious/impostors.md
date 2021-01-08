@@ -7672,6 +7672,7 @@
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.18.0.RC1` // `co.elastic.apm,apm-agent-attach,1.18.0.RC1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.18.1` // `co.elastic.apm,apm-agent-attach,1.18.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.19.0` // `co.elastic.apm,apm-agent-attach,1.19.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.20.0` // `co.elastic.apm,apm-agent-attach,1.20.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.4.0` // `co.elastic.apm,apm-agent-attach,1.4.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.5.0` // `co.elastic.apm,apm-agent-attach,1.5.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `co.elastic.apm:apm-agent-attach:1.6.0` // `co.elastic.apm,apm-agent-attach,1.6.0,net.bytebuddy.agent,-,explicit,java.base + java.instrument + jdk.attach,false,-`
@@ -8684,6 +8685,7 @@
 - :dvd: `org.apache.logging.log4j` - `org.n52.arctic-sea:iceland-statistics-kibana:7.1.0` // `org.n52.arctic-sea,iceland-statistics-kibana,7.1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.neo4j:neo4j-logging:4.2.0` // `org.neo4j,neo4j-logging,4.2.0,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.neo4j:neo4j-logging:4.2.1` // `org.neo4j,neo4j-logging,4.2.1,org.apache.logging.log4j,2.13.3,explicit,java.base,false,-`
+- :dvd: `org.apache.logging.log4j` - `org.neo4j:neo4j-logging:4.2.2` // `org.neo4j,neo4j-logging,4.2.2,org.apache.logging.log4j,2.14.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.odpi.egeria:gaian-ranger-plugin:1.0` // `org.odpi.egeria,gaian-ranger-plugin,1.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.robotframework:remoteswinglibrary:2.2.5` // `org.robotframework,remoteswinglibrary,2.2.5,org.apache.logging.log4j,2.13.0,explicit,java.base,false,-`
 - :dvd: `org.apache.logging.log4j` - `org.seaborne.rdf-delta:rdf-delta-fuseki-server:0.7.0` // `org.seaborne.rdf-delta,rdf-delta-fuseki-server,0.7.0,org.apache.logging.log4j,-,explicit,java.base,false,-`
@@ -10679,6 +10681,7 @@
 - :cd: `org.neo4j.community` - `org.graphfoundation.ongdb:ongdb:3.6.1` // `org.graphfoundation.ongdb,ongdb,3.6.1,org.neo4j.community,-,automatic,-,false,-`
 - :cd: `org.neo4j.community` - `org.graphfoundation.ongdb:ongdb:3.6.2` // `org.graphfoundation.ongdb,ongdb,3.6.2,org.neo4j.community,-,automatic,-,false,-`
 - :cd: `org.neo4j.community.bolt.it` - `org.neo4j:cypher-shell-integration-test:3.5.26` // `org.neo4j,cypher-shell-integration-test,3.5.26,org.neo4j.community.bolt.it,-,automatic,-,false,-`
+- :cd: `org.neo4j.community.bolt.it` - `org.neo4j:cypher-shell-integration-test:4.2.2` // `org.neo4j,cypher-shell-integration-test,4.2.2,org.neo4j.community.bolt.it,-,automatic,-,false,-`
 - :cd: `org.neo4j.configuration` - `org.graphfoundation.ongdb:ongdb-configuration:3.6.0` // `org.graphfoundation.ongdb,ongdb-configuration,3.6.0,org.neo4j.configuration,-,automatic,-,false,-`
 - :cd: `org.neo4j.configuration` - `org.graphfoundation.ongdb:ongdb-configuration:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-configuration,3.6.0.M2,org.neo4j.configuration,-,automatic,-,false,-`
 - :cd: `org.neo4j.configuration` - `org.graphfoundation.ongdb:ongdb-configuration:3.6.1` // `org.graphfoundation.ongdb,ongdb-configuration,3.6.1,org.neo4j.configuration,-,automatic,-,false,-`
@@ -10697,6 +10700,7 @@
 - :cd: `org.neo4j.cypher` - `org.graphfoundation.ongdb:ongdb-cypher:3.6.2` // `org.graphfoundation.ongdb,ongdb-cypher,3.6.2,org.neo4j.cypher,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher` - `org.neo4j:neo4j-cypher-testing:4.2.0` // `org.neo4j,neo4j-cypher-testing,4.2.0,org.neo4j.cypher,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher` - `org.neo4j:neo4j-cypher-testing:4.2.1` // `org.neo4j,neo4j-cypher-testing,4.2.1,org.neo4j.cypher,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher` - `org.neo4j:neo4j-cypher-testing:4.2.2` // `org.neo4j,neo4j-cypher-testing,4.2.2,org.neo4j.cypher,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher,3.6.0,org.neo4j.cypher.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher,3.6.0.M2,org.neo4j.cypher.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-cypher:3.6.1` // `org.graphfoundation.ongdb,ongdb-enterprise-cypher,3.6.1,org.neo4j.cypher.enterprise,-,automatic,-,false,-`
@@ -10706,6 +10710,7 @@
 - :cd: `org.neo4j.cypher.internal` - `org.graphfoundation.ongdb:ongdb-cypher-expression-evaluator:3.6.1` // `org.graphfoundation.ongdb,ongdb-cypher-expression-evaluator,3.6.1,org.neo4j.cypher.internal,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal` - `org.graphfoundation.ongdb:ongdb-cypher-expression-evaluator:3.6.2` // `org.graphfoundation.ongdb,ongdb-cypher-expression-evaluator,3.6.2,org.neo4j.cypher.internal,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.compiler` - `org.neo4j:cypher-shell:3.5.26` // `org.neo4j,cypher-shell,3.5.26,org.neo4j.cypher.internal.compiler,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
+- :cd: `org.neo4j.cypher.internal.compiler` - `org.neo4j:cypher-shell:4.2.2` // `org.neo4j,cypher-shell,4.2.2,org.neo4j.cypher.internal.compiler,-,automatic,-,false,sun.misc.Signal                          See http://openjdk.java.net/jeps/260 + sun.misc.SignalHandler                   See http://openjdk.java.net/jeps/260`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0-alpha0-20181130` // `org.neo4j,neo4j-front-end-4.0,4.0-alpha0-20181130,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0-alpha0-20190301` // `org.neo4j,neo4j-front-end-4.0,4.0-alpha0-20190301,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.0` // `org.neo4j,neo4j-front-end-4.0,4.0.0,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
@@ -10727,6 +10732,7 @@
 - :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.1.4` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.1.4,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.2.0` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.2.0,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.2.1` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.2.1,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.logical.builder` - `org.neo4j:neo4j-cypher-logical-plan-builder:4.2.2` // `org.neo4j,neo4j-cypher-logical-plan-builder,4.2.2,org.neo4j.cypher.internal.logical.builder,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.0` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.0,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.0.M2,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.runtime.compiled.expressions` - `org.graphfoundation.ongdb:ongdb-cypher-compiled-expressions:3.6.1` // `org.graphfoundation.ongdb,ongdb-cypher-compiled-expressions,3.6.1,org.neo4j.cypher.internal.runtime.compiled.expressions,-,automatic,-,false,-`
@@ -10929,6 +10935,7 @@
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.1.4` // `org.neo4j,neo4j-fulltext-index,4.1.4,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.2.0` // `org.neo4j,neo4j-fulltext-index,4.2.0,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.2.1` // `org.neo4j,neo4j-fulltext-index,4.2.1,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
+- :cd: `org.neo4j.kernel.api.impl.fulltext` - `org.neo4j:neo4j-fulltext-index:4.2.2` // `org.neo4j,neo4j-fulltext-index,4.2.2,org.neo4j.kernel.api.impl.fulltext,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-kernel:3.6.0` // `org.graphfoundation.ongdb,ongdb-enterprise-kernel,3.6.0,org.neo4j.kernel.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-kernel:3.6.0.M2` // `org.graphfoundation.ongdb,ongdb-enterprise-kernel,3.6.0.M2,org.neo4j.kernel.enterprise,-,automatic,-,false,-`
 - :cd: `org.neo4j.kernel.enterprise` - `org.graphfoundation.ongdb:ongdb-enterprise-kernel:3.6.1` // `org.graphfoundation.ongdb,ongdb-enterprise-kernel,3.6.1,org.neo4j.kernel.enterprise,-,automatic,-,false,-`
