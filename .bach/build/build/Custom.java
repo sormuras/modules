@@ -7,7 +7,6 @@ import com.github.sormuras.bach.Flag;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
-import java.util.Objects;
 import java.util.StringJoiner;
 
 public class Custom extends Bach {
@@ -30,23 +29,22 @@ public class Custom extends Bach {
 
       static Line of(String line) {
         var s = line.split(",");
-        return new Line(s[0], s[1], s[2], s[3], s[4], s[5]);
+        return new Line(s[0].split("=")[1], s[1], s[2], s[3], s[4], s[5]);
       }
 
       boolean isExplicit() {
         return "explicit".equals(mode);
       }
 
-      @Override
-      public String toString() {
+      public String toPropertyLine() {
         return module
-               + '='
-               + new StringJoiner("/")
-                   .add("https://repo.maven.apache.org/maven2")
-                   .add(G.replace('.', '/'))
-                   .add(A)
-                   .add(V)
-                   .add(A + '-' + V + ".jar");
+            + '='
+            + new StringJoiner("/")
+                .add("https://repo.maven.apache.org/maven2")
+                .add(G.replace('.', '/'))
+                .add(A)
+                .add(V)
+                .add(A + '-' + V + ".jar");
       }
     }
 
@@ -54,7 +52,7 @@ public class Custom extends Bach {
     Files.lines(Path.of("modules.properties"))
         .map(Line::of)
         .filter(Line::isExplicit)
-        .map(Objects::toString)
+        .map(Line::toPropertyLine)
         .forEach(lines::add);
     Files.write(Path.of(module, module.replace('.', '/'), "modules.properties"), lines);
   }
