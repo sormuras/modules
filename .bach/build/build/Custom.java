@@ -5,6 +5,10 @@ import com.github.sormuras.bach.Base;
 import com.github.sormuras.bach.Command;
 import com.github.sormuras.bach.Flag;
 import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.Objects;
+import java.util.StringJoiner;
 
 public class Custom extends Bach {
 
@@ -16,6 +20,46 @@ public class Custom extends Bach {
 
   @Override
   public void buildMainSpace() throws Exception {
+    updateModuleProperties();
+    compileAndPackageModule();
+  }
+
+  void updateModuleProperties() throws Exception {
+
+    record Line(String G, String A, String V, String module, String version, String mode) {
+
+      static Line of(String line) {
+        var s = line.split(",");
+        return new Line(s[0], s[1], s[2], s[3], s[4], s[5]);
+      }
+
+      boolean isExplicit() {
+        return "explicit".equals(mode);
+      }
+
+      @Override
+      public String toString() {
+        return module
+               + '='
+               + new StringJoiner("/")
+                   .add("https://repo.maven.apache.org/maven2")
+                   .add(G.replace('.', '/'))
+                   .add(A)
+                   .add(V)
+                   .add(A + '-' + V + ".jar");
+      }
+    }
+
+    var lines = new ArrayList<String>();
+    Files.lines(Path.of("modules.properties"))
+        .map(Line::of)
+        .filter(Line::isExplicit)
+        .map(Objects::toString)
+        .forEach(lines::add);
+    Files.write(Path.of(module, module.replace('.', '/'), "modules.properties"), lines);
+  }
+
+  void compileAndPackageModule() throws Exception {
     var moduleVersion = project().version();
     var javaRelease = 16;
     var destination = base().workspace("classes", "main", "" + javaRelease);
