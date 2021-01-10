@@ -1,0 +1,23 @@
+name: update
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Cache Bucket
+        uses: actions/cache@v2
+        with:
+          path: bucket
+          key: bucket-${{ hashFiles('bucket/*') }}
+          restore-keys: bucket
+      - name: Sync Java 9+ Adoption Bucket
+        run: |
+          mkdir --parents bucket
+          du --bytes bucket
+          aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --only-show-errors
+          du --bytes bucket
