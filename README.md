@@ -1,18 +1,18 @@
 # sormuras/modules
 Counted 8281 Java modules published at Maven Central
 
-## Summary 2021-01-10T06:31:52.877456Z
+## Summary 2021-01-10T06:50:39.034718Z
 
 ```
 ## Summary
 
-Started scan at 2021-01-10T06:31:52.877456Z
-Scanned 69,695 files in 8 seconds.
+Started scan at 2021-01-10T06:50:39.034718Z
+Scanned 69,696 files in 9 seconds.
    first -> modulescanner-report-2018_08_18_00_58_06.csv
-    last -> modulescanner-report-2021_01_10_06_13_57.csv
+    last -> modulescanner-report-2021_01_10_06_28_28.csv
 
-Parsed 4,907,753 lines in total.
-  73,349 -> captions skipped
+Parsed 4,907,758 lines in total.
+  73,350 -> captions skipped
   460,528 -> duplicates skipped
   254,587 -> module related
 
@@ -61,7 +61,7 @@ org.objectweb.asm -> org.ow2.asm:asm:9.0
  - `2020_10={automatic=7725, explicit=841, plain=170419}` 	 5.03%
  - `2020_11={automatic=6850, explicit=741, plain=162941}` 	 4.66%
  - `2020_12={automatic=8343, explicit=773, plain=165765}` 	 5.50%
- - `2021_01={automatic=1507, explicit=219, plain=42938}` 	 4.02%
+ - `2021_01={automatic=1507, explicit=219, plain=42942}` 	 4.02%
 ```
 
 [![Build Status](https://travis-ci.org/sormuras/modules.svg?branch=master)](https://travis-ci.org/sormuras/modules)
