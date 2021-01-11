@@ -25,6 +25,8 @@ jobs:
   build:
     needs: [ setup ]
     runs-on: ubuntu-latest
+    outputs:
+      modified: ${{ steps.diff.outputs.modified }}
     steps:
       - name: 'Check out repository'
         uses: actions/checkout@v2
@@ -80,7 +82,7 @@ jobs:
 
   deploy-to-releases:
     needs: [ setup, build ]
-    if: github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
+    if: ${{ needs.build.outputs.modified }} == 'true' && github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
