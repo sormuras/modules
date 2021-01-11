@@ -1,36 +1,84 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+
+  setup:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    outputs:
+      sha: ${{ steps.version.outputs.sha }}
+      tag: ${{ steps.version.outputs.tag }}
+      version: ${{ steps.version.outputs.version }}
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: 'Compute version string'
+        id: version
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          SHA=$(echo "${{ github.sha }}" | cut -c1-7)
+          TAG=0-ea
+          VERSION=${TAG}+${SHA}
+          echo "::set-output name=sha::${SHA}"
+          echo "::set-output name=tag::${TAG}"
+          echo "::set-output name=version::${VERSION}"
+
+  build:
+    needs: [ setup ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Check out repository'
+        uses: actions/checkout@v2
+      - name: 'Cache bucket'
+        uses: actions/cache@v2
+        with:
+          path: bucket
+          key: bucket
+      - name: 'Sync bucket'
+        run: |
+          mkdir --parents bucket
+          du --bytes bucket
+          aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --only-show-errors
+          du --bytes bucket
+      - name: 'Set up Java'
+        uses: actions/setup-java@v1
+        with:
+          java-version: 16-ea
+      - name: 'Scan bucket'
+        run: |
+          java \
+          com.github.sormuras.modules/com/github/sormuras/modules/Scanner.java \
+          bucket \
+          com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+      - name: 'Build with Bach'
+        uses: sormuras/bach-build@v1
+        with:
+          bach-version: 17-ea
+          project-version: ${{ needs.setup.outputs.version }}
+      - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'
+        if: always()
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
+          path: |
+            LICENSE
+            .bach/workspace/logbook.md
+            .bach/workspace/modules
+
+  deploy-to-releases:
+    needs: [ setup, build ]
+    if: github.repository == 'sormuras/modules' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
+        uses: actions/download-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
+      - name: 'Release ${{ needs.setup.outputs.tag }}'
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          automatic_release_tag: ${{ needs.setup.outputs.tag }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          prerelease: true
+          title: "Modules ${{ needs.setup.outputs.version }}"
+          files: |
+            .bach/workspace/modules/*.jar
