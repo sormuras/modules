@@ -11,7 +11,7 @@ class Scanner {
 
   public static void main(String... args) throws Exception {
     if (args.length == 0) {
-      System.err.println("Usage: Scanner DIRECTORY [out]");
+      System.err.println("Usage: Scanner DIRECTORY [file]");
       return;
     }
     var scanner = new Scanner(args[0]).scan();
@@ -21,6 +21,37 @@ class Scanner {
       scanner.modules.forEach((module, uri) -> lines.add(module + '=' + uri));
       Files.write(Path.of(args[1]), lines);
     }
+  }
+
+  @SuppressWarnings("RedundantIfStatement")
+  static boolean filter(Scan scan) {
+    if (!scan.explicit()) return false;
+    if (scan.module().startsWith(scan.G())) return true;
+    if (scan.module().startsWith(scan.G2())) return true;
+    return false;
+  }
+
+  static String computeMavenGroupAlias(String group) {
+    return switch (group) {
+      case "com.github.almasb" -> "com.almasb";
+      case "com.google.guava" -> "com.google.common";
+      case "com.google.inject" -> "com.google.guice";
+      case "javax.json" -> "java.json";
+      case "org.jetbrains.kotlin" -> "kotlin";
+      case "org.jfxtras" -> "jfxtras";
+      case "org.openjfx" -> "javafx";
+      case "org.ow2.asm" -> "org.objectweb.asm";
+      case "org.scala-lang" -> "scala";
+      case "org.springframework" -> "spring";
+      case "org.springframework.boot" -> "spring.boot";
+      case "org.springframework.data" -> "spring.data";
+      case "org.springframework.integration" -> "spring.integration";
+      case "org.springframework.kafka" -> "spring.kafka";
+      case "org.springframework.session" -> "spring.session";
+      case "org.springframework.security" -> "spring.security";
+      case "org.springframework.vault" -> "spring.vault";
+      default -> group.replace("-", "");
+    };
   }
 
   final Path directory;
@@ -54,10 +85,7 @@ class Scanner {
       var line = new Line(string);
       if (line.skip()) continue;
       var scan = line.scan();
-      if (scan.explicit()
-          && (scan.module().startsWith(scan.G())
-              || scan.module().startsWith(scan.G().replace("-", ""))))
-        modules.put(scan.module(), scan.uri());
+      if (filter(scan)) modules.put(scan.module(), scan.uri());
     }
   }
 
@@ -84,7 +112,7 @@ class Scanner {
   }
 
   // https://github.com/sandermak/modulescanner/blob/master/src/main/java/org/adoptopenjdk/modulescanner/SeparatedValuesPrinter.java
-  record Scan(String G, String A, String V, String module, boolean explicit) {
+  record Scan(String G, String G2, String A, String V, String module, boolean explicit) {
 
     String uri() {
       return new StringJoiner("/")
@@ -102,7 +130,14 @@ class Scanner {
         throw new IllegalArgumentException(
             "Expected at least 9 values, only got " + values.length + " in: " + line);
       }
-      return new Scan(values[0], values[1], values[2], values[3], "explicit".equals(values[5]));
+      var G = values[0];
+      var G2 = computeMavenGroupAlias(G);
+      var A = values[1];
+      var V = values[2];
+      var module = values[3];
+      // moduleVersion = values[4];
+      var explicit = "explicit".equals(values[5]);
+      return new Scan(G, G2, A, V, module, explicit);
     }
   }
 }
