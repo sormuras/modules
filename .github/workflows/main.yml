@@ -63,6 +63,19 @@ jobs:
             LICENSE
             .bach/workspace/logbook.md
             .bach/workspace/modules
+      - name: 'Check for modifications'
+        id: diff
+        run: |
+          git status
+          echo ::set-output name=modified::$(if [[ -z $(git status --porcelain) ]]; then echo 'false'; else echo 'true'; fi)
+      - name: 'Commit and push changes'
+        if: steps.diff.outputs.modified == 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit --message 'Update ${{ github.event.repository.name }} to ${{ needs.setup.outputs.version }}'
+          git push
 
   deploy-to-releases:
     needs: [ setup, build ]
