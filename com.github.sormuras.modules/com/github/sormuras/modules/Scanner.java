@@ -34,22 +34,11 @@ class Scanner {
   static String computeMavenGroupAlias(String group) {
     return switch (group) {
       case "com.github.almasb" -> "com.almasb";
-      case "com.google.guava" -> "com.google.common";
-      case "com.google.inject" -> "com.google.guice";
       case "javax.json" -> "java.json";
       case "org.jetbrains.kotlin" -> "kotlin";
       case "org.jfxtras" -> "jfxtras";
       case "org.openjfx" -> "javafx";
       case "org.ow2.asm" -> "org.objectweb.asm";
-      case "org.scala-lang" -> "scala";
-      case "org.springframework" -> "spring";
-      case "org.springframework.boot" -> "spring.boot";
-      case "org.springframework.data" -> "spring.data";
-      case "org.springframework.integration" -> "spring.integration";
-      case "org.springframework.kafka" -> "spring.kafka";
-      case "org.springframework.session" -> "spring.session";
-      case "org.springframework.security" -> "spring.security";
-      case "org.springframework.vault" -> "spring.vault";
       default -> group.replace("-", "");
     };
   }
