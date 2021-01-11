@@ -60,7 +60,6 @@ jobs:
 
   deploy-to-releases:
     needs: [ setup, build ]
-    if: github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
