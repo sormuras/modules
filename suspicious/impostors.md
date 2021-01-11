@@ -46,16 +46,22 @@
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring:1.0.0` // `ch.rasc,wamp2spring,1.0.0,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.1` // `ch.rasc,wamp2spring-reactive,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.2` // `ch.rasc,wamp2spring-reactive,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-reactive:2.0.3` // `ch.rasc,wamp2spring-reactive,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-core:2.0.1` // `ch.rasc,wamp2spring-security-core,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-core:2.0.2` // `ch.rasc,wamp2spring-security-core,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-core:2.0.3` // `ch.rasc,wamp2spring-security-core,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-reactive:2.0.1` // `ch.rasc,wamp2spring-security-reactive,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-reactive:2.0.2` // `ch.rasc,wamp2spring-security-reactive,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-reactive:2.0.3` // `ch.rasc,wamp2spring-security-reactive,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-servlet:2.0.1` // `ch.rasc,wamp2spring-security-servlet,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-servlet:2.0.2` // `ch.rasc,wamp2spring-security-servlet,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-security-servlet:2.0.3` // `ch.rasc,wamp2spring-security-servlet,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-servlet:2.0.1` // `ch.rasc,wamp2spring-servlet,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-servlet:2.0.2` // `ch.rasc,wamp2spring-servlet,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-servlet:2.0.3` // `ch.rasc,wamp2spring-servlet,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-session-servlet:2.0.1` // `ch.rasc,wamp2spring-session-servlet,2.0.1,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-session-servlet:2.0.2` // `ch.rasc,wamp2spring-session-servlet,2.0.2,ch.rasc.wamp2spring,-,automatic,-,false,-`
+- :cd: `ch.rasc.wamp2spring` - `ch.rasc:wamp2spring-session-servlet:2.0.3` // `ch.rasc,wamp2spring-session-servlet,2.0.3,ch.rasc.wamp2spring,-,automatic,-,false,-`
 - :dvd: `co.paralleluniverse.quasar.core` - `com.hiddenswitch:spellsource-net:0.8.20` // `com.hiddenswitch,spellsource-net,0.8.20,co.paralleluniverse.quasar.core,-,explicit,com.google.common + java.base + java.instrument + java.management + jdk.unsupported + kryo,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.0.1` // `com.azure,azure-security-keyvault-keys,4.0.1,com.azure.security.keyvault.keys,4.0.1,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
 - :dvd: `com.azure.security.keyvault.keys` - `com.azure:azure-security-keyvault-keys:4.1.0` // `com.azure,azure-security-keyvault-keys,4.1.0,com.azure.security.keyvault.keys,4.1.0,explicit,com.azure.core + java.base + java.xml.crypto,false,-`
