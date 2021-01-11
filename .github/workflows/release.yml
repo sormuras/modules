@@ -2,22 +2,11 @@ name: Release
 
 on:
   release:
-    types: [ prereleased, released ]
+    types: [ released ]
 
 jobs:
 
-  setup:
-    runs-on: ubuntu-latest
-    outputs:
-      version: ${{ steps.version.outputs.version }}
-    steps:
-      - name: 'Compute version string'
-        id: version
-        run: |
-          echo "::set-output name=version::${{ github.event.release.tag_name }}"
-
-  build:
-    needs: [ setup ]
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: 'Check out repository'
@@ -26,52 +15,18 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 16-ea
-      - name: 'Cache bucket'
-        uses: actions/cache@v2
-        with:
-          path: bucket
-          key: bucket
-      - name: 'Sync bucket'
-        run: |
-          mkdir --parents bucket
-          du --bytes bucket
-          aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --only-show-errors
-          du --bytes bucket
-      - name: 'Scan bucket'
-        run: |
-          java \
-          com.github.sormuras.modules/com/github/sormuras/modules/Scanner.java \
-          bucket \
-          com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Build with Bach'
         uses: sormuras/bach-build@v1
         with:
           bach-version: 17-ea
-          project-version: ${{ needs.setup.outputs.version }}
-      - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'
-        if: always()
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
-          path: |
-            LICENSE
-            .bach/workspace/logbook.md
-            .bach/workspace/modules
-
-  deploy-to-releases:
-    needs: [ setup, build ]
-    runs-on: ubuntu-latest
-    steps:
-      - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
-        uses: actions/download-artifact@v2
-        with:
-          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
-      - name: 'Release ${{ needs.setup.outputs.version }}'
+          project-version: ${{ github.event.release.tag_name }}
+      - name: 'Release ${{ github.event.release.tag_name }}'
         uses: marvinpinto/action-automatic-releases@latest
         with:
-          automatic_release_tag: ${{ needs.setup.outputs.version }}
+          automatic_release_tag: ${{ github.event.release.tag_name }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           prerelease: false
-          title: "Modules ${{ needs.setup.outputs.version }}"
+          title: 'Modules ${{ github.event.release.tag_name }}'
           files: |
             .bach/workspace/modules/*.jar
+            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties

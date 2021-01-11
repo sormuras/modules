@@ -95,3 +95,4 @@ jobs:
           title: "Modules ${{ needs.setup.outputs.version }}"
           files: |
             .bach/workspace/modules/*.jar
+            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
