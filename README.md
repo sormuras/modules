@@ -1,2 +1,3 @@
-# module-names-database
-Store modulescanner reports in a local zip archives
+# sormuras/modules
+
+🧩 Java modules published at Maven Central
