@@ -82,7 +82,7 @@ jobs:
 
   deploy-to-releases:
     needs: [ setup, build ]
-    if: ${{ needs.build.outputs.modified }} == 'true' && github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
+    if: github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
@@ -90,6 +90,7 @@ jobs:
         with:
           name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
       - name: 'Release ${{ needs.setup.outputs.tag }}'
+        if: needs.build.outputs.modified == 'true'
         uses: marvinpinto/action-automatic-releases@latest
         with:
           automatic_release_tag: ${{ needs.setup.outputs.tag }}
