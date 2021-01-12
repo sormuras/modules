@@ -31,8 +31,6 @@ jobs:
   build:
     needs: [ setup ]
     runs-on: ubuntu-latest
-    outputs:
-      modified: ${{ steps.diff.outputs.modified }}
     steps:
       - name: 'Check out repository'
         uses: actions/checkout@v2
@@ -82,30 +80,20 @@ jobs:
             .bach/workspace/modules
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Check for modifications'
-        id: diff
+        id: git-status
         run: |
           git status
           echo ::set-output name=modified::$(if [[ -z $(git status --porcelain) ]]; then echo 'false'; else echo 'true'; fi)
       - name: 'Commit and push changes'
-        if: steps.diff.outputs.modified == 'true'
+        if: steps.git-status.outputs.modified == 'true'
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
           git commit --message 'Update ${{ github.event.repository.name }} to ${{ needs.setup.outputs.version }}'
           git push
-
-  deploy-to-releases:
-    needs: [ setup, build ]
-    if: github.repository == 'sormuras/modules' && github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
-    steps:
-      - name: 'Download build artifact ${{ needs.setup.outputs.version }}'
-        uses: actions/download-artifact@v2
-        with:
-          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
       - name: 'Release ${{ needs.setup.outputs.tag }}'
-        if: needs.build.outputs.modified == 'true'
+        if: steps.git-status.outputs.modified == 'true'
         uses: marvinpinto/action-automatic-releases@latest
         with:
           automatic_release_tag: ${{ needs.setup.outputs.tag }}
@@ -113,5 +101,6 @@ jobs:
           prerelease: true
           title: "Modules ${{ needs.setup.outputs.version }}"
           files: |
+            .bach/workspace/logbook.md
             .bach/workspace/modules/*.jar
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
