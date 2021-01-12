@@ -40,6 +40,12 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 16-ea
+      - name: 'Get bucket size'
+        run: |
+          JSON=$(aws s3api list-objects-v2 --bucket java9plusadoption --region us-east-1 --no-sign-request --query "[length(Contents[])]" --output json)
+          echo JSON = ${JSON}
+          SIZE=$(echo ${JSON} | jq '.')
+          echo size = ${SIZE}
       - name: 'Cache bucket'
         uses: actions/cache@v2
         with:
