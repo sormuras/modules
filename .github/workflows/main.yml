@@ -8,6 +8,8 @@ jobs:
   setup:
     runs-on: ubuntu-latest
     outputs:
+      date: ${{ steps.version.outputs.date }}
+      datetime: ${{ steps.version.outputs.datetime }}
       sha: ${{ steps.version.outputs.sha }}
       tag: ${{ steps.version.outputs.tag }}
       version: ${{ steps.version.outputs.version }}
@@ -15,6 +17,10 @@ jobs:
       - name: 'Compute version string'
         id: version
         run: |
+          DATE=$(date -u '+%Y.%m.%d')
+          DATETIME=$(date -u '+%Y.%m.%d.%H.%M.%S')
+          echo "::set-output name=date::${DATE}"
+          echo "::set-output name=datetime::${DATETIME}"
           SHA=$(echo "${{ github.sha }}" | cut -c1-7)
           TAG=0-ea
           VERSION=${TAG}+${SHA}
