@@ -38,7 +38,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: bucket
-          key: bucket
+          key: bucket-${{ hashFiles('bucket/*.csv') }}
+          restore-keys: bucket
       - name: 'Sync bucket'
         run: |
           mkdir --parents bucket
