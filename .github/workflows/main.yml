@@ -41,18 +41,20 @@ jobs:
         with:
           java-version: 16-ea
       - name: 'Get bucket size'
+        id: bucket
         run: |
-          JSON=$(aws s3api list-objects-v2 --bucket java9plusadoption --region us-east-1 --no-sign-request --query "[length(Contents[])]" --output json)
-          echo JSON = ${JSON}
-          SIZE=$(echo ${JSON} | jq '.')
-          echo size = ${SIZE}
+          SIZE=$(aws s3api list-objects-v2 --bucket java9plusadoption --region us-east-1 --no-sign-request --query "[length(Contents[])]" --output json | jq '.[]')
+          echo SIZE = ${SIZE}
+          echo ::set-output name=size::$(echo ${SIZE})
       - name: 'Cache bucket'
+        id: cache-bucket
         uses: actions/cache@v2
         with:
           path: bucket
-          key: bucket-${{ hashFiles('bucket/*.csv') }}
+          key: bucket-${{ steps.bucket.outputs.size }}
           restore-keys: bucket-
       - name: 'Sync bucket'
+        if: steps.cache-bucket.outputs.cache-hit != 'true'
         run: |
           mkdir --parents bucket
           du --bytes bucket
