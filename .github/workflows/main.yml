@@ -39,7 +39,7 @@ jobs:
         with:
           path: bucket
           key: bucket-${{ hashFiles('bucket/*.csv') }}
-          restore-keys: bucket
+          restore-keys: bucket-
       - name: 'Sync bucket'
         run: |
           mkdir --parents bucket
