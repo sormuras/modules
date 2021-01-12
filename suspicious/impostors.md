@@ -1309,6 +1309,7 @@
 - :cd: `com.helger.http` - `com.helger.web:ph-http:9.4.0` // `com.helger.web,ph-http,9.4.0,com.helger.http,-,automatic,-,false,-`
 - :cd: `com.helger.http` - `com.helger.web:ph-http:9.5.0` // `com.helger.web,ph-http,9.5.0,com.helger.http,-,automatic,-,false,-`
 - :cd: `com.helger.http` - `com.helger.web:ph-http:9.5.1` // `com.helger.web,ph-http,9.5.1,com.helger.http,-,automatic,-,false,-`
+- :cd: `com.helger.http` - `com.helger.web:ph-http:9.5.2` // `com.helger.web,ph-http,9.5.2,com.helger.http,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.0` // `com.helger.web,ph-httpclient,9.3.0,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.1` // `com.helger.web,ph-httpclient,9.3.1,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.3.2` // `com.helger.web,ph-httpclient,9.3.2,com.helger.httpclient,-,automatic,-,false,-`
@@ -1317,6 +1318,7 @@
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.4.0` // `com.helger.web,ph-httpclient,9.4.0,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.5.0` // `com.helger.web,ph-httpclient,9.5.0,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.5.1` // `com.helger.web,ph-httpclient,9.5.1,com.helger.httpclient,-,automatic,-,false,-`
+- :cd: `com.helger.httpclient` - `com.helger.web:ph-httpclient:9.5.2` // `com.helger.web,ph-httpclient,9.5.2,com.helger.httpclient,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.0` // `com.helger.web,ph-jsch,9.3.0,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.1` // `com.helger.web,ph-jsch,9.3.1,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.3.2` // `com.helger.web,ph-jsch,9.3.2,com.helger.jsch,-,automatic,-,false,-`
@@ -1325,6 +1327,7 @@
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.4.0` // `com.helger.web,ph-jsch,9.4.0,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.5.0` // `com.helger.web,ph-jsch,9.5.0,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.5.1` // `com.helger.web,ph-jsch,9.5.1,com.helger.jsch,-,automatic,-,false,-`
+- :cd: `com.helger.jsch` - `com.helger.web:ph-jsch:9.5.2` // `com.helger.web,ph-jsch,9.5.2,com.helger.jsch,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.0` // `com.helger.web,ph-mail,9.3.0,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.1` // `com.helger.web,ph-mail,9.3.1,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.3.2` // `com.helger.web,ph-mail,9.3.2,com.helger.mail,-,automatic,-,false,-`
@@ -1333,6 +1336,7 @@
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.4.0` // `com.helger.web,ph-mail,9.4.0,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.5.0` // `com.helger.web,ph-mail,9.5.0,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.5.1` // `com.helger.web,ph-mail,9.5.1,com.helger.mail,-,automatic,-,false,-`
+- :cd: `com.helger.mail` - `com.helger.web:ph-mail:9.5.2` // `com.helger.web,ph-mail,9.5.2,com.helger.mail,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.0` // `com.helger.web,ph-network,9.3.0,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.1` // `com.helger.web,ph-network,9.3.1,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.3.2` // `com.helger.web,ph-network,9.3.2,com.helger.network,-,automatic,-,false,-`
@@ -1341,6 +1345,7 @@
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.4.0` // `com.helger.web,ph-network,9.4.0,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.5.0` // `com.helger.web,ph-network,9.5.0,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.network` - `com.helger.web:ph-network:9.5.1` // `com.helger.web,ph-network,9.5.1,com.helger.network,-,automatic,-,false,-`
+- :cd: `com.helger.network` - `com.helger.web:ph-network:9.5.2` // `com.helger.web,ph-network,9.5.2,com.helger.network,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.0` // `com.helger,phoss-directory-businesscard,0.8.0,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.1` // `com.helger,phoss-directory-businesscard,0.8.1,com.helger.pd.businesscard,-,automatic,-,false,-`
 - :cd: `com.helger.pd.businesscard` - `com.helger:phoss-directory-businesscard:0.8.2` // `com.helger,phoss-directory-businesscard,0.8.2,com.helger.pd.businesscard,-,automatic,-,false,-`
@@ -1748,6 +1753,7 @@
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.4.0` // `com.helger.web,ph-servlet,9.4.0,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.5.0` // `com.helger.web,ph-servlet,9.5.0,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.5.1` // `com.helger.web,ph-servlet,9.5.1,com.helger.servlet,-,automatic,-,false,-`
+- :cd: `com.helger.servlet` - `com.helger.web:ph-servlet:9.5.2` // `com.helger.web,ph-servlet,9.5.2,com.helger.servlet,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.0` // `com.helger.web,ph-sitemap,9.3.0,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.1` // `com.helger.web,ph-sitemap,9.3.1,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.3.2` // `com.helger.web,ph-sitemap,9.3.2,com.helger.sitemap,-,automatic,-,false,-`
@@ -1756,6 +1762,7 @@
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.4.0` // `com.helger.web,ph-sitemap,9.4.0,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.5.0` // `com.helger.web,ph-sitemap,9.5.0,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.5.1` // `com.helger.web,ph-sitemap,9.5.1,com.helger.sitemap,-,automatic,-,false,-`
+- :cd: `com.helger.sitemap` - `com.helger.web:ph-sitemap:9.5.2` // `com.helger.web,ph-sitemap,9.5.2,com.helger.sitemap,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.0` // `com.helger.peppol,peppol-smp-client,8.1.0,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.1` // `com.helger.peppol,peppol-smp-client,8.1.1,com.helger.smpclient,-,automatic,-,false,-`
 - :cd: `com.helger.smpclient` - `com.helger.peppol:peppol-smp-client:8.1.2` // `com.helger.peppol,peppol-smp-client,8.1.2,com.helger.smpclient,-,automatic,-,false,-`
@@ -1782,6 +1789,7 @@
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.4.0` // `com.helger.web,ph-smtp,9.4.0,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.5.0` // `com.helger.web,ph-smtp,9.5.0,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.5.1` // `com.helger.web,ph-smtp,9.5.1,com.helger.smtp,-,automatic,-,false,-`
+- :cd: `com.helger.smtp` - `com.helger.web:ph-smtp:9.5.2` // `com.helger.web,ph-smtp,9.5.2,com.helger.smtp,-,automatic,-,false,-`
 - :cd: `com.helger.ubl.api` - `com.helger.ubl:ph-ubl-api:6.3.0` // `com.helger.ubl,ph-ubl-api,6.3.0,com.helger.ubl.api,-,automatic,-,false,-`
 - :cd: `com.helger.ubl.api` - `com.helger.ubl:ph-ubl-api:6.4.0` // `com.helger.ubl,ph-ubl-api,6.4.0,com.helger.ubl.api,-,automatic,-,false,-`
 - :cd: `com.helger.ubl.api` - `com.helger.ubl:ph-ubl-api:6.4.1` // `com.helger.ubl,ph-ubl-api,6.4.1,com.helger.ubl.api,-,automatic,-,false,-`
@@ -1838,6 +1846,7 @@
 - :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.4.0` // `com.helger.web,ph-useragent,9.4.0,com.helger.useragent,-,automatic,-,false,-`
 - :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.5.0` // `com.helger.web,ph-useragent,9.5.0,com.helger.useragent,-,automatic,-,false,-`
 - :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.5.1` // `com.helger.web,ph-useragent,9.5.1,com.helger.useragent,-,automatic,-,false,-`
+- :cd: `com.helger.useragent` - `com.helger.web:ph-useragent:9.5.2` // `com.helger.web,ph-useragent,9.5.2,com.helger.useragent,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.0` // `com.helger.web,ph-web,9.3.0,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.1` // `com.helger.web,ph-web,9.3.1,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.3.2` // `com.helger.web,ph-web,9.3.2,com.helger.web,-,automatic,-,false,-`
@@ -1846,6 +1855,7 @@
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.4.0` // `com.helger.web,ph-web,9.4.0,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.5.0` // `com.helger.web,ph-web,9.5.0,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.web` - `com.helger.web:ph-web:9.5.1` // `com.helger.web,ph-web,9.5.1,com.helger.web,-,automatic,-,false,-`
+- :cd: `com.helger.web` - `com.helger.web:ph-web:9.5.2` // `com.helger.web,ph-web,9.5.2,com.helger.web,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.3.0` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.3.0,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.4.0` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.4.0,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
 - :cd: `com.helger.xsds.bdxr.smp1` - `com.helger.xsd:ph-xsds-bdxr-smp1:2.4.1` // `com.helger.xsd,ph-xsds-bdxr-smp1,2.4.1,com.helger.xsds.bdxr.smp1,-,automatic,-,false,-`
@@ -1890,6 +1900,7 @@
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.4.0` // `com.helger.web,ph-xservlet,9.4.0,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.5.0` // `com.helger.web,ph-xservlet,9.5.0,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.5.1` // `com.helger.web,ph-xservlet,9.5.1,com.helger.xservlet,-,automatic,-,false,-`
+- :cd: `com.helger.xservlet` - `com.helger.web:ph-xservlet:9.5.2` // `com.helger.web,ph-xservlet,9.5.2,com.helger.xservlet,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0-rc1` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0-rc1,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
 - :cd: `com.holonplatform.jaxrs.swagger` - `com.holon-platform.jaxrs:holon-jaxrs-swagger-core:5.2.0-rc2` // `com.holon-platform.jaxrs,holon-jaxrs-swagger-core,5.2.0-rc2,com.holonplatform.jaxrs.swagger,-,automatic,-,false,-`
@@ -3810,6 +3821,7 @@
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.2.1` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.2.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.2.2` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.2.2,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.3` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
+- :dvd: `com.zaxxer.hikari` - `com.aliyun.schedulerx:schedulerx2-worker:1.2.3.1` // `com.aliyun.schedulerx,schedulerx2-worker,1.2.3.1,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix:0.40.2` // `org.kill-bill.billing,killbill-platform-osgi-bundles-test-beatrix,0.40.2,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix:0.40.3` // `org.kill-bill.billing,killbill-platform-osgi-bundles-test-beatrix,0.40.3,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
 - :dvd: `com.zaxxer.hikari` - `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix:0.40.4` // `org.kill-bill.billing,killbill-platform-osgi-bundles-test-beatrix,0.40.4,com.zaxxer.hikari,-,explicit,hibernate.core + java.base + java.management + java.naming + java.sql + javassist + metrics.core + metrics.healthchecks + micrometer.core + simpleclient + slf4j.api,false,-`
@@ -6295,6 +6307,7 @@
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.2.1` // `io.micronaut.test,micronaut-test-core,2.2.1,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.3.0` // `io.micronaut.test,micronaut-test-core,2.3.0,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.3.1` // `io.micronaut.test,micronaut-test-core,2.3.1,io.micronaut.test.test_core,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_core` - `io.micronaut.test:micronaut-test-core:2.3.2` // `io.micronaut.test,micronaut-test-core,2.3.2,io.micronaut.test.test_core,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0` // `io.micronaut.test,micronaut-test-junit5,1.0.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC1` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:1.0.0.RC2` // `io.micronaut.test,micronaut-test-junit5,1.0.0.RC2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
@@ -6326,6 +6339,7 @@
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.2.1` // `io.micronaut.test,micronaut-test-junit5,2.2.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.3.0` // `io.micronaut.test,micronaut-test-junit5,2.3.0,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.3.1` // `io.micronaut.test,micronaut-test-junit5,2.3.1,io.micronaut.test.test_junit5,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_junit5` - `io.micronaut.test:micronaut-test-junit5:2.3.2` // `io.micronaut.test,micronaut-test-junit5,2.3.2,io.micronaut.test.test_junit5,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0` // `io.micronaut.test,micronaut-test-spock,1.0.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC1` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:1.0.0.RC2` // `io.micronaut.test,micronaut-test-spock,1.0.0.RC2,io.micronaut.test.test_spock,-,automatic,-,false,-`
@@ -6357,6 +6371,7 @@
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.2.1` // `io.micronaut.test,micronaut-test-spock,2.2.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.3.0` // `io.micronaut.test,micronaut-test-spock,2.3.0,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.3.1` // `io.micronaut.test,micronaut-test-spock,2.3.1,io.micronaut.test.test_spock,-,automatic,-,false,-`
+- :cd: `io.micronaut.test.test_spock` - `io.micronaut.test:micronaut-test-spock:2.3.2` // `io.micronaut.test,micronaut-test-spock,2.3.2,io.micronaut.test.test_spock,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0` // `io.micronaut,micronaut-tracing,1.0.0,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.0.RC3` // `io.micronaut,micronaut-tracing,1.0.0.RC3,io.micronaut.tracing,-,automatic,-,false,-`
 - :cd: `io.micronaut.tracing` - `io.micronaut:micronaut-tracing:1.0.1` // `io.micronaut,micronaut-tracing,1.0.1,io.micronaut.tracing,-,automatic,-,false,-`
@@ -7755,6 +7770,7 @@
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.3.9.RELEASE` // `io.projectreactor,reactor-tools,3.3.9.RELEASE,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.4.0` // `io.projectreactor,reactor-tools,3.4.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.4.1` // `io.projectreactor,reactor-tools,3.4.1,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
+- :dvd: `net.bytebuddy.agent` - `io.projectreactor:reactor-tools:3.4.2` // `io.projectreactor,reactor-tools,3.4.2,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :dvd: `net.bytebuddy.agent` - `software.amazon.disco:disco-java-agent-inject-api:0.10.0` // `software.amazon.disco,disco-java-agent-inject-api,0.10.0,net.bytebuddy.agent,-,explicit,com.sun.jna + com.sun.jna.platform + java.base + java.instrument + jdk.attach,false,-`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.2-corda` // `net.corda,corda-tools-explorer,3.2-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
 - :cd: `net.corda.capsule` - `net.corda:corda-tools-explorer:3.3-corda` // `net.corda,corda-tools-explorer,3.3-corda,net.corda.capsule,-,automatic,-,false,sun.misc.VMSupport                       Removed. See http://openjdk.java.net/jeps/260`
@@ -9787,6 +9803,7 @@
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.3.1` // `org.flywaydb.enterprise,flyway-core,7.3.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.3.2` // `org.flywaydb.enterprise,flyway-core,7.3.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.4.0` // `org.flywaydb.enterprise,flyway-core,7.4.0,org.flywaydb.core,-,automatic,-,false,-`
+- :cd: `org.flywaydb.core` - `org.flywaydb.enterprise:flyway-core:7.5.0` // `org.flywaydb.enterprise,flyway-core,7.5.0,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.1` // `org.flywaydb.pro,flyway-core,6.4.1,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.2` // `org.flywaydb.pro,flyway-core,6.4.2,org.flywaydb.core,-,automatic,-,false,-`
 - :cd: `org.flywaydb.core` - `org.flywaydb.pro:flyway-core:6.4.3` // `org.flywaydb.pro,flyway-core,6.4.3,org.flywaydb.core,-,automatic,-,false,-`
@@ -10743,6 +10760,7 @@
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.0-rc01` // `org.neo4j,neo4j-front-end-4.0,4.0.0-rc01,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.1` // `org.neo4j,neo4j-front-end-4.0,4.0.1,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.10` // `org.neo4j,neo4j-front-end-4.0,4.0.10,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
+- :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.11` // `org.neo4j,neo4j-front-end-4.0,4.0.11,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.2` // `org.neo4j,neo4j-front-end-4.0,4.0.2,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.3` // `org.neo4j,neo4j-front-end-4.0,4.0.3,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
 - :cd: `org.neo4j.cypher.internal.frontend.v3_5` - `org.neo4j:neo4j-front-end-4.0:4.0.4` // `org.neo4j,neo4j-front-end-4.0,4.0.4,org.neo4j.cypher.internal.frontend.v3_5,-,automatic,-,false,-`
@@ -11082,6 +11100,7 @@
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.5.0` // `com.bmuschko,gradle-docker-plugin,6.5.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.6.0` // `com.bmuschko,gradle-docker-plugin,6.6.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.6.1` // `com.bmuschko,gradle-docker-plugin,6.6.1,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
+- :dvd: `org.objectweb.asm` - `com.bmuschko:gradle-docker-plugin:6.7.0` // `com.bmuschko,gradle-docker-plugin,6.7.0,org.objectweb.asm,7.3.1,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.codeborne:jvm2dts:1.1.1` // `com.codeborne,jvm2dts,1.1.1,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.codeborne:jvm2dts:1.1.2` // `com.codeborne,jvm2dts,1.1.2,org.objectweb.asm,9.0.0,explicit,java.base,false,-`
 - :dvd: `org.objectweb.asm` - `com.datastax.junitpytest:pytest-gradle-plugin:0.1` // `com.datastax.junitpytest,pytest-gradle-plugin,0.1,org.objectweb.asm,8.0.1,explicit,java.base,false,-`
@@ -11587,6 +11606,7 @@
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.150` // `com.rookout,rook,0.1.150,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.151` // `com.rookout,rook,0.1.151,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.152` // `com.rookout,rook,0.1.152,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
+- :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.153` // `com.rookout,rook,0.1.153,org.objectweb.asm.util,7.1.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.65` // `com.rookout,rook,0.1.65,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.66` // `com.rookout,rook,0.1.66,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
 - :dvd: `org.objectweb.asm.util` - `com.rookout:rook:0.1.67` // `com.rookout,rook,0.1.67,org.objectweb.asm.util,7.0.0,explicit,java.base + org.objectweb.asm + org.objectweb.asm.tree + org.objectweb.asm.tree.analysis,false,-`
