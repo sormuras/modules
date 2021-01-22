@@ -16,7 +16,7 @@ public class Custom extends Bach {
   public void buildMainSpace() throws Exception {
     var module = "com.github.sormuras.modules";
     var moduleVersion = project().version();
-    var javaRelease = 16;
+    var javaRelease = 11;
     var destination = base().workspace("classes", "main", "" + javaRelease);
     var modules = base().workspace("modules");
 
