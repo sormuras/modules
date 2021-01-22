@@ -1,7 +1,12 @@
 name: CI
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule: [ '2 3 * * *' ] # ... every day at 03:02
+  workflow_dispatch: # trigger workflow run manually
 
 jobs:
 
@@ -64,6 +69,9 @@ jobs:
           com.github.sormuras.modules/com/github/sormuras/modules/Scanner.java \
           bucket \
           com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+      - name: 'Count modules'
+        id: count-modules
+        run: echo ::set-output name=size::$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)
       - name: 'Build with Bach'
         uses: sormuras/bach-build@v1
         with:
@@ -90,7 +98,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit --message 'Update to ${{ needs.setup.outputs.datetime }}'
+          git commit --message 'Update for ${{ needs.setup.outputs.datetime }}'
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
         if: steps.git-status.outputs.modified == 'true'
@@ -99,7 +107,7 @@ jobs:
           automatic_release_tag: ${{ needs.setup.outputs.tag }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           prerelease: true
-          title: "Modules ${{ needs.setup.outputs.version }}"
+          title: "${{ steps.count-modules.outputs.size }} modules ${{ needs.setup.outputs.version }}"
           files: |
             .bach/workspace/logbook.md
             .bach/workspace/modules/*.jar
