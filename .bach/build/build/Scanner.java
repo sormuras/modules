@@ -1,4 +1,4 @@
-package com.github.sormuras.modules;
+package build;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

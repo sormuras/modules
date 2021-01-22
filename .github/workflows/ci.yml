@@ -66,7 +66,7 @@ jobs:
       - name: 'Scan bucket'
         run: |
           java \
-          com.github.sormuras.modules/com/github/sormuras/modules/Scanner.java \
+          .bach/build/build/Scanner.java \
           bucket \
           com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Count modules'
