@@ -15,18 +15,21 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 16-ea
+      - name: 'Count modules'
+        id: count-modules
+        run: echo ::set-output name=size::$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)
       - name: 'Build with Bach'
         uses: sormuras/bach-build@v1
         with:
           bach-version: 17-ea
           project-version: ${{ github.event.release.tag_name }}
-      - name: 'Release ${{ github.event.release.tag_name }}'
+      - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
         uses: marvinpinto/action-automatic-releases@latest
         with:
           automatic_release_tag: ${{ github.event.release.tag_name }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           prerelease: false
-          title: 'Modules ${{ github.event.release.tag_name }}'
+          title: '${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
           files: |
             .bach/workspace/modules/*.jar
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
