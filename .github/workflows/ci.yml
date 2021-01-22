@@ -90,7 +90,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit --message 'Update ${{ github.event.repository.name }} to ${{ needs.setup.outputs.version }}'
+          git commit --message 'Update to ${{ needs.setup.outputs.datetime }}'
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
         if: steps.git-status.outputs.modified == 'true'
