@@ -4,6 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.HashSet;
 import java.util.StringJoiner;
 import java.util.TreeMap;
 
@@ -15,7 +16,8 @@ class Scanner {
       return;
     }
     var scanner = new Scanner(args[0]).scan();
-    System.out.printf("Collected %d modules.%n", scanner.modules.size());
+    System.out.printf("Found %d distinct explicit module names.%n", scanner.explicits.size());
+    System.out.printf("Collected unique %d modules.%n", scanner.modules.size());
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.modules.forEach((module, uri) -> lines.add(module + '=' + uri));
@@ -23,13 +25,27 @@ class Scanner {
       var parent = file.getParent();
       if (parent != null) Files.createDirectories(parent);
       Files.write(file, lines);
-      System.out.printf("Wrote module-uri pairs to %s%n", file.toUri());
+      System.out.printf("Wrote unique module-uri pairs to %s%n", file.toUri());
+      lines.clear();
+      lines.add("# Modules");
+      for (var entry : scanner.explicits.entrySet()) {
+        var module = entry.getKey();
+        var scans = entry.getValue();
+        lines.add("");
+        lines.add("## " + module);
+        lines.add("");
+        lines.add("Unique URI: <" + scanner.modules.getOrDefault(module, "n.a.") + ">");
+        lines.add("");
+        var strings = new ArrayList<String>();
+        for (var scan : scans) strings.add("- " + scan.GA + ":" + scan.V);
+        strings.stream().sorted().forEach(lines::add);
+      }
+      Files.write(file.resolveSibling("modules.md"), lines);
     }
   }
 
   @SuppressWarnings("RedundantIfStatement")
-  static boolean filter(Scan scan) {
-    if (!scan.explicit()) return false;
+  static boolean unique(Scan scan) {
     if (scan.module().startsWith(scan.G())) return true;
     if (scan.module().startsWith(scan.G2())) return true;
     return false;
@@ -48,10 +64,14 @@ class Scanner {
   }
 
   final Path directory;
-  final TreeMap<String, String> modules;
+  final HashSet<Scan> scans;
+  final TreeMap<String, ArrayList<Scan>> explicits; // "module" -> [Scan...]
+  final TreeMap<String, String> modules; // "module" -> "uri"
 
   Scanner(String directory) {
     this.directory = Path.of(directory);
+    this.scans = new HashSet<>();
+    this.explicits = new TreeMap<>();
     this.modules = new TreeMap<>();
   }
 
@@ -71,7 +91,12 @@ class Scanner {
       var line = new Line(string);
       if (line.skip()) continue;
       var scan = line.scan();
-      if (filter(scan)) modules.put(scan.module(), scan.uri());
+      if (scans.add(scan)) {
+        if (scan.explicit) {
+          explicits.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
+          if (unique(scan)) modules.put(scan.module(), scan.uri());
+        }
+      }
     }
   }
 
