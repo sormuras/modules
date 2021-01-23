@@ -15,7 +15,7 @@ class Scanner {
       return;
     }
     var scanner = new Scanner(args[0]).scan();
-    System.out.printf("Tree contains %d entries.%n", scanner.modules().size());
+    System.out.printf("%nTree contains %d entries.%n", scanner.modules.size());
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.modules.forEach((module, uri) -> lines.add(module + '=' + uri));
@@ -51,21 +51,14 @@ class Scanner {
     this.modules = new TreeMap<>();
   }
 
-  public TreeMap<String, String> modules() {
-    return modules;
-  }
-
   Scanner scan() throws Exception {
-    System.out.println(directory);
     var files = new ArrayList<Path>();
     try (var stream = Files.newDirectoryStream(directory, "*.csv")) {
       stream.forEach(files::add);
     }
     files.sort(Comparator.comparing(Path::getFileName));
-    System.out.println("Scan " + files.size() + " files");
+    System.out.println("Scan " + files.size() + " files in " + directory);
     for (var file : files) scanFile(file);
-    System.out.println("Scanned " + files.size() + " files");
-    System.out.println("Listed " + modules.size() + " modules");
     return this;
   }
 
