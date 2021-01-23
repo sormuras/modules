@@ -53,6 +53,7 @@ class Scanner {
 
   static String computeMavenGroupAlias(String group) {
     return switch (group) {
+      case "com.fasterxml.jackson.core" -> "com.fasterxml.jackson";
       case "com.github.almasb" -> "com.almasb";
       case "javax.json" -> "java.json";
       case "org.jetbrains.kotlin" -> "kotlin";
