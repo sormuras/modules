@@ -15,11 +15,15 @@ class Scanner {
       return;
     }
     var scanner = new Scanner(args[0]).scan();
-    System.out.printf("%nTree contains %d entries.%n", scanner.modules.size());
+    System.out.printf("Collected %d modules.%n", scanner.modules.size());
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.modules.forEach((module, uri) -> lines.add(module + '=' + uri));
-      Files.write(Path.of(args[1]), lines);
+      var file = Path.of(args[1]);
+      var parent = file.getParent();
+      if (parent != null) Files.createDirectories(parent);
+      Files.write(file, lines);
+      System.out.printf("Wrote module-uri pairs to %s%n", file.toUri());
     }
   }
 
@@ -57,7 +61,7 @@ class Scanner {
       stream.forEach(files::add);
     }
     files.sort(Comparator.comparing(Path::getFileName));
-    System.out.println("Scan " + files.size() + " files in " + directory);
+    System.out.printf("Scanning %d files in %s...%n", files.size(), directory);
     for (var file : files) scanFile(file);
     return this;
   }
