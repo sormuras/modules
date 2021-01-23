@@ -94,7 +94,7 @@ class Scanner {
   }
 
   // https://github.com/sandermak/modulescanner/blob/master/src/main/java/org/adoptopenjdk/modulescanner/SeparatedValuesPrinter.java
-  record Scan(String G, String G2, String A, String V, String module, boolean explicit) {
+  record Scan(String G, String G2, String A, String GA, String V, String module, boolean explicit) {
 
     String uri() {
       return new StringJoiner("/")
@@ -115,11 +115,12 @@ class Scanner {
       var G = values[0];
       var G2 = computeMavenGroupAlias(G);
       var A = values[1];
+      var GA = G + ':' + A;
       var V = values[2];
       var module = values[3];
       // moduleVersion = values[4];
       var explicit = "explicit".equals(values[5]);
-      return new Scan(G, G2, A, V, module, explicit);
+      return new Scan(G, G2, A, GA, V, module, explicit);
     }
   }
 }
