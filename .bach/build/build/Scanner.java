@@ -40,7 +40,7 @@ class Scanner {
         for (var scan : scans) strings.add("- " + scan.GA + ":" + scan.V);
         strings.stream().sorted().forEach(lines::add);
       }
-      Files.write(file.resolveSibling("modules.md"), lines);
+      Files.write(Path.of("modules.md"), lines);
     }
   }
 
