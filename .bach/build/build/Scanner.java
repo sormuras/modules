@@ -61,6 +61,7 @@ class Scanner {
       case "com.fasterxml.jackson.core" -> "com.fasterxml.jackson";
       case "com.github.almasb" -> "com.almasb";
       case "javax.json" -> "java.json";
+      case "net.colesico.framework" -> "colesico.framework";
       case "org.jetbrains.kotlin" -> "kotlin";
       case "org.jfxtras" -> "jfxtras";
       case "org.openjfx" -> "javafx";
