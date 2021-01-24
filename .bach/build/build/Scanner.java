@@ -66,6 +66,7 @@ class Scanner {
       case "org.openjfx" -> "javafx";
       case "org.ow2.asm" -> "org.objectweb.asm";
       case "org.projectlombok" -> "lombok";
+      case "org.swimos" -> "swim";
       default -> group.replace("-", "");
     };
   }
