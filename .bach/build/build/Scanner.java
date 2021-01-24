@@ -22,8 +22,19 @@ class Scanner {
       return;
     }
     var scanner = new Scanner(args[0]).scan();
-    System.out.printf("Found %d distinct explicit module names.%n", scanner.modules.size());
-    System.out.printf("Collected unique %d modules.%n", scanner.uniques.size());
+    out("%,11d lines%n", scanner.lines);
+    out("%,11d distinct scan lines%n", scanner.scans.size());
+    out("%,11d artifacts%n", scanner.facts.size());
+    var values = scanner.facts.values();
+    out("%,11d JAR files are plain%n", values.stream().filter(Scan::isPlain).count());
+    out(
+        "%,11d JAR files with Automatic-Module-Name%n",
+        values.stream().filter(Scan::isAutomatic).count());
+    out(
+        "%,11d JAR files with module-info.class%n",
+        values.stream().filter(Scan::isExplicit).count());
+    out("%,11d distinct modules%n", scanner.modules.size());
+    out("%,11d unique modules%n", scanner.uniques.size());
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.uniques.forEach((module, uri) -> lines.add(module + '=' + uri));
@@ -31,7 +42,7 @@ class Scanner {
       var parent = file.getParent();
       if (parent != null) Files.createDirectories(parent);
       Files.write(file, lines);
-      System.out.printf("Wrote unique module-uri pairs to %s%n", file.toUri());
+      out("Wrote unique module-uri pairs to %s%n", file.toUri());
       lines.clear();
       lines.add("# Modules");
       for (var entry : scanner.modules.entrySet()) {
@@ -56,6 +67,10 @@ class Scanner {
     }
   }
 
+  static void out(String format, Object... args) {
+    System.out.printf(format, args);
+  }
+
   static String computeMavenGroupAlias(String group) {
     return switch (group) {
       case "com.fasterxml.jackson.core" -> "com.fasterxml.jackson";
@@ -73,13 +88,16 @@ class Scanner {
   }
 
   final Path directory;
-  final HashSet<Scan> scans;
+  long lines;
+  final HashSet<Scan> scans; // distinct scan lines
+  final TreeMap<String, Scan> facts; // "G:A[:C]" -> Scan
   final TreeMap<String, ArrayList<Scan>> modules; // "module" -> [Scan...]
   final TreeMap<String, String> uniques; // "module" -> "uri"
 
   Scanner(String directory) {
     this.directory = Path.of(directory);
     this.scans = new HashSet<>();
+    this.facts = new TreeMap<>();
     this.modules = new TreeMap<>();
     this.uniques = new TreeMap<>();
   }
@@ -90,18 +108,20 @@ class Scanner {
       stream.forEach(files::add);
     }
     files.sort(Comparator.comparing(Path::getFileName));
-    System.out.printf("Scanning %d files in %s...%n", files.size(), directory);
+    out("Scanning %d files in %s...%n", files.size(), directory);
     for (var file : files) scanFile(file);
     return this;
   }
 
   void scanFile(Path file) throws Exception {
     for (var string : Files.readAllLines(file)) {
+      lines++;
       var line = new Line(string);
       if (line.skip()) continue;
       var scan = line.scan();
       if (scans.add(scan)) {
-        if (scan.explicit) {
+        facts.put(scan.GA, scan);
+        if (scan.isExplicit()) {
           modules.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
           if (scan.isUnique()) uniques.put(scan.module(), scan.toUri());
         }
@@ -132,7 +152,19 @@ class Scanner {
   }
 
   // https://github.com/sandermak/modulescanner/blob/master/src/main/java/org/adoptopenjdk/modulescanner/SeparatedValuesPrinter.java
-  record Scan(String G, String G2, String A, String GA, String V, String module, boolean explicit) {
+  record Scan(String G, String G2, String A, String GA, String V, String module, String kind) {
+
+    boolean isAutomatic() {
+      return kind.equals("automatic");
+    }
+
+    boolean isExplicit() {
+      return kind.equals("explicit");
+    }
+
+    boolean isPlain() {
+      return !(isAutomatic() || isExplicit());
+    }
 
     boolean isUnique() {
       return module.startsWith(G) || module.startsWith(G2);
@@ -161,8 +193,8 @@ class Scanner {
       var V = values[2];
       var module = values[3];
       // moduleVersion = values[4];
-      var explicit = "explicit".equals(values[5]);
-      return new Scan(G, G2, A, GA, V, module, explicit);
+      var moduleKind = values[5]; // "explicit", "automatic", <?>
+      return new Scan(G, G2, A, GA, V, module, moduleKind);
     }
   }
 }
