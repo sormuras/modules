@@ -56,13 +56,6 @@ class Scanner {
     }
   }
 
-  @SuppressWarnings("RedundantIfStatement")
-  static boolean unique(Scan scan) {
-    if (scan.module().startsWith(scan.G())) return true;
-    if (scan.module().startsWith(scan.G2())) return true;
-    return false;
-  }
-
   static String computeMavenGroupAlias(String group) {
     return switch (group) {
       case "com.fasterxml.jackson.core" -> "com.fasterxml.jackson";
@@ -108,7 +101,7 @@ class Scanner {
       if (scans.add(scan)) {
         if (scan.explicit) {
           modules.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
-          if (unique(scan)) uniques.put(scan.module(), scan.uri());
+          if (scan.isUnique()) uniques.put(scan.module(), scan.toUri());
         }
       }
     }
@@ -139,7 +132,11 @@ class Scanner {
   // https://github.com/sandermak/modulescanner/blob/master/src/main/java/org/adoptopenjdk/modulescanner/SeparatedValuesPrinter.java
   record Scan(String G, String G2, String A, String GA, String V, String module, boolean explicit) {
 
-    String uri() {
+    boolean isUnique() {
+      return module.startsWith(G) || module.startsWith(G2);
+    }
+
+    String toUri() {
       return new StringJoiner("/")
           .add("https://repo.maven.apache.org/maven2")
           .add(G.replace('.', '/'))
