@@ -65,6 +65,66 @@ class Scanner {
       }
       Files.write(Path.of("modules.md"), lines);
     }
+    if (Boolean.getBoolean("doc")) {
+      try (var stream = Files.newDirectoryStream(Path.of("doc"), "*.txt")) {
+        var iterator = stream.iterator();
+        while (iterator.hasNext()) {
+          var file = iterator.next();
+          var md = new ArrayList<String>();
+          md.add("# " + file.getFileName());
+          var summary = md.size();
+          md.add("");
+          md.add("|   | Module | Group and Artifact | Version |");
+          md.add("|---|:-------|:-------------------|---------|");
+          int total = 0;
+          int explicit = 0;
+          int automatic = 0;
+          int plain = 0;
+          int unknown = 0;
+          for (var line : Files.readAllLines(file)) {
+            var trim = line.trim();
+            if (trim.startsWith("#")) continue;
+            total++;
+            var scan = scanner.facts.get(trim);
+            if (scan == null) {
+              unknown++;
+              continue;
+            }
+            var kind = scan.isExplicit() ? "🧩" : scan.isAutomatic() ? "⬜" : "⚪";
+            if (scan.isExplicit()) explicit++;
+            else if (scan.isAutomatic()) automatic++;
+            else plain++;
+            var name = scan.isPlain() ? "" : "`" + scan.module + "`";
+            var version = scan.isExplicit() && scan.isUnique() ? "**" + scan.V + "**" : scan.V;
+            md.add("| " + kind + " | " + name + " | `" + trim + "` | " + version + " |");
+          }
+          if (total > 0) {
+            md.add(summary + 0, "");
+            md.add(
+                summary + 1,
+                format(
+                    "- 🧩 %,d (%.1f%%) Java modules (module descriptor with stable name and API)",
+                    explicit, explicit * 100d / total));
+            md.add(
+                summary + 2,
+                format(
+                    "- ⬜ %,d (%.1f%%) Automatic Java modules (name derived from JAR manifest)",
+                    automatic, automatic * 100d / total));
+            md.add(
+                summary + 3,
+                format(
+                    "- ⚪ %,d (%.1f%%) Automatic Java modules (name derived from JAR filename)",
+                    plain, plain * 100d / total));
+            md.add(
+                summary + 4,
+                format(
+                    "- ➖ %,d (%.1f%%) Unknown artifacts (BOM, POM, ... or not recently updated)",
+                    unknown, unknown * 100d / total));
+          }
+          Files.write(file.resolveSibling(file.getFileName() + ".md"), md);
+        }
+      }
+    }
   }
 
   static void out(String format, Object... args) {
