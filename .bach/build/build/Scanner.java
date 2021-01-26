@@ -118,7 +118,7 @@ class Scanner {
             md.add(
                 summary + 4,
                 format(
-                    "- ➖ %,d (%.1f%%) Unknown artifacts (BOM, POM, ... or not recently updated)",
+                    "- ➖ %,d (%.1f%%) Unrelated artifacts (BOM, POM, ... or not recently updated)",
                     unknown, unknown * 100d / total));
           }
           Files.write(file.resolveSibling(file.getFileName() + ".md"), md);
