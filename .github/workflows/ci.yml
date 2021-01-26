@@ -98,7 +98,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit --message 'Counted ${{ steps.count-modules.outputs.size }} modules at ${{ needs.setup.outputs.date }}'
+          git commit --message '${{ steps.count-modules.outputs.size }} unique modules (${{ needs.setup.outputs.date }})'
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
         if: steps.git-status.outputs.modified == 'true'
