@@ -67,9 +67,18 @@ You'll find the following summary at the start of each overview.
 
 Compiled from [WatchList.txt](doc/WatchList.txt), which contains a community-curated list of Maven `Group:Artifact` lines.
 
+### Top1000-2020
+
+📜 [Top1000-2020.txt.md](doc/Top1000-2020.txt.md)
+
+[Top1000-2010.txt](doc/Top1000-2020.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of December 2020.
+This list may include some non-JAR entries (`pom`, `bom`, ...).
+It also contains entries that were not updated since August 2018.
+
 ### Top1000-2019
 
 📜 [Top1000-2019.txt.md](doc/Top1000-2019.txt.md)
 
 [Top1000-2019.txt](doc/Top1000-2019.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of December 2019.
-This list also includes non-JAR entries (`pom`, `bom`, ...) that will be pruned in the future.
+This list also includes non-JAR entries (`pom`, `bom`, ...).
+It also contains entries that were not updated since August 2018.
