@@ -3,7 +3,7 @@
 The main goal of this project is to collect [Unique Java Modules](#unique-java-modules).
 As a side product, it also assembles an overview of "almost all" Java modules published at Maven Central since August 2018.
 
-> You're welcome to extend [The Watch](#watchlist), because _modules are coming_... and "Modules, Module, every where!"
+> You're welcome to extend [The Watch](#watchlist), because _modules are coming_... and soon the rhyme goes "Modules, Modules, every where!"
 
 
 ## Unique Java Modules
