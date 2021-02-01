@@ -75,7 +75,7 @@ jobs:
       - name: 'Build with Bach'
         run: |
           java \
-          -Dbach.project.version=${{ needs.setup.outputs.version }}
+          -Dbach.project.version=${{ needs.setup.outputs.version }} \
           --module-path .bach/cache \
           --module com.github.sormuras.bach \
           build
