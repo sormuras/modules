@@ -19,10 +19,12 @@ jobs:
         id: count-modules
         run: echo ::set-output name=size::$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)
       - name: 'Build with Bach'
-        uses: sormuras/bach-build@v1
-        with:
-          bach-version: 17-ea
-          project-version: ${{ github.event.release.tag_name }}
+        run: |
+          java \
+          -Dbach.project.version=${{ needs.setup.outputs.version }}
+          --module-path .bach/cache \
+          --module com.github.sormuras.bach \
+          build
       - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
         uses: marvinpinto/action-automatic-releases@latest
         with:
