@@ -1,5 +1,3 @@
-package build;
-
 import static java.lang.String.format;
 import static java.lang.String.join;
 import static java.util.stream.Collectors.groupingBy;
