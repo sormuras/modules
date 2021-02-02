@@ -76,7 +76,7 @@ jobs:
         run: |
           java \
           -Dbach.project.version=${{ needs.setup.outputs.version }} \
-          --module-path .bach/cache \
+          --module-path .bach/bin \
           --module com.github.sormuras.bach \
           build
       - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'

@@ -22,7 +22,7 @@ jobs:
         run: |
           java \
           -Dbach.project.version=${{ github.event.release.tag_name }} \
-          --module-path .bach/cache \
+          --module-path .bach/bin \
           --module com.github.sormuras.bach \
           build
       - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'

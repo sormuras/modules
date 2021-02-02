@@ -1,4 +1,4 @@
-package build;
+package configuration;
 
 import com.github.sormuras.bach.Bach;
 import com.github.sormuras.bach.Base;
@@ -26,7 +26,7 @@ public class Custom extends Bach {
             .add("--module", module)
             .add("--module-version", moduleVersion)
             .add("--module-source-path", ".")
-            .add("--module-path", Bach.CACHE)
+            .add("--module-path", Bach.BIN)
             .add("-encoding", "UTF-8")
             .add("-d", destination));
 
