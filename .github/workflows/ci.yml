@@ -51,7 +51,7 @@ jobs:
           echo ::set-output name=size::$(echo ${SIZE})
       - name: 'Cache bucket'
         id: cache-bucket
-        uses: actions/cache@v2
+        uses: actions/cache@v2.1.4
         with:
           path: bucket
           key: bucket-${{ steps.bucket.outputs.size }}
