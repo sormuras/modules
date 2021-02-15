@@ -21,9 +21,9 @@ jobs:
       - name: 'Build with Bach'
         run: |
           java \
-          -Dbach.project.version=${{ github.event.release.tag_name }} \
           --module-path .bach/bin \
           --module com.github.sormuras.bach \
+          --project-version ${{ github.event.release.tag_name }} \
           build
       - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
         uses: marvinpinto/action-automatic-releases@latest
