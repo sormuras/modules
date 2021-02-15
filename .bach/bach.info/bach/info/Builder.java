@@ -1,15 +1,17 @@
-package configuration;
+package bach.info;
 
 import com.github.sormuras.bach.Bach;
-import com.github.sormuras.bach.Base;
 import com.github.sormuras.bach.Command;
-import com.github.sormuras.bach.Flag;
+import com.github.sormuras.bach.Options;
 import java.nio.file.Files;
 
-public class Custom extends Bach {
+public class Builder extends Bach {
+  public static Provider<Builder> provider() {
+    return Builder::new;
+  }
 
-  public Custom() {
-    super(Base.ofSystem(), System.out::println, Flag.VERBOSE);
+  private Builder(Options options) {
+    super(options);
   }
 
   @Override
