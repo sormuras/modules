@@ -66,6 +66,7 @@ jobs:
       - name: 'Scan bucket'
         run: |
           java \
+          -Ddoc=true \
           src/Scanner.java \
           bucket \
           com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
