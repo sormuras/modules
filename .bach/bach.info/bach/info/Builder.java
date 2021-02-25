@@ -15,12 +15,12 @@ public class Builder extends Bach {
   }
 
   @Override
-  public void buildMainSpace() throws Exception {
+  public void buildProjectMainSpace() throws Exception {
     var module = "com.github.sormuras.modules";
     var moduleVersion = project().version();
     var javaRelease = 11;
-    var destination = base().workspace("classes", "main", "" + javaRelease);
-    var modules = base().workspace("modules");
+    var destination = folders().workspace("classes", "main", "" + javaRelease);
+    var modules = folders().workspace("modules");
 
     run(
         Command.javac()
@@ -28,7 +28,7 @@ public class Builder extends Bach {
             .add("--module", module)
             .add("--module-version", moduleVersion)
             .add("--module-source-path", ".")
-            .add("--module-path", Bach.BIN)
+            .add("--module-path", folders().bin())
             .add("-encoding", "UTF-8")
             .add("-d", destination));
 

@@ -4,6 +4,7 @@ import com.github.sormuras.bach.Bach;
 import com.github.sormuras.bach.Command;
 import com.github.sormuras.bach.Options;
 import com.github.sormuras.bach.Options.Property;
+import com.github.sormuras.bach.ProjectInfo;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.lang.module.ModuleDescriptor;
@@ -42,7 +43,7 @@ public class boot {
   }
 
   public static void refresh() {
-    utils.refresh(Bach.INFO_MODULE);
+    utils.refresh(ProjectInfo.MODULE);
   }
 
   public static void scaffold() throws Exception {
@@ -54,17 +55,18 @@ public class boot {
   public interface exports {
 
     static void idea() throws Exception {
-      var idea = bach().base().directory(".idea");
+      var idea = bach().folders().root(".idea");
       if (Files.exists(idea)) {
         out("IntelliJ's IDEA directory already exits: %s", idea);
         return;
       }
 
+      var name = bach().project().name();
       Files.createDirectories(idea);
       ideaMisc(idea);
-      ideaRootModule(idea, bach().project().name());
-      ideaModules(idea, List.of(bach().project().name(), "bach.info"));
-      if (Files.exists(bach().base().directory(".bach/bach.info"))) ideaBachInfoModule(idea);
+      ideaRootModule(idea, name);
+      ideaModules(idea, List.of(name, "bach.info"));
+      if (Files.exists(bach().folders().root(".bach/bach.info"))) ideaBachInfoModule(idea);
       ideaLibraries(idea);
     }
 
@@ -189,7 +191,7 @@ public class boot {
   public interface files {
 
     static void createBachInfoModuleDescriptor() throws Exception {
-      var file = bach().base().directory(".bach/bach.info/module-info.java");
+      var file = bach().folders().root(".bach/bach.info/module-info.java");
       if (Files.exists(file)) {
         out("File already exists: %s", file);
         return;
@@ -207,13 +209,13 @@ public class boot {
           }
           """
               .replace("{{PROJECT-NAME}}", bach().project().name())
-              .replace("{{PROJECT-VERSION}}", bach().project().version().toString());
+              .replace("{{PROJECT-VERSION}}", bach().project().version());
       Files.createDirectories(file.getParent());
       Files.writeString(file, text);
     }
 
     static void createBachInfoBuilderClass() throws Exception {
-      var file = bach().base().directory(".bach/bach.info/bach/info/Builder.java");
+      var file = bach().folders().root(".bach/bach.info/bach/info/Builder.java");
       out("Create builder class: %s", file);
       var text =
           """
@@ -341,8 +343,8 @@ public class boot {
      */
     static void describe(String module) {
       ModuleFinder.compose(
-              ModuleFinder.of(bach().base().workspace("modules")),
-              ModuleFinder.of(bach().base().externals()),
+              ModuleFinder.of(bach().folders().workspace("modules")),
+              ModuleFinder.of(bach().folders().externalModules()),
               ModuleFinder.ofSystem())
           .find(module)
           .ifPresentOrElse(
@@ -466,7 +468,7 @@ public class boot {
       }
 
       static void purge() throws Exception {
-        var externals = bach().base().externals();
+        var externals = bach().folders().externalModules();
         if (!Files.isDirectory(externals)) return;
         try (var jars = Files.newDirectoryStream(externals, "*.jar")) {
           for (var jar : jars)
@@ -481,7 +483,7 @@ public class boot {
 
       /** Prints a list of all external modules. */
       static void list() {
-        describe(ModuleFinder.of(bach().base().externals()));
+        describe(ModuleFinder.of(bach().folders().externalModules()));
       }
 
       static void load(String module) {
@@ -493,7 +495,7 @@ public class boot {
       }
 
       static void findRequires(String regex) {
-        var finder = ModuleFinder.of(bach().base().externals());
+        var finder = ModuleFinder.of(bach().folders().externalModules());
         findRequiresDirectivesMatching(finder, regex);
       }
 
@@ -552,6 +554,8 @@ public class boot {
               .orElse(module.toString());
       var info =
           switch (name) {
+            case "bach" -> "Build modular Java projects";
+            case "google-java-format" -> "Reformat Java sources to comply with Google Java Style";
             case "jar" -> "Create an archive for classes and resources, and update or restore them";
             case "javac" -> "Read Java compilation units (*.java) and compile them into classes";
             case "javadoc" -> "Generate HTML pages of API documentation from Java source files";
