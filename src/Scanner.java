@@ -60,16 +60,20 @@ class Scanner {
       var lines = new ArrayList<String>();
       lines.add("# Impostor Modules");
       lines.add("");
-      lines.add("Modules that repackaged (shadowed) into other artifacts x-times...");
+      lines.add("Java modules that are repackaged (shadowed) into other artifacts x-times...");
       lines.add("");
       impostors.stream()
           .limit(25)
-          .map(it -> String.format("1. %dx [`%s`](#%s)", it.lines().size(), it.module, it.module))
+          .map(it -> String.format("1. `%s` x%d", it.module, it.lines().size()))
           .forEach(lines::add);
       lines.add("1. _... and some more._");
       for (var impostor : impostors) {
+        var module = impostor.module;
+        var size = impostor.lines.size();
         lines.add("");
-        lines.add("## " + impostor.module);
+        lines.add("## " + module);
+        lines.add("");
+        lines.add(String.format("%d modules name themselves as `%s`", size, module));
         lines.add("");
         impostor.lines.forEach(lines::add);
       }
