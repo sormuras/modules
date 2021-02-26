@@ -60,17 +60,16 @@ class Scanner {
       var lines = new ArrayList<String>();
       lines.add("# Impostor Modules");
       lines.add("");
+      lines.add("Modules that repackaged (shadowed) into other artifacts x-times...");
+      lines.add("");
       impostors.stream()
           .limit(25)
-          .map(it -> String.format("- %dx [`%s`](#%s)", it.lines().size(), it.module, it.module))
+          .map(it -> String.format("1. %dx [`%s`](#%s)", it.lines().size(), it.module, it.module))
           .forEach(lines::add);
+      lines.add("1. _... and some more._");
       for (var impostor : impostors) {
-        var module = impostor.module;
-        var uri = scanner.uniques.get(module);
         lines.add("");
-        lines.add("## " + module);
-        lines.add("");
-        lines.add(uri == null ? "_Unique URI not available._" : "<" + uri + ">");
+        lines.add("## " + impostor.module);
         lines.add("");
         impostor.lines.forEach(lines::add);
       }
