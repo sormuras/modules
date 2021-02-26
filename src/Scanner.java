@@ -56,9 +56,14 @@ class Scanner {
     }
     if (Boolean.getBoolean("impostor-modules")) {
       var impostors = scanner.searchImpostors();
+      impostors.sort(Comparator.comparing(it -> -it.lines.size()));
       var lines = new ArrayList<String>();
       lines.add("# Impostor Modules");
-      impostors.sort(Comparator.comparing(it -> -it.lines.size()));
+      lines.add("");
+      impostors.stream()
+          .limit(25)
+          .map(it -> String.format("- %dx [`%s`](#%s)", it.lines().size(), it.module, it.module))
+          .forEach(lines::add);
       for (var impostor : impostors) {
         var module = impostor.module;
         var uri = scanner.uniques.get(module);
