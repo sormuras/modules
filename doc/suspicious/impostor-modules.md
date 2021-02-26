@@ -1,35 +1,37 @@
 # Impostor Modules
 
-Modules that repackaged (shadowed) into other artifacts x-times...
+Java modules that are repackaged (shadowed) into other artifacts x-times...
 
-1. 116x [`org.apache.logging.log4j`](#org.apache.logging.log4j)
-1. 65x [`com.fasterxml.jackson.databind`](#com.fasterxml.jackson.databind)
-1. 57x [`net.bytebuddy`](#net.bytebuddy)
-1. 56x [`java.xml.bind`](#java.xml.bind)
-1. 52x [`org.bouncycastle.provider`](#org.bouncycastle.provider)
-1. 46x [`org.objectweb.asm`](#org.objectweb.asm)
-1. 38x [`com.google.gson`](#com.google.gson)
-1. 33x [`org.slf4j`](#org.slf4j)
-1. 30x [`com.fasterxml.jackson.core`](#com.fasterxml.jackson.core)
-1. 30x [`info.picocli`](#info.picocli)
-1. 26x [`kotlin.stdlib.jdk8`](#kotlin.stdlib.jdk8)
-1. 24x [`io.github.classgraph`](#io.github.classgraph)
-1. 23x [`lombok`](#lombok)
-1. 21x [`com.fasterxml.jackson.annotation`](#com.fasterxml.jackson.annotation)
-1. 17x [`org.objectweb.asm.commons`](#org.objectweb.asm.commons)
-1. 13x [`org.bouncycastle.pkix`](#org.bouncycastle.pkix)
-1. 12x [`com.fasterxml.jackson.datatype.jdk8`](#com.fasterxml.jackson.datatype.jdk8)
-1. 12x [`org.openqa.selenium.core`](#org.openqa.selenium.core)
-1. 11x [`java.json`](#java.json)
-1. 11x [`java.ws.rs`](#java.ws.rs)
-1. 10x [`com.sun.xml.bind`](#com.sun.xml.bind)
-1. 10x [`kotlin.stdlib`](#kotlin.stdlib)
-1. 10x [`net.bytebuddy.agent`](#net.bytebuddy.agent)
-1. 10x [`org.bouncycastle.pg`](#org.bouncycastle.pg)
-1. 9x [`com.fasterxml.jackson.module.jaxb`](#com.fasterxml.jackson.module.jaxb)
+1. `org.apache.logging.log4j` x116
+1. `com.fasterxml.jackson.databind` x65
+1. `net.bytebuddy` x57
+1. `java.xml.bind` x56
+1. `org.bouncycastle.provider` x52
+1. `org.objectweb.asm` x46
+1. `com.google.gson` x38
+1. `org.slf4j` x33
+1. `com.fasterxml.jackson.core` x30
+1. `info.picocli` x30
+1. `kotlin.stdlib.jdk8` x26
+1. `io.github.classgraph` x24
+1. `lombok` x23
+1. `com.fasterxml.jackson.annotation` x21
+1. `org.objectweb.asm.commons` x17
+1. `org.bouncycastle.pkix` x13
+1. `com.fasterxml.jackson.datatype.jdk8` x12
+1. `org.openqa.selenium.core` x12
+1. `java.json` x11
+1. `java.ws.rs` x11
+1. `com.sun.xml.bind` x10
+1. `kotlin.stdlib` x10
+1. `net.bytebuddy.agent` x10
+1. `org.bouncycastle.pg` x10
+1. `com.fasterxml.jackson.module.jaxb` x9
 1. _... and some more._
 
 ## org.apache.logging.log4j
+
+116 modules name themselves as `org.apache.logging.log4j`
 
 1. `au.org.consumerdatastandards:codegen` -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
 1. `cn.net.mugui:spring` -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`]
@@ -150,6 +152,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.databind
 
+65 modules name themselves as `com.fasterxml.jackson.databind`
+
 1. `cn.com.analysys:javasdk` -> [`4.1.0-all`, `4.1.3-all`]
 1. `co.navdeep:kafkaer` -> [`1.4`, `1.4.1`, `1.4.2`]
 1. `com.amazon.opendistroforelasticsearch.client:opendistro-sql-jdbc` -> [`1.13.0.0`]
@@ -218,6 +222,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## net.bytebuddy
 
+57 modules name themselves as `net.bytebuddy`
+
 1. `cloud.orbit:orbit-redis-cluster` -> [`1.5.0`, `1.5.1`]
 1. `co.elastic.apm:elastic-apm-agent` -> [`1.0.0.RC1`, `1.0.0`, `1.1.0`]
 1. `com.alipay.sdk:alipay-easysdk` -> [`1.0.0`, `1.0.1`]
@@ -278,6 +284,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## java.xml.bind
 
+56 modules name themselves as `java.xml.bind`
+
 1. `cloud.testload:jmeter.pack-listener` -> [`1.6`, `1.7`, `1.8`, `1.9`, `1.9.1`, `1.9.2`, `1.9.3`, `2.0`, `2.01`, `2.03`, `2.06`, `2.07`]
 1. `com.airbus-cyber-security.graylog:graylog-plugin-glpi` -> [`1.4.0`]
 1. `com.devonfw.cobigen:cli` -> [`1.0.0`, `1.0.1`, `1.1.0`]
@@ -337,6 +345,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.bouncycastle.provider
 
+52 modules name themselves as `org.bouncycastle.provider`
+
 1. `cn.leancloud:filter-service-core` -> [`1.9`, `1.10`, `1.12`, `1.13`]
 1. `com.alipay.sdk:alipay-easysdk` -> [`1.0.2`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.2.0`, `1.2.1`, `2.0.0`, `2.0.1`]
 1. `com.alipay.sdk:easysdk-kernel` -> [`1.0.0`, `1.0.2`]
@@ -392,6 +402,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.objectweb.asm
 
+46 modules name themselves as `org.objectweb.asm`
+
 1. `cn.cyejing:dsync-dominate` -> [`0.1.2`, `0.1.3`]
 1. `cn.cyejing:dsync-example` -> [`0.1.2`, `0.1.3`]
 1. `com.att.ajsc:ajsc-runner` -> [`3.0.8-oss`, `3.0.9-oss`, `3.0.10-oss`, `3.0.11-oss`]
@@ -441,6 +453,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.google.gson
 
+38 modules name themselves as `com.google.gson`
+
 1. `com.capitalone.dashboard:hygieia-query` -> [`1.0.1`, `1.0.2`]
 1. `com.coralogix:coralogix-jdbc` -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`]
 1. `com.coralogix:cosmetic_2.13` -> [`0.1`]
@@ -482,6 +496,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.slf4j
 
+33 modules name themselves as `org.slf4j`
+
 1. `ch.hsr.adv:adv-commons` -> [`1.0`]
 1. `com.bytes-pot:daraja-api` -> [`1.0-b`, `1.1-b`, `1.2-b`, `1.3-b`, `1.4-b`, `1.5-b`, `1.6-b`]
 1. `com.credibledoc:log-combiner` -> [`1.0.20`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`]
@@ -518,6 +534,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.core
 
+30 modules name themselves as `com.fasterxml.jackson.core`
+
 1. `ch.dsivd.copper:copper` -> [`1.2.0`]
 1. `com.daml:ledger-api-test-tool` -> [`1.3.0-snapshot.20200701.4616.0.bdbefd11`, `1.3.0-snapshot.20200706.4664.0.5db06051`, `1.3.0-snapshot.20200708.4686.0.95dfa18e`, `1.3.0-snapshot.20200714.4687.0.8e10c7a7`, `1.4.0-snapshot.20200715.4733.0.d6e58626`]
 1. `com.fasterxml.jackson.core:jackson-core` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
@@ -550,6 +568,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `za.co.absa.utils:rest-api-doc-generator` -> [`1.0.0`, `1.0.1`, `1.0.2`]
 
 ## info.picocli
+
+30 modules name themselves as `info.picocli`
 
 1. `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli` -> [`1.3.0-alpha1`, `1.3.0-alpha2`, `1.3.0-alpha3`, `1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-beta1`, `1.3.0-beta2`]
 1. `com.aeontronix.enhancedmule:enhanced-mule-installer-cli` -> [`1.0.0-beta2`]
@@ -584,6 +604,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## kotlin.stdlib.jdk8
 
+26 modules name themselves as `kotlin.stdlib.jdk8`
+
 1. `com.github.hopshackle:NTBEA` -> [`0.1`, `0.2`, `0.2.1`]
 1. `com.github.patrick-mc:twipe` -> [`1.0.3`]
 1. `com.mparticle:smartype-generator` -> [`1.2.0`, `1.2.1`]
@@ -613,6 +635,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## io.github.classgraph
 
+24 modules name themselves as `io.github.classgraph`
+
 1. `ch.exense.step.library:step-library-kw-monitoring-system` -> [`1.0.4`, `1.0.5`, `1.0.6`]
 1. `cloud.orbit:orbit-core` -> [`1.12.0`]
 1. `cloud.orbit:orbit-runtime` -> [`1.12.0`]
@@ -640,6 +664,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## lombok
 
+23 modules name themselves as `lombok`
+
 1. `cn.itlym.shoulder:lombok` -> [`0.1`]
 1. `cn.itlym:shoulder-lombok` -> [`0.0.1`]
 1. `co.privacyone.sdk:keychain` -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`]
@@ -666,6 +692,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.annotation
 
+21 modules name themselves as `com.fasterxml.jackson.annotation`
+
 1. `com.codeborne:jvm2dts` -> [`1.2.3`, `1.2.4`]
 1. `com.daml:ledger-api-test-tool` -> [`1.4.0-snapshot.20200722.4796.0.28ab504b`, `1.4.0-snapshot.20200722.4800.0.21a16eef`, `1.4.0-snapshot.20200724.4812.0.818a52b0`]
 1. `com.fasterxml.jackson.core:jackson-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
@@ -690,6 +718,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.objectweb.asm.commons
 
+17 modules name themselves as `org.objectweb.asm.commons`
+
 1. `com.github.fromage.quasi:quasi-core` -> [`0.7.10`]
 1. `com.github.upthewaterspout.fates:fates-instrumentation` -> [`0.1.0`, `0.2.0`, `0.3.0`]
 1. `com.microsoft.azure:applicationinsights-agent` -> [`2.5.0-BETA`, `2.5.0-BETA.2`, `2.5.0-BETA.3`, `2.5.0-BETA.4`, `2.5.0-BETA.5`, `2.5.0`, `2.5.1-BETA`, `2.5.1-BETA.2`, `2.5.1`, `2.6.0-BETA`]
@@ -710,6 +740,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.bouncycastle.pkix
 
+13 modules name themselves as `org.bouncycastle.pkix`
+
 1. `com.yahoo.vespa:vespa-hadoop` -> [`7.117.37`, `7.119.4`, `7.120.13`, `7.122.7`, `7.125.11`, `7.126.14`, `7.128.18`, `7.132.16`, `7.133.13`, `7.136.13`, `7.138.15`, `7.140.12`, `7.142.14`, `7.143.13`, `7.144.5`, `7.145.41`, `7.147.12`, `7.157.9`, `7.161.1`, `7.162.26`, `7.164.8`, `7.165.5`, `7.166.31`, `7.168.4`, `7.169.4`, `7.171.10`, `7.172.13`, `7.173.17`, `7.174.29`, `7.175.12`, `7.176.11`, `7.177.11`, `7.179.11`, `7.184.8`, `7.185.19`, `7.186.20`, `7.187.1`, `7.190.14`, `7.193.27`, `7.197.21`, `7.198.13`, `7.199.1`, `7.200.54`, `7.201.7`, `7.204.28`, `7.206.15`, `7.207.47`, `7.208.2`, `7.209.2`, `7.211.11`, `7.212.12`, `7.213.19`, `7.214.34`, `7.215.8`, `7.216.10`, `7.217.12`, `7.218.37`, `7.219.14`, `7.220.14`, `7.223.70`, `7.225.71`, `7.226.6`, `7.227.16`, `7.228.15`, `7.229.35`, `7.232.23`, `7.233.7`, `7.234.10`, `7.235.16`, `7.236.32`, `7.237.14`, `7.238.12`, `7.240.27`, `7.241.12`, `7.242.24`, `7.244.2`, `7.246.11`, `7.247.32`, `7.248.5`, `7.249.12`, `7.250.9`, `7.251.31`, `7.252.6`, `7.254.8`, `7.255.24`, `7.256.6`, `7.257.6`, `7.258.11`, `7.259.2`, `7.261.8`, `7.263.4`, `7.264.3`, `7.265.10`, `7.266.25`, `7.267.11`, `7.268.15`, `7.270.21`, `7.271.29`, `7.273.15`, `7.274.2`, `7.275.26`, `7.276.8`, `7.277.38`, `7.278.21`, `7.279.34`, `7.280.10`, `7.281.56`, `7.282.23`, `7.285.54`, `7.286.18`, `7.290.1`, `7.291.27`, `7.292.82`, `7.294.10`, `7.295.58`, `7.297.21`, `7.298.26`, `7.299.105`, `7.300.57`, `7.301.24`, `7.304.50`, `7.305.19`, `7.306.19`, `7.308.21`, `7.309.46`, `7.310.25`, `7.312.45`, `7.314.13`, `7.317.18`, `7.322.17`, `7.323.38`, `7.324.57`, `7.326.17`, `7.327.42`, `7.328.17`, `7.329.19`, `7.330.15`, `7.331.24`, `7.334.42`, `7.335.22`, `7.338.31`, `7.339.20`, `7.340.22`, `7.342.40`, `7.343.18`, `7.346.59`, `7.347.28`, `7.349.32`, `7.350.53`, `7.351.32`, `7.354.14`, `7.355.22`]
 1. `de.aaschmid:taskwarrior-java-client` -> [`1.0`]
 1. `io.nosqlbench:nb` -> [`3.12.52`, `3.12.54`, `3.12.55`, `3.12.60`, `3.12.61`, `3.12.62`, `3.12.66`, `3.12.67`, `3.12.70`, `3.12.71`, `3.12.72`, `3.12.73`, `3.12.75`, `3.12.76`, `3.12.77`, `3.12.78`, `3.12.79`, `3.12.81`, `3.12.82`, `3.12.83`, `3.12.84`, `3.12.85`]
@@ -726,6 +758,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.datatype.jdk8
 
+12 modules name themselves as `com.fasterxml.jackson.datatype.jdk8`
+
 1. `com.fasterxml.jackson.datatype:jackson-datatype-jdk8` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.jwebmp.jackson.datatype:jackson-datatype-jdk8` -> [`0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -740,6 +774,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `io.mantisrx:mantis-publish-netty` -> [`1.2.8`, `1.2.9`, `1.2.10`, `1.2.11`, `1.2.12`, `1.2.14`, `1.2.15`, `1.2.17`, `1.2.18`, `1.2.19`, `1.2.20`, `1.3.0`]
 
 ## org.openqa.selenium.core
+
+12 modules name themselves as `org.openqa.selenium.core`
 
 1. `br.com.behaviortest:behavior-test-api` -> [`1.0.0`]
 1. `ch.exense.step.examples:demo-selenium-keyword` -> [`1.1.3`, `3.13.0`]
@@ -756,6 +792,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## java.json
 
+11 modules name themselves as `java.json`
+
 1. `com.scalar-labs:scalardl-client-sdk` -> [`1.0.0-alpha.20190222`, `1.1.0`, `1.2.0`, `1.3.0`]
 1. `com.scalar-labs:scalardl-java-client-sdk` -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
 1. `jakarta.json:jakarta.json-api` -> [`1.1.5`, `1.1.6`]
@@ -769,6 +807,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.openpreservation.jhove:jhove-ext-modules` -> [`1.24.2`]
 
 ## java.ws.rs
+
+11 modules name themselves as `java.ws.rs`
 
 1. `cc.kebei:boot-in-jar` -> [`1.1`]
 1. `com.bazaarvoice.emodb:emodb-web-local` -> [`6.3.0`]
@@ -784,6 +824,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.sun.xml.bind
 
+10 modules name themselves as `com.sun.xml.bind`
+
 1. `com.airbus-cyber-security.graylog:graylog-plugin-glpi` -> [`1.1.0`, `1.2.0`, `1.2.1`, `1.3.0`]
 1. `com.eternitywall:java-opentimestamps` -> [`1.18`, `1.19`, `1.20`]
 1. `com.hortonworks.registries:schema-registry-core` -> [`0.8.1`]
@@ -796,6 +838,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.mustangproject:Mustang-CLI` -> [`2.0.1`, `2.0.2`, `2.0.3`]
 
 ## kotlin.stdlib
+
+10 modules name themselves as `kotlin.stdlib`
 
 1. `cn.net.mugui:mugui-communication` -> [`0.0.1`]
 1. `com.github.answerail:dingtalk-spring-boot-starter` -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
@@ -810,6 +854,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## net.bytebuddy.agent
 
+10 modules name themselves as `net.bytebuddy.agent`
+
 1. `co.elastic.apm:apm-agent-attach` -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.10.1`, `1.11.0`, `1.12.0`, `1.13.0`, `1.14.0`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0.RC1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.0`, `1.21.0`]
 1. `com.amazonaws:aws-xray-auto-instrumentation-agent-bootstrap` -> [`2.4.0-beta`, `2.4.0-beta.1`]
 1. `com.ea.async:ea-async` -> [`1.2.3`]
@@ -822,6 +868,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `software.amazon.disco:disco-java-agent-inject-api` -> [`0.10.0`]
 
 ## org.bouncycastle.pg
+
+10 modules name themselves as `org.bouncycastle.pg`
 
 1. `com.danielflower.apprunner:restabuild` -> [`0.6.0`]
 1. `com.google.gerrit:gerrit-acceptance-framework` -> [`3.1.0-rc0`, `3.1.0-rc1`, `3.1.0-rc2`, `3.1.0-rc3`, `3.1.0`, `3.1.1`, `3.1.2`]
@@ -836,6 +884,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.module.jaxb
 
+9 modules name themselves as `com.fasterxml.jackson.module.jaxb`
+
 1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.github.containersolutions:mysql-schema-sample` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.github.containersolutions:webserver-sample` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
@@ -847,6 +897,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger` -> [`0.40.5`, `0.40.6`]
 
 ## org.slf4j.simple
+
+9 modules name themselves as `org.slf4j.simple`
 
 1. `de.quantummaid.tutorials.basic-tutorial:step4` -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `org.slf4j:slf4j-simple` -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`]
@@ -860,6 +912,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.blazebit.persistence.integration.hibernate
 
+7 modules name themselves as `com.blazebit.persistence.integration.hibernate`
+
 1. `com.blazebit:blaze-persistence-integration-hibernate-4.2` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 1. `com.blazebit:blaze-persistence-integration-hibernate-4.3` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 1. `com.blazebit:blaze-persistence-integration-hibernate-5.2` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
@@ -869,6 +923,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `com.blazebit:blaze-persistence-integration-hibernate-6.0` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 
 ## com.fasterxml.jackson.datatype.jsr310
+
+7 modules name themselves as `com.fasterxml.jackson.datatype.jsr310`
 
 1. `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime` -> [`0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -880,6 +936,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.jaxrs.json
 
+7 modules name themselves as `com.fasterxml.jackson.jaxrs.json`
+
 1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.guicedee.services:jackson-jaxrs-json-provider` -> [`0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `io.liftwizard:liftwizard-example` -> [`0.13.0`, `0.14.0`]
@@ -889,6 +947,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.apache.tika:tika-server-core` -> [`2.0.0-ALPHA`]
 
 ## com.zaxxer.hikari
+
+7 modules name themselves as `com.zaxxer.hikari`
 
 1. `com.aliyun.schedulerx:schedulerx2-worker` -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`]
 1. `com.zaxxer:HikariCP` -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`]
@@ -900,6 +960,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.beryx.awt.color
 
+7 modules name themselves as `org.beryx.awt.color`
+
 1. `org.apache.sedona:sedona-viz-2.4_2.11` -> [`1.0.0-incubating`]
 1. `org.apache.sedona:sedona-viz-2.4_2.12` -> [`1.0.0-incubating`]
 1. `org.apache.sedona:sedona-viz-3.0_2.12` -> [`1.0.0-incubating`]
@@ -910,6 +972,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## ch.qos.logback.classic
 
+6 modules name themselves as `ch.qos.logback.classic`
+
 1. `ch.hsr.adv:adv-lib` -> [`1.0`]
 1. `ch.hsr.adv:adv-ui` -> [`1.0`]
 1. `ch.qos.logback:logback-classic` -> [`1.3.0-alpha4`, `1.3.0-alpha5`]
@@ -918,6 +982,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `de.quantummaid.tutorials.basic-tutorial:step4` -> [`1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`]
 
 ## com.blazebit.persistence.integration.spring.data.impl
+
+6 modules name themselves as `com.blazebit.persistence.integration.spring.data.impl`
 
 1. `com.blazebit:blaze-persistence-integration-spring-data-1.x` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 1. `com.blazebit:blaze-persistence-integration-spring-data-2.0` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
@@ -928,6 +994,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.dataformat.yaml
 
+6 modules name themselves as `com.fasterxml.jackson.dataformat.yaml`
+
 1. `ai.h2o:sparkling-water-package_2.11` -> [`3.32.0.1-2-2.4`, `3.32.0.2-1-2.4`, `3.32.0.3-1-2.4`, `3.32.0.4-1-2.4`]
 1. `ai.h2o:sparkling-water-package_2.12` -> [`3.32.0.1-2-3.0`, `3.32.0.2-1-3.0`, `3.32.0.3-1-3.0`, `3.32.0.4-1-3.0`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
@@ -936,6 +1004,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `io.bdeploy:api` -> [`2.3.0`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `3.0.0`, `3.1.0`, `3.1.1`, `3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
 
 ## de.carne.swt
+
+6 modules name themselves as `de.carne.swt`
 
 1. `de.carne.common:java-swt-cocoa-macosx-x86_64` -> [`4.0.0`]
 1. `de.carne.common:java-swt-gtk-linux-x86_64` -> [`4.0.0`]
@@ -946,6 +1016,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## de.carne.test.swt
 
+6 modules name themselves as `de.carne.test.swt`
+
 1. `de.carne.common:java-test-swt-cocoa-macosx-x86_64` -> [`4.0.0`]
 1. `de.carne.common:java-test-swt-gtk-linux-x86_64` -> [`4.0.0`]
 1. `de.carne.common:java-test-swt-win32-win32-x86_64` -> [`4.0.0`]
@@ -955,6 +1027,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.amihaiemil.eoyaml
 
+5 modules name themselves as `com.amihaiemil.eoyaml`
+
 1. `com.amihaiemil.web:eo-yaml` -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.3.3`, `4.3.4`, `4.3.5`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.1.8`, `5.1.9`]
 1. `io.github.portlek:configs-bukkit` -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
 1. `io.github.portlek:configs-bungeecord` -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
@@ -962,6 +1036,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `io.github.portlek:configs-nukkit` -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
 
 ## com.jwebmp.guicedpersistence.wildfly
+
+5 modules name themselves as `com.jwebmp.guicedpersistence.wildfly`
 
 1. `com.guicedee.persistence:guiced-persistence-wildfly` -> [`1.0.1.0`, `1.0.1.1`, `1.0.1.2`, `1.0.1.3`, `1.0.1.4`, `1.0.1.5`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.15.3-jre8`, `1.0.15.4-jre8`, `1.0.15.5-jre8`, `1.0.19.6-jre8`, `1.0.19.8-jre8`]
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-wildfly` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -971,6 +1047,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.jqueryui
 
+5 modules name themselves as `com.jwebmp.plugins.jqueryui`
+
 1. `com.jwebmp.jre10:jwebmp-jquery-ui-themes-nestable` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre10:jwebmp-jquery-ui` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-ui` -> [`0.62.0.1`]
@@ -978,6 +1056,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `com.jwebmp:jwebmp-jquery-ui` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## jakarta.activation
+
+5 modules name themselves as `jakarta.activation`
 
 1. `com.guicedee.services:jakarta.activation` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty:jakarta.activation` -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -987,6 +1067,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.bytedeco.javacpp
 
+5 modules name themselves as `org.bytedeco.javacpp`
+
 1. `org.bytedeco:javacpp` -> [`1.5`, `1.5.1`, `1.5.1-1`, `1.5.2`, `1.5.3`, `1.5.4`]
 1. `org.deeplearning4j:deeplearning4j-ui-standalone` -> [`1.0.0-beta4`, `1.0.0-beta5`]
 1. `org.deeplearning4j:jumpy` -> [`1.0.0-beta4`, `1.0.0-beta5`, `1.0.0-beta6`, `1.0.0-beta7`]
@@ -994,6 +1076,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.nd4j:nd4j-uberjar` -> [`1.0.0-beta5`, `1.0.0-beta6`, `1.0.0-beta7`]
 
 ## org.codehaus.stax2
+
+5 modules name themselves as `org.codehaus.stax2`
 
 1. `com.github.zuinnote:hadoopoffice-flinkts_2.11` -> [`1.4.0`]
 1. `com.github.zuinnote:hadoopoffice-flinkts_2.12` -> [`1.4.0`]
@@ -1003,6 +1087,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.glassfish.java.json
 
+5 modules name themselves as `org.glassfish.java.json`
+
 1. `com.github.mibo:jaxrsdoc` -> [`1.1.0`]
 1. `com.sebastian-daschner:jaxrs-analyzer` -> [`0.16`, `0.17`]
 1. `cz.cuni.mff.d3s.spl:spl-evaluation-java` -> [`1.0.4`]
@@ -1010,6 +1096,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `tech.b180.cordaptor:glassfish-javax-json-shaded` -> [`1.1`]
 
 ## org.graalvm.js
+
+5 modules name themselves as `org.graalvm.js`
 
 1. `org.graalvm.js:js` -> [`20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`]
 1. `org.graphwalker:graphwalker-cli` -> [`4.3.0`]
@@ -1019,6 +1107,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.joda.convert
 
+5 modules name themselves as `org.joda.convert`
+
 1. `com.expedia.www:haystack-service-graph-node-finder` -> [`1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`]
 1. `com.vmlens:plugin.sync.bug` -> [`1.0.14`, `1.0.15`, `1.1.0`]
 1. `eu.xenit.care4alf:care4alf-5x` -> [`2.1.1`, `2.1.2`, `2.1.3`, `2.2.1`, `2.3.0`]
@@ -1026,6 +1116,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 1. `org.joda:joda-convert` -> [`2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`]
 
 ## org.joda.money
+
+5 modules name themselves as `org.joda.money`
 
 1. `org.joda:joda-money` -> [`1.0.1`]
 1. `org.kill-bill.billing.plugin.java:avatax-plugin` -> [`0.8.0`]
@@ -1035,6 +1127,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.objectweb.asm.tree
 
+5 modules name themselves as `org.objectweb.asm.tree`
+
 1. `com.autonomousapps:dependency-analysis-gradle-plugin` -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`]
 1. `com.guujiang:jacob-core` -> [`0.0.1`]
 1. `com.uber.nullaway:jar-infer-cli` -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`]
@@ -1043,12 +1137,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.dataformat.cbor
 
+4 modules name themselves as `com.fasterxml.jackson.dataformat.cbor`
+
 1. `com.amazonaws:aws-xray-agent-plugin` -> [`2.7.1`, `2.8.0`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service` -> [`2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.elasticsearch.plugin:x-pack-sql-jdbc` -> [`7.8.1`, `7.9.0`, `7.9.1`, `7.9.2`, `7.9.3`, `7.10.0`, `7.10.1`, `7.10.2`, `7.11.0`, `7.11.1`]
 
 ## com.jwebmp.core
+
+4 modules name themselves as `com.jwebmp.core`
 
 1. `com.jwebmp.core:jwebmp-core` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp.jre10:jwebmp-core` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
@@ -1057,12 +1155,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedhazelcast
 
+4 modules name themselves as `com.jwebmp.guicedhazelcast`
+
 1. `com.jwebmp.guicedee.persistence:guiced-hazelcast` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-hazelcast` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:guiced-hazelcast` -> [`0.62.0.1`]
 1. `com.jwebmp:guiced-hazelcast` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedinjection
+
+4 modules name themselves as `com.jwebmp.guicedinjection`
 
 1. `com.jwebmp.guicedee:guiced-injection` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-injection` -> [`0.58.0.21-RCTEST`, `0.59.0.14`, `0.60.0.1`]
@@ -1071,12 +1173,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedpersistence
 
+4 modules name themselves as `com.jwebmp.guicedpersistence`
+
 1. `com.jwebmp.guicedee.persistence:guiced-persistence` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence` -> [`0.58.0.21-RCTEST`, `0.59.0.14`, `0.60.0.1`]
 1. `com.jwebmp.jre11:guiced-persistence` -> [`0.60.0.1`, `0.62.0.1`]
 1. `com.jwebmp:guiced-persistence` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedpersistence.c3p0
+
+4 modules name themselves as `com.jwebmp.guicedpersistence.c3p0`
 
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-c3p0` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence-c3p0` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
@@ -1085,12 +1191,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedpersistence.ehcache
 
+4 modules name themselves as `com.jwebmp.guicedpersistence.ehcache`
+
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-ehcache` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence-ehcache` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:guiced-persistence-ehcache` -> [`0.62.0.1`]
 1. `com.jwebmp:guiced-persistence-ehcache` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedpersistence.jpa
+
+4 modules name themselves as `com.jwebmp.guicedpersistence.jpa`
 
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-jpa` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence-jpa` -> [`0.58.0.21-RCTEST`, `0.59.0.14`, `0.60.0.1`]
@@ -1099,12 +1209,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedpersistence.readers.eclipselink
 
+4 modules name themselves as `com.jwebmp.guicedpersistence.readers.eclipselink`
+
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-eclipselink-reader` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`]
 1. `com.jwebmp.jre10:guiced-persistence-eclipselink-reader` -> [`0.59.0.14`, `0.60.0.1`]
 1. `com.jwebmp.jre11:guiced-persistence-eclipselink-reader` -> [`0.60.0.1`, `0.62.0.1`]
 1. `com.jwebmp:guiced-persistence-eclipselink-reader` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedpersistence.readers.hibernateproperties
+
+4 modules name themselves as `com.jwebmp.guicedpersistence.readers.hibernateproperties`
 
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-hibernateproperties-reader` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence-hibernateproperties-reader` -> [`0.59.0.14`, `0.60.0.1`]
@@ -1113,12 +1227,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedpersistence.readers.systemproperties
 
+4 modules name themselves as `com.jwebmp.guicedpersistence.readers.systemproperties`
+
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-systemproperties-reader` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-persistence-systemproperties-reader` -> [`0.59.0.14`, `0.60.0.1`]
 1. `com.jwebmp.jre11:guiced-persistence-systemproperties-reader` -> [`0.60.0.1`, `0.62.0.1`]
 1. `com.jwebmp:guiced-persistence-systemproperties-reader` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedservlets
+
+4 modules name themselves as `com.jwebmp.guicedservlets`
 
 1. `com.jwebmp.guicedee.servlets:guiced-servlets` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-servlets` -> [`0.58.0.21-RCTEST`, `0.59.0.14`, `0.60.0.1`]
@@ -1127,12 +1245,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.guicedservlets.requestscoped
 
+4 modules name themselves as `com.jwebmp.guicedservlets.requestscoped`
+
 1. `com.jwebmp.guicedee.servlets:guiced-servlets-request-scoper` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:guiced-servlets-request-scoper` -> [`0.59.0.14`]
 1. `com.jwebmp.jre11:guiced-servlets-request-scoper` -> [`0.62.0.1`]
 1. `com.jwebmp:guiced-servlets-request-scoper` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.interception
+
+4 modules name themselves as `com.jwebmp.interception`
 
 1. `com.jwebmp.core:jwebmp-interception` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp.jre10:jwebmp-interception` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
@@ -1141,12 +1263,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.logmaster
 
+4 modules name themselves as `com.jwebmp.logmaster`
+
 1. `com.jwebmp.guicedee:guiced-log-master` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:jwebmp-log-master` -> [`0.58.0.21-RCTEST`, `0.59.0.14`, `0.60.0.1`]
 1. `com.jwebmp.jre11:jwebmp-log-master` -> [`0.60.0.1`, `0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:jwebmp-log-master` -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularanimate
+
+4 modules name themselves as `com.jwebmp.plugins.angularanimate`
 
 1. `com.jwebmp.jre10:jwebmp-angular-animate` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-animate` -> [`0.62.0.1`]
@@ -1155,12 +1281,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularanimatedchange
 
+4 modules name themselves as `com.jwebmp.plugins.angularanimatedchange`
+
 1. `com.jwebmp.jre10:jwebmp-angular-animated-change` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-animated-change` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-animated-change` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-animated-change` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularautofocus
+
+4 modules name themselves as `com.jwebmp.plugins.angularautofocus`
 
 1. `com.jwebmp.jre10:jwebmp-angular-auto-focus` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-auto-focus` -> [`0.62.0.1`]
@@ -1169,12 +1299,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularfastclick
 
+4 modules name themselves as `com.jwebmp.plugins.angularfastclick`
+
 1. `com.jwebmp.jre10:jwebmp-angular-fastclick` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-fastclick` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-fastclick` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-fastclick` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularfileupload
+
+4 modules name themselves as `com.jwebmp.plugins.angularfileupload`
 
 1. `com.jwebmp.jre10:jwebmp-angular-file-upload` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-file-upload` -> [`0.62.0.1`]
@@ -1183,12 +1317,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularionslider
 
+4 modules name themselves as `com.jwebmp.plugins.angularionslider`
+
 1. `com.jwebmp.jre10:jwebmp-angular-ion-slider` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ion-slider` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-ion-slider` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-ion-slider` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularnyabootstrapselector
+
+4 modules name themselves as `com.jwebmp.plugins.angularnyabootstrapselector`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap-nya-select4` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre10:jwebmp-bootstrap-nya-select` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
@@ -1197,12 +1335,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularprettycheckboxes
 
+4 modules name themselves as `com.jwebmp.plugins.angularprettycheckboxes`
+
 1. `com.jwebmp.jre10:jwebmp-angular-pretty-checkboxes` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-pretty-checkboxes` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-pretty-checkboxes` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-pretty-checkboxes` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularprogressbuttonstyles
+
+4 modules name themselves as `com.jwebmp.plugins.angularprogressbuttonstyles`
 
 1. `com.jwebmp.jre10:jwebmp-angular-progress-button-styles` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-progress-button-styles` -> [`0.62.0.1`]
@@ -1211,12 +1353,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularroute
 
+4 modules name themselves as `com.jwebmp.plugins.angularroute`
+
 1. `com.jwebmp.jre10:jwebmp-angular-route` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-route` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-route` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-route` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularsanitize
+
+4 modules name themselves as `com.jwebmp.plugins.angularsanitize`
 
 1. `com.jwebmp.jre10:jwebmp-angular-sanitize` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-sanitize` -> [`0.62.0.1`]
@@ -1225,12 +1371,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularscrollposition
 
+4 modules name themselves as `com.jwebmp.plugins.angularscrollposition`
+
 1. `com.jwebmp.jre10:jwebmp-angular-scroll-position` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-scroll-position` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-scroll-position` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-scroll-position` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularslimscroll
+
+4 modules name themselves as `com.jwebmp.plugins.angularslimscroll`
 
 1. `com.jwebmp.jre10:jwebmp-angular-slim-scroll` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-slim-scroll` -> [`0.62.0.1`]
@@ -1239,12 +1389,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angulartouch
 
+4 modules name themselves as `com.jwebmp.plugins.angulartouch`
+
 1. `com.jwebmp.jre10:jwebmp-angular-touch` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-touch` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-touch` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-touch` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`]
 
 ## com.jwebmp.plugins.angulartrackwidth
+
+4 modules name themselves as `com.jwebmp.plugins.angulartrackwidth`
 
 1. `com.jwebmp.jre10:jwebmp-angular-track-width` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-track-width` -> [`0.62.0.1`]
@@ -1253,12 +1407,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularzoomanimation
 
+4 modules name themselves as `com.jwebmp.plugins.angularzoomanimation`
+
 1. `com.jwebmp.jre10:jwebmp-angular-ui-zoom` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ui-zoom` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-angular-ui-zoom` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angular-ui-zoom` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bit6
+
+4 modules name themselves as `com.jwebmp.plugins.bit6`
 
 1. `com.jwebmp.jre10:jwebmp-bit6` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bit6` -> [`0.62.0.1`]
@@ -1267,12 +1425,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.blockui
 
+4 modules name themselves as `com.jwebmp.plugins.blockui`
+
 1. `com.jwebmp.jre10:jwebmp-block-ui` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-block-ui` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-block-ui` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-block-ui` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.blueimp.fileupload
+
+4 modules name themselves as `com.jwebmp.plugins.blueimp.fileupload`
 
 1. `com.jwebmp.jre10:jwebmp-blueimp-fileupload` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-blueimp-fileupload` -> [`0.62.0.1`]
@@ -1281,12 +1443,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.blueimp.gallery
 
+4 modules name themselves as `com.jwebmp.plugins.blueimp.gallery`
+
 1. `com.jwebmp.jre10:jwebmp-blueimp-gallery` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-blueimp-gallery` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.blueimp:jwebmp-blueimp-gallery` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-blueimp-gallery` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bootstrap4
+
+4 modules name themselves as `com.jwebmp.plugins.bootstrap4`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap4` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap4` -> [`0.62.0.1`]
@@ -1295,12 +1461,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.datatable
 
+4 modules name themselves as `com.jwebmp.plugins.datatable`
+
 1. `com.jwebmp.jre10:jwebmp-data-tables` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-data-tables` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.forms:jwebmp-data-tables` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-data-tables` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.dynamicsourcecode
+
+4 modules name themselves as `com.jwebmp.plugins.dynamicsourcecode`
 
 1. `com.jwebmp.jre10:jwebmp-dynamic-source-code-viewer` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-dynamic-source-code-viewer` -> [`0.62.0.1`]
@@ -1309,12 +1479,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.easypiechart
 
+4 modules name themselves as `com.jwebmp.plugins.easypiechart`
+
 1. `com.jwebmp.jre10:jwebmp-easy-pie-chart` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-easy-pie-chart` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.graphing:jwebmp-easy-pie-chart` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-easy-pie-chart` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.fontawesome5
+
+4 modules name themselves as `com.jwebmp.plugins.fontawesome5`
 
 1. `com.jwebmp.jre10:jwebmp-font-awesome5` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-font-awesome5` -> [`0.62.0.1`]
@@ -1323,12 +1497,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.fullcalendar
 
+4 modules name themselves as `com.jwebmp.plugins.fullcalendar`
+
 1. `com.jwebmp.jre10:jwebmp-full-calendar` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-full-calendar` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-full-calendar` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-full-calendar` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.globalize.cultures
+
+4 modules name themselves as `com.jwebmp.plugins.globalize.cultures`
 
 1. `com.jwebmp.jre10:jwebmp-globalize` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-globalize` -> [`0.62.0.1`]
@@ -1337,12 +1515,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.glyphicons
 
+4 modules name themselves as `com.jwebmp.plugins.glyphicons`
+
 1. `com.jwebmp.jre10:jwebmp-glyphicons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-glyphicons` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.iconsets:jwebmp-glyphicons` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-glyphicons` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.google.sourceprettify
+
+4 modules name themselves as `com.jwebmp.plugins.google.sourceprettify`
 
 1. `com.jwebmp.jre10:jwebmp-google-source-code-prettify` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-google-source-code-prettify` -> [`0.62.0.1`]
@@ -1351,12 +1533,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.imagemap
 
+4 modules name themselves as `com.jwebmp.plugins.imagemap`
+
 1. `com.jwebmp.jre10:jwebmp-image-map-heatmap` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-image-map-heatmap` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.forms:jwebmp-image-map-heatmap` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-image-map-heatmap` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.ionic.ionicons
+
+4 modules name themselves as `com.jwebmp.plugins.ionic.ionicons`
 
 1. `com.jwebmp.jre10:jwebmp-ion-icons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ion-icons` -> [`0.62.0.1`]
@@ -1365,12 +1551,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.ionrangeslider
 
+4 modules name themselves as `com.jwebmp.plugins.ionrangeslider`
+
 1. `com.jwebmp.jre10:jwebmp-ion-range-slider` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ion-range-slider` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.ion:jwebmp-ion-range-slider` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-ion-range-slider` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqgradientlinear
+
+4 modules name themselves as `com.jwebmp.plugins.jqgradientlinear`
 
 1. `com.jwebmp.jre10:jwebmp-gradients-linear-ie6` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-gradients-linear-ie6` -> [`0.62.0.1`]
@@ -1379,12 +1569,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.jqlayout
 
+4 modules name themselves as `com.jwebmp.plugins.jqlayout`
+
 1. `com.jwebmp.jre10:jwebmp-jquery-ui-layout` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-layout` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-jqui-layout` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-jquery-ui-layout` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqplot
+
+4 modules name themselves as `com.jwebmp.plugins.jqplot`
 
 1. `com.jwebmp.jre10:jwebmp-jqplot` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jqplot` -> [`0.62.0.1`]
@@ -1393,12 +1587,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.jqxwidgets
 
+4 modules name themselves as `com.jwebmp.plugins.jqxwidgets`
+
 1. `com.jwebmp.jre10:jwebmp-jqx-widgets` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jqx-widgets` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins:jwebmp-jqx-widgets` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-jqx-widgets` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jstree
+
+4 modules name themselves as `com.jwebmp.plugins.jstree`
 
 1. `com.jwebmp.jre10:jwebmp-jstree` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jstree` -> [`0.62.0.1`]
@@ -1407,12 +1605,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.leaflet
 
+4 modules name themselves as `com.jwebmp.plugins.leaflet`
+
 1. `com.jwebmp.jre10:jwebmp-leafletjs` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-leafletjs` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.forms:jwebmp-leafletjs` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-leafletjs` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.materialdesignicons
+
+4 modules name themselves as `com.jwebmp.plugins.materialdesignicons`
 
 1. `com.jwebmp.jre10:jwebmp-material-design-icons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-material-design-icons` -> [`0.62.0.1`]
@@ -1421,12 +1623,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.metrojs
 
+4 modules name themselves as `com.jwebmp.plugins.metrojs`
+
 1. `com.jwebmp.jre10:jwebmp-metro-tiles` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-metro-tiles` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-metro-tiles` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-metro-tiles` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.modernizr
+
+4 modules name themselves as `com.jwebmp.plugins.modernizr`
 
 1. `com.jwebmp.jre10:jwebmp-modernizr` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-modernizr` -> [`0.62.0.1`]
@@ -1435,12 +1641,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.moment
 
+4 modules name themselves as `com.jwebmp.plugins.moment`
+
 1. `com.jwebmp.jre10:jwebmp-momentjs` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-momentjs` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-momentjs` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-momentjs` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.ngslimscroll
+
+4 modules name themselves as `com.jwebmp.plugins.ngslimscroll`
 
 1. `com.jwebmp.jre10:jwebmp-ng-slim-scroll` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ng-slim-scroll` -> [`0.62.0.1`]
@@ -1449,12 +1659,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.pace
 
+4 modules name themselves as `com.jwebmp.plugins.pace`
+
 1. `com.jwebmp.jre10:jwebmp-pace-plugin` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-pace-plugin` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-pace-loader` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-pace-plugin` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.particlejs
+
+4 modules name themselves as `com.jwebmp.plugins.particlejs`
 
 1. `com.jwebmp.jre10:jwebmp-particlesjs` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-particlesjs` -> [`0.62.0.1`]
@@ -1463,12 +1677,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.plusastab
 
+4 modules name themselves as `com.jwebmp.plugins.plusastab`
+
 1. `com.jwebmp.jre10:jwebmp-plus-as-tab` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-plus-as-tab` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-plus-as-tab` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-plus-as-tab` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.quickforms
+
+4 modules name themselves as `com.jwebmp.plugins.quickforms`
 
 1. `com.jwebmp.jre10:jwebmp-quickforms` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-quickforms` -> [`0.62.0.1`]
@@ -1477,12 +1695,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.radialsvgslider
 
+4 modules name themselves as `com.jwebmp.plugins.radialsvgslider`
+
 1. `com.jwebmp.jre10:jwebmp-radial-slider-gem` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-radial-slider-gem` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.effects:jwebmp-radial-slider-gem` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-radial-slider-gem` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.skycons
+
+4 modules name themselves as `com.jwebmp.plugins.skycons`
 
 1. `com.jwebmp.jre10:jwebmp-skycons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-skycons` -> [`0.62.0.1`]
@@ -1491,12 +1713,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.softhistorychange
 
+4 modules name themselves as `com.jwebmp.plugins.softhistorychange`
+
 1. `com.jwebmp.jre10:jwebmp-soft-history-change` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-soft-history-change` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-soft-history-change` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-soft-history-change` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.spectrum.colourpicker
+
+4 modules name themselves as `com.jwebmp.plugins.spectrum.colourpicker`
 
 1. `com.jwebmp.jre10:jwebmp-spectrum-colour-picker` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-spectrum-colour-picker` -> [`0.62.0.1`]
@@ -1505,12 +1731,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.textangular
 
+4 modules name themselves as `com.jwebmp.plugins.textangular`
+
 1. `com.jwebmp.jre10:jwebmp-text-angular` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-text-angular` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.angular:jwebmp-text-angular` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-text-angular` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.textinputeffects
+
+4 modules name themselves as `com.jwebmp.plugins.textinputeffects`
 
 1. `com.jwebmp.jre10:jwebmp-text-input-effects` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-text-input-effects` -> [`0.62.0.1`]
@@ -1519,12 +1749,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.themify.icons
 
+4 modules name themselves as `com.jwebmp.plugins.themify.icons`
+
 1. `com.jwebmp.jre10:jwebmp-themify-icons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-themify-icons` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.iconsets:jwebmp-themify-icons` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-themify-icons` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.toastr
+
+4 modules name themselves as `com.jwebmp.plugins.toastr`
 
 1. `com.jwebmp.jre10:jwebmp-toastr` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-toastr` -> [`0.62.0.1`]
@@ -1533,12 +1767,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.verticaltimeline
 
+4 modules name themselves as `com.jwebmp.plugins.verticaltimeline`
+
 1. `com.jwebmp.jre10:jwebmp-vertical-timeline-css` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-vertical-timeline-css` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.effects:jwebmp-vertical-timeline-css` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-vertical-timeline-css` -> [`0.63.0.61`, `0.65.0.2`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.waveseffect
+
+4 modules name themselves as `com.jwebmp.plugins.waveseffect`
 
 1. `com.jwebmp.jre10:jwebmp-waveseffect` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-waveseffect` -> [`0.62.0.1`]
@@ -1547,12 +1785,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.weathericons
 
+4 modules name themselves as `com.jwebmp.plugins.weathericons`
+
 1. `com.jwebmp.jre10:jwebmp-weathericons` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-weathericons` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.iconsets:jwebmp-weathericons` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-weathericons` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.xeditable
+
+4 modules name themselves as `com.jwebmp.plugins.xeditable`
 
 1. `com.jwebmp.jre10:jwebmp-xeditable` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-xeditable` -> [`0.62.0.1`]
@@ -1561,12 +1803,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.undertow
 
+4 modules name themselves as `com.jwebmp.undertow`
+
 1. `com.jwebmp.guicedee.servlets:guiced-undertow` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:jwebmp-undertow` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-undertow` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-undertow` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.websockets
+
+4 modules name themselves as `com.jwebmp.websockets`
 
 1. `com.jwebmp.guicedee.servlets:guiced-websockets` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre10:jwebmp-websockets` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
@@ -1575,12 +1821,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.sun.tools.xjc
 
+4 modules name themselves as `com.sun.tools.xjc`
+
 1. `com.github.shynixn:discordwebhook-ktl` -> [`1.0`]
 1. `com.sun.xml.bind:jaxb-osgi` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`]
 1. `com.sun.xml.bind:jaxb-xjc` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 1. `org.glassfish.jaxb:jaxb-xjc` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`]
 
 ## jakarta.xml.bind
+
+4 modules name themselves as `jakarta.xml.bind`
 
 1. `jakarta.xml.bind:jakarta.xml.bind-api` -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0-RC3`, `3.0.0`]
 1. `org.glassfish.tyrus.bundles:tyrus-standalone-client-jdk` -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0`]
@@ -1589,12 +1839,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## java.json.bind
 
+4 modules name themselves as `java.json.bind`
+
 1. `com.manywho.sdk:sdk-example` -> [`2.0.0`, `2.0.1`]
 1. `io.zeleo.application:zeleo-application-library` -> [`1.0.1`, `1.0.3`, `1.0.4`]
 1. `jakarta.json.bind:jakarta.json.bind-api` -> [`1.0.1`, `1.0.2`]
 1. `org.keycloak:kcinit` -> [`4.4.0.Final`, `4.5.0.Final`, `4.6.0.Final`, `4.8.0.Final`, `4.8.1.Final`, `4.8.2.Final`, `4.8.3.Final`]
 
 ## java.xml.ws
+
+4 modules name themselves as `java.xml.ws`
 
 1. `com.srotya.sidewinder:sidewinder-standalone-dist` -> [`0.2.3`, `0.2.12`, `0.2.13`]
 1. `jakarta.xml.ws:jakarta.xml.ws-api` -> [`2.3.2`]
@@ -1603,12 +1857,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## javax.inject
 
+4 modules name themselves as `javax.inject`
+
 1. `com.guicedee.services:javax.inject` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jre11:javax.inject` -> [`0.63.0.11`, `0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp.thirdparty:javax.inject` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:javax.inject` -> [`1.1`]
 
 ## kotlin.reflect
+
+4 modules name themselves as `kotlin.reflect`
 
 1. `app.cash.backfila:service-lib` -> [`0.1.3-20210127.1838-76ab4fc`]
 1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0-rc`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.30-M1`, `1.4.30-RC`, `1.4.31`]
@@ -1617,12 +1875,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## net.sf.uadetector.core
 
+4 modules name themselves as `net.sf.uadetector.core`
+
 1. `com.guicedee.services:uadetector-core` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jre11:uadetector-core` -> [`0.63.0.12`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp.thirdparty:uadetector-core` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:uadetector-core` -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## net.sf.uadetector.resources
+
+4 modules name themselves as `net.sf.uadetector.resources`
 
 1. `com.guicedee.services:uadetector-resources` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jre11:uadetector-resources` -> [`0.63.0.12`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
@@ -1631,12 +1893,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.apache.commons.fileupload
 
+4 modules name themselves as `org.apache.commons.fileupload`
+
 1. `com.guicedee.services:commons-fileupload` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-fileupload` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11:commons-fileupload` -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:commons-fileupload` -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## org.apache.commons.io
+
+4 modules name themselves as `org.apache.commons.io`
 
 1. `com.guicedee.services:commons-io` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-io` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -1645,12 +1911,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.apache.commons.lang3
 
+4 modules name themselves as `org.apache.commons.lang3`
+
 1. `com.guicedee.services:commons-lang3` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-lang3` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11:commons-lang3` -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:commons-lang3` -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## org.apache.commons.text
+
+4 modules name themselves as `org.apache.commons.text`
 
 1. `com.guicedee.services:commons-text` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-text` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -1659,12 +1929,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.bouncycastle.mail
 
+4 modules name themselves as `org.bouncycastle.mail`
+
 1. `org.apache.tika:tika-app` -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`, `2.0.0-ALPHA`]
 1. `org.apache.tika:tika-server` -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`]
 1. `org.bouncycastle:bcmail-fips` -> [`1.0.2`, `1.0.3`]
 1. `org.bouncycastle:bcmail-jdk15on` -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
 
 ## org.bytedeco.tensorflow.platform
+
+4 modules name themselves as `org.bytedeco.tensorflow.platform`
 
 1. `org.bytedeco:tensorflow-platform-gpu` -> [`1.15.0-1.5.2`, `1.15.2-1.5.3`]
 1. `org.bytedeco:tensorflow-platform-python-gpu` -> [`1.15.0-1.5.2`, `1.15.2-1.5.3`]
@@ -1673,12 +1947,16 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.json
 
+4 modules name themselves as `org.json`
+
 1. `com.guicedee.services:json` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jre11:json` -> [`0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp.thirdparty:json` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:json` -> [`0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## org.objectweb.asm.tree.analysis
+
+4 modules name themselves as `org.objectweb.asm.tree.analysis`
 
 1. `fish.payara.extras:payara-embedded-all` -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.5`, `5.2020.6`, `5.2020.7`, `5.2021.1`]
 1. `fish.payara.extras:payara-embedded-web` -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.6`, `5.2020.7`, `5.2021.1`]
@@ -1687,6 +1965,8 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.openqa.selenium.chrome
 
+4 modules name themselves as `org.openqa.selenium.chrome`
+
 1. `ch.exense.step.examples:demo-appium-keyword` -> [`1.1.3`, `3.13.0`]
 1. `com.automation-remarks:video-recorder-remote` -> [`2.0`]
 1. `com.github.claremontqualitymanagement.TestAutomationFramework:TafFull` -> [`3.0.3`, `3.0.4`, `3.0.5`, `3.0.9`, `3.0.10`, `3.0.11`]
@@ -1694,11 +1974,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## aopalliance
 
+3 modules name themselves as `aopalliance`
+
 1. `com.guicedee.services:aopalliance-core` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jre11:aopalliance-core` -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp.thirdparty:aopalliance-core` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## be.webtechie.piheaders
+
+3 modules name themselves as `be.webtechie.piheaders`
 
 1. `be.webtechie:pi-headerPins` -> [`0.1.1`]
 1. `be.webtechie:pi-headers` -> [`0.0.3`, `0.1.1`]
@@ -1706,11 +1990,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.classmate
 
+3 modules name themselves as `com.fasterxml.classmate`
+
 1. `com.fasterxml:classmate` -> [`1.5.0`, `1.5.1`]
 1. `com.guicedee.services:classmate` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix` -> [`0.40.0`, `0.40.1`]
 
 ## com.fasterxml.jackson.dataformat.csv
+
+3 modules name themselves as `com.fasterxml.jackson.dataformat.csv`
 
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-csv` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.hortonworks.registries:avro-examples` -> [`0.9.0`, `0.9.1`]
@@ -1718,11 +2006,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.datatype.guava
 
+3 modules name themselves as `com.fasterxml.jackson.datatype.guava`
+
 1. `com.fasterxml.jackson.datatype:jackson-datatype-guava` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.github.priytam:exampleApp` -> [`1.0`, `1.1`, `1.1-java-8`, `1.2-java-8`, `1.3-java-8`, `1.4-java-8`, `1.5.1`]
 1. `io.github.marquezproject:marquez` -> [`0.11.1-rc.4`, `0.11.1`, `0.11.2`, `0.11.3-rc.1`, `0.11.3-rc.2`, `0.11.3-rc.3`, `0.11.3-rc.4`, `0.11.3`, `0.11.4-rc.1`, `0.11.4-rc.2`, `0.11.4-rc.3`]
 
 ## com.fasterxml.jackson.module.afterburner
+
+3 modules name themselves as `com.fasterxml.jackson.module.afterburner`
 
 1. `com.fasterxml.jackson.module:jackson-module-afterburner` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin` -> [`7.2.0`]
@@ -1730,11 +2022,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.module.guice
 
+3 modules name themselves as `com.fasterxml.jackson.module.guice`
+
 1. `com.fasterxml.jackson.module:jackson-module-guice` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.jwebmp.jackson.module:jackson-module-guice` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.module:jackson-module-guice` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.fasterxml.jackson.module.paranamer
+
+3 modules name themselves as `com.fasterxml.jackson.module.paranamer`
 
 1. `com.datamountaineer:kafka-connect-common` -> [`2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`]
 1. `com.fasterxml.jackson.module:jackson-module-paranamer` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
@@ -1742,11 +2038,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.github.rvesse.airline
 
+3 modules name themselves as `com.github.rvesse.airline`
+
 1. `com.github.rvesse:airline-examples` -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
 1. `com.github.rvesse:airline` -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
 1. `io.stargate.starter:stargate-starter` -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`]
 
 ## com.google.guice.extensions.persist
+
+3 modules name themselves as `com.google.guice.extensions.persist`
 
 1. `com.guicedee.services.extensions:guice-persist` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.guicedee.services:guice-persist` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
@@ -1754,11 +2054,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.google.guice.extensions.servlet
 
+3 modules name themselves as `com.google.guice.extensions.servlet`
+
 1. `com.guicedee.services.extensions:guice-servlet` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.guicedee.services:guice-servlet` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.jwebmp.inject.extensions:guice-servlet` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.headius.invokebinder
+
+3 modules name themselves as `com.headius.invokebinder`
 
 1. `com.headius:invokebinder` -> [`1.11`]
 1. `org.asciidoctor:asciidoctor-ant` -> [`1.6.2`]
@@ -1766,11 +2070,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.components.bootstrap.themes.sbadmin2
 
+3 modules name themselves as `com.jwebmp.components.bootstrap.themes.sbadmin2`
+
 1. `com.jwebmp.jre10:jwebmp-sb2-admin-theme` -> [`0.58.0.21-RCTEST`]
 1. `com.jwebmp.jre11:jwebmp-sb2-admin-theme` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-sb2-admin-theme` -> [`0.63.0.61`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularautoexpand
+
+3 modules name themselves as `com.jwebmp.plugins.angularautoexpand`
 
 1. `com.jwebmp.jre10:jwebmp-angular-auto-expand` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-auto-expand` -> [`0.62.0.1`]
@@ -1778,11 +2086,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularbootstrapdatetimepicker
 
+3 modules name themselves as `com.jwebmp.plugins.angularbootstrapdatetimepicker`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-date-time-picker` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-date-time-picker` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-bootstrap-date-time-picker` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularuibootstrap
+
+3 modules name themselves as `com.jwebmp.plugins.angularuibootstrap`
 
 1. `com.jwebmp.jre10:jwebmp-angular-ui-bootstrap` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ui-bootstrap` -> [`0.62.0.1`]
@@ -1790,11 +2102,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.angularuiselect
 
+3 modules name themselves as `com.jwebmp.plugins.angularuiselect`
+
 1. `com.jwebmp.jre10:jwebmp-angular-ui-select` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ui-select` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-angular-ui-select` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularuisortable
+
+3 modules name themselves as `com.jwebmp.plugins.angularuisortable`
 
 1. `com.jwebmp.jre10:jwebmp-angular-ui-sortable` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ui-sortable` -> [`0.62.0.1`]
@@ -1802,11 +2118,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.bluradmin
 
+3 modules name themselves as `com.jwebmp.plugins.bluradmin`
+
 1. `com.jwebmp.jre10:jwebmp-blur-admin-theme` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-blur-admin-theme` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-blur-admin-theme` -> [`0.63.0.61`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bootstrap
+
+3 modules name themselves as `com.jwebmp.plugins.bootstrap`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap` -> [`0.62.0.1`]
@@ -1814,11 +2134,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.bootstrap.dialog
 
+3 modules name themselves as `com.jwebmp.plugins.bootstrap.dialog`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-dialog` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-dialog` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-bootstrap-dialog` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bootstrapselect
+
+3 modules name themselves as `com.jwebmp.plugins.bootstrapselect`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap-select` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-select` -> [`0.62.0.1`]
@@ -1826,11 +2150,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.bootstrapswitch
 
+3 modules name themselves as `com.jwebmp.plugins.bootstrapswitch`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-switch` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-switch` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-bootstrap-switch` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bootstraptagsinput
+
+3 modules name themselves as `com.jwebmp.plugins.bootstraptagsinput`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap-tags-input` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-tags-input` -> [`0.62.0.1`]
@@ -1838,11 +2166,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.bsquickforms
 
+3 modules name themselves as `com.jwebmp.plugins.bsquickforms`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-quick-forms` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-quick-forms` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-bootstrap-quick-forms` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.c3
+
+3 modules name themselves as `com.jwebmp.plugins.c3`
 
 1. `com.jwebmp.jre11:jwebmp-c3` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.graphing:jwebmp-c3` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
@@ -1850,11 +2182,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.cordovify
 
+3 modules name themselves as `com.jwebmp.plugins.cordovify`
+
 1. `com.jwebmp.jre10:jwebmp-cordovify` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-cordovify` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-cordovify` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.d3
+
+3 modules name themselves as `com.jwebmp.plugins.d3`
 
 1. `com.jwebmp.jre11:jwebmp-d3` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.graphing:jwebmp-d3` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
@@ -1862,11 +2198,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.easingeffects
 
+3 modules name themselves as `com.jwebmp.plugins.easingeffects`
+
 1. `com.jwebmp.jre10:jwebmp-easing-effects` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-easing-effects` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.javascript:jwebmp-easing-effects` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 
 ## com.jwebmp.plugins.fontawesome
+
+3 modules name themselves as `com.jwebmp.plugins.fontawesome`
 
 1. `com.jwebmp.jre10:jwebmp-font-awesome` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-font-awesome` -> [`0.62.0.1`]
@@ -1874,11 +2214,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.jqruler
 
+3 modules name themselves as `com.jwebmp.plugins.jqruler`
+
 1. `com.jwebmp.jre10:jwebmp-jqruler` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jqruler` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-jqruler` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqueryui.themes
+
+3 modules name themselves as `com.jwebmp.plugins.jqueryui.themes`
 
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-themes` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
@@ -1886,11 +2230,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.jqueryui.themes.nestable
 
+3 modules name themselves as `com.jwebmp.plugins.jqueryui.themes.nestable`
+
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-themes-nestable` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes-nestable` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-jquery-ui-themes-nestable` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqueryverticaltimeline
+
+3 modules name themselves as `com.jwebmp.plugins.jqueryverticaltimeline`
 
 1. `com.jwebmp.jre10:jwebmp-jquery-vertical-timeline` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-vertical-timeline` -> [`0.62.0.1`]
@@ -1898,11 +2246,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.smartwizard
 
+3 modules name themselves as `com.jwebmp.plugins.smartwizard`
+
 1. `com.jwebmp.jre10:jwebmp-smart-wizard` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-smart-wizard` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-smart-wizard` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.smartwizard4
+
+3 modules name themselves as `com.jwebmp.plugins.smartwizard4`
 
 1. `com.jwebmp.jre11:jwebmp-smart-wizard-bootstrap4` -> [`0.62.0.1`]
 1. `com.jwebmp.plugins.forms:jwebmp-smart-wizard` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
@@ -1910,11 +2262,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.jwebmp.plugins.weblogappender
 
+3 modules name themselves as `com.jwebmp.plugins.weblogappender`
+
 1. `com.jwebmp.jre10:jwebmp-web-log-appender` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-web-log-appender` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-web-log-appender` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.sun.tools.ws.jaxws
+
+3 modules name themselves as `com.sun.tools.ws.jaxws`
 
 1. `com.sun.xml.ws:jaxws-tools` -> [`2.3.2`]
 1. `com.sun.xml.ws:tools` -> [`2.3.2`]
@@ -1922,11 +2278,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## com.sun.xml.fastinfoset
 
+3 modules name themselves as `com.sun.xml.fastinfoset`
+
 1. `com.expedia.www:haystack-agent` -> [`0.1.8`, `0.1.9`, `0.1.10`, `0.1.11`, `0.1.12`, `0.1.13`, `0.1.14`, `0.1.15`, `0.1.16`, `0.1.17`]
 1. `com.sun.xml.fastinfoset:FastInfoset` -> [`1.2.15`, `1.2.16`, `1.2.17`, `1.2.18`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0`]
 1. `org.realityforge.keycloak.converger:keycloak-converger` -> [`1.9`, `1.11`, `1.12`, `1.13`]
 
 ## com.sun.xml.ws.jaxws
+
+3 modules name themselves as `com.sun.xml.ws.jaxws`
 
 1. `com.sun.xml.ws:jaxws-rt` -> [`2.3.1`, `2.3.2`]
 1. `com.sun.xml.ws:runtime` -> [`2.3.2`]
@@ -1934,11 +2294,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## de.carne.swt.browseradapater
 
+3 modules name themselves as `de.carne.swt.browseradapater`
+
 1. `de.carne.common:java-swt-browseradapter-cocoa-macosx-x86_64` -> [`0.1.0`]
 1. `de.carne.common:java-swt-browseradapter-gtk-linux-x86_64` -> [`0.1.0`]
 1. `de.carne.common:java-swt-browseradapter-win32-win32-x86_64` -> [`0.1.0`]
 
 ## io.helidon.metrics
+
+3 modules name themselves as `io.helidon.metrics`
 
 1. `io.helidon.metrics:helidon-metrics2` -> [`1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`, `1.4.6`, `1.4.7`]
 1. `io.helidon.metrics:helidon-metrics` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
@@ -1946,11 +2310,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## java.transaction
 
+3 modules name themselves as `java.transaction`
+
 1. `com.guicedee.services:javax.transaction` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty:javax.transaction` -> [`0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec` -> [`2.0.0.Alpha1`]
 
 ## net.dongliu.cute.http.jsonb
+
+3 modules name themselves as `net.dongliu.cute.http.jsonb`
 
 1. `net.dongliu:cute-http-gson` -> [`1.2.2`, `3.0.0`]
 1. `net.dongliu:cute-http-jackson` -> [`1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`, `3.0.0`]
@@ -1958,11 +2326,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.apache.commons.logging
 
+3 modules name themselves as `org.apache.commons.logging`
+
 1. `com.guicedee.services:commons-logging` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `no.ssb.vtl:java-vtl-interpreter` -> [`0.1.0`]
 1. `org.slf4j:jcl-over-slf4j` -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`]
 
 ## org.apache.poi.ooxml
+
+3 modules name themselves as `org.apache.poi.ooxml`
 
 1. `com.github.zuinnote:hadoopoffice-hiveserde` -> [`1.4.0`]
 1. `com.guicedee.services:apache-poi-ooxml` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
@@ -1970,11 +2342,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.apache.tomcat.juli
 
+3 modules name themselves as `org.apache.tomcat.juli`
+
 1. `de.mklinger.tomcat:tomcat-juli-slf4j` -> [`9.0.38`]
 1. `org.apache.tomcat:tomcat-juli` -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`]
 1. `org.apache.tomee:tomee-juli` -> [`8.0.5`, `8.0.6`]
 
 ## org.apiguardian.api
+
+3 modules name themselves as `org.apiguardian.api`
 
 1. `org.apiguardian:apiguardian-api` -> [`1.1.0`, `1.1.1`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56` -> [`2.0.0`, `2.1.0`, `2.2.0`]
@@ -1982,11 +2358,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.assertj.core
 
+3 modules name themselves as `org.assertj.core`
+
 1. `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest` -> [`1.0.46`, `1.0.47`, `1.0.48`, `1.0.49`, `1.0.50`, `1.0.51`, `1.0.78`, `1.0.79`, `1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.0.89`, `1.0.90`, `1.0.91`, `1.0.93`, `1.0.94`, `1.0.95`, `1.0.96`, `1.0.97`, `1.0.98`, `1.0.99`, `1.0.102`, `1.0.103`, `1.0.104`, `1.0.105`, `1.0.106`, `1.0.107`, `1.0.110`, `1.0.111`, `1.0.112`, `1.0.113`, `1.0.114`, `1.0.115`, `1.0.117`, `1.0.119`, `1.0.120`, `1.0.121`, `1.0.125`, `1.0.126`, `1.0.127`]
 1. `org.assertj:assertj-core` -> [`3.13.0`, `3.13.1`, `3.13.2`, `3.14.0`, `3.15.0`, `3.16.0`, `3.16.1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.19.0`]
 1. `org.robotframework:javafxlibrary` -> [`0.5.3`, `0.5.4`, `0.5.5`, `0.6.0`, `0.7.0`, `0.7.1`]
 
 ## org.bytedeco.hdf5.platform
+
+3 modules name themselves as `org.bytedeco.hdf5.platform`
 
 1. `es.upm.etsisi:cf4j` -> [`2.1.1`]
 1. `org.bytedeco:hdf5-platform` -> [`1.10.5-1.5`, `1.10.5-1.5.1`, `1.10.5-1.5.2`, `1.12.0-1.5.3`, `1.12.0-1.5.4`]
@@ -1994,11 +2374,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.graalvm.truffle
 
+3 modules name themselves as `org.graalvm.truffle`
+
 1. `org.graalvm.truffle:truffle-api` -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`]
 1. `org.noear:luffy.executor.s.graaljs` -> [`1.0`]
 1. `org.noear:solonjt.executor.s.graaljs` -> [`1.0.4.4`, `1.0.4.7`]
 
 ## org.jruby.joni
+
+3 modules name themselves as `org.jruby.joni`
 
 1. `com.github.cukedoctor:cukedoctor-main` -> [`2.0`, `2.1`, `3.0`]
 1. `net.thisptr:jackson-jq-cli` -> [`0.0.10`]
@@ -2006,11 +2390,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.junit.vintage.engine
 
+3 modules name themselves as `org.junit.vintage.engine`
+
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55` -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56` -> [`1.7.0`]
 1. `org.junit.vintage:junit-vintage-engine` -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`]
 
 ## org.kordamp.iconli.core
+
+3 modules name themselves as `org.kordamp.iconli.core`
 
 1. `eu.hansolo.fx.regulators:regulators` -> [`11.0`, `11.2`, `11.5`]
 1. `eu.hansolo:regulators` -> [`11.6`]
@@ -2018,11 +2406,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.objectweb.asm.util
 
+3 modules name themselves as `org.objectweb.asm.util`
+
 1. `com.github.pxav.kelp:core` -> [`0.0.5`]
 1. `com.rookout:rook` -> [`0.1.65`, `0.1.66`, `0.1.67`, `0.1.68`, `0.1.69`, `0.1.70`, `0.1.71`, `0.1.72`, `0.1.73`, `0.1.74`, `0.1.75`, `0.1.76`, `0.1.77`, `0.1.78`, `0.1.79`, `0.1.80`, `0.1.81`, `0.1.82`, `0.1.83`, `0.1.84`, `0.1.85`, `0.1.86`, `0.1.87`, `0.1.88`, `0.1.89`, `0.1.90`, `0.1.91`, `0.1.92`, `0.1.93`, `0.1.94`, `0.1.95`, `0.1.96`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.107`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`, `0.1.122`, `0.1.123`, `0.1.124`, `0.1.125`, `0.1.126`, `0.1.127`, `0.1.128`, `0.1.129`, `0.1.130`, `0.1.132`, `0.1.133`, `0.1.134`, `0.1.135`, `0.1.136`, `0.1.137`, `0.1.138`, `0.1.139`, `0.1.140`, `0.1.141`, `0.1.142`, `0.1.143`, `0.1.144`, `0.1.145`, `0.1.146`, `0.1.147`, `0.1.148`, `0.1.149`, `0.1.150`, `0.1.151`, `0.1.152`, `0.1.153`, `0.1.154`, `0.1.155`, `0.1.156`, `0.1.157`, `0.1.158`, `0.1.159`]
 1. `org.ow2.asm:asm-util` -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`]
 
 ## org.openqa.selenium.remote
+
+3 modules name themselves as `org.openqa.selenium.remote`
 
 1. `com.infotel.seleniumRobot:core` -> [`4.4.0`, `4.4.1`, `4.4.2`, `4.4.3`, `4.4.4`, `4.5.0`, `4.5.1`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.7.2`, `4.7.3`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.8.4`, `4.8.5`, `4.8.6`, `4.8.7`, `4.8.8`, `4.9.0`, `4.9.1`, `4.9.2`, `4.9.3`, `4.10.0`, `4.11.0`, `4.11.1`, `4.11.2`, `4.12.0`, `4.13.0`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.0`, `4.14.1`, `4.15.0`, `4.15.1`, `4.15.2`, `4.15.3`, `4.16.0`, `4.16.1`, `4.16.2`, `4.17.0`, `4.18.0`, `4.18.1`, `4.18.2`]
 1. `io.github.jaqat:remoterobot` -> [`0.2.1`, `0.2.2`]
@@ -2030,11 +2422,15 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## org.seleniumhq.selenium.java
 
+3 modules name themselves as `org.seleniumhq.selenium.java`
+
 1. `com.gitee.pyqone:autest` -> [`2.1.0`]
 1. `io.github.multicatch:cucumber-audit-standalone` -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.seleniumhq.selenium:selenium-java` -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`]
 
 ## tm.bitronix.btm
+
+3 modules name themselves as `tm.bitronix.btm`
 
 1. `com.guicedee.services:btm` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.guicedee.persistence:btm` -> [`0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -2042,1300 +2438,1820 @@ Modules that repackaged (shadowed) into other artifacts x-times...
 
 ## builderCore
 
+2 modules name themselves as `builderCore`
+
 1. `com.github.srujankujmar:builder-core` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:builder-core` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## builderservices
+
+2 modules name themselves as `builderservices`
 
 1. `com.github.srujankujmar:builder-services` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:builder-services` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## cache.annotations.ri.common
 
+2 modules name themselves as `cache.annotations.ri.common`
+
 1. `com.guicedee.services:cache-annotations-ri-common` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty.jcache:cache-annotations-ri-common` -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## cache.annotations.ri.guice
+
+2 modules name themselves as `cache.annotations.ri.guice`
 
 1. `com.guicedee.services:cache-annotations-ri-guice` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty.jcache:cache-annotations-ri-guice` -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## cache.api
 
+2 modules name themselves as `cache.api`
+
 1. `com.guicedee.services:cache-api` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty.jcache:cache-api` -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## ch.qos.logback.core
+
+2 modules name themselves as `ch.qos.logback.core`
 
 1. `ch.qos.logback:logback-core` -> [`1.3.0-alpha4`, `1.3.0-alpha5`]
 1. `com.github.gv2011.logback:logback-core` -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`]
 
 ## charts
 
+2 modules name themselves as `charts`
+
 1. `eu.hansolo.fx.charts:charts` -> [`11.0`]
 1. `eu.hansolo.fx:charts` -> [`11.1`, `11.2`, `11.3`, `11.4`, `11.5`, `11.6`]
 
 ## co.paralleluniverse.quasar.core
+
+2 modules name themselves as `co.paralleluniverse.quasar.core`
 
 1. `co.paralleluniverse:quasar-core` -> [`0.8.0`]
 1. `com.hiddenswitch:spellsource-net` -> [`0.8.20`]
 
 ## com.blazebit.persistence.integration.datanucleus
 
+2 modules name themselves as `com.blazebit.persistence.integration.datanucleus`
+
 1. `com.blazebit:blaze-persistence-integration-datanucleus-5.1` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 1. `com.blazebit:blaze-persistence-integration-datanucleus` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 
 ## com.blazebit.persistence.integration.deltaspike.data.impl
+
+2 modules name themselves as `com.blazebit.persistence.integration.deltaspike.data.impl`
 
 1. `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.7` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 1. `com.blazebit:blaze-persistence-integration-deltaspike-data-impl-1.8` -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`]
 
 ## com.fasterxml.jackson.dataformat.javaprop
 
+2 modules name themselves as `com.fasterxml.jackson.dataformat.javaprop`
+
 1. `com.devappliance.ninjadoc:ninjadoc-openapi` -> [`0.0.1`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-properties` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 
 ## com.fasterxml.jackson.datatype.jaxrs
+
+2 modules name themselves as `com.fasterxml.jackson.datatype.jaxrs`
 
 1. `com.fasterxml.jackson.datatype:jackson-datatype-jaxrs` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.guicedee.services:jackson-datatype-jaxrs` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
 
 ## com.fasterxml.jackson.datatype.joda
 
+2 modules name themselves as `com.fasterxml.jackson.datatype.joda`
+
 1. `com.fasterxml.jackson.datatype:jackson-datatype-joda-money` -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.fasterxml.jackson.datatype:jackson-datatype-joda` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 
 ## com.fasterxml.jackson.jaxrs.base
+
+2 modules name themselves as `com.fasterxml.jackson.jaxrs.base`
 
 1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-base` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 1. `com.guicedee.services:jackson-jaxrs-base` -> [`0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 
 ## com.fasterxml.jackson.jaxrs.yaml
 
+2 modules name themselves as `com.fasterxml.jackson.jaxrs.yaml`
+
 1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-xml-provider` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`]
 1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-yaml-provider` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
 
 ## com.github.collinalpert.lambda2sql
+
+2 modules name themselves as `com.github.collinalpert.lambda2sql`
 
 1. `com.github.collinalpert:java2db` -> [`2.3.3`, `2.3.4`]
 1. `com.github.collinalpert:lambda2sql` -> [`1.7`, `1.8`]
 
 ## com.github.cowwoc.pouch.core
 
+2 modules name themselves as `com.github.cowwoc.pouch.core`
+
 1. `com.github.cowwoc.pouch:core` -> [`2.1`]
 1. `com.github.cowwoc:pouch.core` -> [`2.0`]
 
 ## com.github.librepdf.openpdf
+
+2 modules name themselves as `com.github.librepdf.openpdf`
 
 1. `com.github.librepdf:openpdf` -> [`1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`]
 1. `com.guicedee.services:openpdf` -> [`1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 
 ## com.github.themrmilchmann.mjl.events
 
+2 modules name themselves as `com.github.themrmilchmann.mjl.events`
+
 1. `com.github.themrmilchmann.mjl:mjl-events` -> [`1.1.3`, `1.2.0`, `2.0.0`, `2.0.1`]
 1. `com.github.themrmilchmann.mjl:mjl-options` -> [`0.1.0`, `0.2.0`]
 
 ## com.gluonhq.attach.audio.recording
+
+2 modules name themselves as `com.gluonhq.attach.audio.recording`
 
 1. `com.gluonhq.attach:audio-recording` -> [`4.0.7`, `4.0.8`, `4.0.9`]
 1. `com.gluonhq.attach:augmented-reality` -> [`4.0.7`, `4.0.8`, `4.0.9`]
 
 ## com.google.guice
 
+2 modules name themselves as `com.google.guice`
+
 1. `com.guicedee.services:guice` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.inject:guice` -> [`0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.google.guice.extensions.assistedinject
+
+2 modules name themselves as `com.google.guice.extensions.assistedinject`
 
 1. `com.guicedee.services:guice-assistedinject` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.jwebmp.inject.extensions:guice-assistedinject` -> [`0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.google.guice.extensions.grapher
 
+2 modules name themselves as `com.google.guice.extensions.grapher`
+
 1. `com.guicedee.services:guice-grapher` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.jwebmp.inject.extensions:guice-grapher` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.google.guice.extensions.jmx
+
+2 modules name themselves as `com.google.guice.extensions.jmx`
 
 1. `com.guicedee.services:guice-jmx` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.jwebmp.inject.extensions:guice-jmx` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.google.guice.extensions.jndi
 
+2 modules name themselves as `com.google.guice.extensions.jndi`
+
 1. `com.guicedee.services:guice-jndi` -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.jwebmp.inject.extensions:guice-jndi` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.jtconnors.socket
+
+2 modules name themselves as `com.jtconnors.socket`
 
 1. `com.jtconnors.socket:com.jtconnors.socket` -> [`11.0.1`]
 1. `com.jtconnors:com.jtconnors.socket` -> [`11.0.2`, `11.0.3`]
 
 ## com.jwebmp.core.angularjs
 
+2 modules name themselves as `com.jwebmp.core.angularjs`
+
 1. `com.jwebmp.plugins.angular:jwebmp-plugins-angularjs` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-angularjs` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.entityassist
+
+2 modules name themselves as `com.jwebmp.entityassist`
 
 1. `com.jwebmp.guicedee.persistence:entity-assist` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:entity-assist` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`]
 
 ## com.jwebmp.guiced.rest
 
+2 modules name themselves as `com.jwebmp.guiced.rest`
+
 1. `com.jwebmp.guicedee.servlets:guiced-rest-services` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:guiced-rest-services` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guiced.swagger
+
+2 modules name themselves as `com.jwebmp.guiced.swagger`
 
 1. `com.jwebmp.guicedee.servlets:guiced-swagger` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:guiced-swagger` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedpersistence.btm
 
+2 modules name themselves as `com.jwebmp.guicedpersistence.btm`
+
 1. `com.jwebmp.guicedee.persistence:guiced-persistence-btm` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:guiced-persistence-btm` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.guicedservlets.jsf
+
+2 modules name themselves as `com.jwebmp.guicedservlets.jsf`
 
 1. `com.jwebmp.guicedee.servlets:guiced-servlets-jsf` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp:guiced-servlets-jsf` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.atmosphere
 
+2 modules name themselves as `com.jwebmp.plugins.atmosphere`
+
 1. `com.jwebmp.jre10:jwebmp-atmosphere` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-atmosphere` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.atmosphere.undertow
+
+2 modules name themselves as `com.jwebmp.plugins.atmosphere.undertow`
 
 1. `com.jwebmp.jre10:jwebmp-atmospherepush-undertow` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-atmospherepush-undertow` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.bootstrap.dialog4
 
+2 modules name themselves as `com.jwebmp.plugins.bootstrap.dialog4`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-dialog4` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-dialog4` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.bootswatch4
+
+2 modules name themselves as `com.jwebmp.plugins.bootswatch4`
 
 1. `com.jwebmp.jre10:jwebmp-bootswatch-4` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootswatch-4` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.bs4.dialog
 
+2 modules name themselves as `com.jwebmp.plugins.bs4.dialog`
+
 1. `com.jwebmp.plugins.bootstrap:jwebmp-bootstrap-dialog4` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`]
 1. `com.jwebmp:jwebmp-bootstrap-dialog4` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bs4datetimepicker
+
+2 modules name themselves as `com.jwebmp.plugins.bs4datetimepicker`
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap4-date-time-picker` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap4-date-time-picker` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.bsquickforms4
 
+2 modules name themselves as `com.jwebmp.plugins.bsquickforms4`
+
 1. `com.jwebmp.jre10:jwebmp-bootstrap-quick-forms4` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap-quick-forms4` -> [`0.62.0.1`]
 
 ## com.jwebmp.plugins.d3.reingoldtilfordtree
+
+2 modules name themselves as `com.jwebmp.plugins.d3.reingoldtilfordtree`
 
 1. `com.jwebmp.jre11:jwebmp-d3-reigngold-tilford-tree` -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-d3-reigngold-tilford-tree` -> [`0.63.0.61`, `0.65.0.2`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqueryuidatetimepicker
 
+2 modules name themselves as `com.jwebmp.plugins.jqueryuidatetimepicker`
+
 1. `com.jwebmp.jre10:jwebmp-jqueryui-datetime-picker` -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jqueryui-datetime-picker` -> [`0.62.0.1`]
 
 ## com.kohlschutter.junixsocket.core
+
+2 modules name themselves as `com.kohlschutter.junixsocket.core`
 
 1. `com.kohlschutter.junixsocket:junixsocket-core` -> [`2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.3.2`]
 1. `org.apache.flink:statefun-flink-datastream` -> [`2.2.0`, `2.2.1`, `2.2.2`]
 
 ## com.microsoft.sqlserver.jdbc
 
+2 modules name themselves as `com.microsoft.sqlserver.jdbc`
+
 1. `com.guicedee.services:mssql-jdbc` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.sqlserver:mssql-jdbc` -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.nexitia.emaginplatform.coreview.definition
+
+2 modules name themselves as `com.nexitia.emaginplatform.coreview.definition`
 
 1. `com.nexitia.emaginplatform:emagin-jfxcore-viewdefinition-json` -> [`11.1`]
 1. `com.nexitia.emaginplatform:emagin-jfxcore-viewdefinition` -> [`11.1`]
 
 ## com.samskivert.jmustache
 
+2 modules name themselves as `com.samskivert.jmustache`
+
 1. `com.samskivert:jmustache` -> [`1.15`]
 1. `io.garam:core` -> [`0.4`]
 
 ## com.sshtools.icongenerator.swing
+
+2 modules name themselves as `com.sshtools.icongenerator.swing`
 
 1. `com.sshtools:icon-generator-swing` -> [`1.2`, `1.3.1`, `1.4.0`, `1.4.2`, `1.4.3`]
 1. `com.sshtools:icon-generator-swt` -> [`1.3.1`, `1.4.0`, `1.4.2`, `1.4.3`]
 
 ## com.sun.tools.jaxws
 
+2 modules name themselves as `com.sun.tools.jaxws`
+
 1. `com.sun.xml.ws:jaxws-tools` -> [`2.3.1`]
 1. `org.glassfish.metro:webservices-tools` -> [`2.4.2`]
 
 ## com.sun.tools.jxc
+
+2 modules name themselves as `com.sun.tools.jxc`
 
 1. `com.sun.xml.bind:jaxb-jxc` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 1. `org.glassfish.jaxb:jaxb-jxc` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`]
 
 ## com.sun.tools.ws
 
+2 modules name themselves as `com.sun.tools.ws`
+
 1. `com.sun.xml.ws:jaxws-tools` -> [`2.3.3-b01`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 1. `com.sun.xml.ws:wscompile` -> [`2.3.1`, `2.3.2`]
 
 ## com.sun.xml.txw2
+
+2 modules name themselves as `com.sun.xml.txw2`
 
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.jaxb-runtime` -> [`2.3.2_1`, `2.3.2_2`]
 1. `org.glassfish.jaxb:txw2` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 
 ## com.sun.xml.ws
 
+2 modules name themselves as `com.sun.xml.ws`
+
 1. `com.sun.xml.ws:jaxws-rt` -> [`2.3.3-b01`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 1. `com.sun.xml.ws:rt` -> [`2.3.1`, `2.3.2`]
 
 ## com.sun.xml.xsom
+
+2 modules name themselves as `com.sun.xml.xsom`
 
 1. `no.entur:schema2proto-xsom` -> [`1.0-alpha-25`, `1.0`, `1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`]
 1. `org.glassfish.jaxb:xsom` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 
 ## com.truthbean.logger.log4j2
 
+2 modules name themselves as `com.truthbean.logger.log4j2`
+
 1. `com.truthbean.logger:log4j2-adapter` -> [`0.1.0-RELEASE`, `0.1.1-RELEASE`, `0.2.0-RELEASE`, `0.3.0-RELEASE`, `0.3.1-RELEASE`]
 1. `com.truthbean.logger:logger-to-log4j2` -> [`0.4.0-RELEASE`]
 
 ## com.truthbean.logger.slf4j
+
+2 modules name themselves as `com.truthbean.logger.slf4j`
 
 1. `com.truthbean.logger:logger-to-slf4j` -> [`0.4.0-RELEASE`]
 1. `com.truthbean.logger:slf4j-adapter` -> [`0.1.0-RELEASE`, `0.1.1-RELEASE`, `0.2.0-RELEASE`, `0.3.0-RELEASE`, `0.3.1-RELEASE`]
 
 ## com.truthbean.logger.stdout
 
+2 modules name themselves as `com.truthbean.logger.stdout`
+
 1. `com.truthbean.logger:logger-stdout` -> [`0.4.0-RELEASE`]
 1. `com.truthbean.logger:stdout-adapter` -> [`0.1.0-RELEASE`, `0.1.1-RELEASE`, `0.2.0-RELEASE`, `0.3.0-RELEASE`, `0.3.1-RELEASE`]
 
 ## commons
+
+2 modules name themselves as `commons`
 
 1. `com.github.srujankujmar:commons` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:commons` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## controller.service
 
+2 modules name themselves as `controller.service`
+
 1. `com.github.srujankujmar:controller-service` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:controller-service` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## de.carne
+
+2 modules name themselves as `de.carne`
 
 1. `de.carne.common:java-default` -> [`10.0.0`, `10.1.0`, `10.2.0`]
 1. `de.carne:java-default` -> [`10.2.0`, `10.2.1`]
 
 ## de.carne.compression
 
+2 modules name themselves as `de.carne.compression`
+
 1. `de.carne.common:java-compression` -> [`5.0.0`]
 1. `de.carne:java-compression` -> [`5.0.1`]
 
 ## de.carne.mcd
+
+2 modules name themselves as `de.carne.mcd`
 
 1. `de.carne.common:java-mcd-default` -> [`0.2.0`]
 1. `de.carne:java-mcd-default` -> [`0.2.1`]
 
 ## de.carne.mcd.jvmdecoder
 
+2 modules name themselves as `de.carne.mcd.jvmdecoder`
+
 1. `de.carne.common:java-mcd-jvmdecoder` -> [`0.2.0`]
 1. `de.carne:java-mcd-jvmdecoder` -> [`0.2.1`]
 
 ## de.carne.mcd.x86decoder
+
+2 modules name themselves as `de.carne.mcd.x86decoder`
 
 1. `de.carne.common:java-mcd-x86decoder` -> [`0.2.0`]
 1. `de.carne:java-mcd-x86decoder` -> [`0.2.1`]
 
 ## de.carne.test
 
+2 modules name themselves as `de.carne.test`
+
 1. `de.carne.common:java-test` -> [`2.0.0`, `2.0.1`]
 1. `de.carne:java-test` -> [`2.0.2`]
 
 ## deployer.services
+
+2 modules name themselves as `deployer.services`
 
 1. `com.github.srujankujmar:deployer-services` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:deployer-services` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## deployerModel
 
+2 modules name themselves as `deployerModel`
+
 1. `com.github.srujankujmar:deployer-core` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:deployer-core` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## dockerfilegencore
+
+2 modules name themselves as `dockerfilegencore`
 
 1. `com.github.srujankujmar:dockerfile-gen-core` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:dockerfile-gen-core` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## dockerfilegenservices
 
+2 modules name themselves as `dockerfilegenservices`
+
 1. `com.github.srujankujmar:dockerfile-gen-services` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:dockerfile-gen-services` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## geci.examples
+
+2 modules name themselves as `geci.examples`
 
 1. `com.javax0.geci:javageci-examples` -> [`1.6.0`, `1.6.2`, `1.6.2.1`]
 1. `com.javax0.geci:javageci-jamal` -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.2.0`, `1.4.0`, `1.5.0`, `1.6.0`]
 
 ## gmbal
 
+2 modules name themselves as `gmbal`
+
 1. `org.glassfish.gmbal:gmbal-api-only` -> [`4.0.2`]
 1. `org.glassfish.gmbal:gmbal` -> [`4.0.2`]
 
 ## helidon.build.utils
+
+2 modules name themselves as `helidon.build.utils`
 
 1. `io.helidon.build-tools:helidon-utils` -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`]
 1. `io.helidon.build-tools:utils` -> [`1.1.0`, `1.1.1`, `2.0.0-M1`]
 
 ## immutable.json.jackson
 
+2 modules name themselves as `immutable.json.jackson`
+
 1. `net.hamnaberg.json:immutable-json-jackson` -> [`7.0.0`, `7.0.1`, `7.1.0`]
 1. `net.hamnaberg.json:immutable-json-javax` -> [`7.0.0`, `7.0.1`]
 
 ## inet.ipaddr
+
+2 modules name themselves as `inet.ipaddr`
 
 1. `ch.cern:cerndb-sw-zkpolicy` -> [`1.0.1-9`, `1.0.1-11`]
 1. `com.github.seancfoley:ipaddress` -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.1.0`, `5.2.0`, `5.2.1`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`]
 
 ## io.annot8.components.text
 
+2 modules name themselves as `io.annot8.components.text`
+
 1. `io.annot8:annot8-components-text` -> [`0.1.0`, `0.2.0`, `0.4.0`, `0.5.0`, `1.0.0`, `1.1.0`]
 1. `io.annot8:annot8-components-types` -> [`0.4.0`]
 
 ## io.github.factoryfx.microserviceRestServer
+
+2 modules name themselves as `io.github.factoryfx.microserviceRestServer`
 
 1. `io.github.factoryfx:microserviceRestResource` -> [`2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.2.7`, `2.2.8`, `2.2.9`, `2.2.10`, `2.2.11`, `2.2.12`, `2.2.13`, `2.2.14`, `2.2.15`, `2.2.16`, `2.2.17`, `2.2.18`, `2.2.19`, `2.2.20`, `2.2.21`]
 1. `io.github.factoryfx:microserviceRestServer` -> [`2.0.0`, `2.0.5`, `2.0.9`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`, `2.0.15`, `2.0.17`, `2.0.19`, `2.0.20`, `2.0.21`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`]
 
 ## io.github.jmcleodfoss.msg
 
+2 modules name themselves as `io.github.jmcleodfoss.msg`
+
 1. `io.github.jmcleodfoss:msg` -> [`1.0.0`]
 1. `io.github.jmcleodfoss:msgexplorer` -> [`1.0.0`, `1.0.1`]
 
 ## io.github.jsoagger.coreview.definition
+
+2 modules name themselves as `io.github.jsoagger.coreview.definition`
 
 1. `io.github.jsoagger:jsoagger-jfxcore-viewdefinition-json` -> [`1.0.0`]
 1. `io.github.jsoagger:jsoagger-jfxcore-viewdefinition` -> [`1.0.0`]
 
 ## io.github.mmm.marshall.stax
 
+2 modules name themselves as `io.github.mmm.marshall.stax`
+
 1. `io.github.m-m-m:mmm-marshal-stax` -> [`0.1.0`, `0.1.1`]
 1. `io.github.m-m-m:mmm-marshall-stax` -> [`0.2.0`]
 
 ## io.helidon.messaging.connectors.kafka
+
+2 modules name themselves as `io.helidon.messaging.connectors.kafka`
 
 1. `io.helidon.messaging.connectors.kafka:helidon-messaging-connectors-kafka` -> [`2.0.0-M3`]
 1. `io.helidon.messaging.kafka:helidon-messaging-kafka` -> [`2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 
 ## io.helidon.microprofile.metrics
 
+2 modules name themselves as `io.helidon.microprofile.metrics`
+
 1. `io.helidon.microprofile.metrics:helidon-microprofile-metrics2` -> [`1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`, `1.4.6`, `1.4.7`]
 1. `io.helidon.microprofile.metrics:helidon-microprofile-metrics` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 
 ## io.helidon.security.abac.policy
+
+2 modules name themselves as `io.helidon.security.abac.policy`
 
 1. `io.helidon.security.abac:helidon-security-abac-policy` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-abac-policy` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.helidon.security.abac.policy.el
 
+2 modules name themselves as `io.helidon.security.abac.policy.el`
+
 1. `io.helidon.security.abac:helidon-security-abac-policy-el` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-abac-policy-el` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.helidon.security.abac.role
+
+2 modules name themselves as `io.helidon.security.abac.role`
 
 1. `io.helidon.security.abac:helidon-security-abac-role` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-abac-role` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.helidon.security.abac.scope
 
+2 modules name themselves as `io.helidon.security.abac.scope`
+
 1. `io.helidon.security.abac:helidon-security-abac-scope` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-abac-scope` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.helidon.security.abac.time
+
+2 modules name themselves as `io.helidon.security.abac.time`
 
 1. `io.helidon.security.abac:helidon-security-abac-time` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-abac-time` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.helidon.security.bundle
 
+2 modules name themselves as `io.helidon.security.bundle`
+
 1. `io.helidon.bundles:helidon-bundles-security` -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `io.helidon.security:helidon-security-bundle` -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## io.litterat.pep
+
+2 modules name themselves as `io.litterat.pep`
 
 1. `io.litterat:litterat-pep` -> [`0.5.0`]
 1. `io.litterat:pep-java` -> [`0.5.0`]
 
 ## io.questdb
 
+2 modules name themselves as `io.questdb`
+
 1. `org.questdb:core` -> [`5.0.0`, `5.0.1`]
 1. `org.questdb:questdb` -> [`5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`]
 
 ## io.vulpine.lib.sql.load
+
+2 modules name themselves as `io.vulpine.lib.sql.load`
 
 1. `io.vulpine.lib:java-sql-import` -> [`0.2.0`]
 1. `io.vulpine.lib:sql-import` -> [`0.2.1`]
 
 ## jakarta.annotation
 
+2 modules name themselves as `jakarta.annotation`
+
 1. `jakarta.annotation:jakarta.annotation-api` -> [`2.0.0`]
 1. `org.apache.tomcat:tomcat-annotations-api` -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`]
 
 ## jakarta.enterprise.cdi
+
+2 modules name themselves as `jakarta.enterprise.cdi`
 
 1. `com.guicedee.services:cdi-api` -> [`1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.guicedee.services:jakarta.enterprise.cdi-api` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 
 ## jakarta.enterprise.interceptor
 
+2 modules name themselves as `jakarta.enterprise.interceptor`
+
 1. `com.guicedee.services:interceptor-api` -> [`1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `com.guicedee.services:jakarta.interceptor-api` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 
 ## jakarta.json
+
+2 modules name themselves as `jakarta.json`
 
 1. `jakarta.json:jakarta.json-api` -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`]
 1. `org.glassfish:jakarta.json` -> [`2.0.0`]
 
 ## jakarta.jws
 
+2 modules name themselves as `jakarta.jws`
+
 1. `com.guicedee.services:jakarta.jws-api` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `jakarta.jws:jakarta.jws-api` -> [`3.0.0-rc1`, `3.0.0-RC2`, `3.0.0`]
 
 ## jakarta.persistence
+
+2 modules name themselves as `jakarta.persistence`
 
 1. `jakarta.persistence:jakarta.persistence-api` -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`]
 1. `org.jboss.weld:weld-osgi-bundle` -> [`4.0.0.Beta1`, `4.0.0.Beta2`]
 
 ## jakarta.ws.rs
 
+2 modules name themselves as `jakarta.ws.rs`
+
 1. `com.guicedee.services:jakarta.ws.rs-api` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `jakarta.ws.rs:jakarta.ws.rs-api` -> [`3.0.0-M1`, `3.0.0`]
 
 ## jakarta.xml.soap
+
+2 modules name themselves as `jakarta.xml.soap`
 
 1. `com.guicedee.services:jakarta.xml.soap-api` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `jakarta.xml.soap:jakarta.xml.soap-api` -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`]
 
 ## jakarta.xml.ws
 
+2 modules name themselves as `jakarta.xml.ws`
+
 1. `com.guicedee.services:jakarta.xml.ws-api` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `jakarta.xml.ws:jakarta.xml.ws-api` -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0-RC3`, `3.0.0`]
 
 ## jamal.core
+
+2 modules name themselves as `jamal.core`
 
 1. `com.javax0.jamal:jamal-core` -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.1`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.7.0`]
 1. `com.javax0.jamal:jamal-extensions` -> [`1.0.1`]
 
 ## java.activation
 
+2 modules name themselves as `java.activation`
+
 1. `com.guicedee.services:javax.activation` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty:javax.activation` -> [`0.67.0.5`, `0.67.0.7`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## java.measure
+
+2 modules name themselves as `java.measure`
 
 1. `io.pcp.agentparfait:parfait-agent` -> [`1.1.0`]
 1. `javax.measure:unit-api` -> [`2.0-PRD`, `2.1`, `2.1.1`, `2.1.2`]
 
 ## java.xml.soap
 
+2 modules name themselves as `java.xml.soap`
+
 1. `jakarta.xml.soap:jakarta.xml.soap-api` -> [`1.4.1`]
 1. `org.apache.servicemix.specs:org.apache.servicemix.specs.saaj-api-1.4` -> [`1.4_1`, `1.4_2`]
 
 ## javax.ejb
+
+2 modules name themselves as `javax.ejb`
 
 1. `com.guicedee.services:ejb-api` -> [`1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`]
 1. `com.guicedee.services:jakarta.ejb-api` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 
 ## javax.jms
 
+2 modules name themselves as `javax.jms`
+
 1. `com.guicedee.services:javax.jms-api` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty.jms:javax.jms-api` -> [`0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## javax.jws
+
+2 modules name themselves as `javax.jws`
 
 1. `com.guicedee.services:jakarta.jws-api` -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`]
 1. `javax.jws:javax.jws-api` -> [`1.1`]
 
 ## jetty.servlet.api
 
+2 modules name themselves as `jetty.servlet.api`
+
 1. `org.eclipse.jetty.toolchain:jetty-jakarta-servlet-api` -> [`5.0.0`, `5.0.1`, `5.0.2`]
 1. `org.eclipse.jetty.toolchain:jetty-servlet-api` -> [`4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`]
 
 ## jetty.websocket.api
+
+2 modules name themselves as `jetty.websocket.api`
 
 1. `org.eclipse.jetty.toolchain:jetty-jakarta-websocket-api` -> [`2.0.0`]
 1. `org.eclipse.jetty.toolchain:jetty-javax-websocket-api` -> [`1.1.2`]
 
 ## jfxtras.icalendaragenda
 
+2 modules name themselves as `jfxtras.icalendaragenda`
+
 1. `org.jfxtras:jfxtras-all` -> [`9.0-r1`, `10.0-r1`]
 1. `org.jfxtras:jfxtras-icalendaragenda` -> [`9.0-r1`, `10.0-r1`]
 
 ## jpastreamer.core
+
+2 modules name themselves as `jpastreamer.core`
 
 1. `com.speedment.jpastreamer:core` -> [`0.1.0`, `0.1.1`, `0.1.2`, `0.1.3`, `0.1.4`, `0.1.5`]
 1. `com.speedment.jpastreamer:jpastreamer-core` -> [`0.1.6`, `0.1.7`, `0.1.8`, `1.0.0`, `1.0.1`]
 
 ## kiwi
 
+2 modules name themselves as `kiwi`
+
 1. `com.github.tix320:kiwi` -> [`0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.11.1`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.1`, `0.17.2`, `0.17.3`, `0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`, `0.22.0`, `0.23.0`, `0.24.0`, `0.25.0`, `1.0.0`, `1.0.1`]
 1. `com.gitlab.tixtix320:kiwi` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`]
 
 ## manifestGenerator
+
+2 modules name themselves as `manifestGenerator`
 
 1. `com.github.srujankujmar:generator-services` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:generator-services` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## methanol.adapter.jackson
 
+2 modules name themselves as `methanol.adapter.jackson`
+
 1. `com.github.mizosoft.methanol:benchmarks` -> [`1.0.0`]
 1. `com.github.mizosoft.methanol:methanol-jackson` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.1`]
 
 ## net.dongliu.cute.http
+
+2 modules name themselves as `net.dongliu.cute.http`
 
 1. `net.dongliu:cute-http` -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`, `3.0.0`]
 1. `net.dongliu:xhttp` -> [`3.0.0`, `3.1.0`]
 
 ## net.tascalate.concurrent
 
+2 modules name themselves as `net.tascalate.concurrent`
+
 1. `net.tascalate.concurrent:net.tascalate.concurrent.lib` -> [`0.7.0`, `0.7.1`]
 1. `net.tascalate:net.tascalate.concurrent` -> [`0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.8.4`, `0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`]
 
 ## netiberos.core
+
+2 modules name themselves as `netiberos.core`
 
 1. `com.github.casterkkk:core` -> [`0.0.1`]
 1. `com.github.casterkkk:netiberos-core` -> [`0.0.1`]
 
 ## no.ssb.rawdata.kafka
 
+2 modules name themselves as `no.ssb.rawdata.kafka`
+
 1. `no.ssb.rawdata:rawdata-client-provider-kafka` -> [`0.2`, `0.3`]
 1. `no.ssb.rawdata:rawdata-client-streams-provider-kafka` -> [`0.1`]
 
 ## no.ssb.rawdata.state.provider.h2db
+
+2 modules name themselves as `no.ssb.rawdata.state.provider.h2db`
 
 1. `no.ssb.rawdata:rawdata-client-state-provider-h2` -> [`0.2`, `0.3`, `0.4`]
 1. `no.ssb.rawdata:rawdata-state-provider-h2` -> [`0.1`]
 
 ## no.ssb.rawdata.storage.provider.filesystem
 
+2 modules name themselves as `no.ssb.rawdata.storage.provider.filesystem`
+
 1. `no.ssb.rawdata:rawdata-client-storage-provider-local-filesystem` -> [`0.3`, `0.4`, `0.5`]
 1. `no.ssb.rawdata:rawdata-storage-provider-local-filesystem` -> [`0.2`]
 
 ## orchestra.common
+
+2 modules name themselves as `orchestra.common`
 
 1. `io.fixprotocol.orchestra:orchestra-common` -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.6.10`]
 1. `io.fixprotocol.tablature:orchestra-common` -> [`0.4.0`, `0.4.1`]
 
 ## orchestra.repository.docgen
 
+2 modules name themselves as `orchestra.repository.docgen`
+
 1. `io.fixprotocol.orchestra:docgen` -> [`1.6.1`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.7`, `1.6.8`]
 1. `io.fixprotocol.orchestra:orchestra2doc` -> [`1.6.9`, `1.6.10`]
 
 ## org.apache.commons.collections4
+
+2 modules name themselves as `org.apache.commons.collections4`
 
 1. `com.guicedee.services:commons-collections4` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-collections4` -> [`0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`]
 
 ## org.apache.commons.compress
 
+2 modules name themselves as `org.apache.commons.compress`
+
 1. `com.guicedee.services:commons-compress` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress` -> [`1.18.1`, `1.19.0`]
 
 ## org.apache.commons.csv
+
+2 modules name themselves as `org.apache.commons.csv`
 
 1. `com.guicedee.services:commons-csv` -> [`1.0.2.0`, `1.0.2.0-jre8`, `1.0.2.0-jre12`, `1.0.2.0-jre13`, `1.0.2.1`, `1.0.2.1-jre12`, `1.0.2.1-jre13`, `1.0.2.2`, `1.0.2.2-jre8`, `1.0.2.2-jre12`, `1.0.2.2-jre13`, `1.0.2.3`, `1.0.2.3-jre8`, `1.0.2.3-jre12`, `1.0.2.3-jre13`, `1.0.2.4`, `1.0.2.4-jre12`, `1.0.2.4-jre13`, `1.0.2.6-jre13`, `1.0.2.7-jre13`, `1.0.2.8`, `1.0.2.8-jre13`, `1.0.2.9-jre13`, `1.0.2.10-jre13`, `1.0.2.11-jre13`, `1.0.2.12-jre13`, `1.0.2.13-jre13`, `1.0.2.14-jre13`, `1.0.2.15-jre13`, `1.0.2.16-jre13`, `1.0.2.17-jre13`, `1.0.2.18-jre13`, `1.0.3.1-jre13`, `1.0.3.2-jre13`, `1.0.3.3-jre13`, `1.0.4.1-jre13`, `1.0.4.2-jre13`, `1.0.4.3-jre13`, `1.0.4.4-jre13`, `1.0.5.0-jre13`, `1.0.5.1-jre13`, `1.0.5.2-jre13`, `1.0.5.3-jre13`, `1.0.5.4-jre13`, `1.0.5.4-jre14`, `1.0.5.5-jre14`, `1.0.6.1-jre14`, `1.0.6.2-jre14`, `1.0.6.3-jre14`, `1.0.6.4-jre14`, `1.0.6.5-jre14`, `1.0.6.7-jre14`, `1.0.7.0-jre14`, `1.0.7.1-jre14`, `1.0.7.2-jre14`, `1.0.7.3-jre14`, `1.0.7.4-jre14`, `1.0.7.5-jre14`, `1.0.7.6-jre14`, `1.0.7.9-jre14`, `1.0.7.10-jre14`, `1.0.7.11-jre14`, `1.0.7.12-jre14`, `1.0.8.1-jre14`, `1.0.8.2-jre14`, `1.0.8.3-jre14`, `1.0.8.4-jre14`, `1.0.8.5-jre14`, `1.0.8.6-jre14`, `1.0.8.12-jre14`, `1.0.8.16-jre14`, `1.0.8.18-jre14`, `1.0.9.0-jre14`, `1.0.9.1-jre14`, `1.0.9.2-jre14`, `1.0.9.3-jre14`, `1.0.9.4-jre14`, `1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
 1. `io.github.pustike:commons-csv` -> [`1.6.0`, `1.7.0`]
 
 ## org.apache.poi.ooxml.schemas
 
+2 modules name themselves as `org.apache.poi.ooxml.schemas`
+
 1. `org.apache.poi:poi-ooxml-full` -> [`5.0.0`]
 1. `org.apache.poi:poi-ooxml-lite` -> [`5.0.0`]
 
 ## org.apache.tomcat.embed.core
+
+2 modules name themselves as `org.apache.tomcat.embed.core`
 
 1. `com.heroku:webapp-runner-main` -> [`9.0.38.0`, `9.0.41.0`]
 1. `org.apache.tomcat.embed:tomcat-embed-core` -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`]
 
 ## org.apache.xmlbeans
 
+2 modules name themselves as `org.apache.xmlbeans`
+
 1. `com.guicedee.services:commons-xmlbeans` -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.xmlbeans:xmlbeans` -> [`4.0.0`]
 
 ## org.bouncycastle.fips.core
+
+2 modules name themselves as `org.bouncycastle.fips.core`
 
 1. `org.bouncycastle:bc-fips-debug` -> [`1.0.2`]
 1. `org.bouncycastle:bc-fips` -> [`1.0.2`]
 
 ## org.bytedeco.caffe.platform
 
+2 modules name themselves as `org.bytedeco.caffe.platform`
+
 1. `org.bytedeco:caffe-platform-gpu` -> [`1.0-1.5.2`, `1.0-1.5.3`]
 1. `org.bytedeco:caffe-platform` -> [`1.0-1.5`, `1.0-1.5.1`, `1.0-1.5.2`, `1.0-1.5.3`, `1.0-1.5.4`]
 
 ## org.bytedeco.cuda.platform
+
+2 modules name themselves as `org.bytedeco.cuda.platform`
 
 1. `org.bytedeco:cuda-platform-redist` -> [`10.1-7.6-1.5.2`, `10.2-7.6-1.5.2`, `10.2-7.6-1.5.3`]
 1. `org.bytedeco:cuda-platform` -> [`10.1-7.5-1.5`, `10.1-7.6-1.5.1`, `10.1-7.6-1.5.2`, `10.2-7.6-1.5.2`, `10.2-7.6-1.5.3`, `11.0-8.0-1.5.4`]
 
 ## org.bytedeco.ffmpeg
 
+2 modules name themselves as `org.bytedeco.ffmpeg`
+
 1. `com.github.javacpp-nogpl:ffmpeg` -> [`4.3.1-1.5.4`]
 1. `org.bytedeco:ffmpeg` -> [`4.1.3-1.5`, `4.1.3-1.5.1`, `4.2.1-1.5.2`, `4.2.2-1.5.3`, `4.3.1-1.5.4`]
 
 ## org.bytedeco.mkl.platform
+
+2 modules name themselves as `org.bytedeco.mkl.platform`
 
 1. `org.bytedeco:mkl-platform-redist` -> [`2019.5-1.5.2`, `2020.1-1.5.3`]
 1. `org.bytedeco:mkl-platform` -> [`2019.3-1.5`, `2019.4-1.5.1`, `2019.5-1.5.2`, `2020.1-1.5.3`, `2020.3-1.5.4`]
 
 ## org.bytedeco.mxnet.platform
 
+2 modules name themselves as `org.bytedeco.mxnet.platform`
+
 1. `org.bytedeco:mxnet-platform-gpu` -> [`1.5.1-1.5.2`, `1.6.0-1.5.3`]
 1. `org.bytedeco:mxnet-platform` -> [`1.4.0-1.5`, `1.5.0.rc2-1.5.1`, `1.5.1-1.5.2`, `1.6.0-1.5.3`, `1.7.0-1.5.4`]
 
 ## org.bytedeco.onnxruntime.platform
+
+2 modules name themselves as `org.bytedeco.onnxruntime.platform`
 
 1. `org.bytedeco:onnxruntime-platform-gpu` -> [`1.2.0-1.5.3`]
 1. `org.bytedeco:onnxruntime-platform` -> [`0.5.0-1.5.2`, `1.2.0-1.5.3`, `1.4.0-1.5.4`]
 
 ## org.bytedeco.opencv.platform
 
+2 modules name themselves as `org.bytedeco.opencv.platform`
+
 1. `org.bytedeco:opencv-platform-gpu` -> [`4.1.2-1.5.2`, `4.3.0-1.5.3`]
 1. `org.bytedeco:opencv-platform` -> [`4.0.1-1.5`, `4.1.0-1.5.1`, `4.1.2-1.5.2`, `4.3.0-1.5.3`, `4.4.0-1.5.4`]
 
 ## org.bytedeco.tensorrt.platform
+
+2 modules name themselves as `org.bytedeco.tensorrt.platform`
 
 1. `org.bytedeco:tensorrt-platform-redist` -> [`7.0-1.5.3`]
 1. `org.bytedeco:tensorrt-platform` -> [`5.1-1.5`, `5.1-1.5.1`, `6.0-1.5.2`, `7.0-1.5.3`, `7.1-1.5.4`]
 
 ## org.codehaus.plexus.languages.java
 
+2 modules name themselves as `org.codehaus.plexus.languages.java`
+
 1. `com.github.jxc454:udpmodels` -> [`1.0.1`]
 1. `org.codehaus.plexus:plexus-java` -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`]
 
 ## org.eclipse.jetty.websocket.javax.client
+
+2 modules name themselves as `org.eclipse.jetty.websocket.javax.client`
 
 1. `org.eclipse.jetty.websocket:javax-websocket-client` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-javax-client` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `10.0.0.beta1`, `10.0.0.beta2`, `10.0.0.beta3`, `10.0.0`, `10.0.1`]
 
 ## org.eclipse.jetty.websocket.javax.common
 
+2 modules name themselves as `org.eclipse.jetty.websocket.javax.common`
+
 1. `org.eclipse.jetty.websocket:javax-websocket-common` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-javax-common` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `10.0.0.beta1`, `10.0.0.beta2`, `10.0.0.beta3`, `10.0.0`, `10.0.1`]
 
 ## org.eclipse.jetty.websocket.javax.server
+
+2 modules name themselves as `org.eclipse.jetty.websocket.javax.server`
 
 1. `org.eclipse.jetty.websocket:javax-websocket-server` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-javax-server` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `10.0.0.beta1`, `10.0.0.beta2`, `10.0.0.beta3`, `10.0.0`, `10.0.1`]
 
 ## org.eclipse.jetty.websocket.jetty.api
 
+2 modules name themselves as `org.eclipse.jetty.websocket.jetty.api`
+
 1. `org.eclipse.jetty.websocket:jetty-websocket-api` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-jetty-api` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`]
 
 ## org.eclipse.jetty.websocket.jetty.client
+
+2 modules name themselves as `org.eclipse.jetty.websocket.jetty.client`
 
 1. `org.eclipse.jetty.websocket:jetty-websocket-client` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-jetty-client` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`]
 
 ## org.eclipse.jetty.websocket.jetty.common
 
+2 modules name themselves as `org.eclipse.jetty.websocket.jetty.common`
+
 1. `org.eclipse.jetty.websocket:jetty-websocket-common` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-jetty-common` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`]
 
 ## org.eclipse.jetty.websocket.jetty.server
+
+2 modules name themselves as `org.eclipse.jetty.websocket.jetty.server`
 
 1. `org.eclipse.jetty.websocket:jetty-websocket-server` -> [`10.0.0-alpha0`, `10.0.0.alpha1`]
 1. `org.eclipse.jetty.websocket:websocket-jetty-server` -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`]
 
 ## org.fxyz3d.client
 
+2 modules name themselves as `org.fxyz3d.client`
+
 1. `org.fxyz3d:fxyz-client` -> [`0.5.3`]
 1. `org.fxyz3d:fxyz3d-client` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 
 ## org.fxyz3d.core
+
+2 modules name themselves as `org.fxyz3d.core`
 
 1. `org.fxyz3d:fxyz3d` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 1. `org.fxyz3d:fxyz` -> [`0.5.3`]
 
 ## org.fxyz3d.importers
 
+2 modules name themselves as `org.fxyz3d.importers`
+
 1. `org.fxyz3d:fxyz-importers` -> [`0.5.3`]
 1. `org.fxyz3d:fxyz3d-importers` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 
 ## org.glassfish.jaxb.runtime
+
+2 modules name themselves as `org.glassfish.jaxb.runtime`
 
 1. `org.glassfish.jaxb:jaxb-runtime` -> [`3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
 1. `org.mustangproject:Mustang-CLI` -> [`2.1.0`, `2.1.1`]
 
 ## org.junit.jupiter.api
 
+2 modules name themselves as `org.junit.jupiter.api`
+
 1. `net.corda:corda-tools-checkpoint-agent` -> [`4.5`]
 1. `org.junit.jupiter:junit-jupiter-api` -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`]
 
 ## org.junit.jupiter.engine
+
+2 modules name themselves as `org.junit.jupiter.engine`
 
 1. `org.junit.jupiter:junit-jupiter-engine` -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`]
 1. `org.junit.platform:junit-platform-console-standalone` -> [`1.6.0-M1`, `1.6.0-RC1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.7.0-M1`, `1.7.0-RC1`, `1.7.0`, `1.7.1`]
 
 ## org.junit.platform.console
 
+2 modules name themselves as `org.junit.platform.console`
+
 1. `org.junit.platform:junit-platform-console-standalone` -> [`1.5.0-RC1`, `1.5.0-RC2`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `org.junit.platform:junit-platform-console` -> [`1.5.0-RC1`, `1.5.0-RC2`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.0-M1`, `1.6.0-RC1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.7.0-M1`, `1.7.0-RC1`, `1.7.0`, `1.7.1`, `1.8.0-M1`]
 
 ## org.junit.platform.launcher
+
+2 modules name themselves as `org.junit.platform.launcher`
 
 1. `io.github.osvalda:Pitaya` -> [`1.0.0`, `1.1.0`]
 1. `org.junit.platform:junit-platform-launcher` -> [`1.5.0-RC1`, `1.5.0-RC2`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.0-M1`, `1.6.0-RC1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.7.0-M1`, `1.7.0-RC1`, `1.7.0`, `1.7.1`, `1.8.0-M1`]
 
 ## org.jvnet.mimepull
 
+2 modules name themselves as `org.jvnet.mimepull`
+
 1. `de.dfki.cos.basys.platform.wrapper-bundle-settings:jersey-bundle` -> [`0.2.6`]
 1. `org.jvnet.mimepull:mimepull` -> [`1.9.9`, `1.9.10`, `1.9.11`, `1.9.12`, `1.9.13`]
 
 ## org.leadpony.justify
+
+2 modules name themselves as `org.leadpony.justify`
 
 1. `com.mparticle:smartype-generator` -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.leadpony.justify:justify` -> [`0.9.1`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `1.0.0`, `1.1.0`, `2.0.0`, `2.1.0`, `3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`, `3.1.0`]
 
 ## org.lwjgl
 
+2 modules name themselves as `org.lwjgl`
+
 1. `org.lwjgl.osgi:org.lwjgl.lwjgl` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.assimp
+
+2 modules name themselves as `org.lwjgl.assimp`
 
 1. `org.lwjgl.osgi:org.lwjgl.assimp` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-assimp` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.bgfx
 
+2 modules name themselves as `org.lwjgl.bgfx`
+
 1. `org.lwjgl.osgi:org.lwjgl.bgfx` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-bgfx` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.cuda
+
+2 modules name themselves as `org.lwjgl.cuda`
 
 1. `org.lwjgl.osgi:org.lwjgl.cuda` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-cuda` -> [`3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.egl
 
+2 modules name themselves as `org.lwjgl.egl`
+
 1. `org.lwjgl.osgi:org.lwjgl.egl` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-egl` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.glfw
+
+2 modules name themselves as `org.lwjgl.glfw`
 
 1. `org.lwjgl.osgi:org.lwjgl.glfw` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-glfw` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.jawt
 
+2 modules name themselves as `org.lwjgl.jawt`
+
 1. `org.lwjgl.osgi:org.lwjgl.jawt` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-jawt` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.jemalloc
+
+2 modules name themselves as `org.lwjgl.jemalloc`
 
 1. `org.lwjgl.osgi:org.lwjgl.jemalloc` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-jemalloc` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.libdivide
 
+2 modules name themselves as `org.lwjgl.libdivide`
+
 1. `org.lwjgl.osgi:org.lwjgl.libdivide` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-libdivide` -> [`3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.lmdb
+
+2 modules name themselves as `org.lwjgl.lmdb`
 
 1. `org.lwjgl.osgi:org.lwjgl.lmdb` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-lmdb` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.lz4
 
+2 modules name themselves as `org.lwjgl.lz4`
+
 1. `org.lwjgl.osgi:org.lwjgl.lz4` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-lz4` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.meow
+
+2 modules name themselves as `org.lwjgl.meow`
 
 1. `org.lwjgl.osgi:org.lwjgl.meow` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-meow` -> [`3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.nanovg
 
+2 modules name themselves as `org.lwjgl.nanovg`
+
 1. `org.lwjgl.osgi:org.lwjgl.nanovg` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-nanovg` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.nfd
+
+2 modules name themselves as `org.lwjgl.nfd`
 
 1. `org.lwjgl.osgi:org.lwjgl.nfd` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-nfd` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.nuklear
 
+2 modules name themselves as `org.lwjgl.nuklear`
+
 1. `org.lwjgl.osgi:org.lwjgl.nuklear` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-nuklear` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.odbc
+
+2 modules name themselves as `org.lwjgl.odbc`
 
 1. `org.lwjgl.osgi:org.lwjgl.odbc` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-odbc` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.openal
 
+2 modules name themselves as `org.lwjgl.openal`
+
 1. `org.lwjgl.osgi:org.lwjgl.openal` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-openal` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.opencl
+
+2 modules name themselves as `org.lwjgl.opencl`
 
 1. `org.lwjgl.osgi:org.lwjgl.opencl` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-opencl` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.opengl
 
+2 modules name themselves as `org.lwjgl.opengl`
+
 1. `org.lwjgl.osgi:org.lwjgl.opengl` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-opengl` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.opengles
+
+2 modules name themselves as `org.lwjgl.opengles`
 
 1. `org.lwjgl.osgi:org.lwjgl.opengles` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-opengles` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.opus
 
+2 modules name themselves as `org.lwjgl.opus`
+
 1. `org.lwjgl.osgi:org.lwjgl.opus` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-opus` -> [`3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.ovr
+
+2 modules name themselves as `org.lwjgl.ovr`
 
 1. `org.lwjgl.osgi:org.lwjgl.ovr` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-ovr` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.par
 
+2 modules name themselves as `org.lwjgl.par`
+
 1. `org.lwjgl.osgi:org.lwjgl.par` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-par` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.remotery
+
+2 modules name themselves as `org.lwjgl.remotery`
 
 1. `org.lwjgl.osgi:org.lwjgl.remotery` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-remotery` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.rpmalloc
 
+2 modules name themselves as `org.lwjgl.rpmalloc`
+
 1. `org.lwjgl.osgi:org.lwjgl.rpmalloc` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-rpmalloc` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.sse
+
+2 modules name themselves as `org.lwjgl.sse`
 
 1. `org.lwjgl.osgi:org.lwjgl.sse` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-sse` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.stb
 
+2 modules name themselves as `org.lwjgl.stb`
+
 1. `org.lwjgl.osgi:org.lwjgl.stb` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-stb` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.tinyexr
+
+2 modules name themselves as `org.lwjgl.tinyexr`
 
 1. `org.lwjgl.osgi:org.lwjgl.tinyexr` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-tinyexr` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.tinyfd
 
+2 modules name themselves as `org.lwjgl.tinyfd`
+
 1. `org.lwjgl.osgi:org.lwjgl.tinyfd` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-tinyfd` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.tootle
+
+2 modules name themselves as `org.lwjgl.tootle`
 
 1. `org.lwjgl.osgi:org.lwjgl.tootle` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-tootle` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.vma
 
+2 modules name themselves as `org.lwjgl.vma`
+
 1. `org.lwjgl.osgi:org.lwjgl.vma` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-vma` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.vulkan
+
+2 modules name themselves as `org.lwjgl.vulkan`
 
 1. `org.lwjgl.osgi:org.lwjgl.vulkan` -> [`3.2.1`, `3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-vulkan` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.xxhash
 
+2 modules name themselves as `org.lwjgl.xxhash`
+
 1. `org.lwjgl.osgi:org.lwjgl.xxhash` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-xxhash` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.yoga
+
+2 modules name themselves as `org.lwjgl.yoga`
 
 1. `org.lwjgl.osgi:org.lwjgl.yoga` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-yoga` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.lwjgl.zstd
 
+2 modules name themselves as `org.lwjgl.zstd`
+
 1. `org.lwjgl.osgi:org.lwjgl.zstd` -> [`3.2.1.1`, `3.2.1.2`]
 1. `org.lwjgl:lwjgl-zstd` -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
 
 ## org.meeuw.i18n.continents
+
+2 modules name themselves as `org.meeuw.i18n.continents`
 
 1. `org.meeuw.i18n:i18n-regions-continents` -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`, `1.0.0`, `1.1.0`]
 1. `org.meeuw.i18n:i18n-regions-open-location-code` -> [`0.4`]
 
 ## org.opentest4j
 
+2 modules name themselves as `org.opentest4j`
+
 1. `com.github.tandronicus:ezperf4j` -> [`0.1`]
 1. `org.opentest4j:opentest4j` -> [`1.2.0`]
 
 ## org.pcap4j.packetfactory.propertiesbased
+
+2 modules name themselves as `org.pcap4j.packetfactory.propertiesbased`
 
 1. `com.diamondq.common:common-thirdparty.pcap4j.core` -> [`1.8.2`]
 1. `org.pcap4j:pcap4j-packetfactory-propertiesbased` -> [`2.0.0-alpha.4`, `2.0.0-alpha.5`, `2.0.0-alpha.6`]
 
 ## org.pf4j
 
+2 modules name themselves as `org.pf4j`
+
 1. `com.wizzdi:flexicore-security-service` -> [`1.0.0`]
 1. `org.pf4j:pf4j` -> [`3.0.1`, `3.1.0`, `3.2.0`, `3.5.0`, `3.6.0`]
 
 ## org.rapidpm.vaadin.cdi_addon
+
+2 modules name themselves as `org.rapidpm.vaadin.cdi_addon`
 
 1. `org.rapidpm.vaadin:cdi-addon-modules-impl` -> [`0.1.0`]
 1. `org.rapidpm.vaadin:rapidpm-vaadin-cdi-m-impl` -> [`00.07.04-RPM`]
 
 ## org.shredzone.acme4j.utils
 
+2 modules name themselves as `org.shredzone.acme4j.utils`
+
 1. `com.foilen:foilen-infra-plugins-core` -> [`0.19.0`, `0.19.1`, `0.20.0`]
 1. `org.shredzone.acme4j:acme4j-utils` -> [`2.10`, `2.11`]
 
 ## org.xbib.graphics.chart
+
+2 modules name themselves as `org.xbib.graphics.chart`
 
 1. `org.xbib.graphics:chart` -> [`3.0.0`]
 1. `org.xbib:chart` -> [`2.0.0`]
 
 ## org.zalando.problem.gson
 
+2 modules name themselves as `org.zalando.problem.gson`
+
 1. `org.zalando:problem-gson` -> [`0.26.0-RC.0`]
 1. `org.zalando:problem` -> [`0.26.0-RC.0`]
 
 ## pcap.common
+
+2 modules name themselves as `pcap.common`
 
 1. `com.ardikars.pcap:pcap-codec` -> [`0.7.0`, `0.7.1`, `0.8.0`]
 1. `com.ardikars.pcap:pcap-common` -> [`0.0.21`, `0.1.0`, `0.1.1`, `0.1.2`, `0.1.3`, `0.1.4`, `0.1.5`, `0.1.6`, `0.1.7`, `0.7.0`, `0.7.1`, `0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.9.0`, `0.10.0`, `1.0.0-alpha`, `1.0.0-alpha.1`, `1.0.0-alpha.2`, `1.0.0-alpha.3`, `1.0.0-alpha.4`, `1.0.0-beta`, `1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.1.0-alpha.1`, `1.1.0-alpha.2`, `1.1.0-beta.1`, `1.1.0-beta.2`, `1.1.0-beta.3`, `1.1.0-beta.4`, `1.1.0`, `1.2.0`, `1.3.0-alpha.1`]
 
 ## pl.tlinkowski.annotation.basic
 
+2 modules name themselves as `pl.tlinkowski.annotation.basic`
+
 1. `pl.tlinkowski.annotation:basic-annotations` -> [`0.1.0`]
 1. `pl.tlinkowski.annotation:pl.tlinkowski.annotation.basic` -> [`0.2.0`]
 
 ## pl.tlinkowski.gradle.my.settings
+
+2 modules name themselves as `pl.tlinkowski.gradle.my.settings`
 
 1. `pl.tlinkowski.gradle.my:my-settings-gradle-plugin` -> [`0.1.0`, `0.1.2`, `0.1.3`, `0.1.4`]
 1. `pl.tlinkowski.gradle.my:pl.tlinkowski.gradle.my.settings` -> [`0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`]
 
 ## pluginframework
 
+2 modules name themselves as `pluginframework`
+
 1. `com.github.srujankujmar:plugin-framework` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:plugin-framework` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## quickagent
+
+2 modules name themselves as `quickagent`
 
 1. `com.github.bgalek.utils:devicedetect` -> [`1.0.0`]
 1. `com.github.bgalek.utils:validation-framework` -> [`1.0.0`]
 
 ## schema.validator
 
+2 modules name themselves as `schema.validator`
+
 1. `com.github.srujankujmar:schema-validator` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:schema-validator` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## se.l4.commons.guice
+
+2 modules name themselves as `se.l4.commons.guice`
 
 1. `se.l4.commons:commons-config` -> [`1.1.0`, `1.2.0`, `1.2.1`]
 1. `se.l4.commons:commons-guice` -> [`1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 
 ## service_spec_commons
 
+2 modules name themselves as `service_spec_commons`
+
 1. `com.github.srujankujmar:service-spec-commons` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:service-spec-commons` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
 
 ## sonder
+
+2 modules name themselves as `sonder`
 
 1. `com.github.tix320:sonder` -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.16.2`, `0.16.3`, `0.16.5`, `0.17.0`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`, `0.23.0`, `0.23.1`, `0.23.2`, `0.23.3`, `0.24.0`, `1.0.0`, `1.0.1`]
 1. `com.gitlab.tixtix320:sonder` -> [`0.1`, `0.2`, `0.4`, `0.5.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`]
 
 ## swim.api
 
+2 modules name themselves as `swim.api`
+
 1. `ai.swim:swim-api` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-api` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.args
+
+2 modules name themselves as `swim.args`
 
 1. `ai.swim:swim-args` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-args` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.auth
 
+2 modules name themselves as `swim.auth`
+
 1. `ai.swim:swim-auth` -> [`3.10.0`]
 1. `org.swimos:swim-auth` -> [`3.10.0`, `3.10.2`]
 
 ## swim.cli
+
+2 modules name themselves as `swim.cli`
 
 1. `ai.swim:swim-cli` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-cli` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.client
 
+2 modules name themselves as `swim.client`
+
 1. `ai.swim:swim-client` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-client` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.codec
+
+2 modules name themselves as `swim.codec`
 
 1. `ai.swim:swim-codec` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-codec` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.collections
 
+2 modules name themselves as `swim.collections`
+
 1. `ai.swim:swim-collections` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-collections` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.concurrent
+
+2 modules name themselves as `swim.concurrent`
 
 1. `ai.swim:swim-concurrent` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-concurrent` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.dataflow
 
+2 modules name themselves as `swim.dataflow`
+
 1. `ai.swim:swim-dataflow` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-dataflow` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.decipher
+
+2 modules name themselves as `swim.decipher`
 
 1. `ai.swim:swim-decipher` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-decipher` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.deflate
 
+2 modules name themselves as `swim.deflate`
+
 1. `ai.swim:swim-deflate` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-deflate` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.dynamic
+
+2 modules name themselves as `swim.dynamic`
 
 1. `ai.swim:swim-dynamic` -> [`3.10.0`]
 1. `org.swimos:swim-dynamic` -> [`3.10.0`, `3.10.2`]
 
 ## swim.dynamic.api
 
+2 modules name themselves as `swim.dynamic.api`
+
 1. `ai.swim:swim-dynamic-api` -> [`3.10.0`]
 1. `org.swimos:swim-dynamic-api` -> [`3.10.0`, `3.10.2`]
 
 ## swim.dynamic.java
+
+2 modules name themselves as `swim.dynamic.java`
 
 1. `ai.swim:swim-dynamic-java` -> [`3.10.0`]
 1. `org.swimos:swim-dynamic-java` -> [`3.10.0`, `3.10.2`]
 
 ## swim.dynamic.observable
 
+2 modules name themselves as `swim.dynamic.observable`
+
 1. `ai.swim:swim-dynamic-observable` -> [`3.10.0`]
 1. `org.swimos:swim-dynamic-observable` -> [`3.10.0`, `3.10.2`]
 
 ## swim.dynamic.structure
+
+2 modules name themselves as `swim.dynamic.structure`
 
 1. `ai.swim:swim-dynamic-structure` -> [`3.10.0`]
 1. `org.swimos:swim-dynamic-structure` -> [`3.10.0`, `3.10.2`]
 
 ## swim.fabric
 
+2 modules name themselves as `swim.fabric`
+
 1. `ai.swim:swim-fabric` -> [`3.10.0`]
 1. `org.swimos:swim-fabric` -> [`3.10.0`]
 
 ## swim.http
+
+2 modules name themselves as `swim.http`
 
 1. `ai.swim:swim-http` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-http` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.io
 
+2 modules name themselves as `swim.io`
+
 1. `ai.swim:swim-io` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-io` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.io.http
+
+2 modules name themselves as `swim.io.http`
 
 1. `ai.swim:swim-io-http` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-io-http` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.io.mqtt
 
+2 modules name themselves as `swim.io.mqtt`
+
 1. `ai.swim:swim-io-mqtt` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-io-mqtt` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.io.warp
+
+2 modules name themselves as `swim.io.warp`
 
 1. `ai.swim:swim-io-warp` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-io-warp` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.io.ws
 
+2 modules name themselves as `swim.io.ws`
+
 1. `ai.swim:swim-io-ws` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-io-ws` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.java
+
+2 modules name themselves as `swim.java`
 
 1. `ai.swim:swim-java` -> [`3.10.0`]
 1. `org.swimos:swim-java` -> [`3.10.0`, `3.10.2`]
 
 ## swim.js
 
+2 modules name themselves as `swim.js`
+
 1. `ai.swim:swim-js` -> [`3.10.0`]
 1. `org.swimos:swim-js` -> [`3.10.0`, `3.10.2`]
 
 ## swim.json
+
+2 modules name themselves as `swim.json`
 
 1. `ai.swim:swim-json` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-json` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.kernel
 
+2 modules name themselves as `swim.kernel`
+
 1. `ai.swim:swim-kernel` -> [`3.10.0`]
 1. `org.swimos:swim-kernel` -> [`3.10.0`, `3.10.2`]
 
 ## swim.linker
+
+2 modules name themselves as `swim.linker`
 
 1. `ai.swim:swim-linker` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`]
 1. `org.swimos:swim-linker` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`]
 
 ## swim.loader
 
+2 modules name themselves as `swim.loader`
+
 1. `ai.swim:swim-loader` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`]
 1. `org.swimos:swim-loader` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`]
 
 ## swim.math
+
+2 modules name themselves as `swim.math`
 
 1. `ai.swim:swim-math` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-math` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.mqtt
 
+2 modules name themselves as `swim.mqtt`
+
 1. `ai.swim:swim-mqtt` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-mqtt` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.observable
+
+2 modules name themselves as `swim.observable`
 
 1. `ai.swim:swim-observable` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-observable` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.protobuf
 
+2 modules name themselves as `swim.protobuf`
+
 1. `ai.swim:swim-protobuf` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-protobuf` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.recon
+
+2 modules name themselves as `swim.recon`
 
 1. `ai.swim:swim-recon` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-recon` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.remote
 
+2 modules name themselves as `swim.remote`
+
 1. `ai.swim:swim-remote` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-remote` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.runtime
+
+2 modules name themselves as `swim.runtime`
 
 1. `ai.swim:swim-runtime` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-runtime` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.security
 
+2 modules name themselves as `swim.security`
+
 1. `ai.swim:swim-security` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-security` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.server
+
+2 modules name themselves as `swim.server`
 
 1. `ai.swim:swim-server` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-server` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.service
 
+2 modules name themselves as `swim.service`
+
 1. `ai.swim:swim-service` -> [`3.10.0`]
 1. `org.swimos:swim-service` -> [`3.10.0`, `3.10.2`]
 
 ## swim.service.web
+
+2 modules name themselves as `swim.service.web`
 
 1. `ai.swim:swim-service-web` -> [`3.10.0`]
 1. `org.swimos:swim-service-web` -> [`3.10.0`, `3.10.2`]
 
 ## swim.spatial
 
+2 modules name themselves as `swim.spatial`
+
 1. `ai.swim:swim-spatial` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-spatial` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.store
+
+2 modules name themselves as `swim.store`
 
 1. `ai.swim:swim-store` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-store` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.store.mem
 
+2 modules name themselves as `swim.store.mem`
+
 1. `ai.swim:swim-store-mem` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-store-mem` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.streamlet
+
+2 modules name themselves as `swim.streamlet`
 
 1. `ai.swim:swim-streamlet` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-streamlet` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.structure
 
+2 modules name themselves as `swim.structure`
+
 1. `ai.swim:swim-structure` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-structure` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.uri
+
+2 modules name themselves as `swim.uri`
 
 1. `ai.swim:swim-uri` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-uri` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.util
 
+2 modules name themselves as `swim.util`
+
 1. `ai.swim:swim-util` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-util` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.vm
+
+2 modules name themselves as `swim.vm`
 
 1. `ai.swim:swim-vm` -> [`3.10.0`]
 1. `org.swimos:swim-vm` -> [`3.10.0`, `3.10.2`]
 
 ## swim.vm.js
 
+2 modules name themselves as `swim.vm.js`
+
 1. `ai.swim:swim-vm-js` -> [`3.10.0`]
 1. `org.swimos:swim-vm-js` -> [`3.10.0`, `3.10.2`]
 
 ## swim.warp
+
+2 modules name themselves as `swim.warp`
 
 1. `ai.swim:swim-warp` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-warp` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.web
 
+2 modules name themselves as `swim.web`
+
 1. `ai.swim:swim-web` -> [`3.10.0`]
 1. `org.swimos:swim-web` -> [`3.10.0`, `3.10.2`]
 
 ## swim.ws
+
+2 modules name themselves as `swim.ws`
 
 1. `ai.swim:swim-ws` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-ws` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## swim.xml
 
+2 modules name themselves as `swim.xml`
+
 1. `ai.swim:swim-xml` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`]
 1. `org.swimos:swim-xml` -> [`3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.10.0`, `3.10.2`]
 
 ## systems.uom.common
+
+2 modules name themselves as `systems.uom.common`
 
 1. `org.datasyslab:geotools-wrapper` -> [`geotools-24.0`]
 1. `systems.uom:systems-common` -> [`2.0.1`, `2.0.2`]
 
 ## tech.pantheon.triemap
 
+2 modules name themselves as `tech.pantheon.triemap`
+
 1. `org.opendaylight.aaa:aaa-cli-jar` -> [`0.10.1`, `0.10.2`, `0.11.0`, `0.11.1`, `0.11.2`]
 1. `tech.pantheon.triemap:triemap` -> [`1.0.6`, `1.1.0`, `1.2.0`]
 
 ## troubleshooting.integration
+
+2 modules name themselves as `troubleshooting.integration`
 
 1. `com.github.srujankujmar:troubleshooting-integration` -> [`0.9.6.0.1`, `0.9.8.1`]
 1. `io.hyscale:troubleshooting-integration` -> [`0.9.8.3`, `0.9.8.4`, `0.9.9`]
