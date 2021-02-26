@@ -1,5 +1,31 @@
 # Impostor Modules
 
+- 116x [`org.apache.logging.log4j`](#org.apache.logging.log4j)
+- 65x [`com.fasterxml.jackson.databind`](#com.fasterxml.jackson.databind)
+- 57x [`net.bytebuddy`](#net.bytebuddy)
+- 56x [`java.xml.bind`](#java.xml.bind)
+- 52x [`org.bouncycastle.provider`](#org.bouncycastle.provider)
+- 46x [`org.objectweb.asm`](#org.objectweb.asm)
+- 38x [`com.google.gson`](#com.google.gson)
+- 33x [`org.slf4j`](#org.slf4j)
+- 30x [`com.fasterxml.jackson.core`](#com.fasterxml.jackson.core)
+- 30x [`info.picocli`](#info.picocli)
+- 26x [`kotlin.stdlib.jdk8`](#kotlin.stdlib.jdk8)
+- 24x [`io.github.classgraph`](#io.github.classgraph)
+- 23x [`lombok`](#lombok)
+- 21x [`com.fasterxml.jackson.annotation`](#com.fasterxml.jackson.annotation)
+- 17x [`org.objectweb.asm.commons`](#org.objectweb.asm.commons)
+- 13x [`org.bouncycastle.pkix`](#org.bouncycastle.pkix)
+- 12x [`com.fasterxml.jackson.datatype.jdk8`](#com.fasterxml.jackson.datatype.jdk8)
+- 12x [`org.openqa.selenium.core`](#org.openqa.selenium.core)
+- 11x [`java.json`](#java.json)
+- 11x [`java.ws.rs`](#java.ws.rs)
+- 10x [`com.sun.xml.bind`](#com.sun.xml.bind)
+- 10x [`kotlin.stdlib`](#kotlin.stdlib)
+- 10x [`net.bytebuddy.agent`](#net.bytebuddy.agent)
+- 10x [`org.bouncycastle.pg`](#org.bouncycastle.pg)
+- 9x [`com.fasterxml.jackson.module.jaxb`](#com.fasterxml.jackson.module.jaxb)
+
 ## org.apache.logging.log4j
 
 <https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar>
