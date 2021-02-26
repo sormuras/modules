@@ -20,11 +20,8 @@ jobs:
         run: echo ::set-output name=size::$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)
       - name: 'Build with Bach'
         run: |
-          java \
-          --module-path .bach/bin \
-          --module com.github.sormuras.bach \
-          --project-version ${{ github.event.release.tag_name }} \
-          build
+          PATH=.bach/bin:$PATH
+          bach --project-version ${{ github.event.release.tag_name }} build
       - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
         uses: marvinpinto/action-automatic-releases@latest
         with:

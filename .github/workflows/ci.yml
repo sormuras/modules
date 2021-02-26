@@ -68,6 +68,7 @@ jobs:
           java \
           -Ddoc=true \
           -Dillegal-automatic-module-names=true \
+          -Dimpostor-modules=true \
           src/Scanner.java \
           bucket \
           com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
@@ -84,7 +85,6 @@ jobs:
         with:
           name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
           path: |
-            modules.md
             .bach/workspace/logbook.md
             .bach/workspace/modules
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
@@ -110,7 +110,6 @@ jobs:
           prerelease: true
           title: "${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules"
           files: |
-            modules.md
             .bach/workspace/logbook.md
             .bach/workspace/modules/*.jar
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties

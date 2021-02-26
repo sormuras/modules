@@ -10,8 +10,10 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashSet;
+import java.util.List;
 import java.util.StringJoiner;
 import java.util.TreeMap;
+import java.util.stream.Stream;
 
 class Scanner {
 
@@ -42,38 +44,32 @@ class Scanner {
       if (parent != null) Files.createDirectories(parent);
       Files.write(file, lines);
       out("Wrote unique module-uri pairs to %s%n", file.toUri());
-      lines.clear();
-      lines.add("# Modules");
-      for (var entry : scanner.modules.entrySet()) {
-        var module = entry.getKey();
-        var scans = entry.getValue();
+    }
+    if (Boolean.getBoolean("doc")) scanner.writeDocTables(Path.of("doc"), "*.txt");
+    if (Boolean.getBoolean("illegal-automatic-module-names")) {
+      var lines =
+          scanner
+              .scansWithIllegalAutomaticModuleNames()
+              .map(scan -> String.format("%s:%s -> %s", scan.GA, scan.V, scan.module))
+              .toList();
+      Files.write(Path.of("doc/suspicious/illegal-automatic-module-names.txt"), lines);
+    }
+    if (Boolean.getBoolean("impostor-modules")) {
+      var impostors = scanner.searchImpostors();
+      var lines = new ArrayList<String>();
+      lines.add("# Impostor Modules");
+      impostors.sort(Comparator.comparing(it -> -it.lines.size()));
+      for (var impostor : impostors) {
+        var module = impostor.module;
         var uri = scanner.uniques.get(module);
         lines.add("");
         lines.add("## " + module);
         lines.add("");
         lines.add(uri == null ? "_Unique URI not available._" : "<" + uri + ">");
         lines.add("");
-        scans.stream()
-            .parallel()
-            .collect(groupingBy(Scan::GA, mapping(Scan::V, toList())))
-            .entrySet()
-            .stream()
-            .map(it -> format("1. `%s` -> [`%s`]", it.getKey(), join("`, `", it.getValue())))
-            .sorted()
-            .forEach(lines::add);
+        impostor.lines.forEach(lines::add);
       }
-      Files.write(Path.of("modules.md"), lines);
-    }
-    if (Boolean.getBoolean("doc")) scanner.transformTextFiles(Path.of("doc"), "*.txt");
-    if (Boolean.getBoolean("illegal-automatic-module-names")) {
-      var illegal =
-          values.stream()
-              .filter(Scan::isAutomatic)
-              .filter(scan -> isIllegalModuleName(scan.module()))
-              .sorted(Comparator.comparing(Scan::GA))
-              .map(scan -> String.format("%s:%s -> %s", scan.GA, scan.V, scan.module))
-              .toList();
-      Files.write(Path.of("doc/suspicious/illegal-automatic-module-names.txt"), illegal);
+      Files.write(Path.of("doc/suspicious/impostor-modules.md"), lines);
     }
   }
 
@@ -148,14 +144,40 @@ class Scanner {
     }
   }
 
-  void transformTextFiles(Path directory, String glob) throws Exception {
+  Stream<Scan> scansWithIllegalAutomaticModuleNames() {
+    return facts.values().stream()
+        .filter(Scan::isAutomatic)
+        .filter(scan -> isIllegalModuleName(scan.module()))
+        .sorted(Comparator.comparing(Scan::GA));
+  }
+
+  List<Impostor> searchImpostors() throws Exception {
+    var impostors = new ArrayList<Impostor>();
+    for (var entry : modules.entrySet()) {
+      var module = entry.getKey();
+      var scans = entry.getValue();
+      var lines =
+          scans.stream()
+              .parallel()
+              .collect(groupingBy(Scan::GA, mapping(Scan::V, toList())))
+              .entrySet()
+              .stream()
+              .map(it -> format("1. `%s` -> [`%s`]", it.getKey(), join("`, `", it.getValue())))
+              .sorted()
+              .toList();
+      if (lines.size() > 1) impostors.add(new Impostor(module, lines));
+    }
+    return impostors;
+  }
+
+  void writeDocTables(Path directory, String glob) throws Exception {
     try (var stream = Files.newDirectoryStream(directory, glob)) {
       var iterator = stream.iterator();
-      while (iterator.hasNext()) transformTextFile(iterator.next());
+      while (iterator.hasNext()) writeDocTable(iterator.next());
     }
   }
 
-  void transformTextFile(Path file) throws Exception {
+  void writeDocTable(Path file) throws Exception {
     var md = new ArrayList<String>();
     md.add("# " + file.getFileName());
     var summary = md.size();
@@ -278,4 +300,6 @@ class Scanner {
       return new Scan(G, G2, A, GA, V, module, moduleKind);
     }
   }
+
+  record Impostor(String module, List<String> lines) {}
 }
