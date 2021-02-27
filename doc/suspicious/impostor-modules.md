@@ -35,7 +35,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 1. `au.org.consumerdatastandards:codegen` -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
 1. `cn.net.mugui:spring` -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`]
-1. `com.alibaba.ververica:flink-connector-test-util` -> [`1.0.0`, `1.1.0`, `1.1.1`]
+1. `com.alibaba.ververica:flink-connector-test-util` -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.2.0`]
 1. `com.ardikars.jxnet:jxnet-example` -> [`1.5.5.RC5`]
 1. `com.arpitos:arpitos-fw` -> [`0.0.2`]
 1. `com.arpitos:artos` -> [`0.0.1`]
@@ -461,7 +461,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.fullcontact.client:java11` -> [`1.0.0`, `2.0.0`, `2.1.0`]
 1. `com.fullcontact.client:java8` -> [`2.0.0`, `2.1.0`]
 1. `com.github.flank:flank` -> [`flank_snapshot`, `20.05.0`, `20.05.1`, `20.05.2`, `20.06.0`, `20.06.2`, `20.07.0`, `20.08.0`, `20.08.3`, `20.08.4`, `20.09.1`, `20.09.2`, `20.09.3`, `20.12.0`, `21.01.0`, `21.01.1`, `21.02.0`, `2131`]
-1. `com.github.gtriip.translation.opera:opera-translation` -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`]
+1. `com.github.gtriip.translation.opera:opera-translation` -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`]
 1. `com.github.shynixn.blockball:blockball-bukkit-plugin` -> [`6.15.0`, `6.16.0`, `6.17.0`, `6.18.0`, `6.19.0`, `6.20.0`, `6.20.1`, `6.21.0`, `6.22.0`, `6.22.1`]
 1. `com.github.shynixn.petblocks:petblocks-bukkit-plugin` -> [`8.16.0`, `8.17.0`, `8.17.1`, `8.18.0`, `8.19.0`, `8.20.0`, `8.21.0`, `8.22.1`, `8.23.0`]
 1. `com.google.cloud.opentelemetry:exporter-auto` -> [`0.10.0`, `0.10.1`, `0.11.0`, `0.14.0-RC1`]
@@ -3119,7 +3119,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 2 modules name themselves as `jamal.core`
 
-1. `com.javax0.jamal:jamal-core` -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.1`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.7.0`]
+1. `com.javax0.jamal:jamal-core` -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.1`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.7.0`, `1.7.1`]
 1. `com.javax0.jamal:jamal-extensions` -> [`1.0.1`]
 
 ## java.activation
