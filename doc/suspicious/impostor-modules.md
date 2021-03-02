@@ -22,8 +22,8 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.openqa.selenium.core` x12
 1. `java.json` x11
 1. `java.ws.rs` x11
+1. `kotlin.stdlib` x11
 1. `com.sun.xml.bind` x10
-1. `kotlin.stdlib` x10
 1. `net.bytebuddy.agent` x10
 1. `org.bouncycastle.pg` x10
 1. `com.fasterxml.jackson.module.jaxb` x9
@@ -371,8 +371,8 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.bouncycastle:bcprov-ext-jdk15on` -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
 1. `org.bouncycastle:bcprov-jdk15on` -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.65.01`, `1.66`, `1.67`, `1.68`]
 1. `org.eclipse.milo:server-examples` -> [`0.3.0-M1`, `0.3.0`, `0.3.1-M1`, `0.3.1`, `0.3.2-M1`, `0.3.2`, `0.3.3-RC1`, `0.3.3-RC2`, `0.3.3-RC3`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.4.0`, `0.4.1`, `0.4.2-M1`, `0.4.2`, `0.4.3`]
-1. `org.keycloak:keycloak-admin-cli` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`]
-1. `org.keycloak:keycloak-client-registration-cli` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`]
+1. `org.keycloak:keycloak-admin-cli` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
+1. `org.keycloak:keycloak-client-registration-cli` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
 1. `org.netbeans.external:bcprov` -> [`RELEASE113`]
 1. `org.verapdf.apps:pdfbox-apps` -> [`1.14.6-RC`, `1.14.7-RC`, `1.14.8`, `1.16.1`, `1.18.1`]
 1. `org.wso2.msf4j.example:stockquote-fatjar` -> [`2.7.0`]
@@ -440,7 +440,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `io.quarkus:quarkus-ide-launcher` -> [`1.5.2.Final`, `1.6.0.Final`, `1.6.1.Final`, `1.7.0.CR1`, `1.7.0.CR2`, `1.7.0.Final`, `1.7.1.Final`]
 1. `net.onedaybeard.artemis:artemis-odb-cli` -> [`2.3.0`]
 1. `net.onedaybeard.graftt:agent` -> [`0.1.3`, `0.2.0`, `0.2.1`]
-1. `org.checkerframework:checker` -> [`3.10.0`]
+1. `org.checkerframework:checker` -> [`3.10.0`, `3.11.0`]
 1. `org.duracloud:synctoolui` -> [`5.1.0`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `7.0.0`]
 1. `org.graalvm.nativeimage:svm` -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`]
 1. `org.netbeans.external:asm-7.2` -> [`RELEASE113`]
@@ -461,7 +461,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.fullcontact.client:java11` -> [`1.0.0`, `2.0.0`, `2.1.0`]
 1. `com.fullcontact.client:java8` -> [`2.0.0`, `2.1.0`]
 1. `com.github.flank:flank` -> [`flank_snapshot`, `20.05.0`, `20.05.1`, `20.05.2`, `20.06.0`, `20.06.2`, `20.07.0`, `20.08.0`, `20.08.3`, `20.08.4`, `20.09.1`, `20.09.2`, `20.09.3`, `20.12.0`, `21.01.0`, `21.01.1`, `21.02.0`, `2131`]
-1. `com.github.gtriip.translation.opera:opera-translation` -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`]
+1. `com.github.gtriip.translation.opera:opera-translation` -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`, `1.0.5-15`]
 1. `com.github.shynixn.blockball:blockball-bukkit-plugin` -> [`6.15.0`, `6.16.0`, `6.17.0`, `6.18.0`, `6.19.0`, `6.20.0`, `6.20.1`, `6.21.0`, `6.22.0`, `6.22.1`]
 1. `com.github.shynixn.petblocks:petblocks-bukkit-plugin` -> [`8.16.0`, `8.17.0`, `8.17.1`, `8.18.0`, `8.19.0`, `8.20.0`, `8.21.0`, `8.22.1`, `8.23.0`]
 1. `com.google.cloud.opentelemetry:exporter-auto` -> [`0.10.0`, `0.10.1`, `0.11.0`, `0.14.0-RC1`]
@@ -549,7 +549,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.jwebmp.jpms.jackson.core:jackson-core` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11.jackson.core:jackson-core` -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.microsoft.azure:spark-cdm-connector` -> [`0.10`, `0.12`, `0.13`, `0.14`, `0.15`, `0.16`, `0.17`, `0.18.1`, `0.19.0`]
-1. `com.okta.authn.sdk:okta-authn-sdk-examples-shiro` -> [`2.0.0`, `2.0.1`]
+1. `com.okta.authn.sdk:okta-authn-sdk-examples-shiro` -> [`2.0.0`, `2.0.1`, `2.0.2`]
 1. `com.quicko:api-client` -> [`3.0.0-BUILD-RELEASE`, `3.0.1-BUILD-RELEASE`, `3.0.2-BUILD-RELEASE`, `3.0.3-BUILD-RELEASE`, `3.1.0-BUILD-RELEASE`, `3.1.1-BUILD-RELEASE`, `3.1.2-BUILD-RELEASE`, `3.1.3-BUILD-RELEASE`, `3.2.0-BUILD`, `3.2.0-BUILD-RELEASE`]
 1. `com.snowflake:snowflake-kafka-connector` -> [`1.2.4`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `com.xenoamess.metasploit.java-external-module:core` -> [`0.1.0`]
@@ -589,7 +589,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.ninja-beans.crawler:cloudflare-iuam-solver-dist` -> [`0.1.0`]
 1. `com.nitorcreations:aws-vault-cli` -> [`0.16`]
 1. `com.pessetto.origamismtp:OrigamiSMTP` -> [`2.0.0`, `2.0.3`]
-1. `com.tngtech.keycloakmock:standalone` -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`]
+1. `com.tngtech.keycloakmock:standalone` -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`]
 1. `de.jpdigital:owlapi-simplex-cli` -> [`0.1.0`, `0.1.1`]
 1. `eu.toop:toop-demoui-dcstandalone` -> [`2.0.0-rc1`, `2.0.0-rc2`, `2.0.0-rc3`, `2.0.0`, `2.1.0`, `2.1.0-1`, `2.1.1`]
 1. `info.picocli:picocli-jpms-module` -> [`4.0.0-alpha-2`, `4.0.0-alpha-3`]
@@ -730,7 +730,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.xdev-software:desktopkit-app` -> [`1.2.0`]
 1. `fish.payara.extras:payara-embedded-all` -> [`5.183`, `5.184`, `5.191`, `5.192`, `5.193`, `5.193.1`]
 1. `fish.payara.extras:payara-embedded-web` -> [`5.183`, `5.184`, `5.191`, `5.192`, `5.193`, `5.193.1`]
-1. `io.joynr.tools.generator:joynr-generator-standalone` -> [`1.6.4`, `1.6.5`, `1.7.0`, `1.7.1`, `1.8.0`, `1.8.2`, `1.9.0`, `1.9.1`, `1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.12.0`, `1.13.0`, `1.14.0`, `1.14.1`, `1.14.2`, `1.14.3`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.15.4`, `1.15.5`, `1.15.6`, `1.15.7`, `1.15.7.1`, `1.15.8`]
+1. `io.joynr.tools.generator:joynr-generator-standalone` -> [`1.6.4`, `1.6.5`, `1.7.0`, `1.7.1`, `1.8.0`, `1.8.2`, `1.9.0`, `1.9.1`, `1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.12.0`, `1.13.0`, `1.14.0`, `1.14.1`, `1.14.2`, `1.14.3`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.15.4`, `1.15.5`, `1.15.6`, `1.15.7`, `1.15.7.1`, `1.15.8`, `1.15.9`]
 1. `net.corda:corda-djvm` -> [`4.0`]
 1. `org.copper-engine:copper-performance-test` -> [`5.0.0-SNAPHOT`]
 1. `org.javastro.vodsl:vodslparser` -> [`0.4.0`]
@@ -747,7 +747,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `io.nosqlbench:nb` -> [`3.12.52`, `3.12.54`, `3.12.55`, `3.12.60`, `3.12.61`, `3.12.62`, `3.12.66`, `3.12.67`, `3.12.70`, `3.12.71`, `3.12.72`, `3.12.73`, `3.12.75`, `3.12.76`, `3.12.77`, `3.12.78`, `3.12.79`, `3.12.81`, `3.12.82`, `3.12.83`, `3.12.84`, `3.12.85`]
 1. `io.pravega:pravega-keycloak-client` -> [`0.8.0`]
 1. `org.bouncycastle:bcpkix-jdk15on` -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
-1. `org.keycloak:kcinit` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`]
+1. `org.keycloak:kcinit` -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
 1. `org.opendaylight.jsonrpc:test-tool` -> [`1.9.0`, `1.9.1`, `1.9.2`]
 1. `org.testcontainers:testcontainers` -> [`1.14.0`]
 1. `org.wso2.msf4j:jwt-sample` -> [`2.7.0`]
@@ -822,6 +822,22 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec` -> [`2.0.0.CR2`, `2.0.1.Final`]
 1. `org.keycloak:kcinit` -> [`9.0.0`, `9.0.2`, `9.0.3`]
 
+## kotlin.stdlib
+
+11 modules name themselves as `kotlin.stdlib`
+
+1. `cn.net.mugui:mugui-communication` -> [`0.0.1`]
+1. `com.github.answerail:dingtalk-spring-boot-starter` -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
+1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample` -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`]
+1. `com.ibm.cloud:platform-services-examples` -> [`0.17.10`, `0.17.11`, `0.17.12`]
+1. `com.niklasarndt:healthchecksio-java` -> [`1.0.1`]
+1. `com.niklasarndt:okhttp-mocker` -> [`1.0.0`]
+1. `fr.renardfute:SteamAPI` -> [`1.0`]
+1. `no.entur:schema2proto-lib` -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`]
+1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0`, `1.4.10`, `1.4.21`, `1.4.30`]
+1. `org.jetbrains.kotlin:kotlin-stdlib` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
+1. `ru.sokomishalov.skraper:cli` -> [`0.7.0`]
+
 ## com.sun.xml.bind
 
 10 modules name themselves as `com.sun.xml.bind`
@@ -836,21 +852,6 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.icij.extract:extract-cli` -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.8`, `2.3.9`, `2.3.10`, `3.0.0`, `3.0.1`, `3.1.0`, `3.2.0`, `3.2.1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.5.0`, `3.5.1`, `3.5.2`, `3.6.0`, `3.6.1`]
 1. `org.jboss.windup.web:windup-keycloak-tool` -> [`5.2.0.Final`, `5.3.0.Final`, `5.4.0.Final`, `5.5.0.Alpha1`]
 1. `org.mustangproject:Mustang-CLI` -> [`2.0.1`, `2.0.2`, `2.0.3`]
-
-## kotlin.stdlib
-
-10 modules name themselves as `kotlin.stdlib`
-
-1. `cn.net.mugui:mugui-communication` -> [`0.0.1`]
-1. `com.github.answerail:dingtalk-spring-boot-starter` -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
-1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample` -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`]
-1. `com.ibm.cloud:platform-services-examples` -> [`0.17.10`, `0.17.11`, `0.17.12`]
-1. `com.niklasarndt:healthchecksio-java` -> [`1.0.1`]
-1. `com.niklasarndt:okhttp-mocker` -> [`1.0.0`]
-1. `fr.renardfute:SteamAPI` -> [`1.0`]
-1. `no.entur:schema2proto-lib` -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`]
-1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0`, `1.4.10`, `1.4.21`, `1.4.30`]
-1. `org.jetbrains.kotlin:kotlin-stdlib` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
 
 ## net.bytebuddy.agent
 
@@ -891,7 +892,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.github.containersolutions:webserver-sample` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.guicedee.services:jackson-module-jaxb-annotations` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
 1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli` -> [`3.36.0`, `3.37.0`, `3.38.0`]
-1. `com.yahoo.vespa:vespa-hadoop` -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`]
+1. `com.yahoo.vespa:vespa-hadoop` -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`]
 1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations` -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm` -> [`0.40.5`, `0.40.6`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger` -> [`0.40.5`, `0.40.6`]
