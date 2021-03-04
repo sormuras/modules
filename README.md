@@ -82,3 +82,16 @@ It also contains entries that were not updated since August 2018.
 [Top1000-2019.txt](doc/Top1000-2019.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of December 2019.
 This list also includes non-JAR entries (`pom`, `bom`, ...).
 It also contains entries that were not updated since August 2018.
+
+
+## Suspicious Artifacts
+
+Find lists of suspicious Maven artifacts in the [doc/suspicious](doc/suspicious) directory.
+
+For example, a Maven artifact is considered to be suspicious if its JAR file contains an illegal `Automatic-Module-Name` manifest entry.
+Illegal? An empty name, a name that contains `-` characters, a name starting numbers, a name that contains Java keywords, etc., is illegal.
+Consult chapter [Module Declarations](https://docs.oracle.com/javase/specs/jls/se9/html/jls-7.html#jls-7.7) of the Java Language Specification for details.
+TLDR; the name must be usable in `requires NAME;` directives of other modules. 
+
+Another example is a Maven artifact that contains one or more `module-info.class` files from one or more other Maven artifacts that are already packaged as Java modules. 
+Usually, this is an unwanted side-effect of shad(ow)ing 3rd-party libraries.
