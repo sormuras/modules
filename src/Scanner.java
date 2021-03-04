@@ -210,8 +210,8 @@ class Scanner {
     md.add("# " + file.getFileName());
     var summary = md.size();
     md.add("");
-    md.add("|   | Module | Group and Artifact | Version |");
-    md.add("|---|:-------|:-------------------|---------|");
+    md.add("|   | Module | Group and Artifact |");
+    md.add("|---|:-------|:-------------------|");
     int total = 0;
     int explicit = 0;
     int automatic = 0;
@@ -231,8 +231,7 @@ class Scanner {
       else if (scan.isAutomatic()) automatic++;
       else plain++;
       var name = scan.isPlain() ? "" : "`" + scan.module + "`";
-      var version = scan.isExplicit() && scan.isUnique() ? "**" + scan.V + "**" : scan.V;
-      md.add("| " + kind + " | " + name + " | `" + trim + "` | " + version + " |");
+      md.add("| " + kind + " | " + name + " | `" + trim + "` |");
     }
     if (total > 0) {
       md.add(summary + 0, "");
