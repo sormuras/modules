@@ -10,7 +10,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.objectweb.asm` x46
 1. `com.google.gson` x38
 1. `org.slf4j` x33
-1. `com.fasterxml.jackson.core` x30
+1. `com.fasterxml.jackson.core` x31
 1. `info.picocli` x30
 1. `kotlin.stdlib.jdk8` x27
 1. `io.github.classgraph` x24
@@ -157,14 +157,14 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `cn.com.analysys:javasdk` -> [`4.1.0-all`, `4.1.3-all`]
 1. `co.navdeep:kafkaer` -> [`1.4`, `1.4.1`, `1.4.2`]
 1. `com.amazon.opendistroforelasticsearch.client:opendistro-sql-jdbc` -> [`1.13.0.0`]
-1. `com.daml:ledger-api-test-tool` -> [`1.4.0-snapshot.20200729.4851.0.224ab362`, `1.6.0-snapshot.20200915.5208.0.09014dc6`, `1.6.0-snapshot.20200922.5258.0.cd4a06db`, `1.6.0-snapshot.20200930.5312.0.b9a1905d`, `1.7.0-snapshot.20201006.5358.0.0c1cadcf`, `1.7.0-snapshot.20201012.5405.0.af92198d`, `1.7.0-snapshot.20201013.5418.0.bda13392`, `1.7.0-snapshot.20201020.5481.0.03a03957`, `1.7.0-snapshot.20201023.5508.0.9dec6689`, `1.7.0-snapshot.20201027.5530.0.bdbf8977`, `1.7.0-snapshot.20201103.5565.0.e75d42dd`, `1.7.0-snapshot.20201103.5565.1.e75d42dd`, `1.8.0-snapshot.20201110.5615.0.b35c9fcb`, `1.8.0-snapshot.20201117.5661.0.76fae40c`, `1.8.0-snapshot.20201124.5709.0.dabd55d0`, `1.8.0-snapshot.20201201.5776.0.4b91f2a6`, `1.8.0-snapshot.20201208.5840.0.38455e8c`, `1.8.0-snapshot.20201214.5841.0.a8ae8e4a`, `1.8.0`, `1.9.0-snapshot.20201215.5907.0.a6ed34c5`, `1.9.0-snapshot.20210106.5986.0.c6995a9c`, `1.9.0-snapshot.20210111.6034.0.7855b023`, `1.9.0-snapshot.20210112.6040.0.7171cb38`, `1.9.0-snapshot.20210113.6060.0.9ed787cb`, `1.9.0-snapshot.20210119.6062.0.5b3663a5`, `1.9.0`, `1.10.0-snapshot.20210120.6106.0.58ef725a`, `1.10.0-snapshot.20210125.6143.0.550aa48f`, `1.10.0-snapshot.20210201.6207.0.7cf1914d`, `1.10.0-snapshot.20210202.6218.0.c0573678`, `1.10.0-snapshot.20210208.6257.0.61feb5bf`, `1.10.0-snapshot.20210209.6265.0.19bf4031`, `1.11.0-snapshot.20210212.6300.0.ad161d7f`, `1.11.0-snapshot.20210217.6338.0.ba6ba901`, `1.11.0-snapshot.20210224.6385.0.dba114a2`, `1.11.0-snapshot.20210225.6390.0.0617fbde`]
+1. `com.daml:ledger-api-test-tool` -> [`1.4.0-snapshot.20200729.4851.0.224ab362`, `1.6.0-snapshot.20200915.5208.0.09014dc6`, `1.6.0-snapshot.20200922.5258.0.cd4a06db`, `1.6.0-snapshot.20200930.5312.0.b9a1905d`, `1.7.0-snapshot.20201006.5358.0.0c1cadcf`, `1.7.0-snapshot.20201012.5405.0.af92198d`, `1.7.0-snapshot.20201013.5418.0.bda13392`, `1.7.0-snapshot.20201020.5481.0.03a03957`, `1.7.0-snapshot.20201023.5508.0.9dec6689`, `1.7.0-snapshot.20201027.5530.0.bdbf8977`, `1.7.0-snapshot.20201103.5565.0.e75d42dd`, `1.7.0-snapshot.20201103.5565.1.e75d42dd`, `1.8.0-snapshot.20201110.5615.0.b35c9fcb`, `1.8.0-snapshot.20201117.5661.0.76fae40c`, `1.8.0-snapshot.20201124.5709.0.dabd55d0`, `1.8.0-snapshot.20201201.5776.0.4b91f2a6`, `1.8.0-snapshot.20201208.5840.0.38455e8c`, `1.8.0-snapshot.20201214.5841.0.a8ae8e4a`, `1.8.0`, `1.9.0-snapshot.20201215.5907.0.a6ed34c5`, `1.9.0-snapshot.20210106.5986.0.c6995a9c`, `1.9.0-snapshot.20210111.6034.0.7855b023`, `1.9.0-snapshot.20210112.6040.0.7171cb38`, `1.9.0-snapshot.20210113.6060.0.9ed787cb`, `1.9.0-snapshot.20210119.6062.0.5b3663a5`, `1.9.0`, `1.10.0-snapshot.20210120.6106.0.58ef725a`, `1.10.0-snapshot.20210125.6143.0.550aa48f`, `1.10.0-snapshot.20210201.6207.0.7cf1914d`, `1.10.0-snapshot.20210202.6218.0.c0573678`, `1.10.0-snapshot.20210208.6257.0.61feb5bf`, `1.10.0-snapshot.20210209.6265.0.19bf4031`, `1.11.0-snapshot.20210212.6300.0.ad161d7f`, `1.11.0-snapshot.20210217.6338.0.ba6ba901`, `1.11.0-snapshot.20210224.6385.0.dba114a2`, `1.11.0-snapshot.20210225.6390.0.0617fbde`, `1.11.0-snapshot.20210303.6421.0.145ddaa8`]
 1. `com.datastax.oss.simulacron:simulacron-standalone` -> [`0.11.0`]
 1. `com.devonfw.cobigen:cli` -> [`1.2.0`, `7.0.0`, `7.1.0`]
 1. `com.ellucian.ethos.integration.sdk:integration-sdk-java` -> [`0.1.0`, `0.2.0`, `0.3.0`]
 1. `com.expedia.www:haystack-attribution-persistence-email` -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `com.expedia.www:haystack-attribution-s3` -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `com.expedia.www:haystack-attributor` -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `com.fasterxml.jackson.core:jackson-databind` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.core:jackson-databind` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.claremontqualitymanagement:taf.core` -> [`4.0.1`, `4.1.0`, `4.2.1`, `4.2.3`, `4.2.4`, `4.2.5`]
 1. `com.github.liuzhenghui:weaver-ecology-common` -> [`9.00.2003.13.2`, `9.00.2003.13.4`, `9.00.2003.13.5`]
 1. `com.github.tomakehurst:wiremock-jre8-standalone` -> [`2.26.0`, `2.26.1`, `2.26.2`, `2.26.3`, `2.27.0`, `2.27.1`, `2.27.2`]
@@ -276,7 +276,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.assertj:assertj-core` -> [`3.12.0`]
 1. `org.choco-solver:choco-solver` -> [`4.10.0`, `4.10.1`, `4.10.2`]
 1. `org.infinispan.doclets:infinispan-doclets-java11` -> [`1.2.1.Final`, `1.3.0`]
-1. `org.jetbrains.kotlinx:kotlinx-coroutines-debug` -> [`1.1.0-alpha`, `1.1.0`, `1.1.1`, `1.1.1-eap13`, `1.2.0-alpha`, `1.2.0-alpha-2`, `1.2.0`, `1.2.1`, `1.3.0-M1`, `1.3.0-M2`, `1.3.0-RC`, `1.3.0-RC2`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.2-1.3.60`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.5-native-mt`, `1.3.5-native-mt-1.4-M1`, `1.3.5-2-native-mt-1.4-M1`, `1.3.6`, `1.3.7`, `1.3.7-native-mt-1.4-M2`, `1.3.8`, `1.3.8-1.4.0-rc`, `1.3.9`, `1.3.9-native-mt`, `1.3.9-native-mt-2`, `1.4.0-M1`, `1.4.0`, `1.4.1`, `1.4.1-native-mt`, `1.4.2`, `1.4.2-native-mt`]
+1. `org.jetbrains.kotlinx:kotlinx-coroutines-debug` -> [`1.1.0-alpha`, `1.1.0`, `1.1.1`, `1.1.1-eap13`, `1.2.0-alpha`, `1.2.0-alpha-2`, `1.2.0`, `1.2.1`, `1.3.0-M1`, `1.3.0-M2`, `1.3.0-RC`, `1.3.0-RC2`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.2-1.3.60`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.5-native-mt`, `1.3.5-native-mt-1.4-M1`, `1.3.5-2-native-mt-1.4-M1`, `1.3.6`, `1.3.7`, `1.3.7-native-mt-1.4-M2`, `1.3.8`, `1.3.8-1.4.0-rc`, `1.3.9`, `1.3.9-native-mt`, `1.3.9-native-mt-2`, `1.4.0-M1`, `1.4.0`, `1.4.1`, `1.4.1-native-mt`, `1.4.2`, `1.4.2-native-mt`, `1.4.3`, `1.4.3-native-mt`]
 1. `org.opendaylight.mdsal:mdsal-binding-dom-codec` -> [`4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.rapidpm.vaadin:nano-vaadin-undertow` -> [`01.00.01-RPM`, `01.00.02-RPM`, `01.00.03-RPM`]
 1. `org.redisson:redisson-all` -> [`3.10.1`]
@@ -488,7 +488,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.apache.kudu:kudu-backup-tools` -> [`1.12.0`, `1.13.0`, `1.14.0`]
 1. `org.apache.kudu:kudu-backup2_2.11` -> [`1.12.0`, `1.13.0`]
 1. `org.apache.kudu:kudu-backup3_2.12` -> [`1.14.0`]
-1. `org.jetbrains.kotlin:kotlin-gradle-plugin` -> [`1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
+1. `org.jetbrains.kotlin:kotlin-gradle-plugin` -> [`1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin` -> [`7.0.2`, `7.0.3`, `7.0.4`]
 1. `org.sonarsource.sonarqube:sonar-plugin-api` -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`]
 1. `xyz.gianlu.librespot:librespot-api` -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
@@ -534,11 +534,11 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 ## com.fasterxml.jackson.core
 
-30 modules name themselves as `com.fasterxml.jackson.core`
+31 modules name themselves as `com.fasterxml.jackson.core`
 
 1. `ch.dsivd.copper:copper` -> [`1.2.0`]
 1. `com.daml:ledger-api-test-tool` -> [`1.3.0-snapshot.20200701.4616.0.bdbefd11`, `1.3.0-snapshot.20200706.4664.0.5db06051`, `1.3.0-snapshot.20200708.4686.0.95dfa18e`, `1.3.0-snapshot.20200714.4687.0.8e10c7a7`, `1.4.0-snapshot.20200715.4733.0.d6e58626`]
-1. `com.fasterxml.jackson.core:jackson-core` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.core:jackson-core` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.cukedoctor:cukedoctor-main` -> [`3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.5.1`, `3.5.2`]
 1. `com.github.greaterplus:sse-ble-signal` -> [`1.0`]
 1. `com.heroku.sdk:heroku-deploy-complete` -> [`2.0.14`, `2.0.15`, `2.0.16`]
@@ -563,6 +563,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.commonjava.maven.ext:pom-manipulation-cli` -> [`4.0`, `4.1`, `4.2`]
 1. `org.n52.arctic-sea:iceland-statistics-kibana` -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`]
 1. `org.openidentityplatform.commons.json-crypto:cli` -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
+1. `uk.co.gdmrdigital.iiif.image:iiif-tiler` -> [`0.9.3`]
 1. `za.co.absa.spline:admin` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 1. `za.co.absa.spline:rest-api-doc-generator` -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`, `0.5.5`]
 1. `za.co.absa.utils:rest-api-doc-generator` -> [`1.0.0`, `1.0.1`, `1.0.2`]
@@ -571,7 +572,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 30 modules name themselves as `info.picocli`
 
-1. `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli` -> [`1.3.0-alpha1`, `1.3.0-alpha2`, `1.3.0-alpha3`, `1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-beta1`, `1.3.0-beta2`]
+1. `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli` -> [`1.3.0-alpha1`, `1.3.0-alpha2`, `1.3.0-alpha3`, `1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-beta1`, `1.3.0-beta2`, `1.3.0-beta3`]
 1. `com.aeontronix.enhancedmule:enhanced-mule-installer-cli` -> [`1.0.0-beta2`]
 1. `com.instaclustr:cassandra-3` -> [`1.0`]
 1. `com.instaclustr:cassandra-4` -> [`1.0`]
@@ -631,7 +632,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `org.jetbrains.dokka:dokka-cli` -> [`1.4.10.2`, `1.4.20-dev-65`]
 1. `org.jetbrains.dokka:kotlin-analysis-compiler` -> [`1.4.10.2`, `1.4.20-dev-65`]
 1. `org.jetbrains.dokka:kotlin-analysis-intellij` -> [`1.4.10.2`, `1.4.20-dev-65`]
-1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
+1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`]
 1. `org.junit.platform:junit-platform-console-standalone` -> [`1.8.0-M1`]
 
 ## io.github.classgraph
@@ -697,7 +698,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 1. `com.codeborne:jvm2dts` -> [`1.2.3`, `1.2.4`]
 1. `com.daml:ledger-api-test-tool` -> [`1.4.0-snapshot.20200722.4796.0.28ab504b`, `1.4.0-snapshot.20200722.4800.0.21a16eef`, `1.4.0-snapshot.20200724.4812.0.818a52b0`]
-1. `com.fasterxml.jackson.core:jackson-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.core:jackson-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.fpopic:bigquery-schema-select_2.13` -> [`0.2`]
 1. `com.jwebmp.jackson.core:jackson-annotations` -> [`0.63.0.54`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.core:jackson-annotations` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -761,7 +762,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 12 modules name themselves as `com.fasterxml.jackson.datatype.jdk8`
 
-1. `com.fasterxml.jackson.datatype:jackson-datatype-jdk8` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.datatype:jackson-datatype-jdk8` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.jwebmp.jackson.datatype:jackson-datatype-jdk8` -> [`0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.microsoft.azure:spark-cdm-connector` -> [`0.18.2`]
@@ -788,7 +789,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `fr.renardfute:SteamAPI` -> [`1.0`]
 1. `no.entur:schema2proto-lib` -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`]
 1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0`, `1.4.10`, `1.4.21`, `1.4.30`]
-1. `org.jetbrains.kotlin:kotlin-stdlib` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
+1. `org.jetbrains.kotlin:kotlin-stdlib` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`]
 1. `ru.sokomishalov.skraper:cli` -> [`0.7.0`]
 
 ## org.openqa.selenium.core
@@ -848,7 +849,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 1. `com.eternitywall:java-opentimestamps` -> [`1.18`, `1.19`, `1.20`]
 1. `com.hortonworks.registries:schema-registry-core` -> [`0.8.1`]
 1. `com.sun.xml.bind:jaxb-impl` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`]
-1. `io.github.azagniotov:stubby4j` -> [`7.1.0`, `7.1.1`]
+1. `io.github.azagniotov:stubby4j` -> [`7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`]
 1. `io.pravega:pravega-test-system` -> [`0.8.0`, `0.8.1`]
 1. `org.glassfish.jaxb:jaxb-runtime` -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`]
 1. `org.icij.extract:extract-cli` -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.8`, `2.3.9`, `2.3.10`, `3.0.0`, `3.0.1`, `3.1.0`, `3.2.0`, `3.2.1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.5.0`, `3.5.1`, `3.5.2`, `3.6.0`, `3.6.1`]
@@ -889,12 +890,12 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 9 modules name themselves as `com.fasterxml.jackson.module.jaxb`
 
-1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.containersolutions:mysql-schema-sample` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.github.containersolutions:webserver-sample` -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.guicedee.services:jackson-module-jaxb-annotations` -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
 1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli` -> [`3.36.0`, `3.37.0`, `3.38.0`]
-1. `com.yahoo.vespa:vespa-hadoop` -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`]
+1. `com.yahoo.vespa:vespa-hadoop` -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`]
 1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations` -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm` -> [`0.40.5`, `0.40.6`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger` -> [`0.40.5`, `0.40.6`]
@@ -929,7 +930,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 7 modules name themselves as `com.fasterxml.jackson.datatype.jsr310`
 
-1. `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime` -> [`0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.networknt:eventuate-cdc-polling-server` -> [`2.0.8`, `2.0.9`]
 1. `com.networknt:eventuate-cdc-server` -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
@@ -954,7 +955,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 7 modules name themselves as `com.zaxxer.hikari`
 
 1. `com.aliyun.schedulerx:schedulerx2-worker` -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`]
-1. `com.zaxxer:HikariCP` -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`]
+1. `com.zaxxer:HikariCP` -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`]
 1. `fr.blueberry-studio.hermes:hermes-api` -> [`0.9-ALPHA`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix` -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`]
 1. `org.sonatype.nexus:nexus-orient-component-migrator` -> [`3.25.0-03`, `3.25.1-02`]
@@ -1001,7 +1002,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 1. `ai.h2o:sparkling-water-package_2.11` -> [`3.32.0.1-2-2.4`, `3.32.0.2-1-2.4`, `3.32.0.3-1-2.4`, `3.32.0.4-1-2.4`]
 1. `ai.h2o:sparkling-water-package_2.12` -> [`3.32.0.1-2-3.0`, `3.32.0.2-1-3.0`, `3.32.0.3-1-3.0`, `3.32.0.4-1-3.0`]
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-yaml` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.liuzhenghui:ecology-plugin-core` -> [`1.0.0`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7.1`, `1.0.7.2`]
 1. `com.restbusters:qreasp` -> [`0.0.4`]
 1. `io.bdeploy:api` -> [`2.3.0`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `3.0.0`, `3.1.0`, `3.1.1`, `3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
@@ -1103,7 +1104,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 5 modules name themselves as `org.graalvm.js`
 
 1. `org.graalvm.js:js` -> [`20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`]
-1. `org.graphwalker:graphwalker-cli` -> [`4.3.0`]
+1. `org.graphwalker:graphwalker-cli` -> [`4.3.0`, `4.3.1`]
 1. `org.noear:luffy.executor.s.graaljs` -> [`1.0.1`, `1.0.2`]
 1. `org.noear:solonjt.actuator.s.graaljs` -> [`1.0.1`]
 1. `org.noear:solonjt.executor.s.graaljs` -> [`1.0.3.2`, `1.0.3.9`, `1.0.4.3`, `1.0.4.5`, `1.0.4.6`, `1.0.5`, `1.0.6`]
@@ -1143,7 +1144,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 4 modules name themselves as `com.fasterxml.jackson.dataformat.cbor`
 
 1. `com.amazonaws:aws-xray-agent-plugin` -> [`2.7.1`, `2.8.0`]
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service` -> [`2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.elasticsearch.plugin:x-pack-sql-jdbc` -> [`7.8.1`, `7.9.0`, `7.9.1`, `7.9.2`, `7.9.3`, `7.10.0`, `7.10.1`, `7.10.2`, `7.11.0`, `7.11.1`]
 
@@ -1872,8 +1873,8 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 4 modules name themselves as `kotlin.reflect`
 
 1. `app.cash.backfila:service-lib` -> [`0.1.3-20210127.1838-76ab4fc`]
-1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0-rc`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.30-M1`, `1.4.30-RC`, `1.4.31`]
-1. `org.jetbrains.kotlin:kotlin-reflect` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`]
+1. `org.jetbrains.kotlin:kotlin-osgi-bundle` -> [`1.4.0-rc`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.30-M1`, `1.4.30-RC`, `1.4.31`, `1.5.0-M1`]
+1. `org.jetbrains.kotlin:kotlin-reflect` -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`]
 1. `org.sonarsource.slang:sonar-kotlin-plugin` -> [`1.8.0.1775`, `1.8.1.1804`, `1.8.2.1946`]
 
 ## net.sf.uadetector.core
@@ -2003,7 +2004,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 3 modules name themselves as `com.fasterxml.jackson.dataformat.csv`
 
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-csv` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-csv` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.hortonworks.registries:avro-examples` -> [`0.9.0`, `0.9.1`]
 1. `org.apache.beam:beam-runners-samza-job-server` -> [`2.27.0`, `2.28.0`]
 
@@ -2011,7 +2012,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 3 modules name themselves as `com.fasterxml.jackson.datatype.guava`
 
-1. `com.fasterxml.jackson.datatype:jackson-datatype-guava` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.datatype:jackson-datatype-guava` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.github.priytam:exampleApp` -> [`1.0`, `1.1`, `1.1-java-8`, `1.2-java-8`, `1.3-java-8`, `1.4-java-8`, `1.5.1`]
 1. `io.github.marquezproject:marquez` -> [`0.11.1-rc.4`, `0.11.1`, `0.11.2`, `0.11.3-rc.1`, `0.11.3-rc.2`, `0.11.3-rc.3`, `0.11.3-rc.4`, `0.11.3`, `0.11.4-rc.1`, `0.11.4-rc.2`, `0.11.4-rc.3`]
 
@@ -2019,7 +2020,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 3 modules name themselves as `com.fasterxml.jackson.module.afterburner`
 
-1. `com.fasterxml.jackson.module:jackson-module-afterburner` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.module:jackson-module-afterburner` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin` -> [`7.2.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger` -> [`0.40.2`, `0.40.3`, `0.40.4`]
 
@@ -2027,7 +2028,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 3 modules name themselves as `com.fasterxml.jackson.module.guice`
 
-1. `com.fasterxml.jackson.module:jackson-module-guice` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.module:jackson-module-guice` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `com.jwebmp.jackson.module:jackson-module-guice` -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.module:jackson-module-guice` -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
@@ -2036,7 +2037,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 3 modules name themselves as `com.fasterxml.jackson.module.paranamer`
 
 1. `com.datamountaineer:kafka-connect-common` -> [`2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`]
-1. `com.fasterxml.jackson.module:jackson-module-paranamer` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.module:jackson-module-paranamer` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 1. `org.apache.beam:beam-runners-spark-job-server` -> [`2.20.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 
 ## com.github.rvesse.airline
@@ -2045,7 +2046,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 1. `com.github.rvesse:airline-examples` -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
 1. `com.github.rvesse:airline` -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
-1. `io.stargate.starter:stargate-starter` -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`]
+1. `io.stargate.starter:stargate-starter` -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`]
 
 ## com.google.guice.extensions.persist
 
@@ -2514,7 +2515,7 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 2 modules name themselves as `com.fasterxml.jackson.dataformat.javaprop`
 
 1. `com.devappliance.ninjadoc:ninjadoc-openapi` -> [`0.0.1`]
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-properties` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-properties` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 
 ## com.fasterxml.jackson.datatype.jaxrs
 
@@ -2527,8 +2528,8 @@ Java modules that are repackaged (shadowed) into other artifacts x-times...
 
 2 modules name themselves as `com.fasterxml.jackson.datatype.joda`
 
-1. `com.fasterxml.jackson.datatype:jackson-datatype-joda-money` -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
-1. `com.fasterxml.jackson.datatype:jackson-datatype-joda` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`]
+1. `com.fasterxml.jackson.datatype:jackson-datatype-joda-money` -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
+1. `com.fasterxml.jackson.datatype:jackson-datatype-joda` -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
 
 ## com.fasterxml.jackson.jaxrs.base
 
