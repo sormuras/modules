@@ -60,7 +60,11 @@ class Scanner {
       var lines = new ArrayList<String>();
       lines.add("# Impostor Modules");
       lines.add("");
-      lines.add("Java modules that are repackaged (shadowed) into other artifacts x-times...");
+      lines.add(
+          """
+          An impostor module is a Maven artifact that contains the `module-info.class` file from a different Maven artifact.
+          Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
+          This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.""");
       lines.add("");
       impostors.stream()
           .limit(25)
@@ -70,10 +74,17 @@ class Scanner {
       for (var impostor : impostors) {
         var module = impostor.module;
         var size = impostor.lines.size();
+        if (size < 3) continue; // skip small impostor sets in order to keep the file size small
         lines.add("");
         lines.add("## " + module);
-        lines.add("");
-        lines.add(String.format("%d modules name themselves as `%s`", size, module));
+        if (size >= 10) {
+          lines.add("");
+          lines.add(
+              """
+              For example, at least %d artifacts on Maven Central claim to be the module `%s`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+              If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires %s;`."""
+                  .formatted(size, module, module));
+          }
         lines.add("");
         impostor.lines.forEach(lines::add);
       }
@@ -116,6 +127,7 @@ class Scanner {
   final TreeMap<String, Scan> facts; // "G:A[:C]" -> Scan
   final TreeMap<String, ArrayList<Scan>> modules; // "module" -> [Scan...]
   final TreeMap<String, String> uniques; // "module" -> "uri"
+  final TreeMap<String, String> uniqueGAs; // "module" -> "GA"
 
   Scanner(String directory) {
     this.directory = Path.of(directory);
@@ -123,6 +135,7 @@ class Scanner {
     this.facts = new TreeMap<>();
     this.modules = new TreeMap<>();
     this.uniques = new TreeMap<>();
+    this.uniqueGAs = new TreeMap<>();
   }
 
   Scanner scan() throws Exception {
@@ -146,7 +159,10 @@ class Scanner {
         facts.put(scan.GA, scan);
         if (scan.isExplicit()) {
           modules.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
-          if (scan.isUnique()) uniques.put(scan.module(), scan.toUri());
+          if (scan.isUnique()) {
+            uniques.put(scan.module(), scan.toUri());
+            uniqueGAs.put(scan.module(), scan.GA);
+          }
         }
       }
     }
@@ -163,6 +179,7 @@ class Scanner {
     var impostors = new ArrayList<Impostor>();
     for (var entry : modules.entrySet()) {
       var module = entry.getKey();
+      var uniqueGA = uniqueGAs.get(module);
       var scans = entry.getValue();
       var lines =
           scans.stream()
@@ -170,7 +187,10 @@ class Scanner {
               .collect(groupingBy(Scan::GA, mapping(Scan::V, toList())))
               .entrySet()
               .stream()
-              .map(it -> format("1. `%s` -> [`%s`]", it.getKey(), join("`, `", it.getValue())))
+              .map(it -> format("1. `%s` %s -> [`%s`]",
+                  it.getKey(),
+                  it.getKey().equals(uniqueGA) ? "🧩" : "",
+                  join("`, `", it.getValue())))
               .sorted()
               .toList();
       if (lines.size() > 1) impostors.add(new Impostor(module, lines));
