@@ -5,7 +5,7 @@
 - ⚪ 0 (0.0%) Automatic Java modules (name derived from JAR filename)
 - ➖ 0 (0.0%) Unrelated artifacts (BOM, POM, ... or not recently updated)
 
-|   | Module | Group and Artifact | Version |
-|---|:-------|:-------------------|---------|
-| ⬜ | `junit` | `junit:junit` | 4.13.2 |
-| 🧩 | `org.junit.jupiter` | `org.junit.jupiter:junit-jupiter` | **5.8.0-M1** |
+|   | Module | Group and Artifact |
+|---|:-------|:-------------------|
+| ⬜ | `junit` | `junit:junit` |
+| 🧩 | `org.junit.jupiter` | `org.junit.jupiter:junit-jupiter` |
