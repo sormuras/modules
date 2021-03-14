@@ -150,6 +150,8 @@ class Scanner {
   }
 
   void scanFile(Path file) throws Exception {
+    var traceMaven = System.getProperty("trace-maven");
+    var traceModule = System.getProperty("trace-module");
     for (var string : Files.readAllLines(file)) {
       lines++;
       var line = new Line(string);
@@ -157,6 +159,8 @@ class Scanner {
       var scan = line.scan();
       if (scans.add(scan)) {
         facts.put(scan.GA, scan);
+        if (scan.GA.equals(traceMaven)) out("%s%n", scan);
+        if (scan.module.equals(traceModule)) out("%s%n", scan);
         if (scan.isExplicit()) {
           modules.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
           if (scan.isUnique()) {
