@@ -3,8 +3,8 @@ package bin;
 import com.github.sormuras.bach.Bach;
 import com.github.sormuras.bach.Command;
 import com.github.sormuras.bach.Options;
-import com.github.sormuras.bach.Options.Property;
 import com.github.sormuras.bach.ProjectInfo;
+import com.github.sormuras.bach.project.Property;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.lang.module.ModuleDescriptor;
@@ -581,16 +581,16 @@ public class boot {
       out("%n-> %d tool%s", size, size == 1 ? "" : "s");
     }
 
-    static void recordings() {
-      var list = bach().recordings();
+    static void runs() {
+      var list = bach().logbook().runs();
       var size = list.size();
       list.forEach(out);
-      out("%n-> %d recording%s", size, size == 1 ? "" : "s");
+      out("%n-> %d run%s", size, size == 1 ? "" : "s");
     }
 
     static void run(String tool, Object... args) {
-      var command = Command.of(tool);
-      var recording = bach().run(args.length == 0 ? command : command.add("", args));
+      var command = Command.of(tool).addAll(args);
+      var recording = bach().run(command);
       if (!recording.errors().isEmpty()) out.accept(recording.errors());
       if (!recording.output().isEmpty()) out.accept(recording.output());
       if (recording.isError())
