@@ -30,17 +30,9 @@ com.blazebit:blaze-actor-declarative-integration-cdi:1.0.0-Alpha4 -> -
 com.blazebit:blaze-actor-documentation:1.0.0-Alpha4 -> -
 com.blazebit:blaze-actor-scheduler-executor:1.0.0-Alpha4 -> -
 com.blazebit:blaze-actor-scheduler-spring:1.0.0-Alpha4 -> -
-com.blazebit:blaze-domain-checkstyle-rules:1.0.14 -> -
-com.blazebit:blaze-domain-core-api:1.0.14 -> -
-com.blazebit:blaze-domain-core-impl:1.0.14 -> -
-com.blazebit:blaze-domain-declarative-api:1.0.14 -> -
-com.blazebit:blaze-domain-declarative-impl:1.0.14 -> -
-com.blazebit:blaze-domain-declarative-integration-cdi:1.0.14 -> -
 com.blazebit:blaze-domain-declarative-persistence:1.0.0-Alpha1 -> -
 com.blazebit:blaze-domain-documentation:1.0.14 -> -
 com.blazebit:blaze-domain-persistence:1.0.0-Alpha1 -> -
-com.blazebit:blaze-domain-typescript:1.0.14 -> -
-com.blazebit:blaze-expression-checkstyle-rules:1.0.0-Alpha18 -> -
 com.blazebit:blaze-expression-documentation:1.0.0-Alpha18 -> -
 com.blazebit:blaze-job-checkstyle-rules:1.0.0 -> -
 com.blazebit:blaze-job-core-api:1.0.0 -> -
