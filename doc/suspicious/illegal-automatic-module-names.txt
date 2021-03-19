@@ -872,7 +872,7 @@ org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-import-tool:3.6.2 -> org.neo4j.tooling.import
 org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
-org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha6 -> org.hibernate.orm.enhance-maven-plugin
+org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha7 -> org.hibernate.orm.enhance-maven-plugin
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-core:6.0.2.Final -> -
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-jberet:6.0.2.Final -> -
