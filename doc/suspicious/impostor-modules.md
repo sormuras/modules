@@ -26,9 +26,9 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.openqa.selenium.core` x12
 1. `com.sun.xml.bind` x11
 1. `java.json` x11
+1. `com.fasterxml.jackson.module.jaxb` x10
 1. `net.bytebuddy.agent` x10
 1. `org.bouncycastle.pg` x10
-1. `com.fasterxml.jackson.module.jaxb` x9
 1. _... and some more._
 
 ## org.apache.logging.log4j
@@ -545,7 +545,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`4.0`, `4.1`, `4.2`]
 1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`, `8.2.0`]
 1. `org.openidentityplatform.commons.json-crypto:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
-1. `run.facet.agent.java:facet-agent`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`]
+1. `run.facet.agent.java:facet-agent`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`]
 1. `uk.co.gdmrdigital.iiif.image:iiif-tiler`  -> [`0.9.3`]
 1. `za.co.absa.spline:admin`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 1. `za.co.absa.spline:rest-api-doc-generator`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`, `0.5.5`]
@@ -859,7 +859,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.sitoolkit.wt:sit-wt-app`  -> [`3.0.0-alpha.2`, `3.0.0-beta.1`, `3.0.0-beta.2`, `3.0.0-beta.3`, `3.0.0`]
 1. `io.tesbo:Tesbo-Web`  -> [`0.0.6`]
 1. `org.seleniumhq.selenium:selenium-api`  -> [`3.14.0`, `3.141.0`, `3.141.5`, `3.141.59`, `4.0.0-alpha-1`, `4.0.0-alpha-2`]
-1. `ru.sbtqa.tag.pagefactory:page-factory-core`  -> [`10.0.0`, `10.1.1`, `10.1.2`, `10.1.3`, `11.0.0`, `11.0.1`, `11.1.0`, `11.1.1`, `11.2.0`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`, `14.0.0`, `14.1.0`, `14.2.0`, `14.3.1`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.7.1`, `14.8.0`, `14.8.1`, `14.9.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.0`, `15.2.0`, `15.2.2`, `15.2.3`, `15.3.0`, `15.3.1`, `15.4.0`, `15.4.3`, `15.4.8`, `15.5.0`, `15.6.0`, `15.7.2`, `15.8.0`, `15.9.1`, `15.9.2`, `15.9.3`, `15.10.0`, `15.11.0`, `15.12.0`, `15.13.3`, `15.14.1`, `15.14.2`]
+1. `ru.sbtqa.tag.pagefactory:page-factory-core`  -> [`10.0.0`, `10.1.1`, `10.1.2`, `10.1.3`, `11.0.0`, `11.0.1`, `11.1.0`, `11.1.1`, `11.2.0`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`, `14.0.0`, `14.1.0`, `14.2.0`, `14.3.1`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.7.1`, `14.8.0`, `14.8.1`, `14.9.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.0`, `15.2.0`, `15.2.2`, `15.2.3`, `15.3.0`, `15.3.1`, `15.4.0`, `15.4.3`, `15.4.8`, `15.5.0`, `15.6.0`, `15.7.2`, `15.8.0`, `15.9.1`, `15.9.2`, `15.9.3`, `15.10.0`, `15.11.0`, `15.12.0`, `15.13.3`, `15.14.1`, `15.14.2`, `15.14.4`]
 
 ## com.sun.xml.bind
 
@@ -895,6 +895,22 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`]
 
+## com.fasterxml.jackson.module.jaxb
+
+For example, at least 10 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
+
+1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
+1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
+1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`]
+1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`]
+1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
+1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`]
+
 ## net.bytebuddy.agent
 
 For example, at least 10 artifacts on Maven Central claim to be the module `net.bytebuddy.agent`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -926,18 +942,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
 1. `org.vafer:jdeb`  -> [`1.8`]
 1. `org.whitesource:wss-unified-agent-main`  -> [`19.7.3`]
-
-## com.fasterxml.jackson.module.jaxb
-
-1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`]
-1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
-1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`]
-1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`]
-1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`]
 
 ## org.slf4j.simple
 
