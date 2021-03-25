@@ -164,7 +164,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:3.6.1 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:3.6.1 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:54.0.0 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:54.0.1 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2020.8.0.16 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.0 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
