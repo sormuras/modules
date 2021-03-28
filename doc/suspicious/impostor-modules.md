@@ -23,12 +23,12 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.bouncycastle.pkix` x13
 1. `com.fasterxml.jackson.datatype.jdk8` x12
 1. `java.ws.rs` x12
+1. `org.bouncycastle.pg` x12
 1. `org.openqa.selenium.core` x12
 1. `com.fasterxml.jackson.dataformat.yaml` x11
 1. `com.fasterxml.jackson.module.jaxb` x11
 1. `com.sun.xml.bind` x11
 1. `java.json` x11
-1. `org.bouncycastle.pg` x11
 1. _... and some more._
 
 ## org.apache.logging.log4j
@@ -333,7 +333,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentracing.contrib.specialagent:opentracing-specialagent`  -> [`0.9.0`, `1.0.1`, `1.0.2`]
 1. `io.projectreactor.tools:blockhound`  -> [`1.0.0.RELEASE`]
 1. `net.bytebuddy:byte-buddy` 🧩 -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.9.4`, `1.9.6`, `1.9.7`, `1.9.8`, `1.9.9`, `1.9.10`, `1.9.11`, `1.9.12`, `1.9.13`, `1.9.14`, `1.9.15`, `1.9.16`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`, `1.10.5`, `1.10.6`, `1.10.7`, `1.10.8`, `1.10.9`, `1.10.10`, `1.10.11`, `1.10.12`, `1.10.13`, `1.10.14`, `1.10.15`, `1.10.16`, `1.10.17`, `1.10.18`, `1.10.19`, `1.10.20`, `1.10.21`, `1.10.22`]
-1. `net.serenity-bdd:serenity-cli`  -> [`2.3.26`, `2.3.30`, `2.3.31`]
+1. `net.serenity-bdd:serenity-cli`  -> [`2.3.26`, `2.3.30`, `2.3.31`, `2.3.32`]
 1. `nl.jqno.equalsverifier:equalsverifier`  -> [`3.0.1`, `3.0.2`]
 1. `org.agrona:agrona-agent`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.1`, `1.6.0`, `1.7.0`, `1.7.1`, `1.7.2`, `1.8.0`, `1.9.0`]
 1. `org.apache.beam:beam-runners-flink-1.6-job-server`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.13.0`, `2.14.0`, `2.15.0`, `2.16.0`]
@@ -858,6 +858,24 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`]
 1. `org.keycloak:kcinit`  -> [`9.0.0`, `9.0.2`, `9.0.3`]
 
+## org.bouncycastle.pg
+
+For example, at least 12 artifacts on Maven Central claim to be the module `org.bouncycastle.pg`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.pg;`.
+
+1. `com.danielflower.apprunner:restabuild`  -> [`0.6.0`]
+1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.0-rc0`, `3.1.0-rc1`, `3.1.0-rc2`, `3.1.0-rc3`, `3.1.0`, `3.1.1`, `3.1.2`]
+1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.1.0-rc0`, `3.1.0-rc1`, `3.1.0-rc2`, `3.1.0-rc3`, `3.1.0`, `3.1.1`, `3.1.2`]
+1. `com.juliozynger.floorplan:floorplan-gradle-plugin`  -> [`0.3`]
+1. `io.kestra.plugin:plugin-crypto`  -> [`0.2.0`]
+1. `org.bouncycastle:bcpg-fips` 🧩 -> [`1.0.3`, `1.0.4`, `1.0.5`]
+1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
+1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
+1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
+1. `org.vafer:jdeb`  -> [`1.8`]
+1. `org.whitesource:wss-unified-agent-main`  -> [`19.7.3`]
+1. `pl.allegro.tech.build:axion-release-plugin`  -> [`1.13.0`]
+
 ## org.openqa.selenium.core
 
 For example, at least 12 artifacts on Maven Central claim to be the module `org.openqa.selenium.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -943,23 +961,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.finra.herd:herd-uploader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`]
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`]
-
-## org.bouncycastle.pg
-
-For example, at least 11 artifacts on Maven Central claim to be the module `org.bouncycastle.pg`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.pg;`.
-
-1. `com.danielflower.apprunner:restabuild`  -> [`0.6.0`]
-1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.0-rc0`, `3.1.0-rc1`, `3.1.0-rc2`, `3.1.0-rc3`, `3.1.0`, `3.1.1`, `3.1.2`]
-1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.1.0-rc0`, `3.1.0-rc1`, `3.1.0-rc2`, `3.1.0-rc3`, `3.1.0`, `3.1.1`, `3.1.2`]
-1. `com.juliozynger.floorplan:floorplan-gradle-plugin`  -> [`0.3`]
-1. `io.kestra.plugin:plugin-crypto`  -> [`0.2.0`]
-1. `org.bouncycastle:bcpg-fips` 🧩 -> [`1.0.3`, `1.0.4`, `1.0.5`]
-1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
-1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
-1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
-1. `org.vafer:jdeb`  -> [`1.8`]
-1. `org.whitesource:wss-unified-agent-main`  -> [`19.7.3`]
 
 ## net.bytebuddy.agent
 
