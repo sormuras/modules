@@ -102,7 +102,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.javaoperatorsdk:mysql-schema-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.1`, `1.6.2`, `1.7.0`, `1.7.1`]
 1. `io.javaoperatorsdk:tomcat-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`]
 1. `io.javaoperatorsdk:webserver-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.1`, `1.6.2`, `1.7.0`, `1.7.1`]
-1. `io.michaelrocks.pablo:pablo`  -> [`1.1.0`, `1.1.1`]
+1. `io.michaelrocks.pablo:pablo`  -> [`1.1.0`, `1.1.1`, `1.1.3`]
 1. `io.mosip.kernel:kernel-auth-adapter`  -> [`1.1.3-rc1`, `1.1.3-rc2`, `1.1.3`, `1.1.4-rc1`, `1.1.4`]
 1. `io.mosip.registrationprocessor:registration-processor-common-camel-bridge`  -> [`1.1.2-rc2`, `1.1.2-rc3`, `1.1.2`, `1.1.3-rc1`, `1.1.3-rc2`, `1.1.3`, `1.1.4-rc1`, `1.1.4`]
 1. `io.nosqlbench:driver-cql-shaded`  -> [`3.12.103`, `3.12.104`, `3.12.106`, `3.12.109`, `3.12.110`, `3.12.111`, `3.12.113`, `3.12.114`, `3.12.115`, `3.12.116`, `3.12.117`, `3.12.119`, `3.12.120`, `3.12.121`, `3.12.122`, `3.12.123`, `3.12.124`, `3.12.125`, `3.12.126`, `3.12.127`, `3.12.128`, `3.12.129`, `3.12.130`, `3.12.131`, `3.12.132`, `3.12.133`, `3.12.134`, `3.12.135`, `3.12.136`, `3.12.137`, `3.12.138`, `3.12.139`, `3.12.140`, `3.12.141`, `3.12.142`, `3.12.143`, `3.12.144`, `3.12.146`, `3.12.147`, `3.12.148`, `3.12.149`, `3.12.150`, `3.12.151`, `3.12.152`, `3.12.153`, `3.12.154`, `3.12.155`, `3.12.200`, `3.12.201`, `3.12.202`]
@@ -718,9 +718,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `cn.itlym.shoulder:lombok`  -> [`0.1`]
 1. `cn.itlym:shoulder-lombok`  -> [`0.0.1`]
-1. `co.privacyone.sdk:keychain`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`]
-1. `co.privacyone.sdk:ldar`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`]
-1. `co.privacyone.sdk:restapi`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`]
+1. `co.privacyone.sdk:keychain`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`]
+1. `co.privacyone.sdk:ldar`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`]
+1. `co.privacyone.sdk:restapi`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`]
 1. `com.github.ramalapure:filesystem`  -> [`1.0`]
 1. `com.infobip:jira-version-generator`  -> [`2.0.1`]
 1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
@@ -996,9 +996,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
-1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`]
+1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.9`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.9`, `1.10`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`]
@@ -2146,7 +2146,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.eclipse.osgi
 
-1. `io.github.phillima:asniffer`  -> [`2.4.1`]
+1. `io.github.phillima:asniffer`  -> [`2.4.1`, `2.4.2`]
 1. `org.codehaus.groovy:groovy-eclipse-batch`  -> [`3.0.7-03`]
 1. `org.eclipse.platform:org.eclipse.osgi`  -> [`3.16.200`]
 
