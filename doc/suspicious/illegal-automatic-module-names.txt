@@ -182,7 +182,6 @@ com.synopsys.integration:jenkins-common:0.3.4 -> com.synopsys.integration.jenkin
 com.synopsys.integration:phone-home-client:4.0.3 -> com.synopsys.integration.phone-home-client
 com.synopsys.integration:polaris-common:0.21.0 -> com.synopsys.integration.polaris-common
 com.synopsys.integration:polaris-common-api:0.0.15 -> com.synopsys.integration.polaris-common-api
-de.mkammerer:argon2-jvm-nolibs:2.9.1 -> de.mkammerer.argon2-nolibs
 de.saxsys:mvvmfx-cdi:1.8.0 -> de.saxsys.mvvmfx-cdi
 de.saxsys:mvvmfx-easydi:1.8.0 -> de.saxsys.mvvmfx-easydi
 de.saxsys:mvvmfx-guice:1.8.0 -> de.saxsys.mvvmfx-guice
@@ -926,7 +925,7 @@ org.jbpm:jbpm-executor-ejb:7.52.0.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.52.0.Final -> -
 org.jbpm:jbpm-xes:7.52.0.Final -> -
-org.jmonkeyengine:jme3-android-native:3.4.0-alpha6 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.4.0-alpha7 -> jme3.android.native
 org.kie.kogito.examples:decisiontable-quarkus-example:1.4.1.Final -> -
 org.kie.kogito.examples:decisiontable-springboot-example:1.4.1.Final -> -
 org.kie.kogito.examples:dmn-drools-quarkus-metrics:1.4.1.Final -> -
