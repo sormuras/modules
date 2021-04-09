@@ -199,7 +199,7 @@ io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-core:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-processor:2.0.1.RELEASE -> -
-io.github.clightning4j:jrpclightning:0.1.8 -> 'io.clightning4j.jrpclightning'
+io.github.clightning4j:jrpclightning:0.1.9 -> 'io.clightning4j.jrpclightning'
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.10-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:1.0.10-RELEASE -> jt.808.server.support
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
