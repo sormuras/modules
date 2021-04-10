@@ -10,7 +10,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `net.bytebuddy` x58
 1. `org.bouncycastle.provider` x52
 1. `org.objectweb.asm` x48
-1. `com.google.gson` x40
+1. `com.google.gson` x41
 1. `com.fasterxml.jackson.core` x37
 1. `org.slf4j` x33
 1. `kotlin.stdlib.jdk8` x32
@@ -145,7 +145,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.finra.herd:herd-retention-expiration-exporter`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-uploader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.0.0`, `7.1.0`]
-1. `org.neo4j:neo4j-logging`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`]
+1. `org.neo4j:neo4j-logging`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`]
 1. `org.odpi.egeria:gaian-ranger-plugin`  -> [`1.0`]
 1. `org.powertac:sample-broker`  -> [`1.7.1`]
 1. `org.robotframework:remoteswinglibrary`  -> [`2.2.5`]
@@ -479,7 +479,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 40 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 41 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `com.capitalone.dashboard:hygieia-query`  -> [`1.0.1`, `1.0.2`]
@@ -512,6 +512,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentelemetry.javaagent:opentelemetry-javaagent-exporter-jaeger`  -> [`0.12.0`, `0.12.1`, `0.13.0`, `0.13.1`, `0.14.0`]
 1. `io.opentelemetry.javaagent:opentelemetry-javaagent-exporter-otlp`  -> [`0.12.0`, `0.12.1`, `0.13.0`, `0.13.1`, `0.14.0`]
 1. `io.opentracing.contrib:opentelemetry-bridge`  -> [`0.4.0`]
+1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`]
 1. `org.apache.beam:beam-vendor-grpc-1_26_0`  -> [`0.1`]
 1. `org.apache.kudu:kudu-backup-tools`  -> [`1.12.0`, `1.13.0`, `1.14.0`]
 1. `org.apache.kudu:kudu-backup2_2.11`  -> [`1.12.0`, `1.13.0`]
@@ -784,7 +785,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.xdev-software:desktopkit-app`  -> [`1.2.0`]
 1. `fish.payara.extras:payara-embedded-all`  -> [`5.183`, `5.184`, `5.191`, `5.192`, `5.193`, `5.193.1`]
 1. `fish.payara.extras:payara-embedded-web`  -> [`5.183`, `5.184`, `5.191`, `5.192`, `5.193`, `5.193.1`]
-1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.6.4`, `1.6.5`, `1.7.0`, `1.7.1`, `1.8.0`, `1.8.2`, `1.9.0`, `1.9.1`, `1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.12.0`, `1.13.0`, `1.14.0`, `1.14.1`, `1.14.2`, `1.14.3`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.15.4`, `1.15.5`, `1.15.6`, `1.15.7`, `1.15.7.1`, `1.15.8`, `1.15.9`, `1.15.10`, `1.15.11`]
+1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.6.4`, `1.6.5`, `1.7.0`, `1.7.1`, `1.8.0`, `1.8.2`, `1.9.0`, `1.9.1`, `1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.12.0`, `1.13.0`, `1.14.0`, `1.14.1`, `1.14.2`, `1.14.3`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.15.4`, `1.15.5`, `1.15.6`, `1.15.7`, `1.15.7.1`, `1.15.8`, `1.15.9`, `1.15.10`, `1.15.11`, `1.15.12`]
 1. `io.michaelrocks:paranoid-gradle-plugin`  -> [`0.3.3`]
 1. `io.michaelrocks:paranoid-processor`  -> [`0.3.3`]
 1. `net.corda:corda-djvm`  -> [`4.0`]
@@ -827,7 +828,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
 1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`, `1.1.2`, `1.2.0`]
-1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`]
+1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`, `0.18.4`]
 1. `com.intuit.hooks:maven-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`]
 1. `com.niklasarndt:healthchecksio-java`  -> [`1.0.1`]
 1. `com.niklasarndt:okhttp-mocker`  -> [`1.0.0`]
@@ -847,7 +848,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
-1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`]
+1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`]
 1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`]
 1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`]
 1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
@@ -1026,7 +1027,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.nosqlbench:driver-dsegraph-shaded`  -> [`4.15.31`, `4.15.33`]
 1. `org.graalvm.js:js` 🧩 -> [`20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`]
 1. `org.graphwalker:graphwalker-cli`  -> [`4.3.0`, `4.3.1`]
-1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
+1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `org.noear:solonjt.actuator.s.graaljs`  -> [`1.0.1`]
 1. `org.noear:solonjt.executor.s.graaljs`  -> [`1.0.3.2`, `1.0.3.9`, `1.0.4.3`, `1.0.4.5`, `1.0.4.6`, `1.0.5`, `1.0.6`]
 
@@ -1116,6 +1117,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.carne:java-test-swt-gtk-linux-x86_64`  -> [`4.0.1`]
 1. `de.carne:java-test-swt-win32-win32-x86_64` 🧩 -> [`4.0.1`]
 
+## org.glassfish.java.json
+
+1. `com.github.mibo:jaxrsdoc`  -> [`1.1.0`]
+1. `com.sebastian-daschner:jaxrs-analyzer`  -> [`0.16`, `0.17`]
+1. `com.smartcar.sdk:java-sdk`  -> [`2.7.6`, `2.7.7`]
+1. `cz.cuni.mff.d3s.spl:spl-evaluation-java`  -> [`1.0.4`]
+1. `org.glassfish:javax.json` 🧩 -> [`1.1.2`, `1.1.3`]
+1. `tech.b180.cordaptor:glassfish-javax-json-shaded`  -> [`1.1`]
+
 ## com.amihaiemil.eoyaml
 
 1. `com.amihaiemil.web:eo-yaml`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.3.3`, `4.3.4`, `4.3.5`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.1.8`, `5.1.9`]
@@ -1163,14 +1173,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.4.0`]
 1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.4.0`]
 1. `org.codehaus.woodstox:stax2-api`  -> [`4.2`, `4.2.1`]
-
-## org.glassfish.java.json
-
-1. `com.github.mibo:jaxrsdoc`  -> [`1.1.0`]
-1. `com.sebastian-daschner:jaxrs-analyzer`  -> [`0.16`, `0.17`]
-1. `cz.cuni.mff.d3s.spl:spl-evaluation-java`  -> [`1.0.4`]
-1. `org.glassfish:javax.json` 🧩 -> [`1.1.2`, `1.1.3`]
-1. `tech.b180.cordaptor:glassfish-javax-json-shaded`  -> [`1.1`]
 
 ## org.joda.convert
 
