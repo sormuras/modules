@@ -173,7 +173,7 @@ com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integratio
 com.synopsys.integration:hub-imageinspector-lib:13.0.4 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:2.2.2 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:22.1.0 -> com.synopsys.integration.integration-bdio
-com.synopsys.integration:integration-common:24.2.1 -> com.synopsys.integration.integration-common
+com.synopsys.integration:integration-common:24.2.4 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.2 -> com.synopsys.integration.integration-reporting
 com.synopsys.integration:issuetracker-common:0.0.5 -> com.synopsys.integration.issuetracker-common
 com.synopsys.integration:issuetracker-jira:0.0.12 -> com.synopsys.integration.issuetracker-jira
