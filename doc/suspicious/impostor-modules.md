@@ -13,8 +13,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.google.gson` x42
 1. `com.fasterxml.jackson.core` x37
 1. `info.picocli` x33
+1. `kotlin.stdlib.jdk8` x33
 1. `org.slf4j` x33
-1. `kotlin.stdlib.jdk8` x32
 1. `io.github.classgraph` x26
 1. `com.fasterxml.jackson.annotation` x23
 1. `lombok` x23
@@ -22,10 +22,10 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `kotlin.stdlib` x17
 1. `org.bouncycastle.pkix` x17
 1. `com.fasterxml.jackson.module.jaxb` x14
+1. `java.ws.rs` x14
 1. `com.fasterxml.jackson.datatype.jdk8` x13
 1. `org.openqa.selenium.core` x13
 1. `com.fasterxml.jackson.dataformat.yaml` x12
-1. `java.ws.rs` x12
 1. `org.bouncycastle.pg` x12
 1. `com.sun.xml.bind` x11
 1. `java.json` x11
@@ -281,7 +281,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `jakarta.xml.bind:jakarta.xml.bind-api`  -> [`2.3.2`]
 1. `javax.xml.bind:jaxb-api`  -> [`2.4.0-b180830.0359`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.5`, `2.10.6`]
-1. `net.sf.ehcache:ehcache`  -> [`2.10.5`, `2.10.6`]
+1. `net.sf.ehcache:ehcache`  -> [`2.10.5`, `2.10.6`, `2.10.7`]
 1. `org.apache.druid.extensions.contrib:aliyun-oss-extensions`  -> [`0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`]
 1. `org.apache.druid:druid-benchmarks`  -> [`0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`]
 1. `org.apache.flink:flink-s3-fs-hadoop`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`]
@@ -613,6 +613,45 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.pgpainless:pgpainless-sop`  -> [`0.2.0-alpha5`, `0.2.0-alpha6`, `0.2.0-alpha7`, `0.2.0-alpha8`, `0.2.0-alpha9`]
 1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.9`, `0.6.10`]
 
+## kotlin.stdlib.jdk8
+
+For example, at least 33 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
+
+1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
+1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
+1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
+1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
+1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
+1. `com.ibm.cloud:is-examples`  -> [`0.4.3`]
+1. `com.intuit.hooks:compiler-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`]
+1. `com.mparticle:smartype-generator`  -> [`1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.notkamui.libs:keval`  -> [`0.7.1`]
+1. `com.orange.ccmd:hurl`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
+1. `com.orange.ccmd:hurlfmt`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
+1. `com.squareup.sqldelight:gradle-plugin`  -> [`1.5.0`]
+1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`]
+1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`]
+1. `dev.zacsweers.ticktock:ticktock-compiler`  -> [`0.2.0`, `0.2.1`, `1.0.0-2020d`, `1.1.0-2020f`]
+1. `io.github.baharmc:bedrock-edition`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.baharmc:java-edition`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.baharmc:network-common`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.portlek:patty`  -> [`1.1`]
+1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
+1. `io.github.shiruka:conf-common`  -> [`1.1`]
+1. `io.github.shiruka:conf-json`  -> [`1.1`]
+1. `io.github.shiruka:conf-yaml`  -> [`1.1`]
+1. `io.github.shiruka:network`  -> [`1.3`]
+1. `io.tatum:tatum-java`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
+1. `io.teamif:comcigan-lib`  -> [`1.0`]
+1. `net.lz1998:pbbot-spring-boot-starter`  -> [`0.0.2`, `0.0.3`]
+1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`]
+1. `org.jetbrains.dokka:dokka-cli`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`]
+1. `org.jetbrains.dokka:kotlin-analysis-compiler`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`]
+1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`]
+1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`]
+1. `org.junit.platform:junit-platform-console-standalone`  -> [`1.8.0-M1`]
+
 ## org.slf4j
 
 For example, at least 33 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -628,7 +667,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback`  -> [`9.0.16`, `9.0.17`, `9.0.19`, `9.0.20`, `9.0.21`, `9.0.22`, `9.0.24`, `9.0.26`, `9.0.27`, `9.0.29`, `9.0.30`, `9.0.31`, `9.0.33`, `9.0.34`, `9.0.35`, `9.0.36`, `9.0.37`, `9.0.38`, `9.0.39`, `9.0.40`, `9.0.41`, `9.0.41.SP1`, `9.0.41.SP2`, `9.0.43`, `9.0.44`, `9.0.45`]
 1. `com.guicedee.services:sl4j`  -> [`1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`]
 1. `com.guicedee.services:slf4j`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
-1. `com.sndyuk:logback-more-appenders`  -> [`1.5.7-JAVA9MODULE_SLF4J17`, `1.6.0-JAVA9MODULE_SLF4J17`, `1.6.1-JAVA9MODULE_SLF4J17`, `1.7.1-JAVA9MODULE_SLF4J17`, `1.7.2-JAVA9MODULE_SLF4J17`, `1.7.3-JAVA9MODULE_SLF4J17`, `1.7.4-JAVA9MODULE_SLF4J17`, `1.7.5-JAVA9MODULE_SLF4J17`, `1.8.0-JAVA9MODULE_SLF4J17`, `1.8.1-JAVA9MODULE_SLF4J17`, `1.8.2-JAVA9MODULE_SLF4J17`, `1.8.3-JAVA9MODULE_SLF4J17`, `1.8.4-JAVA9MODULE_SLF4J17`, `1.8.5-JAVA9MODULE_SLF4J17`]
+1. `com.sndyuk:logback-more-appenders`  -> [`1.5.7-JAVA9MODULE_SLF4J17`, `1.6.0-JAVA9MODULE_SLF4J17`, `1.6.1-JAVA9MODULE_SLF4J17`, `1.7.1-JAVA9MODULE_SLF4J17`, `1.7.2-JAVA9MODULE_SLF4J17`, `1.7.3-JAVA9MODULE_SLF4J17`, `1.7.4-JAVA9MODULE_SLF4J17`, `1.7.5-JAVA9MODULE_SLF4J17`, `1.8.0-JAVA9MODULE_SLF4J17`, `1.8.1-JAVA9MODULE_SLF4J17`, `1.8.2-JAVA9MODULE_SLF4J17`, `1.8.3-JAVA9MODULE_SLF4J17`, `1.8.4-JAVA9MODULE_SLF4J17`, `1.8.5-JAVA9MODULE_SLF4J17`, `1.8.6-JAVA9MODULE_SLF4J17`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.23`, `1.0.30`, `1.0.31`]
 1. `io.github.jdiscordbots:nightdream-logging`  -> [`1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`]
 1. `io.github.origin-energy:java-snapshot-testing-junit4`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
@@ -651,44 +690,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.eclipse.jetty:jetty-runner`  -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`]
 1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`]
 1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.45`, `1.50`, `1.52`]
-
-## kotlin.stdlib.jdk8
-
-For example, at least 32 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
-
-1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
-1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
-1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
-1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
-1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
-1. `com.ibm.cloud:is-examples`  -> [`0.4.3`]
-1. `com.intuit.hooks:compiler-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`]
-1. `com.mparticle:smartype-generator`  -> [`1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.notkamui.libs:keval`  -> [`0.7.1`]
-1. `com.orange.ccmd:hurl`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
-1. `com.orange.ccmd:hurlfmt`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
-1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`]
-1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`]
-1. `dev.zacsweers.ticktock:ticktock-compiler`  -> [`0.2.0`, `0.2.1`, `1.0.0-2020d`, `1.1.0-2020f`]
-1. `io.github.baharmc:bedrock-edition`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.baharmc:java-edition`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.baharmc:network-common`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.portlek:patty`  -> [`1.1`]
-1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
-1. `io.github.shiruka:conf-common`  -> [`1.1`]
-1. `io.github.shiruka:conf-json`  -> [`1.1`]
-1. `io.github.shiruka:conf-yaml`  -> [`1.1`]
-1. `io.github.shiruka:network`  -> [`1.3`]
-1. `io.tatum:tatum-java`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
-1. `io.teamif:comcigan-lib`  -> [`1.0`]
-1. `net.lz1998:pbbot-spring-boot-starter`  -> [`0.0.2`, `0.0.3`]
-1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`]
-1. `org.jetbrains.dokka:dokka-cli`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`]
-1. `org.jetbrains.dokka:kotlin-analysis-compiler`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`]
-1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`]
-1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`]
-1. `org.junit.platform:junit-platform-console-standalone`  -> [`1.8.0-M1`]
 
 ## io.github.classgraph
 
@@ -871,6 +872,26 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`]
 
+## java.ws.rs
+
+For example, at least 14 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires java.ws.rs;`.
+
+1. `cc.kebei:boot-in-jar`  -> [`1.1`]
+1. `com.bazaarvoice.emodb:emodb-web-local`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
+1. `com.bazaarvoice.emodb:emodb-web`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
+1. `com.guicedee.services:java.ws.rs`  -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.intershop.gradle.jobrunner:icmjobrunner`  -> [`1.0.2`]
+1. `de.foellix:AQL-System`  -> [`1.2.0`]
+1. `io.github.parj:getexternalip`  -> [`1.0`, `1.1`]
+1. `io.pravega:pravega-test-system`  -> [`0.9.0`]
+1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
+1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
+1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.9`]
+1. `net.sf.ehcache:ehcache`  -> [`2.10.8`]
+1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`]
+1. `org.keycloak:kcinit`  -> [`9.0.0`, `9.0.2`, `9.0.3`]
+
 ## com.fasterxml.jackson.datatype.jdk8
 
 For example, at least 13 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -926,24 +947,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.bdeploy:api`  -> [`2.3.0`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `3.0.0`, `3.1.0`, `3.1.1`, `3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.2.0`]
 1. `io.kestra:kestra`  -> [`0.2.0`, `0.2.1`]
-
-## java.ws.rs
-
-For example, at least 12 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires java.ws.rs;`.
-
-1. `cc.kebei:boot-in-jar`  -> [`1.1`]
-1. `com.bazaarvoice.emodb:emodb-web-local`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
-1. `com.bazaarvoice.emodb:emodb-web`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
-1. `com.guicedee.services:java.ws.rs`  -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
-1. `com.intershop.gradle.jobrunner:icmjobrunner`  -> [`1.0.2`]
-1. `de.foellix:AQL-System`  -> [`1.2.0`]
-1. `io.github.parj:getexternalip`  -> [`1.0`, `1.1`]
-1. `io.pravega:pravega-test-system`  -> [`0.9.0`]
-1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
-1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
-1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`]
-1. `org.keycloak:kcinit`  -> [`9.0.0`, `9.0.2`, `9.0.3`]
 
 ## org.bouncycastle.pg
 
@@ -1037,6 +1040,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.networknt:tram-cdc-polling-server`  -> [`2.0.8`, `2.0.9`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.13.0`, `0.13.1`]
 
+## com.zaxxer.hikari
+
+1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`]
+1. `com.zaxxer:HikariCP` 🧩 -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`]
+1. `fr.blueberry-studio.hermes:hermes-api`  -> [`0.9-ALPHA`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`]
+1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.25.0-03`, `3.25.1-02`]
+1. `tr.com.infumia:InfumiaPlugin`  -> [`1.1.0`]
+1. `tr.com.infumia:KekoUtil`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `5.0`, `5.1`, `5.2`, `5.3`, `5.4`, `5.5`, `5.6`, `5.7`, `5.8`, `6.0`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `6.7`, `6.8`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `7.4.1`, `7.5`, `7.6`, `7.7`]
+1. `tr.com.infumia:db`  -> [`1.0`, `1.1`, `1.3`, `1.4`]
+
 ## org.graalvm.js
 
 1. `io.nosqlbench:driver-cql-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`]
@@ -1067,16 +1081,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.nflow:nflow-tests`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`]
 1. `org.apache.tika:tika-server-classic`  -> [`2.0.0-ALPHA`]
 1. `org.apache.tika:tika-server-core`  -> [`2.0.0-ALPHA`]
-
-## com.zaxxer.hikari
-
-1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`]
-1. `com.zaxxer:HikariCP` 🧩 -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`]
-1. `fr.blueberry-studio.hermes:hermes-api`  -> [`0.9-ALPHA`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`]
-1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.25.0-03`, `3.25.1-02`]
-1. `tr.com.infumia:KekoUtil`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `5.0`, `5.1`, `5.2`, `5.3`, `5.4`, `5.5`, `5.6`, `5.7`, `5.8`, `6.0`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `6.7`, `6.8`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `7.4.1`, `7.5`, `7.6`, `7.7`]
-1. `tr.com.infumia:db`  -> [`1.0`, `1.1`, `1.3`, `1.4`]
 
 ## kotlin.reflect
 
@@ -1138,7 +1142,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.mibo:jaxrsdoc`  -> [`1.1.0`]
 1. `com.sebastian-daschner:jaxrs-analyzer`  -> [`0.16`, `0.17`]
-1. `com.smartcar.sdk:java-sdk`  -> [`2.7.6`, `2.7.7`]
+1. `com.smartcar.sdk:java-sdk`  -> [`2.7.6`, `2.7.7`, `2.8.0`]
 1. `cz.cuni.mff.d3s.spl:spl-evaluation-java`  -> [`1.0.4`]
 1. `org.glassfish:javax.json` 🧩 -> [`1.1.2`, `1.1.3`]
 1. `tech.b180.cordaptor:glassfish-javax-json-shaded`  -> [`1.1`]

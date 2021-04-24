@@ -1380,7 +1380,7 @@ org.neo4j:neo4j-rewriting-3.5:3.5.28 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.revapi.testjars:testjars-maven-resolver:0.2.0 -> define this in child modules
-org.selenide:selenide-selenoid:1.1.0 -> org.selenide.selenide-selenoid
+org.selenide:selenide-selenoid:1.1.1 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.simplejavamail:outlook-message-parser:1.7.9 -> outlook-message-parser
 org.spockframework:spock-groovy2-compat:2.0-M5-groovy-2.5 -> org.spockframework.groovy2-compat
