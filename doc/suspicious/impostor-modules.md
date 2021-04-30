@@ -19,7 +19,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `io.github.classgraph` x26
 1. `lombok` x24
 1. `org.objectweb.asm.commons` x19
-1. `kotlin.stdlib` x17
+1. `kotlin.stdlib` x18
 1. `org.bouncycastle.pkix` x17
 1. `com.fasterxml.jackson.module.jaxb` x14
 1. `java.ws.rs` x14
@@ -285,8 +285,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.sf.ehcache:ehcache`  -> [`2.10.5`, `2.10.6`, `2.10.7`]
 1. `org.apache.druid.extensions.contrib:aliyun-oss-extensions`  -> [`0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`]
 1. `org.apache.druid:druid-benchmarks`  -> [`0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`]
-1. `org.apache.flink:flink-s3-fs-hadoop`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`]
-1. `org.apache.flink:flink-s3-fs-presto`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`]
+1. `org.apache.flink:flink-s3-fs-hadoop`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`, `1.13.0`]
+1. `org.apache.flink:flink-s3-fs-presto`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`, `1.13.0`]
 1. `org.apache.heron:heron-api`  -> [`0.20.3-incubating`]
 1. `org.apache.heron:heron-simulator`  -> [`0.20.3-incubating`]
 1. `org.apache.heron:heron-spi`  -> [`0.20.3-incubating`]
@@ -528,7 +528,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.32`]
 1. `org.jetbrains.kotlin:kotlin-gradle-plugin`  -> [`1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`, `1.5.0`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.0.2`, `7.0.3`, `7.0.4`]
-1. `org.sonarsource.sonarqube:sonar-plugin-api`  -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`, `8.7.1.42226`]
+1. `org.sonarsource.sonarqube:sonar-plugin-api`  -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`, `8.7.1.42226`, `8.8.0.42792`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
 1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
 1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
@@ -609,7 +609,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.toop:toop-demoui-dcstandalone`  -> [`2.0.0-rc1`, `2.0.0-rc2`, `2.0.0-rc3`, `2.0.0`, `2.1.0`, `2.1.0-1`, `2.1.1`]
 1. `info.picocli:picocli-jpms-module`  -> [`4.0.0-alpha-2`, `4.0.0-alpha-3`]
 1. `info.picocli:picocli` 🧩 -> [`4.0.0-beta-1b`, `4.0.0-beta-2`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.6.0`, `4.6.1`]
-1. `io.github.asseco-pst:einstein`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
+1. `io.github.asseco-pst:einstein`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
 1. `io.jooby:jooby-cli`  -> [`2.0.6`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `2.9.5`]
 1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.1.0`]
@@ -762,7 +762,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.checkerframework:checker`  -> [`3.12.0`]
 1. `org.eclipse.vorto:generator-lambda-executor`  -> [`1.0.0`]
 1. `org.eclipse.vorto:generator-lambda-plugininfo`  -> [`1.0.0`]
-1. `org.restheart:restheart`  -> [`5.0.0-RC2`, `5.0.0-RC3`, `5.0.0-RC4`, `5.0.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.2.0`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`]
+1. `org.restheart:restheart`  -> [`5.0.0-RC2`, `5.0.0-RC3`, `5.0.0-RC4`, `5.0.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.2.0`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `6.0.0-RC1`]
 1. `za.co.absa.spline.agent.spark:spark-2.2-spline-agent-bundle_2.11`  -> [`0.5.4`, `0.5.5`, `0.5.6`]
 1. `za.co.absa.spline.agent.spark:spark-2.3-spline-agent-bundle_2.11`  -> [`0.5.4`, `0.5.5`, `0.5.6`]
 1. `za.co.absa.spline.agent.spark:spark-2.4-spline-agent-bundle_2.11`  -> [`0.5.4`, `0.5.5`, `0.5.6`]
@@ -808,7 +808,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.microsoft.azure:applicationinsights-agent`  -> [`2.5.0-BETA`, `2.5.0-BETA.2`, `2.5.0-BETA.3`, `2.5.0-BETA.4`, `2.5.0-BETA.5`, `2.5.0`, `2.5.1-BETA`, `2.5.1-BETA.2`, `2.5.1`, `2.6.0-BETA`]
 1. `com.netflix.nebula:gradle-lint-plugin`  -> [`11.2.0`, `11.3.0`, `11.4.0`, `11.4.1`, `11.4.2`, `11.4.3`, `11.4.4`, `12.0.0`, `12.1.0`, `13.0.0`, `13.1.0`, `13.1.1`, `13.1.2`, `13.1.4`, `13.1.5`, `13.1.6`, `13.1.7`, `14.0.0`, `14.0.1`, `14.1.0`, `14.2.0`, `14.2.1`, `14.2.4`, `15.0.0`, `15.0.1`, `15.0.2`, `15.0.3`, `16.0.0`, `16.0.1`, `16.1.1`, `16.1.2`, `16.1.3`, `16.1.4`, `16.2.0`, `16.2.1`, `16.2.2`, `16.2.3`, `16.3.0`, `16.3.1`, `16.4.0`, `16.5.1`, `16.5.2`, `16.6.0`, `16.7.0`, `16.7.1`, `16.8.0`, `16.8.1`, `16.9.0`, `16.9.1`, `16.10.0`, `16.12.0`, `16.15.6`, `16.15.7`, `16.15.8`, `16.15.9`, `16.16.0`, `16.17.0`, `16.17.1`, `16.18.0`, `16.19.0`, `16.20.0`, `16.22.0`, `16.23.0`]
 1. `com.newrelic.agent.android:class-rewriter`  -> [`5.28.0`, `5.28.1`, `6.0.0`]
-1. `com.teamscale:teamscale-jacoco-agent`  -> [`16.0.1`, `17.0.0`, `18.0.0`, `19.0.0`, `20.0.0`, `21.0.0`, `21.1.0`, `21.2.0`, `21.2.1`]
+1. `com.teamscale:teamscale-jacoco-agent`  -> [`16.0.1`, `17.0.0`, `18.0.0`, `19.0.0`, `20.0.0`, `21.0.0`, `21.1.0`, `21.2.0`, `21.2.1`, `21.3.0`]
 1. `com.viridiansoftware:desugar`  -> [`1.0.0`, `1.0.1`]
 1. `com.xdev-software:desktopkit-app`  -> [`1.2.0`]
 1. `fish.payara.extras:payara-embedded-all`  -> [`5.183`, `5.184`, `5.191`, `5.192`, `5.193`, `5.193.1`]
@@ -825,7 +825,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib
 
-For example, at least 17 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 18 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib;`.
 
 1. `cn.net.mugui:mugui-communication`  -> [`0.0.1`]
@@ -833,6 +833,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
 1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`, `1.1.2`, `1.2.0`]
+1. `com.ibm.cloud:examples`  -> [`0.0.4`]
 1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`, `0.18.4`, `0.18.5`, `0.18.6`, `0.18.7`, `0.18.8`]
 1. `com.intuit.hooks:maven-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`]
 1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.5`]
@@ -994,7 +995,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.hortonworks.registries:schema-registry-core`  -> [`0.8.1`]
 1. `com.sun.xml.bind:jaxb-impl` 🧩 -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`]
 1. `eu.fbk.dh:KD-Runner`  -> [`0.1`]
-1. `io.github.azagniotov:stubby4j`  -> [`7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`, `7.2.0`, `7.3.0`, `7.3.1`, `7.3.2`]
+1. `io.github.azagniotov:stubby4j`  -> [`7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`, `7.2.0`, `7.3.0`, `7.3.1`, `7.3.2`, `7.3.3`]
 1. `io.pravega:pravega-test-system`  -> [`0.8.0`, `0.8.1`]
 1. `org.glassfish.jaxb:jaxb-runtime`  -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.3.2`]
 1. `org.icij.extract:extract-cli`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.8`, `2.3.9`, `2.3.10`, `3.0.0`, `3.0.1`, `3.1.0`, `3.2.0`, `3.2.1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.5.0`, `3.5.1`, `3.5.2`, `3.6.0`, `3.6.1`, `3.7.0`, `3.7.1`]
@@ -1108,7 +1109,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains.lets-plot:lets-plot-batik`  -> [`2.0.1`]
 1. `org.jetbrains.lets-plot:lets-plot-common`  -> [`2.0.1`, `2.0.2-rc1`, `2.0.2`]
 1. `org.jetbrains.lets-plot:lets-plot-jfx`  -> [`2.0.1`]
-1. `org.sonarsource.slang:sonar-kotlin-plugin`  -> [`1.8.0.1775`, `1.8.1.1804`, `1.8.2.1946`]
+1. `org.sonarsource.slang:sonar-kotlin-plugin`  -> [`1.8.0.1775`, `1.8.1.1804`, `1.8.2.1946`, `1.8.3.2219`]
 
 ## org.beryx.awt.color
 
@@ -1207,10 +1208,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.codehaus.stax2
 
-1. `com.github.zuinnote:hadoopoffice-flinkts_2.11`  -> [`1.4.0`]
-1. `com.github.zuinnote:hadoopoffice-flinkts_2.12`  -> [`1.4.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.4.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.4.0`]
+1. `com.github.zuinnote:hadoopoffice-flinkts_2.11`  -> [`1.4.0`, `1.5.0`]
+1. `com.github.zuinnote:hadoopoffice-flinkts_2.12`  -> [`1.4.0`, `1.5.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.4.0`, `1.5.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.4.0`, `1.5.0`]
 1. `org.codehaus.woodstox:stax2-api`  -> [`4.2`, `4.2.1`]
 
 ## org.joda.convert
@@ -1961,7 +1962,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.rvesse:airline-examples` 🧩 -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
 1. `com.github.rvesse:airline`  -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
-1. `io.stargate.starter:stargate-starter`  -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`, `1.0.21`, `1.0.22`]
+1. `io.stargate.starter:stargate-starter`  -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`, `1.0.21`, `1.0.22`, `1.0.23`]
 
 ## com.google.guice.extensions.persist
 
@@ -2187,7 +2188,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.poi.ooxml
 
-1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`]
+1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`]
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`]
 
