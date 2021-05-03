@@ -145,7 +145,7 @@ com.graphql-java:java-dataloader:2021-03-30T02-56-19-5805475 -> com.graphql-java
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.helger:en16931-cii2ubl:1.4.0 -> com.helger.en16931-cii2ubl
+com.helger:en16931-cii2ubl:1.4.1 -> com.helger.en16931-cii2ubl
 com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
