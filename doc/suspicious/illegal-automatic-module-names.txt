@@ -170,7 +170,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.0.0-alpha.1 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.1 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:54.2.2 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:54.2.3 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2020.8.0.21 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.0 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -847,10 +847,10 @@ org.drools:drools-wb-scenario-simulation-editor-kogito-webapp-common:7.53.0.Fina
 org.drools:ha-core:7.53.0.Final -> -
 org.drools:ha-core-infra:7.53.0.Final -> -
 org.drools:ha-remote:7.53.0.Final -> -
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.14 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.14 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.15 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.15 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.14 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.15 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.functionaljava:functionaljava-java-core:4.9 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
 org.graphfoundation.ongdb.community:bolt-it:3.6.2 -> org.neo4j.community.bolt-it
