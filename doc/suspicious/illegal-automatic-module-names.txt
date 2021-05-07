@@ -133,6 +133,18 @@ com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
 com.github.librepdf:pdf-xml:1.2.16 -> com.github.librepdf.pdf-xml
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_2.11:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_2.12:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_2.13:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_sjs1_2.11:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_sjs1_2.12:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-core_sjs1_2.13:2.8.0 -> jsoniter-scala-core
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_2.11:2.8.0 -> jsoniter-scala-macros
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_2.12:2.8.0 -> jsoniter-scala-macros
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_2.13:2.8.0 -> jsoniter-scala-macros
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.11:2.8.0 -> jsoniter-scala-macros
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.12:2.8.0 -> jsoniter-scala-macros
+com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.13:2.8.0 -> jsoniter-scala-macros
 com.github.triceo.robozonky.installer:robozonky-installer-panels:4.0.0-beta-5 -> com.github.triceo.robozonky.installer.robozonky-installer-panels
 com.github.triceo.robozonky:robozonky-api:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-api
 com.github.triceo.robozonky:robozonky-app:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-app
@@ -175,7 +187,7 @@ com.synopsys.integration:blackduck-common-api:2020.8.0.21 -> com.synopsys.integr
 com.synopsys.integration:coverity-common:0.8.0 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:13.0.6 -> com.synopsys.integration.hub-imageinspector-lib
-com.synopsys.integration:int-jira-common:2.2.3 -> com.synopsys.integration.int-jira-common
+com.synopsys.integration:int-jira-common:2.2.4 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:22.1.1 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:24.3.0 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
