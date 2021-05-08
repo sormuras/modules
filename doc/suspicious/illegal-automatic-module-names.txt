@@ -198,6 +198,7 @@ com.synopsys.integration:jenkins-common:0.3.4 -> com.synopsys.integration.jenkin
 com.synopsys.integration:phone-home-client:4.0.4 -> com.synopsys.integration.phone-home-client
 com.synopsys.integration:polaris-common:0.21.0 -> com.synopsys.integration.polaris-common
 com.synopsys.integration:polaris-common-api:0.0.15 -> com.synopsys.integration.polaris-common-api
+com.tfowl.ktor:ktor-jsoup:1.5.4 -> ktor-jsoup
 com.wire:wire-signals_2.11:0.4.2 -> wire-signals
 com.wire:wire-signals_2.12:0.4.2 -> wire-signals
 com.wire:wire-signals_2.13:0.4.2 -> wire-signals
