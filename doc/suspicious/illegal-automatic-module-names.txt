@@ -2,10 +2,10 @@ ai.djl.mxnet:mxnet-native-auto:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu102mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu110mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-mkl:1.8.0 -> ai.djl.native
-au.com.dius.pact.consumer:specs2_2.13:4.2.4 -> au.com.dius.pact.consumer.specs2_2.13
-au.com.dius.pact.provider:scalasupport_2.13:4.2.4 -> au.com.dius.pact.provider.scalasupport_2.13
-au.com.dius.pact.provider:scalatest_2.13:4.2.4 -> au.com.dius.pact.provider.scalatest_2.13
-au.com.dius.pact.provider:specs2_2.13:4.2.4 -> au.com.dius.pact.provider.specs2_2.13
+au.com.dius.pact.consumer:specs2_2.13:4.2.5 -> au.com.dius.pact.consumer.specs2_2.13
+au.com.dius.pact.provider:scalasupport_2.13:4.2.5 -> au.com.dius.pact.provider.scalasupport_2.13
+au.com.dius.pact.provider:scalatest_2.13:4.2.5 -> au.com.dius.pact.provider.scalatest_2.13
+au.com.dius.pact.provider:specs2_2.13:4.2.5 -> au.com.dius.pact.provider.specs2_2.13
 au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.10 -> au.com.dius.pact_jvm_consumer_specs2_2.12
 au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalasupport_2.12
 au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalatest_2.12
@@ -950,7 +950,7 @@ org.jbpm:jbpm-executor-ejb:7.53.0.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.53.0.Final -> -
 org.jbpm:jbpm-xes:7.53.0.Final -> -
-org.jmonkeyengine:jme3-android-native:3.4.0-beta2 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.4.0-beta3 -> jme3.android.native
 org.kie.kogito.examples:decisiontable-quarkus-example:1.6.0.Final -> -
 org.kie.kogito.examples:decisiontable-springboot-example:1.6.0.Final -> -
 org.kie.kogito.examples:dmn-drools-quarkus-metrics:1.6.0.Final -> -
