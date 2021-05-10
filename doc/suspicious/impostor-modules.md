@@ -534,8 +534,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.0.2`, `7.0.3`, `7.0.4`]
 1. `org.sonarsource.sonarqube:sonar-plugin-api`  -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`, `8.7.1.42226`, `8.8.0.42792`, `8.9.0.43852`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
-1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
-1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
+1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`]
+1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`]
 
 ## com.fasterxml.jackson.core
 
@@ -580,7 +580,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`, `8.2.0`, `8.2.1`]
 1. `org.openidentityplatform.commons.json-crypto:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
 1. `run.facet.agent.java:facet-agent`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
-1. `uk.co.gdmrdigital.iiif.image:iiif-tiler`  -> [`0.9.3`]
+1. `uk.co.gdmrdigital.iiif.image:iiif-tiler`  -> [`0.9.3`, `0.9.4`]
 1. `za.co.absa.spline:admin`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 1. `za.co.absa.spline:rest-api-doc-generator`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`, `0.5.5`]
 1. `za.co.absa.utils:rest-api-doc-generator`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -656,7 +656,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `info.picocli:picocli-jpms-module`  -> [`4.0.0-alpha-2`, `4.0.0-alpha-3`]
 1. `info.picocli:picocli` 🧩 -> [`4.0.0-beta-1b`, `4.0.0-beta-2`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.6.0`, `4.6.1`]
 1. `io.github.asseco-pst:einstein`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
-1. `io.jooby:jooby-cli`  -> [`2.0.6`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `2.9.5`]
+1. `io.jooby:jooby-cli`  -> [`2.0.6`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `2.9.5`, `2.9.6`]
 1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.1.0`]
 1. `org.apache.james:webadmin-cli`  -> [`3.6.0`]
@@ -682,7 +682,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.liferay.portal:release.portal.api`  -> [`7.3.4-ga5`, `7.3.5-ga6`]
 1. `com.wavefront:wavefront-opentracing-bundle-java`  -> [`1.2.0`]
 1. `edu.byu.hbll.maven:executable-parent`  -> [`3.4.1`, `3.5.0`, `3.6.0`, `3.7.0`, `3.7.1`]
-1. `io.github.drewlakee:discojx`  -> [`1.0.0`]
+1. `io.github.drewlakee:discojx`  -> [`1.0.0`, `1.0.1`]
 1. `io.gitlab.arturbosch.detekt:detekt-report-sarif`  -> [`1.15.0-RC1`, `1.15.0-RC2`, `1.15.0`, `1.16.0-RC1`, `1.16.0-RC2`, `1.16.0-RC3`, `1.16.0`]
 1. `io.hdocdb:hdocdb`  -> [`1.0.0`, `1.0.1`]
 1. `io.inugami.security:inugami_core_security_tools`  -> [`2.0.0`]
