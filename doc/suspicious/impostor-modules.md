@@ -12,7 +12,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm` x50
 1. `com.google.gson` x43
 1. `com.fasterxml.jackson.core` x42
-1. `info.picocli` x35
+1. `info.picocli` x36
 1. `kotlin.stdlib.jdk8` x35
 1. `com.fasterxml.jackson.annotation` x34
 1. `org.slf4j` x33
@@ -160,9 +160,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.performance.common:netty-http-echo-service`  -> [`0.2.0`, `0.2.1`, `0.3.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`]
 1. `top.populus:bees`  -> [`1.0`]
 1. `uk.gov.nca.graph:mapper`  -> [`1.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
 1. `za.co.absa.hyperdrive:hyperdrive-release`  -> [`3.2.2`, `3.3.0`, `4.0.0`, `4.1.0`]
 
 ## com.fasterxml.jackson.databind
@@ -300,7 +300,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.duracloud.snapshot:snapshot-service-impl`  -> [`3.0.0`]
 1. `org.duracloud:account-management-db-util`  -> [`7.0.0`]
 1. `org.duracloud:account-management-monitor`  -> [`7.0.0`]
-1. `org.neo4j:neosemantics`  -> [`4.0.0.0`, `4.0.0.1`, `4.1.0.0`, `4.1.0.1`, `4.2.0.0`]
+1. `org.neo4j:neosemantics`  -> [`4.0.0.0`, `4.0.0.1`, `4.1.0.0`, `4.1.0.1`, `4.2.0.0`, `4.2.0.1`]
 1. `org.openapitools:openapi-generator-cli`  -> [`3.2.2`, `3.2.3`, `3.3.0`]
 1. `org.verapdf.apps:greenfield-apps`  -> [`1.14.6-RC`, `1.14.7-RC`, `1.14.8`, `1.16.1`, `1.18.1`, `1.18.5`]
 1. `org.verapdf.plugins:metsMetadata-plugin`  -> [`1.14.2-RC`, `1.14.9-RC`, `1.14.10-RC`]
@@ -588,7 +588,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## info.picocli
 
-For example, at least 35 artifacts on Maven Central claim to be the module `info.picocli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 36 artifacts on Maven Central claim to be the module `info.picocli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires info.picocli;`.
 
 1. `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli`  -> [`1.3.0-alpha1`, `1.3.0-alpha2`, `1.3.0-alpha3`, `1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-beta1`, `1.3.0-beta2`, `1.3.0-beta3`, `1.3.0-beta4`, `1.3.0-beta5`, `1.3.0-beta6`, `1.3.0-beta7`, `1.3.0-beta8`, `1.3.0-beta9`, `1.3.0-beta10`, `1.3.0-beta11`, `1.3.0-beta12`, `1.3.0-beta13`, `1.3.0-beta14`, `1.3.0-beta15`, `1.3.0-beta16`, `1.3.0-beta17`, `1.3.0-beta18`]
@@ -598,6 +598,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.instaclustr:cassandra-4`  -> [`1.0`]
 1. `com.instaclustr:cassandra-sidecar`  -> [`1.0.0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-alpha8`]
 1. `com.instaclustr:esop`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`]
+1. `com.instaclustr:ic-sstable-tools-4.0-rc1`  -> [`1.0.0`]
 1. `com.instaclustr:icarus`  -> [`1.0.0`, `1.0.1`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
 1. `com.instaclustr:instaclustr-backup-restore`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-alpha8`]
 1. `com.instaclustr:minotaur`  -> [`1.0.0`]
@@ -786,7 +787,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `cn.net.mugui:mugui-communication`  -> [`0.0.1`]
 1. `com.brendangoldberg:kotlin-jwt`  -> [`1.3.0`]
-1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`]
+1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
 1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`, `1.1.2`, `1.2.0`]
 1. `com.ibm.cloud:examples`  -> [`0.0.4`]
@@ -870,7 +871,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 18 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.pkix;`.
 
-1. `com.datastax.oss:pulsar-jms-all`  -> [`1.0.0-ALPHA`]
+1. `com.datastax.oss:pulsar-jms-all`  -> [`1.0.0-ALPHA`, `1.0.0`]
 1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.117.37`, `7.119.4`, `7.120.13`, `7.122.7`, `7.125.11`, `7.126.14`, `7.128.18`, `7.132.16`, `7.133.13`, `7.136.13`, `7.138.15`, `7.140.12`, `7.142.14`, `7.143.13`, `7.144.5`, `7.145.41`, `7.147.12`, `7.157.9`, `7.161.1`, `7.162.26`, `7.164.8`, `7.165.5`, `7.166.31`, `7.168.4`, `7.169.4`, `7.171.10`, `7.172.13`, `7.173.17`, `7.174.29`, `7.175.12`, `7.176.11`, `7.177.11`, `7.179.11`, `7.184.8`, `7.185.19`, `7.186.20`, `7.187.1`, `7.190.14`, `7.193.27`, `7.197.21`, `7.198.13`, `7.199.1`, `7.200.54`, `7.201.7`, `7.204.28`, `7.206.15`, `7.207.47`, `7.208.2`, `7.209.2`, `7.211.11`, `7.212.12`, `7.213.19`, `7.214.34`, `7.215.8`, `7.216.10`, `7.217.12`, `7.218.37`, `7.219.14`, `7.220.14`, `7.223.70`, `7.225.71`, `7.226.6`, `7.227.16`, `7.228.15`, `7.229.35`, `7.232.23`, `7.233.7`, `7.234.10`, `7.235.16`, `7.236.32`, `7.237.14`, `7.238.12`, `7.240.27`, `7.241.12`, `7.242.24`, `7.244.2`, `7.246.11`, `7.247.32`, `7.248.5`, `7.249.12`, `7.250.9`, `7.251.31`, `7.252.6`, `7.254.8`, `7.255.24`, `7.256.6`, `7.257.6`, `7.258.11`, `7.259.2`, `7.261.8`, `7.263.4`, `7.264.3`, `7.265.10`, `7.266.25`, `7.267.11`, `7.268.15`, `7.270.21`, `7.271.29`, `7.273.15`, `7.274.2`, `7.275.26`, `7.276.8`, `7.277.38`, `7.278.21`, `7.279.34`, `7.280.10`, `7.281.56`, `7.282.23`, `7.285.54`, `7.286.18`, `7.290.1`, `7.291.27`, `7.292.82`, `7.294.10`, `7.295.58`, `7.297.21`, `7.298.26`, `7.299.105`, `7.300.57`, `7.301.24`, `7.304.50`, `7.305.19`, `7.306.19`, `7.308.21`, `7.309.46`, `7.310.25`, `7.312.45`, `7.314.13`, `7.317.18`, `7.322.17`, `7.323.38`, `7.324.57`, `7.326.17`, `7.327.42`, `7.328.17`, `7.329.19`, `7.330.15`, `7.331.24`, `7.334.42`, `7.335.22`, `7.338.31`, `7.339.20`, `7.340.22`, `7.342.40`, `7.343.18`, `7.346.59`, `7.347.28`, `7.349.32`, `7.350.53`, `7.351.32`, `7.354.14`, `7.355.22`]
 1. `de.aaschmid:taskwarrior-java-client`  -> [`1.0`]
 1. `io.nosqlbench:nb`  -> [`3.12.52`, `3.12.54`, `3.12.55`, `3.12.60`, `3.12.61`, `3.12.62`, `3.12.66`, `3.12.67`, `3.12.70`, `3.12.71`, `3.12.72`, `3.12.73`, `3.12.75`, `3.12.76`, `3.12.77`, `3.12.78`, `3.12.79`, `3.12.81`, `3.12.82`, `3.12.83`, `3.12.84`, `3.12.85`]
@@ -900,7 +901,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
 1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`, `3.43.0`]
-1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`]
+1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`]
 1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
 1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`]
 1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`]
@@ -1034,7 +1035,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.tidb:flink-tidb-connector-base`  -> [`0.0.3`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`]
 1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.25.0-03`, `3.25.1-02`]
-1. `tr.com.infumia:InfumiaPlugin`  -> [`1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.2`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`]
+1. `tr.com.infumia:InfumiaPlugin`  -> [`1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.4.2`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`, `1.6.2`, `1.6.3`]
 1. `tr.com.infumia:KekoUtil`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `5.0`, `5.1`, `5.2`, `5.3`, `5.4`, `5.5`, `5.6`, `5.7`, `5.8`, `6.0`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `6.7`, `6.8`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `7.4.1`, `7.5`, `7.6`, `7.7`]
 1. `tr.com.infumia:db`  -> [`1.0`, `1.1`, `1.3`, `1.4`]
 
@@ -1068,7 +1069,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.nerdvision:example`  -> [`2.0.1`, `2.0.2`, `2.0.4`, `2.1.0`, `2.2.0`]
 1. `com.netsensia.rivalchess:rivalchess-engine`  -> [`10.0.0`, `10.0.3`, `10.0.4`]
 1. `io.opentracing.contrib.specialagent:opentracing-specialagent`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`]
-1. `io.projectreactor:reactor-tools`  -> [`3.3.0.RELEASE`, `3.3.1.RELEASE`, `3.3.2.RELEASE`, `3.3.3.RELEASE`, `3.3.4.RELEASE`, `3.3.5.RELEASE`, `3.3.6.RELEASE`, `3.3.7.RELEASE`, `3.3.8.RELEASE`, `3.3.9.RELEASE`, `3.3.10.RELEASE`, `3.3.11.RELEASE`, `3.4.0`, `3.4.1`, `3.4.2`, `3.4.3`, `3.4.4`, `3.4.5`]
+1. `io.projectreactor:reactor-tools`  -> [`3.3.0.RELEASE`, `3.3.1.RELEASE`, `3.3.2.RELEASE`, `3.3.3.RELEASE`, `3.3.4.RELEASE`, `3.3.5.RELEASE`, `3.3.6.RELEASE`, `3.3.7.RELEASE`, `3.3.8.RELEASE`, `3.3.9.RELEASE`, `3.3.10.RELEASE`, `3.3.11.RELEASE`, `3.4.0`, `3.4.1`, `3.4.2`, `3.4.3`, `3.4.4`, `3.4.5`, `3.4.6`]
 1. `net.bytebuddy:byte-buddy-agent` 🧩 -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.9.4`, `1.9.6`, `1.9.7`, `1.9.8`, `1.9.9`, `1.9.10`, `1.9.11`, `1.9.12`, `1.9.13`, `1.9.14`, `1.9.15`, `1.9.16`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`, `1.10.5`, `1.10.6`, `1.10.7`, `1.10.8`, `1.10.9`, `1.10.10`, `1.10.11`, `1.10.12`, `1.10.13`, `1.10.14`, `1.10.15`, `1.10.16`, `1.10.17`, `1.10.18`, `1.10.19`, `1.10.20`, `1.10.21`, `1.10.22`, `1.11.0`]
 1. `software.amazon.disco:disco-java-agent-inject-api`  -> [`0.10.0`, `0.11.0`]
 
@@ -1097,9 +1098,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.graalvm.js
 
-1. `io.nosqlbench:driver-cql-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`]
-1. `io.nosqlbench:driver-cqld3-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`]
-1. `io.nosqlbench:driver-dsegraph-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`]
+1. `io.nosqlbench:driver-cql-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`, `4.15.45`]
+1. `io.nosqlbench:driver-cqld3-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`, `4.15.45`]
+1. `io.nosqlbench:driver-dsegraph-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`, `4.15.45`]
 1. `org.graalvm.js:js` 🧩 -> [`20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`, `21.1.0`]
 1. `org.graphwalker:graphwalker-cli`  -> [`4.3.0`, `4.3.1`]
 1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`]
