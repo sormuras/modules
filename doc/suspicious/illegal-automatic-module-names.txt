@@ -162,7 +162,7 @@ com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
-com.imsweb:staging-algorithm-eod-public:2.0.7 -> com.imsweb.staging.eod.public
+com.imsweb:staging-algorithm-eod-public:2.0.8 -> com.imsweb.staging.eod.public
 com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.1 -> -
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
@@ -228,7 +228,7 @@ io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -
 io.github.pdvrieze.xmlutil:serialization-jvm:0.82.0 -> xmlutil-serialization_woodstoxTest
 io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1 -> io.github.resilience4j.spring-cloud-common
 io.github.zlika:reproducible-build-maven-plugin:0.13 -> io.github.zlika.reproducible-build-maven-plugin
-io.micrometer:micrometer-registry-new-relic:1.6.6 -> micrometer.registry.new.relic
+io.micrometer:micrometer-registry-new-relic:1.7.0 -> micrometer.registry.new.relic
 io.netty:netty-microbench:4.1.63.Final -> -
 io.netty:netty-testsuite-autobahn:4.1.63.Final -> -
 io.netty:netty-testsuite-http2:4.1.63.Final -> -
@@ -954,7 +954,7 @@ org.jbpm:jbpm-executor-ejb:7.53.0.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.53.0.Final -> -
 org.jbpm:jbpm-xes:7.53.0.Final -> -
-org.jmonkeyengine:jme3-android-native:3.4.0-beta3 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.4.0-beta4 -> jme3.android.native
 org.kie.kogito.examples:decisiontable-quarkus-example:1.6.0.Final -> -
 org.kie.kogito.examples:decisiontable-springboot-example:1.6.0.Final -> -
 org.kie.kogito.examples:dmn-drools-quarkus-metrics:1.6.0.Final -> -
