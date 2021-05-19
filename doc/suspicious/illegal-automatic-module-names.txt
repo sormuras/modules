@@ -265,6 +265,7 @@ net.serenity-bdd:serenity-emailer:2.1.0 -> serenity-emailer
 net.serenity-bdd:serenity-machinereadable-reports:2.1.1 -> serenity-machinereadable-reports
 net.serenity-bdd:serenity-navigator-report:2.3.13 -> serenity-navigator-report
 net.serenity-bdd:serenity-test-utils:2.3.13 -> serenity-test-utils
+net.xyzsd.plurals:cldr-plural-rules:2.0.1 -> net.xyzsd.plurals.cldr-plural-rules
 org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
