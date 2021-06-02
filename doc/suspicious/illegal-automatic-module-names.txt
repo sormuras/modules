@@ -145,7 +145,7 @@ com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
-com.imsweb:staging-algorithm-eod-public:2.0.8 -> com.imsweb.staging.eod.public
+com.imsweb:staging-algorithm-eod-public:2.0.9 -> com.imsweb.staging.eod.public
 com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.1 -> -
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
@@ -166,7 +166,7 @@ com.squareup.wire:wire-swift-generator:4.0.0-alpha.2 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.2 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
 com.synopsys.integration:blackduck-common:55.0.0 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2020.8.0.24 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common-api:2020.8.0.25 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.0 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:13.0.7 -> com.synopsys.integration.hub-imageinspector-lib
@@ -198,10 +198,10 @@ de.saxsys:mvvmfx-validation:1.8.0 -> de.saxsys.mvvmfx-validation
 in.jlibs:jlibs-apt:3.0.0 -> -
 in.jlibs:jlibs-examples:3.0.0 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.automatiko.addons:automatiko-user-tasks-email-addon:0.4.0 -> io.automatiko.addons.user-tasks.email
-io.automatiko.addons:automatiko-user-tasks-management-addon:0.4.0 -> io.automatiko.addons.user-tasks.management
-io.automatiko.quarkus:automatiko-quarkus-integration-test:0.4.0 -> -
-io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.4.0 -> -
+io.automatiko.addons:automatiko-user-tasks-email-addon:0.5.0 -> io.automatiko.addons.user-tasks.email
+io.automatiko.addons:automatiko-user-tasks-management-addon:0.5.0 -> io.automatiko.addons.user-tasks.management
+io.automatiko.quarkus:automatiko-quarkus-integration-test:0.5.0 -> -
+io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
@@ -849,10 +849,10 @@ org.drools:drools-wb-scenario-simulation-editor-kogito-webapp-common:7.54.0.Fina
 org.drools:ha-core:7.54.0.Final -> -
 org.drools:ha-core-infra:7.54.0.Final -> -
 org.drools:ha-remote:7.54.0.Final -> -
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.18 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.18 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.19 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.19 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.18 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.19 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.functionaljava:functionaljava-java-core:4.9 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
 org.graphfoundation.ongdb.community:bolt-it:3.6.2 -> org.neo4j.community.bolt-it
