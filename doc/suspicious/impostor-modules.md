@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x132
+1. `org.apache.logging.log4j` x133
 1. `com.fasterxml.jackson.databind` x70
 1. `java.xml.bind` x61
 1. `net.bytebuddy` x59
@@ -12,15 +12,15 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm` x53
 1. `com.google.gson` x46
 1. `com.fasterxml.jackson.core` x42
-1. `kotlin.stdlib.jdk8` x38
+1. `kotlin.stdlib.jdk8` x39
 1. `com.fasterxml.jackson.annotation` x37
 1. `info.picocli` x37
 1. `org.slf4j` x33
 1. `io.github.classgraph` x29
 1. `kotlin.stdlib` x26
 1. `lombok` x24
+1. `org.bouncycastle.pkix` x21
 1. `com.fasterxml.jackson.module.jaxb` x20
-1. `org.bouncycastle.pkix` x20
 1. `org.objectweb.asm.commons` x19
 1. `com.zaxxer.hikari` x15
 1. `com.fasterxml.jackson.dataformat.yaml` x14
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 132 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 133 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -97,6 +97,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.cellery.security:io.cellery.security.cell.sts.server`  -> [`0.2.1`, `0.4.0`, `0.6.0`]
 1. `io.github.basilapi:basil-server`  -> [`0.8.0`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.0.0-rc1`, `1.0.0`]
+1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`]
 1. `io.github.shiruka:api`  -> [`1.8.0`, `1.9.0`]
 1. `io.github.shiruka:common`  -> [`3.2.0`, `3.3.0`, `3.4.0`]
 1. `io.github.shiruka:fragment`  -> [`1.6.0`, `1.6.1`]
@@ -599,10 +600,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 38 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 39 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
+1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`]
 1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
 1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
 1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`]
@@ -639,7 +641,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`, `1.5.0`, `1.5.10`, `1.5.20-M1`]
 1. `org.jetbrains.lets-plot:lets-plot-gis`  -> [`2.0.3-rc1`, `2.0.3-rc2`, `2.0.3`]
 1. `org.junit.platform:junit-platform-console-standalone`  -> [`1.8.0-M1`]
-1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`]
+1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`]
 
 ## com.fasterxml.jackson.annotation
 
@@ -676,7 +678,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-harness`  -> [`2.29.0`]
 1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service`  -> [`2.29.0`]
 1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`0.8.0`]
-1. `org.apache.jackrabbit:oak-run`  -> [`1.22.0`, `1.24.0`, `1.26.0`, `1.32.0`, `1.34.0`, `1.36`, `1.38.0`]
+1. `org.apache.jackrabbit:oak-run`  -> [`1.22.0`, `1.24.0`, `1.26.0`, `1.32.0`, `1.34.0`, `1.36`, `1.38.0`, `1.40.0`]
 1. `org.apache.sedona:sedona-python-adapter-2.4_2.11`  -> [`1.0.0-incubating`, `1.0.1-incubating`]
 1. `org.apache.sedona:sedona-python-adapter-2.4_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`]
 1. `org.apache.sedona:sedona-python-adapter-3.0_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`]
@@ -708,7 +710,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.mygraphql.graphub:openapi2graphqls-cli`  -> [`0.0.2`]
 1. `com.ninja-beans.crawler:cloudflare-iuam-solver-dist`  -> [`0.1.0`]
 1. `com.nitorcreations:aws-vault-cli`  -> [`0.16`]
-1. `com.pessetto.origamismtp:OrigamiSMTP`  -> [`2.0.0`, `2.0.3`]
+1. `com.pessetto.origamismtp:OrigamiSMTP`  -> [`2.0.0`, `2.0.3`, `2.0.4`]
 1. `com.tngtech.keycloakmock:standalone`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`]
 1. `de.jpdigital:owlapi-simplex-cli`  -> [`0.1.0`, `0.1.1`]
 1. `eu.toop:toop-demoui-dcstandalone`  -> [`2.0.0-rc1`, `2.0.0-rc2`, `2.0.0-rc3`, `2.0.0`, `2.1.0`, `2.1.0-1`, `2.1.1`]
@@ -741,7 +743,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.tomcat-slf4j-logback:tomcat85-slf4j-logback`  -> [`8.5.38`, `8.5.39`, `8.5.40`, `8.5.41`, `8.5.42`, `8.5.43`, `8.5.45`, `8.5.46`, `8.5.47`, `8.5.49`, `8.5.50`, `8.5.51`, `8.5.53`, `8.5.54`, `8.5.55`, `8.5.56`, `8.5.57`, `8.5.59`, `8.5.61`, `8.5.65`]
 1. `com.github.tomcat-slf4j-logback:tomcat9-slf4j-logback`  -> [`9.0.16`, `9.0.17`, `9.0.19`, `9.0.20`, `9.0.21`, `9.0.22`, `9.0.24`, `9.0.26`, `9.0.27`, `9.0.29`, `9.0.30`, `9.0.31`, `9.0.33`, `9.0.34`, `9.0.35`, `9.0.36`, `9.0.37`, `9.0.38`, `9.0.39`, `9.0.40`, `9.0.41`, `9.0.41.SP1`, `9.0.41.SP2`, `9.0.43`, `9.0.44`, `9.0.45`, `9.0.46`]
 1. `com.guicedee.services:sl4j`  -> [`1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`]
-1. `com.guicedee.services:slf4j`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:slf4j`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.sndyuk:logback-more-appenders`  -> [`1.5.7-JAVA9MODULE_SLF4J17`, `1.6.0-JAVA9MODULE_SLF4J17`, `1.6.1-JAVA9MODULE_SLF4J17`, `1.7.1-JAVA9MODULE_SLF4J17`, `1.7.2-JAVA9MODULE_SLF4J17`, `1.7.3-JAVA9MODULE_SLF4J17`, `1.7.4-JAVA9MODULE_SLF4J17`, `1.7.5-JAVA9MODULE_SLF4J17`, `1.8.0-JAVA9MODULE_SLF4J17`, `1.8.1-JAVA9MODULE_SLF4J17`, `1.8.2-JAVA9MODULE_SLF4J17`, `1.8.3-JAVA9MODULE_SLF4J17`, `1.8.4-JAVA9MODULE_SLF4J17`, `1.8.5-JAVA9MODULE_SLF4J17`, `1.8.6-JAVA9MODULE_SLF4J17`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.23`, `1.0.30`, `1.0.31`]
 1. `io.github.jdiscordbots:nightdream-logging`  -> [`1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`]
@@ -863,39 +865,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-connectors-hadoop`  -> [`0.5.0`]
 1. `org.projectlombok:lombok` 🧩 -> [`1.18.2`, `1.18.4`, `1.18.6`, `1.18.8`, `1.18.10`, `1.18.12`, `1.18.14`, `1.18.16`, `1.18.18`, `1.18.20`]
 
-## com.fasterxml.jackson.module.jaxb
-
-For example, at least 20 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
-
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`]
-1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`]
-1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
-1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`, `3.43.0`, `3.44.1`, `3.45.0`]
-1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.35`, `3.36`]
-1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`]
-1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`, `7.403.18`, `7.404.59`, `7.405.22`, `7.406.26`, `7.407.45`, `7.411.24`, `7.413.25`]
-1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
-1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`]
-1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`]
-1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`]
-1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`, `6.1.0`]
-1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`]
-1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.2`]
-1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
-1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.3.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
-
 ## org.bouncycastle.pkix
 
-For example, at least 20 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 21 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.pkix;`.
 
 1. `com.datastax.oss:pulsar-jms-all`  -> [`1.0.0-ALPHA`, `1.0.0`]
-1. `com.yahoo.vespa:vespa-feed-client-cli`  -> [`7.411.24`, `7.413.25`]
+1. `com.guicedee.services:bouncycastle`  -> [`1.1.1.9-jre16`]
+1. `com.yahoo.vespa:vespa-feed-client-cli`  -> [`7.411.24`, `7.413.25`, `7.414.19`]
 1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.117.37`, `7.119.4`, `7.120.13`, `7.122.7`, `7.125.11`, `7.126.14`, `7.128.18`, `7.132.16`, `7.133.13`, `7.136.13`, `7.138.15`, `7.140.12`, `7.142.14`, `7.143.13`, `7.144.5`, `7.145.41`, `7.147.12`, `7.157.9`, `7.161.1`, `7.162.26`, `7.164.8`, `7.165.5`, `7.166.31`, `7.168.4`, `7.169.4`, `7.171.10`, `7.172.13`, `7.173.17`, `7.174.29`, `7.175.12`, `7.176.11`, `7.177.11`, `7.179.11`, `7.184.8`, `7.185.19`, `7.186.20`, `7.187.1`, `7.190.14`, `7.193.27`, `7.197.21`, `7.198.13`, `7.199.1`, `7.200.54`, `7.201.7`, `7.204.28`, `7.206.15`, `7.207.47`, `7.208.2`, `7.209.2`, `7.211.11`, `7.212.12`, `7.213.19`, `7.214.34`, `7.215.8`, `7.216.10`, `7.217.12`, `7.218.37`, `7.219.14`, `7.220.14`, `7.223.70`, `7.225.71`, `7.226.6`, `7.227.16`, `7.228.15`, `7.229.35`, `7.232.23`, `7.233.7`, `7.234.10`, `7.235.16`, `7.236.32`, `7.237.14`, `7.238.12`, `7.240.27`, `7.241.12`, `7.242.24`, `7.244.2`, `7.246.11`, `7.247.32`, `7.248.5`, `7.249.12`, `7.250.9`, `7.251.31`, `7.252.6`, `7.254.8`, `7.255.24`, `7.256.6`, `7.257.6`, `7.258.11`, `7.259.2`, `7.261.8`, `7.263.4`, `7.264.3`, `7.265.10`, `7.266.25`, `7.267.11`, `7.268.15`, `7.270.21`, `7.271.29`, `7.273.15`, `7.274.2`, `7.275.26`, `7.276.8`, `7.277.38`, `7.278.21`, `7.279.34`, `7.280.10`, `7.281.56`, `7.282.23`, `7.285.54`, `7.286.18`, `7.290.1`, `7.291.27`, `7.292.82`, `7.294.10`, `7.295.58`, `7.297.21`, `7.298.26`, `7.299.105`, `7.300.57`, `7.301.24`, `7.304.50`, `7.305.19`, `7.306.19`, `7.308.21`, `7.309.46`, `7.310.25`, `7.312.45`, `7.314.13`, `7.317.18`, `7.322.17`, `7.323.38`, `7.324.57`, `7.326.17`, `7.327.42`, `7.328.17`, `7.329.19`, `7.330.15`, `7.331.24`, `7.334.42`, `7.335.22`, `7.338.31`, `7.339.20`, `7.340.22`, `7.342.40`, `7.343.18`, `7.346.59`, `7.347.28`, `7.349.32`, `7.350.53`, `7.351.32`, `7.354.14`, `7.355.22`]
 1. `de.aaschmid:taskwarrior-java-client`  -> [`1.0`]
 1. `io.nosqlbench:nb`  -> [`3.12.52`, `3.12.54`, `3.12.55`, `3.12.60`, `3.12.61`, `3.12.62`, `3.12.66`, `3.12.67`, `3.12.70`, `3.12.71`, `3.12.72`, `3.12.73`, `3.12.75`, `3.12.76`, `3.12.77`, `3.12.78`, `3.12.79`, `3.12.81`, `3.12.82`, `3.12.83`, `3.12.84`, `3.12.85`]
@@ -907,13 +884,39 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:bouncy-castle-bc-shaded`  -> [`2.6.4`]
 1. `org.bouncycastle:bcpkix-jdk15on` 🧩 -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
 1. `org.keycloak:kcinit`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
-1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.10.0`]
+1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.10.0`, `1.10.1`]
 1. `org.testcontainers:testcontainers`  -> [`1.14.0`]
 1. `org.wso2.msf4j:jwt-sample`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-fileserver`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-pet`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-security`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-txn`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
+
+## com.fasterxml.jackson.module.jaxb
+
+For example, at least 20 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
+
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`]
+1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`]
+1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
+1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`, `3.43.0`, `3.44.1`, `3.45.0`, `3.46.0`]
+1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.35`, `3.36`, `3.37`]
+1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`]
+1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`, `7.403.18`, `7.404.59`, `7.405.22`, `7.406.26`, `7.407.45`, `7.411.24`, `7.413.25`, `7.414.19`]
+1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
+1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`]
+1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`]
+1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`]
+1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`, `6.1.0`]
+1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`]
+1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.2`]
+1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
+1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.3.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
 
 ## org.objectweb.asm.commons
 
@@ -989,7 +992,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cc.kebei:boot-in-jar`  -> [`1.1`]
 1. `com.bazaarvoice.emodb:emodb-web-local`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
 1. `com.bazaarvoice.emodb:emodb-web`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
-1. `com.guicedee.services:java.ws.rs`  -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:java.ws.rs`  -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.intershop.gradle.jobrunner:icmjobrunner`  -> [`1.0.2`]
 1. `de.foellix:AQL-System`  -> [`1.2.0`]
 1. `io.github.parj:getexternalip`  -> [`1.0`, `1.1`]
@@ -1112,7 +1115,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.9`, `1.35.0`, `1.36.0`]
@@ -1281,7 +1284,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jre10:jwebmp-jquery-ui-themes-nestable`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre10:jwebmp-jquery-ui`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-ui`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jquery-ui` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jquery-ui` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jquery-ui`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## org.bytedeco.javacpp
@@ -1318,14 +1321,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.dataformat.cbor
 
-1. `com.amazonaws:aws-xray-agent-plugin`  -> [`2.7.1`, `2.8.0`, `2.9.0`]
+1. `com.amazonaws:aws-xray-agent-plugin`  -> [`2.7.1`, `2.8.0`, `2.9.0`, `2.9.1`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`]
 1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service`  -> [`2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.elasticsearch.plugin:x-pack-sql-jdbc`  -> [`7.8.1`, `7.9.0`, `7.9.1`, `7.9.2`, `7.9.3`, `7.10.0`, `7.10.1`, `7.10.2`, `7.11.0`, `7.11.1`, `7.11.2`, `7.12.0`, `7.12.1`, `7.13.0`, `7.13.1`]
 
 ## com.jwebmp.core
 
-1. `com.jwebmp.core:jwebmp-core` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.core:jwebmp-core` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp.jre10:jwebmp-core`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-core`  -> [`0.62.0.1`]
 1. `com.jwebmp:jwebmp-core`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
@@ -1425,42 +1428,42 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.jwebmp.jre10:jwebmp-angular-animate`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-animate`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-animate` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-animate` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-animate`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularanimatedchange
 
 1. `com.jwebmp.jre10:jwebmp-angular-animated-change`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-animated-change`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-animated-change` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-animated-change` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-animated-change`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularautofocus
 
 1. `com.jwebmp.jre10:jwebmp-angular-auto-focus`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-auto-focus`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-auto-focus` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-auto-focus` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-auto-focus`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularfastclick
 
 1. `com.jwebmp.jre10:jwebmp-angular-fastclick`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-fastclick`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-fastclick`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-fastclick`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-fastclick` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularfileupload
 
 1. `com.jwebmp.jre10:jwebmp-angular-file-upload`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-file-upload`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-file-upload` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-file-upload` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-file-upload`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularionslider
 
 1. `com.jwebmp.jre10:jwebmp-angular-ion-slider`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ion-slider`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-ion-slider` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-ion-slider` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-ion-slider`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularnyabootstrapselector
@@ -1474,196 +1477,196 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.jwebmp.jre10:jwebmp-angular-pretty-checkboxes`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-pretty-checkboxes`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-pretty-checkboxes` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-pretty-checkboxes` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-pretty-checkboxes`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularprogressbuttonstyles
 
 1. `com.jwebmp.jre10:jwebmp-angular-progress-button-styles`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-progress-button-styles`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-progress-button-styles` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-progress-button-styles` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-progress-button-styles`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularroute
 
 1. `com.jwebmp.jre10:jwebmp-angular-route`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-route`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-route` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-route` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-route`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularsanitize
 
 1. `com.jwebmp.jre10:jwebmp-angular-sanitize`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-sanitize`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-sanitize` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-sanitize` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-sanitize`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularscrollposition
 
 1. `com.jwebmp.jre10:jwebmp-angular-scroll-position`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-scroll-position`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-scroll-position` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-scroll-position` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-scroll-position`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angularslimscroll
 
 1. `com.jwebmp.jre10:jwebmp-angular-slim-scroll`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-slim-scroll`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-slim-scroll` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-slim-scroll` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-slim-scroll`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.angulartouch
 
 1. `com.jwebmp.jre10:jwebmp-angular-touch`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-touch`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-touch` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-touch` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-touch`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`]
 
 ## com.jwebmp.plugins.angulartrackwidth
 
 1. `com.jwebmp.jre10:jwebmp-angular-track-width`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-track-width`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-track-width` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-track-width` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-track-width`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`]
 
 ## com.jwebmp.plugins.angularzoomanimation
 
 1. `com.jwebmp.jre10:jwebmp-angular-ui-zoom`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-angular-ui-zoom`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-angular-ui-zoom` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-angular-ui-zoom` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-angular-ui-zoom`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bit6
 
 1. `com.jwebmp.jre10:jwebmp-bit6`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bit6`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-bit6`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-bit6`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-bit6` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.blockui
 
 1. `com.jwebmp.jre10:jwebmp-block-ui`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-block-ui`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-block-ui`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-block-ui`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-block-ui` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.blueimp.fileupload
 
 1. `com.jwebmp.jre10:jwebmp-blueimp-fileupload`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-blueimp-fileupload`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.blueimp:jwebmp-blueimp-fileupload` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.blueimp:jwebmp-blueimp-fileupload` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-blueimp-fileupload`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.blueimp.gallery
 
 1. `com.jwebmp.jre10:jwebmp-blueimp-gallery`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-blueimp-gallery`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.blueimp:jwebmp-blueimp-gallery` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.blueimp:jwebmp-blueimp-gallery` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-blueimp-gallery`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.bootstrap4
 
 1. `com.jwebmp.jre10:jwebmp-bootstrap4`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-bootstrap4`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.bootstrap:jwebmp-bootstrap` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.bootstrap:jwebmp-bootstrap` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-bootstrap4`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.datatable
 
 1. `com.jwebmp.jre10:jwebmp-data-tables`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-data-tables`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-data-tables`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-data-tables`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-data-tables` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.dynamicsourcecode
 
 1. `com.jwebmp.jre10:jwebmp-dynamic-source-code-viewer`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-dynamic-source-code-viewer`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-dynamic-source-code-viewer`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-dynamic-source-code-viewer`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-dynamic-source-code-viewer` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.easypiechart
 
 1. `com.jwebmp.jre10:jwebmp-easy-pie-chart`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-easy-pie-chart`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.graphing:jwebmp-easy-pie-chart`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.graphing:jwebmp-easy-pie-chart`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-easy-pie-chart` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.fontawesome5
 
 1. `com.jwebmp.jre10:jwebmp-font-awesome5`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-font-awesome5`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-font-awesome5`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-font-awesome5`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-font-awesome5` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.fullcalendar
 
 1. `com.jwebmp.jre10:jwebmp-full-calendar`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-full-calendar`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-full-calendar`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-full-calendar`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-full-calendar` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.globalize.cultures
 
 1. `com.jwebmp.jre10:jwebmp-globalize`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-globalize`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-globalize`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-globalize`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-globalize` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.glyphicons
 
 1. `com.jwebmp.jre10:jwebmp-glyphicons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-glyphicons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-glyphicons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-glyphicons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-glyphicons` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.google.sourceprettify
 
 1. `com.jwebmp.jre10:jwebmp-google-source-code-prettify`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-google-source-code-prettify`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-source-prettify`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-source-prettify`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-google-source-code-prettify` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.imagemap
 
 1. `com.jwebmp.jre10:jwebmp-image-map-heatmap`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-image-map-heatmap`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-image-map-heatmap`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-image-map-heatmap`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-image-map-heatmap` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.ionic.ionicons
 
 1. `com.jwebmp.jre10:jwebmp-ion-icons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ion-icons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.ion:jwebmp-ion-icons` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.ion:jwebmp-ion-icons` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-ion-icons`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.ionrangeslider
 
 1. `com.jwebmp.jre10:jwebmp-ion-range-slider`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ion-range-slider`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.ion:jwebmp-ion-range-slider` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.ion:jwebmp-ion-range-slider` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-ion-range-slider`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqgradientlinear
 
 1. `com.jwebmp.jre10:jwebmp-gradients-linear-ie6`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-gradients-linear-ie6`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-linear-gradients`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-linear-gradients`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-gradients-linear-ie6` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqlayout
 
 1. `com.jwebmp.jre10:jwebmp-jquery-ui-layout`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-layout`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jqui-layout`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jqui-layout`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jquery-ui-layout` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqplot
 
 1. `com.jwebmp.jre10:jwebmp-jqplot`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jqplot`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.graphing:jwebmp-jqplot`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.graphing:jwebmp-jqplot`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jqplot` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqxwidgets
@@ -1677,168 +1680,168 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.jwebmp.jre10:jwebmp-jstree`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jstree`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jstree`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jstree`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jstree` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.leaflet
 
 1. `com.jwebmp.jre10:jwebmp-leafletjs`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-leafletjs`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-leafletjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-leafletjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-leafletjs` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.materialdesignicons
 
 1. `com.jwebmp.jre10:jwebmp-material-design-icons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-material-design-icons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-material-design-icons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-material-design-icons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-material-design-icons` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.metrojs
 
 1. `com.jwebmp.jre10:jwebmp-metro-tiles`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-metro-tiles`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-metro-tiles`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-metro-tiles`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-metro-tiles` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.modernizr
 
 1. `com.jwebmp.jre10:jwebmp-modernizr`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-modernizr`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-modernizr`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-modernizr`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-modernizr` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.moment
 
 1. `com.jwebmp.jre10:jwebmp-momentjs`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-momentjs`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-momentjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-momentjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-momentjs` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.ngslimscroll
 
 1. `com.jwebmp.jre10:jwebmp-ng-slim-scroll`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-ng-slim-scroll`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-ng-slim-scroll`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-ng-slim-scroll`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-ng-slim-scroll` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.pace
 
 1. `com.jwebmp.jre10:jwebmp-pace-plugin`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-pace-plugin`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-pace-loader`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-pace-loader`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-pace-plugin` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.particlejs
 
 1. `com.jwebmp.jre10:jwebmp-particlesjs`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-particlesjs`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-particlesjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-particlesjs`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-particlesjs` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.plusastab
 
 1. `com.jwebmp.jre10:jwebmp-plus-as-tab`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-plus-as-tab`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-plus-as-tab`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-plus-as-tab`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-plus-as-tab` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.quickforms
 
 1. `com.jwebmp.jre10:jwebmp-quickforms`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-quickforms`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-quickforms`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-quickforms`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-quickforms` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.radialsvgslider
 
 1. `com.jwebmp.jre10:jwebmp-radial-slider-gem`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-radial-slider-gem`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.effects:jwebmp-radial-slider-gem`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.effects:jwebmp-radial-slider-gem`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-radial-slider-gem` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.skycons
 
 1. `com.jwebmp.jre10:jwebmp-skycons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-skycons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-skycons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-skycons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-skycons` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.smartwizard
 
 1. `com.jwebmp.jre10:jwebmp-smart-wizard`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-smart-wizard`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-smart-wizard`  -> [`1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-smart-wizard`  -> [`1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-smart-wizard` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.softhistorychange
 
 1. `com.jwebmp.jre10:jwebmp-soft-history-change`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-soft-history-change`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-soft-history-change`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-soft-history-change`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-soft-history-change` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.spectrum.colourpicker
 
 1. `com.jwebmp.jre10:jwebmp-spectrum-colour-picker`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-spectrum-colour-picker`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-spectrum-colour-picker`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-spectrum-colour-picker`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-spectrum-colour-picker` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.textangular
 
 1. `com.jwebmp.jre10:jwebmp-text-angular`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-text-angular`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.angular:jwebmp-text-angular`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.angular:jwebmp-text-angular`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-text-angular` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.textinputeffects
 
 1. `com.jwebmp.jre10:jwebmp-text-input-effects`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-text-input-effects`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-text-input-effects`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-text-input-effects`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-text-input-effects` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.themify.icons
 
 1. `com.jwebmp.jre10:jwebmp-themify-icons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-themify-icons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-themify-icons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-themify-icons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-themify-icons` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.toastr
 
 1. `com.jwebmp.jre10:jwebmp-toastr`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-toastr`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-toastr`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-toastr`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-toastr` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.verticaltimeline
 
 1. `com.jwebmp.jre10:jwebmp-vertical-timeline-css`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-vertical-timeline-css`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.effects:jwebmp-vertical-timeline-css`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.effects:jwebmp-vertical-timeline-css`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-vertical-timeline-css` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.waveseffect
 
 1. `com.jwebmp.jre10:jwebmp-waveseffect`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-waveseffect`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.effects:jwebmp-waveseffect`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.effects:jwebmp-waveseffect`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-waveseffect` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.weathericons
 
 1. `com.jwebmp.jre10:jwebmp-weathericons`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-weathericons`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.iconsets:jwebmp-weathericons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.iconsets:jwebmp-weathericons`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-weathericons` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.xeditable
 
 1. `com.jwebmp.jre10:jwebmp-xeditable`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-xeditable`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.forms:jwebmp-xeditable`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.forms:jwebmp-xeditable`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-xeditable` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.undertow
@@ -1864,7 +1867,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## jakarta.mail
 
-1. `com.guicedee.services:jakarta.mail`  -> [`1.0.1.0`, `1.0.1.0-jre12`, `1.0.1.0-jre13`, `1.0.1.1`, `1.0.1.1-jre12`, `1.0.1.1-jre13`, `1.0.1.2`, `1.0.1.3`, `1.0.1.3-jre12`, `1.0.1.3-jre13`, `1.0.1.4`, `1.0.1.4-jre8`, `1.0.1.4-jre12`, `1.0.1.4-jre13`, `1.0.1.5`, `1.0.1.5-jre12`, `1.0.1.5-jre13`, `1.0.1.6`, `1.0.1.6-jre12`, `1.0.1.6-jre13`, `1.0.1.7`, `1.0.1.7-jre8`, `1.0.1.7-jre12`, `1.0.1.7-jre13`, `1.0.2.0`, `1.0.2.0-jre8`, `1.0.2.0-jre12`, `1.0.2.0-jre13`, `1.0.2.1`, `1.0.2.1-jre12`, `1.0.2.1-jre13`, `1.0.2.2`, `1.0.2.2-jre8`, `1.0.2.2-jre12`, `1.0.2.2-jre13`, `1.0.2.3`, `1.0.2.3-jre8`, `1.0.2.3-jre12`, `1.0.2.3-jre13`, `1.0.2.4`, `1.0.2.4-jre12`, `1.0.2.4-jre13`, `1.0.2.6-jre13`, `1.0.2.7-jre13`, `1.0.2.8`, `1.0.2.8-jre13`, `1.0.2.9-jre13`, `1.0.2.10-jre13`, `1.0.2.11-jre13`, `1.0.2.12-jre13`, `1.0.2.13-jre13`, `1.0.2.14-jre13`, `1.0.2.15-jre13`, `1.0.2.16-jre13`, `1.0.2.17-jre13`, `1.0.2.18-jre13`, `1.0.3.1-jre13`, `1.0.3.2-jre13`, `1.0.3.3-jre13`, `1.0.4.1-jre13`, `1.0.4.2-jre13`, `1.0.4.3-jre13`, `1.0.4.4-jre13`, `1.0.5.0-jre13`, `1.0.5.1-jre13`, `1.0.5.2-jre13`, `1.0.5.3-jre13`, `1.0.5.4-jre13`, `1.0.5.4-jre14`, `1.0.5.5-jre14`, `1.0.6.1-jre14`, `1.0.6.2-jre14`, `1.0.6.3-jre14`, `1.0.6.4-jre14`, `1.0.6.5-jre14`, `1.0.6.7-jre14`, `1.0.7.0-jre14`, `1.0.7.1-jre14`, `1.0.7.2-jre14`, `1.0.7.3-jre14`, `1.0.7.4-jre14`, `1.0.7.5-jre14`, `1.0.7.6-jre14`, `1.0.7.9-jre14`, `1.0.7.10-jre14`, `1.0.7.11-jre14`, `1.0.7.12-jre14`, `1.0.8.1-jre14`, `1.0.8.2-jre14`, `1.0.8.3-jre14`, `1.0.8.4-jre14`, `1.0.8.5-jre14`, `1.0.8.6-jre14`, `1.0.8.12-jre14`, `1.0.8.16-jre14`, `1.0.8.18-jre14`, `1.0.9.0-jre14`, `1.0.9.1-jre14`, `1.0.9.2-jre14`, `1.0.9.3-jre14`, `1.0.9.4-jre14`, `1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:jakarta.mail`  -> [`1.0.1.0`, `1.0.1.0-jre12`, `1.0.1.0-jre13`, `1.0.1.1`, `1.0.1.1-jre12`, `1.0.1.1-jre13`, `1.0.1.2`, `1.0.1.3`, `1.0.1.3-jre12`, `1.0.1.3-jre13`, `1.0.1.4`, `1.0.1.4-jre8`, `1.0.1.4-jre12`, `1.0.1.4-jre13`, `1.0.1.5`, `1.0.1.5-jre12`, `1.0.1.5-jre13`, `1.0.1.6`, `1.0.1.6-jre12`, `1.0.1.6-jre13`, `1.0.1.7`, `1.0.1.7-jre8`, `1.0.1.7-jre12`, `1.0.1.7-jre13`, `1.0.2.0`, `1.0.2.0-jre8`, `1.0.2.0-jre12`, `1.0.2.0-jre13`, `1.0.2.1`, `1.0.2.1-jre12`, `1.0.2.1-jre13`, `1.0.2.2`, `1.0.2.2-jre8`, `1.0.2.2-jre12`, `1.0.2.2-jre13`, `1.0.2.3`, `1.0.2.3-jre8`, `1.0.2.3-jre12`, `1.0.2.3-jre13`, `1.0.2.4`, `1.0.2.4-jre12`, `1.0.2.4-jre13`, `1.0.2.6-jre13`, `1.0.2.7-jre13`, `1.0.2.8`, `1.0.2.8-jre13`, `1.0.2.9-jre13`, `1.0.2.10-jre13`, `1.0.2.11-jre13`, `1.0.2.12-jre13`, `1.0.2.13-jre13`, `1.0.2.14-jre13`, `1.0.2.15-jre13`, `1.0.2.16-jre13`, `1.0.2.17-jre13`, `1.0.2.18-jre13`, `1.0.3.1-jre13`, `1.0.3.2-jre13`, `1.0.3.3-jre13`, `1.0.4.1-jre13`, `1.0.4.2-jre13`, `1.0.4.3-jre13`, `1.0.4.4-jre13`, `1.0.5.0-jre13`, `1.0.5.1-jre13`, `1.0.5.2-jre13`, `1.0.5.3-jre13`, `1.0.5.4-jre13`, `1.0.5.4-jre14`, `1.0.5.5-jre14`, `1.0.6.1-jre14`, `1.0.6.2-jre14`, `1.0.6.3-jre14`, `1.0.6.4-jre14`, `1.0.6.5-jre14`, `1.0.6.7-jre14`, `1.0.7.0-jre14`, `1.0.7.1-jre14`, `1.0.7.2-jre14`, `1.0.7.3-jre14`, `1.0.7.4-jre14`, `1.0.7.5-jre14`, `1.0.7.6-jre14`, `1.0.7.9-jre14`, `1.0.7.10-jre14`, `1.0.7.11-jre14`, `1.0.7.12-jre14`, `1.0.8.1-jre14`, `1.0.8.2-jre14`, `1.0.8.3-jre14`, `1.0.8.4-jre14`, `1.0.8.5-jre14`, `1.0.8.6-jre14`, `1.0.8.12-jre14`, `1.0.8.16-jre14`, `1.0.8.18-jre14`, `1.0.9.0-jre14`, `1.0.9.1-jre14`, `1.0.9.2-jre14`, `1.0.9.3-jre14`, `1.0.9.4-jre14`, `1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.sun.mail:jakarta.mail`  -> [`2.0.1`]
 1. `com.sun.mail:mailapi`  -> [`2.0.1`]
 1. `jakarta.mail:jakarta.mail-api` 🧩 -> [`2.0.1`]
@@ -2047,18 +2050,18 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.rvesse:airline-examples` 🧩 -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
 1. `com.github.rvesse:airline`  -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`]
-1. `io.stargate.starter:stargate-starter`  -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`]
+1. `io.stargate.starter:stargate-starter`  -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`, `1.0.26`]
 
 ## com.google.guice.extensions.persist
 
 1. `com.guicedee.services.extensions:guice-persist`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.guicedee.services:guice-persist`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:guice-persist`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp.inject.extensions:guice-persist`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.google.guice.extensions.servlet
 
 1. `com.guicedee.services.extensions:guice-servlet`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.guicedee.services:guice-servlet`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:guice-servlet`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp.inject.extensions:guice-servlet`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`, `0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 
 ## com.headius.invokebinder
@@ -2148,7 +2151,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## com.jwebmp.plugins.c3
 
 1. `com.jwebmp.jre11:jwebmp-c3`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.graphing:jwebmp-c3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.graphing:jwebmp-c3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-c3` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.cordovify
@@ -2160,14 +2163,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## com.jwebmp.plugins.d3
 
 1. `com.jwebmp.jre11:jwebmp-d3`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.graphing:jwebmp-d3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.graphing:jwebmp-d3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-d3` 🧩 -> [`0.63.0.61`, `0.65.0.2`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.easingeffects
 
 1. `com.jwebmp.jre10:jwebmp-easing-effects`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-easing-effects`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.javascript:jwebmp-easing-effects`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.javascript:jwebmp-easing-effects`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 
 ## com.jwebmp.plugins.fontawesome
 
@@ -2184,20 +2187,20 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## com.jwebmp.plugins.jqueryui.themes
 
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-themes`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jquery-ui-themes`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqueryui.themes.nestable
 
 1. `com.jwebmp.jre11:jwebmp-jquery-ui-themes-nestable`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes-nestable` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jqui-themes-nestable` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `com.jwebmp:jwebmp-jquery-ui-themes-nestable`  -> [`0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## com.jwebmp.plugins.jqueryverticaltimeline
 
 1. `com.jwebmp.jre10:jwebmp-jquery-vertical-timeline`  -> [`0.58.0.21-RCTEST`, `0.59.0.14`]
 1. `com.jwebmp.jre11:jwebmp-jquery-vertical-timeline`  -> [`0.62.0.1`]
-1. `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.jwebmp.plugins.jquery:jwebmp-jqui-vertical-timeline` 🧩 -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`, `0.73.0.1`, `1.0.1.6`, `1.0.1.7`, `1.0.2.0`, `1.0.2.1`, `1.0.2.2`, `1.0.2.3`, `1.0.2.4`, `1.0.2.8`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 
 ## com.jwebmp.plugins.smartwizard4
 
@@ -2268,7 +2271,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## jakarta.servlet
 
 1. `cloud.piranha.servlet:piranha-servlet-api`  -> [`21.4.0`, `21.5.0`]
-1. `com.guicedee.services:jakarta.servlet-api`  -> [`1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`]
+1. `com.guicedee.services:jakarta.servlet-api`  -> [`1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`]
 1. `org.apache.tomcat:tomcat-servlet-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`]
 
 ## java.transaction
