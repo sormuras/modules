@@ -19,8 +19,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `io.github.classgraph` x29
 1. `kotlin.stdlib` x26
 1. `lombok` x24
+1. `com.fasterxml.jackson.module.jaxb` x21
 1. `org.bouncycastle.pkix` x21
-1. `com.fasterxml.jackson.module.jaxb` x20
 1. `org.objectweb.asm.commons` x19
 1. `com.zaxxer.hikari` x15
 1. `com.fasterxml.jackson.dataformat.yaml` x14
@@ -131,10 +131,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.0.0`]
 1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`]
 1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`]
-1. `org.apache.jena:jena-fuseki-fulljar`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`]
-1. `org.apache.jena:jena-fuseki-geosparql`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`]
-1. `org.apache.jena:jena-fuseki-server`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`]
-1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.0.0`]
+1. `org.apache.jena:jena-fuseki-fulljar`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`]
+1. `org.apache.jena:jena-fuseki-geosparql`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`]
+1. `org.apache.jena:jena-fuseki-server`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`]
+1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.0.0`, `4.1.0`]
 1. `org.apache.logging.log4j:log4j-api` 🧩 -> [`2.11.1`, `2.11.2`, `2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.14.0`, `2.14.1`]
 1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`2.4.1`, `2.4.2`, `2.5.0`, `2.5.1`, `2.5.2`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`]
 1. `org.apache.storm:blobstore-migrator`  -> [`2.0.0`, `2.1.0`, `2.2.0`]
@@ -350,7 +350,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentracing.contrib.specialagent:opentracing-specialagent`  -> [`0.9.0`, `1.0.1`, `1.0.2`]
 1. `io.projectreactor.tools:blockhound`  -> [`1.0.0.RELEASE`]
 1. `net.bytebuddy:byte-buddy` 🧩 -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.9.4`, `1.9.6`, `1.9.7`, `1.9.8`, `1.9.9`, `1.9.10`, `1.9.11`, `1.9.12`, `1.9.13`, `1.9.14`, `1.9.15`, `1.9.16`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`, `1.10.5`, `1.10.6`, `1.10.7`, `1.10.8`, `1.10.9`, `1.10.10`, `1.10.11`, `1.10.12`, `1.10.13`, `1.10.14`, `1.10.15`, `1.10.16`, `1.10.17`, `1.10.18`, `1.10.19`, `1.10.20`, `1.10.21`, `1.10.22`, `1.11.0`, `1.11.1`]
-1. `net.serenity-bdd:serenity-cli`  -> [`2.3.26`, `2.3.30`, `2.3.31`, `2.3.32`, `2.3.33`, `2.4.0`, `2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`, `2.4.5`, `2.4.15`, `2.4.20`, `2.4.21`, `2.4.24`]
+1. `net.serenity-bdd:serenity-cli`  -> [`2.3.26`, `2.3.30`, `2.3.31`, `2.3.32`, `2.3.33`, `2.4.0`, `2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`, `2.4.5`, `2.4.15`, `2.4.20`, `2.4.21`, `2.4.24`, `2.4.34`]
 1. `nl.jqno.equalsverifier:equalsverifier`  -> [`3.0.1`, `3.0.2`]
 1. `org.agrona:agrona-agent`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.1`, `1.6.0`, `1.7.0`, `1.7.1`, `1.7.2`, `1.8.0`, `1.9.0`, `1.10.0`]
 1. `org.apache.beam:beam-runners-flink-1.6-job-server`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.13.0`, `2.14.0`, `2.15.0`, `2.16.0`]
@@ -865,6 +865,33 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-connectors-hadoop`  -> [`0.5.0`]
 1. `org.projectlombok:lombok` 🧩 -> [`1.18.2`, `1.18.4`, `1.18.6`, `1.18.8`, `1.18.10`, `1.18.12`, `1.18.14`, `1.18.16`, `1.18.18`, `1.18.20`]
 
+## com.fasterxml.jackson.module.jaxb
+
+For example, at least 21 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
+
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`]
+1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`]
+1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
+1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`, `3.43.0`, `3.44.1`, `3.45.0`, `3.46.0`]
+1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.21.0-01`]
+1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.35`, `3.36`, `3.37`]
+1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`]
+1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`, `7.403.18`, `7.404.59`, `7.405.22`, `7.406.26`, `7.407.45`, `7.411.24`, `7.413.25`, `7.414.19`]
+1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
+1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`]
+1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`]
+1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`]
+1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`, `6.1.0`]
+1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`]
+1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.2`]
+1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
+1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.3.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
+
 ## org.bouncycastle.pkix
 
 For example, at least 21 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -891,32 +918,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.msf4j:petstore-pet`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-security`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `org.wso2.msf4j:petstore-txn`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
-
-## com.fasterxml.jackson.module.jaxb
-
-For example, at least 20 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
-
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`]
-1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`]
-1. `com.github.containersolutions:mysql-schema-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.github.containersolutions:webserver-sample`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.guicedee.services:jackson-module-jaxb-annotations`  -> [`1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`]
-1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.36.0`, `3.37.0`, `3.38.0`, `3.39.0`, `3.40.0`, `3.41.0`, `3.42.0`, `3.43.0`, `3.44.1`, `3.45.0`, `3.46.0`]
-1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.35`, `3.36`, `3.37`]
-1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`]
-1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`, `7.403.18`, `7.404.59`, `7.405.22`, `7.406.26`, `7.407.45`, `7.411.24`, `7.413.25`, `7.414.19`]
-1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
-1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`]
-1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`]
-1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`]
-1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`, `6.1.0`]
-1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`]
-1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.2`]
-1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
-1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.3.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
 
 ## org.objectweb.asm.commons
 
@@ -1086,11 +1087,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.scalar-labs:scalardl-java-client-sdk`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
 1. `jakarta.json:jakarta.json-api`  -> [`1.1.5`, `1.1.6`]
 1. `javax.json:javax.json-api` 🧩 -> [`1.1.3`, `1.1.4`]
-1. `org.finra.herd:herd-access-validator`  -> [`0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`]
-1. `org.finra.herd:herd-downloader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`]
-1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`]
-1. `org.finra.herd:herd-retention-expiration-exporter`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`]
-1. `org.finra.herd:herd-uploader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`]
+1. `org.finra.herd:herd-access-validator`  -> [`0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`]
+1. `org.finra.herd:herd-downloader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`]
+1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`]
+1. `org.finra.herd:herd-retention-expiration-exporter`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`]
+1. `org.finra.herd:herd-uploader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`]
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`, `1.24.9`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`, `1.24.9`]
 
