@@ -23,12 +23,17 @@ jobs:
           PATH=.bach/bin:$PATH
           bach --project-version ${{ github.event.release.tag_name }} build
       - name: 'Release ${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
-        uses: marvinpinto/action-automatic-releases@latest
+        uses: jreleaser/release-action@v1
+        env:
+          JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          automatic_release_tag: ${{ github.event.release.tag_name }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          prerelease: false
-          title: '${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules'
-          files: |
-            .bach/workspace/modules/*.jar
-            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+          version: early-access
+          arguments: |
+            release \
+            --auto-config \
+            --tag-name=${{ github.event.release.tag_name }} \
+            --project-name=com.github.sormuras.modules \
+            --project-version=${{ github.event.release.tag_name }} \
+            --release-name="${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules" \
+            --glob ".bach/workspace/modules/*.jar" \
+            --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
