@@ -109,14 +109,14 @@ jobs:
           JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           arguments: |
-            release
-            --auto-config
-            --overwrite
-            --tag-name= ${{ needs.setup.outputs.tag }}
-            --prerelease
-            --project-name=com.github.sormuras.modules
-            --project-version=${{ needs.setup.outputs.version }}
-            --release-name=${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules
-            --file .bach/workspace/logbook.md
-            --file .bach/workspace/modules/*.jar
+            release \
+            --auto-config \
+            --overwrite \
+            --tag-name= ${{ needs.setup.outputs.tag }} \
+            --prerelease \
+            --project-name=com.github.sormuras.modules \
+            --project-version=${{ needs.setup.outputs.version }} \
+            --release-name=${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules \
+            --file .bach/workspace/logbook.md \
+            --file .bach/workspace/modules/*.jar \
             --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
