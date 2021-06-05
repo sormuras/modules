@@ -32,6 +32,7 @@ jobs:
           arguments: |
             release \
             --auto-config \
+            --update \
             --tag-name=${{ github.event.release.tag_name }} \
             --project-name=com.github.sormuras.modules \
             --project-version=${{ github.event.release.tag_name }} \
