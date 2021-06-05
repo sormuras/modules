@@ -1057,7 +1057,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`]
 1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
 1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
-1. `org.vafer:jdeb`  -> [`1.8`]
+1. `org.vafer:jdeb`  -> [`1.8`, `1.9`]
 1. `org.whitesource:wss-unified-agent-main`  -> [`19.7.3`]
 1. `pl.allegro.tech.build:axion-release-plugin`  -> [`1.13.0`, `1.13.1`, `1.13.2`]
 
