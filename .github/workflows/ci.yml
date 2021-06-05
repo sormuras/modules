@@ -103,18 +103,20 @@ jobs:
           git commit --message '${{ steps.count-modules.outputs.size }} unique modules (${{ needs.setup.outputs.date }})'
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
-        if: steps.git-status.outputs.modified == 'true'
+        # if: steps.git-status.outputs.modified == 'true'
         uses: jreleaser/release-action@v1
         env:
           JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          JRELEASER_RELEASE_NAME: ${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules
-          JRELEASER_TAG_NAME: ${{ needs.setup.outputs.tag }}
         with:
           arguments: |
             release
             --auto-config
+            --overwrite
+            --tag-name= ${{ needs.setup.outputs.tag }}
+            --prerelease
             --project-name=com.github.sormuras.modules
-            --project-version=${{ needs.setup.outputs.tag }}
+            --project-version=${{ needs.setup.outputs.version }}
+            --release-name=${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules
             --file .bach/workspace/logbook.md
             --file .bach/workspace/modules/*.jar
             --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
