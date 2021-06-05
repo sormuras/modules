@@ -103,13 +103,15 @@ jobs:
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
         if: steps.git-status.outputs.modified == 'true'
-        uses: marvinpinto/action-automatic-releases@latest
+        uses: jreleaser/release-action@v1
         with:
-          automatic_release_tag: ${{ needs.setup.outputs.tag }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          prerelease: true
-          title: "${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules"
-          files: |
-            .bach/workspace/logbook.md
-            .bach/workspace/modules/*.jar
-            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+          JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JRELEASER_RELEASE_NAME: ${{ needs.setup.outputs.version }} with ${{ steps.count-modules.outputs.size }} modules
+          JRELEASER_TAG_NAME: ${{ needs.setup.outputs.tag }}
+          arguments: |
+            --auto-config
+            --project-name=com.github.sormuras.modules
+            --project-version=${{ needs.setup.outputs.tag }}
+            --file .bach/workspace/logbook.md
+            --file .bach/workspace/modules/*.jar
+            --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
