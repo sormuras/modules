@@ -80,15 +80,6 @@ jobs:
         run: |
           PATH=.bach/bin:$PATH
           bach --project-version ${{ needs.setup.outputs.version }} build
-      - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'
-        if: always()
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
-          path: |
-            .bach/workspace/logbook.md
-            .bach/workspace/modules
-            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Check for modifications'
         id: git-status
         run: |
@@ -103,7 +94,7 @@ jobs:
           git commit --message '${{ steps.count-modules.outputs.size }} unique modules (${{ needs.setup.outputs.date }})'
           git push
       - name: 'Release ${{ needs.setup.outputs.tag }}'
-        # if: steps.git-status.outputs.modified == 'true'
+        if: steps.git-status.outputs.modified == 'true'
         uses: jreleaser/release-action@v1
         env:
           JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -120,3 +111,13 @@ jobs:
             --file .bach/workspace/logbook.md \
             --file .bach/workspace/modules/com.github.sormuras.modules@${{ needs.setup.outputs.tag }}.jar \
             --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+      - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'
+        if: always()
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
+          path: |
+            .bach/workspace/logbook.md
+            .bach/workspace/modules
+            com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+            out/jreleaser/trace.log
