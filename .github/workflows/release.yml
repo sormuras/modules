@@ -38,7 +38,7 @@ jobs:
             --tag-name=${{ github.event.release.tag_name }} \
             --project-name=com.github.sormuras.modules \
             --project-version=${{ github.event.release.tag_name }} \
-            --project-version-pattern=java-module
+            --project-version-pattern=java-module \
             --release-name="${{ github.event.release.tag_name }} with ${{ steps.count-modules.outputs.size }} modules" \
             --glob ".bach/workspace/modules/*.jar" \
             --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
