@@ -140,7 +140,7 @@ com.graphql-java:java-dataloader:2021-03-30T02-56-19-5805475 -> com.graphql-java
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.helger:en16931-cii2ubl:1.4.1 -> com.helger.en16931-cii2ubl
+com.helger:en16931-cii2ubl:1.4.2 -> com.helger.en16931-cii2ubl
 com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
@@ -276,6 +276,9 @@ net.serenity-bdd:serenity-emailer:2.1.0 -> serenity-emailer
 net.serenity-bdd:serenity-machinereadable-reports:2.1.1 -> serenity-machinereadable-reports
 net.serenity-bdd:serenity-navigator-report:2.3.13 -> serenity-navigator-report
 net.serenity-bdd:serenity-test-utils:2.3.13 -> serenity-test-utils
+net.xyzsd.fluent:fluent-base:0.70 -> net.xyzsd.fluent.fluent-base
+net.xyzsd.fluent:fluent-functions-cldr:0.70 -> net.xyzsd.fluent.fluent-functions-cldr
+net.xyzsd.fluent:fluent-functions-icu:0.70 -> net.xyzsd.fluent.fluent-functions-icu
 net.xyzsd.plurals:cldr-plural-rules:3.0 -> net.xyzsd.plurals.cldr-plural-rules
 org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
