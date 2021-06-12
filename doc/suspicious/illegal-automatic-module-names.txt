@@ -182,9 +182,10 @@ com.synopsys.integration:phone-home-client:4.0.5 -> com.synopsys.integration.pho
 com.synopsys.integration:polaris-common:0.21.0 -> com.synopsys.integration.polaris-common
 com.synopsys.integration:polaris-common-api:0.0.15 -> com.synopsys.integration.polaris-common-api
 com.tfowl.ktor:ktor-jsoup:1.5.4 -> ktor-jsoup
-com.wire:wire-signals-extensions_2.11:0.5.0 -> wire-signals-extensions
-com.wire:wire-signals-extensions_2.12:0.5.0 -> wire-signals-extensions
-com.wire:wire-signals-extensions_2.13:0.5.0 -> wire-signals-extensions
+com.wire:wire-signals-extensions_2.11:0.5.1 -> wire-signals-extensions
+com.wire:wire-signals-extensions_2.12:0.5.1 -> wire-signals-extensions
+com.wire:wire-signals-extensions_2.13:0.5.1 -> wire-signals-extensions
+com.wire:wire-signals-extensions_3:0.5.1 -> wire-signals-extensions
 com.wire:wire-signals_2.11:0.5.1 -> wire-signals
 com.wire:wire-signals_2.12:0.5.1 -> wire-signals
 com.wire:wire-signals_2.13:0.5.1 -> wire-signals
