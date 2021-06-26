@@ -7,7 +7,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x135
 1. `com.fasterxml.jackson.databind` x76
 1. `java.xml.bind` x61
-1. `net.bytebuddy` x60
+1. `net.bytebuddy` x61
 1. `org.bouncycastle.provider` x55
 1. `org.objectweb.asm` x53
 1. `com.google.gson` x48
@@ -18,7 +18,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.slf4j` x33
 1. `io.github.classgraph` x31
 1. `kotlin.stdlib` x29
-1. `com.fasterxml.jackson.module.jaxb` x27
+1. `com.fasterxml.jackson.module.jaxb` x28
 1. `lombok` x25
 1. `org.bouncycastle.pkix` x23
 1. `org.objectweb.asm.commons` x19
@@ -167,9 +167,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.performance.common:netty-http-echo-service`  -> [`0.2.0`, `0.2.1`, `0.3.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`]
 1. `top.populus:bees`  -> [`1.0`]
 1. `uk.gov.nca.graph:mapper`  -> [`1.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`]
 1. `za.co.absa.hyperdrive:hyperdrive-release`  -> [`3.2.2`, `3.3.0`, `4.0.0`, `4.1.0`]
 
 ## com.fasterxml.jackson.databind
@@ -323,7 +323,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## net.bytebuddy
 
-For example, at least 60 artifacts on Maven Central claim to be the module `net.bytebuddy`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 61 artifacts on Maven Central claim to be the module `net.bytebuddy`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires net.bytebuddy;`.
 
 1. `cloud.orbit:orbit-redis-cluster`  -> [`1.5.0`, `1.5.1`]
@@ -352,6 +352,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`]
 1. `io.aeron:aeron-all`  -> [`1.13.0`, `1.14.0`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.19.1`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.2`, `1.22.0`, `1.22.1`, `1.23.0`, `1.23.1`]
 1. `io.github.harvies.charon:charon-agent`  -> [`0.0.6`, `0.0.7`]
+1. `io.github.jas34:scheduledwf-server`  -> [`1.1.0`]
 1. `io.github.lomom:agent-logger`  -> [`1.0.1-Release`]
 1. `io.kamon:kanela-agent`  -> [`1.0.0-M1`, `1.0.0-M2`, `1.0.0-M3`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
 1. `io.openk9:io.openk9.reactor.agent`  -> [`0.0.1-SNAPSHOTS`]
@@ -731,7 +732,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.toop:toop-demoui-dcstandalone`  -> [`2.0.0-rc1`, `2.0.0-rc2`, `2.0.0-rc3`, `2.0.0`, `2.1.0`, `2.1.0-1`, `2.1.1`]
 1. `info.picocli:picocli-jpms-module`  -> [`4.0.0-alpha-2`, `4.0.0-alpha-3`]
 1. `info.picocli:picocli` 🧩 -> [`4.0.0-beta-1b`, `4.0.0-beta-2`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.6.0`, `4.6.1`]
-1. `io.github.asseco-pst:einstein`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.1.0`, `1.2.0`]
+1. `io.github.asseco-pst:einstein`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.1.0`, `1.2.0`, `1.2.1`]
 1. `io.github.davidwhitlock.cs410J.original:student`  -> [`2021.0.0`, `2021.1.0`, `2021.1.1`, `2021.1.2`, `2021.2.0`, `2021.3.0`]
 1. `io.jooby:jooby-cli`  -> [`2.0.6`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `2.9.5`, `2.9.6`]
 1. `io.kestra:kestra`  -> [`0.2.3`, `0.2.4`]
@@ -831,7 +832,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`, `0.9.8`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
 1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `1.1.0`, `1.1.2`, `1.2.0`, `1.3.0`, `1.4.0`, `1.5.0`]
-1. `com.ibm.cloud:examples`  -> [`0.0.4`, `0.0.5`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.30`, `0.0.31`]
+1. `com.ibm.cloud:examples`  -> [`0.0.4`, `0.0.5`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.30`, `0.0.31`, `0.0.32`, `0.0.33`]
 1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`, `0.18.4`, `0.18.5`, `0.18.6`, `0.18.7`, `0.18.8`, `0.18.10`, `0.18.11`, `0.18.12`]
 1. `com.incognia:incognia-api-client`  -> [`1.1.0`]
 1. `com.intuit.hooks:maven-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
@@ -857,7 +858,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.module.jaxb
 
-For example, at least 27 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 28 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
 
 1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`, `4.2.0`]
@@ -882,11 +883,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.glassfish.main.admingui:jackson-module-jaxb-annotations`  -> [`6.0.0-M1`, `6.0.0-RC2`, `6.0.0-RC3`, `6.0.0-RC4`, `6.0.0`, `6.1.0`, `6.2.0`]
 1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`7.1.1`, `7.2.0`, `7.2.1`, `7.2.2`]
 1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.2`]
-1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`]
+1. `org.kill-bill.billing.plugin.java:deposit-plugin`  -> [`0.0.1`, `0.0.2`]
+1. `org.kill-bill.billing.plugin.java:killbill-email-notifications-plugin`  -> [`0.7.0`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.3.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`]
-1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.0.11`]
+1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.0.11`, `2.0.12`]
 
 ## lombok
 
@@ -1291,7 +1293,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`]
 1. `com.guujiang:jacob-core`  -> [`0.0.1`]
 1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`, `0.9.1`]
-1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`]
+1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`]
 1. `org.netbeans.external:asm-tree-7.2`  -> [`RELEASE113`]
 1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`]
 
