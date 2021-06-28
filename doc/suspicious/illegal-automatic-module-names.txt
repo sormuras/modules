@@ -2,10 +2,10 @@ ai.djl.mxnet:mxnet-native-auto:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu102mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu110mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-mkl:1.8.0 -> ai.djl.native
-au.com.dius.pact.consumer:specs2_2.13:4.2.6 -> au.com.dius.pact.consumer.specs2_2.13
-au.com.dius.pact.provider:scalasupport_2.13:4.2.6 -> au.com.dius.pact.provider.scalasupport_2.13
-au.com.dius.pact.provider:scalatest_2.13:4.2.6 -> au.com.dius.pact.provider.scalatest_2.13
-au.com.dius.pact.provider:specs2_2.13:4.2.6 -> au.com.dius.pact.provider.specs2_2.13
+au.com.dius.pact.consumer:specs2_2.13:4.2.7 -> au.com.dius.pact.consumer.specs2_2.13
+au.com.dius.pact.provider:scalasupport_2.13:4.2.7 -> au.com.dius.pact.provider.scalasupport_2.13
+au.com.dius.pact.provider:scalatest_2.13:4.2.7 -> au.com.dius.pact.provider.scalatest_2.13
+au.com.dius.pact.provider:specs2_2.13:4.2.7 -> au.com.dius.pact.provider.specs2_2.13
 au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.10 -> au.com.dius.pact_jvm_consumer_specs2_2.12
 au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalasupport_2.12
 au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalatest_2.12
@@ -228,9 +228,9 @@ io.netty:netty-transport-blockhound-tests:4.1.65.Final -> -
 io.netty:netty-transport-native-unix-common-tests:4.1.65.Final -> -
 io.qameta.allure:allure-junit5-assert:2.14.0 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.0 -> io.skullabs.apt.class-generator
-io.skullabs.injector:injector-core:1.4.0 -> io.skullabs.injector.injector-core
-io.skullabs.injector:injector-processor:1.4.0 -> io.skullabs.injector.injector-processor
-io.skullabs.injector:injector-sample:1.4.0 -> io.skullabs.injector.injector-sample
+io.skullabs.injector:injector-core:1.5.0 -> io.skullabs.injector.injector-core
+io.skullabs.injector:injector-processor:1.5.0 -> io.skullabs.injector.injector-processor
+io.skullabs.injector:injector-sample:1.5.0 -> io.skullabs.injector.injector-sample
 io.skullabs.kikaha:kikaha-bcrypt:2.1.10.Final -> io.skullabs.kikaha.kikaha-bcrypt
 io.skullabs.kikaha:kikaha-cloud:2.1.10.Final -> io.skullabs.kikaha.kikaha-cloud
 io.skullabs.kikaha:kikaha-cloud-auth0:2.1.10.Final -> io.skullabs.kikaha.kikaha-cloud-auth0
