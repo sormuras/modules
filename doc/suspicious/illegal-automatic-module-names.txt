@@ -170,7 +170,7 @@ com.synopsys.integration:blackduck-common-api:2020.8.0.25 -> com.synopsys.integr
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:13.0.7 -> com.synopsys.integration.hub-imageinspector-lib
-com.synopsys.integration:int-jira-common:3.0.0 -> com.synopsys.integration.int-jira-common
+com.synopsys.integration:int-jira-common:3.0.1 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:22.1.2 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:25.0.0 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
@@ -1583,7 +1583,7 @@ org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.revapi.testjars:testjars-maven-resolver:0.2.0 -> define this in child modules
 org.selenide:selenide-selenoid:1.1.3 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
-org.simplejavamail:outlook-message-parser:1.7.9 -> outlook-message-parser
+org.simplejavamail:outlook-message-parser:1.7.10 -> outlook-message-parser
 org.spockframework:spock-groovy2-compat:2.0-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
