@@ -136,7 +136,7 @@ com.github.triceo.robozonky:robozonky-integration-zonkoid:4.0.0-beta-5 -> com.gi
 com.github.triceo.robozonky:robozonky-marketplaces:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-marketplaces
 com.github.triceo.robozonky:robozonky-notifications:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-notifications
 com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-strategy-natural
-com.graphql-java:java-dataloader:2021-07-05T11-59-26-7e2e609 -> com.graphql-java
+com.graphql-java:java-dataloader:2021-07-06T10-04-47-f2457ec -> com.graphql-java
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
@@ -1577,12 +1577,12 @@ org.mongodb.scala:mongo-scala-driver_2.11:4.3.0-beta4 -> org.mongodb.scala.mongo
 org.mongodb.scala:mongo-scala-driver_2.12:4.3.0-beta4 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb.scala:mongo-scala-driver_2.13:4.3.0-beta4 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb:mongodb-driver-legacy:4.3.0-beta4 -> org.mongodb.mongodb-driver-legacy
-org.neo4j:neo4j-ast-3.5:3.5.28 -> -
-org.neo4j:neo4j-expressions-3.5:3.5.28 -> -
+org.neo4j:neo4j-ast-3.5:3.5.29 -> -
+org.neo4j:neo4j-expressions-3.5:3.5.29 -> -
 org.neo4j:neo4j-ogm-bolt-native-types:3.2.24 -> -
 org.neo4j:neo4j-ogm-embedded-native-types:3.2.24 -> -
-org.neo4j:neo4j-parser-3.5:3.5.28 -> -
-org.neo4j:neo4j-rewriting-3.5:3.5.28 -> -
+org.neo4j:neo4j-parser-3.5:3.5.29 -> -
+org.neo4j:neo4j-rewriting-3.5:3.5.29 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.revapi.testjars:testjars-maven-resolver:0.2.0 -> define this in child modules
