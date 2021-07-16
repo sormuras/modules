@@ -166,7 +166,7 @@ com.squareup.wire:wire-swift-generator:4.0.0-alpha.5 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.5 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
 com.synopsys.integration:blackduck-common:55.0.4 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2020.8.0.25 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common-api:2021.6.0.0 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:13.0.7 -> com.synopsys.integration.hub-imageinspector-lib
@@ -226,7 +226,7 @@ io.netty:netty-testsuite-native-image-client:4.1.65.Final -> -
 io.netty:netty-testsuite-native-image-client-runtime-init:4.1.65.Final -> -
 io.netty:netty-transport-blockhound-tests:4.1.65.Final -> -
 io.netty:netty-transport-native-unix-common-tests:4.1.65.Final -> -
-io.opentelemetry:opentelemetry-sdk-metrics-testing:1.4.0-alpha -> io.opentelemetry.sdk.metrics-testing
+io.opentelemetry:opentelemetry-sdk-metrics-testing:1.4.1-alpha -> io.opentelemetry.sdk.metrics-testing
 io.qameta.allure:allure-junit5-assert:2.14.0 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.0 -> io.skullabs.apt.class-generator
 io.skullabs.injector:injector-core:1.5.1 -> io.skullabs.injector.injector-core
