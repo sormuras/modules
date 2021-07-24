@@ -4,15 +4,15 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x137
-1. `com.fasterxml.jackson.databind` x77
+1. `org.apache.logging.log4j` x138
+1. `com.fasterxml.jackson.databind` x78
 1. `java.xml.bind` x61
 1. `net.bytebuddy` x61
 1. `org.bouncycastle.provider` x55
 1. `com.google.gson` x54
 1. `org.objectweb.asm` x54
 1. `com.fasterxml.jackson.core` x47
-1. `kotlin.stdlib.jdk8` x44
+1. `kotlin.stdlib.jdk8` x45
 1. `info.picocli` x41
 1. `com.fasterxml.jackson.annotation` x39
 1. `io.github.classgraph` x34
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 137 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 138 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -71,6 +71,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.khubla.olmreader:olmreader`  -> [`1.8.0`]
 1. `com.macasaet.fernet:fernet-aws-secrets-manager-rotator`  -> [`1.5.0`]
 1. `com.microsoft.azure:azure-cosmos-cassandra-uploader`  -> [`1.0.9`, `1.0.10`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`]
+1. `com.navercorp.pinpoint:pinpoint-tools`  -> [`2.3.0`]
 1. `com.netflix.conductor:conductor-es6-persistence`  -> [`2.27.0-beta.2`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4-alpha`, `2.29.0`, `2.29.1`, `2.29.2`, `2.29.3`, `2.30.1`, `2.30.2`, `2.30.3`, `2.30.4`, `2.31.0`, `2.31.1`, `2.31.2`, `2.31.3`]
 1. `com.netflix.conductor:conductor-es7-persistence`  -> [`2.31.1`, `2.31.2`, `2.31.3`, `2.31.4`]
 1. `com.nimblygames.packr:packr-all`  -> [`2.3.0`, `2.4.2`, `2.5.0`, `2.6.0`, `2.6.2`, `2.6.3`, `2.6.4`, `2.7.0`]
@@ -176,10 +177,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 77 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 78 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
-1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`]
+1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`]
 1. `cn.com.analysys:javasdk`  -> [`4.1.0-all`, `4.1.3-all`]
 1. `co.navdeep:kafkaer`  -> [`1.4`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `com.amazon.opendistroforelasticsearch.client:opendistro-sql-jdbc`  -> [`1.13.0.0`]
@@ -204,7 +205,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jre11.jackson.core:jackson-databind`  -> [`0.63.0.17`, `0.63.0.19`]
 1. `com.launchdarkly:launchdarkly-java-server-sdk`  -> [`5.0.0-rc1`, `5.0.0-rc2`, `5.0.0-rc3`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.1.0`]
 1. `com.salesforce.cantor:cantor-server`  -> [`0.4.20`]
-1. `com.snowflake:snowpark`  -> [`0.6.0`]
+1. `com.snowflake:snowpark`  -> [`0.6.0`, `0.7.0`]
 1. `com.souher:fastapi`  -> [`0.9.9`, `1.0.0`, `1.1.0`]
 1. `com.spotify:styx-cli`  -> [`2.1.73`, `2.1.74`, `2.1.75`, `2.1.76`, `2.1.77`, `2.1.78`, `2.1.79`, `2.1.80`, `2.1.83`, `2.1.85`, `2.1.86`, `2.1.87`, `2.1.88`, `2.1.89`, `2.1.90`, `2.1.91`, `2.1.92`, `2.1.93`, `2.1.94`, `2.1.95`, `2.1.96`, `2.1.97`, `2.1.98`, `2.1.102`, `2.1.103`, `2.1.104`, `2.1.106`, `2.1.107`, `2.1.108`, `2.1.109`, `2.1.110`, `2.1.111`, `2.1.112`, `2.1.113`, `2.1.114`, `2.1.115`, `2.1.116`, `2.1.117`, `2.1.118`, `2.1.119`, `2.1.120`, `2.1.121`, `2.1.122`, `2.1.123`, `2.1.124`, `2.1.125`, `2.1.126`, `2.1.127`, `2.1.128`, `2.1.129`, `2.1.130`]
 1. `com.tencent.bk.base.datahub:iceberg-spark-runtime`  -> [`0.9.0-bkbase.1`]
@@ -212,6 +213,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
+1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
 1. `io.kestra.plugin:plugin-fs`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
 1. `io.kestra.storage:storage-minio`  -> [`0.2.0`]
@@ -610,7 +612,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
 1. `io.kestra.storage:storage-gcs`  -> [`0.2.0`]
 1. `io.openk9:io.openk9.third.party`  -> [`0.0.1-SNAPSHOTS`]
-1. `io.streamnative:pulsar-functions-runtime-all`  -> [`2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`]
+1. `io.streamnative:pulsar-functions-runtime-all`  -> [`2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`, `2.9.0-rc-202107231254`, `2.9.0.0-rc-202107231935`]
 1. `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient`  -> [`0.0.6`, `0.0.7`, `0.1.0`, `0.1.1`, `0.1.3`, `1.0.0`, `1.1.2`, `2.0.0`, `2.0.1`]
 1. `org.apache.beam:beam-runners-spark-3-job-server`  -> [`2.29.0`]
 1. `org.apache.beam:beam-runners-spark-job-server`  -> [`2.29.0`]
@@ -627,7 +629,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 44 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 45 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `ca.aqtech:mctreesearch4j`  -> [`0.0.1`, `0.0.2`, `0.0.3`]
@@ -635,7 +637,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`]
 1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
 1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
-1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`, `21.06.1`, `21.07.0`, `21.07.1`]
+1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`, `21.06.1`, `21.07.0`, `21.07.1`, `21.07.2`]
 1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
 1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
 1. `com.ibm.cloud:is-examples`  -> [`0.4.3`, `0.5.0`]
@@ -643,6 +645,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.incognia:incognia-api-client`  -> [`1.0.0`]
 1. `com.intuit.hooks:compiler-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
 1. `com.jakewharton.mosaic:compose-compiler`  -> [`0.1.0`]
+1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.6`]
 1. `com.mparticle:smartype-generator`  -> [`1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.notkamui.libs:keval`  -> [`0.7.1`]
 1. `com.orange.ccmd:hurl`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
@@ -882,7 +885,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ru.pocketbyte.locolaser:resource-json`  -> [`2.1.0`]
 1. `ru.pocketbyte.locolaser:resource-mobile`  -> [`2.1.0`]
 1. `ru.pocketbyte.locolaser:resource-properties`  -> [`2.1.0`]
-1. `ru.sokomishalov.skraper:cli`  -> [`0.7.0`]
+1. `ru.sokomishalov.skraper:cli`  -> [`0.7.0`, `0.8.0`]
 
 ## com.fasterxml.jackson.module.jaxb
 
@@ -898,14 +901,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.21.0-01`, `2.22.0-01`]
 1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.35`, `3.36`, `3.37`, `3.39.1-01`, `3.40.0-01`, `3.41.0-01`, `3.41.1-01`, `3.42.0-01`]
 1. `com.wizzdi:flexicore-territories-service`  -> [`4.0.0`]
-1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`, `1.10.19`, `1.10.20`, `1.10.21`, `1.10.22`, `1.10.23`, `1.10.24`]
+1. `com.yahoo.athenz:athenz-zts-java-client`  -> [`1.10.16`, `1.10.17`, `1.10.18`, `1.10.19`, `1.10.20`, `1.10.21`, `1.10.22`, `1.10.23`, `1.10.24`, `1.10.25`]
 1. `com.yahoo.vespa:vespa-hadoop`  -> [`7.356.23`, `7.358.44`, `7.359.24`, `7.360.24`, `7.361.22`, `7.362.70`, `7.363.17`, `7.364.19`, `7.365.20`, `7.366.33`, `7.367.19`, `7.368.3`, `7.369.27`, `7.371.20`, `7.372.13`, `7.373.22`, `7.374.52`, `7.375.22`, `7.376.25`, `7.378.53`, `7.379.1`, `7.380.25`, `7.381.20`, `7.382.45`, `7.383.13`, `7.384.43`, `7.385.3`, `7.386.28`, `7.387.80`, `7.388.28`, `7.389.1`, `7.390.64`, `7.391.28`, `7.393.56`, `7.394.21`, `7.396.22`, `7.397.65`, `7.398.17`, `7.401.18`, `7.403.18`, `7.404.59`, `7.405.22`, `7.406.26`, `7.407.45`, `7.411.24`, `7.413.25`, `7.414.19`, `7.416.18`, `7.417.20`, `7.418.23`, `7.419.22`, `7.420.21`, `7.421.25`, `7.422.63`, `7.423.37`, `7.424.27`, `7.425.42`, `7.426.23`, `7.433.11`, `7.434.10`, `7.435.15`, `7.436.31`, `7.437.7`, `7.438.16`, `7.439.3`]
 1. `io.kestra.plugin:plugin-serdes`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
 1. `io.streamnative.connectors:pulsar-flink-sql-connector_2.11`  -> [`1.13.1.0`, `1.13.1.1`]
 1. `io.streamnative.connectors:pulsar-flink-sql-connector_2.12`  -> [`1.13.1.0`, `1.13.1.1`]
-1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`]
-1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`]
-1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`]
+1. `io.streamnative:pulsar-broker-shaded`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`, `2.9.0-rc-202107231254`, `2.9.0.0-rc-202107231935`]
+1. `io.streamnative:pulsar-client-admin`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`, `2.9.0-rc-202107231254`, `2.9.0.0-rc-202107231935`]
+1. `io.streamnative:pulsar-client-all`  -> [`2.8.0-rc-202106022226`, `2.8.0-rc-202106061908`, `2.8.0-rc-202106062208`, `2.8.0-rc-202106071011`, `2.8.0-rc-202106071430`, `2.8.0-rc-202106091215`, `2.9.0-rc-202106092205`, `2.9.0-rc-202106122205`, `2.9.0-rc-202106132205`, `2.9.0-rc-202106142205`, `2.9.0-rc-202106161005`, `2.9.0-rc-202106162205`, `2.9.0-rc-202106191455`, `2.9.0-rc-202106192205`, `2.9.0-rc-202106201258`, `2.9.0-rc-202106202206`, `2.9.0-rc-202106222205`, `2.9.0-rc-202106232205`, `2.9.0-rc-202106242205`, `2.9.0-rc-202106262205`, `2.9.0-rc-202106282205`, `2.9.0-rc-202106292205`, `2.9.0-rc-202106302205`, `2.9.0-rc-202107022206`, `2.9.0-rc-202107030819`, `2.9.0-rc-202107072205`, `2.9.0-rc-202107102205`, `2.9.0-rc-202107112205`, `2.9.0-rc-202107152205`, `2.9.0-rc-202107162205`, `2.9.0-rc-202107172205`, `2.9.0-rc-202107192205`, `2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`, `2.9.0-rc-202107231254`, `2.9.0.0-rc-202107231935`]
 1. `org.apache.pulsar:pulsar-broker-shaded`  -> [`2.8.0`]
 1. `org.apache.pulsar:pulsar-client-admin`  -> [`2.8.0`]
 1. `org.apache.pulsar:pulsar-client-all`  -> [`2.8.0`]
@@ -1097,7 +1100,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `br.com.behaviortest:behavior-test-api`  -> [`1.0.0`, `1.0.1`]
 1. `ch.exense.step.examples:demo-selenium-keyword`  -> [`1.1.3`, `3.13.0`]
 1. `ch.exense.step.library:step-library-kw-selenium`  -> [`1.0.7`, `1.0.8`]
-1. `com.codacy:scooby-doo-fwk`  -> [`1.23.0-featpromotetocentral.bec3d80`, `1.23.0-featpromotetocentral.fd73670`, `1.24.0`, `1.26.0`, `1.28.0`, `1.28.2`, `1.28.3`, `1.28.5`, `1.30.0`, `1.32.0`, `1.33.1`, `1.33.3`, `1.35.0`, `1.37.0`, `1.39.0`]
+1. `com.codacy:scooby-doo-fwk`  -> [`1.23.0-featpromotetocentral.bec3d80`, `1.23.0-featpromotetocentral.fd73670`, `1.24.0`, `1.26.0`, `1.28.0`, `1.28.2`, `1.28.3`, `1.28.5`, `1.30.0`, `1.32.0`, `1.33.1`, `1.33.3`, `1.35.0`, `1.37.0`, `1.39.0`, `1.40.0`]
 1. `com.gitee.pyqone:autest`  -> [`2.0.0-RELEASE`]
 1. `com.github.qgintest:testutilities`  -> [`1.5.0`, `1.7.0`]
 1. `com.iceolive:selenium-script`  -> [`0.0.5`]
@@ -1328,7 +1331,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`, `0.75.0`]
 1. `com.guujiang:jacob-core`  -> [`0.0.1`]
 1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`, `0.9.1`]
-1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`]
+1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`]
 1. `org.netbeans.external:asm-tree-7.2`  -> [`RELEASE113`]
 1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`]
 
