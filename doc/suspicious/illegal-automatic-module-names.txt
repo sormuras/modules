@@ -145,7 +145,7 @@ com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
-com.imsweb:staging-algorithm-eod-public:2.0.9 -> com.imsweb.staging.eod.public
+com.imsweb:staging-algorithm-eod-public:2.1.0 -> com.imsweb.staging.eod.public
 com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.1 -> -
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
