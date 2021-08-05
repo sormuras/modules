@@ -880,10 +880,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.095:1.2.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.096:1.2.0 -> org.eclipse.app4mc.amalthea.converters.096
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.097:1.2.0 -> org.eclipse.app4mc.amalthea.converters.097
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:1.2.0 -> org.eclipse.app4mc.amalthea.converters.100
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.26 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.26 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.26 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.functionaljava:functionaljava-java-core:4.9 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
 org.graphfoundation.ongdb.community:bolt-it:3.6.2 -> org.neo4j.community.bolt-it
@@ -901,7 +901,8 @@ org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-import-tool:3.6.2 -> org.neo4j.tooling.import
 org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
-org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha8 -> org.hibernate.orm.enhance-maven-plugin
+org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Alpha9 -> org.hibernate.orm.enhance-maven-plugin
+org.hibernate.orm:hibernate-community-dialects:6.0.0.Alpha9 -> org.hibernate.orm.community-dialects
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-core:6.0.6.Final -> -
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-jberet:6.0.6.Final -> -
