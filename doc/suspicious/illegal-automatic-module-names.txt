@@ -169,7 +169,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.0.0-alpha.7 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:57.0.0 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:58.0.0 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2021.6.0.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -221,7 +221,7 @@ io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -
 io.github.pdvrieze.xmlutil:serialization-jvm:0.82.0 -> xmlutil-serialization_woodstoxTest
 io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1 -> io.github.resilience4j.spring-cloud-common
 io.github.zlika:reproducible-build-maven-plugin:0.13 -> io.github.zlika.reproducible-build-maven-plugin
-io.micrometer:micrometer-registry-new-relic:1.7.2 -> micrometer.registry.new.relic
+io.micrometer:micrometer-registry-new-relic:1.7.3 -> micrometer.registry.new.relic
 io.netty:netty-microbench:4.1.66.Final -> -
 io.netty:netty-testsuite-autobahn:4.1.66.Final -> -
 io.netty:netty-testsuite-http2:4.1.66.Final -> -
