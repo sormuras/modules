@@ -137,7 +137,7 @@ com.github.triceo.robozonky:robozonky-integration-zonkoid:4.0.0-beta-5 -> com.gi
 com.github.triceo.robozonky:robozonky-marketplaces:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-marketplaces
 com.github.triceo.robozonky:robozonky-notifications:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-notifications
 com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-strategy-natural
-com.graphql-java:java-dataloader:2021-08-09T06-24-29-8836d7e -> com.graphql-java
+com.graphql-java:java-dataloader:2021-08-19T04-04-25-efb3c9d -> com.graphql-java
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
@@ -169,7 +169,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.0.0-alpha.7 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:58.0.0 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:58.0.1 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2021.6.0.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
