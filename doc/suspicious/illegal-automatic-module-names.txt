@@ -96,11 +96,11 @@ com.github.albfernandez.seam:jboss-seam-rss:2.3.24.ayg -> com.github.albfernande
 com.github.albfernandez.seam:jboss-seam-ui:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-ui
 com.github.albfernandez.seam:jboss-seam-wicket:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-wicket
 com.github.albfernandez:jboss-el:1.1.0 -> com.github.albfernandez.jboss-el
-com.github.albfernandez:jbpm-examples:3.2.15.ayg -> com.github.albfernandez.jbpm-examples
-com.github.albfernandez:jbpm-identity:3.2.15.ayg -> com.github.albfernandez.jbpm-identity
-com.github.albfernandez:jbpm-jpdl:3.2.15.ayg -> com.github.albfernandez.jbpm-jpdl
-com.github.albfernandez:jbpm-simulation:3.2.15.ayg -> com.github.albfernandez.jbpm-simulation
-com.github.albfernandez:jbpm-tomcat:3.2.15.ayg -> com.github.albfernandez.jbpm-tomcat
+com.github.albfernandez:jbpm-examples:3.2.16.ayg -> com.github.albfernandez.jbpm-examples
+com.github.albfernandez:jbpm-identity:3.2.16.ayg -> com.github.albfernandez.jbpm-identity
+com.github.albfernandez:jbpm-jpdl:3.2.16.ayg -> com.github.albfernandez.jbpm-jpdl
+com.github.albfernandez:jbpm-simulation:3.2.16.ayg -> com.github.albfernandez.jbpm-simulation
+com.github.albfernandez:jbpm-tomcat:3.2.16.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:emailaddress-rfc2822:2.3.0 -> emailaddress-rfc2822
 com.github.bbottema:java-socks-proxy-server:1.1.0 -> java-socks-proxy-server
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
