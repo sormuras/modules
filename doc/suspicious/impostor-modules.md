@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x146
+1. `org.apache.logging.log4j` x147
 1. `com.fasterxml.jackson.databind` x80
 1. `net.bytebuddy` x63
 1. `java.xml.bind` x62
@@ -24,7 +24,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm.commons` x23
 1. `com.fasterxml.jackson.dataformat.yaml` x15
 1. `com.zaxxer.hikari` x15
-1. `java.ws.rs` x14
+1. `java.ws.rs` x15
 1. `com.fasterxml.jackson.datatype.jdk8` x13
 1. `org.openqa.selenium.core` x13
 1. `net.bytebuddy.agent` x12
@@ -33,12 +33,13 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 146 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 147 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
 1. `cn.net.mugui:spring`  -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`]
 1. `com.alibaba.ververica:flink-connector-test-util`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.2.0`, `1.3.0`, `1.4.0`]
+1. `com.alibaba.ververica:ververica-connector-elasticsearch`  -> [`1.13-vvr-4.0.7`]
 1. `com.ardikars.jxnet:jxnet-example`  -> [`1.5.5.RC5`]
 1. `com.arpitos:arpitos-fw`  -> [`0.0.2`]
 1. `com.arpitos:artos`  -> [`0.0.1`]
@@ -101,7 +102,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.cellery.security:io.cellery.security.cell.sts.server`  -> [`0.2.1`, `0.4.0`, `0.6.0`]
 1. `io.github.basilapi:basil-server`  -> [`0.8.0`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.0.0-rc1`, `1.0.0`]
-1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`]
+1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`]
 1. `io.github.protobuf-x:protoc-gen-spring-webflux`  -> [`0.2.0`]
 1. `io.github.shiruka:api`  -> [`1.8.0`, `1.9.0`]
 1. `io.github.shiruka:common`  -> [`3.2.0`, `3.3.0`, `3.4.0`]
@@ -298,7 +299,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cz.o2.proxima.beam:beam-sdks-java-extensions-kryo`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`, `0.3-1d562f`]
 1. `cz.o2.proxima.beam:beam-sdks-java-io-google-cloud-platform`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`]
 1. `cz.o2.proxima.beam:beam-sdks-java-io-kafka`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`]
-1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`, `1.35.0`]
+1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`, `1.35.0`, `1.35.1`]
 1. `io.aeron:aeron-all`  -> [`1.13.0`, `1.14.0`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.19.1`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.2`, `1.22.0`, `1.22.1`, `1.23.0`, `1.23.1`]
 1. `io.github.harvies.charon:charon-agent`  -> [`0.0.6`, `0.0.7`, `0.0.8`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.1.0`, `1.1.1`, `1.2.0`, `1.2.2`]
@@ -698,7 +699,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-extensions-sql-jdbc`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`]
 1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`]
 1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`]
-1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`, `8.2.0`, `8.2.1`, `9.0.0`, `9.0.1`, `9.1.0`]
+1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`, `8.2.0`, `8.2.1`, `9.0.0`, `9.0.1`, `9.1.0`, `9.1.1`]
 1. `org.openidentityplatform.commons.json-crypto:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`]
 1. `run.facet.agent.java:facet-agent`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
 1. `uk.co.gdmrdigital.iiif.image:iiif-tiler`  -> [`0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`]
@@ -1098,7 +1099,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## java.ws.rs
 
-For example, at least 14 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 15 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires java.ws.rs;`.
 
 1. `cc.kebei:boot-in-jar`  -> [`1.1`]
@@ -1111,6 +1112,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-test-system`  -> [`0.9.0`, `0.9.1`]
 1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
 1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
+1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.9`, `2.10.9.2`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.8`, `2.10.9.2`]
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`, `2.0.2.Final`]
@@ -2412,7 +2414,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## io.helidon.metrics
 
 1. `io.helidon.metrics:helidon-metrics2`  -> [`1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`, `1.4.6`, `1.4.7`, `1.4.8`, `1.4.9`, `1.4.10`]
-1. `io.helidon.metrics:helidon-metrics` 🧩 -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.3.0`, `2.3.1`, `2.3.2`]
+1. `io.helidon.metrics:helidon-metrics` 🧩 -> [`0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-RC1`, `2.0.0-RC2`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`]
 1. `io.helidon.microprofile.metrics:helidon-metrics-se`  -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`]
 
 ## jakarta.json
@@ -2546,6 +2548,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.wizzdi:flexicore-security-service`  -> [`1.0.0`]
 1. `org.pf4j:pf4j` 🧩 -> [`3.0.1`, `3.1.0`, `3.2.0`, `3.5.0`, `3.6.0`]
 1. `org.rationalityfrontline.workaround:pf4j`  -> [`3.7.0`]
+
+## tagtraum.japlscript
+
+1. `com.tagtraum:japlscript-complete`  -> [`3.3.0`]
+1. `com.tagtraum:japlscript-java`  -> [`3.3.0`]
+1. `com.tagtraum:japlscript-runtime`  -> [`3.4.0`]
 
 ## tm.bitronix.btm
 
