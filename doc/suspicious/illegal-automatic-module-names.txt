@@ -1622,8 +1622,6 @@ org.mongodb.scala:mongo-scala-driver_2.13:4.3.2 -> org.mongodb.scala.mongo-scala
 org.mongodb:mongodb-driver-legacy:4.3.2 -> org.mongodb.mongodb-driver-legacy
 org.neo4j:neo4j-ast-3.5:3.5.29 -> -
 org.neo4j:neo4j-expressions-3.5:3.5.29 -> -
-org.neo4j:neo4j-ogm-bolt-native-types:3.2.25 -> -
-org.neo4j:neo4j-ogm-embedded-native-types:3.2.25 -> -
 org.neo4j:neo4j-parser-3.5:3.5.29 -> -
 org.neo4j:neo4j-rewriting-3.5:3.5.29 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
