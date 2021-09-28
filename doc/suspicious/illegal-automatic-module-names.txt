@@ -2,10 +2,10 @@ ai.djl.mxnet:mxnet-native-auto:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu102mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu110mkl:1.8.0 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-mkl:1.8.0 -> ai.djl.native
-au.com.dius.pact.consumer:specs2_2.13:4.2.12 -> au.com.dius.pact.consumer.specs2_2.13
-au.com.dius.pact.provider:scalasupport_2.13:4.2.12 -> au.com.dius.pact.provider.scalasupport_2.13
-au.com.dius.pact.provider:scalatest_2.13:4.2.12 -> au.com.dius.pact.provider.scalatest_2.13
-au.com.dius.pact.provider:specs2_2.13:4.2.12 -> au.com.dius.pact.provider.specs2_2.13
+au.com.dius.pact.consumer:specs2_2.13:4.2.13 -> au.com.dius.pact.consumer.specs2_2.13
+au.com.dius.pact.provider:scalasupport_2.13:4.2.13 -> au.com.dius.pact.provider.scalasupport_2.13
+au.com.dius.pact.provider:scalatest_2.13:4.2.13 -> au.com.dius.pact.provider.scalatest_2.13
+au.com.dius.pact.provider:specs2_2.13:4.2.13 -> au.com.dius.pact.provider.specs2_2.13
 au.com.dius:pact-jvm-consumer-specs2_2.12:4.0.10 -> au.com.dius.pact_jvm_consumer_specs2_2.12
 au.com.dius:pact-jvm-provider-scalasupport_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalasupport_2.12
 au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_scalatest_2.12
@@ -134,7 +134,6 @@ com.hcl.domino:domino-jnx-lsxbeshim:1.0.36 -> domino-jnx-lsxbeshim
 com.hcl.domino:jnx-example-graalvm-native:1.0.36 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:1.4.2 -> com.helger.en16931-cii2ubl
-com.hierynomus:asn-one:0.5.0 -> com.hierynomus.asn-one
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
@@ -1626,6 +1625,7 @@ org.neo4j:neo4j-expressions-3.5:3.5.29 -> -
 org.neo4j:neo4j-parser-3.5:3.5.29 -> -
 org.neo4j:neo4j-rewriting-3.5:3.5.29 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
+org.pharmgkb:vcf-parser:0.2.2 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:1.1.7 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
