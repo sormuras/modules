@@ -1766,6 +1766,6 @@ ru.vyarus.guicey:guicey-admin-rest:5.3.0-1 -> ru.vyarus.dropwizard.guicey.admin-
 ru.vyarus.guicey:guicey-lifecycle-annotations:5.3.0-1 -> ru.vyarus.dropwizard.guicey.lifecycle-annotations
 ru.vyarus.guicey:guicey-server-pages:5.3.0-1 -> ru.vyarus.dropwizard.guicey.server-pages
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.4.0-alpha -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.5.0-alpha -> smithy-aws-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.4.1-alpha -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
