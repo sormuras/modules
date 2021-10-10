@@ -10,8 +10,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `net.bytebuddy` x63
 1. `com.google.gson` x59
 1. `org.bouncycastle.provider` x58
+1. `org.objectweb.asm` x56
 1. `kotlin.stdlib.jdk8` x55
-1. `org.objectweb.asm` x55
 1. `com.fasterxml.jackson.core` x51
 1. `info.picocli` x51
 1. `kotlin.stdlib` x43
@@ -164,7 +164,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.tika:tika-server-client`  -> [`2.0.0-BETA`, `2.0.0`, `2.1.0`]
 1. `org.bitbucket.bradleysmithllc.etlunit:etlunit-application-assembly`  -> [`4.5.7-eu`, `4.5.8-eu`, `4.5.9-eu`, `4.5.10-eu`, `4.5.11-eu`, `4.5.12-eu`, `4.5.13-eu`, `4.5.14-eu`, `4.5.15-eu`, `4.5.16-eu`, `4.5.17-eu`, `4.5.18-eu`, `4.5.19-eu`, `4.5.20-eu`, `4.5.21-eu`, `4.5.22-eu`, `4.5.23-eu`]
 1. `org.du-lab.adap-big:input`  -> [`0.1.0`]
-1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`]
+1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`]
 1. `org.finra.herd:herd-downloader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-exporter`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
@@ -254,8 +254,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-harness`  -> [`2.20.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.27.0`, `2.28.0`]
-1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`]
-1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`]
+1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`]
+1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`]
 1. `org.apache.flink:statefun-flink-distribution`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `3.0.0`, `3.1.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.12.0`]
 1. `org.apache.iceberg:iceberg-hive-runtime`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.12.0`]
@@ -543,6 +543,68 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.msf4j:websocket-chatApp-sample`  -> [`2.7.0`, `2.8.2`, `2.8.3`]
 1. `world.convex:convex-cli`  -> [`0.7.0-rc4`, `0.7.0`, `0.7.1`]
 
+## org.objectweb.asm
+
+For example, at least 56 artifacts on Maven Central claim to be the module `org.objectweb.asm`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.objectweb.asm;`.
+
+1. `cn.cyejing:dsync-dominate`  -> [`0.1.2`, `0.1.3`]
+1. `cn.cyejing:dsync-example`  -> [`0.1.2`, `0.1.3`]
+1. `com.att.ajsc:ajsc-runner`  -> [`3.0.8-oss`, `3.0.9-oss`, `3.0.10-oss`, `3.0.11-oss`]
+1. `com.bmuschko:gradle-docker-plugin`  -> [`4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.8.1`, `4.9.0`, `4.10.0`, `5.1.0`, `5.2.0`, `5.3.0`, `6.0.0`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`, `6.6.0`, `6.6.1`, `6.7.0`]
+1. `com.codeborne:jvm2dts`  -> [`1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `com.datastax.junitpytest:pytest-gradle-plugin`  -> [`0.1`]
+1. `com.diffplug.spotless:spotless-eclipse-groovy`  -> [`2.9.2`]
+1. `com.exasol:parquet-io-java`  -> [`1.0.2`, `1.0.3`, `1.1.0`]
+1. `com.github.collinalpert:expressions`  -> [`2.5`, `2.6.0`, `2.6.1`, `2.7.0`]
+1. `com.github.collinalpert:jaque`  -> [`2.4.1`, `2.4.2`]
+1. `com.github.collinalpert:java2db`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `2.0`, `2.1`, `2.2`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.4`, `2.4.2`, `2.4.3`, `2.5`, `3.0`, `3.1`, `4.0.1`, `4.1`, `4.1.1`, `4.2`, `5.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.2`, `5.2.1`, `5.3.0`, `5.4.0`, `5.5.0`, `5.5.1`, `5.6.0`, `6.0.0`, `6.0.1`, `6.1.0`]
+1. `com.github.collinalpert:lambda2sql`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `2.0`, `2.1`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.2`, `2.2.1`, `2.2.2`, `2.3.0`, `2.4.0`, `2.5.0`]
+1. `com.github.luxlang:lux-python`  -> [`0.6.1`, `0.6.2`]
+1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.1.0`]
+1. `com.github.tomakehurst:wiremock-jre8-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
+1. `com.github.tomakehurst:wiremock-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
+1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`2.16-rc0`, `2.16-rc1`, `2.16-rc2`, `2.16-rc3`, `2.16`, `2.16.1`, `2.16.2`, `2.16.3`, `2.16.4`, `2.16.5`, `2.16.6`, `2.16.7`, `3.0.0-rc0`, `3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
+1. `com.google.gerrit:gerrit-plugin-api`  -> [`2.16-rc0`, `2.16-rc1`, `2.16-rc2`, `2.16-rc3`, `2.16`, `2.16.1`, `2.16.2`, `2.16.3`, `2.16.4`, `2.16.5`, `2.16.6`, `2.16.7`, `3.0.0-rc0`, `3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`]
+1. `com.graphaware.neo4j:graphaware-framework-embedded`  -> [`3.4.6.52`, `3.4.7.52`, `3.4.8.52`, `3.4.9.52`, `3.5.0.53-beta02`, `3.5.0.53-beta03`, `3.5.1.53`, `3.5.2.53`, `3.5.3.53`, `3.5.4.53`, `3.5.5.53`, `3.5.6.54`, `3.5.7.54`, `3.5.8.54`, `3.5.9.54`, `3.5.10.54`, `3.5.11.54`, `3.5.11.55`, `3.5.12.55`, `3.5.13.55`, `3.5.14.55`, `3.5.14.56`, `3.5.14.58`]
+1. `com.heapanalytics.android:heap-android-gradle`  -> [`1.9.0`, `1.9.1`, `1.9.2-rc.1`, `1.9.2`, `1.9.3`]
+1. `com.netflix.nebula:gradle-lint-plugin`  -> [`10.5.2`, `10.5.3`, `11.0.0`, `11.1.0`]
+1. `com.newrelic.agent.android:class-rewriter`  -> [`6.2.0`, `6.2.1`, `6.3.0`]
+1. `com.oracle.substratevm:svm`  -> [`19.2.0`, `19.2.0.1`, `19.2.1`]
+1. `com.oradian.util:exit-denied`  -> [`0.1.0`]
+1. `com.salesforceiq.augmenteddriver:AugmentedDriver`  -> [`1.10.1`]
+1. `com.sap.cloud.s4hana.datamodel:odata-generator-cli`  -> [`2.3.1`, `2.4.1`, `2.4.2`, `2.5.0`]
+1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.4`, `0.7.5`]
+1. `com.vmlens:agent-runtime`  -> [`1.0.14`, `1.0.15`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.4`, `1.1.5`]
+1. `com.vmlens:plugin.sync.bug`  -> [`1.1.1`, `1.1.2`, `1.1.4`, `1.1.5`]
+1. `de.adorsys.keycloak:keycloak-clientregistration-provider`  -> [`1.5`, `1.6`, `1.7`, `1.7.1`, `1.8`, `1.9`, `1.10-RC1`, `1.10`, `1.11-RC1`, `1.11`]
+1. `de.adorsys.multibanking:keycloak-custom-secret-provider`  -> [`2.2.3`]
+1. `de.tud.sse:soot-infoflow`  -> [`2.8`, `2.9.0`]
+1. `de.uni-hildesheim.sse.spassMeter:spass-meter-ant`  -> [`1.30`]
+1. `de.uni-hildesheim.sse.spassMeter:spass-meter-ia`  -> [`1.30`]
+1. `de.uni-hildesheim.sse.spassMeter:spass-meter`  -> [`1.30`]
+1. `fi.evident.apina:apina-cli`  -> [`0.16.0`, `0.17.5`]
+1. `fi.evident.apina:apina-core`  -> [`0.16.0`, `0.17.5`]
+1. `io.ebean.tools:ebean-init`  -> [`1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`]
+1. `io.kestra.plugin:plugin-script-jython`  -> [`0.2.0`]
+1. `io.quarkus:quarkus-cli`  -> [`1.6.0.Final`, `1.6.1.Final`, `1.7.0.CR1`, `1.7.0.CR2`, `1.7.0.Final`, `1.7.1.Final`]
+1. `io.quarkus:quarkus-ide-launcher`  -> [`1.5.2.Final`, `1.6.0.Final`, `1.6.1.Final`, `1.7.0.CR1`, `1.7.0.CR2`, `1.7.0.Final`, `1.7.1.Final`]
+1. `net.onedaybeard.artemis:artemis-odb-cli`  -> [`2.3.0`]
+1. `net.onedaybeard.graftt:agent`  -> [`0.1.3`, `0.2.0`, `0.2.1`]
+1. `org.checkerframework:checker`  -> [`3.10.0`, `3.11.0`]
+1. `org.duracloud:synctoolui`  -> [`5.1.0`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `7.0.0`]
+1. `org.glassfish.main.extras:glassfish-embedded-all`  -> [`6.1.0`, `6.2.0`, `6.2.1`]
+1. `org.glassfish.main.extras:glassfish-embedded-nucleus`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`]
+1. `org.glassfish.main.extras:glassfish-embedded-web`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`]
+1. `org.graalvm.nativeimage:svm`  -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`]
+1. `org.netbeans.external:asm-7.2`  -> [`RELEASE113`]
+1. `org.noear:solon.extend.jetty.jsp`  -> [`1.0.2`, `1.0.2.1`, `1.0.3`]
+1. `org.ow2.asm:asm` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`]
+1. `org.python:jython-standalone`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
+1. `org.python:jython`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
+1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
+1. `org.tomitribe.jkta:jkta`  -> [`0.4`, `0.5`, `0.6`, `0.7`]
+
 ## kotlin.stdlib.jdk8
 
 For example, at least 55 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -603,67 +665,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.multi-os-engine:moe-gradle`  -> [`1.8.0`, `1.8.1`, `1.8.2`]
 1. `org.sonarsource.kotlin:sonar-kotlin-plugin`  -> [`2.0.0.29`, `2.0.1.110`, `2.1.0.344`, `2.2.0.499`, `2.3.0.609`]
 1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
-
-## org.objectweb.asm
-
-For example, at least 55 artifacts on Maven Central claim to be the module `org.objectweb.asm`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.objectweb.asm;`.
-
-1. `cn.cyejing:dsync-dominate`  -> [`0.1.2`, `0.1.3`]
-1. `cn.cyejing:dsync-example`  -> [`0.1.2`, `0.1.3`]
-1. `com.att.ajsc:ajsc-runner`  -> [`3.0.8-oss`, `3.0.9-oss`, `3.0.10-oss`, `3.0.11-oss`]
-1. `com.bmuschko:gradle-docker-plugin`  -> [`4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.8.1`, `4.9.0`, `4.10.0`, `5.1.0`, `5.2.0`, `5.3.0`, `6.0.0`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`, `6.6.0`, `6.6.1`, `6.7.0`]
-1. `com.codeborne:jvm2dts`  -> [`1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `com.datastax.junitpytest:pytest-gradle-plugin`  -> [`0.1`]
-1. `com.diffplug.spotless:spotless-eclipse-groovy`  -> [`2.9.2`]
-1. `com.exasol:parquet-io-java`  -> [`1.0.2`, `1.0.3`, `1.1.0`]
-1. `com.github.collinalpert:expressions`  -> [`2.5`, `2.6.0`, `2.6.1`, `2.7.0`]
-1. `com.github.collinalpert:jaque`  -> [`2.4.1`, `2.4.2`]
-1. `com.github.collinalpert:java2db`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `2.0`, `2.1`, `2.2`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.4`, `2.4.2`, `2.4.3`, `2.5`, `3.0`, `3.1`, `4.0.1`, `4.1`, `4.1.1`, `4.2`, `5.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.2`, `5.2.1`, `5.3.0`, `5.4.0`, `5.5.0`, `5.5.1`, `5.6.0`, `6.0.0`, `6.0.1`, `6.1.0`]
-1. `com.github.collinalpert:lambda2sql`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `2.0`, `2.1`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.2`, `2.2.1`, `2.2.2`, `2.3.0`, `2.4.0`, `2.5.0`]
-1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.1.0`]
-1. `com.github.tomakehurst:wiremock-jre8-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
-1. `com.github.tomakehurst:wiremock-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
-1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`2.16-rc0`, `2.16-rc1`, `2.16-rc2`, `2.16-rc3`, `2.16`, `2.16.1`, `2.16.2`, `2.16.3`, `2.16.4`, `2.16.5`, `2.16.6`, `2.16.7`, `3.0.0-rc0`, `3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
-1. `com.google.gerrit:gerrit-plugin-api`  -> [`2.16-rc0`, `2.16-rc1`, `2.16-rc2`, `2.16-rc3`, `2.16`, `2.16.1`, `2.16.2`, `2.16.3`, `2.16.4`, `2.16.5`, `2.16.6`, `2.16.7`, `3.0.0-rc0`, `3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`]
-1. `com.graphaware.neo4j:graphaware-framework-embedded`  -> [`3.4.6.52`, `3.4.7.52`, `3.4.8.52`, `3.4.9.52`, `3.5.0.53-beta02`, `3.5.0.53-beta03`, `3.5.1.53`, `3.5.2.53`, `3.5.3.53`, `3.5.4.53`, `3.5.5.53`, `3.5.6.54`, `3.5.7.54`, `3.5.8.54`, `3.5.9.54`, `3.5.10.54`, `3.5.11.54`, `3.5.11.55`, `3.5.12.55`, `3.5.13.55`, `3.5.14.55`, `3.5.14.56`, `3.5.14.58`]
-1. `com.heapanalytics.android:heap-android-gradle`  -> [`1.9.0`, `1.9.1`, `1.9.2-rc.1`, `1.9.2`, `1.9.3`]
-1. `com.netflix.nebula:gradle-lint-plugin`  -> [`10.5.2`, `10.5.3`, `11.0.0`, `11.1.0`]
-1. `com.newrelic.agent.android:class-rewriter`  -> [`6.2.0`, `6.2.1`, `6.3.0`]
-1. `com.oracle.substratevm:svm`  -> [`19.2.0`, `19.2.0.1`, `19.2.1`]
-1. `com.oradian.util:exit-denied`  -> [`0.1.0`]
-1. `com.salesforceiq.augmenteddriver:AugmentedDriver`  -> [`1.10.1`]
-1. `com.sap.cloud.s4hana.datamodel:odata-generator-cli`  -> [`2.3.1`, `2.4.1`, `2.4.2`, `2.5.0`]
-1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.4`, `0.7.5`]
-1. `com.vmlens:agent-runtime`  -> [`1.0.14`, `1.0.15`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.4`, `1.1.5`]
-1. `com.vmlens:plugin.sync.bug`  -> [`1.1.1`, `1.1.2`, `1.1.4`, `1.1.5`]
-1. `de.adorsys.keycloak:keycloak-clientregistration-provider`  -> [`1.5`, `1.6`, `1.7`, `1.7.1`, `1.8`, `1.9`, `1.10-RC1`, `1.10`, `1.11-RC1`, `1.11`]
-1. `de.adorsys.multibanking:keycloak-custom-secret-provider`  -> [`2.2.3`]
-1. `de.tud.sse:soot-infoflow`  -> [`2.8`, `2.9.0`]
-1. `de.uni-hildesheim.sse.spassMeter:spass-meter-ant`  -> [`1.30`]
-1. `de.uni-hildesheim.sse.spassMeter:spass-meter-ia`  -> [`1.30`]
-1. `de.uni-hildesheim.sse.spassMeter:spass-meter`  -> [`1.30`]
-1. `fi.evident.apina:apina-cli`  -> [`0.16.0`, `0.17.5`]
-1. `fi.evident.apina:apina-core`  -> [`0.16.0`, `0.17.5`]
-1. `io.ebean.tools:ebean-init`  -> [`1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`]
-1. `io.kestra.plugin:plugin-script-jython`  -> [`0.2.0`]
-1. `io.quarkus:quarkus-cli`  -> [`1.6.0.Final`, `1.6.1.Final`, `1.7.0.CR1`, `1.7.0.CR2`, `1.7.0.Final`, `1.7.1.Final`]
-1. `io.quarkus:quarkus-ide-launcher`  -> [`1.5.2.Final`, `1.6.0.Final`, `1.6.1.Final`, `1.7.0.CR1`, `1.7.0.CR2`, `1.7.0.Final`, `1.7.1.Final`]
-1. `net.onedaybeard.artemis:artemis-odb-cli`  -> [`2.3.0`]
-1. `net.onedaybeard.graftt:agent`  -> [`0.1.3`, `0.2.0`, `0.2.1`]
-1. `org.checkerframework:checker`  -> [`3.10.0`, `3.11.0`]
-1. `org.duracloud:synctoolui`  -> [`5.1.0`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `7.0.0`]
-1. `org.glassfish.main.extras:glassfish-embedded-all`  -> [`6.1.0`, `6.2.0`, `6.2.1`]
-1. `org.glassfish.main.extras:glassfish-embedded-nucleus`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`]
-1. `org.glassfish.main.extras:glassfish-embedded-web`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`]
-1. `org.graalvm.nativeimage:svm`  -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`]
-1. `org.netbeans.external:asm-7.2`  -> [`RELEASE113`]
-1. `org.noear:solon.extend.jetty.jsp`  -> [`1.0.2`, `1.0.2.1`, `1.0.3`]
-1. `org.ow2.asm:asm` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`]
-1. `org.python:jython-standalone`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
-1. `org.python:jython`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
-1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
-1. `org.tomitribe.jkta:jkta`  -> [`0.4`, `0.5`, `0.6`, `0.7`]
 
 ## com.fasterxml.jackson.core
 
@@ -1094,7 +1095,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 20 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.zaxxer.hikari;`.
 
-1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`]
+1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`, `1.3.0.1`]
 1. `com.streamxhub.streamx:streamx-flink-sqlclient`  -> [`1.0.0`, `1.1.0`]
 1. `com.zaxxer:HikariCP` 🧩 -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`, `5.0.0`]
 1. `fr.blueberry-studio.hermes:hermes-api`  -> [`0.9-ALPHA`]
@@ -1186,7 +1187,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.amazonaws:aws-xray-auto-instrumentation-agent-bootstrap`  -> [`2.4.0-beta`, `2.4.0-beta.1`]
 1. `com.ea.async:ea-async`  -> [`1.2.3`]
 1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`]
-1. `com.idea-aedi:component-dump-class`  -> [`1.2.0`, `1.3.0`, `1.4.0`, `1.6.0`, `1.8.0`, `1.9.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`]
+1. `com.idea-aedi:component-dump-class`  -> [`1.2.0`, `1.3.0`, `1.4.0`, `1.6.0`, `1.8.0`, `1.9.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`]
 1. `com.nerdvision:dynamic-load`  -> [`3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`]
 1. `com.nerdvision:example`  -> [`2.0.1`, `2.0.2`, `2.0.4`, `2.1.0`, `2.2.0`]
 1. `com.netsensia.rivalchess:rivalchess-engine`  -> [`10.0.0`, `10.0.3`, `10.0.4`]
@@ -1374,9 +1375,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.objectweb.asm.util
 
-1. `com.github.luxlang:lux-jvm`  -> [`0.6.0`, `0.6.1`]
+1. `com.github.luxlang:lux-jvm`  -> [`0.6.0`, `0.6.1`, `0.6.2`]
 1. `com.github.luxlang:lux-python`  -> [`0.6.0`]
-1. `com.github.luxlang:lux-ruby`  -> [`0.6.0`]
+1. `com.github.luxlang:lux-ruby`  -> [`0.6.0`, `0.6.1`, `0.6.2`]
 1. `com.github.pxav.kelp:core`  -> [`0.0.5`]
 1. `com.rookout:rook`  -> [`0.1.65`, `0.1.66`, `0.1.67`, `0.1.68`, `0.1.69`, `0.1.70`, `0.1.71`, `0.1.72`, `0.1.73`, `0.1.74`, `0.1.75`, `0.1.76`, `0.1.77`, `0.1.78`, `0.1.79`, `0.1.80`, `0.1.81`, `0.1.82`, `0.1.83`, `0.1.84`, `0.1.85`, `0.1.86`, `0.1.87`, `0.1.88`, `0.1.89`, `0.1.90`, `0.1.91`, `0.1.92`, `0.1.93`, `0.1.94`, `0.1.95`, `0.1.96`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.107`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`, `0.1.122`, `0.1.123`, `0.1.124`, `0.1.125`, `0.1.126`, `0.1.127`, `0.1.128`, `0.1.129`, `0.1.130`, `0.1.132`, `0.1.133`, `0.1.134`, `0.1.135`, `0.1.136`, `0.1.137`, `0.1.138`, `0.1.139`, `0.1.140`, `0.1.141`, `0.1.142`, `0.1.143`, `0.1.144`, `0.1.145`, `0.1.146`, `0.1.147`, `0.1.148`, `0.1.149`, `0.1.150`, `0.1.151`, `0.1.152`, `0.1.153`, `0.1.154`, `0.1.155`, `0.1.156`, `0.1.157`, `0.1.158`, `0.1.159`, `0.1.160`, `0.1.161`, `0.1.162`, `0.1.163`, `0.1.164`, `0.1.165`, `0.1.166`, `0.1.167`, `0.1.168`, `0.1.169`, `0.1.170`, `0.1.171`, `0.1.172`, `0.1.173`, `0.1.174`, `0.1.175`, `0.1.176`, `0.1.177`, `0.1.178`, `0.1.179`, `0.1.180`, `0.1.181`, `0.1.182`, `0.1.183`, `0.1.184`, `0.1.185`, `0.1.186`, `0.1.187`, `0.1.188`, `0.1.189`, `0.1.190`, `0.1.191`, `0.1.192`, `0.1.193`, `0.1.194`, `0.1.195`, `0.1.196`, `0.1.197`, `0.1.198`, `0.1.199`, `0.1.200`, `0.1.201`, `0.1.202`, `0.1.203`]
 1. `io.btrace:btrace-client`  -> [`2.2.0`]
@@ -2206,7 +2207,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.gitee.pyqone:autest`  -> [`2.1.0`, `2.1.1`]
 1. `com.iceolive:selenium-script`  -> [`0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`]
 1. `io.github.multicatch:cucumber-audit-standalone`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
-1. `org.seleniumhq.selenium:selenium-java` 🧩 -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-rc-1`, `4.0.0-rc-2`]
+1. `org.seleniumhq.selenium:selenium-java` 🧩 -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-rc-1`, `4.0.0-rc-2`, `4.0.0-rc-3`]
 
 ## aopalliance
 
@@ -2624,7 +2625,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.tukaani.xz
 
-1. `com.anatawa12.jarInJar:jar-in-jar-creator`  -> [`1.0.0`, `1.0.1`]
+1. `com.anatawa12.jarInJar:jar-in-jar-creator`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `io.kestra.plugin:plugin-compress`  -> [`0.2.0`, `0.2.1`]
 1. `org.tukaani:xz` 🧩 -> [`1.9`]
 
