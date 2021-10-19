@@ -161,8 +161,8 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.0.0-alpha.12 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:58.3.0 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2021.6.0.5 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common:58.3.1 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common-api:2021.6.0.6 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.0.4 -> com.synopsys.integration.hub-imageinspector-lib
@@ -906,6 +906,8 @@ org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
 org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Beta1 -> org.hibernate.orm.enhance-maven-plugin
 org.hibernate.orm:hibernate-community-dialects:6.0.0.Beta1 -> org.hibernate.orm.community-dialects
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
+org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-core:6.0.7.Final -> -
+org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-jberet:6.0.7.Final -> -
 org.hibernate:hibernate-gradle-plugin:5.4.9.Final -> org.hibernate.orm.gradle-plugin
 org.immutables:criteria-rxjava:2.8.0-CriteriaRc0 -> org.immutables.criteria-rxjava
 org.incode.estatio:estatio-canonical:2.0.0-M1 -> -
