@@ -76,6 +76,10 @@ com.blazebit:blaze-persistence-jpa-criteria-jpa-2-compatibility-jar:1.6.3 -> -
 com.blazebit:blaze-persistence-website:1.6.3 -> -
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
+com.codeborne:selenide-core:6.0.1 -> com.codeborne.selenide-core
+com.codeborne:selenide-junit4:6.0.1 -> com.codeborne.selenide-junit4
+com.codeborne:selenide-proxy:6.0.1 -> com.codeborne.selenide-proxy
+com.codeborne:selenide-testng:6.0.1 -> com.codeborne.selenide-testng
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -172,7 +176,7 @@ com.synopsys.integration:blackduck-common-api:2021.6.0.7 -> com.synopsys.integra
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.0.4 -> com.synopsys.integration.hub-imageinspector-lib
-com.synopsys.integration:int-jira-common:3.0.2 -> com.synopsys.integration.int-jira-common
+com.synopsys.integration:int-jira-common:3.0.3 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:22.1.7 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:25.3.1 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
@@ -1697,7 +1701,7 @@ org.neo4j:neo4j-rewriting-3.5:3.5.29 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.pharmgkb:vcf-parser:0.2.3 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
-org.selenide:selenide-selenoid:1.2.0 -> org.selenide.selenide-selenoid
+org.selenide:selenide-selenoid:2.0.1 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.simplejavamail:outlook-message-parser:1.7.12 -> outlook-message-parser
 org.spockframework:spock-groovy2-compat:2.0-groovy-2.5 -> org.spockframework.groovy2-compat
