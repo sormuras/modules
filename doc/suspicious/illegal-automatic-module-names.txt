@@ -1704,7 +1704,7 @@ org.pharmgkb:vcf-parser:0.2.3 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:2.0.1 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
-org.simplejavamail:outlook-message-parser:1.7.12 -> outlook-message-parser
+org.simplejavamail:outlook-message-parser:1.7.13 -> outlook-message-parser
 org.spockframework:spock-groovy2-compat:2.1-M2-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
