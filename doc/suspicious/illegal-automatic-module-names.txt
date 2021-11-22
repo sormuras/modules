@@ -218,8 +218,8 @@ io.easybest:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-core:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-processor:2.0.1.RELEASE -> -
 io.github.clightning4j:jrpclightning:0.2.2 -> 'io.clightning4j.jrpclightning'
-io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.12-RELEASE -> jt.808.server.spring.boot.stater
-io.github.hylexus.jt:jt-808-server-support:1.0.12-RELEASE -> jt.808.server.support
+io.github.hylexus.jt:jt-808-server-spring-boot-stater:1.0.13-RELEASE -> jt.808.server.spring.boot.stater
+io.github.hylexus.jt:jt-808-server-support:1.0.13-RELEASE -> jt.808.server.support
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.pdvrieze.xmlutil:serialization-jvm:0.84.0-RC1 -> xmlutil-serialization_woodstoxTest
 io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1 -> io.github.resilience4j.spring-cloud-common
