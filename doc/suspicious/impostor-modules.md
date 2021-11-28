@@ -6,10 +6,10 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `org.apache.logging.log4j` x157
 1. `com.fasterxml.jackson.databind` x88
-1. `java.xml.bind` x65
+1. `java.xml.bind` x67
 1. `org.bouncycastle.provider` x65
 1. `net.bytebuddy` x64
-1. `com.google.gson` x62
+1. `com.google.gson` x63
 1. `kotlin.stdlib.jdk8` x62
 1. `com.fasterxml.jackson.core` x61
 1. `org.objectweb.asm` x56
@@ -290,7 +290,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## java.xml.bind
 
-For example, at least 65 artifacts on Maven Central claim to be the module `java.xml.bind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 67 artifacts on Maven Central claim to be the module `java.xml.bind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires java.xml.bind;`.
 
 1. `cloud.testload:jmeter.pack-listener`  -> [`1.6`, `1.7`, `1.8`, `1.9`, `1.9.1`, `1.9.2`, `1.9.3`, `2.0`, `2.01`, `2.03`, `2.06`, `2.07`]
@@ -308,6 +308,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.elibracha:openapi-diff`  -> [`2.2.5`, `2.2.8`, `2.2.10`, `2.2.11`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.5`, `2.3.6`]
 1. `com.github.kopilov.rcallerservice:rcallerservice`  -> [`1.1.0`]
 1. `com.github.robozonky.distribution:robozonky-distribution-installer-4.6.0-cr-1`  -> [`4.6.0-cr-1`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.0`]
 1. `com.growin:flipper_2.12`  -> [`0.3`]
 1. `com.guicedee.services:jakarta.xml.bind-api`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.hurence.logisland:logisland-engine-spark_2_3`  -> [`1.4.0`]
@@ -502,7 +504,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 62 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 63 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:sparkling-water-package_2.11`  -> [`3.32.1.6-1-2.4`, `3.32.1.7-1-2.4`, `3.34.0.1-1-2.4`, `3.34.0.3-1-2.4`, `3.34.0.4-1-2.4`]
@@ -536,6 +538,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.smartcar.sdk:java-sdk`  -> [`3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`]
 1. `com.vertica.jdbc:vertica-jdbc`  -> [`11.0.0-0`, `11.0.1-0`]
 1. `dev.auth3.identity:admin-sdk`  -> [`1.0.0`]
+1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`]
@@ -1001,7 +1004,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.wizzie:normalizer-service`  -> [`0.6.1.1`, `0.6.1.2`]
 1. `nl.basjes.parse.useragent:yauaa-commandline`  -> [`5.14`]
 1. `org.eclipse.jetty:jetty-runner`  -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`]
-1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`]
+1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`]
 1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`]
 1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.45`, `1.50`, `1.52`]
 
@@ -2260,6 +2263,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jre11:commons-text`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:commons-text`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
+## org.apache.poi.ooxml
+
+1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`]
+1. `com.github.zuinnote:hiveserde`  -> [`1.6.0`]
+1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`]
+
 ## org.apache.poi.poi
 
 1. `ch.exense.step.library:step-library-kw-excel`  -> [`1.0.7`, `1.0.8`, `2021.08.18-ID174e3d1`]
@@ -2687,12 +2697,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:commons-logging`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `no.ssb.vtl:java-vtl-interpreter`  -> [`0.1.0`]
 1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`]
-
-## org.apache.poi.ooxml
-
-1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`]
-1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`]
 
 ## org.apache.poi.ooxml.schemas
 
