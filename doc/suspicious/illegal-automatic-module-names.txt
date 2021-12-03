@@ -915,8 +915,8 @@ org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-import-tool:3.6.2 -> org.neo4j.tooling.import
 org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
-org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Beta1 -> org.hibernate.orm.enhance-maven-plugin
-org.hibernate.orm:hibernate-community-dialects:6.0.0.Beta1 -> org.hibernate.orm.community-dialects
+org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.Beta2 -> org.hibernate.orm.enhance-maven-plugin
+org.hibernate.orm:hibernate-community-dialects:6.0.0.Beta2 -> org.hibernate.orm.community-dialects
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-core:6.0.7.Final -> -
 org.hibernate.search:hibernate-search-mapper-orm-batch-jsr352-jberet:6.0.7.Final -> -
@@ -1850,6 +1850,6 @@ pro.projo:projo-template-annotation:1.3.1 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.3.1 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.3.1 -> pro.projo.projo-template-generation
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.9.3-alpha -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.7.2-alpha -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.9.4-beta -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.7.3-beta -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
