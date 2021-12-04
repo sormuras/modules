@@ -5,7 +5,7 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `org.apache.logging.log4j` x157
-1. `com.fasterxml.jackson.databind` x89
+1. `com.fasterxml.jackson.databind` x90
 1. `java.xml.bind` x67
 1. `org.bouncycastle.provider` x65
 1. `com.google.gson` x64
@@ -196,7 +196,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 89 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 90 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -245,6 +245,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.leonard:onebusaway-gtfs-merge-cli`  -> [`1.3.103`]
 1. `io.leonard:onebusaway-gtfs-transformer-cli`  -> [`1.3.103`]
 1. `io.microconfig:osdf`  -> [`1.1.2`]
+1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.9.0-alpha`]
 1. `io.sealights.on-premise.agents.android:android-agent-footprints`  -> [`1.0.22`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.33`, `1.0.34`]
 1. `io.sealights.on-premise.agents.plugin:sealights-gradle-plugin`  -> [`2.1.526`, `2.1.531`, `2.1.539`, `3.0.559`, `3.0.564`, `3.0.567`, `3.0.568`, `3.0.570`, `3.0.572`, `3.0.583`, `3.0.603`, `3.0.607`, `3.0.608`, `3.0.610`, `3.0.613`, `3.0.614`, `3.1.627`, `3.1.628`, `3.1.631`, `3.1.633`, `3.1.639`, `3.1.649`, `3.1.653`, `3.1.654`, `3.1.657`]
 1. `io.snice.networking:networking-examples`  -> [`0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`]
@@ -283,7 +284,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.neo4j:neo4j-jdbc-driver`  -> [`3.5.1`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.odpi.egeria:subject-area-fvt`  -> [`1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `2.0`]
 1. `org.openidentityplatform.commons.json-schema:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`]
-1. `org.projectnessie:nessie-content-generator`  -> [`0.14.0`, `0.15.0`, `0.15.1`]
+1. `org.projectnessie:nessie-content-generator`  -> [`0.14.0`, `0.15.0`, `0.15.1`, `0.16.0`]
 1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.26.0-02`, `3.26.0-04`, `3.26.1-02`, `3.27.0-03`, `3.28.0-01`, `3.28.1-01`, `3.29.0-02`, `3.29.1-01`, `3.29.2-02`, `3.30.0-01`, `3.30.1-01`, `3.31.0-01`, `3.31.1-01`, `3.32.0-03`, `3.33.0-01`, `3.33.1-01`, `3.34.0-01`, `3.34.1-01`, `3.35.0-02`, `3.36.0-01`, `3.37.0-01`]
 1. `org.wiremock:wiremock-webhooks-extension`  -> [`2.32.0`]
 1. `tech.b180.cordaptor:cordaptor-bundle-rest-embedded`  -> [`0.1.0`]
@@ -848,7 +849,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ibm.cloud:code-engine-examples`  -> [`0.3.3`]
 1. `com.ibm.cloud:examples`  -> [`0.0.4`, `0.0.5`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.30`, `0.0.31`, `0.0.32`, `0.0.33`, `1.0.0`, `1.0.1`]
 1. `com.ibm.cloud:is-examples`  -> [`0.6.2`, `0.7.0`, `0.8.0`, `0.8.1`]
-1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`, `0.18.4`, `0.18.5`, `0.18.6`, `0.18.7`, `0.18.8`, `0.18.10`, `0.18.11`, `0.18.12`, `0.18.14`, `0.18.15`, `0.19.0`, `0.19.1`, `0.19.2`, `0.20.0`, `0.20.1`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`, `0.22.2`, `0.22.3`, `0.22.4`]
+1. `com.ibm.cloud:platform-services-examples`  -> [`0.17.10`, `0.17.11`, `0.17.12`, `0.17.13`, `0.17.14`, `0.17.15`, `0.17.16`, `0.17.17`, `0.18.0`, `0.18.1`, `0.18.4`, `0.18.5`, `0.18.6`, `0.18.7`, `0.18.8`, `0.18.10`, `0.18.11`, `0.18.12`, `0.18.14`, `0.18.15`, `0.19.0`, `0.19.1`, `0.19.2`, `0.20.0`, `0.20.1`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`, `0.22.2`, `0.22.3`, `0.22.4`, `0.22.5`]
 1. `com.incognia:incognia-api-client`  -> [`1.1.0`]
 1. `com.intuit.hooks:maven-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
 1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.5`]
@@ -1263,7 +1264,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.sitoolkit.wt:sit-wt-app`  -> [`3.0.0-alpha.2`, `3.0.0-beta.1`, `3.0.0-beta.2`, `3.0.0-beta.3`, `3.0.0`]
 1. `io.tesbo:Tesbo-Web`  -> [`0.0.6`]
 1. `org.seleniumhq.selenium:selenium-api`  -> [`3.14.0`, `3.141.0`, `3.141.5`, `3.141.59`, `4.0.0-alpha-1`, `4.0.0-alpha-2`]
-1. `ru.sbtqa.tag.pagefactory:page-factory-core`  -> [`10.0.0`, `10.1.1`, `10.1.2`, `10.1.3`, `11.0.0`, `11.0.1`, `11.1.0`, `11.1.1`, `11.2.0`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`, `14.0.0`, `14.1.0`, `14.2.0`, `14.3.1`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.7.1`, `14.8.0`, `14.8.1`, `14.9.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.0`, `15.2.0`, `15.2.2`, `15.2.3`, `15.3.0`, `15.3.1`, `15.4.0`, `15.4.3`, `15.4.8`, `15.5.0`, `15.6.0`, `15.7.2`, `15.8.0`, `15.9.1`, `15.9.2`, `15.9.3`, `15.10.0`, `15.11.0`, `15.12.0`, `15.13.3`, `15.14.1`, `15.14.2`, `15.14.4`, `15.15.0`, `15.15.3`, `15.16.1`, `15.17.1`, `15.18.0`, `15.19.0`, `15.19.1`, `16.0.0`, `16.1.0`, `16.1.1`, `16.1.2`, `16.1.3`, `16.3.0`, `16.4.0`]
+1. `ru.sbtqa.tag.pagefactory:page-factory-core`  -> [`10.0.0`, `10.1.1`, `10.1.2`, `10.1.3`, `11.0.0`, `11.0.1`, `11.1.0`, `11.1.1`, `11.2.0`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`, `14.0.0`, `14.1.0`, `14.2.0`, `14.3.1`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.7.1`, `14.8.0`, `14.8.1`, `14.9.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.0`, `15.2.0`, `15.2.2`, `15.2.3`, `15.3.0`, `15.3.1`, `15.4.0`, `15.4.3`, `15.4.8`, `15.5.0`, `15.6.0`, `15.7.2`, `15.8.0`, `15.9.1`, `15.9.2`, `15.9.3`, `15.10.0`, `15.11.0`, `15.12.0`, `15.13.3`, `15.14.1`, `15.14.2`, `15.14.4`, `15.15.0`, `15.15.3`, `15.16.1`, `15.17.1`, `15.18.0`, `15.19.0`, `15.19.1`, `16.0.0`, `16.1.0`, `16.1.1`, `16.1.2`, `16.1.3`, `16.3.0`, `16.4.0`, `16.4.1`]
 
 ## com.fasterxml.jackson.jaxrs.json
 
@@ -1407,7 +1408,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.29.2`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.9`, `1.35.0`, `1.36.0`, `1.37.0`]
@@ -2398,7 +2399,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.github.benmanes.caffeine
 
-1. `com.github.ben-manes.caffeine:caffeine` 🧩 -> [`3.0.2`, `3.0.3`, `3.0.4`]
+1. `com.github.ben-manes.caffeine:caffeine` 🧩 -> [`3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`]
 1. `org.atlanmod.commons:commons-core`  -> [`1.1.0`]
 1. `org.atlanmod.commons:commons-testing`  -> [`1.1.0`]
 
