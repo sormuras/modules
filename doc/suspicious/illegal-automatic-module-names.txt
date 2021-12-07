@@ -285,7 +285,6 @@ net.java.truevfs:truevfs-profile-default_2.12:0.12.2 -> net.java.truevfs.profile
 net.java.truevfs:truevfs-profile-default_2.13:0.12.2 -> net.java.truevfs.profile.default
 net.serenity-bdd:serenity-emailer:2.1.0 -> serenity-emailer
 net.serenity-bdd:serenity-machinereadable-reports:2.1.1 -> serenity-machinereadable-reports
-net.serenity-bdd:serenity-navigator-report:2.3.13 -> serenity-navigator-report
 net.serenity-bdd:serenity-test-utils:2.3.13 -> serenity-test-utils
 net.xyzsd.fluent:fluent-base:0.70 -> net.xyzsd.fluent.fluent-base
 net.xyzsd.fluent:fluent-functions-cldr:0.70 -> net.xyzsd.fluent.fluent-functions-cldr
