@@ -189,9 +189,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`1.0.0`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`]
 1. `top.populus:bees`  -> [`1.0`]
 1. `uk.gov.nca.graph:mapper`  -> [`1.0`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.0`, `4.5.1`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`]
-1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.0`, `4.5.1`, `4.5.2`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`, `4.5.2`]
+1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`, `4.5.2`]
 1. `za.co.absa.hyperdrive:hyperdrive-release`  -> [`3.2.2`, `3.3.0`, `4.0.0`, `4.1.0`]
 
 ## com.fasterxml.jackson.databind
@@ -383,8 +383,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.elibracha:openapi-diff`  -> [`2.2.5`, `2.2.8`, `2.2.10`, `2.2.11`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.5`, `2.3.6`]
 1. `com.github.kopilov.rcallerservice:rcallerservice`  -> [`1.1.0`]
 1. `com.github.robozonky.distribution:robozonky-distribution-installer-4.6.0-cr-1`  -> [`4.6.0-cr-1`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.0`, `1.6.1`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.0`, `1.6.1`]
 1. `com.growin:flipper_2.12`  -> [`0.3`]
 1. `com.guicedee.services:jakarta.xml.bind-api`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.hurence.logisland:logisland-engine-spark_2_3`  -> [`1.4.0`]
@@ -411,8 +411,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `javax.xml.bind:jaxb-api`  -> [`2.4.0-b180830.0359`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.5`, `2.10.6`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.5`, `2.10.6`, `2.10.7`]
-1. `org.apache.druid.extensions.contrib:aliyun-oss-extensions`  -> [`0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`]
-1. `org.apache.druid:druid-benchmarks`  -> [`0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`]
+1. `org.apache.druid.extensions.contrib:aliyun-oss-extensions`  -> [`0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`]
+1. `org.apache.druid:druid-benchmarks`  -> [`0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`]
 1. `org.apache.flink:flink-s3-fs-hadoop`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`, `1.13.0`, `1.13.1`, `1.13.2`, `1.14.0`]
 1. `org.apache.flink:flink-s3-fs-presto`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`, `1.13.0`, `1.13.1`, `1.13.2`, `1.14.0`]
 1. `org.apache.heron:heron-api`  -> [`0.20.3-incubating`, `0.20.4-incubating`]
@@ -541,7 +541,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.newrelic.telemetry:telemetry-core`  -> [`0.6.0`, `0.6.1`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`]
 1. `com.newrelic:jfr-daemon`  -> [`0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `1.5.0`, `1.6.0`]
 1. `com.oneandone:go-maven-poller`  -> [`1.3.7`]
-1. `com.salesforce.cantor:cantor-server`  -> [`0.3.16`, `0.3.17`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.4`, `0.4.6`, `0.4.7`, `0.4.8`, `0.4.27`]
+1. `com.salesforce.cantor:cantor-server`  -> [`0.3.16`, `0.3.17`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.4`, `0.4.6`, `0.4.7`, `0.4.8`, `0.4.27`, `0.4.28`]
 1. `com.scalar-labs:scalardl-java-client-sdk`  -> [`2.0.9`, `2.1.0`, `2.1.1`, `2.2.0`]
 1. `com.smartcar.sdk:java-sdk`  -> [`3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`]
 1. `com.vertica.jdbc:vertica-jdbc`  -> [`11.0.0-0`, `11.0.1-0`]
@@ -561,7 +561,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentelemetry.javaagent:opentelemetry-javaagent-exporter-otlp`  -> [`0.12.0`, `0.12.1`, `0.13.0`, `0.13.1`, `0.14.0`]
 1. `io.opentracing.contrib:opentelemetry-bridge`  -> [`0.4.0`]
 1. `io.shiftleft:ghidra`  -> [`9.2_PUBLIC_20201113`, `10.0_PUBLIC_20210621`]
-1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`]
+1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`, `2.3.1`]
 1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`]
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
 1. `org.apache.beam:beam-vendor-grpc-1_26_0`  -> [`0.1`]
@@ -576,8 +576,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonarsource.sonarqube:sonar-plugin-api`  -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`, `8.7.1.42226`, `8.8.0.42792`, `8.9.0.43852`, `8.9.1.44547`, `9.0.0.45539`, `9.0.1.46107`, `9.1.0.47736`, `9.2.0.49796`, `9.2.0.49834`, `9.2.1.49989`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
 1. `xyz.deftu.coffeecord:Coffeecord`  -> [`1.0.0-alpha.1`]
-1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`]
-1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`]
+1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
+1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `xyz.tozymc.api:config-api`  -> [`1.0-BETA`]
 
 ## org.bouncycastle.provider
@@ -1423,9 +1423,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.29.2`, `1.30.0`, `1.30.1`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.9`, `1.35.0`, `1.36.0`, `1.37.0`, `1.38.0`, `1.38.1`]
-1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.9`, `1.10`, `1.19.0`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.21.6`, `1.21.7`]
+1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.9`, `1.10`, `1.19.0`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.21.6`, `1.21.7`, `1.22.0`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`, `1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.29.1`]
-1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`]
+1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`, `1.21.0`]
 
 ## kotlin.reflect
 
@@ -2281,7 +2281,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.poi.ooxml
 
-1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`]
+1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`]
 1. `com.github.zuinnote:hiveserde`  -> [`1.6.0`]
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`]
@@ -2704,15 +2704,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## net.tascalate.instrument.emitter
 
-1. `net.tascalate.instrument:net.tascalate.instrument.emitter11`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
-1. `net.tascalate.instrument:net.tascalate.instrument.emitter9` 🧩 -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
-1. `net.tascalate.instrument:net.tascalate.instrument.emitter`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
+1. `net.tascalate.instrument:net.tascalate.instrument.emitter11`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
+1. `net.tascalate.instrument:net.tascalate.instrument.emitter9` 🧩 -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
+1. `net.tascalate.instrument:net.tascalate.instrument.emitter`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
 
 ## net.tascalate.instrument.examples.app
 
-1. `net.tascalate.instrument:net.tascalate.instrument.examples.app9modular`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
-1. `net.tascalate.instrument:net.tascalate.instrument.examples.app9simple`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
-1. `net.tascalate.instrument:net.tascalate.instrument.examples.load9` 🧩 -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
+1. `net.tascalate.instrument:net.tascalate.instrument.examples.app9modular`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
+1. `net.tascalate.instrument:net.tascalate.instrument.examples.app9simple`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
+1. `net.tascalate.instrument:net.tascalate.instrument.examples.load9` 🧩 -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`]
 
 ## org.apache.commons.logging
 

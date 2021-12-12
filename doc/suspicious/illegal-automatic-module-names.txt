@@ -898,6 +898,7 @@ org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:11.0.42 -> org.eclipse.scout
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:11.0.42 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:11.0.42 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:4.9 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
 org.graphfoundation.ongdb.community:bolt-it:3.6.2 -> org.neo4j.community.bolt-it
@@ -1715,6 +1716,7 @@ org.pharmgkb:vcf-parser:0.2.3 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:2.1.0 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
+org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:outlook-message-parser:1.7.13 -> outlook-message-parser
 org.spockframework:spock-groovy2-compat:2.1-M2-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
