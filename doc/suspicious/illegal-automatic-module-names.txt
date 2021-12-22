@@ -148,7 +148,7 @@ com.helger:en16931-cii2ubl:1.4.5 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
-com.imsweb:staging-algorithm-eod-public:2.1.0 -> com.imsweb.staging.eod.public
+com.imsweb:staging-algorithm-eod-public:2.1.1 -> com.imsweb.staging.eod.public
 com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.2 -> -
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
@@ -207,10 +207,10 @@ de.saxsys:mvvmfx-validation:1.8.0 -> de.saxsys.mvvmfx-validation
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.automatiko.addons:automatiko-user-tasks-email-addon:0.10.0 -> io.automatiko.addons.user-tasks.email
-io.automatiko.addons:automatiko-user-tasks-management-addon:0.10.0 -> io.automatiko.addons.user-tasks.management
-io.automatiko.extras:automatiko-gcp-pubsub-sink:0.10.0 -> -
-io.automatiko.quarkus:automatiko-quarkus-integration-test:0.10.0 -> -
+io.automatiko.addons:automatiko-user-tasks-email-addon:0.11.0 -> io.automatiko.addons.user-tasks.email
+io.automatiko.addons:automatiko-user-tasks-management-addon:0.11.0 -> io.automatiko.addons.user-tasks.management
+io.automatiko.extras:automatiko-gcp-pubsub-sink:0.11.0 -> -
+io.automatiko.quarkus:automatiko-quarkus-integration-test:0.11.0 -> -
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
