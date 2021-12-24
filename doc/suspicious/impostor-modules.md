@@ -4,12 +4,12 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x164
+1. `org.apache.logging.log4j` x165
 1. `com.fasterxml.jackson.databind` x93
 1. `com.fasterxml.jackson.core` x71
 1. `com.google.gson` x69
+1. `kotlin.stdlib.jdk8` x68
 1. `java.xml.bind` x67
-1. `kotlin.stdlib.jdk8` x67
 1. `org.bouncycastle.provider` x66
 1. `net.bytebuddy` x65
 1. `info.picocli` x56
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 164 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 165 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -59,7 +59,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.pellierd:pddl4j`  -> [`3.7.2`, `3.7.3`, `3.8`, `3.8.1`, `3.8.2`, `3.8.3`]
 1. `com.github.quickstart-nt-996:data-generator-hive`  -> [`0.0.2-RELEASE`]
 1. `com.github.skapral.poetryclub:poetryclub-app`  -> [`0.0.0`, `0.0.1`]
-1. `com.github.transbankdevelopers:transbank-sdk-pos-java`  -> [`2.0.0`]
+1. `com.github.transbankdevelopers:transbank-sdk-pos-java`  -> [`2.0.0`, `3.0.0`]
 1. `com.github.vzakharchenko:radius-plugin`  -> [`0.1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`, `1.2.0`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`, `1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`, `1.3.14`]
 1. `com.github.xincao9:jsonrpc-benchmark`  -> [`1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`]
 1. `com.github.xincao9:jsonrpc-ui`  -> [`1.2.5`]
@@ -74,6 +74,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ibm.ta.sdk:ta-sdk-sample`  -> [`0.5.2`, `0.5.2-1`, `0.5.2-2`, `0.5.3`, `0.5.4`, `0.5.5`, `0.6.0`, `0.6.1`]
 1. `com.jpaulmorrison:javafbp-websockets`  -> [`1.2.7`, `1.3.0`]
 1. `com.khubla.olmreader:olmreader`  -> [`1.8.0`]
+1. `com.labs64.netlicensing:netlicensing-client-demo`  -> [`2.9.2`]
 1. `com.macasaet.fernet:fernet-aws-secrets-manager-rotator`  -> [`1.5.0`]
 1. `com.microsoft.azure:azure-cosmos-cassandra-uploader`  -> [`1.0.9`, `1.0.10`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`]
 1. `com.navercorp.pinpoint:pinpoint-tools`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`]
@@ -362,8 +363,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jena:jena-fuseki-server`  -> [`4.3.0`, `4.3.1`, `4.3.2`]
 1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.3.0`, `4.3.1`, `4.3.2`]
 1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`2.8.1`, `2.9.0`, `2.9.1`]
-1. `org.apache.tika:tika-eval-app`  -> [`2.2.0`]
-1. `org.apache.tika:tika-server-client`  -> [`2.2.0`]
+1. `org.apache.tika:tika-eval-app`  -> [`2.2.0`, `2.2.1`]
+1. `org.apache.tika:tika-server-client`  -> [`2.2.0`, `2.2.1`]
 1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`]
 1. `org.fcrepo:fcrepo-upgrade-utils`  -> [`6.1.0`]
 1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.2.0`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`, `8.0.0`, `8.0.1`, `8.0.2`, `8.0.3`, `8.1.0`, `8.2.0`, `8.2.1`, `9.0.0`, `9.0.1`, `9.1.0`, `9.1.1`, `9.2.0`, `9.2.1`]
@@ -419,9 +420,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.auth3.identity:admin-sdk`  -> [`1.0.0`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
-1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`]
-1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`]
-1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`]
+1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
+1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
+1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
 1. `io.github.scalapb-json:protoc-lint-shaded_2.12`  -> [`0.3.0`, `0.4.0`, `0.5.0`]
 1. `io.github.tzfun.jvmm:jvmm-server`  -> [`1.0.0`]
@@ -451,6 +452,80 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `xyz.tozymc.api:config-api`  -> [`1.0-BETA`]
+
+## kotlin.stdlib.jdk8
+
+For example, at least 68 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
+
+1. `ca.aqtech:mctreesearch4j`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4-dev`]
+1. `ch.zizka.csvcruncher:csv-cruncher`  -> [`1.31.0`, `2.1.0`, `2.2.0`, `2.3.1`, `2.3.6`]
+1. `cn.j4ger:firewatch`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
+1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`]
+1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
+1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.2.1`, `1.3.0`, `1.4.0`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`]
+1. `com.felipebz.zpa:sonar-zpa-plugin`  -> [`3.0.0`, `3.1.0`]
+1. `com.felipebz.zpa:zpa-toolkit`  -> [`3.0.0`, `3.1.0`]
+1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
+1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
+1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`, `21.06.1`, `21.07.0`, `21.07.1`, `21.07.2`, `21.08.0`, `21.08.1`, `21.09.0`, `21.11.0`]
+1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
+1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
+1. `com.github.shynixn.packet:packet-api`  -> [`1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
+1. `com.ibm.cloud:is-examples`  -> [`0.4.3`, `0.5.0`]
+1. `com.impossibl.pgjdbc-ng.tools:udt-gen-all`  -> [`0.8.9`]
+1. `com.incognia:incognia-api-client`  -> [`1.0.0`]
+1. `com.intuit.hooks:compiler-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
+1. `com.intuit.hooks:maven-plugin`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.11.1`]
+1. `com.ivianuu.injekt:injekt-gradle-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
+1. `com.jakewharton.mosaic:compose-compiler`  -> [`0.1.0`]
+1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.6`]
+1. `com.mparticle:smartype-generator`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`]
+1. `com.notkamui.libs:keval`  -> [`0.7.1`]
+1. `com.orange.ccmd:hurl`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
+1. `com.orange.ccmd:hurlfmt`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
+1. `com.squareup.sqldelight:gradle-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`]
+1. `com.yandex.android:appmetrica-build-plugin`  -> [`0.3.0`]
+1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`, `1.0.4-RC6`, `1.0.4-RC7`, `1.0.4`]
+1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`, `1.0.4-RC8`, `1.0.4`]
+1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.44`]
+1. `de.quantummaid.tutorials.basic-tutorial:step5`  -> [`1.0.44`]
+1. `dev.zacsweers.ticktock:ticktock-compiler`  -> [`0.2.0`, `0.2.1`, `1.0.0-2020d`, `1.1.0-2020f`, `1.2.0-2021e`]
+1. `io.github.baharmc:bedrock-edition`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.baharmc:java-edition`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.baharmc:network-common`  -> [`1.0`, `1.1`, `1.2`]
+1. `io.github.g0dkar:qrcode-kotlin`  -> [`1.0.2`]
+1. `io.github.portlek:patty`  -> [`1.1`]
+1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`]
+1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
+1. `io.github.shiruka:conf-common`  -> [`1.1`]
+1. `io.github.shiruka:conf-json`  -> [`1.1`]
+1. `io.github.shiruka:conf-yaml`  -> [`1.1`]
+1. `io.github.shiruka:network`  -> [`1.3`]
+1. `io.github.virusbear.trace:trace-ktor-client`  -> [`1.0.4`]
+1. `io.github.virusbear.trace:trace-ktor-server`  -> [`1.0.4`]
+1. `io.github.xhstormr.text-masker:cli`  -> [`1.0.0`, `1.1.0`]
+1. `io.outfoxx.sunday:cli`  -> [`1.1.0-alpha.4`, `1.1.0-alpha.5`, `1.1.0-alpha.6`, `1.1.0-alpha.7`, `1.1.0-alpha.8`, `1.1.0-alpha.9`]
+1. `io.tatum:tatum-java`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
+1. `io.teamif:comcigan-lib`  -> [`1.0`]
+1. `me.him188:kotlin-dynamic-delegation-compiler-embeddable`  -> [`0.1.0-160.1`]
+1. `me.him188:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`2.0.0-160.1`, `2.0.0-160.3`]
+1. `net.corda.kotlin:kotlin-stdlib-jdk8-osgi`  -> [`1.4.21`]
+1. `net.lz1998:pbbot-spring-boot-starter`  -> [`0.0.2`, `0.0.3`]
+1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`, `1.10.6`, `1.10.6-1530`, `1.10.6-1530.2`]
+1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.95`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`]
+1. `org.jetbrains.dokka:dokka-cli`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
+1. `org.jetbrains.dokka:kotlin-analysis-compiler`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
+1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
+1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`, `1.5.0`, `1.5.10`, `1.5.20-M1`, `1.5.20-RC`, `1.5.20`, `1.5.21`, `1.5.30-M1`, `1.5.30-RC`, `1.5.30`, `1.5.31`, `1.6.0-M1`, `1.6.0-RC`, `1.6.0-RC2`, `1.6.0`, `1.6.10-RC`, `1.6.10`]
+1. `org.jetbrains.lets-plot:lets-plot-batik`  -> [`2.2.1-rc1`, `2.2.1`]
+1. `org.jetbrains.lets-plot:lets-plot-common`  -> [`2.2.1-rc1`, `2.2.1`]
+1. `org.jetbrains.lets-plot:lets-plot-gis`  -> [`2.0.3-rc1`, `2.0.3-rc2`, `2.0.3`, `2.0.4`, `2.0.5-rc1`, `2.1.0-rc1`, `2.1.0`, `2.2.0-rc1`, `2.2.0-rc2`, `2.2.0-rc3`, `2.2.0`, `2.2.1-rc1`, `2.2.1`]
+1. `org.jetbrains.lets-plot:lets-plot-jfx`  -> [`2.2.1-rc1`, `2.2.1`]
+1. `org.junit.platform:junit-platform-console-standalone`  -> [`1.8.0-M1`]
+1. `org.multi-os-engine:moe-gradle`  -> [`1.8.0`, `1.8.1`, `1.8.2`]
+1. `org.sonarsource.kotlin:sonar-kotlin-plugin`  -> [`2.0.0.29`, `2.0.1.110`, `2.1.0.344`, `2.2.0.499`, `2.3.0.609`, `2.4.0.703`, `2.5.0.754`, `2.6.0.862`, `2.7.0.948`, `2.8.0.1093`]
+1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 
 ## java.xml.bind
 
@@ -524,79 +599,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `pl.allegro.tech.graphql:extended-audit-instrumentation`  -> [`1.0.0`]
 1. `pl.decerto.hyperon.persistence:codegen-gradle-plugin`  -> [`0.1.45`, `0.1.51`, `6.0.0`]
 1. `pl.owlsy:einvoice-peppol-bis`  -> [`0.0.1`]
-
-## kotlin.stdlib.jdk8
-
-For example, at least 67 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
-
-1. `ca.aqtech:mctreesearch4j`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4-dev`]
-1. `ch.zizka.csvcruncher:csv-cruncher`  -> [`1.31.0`, `2.1.0`, `2.2.0`, `2.3.1`, `2.3.6`]
-1. `cn.j4ger:firewatch`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`]
-1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
-1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.2.1`, `1.3.0`, `1.4.0`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`]
-1. `com.felipebz.zpa:sonar-zpa-plugin`  -> [`3.0.0`, `3.1.0`]
-1. `com.felipebz.zpa:zpa-toolkit`  -> [`3.0.0`, `3.1.0`]
-1. `com.github.bun133:flyframe`  -> [`1.0`, `1.0.1`, `1.0.2`]
-1. `com.github.bun133:flylib-module`  -> [`1.0.0`]
-1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`, `21.06.1`, `21.07.0`, `21.07.1`, `21.07.2`, `21.08.0`, `21.08.1`, `21.09.0`, `21.11.0`]
-1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
-1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
-1. `com.github.shynixn.packet:packet-api`  -> [`1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
-1. `com.ibm.cloud:is-examples`  -> [`0.4.3`, `0.5.0`]
-1. `com.impossibl.pgjdbc-ng.tools:udt-gen-all`  -> [`0.8.9`]
-1. `com.incognia:incognia-api-client`  -> [`1.0.0`]
-1. `com.intuit.hooks:compiler-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
-1. `com.intuit.hooks:maven-plugin`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.11.1`]
-1. `com.ivianuu.injekt:injekt-gradle-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
-1. `com.jakewharton.mosaic:compose-compiler`  -> [`0.1.0`]
-1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.6`]
-1. `com.mparticle:smartype-generator`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`]
-1. `com.notkamui.libs:keval`  -> [`0.7.1`]
-1. `com.orange.ccmd:hurl`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
-1. `com.orange.ccmd:hurlfmt`  -> [`1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`]
-1. `com.squareup.sqldelight:gradle-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`]
-1. `com.yandex.android:appmetrica-build-plugin`  -> [`0.3.0`]
-1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`, `1.0.4-RC6`, `1.0.4-RC7`, `1.0.4`]
-1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`, `1.0.4-RC8`, `1.0.4`]
-1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.44`]
-1. `de.quantummaid.tutorials.basic-tutorial:step5`  -> [`1.0.44`]
-1. `dev.zacsweers.ticktock:ticktock-compiler`  -> [`0.2.0`, `0.2.1`, `1.0.0-2020d`, `1.1.0-2020f`, `1.2.0-2021e`]
-1. `io.github.baharmc:bedrock-edition`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.baharmc:java-edition`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.baharmc:network-common`  -> [`1.0`, `1.1`, `1.2`]
-1. `io.github.g0dkar:qrcode-kotlin`  -> [`1.0.2`]
-1. `io.github.portlek:patty`  -> [`1.1`]
-1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`]
-1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
-1. `io.github.shiruka:conf-common`  -> [`1.1`]
-1. `io.github.shiruka:conf-json`  -> [`1.1`]
-1. `io.github.shiruka:conf-yaml`  -> [`1.1`]
-1. `io.github.shiruka:network`  -> [`1.3`]
-1. `io.github.virusbear.trace:trace-ktor-client`  -> [`1.0.4`]
-1. `io.github.virusbear.trace:trace-ktor-server`  -> [`1.0.4`]
-1. `io.github.xhstormr.text-masker:cli`  -> [`1.0.0`, `1.1.0`]
-1. `io.outfoxx.sunday:cli`  -> [`1.1.0-alpha.4`, `1.1.0-alpha.5`, `1.1.0-alpha.6`, `1.1.0-alpha.7`, `1.1.0-alpha.8`, `1.1.0-alpha.9`]
-1. `io.tatum:tatum-java`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
-1. `io.teamif:comcigan-lib`  -> [`1.0`]
-1. `me.him188:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`2.0.0-160.1`, `2.0.0-160.3`]
-1. `net.corda.kotlin:kotlin-stdlib-jdk8-osgi`  -> [`1.4.21`]
-1. `net.lz1998:pbbot-spring-boot-starter`  -> [`0.0.2`, `0.0.3`]
-1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`, `1.10.6`, `1.10.6-1530`, `1.10.6-1530.2`]
-1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.95`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`]
-1. `org.jetbrains.dokka:dokka-cli`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
-1. `org.jetbrains.dokka:kotlin-analysis-compiler`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
-1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`]
-1. `org.jetbrains.kotlin:kotlin-stdlib-jdk8` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`, `1.5.0`, `1.5.10`, `1.5.20-M1`, `1.5.20-RC`, `1.5.20`, `1.5.21`, `1.5.30-M1`, `1.5.30-RC`, `1.5.30`, `1.5.31`, `1.6.0-M1`, `1.6.0-RC`, `1.6.0-RC2`, `1.6.0`, `1.6.10-RC`, `1.6.10`]
-1. `org.jetbrains.lets-plot:lets-plot-batik`  -> [`2.2.1-rc1`, `2.2.1`]
-1. `org.jetbrains.lets-plot:lets-plot-common`  -> [`2.2.1-rc1`, `2.2.1`]
-1. `org.jetbrains.lets-plot:lets-plot-gis`  -> [`2.0.3-rc1`, `2.0.3-rc2`, `2.0.3`, `2.0.4`, `2.0.5-rc1`, `2.1.0-rc1`, `2.1.0`, `2.2.0-rc1`, `2.2.0-rc2`, `2.2.0-rc3`, `2.2.0`, `2.2.1-rc1`, `2.2.1`]
-1. `org.jetbrains.lets-plot:lets-plot-jfx`  -> [`2.2.1-rc1`, `2.2.1`]
-1. `org.junit.platform:junit-platform-console-standalone`  -> [`1.8.0-M1`]
-1. `org.multi-os-engine:moe-gradle`  -> [`1.8.0`, `1.8.1`, `1.8.2`]
-1. `org.sonarsource.kotlin:sonar-kotlin-plugin`  -> [`2.0.0.29`, `2.0.1.110`, `2.1.0.344`, `2.2.0.499`, `2.3.0.609`, `2.4.0.703`, `2.5.0.754`, `2.6.0.862`, `2.7.0.948`, `2.8.0.1093`]
-1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 
 ## org.bouncycastle.provider
 
@@ -796,9 +798,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jboss.gm:cli`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.8`, `1.9`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`7.57.0.Final`, `7.58.0.Beta1`, `7.58.0.Final`, `7.59.0.Beta1`, `7.59.0.Final`, `7.60.0.Final`, `8.13.0.Beta`, `8.14.0.Beta`, `8.14.1.Beta`]
 1. `org.monarchinitiative.phenol:phenol-cli`  -> [`1.6.3`]
-1. `org.pgpainless:pgpainless-cli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`]
+1. `org.pgpainless:pgpainless-cli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`]
 1. `org.pgpainless:pgpainless-sop`  -> [`0.2.0-alpha5`, `0.2.0-alpha6`, `0.2.0-alpha7`, `0.2.0-alpha8`, `0.2.0-alpha9`, `0.2.0-alpha10`, `0.2.0-alpha11`, `0.2.0-alpha12`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
-1. `org.pgpainless:sop-java-picocli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`]
+1. `org.pgpainless:sop-java-picocli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`]
 1. `org.primefaces:primefaces-cli`  -> [`11.0.0-RC1`, `11.0.0-RC2`, `11.0.0`]
 1. `technology.dice.open:dice-where-downloader`  -> [`1.2.9`]
 1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.9`, `0.6.10`]
@@ -1293,8 +1295,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.emc.ecs:object-client-bundle`  -> [`3.3.2`]
 1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`]
 1. `com.guicedee.services:jackson-jaxrs-json-provider`  -> [`0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.telenav.kivakit:kivakit-examples-lambda`  -> [`1.2.0`]
-1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`]
+1. `com.telenav.kivakit:kivakit-examples-lambda`  -> [`1.2.0`, `1.2.1`]
+1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`]
 1. `io.kestra:kestra`  -> [`0.2.6`, `0.2.7`, `0.2.8`]
 1. `io.liftwizard:liftwizard-example`  -> [`0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`]
 1. `io.nflow:nflow-perf-test`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`, `7.3.1`]
@@ -1439,7 +1441,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`]
 1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`]
-1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`]
+1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`]
 1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`]
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`]
@@ -1448,7 +1450,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.29.2`, `1.30.0`, `1.30.1`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.9`, `1.35.0`, `1.36.0`, `1.37.0`, `1.38.0`, `1.38.1`]
@@ -1680,7 +1682,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.bouncycastle.mail
 
-1. `org.apache.tika:tika-app`  -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`, `2.0.0-ALPHA`, `2.0.0-BETA`, `2.0.0`, `2.1.0`, `2.2.0`]
+1. `org.apache.tika:tika-app`  -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`, `2.0.0-ALPHA`, `2.0.0-BETA`, `2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`]
 1. `org.apache.tika:tika-server`  -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`]
 1. `org.bouncycastle:bcjmail-jdk15on` 🧩 -> [`1.69`, `1.70`]
 1. `org.bouncycastle:bcmail-fips`  -> [`1.0.2`, `1.0.3`]
