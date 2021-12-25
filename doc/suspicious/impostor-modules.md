@@ -4,8 +4,8 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x165
-1. `com.fasterxml.jackson.databind` x93
+1. `org.apache.logging.log4j` x166
+1. `com.fasterxml.jackson.databind` x94
 1. `com.fasterxml.jackson.core` x71
 1. `com.google.gson` x69
 1. `kotlin.stdlib.jdk8` x68
@@ -33,11 +33,12 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 165 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 166 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
 1. `cn.net.mugui:spring`  -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`, `1.15`, `1.16`, `1.17`, `1.18`]
+1. `com.alertavert:jwt-opa`  -> [`0.6.4.4`]
 1. `com.alibaba.lindorm:lindorm-search-shaded-test-framework`  -> [`8.9.1`]
 1. `com.alibaba.ververica:flink-connector-test-util`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.2.0`, `1.3.0`, `1.4.0`]
 1. `com.alibaba.ververica:ververica-connector-elasticsearch`  -> [`1.13-vvr-4.0.7`]
@@ -87,7 +88,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.sagframe:sqltoy-quickvo`  -> [`4.9.9`, `4.9.13`, `4.10.0`, `4.10.1`, `4.10.8`, `4.10.9`, `4.11.0`, `4.11.1`, `4.11.5`, `4.11.7`, `4.11.8`, `4.11.9`]
 1. `com.snowflake:snowflake-kafka-connector`  -> [`1.1.0`]
 1. `com.spotify.ffwd:ffwd-agent`  -> [`0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.6`]
-1. `com.theartos:artos`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5-beta-1`, `0.0.5-beta-2`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13-beta-1`, `0.0.13-beta-2`, `0.0.13`, `0.0.14-beta-1`]
+1. `com.theartos:artos`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5-beta-1`, `0.0.5-beta-2`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13-beta-1`, `0.0.13-beta-2`, `0.0.13`, `0.0.14-beta-1`, `0.0.15`]
 1. `com.ververica:flink-connector-test-util`  -> [`2.0.0`, `2.0.1`, `2.0.2`]
 1. `com.weblyzard.sparql:streaming-client`  -> [`0.0.7.2`]
 1. `com.weicoder.extend:core-extend`  -> [`3.3.2`, `3.3.3`, `3.3.4`]
@@ -153,8 +154,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.20.0`]
 1. `org.apache.flink:statefun-ridesharing-example-simulator`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.0.0`]
-1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`]
-1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`]
+1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
+1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`, `1.2.0`]
 1. `org.apache.jena:jena-fuseki-fulljar`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
 1. `org.apache.jena:jena-fuseki-geosparql`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
@@ -204,13 +205,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 93 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 94 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
 1. `cn.com.analysys:javasdk`  -> [`4.1.0-all`, `4.1.3-all`]
 1. `co.navdeep:kafkaer`  -> [`1.4`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `com.amazon.opendistroforelasticsearch.client:opendistro-sql-jdbc`  -> [`1.13.0.0`]
+1. `com.azure:azure-security-keyvault-jca`  -> [`2.4.0`]
 1. `com.daml:ledger-api-bench-tool`  -> [`1.14.0-snapshot.20210608.7123.0.3cb8d5c2`, `1.14.0-snapshot.20210615.7124.0.d1b54ff0`, `1.14.0-snapshot.20210615.7169.0.adeba206`, `1.15.0-snapshot.20210615.7169.0.adeba206`, `1.15.0-snapshot.20210623.7217.0.5b73813d`]
 1. `com.daml:ledger-api-test-tool`  -> [`1.4.0-snapshot.20200729.4851.0.224ab362`, `1.6.0-snapshot.20200915.5208.0.09014dc6`, `1.6.0-snapshot.20200922.5258.0.cd4a06db`, `1.6.0-snapshot.20200930.5312.0.b9a1905d`, `1.7.0-snapshot.20201006.5358.0.0c1cadcf`, `1.7.0-snapshot.20201012.5405.0.af92198d`, `1.7.0-snapshot.20201013.5418.0.bda13392`, `1.7.0-snapshot.20201020.5481.0.03a03957`, `1.7.0-snapshot.20201023.5508.0.9dec6689`, `1.7.0-snapshot.20201027.5530.0.bdbf8977`, `1.7.0-snapshot.20201103.5565.0.e75d42dd`, `1.7.0-snapshot.20201103.5565.1.e75d42dd`, `1.8.0-snapshot.20201110.5615.0.b35c9fcb`, `1.8.0-snapshot.20201117.5661.0.76fae40c`, `1.8.0-snapshot.20201124.5709.0.dabd55d0`, `1.8.0-snapshot.20201201.5776.0.4b91f2a6`, `1.8.0-snapshot.20201208.5840.0.38455e8c`, `1.8.0-snapshot.20201214.5841.0.a8ae8e4a`, `1.8.0`, `1.9.0-snapshot.20201215.5907.0.a6ed34c5`, `1.9.0-snapshot.20210106.5986.0.c6995a9c`, `1.9.0-snapshot.20210111.6034.0.7855b023`, `1.9.0-snapshot.20210112.6040.0.7171cb38`, `1.9.0-snapshot.20210113.6060.0.9ed787cb`, `1.9.0-snapshot.20210119.6062.0.5b3663a5`, `1.9.0`, `1.10.0-snapshot.20210120.6106.0.58ef725a`, `1.10.0-snapshot.20210125.6143.0.550aa48f`, `1.10.0-snapshot.20210201.6207.0.7cf1914d`, `1.10.0-snapshot.20210202.6218.0.c0573678`, `1.10.0-snapshot.20210208.6257.0.61feb5bf`, `1.10.0-snapshot.20210209.6265.0.19bf4031`, `1.11.0-snapshot.20210212.6300.0.ad161d7f`, `1.11.0-snapshot.20210217.6338.0.ba6ba901`, `1.11.0-snapshot.20210224.6385.0.dba114a2`, `1.11.0-snapshot.20210225.6390.0.0617fbde`, `1.11.0-snapshot.20210303.6421.0.145ddaa8`, `1.11.0-snapshot.20210304.6422.0.d3d5042a`, `1.11.0`, `1.12.0-snapshot.20210309.6463.0.f7abca91`, `1.12.0-snapshot.20210311.6483.0.5cb857d9`, `1.12.0-snapshot.20210311.6490.0.8e25227c`, `1.12.0-snapshot.20210312.6493.0.9a7e2465`, `1.12.0-snapshot.20210312.6498.0.707c86aa`, `1.12.0-snapshot.20210316.6523.0.b382fc45`, `1.12.0-snapshot.20210317.6528.0.493e2154`, `1.12.0-snapshot.20210323.6567.0.90c5ce70`, `1.12.0-snapshot.20210330.6619.0.007b8674`, `1.12.0-snapshot.20210330.6622.0.eef158d6`, `1.12.0-snapshot.20210331.6626.0.29a68134`, `1.12.0-snapshot.20210331.6634.0.b98a3881`, `1.12.0-snapshot.20210331.6640.0.4b807899`, `1.12.0-snapshot.20210406.6646.0.631db446`, `1.12.0`, `1.13.0-snapshot.20210413.6706.0.2dc09ba2`, `1.13.0-snapshot.20210419.6730.0.8c3a8c04`, `1.13.0-snapshot.20210426.6770.0.ca66061b`, `1.13.0-snapshot.20210503.6809.0.ca012c3b`, `1.13.0-snapshot.20210504.6833.0.9ae787d0`, `1.13.0`, `1.14.0-snapshot.20210511.6892.0.ca9e89b3`, `1.14.0-snapshot.20210518.6953.0.a6c7b86a`, `1.14.0-snapshot.20210526.7024.0.aedb9a82`, `1.14.0-snapshot.20210601.7081.0.7d716e6d`, `1.14.0-snapshot.20210602.7086.0.f36f556b`, `1.14.0-snapshot.20210608.7123.0.3cb8d5c2`, `1.14.0-snapshot.20210615.7124.0.d1b54ff0`, `1.14.0-snapshot.20210615.7169.0.adeba206`, `1.15.0-snapshot.20210615.7169.0.adeba206`, `1.15.0-snapshot.20210623.7217.0.5b73813d`]
 1. `com.datastax.oss.simulacron:simulacron-standalone`  -> [`0.11.0`]
@@ -547,8 +549,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.elibracha:openapi-diff`  -> [`2.2.5`, `2.2.8`, `2.2.10`, `2.2.11`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.5`, `2.3.6`]
 1. `com.github.kopilov.rcallerservice:rcallerservice`  -> [`1.1.0`]
 1. `com.github.robozonky.distribution:robozonky-distribution-installer-4.6.0-cr-1`  -> [`4.6.0-cr-1`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.0`, `1.6.1`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.0`, `1.6.1`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.0`, `1.6.1`, `1.6.2`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.0`, `1.6.1`, `1.6.2`]
 1. `com.growin:flipper_2.12`  -> [`0.3`]
 1. `com.guicedee.services:jakarta.xml.bind-api`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.hurence.logisland:logisland-engine-spark_2_3`  -> [`1.4.0`]
@@ -1381,6 +1383,23 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.whitesource:wss-unified-agent-main`  -> [`19.7.3`]
 1. `pl.allegro.tech.build:axion-release-plugin`  -> [`1.13.0`, `1.13.1`, `1.13.2`, `1.13.3`, `1.13.4`, `1.13.5`, `1.13.6`]
 
+## com.fasterxml.jackson.datatype.jsr310
+
+For example, at least 11 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
+
+1. `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`]
+1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime`  -> [`0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.networknt:eventuate-cdc-polling-server`  -> [`2.0.8`, `2.0.9`]
+1. `com.networknt:eventuate-cdc-server`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
+1. `com.networknt:tram-cdc-mysql-server`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
+1. `com.networknt:tram-cdc-mysql-service`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
+1. `com.networknt:tram-cdc-polling-server`  -> [`2.0.8`, `2.0.9`]
+1. `io.github.marquezproject:marquez-spark`  -> [`0.13.0`, `0.13.1`]
+1. `io.github.shuigedeng:taotao-cloud-starter-file`  -> [`2021.8.1`]
+1. `io.strimzi:crd-generator`  -> [`0.27.0`]
+1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.31.0`, `2.32.0`, `2.33.0`]
+
 ## java.json
 
 For example, at least 11 artifacts on Maven Central claim to be the module `java.json`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -1414,22 +1433,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.rainfall:rainfall-store-server`  -> [`1.5.2`]
 1. `za.co.bbd:jportal2`  -> [`1.5.4`, `1.5.5`, `1.6.0`]
 
-## com.fasterxml.jackson.datatype.jsr310
-
-For example, at least 10 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
-
-1. `com.fasterxml.jackson.datatype:jackson-datatype-jsr310` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`]
-1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-datetime`  -> [`0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.networknt:eventuate-cdc-polling-server`  -> [`2.0.8`, `2.0.9`]
-1. `com.networknt:eventuate-cdc-server`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
-1. `com.networknt:tram-cdc-mysql-server`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
-1. `com.networknt:tram-cdc-mysql-service`  -> [`2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
-1. `com.networknt:tram-cdc-polling-server`  -> [`2.0.8`, `2.0.9`]
-1. `io.github.marquezproject:marquez-spark`  -> [`0.13.0`, `0.13.1`]
-1. `io.github.shuigedeng:taotao-cloud-starter-file`  -> [`2021.8.1`]
-1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.31.0`, `2.32.0`, `2.33.0`]
-
 ## org.jetbrains.annotations
 
 For example, at least 10 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -1440,7 +1443,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.uni-mannheim.informatik.dws.melt:matching-eval-client`  -> [`3.1`, `3.2`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`]
-1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`]
+1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`]
 1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`]
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`]
@@ -2322,7 +2325,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.poi.ooxml
 
-1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`]
+1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `com.github.zuinnote:hiveserde`  -> [`1.6.0`]
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`]
