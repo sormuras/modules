@@ -99,6 +99,7 @@ com.github.bbottema:emailaddress-rfc2822:2.3.0 -> emailaddress-rfc2822
 com.github.bbottema:generic-object-pool:2.0.0 -> generic-object-pool
 com.github.bbottema:java-reflection:4.0.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:2.0.0 -> java-socks-proxy-server
+com.github.bbottema:jetbrains-runtime-annotations:1.0.1 -> jetbrains-runtime-annotations
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
@@ -309,7 +310,7 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.logging.log4j:log4j-liquibase:2.17.0 -> -
+org.apache.logging.log4j:log4j-liquibase:2.17.1 -> -
 org.apache.openjpa:openjpa-kubernetes:3.2.0 -> -SUBMODULES-NEED-TO-OVERRIDE-THIS-
 org.apache.openjpa:openjpa-maven-plugin:3.2.0 -> -SUBMODULES-NEED-TO-OVERRIDE-THIS-
 org.apache.tomee.bom:tomee-microprofile:8.0.8 -> org.apache.tomee.bom.tomee-microprofile
@@ -1722,6 +1723,8 @@ org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:outlook-message-parser:1.7.13 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.0.1 -> smtp-connection-pool
+org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
+org.simplejavamail:utils-mail-smime:2.0.0 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.1-M2-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
