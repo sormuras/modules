@@ -989,7 +989,7 @@ org.jbpm:jbpm-executor-ejb:7.63.0.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.63.0.Final -> -
 org.jbpm:jbpm-xes:7.63.0.Final -> -
-org.jmonkeyengine:jme3-android-native:3.5.0-beta4 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.5.0-beta5 -> jme3.android.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.6.1 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:conversion-workflow:1.14.1.Final -> -
 org.kie.kogito.examples:decisiontable-quarkus-example:1.14.1.Final -> -
