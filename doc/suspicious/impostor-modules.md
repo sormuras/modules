@@ -12,7 +12,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `java.xml.bind` x67
 1. `org.bouncycastle.provider` x66
 1. `net.bytebuddy` x65
-1. `info.picocli` x56
+1. `info.picocli` x60
 1. `org.objectweb.asm` x56
 1. `kotlin.stdlib` x46
 1. `com.fasterxml.jackson.annotation` x43
@@ -748,13 +748,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## info.picocli
 
-For example, at least 56 artifacts on Maven Central claim to be the module `info.picocli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 60 artifacts on Maven Central claim to be the module `info.picocli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires info.picocli;`.
 
 1. `biz.netcentric.security:pickaxe-scans`  -> [`2.4.2`]
 1. `com.aeontronix.enhanced-mule:enhanced-mule-tools-cli`  -> [`1.3.0-alpha1`, `1.3.0-alpha2`, `1.3.0-alpha3`, `1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-beta1`, `1.3.0-beta2`, `1.3.0-beta3`, `1.3.0-beta4`, `1.3.0-beta5`, `1.3.0-beta6`, `1.3.0-beta7`, `1.3.0-beta8`, `1.3.0-beta9`, `1.3.0-beta10`, `1.3.0-beta11`, `1.3.0-beta12`, `1.3.0-beta13`, `1.3.0-beta14`, `1.3.0-beta15`, `1.3.0-beta16`, `1.3.0-beta17`, `1.3.0-beta18`, `1.3.0-beta19`, `1.3.0-beta20`, `1.3.0-beta21`, `1.3.0-beta22`, `2.0.0-alpha1`]
 1. `com.aeontronix.enhancedmule:enhanced-mule-installer-cli`  -> [`1.0.0-beta2`]
 1. `com.appland:appmap-agent`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.6.0`, `1.6.1`, `1.7.0`, `1.8.0`, `1.8.1`]
+1. `com.arcadedb:arcadedb-gremlin`  -> [`21.12.1`]
+1. `com.arcadedb:arcadedb-mongodbw`  -> [`21.12.1`]
+1. `com.arcadedb:arcadedb-postgresw`  -> [`21.12.1`]
+1. `com.arcadedb:arcadedb-redisw`  -> [`21.12.1`]
 1. `com.github.crawler-commons:urlfrontier-client`  -> [`0.1`, `0.2`, `0.3`, `0.4`, `1.0`]
 1. `com.github.ngeor:yak4j-cli`  -> [`0.10.0`]
 1. `com.instaclustr:cassandra-3`  -> [`1.0`]
