@@ -38,7 +38,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
 1. `cn.net.mugui:spring`  -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`, `1.15`, `1.16`, `1.17`, `1.18`]
-1. `com.alertavert:jwt-opa`  -> [`0.6.4.4`]
+1. `com.alertavert:jwt-opa`  -> [`0.6.4.4`, `0.6.4.4-11`]
 1. `com.alibaba.lindorm:lindorm-search-shaded-test-framework`  -> [`8.9.1`]
 1. `com.alibaba.ververica:flink-connector-test-util`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.2.0`, `1.3.0`, `1.4.0`]
 1. `com.alibaba.ververica:ververica-connector-elasticsearch`  -> [`1.13-vvr-4.0.7`]
@@ -2349,7 +2349,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.accenture.testing.bdd:bdd-for-all`  -> [`2.0.0-RC2`, `2.0.0-RC3`]
 1. `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest`  -> [`1.0.46`, `1.0.47`, `1.0.48`, `1.0.49`, `1.0.50`, `1.0.51`, `1.0.78`, `1.0.79`, `1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.0.89`, `1.0.90`, `1.0.91`, `1.0.93`, `1.0.94`, `1.0.95`, `1.0.96`, `1.0.97`, `1.0.98`, `1.0.99`, `1.0.102`, `1.0.103`, `1.0.104`, `1.0.105`, `1.0.106`, `1.0.107`, `1.0.110`, `1.0.111`, `1.0.112`, `1.0.113`, `1.0.114`, `1.0.115`, `1.0.117`, `1.0.119`, `1.0.120`, `1.0.121`, `1.0.125`, `1.0.126`, `1.0.127`]
-1. `org.assertj:assertj-core` 🧩 -> [`3.13.0`, `3.13.1`, `3.13.2`, `3.14.0`, `3.15.0`, `3.16.0`, `3.16.1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.19.0`, `3.20.0`, `3.20.1`, `3.20.2`, `3.21.0`]
+1. `org.assertj:assertj-core` 🧩 -> [`3.13.0`, `3.13.1`, `3.13.2`, `3.14.0`, `3.15.0`, `3.16.0`, `3.16.1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.19.0`, `3.20.0`, `3.20.1`, `3.20.2`, `3.21.0`, `3.22.0`]
 1. `org.robotframework:javafxlibrary`  -> [`0.5.3`, `0.5.4`, `0.5.5`, `0.6.0`, `0.7.0`, `0.7.1`]
 
 ## org.bytedeco.tensorflow.platform
