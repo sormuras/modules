@@ -23,7 +23,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `lombok` x27
 1. `com.zaxxer.hikari` x24
 1. `org.objectweb.asm.commons` x23
-1. `com.fasterxml.jackson.dataformat.yaml` x18
+1. `com.fasterxml.jackson.dataformat.yaml` x19
 1. `java.ws.rs` x15
 1. `com.fasterxml.jackson.datatype.jdk8` x14
 1. `com.fasterxml.jackson.jaxrs.json` x14
@@ -176,7 +176,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bitbucket.bradleysmithllc.etlunit:etlunit-application-assembly`  -> [`4.5.7-eu`, `4.5.8-eu`, `4.5.9-eu`, `4.5.10-eu`, `4.5.11-eu`, `4.5.12-eu`, `4.5.13-eu`, `4.5.14-eu`, `4.5.15-eu`, `4.5.16-eu`, `4.5.17-eu`, `4.5.18-eu`, `4.5.19-eu`, `4.5.20-eu`, `4.5.21-eu`, `4.5.22-eu`, `4.5.23-eu`, `4.5.24-eu`]
 1. `org.du-lab.adap-big:input`  -> [`0.1.0`]
 1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.1.0`, `5.1.1`, `5.3.0`]
-1. `org.filteredpush:event_date_qc`  -> [`2.0.3`]
+1. `org.filteredpush:event_date_qc`  -> [`2.0.3`, `2.0.4`]
 1. `org.finra.herd:herd-downloader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-exporter`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
@@ -1107,7 +1107,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.datastax.oss:pulsar-jms-all`  -> [`1.0.0-ALPHA`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`]
 1. `com.foilen:foilen-infra-plugins-core`  -> [`0.22.0`]
 1. `com.guicedee.services:bouncycastle`  -> [`1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`]
-1. `com.intuit.karate:karate-core`  -> [`1.2.0.RC2`]
+1. `com.intuit.karate:karate-core`  -> [`1.2.0.RC2`, `1.2.0.RC3`]
 1. `com.linecorp.armeria:armeria`  -> [`1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `1.13.1`, `1.13.2`, `1.13.3`, `1.13.4`]
 1. `com.vesoft:nebula-algorithm`  -> [`2.6.0`]
 1. `com.vesoft:nebula-exchange`  -> [`2.6.0`, `2.6.1`]
@@ -1232,7 +1232,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.dataformat.yaml
 
-For example, at least 18 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.yaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 19 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.yaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.dataformat.yaml;`.
 
 1. `ai.h2o:sparkling-water-package_2.11`  -> [`3.32.0.1-2-2.4`, `3.32.0.2-1-2.4`, `3.32.0.3-1-2.4`, `3.32.0.4-1-2.4`, `3.32.0.5-1-2.4`, `3.32.1.1-1-2.4`, `3.32.1.2-1-2.4`, `3.32.1.3-1-2.4`, `3.32.1.4-1-2.4`, `3.32.1.5-1-2.4`]
@@ -1250,6 +1250,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.serpro69:kotlin-faker`  -> [`1.8.0-rc.0`, `1.8.0`, `1.9.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.2.0`, `0.2.1`]
 1. `io.kestra:kestra`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
+1. `io.liftwizard:liftwizard-example`  -> [`0.21.0`]
 1. `org.apache.beam:beam-runners-samza-job-server`  -> [`2.34.0`, `2.35.0`]
 1. `org.apache.beam:beam-runners-spark-3-job-server`  -> [`2.34.0`, `2.35.0`]
 1. `org.apache.beam:beam-runners-spark-job-server`  -> [`2.34.0`, `2.35.0`]
@@ -1450,8 +1451,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.uni-mannheim.informatik.dws.melt:matching-eval-client`  -> [`3.1`, `3.2`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`]
-1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`, `1.1.1`]
-1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`]
+1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`, `1.1.1`, `1.1.2`]
+1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`]
 1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`]
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`]
@@ -1478,6 +1479,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.blazebit:blaze-persistence-integration-hibernate-5.4`  -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`]
 1. `com.blazebit:blaze-persistence-integration-hibernate-5`  -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`]
 1. `com.blazebit:blaze-persistence-integration-hibernate-6.0` 🧩 -> [`1.4.0-Alpha2`, `1.4.0-Alpha3`, `1.4.0-Alpha4`, `1.4.0`, `1.4.1`, `1.5.0-Alpha1`, `1.5.0-Alpha2`, `1.5.0-Alpha3`, `1.5.0-Alpha4`, `1.5.0-Alpha5`, `1.5.0`, `1.5.1`, `1.6.0-Alpha1`, `1.6.0-Alpha2`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`]
+
+## jakarta.activation
+
+1. `com.guicedee.services:jakarta.activation`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.jwebmp.thirdparty:jakarta.activation`  -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.sun.activation:jakarta.activation`  -> [`2.0.0-rc1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`]
+1. `com.typesafe.play:shaded-asynchttpclient`  -> [`2.2.0-M1`]
+1. `jakarta.activation:jakarta.activation-api` 🧩 -> [`2.0.0-rc1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`, `2.1.0-RC1`]
+1. `org.apache.servicemix.specs:org.apache.servicemix.specs.activation-api-2.0.1`  -> [`2.0.1_1`]
+1. `org.apache.sling:org.apache.sling.javax.activation`  -> [`0.2.0`, `0.3.0`]
+1. `org.keycloak:kcinit`  -> [`13.0.0`, `13.0.1`, `14.0.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.1`]
 
 ## kotlin.reflect
 
@@ -1533,16 +1545,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.btrace:btrace-client`  -> [`2.2.0`]
 1. `org.activecomponents.jadex:jadex-editor-bpmn`  -> [`4.0.244`, `4.0.249`, `4.0.250`]
 1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`]
-
-## jakarta.activation
-
-1. `com.guicedee.services:jakarta.activation`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.jwebmp.thirdparty:jakarta.activation`  -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.sun.activation:jakarta.activation`  -> [`2.0.0-rc1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`]
-1. `jakarta.activation:jakarta.activation-api` 🧩 -> [`2.0.0-rc1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`, `2.1.0-RC1`]
-1. `org.apache.servicemix.specs:org.apache.servicemix.specs.activation-api-2.0.1`  -> [`2.0.1_1`]
-1. `org.apache.sling:org.apache.sling.javax.activation`  -> [`0.2.0`, `0.3.0`]
-1. `org.keycloak:kcinit`  -> [`13.0.0`, `13.0.1`, `14.0.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.1`]
 
 ## org.beryx.awt.color
 
@@ -2799,7 +2801,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.codehaus.plexus.languages.java
 
 1. `com.github.jxc454:udpmodels`  -> [`1.0.1`]
-1. `dev.redcoke:mcserverping`  -> [`0.1`, `0.1.1`, `0.1.2`]
+1. `dev.redcoke:mcserverping`  -> [`0.1`, `0.1.1`, `0.1.2`, `0.1.3`]
 1. `org.codehaus.plexus:plexus-java` 🧩 -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`]
 
 ## org.eclipse.jetty.server
