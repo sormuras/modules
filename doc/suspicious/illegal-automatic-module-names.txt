@@ -104,6 +104,7 @@ com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
 com.github.librepdf:pdf-xml:1.2.16 -> com.github.librepdf.pdf-xml
+com.github.pjfanning:excel-streaming-reader:3.4.1 -> com.github.pjfanning.excel-streaming-reader
 com.github.pjfanning:poi-shared-strings:2.4.1 -> com.github.pjfanning.poi-shared-strings
 com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-circe_2.12:2.12.1 -> jsoniter-scala-circe
 com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-circe_2.13:2.12.1 -> jsoniter-scala-circe
@@ -941,7 +942,7 @@ org.jberet:jberet-rest-commons:1.4.1.Final -> org.jberet.jberet-rest-commons
 org.jberet:jberet-schedule-executor:1.4.1.Final -> org.jberet.jberet-schedule-executor
 org.jberet:jberet-schedule-timer:1.4.1.Final -> org.jberet.jberet-schedule-timer
 org.jberet:jberet-se:2.0.3.Final -> org.jberet.jberet-se
-org.jberet:jberet-support:1.4.0.Beta1 -> org.jberet.jberet-support
+org.jberet:jberet-support:1.4.0.Final -> org.jberet.jberet-support
 org.jberet:jberet-vertx-cluster:1.3.0.Final -> org.jberet.jberet-vertx-cluster
 org.jberet:jberet-vertx-rest:1.3.0.Final -> org.jberet.jberet-vertx-rest
 org.jberet:jberet-vertx-shell:1.3.0.Final -> org.jberet.jberet-vertx-shell
@@ -1875,6 +1876,6 @@ pro.projo:projo-template-annotation:1.3.1 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.3.1 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.3.1 -> pro.projo.projo-template-generation
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.10.1-beta -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.11.0-beta -> smithy-aws-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.7.6 -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
