@@ -89,11 +89,11 @@ com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.16.ayg -> com.git
 com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.16.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
 com.github.albfernandez.seam:jboss-seam-flex:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-flex
 com.github.albfernandez:jboss-el:1.1.0 -> com.github.albfernandez.jboss-el
-com.github.albfernandez:jbpm-examples:3.2.16.ayg -> com.github.albfernandez.jbpm-examples
-com.github.albfernandez:jbpm-identity:3.2.16.ayg -> com.github.albfernandez.jbpm-identity
-com.github.albfernandez:jbpm-jpdl:3.2.16.ayg -> com.github.albfernandez.jbpm-jpdl
-com.github.albfernandez:jbpm-simulation:3.2.16.ayg -> com.github.albfernandez.jbpm-simulation
-com.github.albfernandez:jbpm-tomcat:3.2.16.ayg -> com.github.albfernandez.jbpm-tomcat
+com.github.albfernandez:jbpm-examples:3.2.17.ayg -> com.github.albfernandez.jbpm-examples
+com.github.albfernandez:jbpm-identity:3.2.17.ayg -> com.github.albfernandez.jbpm-identity
+com.github.albfernandez:jbpm-jpdl:3.2.17.ayg -> com.github.albfernandez.jbpm-jpdl
+com.github.albfernandez:jbpm-simulation:3.2.17.ayg -> com.github.albfernandez.jbpm-simulation
+com.github.albfernandez:jbpm-tomcat:3.2.17.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:clustered-object-pool:2.0.1 -> clustered-object-pool
 com.github.bbottema:emailaddress-rfc2822:2.3.0 -> emailaddress-rfc2822
 com.github.bbottema:generic-object-pool:2.0.0 -> generic-object-pool
@@ -997,8 +997,8 @@ org.jbpm:jbpm-executor-ejb:7.64.0.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.64.0.Final -> -
 org.jbpm:jbpm-xes:7.64.0.Final -> -
-org.jmonkeyengine:jme3-android-native:3.5.0-beta9 -> jme3.android.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.6.3 -> joinfaces.starter.myfaces-next
+org.jmonkeyengine:jme3-android-native:3.5.0-stable -> jme3.android.native
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.0-m1 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:conversion-workflow:1.16.0.Final -> -
 org.kie.kogito.examples:decisiontable-quarkus-example:1.16.0.Final -> -
 org.kie.kogito.examples:decisiontable-springboot-example:1.16.0.Final -> -
