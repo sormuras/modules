@@ -182,7 +182,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.1.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:60.0.1 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:61.0.0 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2021.8.5 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -306,7 +306,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
-org.apache.geronimo.arthur:integration-test:1.0.3 -> org.apache.geronimo.arthur.integration-test
+org.apache.geronimo.arthur:integration-test:1.0.4 -> org.apache.geronimo.arthur.integration-test
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
 org.apache.isis.core:isis-core-plugins-codegen-bytebuddy:2.0.0-M2 -> org.apache.isis.plugins.codegen-bytebuddy
 org.apache.isis.core:isis-core-plugins-codegen-javassist:2.0.0-M2 -> org.apache.isis.plugins.codegen-javassist
