@@ -83,10 +83,10 @@ com.codeborne:selenide-testng:6.2.1 -> com.codeborne.selenide-testng
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
-com.github.albfernandez.richfaces:richfaces-a4j:4.6.16.ayg -> com.github.albfernandez.richfaces.richfaces-a4j
-com.github.albfernandez.richfaces:richfaces-core:4.6.16.ayg -> com.github.albfernandez.richfaces.richfaces-core
-com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.16.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
-com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.16.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
+com.github.albfernandez.richfaces:richfaces-a4j:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-a4j
+com.github.albfernandez.richfaces:richfaces-core:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-core
+com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
+com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
 com.github.albfernandez.seam:jboss-seam-flex:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-flex
 com.github.albfernandez:jboss-el:1.1.0 -> com.github.albfernandez.jboss-el
 com.github.albfernandez:jbpm-examples:3.2.17.ayg -> com.github.albfernandez.jbpm-examples

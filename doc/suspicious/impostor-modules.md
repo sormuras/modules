@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x169
+1. `org.apache.logging.log4j` x171
 1. `com.fasterxml.jackson.databind` x105
 1. `com.fasterxml.jackson.core` x78
 1. `com.google.gson` x71
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 169 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 171 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -112,6 +112,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.basilapi:basil-server`  -> [`0.8.0`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.0.0-rc1`, `1.0.0`]
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`, `1.3.14`, `1.3.15`, `1.3.16`, `1.3.17`, `1.3.18`]
+1. `io.github.mathieusoysal:codingame-puzzles-stats-history`  -> [`1.0.0`]
 1. `io.github.protobuf-x:protoc-gen-spring-webflux`  -> [`0.2.0`, `0.2.1`]
 1. `io.github.shiruka:api`  -> [`1.8.0`, `1.9.0`]
 1. `io.github.shiruka:common`  -> [`3.2.0`, `3.3.0`, `3.4.0`]
@@ -133,6 +134,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.nosqlbench:virtdata-lib-realer`  -> [`3.12.1`, `3.12.2`, `3.12.17`, `3.12.19`, `3.12.20`, `3.12.21`, `3.12.22`, `3.12.23`, `3.12.24`, `3.12.25`, `3.12.26`, `3.12.27`, `3.12.28`, `3.12.29`, `3.12.30`, `3.12.31`, `3.12.32`, `3.12.34`, `3.12.35`, `3.12.36`, `3.12.37`, `3.12.38`, `3.12.39`, `3.12.41`, `3.12.43`, `3.12.44`, `3.12.45`, `3.12.46`, `3.12.47`, `3.12.48`]
 1. `io.nosqlbench:virtdata-realdata`  -> [`3.12.1`, `3.12.2`, `3.12.17`, `3.12.19`, `3.12.20`, `3.12.21`, `3.12.22`, `3.12.23`, `3.12.24`, `3.12.25`, `3.12.26`, `3.12.27`, `3.12.28`, `3.12.29`, `3.12.30`, `3.12.31`, `3.12.32`, `3.12.34`, `3.12.35`, `3.12.36`, `3.12.37`, `3.12.38`, `3.12.39`, `3.12.41`, `3.12.43`, `3.12.44`, `3.12.45`, `3.12.46`, `3.12.47`, `3.12.48`]
 1. `io.shiftleft:ghidra`  -> [`10.1_PUBLIC_20211210`, `10.1_PUBLIC_20211210a`]
+1. `io.siddhi:siddhi-service`  -> [`5.1.21`]
 1. `io.streamnative.pulsar.handlers:kafka-0-10`  -> [`2.8.0.14`, `2.8.0.15`, `2.8.0.16`, `2.8.1.0`, `2.8.1.1`, `2.8.1.2`, `2.8.1.3`, `2.8.1.4`, `2.8.1.5`, `2.8.1.6`, `2.8.1.7`, `2.8.1.8`, `2.8.1.9`, `2.8.1.10`, `2.8.1.11`, `2.8.1.12`, `2.8.1.13`, `2.8.1.14`, `2.8.1.15`, `2.8.1.16`, `2.8.1.17`, `2.9.0.0-rc-1`, `2.9.0.0-rc-2`, `2.9.0.0-rc-3`, `2.9.0.0-rc-4`, `2.9.0.0-rc-6`]
 1. `io.streamnative.pulsar.handlers:kafka-0-9`  -> [`2.8.1.20`, `2.8.1.21`, `2.9.0.0-rc-3`, `2.9.0.0-rc-4`, `2.9.0.0-rc-6`]
 1. `io.streamnative.pulsar.handlers:kafka-1-0`  -> [`2.8.0.5`, `2.8.0.6`, `2.8.0.8`, `2.8.0.9`, `2.8.0.10`, `2.8.0.11`, `2.8.0.12`, `2.9.0-rc-202108131436`]
@@ -836,7 +838,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jboss.gm:cli`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.8`, `1.9`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.1.1`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`7.57.0.Final`, `7.58.0.Beta1`, `7.58.0.Final`, `7.59.0.Beta1`, `7.59.0.Final`, `7.60.0.Final`, `8.13.0.Beta`, `8.14.0.Beta`, `8.14.1.Beta`, `8.15.0.Beta`]
 1. `org.monarchinitiative.phenol:phenol-cli`  -> [`1.6.3`]
-1. `org.pgpainless:pgpainless-cli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`, `1.0.0-rc9`, `1.0.0`, `1.0.1`]
+1. `org.pgpainless:pgpainless-cli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`, `1.0.0-rc9`, `1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.pgpainless:pgpainless-sop`  -> [`0.2.0-alpha5`, `0.2.0-alpha6`, `0.2.0-alpha7`, `0.2.0-alpha8`, `0.2.0-alpha9`, `0.2.0-alpha10`, `0.2.0-alpha11`, `0.2.0-alpha12`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
 1. `org.pgpainless:sop-java-picocli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`, `1.0.0-rc9`, `1.0.0`, `1.1.0`]
 1. `org.primefaces:primefaces-cli`  -> [`11.0.0-RC1`, `11.0.0-RC2`, `11.0.0`]
@@ -1093,7 +1095,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.5`, `0.40.6`, `0.40.7`, `0.40.8`, `0.40.9`, `0.40.10`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.5`, `0.40.6`, `0.40.7`, `0.40.8`, `0.40.9`, `0.40.10`]
 1. `org.omnifaces.arquillian:glassfish-container-common`  -> [`1.0`]
-1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.0.11`, `2.0.12`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`]
+1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.0.11`, `2.0.12`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 1. `org.wso2.am.choreo.connect:org.wso2.choreo.connect.enforcer`  -> [`1.0.0-m3`, `1.0.0`]
 1. `org.wso2.choreo.connect:org.wso2.choreo.connect.enforcer`  -> [`1.0.0`]
 
