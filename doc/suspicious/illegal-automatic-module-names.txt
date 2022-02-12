@@ -915,7 +915,7 @@ org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.0.beta_5 -> org.ecl
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.0.beta_5 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
-org.functionaljava:functionaljava-java-core:4.9 -> functionaljava.java-core
+org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
 org.graphfoundation.ongdb.community:bolt-it:3.6.2 -> org.neo4j.community.bolt-it
 org.graphfoundation.ongdb.community:community-it:3.6.2 -> org.neo4j.community.community-it
