@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x174
+1. `org.apache.logging.log4j` x175
 1. `com.fasterxml.jackson.databind` x107
 1. `com.fasterxml.jackson.core` x82
 1. `kotlin.stdlib.jdk8` x72
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 174 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 175 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -117,6 +117,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`, `1.3.14`, `1.3.15`, `1.3.16`, `1.3.17`, `1.3.18`]
 1. `io.github.mathieusoysal:codingame-puzzles-stats-history`  -> [`1.0.0`, `1.2.0`]
 1. `io.github.protobuf-x:protoc-gen-spring-webflux`  -> [`0.2.0`, `0.2.1`]
+1. `io.github.rsv-code:lc19`  -> [`1.0.1`, `1.0.2`]
 1. `io.github.shiruka:api`  -> [`1.8.0`, `1.9.0`]
 1. `io.github.shiruka:common`  -> [`3.2.0`, `3.3.0`, `3.4.0`]
 1. `io.github.shiruka:fragment`  -> [`1.6.0`, `1.6.1`]
@@ -1826,6 +1827,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp:javax.inject`  -> [`1.1`]
 1. `io.avaje:javax.inject`  -> [`1.0`]
 
+## net.kyori.examination.string
+
+1. `com.fastasyncworldedit:FastAsyncWorldEdit-Libs-Core`  -> [`2.0.0`, `2.0.1`]
+1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
+1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
+1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`]
+1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`]
+
 ## org.apache.poi.ooxml
 
 1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`]
@@ -2897,12 +2906,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.frogmouth.chronyjava:chrony-java`  -> [`0.6`]
 1. `net.frogmouth.chronyjava:java-chrny-candm` 🧩 -> [`0.8`]
 1. `net.frogmouth.chronyjava:java-chrony-candm`  -> [`0.7`]
-
-## net.kyori.examination.string
-
-1. `com.fastasyncworldedit:FastAsyncWorldEdit-Libs-Core`  -> [`2.0.0`, `2.0.1`]
-1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
-1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
 
 ## net.tascalate.instrument.emitter
 
