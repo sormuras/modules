@@ -13,7 +13,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `java.xml.bind` x69
 1. `net.bytebuddy` x65
 1. `info.picocli` x63
-1. `org.objectweb.asm` x56
+1. `org.objectweb.asm` x57
 1. `kotlin.stdlib` x50
 1. `com.fasterxml.jackson.annotation` x44
 1. `com.fasterxml.jackson.module.jaxb` x39
@@ -117,7 +117,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`, `1.3.14`, `1.3.15`, `1.3.16`, `1.3.17`, `1.3.18`]
 1. `io.github.mathieusoysal:codingame-puzzles-stats-history`  -> [`1.0.0`, `1.2.0`]
 1. `io.github.protobuf-x:protoc-gen-spring-webflux`  -> [`0.2.0`, `0.2.1`]
-1. `io.github.rsv-code:lc19`  -> [`1.0.1`, `1.0.2`]
+1. `io.github.rsv-code:lc19`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
 1. `io.github.shiruka:api`  -> [`1.8.0`, `1.9.0`]
 1. `io.github.shiruka:common`  -> [`3.2.0`, `3.3.0`, `3.4.0`]
 1. `io.github.shiruka:fragment`  -> [`1.6.0`, `1.6.1`]
@@ -861,7 +861,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.objectweb.asm
 
-For example, at least 56 artifacts on Maven Central claim to be the module `org.objectweb.asm`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 57 artifacts on Maven Central claim to be the module `org.objectweb.asm`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.objectweb.asm;`.
 
 1. `cn.cyejing:dsync-dominate`  -> [`0.1.2`, `0.1.3`]
@@ -877,6 +877,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.collinalpert:java2db`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `2.0`, `2.1`, `2.2`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.4`, `2.4.2`, `2.4.3`, `2.5`, `3.0`, `3.1`, `4.0.1`, `4.1`, `4.1.1`, `4.2`, `5.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.2`, `5.2.1`, `5.3.0`, `5.4.0`, `5.5.0`, `5.5.1`, `5.6.0`, `6.0.0`, `6.0.1`, `6.1.0`]
 1. `com.github.collinalpert:lambda2sql`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `2.0`, `2.1`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.2`, `2.2.1`, `2.2.2`, `2.3.0`, `2.4.0`, `2.5.0`]
 1. `com.github.luxlang:lux-python`  -> [`0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`]
+1. `com.github.nawforce:uber-apex-jorje`  -> [`1.0.0`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.1.0`]
 1. `com.github.tomakehurst:wiremock-jre8-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
@@ -1281,7 +1282,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.sagframe:sqltoy-quickvo`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`]
 1. `io.bdeploy:api`  -> [`2.3.0`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `3.0.0`, `3.1.0`, `3.1.1`, `3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
 1. `io.github.quickmsg:smqtt-bootstrap`  -> [`1.1.2`]
-1. `io.github.serpro69:kotlin-faker`  -> [`1.8.0-rc.0`, `1.8.0`, `1.9.0`]
+1. `io.github.serpro69:kotlin-faker`  -> [`1.8.0-rc.0`, `1.8.0`, `1.9.0`, `1.10.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.2.0`, `0.2.1`]
 1. `io.kestra:kestra`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
 1. `io.liftwizard:liftwizard-example`  -> [`0.21.0`, `0.22.0`, `0.23.0`]
@@ -2882,6 +2883,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.europa.ec.eurostat:searoute-jar`  -> [`3.6`]
 1. `io.pcp.agentparfait:parfait-agent`  -> [`1.1.0`, `1.1.1`]
 1. `javax.measure:unit-api`  -> [`2.0-PRD`, `2.1`, `2.1.1`, `2.1.2`, `2.1.3`]
+
+## java.servlet
+
+1. `com.guicedee.services:jakarta.servlet-api`  -> [`1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`, `1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`]
+1. `com.guicedee.services:java.servlet-api`  -> [`1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
+1. `org.apache.felix:org.apache.felix.http.servlet-api`  -> [`1.2.0`]
 
 ## java.transaction
 
