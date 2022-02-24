@@ -233,7 +233,7 @@ io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-core:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-processor:2.0.1.RELEASE -> -
-io.github.c-fraser:authzed4k:0.2.0 -> io.github.c-fraser.authzed4k
+io.github.c-fraser:authzed4k:0.3.0 -> io.github.c-fraser.authzed4k
 io.github.clightning4j:jrpclightning:0.2.2 -> 'io.clightning4j.jrpclightning'
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.0-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:2.0.0-RELEASE -> jt.808.server.support
@@ -311,7 +311,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
-org.apache.geronimo.arthur:integration-test:1.0.4 -> org.apache.geronimo.arthur.integration-test
+org.apache.geronimo.arthur:integration-test:1.0.5 -> org.apache.geronimo.arthur.integration-test
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
 org.apache.isis.core:isis-core-plugins-codegen-bytebuddy:2.0.0-M2 -> org.apache.isis.plugins.codegen-bytebuddy
 org.apache.isis.core:isis-core-plugins-codegen-javassist:2.0.0-M2 -> org.apache.isis.plugins.codegen-javassist
