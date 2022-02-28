@@ -8,13 +8,13 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x108
 1. `com.fasterxml.jackson.core` x85
 1. `com.google.gson` x75
-1. `kotlin.stdlib.jdk8` x72
+1. `kotlin.stdlib.jdk8` x73
 1. `org.bouncycastle.provider` x70
 1. `java.xml.bind` x69
 1. `net.bytebuddy` x65
 1. `info.picocli` x63
 1. `org.objectweb.asm` x57
-1. `kotlin.stdlib` x50
+1. `kotlin.stdlib` x51
 1. `com.fasterxml.jackson.annotation` x44
 1. `com.fasterxml.jackson.module.jaxb` x39
 1. `io.github.classgraph` x38
@@ -168,7 +168,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jena:jena-fuseki-geosparql`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
 1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.0.0`, `4.1.0`, `4.2.0`]
-1. `org.apache.logging.log4j:log4j-api` 🧩 -> [`2.11.1`, `2.11.2`, `2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.14.0`, `2.14.1`, `2.15.0`, `2.16.0`, `2.17.0`, `2.17.1`]
+1. `org.apache.logging.log4j:log4j-api` 🧩 -> [`2.11.1`, `2.11.2`, `2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.14.0`, `2.14.1`, `2.15.0`, `2.16.0`, `2.17.0`, `2.17.1`, `2.17.2`]
 1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`2.4.1`, `2.4.2`, `2.5.0`, `2.5.1`, `2.5.2`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`]
 1. `org.apache.storm:blobstore-migrator`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`]
 1. `org.apache.storm:flux-examples`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`]
@@ -479,7 +479,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentracing.contrib:opentelemetry-bridge`  -> [`0.4.0`]
 1. `io.shiftleft:ghidra`  -> [`9.2_PUBLIC_20201113`, `10.0_PUBLIC_20210621`]
 1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.4.0`]
-1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`]
+1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`, `3.1.0`]
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
 1. `org.apache.beam:beam-vendor-grpc-1_26_0`  -> [`0.1`]
 1. `org.apache.kudu:kudu-backup-tools`  -> [`1.12.0`, `1.13.0`, `1.14.0`, `1.15.0`]
@@ -502,7 +502,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 72 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 73 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `ca.aqtech:mctreesearch4j`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4-dev`]
@@ -536,6 +536,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.protocol180:protocol-aggregator-contracts`  -> [`0.1.1`, `0.1.2`, `0.1.3`, `0.1.4`, `0.1.5`]
 1. `com.squareup.sqldelight:gradle-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`]
 1. `com.yandex.android:appmetrica-build-plugin`  -> [`0.3.0`]
+1. `com.youramaryllis:eventstorming-cli`  -> [`1.0.0`, `1.1.0`]
 1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`, `1.0.4-RC6`, `1.0.4-RC7`, `1.0.4`]
 1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`, `1.0.4-RC8`, `1.0.4`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.44`]
@@ -739,7 +740,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alipay.sdk:alipay-easysdk`  -> [`1.0.0`, `1.0.1`]
 1. `com.criteo.java:garmadon-agent`  -> [`1.0.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`]
 1. `com.exasol:virtual-schema-common-document-files`  -> [`0.2.0`, `1.0.0`]
-1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`]
+1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`]
 1. `com.github.jsimone:webapp-runner`  -> [`9.0.27.1`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.guicedee.services:byte-buddy`  -> [`1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
@@ -853,7 +854,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra:kestra`  -> [`0.2.3`, `0.2.4`, `0.2.5`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.0`, `0.3.1`, `0.3.2`, `0.4.0`]
 1. `io.mongock:mongock-cli-core`  -> [`5.0.20.BETA`]
 1. `io.mongock:mongock-cli-springboot`  -> [`5.0.17.BETA`, `5.0.20.BETA`, `5.0.21.BETA`, `5.0.22.BETA`]
-1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`, `3.1.1925`, `3.1.1932`, `3.1.1955`, `3.1.1956`, `3.1.1968`, `3.1.1993`, `3.1.1995`, `3.1.2024`, `3.1.2056`, `3.1.2065`, `3.1.2066`]
+1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`, `3.1.1925`, `3.1.1932`, `3.1.1955`, `3.1.1956`, `3.1.1968`, `3.1.1993`, `3.1.1995`, `3.1.2024`, `3.1.2056`, `3.1.2065`, `3.1.2066`, `3.1.2070`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.1.0`]
 1. `org.apache.james:webadmin-cli`  -> [`3.6.0`, `3.6.2`]
 1. `org.apache.ozone:ozone-filesystem-shaded`  -> [`1.2.0`, `1.2.1`]
@@ -934,7 +935,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib
 
-For example, at least 50 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 51 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib;`.
 
 1. `cn.alapi:javasdk`  -> [`1.0`, `1.0.1`]
@@ -955,8 +956,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.5`]
 1. `com.networknt:light-proxy`  -> [`2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`]
 1. `com.networknt:light-router`  -> [`2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`]
-1. `com.networknt:oauth-code`  -> [`2.0.31`]
-1. `com.networknt:oauth-token`  -> [`2.0.31`]
+1. `com.networknt:oauth-code`  -> [`2.0.31`, `2.1.0`]
+1. `com.networknt:oauth-key`  -> [`2.1.0`]
+1. `com.networknt:oauth-token`  -> [`2.0.31`, `2.1.0`]
 1. `com.niklasarndt:healthchecksio-java`  -> [`1.0.1`]
 1. `com.niklasarndt:okhttp-mocker`  -> [`1.0.0`]
 1. `com.oneidentity.safeguard:safeguardjava`  -> [`6.11.0.133386`]
@@ -1095,7 +1097,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.datarobot:datarobot-mlops`  -> [`8.0.6`, `8.0.7`]
 1. `com.github.bogie-clj:playground`  -> [`0.1.1`]
 1. `com.hazelcast.jet:hazelcast-jet`  -> [`4.1`, `4.1.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.5.1`, `4.5.2`, `4.5.3`]
-1. `com.networknt:codegen-cli`  -> [`1.6.1`, `1.6.2`, `1.6.4`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`, `2.0.15`, `2.0.16`, `2.0.17`, `2.0.18`, `2.0.19`, `2.0.20`, `2.0.21`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`]
+1. `com.networknt:codegen-cli`  -> [`1.6.1`, `1.6.2`, `1.6.4`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`, `2.0.15`, `2.0.16`, `2.0.17`, `2.0.18`, `2.0.19`, `2.0.20`, `2.0.21`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`, `2.1.0`]
 1. `com.networknt:oauth-key`  -> [`2.0.31`]
 1. `com.teamscale:teamscale-jacoco-agent`  -> [`21.6.0`, `21.6.1`, `21.8.0`, `21.9.0`, `22.0.0`, `22.1.0`, `22.2.0`]
 1. `com.telenav.kivakit:kivakit-service-server`  -> [`0.9.8-beta`, `1.0.0`]
@@ -1596,8 +1598,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 10 artifacts on Maven Central claim to be the module `jakarta.activation`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires jakarta.activation;`.
 
-1. `com.cognite.spark.datasource:cdf-spark-datasource-fat_2.12`  -> [`1.4.55`, `1.4.56`, `1.4.57`, `1.4.58`, `1.4.59`, `1.4.61`, `1.4.62`, `1.4.63`, `1.4.64`, `1.4.66`, `1.4.67`, `2.0.0`]
-1. `com.cognite.spark.datasource:cdf-spark-datasource-fat_2.13`  -> [`1.4.64`, `1.4.66`, `1.4.67`, `2.0.0`]
+1. `com.cognite.spark.datasource:cdf-spark-datasource-fat_2.12`  -> [`1.4.55`, `1.4.56`, `1.4.57`, `1.4.58`, `1.4.59`, `1.4.61`, `1.4.62`, `1.4.63`, `1.4.64`, `1.4.66`, `1.4.67`, `2.0.0`, `2.0.1`]
+1. `com.cognite.spark.datasource:cdf-spark-datasource-fat_2.13`  -> [`1.4.64`, `1.4.66`, `1.4.67`, `2.0.0`, `2.0.1`]
 1. `com.guicedee.services:jakarta.activation`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.thirdparty:jakarta.activation`  -> [`0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.sun.activation:jakarta.activation`  -> [`2.0.0-rc1`, `2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`]
@@ -1680,7 +1682,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ml.karmaconfigs:KarmaAPI-Common`  -> [`1.3.2`]
 1. `ml.karmaconfigs:KarmaAPI-Velocity`  -> [`1.3.2`]
 1. `ml.karmaconfigs:RemoteMessaging`  -> [`1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`]
-1. `org.burningwave:core` 🧩 -> [`11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `12.0.0`, `12.1.0`, `12.1.1`, `12.1.2`, `12.1.3`, `12.1.4`, `12.2.0`, `12.2.1`, `12.2.2`, `12.3.0`, `12.3.1`, `12.4.0`, `12.5.0`, `12.5.1`, `12.5.3`, `12.6.0`, `12.7.0`, `12.8.0`, `12.8.1`, `12.8.2`, `12.9.0`, `12.9.1`, `12.9.2`, `12.9.3`, `12.10.0`, `12.11.0`, `12.11.1`, `12.11.2`, `12.11.3`, `12.11.4`, `12.12.0`, `12.12.1`, `12.12.2`, `12.12.3`, `12.12.4`, `12.12.5`, `12.12.6`, `12.13.0`, `12.13.1`, `12.13.2`, `12.13.3`, `12.13.4`, `12.14.0`, `12.15.0`, `12.15.1`, `12.15.2`, `12.15.3`, `12.15.4`, `12.15.5`, `12.15.6`, `12.15.7`, `12.15.8`, `12.16.0`, `12.16.1`, `12.16.2`, `12.17.0`, `12.18.0`, `12.19.0`, `12.20.0`, `12.20.1`, `12.21.0`, `12.22.0`, `12.23.0`, `12.24.0`, `12.24.1`, `12.24.2`, `12.25.0`, `12.26.1`, `12.26.2`, `12.26.3`, `12.26.4`, `12.27.0`, `12.28.0`, `12.29.1`, `12.29.2`, `12.29.3`, `12.30.0`, `12.31.0`, `12.32.0`, `12.33.0`, `12.34.0`, `12.34.1`, `12.35.0`, `12.36.0`, `12.38.0`, `12.38.2`, `12.38.3`, `12.39.1`, `12.39.2`, `12.39.3`, `12.39.5`, `12.39.6`, `12.39.7`, `12.39.8`, `12.40.0`, `12.40.1`, `12.41.0`, `12.41.1`, `12.41.2`, `12.42.0`, `12.42.1`, `12.43.0`, `12.43.1`, `12.44.0`, `12.45.0`, `12.45.1`, `12.45.2`]
+1. `org.burningwave:core` 🧩 -> [`11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `12.0.0`, `12.1.0`, `12.1.1`, `12.1.2`, `12.1.3`, `12.1.4`, `12.2.0`, `12.2.1`, `12.2.2`, `12.3.0`, `12.3.1`, `12.4.0`, `12.5.0`, `12.5.1`, `12.5.3`, `12.6.0`, `12.7.0`, `12.8.0`, `12.8.1`, `12.8.2`, `12.9.0`, `12.9.1`, `12.9.2`, `12.9.3`, `12.10.0`, `12.11.0`, `12.11.1`, `12.11.2`, `12.11.3`, `12.11.4`, `12.12.0`, `12.12.1`, `12.12.2`, `12.12.3`, `12.12.4`, `12.12.5`, `12.12.6`, `12.13.0`, `12.13.1`, `12.13.2`, `12.13.3`, `12.13.4`, `12.14.0`, `12.15.0`, `12.15.1`, `12.15.2`, `12.15.3`, `12.15.4`, `12.15.5`, `12.15.6`, `12.15.7`, `12.15.8`, `12.16.0`, `12.16.1`, `12.16.2`, `12.17.0`, `12.18.0`, `12.19.0`, `12.20.0`, `12.20.1`, `12.21.0`, `12.22.0`, `12.23.0`, `12.24.0`, `12.24.1`, `12.24.2`, `12.25.0`, `12.26.1`, `12.26.2`, `12.26.3`, `12.26.4`, `12.27.0`, `12.28.0`, `12.29.1`, `12.29.2`, `12.29.3`, `12.30.0`, `12.31.0`, `12.32.0`, `12.33.0`, `12.34.0`, `12.34.1`, `12.35.0`, `12.36.0`, `12.38.0`, `12.38.2`, `12.38.3`, `12.39.1`, `12.39.2`, `12.39.3`, `12.39.5`, `12.39.6`, `12.39.7`, `12.39.8`, `12.40.0`, `12.40.1`, `12.41.0`, `12.41.1`, `12.41.2`, `12.42.0`, `12.42.1`, `12.43.0`, `12.43.1`, `12.44.0`, `12.45.0`, `12.45.1`, `12.45.2`, `12.45.3`, `12.45.4`]
 
 ## org.bytedeco.javacpp
 
