@@ -88,7 +88,6 @@ com.github.albfernandez.richfaces:richfaces-core:4.6.17.ayg -> com.github.albfer
 com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
 com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.17.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
 com.github.albfernandez.seam:jboss-seam-flex:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-flex
-com.github.albfernandez:jboss-el:1.1.0 -> com.github.albfernandez.jboss-el
 com.github.albfernandez:jbpm-examples:3.2.17.ayg -> com.github.albfernandez.jbpm-examples
 com.github.albfernandez:jbpm-identity:3.2.17.ayg -> com.github.albfernandez.jbpm-identity
 com.github.albfernandez:jbpm-jpdl:3.2.17.ayg -> com.github.albfernandez.jbpm-jpdl
@@ -185,7 +184,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.2.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:61.1.0 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:61.2.0 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2022.2.0 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -945,12 +944,12 @@ org.immutables:criteria-rxjava:2.8.0-CriteriaRc0 -> org.immutables.criteria-rxja
 org.incode.estatio:estatio-canonical:2.0.0-M1 -> -
 org.jberet.samples:jberet-samples-common:1.3.0.Final -> org.jberet.samples.jberet-samples-common
 org.jberet:jberet-camel:1.3.0.Final -> org.jberet.jberet-camel
-org.jberet:jberet-core:2.0.3.Final -> org.jberet.jberet-core
+org.jberet:jberet-core:2.0.4.Final -> org.jberet.jberet-core
 org.jberet:jberet-rest-api:1.4.1.Final -> org.jberet.jberet-rest-api
 org.jberet:jberet-rest-commons:1.4.1.Final -> org.jberet.jberet-rest-commons
 org.jberet:jberet-schedule-executor:1.4.1.Final -> org.jberet.jberet-schedule-executor
 org.jberet:jberet-schedule-timer:1.4.1.Final -> org.jberet.jberet-schedule-timer
-org.jberet:jberet-se:2.0.3.Final -> org.jberet.jberet-se
+org.jberet:jberet-se:2.0.4.Final -> org.jberet.jberet-se
 org.jberet:jberet-support:1.4.0.Final -> org.jberet.jberet-support
 org.jberet:jberet-vertx-cluster:1.3.0.Final -> org.jberet.jberet-vertx-cluster
 org.jberet:jberet-vertx-rest:1.3.0.Final -> org.jberet.jberet-vertx-rest
