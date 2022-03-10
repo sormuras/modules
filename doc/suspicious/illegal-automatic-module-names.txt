@@ -932,8 +932,8 @@ org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-import-tool:3.6.2 -> org.neo4j.tooling.import
 org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
-org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.CR1 -> org.hibernate.orm.enhance-maven-plugin
-org.hibernate.orm:hibernate-community-dialects:6.0.0.CR1 -> org.hibernate.orm.community-dialects
+org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.0.CR2 -> org.hibernate.orm.enhance-maven-plugin
+org.hibernate.orm:hibernate-community-dialects:6.0.0.CR2 -> org.hibernate.orm.community-dialects
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
 org.hibernate:hibernate-gradle-plugin:5.4.9.Final -> org.hibernate.orm.gradle-plugin
 org.immutables:criteria-rxjava:2.8.0-CriteriaRc0 -> org.immutables.criteria-rxjava
