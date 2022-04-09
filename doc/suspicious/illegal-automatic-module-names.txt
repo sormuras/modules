@@ -187,7 +187,7 @@ com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.cover
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.1.2 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:3.0.4 -> com.synopsys.integration.int-jira-common
-com.synopsys.integration:integration-bdio:24.0.0 -> com.synopsys.integration.integration-bdio
+com.synopsys.integration:integration-bdio:25.0.0 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:25.3.3 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
 com.synopsys.integration:issuetracker-common:0.0.5 -> com.synopsys.integration.issuetracker-common
@@ -263,7 +263,7 @@ io.netty:netty5-testsuite-osgi:5.0.0.Alpha1 -> -
 io.netty:netty5-testsuite-shading:5.0.0.Alpha1 -> -
 io.netty:netty5-transport-blockhound-tests:5.0.0.Alpha1 -> -
 io.netty:netty5-transport-native-unix-common-tests:5.0.0.Alpha1 -> -
-io.opentelemetry:opentelemetry-sdk-metrics-testing:1.12.0-alpha -> io.opentelemetry.sdk.metrics-testing
+io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
 io.qameta.allure:allure-junit5-assert:2.17.3 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.0 -> io.skullabs.apt.class-generator
 io.skullabs.injector:injector-core:1.5.2 -> io.skullabs.injector.injector-core
