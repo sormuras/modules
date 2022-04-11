@@ -198,7 +198,7 @@ com.synopsys.integration:phone-home-client:5.1.4 -> com.synopsys.integration.pho
 com.synopsys.integration:polaris-common:0.21.0 -> com.synopsys.integration.polaris-common
 com.synopsys.integration:polaris-common-api:0.0.15 -> com.synopsys.integration.polaris-common-api
 com.tfowl.cosmobuzz:cosmobuzz-client-kotlin:1.0.0 -> cosmobuzz-client-kotlin
-com.tfowl.ktor:ktor-jsoup:1.6.4 -> ktor-jsoup
+com.tfowl.ktor:ktor-jsoup:2.0.0 -> ktor-jsoup
 com.tfowl.socketio:socket-io-coroutines:1.0.1 -> socket-io-coroutines
 com.wire:generic-message-proto:1.36.0 -> generic-message-proto
 com.wire:wire-signals-extensions_2.11:1.0.0 -> wire-signals-extensions

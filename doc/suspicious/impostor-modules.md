@@ -642,7 +642,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-connectors-spark-3.0_2.12`  -> [`0.10.1`]
 1. `io.pravega:pravega-connectors-spark-3.1_2.12`  -> [`0.10.1`]
 1. `net.snowflake:snowflake-hive-metastore-connector`  -> [`0.5.0`, `0.5.1`]
-1. `net.snowflake:snowflake-ingest-sdk`  -> [`0.10.5-beta`, `1.0.0-beta`, `1.0.1-beta`]
+1. `net.snowflake:snowflake-ingest-sdk`  -> [`0.10.5-beta`, `1.0.0-beta`, `1.0.1-beta`, `1.0.2-beta`]
 1. `net.snowflake:snowflake-jdbc`  -> [`3.12.1`, `3.12.2`, `3.12.3`, `3.12.4`, `3.12.5`, `3.12.6`, `3.12.7`, `3.12.8`, `3.12.9`, `3.12.10`, `3.12.11`, `3.12.12`, `3.12.13`, `3.12.14`, `3.12.15`, `3.12.16`, `3.12.17`, `3.13.0`, `3.13.1`, `3.13.2`, `3.13.3`, `3.13.4`, `3.13.5`, `3.13.6`, `3.13.7`, `3.13.8`, `3.13.9`, `3.13.10`, `3.13.11`, `3.13.12`, `3.13.13`, `3.13.14`, `3.13.15`, `3.13.16`]
 1. `org.apache.beam:beam-sdks-java-io-snowflake-expansion-service`  -> [`2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`, `2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
 1. `org.apache.directory.server:apacheds-service`  -> [`2.0.0.AM26`]
@@ -1454,7 +1454,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-test-system`  -> [`0.9.0`, `0.9.1`]
 1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
 1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
-1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`]
+1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`, `2.0.43`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.9`, `2.10.9.2`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.8`, `2.10.9.2`]
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`, `2.0.2.Final`]
@@ -1599,11 +1599,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `net.coru:kloadgen`  -> [`4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.apiguardian:apiguardian-api` 🧩 -> [`1.1.0`, `1.1.1`, `1.1.2`]
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`]
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit57`  -> [`2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`]
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit57withvintage`  -> [`2.6.0`, `2.7.0`]
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit58`  -> [`2.6.0`, `2.7.0`]
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit58withvintage`  -> [`2.6.0`, `2.7.0`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit57`  -> [`2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit57withvintage`  -> [`2.6.0`, `2.7.0`, `2.7.1`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit58`  -> [`2.6.0`, `2.7.0`, `2.7.1`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit58withvintage`  -> [`2.6.0`, `2.7.0`, `2.7.1`]
 1. `org.neo4j:neo4j-connector-apache-spark_2.11_common`  -> [`4.0.2`, `4.1.0`]
 1. `org.neo4j:neo4j-connector-apache-spark_2.11`  -> [`4.0.2_for_spark_2.4`, `4.1.0_for_spark_2.4`]
 1. `org.neo4j:neo4j-connector-apache-spark_2.12_common`  -> [`4.0.2`, `4.1.0`]
@@ -3147,7 +3147,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.junit.vintage.engine
 
-1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55`  -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`]
+1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55`  -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`1.7.0`]
 1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`]
 
