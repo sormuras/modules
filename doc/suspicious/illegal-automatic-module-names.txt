@@ -182,7 +182,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.3.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:63.0.0 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:63.0.2 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2022.2.0.2 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -1760,10 +1760,10 @@ org.mongodb.scala:mongo-scala-driver:4.0.0-beta1 -> org.mongodb.scala.mongo-scal
 org.mongodb.scala:mongo-scala-driver_2.11:4.6.0 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb.scala:mongo-scala-driver_2.12:4.6.0 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb.scala:mongo-scala-driver_2.13:4.6.0 -> org.mongodb.scala.mongo-scala-driver
-org.neo4j:neo4j-ast-3.5:3.5.31 -> -
-org.neo4j:neo4j-expressions-3.5:3.5.31 -> -
-org.neo4j:neo4j-parser-3.5:3.5.31 -> -
-org.neo4j:neo4j-rewriting-3.5:3.5.31 -> -
+org.neo4j:neo4j-ast-3.5:3.5.32 -> -
+org.neo4j:neo4j-expressions-3.5:3.5.32 -> -
+org.neo4j:neo4j-parser-3.5:3.5.32 -> -
+org.neo4j:neo4j-rewriting-3.5:3.5.32 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.pharmgkb:vcf-parser:0.2.3 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
