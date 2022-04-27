@@ -159,8 +159,8 @@ com.helger:en16931-cii2ubl:1.4.7 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
-com.imsweb:staging-algorithm-eod-public:2.1.1 -> com.imsweb.staging.eod.public
-com.imsweb:validation-translation:1.0 -> com.imsweb.validation-translation
+com.imsweb:staging-algorithm-eod-public:2.1.2 -> com.imsweb.staging.eod.public
+com.imsweb:validation-translation:1.1 -> com.imsweb.validation-translation
 com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.2 -> -
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
