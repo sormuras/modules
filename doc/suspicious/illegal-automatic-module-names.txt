@@ -148,7 +148,7 @@ com.github.triceo.robozonky:robozonky-integration-zonkoid:4.0.0-beta-5 -> com.gi
 com.github.triceo.robozonky:robozonky-marketplaces:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-marketplaces
 com.github.triceo.robozonky:robozonky-notifications:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-notifications
 com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-strategy-natural
-com.graphql-java:graphql-java-extended-scalars:2022-04-14T11-21-07-f770172 -> graphql-java-extended-scalars
+com.graphql-java:graphql-java-extended-scalars:2022-04-28T01-36-15-1764ea8 -> graphql-java-extended-scalars
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
