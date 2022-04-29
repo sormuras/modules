@@ -152,8 +152,8 @@ com.graphql-java:graphql-java-extended-scalars:2022-04-28T01-36-15-1764ea8 -> gr
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.3.5 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.3.5 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.10.11 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.10.11 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:1.4.7 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -188,8 +188,8 @@ com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.cover
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.1.2 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:3.0.4 -> com.synopsys.integration.int-jira-common
-com.synopsys.integration:integration-bdio:26.0.1 -> com.synopsys.integration.integration-bdio
-com.synopsys.integration:integration-common:25.3.3 -> com.synopsys.integration.integration-common
+com.synopsys.integration:integration-bdio:26.0.3 -> com.synopsys.integration.integration-bdio
+com.synopsys.integration:integration-common:26.0.1 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
 com.synopsys.integration:issuetracker-common:0.0.5 -> com.synopsys.integration.issuetracker-common
 com.synopsys.integration:issuetracker-jira:0.0.12 -> com.synopsys.integration.issuetracker-jira
@@ -236,6 +236,9 @@ io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.2-RELEASE -> jt.808.se
 io.github.hylexus.jt:jt-808-server-support:2.0.2-RELEASE -> jt.808.server.support
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1 -> io.github.resilience4j.spring-cloud-common
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0:1.0.0 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0.0 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.0 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
 io.micrometer:micrometer-registry-new-relic:1.8.5 -> micrometer.registry.new.relic
 io.netty:netty-tcnative:2.0.51.Final -> io.netty.tcnative.openssl.osx-x86_64
