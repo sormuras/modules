@@ -182,7 +182,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.3.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:63.0.2 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:64.0.0 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2022.2.0.2 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -220,10 +220,10 @@ de.saxsys:mvvmfx-validation:1.8.0 -> de.saxsys.mvvmfx-validation
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.automatiko.addons:automatiko-user-tasks-email-addon:0.14.0 -> io.automatiko.addons.user-tasks.email
-io.automatiko.addons:automatiko-user-tasks-management-addon:0.14.0 -> io.automatiko.addons.user-tasks.management
-io.automatiko.extras:automatiko-gcp-pubsub-sink:0.14.0 -> -
-io.automatiko.quarkus:automatiko-quarkus-integration-test:0.14.0 -> -
+io.automatiko.addons:automatiko-user-tasks-email-addon:0.15.0 -> io.automatiko.addons.user-tasks.email
+io.automatiko.addons:automatiko-user-tasks-management-addon:0.15.0 -> io.automatiko.addons.user-tasks.management
+io.automatiko.extras:automatiko-gcp-pubsub-sink:0.15.0 -> -
+io.automatiko.quarkus:automatiko-quarkus-integration-test:0.15.0 -> -
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -241,8 +241,7 @@ io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0
 io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
 io.micrometer:micrometer-registry-new-relic:1.8.5 -> micrometer.registry.new.relic
-io.netty:netty-tcnative:2.0.51.Final -> io.netty.tcnative.openssl.osx-x86_64
-io.netty:netty-tcnative-boringssl-static:2.0.51.Final -> io.netty.tcnative.openssl.osx-x86_64
+io.netty:netty-tcnative:2.0.52.Final -> io.netty.tcnative.openssl.osx-x86_64
 io.netty:netty5-all:5.0.0.Alpha1 -> -
 io.netty:netty5-example:5.0.0.Alpha1 -> -
 io.netty:netty5-microbench:5.0.0.Alpha1 -> -
