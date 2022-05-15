@@ -240,6 +240,7 @@ io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0:1.0.1 ->
 io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit
 io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
+io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.9 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.micrometer:micrometer-registry-new-relic:1.9.0 -> micrometer.registry.new.relic
 io.netty:netty-tcnative:2.0.52.Final -> io.netty.tcnative.openssl.osx-x86_64
 io.netty:netty5-all:5.0.0.Alpha1 -> -
