@@ -5,7 +5,7 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `org.apache.logging.log4j` x190
-1. `com.fasterxml.jackson.databind` x134
+1. `com.fasterxml.jackson.databind` x136
 1. `com.google.gson` x106
 1. `com.fasterxml.jackson.core` x102
 1. `kotlin.stdlib.jdk8` x79
@@ -229,7 +229,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 134 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 136 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -285,6 +285,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.snowflake:snowpark`  -> [`0.6.0`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.10.1`, `0.11.0`, `0.12.0`, `1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`]
 1. `com.souher:fastapi`  -> [`0.9.9`, `1.0.0`, `1.1.0`, `1.2.12`, `1.2.18`, `1.2.19`, `1.2.21`, `1.2.22`]
 1. `com.spotify:styx-cli`  -> [`2.1.73`, `2.1.74`, `2.1.75`, `2.1.76`, `2.1.77`, `2.1.78`, `2.1.79`, `2.1.80`, `2.1.83`, `2.1.85`, `2.1.86`, `2.1.87`, `2.1.88`, `2.1.89`, `2.1.90`, `2.1.91`, `2.1.92`, `2.1.93`, `2.1.94`, `2.1.95`, `2.1.96`, `2.1.97`, `2.1.98`, `2.1.102`, `2.1.103`, `2.1.104`, `2.1.106`, `2.1.107`, `2.1.108`, `2.1.109`, `2.1.110`, `2.1.111`, `2.1.112`, `2.1.113`, `2.1.114`, `2.1.115`, `2.1.116`, `2.1.117`, `2.1.118`, `2.1.119`, `2.1.120`, `2.1.121`, `2.1.122`, `2.1.123`, `2.1.124`, `2.1.125`, `2.1.126`, `2.1.127`, `2.1.128`, `2.1.129`, `2.1.130`, `2.1.131`, `2.1.132`, `2.1.138`, `2.1.139`, `2.1.140`, `2.1.141`, `2.1.142`, `2.1.143`, `2.1.144`, `2.1.145`, `2.1.146`, `2.1.150`, `2.1.151`]
+1. `com.streamxhub.streamx:streamx-common_2.11`  -> [`1.2.3`]
+1. `com.streamxhub.streamx:streamx-common_2.12`  -> [`1.2.3`]
 1. `com.tencent.bk.base.datahub:iceberg-flink-runtime`  -> [`0.12.1-bkbase.1`, `0.12.1-bkbase.2`, `0.12.1-bkbase.3`]
 1. `com.tencent.bk.base.datahub:iceberg-hive-runtime`  -> [`0.12.1-bkbase.1`, `0.12.1-bkbase.2`, `0.12.1-bkbase.3`]
 1. `com.tencent.bk.base.datahub:iceberg-hive3-orc-bundle`  -> [`0.12.1-bkbase.1`, `0.12.1-bkbase.2`, `0.12.1-bkbase.3`]
@@ -364,7 +366,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.symphonyoss.symphony:jcurl`  -> [`0.9.18`]
 1. `org.wiremock:wiremock-webhooks-extension`  -> [`2.32.0`, `2.33.0`, `2.33.1`, `2.33.2`]
 1. `tech.b180.cordaptor:cordaptor-bundle-rest-embedded`  -> [`0.1.0`]
-1. `xyz.grasscutters:grasscutter`  -> [`1.0.3-dev`, `1.1.0`]
+1. `xyz.grasscutters:grasscutter`  -> [`1.0.3-dev`, `1.1.0`, `1.1.2-dev`]
 1. `za.co.absa.spline:admin`  -> [`0.5.5`, `0.5.6`, `0.6.0`, `0.6.1`, `0.7.0`, `0.7.1`, `0.7.2`, `0.7.3`, `0.7.4`, `0.7.5`, `0.7.6`, `0.7.7`]
 
 ## com.google.gson
@@ -1782,7 +1784,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.davidwhitlock.cs410J:grader`  -> [`2021.0.0`, `2021.0.1`, `2021.0.2`, `2021.1.0`, `2021.1.1`, `2021.2.0`, `2021.3.0`, `2021.4.0`, `2021.4.1`, `2022.0.0`, `2022.1.0`, `2022.3.0`]
 1. `io.github.shuigedeng:taotao-cloud-starter-elk`  -> [`2021.8.1`]
 1. `io.rainfall:rainfall-store-server`  -> [`1.5.2`, `1.5.3`]
-1. `za.co.bbd:jportal2`  -> [`1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.4`, `1.6.6`, `1.6.8`, `1.6.9`, `1.6.10`, `1.6.11`, `1.8.1`, `1.8.3`, `1.8.5`, `1.8.7`]
+1. `za.co.bbd:jportal2`  -> [`1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.4`, `1.6.6`, `1.6.8`, `1.6.9`, `1.6.10`, `1.6.11`, `1.8.1`, `1.8.3`, `1.8.5`, `1.8.7`, `1.8.8`]
 
 ## jakarta.activation
 
@@ -1959,7 +1961,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.objectweb.asm.tree
 
-1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `1.0.0-rc01`, `1.0.0-rc02`, `1.0.0-rc03`, `1.0.0-rc04`, `1.0.0-rc05`, `1.0.0-rc06`, `1.0.0`, `1.1.0`, `1.2.0`]
+1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `1.0.0-rc01`, `1.0.0-rc02`, `1.0.0-rc03`, `1.0.0-rc04`, `1.0.0-rc05`, `1.0.0-rc06`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`]
 1. `com.guujiang:jacob-core`  -> [`0.0.1`]
 1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`, `0.9.7`]
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.17.5`, `1.17.6`, `1.17.7`, `1.17.8`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`, `1.19.4`, `1.19.5`, `1.19.6`, `1.19.7`, `1.19.8`, `1.19.9`, `1.19.10`, `1.19.11`, `1.19.12`, `1.19.13`]
@@ -3276,7 +3278,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55`  -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`1.7.0`]
-1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`]
+1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`]
 
 ## org.kordamp.iconli.core
 
