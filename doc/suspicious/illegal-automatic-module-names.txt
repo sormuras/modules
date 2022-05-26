@@ -915,10 +915,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.097:2.1.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:2.1.0 -> org.eclipse.app4mc.amalthea.converters.100
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:2.1.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:2.1.0 -> org.eclipse.app4mc.amalthea.converters.210
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:12.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:12.0.11 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.11 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.11 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
@@ -937,8 +937,6 @@ org.graphfoundation.ongdb:ongdb-expressions-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-import-tool:3.6.2 -> org.neo4j.tooling.import
 org.graphfoundation.ongdb:ongdb-parser-3.6:3.6.2 -> -
 org.graphfoundation.ongdb:ongdb-rewriting-3.6:3.6.2 -> -
-org.hibernate.orm.tooling:hibernate-enhance-maven-plugin:6.0.1.Final -> org.hibernate.orm.enhance-maven-plugin
-org.hibernate.orm:hibernate-community-dialects:6.0.1.Final -> org.hibernate.orm.community-dialects
 org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.gradle-plugin
 org.hibernate:hibernate-gradle-plugin:5.4.9.Final -> org.hibernate.orm.gradle-plugin
 org.immutables:criteria-rxjava:2.8.0-CriteriaRc0 -> org.immutables.criteria-rxjava
