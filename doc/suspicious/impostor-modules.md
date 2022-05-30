@@ -613,7 +613,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ch.zizka.csvcruncher:csv-cruncher`  -> [`1.31.0`, `2.1.0`, `2.2.0`, `2.3.1`, `2.3.6`]
 1. `cn.j4ger:firewatch`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `cn.wumoe:hime`  -> [`1.4`, `1.5`]
-1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`, `2.1.0`]
+1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`]
 1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
 1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.2.1`, `1.3.0`, `1.4.0`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.2.0`, `2.2.1`, `2.3.0`, `3.0.0`, `4.0.0`, `5.0.0`, `5.1.0`, `6.0.0`]
 1. `com.dbvis:mongo-jdbc-standalone`  -> [`1.13`]
@@ -1052,7 +1052,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra:kestra`  -> [`0.2.3`, `0.2.4`, `0.2.5`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.0`, `0.3.1`, `0.3.2`, `0.4.0`, `0.4.1`, `0.4.2`]
 1. `io.mongock:mongock-cli-core`  -> [`5.0.20.BETA`, `5.0.23.BETA`, `5.0.24`, `5.0.25`, `5.0.26`]
 1. `io.mongock:mongock-cli-springboot`  -> [`5.0.17.BETA`, `5.0.20.BETA`, `5.0.21.BETA`, `5.0.22.BETA`, `5.0.23.BETA`, `5.0.24`, `5.0.25`, `5.0.26`]
-1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`, `3.1.1925`, `3.1.1932`, `3.1.1955`, `3.1.1956`, `3.1.1968`, `3.1.1993`, `3.1.1995`, `3.1.2024`, `3.1.2056`, `3.1.2065`, `3.1.2066`, `3.1.2070`, `3.1.2079`, `3.1.2083`, `3.1.2089`, `3.1.2090`, `3.1.2092`, `3.1.2093`]
+1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`, `3.1.1925`, `3.1.1932`, `3.1.1955`, `3.1.1956`, `3.1.1968`, `3.1.1993`, `3.1.1995`, `3.1.2024`, `3.1.2056`, `3.1.2065`, `3.1.2066`, `3.1.2070`, `3.1.2079`, `3.1.2083`, `3.1.2089`, `3.1.2090`, `3.1.2092`, `3.1.2093`, `3.1.2097`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.1.0`]
 1. `org.apache.james:webadmin-cli`  -> [`3.6.0`, `3.6.2`, `3.7.0`]
 1. `org.apache.ozone:ozone-filesystem-shaded`  -> [`1.2.0`, `1.2.1`]
@@ -2775,7 +2775,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.eclipse.jetty.server
 
-1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`]
+1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`, `0.9.2b6`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.base`  -> [`0.1.0`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.onlyoffice`  -> [`0.1.0`]
 1. `org.eclipse.jetty:jetty-server` 🧩 -> [`10.0.0-alpha0`, `10.0.0.alpha1`, `10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
@@ -2786,6 +2786,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.graalvm.truffle:truffle-api` 🧩 -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`, `21.1.0`, `21.2.0`, `21.3.0`, `22.0.0`, `22.0.0.2`, `22.1.0`, `22.1.0.1`]
 1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0`]
 1. `org.noear:solonjt.executor.s.graaljs`  -> [`1.0.4.4`, `1.0.4.7`]
+
+## org.jruby.joni
+
+1. `com.github.cukedoctor:cukedoctor-main`  -> [`2.0`, `2.1`, `3.0`]
+1. `io.github.blindspot-security:joni`  -> [`2.1.44`]
+1. `net.thisptr:jackson-jq-cli`  -> [`0.0.10`]
+1. `org.jruby.joni:joni` 🧩 -> [`2.1.20`, `2.1.21`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`, `2.1.28`, `2.1.29`, `2.1.30`, `2.1.31`, `2.1.32`, `2.1.33`, `2.1.34`, `2.1.35`, `2.1.36`, `2.1.37`, `2.1.38`, `2.1.39`, `2.1.40`, `2.1.41`, `2.1.42`, `2.1.43`]
 
 ## org.json
 
@@ -3300,12 +3307,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.hibernate.search:hibernate-search-mapper-orm-coordination-outbox-polling-jakarta`  -> [`6.1.0.Beta1`, `6.1.0.Beta2`, `6.1.0.CR1`, `6.1.0.Final`, `6.1.1.Final`, `6.1.2.Final`, `6.1.3.Final`, `6.1.4.Final`, `6.1.5.Final`]
 1. `org.hibernate.search:hibernate-search-mapper-orm-coordination-outbox-polling-orm6` 🧩 -> [`6.1.0.CR1`, `6.1.0.Final`, `6.1.1.Final`, `6.1.2.Final`, `6.1.3.Final`, `6.1.4.Final`, `6.1.5.Final`]
 1. `org.hibernate.search:hibernate-search-mapper-orm-coordination-outbox-polling`  -> [`6.1.0.Beta1`, `6.1.0.Beta2`, `6.1.0.CR1`, `6.1.0.Final`, `6.1.1.Final`, `6.1.2.Final`, `6.1.3.Final`, `6.1.4.Final`, `6.1.5.Final`]
-
-## org.jruby.joni
-
-1. `com.github.cukedoctor:cukedoctor-main`  -> [`2.0`, `2.1`, `3.0`]
-1. `net.thisptr:jackson-jq-cli`  -> [`0.0.10`]
-1. `org.jruby.joni:joni` 🧩 -> [`2.1.20`, `2.1.21`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`, `2.1.28`, `2.1.29`, `2.1.30`, `2.1.31`, `2.1.32`, `2.1.33`, `2.1.34`, `2.1.35`, `2.1.36`, `2.1.37`, `2.1.38`, `2.1.39`, `2.1.40`, `2.1.41`, `2.1.42`, `2.1.43`]
 
 ## org.junit.vintage.engine
 
