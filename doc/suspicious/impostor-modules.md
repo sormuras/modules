@@ -83,10 +83,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.labs64.netlicensing:netlicensing-client-demo`  -> [`2.9.2`, `2.9.3`]
 1. `com.macasaet.fernet:fernet-aws-secrets-manager-rotator`  -> [`1.5.0`]
 1. `com.melahn:archive-extract`  -> [`1.0.0`]
-1. `com.melahn:helm-chartmap`  -> [`1.1.0`, `1.1.1`]
+1. `com.melahn:helm-chartmap`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 1. `com.melahn:java-trace-visualizer`  -> [`1.0.0`]
 1. `com.microsoft.azure:azure-cosmos-cassandra-uploader`  -> [`1.0.9`, `1.0.10`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`]
-1. `com.navercorp.pinpoint:pinpoint-tools`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.4.0-RC1`]
+1. `com.navercorp.pinpoint:pinpoint-tools`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.4.0-RC1`, `2.4.0`]
 1. `com.netflix.conductor:conductor-es6-persistence`  -> [`2.27.0-beta.2`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4-alpha`, `2.29.0`, `2.29.1`, `2.29.2`, `2.29.3`, `2.30.1`, `2.30.2`, `2.30.3`, `2.30.4`, `2.31.0`, `2.31.1`, `2.31.2`, `2.31.3`]
 1. `com.netflix.conductor:conductor-es7-persistence`  -> [`2.31.1`, `2.31.2`, `2.31.3`, `2.31.4`, `2.31.5`]
 1. `com.nimblygames.packr:packr-all`  -> [`2.3.0`, `2.4.2`, `2.5.0`, `2.6.0`, `2.6.2`, `2.6.3`, `2.6.4`, `2.7.0`]
@@ -111,7 +111,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.europa.ec.eurostat:searoute-jar`  -> [`3.1`, `3.3`]
 1. `eu.fthevenet:binjr`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `eu.stamp-project:botsing-reproduction`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`]
-1. `fr.inrae.toulouse.metexplore:met4j-toolbox`  -> [`0.9.0`, `0.9.1`, `0.10.0`]
+1. `fr.inrae.toulouse.metexplore:met4j-toolbox`  -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.11.0`]
 1. `io.arenadata.hive:hive-jdbc`  -> [`3.1.1-arenadata`]
 1. `io.bluebank.braid:braid-server`  -> [`4.1.2-RC06`, `4.1.2-RC07`, `4.1.2-RC08`, `4.1.2-RC10`, `4.1.2-RC11`, `4.1.2-RC12`, `4.1.2-RC13`]
 1. `io.cellery.distribution:io.cellery.cell.api.publisher`  -> [`0.4.0`]
@@ -379,8 +379,8 @@ For example, at least 110 artifacts on Maven Central claim to be the module `com
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`]
-1. `ai.h2o:sparkling-water-package_2.11`  -> [`3.32.1.6-1-2.4`, `3.32.1.7-1-2.4`, `3.34.0.1-1-2.4`, `3.34.0.3-1-2.4`, `3.34.0.4-1-2.4`, `3.34.0.6-1-2.3`, `3.34.0.6-1-2.4`, `3.34.0.7-1-2.4`, `3.36.0.1-1-2.4`, `3.36.0.2-1-2.4`, `3.36.0.3-1-2.4`, `3.36.0.4-1-2.4`, `3.36.1.1-1-2.4`]
-1. `ai.h2o:sparkling-water-package_2.12`  -> [`3.32.1.6-1-3.1`, `3.32.1.7-1-3.1`, `3.34.0.1-1-3.1`, `3.34.0.3-1-3.1`, `3.34.0.4-1-3.1`, `3.34.0.6-1-3.1`, `3.34.0.7-1-3.1`, `3.36.0.1-1-3.1`, `3.36.0.2-1-3.1`, `3.36.0.3-1-3.2`, `3.36.0.4-1-3.2`, `3.36.1.1-1-3.2`]
+1. `ai.h2o:sparkling-water-package_2.11`  -> [`3.32.1.6-1-2.4`, `3.32.1.7-1-2.4`, `3.34.0.1-1-2.4`, `3.34.0.3-1-2.4`, `3.34.0.4-1-2.4`, `3.34.0.6-1-2.3`, `3.34.0.6-1-2.4`, `3.34.0.7-1-2.4`, `3.36.0.1-1-2.4`, `3.36.0.2-1-2.4`, `3.36.0.3-1-2.4`, `3.36.0.4-1-2.4`, `3.36.1.1-1-2.4`, `3.36.1.2-1-2.4`]
+1. `ai.h2o:sparkling-water-package_2.12`  -> [`3.32.1.6-1-3.1`, `3.32.1.7-1-3.1`, `3.34.0.1-1-3.1`, `3.34.0.3-1-3.1`, `3.34.0.4-1-3.1`, `3.34.0.6-1-3.1`, `3.34.0.7-1-3.1`, `3.36.0.1-1-3.1`, `3.36.0.2-1-3.1`, `3.36.0.3-1-3.2`, `3.36.0.4-1-3.2`, `3.36.1.1-1-3.2`, `3.36.1.2-1-3.2`]
 1. `com.aceql:aceql-http-client-jdbc-driver`  -> [`9.0`]
 1. `com.capitalone.dashboard:hygieia-query`  -> [`1.0.1`, `1.0.2`]
 1. `com.cloudofficeprint:cloudofficeprint`  -> [`21.2.0`, `21.2.1`, `21.2.2`]
@@ -402,7 +402,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.google.code.gson:gson`  -> [`2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.9.0`]
 1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.6.0-rc0`, `3.6.0-rc1`, `3.6.0-rc2`, `3.6.0-rc3`, `3.6.0-rc4`, `3.6.0-rc5`, `3.6.0`]
 1. `com.google.zetasql:zetasql-client`  -> [`2022.02.1`, `2022.04.1`]
-1. `com.ibm.cloud:platform-services-examples`  -> [`0.24.1`, `0.24.2`]
+1. `com.ibm.cloud:platform-services-examples`  -> [`0.24.1`, `0.24.2`, `0.24.3`]
 1. `com.johnsnowlabs.nlp:pytorch-cpu_2.11`  -> [`0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.11`, `0.0.12`]
 1. `com.johnsnowlabs.nlp:pytorch-cpu_2.12`  -> [`0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.11`, `0.0.12`]
 1. `com.johnsnowlabs.nlp:pytorch-cpu_2.13`  -> [`0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`]
@@ -675,7 +675,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.corda.kotlin:kotlin-stdlib-jdk8-osgi`  -> [`1.4.21`]
 1. `net.lz1998:pbbot-spring-boot-starter`  -> [`0.0.2`, `0.0.3`]
 1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`, `1.10.6`, `1.10.6-1530`, `1.10.6-1530.2`]
-1. `net.nurigo:sdk`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`]
+1. `net.nurigo:sdk`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`]
 1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.95`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`, `0.1.122`, `0.1.123`, `0.1.124`, `0.1.125`, `0.1.126`, `0.1.127`, `0.1.128`, `0.1.129`, `0.1.130`, `0.1.131`, `0.1.132`, `0.1.133`, `0.1.134`, `0.1.135`, `0.1.136`, `0.1.138`, `0.1.139`]
 1. `org.jetbrains.dokka:dokka-cli`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`, `1.6.10`, `1.6.20`, `1.6.21`]
 1. `org.jetbrains.dokka:kotlin-analysis-compiler`  -> [`1.4.10.2`, `1.4.20-dev-65`, `1.4.30`, `1.4.32`, `1.5.0`, `1.5.30`, `1.5.31`, `1.6.0`, `1.6.10`, `1.6.20`, `1.6.21`]
@@ -822,7 +822,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `javax.xml.bind:jaxb-api`  -> [`2.4.0-b180830.0359`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.5`, `2.10.6`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.5`, `2.10.6`, `2.10.7`]
-1. `org.apache.dolphinscheduler:dolphinscheduler-data-quality`  -> [`3.0.0-alpha`]
+1. `org.apache.dolphinscheduler:dolphinscheduler-data-quality`  -> [`3.0.0-alpha`, `3.0.0-beta-1`]
 1. `org.apache.druid.extensions.contrib:aliyun-oss-extensions`  -> [`0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`]
 1. `org.apache.druid:druid-benchmarks`  -> [`0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.22.0`, `0.22.1`]
 1. `org.apache.flink:flink-s3-fs-hadoop`  -> [`1.10.0`, `1.10.1`, `1.11.0`, `1.11.1`, `1.11.2`, `1.12.0`, `1.12.1`, `1.12.2`, `1.12.3`, `1.13.0`, `1.13.1`, `1.13.2`, `1.14.0`, `1.14.1`, `1.14.2`, `1.14.3`, `1.14.4`, `1.15.0`]
@@ -940,7 +940,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`]
 1. `com.guicedee.services:byte-buddy`  -> [`1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `com.heroku:webapp-runner`  -> [`9.0.30.0`, `9.0.31.0`, `9.0.36.1`, `9.0.38.0`, `9.0.41.0`, `9.0.52.0`, `9.0.52.1`]
-1. `com.huaweicloud.sermant:sermant-agentcore-core`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`]
+1. `com.huaweicloud.sermant:sermant-agentcore-core`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
 1. `com.instaclustr:ttl-remover-byte-buddy`  -> [`1.0.0`, `1.0.1`, `1.0.3`]
 1. `com.nordstrom.ui-tools:local-grid-utility`  -> [`1.3.3`]
 1. `com.proofpoint.platform:jaxrs`  -> [`1.95`, `1.96`, `1.97`, `1.98`, `1.99`, `2.00`, `2.01`, `2.02`, `2.03`, `2.04`, `2.05`, `2.06`, `2.07`, `2.08`, `2.09`, `2.10`, `2.11`, `2.12`, `2.13`, `2.14`, `2.15`, `2.16`, `2.17`, `2.18`, `2.19`, `2.20`, `2.22`, `2.23`, `2.24`, `2.25`, `2.26`, `2.27`, `2.28`, `2.29`, `2.30`, `2.32`, `2.33`, `2.34`, `2.35`, `2.36`, `2.37`, `2.38`, `2.39`, `2.40`, `2.41`, `2.42`, `2.43`, `2.44`, `2.46`, `2.47`, `2.48`, `2.49`, `2.51`, `2.53`, `2.54`, `2.55`, `2.56`, `2.57`, `2.58`, `2.59`, `2.60`, `2.61`, `2.65`, `2.66`, `2.67`]
@@ -2000,7 +2000,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.objectweb.asm.tree
 
-1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `1.0.0-rc01`, `1.0.0-rc02`, `1.0.0-rc03`, `1.0.0-rc04`, `1.0.0-rc05`, `1.0.0-rc06`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.3.0`]
+1. `com.autonomousapps:dependency-analysis-gradle-plugin`  -> [`0.31.1`, `0.31.5`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.47.0`, `0.48.0`, `0.49.0`, `0.50.0`, `0.52.0`, `0.53.0`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.59.0`, `0.60.0`, `0.61.0`, `0.62.0`, `0.63.0`, `0.64.0`, `0.65.0`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.70.0`, `0.71.0`, `0.72.0`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `1.0.0-rc01`, `1.0.0-rc02`, `1.0.0-rc03`, `1.0.0-rc04`, `1.0.0-rc05`, `1.0.0-rc06`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.3.0`, `1.4.0`]
 1. `com.guujiang:jacob-core`  -> [`0.0.1`]
 1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`, `0.9.7`]
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.17.5`, `1.17.6`, `1.17.7`, `1.17.8`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`, `1.19.4`, `1.19.5`, `1.19.6`, `1.19.7`, `1.19.8`, `1.19.9`, `1.19.10`, `1.19.11`, `1.19.12`, `1.19.13`]
@@ -2763,7 +2763,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.accenture.testing.bdd:bdd-for-all`  -> [`2.0.0-RC2`, `2.0.0-RC3`, `2.0.0`, `2.0.1`, `2.0.2-RC1`, `2.0.2-RC2`, `2.0.2-RC3`]
 1. `com.salesforce.dockerfile-image-update:dockerfile-image-update-itest`  -> [`1.0.46`, `1.0.47`, `1.0.48`, `1.0.49`, `1.0.50`, `1.0.51`, `1.0.78`, `1.0.79`, `1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.0.89`, `1.0.90`, `1.0.91`, `1.0.93`, `1.0.94`, `1.0.95`, `1.0.96`, `1.0.97`, `1.0.98`, `1.0.99`, `1.0.102`, `1.0.103`, `1.0.104`, `1.0.105`, `1.0.106`, `1.0.107`, `1.0.110`, `1.0.111`, `1.0.112`, `1.0.113`, `1.0.114`, `1.0.115`, `1.0.117`, `1.0.119`, `1.0.120`, `1.0.121`, `1.0.125`, `1.0.126`, `1.0.127`]
-1. `org.assertj:assertj-core` 🧩 -> [`3.13.0`, `3.13.1`, `3.13.2`, `3.14.0`, `3.15.0`, `3.16.0`, `3.16.1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.19.0`, `3.20.0`, `3.20.1`, `3.20.2`, `3.21.0`, `3.22.0`]
+1. `org.assertj:assertj-core` 🧩 -> [`3.13.0`, `3.13.1`, `3.13.2`, `3.14.0`, `3.15.0`, `3.16.0`, `3.16.1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.19.0`, `3.20.0`, `3.20.1`, `3.20.2`, `3.21.0`, `3.22.0`, `3.23.0`]
 1. `org.robotframework:javafxlibrary`  -> [`0.5.3`, `0.5.4`, `0.5.5`, `0.6.0`, `0.7.0`, `0.7.1`]
 
 ## org.bytedeco.tensorflow.platform
@@ -2775,7 +2775,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.eclipse.jetty.server
 
-1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`, `0.9.2b6`]
+1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`, `0.9.2b6`, `0.9.2b7`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.base`  -> [`0.1.0`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.onlyoffice`  -> [`0.1.0`]
 1. `org.eclipse.jetty:jetty-server` 🧩 -> [`10.0.0-alpha0`, `10.0.0.alpha1`, `10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
