@@ -5,7 +5,7 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `org.apache.logging.log4j` x190
-1. `com.fasterxml.jackson.databind` x140
+1. `com.fasterxml.jackson.databind` x145
 1. `com.google.gson` x110
 1. `com.fasterxml.jackson.core` x108
 1. `kotlin.stdlib.jdk8` x82
@@ -15,8 +15,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `net.bytebuddy` x68
 1. `info.picocli` x65
 1. `org.objectweb.asm` x57
+1. `io.github.classgraph` x53
 1. `com.fasterxml.jackson.annotation` x52
-1. `io.github.classgraph` x52
 1. `com.fasterxml.jackson.module.jaxb` x43
 1. `lombok` x36
 1. `org.bouncycastle.pkix` x36
@@ -37,7 +37,7 @@ For example, at least 190 artifacts on Maven Central claim to be the module `org
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
-1. `cn.net.mugui:spring`  -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`, `1.15`, `1.16`, `1.17`, `1.18`]
+1. `cn.net.mugui:spring`  -> [`1.00`, `1.01`, `1.02`, `1.03`, `1.05`, `1.06`, `1.08`, `1.10`, `1.11`, `1.12`, `1.13`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`]
 1. `co.actioniq:vault-utilities`  -> [`1.2.1`]
 1. `co.elastic.apm:apm-agent`  -> [`1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`]
 1. `co.elastic.apm:elastic-apm-agent`  -> [`1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`]
@@ -52,8 +52,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.baidu.hugegraph:computer-k8s-operator`  -> [`0.1.0`, `0.1.1`, `0.1.2`, `0.1.3`]
 1. `com.criteo.java:garmadon-readers-elasticsearch`  -> [`0.0.1`, `1.0.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`]
 1. `com.databricks:databricks-jdbc`  -> [`2.6.25-1`]
-1. `com.datarobot:datarobot-mlops`  -> [`5.3.0`, `5.3.0.1`, `6.0.0`, `6.1.3`]
-1. `com.datarobot:mlops-utils-for-spark_3.2.0`  -> [`8.0.7`]
+1. `com.datarobot:datarobot-mlops`  -> [`5.3.0`, `5.3.0.1`, `6.0.0`, `6.1.3`, `8.1.2`]
+1. `com.datarobot:mlops-utils-for-spark_3.2.0`  -> [`8.0.7`, `8.1.2`]
 1. `com.dlsc.workbenchfx:workbenchfx-core`  -> [`1.0.0`, `11.0.0`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`1.0.1-RELEASE`, `1.0.2-RELEASE`]
 1. `com.github.code-cubic:elasticsearch-tool`  -> [`6.5.4.20201101-RELEASE`, `6.5.4.20201110-RELEASE`, `6.5.4.20210101-RELEASE`, `6.5.4.20210220-RELEASE`, `6.5.4.20210310-RELEASE`, `6.5.4.20210702-RELEASE`]
@@ -221,7 +221,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`1.0.0`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`]
 1. `top.populus:bees`  -> [`1.0`]
 1. `uk.gov.nca.graph:mapper`  -> [`1.0`]
-1. `us.abstracta.jmeter:jmeter-java-dsl-jmx2dsl`  -> [`0.45`, `0.46`, `0.47`, `0.48`, `0.49`, `0.49.1`, `0.49.2`, `0.50`, `0.51`, `0.52`, `0.52.1`, `0.53`, `0.54`, `0.55`, `0.56`]
+1. `us.abstracta.jmeter:jmeter-java-dsl-jmx2dsl`  -> [`0.45`, `0.46`, `0.47`, `0.48`, `0.49`, `0.49.1`, `0.49.2`, `0.50`, `0.51`, `0.52`, `0.52.1`, `0.53`, `0.54`, `0.55`, `0.56`, `0.57`]
 1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.11`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.0`, `4.5.1`, `4.5.2`]
 1. `za.co.absa.hyperdrive:hyperdrive-release_spark-2_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`, `4.5.2`]
 1. `za.co.absa.hyperdrive:hyperdrive-release_spark-3_2.12`  -> [`4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.4.1`, `4.5.1`, `4.5.2`]
@@ -229,7 +229,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 140 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 145 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -272,6 +272,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jpms.jackson.core:jackson-databind`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11.jackson.core:jackson-databind`  -> [`0.63.0.17`, `0.63.0.19`]
 1. `com.launchdarkly:launchdarkly-java-server-sdk`  -> [`5.0.0-rc1`, `5.0.0-rc2`, `5.0.0-rc3`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.1.0`]
+1. `com.linkedin.iceberg:iceberg-flink-runtime`  -> [`0.11.1.1`]
+1. `com.linkedin.iceberg:iceberg-hive-runtime`  -> [`0.11.1.1`]
+1. `com.linkedin.iceberg:iceberg-runtime`  -> [`0.11.1.1`]
+1. `com.linkedin.iceberg:iceberg-spark-runtime`  -> [`0.11.1.1`]
+1. `com.linkedin.iceberg:iceberg-spark3-runtime`  -> [`0.11.1.1`]
 1. `com.orientechnologies:agent`  -> [`3.2.6`]
 1. `com.playtika.reactivefeign:feign-reactor-benchmarks`  -> [`3.2.0`, `3.2.1`]
 1. `com.readonlydev:jdatools`  -> [`2.1.4`, `2.2.0`, `2.2.1`, `2.2.2`]
@@ -516,7 +521,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.heroku.sdk:heroku-deploy-standalone`  -> [`3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`]
 1. `com.hortonworks.registries:schema-registry-core`  -> [`0.9.0`]
 1. `com.hortonworks.registries:storage-tool`  -> [`0.9.0`]
-1. `com.huaweicloud.sdk:huaweicloud-sdk-bundle`  -> [`3.0.84`, `3.0.85`, `3.0.86`, `3.0.87`, `3.0.88`, `3.0.89`, `3.0.90`]
+1. `com.huaweicloud.sdk:huaweicloud-sdk-bundle`  -> [`3.0.84`, `3.0.85`, `3.0.86`, `3.0.87`, `3.0.88`, `3.0.89`, `3.0.90`, `3.0.91`]
 1. `com.jwebmp.jackson.core:jackson-core`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.core:jackson-core`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11.jackson.core:jackson-core`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
@@ -589,8 +594,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `run.facet.agent.java:facet-agent`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
 1. `software.amazon.appflow:custom-connector-example`  -> [`1.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.5`]
 1. `software.amazon.appflow:custom-connector-tests`  -> [`1.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.5`]
-1. `software.amazon.awssdk:bundle`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.200`, `2.17.201`, `2.17.202`, `2.17.203`]
-1. `software.amazon.awssdk:third-party-jackson-core`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.201`, `2.17.202`, `2.17.203`]
+1. `software.amazon.awssdk:bundle`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.200`, `2.17.201`, `2.17.202`, `2.17.203`, `2.17.204`]
+1. `software.amazon.awssdk:third-party-jackson-core`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.201`, `2.17.202`, `2.17.203`, `2.17.204`]
 1. `software.amazon.glue:jsonschema-kafkaconnect-converter`  -> [`1.1.9`, `1.1.10`]
 1. `software.amazon.glue:schema-registry-kafkaconnect-converter`  -> [`1.1.9`, `1.1.10`]
 1. `tech.xigam:grasscutter`  -> [`1.0.3-dev`]
@@ -745,7 +750,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.netbeans.external:bcprov`  -> [`RELEASE113`]
 1. `org.radarbase:radar-auth`  -> [`0.7.0`, `0.7.1`, `0.8.0`, `0.8.1`]
 1. `org.spxp:spxp-crypto-tools`  -> [`0.3`]
-1. `org.terracotta:angela-agent`  -> [`3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`, `3.3.7`, `3.3.8`, `3.3.9`, `3.3.10`, `3.3.11`, `3.3.12`, `3.3.13`, `3.3.14`, `3.3.15`, `3.3.16`, `3.3.17`, `3.3.18`, `3.3.19`, `3.3.20`, `3.3.21`]
+1. `org.terracotta:angela-agent`  -> [`3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`, `3.3.7`, `3.3.8`, `3.3.9`, `3.3.10`, `3.3.11`, `3.3.12`, `3.3.13`, `3.3.14`, `3.3.15`, `3.3.16`, `3.3.17`, `3.3.18`, `3.3.19`, `3.3.20`, `3.3.21`, `3.3.22`]
 1. `org.verapdf.apps:pdfbox-apps`  -> [`1.14.6-RC`, `1.14.7-RC`, `1.14.8`, `1.16.1`, `1.18.1`, `1.18.5`, `1.20.1`]
 1. `org.wso2.msf4j.example:stockquote-fatjar`  -> [`2.7.0`, `2.8.2`, `2.8.3`, `2.8.4`]
 1. `org.wso2.msf4j.perftest.echo:wso2msf4j-echo-message`  -> [`2.7.0`, `2.8.2`, `2.8.3`, `2.8.4`]
@@ -855,7 +860,7 @@ For example, at least 69 artifacts on Maven Central claim to be the module `kotl
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib;`.
 
 1. `cn.alapi:javasdk`  -> [`1.0`, `1.0.1`]
-1. `cn.net.mugui:mugui-communication`  -> [`0.0.1`]
+1. `cn.net.mugui:mugui-communication`  -> [`0.0.1`, `0.0.3`]
 1. `com.brendangoldberg:kotlin-jwt`  -> [`1.3.0`]
 1. `com.cognite:cdf-sdk-java`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`, `0.9.8`, `0.9.9`, `0.9.10`, `1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.2.0`, `1.3.0`, `1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.7.0`, `1.7.1`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`, `1.12.0`, `1.12.1`, `1.13.0`, `1.13.1`]
 1. `com.github.answerail:dingtalk-spring-boot-starter`  -> [`2.0.2-RELEASE`, `2.0.3-RELEASE`, `2.0.4-RELEASE`, `2.0.5-RELEASE`, `3.0.0-RELEASE`, `3.1.0-RELEASE`, `3.1.1-RELEASE`, `3.1.2-RELEASE`]
@@ -1096,7 +1101,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.graphaware.neo4j:graphaware-framework-embedded`  -> [`3.4.6.52`, `3.4.7.52`, `3.4.8.52`, `3.4.9.52`, `3.5.0.53-beta02`, `3.5.0.53-beta03`, `3.5.1.53`, `3.5.2.53`, `3.5.3.53`, `3.5.4.53`, `3.5.5.53`, `3.5.6.54`, `3.5.7.54`, `3.5.8.54`, `3.5.9.54`, `3.5.10.54`, `3.5.11.54`, `3.5.11.55`, `3.5.12.55`, `3.5.13.55`, `3.5.14.55`, `3.5.14.56`, `3.5.14.58`]
 1. `com.heapanalytics.android:heap-android-gradle`  -> [`1.9.0`, `1.9.1`, `1.9.2-rc.1`, `1.9.2`, `1.9.3`, `1.9.4`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`]
 1. `com.netflix.nebula:gradle-lint-plugin`  -> [`10.5.2`, `10.5.3`, `11.0.0`, `11.1.0`]
-1. `com.newrelic.agent.android:class-rewriter`  -> [`6.2.0`, `6.2.1`, `6.3.0`, `6.3.1`, `6.4.0`, `6.4.1`, `6.5.0`]
+1. `com.newrelic.agent.android:class-rewriter`  -> [`6.2.0`, `6.2.1`, `6.3.0`, `6.3.1`, `6.4.0`, `6.4.1`, `6.5.0`, `6.6.0`]
 1. `com.oracle.substratevm:svm`  -> [`19.2.0`, `19.2.0.1`, `19.2.1`]
 1. `com.oradian.util:exit-denied`  -> [`0.1.0`]
 1. `com.salesforceiq.augmenteddriver:AugmentedDriver`  -> [`1.10.1`]
@@ -1132,67 +1137,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
 1. `org.tomitribe.jkta:jkta`  -> [`0.4`, `0.5`, `0.6`, `0.7`]
 
-## com.fasterxml.jackson.annotation
-
-For example, at least 52 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.annotation`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.annotation;`.
-
-1. `com.aerospike:aerospike-spark_2.12`  -> [`3.3.0_spark3.1-allshaded`]
-1. `com.codeborne:jvm2dts`  -> [`1.2.3`, `1.2.4`]
-1. `com.daml:ledger-api-test-tool`  -> [`1.4.0-snapshot.20200722.4796.0.28ab504b`, `1.4.0-snapshot.20200722.4800.0.21a16eef`, `1.4.0-snapshot.20200724.4812.0.818a52b0`]
-1. `com.exasol:parquet-io-java`  -> [`1.0.0`, `1.0.1`]
-1. `com.fasterxml.jackson.core:jackson-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`]
-1. `com.free-now.sauron.plugins:dependency-checker`  -> [`0.0.32`, `0.0.33`, `0.0.34`, `0.0.35`, `0.0.36`, `0.0.38`, `0.0.39`, `0.0.40`, `0.0.41`, `0.0.42`, `0.0.43`, `0.0.45`, `0.0.46`, `0.0.47`]
-1. `com.github.fpopic:bigquery-schema-select_2.13`  -> [`0.2`, `0.3`, `0.4`]
-1. `com.github.wjw465150:easyfastjson`  -> [`2.11.4`]
-1. `com.gu.play-secret-rotation:aws-parameterstore-lambda_2.12`  -> [`0.19`, `0.20`, `0.31`, `0.33`, `0.34`, `0.35`]
-1. `com.gu.play-secret-rotation:aws-parameterstore-lambda_2.13`  -> [`0.19`, `0.20`, `0.31`, `0.33`, `0.34`, `0.35`]
-1. `com.jwebmp.jackson.core:jackson-annotations`  -> [`0.63.0.54`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.jwebmp.jpms.jackson.core:jackson-annotations`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11.jackson.core:jackson-annotations`  -> [`0.63.0.17`, `0.63.0.19`]
-1. `com.liferay.portal:release.portal.api`  -> [`7.3.4-ga5`, `7.3.5-ga6`, `7.4.0-ga1`]
-1. `com.vertica.spark:vertica-spark`  -> [`2.0.0-rc0`, `2.0.0-0`, `2.0.1-0`]
-1. `com.wavefront:wavefront-opentracing-bundle-java`  -> [`1.2.0`, `1.2.1`]
-1. `edu.byu.hbll.maven:executable-parent`  -> [`3.4.1`, `3.5.0`, `3.6.0`, `3.7.0`, `3.7.1`]
-1. `io.acryl:datahub-client`  -> [`0.8.35`]
-1. `io.acryl:datahub-spark-lineage`  -> [`0.8.35`]
-1. `io.github.drewlakee:discojx`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `io.github.edwardUL99:docker-sandbox`  -> [`0.3.0`, `0.4.0`, `0.4.1`, `1.0.0`]
-1. `io.github.henrikbulldog:spark-org-anonymizer_2.12`  -> [`1.0.2`]
-1. `io.gitlab.arturbosch.detekt:detekt-report-sarif`  -> [`1.15.0-RC1`, `1.15.0-RC2`, `1.15.0`, `1.16.0-RC1`, `1.16.0-RC2`, `1.16.0-RC3`, `1.16.0`]
-1. `io.hdocdb:hdocdb`  -> [`1.0.0`, `1.0.1`]
-1. `io.inugami.security:inugami_core_security_tools`  -> [`2.0.0`, `2.0.1`, `2.0.2`]
-1. `io.kamon:kamon-bundle_2.11`  -> [`2.5.3`]
-1. `io.kamon:kamon-bundle_2.12`  -> [`2.5.3`]
-1. `io.kamon:kamon-bundle_2.13`  -> [`2.5.3`]
-1. `io.mantisrx:mantis-connector-iceberg`  -> [`1.2.11`, `1.2.12`, `1.2.13`, `1.2.14`, `1.2.15`, `1.2.16`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
-1. `io.mantisrx:mantis-publish-netty`  -> [`1.3.2`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
-1. `io.mantisrx:mantis-shaded`  -> [`1.2.56`, `1.2.57`, `1.2.58`, `1.2.59`, `1.2.60`, `1.2.62`, `1.2.63`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
-1. `org.apache.beam:beam-runners-flink-1.10-job-server`  -> [`2.29.0`, `2.30.0`]
-1. `org.apache.beam:beam-runners-flink-1.11-job-server`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
-1. `org.apache.beam:beam-runners-flink-1.12-job-server`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
-1. `org.apache.beam:beam-runners-flink-1.13-job-server`  -> [`2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
-1. `org.apache.beam:beam-runners-flink-1.8-job-server`  -> [`2.29.0`]
-1. `org.apache.beam:beam-runners-flink-1.9-job-server`  -> [`2.29.0`]
-1. `org.apache.beam:beam-sdks-java-extensions-schemaio-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
-1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
-1. `org.apache.beam:beam-sdks-java-harness`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
-1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
-1. `org.apache.flink:statefun-flink-distribution`  -> [`3.2.0`]
-1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`0.8.0`, `0.9.0`, `0.10.0`]
-1. `org.apache.ignite:ignite-yarn`  -> [`2.13.0`]
-1. `org.apache.jackrabbit:oak-run`  -> [`1.22.0`, `1.24.0`, `1.26.0`, `1.32.0`, `1.34.0`, `1.36`, `1.38.0`, `1.40.0`, `1.42.0`]
-1. `org.apache.sedona:sedona-python-adapter-2.4_2.11`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
-1. `org.apache.sedona:sedona-python-adapter-2.4_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
-1. `org.apache.sedona:sedona-python-adapter-3.0_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
-1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`3.8`, `3.8.1`, `3.8.2`, `3.8.3`]
-1. `org.neo4j:neo4j-connector-apache-spark_2.11_test-support`  -> [`4.0.2`, `4.1.0`, `4.1.1`, `4.1.2`]
-1. `org.neo4j:neo4j-connector-apache-spark_2.12_test-support`  -> [`4.0.2`, `4.1.0`, `4.1.1`, `4.1.2`]
-1. `org.wildfly:wildfly-channel-tools-cli`  -> [`1.0.0.Alpha1`]
-
 ## io.github.classgraph
 
-For example, at least 52 artifacts on Maven Central claim to be the module `io.github.classgraph`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 53 artifacts on Maven Central claim to be the module `io.github.classgraph`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires io.github.classgraph;`.
 
 1. `ch.exense.step.library:step-library-kw-monitoring-system`  -> [`1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `2021.08.18-ID174e3d1`]
@@ -1200,6 +1147,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cloud.orbit:orbit-core`  -> [`1.12.0`]
 1. `cloud.orbit:orbit-runtime`  -> [`1.12.0`]
 1. `com.datarobot:datarobot-mlops`  -> [`8.0.6`, `8.0.7`]
+1. `com.datarobot:mlops-agent`  -> [`8.1.2`]
 1. `com.datarobot:mlops-stats-aggregator`  -> [`8.1.0`]
 1. `com.github.bogie-clj:playground`  -> [`0.1.1`]
 1. `com.hazelcast.jet:hazelcast-jet`  -> [`4.1`, `4.1.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.5.1`, `4.5.2`, `4.5.3`]
@@ -1247,6 +1195,64 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `za.co.absa.spline.agent.spark:spark-3.0-spline-agent-bundle_2.12`  -> [`0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.7.0`, `0.7.1`, `0.7.2`, `0.7.3`, `0.7.4`, `0.7.6`, `0.7.7`, `0.7.8`]
 1. `za.co.absa.spline.agent.spark:spark-3.1-spline-agent-bundle_2.12`  -> [`0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.7.0`, `0.7.1`, `0.7.2`, `0.7.3`, `0.7.4`, `0.7.6`, `0.7.7`, `0.7.8`]
 1. `za.co.absa.spline.agent.spark:spark-3.2-spline-agent-bundle_2.12`  -> [`0.7.6`, `0.7.7`, `0.7.8`]
+
+## com.fasterxml.jackson.annotation
+
+For example, at least 52 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.annotation`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.annotation;`.
+
+1. `com.aerospike:aerospike-spark_2.12`  -> [`3.3.0_spark3.1-allshaded`]
+1. `com.codeborne:jvm2dts`  -> [`1.2.3`, `1.2.4`]
+1. `com.daml:ledger-api-test-tool`  -> [`1.4.0-snapshot.20200722.4796.0.28ab504b`, `1.4.0-snapshot.20200722.4800.0.21a16eef`, `1.4.0-snapshot.20200724.4812.0.818a52b0`]
+1. `com.exasol:parquet-io-java`  -> [`1.0.0`, `1.0.1`]
+1. `com.fasterxml.jackson.core:jackson-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`]
+1. `com.free-now.sauron.plugins:dependency-checker`  -> [`0.0.32`, `0.0.33`, `0.0.34`, `0.0.35`, `0.0.36`, `0.0.38`, `0.0.39`, `0.0.40`, `0.0.41`, `0.0.42`, `0.0.43`, `0.0.45`, `0.0.46`, `0.0.47`]
+1. `com.github.fpopic:bigquery-schema-select_2.13`  -> [`0.2`, `0.3`, `0.4`]
+1. `com.github.wjw465150:easyfastjson`  -> [`2.11.4`]
+1. `com.gu.play-secret-rotation:aws-parameterstore-lambda_2.12`  -> [`0.19`, `0.20`, `0.31`, `0.33`, `0.34`, `0.35`]
+1. `com.gu.play-secret-rotation:aws-parameterstore-lambda_2.13`  -> [`0.19`, `0.20`, `0.31`, `0.33`, `0.34`, `0.35`]
+1. `com.jwebmp.jackson.core:jackson-annotations`  -> [`0.63.0.54`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `com.jwebmp.jpms.jackson.core:jackson-annotations`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11.jackson.core:jackson-annotations`  -> [`0.63.0.17`, `0.63.0.19`]
+1. `com.liferay.portal:release.portal.api`  -> [`7.3.4-ga5`, `7.3.5-ga6`, `7.4.0-ga1`]
+1. `com.vertica.spark:vertica-spark`  -> [`2.0.0-rc0`, `2.0.0-0`, `2.0.1-0`]
+1. `com.wavefront:wavefront-opentracing-bundle-java`  -> [`1.2.0`, `1.2.1`]
+1. `edu.byu.hbll.maven:executable-parent`  -> [`3.4.1`, `3.5.0`, `3.6.0`, `3.7.0`, `3.7.1`]
+1. `io.acryl:datahub-client`  -> [`0.8.35`, `0.8.36`]
+1. `io.acryl:datahub-spark-lineage`  -> [`0.8.35`, `0.8.36`]
+1. `io.github.drewlakee:discojx`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
+1. `io.github.edwardUL99:docker-sandbox`  -> [`0.3.0`, `0.4.0`, `0.4.1`, `1.0.0`]
+1. `io.github.henrikbulldog:spark-org-anonymizer_2.12`  -> [`1.0.2`]
+1. `io.gitlab.arturbosch.detekt:detekt-report-sarif`  -> [`1.15.0-RC1`, `1.15.0-RC2`, `1.15.0`, `1.16.0-RC1`, `1.16.0-RC2`, `1.16.0-RC3`, `1.16.0`]
+1. `io.hdocdb:hdocdb`  -> [`1.0.0`, `1.0.1`]
+1. `io.inugami.security:inugami_core_security_tools`  -> [`2.0.0`, `2.0.1`, `2.0.2`]
+1. `io.kamon:kamon-bundle_2.11`  -> [`2.5.3`]
+1. `io.kamon:kamon-bundle_2.12`  -> [`2.5.3`]
+1. `io.kamon:kamon-bundle_2.13`  -> [`2.5.3`]
+1. `io.mantisrx:mantis-connector-iceberg`  -> [`1.2.11`, `1.2.12`, `1.2.13`, `1.2.14`, `1.2.15`, `1.2.16`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
+1. `io.mantisrx:mantis-publish-netty`  -> [`1.3.2`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
+1. `io.mantisrx:mantis-shaded`  -> [`1.2.56`, `1.2.57`, `1.2.58`, `1.2.59`, `1.2.60`, `1.2.62`, `1.2.63`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`]
+1. `org.apache.beam:beam-runners-flink-1.10-job-server`  -> [`2.29.0`, `2.30.0`]
+1. `org.apache.beam:beam-runners-flink-1.11-job-server`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
+1. `org.apache.beam:beam-runners-flink-1.12-job-server`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
+1. `org.apache.beam:beam-runners-flink-1.13-job-server`  -> [`2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
+1. `org.apache.beam:beam-runners-flink-1.8-job-server`  -> [`2.29.0`]
+1. `org.apache.beam:beam-runners-flink-1.9-job-server`  -> [`2.29.0`]
+1. `org.apache.beam:beam-sdks-java-extensions-schemaio-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
+1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
+1. `org.apache.beam:beam-sdks-java-harness`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`]
+1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`]
+1. `org.apache.flink:statefun-flink-distribution`  -> [`3.2.0`]
+1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`0.8.0`, `0.9.0`, `0.10.0`]
+1. `org.apache.ignite:ignite-yarn`  -> [`2.13.0`]
+1. `org.apache.jackrabbit:oak-run`  -> [`1.22.0`, `1.24.0`, `1.26.0`, `1.32.0`, `1.34.0`, `1.36`, `1.38.0`, `1.40.0`, `1.42.0`]
+1. `org.apache.sedona:sedona-python-adapter-2.4_2.11`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
+1. `org.apache.sedona:sedona-python-adapter-2.4_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
+1. `org.apache.sedona:sedona-python-adapter-3.0_2.12`  -> [`1.0.0-incubating`, `1.0.1-incubating`, `1.1.0-incubating`, `1.1.1-incubating`, `1.2.0-incubating`]
+1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`3.8`, `3.8.1`, `3.8.2`, `3.8.3`]
+1. `org.neo4j:neo4j-connector-apache-spark_2.11_test-support`  -> [`4.0.2`, `4.1.0`, `4.1.1`, `4.1.2`]
+1. `org.neo4j:neo4j-connector-apache-spark_2.12_test-support`  -> [`4.0.2`, `4.1.0`, `4.1.1`, `4.1.2`]
+1. `org.wildfly:wildfly-channel-tools-cli`  -> [`1.0.0.Alpha1`]
 
 ## com.fasterxml.jackson.module.jaxb
 
@@ -1443,7 +1449,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.restbusters:qreasp`  -> [`0.0.4`]
 1. `com.sagframe:sqltoy-quickvo`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`]
 1. `io.bdeploy:api`  -> [`2.3.0`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `3.0.0`, `3.1.0`, `3.1.1`, `3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
-1. `io.github.karanshah-browserstack:javaagent-example`  -> [`1.0.0`, `1.0.1`]
+1. `io.github.karanshah-browserstack:javaagent-example`  -> [`1.0.0`, `1.0.1`, `1.0.6`, `1.0.8`, `1.0.12`]
 1. `io.github.quickmsg:smqtt-bootstrap`  -> [`1.1.2`]
 1. `io.github.serpro69:kotlin-faker`  -> [`1.8.0-rc.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.2.0`, `0.2.1`]
@@ -1591,7 +1597,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-test-system`  -> [`0.9.0`, `0.9.1`]
 1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
 1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
-1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`, `2.0.43`]
+1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`, `2.0.43`, `2.0.44`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.9`, `2.10.9.2`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.8`, `2.10.9.2`]
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`, `2.0.2.Final`]
@@ -1719,8 +1725,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 12 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.xml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.dataformat.xml;`.
 
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`, `4.10.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`, `4.10.1`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-xml` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`]
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.30.6-01`, `2.30.7-01`, `2.30.8-01`]
 1. `io.github.shuigedeng:taotao-cloud-starter-common`  -> [`2021.8.1`]
@@ -1887,7 +1893,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.duracloud.snapshot:snapshot-service-impl`  -> [`3.1.0`]
 1. `org.elasticsearch.plugin:x-pack-sql-jdbc`  -> [`7.8.1`, `7.9.0`, `7.9.1`, `7.9.2`, `7.9.3`, `7.10.0`, `7.10.1`, `7.10.2`, `7.11.0`, `7.11.1`, `7.11.2`, `7.12.0`, `7.12.1`, `7.13.0`, `7.13.1`]
 1. `org.elasticsearch:elasticsearch-x-content`  -> [`8.2.1`, `8.2.2`]
-1. `software.amazon.awssdk:third-party-jackson-dataformat-cbor`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.201`, `2.17.202`, `2.17.203`]
+1. `software.amazon.awssdk:third-party-jackson-dataformat-cbor`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.201`, `2.17.202`, `2.17.203`, `2.17.204`]
+
+## org.apache.poi.poi
+
+1. `ch.exense.step.library:step-library-kw-excel`  -> [`1.0.7`, `1.0.8`, `2021.08.18-ID174e3d1`]
+1. `com.eurodyn.qlack.extras:Qlack-Extras-TranslationsConverter`  -> [`1.7.5`]
+1. `org.apache.poi:poi` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`]
+1. `org.apache.tika:tika-app`  -> [`2.3.0`]
+1. `org.datakurator:kurator-ffdq`  -> [`2.0.0`]
+1. `org.lucee:poi`  -> [`5.0.0`]
+1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.11`]
 
 ## org.beryx.awt.color
 
@@ -1974,15 +1990,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.carne:java-test-swt-cocoa-macosx-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-gtk-linux-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-win32-win32-x86_64` 🧩 -> [`4.0.1`, `4.0.2`]
-
-## org.apache.poi.poi
-
-1. `ch.exense.step.library:step-library-kw-excel`  -> [`1.0.7`, `1.0.8`, `2021.08.18-ID174e3d1`]
-1. `org.apache.poi:poi` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`]
-1. `org.apache.tika:tika-app`  -> [`2.3.0`]
-1. `org.datakurator:kurator-ffdq`  -> [`2.0.0`]
-1. `org.lucee:poi`  -> [`5.0.0`]
-1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.11`]
 
 ## org.eclipse.osgi
 
@@ -2795,7 +2802,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.jruby.joni
 
 1. `com.github.cukedoctor:cukedoctor-main`  -> [`2.0`, `2.1`, `3.0`]
-1. `io.github.blindspot-security:joni`  -> [`2.1.44`]
+1. `io.github.blindspot-security:joni`  -> [`2.1.44`, `2.1.45`, `2.5.8`]
 1. `net.thisptr:jackson-jq-cli`  -> [`0.0.10`]
 1. `org.jruby.joni:joni` 🧩 -> [`2.1.20`, `2.1.21`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`, `2.1.28`, `2.1.29`, `2.1.30`, `2.1.31`, `2.1.32`, `2.1.33`, `2.1.34`, `2.1.35`, `2.1.36`, `2.1.37`, `2.1.38`, `2.1.39`, `2.1.40`, `2.1.41`, `2.1.42`, `2.1.43`]
 
