@@ -303,7 +303,7 @@ net.ssehub.easy:instantiatorCore-rt:1.3.2 -> de.uni-hildesheim.sse.easy.instanti
 net.xyzsd.fluent:fluent-base:0.70 -> net.xyzsd.fluent.fluent-base
 net.xyzsd.fluent:fluent-functions-cldr:0.70 -> net.xyzsd.fluent.fluent-functions-cldr
 net.xyzsd.fluent:fluent-functions-icu:0.70 -> net.xyzsd.fluent.fluent-functions-icu
-net.xyzsd.plurals:cldr-plural-rules:3.0 -> net.xyzsd.plurals.cldr-plural-rules
+net.xyzsd.plurals:cldr-plural-rules:41 -> net.xyzsd.plurals.cldr-plural-rules
 org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
