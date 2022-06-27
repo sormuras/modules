@@ -8,7 +8,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x154
 1. `com.fasterxml.jackson.core` x124
 1. `com.google.gson` x114
-1. `kotlin.stdlib.jdk8` x85
+1. `kotlin.stdlib.jdk8` x86
 1. `org.bouncycastle.provider` x76
 1. `java.xml.bind` x71
 1. `kotlin.stdlib` x69
@@ -585,9 +585,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
-1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
-1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
-1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`]
+1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`]
+1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`]
+1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
 1. `io.github.scalapb-json:protoc-lint-shaded_2.12`  -> [`0.3.0`, `0.4.0`, `0.5.0`]
 1. `io.github.tzfun.jvmm:jvmm-server`  -> [`1.0.0`]
@@ -647,7 +647,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 85 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 86 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `app.cash.sqldelight:gradle-plugin`  -> [`2.0.0-alpha01`, `2.0.0-alpha02`, `2.0.0-alpha03`]
@@ -735,6 +735,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `pl.allegro:client-logic-dsl`  -> [`0.0.3`, `0.0.4`]
 1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 1. `software.amazon.disco:disco-java-agent-kotlin-plugin`  -> [`0.12.0`]
+1. `xyz.pavelkorolev.danger.detekt:plugin`  -> [`0.1.3`]
 
 ## org.bouncycastle.provider
 
@@ -2876,7 +2877,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.eclipse.jetty.server
 
-1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`, `0.9.2b6`, `0.9.2b7`, `0.10.0b`, `0.10.1b`]
+1. `com.jnngl:totalcomputers`  -> [`0.9.2b5`, `0.9.2b6`, `0.9.2b7`, `0.10.0b`, `0.10.1b`, `0.10.2b`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.base`  -> [`0.1.0`]
 1. `de.acosix.alfresco.transform:de.acosix.alfresco.transform.onlyoffice`  -> [`0.1.0`]
 1. `org.eclipse.jetty:jetty-server` 🧩 -> [`10.0.0-alpha0`, `10.0.0.alpha1`, `10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`, `11.0.10`, `11.0.11`]
