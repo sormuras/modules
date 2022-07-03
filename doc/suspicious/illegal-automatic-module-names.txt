@@ -326,7 +326,8 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.logging.log4j:log4j-liquibase:2.17.2 -> -
+org.apache.logging.log4j:log4j-jakarta-smtp:2.18.0 -> -
+org.apache.logging.log4j:log4j-liquibase:2.18.0 -> -
 org.apache.tomee.bom:tomee-microprofile:8.0.12 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:8.0.12 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:8.0.12 -> org.apache.tomee.bom.tomee-plume
