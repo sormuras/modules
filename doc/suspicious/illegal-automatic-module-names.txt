@@ -132,6 +132,10 @@ com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.11:2.13.3 -> 
 com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.12:2.13.33 -> jsoniter-scala-macros
 com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_2.13:2.13.33 -> jsoniter-scala-macros
 com.github.plokhotnyuk.jsoniter-scala:jsoniter-scala-macros_sjs1_3:2.13.33 -> jsoniter-scala-macros
+com.github.plokhotnyuk.play-json-extensions:play-json-extensions_2.12:0.43.1 -> play-json-extensions
+com.github.plokhotnyuk.play-json-extensions:play-json-extensions_2.13:0.43.1 -> play-json-extensions
+com.github.plokhotnyuk.play-json-extensions:play-json-extensions_sjs1_2.12:0.43.1 -> play-json-extensions
+com.github.plokhotnyuk.play-json-extensions:play-json-extensions_sjs1_2.13:0.43.1 -> play-json-extensions
 com.github.plokhotnyuk.rtree2d:rtree2d-core_2.11:0.11.9 -> rtree2d-core
 com.github.plokhotnyuk.rtree2d:rtree2d-core_2.12:0.11.11 -> rtree2d-core
 com.github.plokhotnyuk.rtree2d:rtree2d-core_2.13:0.11.11 -> rtree2d-core
