@@ -64,6 +64,7 @@ jobs:
       - name: 'Scan bucket'
         run: |
           java \
+          -Xmx5G \
           -Ddoc=true \
           -Dillegal-automatic-module-names=true \
           -Dimpostor-modules=true \
