@@ -7,7 +7,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x200
 1. `com.fasterxml.jackson.databind` x162
 1. `com.fasterxml.jackson.core` x126
-1. `com.google.gson` x114
+1. `com.google.gson` x116
 1. `kotlin.stdlib.jdk8` x87
 1. `org.bouncycastle.provider` x76
 1. `java.xml.bind` x72
@@ -539,7 +539,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 114 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 116 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`]
@@ -596,6 +596,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.auth3.identity:admin-sdk`  -> [`1.0.0`]
 1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
+1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.12.16`  -> [`0.1.4`]
+1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.13.8`  -> [`0.1.4`]
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`]
@@ -1282,14 +1284,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.fraunhofer.iosb.ilt.faaast.service:starter`  -> [`0.1.0`]
 1. `io.cordite.braid:braid-corda`  -> [`5.0.0-RC01`, `5.0.0-RC02`, `5.0.0-RC03`, `5.0.0-RC04`, `5.0.0-RC05`, `5.0.0-RC07`, `5.0.0-RC08`, `5.0.0-RC09`, `5.0.0-RC10`, `5.0.0-RC11`, `5.0.0-RC15`, `5.0.0-RC16`]
 1. `io.cordite.services:network-map-service`  -> [`0.4.5`, `0.5.2`]
-1. `io.crysknife.legacy.ui.databinding:generator`  -> [`0.3`, `0.4`, `0.5`]
+1. `io.crysknife.legacy.ui.databinding:generator`  -> [`0.3`, `0.4`, `0.5`, `0.5.1`]
 1. `io.crysknife.legacy.ui.navigation:generator`  -> [`0.3`]
-1. `io.crysknife.legacy.ui:gwt-dom-generator`  -> [`0.3`, `0.4`, `0.5`]
-1. `io.crysknife.ui.mutationobserver:generator`  -> [`0.3`, `0.4`, `0.5`]
-1. `io.crysknife.ui.navigation:generator`  -> [`0.4`, `0.5`]
-1. `io.crysknife.ui.templates:generator`  -> [`0.3`, `0.4`, `0.5`]
-1. `io.crysknife.ui.translation:generator`  -> [`0.3`, `0.4`, `0.5`]
-1. `io.crysknife:crysknife-processor`  -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`]
+1. `io.crysknife.legacy.ui:gwt-dom-generator`  -> [`0.3`, `0.4`, `0.5`, `0.5.1`]
+1. `io.crysknife.ui.mutationobserver:generator`  -> [`0.3`, `0.4`, `0.5`, `0.5.1`]
+1. `io.crysknife.ui.navigation:generator`  -> [`0.4`, `0.5`, `0.5.1`]
+1. `io.crysknife.ui.templates:generator`  -> [`0.3`, `0.4`, `0.5`, `0.5.1`]
+1. `io.crysknife.ui.translation:generator`  -> [`0.3`, `0.4`, `0.5`, `0.5.1`]
+1. `io.crysknife:crysknife-processor`  -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`, `0.5.1`]
 1. `io.crysknife:templates-generator`  -> [`0.1`, `0.2`]
 1. `io.github.classgraph:classgraph` 🧩 -> [`4.0.7`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.3.0`, `4.3.1`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.3`, `4.4.5`, `4.4.7`, `4.4.8`, `4.4.9`, `4.4.10`, `4.4.11`, `4.4.12`, `4.6.8`, `4.6.9`, `4.6.10`, `4.6.11`, `4.6.12`, `4.6.13`, `4.6.14`, `4.6.16`, `4.6.18`, `4.6.19`, `4.6.20`, `4.6.21`, `4.6.22`, `4.6.23`, `4.6.24`, `4.6.25`, `4.6.26`, `4.6.27`, `4.6.28`, `4.6.29`, `4.6.30`, `4.6.31`, `4.6.32`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.8.4`, `4.8.5`, `4.8.6`, `4.8.7`, `4.8.8`, `4.8.9`, `4.8.10`, `4.8.11`, `4.8.12`, `4.8.13`, `4.8.14`, `4.8.15`, `4.8.16`, `4.8.17`, `4.8.19`, `4.8.20`, `4.8.21`, `4.8.22`, `4.8.23`, `4.8.24`, `4.8.25`, `4.8.26`, `4.8.27`, `4.8.28`, `4.8.29`, `4.8.30`, `4.8.31`, `4.8.32`, `4.8.33`, `4.8.34`, `4.8.35`, `4.8.36`, `4.8.37`, `4.8.38`, `4.8.39`, `4.8.40`, `4.8.41`, `4.8.42`, `4.8.43`, `4.8.44`, `4.8.45`, `4.8.46`, `4.8.47`, `4.8.48`, `4.8.49`, `4.8.50`, `4.8.51`, `4.8.52`, `4.8.53`, `4.8.54`, `4.8.55`, `4.8.56`, `4.8.57`, `4.8.58`, `4.8.59`, `4.8.60`, `4.8.61`, `4.8.62`, `4.8.63`, `4.8.64`, `4.8.65`, `4.8.66`, `4.8.67`, `4.8.68`, `4.8.69`, `4.8.70`, `4.8.71`, `4.8.72`, `4.8.73`, `4.8.74`, `4.8.75`, `4.8.76`, `4.8.77`, `4.8.78`, `4.8.79`, `4.8.80`, `4.8.81`, `4.8.82`, `4.8.83`, `4.8.84`, `4.8.85`, `4.8.86`, `4.8.87`, `4.8.88`, `4.8.89`, `4.8.90`, `4.8.92`, `4.8.93`, `4.8.94`, `4.8.95`, `4.8.96`, `4.8.97`, `4.8.98`, `4.8.100`, `4.8.101`, `4.8.102`, `4.8.103`, `4.8.104`, `4.8.105`, `4.8.106`, `4.8.107`, `4.8.108`, `4.8.109`, `4.8.110`, `4.8.111`, `4.8.112`, `4.8.113`, `4.8.114`, `4.8.115`, `4.8.116`, `4.8.117`, `4.8.118`, `4.8.119`, `4.8.120`, `4.8.121`, `4.8.122`, `4.8.123`, `4.8.124`, `4.8.125`, `4.8.126`, `4.8.127`, `4.8.128`, `4.8.129`, `4.8.130`, `4.8.131`, `4.8.132`, `4.8.133`, `4.8.134`, `4.8.135`, `4.8.136`, `4.8.137`, `4.8.138`, `4.8.139`, `4.8.140`, `4.8.141`, `4.8.143`, `4.8.144`, `4.8.145`, `4.8.146`, `4.8.147`, `4.8.148`, `4.8.149`]
 1. `io.github.eisop:checker`  -> [`3.21.2-eisop1`, `3.21.3-eisop1`, `3.21.4-eisop1`, `3.22.0-eisop1`, `3.22.1-eisop1`]
