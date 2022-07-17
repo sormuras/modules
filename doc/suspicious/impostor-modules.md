@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `org.apache.logging.log4j` x201
 1. `com.fasterxml.jackson.databind` x165
-1. `com.fasterxml.jackson.core` x129
+1. `com.fasterxml.jackson.core` x141
 1. `com.google.gson` x125
 1. `kotlin.stdlib.jdk8` x87
 1. `org.bouncycastle.provider` x76
@@ -411,7 +411,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.core
 
-For example, at least 129 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 141 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
@@ -464,7 +464,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.fraunhofer.iosb.ilt.faaast:package-explorer-converter`  -> [`0.1.0`, `0.2.0`]
 1. `de.m3y.libmobi:libmobi-standalone`  -> [`1.0.1`]
 1. `de.uni-muenster:music2rdf`  -> [`1.3.8`]
-1. `io.github.hkarthik7:azd`  -> [`3.0.3`, `3.0.4`]
+1. `io.github.hkarthik7:azd`  -> [`3.0.3`, `3.0.4`, `4.0.0`]
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`]
@@ -499,6 +499,18 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-connector-kinesis`  -> [`1.15.0`, `1.15.1`]
 1. `org.apache.flink:flink-table-store-dist`  -> [`0.1.0`]
 1. `org.apache.flink:flink-table-store-format`  -> [`0.1.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.13`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.14`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.15`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-hive-runtime`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-hive3-orc-bundle`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-2.4`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.0_2.12`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.1_2.12`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.2_2.12`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.2_2.13`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.12`  -> [`0.14.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.13`  -> [`0.14.0`]
 1. `org.apache.inlong:sort-connector-hive`  -> [`1.2.0-incubating`]
 1. `org.apache.inlong:sort-connector-jdbc`  -> [`1.2.0-incubating`]
 1. `org.apache.inlong:sort-connector-mysql-cdc`  -> [`1.2.0-incubating`]
@@ -559,12 +571,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cloudofficeprint:cloudofficeprint`  -> [`21.2.0`, `21.2.1`, `21.2.2`]
 1. `com.coralogix:coralogix-jdbc`  -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`, `0.6`]
 1. `com.coralogix:cosmetic_2.13`  -> [`0.1`]
-1. `com.daml:ledger-api-bench-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
-1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
-1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
-1. `com.daml:ledger-api-test-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
-1. `com.daml:ledger-indexer-benchmark`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
-1. `com.daml:sandbox-on-x-app-jar`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`]
+1. `com.daml:ledger-api-bench-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
+1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
+1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
+1. `com.daml:ledger-api-test-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
+1. `com.daml:ledger-indexer-benchmark`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
+1. `com.daml:sandbox-on-x-app-jar`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`]
 1. `com.exaroton:api`  -> [`1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
 1. `com.exaroton:bungee`  -> [`1.5.2`]
 1. `com.free-now.sauron.plugins:kubernetesapi-report`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`]
@@ -987,7 +999,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-maven-extension`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`]
 1. `io.pyroscope:agent`  -> [`0.9.0`, `0.9.1`]
-1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`]
+1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`]
 1. `org.apache.seatunnel:seatunnel-connector-flink-influxdb`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.azure-core-http-okhttp`  -> [`1.7.10_1`, `1.8.0_1`, `1.9.0_1`]
 1. `org.didcommx.peerdid:peerdid`  -> [`0.1.0`]
@@ -1577,7 +1589,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.charles-grozny.pluginlib:bukkitpluginlib`  -> [`1.0.0`, `1.0.1`]
 1. `io.github.dailystruggle:CommandsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA04`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA08`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA13`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA19`, `1.0-ALPHA23`, `1.0-ALPHA26`, `1.0-ALPHA28`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA31`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`, `1.0-ALPHA36`, `1.0-ALPHA37`, `1.0-ALPHA38`, `1.0-ALPHA39`, `1.0-ALPHA40`, `1.0-ALPHA42`, `1.0-ALPHA44`, `1.0-ALPHA50`]
 1. `io.github.dailystruggle:EffectsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA02`, `1.0-ALPHA03`]
-1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`]
+1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`]
 1. `io.github.wand555:richerconversation-api`  -> [`1.0.2`, `1.0.3`]
 1. `io.github.wand555:richerconversation-example`  -> [`1.0.2`, `1.0.3`]
 1. `lol.hyper:github-release-api`  -> [`1.0.2`, `1.0.3`]
