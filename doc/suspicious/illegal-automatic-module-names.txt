@@ -1739,12 +1739,12 @@ org.kie:kie-pmml-evaluator-api:8.25.0.Beta -> -
 org.kie:kie-pmml-evaluator-assembler:8.25.0.Beta -> -
 org.kie:kie-pmml-evaluator-core:8.25.0.Beta -> -
 org.kie:kie-pmml-kie-internal:8.25.0.Beta -> -
-org.kie:kie-pmml-models-archetype:8.24.0.Beta -> -
+org.kie:kie-pmml-models-archetype:8.24.1.Beta -> -
 org.kie:kie-pmml-models-clustering-compiler:8.25.0.Beta -> -
 org.kie:kie-pmml-models-clustering-evaluator:8.25.0.Beta -> -
 org.kie:kie-pmml-models-clustering-model:8.25.0.Beta -> -
 org.kie:kie-pmml-models-clustering-tests:8.25.0.Beta -> -
-org.kie:kie-pmml-models-drools-archetype:8.24.0.Beta -> -
+org.kie:kie-pmml-models-drools-archetype:8.24.1.Beta -> -
 org.kie:kie-pmml-models-drools-common:8.25.0.Beta -> -
 org.kie:kie-pmml-models-drools-scorecard-compiler:8.25.0.Beta -> -
 org.kie:kie-pmml-models-drools-scorecard-evaluator:8.25.0.Beta -> -
