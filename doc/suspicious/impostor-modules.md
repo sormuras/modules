@@ -1446,7 +1446,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.origin-energy:java-snapshot-testing-junit4`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
 1. `io.github.origin-energy:java-snapshot-testing-junit5`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
 1. `io.github.origin-energy:java-snapshot-testing-spock`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
-1. `io.github.sawors:WerewolfGame`  -> [`0.1`]
+1. `io.github.sawors:WerewolfGame`  -> [`0.1`, `0.2`]
 1. `io.keyko:secret-store-client`  -> [`0.1.0`]
 1. `io.virtdata:virtdata-lib-curves4`  -> [`2.12.01`, `2.12.02`, `2.12.03`]
 1. `io.virtdata:virtdata-lib-random`  -> [`2.12.01`, `2.12.02`, `2.12.03`]
