@@ -1,8 +1,8 @@
 ai.djl.mxnet:mxnet-native-auto:1.8.0 -> ai.djl.native
-ai.djl.mxnet:mxnet-native-cu102mkl:1.9.0 -> ai.djl.native
+ai.djl.mxnet:mxnet-native-cu102mkl:1.9.1 -> ai.djl.native
 ai.djl.mxnet:mxnet-native-cu110mkl:1.9.0 -> ai.djl.native
-ai.djl.mxnet:mxnet-native-cu112mkl:1.9.0 -> ai.djl.native
-ai.djl.mxnet:mxnet-native-mkl:1.9.0 -> ai.djl.native
+ai.djl.mxnet:mxnet-native-cu112mkl:1.9.1 -> ai.djl.native
+ai.djl.mxnet:mxnet-native-mkl:1.9.1 -> ai.djl.native
 au.com.dius.pact.consumer:specs2_2.13:4.2.21 -> au.com.dius.pact.consumer.specs2_2.13
 au.com.dius.pact.provider:scalasupport_2.13:4.2.21 -> au.com.dius.pact.provider.scalasupport_2.13
 au.com.dius.pact.provider:scalatest_2.13:4.2.21 -> au.com.dius.pact.provider.scalatest_2.13
