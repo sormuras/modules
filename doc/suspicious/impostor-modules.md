@@ -729,7 +729,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ch.zizka.csvcruncher:csv-cruncher`  -> [`1.31.0`, `2.1.0`, `2.2.0`, `2.3.1`, `2.3.6`, `2.4.0`]
 1. `cn.j4ger:firewatch`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `cn.wumoe:hime`  -> [`1.4`, `1.5`]
-1. `com.airsaid:sample-plugin`  -> [`1.0.0`, `1.0.1`, `1.1.0`]
+1. `com.airsaid:sample-plugin`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
 1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`]
 1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
 1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.2.1`, `1.3.0`, `1.4.0`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.2.0`, `2.2.1`, `2.3.0`, `3.0.0`, `4.0.0`, `5.0.0`, `5.1.0`, `6.0.0`, `6.0.1`, `6.0.2`, `6.1.0`, `6.2.0`, `7.0.0`]
@@ -875,7 +875,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-maven-extension`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
 1. `io.pyroscope:agent`  -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`]
-1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`]
+1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.72`]
 1. `org.apache.seatunnel:seatunnel-connector-flink-influxdb`  -> [`2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.azure-core-http-okhttp`  -> [`1.7.10_1`, `1.8.0_1`, `1.9.0_1`]
 1. `org.didcommx.peerdid:peerdid`  -> [`0.1.0`]
@@ -2227,7 +2227,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.ctc.wstx
 
-1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`]
+1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`, `6.3.1`]
 1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.3`, `1.6.4`]
 1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.3`, `1.6.4`]
 1. `org.sonarsource.slang:sonar-go-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`]
@@ -2950,6 +2950,20 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `javax.xml.ws:jaxws-api`  -> [`2.3.1`]
 1. `org.apache.servicemix.specs:org.apache.servicemix.specs.jaxws-api-2.3`  -> [`2.3_1`, `2.3_2`, `2.3_3`]
 
+## nd4j.cuda
+
+1. `org.nd4j:nd4j-cuda-10.2`  -> [`1.0.0-M2.1`]
+1. `org.nd4j:nd4j-cuda-11.2`  -> [`1.0.0-M2`]
+1. `org.nd4j:nd4j-cuda-11.4`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
+1. `org.nd4j:nd4j-cuda-11.6`  -> [`1.0.0-M2`]
+
+## nd4j.cuda.preset
+
+1. `org.nd4j:nd4j-cuda-10.2-preset`  -> [`1.0.0-M2.1`]
+1. `org.nd4j:nd4j-cuda-11.2-preset`  -> [`1.0.0-M2`]
+1. `org.nd4j:nd4j-cuda-11.4-preset`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
+1. `org.nd4j:nd4j-cuda-11.6-preset`  -> [`1.0.0-M2`]
+
 ## net.sf.uadetector.core
 
 1. `com.guicedee.services:uadetector-core`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
@@ -3455,18 +3469,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains.kotlin:kotlin-test-junit` 🧩 -> [`1.4.0-rc`, `1.4.0`, `1.4.10`, `1.4.20-M1`, `1.4.20-RC`, `1.4.20`, `1.4.21`, `1.4.30-M1`, `1.4.30-RC`, `1.4.30`, `1.4.31`, `1.5.0-M1`, `1.5.0-M2`, `1.5.0-RC`, `1.5.0`, `1.5.10`, `1.5.20-M1`, `1.5.20-RC`, `1.5.20`, `1.5.21`, `1.5.30-M1`, `1.5.30-RC`, `1.5.30`, `1.5.31`, `1.6.0-M1`, `1.6.0-RC`, `1.6.0-RC2`, `1.6.0`, `1.6.10-RC`, `1.6.10`, `1.6.20-M1`, `1.6.20-RC`, `1.6.20-RC2`, `1.6.20`, `1.6.21`, `1.7.0-Beta`, `1.7.0-RC`, `1.7.0-RC2`, `1.7.0`, `1.7.10`, `1.7.20-Beta`]
 1. `org.jetbrains.lets-plot:lets-plot-batik`  -> [`2.0.2-rc1`, `2.0.2`, `2.0.3-rc1`, `2.0.3-rc2`, `2.0.3`, `2.0.4`]
 1. `org.jetbrains.lets-plot:lets-plot-jfx`  -> [`2.0.2-rc1`, `2.0.2`, `2.0.3-rc1`, `2.0.3-rc2`, `2.0.3`, `2.0.4`]
-
-## nd4j.cuda
-
-1. `org.nd4j:nd4j-cuda-11.2`  -> [`1.0.0-M2`]
-1. `org.nd4j:nd4j-cuda-11.4`  -> [`1.0.0-M2`]
-1. `org.nd4j:nd4j-cuda-11.6`  -> [`1.0.0-M2`]
-
-## nd4j.cuda.preset
-
-1. `org.nd4j:nd4j-cuda-11.2-preset`  -> [`1.0.0-M2`]
-1. `org.nd4j:nd4j-cuda-11.4-preset`  -> [`1.0.0-M2`]
-1. `org.nd4j:nd4j-cuda-11.6-preset`  -> [`1.0.0-M2`]
 
 ## net.dongliu.cute.http.jsonb
 
