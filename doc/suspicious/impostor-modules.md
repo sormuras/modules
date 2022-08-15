@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `org.apache.logging.log4j` x204
 1. `com.fasterxml.jackson.databind` x176
-1. `com.fasterxml.jackson.core` x155
+1. `com.fasterxml.jackson.core` x156
 1. `com.google.gson` x129
 1. `kotlin.stdlib.jdk8` x90
 1. `kotlin.stdlib` x77
@@ -425,7 +425,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.core
 
-For example, at least 155 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 156 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
@@ -515,6 +515,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.distributedlog:distributedlog-core-shaded`  -> [`4.15.0`]
 1. `org.apache.doris:flink-doris-connector-1.14_2.11`  -> [`1.1.0`]
 1. `org.apache.doris:flink-doris-connector-1.14_2.12`  -> [`1.1.0`]
+1. `org.apache.doris:flink-doris-connector-1.15`  -> [`1.2.0`]
 1. `org.apache.drill.contrib.storage-hive:drill-hive-exec-shaded`  -> [`1.20.2`]
 1. `org.apache.flink:flink-connector-elasticsearch5_2.11`  -> [`1.14.5`]
 1. `org.apache.flink:flink-connector-elasticsearch5_2.12`  -> [`1.14.5`]
@@ -600,12 +601,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cloudofficeprint:cloudofficeprint`  -> [`21.2.0`, `21.2.1`, `21.2.2`]
 1. `com.coralogix:coralogix-jdbc`  -> [`0.1`, `0.2`, `0.3`, `0.4`, `0.5`, `0.6`]
 1. `com.coralogix:cosmetic_2.13`  -> [`0.1`]
-1. `com.daml:ledger-api-bench-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
-1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
-1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
-1. `com.daml:ledger-api-test-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
-1. `com.daml:ledger-indexer-benchmark`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
-1. `com.daml:sandbox-on-x-app-jar`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`]
+1. `com.daml:ledger-api-bench-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
+1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
+1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
+1. `com.daml:ledger-api-test-tool`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
+1. `com.daml:ledger-indexer-benchmark`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
+1. `com.daml:sandbox-on-x-app-jar`  -> [`2.4.0-snapshot.20220714.10220.0.444fff1f`, `2.4.0-snapshot.20220714.10224.0.d4bae0c5`, `2.4.0-snapshot.20220715.10230.0.c9070471`, `2.4.0-snapshot.20220716.10232.0.e762e3f8`, `2.4.0-snapshot.20220718.10241.0.bf64e705`, `2.4.0-snapshot.20220719.10248.0.e023fcfc`, `2.4.0-snapshot.20220721.10253.0.67b47c6d`, `2.4.0-snapshot.20220722.10254.0.9744c4ed`, `2.4.0-snapshot.20220725.10271.0.6caedfb0`, `2.4.0-snapshot.20220726.10286.0.8586eb68`, `2.4.0-snapshot.20220727.10293.0.1a9dc020`, `2.4.0-snapshot.20220728.10305.0.b163638d`, `2.4.0-snapshot.20220729.10309.0.b475d710`, `2.4.0-snapshot.20220801.10312.0.d2c7be9d`, `2.4.0-snapshot.20220802.10321.0.e1fe7ee9`, `2.4.0-snapshot.20220803.10331.0.8e8e0dab`, `2.4.0-snapshot.20220804.10341.0.c146bee8`, `2.4.0-snapshot.20220805.10346.0.454fc397`, `2.4.0-snapshot.20220808.10354.0.e1f831a2`, `2.4.0-snapshot.20220809.10365.0.7d59e3d4`, `2.4.0-snapshot.20220810.10380.0.f65e7f54`, `2.4.0-snapshot.20220811.10393.0.ad4ad642`, `2.4.0-snapshot.20220814.10394.0.660e9f4b`]
 1. `com.exaroton:api`  -> [`1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
 1. `com.exaroton:bungee`  -> [`1.5.2`]
 1. `com.free-now.sauron.plugins:kubernetesapi-report`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`]
@@ -789,7 +790,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.realm.kotlin:plugin-compiler-shaded`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.11.1`, `1.0.0`, `1.0.1`, `1.0.2`]
 1. `io.tatum:tatum-java`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
 1. `io.teamif:comcigan-lib`  -> [`1.0`]
-1. `io.thundra.merloc:merloc-aws-lambda-runtime-embedded`  -> [`0.0.1`, `0.0.2`, `0.0.3`]
+1. `io.thundra.merloc:merloc-aws-lambda-runtime-embedded`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`]
 1. `io.tiledb:tiledb-cloud-java`  -> [`0.0.4`]
 1. `me.him188:kotlin-dynamic-delegation-compiler-embeddable`  -> [`0.1.0-160.1`, `0.1.1-160.1`, `0.2.0-160.1`, `0.3.0-162.1`, `0.3.0-162.4`, `0.3.0-170.1`]
 1. `me.him188:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`2.0.0-160.1`, `2.0.0-160.3`, `2.0.0-162.1`, `2.1.0-162.1`, `2.1.0-170.1`]
@@ -1353,7 +1354,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.collinalpert:jaque`  -> [`2.4.1`, `2.4.2`]
 1. `com.github.collinalpert:java2db`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `2.0`, `2.1`, `2.2`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.4`, `2.4.2`, `2.4.3`, `2.5`, `3.0`, `3.1`, `4.0.1`, `4.1`, `4.1.1`, `4.2`, `5.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.2`, `5.2.1`, `5.3.0`, `5.4.0`, `5.5.0`, `5.5.1`, `5.6.0`, `6.0.0`, `6.0.1`, `6.1.0`]
 1. `com.github.collinalpert:lambda2sql`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `2.0`, `2.1`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.2`, `2.2.1`, `2.2.2`, `2.3.0`, `2.4.0`, `2.5.0`]
-1. `com.github.luxlang:lux-python`  -> [`0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`]
+1. `com.github.luxlang:lux-python`  -> [`0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.7.0`]
 1. `com.github.nawforce:uber-apex-jorje`  -> [`1.0.0`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.1.0`]
 1. `com.github.tomakehurst:wiremock-jre8-standalone`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.23.1`, `2.23.2`, `2.24.0`, `2.24.1`, `2.25.0`, `2.25.1`]
@@ -2075,7 +2076,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.objectweb.asm.util
 
-1. `com.github.luxlang:lux-jvm`  -> [`0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`]
+1. `com.github.luxlang:lux-jvm`  -> [`0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.7.0`]
 1. `com.github.luxlang:lux-python`  -> [`0.6.0`]
 1. `com.github.luxlang:lux-ruby`  -> [`0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`]
 1. `com.github.pxav.kelp:core`  -> [`0.0.5`]
@@ -2171,6 +2172,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.carne:java-test-swt-cocoa-macosx-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-gtk-linux-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-win32-win32-x86_64` 🧩 -> [`4.0.1`, `4.0.2`]
+
+## net.kyori.examination.string
+
+1. `com.fastasyncworldedit:FastAsyncWorldEdit-Libs-Core`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.3.0`, `2.4.0`, `2.4.1`, `2.4.2`, `2.4.3`]
+1. `eu.cloudnetservice.cloudnet:bridge`  -> [`4.0.0-RC1`]
+1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
+1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
+1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
+1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
 
 ## org.apache.poi.ooxml
 
@@ -2321,14 +2331,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp:javax.inject`  -> [`1.1`]
 1. `io.avaje:javax.inject`  -> [`1.0`]
 
-## net.kyori.examination.string
-
-1. `com.fastasyncworldedit:FastAsyncWorldEdit-Libs-Core`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.3.0`, `2.4.0`, `2.4.1`, `2.4.2`, `2.4.3`]
-1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
-1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
-1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
-1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
-
 ## org.apache.tomcat.embed.core
 
 1. `com.codedx:webapp-runner-main`  -> [`9.0.65.0`]
@@ -2355,7 +2357,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.joda.money
 
-1. `org.joda:joda-money` 🧩 -> [`1.0.1`]
+1. `org.joda:joda-money` 🧩 -> [`1.0.1`, `1.0.2`]
 1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.0`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.1.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.0`, `0.40.1`, `0.40.2`, `0.40.3`, `0.40.4`]
@@ -2955,14 +2957,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.nd4j:nd4j-cuda-10.2`  -> [`1.0.0-M2.1`]
 1. `org.nd4j:nd4j-cuda-11.2`  -> [`1.0.0-M2`]
 1. `org.nd4j:nd4j-cuda-11.4`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
-1. `org.nd4j:nd4j-cuda-11.6`  -> [`1.0.0-M2`]
+1. `org.nd4j:nd4j-cuda-11.6`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
 
 ## nd4j.cuda.preset
 
 1. `org.nd4j:nd4j-cuda-10.2-preset`  -> [`1.0.0-M2.1`]
 1. `org.nd4j:nd4j-cuda-11.2-preset`  -> [`1.0.0-M2`]
 1. `org.nd4j:nd4j-cuda-11.4-preset`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
-1. `org.nd4j:nd4j-cuda-11.6-preset`  -> [`1.0.0-M2`]
+1. `org.nd4j:nd4j-cuda-11.6-preset`  -> [`1.0.0-M2`, `1.0.0-M2.1`]
 
 ## net.sf.uadetector.core
 
