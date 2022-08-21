@@ -7,7 +7,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x204
 1. `com.fasterxml.jackson.databind` x182
 1. `com.fasterxml.jackson.core` x157
-1. `com.google.gson` x131
+1. `com.google.gson` x132
 1. `kotlin.stdlib.jdk8` x92
 1. `kotlin.stdlib` x77
 1. `org.bouncycastle.provider` x76
@@ -594,7 +594,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 131 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 132 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`, `3.36.1.3`, `3.36.1.4`]
@@ -623,6 +623,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.gtriip.translation.opera:opera-translation`  -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`, `1.0.5-15`, `1.0.5-16`, `1.0.5-17`, `1.0.5-18`]
 1. `com.github.shynixn.blockball:blockball-bukkit-plugin`  -> [`6.15.0`, `6.16.0`, `6.17.0`, `6.18.0`, `6.19.0`, `6.20.0`, `6.20.1`, `6.21.0`, `6.22.0`, `6.22.1`]
 1. `com.github.shynixn.petblocks:petblocks-bukkit-plugin`  -> [`8.16.0`, `8.17.0`, `8.17.1`, `8.18.0`, `8.19.0`, `8.20.0`, `8.21.0`, `8.22.1`, `8.23.0`]
+1. `com.github.the-h-team:labyrinth-plugin`  -> [`1.8.1`]
 1. `com.google.api-ads:google-ads-shadowjar`  -> [`0.0.1-alpha`, `15.0.0`, `16.0.0`, `16.0.1`, `16.0.2`, `16.0.3`, `17.0.0`, `17.0.1`, `18.0.0`, `19.0.0`, `20.0.0`]
 1. `com.google.api-ads:google-ads`  -> [`16.0.0`, `16.0.1`]
 1. `com.google.appengine:runtime-impl`  -> [`2.0.5`, `2.0.6`, `2.0.7`]
@@ -887,7 +888,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-maven-extension`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
 1. `io.pyroscope:agent`  -> [`0.9.0`, `0.9.1`, `0.10.0`, `0.10.1`]
-1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.72`]
+1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.72`, `1.73`]
 1. `org.apache.seatunnel:seatunnel-connector-flink-influxdb`  -> [`2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.azure-core-http-okhttp`  -> [`1.7.10_1`, `1.8.0_1`, `1.9.0_1`]
 1. `org.didcommx.peerdid:peerdid`  -> [`0.1.0`]
@@ -1505,7 +1506,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `nl.basjes.parse.useragent:yauaa-commandline`  -> [`5.14`]
 1. `org.eclipse.jetty:jetty-runner`  -> [`10.0.0.alpha2`, `10.0.0.beta0`, `11.0.0-alpha0`, `11.0.0.beta1`, `11.0.0.beta2`, `11.0.0.beta3`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`, `11.0.10`, `11.0.11`]
 1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.4.1`]
-1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`]
+1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`]
 1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.45`, `1.50`, `1.52`]
 
 ## lombok
@@ -1989,7 +1990,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jpaulmorrison:javafbp-websockets`  -> [`1.3.2`, `1.3.3`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.32`, `1.0.34`, `1.0.37`, `1.0.38`]
 1. `io.github.artrayme:jmantic`  -> [`0.6.1`, `0.6.2`]
-1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`]
+1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`]
 1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`, `1.99.3`, `1.99.4`, `1.99.5`, `1.99.6`, `1.99.7`, `1.99.8`, `1.100.0`, `1.100.1`, `1.100.2`, `1.101.0`, `1.101.1`]
 1. `se.bjurr.gradle:violations-command-line`  -> [`1.21.1`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
@@ -3516,7 +3517,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.guicedee.services:commons-logging`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `no.ssb.vtl:java-vtl-interpreter`  -> [`0.1.0`]
-1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`]
+1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`]
 
 ## org.apache.poi.ooxml.schemas
 
