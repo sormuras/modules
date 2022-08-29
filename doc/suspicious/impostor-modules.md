@@ -5,8 +5,8 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `org.apache.logging.log4j` x204
-1. `com.fasterxml.jackson.databind` x185
-1. `com.fasterxml.jackson.core` x158
+1. `com.fasterxml.jackson.databind` x187
+1. `com.fasterxml.jackson.core` x163
 1. `com.google.gson` x139
 1. `kotlin.stdlib.jdk8` x93
 1. `org.bouncycastle.provider` x81
@@ -243,7 +243,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 185 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 187 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -286,6 +286,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`2.26.0`, `2.26.1`, `2.26.2`, `2.26.3`, `2.27.0`, `2.27.1`, `2.27.2`]
 1. `com.here.account:here-oauth-client-example`  -> [`0.4.22`, `0.4.23`, `0.4.24`]
 1. `com.heroku.agent:heroku-java-metrics-agent`  -> [`3.13`]
+1. `com.huaweicloud.sermant:dubbo-registry-service`  -> [`0.5.0`]
+1. `com.huaweicloud.sermant:spring-cloud-registry-service`  -> [`0.5.0`]
 1. `com.ibm.cos:ibm-cos-java-sdk-bundle`  -> [`2.11.1`, `2.11.2`, `2.12.0`]
 1. `com.joinesty:nullafi-java-sdk`  -> [`1.0.4`]
 1. `com.jwebmp.jackson.core:jackson-databind`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
@@ -434,7 +436,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.core
 
-For example, at least 158 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 163 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
@@ -468,6 +470,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.hortonworks.registries:schema-registry-core`  -> [`0.9.0`]
 1. `com.hortonworks.registries:storage-tool`  -> [`0.9.0`]
 1. `com.huaweicloud.sdk:huaweicloud-sdk-bundle`  -> [`3.0.84`, `3.0.85`, `3.0.86`, `3.0.87`, `3.0.88`, `3.0.89`, `3.0.90`, `3.0.91`, `3.0.92`, `3.0.93`, `3.0.94`, `3.0.95`, `3.0.96`, `3.0.97`, `3.0.98`, `3.0.99`, `3.0.100`, `3.0.101`, `3.0.102`, `3.0.103`, `3.0.104`, `3.0.105`, `3.0.106`]
+1. `com.huaweicloud.sermant:flowcontrol-service`  -> [`0.5.0`]
 1. `com.jwebmp.jackson.core:jackson-core`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.core:jackson-core`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11.jackson.core:jackson-core`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
@@ -533,8 +536,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-avro`  -> [`1.15.0`, `1.15.1`, `1.15.2`]
 1. `org.apache.flink:flink-sql-connector-aws-kinesis-firehose`  -> [`1.15.2`]
 1. `org.apache.flink:flink-sql-connector-kinesis`  -> [`1.15.0`, `1.15.1`]
-1. `org.apache.flink:flink-table-store-dist`  -> [`0.1.0`]
-1. `org.apache.flink:flink-table-store-format`  -> [`0.1.0`]
+1. `org.apache.flink:flink-table-store-dist`  -> [`0.1.0`, `0.2.0`]
+1. `org.apache.flink:flink-table-store-format`  -> [`0.1.0`, `0.2.0`]
+1. `org.apache.flink:flink-table-store-hive-connector`  -> [`0.2.0`]
+1. `org.apache.flink:flink-table-store-shade`  -> [`0.2.0`]
+1. `org.apache.flink:flink-table-store-spark2`  -> [`0.2.0`]
+1. `org.apache.flink:flink-table-store-spark`  -> [`0.2.0`]
 1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.12.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.13`  -> [`0.14.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.14`  -> [`0.14.0`]
