@@ -97,6 +97,7 @@ jobs:
         env:
           JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          version: early-access
           arguments: |
             release \
             --auto-config \
