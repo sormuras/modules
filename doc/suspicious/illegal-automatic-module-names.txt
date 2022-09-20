@@ -161,7 +161,7 @@ com.github.triceo.robozonky:robozonky-integration-zonkoid:4.0.0-beta-5 -> com.gi
 com.github.triceo.robozonky:robozonky-marketplaces:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-marketplaces
 com.github.triceo.robozonky:robozonky-notifications:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-notifications
 com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.github.triceo.robozonky.robozonky-strategy-natural
-com.graphql-java:graphql-java-extended-scalars:2022-09-19T00-57-59-8a30e26 -> graphql-java-extended-scalars
+com.graphql-java:graphql-java-extended-scalars:2022-09-19T04-56-36-be6c0e4 -> graphql-java-extended-scalars
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
@@ -234,6 +234,7 @@ de.saxsys:mvvmfx-spring-boot:1.8.0 -> de.saxsys.mvvmfx-spring-boot
 de.saxsys:mvvmfx-testing-utils:1.8.0 -> de.saxsys.mvvmfx-testing-utils
 de.saxsys:mvvmfx-utils:1.8.0 -> de.saxsys.mvvmfx-utils
 de.saxsys:mvvmfx-validation:1.8.0 -> de.saxsys.mvvmfx-validation
+hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.0.20220919_071730 -> hu.blackbelt.judo.eclipse.epp.package.common
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
@@ -1569,5 +1570,5 @@ pro.projo:projo-template-generation:1.4.0 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.12.5 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.12.6 -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
