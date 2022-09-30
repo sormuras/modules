@@ -1439,7 +1439,7 @@ org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.0.2 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.0.1 -> com.github.bbottema.java-utils-mail-smime
-org.spockframework:spock-groovy2-compat:2.2-groovy-2.5 -> org.spockframework.groovy2-compat
+org.spockframework:spock-groovy2-compat:2.3-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
 org.tools4j:elara-chronicle:1.7 -> org.tools4j.elara-chronicle
@@ -1572,5 +1572,5 @@ pro.projo:projo-template-generation:1.4.0 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.12.6 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.12.7 -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
