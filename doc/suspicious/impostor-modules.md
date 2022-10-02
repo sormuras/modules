@@ -513,7 +513,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.hkarthik7:azd`  -> [`3.0.3`, `3.0.4`, `4.0.0`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`]
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
-1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`]
+1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`]
 1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`]
@@ -1759,7 +1759,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 28 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.zaxxer.hikari;`.
 
-1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`]
+1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`]
 1. `cn.tenmg:flink-sql-connector-mysql-cdc-log`  -> [`1.0.0`]
 1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`, `1.3.0.1`, `1.3.0.2`, `1.3.0.3`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.1.1`, `1.4.2`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`, `1.7.7`]
 1. `com.github.susom:database`  -> [`4.0`]
@@ -1779,7 +1779,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `me.confuser.banmanager.BanManagerLibs:BanManagerLibs`  -> [`7.7.0`, `7.8.0`, `7.9.0`]
 1. `org.appops:appops-br-maven-plugin`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`]
 1. `org.appops:appops-br-service-base`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`, `1.0-RC-2`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`, `0.40.8`, `0.40.9`, `0.40.10`, `0.40.11`, `0.40.12`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`, `0.40.8`, `0.40.9`, `0.40.10`, `0.40.11`, `0.40.12`, `0.40.13`]
 1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.25.0-03`, `3.25.1-02`]
 1. `tr.com.infumia:InfumiaCommon`  -> [`1.7.7`]
 1. `tr.com.infumia:InfumiaPaper`  -> [`1.7.7`]
@@ -2275,7 +2275,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.eclipse.osgi
 
-1. `de.funfried.libraries:jsdt-core`  -> [`1.0.0`, `1.0.1`]
+1. `de.funfried.libraries:jsdt-core`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `io.github.phillima:asniffer`  -> [`2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`]
 1. `org.codehaus.groovy:groovy-eclipse-batch`  -> [`3.0.7-03`, `3.0.8-01`]
 1. `org.eclipse.platform:org.eclipse.osgi`  -> [`3.16.200`, `3.16.300`, `3.17.0`, `3.17.100`, `3.17.200`, `3.18.0`, `3.18.100`]
@@ -2375,8 +2375,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.fasterxml.jackson.datatype:jackson-datatype-joda-money` 🧩 -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`]
 1. `com.fasterxml.jackson.datatype:jackson-datatype-joda`  -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`]
 1. `org.apache.beam:beam-sdks-java-extensions-sql-jdbc`  -> [`2.39.0`, `2.40.0`, `2.41.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.11`, `0.40.12`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.11`, `0.40.12`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.11`, `0.40.12`, `0.40.13`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.11`, `0.40.12`, `0.40.13`]
 
 ## com.jwebmp.guicedpersistence.wildfly
 
@@ -3620,7 +3620,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlinx.serialization.core
 
-1. `io.github.shreyashsaitwal.rush:processor`  -> [`2.0.0-beta04`, `2.0.0-beta05`, `2.0.0-beta06`]
+1. `io.github.shreyashsaitwal.rush:processor`  -> [`2.0.0-beta04`, `2.0.0-beta05`, `2.0.0-beta06`, `2.0.0-beta07`]
 1. `org.danbrough.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.3`]
 1. `org.jetbrains.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`]
 
