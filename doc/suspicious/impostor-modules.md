@@ -255,7 +255,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.appland:appmap-agent`  -> [`1.14.0`, `1.14.1`, `1.15.0`, `1.15.1`]
 1. `com.arcadedb:arcadedb-gremlin`  -> [`22.8.1`, `22.9.1`]
 1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.12.2`, `4.13.0`, `4.13.1`, `4.14.0`, `4.14.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.12.2`, `4.13.0`, `4.13.1`, `4.14.0`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.12.2`, `4.13.0`, `4.13.1`, `4.14.0`, `4.14.1`]
 1. `com.azure:azure-security-keyvault-jca`  -> [`2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`]
 1. `com.bazaarvoice.jolt:jolt-cli`  -> [`0.1.6`, `0.1.7`]
 1. `com.chtsinc:ch-mirakl-integrator`  -> [`0.0.1`]
