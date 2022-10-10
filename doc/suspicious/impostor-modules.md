@@ -326,7 +326,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
@@ -713,7 +713,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.redcoke:mcserverping`  -> [`0.1.4`]
 1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
-1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC2`]
+1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC2`, `4.0.0-RC3`]
 1. `ga.palomox.lightrest:lightrest`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.2.10`, `1.2.11`]
 1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.12.16`  -> [`0.1.4`]
 1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.13.8`  -> [`0.1.4`]
@@ -1791,7 +1791,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`]
 1. `cn.tenmg:flink-sql-connector-mysql-cdc-log`  -> [`1.0.0`]
-1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`, `1.3.0.1`, `1.3.0.2`, `1.3.0.3`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.1.1`, `1.4.2`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`, `1.7.7`]
+1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`, `1.3.0.1`, `1.3.0.2`, `1.3.0.3`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.1.1`, `1.4.2`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`, `1.7.7`, `1.7.8`]
 1. `com.github.susom:database`  -> [`4.0`]
 1. `com.streamxhub.streamx:streamx-flink-sqlclient`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
 1. `com.ververica:flink-sql-connector-mysql-cdc`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`]
@@ -2336,7 +2336,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## net.kyori.examination.string
 
 1. `com.fastasyncworldedit:FastAsyncWorldEdit-Libs-Core`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.3.0`, `2.4.0`, `2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`, `2.4.5`, `2.4.7`]
-1. `eu.cloudnetservice.cloudnet:bridge`  -> [`4.0.0-RC1`, `4.0.0-RC2`]
+1. `eu.cloudnetservice.cloudnet:bridge`  -> [`4.0.0-RC1`, `4.0.0-RC2`, `4.0.0-RC3`]
 1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
 1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
 1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
@@ -3654,7 +3654,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlinx.serialization.core
 
-1. `io.github.shreyashsaitwal.rush:processor`  -> [`2.0.0-beta04`, `2.0.0-beta05`, `2.0.0-beta06`, `2.0.0-beta07`, `2.0.0-beta08`, `2.0.0-beta09`, `2.0.0-beta10`]
+1. `io.github.shreyashsaitwal.rush:processor`  -> [`2.0.0-beta04`, `2.0.0-beta05`, `2.0.0-beta06`, `2.0.0-beta07`, `2.0.0-beta08`, `2.0.0-beta09`, `2.0.0-beta10`, `2.0.0-beta11`]
 1. `org.danbrough.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.3`]
 1. `org.jetbrains.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`]
 
