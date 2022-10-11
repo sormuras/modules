@@ -260,7 +260,6 @@ io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0
 io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
 io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.12 -> io.github.yakovsirotkin.machamp.spring-boot-starter
-io.micrometer:micrometer-registry-new-relic:1.9.4 -> micrometer.registry.new.relic
 io.netty:netty-tcnative:2.0.54.Final -> io.netty.tcnative.openssl.osx-x86_64
 io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
 io.qameta.allure:allure-junit5-assert:2.19.0 -> io.qameta.allure.junit5-assert
