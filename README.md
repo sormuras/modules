@@ -61,27 +61,35 @@ You'll find the following summary at the start of each overview.
 - ➖ denotes an unrelated artifact, like BOM, POM, and other non-JAR packaging types.
   It also denotes old JAR files, as the scan process can only evaluate artifacts that were deployed after mid August 2018.
 
-### WatchList
+```
+    2019 2020 2021 2022
+🧩  122  140  137  142  // Java modules (module descriptor with stable name and API)
+⬜  205  259  272  300  // Automatic Java modules (name derived from JAR manifest)
+```
 
-📜 [WatchList](doc/WatchList.txt.md) overview.
+### Top1000-2022
 
-Compiled from [WatchList.txt](doc/WatchList.txt), which contains a community-curated list of Maven `Group:Artifact` lines.
+📜 [Top1000-2022.txt.md](doc/Top1000-2022.txt.md)
+
+[Top1000-2022.txt](doc/Top1000-2022.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of September 2022.
+
+### Top1000-2021
+
+📜 [Top1000-2021.txt.md](doc/Top1000-2021.txt.md)
+
+[Top1000-2021.txt](doc/Top1000-2021.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity of year 2021.
 
 ### Top1000-2020
 
 📜 [Top1000-2020.txt.md](doc/Top1000-2020.txt.md)
 
-[Top1000-2010.txt](doc/Top1000-2020.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of December 2020.
-This list may include some non-JAR entries (`pom`, `bom`, ...).
-It also contains entries that were not updated since August 2018.
+[Top1000-2020.txt](doc/Top1000-2020.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity of year 2020.
 
 ### Top1000-2019
 
 📜 [Top1000-2019.txt.md](doc/Top1000-2019.txt.md)
 
-[Top1000-2019.txt](doc/Top1000-2019.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity as of December 2019.
-This list also includes non-JAR entries (`pom`, `bom`, ...).
-It also contains entries that were not updated since August 2018.
+[Top1000-2019.txt](doc/Top1000-2019.txt) contains 1,000 Maven `Group:Artifact` lines sorted by download popularity of year 2019.
 
 
 ## Suspicious Artifacts
