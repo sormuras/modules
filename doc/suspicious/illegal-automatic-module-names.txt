@@ -103,6 +103,9 @@ com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
 com.github.librepdf:pdf-xml:1.2.16 -> com.github.librepdf.pdf-xml
+com.github.plokhotnyuk.expression-evaluator:expression-evaluator_2.11:0.1.3 -> expression-evaluator
+com.github.plokhotnyuk.expression-evaluator:expression-evaluator_2.12:0.1.3 -> expression-evaluator
+com.github.plokhotnyuk.expression-evaluator:expression-evaluator_2.13:0.1.3 -> expression-evaluator
 com.github.plokhotnyuk.fsi:fsi-macros_2.11:0.6.3 -> fsi-macros
 com.github.plokhotnyuk.fsi:fsi-macros_2.12:0.6.3 -> fsi-macros
 com.github.plokhotnyuk.fsi:fsi-macros_2.13:0.6.3 -> fsi-macros
@@ -634,7 +637,7 @@ org.jbpm:jbpm-workitems-template-resources:7.73.0.Final -> -
 org.jbpm:jbpm-xes:7.73.0.Final -> -
 org.jmonkeyengine:jme3-android-native:3.5.2-stable -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-native:5.3.0 -> org.jobrunr.spring.boot.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.7.4 -> joinfaces.starter.myfaces-next
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.5 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow-full:1.25.0.Final -> -
@@ -1576,12 +1579,12 @@ org.uberfire:uberfire-workbench-processors:7.73.0.Final -> -
 org.uberfire:uberfire-workbench-processors-tests:7.73.0.Final -> -
 org.uberfire:uberfire-workingset-api:7.73.0.Final -> -
 org.uberfire:uberfire-workingset-client:7.73.0.Final -> -
-pro.projo:projo-jackson:1.4.0 -> pro.projo.projo-jackson
-pro.projo:projo-jax-rs:1.4.0 -> pro.projo.projo-jax-rs
-pro.projo:projo-runtime-code-generation:1.4.0 -> pro.projo.projo-runtime-code-generation
-pro.projo:projo-template-annotation:1.4.0 -> pro.projo.projo-template-annotation
-pro.projo:projo-template-configuration:1.4.0 -> pro.projo.projo-template-configuration
-pro.projo:projo-template-generation:1.4.0 -> pro.projo.projo-template-generation
+pro.projo:projo-jackson:1.4.1 -> pro.projo.projo-jackson
+pro.projo:projo-jax-rs:1.4.1 -> pro.projo.projo-jax-rs
+pro.projo:projo-runtime-code-generation:1.4.1 -> pro.projo.projo-runtime-code-generation
+pro.projo:projo-template-annotation:1.4.1 -> pro.projo.projo-template-annotation
+pro.projo:projo-template-configuration:1.4.1 -> pro.projo.projo-template-configuration
+pro.projo:projo-template-generation:1.4.1 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
