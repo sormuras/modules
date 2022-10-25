@@ -373,7 +373,7 @@ org.apache.tomee:activemq-broker-shade:9.0.0-M8 -> org.apache.tomee.activemq-bro
 org.apache.tomee:activemq-client-shade:9.0.0-M8 -> org.apache.tomee.activemq-client-shade
 org.apache.tomee:activemq-kahadb-store-shade:9.0.0-M8 -> org.apache.tomee.activemq-kahadb-store-shade
 org.apache.tomee:activemq-ra-shade:9.0.0-M8 -> org.apache.tomee.activemq-ra-shade
-org.apache.tomee:arquillian-tomee-codi-tests:8.0.12 -> org.apache.tomee.arquillian-tomee-codi-tests
+org.apache.tomee:arquillian-tomee-codi-tests:8.0.13 -> org.apache.tomee.arquillian-tomee-codi-tests
 org.apache.tomee:arquillian-tomee-config-tests:9.0.0-M8 -> org.apache.tomee.arquillian-tomee-config-tests
 org.apache.tomee:arquillian-tomee-jaxrs-tests:9.0.0-M8 -> org.apache.tomee.arquillian-tomee-jaxrs-tests
 org.apache.tomee:arquillian-tomee-jaxws-tests:9.0.0-M8 -> org.apache.tomee.arquillian-tomee-jaxws-tests
@@ -391,13 +391,13 @@ org.apache.tomee:cucumber-openejb-shade:9.0.0-M8 -> org.apache.tomee.cucumber-op
 org.apache.tomee:cxf-rt-rs-mp-client-shade:9.0.0-M8 -> org.apache.tomee.cxf-rt-rs-mp-client-shade
 org.apache.tomee:cxf-shade:9.0.0-M8 -> org.apache.tomee.cxf-shade
 org.apache.tomee:microprofile-config-tck:9.0.0-M8 -> org.apache.tomee.microprofile-config-tck
-org.apache.tomee:microprofile-fault-tolerance-tck:8.0.12 -> org.apache.tomee.microprofile-fault-tolerance-tck
+org.apache.tomee:microprofile-fault-tolerance-tck:8.0.13 -> org.apache.tomee.microprofile-fault-tolerance-tck
 org.apache.tomee:microprofile-health-tck:9.0.0-M8 -> org.apache.tomee.microprofile-health-tck
 org.apache.tomee:microprofile-jwt-itests:9.0.0-M8 -> org.apache.tomee.microprofile-jwt-itests
 org.apache.tomee:microprofile-jwt-tck:9.0.0-M8 -> org.apache.tomee.microprofile-jwt-tck
 org.apache.tomee:microprofile-metrics-tck:9.0.0-M8 -> org.apache.tomee.microprofile-metrics-tck
-org.apache.tomee:microprofile-openapi-tck:8.0.12 -> org.apache.tomee.microprofile-openapi-tck
-org.apache.tomee:microprofile-opentracing-tck:8.0.12 -> org.apache.tomee.microprofile-opentracing-tck
+org.apache.tomee:microprofile-openapi-tck:8.0.13 -> org.apache.tomee.microprofile-openapi-tck
+org.apache.tomee:microprofile-opentracing-tck:8.0.13 -> org.apache.tomee.microprofile-opentracing-tck
 org.apache.tomee:microprofile-rest-client-tck:9.0.0-M8 -> org.apache.tomee.microprofile-rest-client-tck
 org.apache.tomee:mp-common:9.0.0-M8 -> org.apache.tomee.mp-common
 org.apache.tomee:openejb-jee:9.0.0-M8 -> org.apache.tomee.openejb-jee
