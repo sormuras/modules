@@ -7,12 +7,12 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x208
 1. `com.fasterxml.jackson.databind` x198
 1. `com.fasterxml.jackson.core` x186
-1. `com.google.gson` x178
+1. `com.google.gson` x179
 1. `kotlin.stdlib.jdk8` x100
 1. `org.bouncycastle.provider` x86
 1. `kotlin.stdlib` x85
 1. `java.xml.bind` x75
-1. `net.bytebuddy` x71
+1. `net.bytebuddy` x73
 1. `info.picocli` x69
 1. `com.fasterxml.jackson.annotation` x62
 1. `io.github.classgraph` x61
@@ -125,7 +125,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.contek.morphling:morphling-hdf5-lib`  -> [`1.0.5`, `1.0.6`]
 1. `io.etcd:jetcd-ctl`  -> [`0.6.0`, `0.6.1`, `0.7.0`, `0.7.1`, `0.7.2`, `0.7.3`]
 1. `io.github.basilapi:basil-server`  -> [`0.8.0`, `0.8.3`]
-1. `io.github.bigbird-0101:code-fxui`  -> [`3.0.2`]
+1. `io.github.bigbird-0101:code-fxui`  -> [`3.0.2`, `3.0.3`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.0.0-rc1`, `1.0.0`]
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.10`, `1.3.11`, `1.3.12`, `1.3.13`, `1.3.14`, `1.3.15`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`]
 1. `io.github.mathieusoysal:codingame-puzzles-stats-history`  -> [`1.0.0`, `1.2.0`]
@@ -329,7 +329,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
@@ -524,7 +524,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`]
-1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`]
+1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`]
@@ -643,7 +643,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 178 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 179 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`, `3.36.1.3`, `3.36.1.4`, `3.36.1.5`, `3.38.0.1`, `3.38.0.2`]
@@ -764,6 +764,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.tiledb:tiledb-cloud-java`  -> [`0.0.6`, `0.0.7`]
 1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.4.0`]
 1. `net.intelie.pipes:pipes`  -> [`0.25.3`, `0.25.4`, `0.25.5`]
+1. `net.obvj:jsonmerge-cli`  -> [`1.2.0`]
 1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`, `3.1.0`, `3.2.0`]
 1. `net.serenity-bdd:serenity-cli`  -> [`3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.3.0-BETA-1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.4`, `3.3.5`, `3.3.7`]
 1. `org.apache.arrow:flight-sql-jdbc-driver`  -> [`10.0.0`]
@@ -1197,7 +1198,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## net.bytebuddy
 
-For example, at least 71 artifacts on Maven Central claim to be the module `net.bytebuddy`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 73 artifacts on Maven Central claim to be the module `net.bytebuddy`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires net.bytebuddy;`.
 
 1. `cloud.orbit:orbit-redis-cluster`  -> [`1.5.0`, `1.5.1`]
@@ -1205,7 +1206,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alipay.sdk:alipay-easysdk`  -> [`1.0.0`, `1.0.1`]
 1. `com.criteo.java:garmadon-agent`  -> [`1.0.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`]
 1. `com.exasol:virtual-schema-common-document-files`  -> [`0.2.0`, `1.0.0`]
-1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`]
+1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`, `1.35.0`]
 1. `com.github.jiayaoguang:gameserver-example`  -> [`0.0.2`]
 1. `com.github.jsimone:webapp-runner`  -> [`9.0.27.1`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`]
@@ -1232,6 +1233,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.harvies.charon:charon-agent`  -> [`0.0.6`, `0.0.7`, `0.0.8`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.1.0`, `1.1.1`, `1.2.0`, `1.2.2`]
 1. `io.github.lomom:agent-logger`  -> [`1.0.1-Release`]
+1. `io.github.rysefoxx.hologram.plugin:MineQuestHologram-Plugin`  -> [`1.8`]
+1. `io.github.rysefoxx.npc.plugin:MineQuestNPC-Plugin`  -> [`1.4.1`]
 1. `io.kamon:kanela-agent`  -> [`1.0.0-M1`, `1.0.0-M2`, `1.0.0-M3`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
 1. `io.openk9:io.openk9.reactor.agent`  -> [`0.0.1-SNAPSHOTS`]
 1. `io.opentracing.contrib.specialagent:opentracing-specialagent`  -> [`0.9.0`, `1.0.1`, `1.0.2`]
@@ -1836,7 +1839,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 31 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.zaxxer.hikari;`.
 
-1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`]
+1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`, `3.3.7`]
 1. `cn.tenmg:flink-sql-connector-mysql-cdc-log`  -> [`1.0.0`]
 1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.2.0.1`, `1.2.0.2`, `1.2.1`, `1.2.1.1`, `1.2.1.2`, `1.2.2`, `1.2.2.1`, `1.2.2.2`, `1.2.3`, `1.2.3.1`, `1.2.4`, `1.2.4.3`, `1.2.5.1`, `1.2.5.2`, `1.2.7`, `1.2.8`, `1.2.8.2`, `1.2.8.3`, `1.2.9`, `1.2.9.1`, `1.2.9.2`, `1.3.0`, `1.3.0.1`, `1.3.0.2`, `1.3.0.3`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.1.1`, `1.4.2`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`, `1.7.7`, `1.7.8`, `1.7.9`, `1.8.0`]
 1. `com.dmetasoul:lakesoul-flink`  -> [`2.1.0-flink-1.14`, `2.1.1-flink-1.14`]
@@ -2387,6 +2390,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.nasdanika.core:exec-bundle`  -> [`2021.7.3-java-8-b`]
 1. `org.tango-controls:Pogo`  -> [`9.8.0`]
 
+## com.ctc.wstx
+
+1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`, `6.3.1`, `6.4.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.3`, `1.6.4`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.3`, `1.6.4`, `1.7.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.13`  -> [`1.7.0`]
+1. `org.sonarsource.slang:sonar-go-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`]
+1. `org.sonarsource.slang:sonar-scala-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`]
+
 ## de.carne.swt
 
 1. `de.carne.common:java-swt-cocoa-macosx-x86_64`  -> [`4.0.0`]
@@ -2416,8 +2428,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.poi.ooxml
 
-1. `ch.inss.joaswizard:joaswizard`  -> [`0.9.8`, `0.9.9`]
-1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`]
+1. `ch.inss.joaswizard:joaswizard`  -> [`0.9.8`, `0.9.9`, `0.9.10`]
+1. `com.github.zuinnote:hadoopoffice-hiveserde`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.7.0`]
 1. `com.github.zuinnote:hiveserde`  -> [`1.6.0`]
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`]
@@ -2470,19 +2482,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.amihaiemil.eoyaml
 
-1. `com.amihaiemil.web:eo-yaml`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.3.3`, `4.3.4`, `4.3.5`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.1.8`, `5.1.9`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`]
+1. `com.amihaiemil.web:eo-yaml`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.3.3`, `4.3.4`, `4.3.5`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.1.8`, `5.1.9`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`]
 1. `io.github.portlek:configs-bukkit`  -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
 1. `io.github.portlek:configs-bungeecord`  -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
 1. `io.github.portlek:configs-core`  -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
 1. `io.github.portlek:configs-nukkit`  -> [`4.7`, `4.7.1`, `4.7.2`, `4.7.3`, `4.7.4`, `4.7.5`]
-
-## com.ctc.wstx
-
-1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`, `6.3.1`, `6.4.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.3`, `1.6.4`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.3`, `1.6.4`]
-1. `org.sonarsource.slang:sonar-go-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`]
-1. `org.sonarsource.slang:sonar-scala-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`]
 
 ## com.fasterxml.jackson.datatype.guava
 
