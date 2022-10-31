@@ -4,8 +4,8 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `org.apache.logging.log4j` x208
-1. `com.fasterxml.jackson.databind` x198
+1. `org.apache.logging.log4j` x209
+1. `com.fasterxml.jackson.databind` x199
 1. `com.fasterxml.jackson.core` x186
 1. `com.google.gson` x179
 1. `kotlin.stdlib.jdk8` x100
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## org.apache.logging.log4j
 
-For example, at least 208 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 209 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -220,9 +220,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.finra.herd:herd-uploader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.grapheco.pandadb:pandadb-java-driver`  -> [`0.3`]
 1. `org.ibissource:frank-doc`  -> [`1.0`, `1.1`]
-1. `org.linqs:psl-cli`  -> [`2.3.0`]
+1. `org.linqs:psl-cli`  -> [`2.3.0`, `2.3.2`]
 1. `org.linqs:psl-java`  -> [`2.3.0`]
-1. `org.linqs:psl-neural`  -> [`CANARY-2.3.1`, `2.3.0`]
+1. `org.linqs:psl-neural`  -> [`CANARY-2.3.1`, `2.3.0`, `2.3.2`]
+1. `org.linqs:psl-runtime`  -> [`2.3.2`]
 1. `org.lucee:log4j-api`  -> [`2.17.0`, `2.17.0.0002L`, `2.17.1`, `2.17.2.0001L`]
 1. `org.n52.arctic-sea:iceland-statistics-kibana`  -> [`7.0.0`, `7.1.0`]
 1. `org.neo4j:neo4j-logging`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.3.0`, `4.3.1`, `4.3.2`, `4.3.3`, `4.3.4`, `4.3.5`, `4.3.6`, `4.3.7`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.3`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.4.9`, `4.4.10`, `4.4.11`, `4.4.12`]
@@ -247,7 +248,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 198 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 199 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -329,11 +330,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
+1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`]
 1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`, `1.7`, `1.8`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
 1. `io.kestra.plugin:plugin-cassandra`  -> [`0.5.0`]
@@ -1456,7 +1458,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.classgraph:classgraph` 🧩 -> [`4.0.7`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.3.0`, `4.3.1`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.3`, `4.4.5`, `4.4.7`, `4.4.8`, `4.4.9`, `4.4.10`, `4.4.11`, `4.4.12`, `4.6.8`, `4.6.9`, `4.6.10`, `4.6.11`, `4.6.12`, `4.6.13`, `4.6.14`, `4.6.16`, `4.6.18`, `4.6.19`, `4.6.20`, `4.6.21`, `4.6.22`, `4.6.23`, `4.6.24`, `4.6.25`, `4.6.26`, `4.6.27`, `4.6.28`, `4.6.29`, `4.6.30`, `4.6.31`, `4.6.32`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.8.4`, `4.8.5`, `4.8.6`, `4.8.7`, `4.8.8`, `4.8.9`, `4.8.10`, `4.8.11`, `4.8.12`, `4.8.13`, `4.8.14`, `4.8.15`, `4.8.16`, `4.8.17`, `4.8.19`, `4.8.20`, `4.8.21`, `4.8.22`, `4.8.23`, `4.8.24`, `4.8.25`, `4.8.26`, `4.8.27`, `4.8.28`, `4.8.29`, `4.8.30`, `4.8.31`, `4.8.32`, `4.8.33`, `4.8.34`, `4.8.35`, `4.8.36`, `4.8.37`, `4.8.38`, `4.8.39`, `4.8.40`, `4.8.41`, `4.8.42`, `4.8.43`, `4.8.44`, `4.8.45`, `4.8.46`, `4.8.47`, `4.8.48`, `4.8.49`, `4.8.50`, `4.8.51`, `4.8.52`, `4.8.53`, `4.8.54`, `4.8.55`, `4.8.56`, `4.8.57`, `4.8.58`, `4.8.59`, `4.8.60`, `4.8.61`, `4.8.62`, `4.8.63`, `4.8.64`, `4.8.65`, `4.8.66`, `4.8.67`, `4.8.68`, `4.8.69`, `4.8.70`, `4.8.71`, `4.8.72`, `4.8.73`, `4.8.74`, `4.8.75`, `4.8.76`, `4.8.77`, `4.8.78`, `4.8.79`, `4.8.80`, `4.8.81`, `4.8.82`, `4.8.83`, `4.8.84`, `4.8.85`, `4.8.86`, `4.8.87`, `4.8.88`, `4.8.89`, `4.8.90`, `4.8.92`, `4.8.93`, `4.8.94`, `4.8.95`, `4.8.96`, `4.8.97`, `4.8.98`, `4.8.100`, `4.8.101`, `4.8.102`, `4.8.103`, `4.8.104`, `4.8.105`, `4.8.106`, `4.8.107`, `4.8.108`, `4.8.109`, `4.8.110`, `4.8.111`, `4.8.112`, `4.8.113`, `4.8.114`, `4.8.115`, `4.8.116`, `4.8.117`, `4.8.118`, `4.8.119`, `4.8.120`, `4.8.121`, `4.8.122`, `4.8.123`, `4.8.124`, `4.8.125`, `4.8.126`, `4.8.127`, `4.8.128`, `4.8.129`, `4.8.130`, `4.8.131`, `4.8.132`, `4.8.133`, `4.8.134`, `4.8.135`, `4.8.136`, `4.8.137`, `4.8.138`, `4.8.139`, `4.8.140`, `4.8.141`, `4.8.143`, `4.8.144`, `4.8.145`, `4.8.146`, `4.8.147`, `4.8.148`, `4.8.149`]
 1. `io.github.eisop:checker`  -> [`3.21.2-eisop1`, `3.21.3-eisop1`, `3.21.4-eisop1`, `3.22.0-eisop1`, `3.22.1-eisop1`, `3.23.0-eisop1`, `3.23.0-eisop2`, `3.24.0-eisop1`, `3.25.0-eisop1`, `3.26.0-eisop1`]
 1. `io.github.it-gorillaz:one-lambda`  -> [`1.0.0`]
-1. `io.github.kojiv:annotations`  -> [`1.0`, `1.1`, `1.1.2`, `1.1.3`]
+1. `io.github.kojiv:annotations`  -> [`1.0`, `1.1`, `1.1.2`, `1.1.3`, `1.19.2`]
 1. `io.github.kojiv:developerkit`  -> [`1.5`, `1.5.1`]
 1. `io.github.shenbinglife:argsRunner`  -> [`1.0.0`]
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.21.2`, `1.21.3`]
@@ -1678,8 +1680,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.ramalapure:filesystem`  -> [`1.0`]
 1. `com.infobip:jira-version-generator`  -> [`2.0.1`]
 1. `com.neko233:forward-engineering`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`]
-1. `com.neko233:neko233-action-chain`  -> [`0.0.1`]
-1. `com.neko233:neko233-utils-all`  -> [`0.0.1`]
+1. `com.neko233:neko233-action-chain`  -> [`0.0.1`, `0.0.3`]
+1. `com.neko233:neko233-utils-all`  -> [`0.0.1`, `0.0.3`]
 1. `com.neko233:sql-light-rail`  -> [`0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.1.0`, `0.1.1`]
 1. `com.neko233:sqlStatement-light-rail`  -> [`0.0.3`]
 1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
@@ -2054,7 +2056,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-crypto`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.4.0`, `0.5.0`]
 1. `org.bouncycastle:bcpg-fips`  -> [`1.0.3`, `1.0.4`, `1.0.5`, `1.0.5.1`]
 1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcpg-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`]
+1. `org.bouncycastle:bcpg-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.72.1`]
 1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
 1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
 1. `org.vafer:jdeb`  -> [`1.8`, `1.9`, `1.10`]

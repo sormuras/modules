@@ -636,7 +636,7 @@ org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.73.0.Final -> -
 org.jbpm:jbpm-xes:7.73.0.Final -> -
 org.jmonkeyengine:jme3-android-native:3.5.2-stable -> jme3.android.native
-org.jobrunr:jobrunr-spring-boot-native:5.3.0 -> org.jobrunr.spring.boot.native
+org.jobrunr:jobrunr-spring-boot-native:5.3.1 -> org.jobrunr.spring.boot.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.7.5 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
