@@ -244,6 +244,7 @@ de.saxsys:mvvmfx-spring-boot:1.8.0 -> de.saxsys.mvvmfx-spring-boot
 de.saxsys:mvvmfx-testing-utils:1.8.0 -> de.saxsys.mvvmfx-testing-utils
 de.saxsys:mvvmfx-utils:1.8.0 -> de.saxsys.mvvmfx-utils
 de.saxsys:mvvmfx-validation:1.8.0 -> de.saxsys.mvvmfx-validation
+eu.europa.ec.joinup.sd-dss:dss-jacoco-coverage:5.10.2 -> -
 hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.1 -> hu.blackbelt.judo.eclipse.epp.package.common
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
