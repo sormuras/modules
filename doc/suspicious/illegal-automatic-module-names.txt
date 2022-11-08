@@ -468,6 +468,7 @@ org.apereo.cas:cas-server-webapp-eureka-server:6.1.0-RC4 -> cas-server-webapp-eu
 org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
+org.creekservice:creek-json-schema-gradle-plugin:0.1.4 -> creek-json-schema-gradle-plugin
 org.dashbuilder:dashbuilder-client-all:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-cms-client:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-common-client:7.73.0.Final -> -
