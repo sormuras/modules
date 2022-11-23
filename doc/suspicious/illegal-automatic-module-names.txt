@@ -572,10 +572,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.097:2.2.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:2.2.0 -> org.eclipse.app4mc.amalthea.converters.100
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:2.2.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:2.2.0 -> org.eclipse.app4mc.amalthea.converters.210
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:12.0.37 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.37 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:12.0.39 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.39 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.37 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.39 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
@@ -1472,7 +1472,7 @@ org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.pfsw:pf-julea-log4j2:1.0.0 -> org.pfsw.julea-log4j2
 org.pharmgkb:vcf-parser:0.3.0 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
-org.selenide:selenide-selenoid:2.2.4 -> org.selenide.selenide-selenoid
+org.selenide:selenide-selenoid:2.3.2 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
@@ -1612,5 +1612,5 @@ pro.projo:projo-template-generation:1.5.0 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.12.13 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.13.0 -> smithy-kotlin-codegen
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
