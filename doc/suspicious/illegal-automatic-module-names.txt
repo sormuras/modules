@@ -1467,7 +1467,7 @@ org.mongodb.scala:mongo-scala-driver:4.0.0-beta1 -> org.mongodb.scala.mongo-scal
 org.mongodb.scala:mongo-scala-driver_2.11:4.8.0 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb.scala:mongo-scala-driver_2.12:4.8.0 -> org.mongodb.scala.mongo-scala-driver
 org.mongodb.scala:mongo-scala-driver_2.13:4.8.0 -> org.mongodb.scala.mongo-scala-driver
-org.natspal:nconsole-client-api:0.5.4 -> org.natspal.nconsole-client-api
+org.natspal:nconsole-client-api:0.5.5 -> org.natspal.nconsole-client-api
 org.neo4j:neo4j-ast-3.5:3.5.35 -> -
 org.neo4j:neo4j-expressions-3.5:3.5.35 -> -
 org.neo4j:neo4j-parser-3.5:3.5.35 -> -
