@@ -130,7 +130,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
-1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`]
+1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`]
 1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`, `1.7`, `1.8`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
 1. `io.kestra.plugin:plugin-cassandra`  -> [`0.5.0`]
@@ -799,7 +799,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.intelie.pipes:pipes`  -> [`0.25.3`, `0.25.4`, `0.25.5`]
 1. `net.obvj:jsonmerge-cli`  -> [`1.2.0`]
 1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`, `3.1.0`, `3.2.0`]
-1. `net.serenity-bdd:serenity-cli`  -> [`3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.3.0-BETA-1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.4`, `3.3.5`, `3.3.7`, `3.3.9-RC2`, `3.3.9-RC3`, `3.3.9`, `3.3.10`, `3.4.0`, `3.4.1`, `3.4.2`]
+1. `net.serenity-bdd:serenity-cli`  -> [`3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.3.0-BETA-1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.4`, `3.3.5`, `3.3.7`, `3.3.9-RC2`, `3.3.9-RC3`, `3.3.9`, `3.3.10`, `3.4.0`, `3.4.1`, `3.4.2`, `3.4.3`]
 1. `org.apache.arrow:flight-sql-jdbc-driver`  -> [`10.0.0`, `10.0.1`]
 1. `org.apache.beam:beam-examples-multi-language`  -> [`2.42.0`, `2.43.0`]
 1. `org.apache.beam:beam-runners-flink-1.12-job-server`  -> [`2.42.0`, `2.43.0`]
@@ -1677,7 +1677,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 49 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.jaxb;`.
 
-1. `co.luminositylabs.payara.arquillian:payara-container-common`  -> [`2.4.5-ll-20211004.01`]
+1. `co.luminositylabs.payara.arquillian:payara-container-common`  -> [`2.4.5-ll-20211004.01`, `2.5-ll-20221127.01`]
 1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.0.0-beta.2`, `4.0.0-beta.3`, `4.0.0`, `4.1.0`, `4.2.0`, `4.2.1-beta.1`, `4.3.0`, `4.3.1`, `4.4.0-beta.1`, `4.4.0`, `4.4.1`, `4.4.2`]
 1. `com.exasol:parquet-io-java`  -> [`1.3.1`, `1.3.2`, `1.3.3`]
 1. `com.fasterxml.jackson.module:jackson-module-jaxb-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`]
@@ -2391,6 +2391,16 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`]
 1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`]
 
+## kotlinx.serialization.json
+
+1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.1.3`]
+1. `com.ivianuu.injekt:injekt-compiler-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
+1. `dev.limebeck:revealkt-cli`  -> [`0.0.1`, `0.0.2`]
+1. `net.nurigo:sdk`  -> [`4.2.5`, `4.2.6`, `4.2.7`]
+1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.140`]
+1. `org.danbrough.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.3`, `1.3.3a`]
+1. `org.jetbrains.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`, `1.4.1`]
+
 ## org.apache.poi.poi
 
 1. `ch.exense.step.library:step-library-kw-excel`  -> [`1.0.7`, `1.0.8`, `2021.08.18-ID174e3d1`]
@@ -2497,15 +2507,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.carne:java-test-swt-cocoa-macosx-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-gtk-linux-x86_64`  -> [`4.0.1`, `4.0.2`]
 1. `de.carne:java-test-swt-win32-win32-x86_64` 🧩 -> [`4.0.1`, `4.0.2`]
-
-## kotlinx.serialization.json
-
-1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.1.3`]
-1. `com.ivianuu.injekt:injekt-compiler-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
-1. `net.nurigo:sdk`  -> [`4.2.5`, `4.2.6`, `4.2.7`]
-1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.140`]
-1. `org.danbrough.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.3`, `1.3.3a`]
-1. `org.jetbrains.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`, `1.4.1`]
 
 ## net.kyori.examination.string
 
