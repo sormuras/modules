@@ -605,8 +605,6 @@ org.jberet.samples:jberet-samples-common:1.3.0.Final -> org.jberet.samples.jbere
 org.jberet:jberet-camel:1.3.0.Final -> org.jberet.jberet-camel
 org.jberet:jberet-rest-api:1.4.1.Final -> org.jberet.jberet-rest-api
 org.jberet:jberet-rest-commons:1.4.1.Final -> org.jberet.jberet-rest-commons
-org.jberet:jberet-schedule-executor:1.4.1.Final -> org.jberet.jberet-schedule-executor
-org.jberet:jberet-schedule-timer:1.4.1.Final -> org.jberet.jberet-schedule-timer
 org.jberet:jberet-vertx-cluster:1.3.0.Final -> org.jberet.jberet-vertx-cluster
 org.jberet:jberet-vertx-rest:1.3.0.Final -> org.jberet.jberet-vertx-rest
 org.jberet:jberet-vertx-shell:1.3.0.Final -> org.jberet.jberet-vertx-shell
@@ -1476,7 +1474,7 @@ org.neo4j:neo4j-parser-3.5:3.5.35 -> -
 org.neo4j:neo4j-rewriting-3.5:3.5.35 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.pfsw:pf-julea-log4j2:1.0.0 -> org.pfsw.julea-log4j2
-org.pharmgkb:vcf-parser:0.3.0 -> org.pharmgkb.vcf-parser
+org.pharmgkb:vcf-parser:0.3.1 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:2.3.3 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
