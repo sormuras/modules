@@ -278,6 +278,9 @@ io.easybest:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-core:2.0.1.RELEASE -> -
 io.easybest:spring-data-mybatis-processor:2.0.1.RELEASE -> -
 io.github.c-fraser:authzed4k:0.5.0 -> io.github.c-fraser.authzed4k
+io.github.c-fraser:defer-it-api:0.1.0 -> io.github.cfraser.defer-it.api
+io.github.c-fraser:defer-it-compiler-plugin:0.1.0 -> io.github.cfraser.defer-it.compiler
+io.github.c-fraser:defer-it-gradle-plugin:0.1.0 -> io.github.cfraser.defer-it.gradle
 io.github.clightning4j:jrpclightning:0.2.2 -> 'io.clightning4j.jrpclightning'
 io.github.elki-project:elki-3dpc:0.8.0 -> elki.3dpc
 io.github.elki-project:elki-core-dbids-int:0.8.0 -> elki.core.dbids.int
