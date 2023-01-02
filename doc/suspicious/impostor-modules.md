@@ -349,7 +349,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`]
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`]
-1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`]
+1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`, `1.5.4`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`]
 1. `io.kestra.plugin:plugin-elasticsearch`  -> [`0.5.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
@@ -806,7 +806,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
 1. `io.github.scalapb-json:protoc-lint-shaded_2.12`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`]
 1. `io.github.tzfun.jvmm:jvmm-server`  -> [`1.0.0`]
-1. `io.jooby:jooby-graphql`  -> [`2.14.0`, `2.14.1`, `2.14.2`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`, `3.0.0.M1`]
+1. `io.jooby:jooby-graphql`  -> [`2.14.0`, `2.14.1`, `2.14.2`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`, `3.0.0.M1`, `3.0.0.M2`]
 1. `io.kamon:kamon-bundle_2.12`  -> [`2.1.5`]
 1. `io.kamon:kamon-bundle_2.13`  -> [`2.1.5`]
 1. `io.keploy:agent`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`]
@@ -1515,7 +1515,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.origin-energy:java-snapshot-testing-junit5`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
 1. `io.github.origin-energy:java-snapshot-testing-spock`  -> [`2.0.0-Beta4`, `2.0.0-Beta6`]
 1. `io.github.sawors:WerewolfGame`  -> [`0.1`, `0.2`]
-1. `io.jooby:jooby-cli`  -> [`3.0.0.M1`]
+1. `io.jooby:jooby-cli`  -> [`3.0.0.M1`, `3.0.0.M2`]
 1. `io.keyko:secret-store-client`  -> [`0.1.0`]
 1. `io.virtdata:virtdata-lib-curves4`  -> [`2.12.01`, `2.12.02`, `2.12.03`]
 1. `io.virtdata:virtdata-lib-random`  -> [`2.12.01`, `2.12.02`, `2.12.03`]
@@ -2022,7 +2022,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.charles-grozny.pluginlib:bukkitpluginlib`  -> [`1.0.0`, `1.0.1`]
 1. `io.github.dailystruggle:CommandsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA04`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA08`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA13`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA19`, `1.0-ALPHA23`, `1.0-ALPHA26`, `1.0-ALPHA28`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA31`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`, `1.0-ALPHA36`, `1.0-ALPHA37`, `1.0-ALPHA38`, `1.0-ALPHA39`, `1.0-ALPHA40`, `1.0-ALPHA42`, `1.0-ALPHA44`, `1.0-ALPHA50`, `1.0-ALPHA53`, `1.0-ALPHA55`, `1.0-ALPHA56`]
 1. `io.github.dailystruggle:EffectsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA02`, `1.0-ALPHA03`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA17`, `1.0-ALPHA20`, `1.0-ALPHA21`, `1.0-ALPHA22`, `1.0-ALPHA23`, `1.0-ALPHA24`, `1.0-ALPHA26`, `1.0-ALPHA27`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA32`, `1.0-ALPHA33`]
-1. `io.github.dailystruggle:RTP`  -> [`2.0.0-BETA01`]
+1. `io.github.dailystruggle:RTP`  -> [`2.0.0-BETA01`, `2.0.0-BETA03`]
 1. `io.github.rysefoxx:MineQuestNPC`  -> [`1.0`, `1.1`, `1.2`, `1.2.2.1`, `1.3`, `1.3.1`]
 1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`]
 1. `io.github.wand555:richerconversation-api`  -> [`1.0.2`, `1.0.3`]
@@ -2420,7 +2420,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.scalar-labs:scalardl-java-client-sdk`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
 1. `jakarta.json:jakarta.json-api`  -> [`1.1.5`, `1.1.6`]
 1. `javax.json:javax.json-api` 🧩 -> [`1.1.3`, `1.1.4`]
-1. `org.apache.sling:org.apache.sling.cms.feature`  -> [`1.1.2`]
+1. `org.apache.sling:org.apache.sling.cms.feature`  -> [`1.1.2`, `1.1.4`]
 1. `org.finra.herd:herd-access-validator`  -> [`0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`, `0.150.0`, `0.152.0`, `0.154.0`, `0.155.0`, `0.156.0`, `0.157.0`, `0.158.0`, `0.159.0`, `0.160.0`]
 1. `org.finra.herd:herd-downloader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`, `0.150.0`, `0.152.0`, `0.154.0`, `0.155.0`, `0.156.0`, `0.157.0`, `0.158.0`, `0.159.0`, `0.160.0`]
 1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`, `0.150.0`, `0.152.0`, `0.154.0`, `0.155.0`, `0.156.0`, `0.157.0`, `0.158.0`, `0.159.0`, `0.160.0`]
@@ -4018,7 +4018,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.jxc454:udpmodels`  -> [`1.0.1`]
 1. `dev.redcoke:mcserverping`  -> [`0.1`, `0.1.1`, `0.1.2`, `0.1.3`]
-1. `org.codehaus.plexus:plexus-java` 🧩 -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`]
+1. `org.codehaus.plexus:plexus-java` 🧩 -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`]
 
 ## org.freedesktop.dbus.transport.jnr
 
