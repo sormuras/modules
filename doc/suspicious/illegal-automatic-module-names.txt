@@ -293,7 +293,7 @@ io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0
 io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
 io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.12 -> io.github.yakovsirotkin.machamp.spring-boot-starter
-io.netty:netty-tcnative:2.0.54.Final -> io.netty.tcnative.openssl.osx-x86_64
+io.netty:netty-tcnative:2.0.55.Final -> io.netty.tcnative.openssl.osx-x86_64
 io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
 io.qameta.allure:allure-junit5-assert:2.20.1 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.1 -> io.skullabs.apt.class-generator
@@ -1482,8 +1482,9 @@ org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:2.3.4 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
+org.simplejavamail:google-oauth2-provider:1.0.1 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
-org.simplejavamail:smtp-connection-pool:2.0.2 -> smtp-connection-pool
+org.simplejavamail:smtp-connection-pool:2.1.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.0.1 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M1-groovy-2.5 -> org.spockframework.groovy2-compat
