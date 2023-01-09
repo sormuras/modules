@@ -663,7 +663,7 @@ org.jbpm:jbpm-workitems-template-resources:7.73.0.Final -> -
 org.jbpm:jbpm-xes:7.73.0.Final -> -
 org.jmonkeyengine:jme3-android-native:3.6.0-alpha1 -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.7.6 -> joinfaces.starter.myfaces-next
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.7 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow-full:1.25.0.Final -> -

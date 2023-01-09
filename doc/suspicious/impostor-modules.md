@@ -1259,7 +1259,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`, `1.35.0`, `1.35.1`, `1.36.0`, `1.37.0`, `1.38.0`, `1.38.1`, `1.39.0`, `1.40.0`]
 1. `io.aeron:aeron-all`  -> [`1.13.0`, `1.14.0`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.19.1`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.2`, `1.22.0`, `1.22.1`, `1.23.0`, `1.23.1`]
 1. `io.github.greycode:shardingsphere-agent-bootstrap`  -> [`5.3.1.1`]
-1. `io.github.greycode:shardingsphere-agent-core`  -> [`5.3.1.2`]
+1. `io.github.greycode:shardingsphere-agent-core`  -> [`5.3.1.2`, `5.3.1.3`]
 1. `io.github.greycode:shardingsphere-agent-metrics-core`  -> [`5.3.1.1`]
 1. `io.github.greycode:shardingsphere-agent-plugin-core`  -> [`5.3.1.1`]
 1. `io.github.harvies.charon:charon-agent`  -> [`0.0.6`, `0.0.7`, `0.0.8`]
@@ -2811,7 +2811,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.apache.commons.logging
 
 1. `com.guicedee.services:commons-logging`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `io.github.stewseo:yelp-fusion-client`  -> [`1.0.63`, `1.0.63-fix`, `1.0.64`]
+1. `io.github.stewseo:yelp-fusion-client`  -> [`1.0.63`, `1.0.63-fix`, `1.0.64`, `1.7.5`]
 1. `no.ssb.vtl:java-vtl-interpreter`  -> [`0.1.0`]
 1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`]
 1. `org.springframework.cloud:spring-cloud-contract-shade`  -> [`4.0.0`]
