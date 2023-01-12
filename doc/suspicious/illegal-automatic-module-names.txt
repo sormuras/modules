@@ -102,10 +102,10 @@ com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.as
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
-com.github.albfernandez.richfaces:richfaces-a4j:4.6.20.ayg -> com.github.albfernandez.richfaces.richfaces-a4j
-com.github.albfernandez.richfaces:richfaces-core:4.6.20.ayg -> com.github.albfernandez.richfaces.richfaces-core
-com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.20.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
-com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.20.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
+com.github.albfernandez.richfaces:richfaces-a4j:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-a4j
+com.github.albfernandez.richfaces:richfaces-core:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-core
+com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
+com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
 com.github.albfernandez.seam:jboss-seam-flex:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-flex
 com.github.albfernandez:jbpm-examples:3.2.18.ayg -> com.github.albfernandez.jbpm-examples
 com.github.albfernandez:jbpm-identity:3.2.18.ayg -> com.github.albfernandez.jbpm-identity
@@ -493,7 +493,7 @@ org.apereo.cas:cas-server-webapp-eureka-server:6.1.0-RC4 -> cas-server-webapp-eu
 org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
-org.creekservice:creek-json-schema-gradle-plugin:0.2.0 -> creek-json-schema-gradle-plugin
+org.creekservice:creek-json-schema-gradle-plugin:0.3.0 -> creek-json-schema-gradle-plugin
 org.creekservice:creek-system-test-gradle-plugin:0.2.0 -> creek-system-test-gradle-plugin
 org.dashbuilder:dashbuilder-client-all:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-cms-client:7.73.0.Final -> -
@@ -582,10 +582,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.0.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.0.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.0.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.0.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:12.0.41 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:12.0.41 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:12.0.41 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
