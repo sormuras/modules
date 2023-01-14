@@ -113,7 +113,6 @@ com.github.albfernandez:jbpm-jpdl:3.2.18.ayg -> com.github.albfernandez.jbpm-jpd
 com.github.albfernandez:jbpm-simulation:3.2.18.ayg -> com.github.albfernandez.jbpm-simulation
 com.github.albfernandez:jbpm-tomcat:3.2.18.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:clustered-object-pool:2.0.2 -> clustered-object-pool
-com.github.bbottema:emailaddress-rfc2822:2.3.0 -> emailaddress-rfc2822
 com.github.bbottema:generic-object-pool:2.0.1 -> generic-object-pool
 com.github.bbottema:java-reflection:4.0.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:2.0.0 -> java-socks-proxy-server
