@@ -7,7 +7,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x226
 1. `com.fasterxml.jackson.core` x222
 1. `org.apache.logging.log4j` x211
-1. `com.google.gson` x195
+1. `com.google.gson` x196
 1. `kotlin.stdlib.jdk8` x129
 1. `kotlin.stdlib` x92
 1. `org.bouncycastle.provider` x88
@@ -132,7 +132,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`, `8.6`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`, `2.1.3-20221116-1`, `3.0.0-20221130-1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
@@ -710,7 +710,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 195 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 196 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`, `3.36.1.3`, `3.36.1.4`, `3.36.1.5`, `3.38.0.1`, `3.38.0.2`, `3.38.0.3`, `3.38.0.4`]
@@ -897,15 +897,16 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.40.0`, `1.40.2`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.24.0`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.31.0`]
-1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`]
-1. `se.bjurr.violations:violations-git-lib`  -> [`1.47.0`, `1.47.1`, `1.47.2`]
-1. `se.bjurr.violations:violations-lib`  -> [`1.150.0`, `1.151.0`, `1.152.0`, `1.153.0`, `1.153.2`, `1.154.1`, `1.155.0`, `1.155.1`, `1.155.2`, `1.155.3`]
+1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`, `1.22.4`, `1.22.5`, `1.22.6`, `1.22.7`, `1.22.8`, `1.22.9`]
+1. `se.bjurr.violations:violations-git-lib`  -> [`1.47.0`, `1.47.1`, `1.47.2`, `1.47.3`, `1.47.4`, `1.47.5`, `1.47.6`, `1.47.7`]
+1. `se.bjurr.violations:violations-lib`  -> [`1.150.0`, `1.151.0`, `1.152.0`, `1.153.0`, `1.153.2`, `1.154.1`, `1.155.0`, `1.155.1`, `1.155.2`, `1.155.3`, `1.155.4`, `1.155.5`, `1.155.6`, `1.155.7`, `1.155.8`]
 1. `software.amazon.smithy:smithy-language-server`  -> [`0.2.0`, `0.2.1`, `0.2.2`]
 1. `tech.xigam:grasscutter`  -> [`1.0.0-dev`, `1.0.1-dev`, `1.0.2-dev`]
 1. `uk.co.gresearch.dgraph:dgraph4j-shaded`  -> [`21.12.0-0`]
 1. `xyz.deftu.coffeecord:Coffeecord`  -> [`1.0.0-alpha.1`]
 1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
+1. `xyz.grasscutters:grasscutter`  -> [`1.4.6`]
 1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.14`, `0.6.15`]
 1. `xyz.tozymc.api:config-api`  -> [`1.0-BETA`]
 
@@ -1110,7 +1111,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.5.0`, `0.5.1`]
 1. `io.kestra.plugin:plugin-kafka`  -> [`0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`]
 1. `io.kestra.storage:storage-gcs`  -> [`0.5.0`]
-1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.1.0-RC.0`, `0.1.0`, `0.1.2-RC.0`, `0.1.3`, `0.1.4`, `0.1.5`, `0.1.6`, `0.58.1-new-key`]
+1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.1.0-RC.0`, `0.1.0`, `0.1.2-RC.0`, `0.1.3`, `0.1.4`, `0.1.5`, `0.1.6`, `0.58.1-new-key`, `0.1.10`]
 1. `io.matthewbradshaw:klu`  -> [`0.0.1`, `1.0.0`, `2.0.0`, `2.1.0`, `2.1.1`]
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-maven-extension`  -> [`1.10.0-alpha`, `1.11.0-alpha`, `1.12.0-alpha`, `1.13.0-alpha`, `1.14.0-alpha`, `1.15.0-alpha`, `1.16.0-alpha`]
@@ -1246,7 +1247,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alipay.sdk:alipay-easysdk`  -> [`1.0.0`, `1.0.1`]
 1. `com.criteo.java:garmadon-agent`  -> [`1.0.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`]
 1. `com.exasol:virtual-schema-common-document-files`  -> [`0.2.0`, `1.0.0`]
-1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`, `1.35.0`]
+1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`, `1.35.0`, `1.35.1`]
 1. `com.github.jiayaoguang:gameserver-example`  -> [`0.0.2`]
 1. `com.github.jsimone:webapp-runner`  -> [`9.0.27.1`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`]
@@ -2523,7 +2524,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.xenit.care4alf:care4alf-6x`  -> [`2.1.1`, `2.1.2`, `2.1.3`, `2.2.1`, `2.3.0`, `2.4.0`, `2.5.0`, `3.0.0`]
 1. `eu.xenit.care4alf:care4alf-7x`  -> [`2.4.0`, `2.5.0`, `3.0.0`]
 1. `net.enilink.bundles:net.enilink.bundles.liftweb`  -> [`3.5.0`, `3.5.0-sp`, `3.5.0-sp2`]
-1. `org.joda:joda-convert` 🧩 -> [`2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.2.2`]
+1. `org.joda:joda-convert` 🧩 -> [`2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 1. `za.co.absa:atum-examples-s3-sdk-extension_2.12`  -> [`3.6.0`, `3.7.0`]
 1. `za.co.absa:atum-examples_2.12`  -> [`3.6.0`, `3.7.0`]
 
@@ -2887,7 +2888,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cn.wisewe:apsose-shade-office`  -> [`1.1.0-SHANSHOT`]
 1. `cn.wisewe:aspose-shade`  -> [`1.0.0.RELEASE`]
 1. `cn.wisewe:docx4j-wisewe-convert`  -> [`1.6.0.RELEASE`, `1.6.1.RELEASE`]
-1. `com.luhuiguo:aspose-words`  -> [`22.10`]
+1. `com.luhuiguo:aspose-words`  -> [`22.10`, `22.12`]
 
 ## com.github.benmanes.caffeine
 
