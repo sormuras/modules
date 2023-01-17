@@ -664,6 +664,8 @@ org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.73.0.Final -> -
 org.jbpm:jbpm-xes:7.73.0.Final -> -
 org.jmonkeyengine:jme3-android-native:3.6.0-alpha3 -> jme3.android.native
+org.jobrunr:jobrunr-spring-boot-2-starter:6.0.0-M0 -> org.jobrunr.spring.boot-2.starter
+org.jobrunr:jobrunr-spring-boot-3-starter:6.0.0-M0 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.7.7 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
@@ -1487,7 +1489,7 @@ org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
-org.simplejavamail:smtp-connection-pool:2.1.2 -> smtp-connection-pool
+org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.0.1 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M1-groovy-2.5 -> org.spockframework.groovy2-compat
