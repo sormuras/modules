@@ -28,6 +28,12 @@ au.com.dius:pact-jvm-provider-scalatest_2.12:4.0.10 -> au.com.dius.pact_jvm_prov
 au.com.dius:pact-jvm-provider-specs2_2.12:4.0.10 -> au.com.dius.pact_jvm_provider_specs2_2.12
 biz.aQute.bnd:biz.aQute.bnd.embedded-repo:6.4.0 -> biz.aQute.bnd.embedded-repo
 biz.aQute.bnd:biz.aQute.tester.junit-platform:6.4.0 -> biz.aQute.tester.junit-platform
+build.buf.prototype:connect-kotlin-protoc-gen-java-ext:v0.0.0-test0120 -> protoc-gen-java-extensions
+build.buf.prototype:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-test0120 -> protoc-gen-javalite-extensions
+build.buf.prototype:connect-kotlin-wire-ext:v0.0.0-test0120 -> wire-extensions
+build.buf:connect-kotlin-protoc-gen-java-ext:v0.0.0-preview -> protoc-gen-java-extensions
+build.buf:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-preview -> protoc-gen-javalite-extensions
+build.buf:connect-kotlin-wire-ext:v0.0.0-preview -> wire-extensions
 codes.rafael.concurrent-trees:concurrent-trees:2.6.2 -> codes.rafael.concurrent-trees.concurrent-trees
 com.antgroup.tugraph:tugraph-rpc-driver:0.1.0 -> -
 com.azure:tracing-opentelemetry:1.0.0-preview.2 -> -
@@ -395,7 +401,7 @@ org.apache.tomee:activemq-broker-shade:9.0.0 -> org.apache.tomee.activemq-broker
 org.apache.tomee:activemq-client-shade:9.0.0 -> org.apache.tomee.activemq-client-shade
 org.apache.tomee:activemq-kahadb-store-shade:9.0.0 -> org.apache.tomee.activemq-kahadb-store-shade
 org.apache.tomee:activemq-ra-shade:9.0.0 -> org.apache.tomee.activemq-ra-shade
-org.apache.tomee:arquillian-tomee-codi-tests:8.0.13 -> org.apache.tomee.arquillian-tomee-codi-tests
+org.apache.tomee:arquillian-tomee-codi-tests:8.0.14 -> org.apache.tomee.arquillian-tomee-codi-tests
 org.apache.tomee:arquillian-tomee-config-tests:9.0.0 -> org.apache.tomee.arquillian-tomee-config-tests
 org.apache.tomee:arquillian-tomee-jaxrs-tests:9.0.0 -> org.apache.tomee.arquillian-tomee-jaxrs-tests
 org.apache.tomee:arquillian-tomee-jaxws-tests:9.0.0 -> org.apache.tomee.arquillian-tomee-jaxws-tests
