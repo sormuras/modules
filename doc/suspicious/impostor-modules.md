@@ -7,14 +7,14 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x227
 1. `com.fasterxml.jackson.core` x226
 1. `org.apache.logging.log4j` x212
-1. `com.google.gson` x201
+1. `com.google.gson` x202
 1. `kotlin.stdlib.jdk8` x131
 1. `kotlin.stdlib` x92
 1. `org.bouncycastle.provider` x89
 1. `net.bytebuddy` x88
 1. `info.picocli` x76
 1. `java.xml.bind` x75
-1. `org.slf4j` x68
+1. `org.slf4j` x69
 1. `com.fasterxml.jackson.annotation` x65
 1. `io.github.classgraph` x64
 1. `com.fasterxml.jackson.module.jaxb` x61
@@ -716,7 +716,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 201 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 202 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.h2o:h2o-clustering`  -> [`3.36.1.1`, `3.36.1.2`, `3.36.1.3`, `3.36.1.4`, `3.36.1.5`, `3.38.0.1`, `3.38.0.2`, `3.38.0.3`, `3.38.0.4`]
@@ -867,7 +867,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.29.0`, `2.30.0`, `2.31.0`, `2.32.0`, `2.33.0`, `2.42.0`, `2.43.0`, `2.44.0`]
 1. `org.apache.beam:beam-vendor-grpc-1_26_0`  -> [`0.1`]
 1. `org.apache.beam:beam-vendor-grpc-1_48_1`  -> [`0.1`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-gson`  -> [`4.1.1`, `4.1.2`, `4.1.3`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-gson`  -> [`4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`]
 1. `org.apache.jena:jena-fuseki-fulljar`  -> [`4.5.0`, `4.6.0`, `4.6.1`, `4.7.0`]
 1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.5.0`, `4.6.0`, `4.6.1`, `4.7.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`4.5.0`, `4.6.0`, `4.6.1`, `4.7.0`]
@@ -882,6 +882,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.cqfn:astranaut`  -> [`0.1.4`, `0.1.5`, `0.2`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`]
 1. `org.eclipse.californium:cf-plugtest-checker`  -> [`3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`, `3.6.0`, `3.7.0`]
 1. `org.eclipse.californium:cf-plugtest-client`  -> [`3.5.0`, `3.6.0`, `3.7.0`]
+1. `org.glavo.hiper:u1`  -> [`1.2.5`]
 1. `org.iota:iota-client`  -> [`1.0.0-rc.1`]
 1. `org.iota:iota-wallet`  -> [`1.0.0-rc.1`]
 1. `org.jetbrains.dokka:kotlin-analysis-intellij`  -> [`1.4.32`]
@@ -1510,7 +1511,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 68 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 69 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `be.atbash.runtime.api:full-api`  -> [`0.4`]
@@ -1537,6 +1538,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:sl4j`  -> [`1.0.9.5-jre14`, `1.0.9.7-jre14`, `1.0.9.10-jre14`, `1.0.9.11-jre14`, `1.0.9.13-jre14`, `1.0.9.14-jre14`, `1.0.10.0-jre14`, `1.0.10.1-jre14`, `1.0.10.3-jre14`, `1.0.10.4-jre14`, `1.0.11.0-jre14`, `1.0.11.2-jre14`, `1.0.11.5-jre14`, `1.0.11.6-jre14`, `1.0.11.7-jre14`, `1.0.12.0-jre14`, `1.0.12.1-jre14`, `1.0.12.2-jre14`, `1.0.12.3-jre14`, `1.0.12.4-jre14`, `1.0.12.5-jre14`, `1.0.13.0-jre14`, `1.0.13.1-jre14`, `1.0.13.2-jre14`, `1.0.13.3-jre14`, `1.0.13.4-jre14`, `1.0.13.5-jre14`]
 1. `com.guicedee.services:slf4j`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`0.4.0`, `0.4.1`, `0.4.2`]
+1. `com.mageddo.csv2jdbc:csv2jdbc`  -> [`0.2.0-snapshot`, `0.2.0`]
 1. `com.sndyuk:logback-more-appenders`  -> [`1.5.7-JAVA9MODULE_SLF4J17`, `1.6.0-JAVA9MODULE_SLF4J17`, `1.6.1-JAVA9MODULE_SLF4J17`, `1.7.1-JAVA9MODULE_SLF4J17`, `1.7.2-JAVA9MODULE_SLF4J17`, `1.7.3-JAVA9MODULE_SLF4J17`, `1.7.4-JAVA9MODULE_SLF4J17`, `1.7.5-JAVA9MODULE_SLF4J17`, `1.8.0-JAVA9MODULE_SLF4J17`, `1.8.1-JAVA9MODULE_SLF4J17`, `1.8.2-JAVA9MODULE_SLF4J17`, `1.8.3-JAVA9MODULE_SLF4J17`, `1.8.4-JAVA9MODULE_SLF4J17`, `1.8.5-JAVA9MODULE_SLF4J17`, `1.8.6-JAVA9MODULE_SLF4J17`, `1.8.7-JAVA9MODULE_SLF4J17`]
 1. `com.teamscale:teamscale-surefire-provider`  -> [`27.0.0`, `27.0.1`, `28.0.0`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.23`, `1.0.30`, `1.0.31`]
@@ -1880,7 +1882,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
 1. `es.jfml:JFML-Core`  -> [`1.3.1`]
 1. `es.jfml:java-core`  -> [`1.3.0`]
-1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`]
+1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`]
 1. `io.github.devlibx.easy:ratelimit`  -> [`0.0.115`, `0.0.116`, `0.0.117`, `0.0.118`, `0.0.119`, `0.0.120`, `0.0.121`, `0.0.122`, `0.0.123`, `0.0.124`, `0.0.125`, `0.0.126`, `2.java-17.1`, `3.java-17.1`]
 1. `io.github.harvies.charon:charon-socks-proxy-server`  -> [`0.0.7`, `0.0.8`]
 1. `io.github.interestinglab.waterdrop:plugin-flink-sink-elasticsearch`  -> [`2.0.2`]
@@ -2148,7 +2150,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.stargate.web:sgv2-restapi`  -> [`2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`, `2.0.0-BETA-1`]
 1. `it.vige.cities:cities-generator`  -> [`1.2.0`]
 1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.19.0`, `1.20.0-hadoop2`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`]
 1. `org.apache.tika:tika-server-classic`  -> [`2.0.0-ALPHA`]
 1. `org.apache.tika:tika-server-core`  -> [`2.0.0-ALPHA`, `2.0.0-BETA`]
 1. `org.apache.tika:tika-server-standard`  -> [`2.0.0-BETA`]
