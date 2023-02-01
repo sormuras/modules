@@ -31,8 +31,8 @@ biz.aQute.bnd:biz.aQute.tester.junit-platform:6.4.0 -> biz.aQute.tester.junit-pl
 build.buf.prototype:connect-kotlin-protoc-gen-java-ext:v0.0.0-test0120 -> protoc-gen-java-extensions
 build.buf.prototype:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-test0120 -> protoc-gen-javalite-extensions
 build.buf.prototype:connect-kotlin-wire-ext:v0.0.0-test0120 -> wire-extensions
-build.buf:connect-kotlin-google-java-ext:0.0.2-preview -> protoc-gen-java-extensions
-build.buf:connect-kotlin-google-javalite-ext:0.0.2-preview -> protoc-gen-javalite-extensions
+build.buf:connect-kotlin-google-java-ext:0.0.3-preview -> google-java-extensions
+build.buf:connect-kotlin-google-javalite-ext:0.0.3-preview -> google-javalite-extensions
 build.buf:connect-kotlin-protoc-gen-java-ext:v0.0.0-preview -> protoc-gen-java-extensions
 build.buf:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-preview -> protoc-gen-javalite-extensions
 build.buf:connect-kotlin-square-wire-ext:0.0.2-preview -> wire-extensions
@@ -593,10 +593,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.0.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.0.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.0.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.0.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.0.alpha_0 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
