@@ -2268,12 +2268,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## java.ws.rs
 
-For example, at least 16 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 17 artifacts on Maven Central claim to be the module `java.ws.rs`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires java.ws.rs;`.
 
 1. `cc.kebei:boot-in-jar`  -> [`1.1`]
 1. `com.bazaarvoice.emodb:emodb-web-local`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
 1. `com.bazaarvoice.emodb:emodb-web`  -> [`6.3.0`, `6.3.1`, `6.3.2`, `6.4.0`, `6.4.1`]
+1. `com.epam.reportportal:plugin-bts-jira`  -> [`5.7.3`]
 1. `com.guicedee.services:java.ws.rs`  -> [`1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`]
 1. `com.intershop.gradle.jobrunner:icmjobrunner`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
 1. `de.foellix:AQL-System`  -> [`1.2.0`]
@@ -2404,7 +2405,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.gitee.pyqone:autest`  -> [`2.0.0-RELEASE`]
 1. `com.github.qgintest:testutilities`  -> [`1.5.0`, `1.7.0`]
 1. `com.iceolive:selenium-script`  -> [`0.0.5`]
-1. `com.infotel.seleniumRobot:core`  -> [`3.14.2`, `4.0.0`, `4.0.1`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.2.1`, `4.2.2`, `4.3.0`, `4.22.5`, `4.23.0`, `4.23.1`, `4.23.3`, `4.23.4`, `4.23.5`, `4.23.6`, `4.23.7`]
+1. `com.infotel.seleniumRobot:core`  -> [`3.14.2`, `4.0.0`, `4.0.1`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.2.1`, `4.2.2`, `4.3.0`, `4.22.5`, `4.23.0`, `4.23.1`, `4.23.3`, `4.23.4`, `4.23.5`, `4.23.6`, `4.23.7`, `4.23.8`]
 1. `io.github.sridharbandi:java-a11y`  -> [`1.1.0`, `2.0-alpha-1`]
 1. `io.sitoolkit.wt:sit-wt-app`  -> [`3.0.0-alpha.2`, `3.0.0-beta.1`, `3.0.0-beta.2`, `3.0.0-beta.3`, `3.0.0`]
 1. `io.tesbo:Tesbo-Web`  -> [`0.0.6`]
