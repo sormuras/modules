@@ -24,14 +24,14 @@ jobs:
         run: |
           DATE=$(date -u '+%Y.%m.%d')
           DATETIME=$(date -u '+%Y.%m.%d.%H.%M.%S')
-          echo "::set-output name=date::${DATE}"
-          echo "::set-output name=datetime::${DATETIME}"
+          echo "date=${DATE}" >> $GITHUB_OUTPUT
+          echo "datetime=${DATETIME}" >> $GITHUB_OUTPUT
           SHA=$(echo "${{ github.sha }}" | cut -c1-7)
           TAG=0-ea
           VERSION=${TAG}+${SHA}
-          echo "::set-output name=sha::${SHA}"
-          echo "::set-output name=tag::${TAG}"
-          echo "::set-output name=version::${VERSION}"
+          echo "sha=${SHA}" >> $GITHUB_OUTPUT
+          echo "tag::${TAG}" >> $GITHUB_OUTPUT
+          echo "version=${VERSION}" >> $GITHUB_OUTPUT
 
   build:
     needs: [ setup ]
@@ -49,7 +49,7 @@ jobs:
         run: |
           SIZE=$(aws s3api list-objects-v2 --bucket java9plusadoption --region us-east-1 --no-sign-request --query "[length(Contents[])]" --output json | jq '.[]')
           echo SIZE = ${SIZE}
-          echo ::set-output name=size::$(echo ${SIZE})
+          echo "size=$(echo ${SIZE})" >> $GITHUB_OUTPUT
       - name: 'Cache bucket'
         id: cache-bucket
         uses: actions/cache@v3
@@ -76,7 +76,7 @@ jobs:
           com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Count modules'
         id: count-modules
-        run: echo ::set-output name=size::$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)
+        run: echo "size=$(wc --lines < com.github.sormuras.modules/com/github/sormuras/modules/modules.properties)" >> $GITHUB_OUTPUT
       - name: 'Build with Bach'
         run: |
           PATH=.bach/bin:$PATH
@@ -85,7 +85,7 @@ jobs:
         id: git-status
         run: |
           git status
-          echo ::set-output name=modified::$(if [[ -z $(git status --porcelain) ]]; then echo 'false'; else echo 'true'; fi)
+          echo "modified=$(if [[ -z $(git status --porcelain) ]]; then echo 'false'; else echo 'true'; fi)" >> $GITHUB_OUTPUT
       - name: 'Commit and push changes'
         if: steps.git-status.outputs.modified == 'true'
         run: |
@@ -115,7 +115,7 @@ jobs:
             --file com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
       - name: 'Upload artifact ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}'
         if: always()
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: ${{ github.event.repository.name }}-build-${{ needs.setup.outputs.version }}
           path: |
