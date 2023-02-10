@@ -38,9 +38,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Check out repository'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: 'Set up Java'
-        uses: oracle-actions/setup-java@v1
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'oracle'
+          java-version: 19
       - name: 'Get bucket size'
         id: bucket
         run: |
@@ -49,7 +52,7 @@ jobs:
           echo ::set-output name=size::$(echo ${SIZE})
       - name: 'Cache bucket'
         id: cache-bucket
-        uses: actions/cache@v2.1.4
+        uses: actions/cache@v3
         with:
           path: bucket
           key: bucket-${{ steps.bucket.outputs.size }}
