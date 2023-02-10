@@ -68,6 +68,7 @@ jobs:
         run: |
           java \
           -Xmx5G \
+          -Dbadges=true \
           -Ddoc=true \
           -Dillegal-automatic-module-names=true \
           -Dimpostor-modules=true \
