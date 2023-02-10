@@ -45,6 +45,7 @@ class Scanner {
       Files.write(file, lines);
       out("Wrote unique module-uri pairs to %s%n", file.toUri());
     }
+    if (Boolean.getBoolean("badges")) scanner.writeBadgeTables(Path.of("doc", "badges"));
     if (Boolean.getBoolean("doc")) scanner.writeDocTables(Path.of("doc"), "*.txt");
     if (Boolean.getBoolean("illegal-automatic-module-names")) {
       var lines =
@@ -200,6 +201,31 @@ class Scanner {
       if (lines.size() > 1) impostors.add(new Impostor(module, lines));
     }
     return impostors;
+  }
+
+  void writeBadgeTables(Path directory) throws Exception {
+    for (var line : Files.readAllLines(directory.resolve("badges.txt"))) {
+      var trim = line.trim();
+      if (trim.isEmpty() || trim.startsWith("#")) continue;
+      var fact = facts.get(trim);
+      if (fact == null) continue; // quick sanity check before streaming all scans
+      var hits = new ArrayList<String>();
+      hits.add("# Badges of " + fact.G + ":" + fact.A);
+      hits.add("");      
+      for (var scan : scans) {
+        if (scan.GA.equals(line)) {
+          hits.add("## Version " + scan.V);
+          hits.add("");
+          if (scan.isExplicit()) {
+            hits.add("- ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)");
+            hits.add("- ![module-name](https://img.shields.io/badge/module--name-"+scan.module+"-green)");
+            continue;
+          }
+          hits.add("- `" + scan + "`");
+        }
+      }
+      Files.write(directory.resolve("badges-" + fact.G + "-" + fact.A + ".md"), hits);
+    }
   }
 
   void writeDocTables(Path directory, String glob) throws Exception {

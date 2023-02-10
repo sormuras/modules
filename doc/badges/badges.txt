@@ -1,1 +1,2 @@
 org.junit.jupiter:junit-jupiter
+org.slf4j:slf4j-api
