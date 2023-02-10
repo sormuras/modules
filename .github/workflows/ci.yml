@@ -30,7 +30,7 @@ jobs:
           TAG=0-ea
           VERSION=${TAG}+${SHA}
           echo "sha=${SHA}" >> $GITHUB_OUTPUT
-          echo "tag::${TAG}" >> $GITHUB_OUTPUT
+          echo "tag=${TAG}" >> $GITHUB_OUTPUT
           echo "version=${VERSION}" >> $GITHUB_OUTPUT
 
   build:
