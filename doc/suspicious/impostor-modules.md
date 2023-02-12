@@ -14,7 +14,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.bouncycastle.provider` x89
 1. `info.picocli` x76
 1. `java.xml.bind` x75
-1. `org.slf4j` x71
+1. `org.slf4j` x72
 1. `com.fasterxml.jackson.annotation` x65
 1. `io.github.classgraph` x64
 1. `com.fasterxml.jackson.module.jaxb` x61
@@ -134,7 +134,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`, `8.6`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`, `0.618.0`, `0.619.0`, `0.620.0`, `0.621.0`, `0.622.0`, `0.626.0`, `0.627.0`, `0.628.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`, `0.618.0`, `0.619.0`, `0.620.0`, `0.621.0`, `0.622.0`, `0.626.0`, `0.627.0`, `0.628.0`, `0.629.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`, `2.1.3-20221116-1`, `3.0.0-20221130-1`]
 1. `io.github.bad-pop:celeritas-http-client`  -> [`1.1.1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
@@ -774,7 +774,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.google.api-ads:google-ads-shadowjar`  -> [`0.0.1-alpha`, `15.0.0`, `16.0.0`, `16.0.1`, `16.0.2`, `16.0.3`, `17.0.0`, `17.0.1`, `18.0.0`, `19.0.0`, `20.0.0`, `21.0.0`, `22.0.0`]
 1. `com.google.api-ads:google-ads`  -> [`16.0.0`, `16.0.1`]
 1. `com.google.api:gapic-generator-java`  -> [`2.12.0`]
-1. `com.google.appengine:runtime-impl`  -> [`2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`]
+1. `com.google.appengine:runtime-impl`  -> [`2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`]
 1. `com.google.cloud.opentelemetry:exporter-auto`  -> [`0.10.0`, `0.10.1`, `0.11.0`, `0.14.0-RC1`, `0.15.0-alpha`, `0.16.0-alpha`, `0.17.0-alpha`, `0.18.0-alpha`, `0.18.1-alpha`, `0.19.0-alpha`, `0.20.0-alpha`, `0.21.0-alpha`, `0.22.0-alpha`, `0.23.0-alpha`, `0.24.0-alpha`]
 1. `com.google.cloud:pubsub-group-kafka-connector`  -> [`0.1.2`, `0.1.3`, `0.1.4`, `0.1.5`, `1.0.0`]
 1. `com.google.code.gson:gson`  -> [`2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.9.0`, `2.9.1`, `2.10`, `2.10.1`]
@@ -840,8 +840,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.jooby:jooby-graphql`  -> [`2.14.0`, `2.14.1`, `2.14.2`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`, `3.0.0.M1`, `3.0.0.M2`]
 1. `io.kamon:kamon-bundle_2.12`  -> [`2.1.5`]
 1. `io.kamon:kamon-bundle_2.13`  -> [`2.1.5`]
-1. `io.keploy:agent`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`]
-1. `io.keploy:keploy-sdk`  -> [`1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`]
+1. `io.keploy:agent`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`]
+1. `io.keploy:keploy-sdk`  -> [`1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.5`, `1.1.6`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`]
 1. `io.kestra.plugin:plugin-amqp`  -> [`0.6.0`]
 1. `io.kestra.plugin:plugin-dbt`  -> [`0.4.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.6.0`]
@@ -1010,7 +1010,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`]
 1. `io.github.portlek:patty`  -> [`1.1`]
 1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`, `1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`]
-1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin`  -> [`1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`, `1.0.2-alpha1`, `1.0.2`, `1.0.3-alpha1`, `1.0.3-alpha2`, `1.0.3`]
+1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin`  -> [`1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`, `1.0.2-alpha1`, `1.0.2`, `1.0.3-alpha1`, `1.0.3-alpha2`, `1.0.3`, `1.1.0-alpha2`]
 1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
 1. `io.github.shiruka:conf-common`  -> [`1.1`]
 1. `io.github.shiruka:conf-json`  -> [`1.1`]
@@ -1527,7 +1527,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 71 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 72 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `be.atbash.runtime.api:full-api`  -> [`0.4`]
@@ -1539,13 +1539,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.bytes-pot:daraja-api`  -> [`1.0-b`, `1.1-b`, `1.2-b`, `1.3-b`, `1.4-b`, `1.5-b`, `1.6-b`]
 1. `com.credibledoc:log-combiner`  -> [`1.0.20`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`, `1.0.29`, `1.0.30`, `1.0.31`, `1.0.32`, `1.0.33`, `1.0.34`, `1.0.35`, `1.0.36`, `1.0.37`, `1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`, `1.0.44`, `1.0.45`, `1.0.46`, `1.0.47`, `1.0.48`]
 1. `com.credibledoc:substitution-core`  -> [`1.0.20`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`, `1.0.29`, `1.0.30`, `1.0.31`, `1.0.32`, `1.0.33`, `1.0.34`, `1.0.35`, `1.0.36`, `1.0.37`, `1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`, `1.0.44`]
-1. `com.daml:codegen-scala-main`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:ledger-api-bench-tool`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:ledger-api-test-tool-1.15`  -> [`2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:ledger-api-test-tool`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:sandbox-on-x-app-jar`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
+1. `com.daml:codegen-scala-main`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:ledger-api-bench-tool`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:ledger-api-test-tool-1.14`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:ledger-api-test-tool-1.15`  -> [`2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:ledger-api-test-tool-1.dev`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:ledger-api-test-tool`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:sandbox-on-x-app-jar`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
 1. `com.danielflower.apprunner:app-runner`  -> [`2.3.7`]
 1. `com.github.biyanwen:easycsv`  -> [`1.0.0`]
 1. `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback`  -> [`10.0.0-M1`, `10.0.0-M3`, `10.0.0-M4`, `10.0.0-M5`, `10.0.0-M6`, `10.0.0-M7`, `10.0.0-M9`, `10.0.0`]
@@ -1561,6 +1561,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.teamscale:teamscale-surefire-provider`  -> [`27.0.0`, `27.0.1`, `28.0.0`, `29.0.0`, `29.1.0`, `29.1.1`, `29.1.2`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.23`, `1.0.30`, `1.0.31`]
 1. `ga.palomox.lightrest:lightrest`  -> [`1.1.0`]
+1. `info.ankin.projects:jgit-cli`  -> [`0.0.1`]
 1. `io.bdeploy:api`  -> [`5.0.0`, `5.0.1`, `5.1.0`, `5.2.0`, `5.3.0`]
 1. `io.github.aliyun-mq:rocketmq-slf4j-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `io.github.aliyunmq:rocketmq-slf4j-api`  -> [`1.0.0`, `1.0.1`]
@@ -1900,7 +1901,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
 1. `es.jfml:JFML-Core`  -> [`1.3.1`]
 1. `es.jfml:java-core`  -> [`1.3.0`]
-1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`]
+1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`, `0.10.0-1rc3`]
 1. `io.github.devlibx.easy:ratelimit`  -> [`0.0.115`, `0.0.116`, `0.0.117`, `0.0.118`, `0.0.119`, `0.0.120`, `0.0.121`, `0.0.122`, `0.0.123`, `0.0.124`, `0.0.125`, `0.0.126`, `2.java-17.1`, `3.java-17.1`]
 1. `io.github.harvies.charon:charon-socks-proxy-server`  -> [`0.0.7`, `0.0.8`]
 1. `io.github.interestinglab.waterdrop:plugin-flink-sink-elasticsearch`  -> [`2.0.2`]
@@ -2439,8 +2440,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ch.hsr.adv:adv-lib`  -> [`1.0`]
 1. `ch.hsr.adv:adv-ui`  -> [`1.0`]
 1. `ch.qos.logback:logback-classic` 🧩 -> [`1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha6`, `1.3.0-alpha7`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-alpha10`, `1.3.0-alpha11`, `1.3.0-alpha12`, `1.3.0-alpha13`, `1.3.0-alpha14`, `1.3.0-alpha15`, `1.3.0-alpha16`, `1.3.0-beta0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`]
-1. `com.daml:codegen-java`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
-1. `com.daml:codegen-jvm-main`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`]
+1. `com.daml:codegen-java`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
+1. `com.daml:codegen-jvm-main`  -> [`2.5.0-snapshot.20221018.10786.0.e5c418a9`, `2.5.0-snapshot.20221019.10799.0.6e7c4084`, `2.6.0-snapshot.20230208.11396.0.73271b21`, `2.6.0-snapshot.20230209.11407.0.e582860e`, `2.6.0-snapshot.20230210.11415.0.5c00481a`]
 1. `com.github.gv2011.logback:logback-classic`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
 1. `com.optum.sourcehawk:sourcehawk-exec`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.3.0`, `0.4.0`, `0.4.2`, `0.4.3`, `0.4.4`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`]
@@ -3635,6 +3636,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.aherscu.qa:qa-jgiven-commons`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`]
 1. `io.github.jaqat:remoterobot`  -> [`0.2.1`, `0.2.2`]
 1. `org.seleniumhq.selenium:selenium-remote-driver`  -> [`3.14.0`, `3.141.0`, `3.141.5`, `3.141.59`, `4.0.0-alpha-1`, `4.0.0-alpha-2`]
+
+## org.slf4j.zio
+
+1. `dev.zio:zio-logging-slf4j2-bridge_2.11`  -> [`2.1.9`]
+1. `dev.zio:zio-logging-slf4j2-bridge_2.12`  -> [`2.1.9`]
+1. `dev.zio:zio-logging-slf4j2-bridge_2.13`  -> [`2.1.9`]
+1. `dev.zio:zio-logging-slf4j2-bridge_3`  -> [`2.1.9`]
 
 ## aopalliance
 
