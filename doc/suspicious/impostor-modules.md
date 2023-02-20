@@ -134,7 +134,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.18`, `1.0.19`, `1.0.20`, `1.0.21`, `1.0.22`]
 1. `fish.payara.arquillian:payara-container-common`  -> [`3.0.alpha5`]
 1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.0`, `8.3`, `8.4`, `8.6`]
-1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`, `0.618.0`, `0.619.0`, `0.620.0`, `0.621.0`, `0.622.0`, `0.626.0`, `0.627.0`, `0.628.0`, `0.629.0`, `0.630.0`, `0.631.0`, `0.632.0`, `0.634.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`, `0.618.0`, `0.619.0`, `0.620.0`, `0.621.0`, `0.622.0`, `0.626.0`, `0.627.0`, `0.628.0`, `0.629.0`, `0.630.0`, `0.631.0`, `0.632.0`, `0.634.0`, `0.635.0`, `0.636.0`, `0.637.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`, `2.1.3-20221116-1`, `3.0.0-20221130-1`]
 1. `io.github.bad-pop:celeritas-http-client`  -> [`1.1.1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
@@ -1015,7 +1015,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`]
 1. `io.github.portlek:patty`  -> [`1.1`]
 1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`, `1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`]
-1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin`  -> [`1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`, `1.0.2-alpha1`, `1.0.2`, `1.0.3-alpha1`, `1.0.3-alpha2`, `1.0.3`, `1.1.0-alpha2`, `1.1.0-alpha3`]
+1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin`  -> [`1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`, `1.0.2-alpha1`, `1.0.2`, `1.0.3-alpha1`, `1.0.3-alpha2`, `1.0.3`, `1.1.0-alpha2`, `1.1.0-alpha3`, `1.1.0-alpha4`, `1.1.0-alpha5`]
 1. `io.github.shiruka:common`  -> [`1.0`, `1.2`, `1.3`]
 1. `io.github.shiruka:conf-common`  -> [`1.1`]
 1. `io.github.shiruka:conf-json`  -> [`1.1`]
@@ -2218,7 +2218,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.31.0`, `2.32.0`, `2.33.0`]
 1. `org.apache.inlong:sort-connector-mongodb-cdc`  -> [`1.2.0-incubating`, `1.3.0`, `1.4.0`]
 1. `org.apache.seatunnel:connector-elasticsearch`  -> [`2.2.0-beta`, `2.3.0-beta`]
-1. `org.openapitools:openapi-generator-cli`  -> [`6.2.0`, `6.2.1`, `6.3.0`]
+1. `org.openapitools:openapi-generator-cli`  -> [`6.2.0`, `6.2.1`, `6.3.0`, `6.4.0`]
 
 ## org.objectweb.asm.commons
 
@@ -2961,7 +2961,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.github.benmanes.caffeine
 
-1. `com.github.ben-manes.caffeine:caffeine` 🧩 -> [`3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`]
+1. `com.github.ben-manes.caffeine:caffeine` 🧩 -> [`3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`]
 1. `com.google.errorprone:error_prone_refaster`  -> [`2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`, `2.14.0`, `2.15.0`, `2.16`, `2.17.0`, `2.18.0`]
 1. `org.atlanmod.commons:commons-core`  -> [`1.1.0`, `1.1.1`]
 1. `org.atlanmod.commons:commons-testing`  -> [`1.1.0`, `1.1.1`]
@@ -3757,7 +3757,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.clickhouse.jdbc
 
-1. `com.clickhouse:clickhouse-jdbc` 🧩 -> [`0.3.2-test2`, `0.3.2-test3`, `0.4.0`]
+1. `com.clickhouse:clickhouse-jdbc` 🧩 -> [`0.3.2-test2`, `0.3.2-test3`, `0.4.0`, `0.4.1`]
 1. `io.kestra.plugin:plugin-jdbc-clickhouse`  -> [`0.4.1`, `0.4.2`, `0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`]
 1. `ru.yandex.clickhouse:clickhouse-jdbc`  -> [`0.3.2`]
 
