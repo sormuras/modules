@@ -32,8 +32,8 @@ biz.aQute.bnd:biz.aQute.tester.junit-platform:6.4.0 -> biz.aQute.tester.junit-pl
 build.buf.prototype:connect-kotlin-protoc-gen-java-ext:v0.0.0-test0120 -> protoc-gen-java-extensions
 build.buf.prototype:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-test0120 -> protoc-gen-javalite-extensions
 build.buf.prototype:connect-kotlin-wire-ext:v0.0.0-test0120 -> wire-extensions
-build.buf:connect-kotlin-google-java-ext:0.1.0 -> google-java-extensions
-build.buf:connect-kotlin-google-javalite-ext:0.1.0 -> google-javalite-extensions
+build.buf:connect-kotlin-google-java-ext:0.1.1-preview3 -> google-java-extensions
+build.buf:connect-kotlin-google-javalite-ext:0.1.1-preview3 -> google-javalite-extensions
 build.buf:connect-kotlin-protoc-gen-java-ext:v0.0.0-preview -> protoc-gen-java-extensions
 build.buf:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-preview -> protoc-gen-javalite-extensions
 build.buf:connect-kotlin-square-wire-ext:0.0.2-preview -> wire-extensions
@@ -240,7 +240,7 @@ com.squareup.wire:wire-schema-tests:4.5.1 -> wire-schema-tests
 com.squareup.wire:wire-swift-generator:4.5.1 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:66.1.2 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:66.1.3 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2022.10.5 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -389,7 +389,6 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.logging.log4j:log4j-jakarta-smtp:2.19.0 -> -
 org.apache.logging.log4j:log4j-liquibase:2.19.0 -> -
 org.apache.tomee.bom:tomee-microprofile:9.0.0 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:9.0.0 -> org.apache.tomee.bom.tomee-microprofile-api
@@ -598,10 +597,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.0.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.0.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.0.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.0.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.1 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.2 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
