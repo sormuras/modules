@@ -101,6 +101,7 @@ class Scanner {
     return switch (group) {
       case "com.fasterxml.jackson.core" -> "com.fasterxml.jackson";
       case "com.github.almasb" -> "com.almasb";
+      case "io.github.openfeign" -> "feign";
       case "javax.json" -> "java.json";
       case "net.colesico.framework" -> "colesico.framework";
       case "org.jetbrains.kotlin" -> "kotlin";
