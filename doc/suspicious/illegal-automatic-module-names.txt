@@ -538,7 +538,7 @@ org.dashbuilder:dashbuilder-services:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-services-api:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-validations:7.73.0.Final -> -
 org.dashbuilder:dashbuilder-widgets:7.73.0.Final -> -
-org.digidoc4j.dss:dss-jacoco-coverage:5.9.d4j.1 -> -
+org.digidoc4j.dss:dss-jacoco-coverage:5.11.1.d4j.1 -> -
 org.drools.testcoverage:drools-kie-ci-with-domain-test-domain:8.34.0.Final -> -
 org.drools.testcoverage:drools-kie-ci-with-domain-test-kjar:8.34.0.Final -> -
 org.drools.testcoverage:drools-kie-ci-with-domain-tests:8.34.0.Final -> -
