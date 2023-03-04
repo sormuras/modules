@@ -205,8 +205,8 @@ com.googlecode.ez-vcard:ez-vcard:0.12.0 -> com.googlecode.ez-vcard
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.22.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.22.0 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.23.0 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.23.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:2.0.0 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -219,7 +219,7 @@ com.linkall:cdk-java:0.2.1 -> -
 com.linkall:sink-example:1.0.0 -> -
 com.linkall:source-example:1.0.0 -> -
 com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.2 -> -
-com.navercorp.scavenger:scavenger-old-agent-java:1.0.0 -> Shadow-scavenger-old-agent-java
+com.navercorp.scavenger:scavenger-old-agent-java:1.0.3 -> Shadow-scavenger-old-agent-java
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
 com.squareup.wire:wire-codegen-sample:3.1.0 -> wire-codegen-sample
 com.squareup.wire:wire-compiler:4.5.1 -> wire-compiler
