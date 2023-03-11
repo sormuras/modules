@@ -505,7 +505,7 @@ org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
 org.apereo.cas:cas-server-webapp-eureka-server:6.1.0-RC4 -> cas-server-webapp-eureka-server
 org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
-org.apereo.cas:cas-server-webapp-native:7.0.0-RC4 -> cas.server.webapp.native
+org.apereo.cas:cas-server-webapp-native:7.0.0-RC5 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
 org.creekservice:creek-json-schema-gradle-plugin:0.3.2 -> creek-json-schema-gradle-plugin
