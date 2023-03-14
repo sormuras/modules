@@ -32,8 +32,8 @@ biz.aQute.bnd:biz.aQute.tester.junit-platform:6.4.0 -> biz.aQute.tester.junit-pl
 build.buf.prototype:connect-kotlin-protoc-gen-java-ext:v0.0.0-test0120 -> protoc-gen-java-extensions
 build.buf.prototype:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-test0120 -> protoc-gen-javalite-extensions
 build.buf.prototype:connect-kotlin-wire-ext:v0.0.0-test0120 -> wire-extensions
-build.buf:connect-kotlin-google-java-ext:0.1.2 -> google-java-extensions
-build.buf:connect-kotlin-google-javalite-ext:0.1.2 -> google-javalite-extensions
+build.buf:connect-kotlin-google-java-ext:0.1.4 -> google-java-extensions
+build.buf:connect-kotlin-google-javalite-ext:0.1.4 -> google-javalite-extensions
 build.buf:connect-kotlin-protoc-gen-java-ext:v0.0.0-preview -> protoc-gen-java-extensions
 build.buf:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-preview -> protoc-gen-javalite-extensions
 build.buf:connect-kotlin-square-wire-ext:0.0.2-preview -> wire-extensions
