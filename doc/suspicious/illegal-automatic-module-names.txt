@@ -208,7 +208,7 @@ com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
 com.hcl.domino:domino-jnx-lsxbeshim:1.23.0 -> domino-jnx-lsxbeshim
 com.hcl.domino:jnx-example-graalvm-native:1.23.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
-com.helger:en16931-cii2ubl:2.0.0 -> com.helger.en16931-cii2ubl
+com.helger:en16931-cii2ubl:2.0.1 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
