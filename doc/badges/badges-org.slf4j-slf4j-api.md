@@ -52,6 +52,10 @@
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
 - ![module-name](https://img.shields.io/badge/module--name-org.slf4j-green)
+## Version 2.0.7
+
+- ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
+- ![module-name](https://img.shields.io/badge/module--name-org.slf4j-green)
 ## Version 2.0.0
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
