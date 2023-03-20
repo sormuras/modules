@@ -5,14 +5,14 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `com.fasterxml.jackson.core` x241
-1. `com.fasterxml.jackson.databind` x238
+1. `com.fasterxml.jackson.databind` x239
 1. `org.apache.logging.log4j` x224
 1. `com.google.gson` x222
 1. `kotlin.stdlib.jdk8` x138
 1. `kotlin.stdlib` x104
 1. `net.bytebuddy` x93
-1. `org.bouncycastle.provider` x89
-1. `org.slf4j` x79
+1. `org.bouncycastle.provider` x90
+1. `org.slf4j` x80
 1. `java.xml.bind` x77
 1. `info.picocli` x76
 1. `com.fasterxml.jackson.annotation` x66
@@ -129,7 +129,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`, `1.5.4`]
-1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`]
+1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`, `2.2.0`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`, `0.6.0`, `0.6.1`, `0.7.0`]
 1. `io.kestra.plugin:plugin-elasticsearch`  -> [`0.5.0`, `0.6.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
@@ -142,7 +142,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`4.0.2135`, `4.0.2139`, `4.0.2141`, `4.0.2145`, `4.0.2146`, `4.0.2152`, `4.0.2159`, `4.0.2168`, `4.0.2171`, `4.0.2175`, `4.0.2204`, `4.0.2214`, `4.0.2227`, `4.0.2228`, `4.0.2232`, `4.0.2235`]
 1. `io.sealights.on-premise.agents:sl-test-listener`  -> [`4.0.2135`, `4.0.2139`, `4.0.2141`, `4.0.2145`, `4.0.2146`, `4.0.2152`, `4.0.2159`, `4.0.2168`, `4.0.2171`, `4.0.2175`, `4.0.2204`, `4.0.2214`, `4.0.2227`, `4.0.2228`, `4.0.2232`, `4.0.2235`]
 1. `io.streamnative:pulsar-functions-runtime-all`  -> [`2.9.0-rc-202107212205`, `2.9.0-rc-202107222205`, `2.9.0-rc-202107231254`, `2.9.0.0-rc-202107231935`, `2.9.0-rc-202107242205`, `2.9.0-rc-202107262205`, `2.9.0-rc-202107272205`, `2.9.0-rc-202107282205`, `2.9.0-rc-202107292205`, `2.9.0-rc-202107312205`, `2.9.0-rc-202108011016`, `2.9.0-rc-202108011108`, `2.9.0-rc-202108012205`, `2.9.0-rc-202108022205`, `2.9.0-rc-202108032205`, `2.9.0-rc-202108042210`, `2.9.0-rc-202108062205`, `2.9.0-rc-202108071018`, `2.9.0-rc-202108072205`, `2.9.0-rc-202108081041`, `2.9.0-rc-202108082205`, `2.9.0-rc-202108100946`, `2.9.0-rc-202108102032`, `2.9.0-rc-202108110849`, `2.9.0-rc-202108111625`, `2.9.0-rc-202108130847`, `2.9.0-rc-202108131143`, `2.9.0-rc-202108131436`, `2.9.0-rc-202108132205`, `2.9.0-rc-202108152205`, `2.9.0-rc-202108172205`, `2.9.0-rc-202108182205`, `2.9.0-rc-202108202021`, `2.9.0-rc-202108202205`, `2.9.0-rc-202108232206`, `2.9.0-rc-202108242206`, `2.9.0-rc-202108262205`, `2.9.0-rc-202108272205`, `2.9.0-rc-202108292205`, `2.9.0-rc-202108302210`, `2.9.0-rc-202109012205`, `2.9.0-rc-202109022206`, `2.9.0-rc-202109042205`, `2.9.0-rc-202109052205`, `2.9.0-rc-202109072205`, `2.9.0-rc-202109112205`, `2.9.0-rc-202109122205`, `2.9.0-rc-202109132205`, `2.9.0-rc-202109142205`, `2.9.0-rc-202109152205`, `2.9.0-rc-202109162205`, `2.9.0-rc-202109172205`, `2.9.0-rc-202109192205`, `2.9.0-rc-202109212205`, `2.9.0-rc-202109241100`, `2.9.0-rc-202109242205`, `2.9.0-rc-202109252205`, `2.9.0-rc-202109262205`, `2.9.0-rc-202109291558`, `2.9.0-rc-202109292205`, `2.9.0-rc-202109301601`, `2.9.0-rc-202109302205`, `2.9.0-rc-202110012205`, `2.9.0-rc-202110022205`, `2.9.0-rc-202110032206`, `2.9.0-rc-202110042205`, `2.9.0-rc-20211005153744`, `2.9.0-rc-20211006034704`, `2.9.0-rc-20211006043034`, `2.9.0-rc-20211006044313`, `2.9.0-rc-20211012061032`, `2.10.0-rc-202110192205`, `2.10.0-rc-202110202205`, `2.10.0-rc-202110212205`, `2.10.0-rc-202110222206`, `2.10.0-rc-202110232205`, `2.10.0-rc-202110242205`, `2.10.0-rc-202110252206`, `2.10.0-rc-202110262205`, `2.10.0-rc-202110272205`, `2.10.0-rc-202110282205`, `2.10.0-rc-202110292205`, `2.10.0-rc-202110302205`, `2.10.0-rc-202110312205`, `2.10.0-rc-202111012205`, `2.10.0-rc-202111022205`, `2.10.0-rc-202111042205`, `2.10.0-rc-202111052205`, `2.10.0-rc-202111062205`, `2.10.0-rc-202111072205`, `2.10.0-rc-202111082207`, `2.10.0-rc-202111092206`, `2.10.0-rc-202111102205`, `2.10.0-rc-202111112205`, `2.10.0-rc-202111122205`, `2.10.0-rc-202111132206`, `2.10.0-rc-202111142205`, `2.10.0-rc-202111152210`, `2.10.0-rc-202111162205`, `2.10.0-rc-202111172205`, `2.10.0-rc-202111182205`, `2.10.0-rc-202111192205`, `2.10.0-rc-202111202206`, `2.10.0-rc-20211121082026`, `2.10.0-rc-2021121511380612`, `2.11.0-rc-202204132205`, `2.11.0-rc-202204142207`, `2.11.0-rc-202204152205`, `2.11.0-rc-202204162205`, `2.11.0-rc-202204172205`, `2.11.0-rc-202204182206`, `2.11.0-rc-202204192205`, `2.11.0-rc-202204202205`, `2.11.0-rc-202204212206`, `2.11.0-rc-202204222205`, `2.11.0-rc-202204232205`, `2.11.0-rc-202204242205`, `2.11.0-rc-202204252206`, `2.11.0-rc-202204262206`, `2.11.0-rc-202204272205`, `2.11.0-rc-202204282207`, `2.11.0-rc-202204292205`, `2.11.0-rc-202204302206`, `2.11.0-rc-202205012205`, `2.11.0-rc-202205022209`, `2.11.0-rc-202205032206`, `2.11.0-rc-202205042205`, `2.11.0-rc-202205052207`, `2.11.0-rc-202205062205`, `2.11.0-rc-202205072206`, `2.11.0-rc-202205082205`, `2.11.0.1`, `2.11.0.2`, `2.11.0.3`]
-1. `io.strimzi:crd-generator`  -> [`0.32.0`, `0.33.0`, `0.33.1`, `0.33.2`]
+1. `io.strimzi:crd-generator`  -> [`0.32.0`, `0.33.0`, `0.33.1`, `0.33.2`, `0.34.0`]
 1. `io.trino.hive:hive-apache`  -> [`3.1.2-20`]
 1. `io.trino:trino-jdbc`  -> [`367`, `368`, `369`, `370`, `371`, `372`, `373`, `374`, `375`, `376`, `377`, `378`, `379`, `380`, `381`, `382`, `383`, `384`, `385`, `386`, `387`, `388`, `389`, `390`, `391`, `392`, `393`, `394`, `395`, `396`, `397`, `398`, `399`, `400`, `401`, `402`, `403`, `405`, `406`, `407`, `408`, `409`, `410`]
 1. `nl.big-o:liqp`  -> [`0.8.4.0`, `0.8.5.0`, `0.8.5.1`, `0.8.5.2`]
@@ -280,7 +280,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 238 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 239 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -389,7 +389,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.landuo:l4d2-query`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
-1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`, `1.13.0-rc.4`, `1.13.0`, `1.14.0-rc.0`, `1.14.0-rc.1`, `1.14.0-rc.2`]
+1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`, `1.13.0-rc.4`, `1.13.0`, `1.14.0-rc.0`, `1.14.0-rc.1`, `1.14.0-rc.2`, `1.14.0`]
 1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`, `1.7`, `1.8`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
 1. `io.kestra.plugin:plugin-cassandra`  -> [`0.5.0`, `0.6.0`]
@@ -465,6 +465,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:pulsar-client-2x-shaded`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`]
 1. `org.apache.pulsar:pulsar-client-all`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`]
 1. `org.apache.pulsar:pulsar-client`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`]
+1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.4.0`]
 1. `org.apache.streampark:streampark-common_2.11`  -> [`2.0.0`]
 1. `org.apache.streampark:streampark-common_2.12`  -> [`2.0.0`]
 1. `org.apache.tika:tika-detector-siegfried`  -> [`2.6.0`, `2.7.0`]
@@ -1335,9 +1336,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.bouncycastle.provider
 
-For example, at least 89 artifacts on Maven Central claim to be the module `org.bouncycastle.provider`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 90 artifacts on Maven Central claim to be the module `org.bouncycastle.provider`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.provider;`.
 
+1. `br.com.swconsultoria:java-nfe`  -> [`4.00.21`]
 1. `cn.leancloud:filter-service-core`  -> [`1.9`, `1.10`, `1.12`, `1.13`]
 1. `com.alipay.sdk:alipay-easysdk`  -> [`1.0.2`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.2.0`, `1.2.1`, `2.0.0`, `2.0.1`]
 1. `com.alipay.sdk:easysdk-kernel`  -> [`1.0.0`, `1.0.2`]
@@ -1430,7 +1432,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 79 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 80 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `be.atbash.runtime.api:full-api`  -> [`0.4`]
@@ -1494,6 +1496,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.wizzie:enricher-base`  -> [`0.5.1`, `0.5.1.1`]
 1. `io.wizzie:enricher-model`  -> [`0.5.1`, `0.5.1.1`]
 1. `io.wizzie:normalizer-service`  -> [`0.6.1.1`, `0.6.1.2`]
+1. `net.serenity-bdd:serenity-cli`  -> [`3.6.16`]
 1. `nl.basjes.parse.useragent:yauaa-commandline`  -> [`5.14`]
 1. `no.entur:schema2proto-lib`  -> [`1.79`, `1.80`, `1.81`, `1.82`, `1.83`, `1.84`, `1.85`]
 1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.21.0`]
@@ -4239,7 +4242,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.apache.tomcat.embed.el
 
 1. `io.edurt.datacap.client:datacap-client-cli`  -> [`1.4.0`, `1.5.0`]
-1. `io.edurt.datacap:datacap-client-cli`  -> [`1.6.0`]
+1. `io.edurt.datacap:datacap-client-cli`  -> [`1.6.0`, `1.7.0`]
 1. `org.apache.tomcat.embed:tomcat-embed-el` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`]
 
 ## org.bouncycastle.fips.core
