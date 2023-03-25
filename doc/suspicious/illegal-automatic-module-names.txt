@@ -687,7 +687,7 @@ org.jmonkeyengine:jme3-android-native:3.6.0-stable -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:6.1.2 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:6.1.2 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.7.9 -> joinfaces.starter.myfaces-next
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.10 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow-full:1.25.0.Final -> -
