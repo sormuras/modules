@@ -218,7 +218,7 @@ com.io7m.modulechaser:com.io7m.modulechaser:0.0.2 -> ${project.artifactId}
 com.linkall:cdk-java:0.2.1 -> -
 com.linkall:sink-example:1.0.0 -> -
 com.linkall:source-example:1.0.0 -> -
-com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.2 -> -
+com.mohammadaltaleb.netstreamer:netstreamer-example:0.1.3 -> -
 com.navercorp.scavenger:scavenger-old-agent-java:1.0.3 -> Shadow-scavenger-old-agent-java
 com.squareup.wire:proto-pruner:3.0.3 -> proto-pruner
 com.squareup.wire:wire-codegen-sample:3.1.0 -> wire-codegen-sample
