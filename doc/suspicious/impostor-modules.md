@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x254
+1. `com.fasterxml.jackson.core` x255
 1. `com.fasterxml.jackson.databind` x244
 1. `com.google.gson` x232
 1. `org.apache.logging.log4j` x225
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## com.fasterxml.jackson.core
 
-For example, at least 254 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 255 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
@@ -101,6 +101,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.rws.lt.lc.public-api:lc-public-api-sdk`  -> [`1.0.0-beta`, `1.0.1-beta`, `1.0.2-beta`, `1.0.3-beta`, `1.0.4-beta`, `1.0.5-beta`, `1.0.6-beta`, `1.0.7-beta`, `1.0.8-beta`, `1.0.9-beta`, `22.12.125.0_1b36e9f`]
 1. `com.sap.cloud.sdk.datamodel:odata-generator-cli`  -> [`3.56.0`, `3.57.0`, `3.58.0`, `3.59.0`, `3.60.0`, `3.61.0`, `3.62.0`, `3.63.0`, `3.64.0`, `3.65.0`, `3.66.0`, `3.67.0`, `3.68.0`, `3.69.0`, `3.70.0`, `3.71.0`, `3.72.0`, `3.73.0`, `3.74.0`, `3.75.0`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.0`, `4.4.0`, `4.5.0`, `4.6.0`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`]
 1. `com.sap.cloud.sdk.datamodel:odata-v4-generator-cli`  -> [`3.56.0`, `3.57.0`, `3.58.0`, `3.59.0`, `3.60.0`, `3.61.0`, `3.62.0`, `3.63.0`, `3.64.0`, `3.65.0`, `3.66.0`, `3.67.0`, `3.68.0`, `3.69.0`, `3.70.0`, `3.71.0`, `3.72.0`, `3.73.0`, `3.74.0`, `3.75.0`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.0`, `4.4.0`, `4.5.0`, `4.6.0`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`]
+1. `com.smoketurner.dropwizard:graphql-example`  -> [`3.0.0-1`, `4.0.0-1`]
 1. `com.snowflake:snowflake-kafka-connector`  -> [`1.2.4`, `1.3.0`, `1.3.1`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `com.sonatype.nexus:nexus-platform-api`  -> [`3.48.2-01`, `3.48.3-01`, `3.48.4-01`, `3.48.5-01`, `3.48.6-01`, `3.48.7-01`, `3.48.8-01`, `3.49.0-01`, `3.49.1-01`, `3.49.2-01`, `3.49.3-01`, `3.49.4-01`]
 1. `com.tencent.bk.base.datahub:iceberg-flink-runtime-1.14`  -> [`0.14.0-bkbase.1`, `0.14.0-bkbase.2`]
@@ -131,7 +132,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`, `1.5.4`]
-1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`]
+1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`, `2.2.2`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`, `0.6.0`, `0.6.1`, `0.7.0`]
 1. `io.kestra.plugin:plugin-elasticsearch`  -> [`0.5.0`, `0.6.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
@@ -250,7 +251,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.elasticsearch.plugin:x-pack-sql-jdbc`  -> [`8.3.0`, `8.3.1`, `8.3.2`, `8.3.3`, `8.4.0`, `8.4.1`, `8.4.2`, `8.4.3`, `8.5.0`, `8.5.1`, `8.5.2`, `8.5.3`, `8.6.0`, `8.6.1`, `8.6.2`, `8.7.0`]
 1. `org.fcrepo:fcrepo-upgrade-utils`  -> [`6.1.0`, `6.2.0`]
 1. `org.kill-bill.billing.plugin.java:qualpay-plugin`  -> [`1.0.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-graphite`  -> [`0.41.0`, `0.41.1`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-graphite`  -> [`0.41.0`, `0.41.1`, `0.41.2`]
 1. `org.liquibase.ext.vaults:liquibase-aws-secrets-manager`  -> [`1.0.0`, `1.0.1`]
 1. `org.liquibase:liquibase-s3-extension`  -> [`1.0.0`, `1.1.0`, `1.1.1`]
 1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo20_2.12`  -> [`4.0.0`]
@@ -496,8 +497,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jboss.gm:manipulation`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.8`, `1.9`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.1.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `3.10`, `3.11`, `3.12`]
 1. `org.kie:kie-dmn-ruleset2dmn-cli`  -> [`8.26.0.Beta`, `8.27.0.Beta`, `8.28.0.Beta`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`8.25.0.Beta`, `8.26.0.Beta`, `8.27.0.Beta`, `8.28.0.Beta`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-influxdb`  -> [`0.41.0`, `0.41.1`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-metrics`  -> [`0.41.0`, `0.41.1`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-influxdb`  -> [`0.41.0`, `0.41.1`, `0.41.2`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-metrics`  -> [`0.41.0`, `0.41.1`, `0.41.2`]
 1. `org.liquigraph:liquigraph-cli`  -> [`4.0.5`, `4.0.6`]
 1. `org.memgraph:graph-jdbc-bolt`  -> [`0.4.4`, `0.4.7`]
 1. `org.memgraph:graph-jdbc-driver`  -> [`0.4.0`, `0.4.4`, `0.4.8`]
@@ -631,7 +632,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.oneandone:go-maven-poller`  -> [`1.3.7`]
 1. `com.qcefast:openFast`  -> [`1.0.0`, `1.0.1`, `1.0.3`, `1.1.0`, `1.1.1`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `com.rockset:rockset-java`  -> [`0.9.2`]
-1. `com.salesforce.cantor:cantor-server`  -> [`0.3.16`, `0.3.17`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.4`, `0.4.6`, `0.4.7`, `0.4.8`, `0.4.27`, `0.4.28`, `0.4.29`, `0.4.30`, `0.4.31`, `0.4.32`, `0.4.33`, `0.4.34`, `0.4.35`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
+1. `com.salesforce.cantor:cantor-server`  -> [`0.3.16`, `0.3.17`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.4`, `0.4.6`, `0.4.7`, `0.4.8`, `0.4.27`, `0.4.28`, `0.4.29`, `0.4.30`, `0.4.31`, `0.4.32`, `0.4.33`, `0.4.34`, `0.4.35`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`]
 1. `com.salesforce.dockerfile-image-update:dockerfile-image-update`  -> [`1.1.4`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.11`, `1.1.13`, `1.1.14`, `1.1.15`, `1.1.16`, `1.1.17`, `1.1.18`]
 1. `com.sap.cloud.sdk.datamodel:openapi-generator-cli`  -> [`3.64.0`, `3.65.0`, `3.66.0`, `3.67.0`, `3.68.0`, `3.69.0`, `3.70.0`, `3.71.0`, `3.72.0`, `3.73.0`, `3.74.0`, `3.75.0`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.0`, `4.4.0`, `4.5.0`, `4.6.0`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`]
 1. `com.scalar-labs:scalardl-java-client-sdk`  -> [`2.0.9`, `2.1.0`, `2.1.1`, `2.2.0`]
@@ -750,7 +751,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.noear:luffy.lock.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `org.noear:luffy.queue.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `org.odpi.egeria:egeria-connector-viya-4`  -> [`2.11`, `3.3`, `3.6`]
-1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.12.0`, `1.12.1`, `1.12.2`, `1.13.0`, `1.13.1`, `1.13.2`]
+1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.12.0`, `1.12.1`, `1.12.2`, `1.13.0`, `1.13.1`, `1.13.2`, `1.14.0`]
 1. `org.seaborne.rdf-delta:rdf-delta-server`  -> [`1.1.1`, `1.1.2`]
 1. `org.sonarsource.api.plugin:sonar-plugin-api`  -> [`9.5.0.71`, `9.6.0.104`, `9.6.1.114`, `9.7.0.160`, `9.8.0.203`, `9.9.0.229`, `9.10.0.269`, `9.11.0.290`, `9.12.0.310`, `9.13.0.360`, `9.14.0.375`]
 1. `org.sonarsource.dotnet:sonar-csharp-plugin`  -> [`8.36.0.43782`, `8.36.1.44192`, `8.37.0.45539`, `8.38.0.46746`, `8.39.0.47922`, `8.40.0.48530`, `8.41.0.50478`, `8.42.0.51121`, `8.43.0.51858`, `8.44.0.52574`, `8.45.0.54064`, `8.46.0.54807`, `8.47.0.55603`, `8.48.0.56517`, `8.49.0.57237`, `8.50.0.58025`, `8.51.0.59060`, `8.52.0.60960`, `8.54.0.64047`, `8.55.0.65544`]
@@ -1087,7 +1088,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.houxinlin:mini-api`  -> [`1.0`]
 1. `io.github.jbock-java:dapper-compiler`  -> [`2.41.2`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
-1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`]
+1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`]
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`, `12.2`]
 1. `io.github.portlek:patty`  -> [`1.1`]
 1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`, `1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`]
@@ -1998,7 +1999,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.python:jython-standalone`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.python:jython`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
-1. `org.teavm:teavm-relocated-libs-asm`  -> [`0.8.0`]
+1. `org.teavm:teavm-relocated-libs-asm`  -> [`0.8.0`, `0.8.1`]
 1. `org.tomitribe.jkta:jkta`  -> [`0.4`, `0.5`, `0.6`, `0.7`]
 
 ## lombok
@@ -2183,8 +2184,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing.plugin.java:analytics-plugin`  -> [`8.0.0`]
 1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.9.0`]
 1. `org.kill-bill.billing.plugin.java:killbill-email-notifications-plugin`  -> [`0.8.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-eureka`  -> [`0.41.0`, `0.41.1`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`, `0.40.8`, `0.40.9`, `0.40.10`, `0.40.11`, `0.40.12`, `0.40.13`, `0.41.0`, `0.41.1`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-eureka`  -> [`0.41.0`, `0.41.1`, `0.41.2`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.2`, `0.40.3`, `0.40.4`, `0.40.5`, `0.40.6`, `0.40.8`, `0.40.9`, `0.40.10`, `0.40.11`, `0.40.12`, `0.40.13`, `0.41.0`, `0.41.1`, `0.41.2`]
 1. `org.sonatype.nexus:nexus-orient-component-migrator`  -> [`3.25.0-03`, `3.25.1-02`]
 1. `pl.decerto:hyperon-runtime-spring-boot-starter`  -> [`2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`]
 1. `tr.com.infumia:InfumiaCommon`  -> [`1.7.7`]
@@ -2375,7 +2376,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.realityforge.shade:shade-cli`  -> [`2.0.0`]
 1. `org.tango-controls.pogo:Pogo`  -> [`9.7.5`, `9.7.6`]
 1. `org.tango-controls:Pogo`  -> [`9.8.1`, `9.8.2`]
-1. `org.teavm:teavm-relocated-libs-asm-commons`  -> [`0.8.0`]
+1. `org.teavm:teavm-relocated-libs-asm-commons`  -> [`0.8.0`, `0.8.1`]
 1. `software.amazon.disco:disco-java-agent`  -> [`0.10.0`, `0.11.0`, `0.12.0`]
 
 ## com.fasterxml.jackson.dataformat.cbor
@@ -2677,7 +2678,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.activecomponents.jadex:jadex-editor-bpmn`  -> [`4.0.244`, `4.0.249`, `4.0.250`, `4.0.252`, `4.0.254`, `4.0.255`, `4.0.256`, `4.0.257`, `4.0.258`, `4.0.260`, `4.0.261`, `4.0.262`, `4.0.263`, `4.0.264`, `4.0.265`, `4.0.266`, `4.0.267`]
 1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`]
 1. `org.soot-oss:sootup.java.bytecode`  -> [`1.0.0`]
-1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`]
+1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`, `0.8.1`]
 
 ## com.blazebit.persistence.integration.spring.data.impl
 
@@ -2738,6 +2739,18 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.joda:joda-convert` 🧩 -> [`2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 1. `za.co.absa:atum-examples-s3-sdk-extension_2.12`  -> [`3.6.0`, `3.7.0`]
 1. `za.co.absa:atum-examples_2.12`  -> [`3.6.0`, `3.7.0`]
+
+## org.yaml.snakeyaml
+
+1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`]
+1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
+1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
+1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
+1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`]
+1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
+1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
 
 ## kotlin.reflect
 
@@ -2850,7 +2863,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.17.5`, `1.17.6`, `1.17.7`, `1.17.8`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`, `1.19.4`, `1.19.5`, `1.19.6`, `1.19.7`, `1.19.8`, `1.19.9`, `1.19.10`, `1.19.11`, `1.19.12`, `1.19.13`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.22.0`]
 1. `org.netbeans.external:asm-tree-7.2`  -> [`RELEASE113`]
 1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`]
-1. `org.teavm:teavm-relocated-libs-asm-tree`  -> [`0.8.0`]
+1. `org.teavm:teavm-relocated-libs-asm-tree`  -> [`0.8.0`, `0.8.1`]
 
 ## org.opentest4j
 
@@ -2861,16 +2874,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.origin-energy:java-snapshot-testing-spock`  -> [`3.2.6`, `3.2.7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.8`]
 1. `org.caseine:caseine.vpl.tools.CLI`  -> [`0.0.57`]
 1. `org.opentest4j:opentest4j` 🧩 -> [`1.2.0`]
-
-## org.yaml.snakeyaml
-
-1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`]
-1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
-1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
-1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
-1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
-1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
-1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
 
 ## com.ctc.wstx
 
@@ -3115,7 +3118,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `fish.payara.extras:payara-embedded-web`  -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.6`, `5.2020.7`, `5.2021.1`, `5.2021.2`, `5.2021.3`, `5.2021.4`, `6.2021.1.Alpha1`, `6.2022.1.Alpha2`]
 1. `org.apache.felix:org.apache.felix.scr.bnd`  -> [`1.9.4`, `1.9.6`]
 1. `org.ow2.asm:asm-analysis` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`]
-1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`]
+1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`, `0.8.1`]
 
 ## org.tukaani.xz
 
