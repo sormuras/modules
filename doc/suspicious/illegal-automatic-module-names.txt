@@ -241,7 +241,7 @@ com.squareup.wire:wire-swift-generator:4.5.4 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
 com.synopsys.integration:blackduck-common:66.1.4 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2023.1.0 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common-api:2023.4.0.0 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.1.4 -> com.synopsys.integration.hub-imageinspector-lib
@@ -601,10 +601,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.0.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.0.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.0.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.0.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.6 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.6 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.6 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
