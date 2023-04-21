@@ -208,7 +208,7 @@ com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
 com.hcl.domino:domino-jnx-lsxbeshim:1.24.0 -> domino-jnx-lsxbeshim
 com.hcl.domino:jnx-example-graalvm-native:1.24.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
-com.helger:en16931-cii2ubl:2.0.2 -> com.helger.en16931-cii2ubl
+com.helger:en16931-cii2ubl:2.0.3 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
@@ -247,7 +247,7 @@ com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integratio
 com.synopsys.integration:hub-imageinspector-lib:14.1.4 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:3.0.7 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:26.0.8 -> com.synopsys.integration.integration-bdio
-com.synopsys.integration:integration-common:26.0.5 -> com.synopsys.integration.integration-common
+com.synopsys.integration:integration-common:26.0.6 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
 com.synopsys.integration:issuetracker-common:0.0.5 -> com.synopsys.integration.issuetracker-common
 com.synopsys.integration:issuetracker-jira:0.0.12 -> com.synopsys.integration.issuetracker-jira
@@ -378,7 +378,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
-org.apache.geronimo.arthur:integration-test:1.0.5 -> org.apache.geronimo.arthur.integration-test
+org.apache.geronimo.arthur:integration-test:1.0.6 -> org.apache.geronimo.arthur.integration-test
 org.apache.geronimo.specs:geronimo-activation_2.0_spec:1.0.0 -> geronimo-activation_2.0_spec
 org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.0-M1 -> geronimo-mail_2.1_spec
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
@@ -1679,6 +1679,6 @@ pro.projo:projo-template-generation:1.5.1 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.17.1 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.17.1 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.17.3 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.17.3 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
