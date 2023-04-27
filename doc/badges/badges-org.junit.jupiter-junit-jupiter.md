@@ -60,6 +60,10 @@
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
 - ![module-name](https://img.shields.io/badge/module--name-org.junit.jupiter-green)
+## Version 5.9.3
+
+- ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
+- ![module-name](https://img.shields.io/badge/module--name-org.junit.jupiter-green)
 ## Version 5.9.2
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
