@@ -7,7 +7,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.core` x261
 1. `com.fasterxml.jackson.databind` x246
 1. `com.google.gson` x242
-1. `org.apache.logging.log4j` x226
+1. `org.apache.logging.log4j` x228
 1. `kotlin.stdlib.jdk8` x145
 1. `kotlin.stdlib` x106
 1. `net.bytebuddy` x93
@@ -135,7 +135,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`, `1.5.4`]
-1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`, `2.2.2`, `2.3.0`, `3.0.0`]
+1. `io.inugami.security:inugami_core_security_tools`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`, `2.2.2`, `2.3.0`, `3.0.0`, `3.1.0`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`, `0.6.0`, `0.6.1`, `0.7.0`, `0.8.0`]
 1. `io.kestra.plugin:plugin-elasticsearch`  -> [`0.5.0`, `0.6.0`, `0.8.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
@@ -405,7 +405,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.flux-capacitor:test-server`  -> [`0.567.0`, `0.568.0`, `0.569.0`, `0.571.0`, `0.572.0`, `0.573.0`, `0.574.0`, `0.575.0`, `0.576.0`, `0.577.0`, `0.578.0`, `0.579.0`, `0.580.0`, `0.581.0`, `0.582.0`, `0.583.0`, `0.584.0`, `0.584.1`, `0.585.0`, `0.586.0`, `0.587.0`, `0.588.0`, `0.589.0`, `0.590.0`, `0.591.0`, `0.592.0`, `0.593.0`, `0.594.0`, `0.595.0`, `0.596.0`, `0.597.0`, `0.598.0`, `0.599.0`, `0.600.0`, `0.601.0`, `0.602.0`, `0.603.0`, `0.605.0`, `0.606.0`, `0.607.0`, `0.608.0`, `0.609.0`, `0.610.0`, `0.611.0`, `0.612.0`, `0.613.0`, `0.614.0`, `0.615.0`, `0.616.0`, `0.617.0`, `0.618.0`, `0.619.0`, `0.620.0`, `0.621.0`, `0.622.0`, `0.626.0`, `0.627.0`, `0.628.0`, `0.629.0`, `0.630.0`, `0.631.0`, `0.632.0`, `0.634.0`, `0.635.0`, `0.636.0`, `0.637.0`, `0.638.0`, `0.639.0`, `0.640.0`, `0.641.0`, `0.642.0`, `0.643.0`, `0.644.0`, `0.645.0`, `0.646.0`, `0.647.0`, `0.650.0`, `0.651.0`, `0.652.0`, `0.653.0`, `0.654.0`, `0.655.0`, `0.656.0`, `0.657.0`, `0.658.0`, `0.659.0`, `0.660.0`, `0.662.0`, `0.663.0`, `0.664.0`, `0.665.0`, `0.666.0`, `0.667.0`, `0.668.0`, `0.670.0`, `0.671.0`, `0.672.0`, `0.673.0`, `0.674.0`, `0.675.0`, `0.676.0`, `0.677.0`]
 1. `io.gitee.quanwenz:datasong-connect-java`  -> [`2.1.2-20220825-1`, `2.1.3-20221116-1`, `3.0.0-20221130-1`]
 1. `io.github.bad-pop:celeritas-http-client`  -> [`1.1.1`]
-1. `io.github.chains-project:trace-collector`  -> [`0.1.6`, `0.2.0`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.4.0`]
+1. `io.github.chains-project:trace-collector`  -> [`0.1.6`, `0.2.0`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.4.0`, `0.4.1`]
 1. `io.github.delirius325:jmeter.backendlistener.elasticsearch`  -> [`2.6.8`]
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.landuo:l4d2-query`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`]
@@ -709,7 +709,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.split.client:java-client`  -> [`4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0-rc`, `4.6.0`, `4.7.0`, `4.7.1`]
 1. `io.tiledb:openapi-java-client`  -> [`0.0.5`]
 1. `io.tiledb:tiledb-cloud-java`  -> [`0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.1.0`, `0.2.0`]
-1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.4.0`]
+1. `net.cnri.cordra:cordra-embedded-test-server`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.4.0`, `2.5.0`]
 1. `net.intelie.pipes:pipes`  -> [`0.25.3`, `0.25.4`, `0.25.5`]
 1. `net.obvj:jsonmerge-cli`  -> [`1.2.0`, `1.2.1`]
 1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`, `3.1.0`, `3.2.0`, `3.3.0`]
@@ -794,13 +794,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `xyz.deftu.coffeecord:Coffeecord`  -> [`1.0.0-alpha.1`]
 1. `xyz.gianlu.librespot:librespot-api`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
 1. `xyz.gianlu.librespot:librespot-player`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`]
-1. `xyz.grasscutters:grasscutter`  -> [`1.4.6`, `1.4.7`]
+1. `xyz.grasscutters:grasscutter`  -> [`1.4.6`, `1.4.7`, `1.5.0`]
 1. `xyz.ottr.lutra:lutra-cli`  -> [`0.6.14`, `0.6.15`, `0.6.16`, `0.6.17`]
 1. `xyz.tozymc.api:config-api`  -> [`1.0-BETA`]
 
 ## org.apache.logging.log4j
 
-For example, at least 226 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 228 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -895,6 +895,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.contek.morphling:hdf5-lib`  -> [`1.0.4`]
 1. `io.contek.morphling:morphling-hdf5-lib`  -> [`1.0.5`, `1.0.6`]
 1. `io.etcd:jetcd-ctl`  -> [`0.6.0`, `0.6.1`, `0.7.0`, `0.7.1`, `0.7.2`, `0.7.3`, `0.7.5`]
+1. `io.github.AnLaVN:AL-Library_EN`  -> [`3.69.11`]
+1. `io.github.AnLaVN:AL-Library_VN`  -> [`3.69.11`]
 1. `io.github.bad-pop:celeritas-sb2-utils`  -> [`1.1.1`]
 1. `io.github.bad-pop:celeritas-sb3-utils`  -> [`1.1.1`]
 1. `io.github.bad-pop:celeritas`  -> [`1.0.0-SB2`]
