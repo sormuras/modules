@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x261
+1. `com.fasterxml.jackson.core` x262
 1. `com.fasterxml.jackson.databind` x247
 1. `com.google.gson` x244
 1. `org.apache.logging.log4j` x228
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## com.fasterxml.jackson.core
 
-For example, at least 261 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 262 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
@@ -131,6 +131,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`, `2.6`]
+1. `io.github.sinri:DryDock`  -> [`1.0.0`]
 1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `3.0.0`]
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
@@ -999,7 +1000,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bitbucket.bradleysmithllc.etlunit:etlunit-application-assembly`  -> [`4.5.7-eu`, `4.5.8-eu`, `4.5.9-eu`, `4.5.10-eu`, `4.5.11-eu`, `4.5.12-eu`, `4.5.13-eu`, `4.5.14-eu`, `4.5.15-eu`, `4.5.16-eu`, `4.5.17-eu`, `4.5.18-eu`, `4.5.19-eu`, `4.5.20-eu`, `4.5.21-eu`, `4.5.22-eu`, `4.5.23-eu`, `4.5.24-eu`]
 1. `org.computate:smartabyar-smartvillage`  -> [`1.0.0`, `1.0.1`]
 1. `org.du-lab.adap-big:input`  -> [`0.1.0`]
-1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.1.0`, `5.1.1`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `5.3.6`, `5.3.7`, `5.4.1`, `5.4.2`, `5.4.3`, `5.5.1`]
+1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.1.0`, `5.1.1`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `5.3.6`, `5.3.7`, `5.4.1`, `5.4.2`, `5.4.3`, `5.5.1`, `5.5.2`]
 1. `org.filteredpush:event_date_qc`  -> [`2.0.3`, `2.0.4`]
 1. `org.finra.herd:herd-downloader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
@@ -2073,7 +2074,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
 1. `es.jfml:JFML-Core`  -> [`1.3.1`]
 1. `es.jfml:java-core`  -> [`1.3.0`]
-1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`, `0.10.0-1rc3`, `0.10.0-1rc4`, `0.10.0-1rc5`, `0.10.0-1rc6`, `0.10.0-1`, `0.10.0-2rc3`, `0.10.0-2`, `0.10.0-3rc2`, `0.10.0-3rc3`, `0.10.0-3rc4`, `0.10.0-3rc6`, `0.10.0-3rc7`, `0.10.0-3rc8`, `0.10.0-3rc9`, `0.10.0-3rc10`, `0.10.0-3rc11`, `0.10.0-3`, `0.10.0-4rc1`, `0.10.0-4rc2`, `0.10.0-4rc3`, `0.10.0-4`, `0.10.0-5rc0`, `0.10.0-5`, `0.10.0-6rc0`, `0.10.0-6rc2`, `0.10.0-6`, `0.10.0-7rc1`, `0.10.0-7rc2`, `0.10.0-7`, `0.10.1rc1`, `0.10.1rc2`, `0.10.1rc3`, `0.10.1rc4`, `0.10.1`, `0.10.1-1rc1`, `0.10.1-1rc2`, `0.10.1-1rc3`, `0.10.1-1`, `0.10.1-2rc1`, `0.10.1-2rc2`, `0.10.1-2rc3`, `0.10.1-2rc4`, `0.10.1-2rc5`, `0.10.1-2rc6`, `0.10.1-2rc7`, `0.10.1-2rc8`, `0.10.1-2rc9`, `0.10.1-2rc10`, `0.10.1-2rc12`, `0.10.2`, `0.10.2-1rc1`, `0.10.2-1`, `0.10.2-2rc1`, `0.10.2-2rc2`, `0.10.2-2rc3`, `0.10.2-2`, `0.10.2-3rc1`, `0.10.2-3rc2`, `0.10.2-3rc3`, `0.10.2-3rc4`]
+1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`, `0.10.0-1rc3`, `0.10.0-1rc4`, `0.10.0-1rc5`, `0.10.0-1rc6`, `0.10.0-1`, `0.10.0-2rc3`, `0.10.0-2`, `0.10.0-3rc2`, `0.10.0-3rc3`, `0.10.0-3rc4`, `0.10.0-3rc6`, `0.10.0-3rc7`, `0.10.0-3rc8`, `0.10.0-3rc9`, `0.10.0-3rc10`, `0.10.0-3rc11`, `0.10.0-3`, `0.10.0-4rc1`, `0.10.0-4rc2`, `0.10.0-4rc3`, `0.10.0-4`, `0.10.0-5rc0`, `0.10.0-5`, `0.10.0-6rc0`, `0.10.0-6rc2`, `0.10.0-6`, `0.10.0-7rc1`, `0.10.0-7rc2`, `0.10.0-7`, `0.10.1rc1`, `0.10.1rc2`, `0.10.1rc3`, `0.10.1rc4`, `0.10.1`, `0.10.1-1rc1`, `0.10.1-1rc2`, `0.10.1-1rc3`, `0.10.1-1`, `0.10.1-2rc1`, `0.10.1-2rc2`, `0.10.1-2rc3`, `0.10.1-2rc4`, `0.10.1-2rc5`, `0.10.1-2rc6`, `0.10.1-2rc7`, `0.10.1-2rc8`, `0.10.1-2rc9`, `0.10.1-2rc10`, `0.10.1-2rc12`, `0.10.2`, `0.10.2-1rc1`, `0.10.2-1`, `0.10.2-2rc1`, `0.10.2-2rc2`, `0.10.2-2rc3`, `0.10.2-2`, `0.10.2-3rc1`, `0.10.2-3rc2`, `0.10.2-3rc3`, `0.10.2-3rc4`, `0.10.2-3rc5`]
 1. `io.github.devlibx.easy:ratelimit`  -> [`0.0.115`, `0.0.116`, `0.0.117`, `0.0.118`, `0.0.119`, `0.0.120`, `0.0.121`, `0.0.122`, `0.0.123`, `0.0.124`, `0.0.125`, `0.0.126`, `2.java-17.1`, `3.java-17.1`]
 1. `io.github.harvies.charon:charon-socks-proxy-server`  -> [`0.0.7`, `0.0.8`]
 1. `io.github.interestinglab.waterdrop:plugin-flink-sink-elasticsearch`  -> [`2.0.2`]
@@ -2788,7 +2789,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ivianuu.injekt:injekt-compiler-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
 1. `dev.limebeck:revealkt-cli`  -> [`0.0.1`, `0.0.2`, `0.1.1`]
 1. `io.github.themrmilchmann.gradle.publish.curseforge:gradle-curseforge-publish`  -> [`0.4.0`]
-1. `love.forte.plugin.suspend-transform:suspend-transform-plugin-embeddable`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`]
+1. `love.forte.plugin.suspend-transform:suspend-transform-plugin-embeddable`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.3.1`]
 1. `net.nurigo:sdk`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.3.0`]
 1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.140`]
 1. `org.danbrough.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.3`, `1.3.3a`, `1.4.1`, `1.5.0`]
@@ -4014,7 +4015,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.alibaba.fastjson2
 
-1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`]
+1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`]
 1. `com.github.CCweixiao:hbase-sdk-common`  -> [`3.0.0`]
 1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
 
