@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `com.fasterxml.jackson.core` x262
 1. `com.fasterxml.jackson.databind` x247
-1. `com.google.gson` x244
+1. `com.google.gson` x245
 1. `org.apache.logging.log4j` x228
 1. `kotlin.stdlib.jdk8` x146
 1. `kotlin.stdlib` x106
@@ -554,7 +554,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 244 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 245 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.bareun.tagger:bareun`  -> [`1.1.40`, `1.2.0`, `1.3.0`, `1.3.9.1`]
@@ -603,6 +603,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.chrislusf:seaweedfs-hadoop3-client`  -> [`3.30`, `3.33`]
 1. `com.github.flank:flank`  -> [`flank_snapshot`, `20.05.0`, `20.05.1`, `20.05.2`, `20.06.0`, `20.06.2`, `20.07.0`, `20.08.0`, `20.08.3`, `20.08.4`, `20.09.1`, `20.09.2`, `20.09.3`, `20.12.0`, `21.01.0`, `21.01.1`, `21.02.0`, `2131`]
 1. `com.github.gtriip.translation.opera:opera-translation`  -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`, `1.0.5-15`, `1.0.5-16`, `1.0.5-17`, `1.0.5-18`]
+1. `com.github.nalukit:malio-processor`  -> [`0.0.5-alpha`, `0.1.2-beta`]
 1. `com.github.nalukit:nalu-processor`  -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0`, `2.12.1`]
 1. `com.github.shynixn.blockball:blockball-bukkit-plugin`  -> [`6.15.0`, `6.16.0`, `6.17.0`, `6.18.0`, `6.19.0`, `6.20.0`, `6.20.1`, `6.21.0`, `6.22.0`, `6.22.1`]
 1. `com.github.shynixn.petblocks:petblocks-bukkit-plugin`  -> [`8.16.0`, `8.17.0`, `8.17.1`, `8.18.0`, `8.19.0`, `8.20.0`, `8.21.0`, `8.22.1`, `8.23.0`]
@@ -744,7 +745,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.rocketmq:rocketmq-client-java`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`]
 1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`]
 1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`]
-1. `org.bdware.sc:cp`  -> [`1.7.1`, `1.8.0`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `1.8.6`, `1.8.7`]
+1. `org.bdware.sc:cp`  -> [`1.7.1`, `1.8.0`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `1.8.6`, `1.8.7`, `1.8.8`]
 1. `org.biojava:biojava-protein-comparison-tool`  -> [`6.1.0`, `7.0.0`, `7.0.1`]
 1. `org.cqfn:astranaut`  -> [`0.1.4`, `0.1.5`, `0.2`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`]
 1. `org.eclipse.californium:cf-plugtest-checker`  -> [`3.2.0`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`, `3.6.0`, `3.7.0`]
@@ -1310,7 +1311,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alipay.sdk:alipay-easysdk`  -> [`1.0.0`, `1.0.1`]
 1. `com.criteo.java:garmadon-agent`  -> [`1.0.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`]
 1. `com.exasol:virtual-schema-common-document-files`  -> [`0.2.0`, `1.0.0`]
-1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`, `1.35.0`, `1.35.1`, `1.36.0`, `1.37.0`]
+1. `com.github.database-rider:rider-micronaut`  -> [`1.23.1`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.32.3`, `1.33.0`, `1.34.0`, `1.35.0`, `1.35.1`, `1.36.0`, `1.37.0`, `1.37.1`]
 1. `com.github.jiayaoguang:gameserver-example`  -> [`0.0.2`, `0.0.3`]
 1. `com.github.jsimone:webapp-runner`  -> [`9.0.27.1`]
 1. `com.github.roskart.dropwizard-jaxws:dropwizard-jaxws-example`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`]
@@ -2653,6 +2654,25 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.sling:org.apache.sling.javax.activation`  -> [`0.2.0`, `0.3.0`]
 1. `org.keycloak:kcinit`  -> [`13.0.0`, `13.0.1`, `14.0.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.1`]
 
+## org.yaml.snakeyaml
+
+For example, at least 13 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
+
+1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`]
+1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`]
+1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`]
+1. `io.github.theskyblockman:instructer`  -> [`1.0`]
+1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`]
+1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
+1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
+1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
+1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`]
+1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
+1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
+
 ## ch.qos.logback.classic
 
 For example, at least 12 artifacts on Maven Central claim to be the module `ch.qos.logback.classic`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -2706,24 +2726,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.finra.herd:herd-uploader`  -> [`0.86.0`, `0.87.0`, `0.88.0`, `0.89.0`, `0.90.0`, `0.91.0`, `0.92.0`, `0.93.0`, `0.94.0`, `0.96.0`, `0.97.0`, `0.98.0`, `0.99.0`, `0.100.0`, `0.102.0`, `0.103.0`, `0.104.0`, `0.106.0`, `0.107.0`, `0.108.0`, `0.109.0`, `0.110.0`, `0.111.0`, `0.112.0`, `0.113.0`, `0.114.0`, `0.115.0`, `0.116.0`, `0.117.0`, `0.118.0`, `0.119.0`, `0.120.0`, `0.122.0`, `0.123.0`, `0.124.0`, `0.125.0`, `0.130.0`, `0.131.0`, `0.132.0`, `0.133.0`, `0.134.0`, `0.135.0`, `0.136.0`, `0.137.0`, `0.147.0`, `0.148.0`, `0.149.0`, `0.150.0`, `0.152.0`, `0.154.0`, `0.155.0`, `0.156.0`, `0.157.0`, `0.158.0`, `0.159.0`, `0.160.0`]
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`]
-
-## org.yaml.snakeyaml
-
-For example, at least 12 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
-
-1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`]
-1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`]
-1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`]
-1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`]
-1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
-1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
-1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
-1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`]
-1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
-1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
 
 ## com.fasterxml.jackson.datatype.joda
 
@@ -4015,7 +4017,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.alibaba.fastjson2
 
-1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`]
+1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`]
 1. `com.github.CCweixiao:hbase-sdk-common`  -> [`3.0.0`]
 1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
 
