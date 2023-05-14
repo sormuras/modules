@@ -251,7 +251,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.tika:tika-server-eval`  -> [`2.4.0`, `2.4.1`]
 1. `org.bitbucket.bradleysmithllc.etlunit:etlunit-application-assembly`  -> [`4.6.0-eu`]
 1. `org.camunda.spin:camunda-spin-dataformat-all`  -> [`1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`]
-1. `org.codelibs.fess:fess-ds-s3`  -> [`14.2.1`, `14.3.0`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`]
+1. `org.codelibs.fess:fess-ds-s3`  -> [`14.2.1`, `14.3.0`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.8.0`]
 1. `org.commonjava.maven.ext:pom-manipulation-cli`  -> [`4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `4.9`, `4.10`, `4.11`, `4.12`, `4.13`, `4.14`, `4.15`]
 1. `org.commonjava.maven.ext:pom-manipulation-ext`  -> [`4.8`, `4.9`, `4.10`, `4.11`, `4.12`, `4.13`, `4.14`, `4.15`]
 1. `org.eclipse.tahu:tahu-edge-compat`  -> [`1.0.0-rc1`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -684,7 +684,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.2`, `0.1.0`, `0.3.0`]
 1. `io.github.kolesnikovm:jmeter-prometheus-listener`  -> [`2.6.0`, `2.6.1`, `2.6.2`, `2.6.3`]
-1. `io.github.marcperez06:link-checker`  -> [`0.0.4`]
+1. `io.github.marcperez06:link-checker`  -> [`0.0.4`, `0.0.5`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`]
 1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`]
@@ -1122,7 +1122,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jhstatewide:jdbc-cache-driver`  -> [`1.4.10`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
 1. `io.github.linyimin0812:java-profiler-core`  -> [`1.0.13`]
-1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`, `0.7-beta`, `1.0`]
+1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`, `0.7-beta`, `1.0`, `1.1`]
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`, `12.2`, `12.3`]
 1. `io.github.portlek:patty`  -> [`1.1`]
 1. `io.github.sergeshustoff.dikt:dikt-compiler-plugin-native`  -> [`1.0.0-alpha4`, `1.0.0-alpha5`, `1.0.0-alpha6`, `1.0.0-alpha7`, `1.0.0-alpha8`, `1.0.0-alpha9`, `1.0.1`]
@@ -4490,13 +4490,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5`]
 1. `net.corda:corda-tools-checkpoint-agent`  -> [`4.5`]
-1. `org.junit.jupiter:junit-jupiter-api` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`]
+1. `org.junit.jupiter:junit-jupiter-api` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`]
 
 ## org.junit.vintage.engine
 
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55`  -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.7.4`, `2.7.5`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`1.7.0`]
-1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`]
+1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`]
 
 ## org.kordamp.iconli.core
 

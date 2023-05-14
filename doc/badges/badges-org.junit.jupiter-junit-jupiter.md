@@ -3,6 +3,10 @@
 ## Version 5.5.0-M1
 
 - `Scan[G=org.junit.jupiter, G2=org.junit.jupiter, A=junit-jupiter, GA=org.junit.jupiter:junit-jupiter, V=5.5.0-M1, module=org.junit.jupiter, kind=automatic]`
+## Version 5.10.0-M1
+
+- ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
+- ![module-name](https://img.shields.io/badge/module--name-org.junit.jupiter-green)
 ## Version 5.5.0-RC1
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
