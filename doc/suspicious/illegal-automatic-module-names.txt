@@ -392,6 +392,7 @@ org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
 org.apache.logging.log4j:log4j-liquibase:2.19.0 -> -
+org.apache.sshd:sshd-spring-sftp:2.10.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:9.0.0 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:9.0.0 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:9.0.0 -> org.apache.tomee.bom.tomee-plume
