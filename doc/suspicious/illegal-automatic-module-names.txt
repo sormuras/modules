@@ -510,7 +510,7 @@ org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
 org.apereo.cas:cas-server-webapp-eureka-server:6.1.0-RC4 -> cas-server-webapp-eureka-server
 org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
-org.apereo.cas:cas-server-webapp-native:7.0.0-RC5 -> cas.server.webapp.native
+org.apereo.cas:cas-server-webapp-native:7.0.0-RC6 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
 org.creekservice:creek-json-schema-gradle-plugin:0.4.1 -> creek-json-schema-gradle-plugin
@@ -689,7 +689,7 @@ org.jmonkeyengine:jme3-android-native:3.6.0-stable -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:6.2.0 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:6.2.0 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.7.11 -> joinfaces.starter.myfaces-next
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.12 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow-full:1.25.0.Final -> -
