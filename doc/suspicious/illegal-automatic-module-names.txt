@@ -1562,7 +1562,7 @@ org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
 org.pfsw:pf-julea-log4j2:1.0.0 -> org.pfsw.julea-log4j2
 org.pharmgkb:vcf-parser:0.3.1 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
-org.selenide:selenide-selenoid:2.3.7 -> org.selenide.selenide-selenoid
+org.selenide:selenide-selenoid:6.15.0 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
