@@ -207,8 +207,8 @@ com.googlecode.ez-vcard:ez-vcard:0.12.0 -> com.googlecode.ez-vcard
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.24.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.24.0 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.26.0 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.26.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:2.1.0 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -1569,7 +1569,7 @@ org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
-org.simplejavamail:utils-mail-smime:2.1.0 -> com.github.bbottema.java-utils-mail-smime
+org.simplejavamail:utils-mail-smime:2.1.1 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M1-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
