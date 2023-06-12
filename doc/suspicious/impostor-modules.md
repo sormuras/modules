@@ -10,7 +10,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x231
 1. `kotlin.stdlib.jdk8` x158
 1. `kotlin.stdlib` x107
-1. `org.slf4j` x97
+1. `org.slf4j` x98
 1. `org.bouncycastle.provider` x94
 1. `net.bytebuddy` x93
 1. `info.picocli` x81
@@ -574,7 +574,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.40.0`, `1.40.2`, `1.41.0`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.24.0`, `1.25.0`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.31.0`, `1.32.0`]
-1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`, `1.22.4`, `1.22.5`, `1.22.6`, `1.22.7`, `1.22.8`, `1.22.9`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.3`]
+1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`, `1.22.4`, `1.22.5`, `1.22.6`, `1.22.7`, `1.22.8`, `1.22.9`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.3`, `1.25.0`]
 1. `se.bjurr.violations:violations-git-lib`  -> [`1.47.0`, `1.47.1`, `1.47.2`, `1.47.3`, `1.47.4`, `1.47.5`, `1.47.6`, `1.47.7`, `1.48.0`, `1.49.0`, `1.49.1`, `1.49.2`]
 1. `se.bjurr.violations:violations-lib`  -> [`1.150.0`, `1.151.0`, `1.152.0`, `1.153.0`, `1.153.2`, `1.154.1`, `1.155.0`, `1.155.1`, `1.155.2`, `1.155.3`, `1.155.4`, `1.155.5`, `1.155.6`, `1.155.7`, `1.155.8`, `1.156.0`, `1.156.1`, `1.156.2`, `1.156.3`, `1.156.4`, `1.156.5`]
 1. `software.amazon.smithy:smithy-language-server`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
@@ -1099,7 +1099,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cn.j4ger:firewatch`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `cn.wumoe:hime`  -> [`1.4`, `1.5`]
 1. `com.airsaid:sample-plugin`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.1.2`]
-1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`]
+1. `com.anatawa12.mod-patching:gradle-plugin`  -> [`2.0.0`, `2.0.1`, `2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.5`]
 1. `com.apollographql.apollo3:apollo-gradle-plugin`  -> [`3.0.0-dev6`]
 1. `com.cjbooms:fabrikt`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.2.1`, `1.3.0`, `1.4.0`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.2.0`, `2.2.1`, `2.3.0`, `3.0.0`, `4.0.0`, `5.0.0`, `5.1.0`, `6.0.0`, `6.0.1`, `6.0.2`, `6.1.0`, `6.2.0`, `7.0.0`, `7.1.0`, `7.2.0`, `7.2.1`, `7.3.0`, `7.4.0`, `7.5.0`, `8.0.0`, `8.1.0`, `8.1.1`, `8.2.0`, `8.3.0`, `8.3.1`, `8.4.0`, `8.5.0`, `8.6.0`, `8.7.0`, `8.8.0`, `8.9.0`, `8.10.0`]
 1. `com.dbvis:mongo-jdbc-standalone`  -> [`1.13`]
@@ -1364,7 +1364,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 97 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 98 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `au.net.causal.spring-boot-keepassxc-property-agent:spring-boot-keepassxc-property-agent`  -> [`1.0`]
@@ -1464,6 +1464,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.polypheny:polypheny-jdbc-driver`  -> [`1.5.3`]
 1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`]
 1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.45`, `1.50`, `1.52`]
+1. `tech.catheu:jnotebook-distribution`  -> [`0.4.0`]
 
 ## org.bouncycastle.provider
 
@@ -2635,6 +2636,27 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`, `1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.30.0`, `1.30.1`, `1.30.2`]
 1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`, `1.21.0`, `1.21.2`, `1.21.3`, `1.21.4`, `1.21.5`, `1.21.6`]
 
+## org.yaml.snakeyaml
+
+For example, at least 15 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
+
+1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`]
+1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`]
+1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`]
+1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`, `23.04.1`]
+1. `io.github.theskyblockman:instructer`  -> [`1.0`]
+1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-M5`]
+1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
+1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
+1. `net.datafaker:datafaker`  -> [`2.0.0`]
+1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
+1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`, `0.41.3`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`, `0.41.3`]
+1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
+1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
+
 ## ch.qos.logback.classic
 
 For example, at least 14 artifacts on Maven Central claim to be the module `ch.qos.logback.classic`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -2734,26 +2756,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.tesbo:Tesbo-Web`  -> [`0.0.6`]
 1. `org.seleniumhq.selenium:selenium-api`  -> [`3.14.0`, `3.141.0`, `3.141.5`, `3.141.59`, `4.0.0-alpha-1`, `4.0.0-alpha-2`]
 1. `ru.sbtqa.tag.pagefactory:page-factory-core`  -> [`10.0.0`, `10.1.1`, `10.1.2`, `10.1.3`, `11.0.0`, `11.0.1`, `11.1.0`, `11.1.1`, `11.2.0`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`, `14.0.0`, `14.1.0`, `14.2.0`, `14.3.1`, `14.4.0`, `14.5.0`, `14.6.0`, `14.7.0`, `14.7.1`, `14.8.0`, `14.8.1`, `14.9.0`, `15.0.0`, `15.0.1`, `15.0.2`, `15.1.0`, `15.2.0`, `15.2.2`, `15.2.3`, `15.3.0`, `15.3.1`, `15.4.0`, `15.4.3`, `15.4.8`, `15.5.0`, `15.6.0`, `15.7.2`, `15.8.0`, `15.9.1`, `15.9.2`, `15.9.3`, `15.10.0`, `15.11.0`, `15.12.0`, `15.13.3`, `15.14.1`, `15.14.2`, `15.14.4`, `15.15.0`, `15.15.3`, `15.16.1`, `15.17.1`, `15.18.0`, `15.19.0`, `15.19.1`, `16.0.0`, `16.1.0`, `16.1.1`, `16.1.2`, `16.1.3`, `16.3.0`, `16.4.0`, `16.4.1`, `16.4.4`, `16.4.5`, `16.5.0`, `16.6.1`]
-
-## org.yaml.snakeyaml
-
-For example, at least 14 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
-
-1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`]
-1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`]
-1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`]
-1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`, `23.04.1`]
-1. `io.github.theskyblockman:instructer`  -> [`1.0`]
-1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-M5`]
-1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`]
-1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`]
-1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
-1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`, `0.41.3`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`, `0.41.3`]
-1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
-1. `org.yaml:snakeyaml` 🧩 -> [`2.0`]
 
 ## jakarta.activation
 
