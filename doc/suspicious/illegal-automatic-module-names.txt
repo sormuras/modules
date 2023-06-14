@@ -319,7 +319,7 @@ io.github.yakovsirotkin:machamp-oracle-spring-boot-starter:0.0.22 -> io.github.y
 io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.22 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.github.yakovsirotkin:machamp-sqlserver-spring-boot-starter:0.0.22 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
-io.qameta.allure:allure-junit5-assert:2.22.1 -> io.qameta.allure.junit5-assert
+io.qameta.allure:allure-junit5-assert:2.22.2 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.1 -> io.skullabs.apt.class-generator
 io.skullabs.injector:injector-core:1.5.3 -> io.skullabs.injector.injector-core
 io.skullabs.injector:injector-processor:1.5.3 -> io.skullabs.injector.injector-processor
