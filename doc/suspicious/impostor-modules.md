@@ -23,7 +23,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `lombok` x48
 1. `org.bouncycastle.pkix` x41
 1. `com.zaxxer.hikari` x40
-1. `org.jetbrains.annotations` x38
+1. `org.jetbrains.annotations` x39
 1. `com.fasterxml.jackson.datatype.jsr310` x37
 1. `com.fasterxml.jackson.datatype.jdk8` x32
 1. `com.fasterxml.jackson.jaxrs.json` x28
@@ -1150,7 +1150,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.protocol180:protocol-aggregator-contracts`  -> [`0.1.1`, `0.1.2`, `0.1.3`, `0.1.4`, `0.1.5`, `0.1.6`, `0.1.7`, `0.1.8`, `0.2.0`]
 1. `com.protocol180:protocol-aggregator-workflows`  -> [`0.1.7`]
 1. `com.r3.conclave:conclave-init`  -> [`1.3`, `1.3.1`, `1.4-beta1`]
-1. `com.rickbusarow.ktlint:ktlint-gradle-plugin`  -> [`0.1.5`]
+1. `com.rickbusarow.ktlint:ktlint-gradle-plugin`  -> [`0.1.5`, `0.1.6`]
 1. `com.squareup.sqldelight:gradle-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`]
 1. `com.tencent.polaris:dubbo-circuitbreak-consumer`  -> [`0.2.0`]
 1. `com.tencent.polaris:dubbo-circuitbreak-provider`  -> [`0.2.0`]
@@ -1345,7 +1345,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pyroscope:otel`  -> [`0.10.1.1`, `0.10.1.3`, `0.10.1.4`]
 1. `io.vproxy:kotlin-stdlib-lite`  -> [`1.0.0`, `1.0.1`, `1.0.1-jdk9`]
 1. `net.bonn2:ModularBot`  -> [`1.2.3`, `1.2.5`]
-1. `net.onedaybeard.sift:cli`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`]
+1. `net.onedaybeard.sift:cli`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`]
 1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 1. `org.apache.seatunnel:connector-google-firestore`  -> [`2.3.2`]
 1. `org.apache.seatunnel:connector-influxdb`  -> [`2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`]
@@ -1413,7 +1413,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:slf4j`  -> [`1.0.14.0-RC1-jre14`, `1.0.14.1-jre14`, `1.0.14.3-jre8`, `1.0.14.4-jre8`, `1.0.14.4-jre14`, `1.0.15.1-jre14`, `1.0.15.2-jre14`, `1.0.15.3-jre8`, `1.0.15.3-jre14`, `1.0.15.4-jre8`, `1.0.15.4-jre14`, `1.0.15.5-jre8`, `1.0.15.5-jre14`, `1.0.16.0-jre14`, `1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`0.4.0`, `0.4.1`, `0.4.2`]
 1. `com.mageddo.csv2jdbc:csv2jdbc`  -> [`0.2.0-snapshot`, `0.2.0`, `0.2.1`]
-1. `com.networknt:light-consumer-4j`  -> [`2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
+1. `com.networknt:light-consumer-4j`  -> [`2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
 1. `com.newrelic.agent.android:instrumentation`  -> [`6.11.0`]
 1. `com.sndyuk:logback-more-appenders`  -> [`1.5.7-JAVA9MODULE_SLF4J17`, `1.6.0-JAVA9MODULE_SLF4J17`, `1.6.1-JAVA9MODULE_SLF4J17`, `1.7.1-JAVA9MODULE_SLF4J17`, `1.7.2-JAVA9MODULE_SLF4J17`, `1.7.3-JAVA9MODULE_SLF4J17`, `1.7.4-JAVA9MODULE_SLF4J17`, `1.7.5-JAVA9MODULE_SLF4J17`, `1.8.0-JAVA9MODULE_SLF4J17`, `1.8.1-JAVA9MODULE_SLF4J17`, `1.8.2-JAVA9MODULE_SLF4J17`, `1.8.3-JAVA9MODULE_SLF4J17`, `1.8.4-JAVA9MODULE_SLF4J17`, `1.8.5-JAVA9MODULE_SLF4J17`, `1.8.6-JAVA9MODULE_SLF4J17`, `1.8.7-JAVA9MODULE_SLF4J17`, `1.8.8-JAVA9MODULE_SLF4J17`]
 1. `com.teamscale:impacted-test-engine`  -> [`29.1.0`, `29.1.1`, `29.1.2`, `29.1.3`, `30.0.0`, `30.0.1`, `30.0.2`]
@@ -1438,7 +1438,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.scouter-project:scouter-agent-host`  -> [`2.20.0`]
 1. `io.github.thewebcode:YCore`  -> [`1.0.2`]
 1. `io.github.zemise:Voice-Synthesis`  -> [`1.0.0`]
-1. `io.jooby:jooby-cli`  -> [`3.0.0.M1`, `3.0.0.M2`, `3.0.0.M3`, `3.0.0.M4`, `3.0.0.M5`, `3.0.0.M6`, `3.0.0.M7`, `3.0.0.M9`]
+1. `io.jooby:jooby-cli`  -> [`3.0.0.M1`, `3.0.0.M2`, `3.0.0.M3`, `3.0.0.M4`, `3.0.0.M5`, `3.0.0.M6`, `3.0.0.M7`, `3.0.0.M9`, `3.0.0.M11`]
 1. `io.keyko:secret-store-client`  -> [`0.1.0`]
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.0.0.Alpha6`, `3.0.0.CR1`, `3.1.0.Final`, `3.1.1.Final`, `3.1.2.Final`]
 1. `io.virtdata:virtdata-lib-curves4`  -> [`2.12.01`, `2.12.02`, `2.12.03`]
@@ -2308,7 +2308,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ververica:flink-sql-connector-mysql-cdc`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`, `2.3.0`]
 1. `com.zaxxer:HikariCP` 🧩 -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`, `5.0.0`, `5.0.1`]
 1. `fr.blueberry-studio.hermes:hermes-api`  -> [`0.9-ALPHA`]
-1. `games.cultivate:MCMMOCredits`  -> [`0.3.9`, `0.4.0`]
+1. `games.cultivate:MCMMOCredits`  -> [`0.3.9`, `0.4.0`, `0.4.1`]
 1. `io.github.flow-engine:fl-func-pipeline-runtime`  -> [`0.0.2`, `0.0.2.1`]
 1. `io.tidb:flink-tidb-connector-1.11`  -> [`0.0.3`, `0.0.4`]
 1. `io.tidb:flink-tidb-connector-1.12`  -> [`0.0.3`, `0.0.4`]
@@ -2340,7 +2340,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.jetbrains.annotations
 
-For example, at least 38 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 39 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.jetbrains.annotations;`.
 
 1. `cn.afternode.mc:CustomWeaponAPI`  -> [`0.1.0`]
@@ -2363,6 +2363,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.dailystruggle:CommandsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA04`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA08`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA13`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA19`, `1.0-ALPHA23`, `1.0-ALPHA26`, `1.0-ALPHA28`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA31`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`, `1.0-ALPHA36`, `1.0-ALPHA37`, `1.0-ALPHA38`, `1.0-ALPHA39`, `1.0-ALPHA40`, `1.0-ALPHA42`, `1.0-ALPHA44`, `1.0-ALPHA50`, `1.0-ALPHA53`, `1.0-ALPHA55`, `1.0-ALPHA56`]
 1. `io.github.dailystruggle:EffectsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA02`, `1.0-ALPHA03`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA17`, `1.0-ALPHA20`, `1.0-ALPHA21`, `1.0-ALPHA22`, `1.0-ALPHA23`, `1.0-ALPHA24`, `1.0-ALPHA26`, `1.0-ALPHA27`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`]
 1. `io.github.dailystruggle:RTP`  -> [`2.0.0-BETA01`, `2.0.0-BETA03`, `2.0.0-BETA04`, `2.0.0`]
+1. `io.github.happybavarian07:CoolStuffLib`  -> [`1.0.0`, `1.0.1`]
 1. `io.github.rysefoxx:MineQuestNPC`  -> [`1.0`, `1.1`, `1.2`, `1.2.2.1`, `1.3`, `1.3.1`]
 1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`]
 1. `io.github.wand555:richerconversation-api`  -> [`1.0.2`, `1.0.3`]
@@ -2436,20 +2437,20 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jackson.datatype:jackson-datatype-jdk8`  -> [`0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.microsoft.azure:spark-cdm-connector`  -> [`0.18.2`]
-1. `com.networknt:codegen-cli`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
+1. `com.networknt:codegen-cli`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
 1. `com.networknt:light-consumer-4j`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`]
 1. `com.networknt:oauth-code`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`]
 1. `com.networknt:oauth-key`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`]
 1. `com.networknt:oauth-token`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`]
-1. `com.networknt:oauth2-authorize`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-client`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-code`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-key`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-provider`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-refresh-token`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-service`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-token`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
-1. `com.networknt:oauth2-user`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`]
+1. `com.networknt:oauth2-authorize`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-client`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-code`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-key`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-provider`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-refresh-token`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-service`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-token`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
+1. `com.networknt:oauth2-user`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`]
 1. `com.resend.api:sdk`  -> [`1.5.3`]
 1. `io.bdeploy:api`  -> [`3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`, `3.6.4`, `3.6.5`, `3.6.6`, `3.6.7`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.1.0`, `4.1.2`, `4.1.3`, `4.2.1`, `4.2.2`, `4.3.0`, `4.3.1`, `4.5.0`, `4.5.4`]
 1. `io.github.marquezproject:marquez-api`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
