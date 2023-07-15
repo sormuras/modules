@@ -232,7 +232,7 @@ com.synopsys.integration:blackduck-common:66.2.4 -> com.synopsys.integration.bla
 com.synopsys.integration:blackduck-common-api:2023.4.0.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
-com.synopsys.integration:hub-imageinspector-lib:14.1.4 -> com.synopsys.integration.hub-imageinspector-lib
+com.synopsys.integration:hub-imageinspector-lib:14.2.0 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:4.0.1 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:26.0.9 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:26.0.6 -> com.synopsys.integration.integration-common
@@ -1580,7 +1580,7 @@ org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
-org.simplejavamail:utils-mail-smime:2.1.1 -> com.github.bbottema.java-utils-mail-smime
+org.simplejavamail:utils-mail-smime:2.1.2 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M1-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
