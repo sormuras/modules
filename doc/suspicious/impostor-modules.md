@@ -589,7 +589,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.0`, `2.5.1`]
 1. `org.testng.testng-remote:testng-remote`  -> [`1.5.1`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
-1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC4`]
+1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC4`, `2.0.0-RC5`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.32.0`, `1.33.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.40.0`, `1.40.2`, `1.41.0`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.24.0`, `1.25.0`]
@@ -1209,7 +1209,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jhstatewide:jdbc-cache-driver`  -> [`1.4.10`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
 1. `io.github.linyimin0812:java-profiler-core`  -> [`1.0.13`, `1.1.2`, `1.2.0`]
-1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`]
+1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`]
 1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`, `0.7-beta`, `1.0`, `1.1`, `1.2`]
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`, `12.2`, `12.3`, `12.4`]
 1. `io.github.portlek:patty`  -> [`1.1`]
@@ -2167,8 +2167,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.checkerframework:checker`  -> [`3.10.0`, `3.11.0`]
 1. `org.duracloud:synctoolui`  -> [`5.1.0`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `7.0.0`, `7.1.0`, `7.1.1`, `7.1.2`]
 1. `org.glassfish.main.extras:glassfish-embedded-all`  -> [`6.1.0`, `6.2.0`, `6.2.1`]
-1. `org.glassfish.main.extras:glassfish-embedded-nucleus`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `7.0.0-M1`, `7.0.0-M2`, `7.0.0-M3`, `7.0.0-M4`, `7.0.0-M10`, `7.0.0`, `7.0.1`, `7.0.2`, `7.0.3`, `7.0.4`, `7.0.5`, `7.0.6`]
-1. `org.glassfish.main.extras:glassfish-embedded-web`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `7.0.0-M1`, `7.0.0-M2`, `7.0.0-M3`, `7.0.0-M4`, `7.0.0-M10`, `7.0.0`, `7.0.1`, `7.0.2`, `7.0.3`, `7.0.4`, `7.0.5`, `7.0.6`]
+1. `org.glassfish.main.extras:glassfish-embedded-nucleus`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `7.0.0-M1`, `7.0.0-M2`, `7.0.0-M3`, `7.0.0-M4`, `7.0.0-M10`, `7.0.0`, `7.0.1`, `7.0.2`, `7.0.3`, `7.0.4`, `7.0.5`, `7.0.6`, `7.0.7`]
+1. `org.glassfish.main.extras:glassfish-embedded-web`  -> [`6.1.0`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `7.0.0-M1`, `7.0.0-M2`, `7.0.0-M3`, `7.0.0-M4`, `7.0.0-M10`, `7.0.0`, `7.0.1`, `7.0.2`, `7.0.3`, `7.0.4`, `7.0.5`, `7.0.6`, `7.0.7`]
 1. `org.graalvm.nativeimage:svm`  -> [`19.3.0`, `19.3.0.2`, `19.3.1`, `20.0.0`, `20.1.0`]
 1. `org.mini2Dx:artemis-odb-cli`  -> [`2.4.0`]
 1. `org.netbeans.external:asm-7.2`  -> [`RELEASE113`]
@@ -2705,7 +2705,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `it.vige.cities:cities-generator`  -> [`1.2.1`, `1.2.2`]
 1. `org.meyvn:meyvn`  -> [`1.6.8`, `1.6.9`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`, `1.99.3`, `1.99.4`, `1.99.5`, `1.99.6`, `1.99.7`, `1.99.8`, `1.100.0`, `1.100.1`, `1.100.2`, `1.101.0`, `1.101.1`, `1.101.2`, `1.101.3`, `1.101.4`, `1.101.6`, `1.101.7`, `1.101.8`, `1.101.10`, `1.102.0`, `1.103.2`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`, `1.99.3`, `1.99.4`, `1.99.5`, `1.99.6`, `1.99.7`, `1.99.8`, `1.100.0`, `1.100.1`, `1.100.2`, `1.101.0`, `1.101.1`, `1.101.2`, `1.101.3`, `1.101.4`, `1.101.6`, `1.101.7`, `1.101.8`, `1.101.10`, `1.102.0`, `1.103.2`, `1.104.0`]
 1. `se.bjurr.gradle:violations-command-line`  -> [`1.21.1`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.29.2`, `1.30.0`, `1.30.1`, `1.31.0`]
@@ -3414,6 +3414,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.ow2.asm:asm-analysis` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`]
 1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`, `0.8.1`]
 
+## org.slf4j.nop
+
+1. `io.gitlab.arturbosch.detekt:detekt-formatting`  -> [`1.23.1`]
+1. `org.geepawhill:jltk-monitor`  -> [`0.0.14`]
+1. `org.meyvn:meyvn`  -> [`1.6.6`]
+1. `org.slf4j:slf4j-nop` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`]
+1. `org.virtuslab.scala-cli:cliBootstrapped`  -> [`1.0.0-RC2`, `1.0.0`, `1.0.1`, `1.0.2`]
+
 ## org.tukaani.xz
 
 1. `com.anatawa12.jarInJar:jar-in-jar-creator`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -3428,6 +3436,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `be.webtechie:pi-headers`  -> [`0.0.3`, `0.1.1`]
 1. `be.webtechie:resistor-calculator` 🧩 -> [`0.0.1`, `0.0.2`]
 1. `com.pi4j:pi4j-board-info`  -> [`0.0.1.ea`, `0.0.2.ea`, `0.1.0`, `0.2.0`]
+
+## com.alibaba.fastjson2
+
+1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`, `2.0.33`, `2.0.35`, `2.0.37`]
+1. `com.github.CCweixiao:hbase-sdk-common`  -> [`3.0.0`]
+1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
+1. `io.github.linyimin0812:spring-profiler-extension`  -> [`2.0.5`]
 
 ## com.aspose.words
 
@@ -4143,13 +4158,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jaqat:remoterobot`  -> [`0.2.1`, `0.2.2`]
 1. `org.seleniumhq.selenium:selenium-remote-driver`  -> [`3.14.0`, `3.141.0`, `3.141.5`, `3.141.59`, `4.0.0-alpha-1`, `4.0.0-alpha-2`]
 
-## org.slf4j.nop
-
-1. `org.geepawhill:jltk-monitor`  -> [`0.0.14`]
-1. `org.meyvn:meyvn`  -> [`1.6.6`]
-1. `org.slf4j:slf4j-nop` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`]
-1. `org.virtuslab.scala-cli:cliBootstrapped`  -> [`1.0.0-RC2`, `1.0.0`, `1.0.1`, `1.0.2`]
-
 ## org.slf4j.zio
 
 1. `dev.zio:zio-logging-slf4j2-bridge_2.11`  -> [`2.1.9`, `2.1.10`]
@@ -4252,12 +4260,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ch.tutteli.atrium:atrium-translations-en_GB-jvm` 🧩 -> [`1.0.0-RC2`, `1.0.0`, `1.1.0-IR-alpha`]
 1. `ch.tutteli.atrium:atrium-translations-en_GB`  -> [`0.9.0-alpha2`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.11.0`, `0.11.1`, `0.12.0`, `0.13.0`, `0.14.0.RC1`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0-RC1`, `0.17.0`, `0.18.0`]
 1. `ch.tutteli.atrium:atrium-translations-jvm`  -> [`1.0.0-RC1`]
-
-## com.alibaba.fastjson2
-
-1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`, `2.0.33`, `2.0.35`, `2.0.37`]
-1. `com.github.CCweixiao:hbase-sdk-common`  -> [`3.0.0`]
-1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
 
 ## com.blazebit.persistence.integration.hibernate.base
 
