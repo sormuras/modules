@@ -193,8 +193,8 @@ com.googlecode.ez-vcard:ez-vcard:0.12.0 -> com.googlecode.ez-vcard
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.26.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.26.0 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.27.0 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.27.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:2.1.0 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -228,7 +228,7 @@ com.squareup.wire:wire-swift-generator:4.8.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
 com.synopsys.integration:blackduck-common:66.2.4 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2023.4.0.1 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common-api:2023.4.2.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.2.0 -> com.synopsys.integration.hub-imageinspector-lib
