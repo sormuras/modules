@@ -227,7 +227,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.8.0 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:66.2.5 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:66.2.6 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2023.4.2.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -494,6 +494,7 @@ org.apereo.cas:cas-server-documentation:6.0.0-RC1 -> cas-server-documentation
 org.apereo.cas:cas-server-documentation-swagger:6.2.0-RC3 -> cas-server-documentation-swagger
 org.apereo.cas:cas-server-support-bom:6.5.0-RC5 -> cas-server-support-bom
 org.apereo.cas:cas-server-support-configuration:6.0.0-RC3 -> cas-server-support-configuration
+org.apereo.cas:cas-server-support-native:7.0.0-RC7 -> cas.server.support.native
 org.apereo.cas:cas-server-webapp:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp-bootadmin-server
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
