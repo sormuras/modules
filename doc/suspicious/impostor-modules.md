@@ -131,7 +131,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.aprietop:utils`  -> [`0.1.0`]
 1. `io.github.devlibx.miscellaneous:flink-fat`  -> [`0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.30`, `0.0.31`, `0.0.32`, `0.0.33`, `0.0.34`, `0.0.35`, `0.0.36`, `0.0.37`, `0.0.38`, `0.0.39`, `0.0.40`, `0.0.41`, `0.0.42`, `0.0.43`, `0.0.44`, `0.0.45`]
 1. `io.github.devlibx.miscellaneous:flink`  -> [`0.0.11`, `0.0.12`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.17`]
-1. `io.github.hkarthik7:azd`  -> [`3.0.3`, `3.0.4`, `4.0.0`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`]
+1. `io.github.hkarthik7:azd`  -> [`3.0.3`, `3.0.4`, `4.0.0`, `5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`, `5.0.9`]
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`, `2.6`]
@@ -1491,7 +1491,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.wizzie:enricher-base`  -> [`0.5.1`, `0.5.1.1`]
 1. `io.wizzie:enricher-model`  -> [`0.5.1`, `0.5.1.1`]
 1. `io.wizzie:normalizer-service`  -> [`0.6.1.1`, `0.6.1.2`]
-1. `net.serenity-bdd:serenity-cli`  -> [`3.6.16`, `3.6.17`, `3.6.20`, `3.6.21`, `3.6.22`, `3.6.23`, `3.7.0`, `3.7.1`, `3.8.1`, `3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.9.4`, `3.9.7`, `3.9.8`]
+1. `net.serenity-bdd:serenity-cli`  -> [`3.6.16`, `3.6.17`, `3.6.20`, `3.6.21`, `3.6.22`, `3.6.23`, `3.7.0`, `3.7.1`, `3.8.1`, `3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.9.4`, `3.9.7`, `3.9.8`, `4.0.0-beta-1`]
 1. `nl.basjes.parse.useragent:yauaa-commandline`  -> [`5.14`]
 1. `no.entur:schema2proto-lib`  -> [`1.79`, `1.80`, `1.81`, `1.82`, `1.83`, `1.84`, `1.85`, `1.86`]
 1. `org.apache.activemq:activemq-all`  -> [`5.18.0`, `5.18.1`, `5.18.2`]
@@ -2370,7 +2370,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ververica:flink-sql-connector-postgres-cdc`  -> [`2.4.0`, `2.4.1`]
 1. `com.zaxxer:HikariCP` 🧩 -> [`3.4.4`, `3.4.5`, `4.0.0`, `4.0.1`, `4.0.3`, `5.0.0`, `5.0.1`]
 1. `fr.blueberry-studio.hermes:hermes-api`  -> [`0.9-ALPHA`]
-1. `games.cultivate:MCMMOCredits`  -> [`0.3.9`, `0.4.0`, `0.4.1`, `0.4.2`]
+1. `games.cultivate:MCMMOCredits`  -> [`0.3.9`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`]
 1. `io.github.flow-engine:fl-func-pipeline-runtime`  -> [`0.0.2`, `0.0.2.1`]
 1. `io.tidb:flink-tidb-connector-1.11`  -> [`0.0.3`, `0.0.4`]
 1. `io.tidb:flink-tidb-connector-1.12`  -> [`0.0.3`, `0.0.4`]
@@ -4022,7 +4022,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.networknt.schema
 
-1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`]
+1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`]
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`3.0.0-beta-9`, `3.0.0-beta-10`]
 1. `com.networknt:json-schema-validator` 🧩 -> [`1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`]
 1. `org.wiremock:wiremock-standalone`  -> [`3.0.0-beta-11`, `3.0.0-beta-12`, `3.0.0-beta-13`, `3.0.0-beta-14`]
