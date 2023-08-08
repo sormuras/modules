@@ -106,11 +106,11 @@ com.github.albfernandez.richfaces:richfaces-core:4.6.21.ayg -> com.github.albfer
 com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
 com.github.albfernandez.richfaces:richfaces-resource-optimizer-maven-plugin:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-resource-optimizer-maven-plugin
 com.github.albfernandez.seam:jboss-seam-flex:2.3.24.ayg -> com.github.albfernandez.seam.jboss-seam-flex
-com.github.albfernandez:jbpm-examples:3.2.18.ayg -> com.github.albfernandez.jbpm-examples
-com.github.albfernandez:jbpm-identity:3.2.18.ayg -> com.github.albfernandez.jbpm-identity
-com.github.albfernandez:jbpm-jpdl:3.2.18.ayg -> com.github.albfernandez.jbpm-jpdl
-com.github.albfernandez:jbpm-simulation:3.2.18.ayg -> com.github.albfernandez.jbpm-simulation
-com.github.albfernandez:jbpm-tomcat:3.2.18.ayg -> com.github.albfernandez.jbpm-tomcat
+com.github.albfernandez:jbpm-examples:3.2.19.ayg -> com.github.albfernandez.jbpm-examples
+com.github.albfernandez:jbpm-identity:3.2.19.ayg -> com.github.albfernandez.jbpm-identity
+com.github.albfernandez:jbpm-jpdl:3.2.19.ayg -> com.github.albfernandez.jbpm-jpdl
+com.github.albfernandez:jbpm-simulation:3.2.19.ayg -> com.github.albfernandez.jbpm-simulation
+com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:clustered-object-pool:2.0.2 -> clustered-object-pool
 com.github.bbottema:generic-object-pool:2.0.1 -> generic-object-pool
 com.github.bbottema:java-reflection:4.0.0 -> java-reflection
