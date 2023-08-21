@@ -8,7 +8,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.google.gson` x272
 1. `com.fasterxml.jackson.databind` x264
 1. `org.apache.logging.log4j` x235
-1. `kotlin.stdlib.jdk8` x165
+1. `kotlin.stdlib.jdk8` x166
 1. `kotlin.stdlib` x115
 1. `org.slf4j` x101
 1. `org.bouncycastle.provider` x96
@@ -28,7 +28,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.datatype.jdk8` x33
 1. `com.fasterxml.jackson.jaxrs.json` x33
 1. `org.objectweb.asm.commons` x28
-1. `com.fasterxml.jackson.dataformat.cbor` x25
+1. `org.yaml.snakeyaml` x26
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
@@ -449,8 +449,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.vaadin:license-checker-machineid`  -> [`1.12.2`, `1.12.3`]
 1. `com.veracode.vosp.api.wrappers:vosp-api-wrappers-java`  -> [`22.5.10.1`, `22.10.10.4`, `23.1.10.5`, `23.3.11.0`, `23.3.11.1`, `23.4.11.2`, `23.8.12.0`]
 1. `com.vertica.jdbc:vertica-jdbc`  -> [`11.0.0-0`, `11.0.1-0`, `11.0.2-0`, `11.1.0-0`, `11.1.1-0`, `12.0.0-0`, `12.0.1-0`, `12.0.2-0`, `12.0.3-0`, `12.0.4-0`, `23.3.0-0`]
-1. `com.wizzdi:flexicore-encryption-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`]
-1. `com.wizzdi:messaging-firebase-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`]
+1. `com.wizzdi:flexicore-encryption-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`]
+1. `com.wizzdi:messaging-firebase-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`]
 1. `cz.o2.proxima:proxima-beam-tools`  -> [`0.12.0`]
 1. `cz.o2.proxima:proxima-direct-compiler-plugin`  -> [`0.12.0`]
 1. `cz.o2.proxima:proxima-direct-io-bigtable`  -> [`0.11.0`, `0.12.0`]
@@ -679,7 +679,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.huaweicloud.sermant:springboot-registry-service`  -> [`0.6.1`, `0.6.2`, `0.6.3`, `0.7.0`, `0.8.0`, `0.9.0`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`]
 1. `com.ibm.cos:ibm-cos-java-sdk-bundle`  -> [`2.11.1`, `2.11.2`, `2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`]
 1. `com.ibm.eventstreams:oauth-client`  -> [`0.1.0`, `0.1.1`]
-1. `com.icegreen:greenmail-standalone`  -> [`2.0.0-alpha-3`, `2.0.0`, `2.1.0-alpha-1`]
+1. `com.icegreen:greenmail-standalone`  -> [`2.0.0-alpha-3`, `2.0.0`, `2.1.0-alpha-1`, `2.1.0-alpha-2`]
 1. `com.joinesty:nullafi-java-sdk`  -> [`1.0.4`]
 1. `com.jwebmp.jackson.core:jackson-databind`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.core:jackson-databind`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
@@ -1129,7 +1129,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 165 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 166 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `ai.tecton:java-client`  -> [`0.2.0`]
@@ -1155,9 +1155,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.flank:flank`  -> [`21.05.0`, `21.06.0`, `21.06.1`, `21.07.0`, `21.07.1`, `21.07.2`, `21.08.0`, `21.08.1`, `21.09.0`, `21.11.0`, `22.03.0`, `22.04.0`, `22.05.0`, `22.10.0`, `23.01.0`, `23.03.0`, `23.03.1`, `23.03.2`, `23.04.0`, `23.06.0`, `23.06.1`, `23.06.2`, `23.07.0`]
 1. `com.github.hopshackle:NTBEA`  -> [`0.1`, `0.2`, `0.2.1`, `0.3.0`]
 1. `com.github.patrick-mc:twipe`  -> [`1.0.3`]
-1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`]
-1. `com.github.shynixn.mccoroutine:mccoroutine-bungeecord-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`]
-1. `com.github.shynixn.mccoroutine:mccoroutine-sponge-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`]
+1. `com.github.shynixn.mccoroutine:mccoroutine-bukkit-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`, `2.13.0`]
+1. `com.github.shynixn.mccoroutine:mccoroutine-bungeecord-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`, `2.13.0`]
+1. `com.github.shynixn.mccoroutine:mccoroutine-folia-sample`  -> [`2.13.0`]
+1. `com.github.shynixn.mccoroutine:mccoroutine-sponge-sample`  -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.12.1`, `2.13.0`]
 1. `com.github.shynixn.packet:packet-api`  -> [`1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
 1. `com.greensqa:gheart.sdk`  -> [`2.0.20230224.1`, `2.1.20230409.7-RC`, `2.1.20230409.11-RC`, `2.1.20230409.12-RC`, `2.1.20230410.3-RC`]
 1. `com.houxinlin:mini-api`  -> [`1.0`]
@@ -1216,7 +1217,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.franvis.pimpmyandroidxml:pmaxml`  -> [`0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`]
 1. `io.github.g0dkar:qrcode-kotlin`  -> [`1.0.2`]
 1. `io.github.houxinlin:mini-api`  -> [`1.0`]
-1. `io.github.iredtea:carcadex`  -> [`1.0.8`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.2.0`, `1.2.1`]
+1. `io.github.iredtea:carcadex`  -> [`1.0.8`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.2.0`, `1.2.1`, `2.0.0-BETA`, `2.0.1-BETA`]
 1. `io.github.jbock-java:dapper-compiler`  -> [`2.41.2`]
 1. `io.github.jhstatewide:jdbc-cache-driver`  -> [`1.4.10`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
@@ -1549,8 +1550,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.scylladb:scylla-cdc-driver3`  -> [`1.2.1`, `1.3.0`]
 1. `com.shopify.syrup:syrup-gradle`  -> [`0.2.1`]
 1. `com.snowflake:snowflake-kafka-connector`  -> [`1.8.0`, `1.8.1`, `1.8.2`, `1.9.1`]
-1. `com.wizzdi:dynamic-invoker-email-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`]
-1. `com.wizzdi:maps-email-service`  -> [`6.0.3`, `6.0.4`]
+1. `com.wizzdi:dynamic-invoker-email-service`  -> [`4.1.5`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`]
+1. `com.wizzdi:maps-email-service`  -> [`6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`]
 1. `com.zhaoxiaodan.flink:flink-connector-futuopend`  -> [`1.0.0`]
 1. `de.fraunhofer.iosb.ilt.faaast.service:starter`  -> [`0.3.0`, `0.4.0`, `0.5.0`]
 1. `dk.alexandra.fresco:aes`  -> [`1.3.4`, `1.3.5`]
@@ -1662,7 +1663,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cz.o2.proxima.beam:beam-sdks-java-extensions-kryo`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`, `0.3-1d562f`]
 1. `cz.o2.proxima.beam:beam-sdks-java-io-google-cloud-platform`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`]
 1. `cz.o2.proxima.beam:beam-sdks-java-io-kafka`  -> [`0.3.0-rc1`, `0.3.0-rc1-ab3f0b`]
-1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`, `1.35.0`, `1.35.1`, `1.36.0`, `1.37.0`, `1.38.0`, `1.38.1`, `1.39.0`, `1.40.0`, `1.41.0`, `1.41.1`, `1.41.2`, `1.41.3`, `1.41.4`]
+1. `io.aeron:aeron-agent`  -> [`1.26.0`, `1.27.0`, `1.28.0`, `1.28.1`, `1.28.2`, `1.29.0`, `1.30.0`, `1.31.0`, `1.31.1`, `1.32.0`, `1.33.0`, `1.33.1`, `1.34.0`, `1.35.0`, `1.35.1`, `1.36.0`, `1.37.0`, `1.38.0`, `1.38.1`, `1.39.0`, `1.40.0`, `1.41.0`, `1.41.1`, `1.41.2`, `1.41.3`, `1.41.4`, `1.42.0`]
 1. `io.aeron:aeron-all`  -> [`1.13.0`, `1.14.0`, `1.15.0`, `1.15.1`, `1.15.2`, `1.15.3`, `1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.19.1`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.2`, `1.22.0`, `1.22.1`, `1.23.0`, `1.23.1`]
 1. `io.gitee.dqcer:mcdull-framework-agent`  -> [`0.0.5-RELEASE`]
 1. `io.github.freedy001:expression`  -> [`1.1.0`]
@@ -2615,6 +2616,38 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.teavm:teavm-relocated-libs-asm-commons`  -> [`0.8.0`, `0.8.1`]
 1. `software.amazon.disco:disco-java-agent`  -> [`0.10.0`, `0.11.0`, `0.12.0`]
 
+## org.yaml.snakeyaml
+
+For example, at least 26 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
+
+1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`, `0.8.1`, `0.8.2`]
+1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`, `23.6.0`, `23.7.1`]
+1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`, `2.9.8`]
+1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`, `23.04.1`, `23.06.0`, `23.06.1`, `23.06.2`, `23.06.3`, `23.06.4`]
+1. `de.m3y.prometheus.exporter.fsimage:fsimage-exporter`  -> [`1.4.7`]
+1. `io.github.gaius-qi:server`  -> [`0.8.1`]
+1. `io.github.theskyblockman:instructer`  -> [`1.0`]
+1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-M5`]
+1. `io.mybatis.rui:rui-cli`  -> [`1.1.0`]
+1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
+1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
+1. `net.datafaker:datafaker`  -> [`2.0.0`, `2.0.1`]
+1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
+1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`, `9.5.0`]
+1. `org.apache.storm:flux-core`  -> [`2.5.0`]
+1. `org.apache.storm:flux-examples`  -> [`2.5.0`]
+1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.5.0`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.5.0`]
+1. `org.apache.storm:storm-mqtt-examples`  -> [`2.5.0`]
+1. `org.apache.storm:storm-shaded-deps`  -> [`2.5.0`]
+1. `org.apache.storm:storm-starter`  -> [`2.5.0`]
+1. `org.geepawhill:jltk-monitor`  -> [`0.0.4`, `0.0.5`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`, `0.41.3`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`, `0.41.3`]
+1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
+1. `org.yaml:snakeyaml` 🧩 -> [`2.0`, `2.1`]
+
 ## com.fasterxml.jackson.dataformat.cbor
 
 For example, at least 25 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.cbor`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -2645,37 +2678,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `software.amazon.awssdk:third-party-jackson-dataformat-cbor`  -> [`2.17.108`, `2.17.109`, `2.17.110`, `2.17.111`, `2.17.112`, `2.17.113`, `2.17.114`, `2.17.115`, `2.17.116`, `2.17.117`, `2.17.118`, `2.17.119`, `2.17.120`, `2.17.121`, `2.17.122`, `2.17.123`, `2.17.124`, `2.17.125`, `2.17.126`, `2.17.127`, `2.17.128`, `2.17.129`, `2.17.130`, `2.17.131`, `2.17.132`, `2.17.133`, `2.17.134`, `2.17.135`, `2.17.136`, `2.17.137`, `2.17.138`, `2.17.139`, `2.17.140`, `2.17.141`, `2.17.142`, `2.17.143`, `2.17.144`, `2.17.145`, `2.17.146`, `2.17.147`, `2.17.148`, `2.17.149`, `2.17.150`, `2.17.151`, `2.17.152`, `2.17.153`, `2.17.154`, `2.17.155`, `2.17.156`, `2.17.157`, `2.17.158`, `2.17.159`, `2.17.160`, `2.17.161`, `2.17.162`, `2.17.163`, `2.17.164`, `2.17.165`, `2.17.166`, `2.17.167`, `2.17.168`, `2.17.169`, `2.17.170`, `2.17.171`, `2.17.172`, `2.17.173`, `2.17.174`, `2.17.175`, `2.17.176`, `2.17.177`, `2.17.178`, `2.17.179`, `2.17.180`, `2.17.181`, `2.17.182`, `2.17.183`, `2.17.184`, `2.17.185`, `2.17.186`, `2.17.187`, `2.17.188`, `2.17.189`, `2.17.190`, `2.17.191`, `2.17.192`, `2.17.193`, `2.17.194`, `2.17.195`, `2.17.196`, `2.17.197`, `2.17.198`, `2.17.199`, `2.17.201`, `2.17.202`, `2.17.203`, `2.17.204`, `2.17.205`, `2.17.206`, `2.17.207`, `2.17.208`, `2.17.209`, `2.17.210`, `2.17.211`, `2.17.212`, `2.17.213`, `2.17.214`, `2.17.215`, `2.17.216`, `2.17.217`, `2.17.218`, `2.17.219`, `2.17.220`, `2.17.221`, `2.17.222`, `2.17.223`, `2.17.224`, `2.17.225`, `2.17.226`, `2.17.227`, `2.17.228`, `2.17.229`, `2.17.231`, `2.17.232`, `2.17.233`, `2.17.234`, `2.17.235`, `2.17.236`, `2.17.237`, `2.17.238`, `2.17.239`, `2.17.240`, `2.17.241`, `2.17.242`, `2.17.243`, `2.17.244`, `2.17.245`, `2.17.246`, `2.17.247`, `2.17.248`, `2.17.249`, `2.17.250`, `2.17.251`, `2.17.252`, `2.17.253`, `2.17.254`, `2.17.255`, `2.17.256`, `2.17.257`, `2.17.258`, `2.17.259`, `2.17.260`, `2.17.261`, `2.17.262`, `2.17.263`, `2.17.264`, `2.17.265`, `2.17.266`, `2.17.267`, `2.17.268`, `2.17.269`, `2.17.270`, `2.17.271`, `2.17.272`, `2.17.273`, `2.17.274`, `2.17.275`, `2.17.276`, `2.17.277`, `2.17.278`, `2.17.279`, `2.17.280`, `2.17.281`, `2.17.282`, `2.17.283`, `2.17.284`, `2.17.285`, `2.17.286`, `2.17.287`, `2.17.288`, `2.17.289`, `2.17.290`, `2.17.291`, `2.17.292`, `2.17.293`, `2.17.294`, `2.17.295`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `2.18.4`, `2.18.5`, `2.18.6`, `2.18.7`, `2.18.8`, `2.18.9`, `2.18.10`, `2.18.11`, `2.18.12`, `2.18.13`, `2.18.14`, `2.18.15`, `2.18.16`, `2.18.17`, `2.18.18`, `2.18.19`, `2.18.20`, `2.18.21`, `2.18.22`, `2.18.23`, `2.18.24`, `2.18.25`, `2.18.26`, `2.18.27`, `2.18.28`, `2.18.29`, `2.18.30`, `2.18.31`, `2.18.32`, `2.18.33`, `2.18.34`, `2.18.35`, `2.18.36`, `2.18.37`, `2.18.38`, `2.18.39`, `2.18.40`, `2.18.41`, `2.19.0`, `2.19.1`, `2.19.2`, `2.19.3`, `2.19.4`, `2.19.5`, `2.19.6`, `2.19.7`, `2.19.8`, `2.19.9`, `2.19.10`, `2.19.11`, `2.19.12`, `2.19.13`, `2.19.14`, `2.19.15`, `2.19.16`, `2.19.17`, `2.19.18`, `2.19.19`, `2.19.20`, `2.19.21`, `2.19.22`, `2.19.23`, `2.19.24`, `2.19.25`, `2.19.26`, `2.19.27`, `2.19.28`, `2.19.29`, `2.19.30`, `2.19.31`, `2.19.32`, `2.19.33`, `2.20.0`, `2.20.1`, `2.20.2`, `2.20.3`, `2.20.4`, `2.20.5`, `2.20.6`, `2.20.7`, `2.20.8`, `2.20.9`, `2.20.10`, `2.20.11`, `2.20.12`, `2.20.13`, `2.20.14`, `2.20.15`, `2.20.16`, `2.20.17`, `2.20.18`, `2.20.19`, `2.20.20`, `2.20.21`, `2.20.22`, `2.20.23`, `2.20.24`, `2.20.25`, `2.20.26`, `2.20.27`, `2.20.28`, `2.20.29`, `2.20.30`, `2.20.31`, `2.20.32`, `2.20.33`, `2.20.34`, `2.20.35`, `2.20.36`, `2.20.37`, `2.20.38`, `2.20.39`, `2.20.40`, `2.20.41`, `2.20.42`, `2.20.43`, `2.20.44`, `2.20.45`, `2.20.46`, `2.20.47`, `2.20.48`, `2.20.49`, `2.20.50`, `2.20.51`, `2.20.52`, `2.20.53`, `2.20.54`, `2.20.55`, `2.20.56`, `2.20.57`, `2.20.58`, `2.20.59`, `2.20.60`, `2.20.61`, `2.20.62`, `2.20.63`, `2.20.64`, `2.20.65`, `2.20.66`, `2.20.67`, `2.20.68`, `2.20.69`, `2.20.70`, `2.20.71`, `2.20.72`, `2.20.73`, `2.20.74`, `2.20.75`, `2.20.76`, `2.20.77`, `2.20.78`, `2.20.79`, `2.20.80`, `2.20.81`, `2.20.82`, `2.20.83`, `2.20.84`, `2.20.85`, `2.20.86`, `2.20.87`, `2.20.88`, `2.20.89`, `2.20.90`, `2.20.91`, `2.20.92`, `2.20.93`, `2.20.94`, `2.20.95`, `2.20.96`, `2.20.97`, `2.20.98`, `2.20.99`, `2.20.100`, `2.20.101`, `2.20.102`, `2.20.103`, `2.20.104`, `2.20.105`, `2.20.106`, `2.20.107`, `2.20.108`, `2.20.109`, `2.20.110`, `2.20.111`, `2.20.112`, `2.20.113`, `2.20.114`, `2.20.115`, `2.20.116`, `2.20.117`, `2.20.118`, `2.20.119`, `2.20.120`, `2.20.121`, `2.20.122`, `2.20.123`, `2.20.124`, `2.20.125`, `2.20.126`, `2.20.127`, `2.20.128`, `2.20.129`, `2.20.130`]
 1. `software.amazon.kinesis:amazon-kinesis-connector-flink`  -> [`2.4.0`, `2.4.1`]
 1. `software.amazon.kinesis:amazon-kinesis-sql-connector-flink`  -> [`2.4.0`, `2.4.1`]
-
-## org.yaml.snakeyaml
-
-For example, at least 25 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
-
-1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`, `0.8.1`, `0.8.2`]
-1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`, `23.6.0`, `23.7.1`]
-1. `com.exasol:project-keeper-cli`  -> [`2.9.4`, `2.9.5`, `2.9.6`, `2.9.7`, `2.9.8`]
-1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`, `23.04.1`, `23.06.0`, `23.06.1`, `23.06.2`, `23.06.3`, `23.06.4`]
-1. `io.github.gaius-qi:server`  -> [`0.8.1`]
-1. `io.github.theskyblockman:instructer`  -> [`1.0`]
-1. `io.micronaut.testresources:micronaut-test-resources-server`  -> [`2.0.0-M1`, `2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-M5`]
-1. `io.mybatis.rui:rui-cli`  -> [`1.1.0`]
-1. `io.prometheus.jmx:jmx_prometheus_httpserver`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
-1. `io.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
-1. `net.datafaker:datafaker`  -> [`2.0.0`, `2.0.1`]
-1. `nl.basjes.parse.useragent:yauaa`  -> [`7.14.1`, `7.15.0`]
-1. `org.apache.skywalking:apm-webapp`  -> [`9.4.0`, `9.5.0`]
-1. `org.apache.storm:flux-core`  -> [`2.5.0`]
-1. `org.apache.storm:flux-examples`  -> [`2.5.0`]
-1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.5.0`]
-1. `org.apache.storm:storm-loadgen`  -> [`2.5.0`]
-1. `org.apache.storm:storm-mqtt-examples`  -> [`2.5.0`]
-1. `org.apache.storm:storm-shaded-deps`  -> [`2.5.0`]
-1. `org.apache.storm:storm-starter`  -> [`2.5.0`]
-1. `org.geepawhill:jltk-monitor`  -> [`0.0.4`, `0.0.5`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`, `0.41.3`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`, `0.41.3`]
-1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
-1. `org.yaml:snakeyaml` 🧩 -> [`2.0`, `2.1`]
 
 ## org.slf4j.simple
 
