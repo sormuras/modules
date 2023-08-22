@@ -375,7 +375,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
-org.apache.geronimo.arthur:integration-test:1.0.6 -> org.apache.geronimo.arthur.integration-test
+org.apache.geronimo.arthur:integration-test:1.0.7 -> org.apache.geronimo.arthur.integration-test
 org.apache.geronimo.specs:geronimo-activation_2.0_spec:1.0.0 -> geronimo-activation_2.0_spec
 org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.0-M1 -> geronimo-mail_2.1_spec
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
@@ -1565,6 +1565,11 @@ org.lambdify:lambdify-core:0.9.0.Final -> org.lambdify.lambdify-core
 org.lambdify:lambdify-jackson:0.9.0.Final -> org.lambdify.lambdify-jackson
 org.lambdify:lambdify-jsoniter:0.9.0.Final -> org.lambdify.lambdify-jsoniter
 org.lambdify:lambdify-plugin:0.9.0.Final -> org.lambdify.lambdify-plugin
+org.linguafranca.pwdb:KeePassJava2-dom:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-dom
+org.linguafranca.pwdb:KeePassJava2-jaxb:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-jaxb
+org.linguafranca.pwdb:KeePassJava2-kdb:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-kdb
+org.linguafranca.pwdb:KeePassJava2-kdbx:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-kdbx
+org.linguafranca.pwdb:KeePassJava2-simple:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-simple
 org.mongodb.scala:mongo-scala-bson:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-bson
 org.mongodb.scala:mongo-scala-bson_2.11:4.10.2 -> org.mongodb.scala.mongo-scala-bson
 org.mongodb.scala:mongo-scala-bson_2.12:4.10.2 -> org.mongodb.scala.mongo-scala-bson
