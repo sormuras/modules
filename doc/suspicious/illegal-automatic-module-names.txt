@@ -226,8 +226,8 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.8.1 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:66.2.6 -> com.synopsys.integration.blackduck-common
-com.synopsys.integration:blackduck-common-api:2023.4.2.1 -> com.synopsys.integration.blackduck-common-api
+com.synopsys.integration:blackduck-common:66.2.7 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common-api:2023.4.2.2 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.2.0 -> com.synopsys.integration.hub-imageinspector-lib
@@ -1732,6 +1732,6 @@ pro.projo:projo-template-generation:1.5.1 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.27.1 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.27.1 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.27.2 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.27.2 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
