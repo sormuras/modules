@@ -22,7 +22,7 @@ build.buf:connect-kotlin-protoc-gen-java-ext:v0.0.0-preview -> protoc-gen-java-e
 build.buf:connect-kotlin-protoc-gen-javalite-ext:v0.0.0-preview -> protoc-gen-javalite-extensions
 build.buf:connect-kotlin-square-wire-ext:0.0.2-preview -> wire-extensions
 build.buf:connect-kotlin-wire-ext:v0.0.0-preview -> wire-extensions
-ch.poole.geo.pmtiles-reader:Reader:unspecified -> ch.poole.geo.pmtiles-reader
+ch.poole.geo.pmtiles-reader:Reader:0.2.0 -> ch.poole.geo.pmtiles-reader
 ch.sbb.scion:rcp-microfrontend:0.0.5 -> rcp-microfrontend
 ch.sbb.scion:rcp-workbench:0.0.5 -> rcp-workbench
 codes.rafael.concurrent-trees:concurrent-trees:2.6.2 -> codes.rafael.concurrent-trees.concurrent-trees
