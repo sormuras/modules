@@ -1054,7 +1054,7 @@ org.kie.kogito:kogito-addons-quarkus-knative-serving-deployment:2.44.0.Alpha -> 
 org.kie.kogito:kogito-addons-quarkus-knative-serving-integration-tests:2.44.0.Alpha -> -
 org.kie.kogito:kogito-addons-quarkus-kubernetes:2.44.0.Alpha -> -
 org.kie.kogito:kogito-addons-quarkus-kubernetes-deployment:2.44.0.Alpha -> -
-org.kie.kogito:kogito-addons-quarkus-kubernetes-integration-tests:1.44.0.Final -> -
+org.kie.kogito:kogito-addons-quarkus-kubernetes-integration-tests:1.44.1.Final -> -
 org.kie.kogito:kogito-addons-quarkus-kubernetes-test-utils:1.39.0.Final -> -
 org.kie.kogito:kogito-addons-quarkus-mail:2.44.0.Alpha -> -
 org.kie.kogito:kogito-addons-quarkus-mail-deployment:2.44.0.Alpha -> -
