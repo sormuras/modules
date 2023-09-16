@@ -100,6 +100,9 @@ com.blazebit:jbake-maven-plugin:1.0.1 -> -
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
+com.connectrpc:connect-kotlin-google-java-ext:0.1.11 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.1.11 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.1.11 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -1755,6 +1758,6 @@ pro.projo:projo-template-generation:1.5.1 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.27.3 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.27.3 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.27.4 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.27.4 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
