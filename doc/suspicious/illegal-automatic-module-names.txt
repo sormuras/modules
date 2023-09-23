@@ -100,9 +100,9 @@ com.blazebit:jbake-maven-plugin:1.0.1 -> -
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
-com.connectrpc:connect-kotlin-google-java-ext:0.1.11 -> google-java-extensions
-com.connectrpc:connect-kotlin-google-javalite-ext:0.1.11 -> google-javalite-extensions
-com.connectrpc:protoc-gen-connect-kotlin:0.1.11 -> protoc-gen-connect-kotlin
+com.connectrpc:connect-kotlin-google-java-ext:0.2.0 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.2.0 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.2.0 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -689,7 +689,7 @@ org.jmonkeyengine:jme3-android-native:3.6.1-stable -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:6.3.1 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:6.3.1 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
-org.joinfaces:myfaces-next-spring-boot-starter:4.7.15 -> joinfaces.starter.myfaces-next
+org.joinfaces:myfaces-next-spring-boot-starter:4.7.16 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow:1.25.0.Final -> -
 org.kie.kogito.examples:conversion-workflow-full:1.25.0.Final -> -
