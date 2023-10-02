@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x314
+1. `com.fasterxml.jackson.core` x315
 1. `com.google.gson` x281
 1. `com.fasterxml.jackson.databind` x269
 1. `org.apache.logging.log4j` x235
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## com.fasterxml.jackson.core
 
-For example, at least 314 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 315 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`]
@@ -135,6 +135,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.fraunhofer.iosb.ilt.faaast:package-explorer-converter`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.3.1`, `0.4.0`]
 1. `de.m3y.libmobi:libmobi-standalone`  -> [`1.0.1`]
 1. `de.uni-muenster:music2rdf`  -> [`1.3.8`]
+1. `dev.nicklasw:bankid-sdk`  -> [`0.13.0`]
 1. `io.github.AnLaVN:AL-Library_EN`  -> [`3.68.11`]
 1. `io.github.AnLaVN:AL-Library_VN`  -> [`3.68.11`]
 1. `io.github.aprietop:utils`  -> [`0.1.0`]
@@ -520,7 +521,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-redis`  -> [`0.6.0`]
 1. `io.kestra.storage:storage-gcs`  -> [`0.6.0`, `0.8.0`, `0.9.0`, `0.11.0`, `0.12.0`]
 1. `io.lionweb.lioncore-java:lioncore-java-core-fat`  -> [`0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`]
-1. `io.numaproj.numaflow:numaflow-java`  -> [`0.0.1`, `0.4.6`, `0.4.7`, `0.4.8`, `0.5.0`, `0.5.1`]
+1. `io.numaproj.numaflow:numaflow-java`  -> [`0.0.1`, `0.4.6`, `0.4.7`, `0.4.8`, `0.5.0`, `0.5.1`, `0.5.2`]
 1. `io.opentelemetry.contrib:opentelemetry-java-contrib-jmx-metrics`  -> [`1.0.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-maven-extension`  -> [`1.19.0-alpha`, `1.19.1-alpha`, `1.20.0-alpha`, `1.20.1-alpha`, `1.21.0-alpha`, `1.22.0-alpha`, `1.23.0-alpha`]
 1. `io.opentelemetry.javaagent:opentelemetry-javaagent-exporter-jaeger-thrift`  -> [`0.13.0`, `0.13.1`, `0.14.0`]
@@ -853,7 +854,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.streampark:streampark-shaded-jackson`  -> [`1.0.0`]
 1. `org.apache.tika:tika-detector-siegfried`  -> [`2.6.0`, `2.7.0`, `2.8.0`, `2.9.0`]
 1. `org.apache.tinkerpop:gremlin-shaded`  -> [`3.5.3`, `3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`, `3.6.4`, `3.7.0`]
-1. `org.cardanofoundation:cip30-data-signature-parser`  -> [`0.0.8`, `0.0.9`, `0.0.10`]
+1. `org.cardanofoundation:cip30-data-signature-parser`  -> [`0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`]
 1. `org.commonjava.indy.launch:indy-record-extractor`  -> [`1.9.6`, `1.9.7.2`]
 1. `org.datakurator:kurator-ffdq`  -> [`2.0.1`, `2.0.2`]
 1. `org.dishevelled:dsh-bio-adam`  -> [`2.2`]
@@ -2307,7 +2308,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcpkix-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`]
 1. `org.bouncycastle:bcpkix-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
 1. `org.bouncycastle:bcpkix-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`]
-1. `org.finos.legend.engine:legend-engine-xt-relationalStore-spanner-jdbc-shaded`  -> [`3.31.0`, `3.32.0`, `3.33.0`, `3.34.0`, `3.34.1`, `3.34.3`, `3.34.4`, `3.35.0`, `3.35.1`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.9.0`, `4.10.0`, `4.11.0`, `4.11.1`, `4.12.1`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.1`, `4.15.4`, `4.15.6`, `4.15.7`, `4.15.8`, `4.15.9`, `4.16.0`, `4.16.1`, `4.17.0`, `4.18.2`, `4.18.3`, `4.18.4`, `4.18.5`, `4.19.0`, `4.20.3`, `4.21.0`, `4.21.1`, `4.22.0`, `4.22.1`, `4.23.0`, `4.24.0`, `4.25.0`, `4.25.1`, `4.25.2`, `4.26.0`, `4.26.3`, `4.26.4`, `4.26.5`, `4.26.6`, `4.27.0`, `4.27.1`, `4.28.0`, `4.28.1`, `4.28.2`, `4.29.0`, `4.29.1`]
+1. `org.finos.legend.engine:legend-engine-xt-relationalStore-spanner-jdbc-shaded`  -> [`3.31.0`, `3.32.0`, `3.33.0`, `3.34.0`, `3.34.1`, `3.34.3`, `3.34.4`, `3.35.0`, `3.35.1`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.9.0`, `4.10.0`, `4.11.0`, `4.11.1`, `4.12.1`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.1`, `4.15.4`, `4.15.6`, `4.15.7`, `4.15.8`, `4.15.9`, `4.16.0`, `4.16.1`, `4.17.0`, `4.18.2`, `4.18.3`, `4.18.4`, `4.18.5`, `4.19.0`, `4.20.3`, `4.21.0`, `4.21.1`, `4.22.0`, `4.22.1`, `4.23.0`, `4.24.0`, `4.25.0`, `4.25.1`, `4.25.2`, `4.26.0`, `4.26.3`, `4.26.4`, `4.26.5`, `4.26.6`, `4.27.0`, `4.27.1`, `4.28.0`, `4.28.1`, `4.28.2`, `4.29.0`, `4.29.1`, `4.30.0`]
 1. `org.keycloak:kcinit`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
 1. `org.netherald:MiniGameLib`  -> [`1.0.0`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.10.0`, `1.10.1`, `1.10.2`, `1.11.1`, `1.11.2`]
@@ -2475,7 +2476,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.3.1`, `1.3.2`]
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`]
-1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`]
+1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`]
 1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 
 ## com.zaxxer.hikari
@@ -2889,7 +2890,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`]
 1. `io.github.davidwhitlock.cs410J:grader`  -> [`2021.0.0`, `2021.0.1`, `2021.0.2`, `2021.1.0`, `2021.1.1`, `2021.2.0`, `2021.3.0`, `2021.4.0`, `2021.4.1`, `2022.0.0`, `2022.1.0`, `2022.3.0`, `2022.5.0`]
 1. `io.github.shuigedeng:taotao-cloud-starter-elk`  -> [`2021.8.1`]
-1. `io.grasscutter:grasscutter`  -> [`1.6.0`, `1.7.0`, `1.7.1`]
+1. `io.grasscutter:grasscutter`  -> [`1.6.0`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `io.rainfall:rainfall-store-server`  -> [`1.5.2`, `1.5.3`]
 1. `top.tanmw:db2dict`  -> [`1.0.0`, `1.1.0`]
 1. `za.co.bbd:jportal2`  -> [`1.5.4`, `1.5.5`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.4`, `1.6.6`, `1.6.8`, `1.6.9`, `1.6.10`, `1.6.11`, `1.8.1`, `1.8.3`, `1.8.5`, `1.8.7`, `1.8.8`, `1.8.9`, `1.8.10`, `1.8.11`, `1.8.12`, `1.8.13`, `1.8.14`, `1.8.16`, `1.8.17`, `1.9.1`, `1.9.2`, `1.9.3`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`, `1.10.5`]
