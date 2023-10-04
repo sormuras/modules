@@ -197,8 +197,8 @@ com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.githu
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.29.1 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.29.1 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.30.0 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.30.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:2.1.0 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -603,10 +603,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.1.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.1.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.1.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.1.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.22 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.22 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.22 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
