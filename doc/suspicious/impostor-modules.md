@@ -1246,7 +1246,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.yandex.android:appmetrica-build-plugin`  -> [`0.3.0`, `0.5.0`, `0.6.0`, `0.6.1`]
 1. `com.yikuni.mc:rumiya-lib`  -> [`1.0.0`, `1.0.2`, `1.1.2`]
 1. `com.youramaryllis:eventstorming-cli`  -> [`1.0.0`, `1.1.0`]
-1. `de.florianmichael.rclasses:all`  -> [`2.3.1`]
+1. `de.florianmichael.rclasses:all`  -> [`2.3.1`, `2.3.2`]
 1. `de.jensklingenberg.cabret:cabret-compiler-plugin-native`  -> [`1.0.2`, `1.0.4-RC6`, `1.0.4-RC7`, `1.0.4`]
 1. `de.jensklingenberg.cabret:cabret-compiler-plugin`  -> [`1.0.2`, `1.0.4-RC8`, `1.0.4`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.44`]
@@ -1744,7 +1744,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.harvies.charon:charon-agent`  -> [`0.0.6`, `0.0.7`, `0.0.8`]
 1. `io.github.jas34:scheduledwf-server`  -> [`1.1.0`, `1.1.1`, `1.2.0`, `1.2.2`]
 1. `io.github.lomom:agent-logger`  -> [`1.0.1-Release`]
-1. `io.github.natural-intelligence:openlineage-openmetadata-transporter`  -> [`1.11`, `1.15`, `1.27`, `1.29`, `1.32`]
+1. `io.github.natural-intelligence:openlineage-openmetadata-transporter`  -> [`1.11`, `1.15`, `1.27`, `1.29`, `1.32`, `1.33`]
 1. `io.github.rysefoxx.hologram.plugin:MineQuestHologram-Plugin`  -> [`1.8`]
 1. `io.github.rysefoxx.npc.plugin:MineQuestNPC-Plugin`  -> [`1.4.1`]
 1. `io.kamon:kanela-agent`  -> [`1.0.0-M1`, `1.0.0-M2`, `1.0.0-M3`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
@@ -2015,7 +2015,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.gematik.ti.epa:VZD-CLient`  -> [`0.5.0`, `1.0.1`]
 1. `de.gematik.ti.epa:VZD-Client`  -> [`1.1.0`]
 1. `de.gurkenlabs:litiengine`  -> [`0.4.14`, `0.4.15`, `0.4.16`, `0.4.16.1`, `0.4.17`, `0.4.18`, `0.4.19`]
-1. `es.us.isa:restest`  -> [`0.1.0`, `1.0.0`, `1.1.3`, `1.2.0`]
+1. `es.us.isa:restest`  -> [`0.1.0`, `1.0.0`, `1.1.3`, `1.2.0`, `1.3.0`]
 1. `eu.rssw.pct:pct`  -> [`216`, `217`, `218`, `219`, `221`, `222`, `223`, `224`, `225`, `226`]
 1. `eu.smesec.library:lib_coach_standard_language`  -> [`0.9.0`]
 1. `eu.smesec.platform:cysec_bridge`  -> [`0.2.0`]
@@ -2492,7 +2492,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `lol.hyper:github-release-api`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
 1. `net.bonn2:ModularBot`  -> [`1.0.0-alpha.1`, `1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `net.crimsonmc:CrimsonAPI`  -> [`0.0.1`]
-1. `org.apache.iotdb:library-udf`  -> [`0.14.0-preview2`, `0.14.0-preview3`, `1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`]
+1. `org.apache.iotdb:library-udf`  -> [`0.14.0-preview2`, `0.14.0-preview3`, `1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-client-api`  -> [`3.0.1`, `3.0.2`, `3.0.3`]
 1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
@@ -2527,7 +2527,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.marquezproject:marquez-spark`  -> [`0.13.0`, `0.13.1`]
 1. `io.github.mmalygin:openapi-generator-cli`  -> [`6.2.0`]
 1. `io.github.shuigedeng:taotao-cloud-starter-file`  -> [`2021.8.1`]
-1. `io.inugami.security:inugami_core_security_tools`  -> [`3.3.0`, `3.3.1`, `3.3.2`]
+1. `io.inugami.security:inugami_core_security_tools`  -> [`3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`]
 1. `io.kestra.plugin:plugin-azure`  -> [`0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`]
 1. `io.kestra.plugin:plugin-kafka`  -> [`0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.3.0`, `0.3.1`, `0.4.0`, `0.5.0`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`]
@@ -3655,7 +3655,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alibaba.fastjson2:fastjson2` 🧩 -> [`2.0.2`, `2.0.2.graal`, `2.0.3.graal`, `2.0.4.graal`, `2.0.5`, `2.0.5.graal`, `2.0.6.graal`, `2.0.7.graal`, `2.0.8.graal`, `2.0.9.graal`, `2.0.10.graal`, `2.0.11.graal`, `2.0.12.graal`, `2.0.13.graal`, `2.0.14.graal`, `2.0.15.graal`, `2.0.16.graal`, `2.0.17.graal`, `2.0.18`, `2.0.18.android`, `2.0.19`, `2.0.19.android`, `2.0.19.graal`, `2.0.20`, `2.0.20.android`, `2.0.20.graal`, `2.0.21`, `2.0.21.android`, `2.0.21.graal`, `2.0.22`, `2.0.23`, `2.0.24`, `2.0.25`, `2.0.26`, `2.0.27`, `2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`, `2.0.33`, `2.0.35`, `2.0.37`]
 1. `com.github.CCweixiao:hbase-sdk-common`  -> [`3.0.0`]
 1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
-1. `io.github.linyimin0812:spring-profiler-extension`  -> [`2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`]
+1. `io.github.linyimin0812:spring-profiler-extension`  -> [`2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.0.1`]
 
 ## com.aspose.words
 
@@ -5001,8 +5001,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.graalvm.nativeimage
 
 1. `io.vproxy:graal-feature-mock`  -> [`1.1.0`]
-1. `io.vproxy:graal-sdk-mock-nativeimage`  -> [`1.0.0`, `1.1.0`]
-1. `io.vproxy:graal-sdk-mock-runtime`  -> [`1.0.0`, `1.1.0`]
+1. `io.vproxy:graal-sdk-mock-nativeimage`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
+1. `io.vproxy:graal-sdk-mock-runtime`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
 
 ## org.hibernate.search.batch.jsr352.core
 
