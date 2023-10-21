@@ -100,9 +100,9 @@ com.blazebit:jbake-maven-plugin:1.0.1 -> -
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
-com.connectrpc:connect-kotlin-google-java-ext:0.2.0 -> google-java-extensions
-com.connectrpc:connect-kotlin-google-javalite-ext:0.2.0 -> google-javalite-extensions
-com.connectrpc:protoc-gen-connect-kotlin:0.2.0 -> protoc-gen-connect-kotlin
+com.connectrpc:connect-kotlin-google-java-ext:0.3.0 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.3.0 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.3.0 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -231,7 +231,7 @@ com.squareup.wire:wire-sample:3.1.0 -> wire-sample
 com.squareup.wire:wire-swift-generator:4.9.1 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
-com.synopsys.integration:blackduck-common:66.2.11 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:66.2.12 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2023.10.0.1 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
@@ -393,7 +393,7 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.sshd:sshd-spring-sftp:2.10.0 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:2.11.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:9.1.1 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:9.1.1 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:9.1.1 -> org.apache.tomee.bom.tomee-plume
