@@ -604,10 +604,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.1.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.1.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.1.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.1.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.23 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.24 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
@@ -1622,7 +1622,7 @@ org.selenide:selenide-selenoid:6.15.0 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
-org.simplejavamail:outlook-message-parser:1.9.6 -> outlook-message-parser
+org.simplejavamail:outlook-message-parser:1.10.1 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.1.2 -> com.github.bbottema.java-utils-mail-smime
