@@ -1394,7 +1394,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.google.cloud:pubsub-group-kafka-connector`  -> [`1.1.0`, `1.2.0`]
 1. `com.google.devtools.ksp:symbol-processing-aa`  -> [`1.9.0-1.0.13`, `1.9.10-1.0.13`, `1.9.20-Beta-1.0.13`, `1.9.20-Beta2-1.0.13`, `1.9.20-RC-1.0.13`, `1.9.20-RC2-1.0.13`]
 1. `com.gradleup:gr8-plugin`  -> [`0.2`, `0.3`, `0.4`, `0.5`, `0.6`, `0.7`, `0.8`, `0.9`]
-1. `com.huaweicloud:esdk-obs-java-bundle`  -> [`3.21.11`, `3.21.12`, `3.22.3`, `3.23.9`]
+1. `com.huaweicloud:esdk-obs-java-bundle`  -> [`3.21.11`, `3.21.12`, `3.22.3`, `3.23.9`, `3.23.9.1`]
 1. `com.ibm.cloud:code-engine-examples`  -> [`0.3.3`]
 1. `com.ibm.cloud:examples`  -> [`0.0.4`, `0.0.5`, `0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.30`, `0.0.31`, `0.0.32`, `0.0.33`, `1.0.0`, `1.0.1`, `1.0.2`, `2.0.1`, `3.0.0`]
 1. `com.ibm.cloud:is-examples`  -> [`0.6.2`, `0.7.0`, `0.8.0`, `0.8.1`, `0.9.0`, `0.10.0`]
@@ -3626,6 +3626,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp:javax.inject`  -> [`1.1`]
 1. `io.avaje:javax.inject`  -> [`1.0`]
 
+## org.apache.commons.text
+
+1. `com.guicedee.services:commons-text`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.jwebmp.jpms.commons:commons-text`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11:commons-text`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
+1. `com.jwebmp:commons-text`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `org.apache.commons:commons-text` 🧩 -> [`1.11.0`]
+
 ## org.apache.logging.log4j.api.scala
 
 1. `org.apache.logging.log4j:log4j-api-scala_2.10`  -> [`13.0.0`]
@@ -3660,7 +3668,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.joda.money
 
-1. `org.joda:joda-money` 🧩 -> [`1.0.1`, `1.0.2`, `1.0.3`]
+1. `org.joda:joda-money` 🧩 -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `org.kill-bill.billing.plugin.java:avatax-plugin`  -> [`0.8.0`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.1.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.0`, `0.40.1`, `0.40.2`, `0.40.3`, `0.40.4`]
@@ -4375,13 +4383,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-
-## org.apache.commons.text
-
-1. `com.guicedee.services:commons-text`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.jwebmp.jpms.commons:commons-text`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11:commons-text`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
-1. `com.jwebmp:commons-text`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 
 ## org.apache.xmlbeans
 
