@@ -393,6 +393,9 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
+org.apache.pekko:pekko-projection-durable-state_2.12:1.0.0 -> pekko.projection.durable-state
+org.apache.pekko:pekko-projection-durable-state_2.13:1.0.0 -> pekko.projection.durable-state
+org.apache.pekko:pekko-projection-durable-state_3:1.0.0 -> pekko.projection.durable-state
 org.apache.sshd:sshd-spring-sftp:2.11.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:9.1.1 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:9.1.1 -> org.apache.tomee.bom.tomee-microprofile-api
