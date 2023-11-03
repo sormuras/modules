@@ -417,7 +417,7 @@ org.apache.tomee:activemq-broker-shade:9.1.1 -> org.apache.tomee.activemq-broker
 org.apache.tomee:activemq-client-shade:9.0.0 -> org.apache.tomee.activemq-client-shade
 org.apache.tomee:activemq-kahadb-store-shade:9.1.1 -> org.apache.tomee.activemq-kahadb-store-shade
 org.apache.tomee:activemq-ra-shade:9.1.1 -> org.apache.tomee.activemq-ra-shade
-org.apache.tomee:arquillian-tomee-codi-tests:8.0.15 -> org.apache.tomee.arquillian-tomee-codi-tests
+org.apache.tomee:arquillian-tomee-codi-tests:8.0.16 -> org.apache.tomee.arquillian-tomee-codi-tests
 org.apache.tomee:arquillian-tomee-config-tests:9.1.1 -> org.apache.tomee.arquillian-tomee-config-tests
 org.apache.tomee:arquillian-tomee-jaxrs-tests:9.1.1 -> org.apache.tomee.arquillian-tomee-jaxrs-tests
 org.apache.tomee:arquillian-tomee-jaxws-tests:9.1.1 -> org.apache.tomee.arquillian-tomee-jaxws-tests
