@@ -3272,6 +3272,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.12`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.13`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 
+## org.apache.tomcat.embed.core
+
+1. `com.codedx:webapp-runner-main`  -> [`9.0.65.0`]
+1. `com.codedx:webapp-runner`  -> [`9.0.65.0`]
+1. `com.heroku:webapp-runner-main`  -> [`9.0.38.0`, `9.0.41.0`, `9.0.52.0`, `9.0.52.1`, `9.0.68.0`, `9.0.68.1`, `9.0.69.0`, `9.0.69.1`, `9.0.70.0`, `9.0.71.0`, `9.0.72.0`, `9.0.72.1`, `9.0.72.2`, `9.0.73.0`, `9.0.75.0`, `9.0.78.0`, `9.0.80.0`]
+1. `com.heroku:webapp-runner`  -> [`9.0.68.0`, `9.0.68.1`, `9.0.69.0`, `9.0.69.1`, `9.0.70.0`, `9.0.71.0`, `9.0.72.0`, `9.0.72.1`, `9.0.72.2`, `9.0.73.0`, `9.0.75.0`, `9.0.78.0`, `9.0.80.0`]
+1. `com.talenteca:canoa-webapp-runner-main`  -> [`10.0.27`]
+1. `com.talenteca:canoa-webapp-runner`  -> [`10.0.27`]
+1. `io.github.crac.org.apache.tomcat.embed:tomcat-embed-core`  -> [`9.0.58`, `10.1.7`]
+1. `org.apache.tomcat.embed:tomcat-embed-core` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`]
+
 ## org.assertj.core
 
 1. `br.com.leverinfo:test`  -> [`0.1.0`, `0.1.1`]
@@ -3339,7 +3350,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.networknt.schema
 
-1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`]
+1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`, `4.2.99`]
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`3.0.0-beta-9`, `3.0.0-beta-10`]
 1. `com.networknt:json-schema-validator` 🧩 -> [`1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`]
 1. `org.sonarsource.text:sonar-text-plugin`  -> [`2.5.0.2293`, `2.6.1.1316`, `2.7.0.1366`]
@@ -3533,15 +3544,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`8.16.0.Beta`, `8.16.1.Beta`, `8.17.0.Beta`, `8.18.0.Beta`, `8.19.0.Beta`, `8.20.0.Beta`, `8.21.0.Beta`, `8.22.0.Beta`, `8.22.1.Beta`, `8.23.0.Beta`, `8.24.0.Beta`, `8.29.0.Final`, `8.30.0.Final`, `8.31.0.Final`, `8.31.1.Final`, `8.32.0.Final`, `8.33.0.Final`, `8.34.0.Final`, `8.35.0.Final`, `8.36.0.Final`, `8.37.0.Final`, `8.38.0.Final`, `8.39.0.Final`, `9.43.0.Alpha`, `9.44.0.Final`]
-
-## org.apache.tomcat.embed.core
-
-1. `com.codedx:webapp-runner-main`  -> [`9.0.65.0`]
-1. `com.codedx:webapp-runner`  -> [`9.0.65.0`]
-1. `com.heroku:webapp-runner-main`  -> [`9.0.38.0`, `9.0.41.0`, `9.0.52.0`, `9.0.52.1`, `9.0.68.0`, `9.0.68.1`, `9.0.69.0`, `9.0.69.1`, `9.0.70.0`, `9.0.71.0`, `9.0.72.0`, `9.0.72.1`, `9.0.72.2`, `9.0.73.0`, `9.0.75.0`, `9.0.78.0`, `9.0.80.0`]
-1. `com.heroku:webapp-runner`  -> [`9.0.68.0`, `9.0.68.1`, `9.0.69.0`, `9.0.69.1`, `9.0.70.0`, `9.0.71.0`, `9.0.72.0`, `9.0.72.1`, `9.0.72.2`, `9.0.73.0`, `9.0.75.0`, `9.0.78.0`, `9.0.80.0`]
-1. `io.github.crac.org.apache.tomcat.embed:tomcat-embed-core`  -> [`9.0.58`, `10.1.7`]
-1. `org.apache.tomcat.embed:tomcat-embed-core` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`]
 
 ## org.glassfish.java.json
 
@@ -4464,9 +4466,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.slf4j.zio
 
 1. `dev.zio:zio-logging-slf4j2-bridge_2.11`  -> [`2.1.9`, `2.1.10`]
-1. `dev.zio:zio-logging-slf4j2-bridge_2.12`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`]
-1. `dev.zio:zio-logging-slf4j2-bridge_2.13`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`]
-1. `dev.zio:zio-logging-slf4j2-bridge_3`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`]
+1. `dev.zio:zio-logging-slf4j2-bridge_2.12`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`, `2.1.15`]
+1. `dev.zio:zio-logging-slf4j2-bridge_2.13`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`, `2.1.15`]
+1. `dev.zio:zio-logging-slf4j2-bridge_3`  -> [`2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`, `2.1.15`]
 
 ## aopalliance
 
@@ -5096,13 +5098,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5`]
 1. `net.corda:corda-tools-checkpoint-agent`  -> [`4.5`]
-1. `org.junit.jupiter:junit-jupiter-api` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`, `5.10.0-RC1`, `5.10.0-RC2`, `5.10.0`]
+1. `org.junit.jupiter:junit-jupiter-api` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`, `5.10.0-RC1`, `5.10.0-RC2`, `5.10.0`, `5.10.1`]
 
 ## org.junit.vintage.engine
 
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit55`  -> [`1.7.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.7.4`, `2.7.5`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`]
 1. `org.eclipse.tycho:org.eclipse.tycho.surefire.junit56`  -> [`1.7.0`]
-1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`, `5.10.0-RC1`, `5.10.0-RC2`, `5.10.0`]
+1. `org.junit.vintage:junit-vintage-engine` 🧩 -> [`5.5.0-RC1`, `5.5.0-RC2`, `5.5.0`, `5.5.1`, `5.5.2`, `5.6.0-M1`, `5.6.0-RC1`, `5.6.0`, `5.6.1`, `5.6.2`, `5.7.0-M1`, `5.7.0-RC1`, `5.7.0`, `5.7.1`, `5.8.0-M1`, `5.8.0-RC1`, `5.8.0`, `5.8.1`, `5.8.2`, `5.9.0-M1`, `5.9.0-RC1`, `5.9.0`, `5.9.1`, `5.9.2`, `5.9.3`, `5.10.0-M1`, `5.10.0-RC1`, `5.10.0-RC2`, `5.10.0`, `5.10.1`]
 
 ## org.kordamp.iconli.core
 
