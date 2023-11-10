@@ -100,9 +100,9 @@ com.blazebit:jbake-maven-plugin:1.0.1 -> -
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
-com.connectrpc:connect-kotlin-google-java-ext:0.3.0 -> google-java-extensions
-com.connectrpc:connect-kotlin-google-javalite-ext:0.3.0 -> google-javalite-extensions
-com.connectrpc:protoc-gen-connect-kotlin:0.3.0 -> protoc-gen-connect-kotlin
+com.connectrpc:connect-kotlin-google-java-ext:0.3.1 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.3.1 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.3.1 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -642,7 +642,7 @@ org.jberet:jberet-wildfly-cluster-ejb:1.3.1.Final -> org.jberet.jberet-wildfly-c
 org.jberet:jberet-wildfly-cluster-infinispan:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-infinispan
 org.jberet:jberet-wildfly-cluster-jms:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-jms
 org.jberet:jberet-wildfly-cluster-servlet:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-servlet
-org.jboss.pnc.bpm.workitems:long-running-rest-workitem:7.59.3 -> -
+org.jboss.pnc.bpm.workitems:long-running-rest-workitem:7.59.5 -> -
 org.jboss.spec.javax.websocket:jakarta.websocket-client-api:2.0.0.Final -> beta.jboss.websocket-client.api
 org.jbpm.contrib:archive-workitem:7.74.1.Final -> -
 org.jbpm.contrib:docker-workitem:7.74.1.Final -> -
