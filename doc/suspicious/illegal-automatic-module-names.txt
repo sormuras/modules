@@ -1728,6 +1728,6 @@ pro.projo:projo-template-generation:1.5.2 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.30.0 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.30.0 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.30.2 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.30.2 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
