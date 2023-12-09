@@ -1591,7 +1591,7 @@ org.selenide:selenide-selenoid:6.15.0 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
-org.simplejavamail:outlook-message-parser:1.10.2 -> outlook-message-parser
+org.simplejavamail:outlook-message-parser:1.11.1 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.1.2 -> com.github.bbottema.java-utils-mail-smime
