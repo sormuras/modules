@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x337
+1. `com.fasterxml.jackson.core` x340
 1. `com.google.gson` x301
 1. `com.fasterxml.jackson.databind` x283
 1. `org.apache.logging.log4j` x238
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## com.fasterxml.jackson.core
 
-For example, at least 337 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 340 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -269,27 +269,30 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`]
 1. `org.apache.kylin:kylin-jdbc`  -> [`5.0.0-alpha`, `5.0.0-beta`]
 1. `org.apache.kyuubi:kyuubi-hive-jdbc-shaded`  -> [`1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.8.0`]
-1. `org.apache.paimon:paimon-bundle`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-flink-1.14`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-flink-1.15`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-flink-1.16`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-flink-1.17`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-flink-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-format`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-2.1-cdh-6.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-2.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-2.2`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-2.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-3.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-hive-connector-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
+1. `org.apache.paimon:paimon-bundle`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-1.14`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-1.15`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-1.16`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-1.17`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-1.18`  -> [`0.6.0-incubating`]
+1. `org.apache.paimon:paimon-flink-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-format`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-2.1-cdh-6.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-2.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-2.2`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-2.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-3.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-hive-connector-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-s3`  -> [`0.6.0-incubating`]
 1. `org.apache.paimon:paimon-shade-jackson-2`  -> [`2.14.2-0.4.0-incubating`]
 1. `org.apache.paimon:paimon-shade-jackson-module-jsonSchema-2`  -> [`2.14.2-0.4.0-incubating`]
-1. `org.apache.paimon:paimon-spark-2`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-spark-3.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-spark-3.2`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-spark-3.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
-1. `org.apache.paimon:paimon-spark-3.4`  -> [`0.5.0-incubating`]
-1. `org.apache.paimon:paimon-spark-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
+1. `org.apache.paimon:paimon-spark-2`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-3.1`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-3.2`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-3.3`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-3.4`  -> [`0.5.0-incubating`, `0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-3.5`  -> [`0.6.0-incubating`]
+1. `org.apache.paimon:paimon-spark-common`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
 1. `org.apache.parquet:parquet-hadoop-bundle`  -> [`1.12.3`, `1.13.0`, `1.13.1`]
 1. `org.apache.parquet:parquet-jackson`  -> [`1.12.3`, `1.13.0`, `1.13.1`]
 1. `org.apache.parquet:parquet-pig-bundle`  -> [`1.12.3`, `1.13.0`, `1.13.1`]
@@ -646,8 +649,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase1_2.13`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.12`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.13`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
-1. `org.noear:luffy.lock.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`]
-1. `org.noear:luffy.queue.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`]
+1. `org.noear:luffy.lock.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
+1. `org.noear:luffy.queue.redis`  -> [`1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.octopusden.octopus.confluence:confluence-markdown-macro`  -> [`2.0.1`]
 1. `org.odpi.egeria:egeria-connector-viya-4`  -> [`2.11`, `3.3`, `3.6`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.12.0`, `1.12.1`, `1.12.2`, `1.13.0`, `1.13.1`, `1.13.2`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`]
@@ -1538,8 +1541,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.3`]
 1. `org.logevents:logevents-config-demo`  -> [`0.5.0`, `0.5.1`, `0.5.2`]
 1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.5.0`, `0.5.1`, `0.5.2`]
-1. `org.noear:luffy.executor.m.thymeleaf`  -> [`1.6.7`, `1.6.8`, `1.7.0`]
-1. `org.noear:luffy.executor.m.velocity`  -> [`1.6.7`, `1.6.8`, `1.7.0`]
+1. `org.noear:luffy.executor.m.thymeleaf`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
+1. `org.noear:luffy.executor.m.velocity`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.opensearch:opensearch-job-scheduler-spi`  -> [`2.10.0.0`, `2.11.0.0`, `2.11.1.0`]
 1. `org.polypheny:polypheny-jdbc-driver`  -> [`1.5.3`]
 1. `org.slf4j:slf4j-api` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`]
@@ -1964,7 +1967,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.camunda.community.migration:backend-diagram-converter-cli`  -> [`0.2.1`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.5.0`, `0.6.1`, `0.6.2`, `0.6.3`]
 1. `org.caseine:caseine.vpl.tools.CLI`  -> [`0.0.36`, `0.0.37`, `0.0.38`, `0.0.41`, `0.0.44`, `0.0.45`, `0.0.46`, `0.0.48`, `0.0.49`, `0.0.50`, `0.0.51`, `0.0.55`]
 1. `org.geneontology.obographs:obographs-cli`  -> [`0.3.1`]
-1. `org.incenp:sssom-cli`  -> [`0.6.2`]
+1. `org.incenp:sssom-cli`  -> [`0.6.2`, `0.7.0`]
 1. `org.jboss.gm:cli`  -> [`1.5`, `1.6`, `1.6.1`, `1.6.2`, `1.8`, `1.9`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.1.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `3.10`, `3.11`, `3.12`, `3.13`, `3.14`, `3.15`]
 1. `org.kie:kie-dmn-ruleset2dmn-cli`  -> [`8.38.0.Final`, `8.39.0.Final`, `9.43.0.Alpha`, `9.44.0.Final`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`7.57.0.Final`, `7.58.0.Beta1`, `7.58.0.Final`, `7.59.0.Beta1`, `7.59.0.Final`, `7.60.0.Final`, `8.13.0.Beta`, `8.14.0.Beta`, `8.14.1.Beta`, `8.15.0.Beta`]
@@ -2046,7 +2049,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.heron:heron-spi`  -> [`0.20.3-incubating`, `0.20.4-incubating`, `0.20.5-incubating`]
 1. `org.apache.heron:heron-storm`  -> [`0.20.3-incubating`, `0.20.4-incubating`, `0.20.5-incubating`]
 1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.42.0`]
-1. `org.apache.paimon:paimon-s3-impl`  -> [`0.4.0-incubating`, `0.5.0-incubating`]
+1. `org.apache.paimon:paimon-s3-impl`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`]
 1. `org.apache.servicemix.specs:org.apache.servicemix.specs.jaxb-api-2.3`  -> [`2.3_1`, `2.3_2`, `2.3_3`]
 1. `org.apache.tika:tika-app`  -> [`1.19`, `1.19.1`]
 1. `org.apache.tika:tika-server`  -> [`1.19`, `1.19.1`]
@@ -2795,7 +2798,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.geepawhill:jltk-monitor`  -> [`0.0.4`, `0.0.5`, `0.0.10`, `0.0.11`, `0.0.12`, `0.0.13`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.41.2`, `0.41.3`, `0.41.4`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.41.2`, `0.41.3`, `0.41.4`]
-1. `org.noear:luffy.executor.s.ruby`  -> [`1.6.7`, `1.6.8`, `1.7.0`]
+1. `org.noear:luffy.executor.s.ruby`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
 1. `org.yaml:snakeyaml` 🧩 -> [`2.0`, `2.1`, `2.2`]
 
@@ -3360,7 +3363,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.nosqlbench:driver-dsegraph-shaded`  -> [`4.15.31`, `4.15.33`, `4.15.34`, `4.15.35`, `4.15.36`, `4.15.37`, `4.15.38`, `4.15.39`, `4.15.40`, `4.15.41`, `4.15.42`, `4.15.43`, `4.15.44`, `4.15.45`, `4.15.46`, `4.15.47`, `4.15.48`, `4.15.49`, `4.15.50`, `4.15.52`, `4.15.53`, `4.15.54`, `4.15.55`, `4.15.56`, `4.15.57`, `4.15.58`, `4.15.59`, `4.15.60`, `4.15.61`, `4.15.62`, `4.15.63`, `4.15.64`, `4.15.70`, `4.15.72`, `4.15.82`, `4.15.83`, `4.15.84`, `4.15.85`, `4.15.86`, `4.15.87`, `4.15.88`, `4.15.89`, `4.15.90`, `4.15.96`, `4.15.97`, `4.15.98`, `4.15.99`, `4.15.100`, `4.15.101`, `4.15.102`]
 1. `org.graalvm.js:js` 🧩 -> [`20.0.0`, `20.1.0`, `20.2.0`, `20.3.0`, `21.0.0`, `21.0.0.2`, `21.1.0`, `21.2.0`, `21.3.0`, `22.0.0`, `22.0.0.2`]
 1. `org.graphwalker:graphwalker-cli`  -> [`4.3.0`, `4.3.1`, `4.3.2`]
-1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.1.0`, `1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.11`, `1.1.12`, `1.1.13`, `1.1.14`, `1.1.15`, `1.1.16`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`]
+1. `org.noear:luffy.executor.s.graaljs`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.1.0`, `1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.11`, `1.1.12`, `1.1.13`, `1.1.14`, `1.1.15`, `1.1.16`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.noear:solonjt.actuator.s.graaljs`  -> [`1.0.1`]
 1. `org.noear:solonjt.executor.s.graaljs`  -> [`1.0.3.2`, `1.0.3.9`, `1.0.4.3`, `1.0.4.5`, `1.0.4.6`, `1.0.5`, `1.0.6`]
 
@@ -3473,7 +3476,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.qualizeal:java-utaf`  -> [`1.0.0`, `1.0.1`]
 1. `io.github.multicatch:cucumber-audit-standalone`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`]
 1. `org.seleniumhq.selenium:selenium-java` 🧩 -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-rc-1`, `4.0.0-rc-2`, `4.0.0-rc-3`, `4.0.0`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.7.0`, `4.7.1`, `4.7.2`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.9.0`, `4.9.1`, `4.10.0`, `4.11.0`, `4.12.0`, `4.12.1`, `4.13.0`, `4.14.0`, `4.14.1`, `4.15.0`, `4.16.0`, `4.16.1`]
-1. `tech.catheu:jnotebook-distribution`  -> [`0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`]
+1. `tech.catheu:jnotebook-distribution`  -> [`0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 
 ## org.tukaani.xz
 
@@ -3554,7 +3557,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ml.karmaconfigs:KarmaAPI-Common`  -> [`1.3.2`]
 1. `ml.karmaconfigs:KarmaAPI-Velocity`  -> [`1.3.2`]
 1. `ml.karmaconfigs:RemoteMessaging`  -> [`1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`]
-1. `org.burningwave:core` 🧩 -> [`11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `12.0.0`, `12.1.0`, `12.1.1`, `12.1.2`, `12.1.3`, `12.1.4`, `12.2.0`, `12.2.1`, `12.2.2`, `12.3.0`, `12.3.1`, `12.4.0`, `12.5.0`, `12.5.1`, `12.5.3`, `12.6.0`, `12.7.0`, `12.8.0`, `12.8.1`, `12.8.2`, `12.9.0`, `12.9.1`, `12.9.2`, `12.9.3`, `12.10.0`, `12.11.0`, `12.11.1`, `12.11.2`, `12.11.3`, `12.11.4`, `12.12.0`, `12.12.1`, `12.12.2`, `12.12.3`, `12.12.4`, `12.12.5`, `12.12.6`, `12.13.0`, `12.13.1`, `12.13.2`, `12.13.3`, `12.13.4`, `12.14.0`, `12.15.0`, `12.15.1`, `12.15.2`, `12.15.3`, `12.15.4`, `12.15.5`, `12.15.6`, `12.15.7`, `12.15.8`, `12.16.0`, `12.16.1`, `12.16.2`, `12.17.0`, `12.18.0`, `12.19.0`, `12.20.0`, `12.20.1`, `12.21.0`, `12.22.0`, `12.23.0`, `12.24.0`, `12.24.1`, `12.24.2`, `12.25.0`, `12.26.1`, `12.26.2`, `12.26.3`, `12.26.4`, `12.27.0`, `12.28.0`, `12.29.1`, `12.29.2`, `12.29.3`, `12.30.0`, `12.31.0`, `12.32.0`, `12.33.0`, `12.34.0`, `12.34.1`, `12.35.0`, `12.36.0`, `12.38.0`, `12.38.2`, `12.38.3`, `12.39.1`, `12.39.2`, `12.39.3`, `12.39.5`, `12.39.6`, `12.39.7`, `12.39.8`, `12.40.0`, `12.40.1`, `12.41.0`, `12.41.1`, `12.41.2`, `12.42.0`, `12.42.1`, `12.43.0`, `12.43.1`, `12.44.0`, `12.45.0`, `12.45.1`, `12.45.2`, `12.45.3`, `12.45.4`, `12.46.0`, `12.47.0`, `12.48.0`, `12.49.0`, `12.50.0`, `12.51.0`, `12.52.0`, `12.52.1`, `12.53.0`, `12.53.1`, `12.54.0`, `12.55.2`, `12.56.0`, `12.57.0`, `12.57.1`, `12.58.0`, `12.58.1`, `12.59.0`, `12.59.1`, `12.60.0`, `12.60.3`, `12.61.0`, `12.62.0`, `12.62.1`, `12.62.2`, `12.62.3`, `12.62.4`, `12.62.5`, `12.62.6`, `12.62.7`, `12.62.8`, `12.63.0`, `12.63.1`, `12.63.2`, `12.64.0`, `12.64.1`, `12.64.2`]
+1. `org.burningwave:core` 🧩 -> [`11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `12.0.0`, `12.1.0`, `12.1.1`, `12.1.2`, `12.1.3`, `12.1.4`, `12.2.0`, `12.2.1`, `12.2.2`, `12.3.0`, `12.3.1`, `12.4.0`, `12.5.0`, `12.5.1`, `12.5.3`, `12.6.0`, `12.7.0`, `12.8.0`, `12.8.1`, `12.8.2`, `12.9.0`, `12.9.1`, `12.9.2`, `12.9.3`, `12.10.0`, `12.11.0`, `12.11.1`, `12.11.2`, `12.11.3`, `12.11.4`, `12.12.0`, `12.12.1`, `12.12.2`, `12.12.3`, `12.12.4`, `12.12.5`, `12.12.6`, `12.13.0`, `12.13.1`, `12.13.2`, `12.13.3`, `12.13.4`, `12.14.0`, `12.15.0`, `12.15.1`, `12.15.2`, `12.15.3`, `12.15.4`, `12.15.5`, `12.15.6`, `12.15.7`, `12.15.8`, `12.16.0`, `12.16.1`, `12.16.2`, `12.17.0`, `12.18.0`, `12.19.0`, `12.20.0`, `12.20.1`, `12.21.0`, `12.22.0`, `12.23.0`, `12.24.0`, `12.24.1`, `12.24.2`, `12.25.0`, `12.26.1`, `12.26.2`, `12.26.3`, `12.26.4`, `12.27.0`, `12.28.0`, `12.29.1`, `12.29.2`, `12.29.3`, `12.30.0`, `12.31.0`, `12.32.0`, `12.33.0`, `12.34.0`, `12.34.1`, `12.35.0`, `12.36.0`, `12.38.0`, `12.38.2`, `12.38.3`, `12.39.1`, `12.39.2`, `12.39.3`, `12.39.5`, `12.39.6`, `12.39.7`, `12.39.8`, `12.40.0`, `12.40.1`, `12.41.0`, `12.41.1`, `12.41.2`, `12.42.0`, `12.42.1`, `12.43.0`, `12.43.1`, `12.44.0`, `12.45.0`, `12.45.1`, `12.45.2`, `12.45.3`, `12.45.4`, `12.46.0`, `12.47.0`, `12.48.0`, `12.49.0`, `12.50.0`, `12.51.0`, `12.52.0`, `12.52.1`, `12.53.0`, `12.53.1`, `12.54.0`, `12.55.2`, `12.56.0`, `12.57.0`, `12.57.1`, `12.58.0`, `12.58.1`, `12.59.0`, `12.59.1`, `12.60.0`, `12.60.3`, `12.61.0`, `12.62.0`, `12.62.1`, `12.62.2`, `12.62.3`, `12.62.4`, `12.62.5`, `12.62.6`, `12.62.7`, `12.62.8`, `12.63.0`, `12.63.1`, `12.63.2`, `12.64.0`, `12.64.1`, `12.64.2`, `12.64.3`]
 
 ## org.codehaus.stax2
 
@@ -3681,7 +3684,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.clickhouse:org.apache.commons.compress`  -> [`1.8.0`, `1.9.0`, `1.9.1`, `1.9.2`]
 1. `com.guicedee.services:commons-compress`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`]
+1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress`  -> [`1.18.1`, `1.19.0`, `1.21.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`]
 1. `org.apache.commons:commons-compress` 🧩 -> [`1.24.0`, `1.25.0`]
@@ -4583,7 +4586,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.openjdk.nashorn
 
-1. `org.noear:luffy.executor.s.nashorn`  -> [`1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`]
+1. `org.noear:luffy.executor.s.nashorn`  -> [`1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.6.4`, `1.6.5`, `1.6.6`, `1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.openidentityplatform.commons.json-crypto:cli`  -> [`2.0.15`, `2.0.16`, `2.0.17`, `2.0.18`, `2.1.1`]
 1. `org.openidentityplatform.commons.json-schema:cli`  -> [`2.0.15`, `2.0.16`, `2.0.17`, `2.0.18`, `2.1.1`]
 1. `org.openjdk.nashorn:nashorn-core` 🧩 -> [`15.2`, `15.3`, `15.4`]
