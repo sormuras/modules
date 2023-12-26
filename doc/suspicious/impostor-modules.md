@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `com.fasterxml.jackson.core` x345
 1. `com.google.gson` x308
-1. `com.fasterxml.jackson.databind` x288
+1. `com.fasterxml.jackson.databind` x289
 1. `org.apache.logging.log4j` x238
 1. `kotlin.stdlib.jdk8` x194
 1. `org.slf4j` x137
@@ -48,7 +48,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alibaba.ververica:ververica-connector-continuous-odps`  -> [`1.15-vvr-6.0.2-3`, `1.15-vvr-6.0.6`, `1.15-vvr-6.0.7-1`]
 1. `com.alibaba.ververica:ververica-connector-odps`  -> [`1.15-vvr-6.0.2-3`, `1.15-vvr-6.0.6`, `1.15-vvr-6.0.7-1`]
 1. `com.alibaba.ververica:ververica-connector-phoenix-4.14.2-HBase-1.4`  -> [`1.15-vvr-6.0.2-3`]
-1. `com.aliyun.lindorm:lindorm-all-client`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`]
+1. `com.aliyun.lindorm:lindorm-all-client`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`]
 1. `com.bancstac:bancstac-gateway-client-java-public`  -> [`4.0.1`]
 1. `com.bancstac:bancstac-model-public`  -> [`4.0.5`, `4.0.6`]
 1. `com.bancstac:bancstac-public-model`  -> [`4.0.3`, `4.0.4`]
@@ -541,7 +541,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`]
 1. `io.github.padreati:rapaio-jupyter-kernel`  -> [`1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
-1. `io.github.realmangorage:gradleutils`  -> [`3.0.2`, `3.0.2.build_lzih968r8b5ktmvtghtlegjw$_run_closure1@36e067c5`, `3.0.2.2033`, `3.0.2-beta2047`, `3.0.2-beta2049`, `3.0.2-beta2053`, `3.0.2-beta2060`, `3.0.2-beta2061`, `3.0.2-beta2068`, `3.0.2-beta2074`, `3.0.2-beta2078`, `3.0.2-beta2081`, `3.0.2-beta2082`, `3.0.2-beta2083`, `3.0.2-beta2086`, `3.0.2-beta2089`, `3.0.2-beta2093`]
+1. `io.github.realmangorage:gradleutils`  -> [`3.0.2`, `3.0.2.build_lzih968r8b5ktmvtghtlegjw$_run_closure1@36e067c5`, `3.0.2.2033`, `3.0.2-beta2047`, `3.0.2-beta2049`, `3.0.2-beta2053`, `3.0.2-beta2060`, `3.0.2-beta2061`, `3.0.2-beta2068`, `3.0.2-beta2074`, `3.0.2-beta2078`, `3.0.2-beta2081`, `3.0.2-beta2082`, `3.0.2-beta2083`, `3.0.2-beta2086`, `3.0.2-beta2089`, `3.0.2-beta2093`, `3.0.2-beta2094`]
 1. `io.github.scalapb-json:protoc-lint-shaded_2.12`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`]
 1. `io.github.tzfun.jvmm:jvmm-server`  -> [`1.0.0`]
 1. `io.iohk.atala:nimbus-jose-jwt`  -> [`10.0.0`]
@@ -698,7 +698,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 288 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 289 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -821,6 +821,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.kingcjy:ezframework-core`  -> [`1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.1.0`, `1.1.1`]
 1. `io.github.landuo:l4d2-query`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
+1. `io.github.robin536180:expo-server-sdk`  -> [`1.1.0`]
 1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`, `1.13.0-rc.4`, `1.13.0`, `1.14.0-rc.0`, `1.14.0-rc.1`, `1.14.0-rc.2`, `1.14.0`, `1.15.0-rc.1`, `1.15.0-rc.2`, `1.15.0`]
 1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`, `1.7`, `1.8`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
@@ -1198,7 +1199,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bitbucket.bradleysmithllc.etlunit:etlunit-application-assembly`  -> [`4.5.7-eu`, `4.5.8-eu`, `4.5.9-eu`, `4.5.10-eu`, `4.5.11-eu`, `4.5.12-eu`, `4.5.13-eu`, `4.5.14-eu`, `4.5.15-eu`, `4.5.16-eu`, `4.5.17-eu`, `4.5.18-eu`, `4.5.19-eu`, `4.5.20-eu`, `4.5.21-eu`, `4.5.22-eu`, `4.5.23-eu`, `4.5.24-eu`]
 1. `org.computate:smartabyar-smartvillage`  -> [`1.0.0`, `1.0.1`]
 1. `org.du-lab.adap-big:input`  -> [`0.1.0`]
-1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.1.0`, `5.1.1`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `5.3.6`, `5.3.7`, `5.4.1`, `5.4.2`, `5.4.3`, `5.5.1`, `5.5.2`, `5.6.1`, `5.6.2`, `5.6.3`, `5.7.2`, `5.8.1`]
+1. `org.elasticflow:elasticflow`  -> [`5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.1.0`, `5.1.1`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `5.3.6`, `5.3.7`, `5.4.1`, `5.4.2`, `5.4.3`, `5.5.1`, `5.5.2`, `5.6.1`, `5.6.2`, `5.6.3`, `5.7.2`, `5.8.1`, `5.8.5`]
 1. `org.filteredpush:event_date_qc`  -> [`2.0.3`, `2.0.4`]
 1. `org.finra.herd:herd-downloader`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
 1. `org.finra.herd:herd-retention-expiration-destroyer`  -> [`0.77.0`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.82.0`, `0.85.0`]
@@ -3245,6 +3246,24 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`, `1.28.0`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`, `1.28.0`]
 
+## org.apache.commons.lang3
+
+For example, at least 12 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
+
+1. `com.guicedee.services:commons-lang3`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
+1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `com.signalfx.public:signalfx-codahale`  -> [`1.0.38`]
+1. `com.signalfx.public:signalfx-java`  -> [`1.0.38`]
+1. `com.signalfx.public:signalfx-yammer`  -> [`1.0.38`]
+1. `dev.hcf.ball:ball-tools-javadoc-jdk8`  -> [`3.1.15.20231224`]
+1. `io.github.shmilyjxs:jdb-tool`  -> [`1.35`, `1.36`, `1.37`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`]
+1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`]
+1. `org.dominokit:domino-jackson-processor`  -> [`1.0.3`, `1.0.4`]
+
 ## com.fasterxml.jackson.datatype.joda
 
 For example, at least 11 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.joda`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3261,23 +3280,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`8.0.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-kpm`  -> [`0.40.11`, `0.40.12`, `0.40.13`, `0.41.0`, `0.41.1`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.11`, `0.40.12`, `0.40.13`, `0.41.0`, `0.41.1`]
-
-## org.apache.commons.lang3
-
-For example, at least 11 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
-
-1. `com.guicedee.services:commons-lang3`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
-1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.signalfx.public:signalfx-codahale`  -> [`1.0.38`]
-1. `com.signalfx.public:signalfx-java`  -> [`1.0.38`]
-1. `com.signalfx.public:signalfx-yammer`  -> [`1.0.38`]
-1. `io.github.shmilyjxs:jdb-tool`  -> [`1.35`, `1.36`, `1.37`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`]
-1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`]
-1. `org.dominokit:domino-jackson-processor`  -> [`1.0.3`, `1.0.4`]
 
 ## org.objectweb.asm.util
 
