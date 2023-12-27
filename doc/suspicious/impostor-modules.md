@@ -157,8 +157,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`, `2.6`]
-1. `io.github.sinri:DryDock`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`]
-1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.0.7`, `3.0.8`, `3.0.9`, `3.0.10`, `3.0.11`, `3.0.12`, `3.0.13`, `3.0.14`, `3.0.16`, `3.0.17`, `3.0.18`]
+1. `io.github.sinri:DryDock`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`]
+1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.0.7`, `3.0.8`, `3.0.9`, `3.0.10`, `3.0.11`, `3.0.12`, `3.0.13`, `3.0.14`, `3.0.16`, `3.0.17`, `3.0.18`, `3.0.19`]
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
 1. `io.honeybadger:honeybadger-java-shaded`  -> [`2.1.0`, `2.1.1`, `2.1.2`]
 1. `io.honeycomb.libhoney:libhoney-java`  -> [`1.4.0`, `1.4.1`, `1.5.0`, `1.5.2`, `1.5.3`, `1.5.4`]
@@ -1431,7 +1431,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ru.pocketbyte.locolaser:core`  -> [`2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`]
 1. `software.amazon.disco:disco-java-agent-kotlin-plugin`  -> [`0.12.0`]
 1. `tv.wunderbox:nativefiledialog`  -> [`1.0.2`, `1.0.3`]
-1. `video.bug:unlogged-sdk`  -> [`0.1.3`, `0.1.4`, `0.1.6`, `0.1.8`, `0.1.9`, `0.1.10`, `0.1.11`, `0.1.12`, `0.1.13`, `0.1.14`, `0.1.15`, `0.1.16`, `0.1.17`, `0.1.18`, `0.1.19`, `0.1.20`, `0.1.22`, `0.1.24`, `0.1.25`, `0.1.26`, `0.1.27`, `0.1.28`, `0.1.29`, `0.1.30`, `0.1.31`, `0.1.32`, `0.1.33`, `0.1.34`, `0.1.35`, `0.1.36`]
+1. `video.bug:unlogged-sdk`  -> [`0.1.3`, `0.1.4`, `0.1.6`, `0.1.8`, `0.1.9`, `0.1.10`, `0.1.11`, `0.1.12`, `0.1.13`, `0.1.14`, `0.1.15`, `0.1.16`, `0.1.17`, `0.1.18`, `0.1.19`, `0.1.20`, `0.1.22`, `0.1.24`, `0.1.25`, `0.1.26`, `0.1.27`, `0.1.28`, `0.1.29`, `0.1.30`, `0.1.31`, `0.1.32`, `0.1.33`, `0.1.34`, `0.1.35`, `0.1.36`, `0.1.37`]
 1. `xyz.block:ftl-generator`  -> [`0.71.8`]
 1. `xyz.pavelkorolev.danger.detekt:plugin`  -> [`0.1.3`, `1.0.0`, `1.0.1`, `1.1.0`, `1.2.0`]
 
@@ -1440,7 +1440,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 137 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
-1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`]
+1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`]
 1. `au.net.causal.spring-boot-keepassxc-property-agent:spring-boot-keepassxc-property-agent`  -> [`1.0`]
 1. `be.atbash.runtime.api:full-api`  -> [`0.4`]
 1. `be.ugent.idlab.knows:dataio`  -> [`1.0.3`, `1.0.4`]
