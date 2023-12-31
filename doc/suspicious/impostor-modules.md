@@ -679,7 +679,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.0`, `2.5.1`]
 1. `org.testng.testng-remote:testng-remote`  -> [`1.5.1`, `1.5.2`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
-1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC4`, `2.0.0-RC5`, `2.0.0-RC6`, `2.0.0-RC7`, `2.0.0-RC8`, `2.0.0-RC9`, `2.0.0-RC10`, `2.0.0-RC11`, `2.0.0-RC12`, `2.0.0`, `2.0.1`, `2.0.2`]
+1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC4`, `2.0.0-RC5`, `2.0.0-RC6`, `2.0.0-RC7`, `2.0.0-RC8`, `2.0.0-RC9`, `2.0.0-RC10`, `2.0.0-RC11`, `2.0.0-RC12`, `2.0.0`, `2.0.1`, `2.0.2`, `2.2.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.32.0`, `1.33.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.40.0`, `1.40.2`, `1.41.0`, `1.41.1`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.24.0`, `1.25.0`]
@@ -950,7 +950,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.lucee:core-io`  -> [`2.4.4`, `2.4.5`]
 1. `org.memgraph:graph-jdbc-bolt`  -> [`0.4.4`, `0.4.7`]
 1. `org.memgraph:graph-jdbc-driver`  -> [`0.4.0`, `0.4.4`, `0.4.8`]
-1. `org.mustangproject:Mustang-CLI`  -> [`2.3.2`, `2.3.3`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.5.6`, `2.5.7`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.9.0`]
+1. `org.mustangproject:Mustang-CLI`  -> [`2.3.2`, `2.3.3`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.5.6`, `2.5.7`, `2.6.0`, `2.6.1`, `2.6.2`, `2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`, `2.8.0`, `2.9.0`, `2.10.0`]
 1. `org.mustangproject:library`  -> [`2.3.2`, `2.3.3`, `2.4.0`, `2.5.0`, `2.5.1`, `2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.5.6`, `2.5.7`]
 1. `org.neo4j:neo4j-dwh-connector_2.11`  -> [`1.0.0_for_spark_2.4`, `1.0.1_for_spark_2.4`]
 1. `org.neo4j:neo4j-dwh-connector_2.12`  -> [`1.0.0_for_spark_3`, `1.0.1_for_spark_3`]
@@ -5356,6 +5356,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.cefriel:rmlmapper`  -> [`1.1.0`]
 1. `org.lwjgl.osgi:org.lwjgl.lmdb`  -> [`3.2.1.1`, `3.2.1.2`, `3.3.0`]
 1. `org.lwjgl:lwjgl-lmdb` 🧩 -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`]
+
+## org.mariadb.jdbc
+
+1. `io.zipkin.dependencies:zipkin-dependencies`  -> [`3.0.0`]
+1. `org.mariadb.jdbc:mariadb-java-client` 🧩 -> [`3.0.2-rc`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.0.7`, `3.0.8`, `3.0.9`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.2.0`, `3.3.0`, `3.3.1`, `3.3.2`]
+1. `org.opencastproject:opencast-db`  -> [`12.0`, `12.1`, `12.3`, `12.5`, `13.0`, `13.1`, `13.2`, `13.4`, `13.6`, `13.7`, `14.0`, `14.1`, `14.2`, `14.3`, `14.5`]
 
 ## org.pcap4j.packetfactory.propertiesbased
 
