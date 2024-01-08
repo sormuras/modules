@@ -10,7 +10,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x239
 1. `kotlin.stdlib.jdk8` x194
 1. `org.slf4j` x138
-1. `kotlin.stdlib` x124
+1. `kotlin.stdlib` x125
 1. `net.bytebuddy` x99
 1. `org.bouncycastle.provider` x99
 1. `info.picocli` x88
@@ -525,7 +525,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.fitko.fitconnect.sdk:cli`  -> [`1.0.0`, `1.1.0-rc.0`]
 1. `dev.fitko.fitconnect.sdk:client`  -> [`1.0.0-rc.1`]
 1. `dev.redcoke:mcserverping`  -> [`0.1.4`]
-1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`]
+1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`]
 1. `dev.walgo:db2dto`  -> [`1.11.0`, `1.11.1`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC2`, `4.0.0-RC3`, `4.0.0-RC4`, `4.0.0-RC5`]
@@ -1586,7 +1586,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib
 
-For example, at least 124 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 125 artifacts on Maven Central claim to be the module `kotlin.stdlib`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib;`.
 
 1. `ai.tecton:http-client`  -> [`1.0.0b1`]
@@ -1664,6 +1664,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.smartsquare:socket-io-redis-emitter`  -> [`0.9.0`, `0.9.1`, `0.9.3`]
 1. `fi.evident.apina:apina-cli`  -> [`0.21.0`]
 1. `fr.renardfute:SteamAPI`  -> [`1.0`]
+1. `io.github.altawk.asl:script-kether`  -> [`6.0.12-61`]
 1. `io.github.iredtea:carcadex`  -> [`1.0.1`, `1.0.2`]
 1. `io.github.willena:connect-influxdb-sink`  -> [`1.0.0`]
 1. `io.jackbradshaw:klu`  -> [`0.1.1`, `1.0.0`]
@@ -3153,7 +3154,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains.lets-plot:lets-plot-jfx`  -> [`2.0.1`, `2.0.5-rc1`, `2.1.0-rc1`, `2.1.0`, `2.2.0-rc1`, `2.2.0-rc2`, `2.2.0-rc3`, `2.2.0`]
 1. `org.redundent:kotlin-xml-dsl-generator`  -> [`1.9.0`, `1.9.1`]
 1. `org.sonarsource.slang:sonar-kotlin-plugin`  -> [`1.8.0.1775`, `1.8.1.1804`, `1.8.2.1946`, `1.8.3.2219`]
-1. `xyz.block:ftl-generator`  -> [`0.74.3`, `0.74.4`, `0.75.0`, `0.75.1`, `0.76.0`, `0.76.1`, `0.76.2`, `0.77.3`, `0.78.0`, `0.78.1`, `0.78.2`, `0.79.0`, `0.79.1`, `0.79.2`, `0.79.3`, `0.79.4`, `0.80.0`, `0.80.1`, `0.80.2`, `0.81.0`, `0.81.1`, `0.81.2`, `0.81.3`, `0.81.4`, `0.82.0`, `0.82.1`, `0.83.0`, `0.83.1`, `0.84.0`, `0.84.1`, `0.85.0`, `0.85.1`, `0.85.2`, `0.85.3`, `0.85.4`, `0.85.5`, `0.86.0`, `0.87.0`, `0.87.1`, `0.87.2`]
+1. `xyz.block:ftl-generator`  -> [`0.74.3`, `0.74.4`, `0.75.0`, `0.75.1`, `0.76.0`, `0.76.1`, `0.76.2`, `0.77.3`, `0.78.0`, `0.78.1`, `0.78.2`, `0.79.0`, `0.79.1`, `0.79.2`, `0.79.3`, `0.79.4`, `0.80.0`, `0.80.1`, `0.80.2`, `0.81.0`, `0.81.1`, `0.81.2`, `0.81.3`, `0.81.4`, `0.82.0`, `0.82.1`, `0.83.0`, `0.83.1`, `0.84.0`, `0.84.1`, `0.85.0`, `0.85.1`, `0.85.2`, `0.85.3`, `0.85.4`, `0.85.5`, `0.86.0`, `0.87.0`, `0.87.1`, `0.87.2`, `0.88.0`]
 
 ## com.fasterxml.jackson.dataformat.xml
 
@@ -3384,7 +3385,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ivianuu.injekt:injekt-compiler-plugin-shaded`  -> [`0.0.1-dev649`, `0.0.1-dev654`, `0.0.1-dev655`, `0.0.1-dev656`, `0.0.1-dev658`, `0.0.1-dev659`, `0.0.1-dev661`, `0.0.1-dev663`, `0.0.1-dev664`, `0.0.1-dev665`, `0.0.1-dev666`, `0.0.1-dev667`, `0.0.1-dev668`, `0.0.1-dev670`, `0.0.1-dev672`, `0.0.1-dev673`, `0.0.1-dev674`]
 1. `com.saveourtool.diktat:diktat-cli`  -> [`2.0.0`]
 1. `dev.limebeck:revealkt-cli`  -> [`0.0.1`, `0.0.2`, `0.1.1`, `0.1.2`, `0.1.3`, `0.1.4`]
-1. `io.github.themrmilchmann.gradle.publish.curseforge:gradle-curseforge-publish`  -> [`0.4.0`, `0.5.0`]
+1. `io.github.themrmilchmann.gradle.publish.curseforge:gradle-curseforge-publish`  -> [`0.4.0`, `0.5.0`, `0.6.0`, `0.6.1`]
 1. `love.forte.plugin.suspend-transform:suspend-transform-plugin-embeddable`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.3.1`, `0.4.0`, `0.5.0`, `0.5.1`, `0.6.0-beta1`, `0.6.0-beta2`, `0.6.0-beta3`]
 1. `net.nurigo:sdk`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.3.0`]
 1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.140`]
