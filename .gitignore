@@ -1,6 +1,8 @@
 .bach/workspace/
 .idea/
 bucket/
+out/
 
+*.iml
 *.jar
 modules.md
