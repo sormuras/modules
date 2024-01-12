@@ -40,6 +40,7 @@ class Scanner {
     out("%,11d unique modules%n", scanner.uniques.size());
     out("-%n");
     out("%,11d in total required modules%n", scanner.requires.size());
+    Files.createDirectories(Path.of("out"));
     Files.write(Path.of("out", "total-requires.txt"), scanner.requires);
     var unknown = new TreeSet<>(scanner.requires);
     unknown.removeAll(scanner.uniques.keySet());
