@@ -123,5 +123,6 @@ jobs:
             .bach/workspace/logbook.md
             .bach/workspace/modules
             com.github.sormuras.modules/com/github/sormuras/modules/modules.properties
+            out/total-requires.txt
             out/unknown-requires.txt
             out/jreleaser/trace.log

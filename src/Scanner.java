@@ -8,11 +8,13 @@ import java.lang.module.ModuleDescriptor;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.StringJoiner;
 import java.util.TreeMap;
+import java.util.TreeSet;
 import java.util.stream.Stream;
 
 class Scanner {
@@ -36,6 +38,15 @@ class Scanner {
         values.stream().filter(Scan::isExplicit).count());
     out("%,11d distinct modules%n", scanner.modules.size());
     out("%,11d unique modules%n", scanner.uniques.size());
+    out("-%n");
+    out("%,11d in total required modules%n", scanner.requires.size());
+    Files.write(Path.of("out", "total-requires.txt"), scanner.requires);
+    var unknown = new TreeSet<>(scanner.requires);
+    unknown.removeAll(scanner.uniques.keySet());
+    unknown.removeAll(scanner.modules.keySet());
+    Object.class.getModule().getLayer().modules().stream().map(Module::getName).forEach(unknown::remove);
+    out("%,11d unknown required modules%n", unknown.size());
+    Files.write(Path.of("out", "unknown-requires.txt"), unknown);
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.uniques.forEach((module, uri) -> lines.add(module + '=' + uri));
@@ -130,6 +141,7 @@ class Scanner {
   final TreeMap<String, ArrayList<Scan>> modules; // "module" -> [Scan...]
   final TreeMap<String, String> uniques; // "module" -> "uri"
   final TreeMap<String, String> uniqueGAs; // "module" -> "GA"
+  final TreeSet<String> requires; // ["module", "module.b", ... "module.z"]
 
   Scanner(String directory) {
     this.directory = Path.of(directory);
@@ -138,6 +150,7 @@ class Scanner {
     this.modules = new TreeMap<>();
     this.uniques = new TreeMap<>();
     this.uniqueGAs = new TreeMap<>();
+    this.requires = new TreeSet<>();
   }
 
   Scanner scan() throws Exception {
@@ -162,12 +175,14 @@ class Scanner {
       if (scans.add(scan)) {
         facts.put(scan.GA, scan);
         if (scan.GA.equals(traceMaven)) out("%s%n", scan);
-        if (scan.module.equals(traceModule)) out("%s%n", scan);
+        var module = scan.module();
+        if (module.equals(traceModule)) out("%s%n", scan);
         if (scan.isExplicit()) {
-          modules.computeIfAbsent(scan.module(), key -> new ArrayList<>()).add(scan);
+          modules.computeIfAbsent(module, key -> new ArrayList<>()).add(scan);
           if (scan.isUnique()) {
-            uniques.put(scan.module(), scan.toUri());
-            uniqueGAs.put(scan.module(), scan.GA);
+            uniques.put(module, scan.toUri());
+            uniqueGAs.put(module, scan.GA);
+            requires.addAll(scan.requires());
           }
         }
       }
@@ -313,7 +328,7 @@ class Scanner {
   }
 
   // https://github.com/sandermak/modulescanner/blob/master/src/main/java/org/adoptopenjdk/modulescanner/SeparatedValuesPrinter.java
-  record Scan(String G, String G2, String A, String GA, String V, String module, String kind) {
+  record Scan(String G, String G2, String A, String GA, String V, String module, String kind, List<String> requires) {
 
     boolean isAutomatic() {
       return kind.equals("automatic");
@@ -355,7 +370,14 @@ class Scanner {
       var module = values[3];
       // moduleVersion = values[4];
       var moduleKind = values[5]; // "explicit", "automatic", <?>
-      return new Scan(G, G2, A, GA, V, module, moduleKind);
+      var moduleDependencies = values[6]; // "-" or "a" or "a + b + ... z"
+      var moduleRequires = computeRequires(moduleDependencies);
+      return new Scan(G, G2, A, GA, V, module, moduleKind, moduleRequires);
+    }
+
+    private static List<String> computeRequires(String moduleDependencies) {
+      if (moduleDependencies == null || moduleDependencies.isBlank() || moduleDependencies.equals("-")) return List.of();
+      return Arrays.stream(moduleDependencies.split(" \\+ ")).toList();
     }
   }
 
