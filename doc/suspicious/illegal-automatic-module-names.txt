@@ -1600,9 +1600,9 @@ org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.12.0 -> outlook-message-parser
-org.simplejavamail:smtp-connection-pool:2.2.0 -> smtp-connection-pool
-org.simplejavamail:utils-mail-dkim:3.0.0 -> org.simplejavamail.java-utils-mail-dkim
-org.simplejavamail:utils-mail-smime:2.2.0 -> com.github.bbottema.java-utils-mail-smime
+org.simplejavamail:smtp-connection-pool:2.3.0 -> smtp-connection-pool
+org.simplejavamail:utils-mail-dkim:3.1.0 -> org.simplejavamail.java-utils-mail-dkim
+org.simplejavamail:utils-mail-smime:2.3.0 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M1-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
@@ -1736,6 +1736,6 @@ pro.projo:projo-template-generation:1.5.3 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.15.2-beta -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.30.10 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.30.10 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.30.11 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.30.11 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
