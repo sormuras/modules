@@ -94,7 +94,7 @@ com.github.albfernandez:jbpm-simulation:3.2.19.ayg -> com.github.albfernandez.jb
 com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:clustered-object-pool:2.0.2 -> clustered-object-pool
 com.github.bbottema:generic-object-pool:2.0.1 -> generic-object-pool
-com.github.bbottema:java-reflection:4.0.0 -> java-reflection
+com.github.bbottema:java-reflection:4.1.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:2.0.0 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.1 -> jetbrains-runtime-annotations
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
@@ -212,7 +212,7 @@ com.synopsys.integration:blackduck-common-api:2023.10.0.1 -> com.synopsys.integr
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.2.0 -> com.synopsys.integration.hub-imageinspector-lib
-com.synopsys.integration:int-jira-common:4.1.0 -> com.synopsys.integration.int-jira-common
+com.synopsys.integration:int-jira-common:4.1.1 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:26.0.9 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:26.0.6 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
@@ -381,7 +381,7 @@ org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.
 org.apache.pekko:pekko-projection-durable-state_2.12:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.0.0 -> pekko.projection.durable-state
-org.apache.sshd:sshd-spring-sftp:2.11.0 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:2.12.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:9.1.2 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:9.1.2 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:9.1.2 -> org.apache.tomee.bom.tomee-plume
@@ -1599,7 +1599,7 @@ org.selenide:selenide-selenoid:6.15.0 -> org.selenide.selenide-selenoid
 org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
-org.simplejavamail:outlook-message-parser:1.12.0 -> outlook-message-parser
+org.simplejavamail:outlook-message-parser:1.13.0 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.3.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.1.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.3.0 -> com.github.bbottema.java-utils-mail-smime
