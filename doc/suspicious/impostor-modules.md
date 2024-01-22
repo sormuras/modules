@@ -4,7 +4,7 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x350
+1. `com.fasterxml.jackson.core` x351
 1. `com.google.gson` x315
 1. `com.fasterxml.jackson.databind` x291
 1. `org.apache.logging.log4j` x239
@@ -33,7 +33,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 ## com.fasterxml.jackson.core
 
-For example, at least 350 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 351 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -168,6 +168,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-databricks`  -> [`0.11.0`, `0.12.0`, `0.13.0`]
 1. `io.kestra.plugin:plugin-elasticsearch`  -> [`0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.3.2`]
+1. `io.kestra.plugin:plugin-jdbc-druid`  -> [`0.14.0`]
 1. `io.kestra.plugin:plugin-jdbc-sqlserver`  -> [`0.5.0`, `0.5.1`, `0.5.2`]
 1. `io.kestra.plugin:plugin-jdbc-trino`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.8.0`]
 1. `io.kestra.plugin:plugin-openai`  -> [`0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
@@ -564,8 +565,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-gcp`  -> [`0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.6.0`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.12.1`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-googleworkspace`  -> [`0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-hightouch`  -> [`0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
-1. `io.kestra.plugin:plugin-jdbc-arrow-flight`  -> [`0.13.0`]
-1. `io.kestra.plugin:plugin-jdbc-rockset`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`]
+1. `io.kestra.plugin:plugin-jdbc-arrow-flight`  -> [`0.13.0`, `0.14.0`]
+1. `io.kestra.plugin:plugin-jdbc-rockset`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-modal`  -> [`0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-redis`  -> [`0.6.0`]
 1. `io.kestra.plugin:plugin-sqlmesh`  -> [`0.13.0`, `0.14.0`]
@@ -594,7 +595,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.revelc.code.formatter:jsdt-core`  -> [`3.0.0`, `3.1.0`, `3.2.0`, `3.3.0`]
 1. `net.serenity-bdd:serenity-cli`  -> [`3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.3.0-BETA-1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.4`, `3.3.5`, `3.3.7`, `3.3.9-RC2`, `3.3.9-RC3`, `3.3.9`, `3.3.10`, `3.4.0`, `3.4.1`, `3.4.2`, `3.4.3`, `3.5.0`, `3.5.1`, `3.6.0`, `3.6.6`, `3.6.7`, `3.6.9`, `3.6.12`, `3.6.15`]
 1. `no.entur:interface-protoc-plugin`  -> [`1.10`, `1.11`, `1.12`, `1.13`, `1.14`, `1.15`]
-1. `org.apache.arrow:flight-sql-jdbc-driver`  -> [`10.0.0`, `10.0.1`, `11.0.0`, `12.0.0`, `12.0.1`, `13.0.0`, `14.0.0`, `14.0.1`, `14.0.2`]
+1. `org.apache.arrow:flight-sql-jdbc-driver`  -> [`10.0.0`, `10.0.1`, `11.0.0`, `12.0.0`, `12.0.1`, `13.0.0`, `14.0.0`, `14.0.1`, `14.0.2`, `15.0.0`]
 1. `org.apache.beam:beam-examples-multi-language`  -> [`2.42.0`, `2.43.0`, `2.44.0`, `2.45.0`, `2.46.0`, `2.47.0`, `2.48.0`]
 1. `org.apache.beam:beam-it-common`  -> [`2.50.0`, `2.51.0`, `2.52.0`, `2.53.0`]
 1. `org.apache.beam:beam-it-testcontainers`  -> [`2.50.0`, `2.51.0`, `2.52.0`, `2.53.0`]
@@ -1134,7 +1135,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.javaoperatorsdk:webserver-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.1`, `1.6.2`, `1.7.0`, `1.7.1`]
 1. `io.keploy:keploy-sdk`  -> [`1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.3`]
 1. `io.keploy:test-module`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`]
-1. `io.kestra.plugin:plugin-jdbc-pinot`  -> [`0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`]
+1. `io.kestra.plugin:plugin-jdbc-pinot`  -> [`0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.michaelrocks.pablo:pablo`  -> [`1.1.0`, `1.1.1`, `1.1.3`, `1.2.0`, `1.3.0`, `1.3.1`]
 1. `io.microservices.tools.canvas:microservice-canvas-cli`  -> [`0.7.0.TEST.RELEASE`, `0.8.0.RELEASE`, `0.9.0.RELEASE`, `0.10.0.RELEASE`, `0.11.0.RELEASE`]
 1. `io.mosip.kernel:kernel-auth-adapter`  -> [`1.1.3-rc1`, `1.1.3-rc2`, `1.1.3`, `1.1.4-rc1`, `1.1.4`, `1.1.5-rc1`, `1.1.5`, `1.1.5.1`, `1.1.5.2`, `1.1.5.3`, `1.2.0-rc1`, `1.2.0-prerel`, `1.2.0.1-B1`, `1.2.0.1-B2`]
@@ -2123,7 +2124,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.pgpainless:pgpainless-cli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`, `1.0.0-rc9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.1.0`, `1.1.1-alpha1`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.3.1`]
 1. `org.pgpainless:pgpainless-sop`  -> [`0.2.0-alpha5`, `0.2.0-alpha6`, `0.2.0-alpha7`, `0.2.0-alpha8`, `0.2.0-alpha9`, `0.2.0-alpha10`, `0.2.0-alpha11`, `0.2.0-alpha12`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`]
 1. `org.pgpainless:sop-java-picocli`  -> [`0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0-rc3`, `1.0.0-rc4`, `1.0.0-rc5`, `1.0.0-rc6`, `1.0.0-rc7`, `1.0.0-rc8`, `1.0.0-rc9`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.5`, `4.0.6`, `4.0.7`, `4.1.0`, `4.1.1`, `5.0.0`, `6.0.0`, `6.1.0`, `7.0.0`]
-1. `org.primefaces:primefaces-cli`  -> [`11.0.0-RC1`, `11.0.0-RC2`, `11.0.0`, `12.0.0-RC2`, `12.0.0-RC3`, `12.0.0`, `13.0.0-RC1`, `13.0.0-RC2`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`]
+1. `org.primefaces:primefaces-cli`  -> [`11.0.0-RC1`, `11.0.0-RC2`, `11.0.0`, `12.0.0-RC2`, `12.0.0-RC3`, `12.0.0`, `13.0.0-RC1`, `13.0.0-RC2`, `13.0.0`, `13.0.1`, `13.0.2`, `13.0.3`, `13.0.4`, `13.0.5`]
 1. `org.projectnessie.iceberg-catalog-migrator:iceberg-catalog-migrator-cli`  -> [`0.1.0`, `0.2.0`]
 1. `org.projectnessie:nessie-content-generator`  -> [`0.40.0`, `0.40.1`]
 1. `tech.kronicle:gradle-version-logic`  -> [`0.1.5`, `0.1.6`]
@@ -2405,8 +2406,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-dbt`  -> [`0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-debezium-postgres`  -> [`0.4.0`, `0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-docker`  -> [`0.12.0`, `0.13.0`, `0.14.0`]
-1. `io.kestra.plugin:plugin-jdbc-postgres`  -> [`0.2.7`, `0.2.8`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`]
-1. `io.kestra.plugin:plugin-jdbc-sqlite`  -> [`0.13.0`]
+1. `io.kestra.plugin:plugin-jdbc-postgres`  -> [`0.2.7`, `0.2.8`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.0`, `0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
+1. `io.kestra.plugin:plugin-jdbc-sqlite`  -> [`0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-malloy`  -> [`0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-script-groovy`  -> [`0.10.0`, `0.11.0`, `0.12.0`, `0.12.1`, `0.12.2`, `0.13.0`, `0.13.1`, `0.13.2`, `0.14.0`]
 1. `io.kestra.plugin:plugin-script-julia`  -> [`0.11.0`, `0.12.0`, `0.12.1`, `0.12.2`, `0.13.0`, `0.13.1`, `0.13.2`, `0.14.0`]
@@ -2608,7 +2609,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.quickmsg:smqtt-bootstrap`  -> [`1.1.2`, `1.1.5`]
 1. `io.github.serpro69:kotlin-faker`  -> [`1.8.0-rc.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`, `1.12.0-rc.0`, `1.12.0-rc.1`, `1.12.0-rc.2`, `1.12.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.2.0`, `0.2.1`]
-1. `io.kestra:kestra`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.6.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.12.1`, `0.12.2`, `0.12.3`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.8`, `0.13.9`, `0.13.10`, `0.14.0`]
+1. `io.kestra:kestra`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.6.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.12.1`, `0.12.2`, `0.12.3`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.8`, `0.13.9`, `0.13.10`, `0.14.0`, `0.14.1`]
 1. `io.liftwizard:liftwizard-example`  -> [`0.21.0`, `0.22.0`, `0.23.0`, `0.24.0`, `0.25.0`, `0.26.0`, `0.27.0`, `0.28.0`, `0.29.0`, `0.30.0`, `0.31.0`, `0.32.0`, `0.33.0`, `0.34.0`, `0.35.0`, `0.36.0`, `0.37.0`, `1.0.0`, `1.0.1`, `2.0.0`, `2.0.1`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`]
 1. `io.openlineage:openlineage-proxy`  -> [`0.5.1`, `0.5.2`, `0.6.0`, `0.6.1`, `0.6.2`, `0.7.1`, `0.8.1`, `0.8.2`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.13.1`, `0.14.0`, `0.14.1`, `0.15.1`, `0.16.1`, `0.17.0`, `0.18.0`, `0.19.2`, `0.20.4`, `0.20.6`, `0.21.1`, `0.22.0`, `0.23.0`, `0.24.0`, `0.25.0`, `0.26.0`, `0.27.1`, `0.27.2`, `0.28.0`, `0.29.2`, `0.30.1`, `1.0.0`, `1.1.0`, `1.2.2`, `1.3.1`, `1.4.1`, `1.5.0`, `1.6.2`, `1.7.0`]
 1. `io.stargate.web:sgv2-restapi`  -> [`2.0.0-BETA-2`, `2.0.0-BETA-3`, `2.0.0-BETA-4`]
@@ -2935,7 +2936,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.liferay.portal:release.portal.api`  -> [`7.4.3.47-ga47`, `7.4.3.83-ga83`, `7.4.3.88-ga88`, `7.4.3.95-ga95-1`]
 1. `com.snowflake:snowflake-kafka-connector`  -> [`2.1.1`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.12.0`, `0.12.1`, `0.13.0`, `0.14.0`]
-1. `io.kestra.plugin:plugin-jdbc-snowflake`  -> [`0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`]
+1. `io.kestra.plugin:plugin-jdbc-snowflake`  -> [`0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.kestra.plugin:plugin-kafka`  -> [`0.11.0`, `0.12.0`, `0.12.1`, `0.12.2`, `0.13.0`, `0.14.0`]
 1. `net.snowflake:snowflake-jdbc-fips`  -> [`3.14.3`, `3.14.4`]
 1. `net.snowflake:snowflake-jdbc`  -> [`3.13.33`, `3.14.0`, `3.14.1`, `3.14.2`, `3.14.3`]
@@ -3107,8 +3108,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcpg-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcpg-fips`  -> [`1.0.3`, `1.0.4`, `1.0.5`, `1.0.5.1`, `1.0.7.1`]
 1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcpg-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.72.1`, `1.72.2`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
-1. `org.bouncycastle:bcpg-lts8on`  -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`]
+1. `org.bouncycastle:bcpg-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.72.1`, `1.72.2`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcpg-lts8on` 🧩 -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`]
 1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
 1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
 1. `org.vafer:jdeb`  -> [`1.8`, `1.9`, `1.10`]
@@ -3366,7 +3367,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `co.virtual-verse:HeavenLibrary-Bungeecord`  -> [`1.1.1`]
 1. `co.virtual-verse:HeavenLibrary-Spigot`  -> [`1.1.1`]
 1. `co.virtual-verse:HeavenLibrary-common`  -> [`1.1.1`]
-1. `dev.aga.sqlite:sqlite-jdbc`  -> [`3.41.0.1`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`]
+1. `dev.aga.sqlite:sqlite-jdbc`  -> [`3.41.0.1`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`]
 1. `gq.bxteam:ndailyrewards`  -> [`1.5.6`, `1.5.7`]
 1. `io.github.willena:sqlite-jdbc`  -> [`3.40.0.0`, `3.40.1.0`]
 1. `io.synclite:synclite-logger`  -> [`2023.11.18`, `2023.11.20`, `2023.12.06`, `2023.12.14`, `2023.12.23`, `2024.01.01`, `2024.01.13`]
@@ -3463,11 +3464,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcjmail-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcjmail-jdk15on`  -> [`1.69`, `1.70`]
 1. `org.bouncycastle:bcjmail-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
-1. `org.bouncycastle:bcjmail-lts8on`  -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`]
+1. `org.bouncycastle:bcjmail-lts8on` 🧩 -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`]
 1. `org.bouncycastle:bcmail-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcmail-fips`  -> [`1.0.2`, `1.0.3`]
 1. `org.bouncycastle:bcmail-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcmail-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcmail-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 
 ## org.assertj.core
 
@@ -3803,7 +3804,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:commons-compress`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress`  -> [`1.18.1`, `1.19.0`, `1.21.0`]
-1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`]
+1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`, `0.14.0`]
 1. `org.apache.commons:commons-compress` 🧩 -> [`1.24.0`, `1.25.0`]
 
 ## org.glassfish.java.json
