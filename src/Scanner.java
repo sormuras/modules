@@ -41,17 +41,10 @@ class Scanner {
     out("%,11d distinct modules%n", scanner.modules.size());
     out("%,11d unique modules%n", scanner.uniques.size());
     Files.createDirectories(Path.of("out"));
-    var composableModules = scanner.scans.stream()
-            .filter(Scan::isExplicit)
-            .filter(Scan::isUnique)
-            .filter(Scan::isComposable)
-            .map(Scan::module)
-            .sorted()
-            .toList();
-    out("%,11d composable modules%n", composableModules.size());
+    out("%,11d composable modules%n", scanner.composables.size());
+    Files.write(Path.of("out", "composable-modules.txt"), scanner.composables);
     out("-%n");
     out("%,11d in total required modules%n", scanner.requires.size());
-    Files.write(Path.of("out", "composable-modules.txt"), composableModules);
     Files.write(Path.of("out", "total-requires.txt"), scanner.requires);
     var unknown = new TreeSet<>(scanner.requires);
     unknown.removeAll(scanner.uniques.keySet());
@@ -153,6 +146,7 @@ class Scanner {
   final TreeMap<String, ArrayList<Scan>> modules; // "module" -> [Scan...]
   final TreeMap<String, String> uniques; // "module" -> "uri"
   final TreeMap<String, String> uniqueGAs; // "module" -> "GA"
+  final TreeSet<String> composables;
   final TreeSet<String> requires; // ["module", "module.b", ... "module.z"]
 
   Scanner(String directory) {
@@ -162,6 +156,7 @@ class Scanner {
     this.modules = new TreeMap<>();
     this.uniques = new TreeMap<>();
     this.uniqueGAs = new TreeMap<>();
+    this.composables = new TreeSet<>();
     this.requires = new TreeSet<>();
   }
 
@@ -194,6 +189,7 @@ class Scanner {
           if (scan.isUnique()) {
             uniques.put(module, scan.toUri());
             uniqueGAs.put(module, scan.GA);
+            composables.add(module);
             requires.addAll(scan.requires());
           }
         }
