@@ -189,8 +189,8 @@ class Scanner {
           if (scan.isUnique()) {
             uniques.put(module, scan.toUri());
             uniqueGAs.put(module, scan.GA);
-            composables.add(module);
             requires.addAll(scan.requires());
+            if (scan.isComposable()) composables.add(module);
           }
         }
       }
