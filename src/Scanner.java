@@ -40,16 +40,7 @@ class Scanner {
         values.stream().filter(Scan::isExplicit).count());
     out("%,11d distinct modules%n", scanner.modules.size());
     out("%,11d unique modules%n", scanner.uniques.size());
-    out("-%n");
-    out("%,11d in total required modules%n", scanner.requires.size());
     Files.createDirectories(Path.of("out"));
-    Files.write(Path.of("out", "total-requires.txt"), scanner.requires);
-    var unknown = new TreeSet<>(scanner.requires);
-    unknown.removeAll(scanner.uniques.keySet());
-    unknown.removeAll(scanner.modules.keySet());
-    SYSTEM_MODULE_NAMES.forEach(unknown::remove);
-    out("%,11d unknown required modules%n", unknown.size());
-    Files.write(Path.of("out", "unknown-requires.txt"), unknown);
     var composableModules = scanner.scans.stream()
             .filter(Scan::isExplicit)
             .filter(Scan::isUnique)
@@ -57,7 +48,17 @@ class Scanner {
             .map(Scan::module)
             .sorted()
             .toList();
+    out("%,11d composable modules%n", composableModules.size());
+    out("-%n");
+    out("%,11d in total required modules%n", scanner.requires.size());
     Files.write(Path.of("out", "composable-modules.txt"), composableModules);
+    Files.write(Path.of("out", "total-requires.txt"), scanner.requires);
+    var unknown = new TreeSet<>(scanner.requires);
+    unknown.removeAll(scanner.uniques.keySet());
+    unknown.removeAll(scanner.modules.keySet());
+    SYSTEM_MODULE_NAMES.forEach(unknown::remove);
+    out("%,11d unknown required modules%n", unknown.size());
+    Files.write(Path.of("out", "unknown-requires.txt"), unknown);
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.uniques.forEach((module, uri) -> lines.add(module + '=' + uri));
