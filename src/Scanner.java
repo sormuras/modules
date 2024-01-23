@@ -12,9 +12,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.StringJoiner;
 import java.util.TreeMap;
 import java.util.TreeSet;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 class Scanner {
@@ -45,9 +47,17 @@ class Scanner {
     var unknown = new TreeSet<>(scanner.requires);
     unknown.removeAll(scanner.uniques.keySet());
     unknown.removeAll(scanner.modules.keySet());
-    Object.class.getModule().getLayer().modules().stream().map(Module::getName).forEach(unknown::remove);
+    SYSTEM_MODULE_NAMES.forEach(unknown::remove);
     out("%,11d unknown required modules%n", unknown.size());
     Files.write(Path.of("out", "unknown-requires.txt"), unknown);
+    var composableModules = scanner.scans.stream()
+            .filter(Scan::isExplicit)
+            .filter(Scan::isUnique)
+            .filter(Scan::isComposable)
+            .map(Scan::module)
+            .sorted()
+            .toList();
+    Files.write(Path.of("out", "composable-modules.txt"), composableModules);
     if (args.length == 2) {
       var lines = new ArrayList<String>();
       scanner.uniques.forEach((module, uri) -> lines.add(module + '=' + uri));
@@ -347,6 +357,12 @@ class Scanner {
       return module.startsWith(G) || module.startsWith(G2);
     }
 
+    boolean isComposable() {
+      var requires = new HashSet<>(requires());
+      requires.removeAll(SYSTEM_MODULE_NAMES);
+      return requires.isEmpty();
+    }
+
     String toUri() {
       return new StringJoiner("/")
           .add("https://repo.maven.apache.org/maven2")
@@ -383,4 +399,7 @@ class Scanner {
   }
 
   record Impostor(String module, List<String> lines) {}
+
+  static final Set<String> SYSTEM_MODULE_NAMES = Object.class.getModule().getLayer().modules().stream()
+          .map(Module::getName).collect(Collectors.toSet());
 }
