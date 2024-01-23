@@ -95,7 +95,7 @@ com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-t
 com.github.bbottema:clustered-object-pool:2.0.2 -> clustered-object-pool
 com.github.bbottema:generic-object-pool:2.0.1 -> generic-object-pool
 com.github.bbottema:java-reflection:4.1.0 -> java-reflection
-com.github.bbottema:java-socks-proxy-server:2.0.0 -> java-socks-proxy-server
+com.github.bbottema:java-socks-proxy-server:3.0.0 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.1 -> jetbrains-runtime-annotations
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
