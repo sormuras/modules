@@ -1,21 +1,13 @@
 import java.lang.module.ModuleDescriptor;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeSet;
+import java.util.*;
 import java.util.function.Function;
-import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 class Database {
   public static void main(String... args) throws Exception {
-    var directory = Path.of(args[0]);
+    var directory = Path.of(args.length == 1 ? args[0] : "se");
     var out = Files.createDirectories(Path.of("out"));
 
     var cache = out.resolve("cached-lines.csv");
@@ -38,19 +30,36 @@ class Database {
     }
     System.out.printf("Loading cache from %s with %s bytes%n", cache, Files.size(cache));
     var lines = new ArrayList<>(Files.readAllLines(cache));
-    System.out.printf("Loaded %d distinct lines from cache: %s%n", lines.size(), cache);
+    System.out.printf("Found %,d distinct GAV lines (upload events since 2018).%n", lines.size());
 
-    /*
-    lines.removeIf(line -> !line.contains(",explicit,"));
-    System.out.printf("Found %d lines with an explicit module marker.%n", lines.size());
-    Files.write(Path.of("out/explicit-lines.csv"), lines);
+    var plainLines = new ArrayList<String>();
+    var automaticLines = new ArrayList<String>();
+    var explicitLines = new ArrayList<String>();
+    for (var line : lines) {
+      if (line.contains(",automatic,")) {
+        automaticLines.add(line);
+        continue;
+      }
+      if (line.contains(",explicit,")) {
+        explicitLines.add(line);
+        continue;
+      }
+      plainLines.add(line);
+    }
+
+    System.out.printf("Found %,d GAV lines without a module marker.%n", plainLines.size());
+    Files.write(Path.of("out/plain-lines.csv"), plainLines);
+    System.out.printf("Found %,d GAV lines with an automatic module marker.%n", automaticLines.size());
+    Files.write(Path.of("out/automatic-lines.csv"), automaticLines);
+    System.out.printf("Found %,d GAV lines with an explicit module marker.%n", explicitLines.size());
+    Files.write(Path.of("out/explicit-lines.csv"), explicitLines);
 
     var errors = new TreeMap<String, Exception>();
     var artifacts = new TreeMap<String, List<Entry>>();
     var module = new TreeMap<String, List<Entry>>();
     var unique = new TreeMap<String, List<Entry>>();
     var modest = new TreeMap<String, List<Entry>>();
-    for (var line : lines) {
+    for (var line : explicitLines) {
       try {
         var entry = Entry.of(line);
         artifacts.computeIfAbsent(entry.toGA(), __ -> new ArrayList<>()).add(entry);
@@ -64,66 +73,30 @@ class Database {
         errors.put(line, exception);
       }
     }
-    System.out.printf("Found %d lines with module-related errors.%n", errors.size());
+    System.out.printf("Found %,d GAV lines with module-related errors.%n", errors.size());
     write(Path.of("out/line-errors.properties"), errors);
 
-    System.out.printf("Found %d distinct group:artifact (no version) entries.%n", artifacts.size());
+    System.out.printf("Found %,d distinct GA (no version) artifacts.%n", artifacts.size());
     write(
         Path.of("out/distinct-artifacts.properties"),
         artifacts,
         entries -> entries.stream().map(Entry::version).toList().toString());
 
-    System.out.printf("Found %d explicit modules.%n", module.size());
+    System.out.printf("Found %,d distinct modules.%n", module.size());
     write(
-        Path.of("out/explicit-modules-first.properties"),
+        Path.of("out/distinct-modules-first.properties"),
         module,
         entries -> entries.getFirst().toGAV());
     write(
-        Path.of("out/explicit-modules-last.properties"),
+        Path.of("out/distinct-modules-last.properties"),
         module,
         entries -> entries.getLast().toGAV());
 
-    System.out.printf("Found %d unique modules.%n", unique.size());
+    System.out.printf("Found %,d unique modules.%n", unique.size());
     write(Path.of("out/unique-modules.properties"), unique, entries -> entries.getLast().toGAV());
 
-    System.out.printf("Found %d modest modules.%n", modest.size());
+    System.out.printf("Found %,d modest modules.%n", modest.size());
     write(Path.of("out/modest-modules.properties"), modest, entries -> entries.getLast().toGAV());
-    */
-
-    var projects =
-        List.of(
-            new Project(
-                "JUnit 5",
-                entry ->
-                    entry.toGA().startsWith("org.junit.")
-                        || entry.groupId().equals("org.opentest4j")
-                        || entry.groupId().equals("org.apiguardian"),
-                new ArrayList<>()));
-
-    var all = new HashSet<Entry>();
-    for (var line : lines) {
-      if ("groupId,artifactId,version,moduleName,moduleVersion,moduleMode,moduleDependencies,jdepsToolError,jdepsViolations"
-          .equals(line)) continue;
-      // if (!line.contains(",explicit,")) continue;
-      if (!line.contains(",explicit,") && !line.contains(",automatic,")) continue;
-      try {
-        var entry = Entry.of(line);
-        all.add(entry);
-
-        for (var project : projects) {
-          if (project.predicate().test(entry)) project.entries().add(entry);
-        }
-      } catch (Exception exception) {
-        // System.err.println("line -> " + line);
-        // throw exception;
-      }
-    }
-    for (var project : projects) {
-      System.out.println("## Project " + project.name());
-      for (var entry : project.entries()) {
-        System.out.println("  - " + entry.toGAV());
-      }
-    }
   }
 
   record Entry(String groupId, String artifactId, String version, ModuleDescriptor module) {
@@ -183,6 +156,4 @@ class Database {
       throw new RuntimeException(exception);
     }
   }
-
-  record Project(String name, Predicate<Entry> predicate, ArrayList<Entry> entries) {}
 }

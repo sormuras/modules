@@ -64,6 +64,12 @@ jobs:
           du --bytes bucket
           aws s3 sync s3://java9plusadoption bucket --region us-east-1 --no-sign-request --only-show-errors
           du --bytes bucket
+      - name: 'Find interesting projects in bucket'
+        run: |
+          java \
+          -Xmx5G \          
+          src/Database.java \
+          bucket
       - name: 'Scan bucket'
         run: |
           java \
