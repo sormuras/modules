@@ -67,7 +67,7 @@ jobs:
       - name: 'Find interesting projects in bucket'
         run: |
           java \
-          -Xmx5G \          
+          -Xmx5G \
           src/Database.java \
           bucket
       - name: 'Scan bucket'
