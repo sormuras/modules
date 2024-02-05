@@ -39,6 +39,8 @@ jobs:
     steps:
       - name: 'Check out repository'
         uses: actions/checkout@v4
+      - name: 'Resolve Maven-based starter projects'
+        run: mvn --file doc/maven org.apache.maven.plugins:maven-dependency-plugin:3.6.1:resolve
       - name: 'Set up Java'
         uses: actions/setup-java@v4
         with:
