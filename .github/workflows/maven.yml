@@ -1,0 +1,20 @@
+name: Maven
+
+on:
+  workflow_dispatch: # trigger workflow run manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Check out repository'
+        uses: actions/checkout@v4
+      - name: 'Resolve Maven-based starter projects'
+        run: |
+          mvn \
+          --batch-mode \
+          --no-transfer-progress \
+          --file doc/maven \
+          -Dmdep.outputScope=false \
+          -DoutputFile=resolved.txt \
+          dependency:resolve
