@@ -9,5 +9,6 @@
 
     <modules>
         <module>junit-4</module>
+        <module>junit-5</module>
     </modules>
 </project>

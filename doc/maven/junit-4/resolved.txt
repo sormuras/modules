@@ -1,0 +1,5 @@
+
+The following files have been resolved:
+   junit:junit:jar:4.13.2 -- module junit [auto]
+   org.hamcrest:hamcrest-core:jar:1.3 -- module hamcrest.core (auto)
+
