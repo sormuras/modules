@@ -18,3 +18,5 @@ jobs:
           -Dmdep.outputScope=false \
           -DoutputFile=resolved.txt \
           dependency:resolve
+      - name: 'Print all resolved.txt files'
+        run: find . -type f -name resolved.txt -exec tail -n+1 {} +
