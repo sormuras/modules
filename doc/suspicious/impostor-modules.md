@@ -3558,6 +3558,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.seleniumhq.selenium:selenium-java` 🧩 -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-rc-1`, `4.0.0-rc-2`, `4.0.0-rc-3`, `4.0.0`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.7.0`, `4.7.1`, `4.7.2`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.9.0`, `4.9.1`, `4.10.0`, `4.11.0`, `4.12.0`, `4.12.1`, `4.13.0`, `4.14.0`, `4.14.1`, `4.15.0`, `4.16.0`, `4.16.1`, `4.17.0`]
 1. `tech.catheu:jnotebook-distribution`  -> [`0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 
+## com.ctc.wstx
+
+1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`, `6.3.1`, `6.4.0`, `6.5.0`, `6.5.1`, `6.6.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.3`, `1.6.4`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.3`, `1.6.4`, `1.7.0`]
+1. `com.github.zuinnote:spark-hadoopoffice-ds_2.13`  -> [`1.7.0`]
+1. `com.liferay:com.liferay.saml.opensaml.integration`  -> [`2.0.73`, `4.0.68`, `4.0.69`, `2.0.74`, `3.0.70`, `4.0.70`, `4.0.71`, `2.0.75`, `3.0.71`, `4.0.72`]
+1. `org.sonarsource.slang:sonar-go-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`, `1.12.0.4259`, `1.13.0.4374`, `1.14.0.4481`, `1.15.0.4655`]
+1. `org.sonarsource.slang:sonar-scala-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`, `1.12.0.4259`, `1.13.0.4374`, `1.14.0.4481`, `1.15.0.4655`]
+1. `se.signatureservice.support:signservice-transactionsigning`  -> [`2401.1`]
+
 ## com.networknt.schema
 
 1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`, `4.2.99`, `4.2.122`, `5.0.0`, `5.0.27`]
@@ -3656,16 +3667,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-connector-jdbc`  -> [`1.9.0`, `1.10.0`]
 1. `org.sonarsource.javascript:sonar-javascript-plugin`  -> [`10.7.0.22914`, `10.8.0.24207`, `10.9.0.24449`, `10.10.0.24774`, `10.11.0.25043`, `10.11.1.25225`]
 1. `org.tukaani:xz` 🧩 -> [`1.9`]
-
-## com.ctc.wstx
-
-1. `com.fasterxml.woodstox:woodstox-core`  -> [`6.0.0.pr1`, `6.0.0.pr2`, `6.0.1`, `6.0.2`, `6.0.3`, `6.1.0`, `6.1.1`, `6.2.0`, `6.2.1`, `6.2.2`, `6.2.3`, `6.2.4`, `6.2.5`, `6.2.6`, `6.2.7`, `6.2.8`, `6.3.0`, `6.3.1`, `6.4.0`, `6.5.0`, `6.5.1`, `6.6.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.11`  -> [`1.6.3`, `1.6.4`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.12`  -> [`1.6.3`, `1.6.4`, `1.7.0`]
-1. `com.github.zuinnote:spark-hadoopoffice-ds_2.13`  -> [`1.7.0`]
-1. `com.liferay:com.liferay.saml.opensaml.integration`  -> [`2.0.73`, `4.0.68`, `4.0.69`, `2.0.74`, `3.0.70`, `4.0.70`, `4.0.71`, `2.0.75`, `3.0.71`, `4.0.72`]
-1. `org.sonarsource.slang:sonar-go-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`, `1.12.0.4259`, `1.13.0.4374`, `1.14.0.4481`, `1.15.0.4655`]
-1. `org.sonarsource.slang:sonar-scala-plugin`  -> [`1.9.0.3429`, `1.10.0.3710`, `1.11.0.3905`, `1.12.0.4259`, `1.13.0.4374`, `1.14.0.4481`, `1.15.0.4655`]
 
 ## jakarta.inject
 
@@ -5302,8 +5303,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## net.kyori.examination.api
 
 1. `net.kyori:examination-api` 🧩 -> [`1.3.0`]
-1. `ru.cwcode:PaperCommands`  -> [`1.0`, `1.0.1`, `1.0.3`]
-1. `ru.cwcode:VelocityCommands`  -> [`1.0`, `1.0.1`, `1.0.3`]
+1. `ru.cwcode:PaperCommands`  -> [`1.0`, `1.0.1`, `1.0.3`, `1.0.4`]
+1. `ru.cwcode:VelocityCommands`  -> [`1.0`, `1.0.1`, `1.0.3`, `1.0.4`]
 
 ## net.tascalate.instrument.emitter
 
