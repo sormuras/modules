@@ -8,6 +8,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>jackson-json-2</module>
         <module>junit-4</module>
         <module>junit-5</module>
     </modules>
