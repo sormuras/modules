@@ -352,6 +352,7 @@ net.java.truevfs:truevfs-profile-default_2.13:0.12.2 -> net.java.truevfs.profile
 net.serenity-bdd:serenity-emailer:2.1.0 -> serenity-emailer
 net.serenity-bdd:serenity-machinereadable-reports:2.1.1 -> serenity-machinereadable-reports
 net.serenity-bdd:serenity-test-utils:2.3.13 -> serenity-test-utils
+net.solarnetwork.external:net.solarnetwork.external.jakarta-xml-bind-api-default-runtime:2.3.2 -> net.solarnetwork.external.jakarta-xml-bind-api-default-runtime
 net.solarnetwork.external:net.solarnetwork.external.linux-jna:1.1.1 -> net.solarnetwork.external.linux-jna
 net.solarnetwork.external:net.solarnetwork.external.opendnp3-bindings:3.1.2.SN01 -> net.solarnetwork.external.opendnp3-bindings
 net.solarnetwork.external:net.solarnetwork.external.spring-security-messaging:4.2.4.RELEASE_1 -> net.solarnetwork.external.spring-security-messaging
@@ -618,15 +619,6 @@ org.hibernate.orm:hibernate-gradle-plugin:6.0.0.Alpha6 -> org.hibernate.orm.grad
 org.hibernate:hibernate-gradle-plugin:5.4.9.Final -> org.hibernate.orm.gradle-plugin
 org.immutables:criteria-rxjava:2.8.0-CriteriaRc0 -> org.immutables.criteria-rxjava
 org.incode.estatio:estatio-canonical:2.0.0-M1 -> -
-org.jberet.samples:jberet-samples-common:1.3.0.Final -> org.jberet.samples.jberet-samples-common
-org.jberet:jberet-camel:1.3.0.Final -> org.jberet.jberet-camel
-org.jberet:jberet-vertx-cluster:1.3.0.Final -> org.jberet.jberet-vertx-cluster
-org.jberet:jberet-vertx-rest:1.3.0.Final -> org.jberet.jberet-vertx-rest
-org.jberet:jberet-vertx-shell:1.3.0.Final -> org.jberet.jberet-vertx-shell
-org.jberet:jberet-wildfly-cluster-ejb:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-ejb
-org.jberet:jberet-wildfly-cluster-infinispan:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-infinispan
-org.jberet:jberet-wildfly-cluster-jms:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-jms
-org.jberet:jberet-wildfly-cluster-servlet:1.3.1.Final -> org.jberet.jberet-wildfly-cluster-servlet
 org.jboss.pnc.bpm.workitems:long-running-rest-workitem:7.59.5 -> -
 org.jboss.spec.javax.websocket:jakarta.websocket-client-api:2.0.0.Final -> beta.jboss.websocket-client.api
 org.jbpm.contrib:archive-workitem:7.74.1.Final -> -
