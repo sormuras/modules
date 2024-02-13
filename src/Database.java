@@ -57,6 +57,7 @@ class Database {
     var errors = new TreeMap<String, Exception>();
     var artifacts = new TreeMap<String, List<Entry>>();
     var module = new TreeMap<String, List<Entry>>();
+    var version = new TreeMap<String, List<Entry>>();
     var unique = new TreeMap<String, List<Entry>>();
     var modest = new TreeMap<String, List<Entry>>();
     for (var line : explicitLines) {
@@ -65,6 +66,9 @@ class Database {
         artifacts.computeIfAbsent(entry.toGA(), __ -> new ArrayList<>()).add(entry);
         var name = entry.module().name();
         module.computeIfAbsent(name, __ -> new ArrayList<>()).add(entry);
+        if (entry.module.version().isPresent()) {
+          version.computeIfAbsent(name, __ -> new ArrayList<>()).add(entry);
+        }
         if (!entry.isUniqueModule()) continue;
         unique.computeIfAbsent(name, __ -> new ArrayList<>()).add(entry);
         if (!entry.isModestModule()) continue;
@@ -76,7 +80,7 @@ class Database {
     System.out.printf("Found %,d GAV lines with module-related errors.%n", errors.size());
     write(Path.of("out/line-errors.properties"), errors);
 
-    System.out.printf("Found %,d distinct GA (no version) artifacts.%n", artifacts.size());
+    System.out.printf("Found %,d distinct GA (version ignored) artifacts.%n", artifacts.size());
     write(
         Path.of("out/distinct-artifacts.properties"),
         artifacts,
@@ -91,6 +95,9 @@ class Database {
         Path.of("out/distinct-modules-last.properties"),
         module,
         entries -> entries.getLast().toGAV());
+
+    System.out.printf("Found %,d versioned modules.%n", version.size());
+    write(Path.of("out/versioned-modules.properties"), version, entries -> entries.getLast().module().toNameAndVersion());
 
     System.out.printf("Found %,d unique modules.%n", unique.size());
     write(Path.of("out/unique-modules.properties"), unique, entries -> entries.getLast().toGAV());
