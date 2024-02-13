@@ -3564,7 +3564,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.iceolive:selenium-script`  -> [`0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.2.0`, `0.3.0`, `0.3.1`, `0.4.0`]
 1. `com.qcefast:openFast`  -> [`1.3.0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`]
 1. `com.qualizeal:java-utaf`  -> [`1.0.0`, `1.0.1`]
-1. `io.github.lambdatest:lambdatest-java-sdk`  -> [`1.0.0`, `1.0.1`]
+1. `io.github.lambdatest:lambdatest-java-sdk`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `io.github.multicatch:cucumber-audit-standalone`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.1.0`]
 1. `org.seleniumhq.selenium:selenium-java` 🧩 -> [`4.0.0-alpha-3`, `4.0.0-alpha-4`, `4.0.0-alpha-5`, `4.0.0-alpha-6`, `4.0.0-alpha-7`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-rc-1`, `4.0.0-rc-2`, `4.0.0-rc-3`, `4.0.0`, `4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.2.0`, `4.2.1`, `4.2.2`, `4.3.0`, `4.4.0`, `4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.7.0`, `4.7.1`, `4.7.2`, `4.8.0`, `4.8.1`, `4.8.2`, `4.8.3`, `4.9.0`, `4.9.1`, `4.10.0`, `4.11.0`, `4.12.0`, `4.12.1`, `4.13.0`, `4.14.0`, `4.14.1`, `4.15.0`, `4.16.0`, `4.16.1`, `4.17.0`]
 1. `tech.catheu:jnotebook-distribution`  -> [`0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
@@ -5471,7 +5471,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.jooq.joor
 
-1. `com.fluxtion.csv-compiler:csv-compiler-checker`  -> [`0.1.13`, `0.1.14`, `0.1.15`]
+1. `com.fluxtion.csv-compiler:csv-compiler-checker`  -> [`0.1.13`, `0.1.14`, `0.1.15`, `0.1.16`]
 1. `com.fluxtion.csv-compiler:csv-compiler-server`  -> [`0.1.9`, `0.1.10`, `0.1.11`, `0.1.12`]
 1. `org.jooq:joor` 🧩 -> [`0.9.9`, `0.9.10`, `0.9.11`, `0.9.12`, `0.9.13`, `0.9.14`, `0.9.15`]
 
