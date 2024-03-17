@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x303
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x202
-1. `org.slf4j` x149
+1. `org.slf4j` x150
 1. `kotlin.stdlib` x129
 1. `net.bytebuddy` x103
 1. `org.bouncycastle.provider` x102
@@ -1496,7 +1496,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 149 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 150 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`]
@@ -1563,6 +1563,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.bdeploy:api`  -> [`5.0.0`, `5.0.1`, `5.1.0`, `5.2.0`, `5.3.0`, `5.4.0`, `5.5.0`]
 1. `io.github.aliyun-mq:rocketmq-slf4j-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `io.github.aliyunmq:rocketmq-slf4j-api`  -> [`1.0.0`, `1.0.1`]
+1. `io.github.bekoenig.getdown:getdown-launcher`  -> [`2.0.0-rc1`]
 1. `io.github.ci-cmg.wod:wod-ascii-to-parquet-spark`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `io.github.danieleperuzzi:enhanced-functions`  -> [`1.3.1`]
 1. `io.github.davidwhitlock.cs410J:grader`  -> [`2023.0.0`, `2023.1.0`, `2024.0.0`]
@@ -2435,7 +2436,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcpkix-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcpkix-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
 1. `org.bouncycastle:bcpkix-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
-1. `org.finos.legend.engine:legend-engine-xt-relationalStore-spanner-jdbc-shaded`  -> [`3.31.0`, `3.32.0`, `3.33.0`, `3.34.0`, `3.34.1`, `3.34.3`, `3.34.4`, `3.35.0`, `3.35.1`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.9.0`, `4.10.0`, `4.11.0`, `4.11.1`, `4.12.1`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.1`, `4.15.4`, `4.15.6`, `4.15.7`, `4.15.8`, `4.15.9`, `4.16.0`, `4.16.1`, `4.17.0`, `4.18.2`, `4.18.3`, `4.18.4`, `4.18.5`, `4.19.0`, `4.20.3`, `4.21.0`, `4.21.1`, `4.22.0`, `4.22.1`, `4.23.0`, `4.24.0`, `4.25.0`, `4.25.1`, `4.25.2`, `4.26.0`, `4.26.3`, `4.26.4`, `4.26.5`, `4.26.6`, `4.27.0`, `4.27.1`, `4.28.0`, `4.28.1`, `4.28.2`, `4.29.0`, `4.29.1`, `4.30.0`, `4.30.1`, `4.30.2`, `4.30.3`, `4.31.1`, `4.32.0`, `4.32.1`, `4.32.2`, `4.33.0`, `4.33.3`, `4.33.5`, `4.34.0`, `4.35.0`, `4.35.1`, `4.35.2`, `4.35.3`, `4.35.4`, `4.35.5`, `4.36.0`, `4.37.0`, `4.37.1`, `4.37.2`, `4.37.7`, `4.37.8`, `4.38.0`, `4.38.1`, `4.38.2`, `4.38.3`, `4.38.4`, `4.39.0`, `4.39.1`, `4.40.0`, `4.40.3`]
+1. `org.finos.legend.engine:legend-engine-xt-relationalStore-spanner-jdbc-shaded`  -> [`3.31.0`, `3.32.0`, `3.33.0`, `3.34.0`, `3.34.1`, `3.34.3`, `3.34.4`, `3.35.0`, `3.35.1`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.9.0`, `4.10.0`, `4.11.0`, `4.11.1`, `4.12.1`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.1`, `4.15.4`, `4.15.6`, `4.15.7`, `4.15.8`, `4.15.9`, `4.16.0`, `4.16.1`, `4.17.0`, `4.18.2`, `4.18.3`, `4.18.4`, `4.18.5`, `4.19.0`, `4.20.3`, `4.21.0`, `4.21.1`, `4.22.0`, `4.22.1`, `4.23.0`, `4.24.0`, `4.25.0`, `4.25.1`, `4.25.2`, `4.26.0`, `4.26.3`, `4.26.4`, `4.26.5`, `4.26.6`, `4.27.0`, `4.27.1`, `4.28.0`, `4.28.1`, `4.28.2`, `4.29.0`, `4.29.1`, `4.30.0`, `4.30.1`, `4.30.2`, `4.30.3`, `4.31.1`, `4.32.0`, `4.32.1`, `4.32.2`, `4.33.0`, `4.33.3`, `4.33.5`, `4.34.0`, `4.35.0`, `4.35.1`, `4.35.2`, `4.35.3`, `4.35.4`, `4.35.5`, `4.36.0`, `4.37.0`, `4.37.1`, `4.37.2`, `4.37.7`, `4.37.8`, `4.38.0`, `4.38.1`, `4.38.2`, `4.38.3`, `4.38.4`, `4.39.0`, `4.39.1`, `4.40.0`, `4.40.3`, `4.41.0`]
 1. `org.keycloak:kcinit`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
 1. `org.netherald:MiniGameLib`  -> [`1.0.0`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.10.0`, `1.10.1`, `1.10.2`, `1.11.1`, `1.11.2`]
@@ -2892,7 +2893,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.tallison.tika:tika-langdetect-optimaize-shaded`  -> [`2.9.1.0`]
-1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`]
+1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`]
 1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 
 ## lombok
@@ -3168,7 +3169,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.clickhouse:org.apache.commons.compress`  -> [`1.8.0`, `1.9.0`, `1.9.1`, `1.9.2`]
 1. `com.guicedee.services:commons-compress`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.47.11-01`]
-1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`]
+1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`, `6.0.17`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress`  -> [`1.18.1`, `1.19.0`, `1.21.0`]
 1. `io.kestra.plugin:plugin-compress`  -> [`0.15.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.15.1`, `0.15.2`, `0.15.3`]
@@ -3656,7 +3657,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.commons:commons-text` 🧩 -> [`1.11.0`]
 1. `org.camunda.community.migration:backend-diagram-converter-cli`  -> [`0.8.0`, `0.8.1`]
 1. `org.neo4j:neosemantics`  -> [`5.15`, `5.17.0`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.18.3`, `0.18.4`, `0.19.0`, `0.19.1`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.18.3`, `0.18.4`, `0.19.0`, `0.19.1`, `0.19.2`]
 1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`]
 
 ## org.assertj.core
@@ -3745,7 +3746,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`, `4.2.99`, `4.2.122`, `5.0.0`, `5.0.27`, `5.0.58`]
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`3.0.0-beta-9`, `3.0.0-beta-10`]
-1. `com.networknt:json-schema-validator` 🧩 -> [`1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.1.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`]
+1. `com.networknt:json-schema-validator` 🧩 -> [`1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.1.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0`]
 1. `org.sonarsource.text:sonar-text-plugin`  -> [`2.5.0.2293`, `2.6.1.1316`, `2.7.0.1366`, `2.7.1.1388`, `2.8.0.1635`, `2.9.0.2100`]
 1. `org.wiremock.extensions:wiremock-faker-extension-standalone`  -> [`0.1.1`, `0.2.0`]
 1. `org.wiremock.extensions:wiremock-state-extension-standalone`  -> [`0.4.0`, `0.5.0`, `0.5.1`, `0.6.0`, `0.6.1`, `0.6.2`]
