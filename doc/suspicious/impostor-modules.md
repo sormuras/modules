@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `com.fasterxml.jackson.core` x367
 1. `com.google.gson` x321
-1. `com.fasterxml.jackson.databind` x303
+1. `com.fasterxml.jackson.databind` x304
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x202
 1. `org.slf4j` x150
@@ -671,7 +671,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.eclipse.californium:cf-plugtest-client`  -> [`3.5.0`, `3.6.0`, `3.7.0`]
 1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.0`, `0.0.1`, `0.0.2`]
 1. `org.glavo.hiper:u1`  -> [`1.2.5`, `1.2.6`, `1.2.8`]
-1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`]
+1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`]
 1. `org.glavo.hmcl:hmcl-stable`  -> [`3.5.5`, `3.5.6`]
 1. `org.grpcmock:protoc-gen-java-optional`  -> [`1.9.0`, `1.10.0`]
 1. `org.iota:iota-client`  -> [`1.0.0-rc.1`]
@@ -733,7 +733,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 303 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 304 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -925,6 +925,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.27.0`, `2.28.0`]
 1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
 1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
+1. `org.apache.doris:doris-kafka-connector`  -> [`1.0.0`]
 1. `org.apache.doris:spark-doris-connector-2.3_2.11`  -> [`1.1.0`]
 1. `org.apache.doris:spark-doris-connector-3.1_2.12`  -> [`1.1.0`]
 1. `org.apache.doris:spark-doris-connector-3.2_2.12`  -> [`1.1.0`]
@@ -1636,8 +1637,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.liquibase.ext:liquibase-teradata`  -> [`4.25.0`]
 1. `org.liquibase.ext:liquibase-yugabytedb`  -> [`4.25.0`]
 1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.3`]
-1. `org.logevents:logevents-config-demo`  -> [`0.5.0`, `0.5.1`, `0.5.2`]
-1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.5.0`, `0.5.1`, `0.5.2`]
+1. `org.logevents:logevents-config-demo`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
+1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.25`]
 1. `org.noear:luffy.executor.m.thymeleaf`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`]
 1. `org.noear:luffy.executor.m.velocity`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`]
@@ -1694,10 +1695,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.incognia:incognia-api-client`  -> [`1.1.0`]
 1. `com.intuit.hooks:maven-plugin`  -> [`0.7.0`, `0.8.1`, `0.8.2`, `0.9.0`, `0.9.1`]
 1. `com.joseph-dwyer.katana:katana-compiler-plugin`  -> [`0.0.5`]
-1. `com.linked-planet.client:kotlin-insight-client-test-applink`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`]
-1. `com.linked-planet.client:kotlin-insight-client-test-sdk`  -> [`0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`]
-1. `com.linked-planet.client:kotlin-jira-client-test-applink`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`]
-1. `com.linked-planet.client:kotlin-jira-client-test-sdk`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`]
+1. `com.linked-planet.client:kotlin-insight-client-test-applink`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.9`]
+1. `com.linked-planet.client:kotlin-insight-client-test-sdk`  -> [`0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.9`]
+1. `com.linked-planet.client:kotlin-jira-client-test-applink`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.9`]
+1. `com.linked-planet.client:kotlin-jira-client-test-sdk`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.11.0`, `0.11.1`, `0.12.0`, `0.12.2`, `0.12.3`, `0.12.4`, `0.12.5`, `0.12.6`, `0.12.7`, `0.12.8`, `0.12.9`, `0.13.00`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.13.5`, `0.13.6`, `0.13.7`, `0.13.9`]
 1. `com.mailintegrate:minte-java`  -> [`0.0.8`, `0.0.9`]
 1. `com.merative.acd:acd-sdk-examples`  -> [`v1.5.7`, `v1.5.8`, `v1.5.9`, `1.5.10`, `1.5.11`]
 1. `com.networknt:light-proxy`  -> [`2.0.28`, `2.0.29`, `2.0.30`, `2.0.31`, `2.0.32`]
@@ -4154,7 +4155,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.apache.commons.cli
 
 1. `commons-cli:commons-cli`  -> [`1.6.0`]
-1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`]
+1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`]
 1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`]
 1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`]
