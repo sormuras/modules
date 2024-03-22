@@ -1595,7 +1595,7 @@ org.simplejavamail:outlook-message-parser:1.13.0 -> outlook-message-parser
 org.simplejavamail:smtp-connection-pool:2.3.0 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.1.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.3.1 -> com.github.bbottema.java-utils-mail-smime
-org.spockframework:spock-groovy2-compat:2.4-M2-groovy-2.5 -> org.spockframework.groovy2-compat
+org.spockframework:spock-groovy2-compat:2.4-M4-groovy-2.5 -> org.spockframework.groovy2-compat
 org.talend.sdk.component:component-kit.js:1.0.3 -> org.talend.sdk.component.runtime.component-kit.js
 org.talend.sdk.component:component-runtime-standalone:0.0.6 -> org.talend.sdk.component.runtime..standalone
 org.tools4j:elara-chronicle:1.7 -> org.tools4j.elara-chronicle
