@@ -48,7 +48,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.alibaba.ververica:ververica-connector-continuous-odps`  -> [`1.15-vvr-6.0.2-3`, `1.15-vvr-6.0.6`, `1.15-vvr-6.0.7-1`]
 1. `com.alibaba.ververica:ververica-connector-odps`  -> [`1.15-vvr-6.0.2-3`, `1.15-vvr-6.0.6`, `1.15-vvr-6.0.7-1`]
 1. `com.alibaba.ververica:ververica-connector-phoenix-4.14.2-HBase-1.4`  -> [`1.15-vvr-6.0.2-3`]
-1. `com.aliyun.lindorm:lindorm-all-client`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.2.0-alpha.1`, `2.2.0`]
+1. `com.aliyun.lindorm:lindorm-all-client`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.2.0-alpha.1`, `2.2.0`, `2.2.1`]
 1. `com.ascentstream.pulsar:pulsar-functions-runtime-all`  -> [`2.10.6.9`, `2.10.6.10`]
 1. `com.bancstac:bancstac-gateway-client-java-public`  -> [`4.0.1`]
 1. `com.bancstac:bancstac-model-public`  -> [`4.0.5`, `4.0.6`]
@@ -2988,7 +2988,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jackson.datatype:jackson-datatype-jdk8`  -> [`0.65.0.1`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
 1. `com.jwebmp.jpms.jackson.datatype:jackson-datatype-jdk8`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.microsoft.azure:spark-cdm-connector`  -> [`0.18.2`]
-1. `com.networknt:codegen-cli`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`, `2.1.28`, `2.1.29`, `2.1.30`, `2.1.31`, `2.1.32`]
+1. `com.networknt:codegen-cli`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`, `2.1.28`, `2.1.29`, `2.1.30`, `2.1.31`, `2.1.32`, `2.1.33`]
 1. `com.networknt:light-consumer-4j`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`]
 1. `com.networknt:oauth-code`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`]
 1. `com.networknt:oauth-key`  -> [`2.1.2`, `2.1.3`, `2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`]
@@ -3706,7 +3706,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.commons:commons-text` 🧩 -> [`1.11.0`]
 1. `org.camunda.community.migration:backend-diagram-converter-cli`  -> [`0.8.0`, `0.8.1`]
 1. `org.neo4j:neosemantics`  -> [`5.15`, `5.17.0`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.18.3`, `0.18.4`, `0.19.0`, `0.19.1`, `0.19.2`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.18.3`, `0.18.4`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`]
 1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.3`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`]
 
 ## org.assertj.core
