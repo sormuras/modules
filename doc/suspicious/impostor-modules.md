@@ -1589,7 +1589,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.bekoenig.getdown:getdown-launcher`  -> [`2.0.0-rc1`]
 1. `io.github.ci-cmg.wod:wod-ascii-to-parquet-spark`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `io.github.danieleperuzzi:enhanced-functions`  -> [`1.3.1`]
-1. `io.github.davidwhitlock.cs410J:grader`  -> [`2023.0.0`, `2023.1.0`, `2024.0.0`]
+1. `io.github.davidwhitlock.cs410J:grader`  -> [`2023.0.0`, `2023.1.0`, `2024.0.0`, `2024.0.1`]
 1. `io.github.hungvm90:redis-lock`  -> [`1.0.1`]
 1. `io.github.jdiscordbots:nightdream-logging`  -> [`1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`]
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.23`, `1.3.24`, `1.3.25`]
@@ -1996,7 +1996,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcprov-ext-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
 1. `org.bouncycastle:bcprov-ext-jdk18on`  -> [`1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcprov-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.65.01`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcprov-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcprov-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 1. `org.eclipse.milo:server-examples`  -> [`0.3.0-M1`, `0.3.0`, `0.3.1-M1`, `0.3.1`, `0.3.2-M1`, `0.3.2`, `0.3.3-RC1`, `0.3.3-RC2`, `0.3.3-RC3`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.4.0`, `0.4.1`, `0.4.2-M1`, `0.4.2`, `0.4.3`, `0.6.4`, `0.6.5`, `0.6.6`, `0.6.7`, `0.6.8`, `0.6.9`, `0.6.10`, `0.6.11`, `0.6.12`]
 1. `org.keycloak:keycloak-admin-cli`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `14.0.0`, `15.0.0`, `15.0.1`, `15.0.2`, `16.0.0`, `16.1.0`, `16.1.1`, `17.0.0`, `17.0.1`, `18.0.0`, `18.0.1`, `18.0.2`]
 1. `org.keycloak:keycloak-client-registration-cli`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`, `13.0.0`, `13.0.1`, `14.0.0`, `15.0.0`, `15.0.1`, `15.0.2`, `16.0.0`, `16.1.0`, `16.1.1`, `17.0.0`, `17.0.1`, `18.0.0`, `18.0.1`, `18.0.2`]
@@ -2465,7 +2465,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:bouncy-castle-bc-shaded`  -> [`2.6.4`]
 1. `org.bouncycastle:bcpkix-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcpkix-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcpkix-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcpkix-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 1. `org.finos.legend.engine:legend-engine-xt-relationalStore-spanner-jdbc-shaded`  -> [`3.31.0`, `3.32.0`, `3.33.0`, `3.34.0`, `3.34.1`, `3.34.3`, `3.34.4`, `3.35.0`, `3.35.1`, `4.0.0`, `4.1.0`, `4.2.0`, `4.3.1`, `4.3.2`, `4.4.0`, `4.4.1`, `4.4.2`, `4.4.4`, `4.4.5`, `4.4.6`, `4.4.7`, `4.4.8`, `4.5.0`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.7.1`, `4.8.0`, `4.9.0`, `4.10.0`, `4.11.0`, `4.11.1`, `4.12.1`, `4.13.1`, `4.13.2`, `4.13.3`, `4.14.1`, `4.15.4`, `4.15.6`, `4.15.7`, `4.15.8`, `4.15.9`, `4.16.0`, `4.16.1`, `4.17.0`, `4.18.2`, `4.18.3`, `4.18.4`, `4.18.5`, `4.19.0`, `4.20.3`, `4.21.0`, `4.21.1`, `4.22.0`, `4.22.1`, `4.23.0`, `4.24.0`, `4.25.0`, `4.25.1`, `4.25.2`, `4.26.0`, `4.26.3`, `4.26.4`, `4.26.5`, `4.26.6`, `4.27.0`, `4.27.1`, `4.28.0`, `4.28.1`, `4.28.2`, `4.29.0`, `4.29.1`, `4.30.0`, `4.30.1`, `4.30.2`, `4.30.3`, `4.31.1`, `4.32.0`, `4.32.1`, `4.32.2`, `4.33.0`, `4.33.3`, `4.33.5`, `4.34.0`, `4.35.0`, `4.35.1`, `4.35.2`, `4.35.3`, `4.35.4`, `4.35.5`, `4.36.0`, `4.37.0`, `4.37.1`, `4.37.2`, `4.37.7`, `4.37.8`, `4.38.0`, `4.38.1`, `4.38.2`, `4.38.3`, `4.38.4`, `4.39.0`, `4.39.1`, `4.40.0`, `4.40.3`, `4.41.0`, `4.42.0`, `4.42.1`, `4.42.2`, `4.42.3`, `4.43.0`, `4.43.1`]
 1. `org.keycloak:kcinit`  -> [`10.0.0`, `10.0.1`, `10.0.2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `12.0.0`, `12.0.1`, `12.0.2`, `12.0.3`, `12.0.4`]
 1. `org.netherald:MiniGameLib`  -> [`1.0.0`]
@@ -2719,14 +2719,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.limemojito.oss.spring-boot.development-test:jar-lambda-poc`  -> [`12.0.3`, `12.0.4`, `12.0.7`]
 1. `com.limemojito.oss.standards.development-test:jar-lambda-poc`  -> [`13.0.0`, `13.0.4`, `14.0.0`, `14.0.13`, `14.0.15`, `14.0.19`]
 1. `com.nvidia:rapids-4-spark-tools_2.12`  -> [`23.04.0`, `23.04.1`, `23.06.0`, `23.06.1`, `23.06.2`, `23.06.3`, `23.06.4`, `23.08.0`, `23.08.1`, `23.08.2`, `23.10.0`, `23.10.1`, `23.12.0`, `23.12.1`, `23.12.2`, `23.12.3`, `24.02.0`, `24.02.1`, `24.02.2`]
-1. `com.tencent.polaris:dubbo-backend-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-front-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-governance-consumer`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-governance-provider`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-middle-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-press-provider`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-quick-consumer`  -> [`0.1.0-3.2.7`, `0.2.0-3.2.7`, `0.3.0-3.2.7`]
-1. `com.tencent.polaris:dubbo-quick-provider`  -> [`0.1.0-3.2.7`, `0.2.0-3.2.7`, `0.3.0-3.2.7`]
+1. `com.tencent.polaris:dubbo-backend-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-front-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-governance-consumer`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-governance-provider`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-middle-example`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-press-provider`  -> [`0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-quick-consumer`  -> [`0.1.0-3.2.7`, `0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
+1. `com.tencent.polaris:dubbo-quick-provider`  -> [`0.1.0-3.2.7`, `0.2.0-3.2.7`, `0.3.0-3.2.7`, `0.3.1-3.2.7`]
 1. `de.m3y.prometheus.exporter.fsimage:fsimage-exporter`  -> [`1.4.7`]
 1. `io.acryl.prometheus.jmx:jmx_prometheus_javaagent`  -> [`0.20.1`]
 1. `io.elsci.api-mocks:elsci-mocks-all-webapp`  -> [`20231018.1052-33`, `20231025.1102-34`, `20231025.1145-36`]
@@ -3215,7 +3215,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `co.elastic.apm:apm-agent-attach`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.10.1`, `1.11.0`, `1.12.0`, `1.13.0`, `1.14.0`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0.RC1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`, `1.27.0`, `1.27.1`, `1.28.0`, `1.28.1`, `1.28.2`, `1.28.3`, `1.28.4`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.33.0`, `1.34.0`, `1.34.1`, `1.35.0`, `1.36.0`, `1.37.0`, `1.38.0`, `1.39.0`, `1.40.0`, `1.41.0`, `1.41.1`, `1.42.0`, `1.43.0`, `1.44.0`, `1.45.0`, `1.46.0`, `1.47.0`, `1.47.1`, `1.48.0`, `1.48.1`, `1.49.0`]
 1. `com.amazonaws:aws-xray-auto-instrumentation-agent-bootstrap`  -> [`2.4.0-beta`, `2.4.0-beta.1`]
 1. `com.ea.async:ea-async`  -> [`1.2.3`]
-1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`, `3.5.0-rc0`, `3.5.0-rc1`, `3.5.0-rc2`, `3.5.0-rc4`, `3.5.0`, `3.5.0.1`, `3.5.1`, `3.6.0-rc0`, `3.6.0-rc1`, `3.6.0-rc2`, `3.6.0-rc3`, `3.6.0-rc4`, `3.6.0-rc5`, `3.6.0`, `3.6.1`, `3.7.0-rc0`, `3.7.0-rc1`, `3.7.0-rc2`, `3.7.0-rc3`, `3.7.0-rc4`, `3.7.0-rc5`, `3.7.0`, `3.7.1`, `3.7.2`, `3.8.0-rc0`, `3.8.0-rc1`, `3.8.0-rc2`, `3.8.0-rc3`, `3.8.0-rc4`, `3.8.0-rc5`, `3.8.0`, `3.8.1`, `3.8.2`, `3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`]
+1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`, `3.5.0-rc0`, `3.5.0-rc1`, `3.5.0-rc2`, `3.5.0-rc4`, `3.5.0`, `3.5.0.1`, `3.5.1`, `3.6.0-rc0`, `3.6.0-rc1`, `3.6.0-rc2`, `3.6.0-rc3`, `3.6.0-rc4`, `3.6.0-rc5`, `3.6.0`, `3.6.1`, `3.7.0-rc0`, `3.7.0-rc1`, `3.7.0-rc2`, `3.7.0-rc3`, `3.7.0-rc4`, `3.7.0-rc5`, `3.7.0`, `3.7.1`, `3.7.2`, `3.8.0-rc0`, `3.8.0-rc1`, `3.8.0-rc2`, `3.8.0-rc3`, `3.8.0-rc4`, `3.8.0-rc5`, `3.8.0`, `3.8.1`, `3.8.2`, `3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`]
 1. `com.idea-aedi:component-dump-class`  -> [`1.2.0`, `1.3.0`, `1.4.0`, `1.6.0`, `1.8.0`, `1.9.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`]
 1. `com.nerdvision:dynamic-load`  -> [`3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`]
 1. `com.nerdvision:example`  -> [`2.0.1`, `2.0.2`, `2.0.4`, `2.1.0`, `2.2.0`]
@@ -3242,7 +3242,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.clickhouse:org.apache.commons.compress`  -> [`1.8.0`, `1.9.0`, `1.9.1`, `1.9.2`]
 1. `com.guicedee.services:commons-compress`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.47.11-01`]
-1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`, `6.0.17`, `6.0.18`]
+1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`, `6.0.17`, `6.0.18`, `6.0.19`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress`  -> [`1.18.1`, `1.19.0`, `1.21.0`]
 1. `io.kestra.plugin:plugin-compress`  -> [`0.15.0`]
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.15.1`, `0.15.2`, `0.15.3`]
@@ -3395,8 +3395,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcpg-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcpg-fips`  -> [`1.0.3`, `1.0.4`, `1.0.5`, `1.0.5.1`, `1.0.7.1`]
 1. `org.bouncycastle:bcpg-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcpg-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.72.1`, `1.72.2`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
-1. `org.bouncycastle:bcpg-lts8on` 🧩 -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`, `2.73.5`]
+1. `org.bouncycastle:bcpg-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.72.1`, `1.72.2`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
+1. `org.bouncycastle:bcpg-lts8on`  -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`, `2.73.5`]
 1. `org.netbeans.external:bcpg`  -> [`RELEASE113`]
 1. `org.sonarsource.scm.git:sonar-scm-git-plugin`  -> [`1.11.0.11`, `1.11.1.2008`]
 1. `org.vafer:jdeb`  -> [`1.8`, `1.9`, `1.10`]
@@ -3589,7 +3589,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.aga.sqlite:sqlite-jdbc`  -> [`3.41.0.1`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`]
 1. `gq.bxteam:ndailyrewards`  -> [`1.5.6`, `1.5.7`]
 1. `io.github.willena:sqlite-jdbc`  -> [`3.40.0.0`, `3.40.1.0`]
-1. `io.synclite:synclite-logger`  -> [`2023.11.18`, `2023.11.20`, `2023.12.06`, `2023.12.14`, `2023.12.23`, `2024.01.01`, `2024.01.13`, `2024.01.23`, `2024.01.31`, `2024.02.05`, `2024.02.10`, `2024.02.19`, `2024.02.28`, `2024.03.12`, `2024.03.25`]
+1. `io.synclite:synclite-logger`  -> [`2023.11.18`, `2023.11.20`, `2023.12.06`, `2023.12.14`, `2023.12.23`, `2024.01.01`, `2024.01.13`, `2024.01.23`, `2024.01.31`, `2024.02.05`, `2024.02.10`, `2024.02.19`, `2024.02.28`, `2024.03.12`, `2024.03.25`, `2024.04.04`]
 1. `io.toxicity.sqlite-mc:driver-jvm`  -> [`2.0.0-1.7.2-0-alpha01`, `2.0.0-1.7.2-0-beta01`, `2.0.0-1.7.2-0`, `2.0.1-1.8.2-0`, `2.0.1-1.8.3-0`]
 1. `org.xerial:sqlite-jdbc` 🧩 -> [`3.39.4.1`, `3.40.0.0`, `3.40.1.0`, `3.41.0.0`, `3.41.0.1`, `3.41.2.0`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`]
 
@@ -3667,7 +3667,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.cloudnetservice.cloudnet:bridge`  -> [`4.0.0-RC1`, `4.0.0-RC2`, `4.0.0-RC3`, `4.0.0-RC4`, `4.0.0-RC5`, `4.0.0-RC6`, `4.0.0-RC7`, `4.0.0-RC8`, `4.0.0-RC9`, `4.0.0-RC10`]
 1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC6`, `4.0.0-RC7`, `4.0.0-RC8`, `4.0.0-RC9`, `4.0.0-RC10`]
 1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
-1. `io.github.rysefoxx.inventory:RyseInventory-Plugin`  -> [`1.6.0`, `1.6.5.6-DEV`, `1.6.5.7-DEV`, `1.6.5.8-DEV`, `1.6.5.9-DEV`, `1.6.5.10-DEV`, `1.6.5.11-DEV`, `1.6.5.12-DEV`]
+1. `io.github.rysefoxx.inventory:RyseInventory-Plugin`  -> [`1.6.0`, `1.6.5.6-DEV`, `1.6.5.7-DEV`, `1.6.5.8-DEV`, `1.6.5.9-DEV`, `1.6.5.10-DEV`, `1.6.5.11-DEV`, `1.6.5.12-DEV`, `1.6.5.13-DEV`]
 1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
 1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
 1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
@@ -3698,12 +3698,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.tika:tika-server`  -> [`1.22`, `1.23`, `1.24`, `1.24.1`, `1.25`]
 1. `org.bouncycastle:bcjmail-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcjmail-jdk15on`  -> [`1.69`, `1.70`]
-1. `org.bouncycastle:bcjmail-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
-1. `org.bouncycastle:bcjmail-lts8on` 🧩 -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`, `2.73.5`]
+1. `org.bouncycastle:bcjmail-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
+1. `org.bouncycastle:bcjmail-lts8on`  -> [`2.73.0`, `2.73.1`, `2.73.2`, `2.73.3`, `2.73.4`, `2.73.5`]
 1. `org.bouncycastle:bcmail-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcmail-fips`  -> [`1.0.2`, `1.0.3`]
 1. `org.bouncycastle:bcmail-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bcmail-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcmail-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 
 ## org.apache.commons.codec
 
@@ -3837,8 +3837,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## jakarta.inject
 
 1. `com.fujitsu.launcher:launcher`  -> [`5.0`]
-1. `com.google.gerrit:gerrit-extension-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`]
-1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`]
+1. `com.google.gerrit:gerrit-extension-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`]
+1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`]
 1. `io.avaje:jakarta.inject-api`  -> [`1.0`]
 1. `io.github.avistotelecom:jpa-search`  -> [`0.0.1-jpa3`, `0.0.2-jpa3`]
 1. `io.github.jbock-java:dapper-compiler`  -> [`0.92`, `0.94`]
@@ -4176,7 +4176,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.googlecode.javaewah:JavaEWAH` 🧩 -> [`1.2.3`]
 1. `io.kestra.plugin:plugin-git`  -> [`0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`]
 1. `org.liquibase.ext:liquibase-git-resource`  -> [`0.1.2`, `0.1.3`]
-1. `org.meyvn:meyvn`  -> [`1.7.0`, `1.7.1`]
+1. `org.meyvn:meyvn`  -> [`1.7.0`, `1.7.1`, `1.7.2`]
 
 ## com.jwebmp.guicedpersistence.wildfly
 
@@ -4238,7 +4238,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `commons-cli:commons-cli`  -> [`1.6.0`]
 1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`]
-1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`]
+1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`]
 1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`]
 
@@ -4264,7 +4264,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.liferay:com.liferay.sync.service`  -> [`5.0.35`, `5.0.40`]
 1. `org.bouncycastle:bcutil-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bcutil-jdk15on`  -> [`1.69`, `1.70`]
-1. `org.bouncycastle:bcutil-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bcutil-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 
 ## org.joda.money
 
@@ -5620,7 +5620,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `org.bouncycastle:bctls-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
 1. `org.bouncycastle:bctls-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
-1. `org.bouncycastle:bctls-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`]
+1. `org.bouncycastle:bctls-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 
 ## org.bytedeco.ffmpeg
 
