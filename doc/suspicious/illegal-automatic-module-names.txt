@@ -173,8 +173,8 @@ com.github.triceo.robozonky:robozonky-strategy-natural:4.0.0-beta-5 -> com.githu
 com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
-com.hcl.domino:domino-jnx-lsxbeshim:1.39.1 -> domino-jnx-lsxbeshim
-com.hcl.domino:jnx-example-graalvm-native:1.39.1 -> jnx-example-graalvm-native
+com.hcl.domino:domino-jnx-lsxbeshim:1.40.0 -> domino-jnx-lsxbeshim
+com.hcl.domino:jnx-example-graalvm-native:1.40.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.helger:en16931-cii2ubl:2.2.1 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -366,7 +366,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
-org.apache.geronimo.arthur:integration-test:1.0.8 -> org.apache.geronimo.arthur.integration-test
+org.apache.geronimo.arthur:integration-test:1.0.9 -> org.apache.geronimo.arthur.integration-test
 org.apache.geronimo.specs:geronimo-activation_2.0_spec:1.0.0 -> geronimo-activation_2.0_spec
 org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.0-M1 -> geronimo-mail_2.1_spec
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
