@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x315
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x205
-1. `org.slf4j` x152
+1. `org.slf4j` x154
 1. `kotlin.stdlib` x131
 1. `net.bytebuddy` x105
 1. `org.bouncycastle.provider` x104
@@ -719,7 +719,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonarsource.sonarlint.ls:sonarlint-language-server`  -> [`2.5.0.48102`, `2.6.0.50460`, `2.7.0.50736`, `2.8.0.51872`, `2.8.1.52024`, `2.9.0.53237`, `2.10.0.54116`, `2.11.0.54859`, `2.12.0.56684`, `2.13.0.58909`, `2.14.0.60896`, `2.15.0.63323`, `2.15.1.63583`, `2.16.0.65434`, `2.17.0.67729`, `2.18.0.70385`, `2.19.0.72769`, `2.19.1.73109`, `2.20.0.73182`, `2.21.0.73309`, `2.22.0.73435`, `3.0.0.74514`, `3.0.1.74527`, `3.1.0.74576`, `3.2.0.74655`, `3.3.0.74768`, `3.4.2.75046`]
 1. `org.sonarsource.sonarqube:sonar-plugin-api`  -> [`8.3.0.34182`, `8.3.1.34397`, `8.4.0.35506`, `8.4.1.35646`, `8.4.2.36762`, `8.5.0.37579`, `8.5.1.38104`, `8.6.0.39681`, `8.6.1.40680`, `8.7.0.41497`, `8.7.1.42226`, `8.8.0.42792`, `8.9.0.43852`, `8.9.1.44547`, `9.0.0.45539`, `9.0.1.46107`, `9.1.0.47736`, `9.2.0.49796`, `9.2.0.49834`, `9.2.1.49989`, `9.2.2.50622`, `9.2.3.50713`, `9.2.4.50792`, `9.3.0.51899`, `9.4.0.54424`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.0`, `2.5.1`]
-1. `org.testng.testng-remote:testng-remote`  -> [`1.5.1`, `1.5.2`, `1.6.0`]
+1. `org.testng.testng-remote:testng-remote`  -> [`1.5.1`, `1.5.2`, `1.6.0`, `1.7.0`]
 1. `org.wso2.cloud.secrets:cloud-cipher-tool`  -> [`1.0.0`]
 1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`2.0.0-RC1`, `2.0.0-RC2`, `2.0.0-RC4`, `2.0.0-RC5`, `2.0.0-RC6`, `2.0.0-RC7`, `2.0.0-RC8`, `2.0.0-RC9`, `2.0.0-RC10`, `2.0.0-RC11`, `2.0.0-RC12`, `2.0.0`, `2.0.1`, `2.0.2`, `2.2.0`]
 1. `run.mone:log-agent-server`  -> [`1.4.0-jdk21`]
@@ -1190,7 +1190,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.javaoperatorsdk:mysql-schema-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.1`, `1.6.2`, `1.7.0`, `1.7.1`]
 1. `io.javaoperatorsdk:tomcat-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`]
 1. `io.javaoperatorsdk:webserver-sample`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.1`, `1.6.2`, `1.7.0`, `1.7.1`]
-1. `io.keploy:keploy-sdk`  -> [`1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.3`, `1.3.4`, `1.3.7`, `1.3.8`, `1.3.9`]
+1. `io.keploy:keploy-sdk`  -> [`1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.3`, `1.3.4`, `1.3.7`, `1.3.8`, `1.3.9`, `1.4.1`]
 1. `io.keploy:test-module`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`]
 1. `io.kestra.plugin:plugin-jdbc-pinot`  -> [`0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`]
 1. `io.michaelrocks.pablo:pablo`  -> [`1.1.0`, `1.1.1`, `1.1.3`, `1.2.0`, `1.3.0`, `1.3.1`]
@@ -1521,7 +1521,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 152 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 154 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`]
@@ -1555,6 +1555,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.danielflower.apprunner:app-runner`  -> [`2.3.7`, `2.4.6`]
 1. `com.diffusiondata.diffusion:diffusion-android-client`  -> [`6.10.0`, `6.10.1`, `6.10.2`, `6.10.3`]
 1. `com.diffusiondata.diffusion:diffusion-client-with-dependencies`  -> [`6.10.0`, `6.10.1`, `6.10.2`, `6.10.3`]
+1. `com.dtstep.lighthouse:lighthouse-client`  -> [`2.0.0`, `2.1.3`]
+1. `com.dtstep.lighthouse:lighthouse-shaded-client`  -> [`2.0.0`, `2.1.3`]
 1. `com.fathzer:jdbbackup-cli`  -> [`1.0.0`]
 1. `com.fathzer:jdbbackup-docker`  -> [`1.0.0`]
 1. `com.fizzed:blaze-lite`  -> [`1.2.0`, `1.2.1`, `1.3.0`, `1.4.0`, `1.5.0`, `1.5.1`, `1.5.2`]
@@ -1870,7 +1872,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.rysefoxx.hologram.plugin:MineQuestHologram-Plugin`  -> [`1.8`]
 1. `io.github.rysefoxx.npc.plugin:MineQuestNPC-Plugin`  -> [`1.4.1`]
 1. `io.kamon:kanela-agent`  -> [`1.0.0-M1`, `1.0.0-M2`, `1.0.0-M3`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
-1. `io.keploy:agent`  -> [`1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.3`, `1.3.4`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`, `1.4.0`]
+1. `io.keploy:agent`  -> [`1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.3`, `1.3.4`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`, `1.4.0`, `1.4.1`]
 1. `io.openk9:io.openk9.reactor.agent`  -> [`0.0.1-SNAPSHOTS`]
 1. `io.opentracing.contrib.specialagent:opentracing-specialagent`  -> [`0.9.0`, `1.0.1`, `1.0.2`]
 1. `io.projectreactor.tools:blockhound`  -> [`1.0.0.RELEASE`]
@@ -3249,7 +3251,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `co.elastic.apm:apm-agent-attach`  -> [`1.4.0`, `1.5.0`, `1.6.0`, `1.6.1`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.10.1`, `1.11.0`, `1.12.0`, `1.13.0`, `1.14.0`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0.RC1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`, `1.27.0`, `1.27.1`, `1.28.0`, `1.28.1`, `1.28.2`, `1.28.3`, `1.28.4`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.33.0`, `1.34.0`, `1.34.1`, `1.35.0`, `1.36.0`, `1.37.0`, `1.38.0`, `1.39.0`, `1.40.0`, `1.41.0`, `1.41.1`, `1.42.0`, `1.43.0`, `1.44.0`, `1.45.0`, `1.46.0`, `1.47.0`, `1.47.1`, `1.48.0`, `1.48.1`, `1.49.0`]
 1. `com.amazonaws:aws-xray-auto-instrumentation-agent-bootstrap`  -> [`2.4.0-beta`, `2.4.0-beta.1`]
 1. `com.ea.async:ea-async`  -> [`1.2.3`]
-1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`, `3.5.0-rc0`, `3.5.0-rc1`, `3.5.0-rc2`, `3.5.0-rc4`, `3.5.0`, `3.5.0.1`, `3.5.1`, `3.6.0-rc0`, `3.6.0-rc1`, `3.6.0-rc2`, `3.6.0-rc3`, `3.6.0-rc4`, `3.6.0-rc5`, `3.6.0`, `3.6.1`, `3.7.0-rc0`, `3.7.0-rc1`, `3.7.0-rc2`, `3.7.0-rc3`, `3.7.0-rc4`, `3.7.0-rc5`, `3.7.0`, `3.7.1`, `3.7.2`, `3.8.0-rc0`, `3.8.0-rc1`, `3.8.0-rc2`, `3.8.0-rc3`, `3.8.0-rc4`, `3.8.0-rc5`, `3.8.0`, `3.8.1`, `3.8.2`, `3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`]
+1. `com.google.gerrit:gerrit-acceptance-framework`  -> [`3.1.3`, `3.1.4`, `3.2.0-rc0`, `3.2.0-rc1`, `3.2.0-rc2`, `3.2.0-rc3`, `3.2.0-rc4`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0-rc0`, `3.3.0-rc1`, `3.3.0-rc2`, `3.3.0-rc3`, `3.3.0-rc4`, `3.3.0-rc5`, `3.3.0-rc6`, `3.3.0-rc7`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.4.0-rc0`, `3.4.0-rc1`, `3.4.0-rc2`, `3.4.0-rc3`, `3.4.0-rc4`, `3.4.0-rc5`, `3.4.0`, `3.4.1`, `3.5.0-rc0`, `3.5.0-rc1`, `3.5.0-rc2`, `3.5.0-rc4`, `3.5.0`, `3.5.0.1`, `3.5.1`, `3.6.0-rc0`, `3.6.0-rc1`, `3.6.0-rc2`, `3.6.0-rc3`, `3.6.0-rc4`, `3.6.0-rc5`, `3.6.0`, `3.6.1`, `3.7.0-rc0`, `3.7.0-rc1`, `3.7.0-rc2`, `3.7.0-rc3`, `3.7.0-rc4`, `3.7.0-rc5`, `3.7.0`, `3.7.1`, `3.7.2`, `3.8.0-rc0`, `3.8.0-rc1`, `3.8.0-rc2`, `3.8.0-rc3`, `3.8.0-rc4`, `3.8.0-rc5`, `3.8.0`, `3.8.1`, `3.8.2`, `3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`, `3.10.0-rc2`]
 1. `com.idea-aedi:component-dump-class`  -> [`1.2.0`, `1.3.0`, `1.4.0`, `1.6.0`, `1.8.0`, `1.9.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`]
 1. `com.nerdvision:dynamic-load`  -> [`3.0.0-rc1`, `3.0.0-rc2`, `3.0.0-rc3`, `3.0.0`, `3.0.1`, `3.0.2`]
 1. `com.nerdvision:example`  -> [`2.0.1`, `2.0.2`, `2.0.4`, `2.1.0`, `2.2.0`]
@@ -3849,8 +3851,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## jakarta.inject
 
 1. `com.fujitsu.launcher:launcher`  -> [`5.0`]
-1. `com.google.gerrit:gerrit-extension-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`]
-1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`]
+1. `com.google.gerrit:gerrit-extension-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`, `3.10.0-rc2`]
+1. `com.google.gerrit:gerrit-plugin-api`  -> [`3.9.0-rc0`, `3.9.0-rc1`, `3.9.0-rc2`, `3.9.0-rc3`, `3.9.0-rc4`, `3.9.0-rc5`, `3.9.0`, `3.9.1`, `3.9.2`, `3.10.0-rc0`, `3.10.0-rc1`, `3.10.0-rc2`]
 1. `io.avaje:jakarta.inject-api`  -> [`1.0`]
 1. `io.github.avistotelecom:jpa-search`  -> [`0.0.1-jpa3`, `0.0.2-jpa3`]
 1. `io.github.jbock-java:dapper-compiler`  -> [`0.92`, `0.94`]
@@ -5033,7 +5035,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.mariadb.jdbc
 
-1. `io.zipkin.dependencies:zipkin-dependencies`  -> [`3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`]
+1. `io.zipkin.dependencies:zipkin-dependencies`  -> [`3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`]
 1. `org.mariadb.jdbc:mariadb-java-client` 🧩 -> [`3.0.2-rc`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.0.7`, `3.0.8`, `3.0.9`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.2.0`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`]
 1. `org.opencastproject:opencast-db`  -> [`12.0`, `12.1`, `12.3`, `12.5`, `13.0`, `13.1`, `13.2`, `13.4`, `13.6`, `13.7`, `14.0`, `14.1`, `14.2`, `14.3`, `14.5`, `14.6`, `14.7`, `15.1`, `15.2`, `15.3`]
 1. `run.mone:log-stream`  -> [`1.4.0-jdk21`]
