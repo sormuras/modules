@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x318
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x206
-1. `org.slf4j` x154
+1. `org.slf4j` x155
 1. `kotlin.stdlib` x131
 1. `net.bytebuddy` x106
 1. `org.bouncycastle.provider` x104
@@ -1033,7 +1033,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.openidentityplatform.commons.json-schema:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`]
 1. `org.openidentityplatform.opendj:opendj-openidm-account-change-notification-handler`  -> [`4.5.2`, `4.5.3`, `4.5.4`, `4.5.5`, `4.5.6`, `4.5.7`, `4.5.8`, `4.5.9`, `4.6.1`, `4.6.2`]
 1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`]
-1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`]
+1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`]
 1. `org.projectnessie.nessie:nessie-versioned-persist-bench`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`]
 1. `org.projectnessie:nessie-content-generator`  -> [`0.14.0`, `0.15.0`, `0.15.1`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`, `0.20.1`, `0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`, `0.23.0`, `0.23.1`, `0.24.0`, `0.25.0`, `0.26.0`, `0.27.0`, `0.28.0`, `0.29.0`, `0.30.0`, `0.40.2`, `0.40.3`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.46.2`, `0.46.3`, `0.46.5`, `0.46.7`, `0.47.0`, `0.47.1`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`]
 1. `org.projectnessie:nessie-gc-tool`  -> [`0.44.0`, `0.45.0`, `0.46.0`, `0.46.2`, `0.46.3`, `0.46.5`, `0.46.7`, `0.47.0`, `0.47.1`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`]
@@ -1528,7 +1528,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 154 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 155 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`]
@@ -1601,6 +1601,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.ci-cmg.wod:wod-ascii-to-parquet-spark`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`]
 1. `io.github.danieleperuzzi:enhanced-functions`  -> [`1.3.1`]
 1. `io.github.davidwhitlock.cs410J:grader`  -> [`2023.0.0`, `2023.1.0`, `2024.0.0`, `2024.0.1`]
+1. `io.github.davidwhitlock.joy:grader`  -> [`1.0.0`]
 1. `io.github.hungvm90:redis-lock`  -> [`1.0.1`]
 1. `io.github.jdiscordbots:nightdream-logging`  -> [`1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`]
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.23`, `1.3.24`, `1.3.25`]
@@ -3220,7 +3221,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.inverno.tool:inverno-grpc-protoc-plugin`  -> [`1.5.0`]
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.7.0.CR1`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.8.0.CR1`, `3.8.0`, `3.8.1`, `3.9.3`, `3.10.0.CR1`]
 1. `io.swagger.parser.v3:swagger-parser-cli`  -> [`2.1.20`, `2.1.21`, `2.1.22`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `nl.basjes.parse.httpdlog:httpdlog-parser`  -> [`5.11.0`]
 1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`]
 1. `org.apache.storm:flux-core`  -> [`2.6.2`]
@@ -3294,8 +3295,8 @@ For example, at least 20 artifacts on Maven Central claim to be the module `kotl
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.reflect;`.
 
 1. `app.cash.backfila:service-lib`  -> [`0.1.3-20210127.1838-76ab4fc`]
-1. `com.felipebz.zpa:sonar-zpa-plugin`  -> [`3.3.0`, `3.3.1`]
-1. `com.felipebz.zpa:zpa-toolkit`  -> [`3.3.0`, `3.3.1`]
+1. `com.felipebz.zpa:sonar-zpa-plugin`  -> [`3.3.0`, `3.3.1`, `3.4.0`]
+1. `com.felipebz.zpa:zpa-toolkit`  -> [`3.3.0`, `3.3.1`, `3.4.0`]
 1. `com.google.devtools.ksp:symbol-processing-aa-embeddable`  -> [`2.0.0-Beta4-1.0.18`, `2.0.0-Beta4-1.0.19`, `2.0.0-Beta5-1.0.19`, `2.0.0-Beta5-1.0.20`, `2.0.0-RC1-1.0.20`]
 1. `com.google.devtools.ksp:symbol-processing-aa`  -> [`2.0.0-Beta4-1.0.18`, `2.0.0-Beta4-1.0.19`, `2.0.0-Beta5-1.0.19`, `2.0.0-Beta5-1.0.20`, `2.0.0-RC1-1.0.20`]
 1. `io.github.c-fraser:moka-dsl`  -> [`0.2.14`]
@@ -3472,7 +3473,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-runners-flink-1.14-job-server`  -> [`2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`]
 1. `org.apache.beam:beam-runners-flink-1.15-job-server`  -> [`2.40.0`, `2.41.0`]
 1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`]
-1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`]
+1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.6.0`, `2.6.1`, `2.6.2`]
 
 ## com.sun.xml.bind
