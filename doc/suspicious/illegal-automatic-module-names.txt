@@ -24,8 +24,8 @@ build.buf:connect-kotlin-square-wire-ext:0.0.2-preview -> wire-extensions
 build.buf:connect-kotlin-wire-ext:v0.0.0-preview -> wire-extensions
 build.buf:protoc-gen-connect-kotlin:0.1.10 -> protoc-gen-connect-kotlin
 ch.poole.geo.pmtiles-reader:Reader:0.3.6 -> ch.poole.geo.pmtiles-reader
-ch.sbb.scion:rcp-microfrontend:0.0.5 -> rcp-microfrontend
-ch.sbb.scion:rcp-workbench:0.0.5 -> rcp-workbench
+ch.sbb.scion:rcp-microfrontend:0.0.6 -> rcp-microfrontend
+ch.sbb.scion:rcp-workbench:0.0.6 -> rcp-workbench
 codes.rafael.concurrent-trees:concurrent-trees:2.6.2 -> codes.rafael.concurrent-trees.concurrent-trees
 com.antgroup.tugraph:tugraph-rpc-driver:0.1.0 -> -
 com.azure:tracing-opentelemetry:1.0.0-preview.2 -> -
@@ -96,7 +96,7 @@ com.github.bbottema:clustered-object-pool:2.0.2 -> clustered-object-pool
 com.github.bbottema:generic-object-pool:2.0.1 -> generic-object-pool
 com.github.bbottema:java-reflection:4.1.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:4.0.0 -> java-socks-proxy-server
-com.github.bbottema:jetbrains-runtime-annotations:1.0.1 -> jetbrains-runtime-annotations
+com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
