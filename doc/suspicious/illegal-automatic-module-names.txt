@@ -221,13 +221,13 @@ com.squareup.wire:wire-swift-generator:5.0.0-alpha01 -> wire-swift-generator
 com.squareup.wire:wire-test-utils:4.0.0-alpha.7 -> wire-test-utils
 com.squareup.wire:wire-tests:3.0.0-alpha03 -> wire-tests
 com.squareup.wiregrpcserver:server-generator:1.0.0-alpha03 -> server-generator
-com.synopsys.integration:blackduck-common:66.2.17 -> com.synopsys.integration.blackduck-common
+com.synopsys.integration:blackduck-common:66.2.18 -> com.synopsys.integration.blackduck-common
 com.synopsys.integration:blackduck-common-api:2023.10.0.3 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
 com.synopsys.integration:hub-imageinspector-lib:14.3.0 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:4.1.1 -> com.synopsys.integration.int-jira-common
-com.synopsys.integration:integration-bdio:26.0.11 -> com.synopsys.integration.integration-bdio
+com.synopsys.integration:integration-bdio:26.0.12 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:26.1.1 -> com.synopsys.integration.integration-common
 com.synopsys.integration:integration-reporting:2.0.3 -> com.synopsys.integration.integration-reporting
 com.synopsys.integration:issuetracker-common:0.0.5 -> com.synopsys.integration.issuetracker-common
@@ -684,7 +684,7 @@ org.jbpm:jbpm-executor-ejb:7.74.1.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
-org.jmonkeyengine:jme3-android-native:3.7.0-alpha3.1 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.7.0-beta1 -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:7.1.1 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:7.1.1 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
