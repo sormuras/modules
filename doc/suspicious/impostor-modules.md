@@ -5,11 +5,11 @@ Some well known modules that were packaged as Maven artifacts by their authors, 
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
 1. `com.fasterxml.jackson.core` x372
-1. `com.google.gson` x334
+1. `com.google.gson` x335
 1. `com.fasterxml.jackson.databind` x327
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x208
-1. `org.slf4j` x158
+1. `org.slf4j` x159
 1. `kotlin.stdlib` x131
 1. `net.bytebuddy` x106
 1. `org.bouncycastle.provider` x104
@@ -23,9 +23,9 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.yaml.snakeyaml` x68
 1. `org.objectweb.asm` x63
 1. `com.fasterxml.jackson.dataformat.yaml` x55
+1. `lombok` x51
 1. `org.jetbrains.annotations` x51
 1. `com.zaxxer.hikari` x50
-1. `lombok` x50
 1. `com.fasterxml.jackson.datatype.jdk8` x34
 1. `com.fasterxml.jackson.jaxrs.json` x34
 1. `org.apache.commons.io` x34
@@ -411,7 +411,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 334 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 335 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.bareun.tagger:bareun`  -> [`1.1.40`, `1.2.0`, `1.3.0`, `1.3.9.1`]
@@ -570,6 +570,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.hungvm90:gsonjavatime`  -> [`1.0.1`, `1.0.3`, `1.0.4`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.2`, `0.1.0`, `0.3.0`]
 1. `io.github.kolesnikovm:jmeter-prometheus-listener`  -> [`2.6.0`, `2.6.1`, `2.6.2`, `2.6.3`]
+1. `io.github.linyimin0812:spring-profiler-extension`  -> [`3.1.1`]
 1. `io.github.marcperez06:link-checker`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`]
@@ -1438,7 +1439,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
 1. `io.github.kituin:ChatImageCode`  -> [`0.6.0`]
 1. `io.github.linyimin0812:java-profiler-core`  -> [`1.0.13`, `1.1.2`, `1.2.0`]
-1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.1.0`]
+1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.1.0`, `3.1.1`]
 1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`, `0.7-beta`, `1.0`, `1.1`, `1.2`]
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`]
 1. `io.github.portlek:patty`  -> [`1.1`]
@@ -1544,7 +1545,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 158 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 159 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`]
@@ -1622,6 +1623,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jdiscordbots:nightdream-logging`  -> [`1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`]
 1. `io.github.lxgaming:reconstruct-cli`  -> [`1.3.23`, `1.3.24`, `1.3.25`]
 1. `io.github.lxgaming:reconstruct-common`  -> [`1.3.23`, `1.3.24`, `1.3.25`]
+1. `io.github.mmbishop:gwt-test`  -> [`1.2.1`]
 1. `io.github.multicatch.bmp:browsermob-dist`  -> [`2.2.0`]
 1. `io.github.multicatch:browsermob-dist`  -> [`2.2.1`]
 1. `io.github.nickgibbon:jackson-json-reference-cli`  -> [`0.3.4`, `0.3.5`, `0.3.6`]
@@ -1953,7 +1955,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.thepavel:jpql-builder`  -> [`0.4.0`]
 1. `org.treblereel.gwt.gwtproject.resources:gwt-resources-processor`  -> [`202203291`]
 1. `pl.morgwai.base:servlet-scopes`  -> [`4.2-javax`, `5.0-javax`, `6.0-javax`, `6.1-javax`]
-1. `video.bug:unlogged-sdk`  -> [`0.0.27`, `0.0.29`, `0.1.1`, `0.1.2`, `0.1.46`, `0.1.47`, `0.1.48`, `0.1.49`, `0.1.50`, `0.1.51`, `0.1.52`, `0.1.53`, `0.1.54`, `0.1.55`, `0.1.56`, `0.1.57`, `0.1.58`, `0.1.59`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.3.9`, `0.3.10`, `0.3.10-jakarta-exlucded`, `0.3.11`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.7`, `0.4.8`, `0.4.10`, `0.4.11`, `0.4.12`, `0.4.13`, `0.4.14`]
+1. `video.bug:unlogged-sdk`  -> [`0.0.27`, `0.0.29`, `0.1.1`, `0.1.2`, `0.1.46`, `0.1.47`, `0.1.48`, `0.1.49`, `0.1.50`, `0.1.51`, `0.1.52`, `0.1.53`, `0.1.54`, `0.1.55`, `0.1.56`, `0.1.57`, `0.1.58`, `0.1.59`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.3.9`, `0.3.10`, `0.3.10-jakarta-exlucded`, `0.3.11`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.7`, `0.4.8`, `0.4.10`, `0.4.11`, `0.4.12`, `0.4.13`, `0.4.14`, `0.4.17`]
 
 ## org.bouncycastle.provider
 
@@ -2870,6 +2872,63 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kill-bill.billing.plugin.java:catalog-test-plugin`  -> [`0.5.1`]
 1. `org.sonarsource.text:sonar-text-plugin`  -> [`2.2.0.1571`, `2.3.0.1632`, `2.4.0.2120`]
 
+## lombok
+
+For example, at least 51 artifacts on Maven Central claim to be the module `lombok`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires lombok;`.
+
+1. `cc.niushuai.project:steam-token`  -> [`0.0.1`]
+1. `cn.itlym.shoulder:lombok`  -> [`0.1`]
+1. `cn.itlym:shoulder-lombok`  -> [`0.0.1`]
+1. `co.privacyone.sdk:keychain`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
+1. `co.privacyone.sdk:ldar`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
+1. `co.privacyone.sdk:restapi`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
+1. `com.github.ramalapure:filesystem`  -> [`1.0`]
+1. `com.infobip:jira-version-generator`  -> [`2.0.1`]
+1. `com.neko233:forward-engineering`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`]
+1. `com.neko233:neko233-action-chain`  -> [`0.0.1`, `0.0.3`]
+1. `com.neko233:neko233-utils-all`  -> [`0.0.1`, `0.0.3`]
+1. `com.neko233:sql-light-rail`  -> [`0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.1.0`, `0.1.1`, `0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`]
+1. `com.neko233:sqlContext-light-rail`  -> [`0.2.0`]
+1. `com.neko233:sqlStatement-light-rail`  -> [`0.0.3`]
+1. `com.qualizeal:post-it`  -> [`1.0.0`, `1.1.0`]
+1. `com.qualizeal:suite-generator`  -> [`1.0.0`, `1.0.1`]
+1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
+1. `dev.bodewig.autoserializable:autoserializable`  -> [`1.18.32-1`]
+1. `es.jfml:JFML-Core`  -> [`1.3.1`]
+1. `es.jfml:java-core`  -> [`1.3.0`]
+1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`, `0.10.0-1rc3`, `0.10.0-1rc4`, `0.10.0-1rc5`, `0.10.0-1rc6`, `0.10.0-1`, `0.10.0-2rc3`, `0.10.0-2`, `0.10.0-3rc2`, `0.10.0-3rc3`, `0.10.0-3rc4`, `0.10.0-3rc6`, `0.10.0-3rc7`, `0.10.0-3rc8`, `0.10.0-3rc9`, `0.10.0-3rc10`, `0.10.0-3rc11`, `0.10.0-3`, `0.10.0-4rc1`, `0.10.0-4rc2`, `0.10.0-4rc3`, `0.10.0-4`, `0.10.0-5rc0`, `0.10.0-5`, `0.10.0-6rc0`, `0.10.0-6rc2`, `0.10.0-6`, `0.10.0-7rc1`, `0.10.0-7rc2`, `0.10.0-7`, `0.10.1rc1`, `0.10.1rc2`, `0.10.1rc3`, `0.10.1rc4`, `0.10.1`, `0.10.1-1rc1`, `0.10.1-1rc2`, `0.10.1-1rc3`, `0.10.1-1`, `0.10.1-2rc1`, `0.10.1-2rc2`, `0.10.1-2rc3`, `0.10.1-2rc4`, `0.10.1-2rc5`, `0.10.1-2rc6`, `0.10.1-2rc7`, `0.10.1-2rc8`, `0.10.1-2rc9`, `0.10.1-2rc10`, `0.10.1-2rc12`, `0.10.2`, `0.10.2-1rc1`, `0.10.2-1`, `0.10.2-2rc1`, `0.10.2-2rc2`, `0.10.2-2rc3`, `0.10.2-2`, `0.10.2-3rc1`, `0.10.2-3rc2`, `0.10.2-3rc3`, `0.10.2-3rc4`, `0.10.2-3rc5`, `0.10.2-3rc6`, `0.10.2-3rc7`, `0.10.2-3rc8`, `0.10.2-3rc9`, `0.10.2-3`, `0.10.2-4rc1`, `0.10.2-4rc2`, `0.10.2-4rc3`, `0.10.2-4rc4`, `0.10.2-4rc6`, `0.10.3rc0`, `0.10.3`, `0.10.3-1rc1`, `0.10.3-1rc2`, `0.10.3-1rc3`, `0.10.3-1`, `0.10.3-2rc2`, `0.10.3-2rc3`, `0.10.3-2rc4`, `0.10.3-2rc5`, `0.10.3-2`, `0.10.4rc1`, `0.10.4rc2`, `0.10.4`, `0.10.4-1rc1`, `0.10.4-1`, `0.10.4-2rc1`, `0.10.4-2rc2`, `0.10.4-2`, `0.10.4-3rc1`, `0.10.4-3`, `0.10.4-4rc1`, `0.10.5`, `0.10.5-1`, `0.10.5-2rc1`, `0.10.5-2rc2`, `0.10.5-2rc3`, `0.10.5-2rc5`, `0.10.5-2rc6`, `0.10.5-2rc7`, `0.10.5-2rc8`, `0.10.5-3rc1`, `0.10.5-3`, `0.10.5-4rc1`, `0.10.5-4`, `0.10.5-5rc1`, `0.10.5-5`, `0.10.5-6rc1`, `0.10.5-6rc2`, `0.10.5-6rc3`, `0.10.5-6rc4`]
+1. `io.github.devlibx.easy:ratelimit`  -> [`0.0.115`, `0.0.116`, `0.0.117`, `0.0.118`, `0.0.119`, `0.0.120`, `0.0.121`, `0.0.122`, `0.0.123`, `0.0.124`, `0.0.125`, `0.0.126`, `2.java-17.1`, `3.java-17.1`]
+1. `io.github.harvies.charon:charon-socks-proxy-server`  -> [`0.0.7`, `0.0.8`]
+1. `io.github.interestinglab.waterdrop:plugin-flink-sink-elasticsearch`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-phoenix-core`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-sink-clickhouse`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-sink-elasticsearch`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-sink-phoenix`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-source-elasticsearch`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:plugin-spark-source-phoenix`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:waterdrop-apis`  -> [`2.0.0`, `2.0.2`]
+1. `io.github.interestinglab.waterdrop:waterdrop-common`  -> [`2.0.0`, `2.0.2`]
+1. `io.github.interestinglab.waterdrop:waterdrop-core`  -> [`2.0.2`]
+1. `io.github.interestinglab.waterdrop:waterdrop-flink-api`  -> [`2.0.0`, `2.0.2`]
+1. `io.github.interestinglab.waterdrop:waterdrop-spark-api`  -> [`2.0.0`, `2.0.2`]
+1. `io.github.keonwangjw:aimp-iot`  -> [`1.0.0`]
+1. `io.github.liudaolunboluo.tracer:tracer-agent`  -> [`1.0.0`, `1.0.1`, `1.1.0`]
+1. `io.github.marquezproject:marquez-api`  -> [`0.18.0`, `0.19.0`, `0.19.1`, `0.20.0`]
+1. `io.github.marquezproject:marquez-spark`  -> [`0.18.0`, `0.19.0`, `0.19.1`, `0.20.0`]
+1. `io.github.mqwerm98:munzi-log`  -> [`0.0.1`]
+1. `io.github.mqwerm98:munzi-scheduler`  -> [`0.0.1`]
+1. `io.github.sudharsan-selvaraj:selenium-audio-logger`  -> [`1.0.0`]
+1. `io.mateu:lombok`  -> [`1.18.11.97`]
+1. `io.mosip.esignet.mock:mock-esignet-integration-impl`  -> [`0.9.1`, `0.9.2`]
+1. `io.mosip.esignet.sunbirdrc:sunbird-rc-esignet-integration-impl`  -> [`0.1.0`]
+1. `io.pravega:pravega-connectors-hadoop`  -> [`0.5.0`]
+1. `net.dryuf:dryuf-cmdline`  -> [`1.0.0`]
+1. `org.homio:addon-parent`  -> [`1.2.2`, `1.2.3`, `1.2.4`]
+1. `org.projectlombok:lombok` 🧩 -> [`1.18.2`, `1.18.4`, `1.18.6`, `1.18.8`, `1.18.10`, `1.18.12`, `1.18.14`, `1.18.16`, `1.18.18`, `1.18.20`, `1.18.22`, `1.18.24`, `1.18.26`, `1.18.28`, `1.18.30`, `1.18.32`]
+1. `org.thermoweb.picocli:picocli-config-sqlite`  -> [`0.1`, `0.2`]
+1. `org.thermoweb.picocli:picocli-config`  -> [`0.1`, `0.2`]
+
 ## org.jetbrains.annotations
 
 For example, at least 51 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -2982,62 +3041,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `tr.com.infumia:InfumiaVelocity`  -> [`1.7.7`]
 1. `tr.com.infumia:KekoUtil`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `5.0`, `5.1`, `5.2`, `5.3`, `5.4`, `5.5`, `5.6`, `5.7`, `5.8`, `6.0`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `6.7`, `6.8`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `7.4.1`, `7.5`, `7.6`, `7.7`]
 1. `tr.com.infumia:db`  -> [`1.0`, `1.1`, `1.3`, `1.4`]
-
-## lombok
-
-For example, at least 50 artifacts on Maven Central claim to be the module `lombok`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires lombok;`.
-
-1. `cc.niushuai.project:steam-token`  -> [`0.0.1`]
-1. `cn.itlym.shoulder:lombok`  -> [`0.1`]
-1. `cn.itlym:shoulder-lombok`  -> [`0.0.1`]
-1. `co.privacyone.sdk:keychain`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
-1. `co.privacyone.sdk:ldar`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
-1. `co.privacyone.sdk:restapi`  -> [`1.6.7`, `1.6.8`, `1.6.9`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0`, `2.2.0`, `2.2.1`]
-1. `com.github.ramalapure:filesystem`  -> [`1.0`]
-1. `com.infobip:jira-version-generator`  -> [`2.0.1`]
-1. `com.neko233:forward-engineering`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`]
-1. `com.neko233:neko233-action-chain`  -> [`0.0.1`, `0.0.3`]
-1. `com.neko233:neko233-utils-all`  -> [`0.0.1`, `0.0.3`]
-1. `com.neko233:sql-light-rail`  -> [`0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`, `0.0.8`, `0.0.9`, `0.1.0`, `0.1.1`, `0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`]
-1. `com.neko233:sqlContext-light-rail`  -> [`0.2.0`]
-1. `com.neko233:sqlStatement-light-rail`  -> [`0.0.3`]
-1. `com.qualizeal:post-it`  -> [`1.0.0`, `1.1.0`]
-1. `com.qualizeal:suite-generator`  -> [`1.0.0`, `1.0.1`]
-1. `com.yubico:java-yubihsm`  -> [`0.1.0RC1`]
-1. `es.jfml:JFML-Core`  -> [`1.3.1`]
-1. `es.jfml:java-core`  -> [`1.3.0`]
-1. `io.acryl:datahub-auth-api`  -> [`0.9.3-3rc3`, `0.9.3-3rc4`, `0.9.3-3rc5`, `0.9.3-3rc6`, `0.9.4rc0`, `0.9.4`, `0.9.4-1rc1`, `0.9.4-1rc2`, `0.9.4-1`, `0.9.5`, `0.9.5-1rc0`, `0.9.5-1rc1`, `0.9.5-1rc2`, `0.9.5-1rc4`, `0.9.5-1rc5`, `0.9.5-1rc6`, `0.9.5-1`, `0.9.5-2rc0`, `0.9.5-2`, `0.9.6rc1`, `0.9.6`, `0.9.6-1rc1`, `0.9.6-1rc2`, `0.9.6-1rc3`, `0.9.6-1rc4`, `0.9.6-1rc5`, `0.9.6-1rc6`, `0.9.6-1`, `0.9.6-2rc1`, `0.9.6-2rc2`, `0.9.6-2`, `0.9.6-3rc1`, `0.9.6-3rc2`, `0.9.6-3`, `0.9.6-4rc1`, `0.9.6-4`, `0.9.6-5rc1`, `0.10.0rc1`, `0.10.0rc2`, `0.10.0rc3`, `0.10.0`, `0.10.0-1rc1`, `0.10.0-1rc2`, `0.10.0-1rc3`, `0.10.0-1rc4`, `0.10.0-1rc5`, `0.10.0-1rc6`, `0.10.0-1`, `0.10.0-2rc3`, `0.10.0-2`, `0.10.0-3rc2`, `0.10.0-3rc3`, `0.10.0-3rc4`, `0.10.0-3rc6`, `0.10.0-3rc7`, `0.10.0-3rc8`, `0.10.0-3rc9`, `0.10.0-3rc10`, `0.10.0-3rc11`, `0.10.0-3`, `0.10.0-4rc1`, `0.10.0-4rc2`, `0.10.0-4rc3`, `0.10.0-4`, `0.10.0-5rc0`, `0.10.0-5`, `0.10.0-6rc0`, `0.10.0-6rc2`, `0.10.0-6`, `0.10.0-7rc1`, `0.10.0-7rc2`, `0.10.0-7`, `0.10.1rc1`, `0.10.1rc2`, `0.10.1rc3`, `0.10.1rc4`, `0.10.1`, `0.10.1-1rc1`, `0.10.1-1rc2`, `0.10.1-1rc3`, `0.10.1-1`, `0.10.1-2rc1`, `0.10.1-2rc2`, `0.10.1-2rc3`, `0.10.1-2rc4`, `0.10.1-2rc5`, `0.10.1-2rc6`, `0.10.1-2rc7`, `0.10.1-2rc8`, `0.10.1-2rc9`, `0.10.1-2rc10`, `0.10.1-2rc12`, `0.10.2`, `0.10.2-1rc1`, `0.10.2-1`, `0.10.2-2rc1`, `0.10.2-2rc2`, `0.10.2-2rc3`, `0.10.2-2`, `0.10.2-3rc1`, `0.10.2-3rc2`, `0.10.2-3rc3`, `0.10.2-3rc4`, `0.10.2-3rc5`, `0.10.2-3rc6`, `0.10.2-3rc7`, `0.10.2-3rc8`, `0.10.2-3rc9`, `0.10.2-3`, `0.10.2-4rc1`, `0.10.2-4rc2`, `0.10.2-4rc3`, `0.10.2-4rc4`, `0.10.2-4rc6`, `0.10.3rc0`, `0.10.3`, `0.10.3-1rc1`, `0.10.3-1rc2`, `0.10.3-1rc3`, `0.10.3-1`, `0.10.3-2rc2`, `0.10.3-2rc3`, `0.10.3-2rc4`, `0.10.3-2rc5`, `0.10.3-2`, `0.10.4rc1`, `0.10.4rc2`, `0.10.4`, `0.10.4-1rc1`, `0.10.4-1`, `0.10.4-2rc1`, `0.10.4-2rc2`, `0.10.4-2`, `0.10.4-3rc1`, `0.10.4-3`, `0.10.4-4rc1`, `0.10.5`, `0.10.5-1`, `0.10.5-2rc1`, `0.10.5-2rc2`, `0.10.5-2rc3`, `0.10.5-2rc5`, `0.10.5-2rc6`, `0.10.5-2rc7`, `0.10.5-2rc8`, `0.10.5-3rc1`, `0.10.5-3`, `0.10.5-4rc1`, `0.10.5-4`, `0.10.5-5rc1`, `0.10.5-5`, `0.10.5-6rc1`, `0.10.5-6rc2`, `0.10.5-6rc3`, `0.10.5-6rc4`]
-1. `io.github.devlibx.easy:ratelimit`  -> [`0.0.115`, `0.0.116`, `0.0.117`, `0.0.118`, `0.0.119`, `0.0.120`, `0.0.121`, `0.0.122`, `0.0.123`, `0.0.124`, `0.0.125`, `0.0.126`, `2.java-17.1`, `3.java-17.1`]
-1. `io.github.harvies.charon:charon-socks-proxy-server`  -> [`0.0.7`, `0.0.8`]
-1. `io.github.interestinglab.waterdrop:plugin-flink-sink-elasticsearch`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-phoenix-core`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-sink-clickhouse`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-sink-elasticsearch`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-sink-phoenix`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-source-elasticsearch`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:plugin-spark-source-phoenix`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:waterdrop-apis`  -> [`2.0.0`, `2.0.2`]
-1. `io.github.interestinglab.waterdrop:waterdrop-common`  -> [`2.0.0`, `2.0.2`]
-1. `io.github.interestinglab.waterdrop:waterdrop-core`  -> [`2.0.2`]
-1. `io.github.interestinglab.waterdrop:waterdrop-flink-api`  -> [`2.0.0`, `2.0.2`]
-1. `io.github.interestinglab.waterdrop:waterdrop-spark-api`  -> [`2.0.0`, `2.0.2`]
-1. `io.github.keonwangjw:aimp-iot`  -> [`1.0.0`]
-1. `io.github.liudaolunboluo.tracer:tracer-agent`  -> [`1.0.0`, `1.0.1`, `1.1.0`]
-1. `io.github.marquezproject:marquez-api`  -> [`0.18.0`, `0.19.0`, `0.19.1`, `0.20.0`]
-1. `io.github.marquezproject:marquez-spark`  -> [`0.18.0`, `0.19.0`, `0.19.1`, `0.20.0`]
-1. `io.github.mqwerm98:munzi-log`  -> [`0.0.1`]
-1. `io.github.mqwerm98:munzi-scheduler`  -> [`0.0.1`]
-1. `io.github.sudharsan-selvaraj:selenium-audio-logger`  -> [`1.0.0`]
-1. `io.mateu:lombok`  -> [`1.18.11.97`]
-1. `io.mosip.esignet.mock:mock-esignet-integration-impl`  -> [`0.9.1`, `0.9.2`]
-1. `io.mosip.esignet.sunbirdrc:sunbird-rc-esignet-integration-impl`  -> [`0.1.0`]
-1. `io.pravega:pravega-connectors-hadoop`  -> [`0.5.0`]
-1. `net.dryuf:dryuf-cmdline`  -> [`1.0.0`]
-1. `org.homio:addon-parent`  -> [`1.2.2`, `1.2.3`, `1.2.4`]
-1. `org.projectlombok:lombok` 🧩 -> [`1.18.2`, `1.18.4`, `1.18.6`, `1.18.8`, `1.18.10`, `1.18.12`, `1.18.14`, `1.18.16`, `1.18.18`, `1.18.20`, `1.18.22`, `1.18.24`, `1.18.26`, `1.18.28`, `1.18.30`, `1.18.32`]
-1. `org.thermoweb.picocli:picocli-config-sqlite`  -> [`0.1`, `0.2`]
-1. `org.thermoweb.picocli:picocli-config`  -> [`0.1`, `0.2`]
 
 ## com.fasterxml.jackson.datatype.jdk8
 
@@ -3248,7 +3251,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.inverno.tool:inverno-grpc-protoc-plugin`  -> [`1.5.0`, `1.5.1`]
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.7.0.CR1`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.8.0.CR1`, `3.8.0`, `3.8.1`, `3.9.3`, `3.10.0.CR1`, `3.10.0`]
 1. `io.swagger.parser.v3:swagger-parser-cli`  -> [`2.1.20`, `2.1.21`, `2.1.22`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
 1. `nl.basjes.parse.httpdlog:httpdlog-parser`  -> [`5.11.0`]
 1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`]
 1. `org.apache.storm:flux-core`  -> [`2.6.2`]
@@ -3991,7 +3994,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.rickbusarow.docusync:docusync-gradle-plugin`  -> [`0.1.0`, `0.1.1`]
 1. `com.rickbusarow.doks:doks-gradle-plugin`  -> [`0.1.2`, `0.1.3`, `0.1.4`]
 1. `com.saveourtool.diktat:diktat-gradle-plugin`  -> [`2.0.0`]
-1. `dev.limebeck:revealkt-cli`  -> [`0.1.0`, `0.2.2`, `0.2.3`, `0.2.4`, `0.3.0`]
+1. `dev.limebeck:revealkt-cli`  -> [`0.1.0`, `0.2.2`, `0.2.3`, `0.2.4`, `0.3.0`, `0.3.1`]
 1. `io.github.shreyashsaitwal.rush:processor`  -> [`2.0.0-beta04`, `2.0.0-beta05`, `2.0.0-beta06`, `2.0.0-beta07`, `2.0.0-beta08`, `2.0.0-beta09`, `2.0.0-beta10`, `2.0.0-beta11`, `2.0.0-rc01`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`]
 1. `org.danbrough.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.3`, `1.3.3a`, `1.4.1`, `1.5.0`]
 1. `org.jetbrains.kotlinx:kotlinx-serialization-core-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`, `1.4.1`, `1.5.0-RC`, `1.5.0`, `1.5.1`, `1.6.0-RC`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`]
