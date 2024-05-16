@@ -95,7 +95,7 @@ com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-t
 com.github.bbottema:clustered-object-pool:2.0.3 -> clustered-object-pool
 com.github.bbottema:generic-object-pool:2.1.0 -> generic-object-pool
 com.github.bbottema:java-reflection:4.1.0 -> java-reflection
-com.github.bbottema:java-socks-proxy-server:4.0.0 -> java-socks-proxy-server
+com.github.bbottema:java-socks-proxy-server:4.1.0 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
@@ -260,7 +260,7 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:1.2.4 -> arrow.core-high-arity
+io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-alpha.1 -> arrow.core-high-arity
 io.automatiko.addons:automatiko-user-tasks-email-addon:0.33.0 -> io.automatiko.addons.user-tasks.email
 io.automatiko.addons:automatiko-user-tasks-management-addon:0.33.0 -> io.automatiko.addons.user-tasks.management
 io.automatiko.addons:automatiko-user-tasks-notification:0.33.0 -> io.automatiko.addons.user-tasks.notifications
