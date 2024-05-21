@@ -225,7 +225,7 @@ com.synopsys.integration:blackduck-common:66.2.19 -> com.synopsys.integration.bl
 com.synopsys.integration:blackduck-common-api:2023.10.0.4 -> com.synopsys.integration.blackduck-common-api
 com.synopsys.integration:coverity-common:0.8.1 -> com.synopsys.integration.coverity-common
 com.synopsys.integration:coverity-common-api:2019.6.1 -> com.synopsys.integration.coverity-common-api
-com.synopsys.integration:hub-imageinspector-lib:14.3.0 -> com.synopsys.integration.hub-imageinspector-lib
+com.synopsys.integration:hub-imageinspector-lib:14.3.1 -> com.synopsys.integration.hub-imageinspector-lib
 com.synopsys.integration:int-jira-common:4.1.1 -> com.synopsys.integration.int-jira-common
 com.synopsys.integration:integration-bdio:26.0.13 -> com.synopsys.integration.integration-bdio
 com.synopsys.integration:integration-common:26.1.2 -> com.synopsys.integration.integration-common
