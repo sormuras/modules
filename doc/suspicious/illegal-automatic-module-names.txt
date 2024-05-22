@@ -93,7 +93,7 @@ com.github.albfernandez:jbpm-jpdl:3.2.19.ayg -> com.github.albfernandez.jbpm-jpd
 com.github.albfernandez:jbpm-simulation:3.2.19.ayg -> com.github.albfernandez.jbpm-simulation
 com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-tomcat
 com.github.bbottema:clustered-object-pool:2.0.3 -> clustered-object-pool
-com.github.bbottema:generic-object-pool:2.1.0 -> generic-object-pool
+com.github.bbottema:generic-object-pool:2.2.0 -> generic-object-pool
 com.github.bbottema:java-reflection:4.1.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:4.1.0 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
@@ -611,10 +611,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.2.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.2.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.2.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.2.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.33 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.33 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.34 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.34 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.33 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.34 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
