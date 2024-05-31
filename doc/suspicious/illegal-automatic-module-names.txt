@@ -261,7 +261,7 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-alpha.2 -> arrow.core-high-arity
+io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-alpha.3 -> arrow.core-high-arity
 io.automatiko.addons:automatiko-user-tasks-email-addon:0.34.0 -> io.automatiko.addons.user-tasks.email
 io.automatiko.addons:automatiko-user-tasks-management-addon:0.34.0 -> io.automatiko.addons.user-tasks.management
 io.automatiko.addons:automatiko-user-tasks-notification:0.34.0 -> io.automatiko.addons.user-tasks.notifications
@@ -374,6 +374,7 @@ net.solarnetwork.external:net.solarnetwork.external.opendnp3-bindings:3.1.2.SN01
 net.solarnetwork.external:net.solarnetwork.external.spring-security-messaging:4.2.4.RELEASE_1 -> net.solarnetwork.external.spring-security-messaging
 net.ssehub.easy.instantiation:velocity:1.3.5 -> de.uni-hildesheim.sse.easy.instantiator.velocity
 net.ssehub.easy:instantiatorCore-rt:1.3.5 -> de.uni-hildesheim.sse.easy.instantiatorCore.rt
+net.tangly:erp-integration:0.2.7 -> net.tangly.erp-integration
 net.xyzsd.fluent:fluent-base:0.70 -> net.xyzsd.fluent.fluent-base
 net.xyzsd.fluent:fluent-functions-cldr:0.70 -> net.xyzsd.fluent.fluent-functions-cldr
 net.xyzsd.fluent:fluent-functions-icu:0.70 -> net.xyzsd.fluent.fluent-functions-icu
@@ -688,8 +689,8 @@ org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
 org.jmonkeyengine:jme3-android-native:3.7.0-beta1 -> jme3.android.native
-org.jobrunr:jobrunr-spring-boot-2-starter:7.1.2 -> org.jobrunr.spring.boot-2.starter
-org.jobrunr:jobrunr-spring-boot-3-starter:7.1.2 -> org.jobrunr.spring.boot-3.starter
+org.jobrunr:jobrunr-spring-boot-2-starter:7.2.0 -> org.jobrunr.spring.boot-2.starter
+org.jobrunr:jobrunr-spring-boot-3-starter:7.2.0 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.7.18 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
