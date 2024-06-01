@@ -303,9 +303,9 @@ io.github.replay-framework:netty3:2.4.0 -> io.github.replay-framework.netty3
 io.github.replay-framework:netty4:2.4.0 -> io.github.replay-framework.netty4
 io.github.replay-framework:pdf:2.4.0 -> io.github.replay-framework.pdf
 io.github.resilience4j:resilience4j-spring-cloud-common:1.3.1 -> io.github.resilience4j.spring-cloud-common
-io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0
-io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit
-io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.1 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0:1.0.2 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit:1.0.2 -> fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.edit
+io.github.riseclipse:fr.centralesupelec.edf.riseclipse.cim.cgmes-v3.0.0.utilities:1.0.2 -> fr.centralesupelec.edf.riseclipse.cim.cgmes.v3.0.0.utilities
 io.github.swagger2markup:swagger2markup-builder:1.3.4 -> io.github.swagger2markup.markup-document-builder
 io.github.yakovsirotkin:machamp-client-mysql-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.client-mysql-spring-boot-starter
 io.github.yakovsirotkin:machamp-client-oracle-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.client-oracle-spring-boot-starter
@@ -516,7 +516,7 @@ org.apereo.cas:cas-server-documentation:6.0.0-RC1 -> cas-server-documentation
 org.apereo.cas:cas-server-documentation-swagger:6.2.0-RC3 -> cas-server-documentation-swagger
 org.apereo.cas:cas-server-support-bom:6.5.0-RC5 -> cas-server-support-bom
 org.apereo.cas:cas-server-support-configuration:6.0.0-RC3 -> cas-server-support-configuration
-org.apereo.cas:cas-server-support-native:7.1.0-RC3 -> cas.server.support.native
+org.apereo.cas:cas-server-support-native:7.1.0-RC4 -> cas.server.support.native
 org.apereo.cas:cas-server-webapp:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp-bootadmin-server
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
