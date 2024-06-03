@@ -24,8 +24,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm` x63
 1. `com.fasterxml.jackson.dataformat.yaml` x55
 1. `com.zaxxer.hikari` x53
+1. `org.jetbrains.annotations` x52
 1. `lombok` x51
-1. `org.jetbrains.annotations` x51
 1. `com.fasterxml.jackson.jaxrs.json` x39
 1. `com.fasterxml.jackson.datatype.jdk8` x35
 1. `org.apache.commons.io` x34
@@ -686,7 +686,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.shenyu:shenyu-registry-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-spring-boot-starter-sync-data-apollo`  -> [`2.6.1`]
 1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`]
-1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`]
+1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `4.0.0-preview1`]
 1. `org.apache.storm:storm-hdfs-examples`  -> [`2.6.2`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.1`]
 1. `org.apache.storm:storm-perf`  -> [`2.6.2`]
@@ -2955,6 +2955,64 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `tr.com.infumia:KekoUtil`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`, `2.7`, `2.8`, `2.9`, `3.0`, `3.1`, `3.2`, `3.3`, `3.4`, `3.5`, `3.6`, `3.7`, `3.8`, `3.9`, `4.0`, `4.1`, `4.2`, `4.3`, `4.4`, `4.5`, `4.6`, `4.7`, `4.8`, `5.0`, `5.1`, `5.2`, `5.3`, `5.4`, `5.5`, `5.6`, `5.7`, `5.8`, `6.0`, `6.1`, `6.2`, `6.3`, `6.4`, `6.5`, `6.6`, `6.7`, `6.8`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `7.4.1`, `7.5`, `7.6`, `7.7`]
 1. `tr.com.infumia:db`  -> [`1.0`, `1.1`, `1.3`, `1.4`]
 
+## org.jetbrains.annotations
+
+For example, at least 52 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.jetbrains.annotations;`.
+
+1. `cn.afternode.mc:CustomWeaponAPI`  -> [`0.1.0`]
+1. `co.virtual-verse:HeavenLibrary-Spigot`  -> [`1.0.0`]
+1. `com.amazonaws:athena-aws-cmdb`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
+1. `com.amazonaws:athena-cloudwatch-metrics`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
+1. `com.amazonaws:athena-cloudwatch`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
+1. `com.amazonaws:athena-dynamodb`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
+1. `com.amazonaws:athena-jdbc`  -> [`2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
+1. `com.danielflower.apprunner:restabuild`  -> [`0.8.8`, `0.8.11`, `0.8.13`, `1.0.0`]
+1. `com.expediagroup:fraudpreventionv2-sdk`  -> [`1.0.0`, `1.1.0`, `2.0.0`, `3.0.0`, `3.1.0`, `3.2.0`, `3.3.0`, `3.4.0`, `3.5.0`, `3.6.0`, `3.6.1`, `3.7.0`, `3.8.0`, `4.0.0`, `4.0.1`, `4.0.2`]
+1. `com.expediagroup:rapid-sdk`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `2.0.0`, `3.0.0`, `3.1.0`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `4.0.0`, `4.1.0`, `4.1.1`, `4.1.2`]
+1. `com.github.alfonsoLeandro:MPUtils`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`]
+1. `com.kraftics:liberium-command`  -> [`1.1.1`]
+1. `com.kraftics:liberium-core`  -> [`1.1.1`]
+1. `com.kraftics:liberium-database`  -> [`1.1.1`]
+1. `com.kraftics:liberium-packet`  -> [`1.1.1`]
+1. `com.localhost22:rf`  -> [`1.0`]
+1. `com.qcloud.cos:goosefs-client`  -> [`1.4.7`]
+1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.6.0`]
+1. `de.uni-mannheim.informatik.dws.melt:matching-eval-client`  -> [`3.1`, `3.2`]
+1. `de.uni-mannheim.informatik.dws:jrdf2vec`  -> [`1.2`]
+1. `dev.dejvokep:boosted-yaml`  -> [`1.0`, `1.1`, `1.2`, `1.3`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
+1. `io.github.charles-grozny.pluginlib:bukkitpluginlib`  -> [`1.0.0`, `1.0.1`]
+1. `io.github.dailystruggle:CommandsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA04`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA08`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA13`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA19`, `1.0-ALPHA23`, `1.0-ALPHA26`, `1.0-ALPHA28`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA31`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`, `1.0-ALPHA36`, `1.0-ALPHA37`, `1.0-ALPHA38`, `1.0-ALPHA39`, `1.0-ALPHA40`, `1.0-ALPHA42`, `1.0-ALPHA44`, `1.0-ALPHA50`, `1.0-ALPHA53`, `1.0-ALPHA55`, `1.0-ALPHA56`]
+1. `io.github.dailystruggle:EffectsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA02`, `1.0-ALPHA03`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA17`, `1.0-ALPHA20`, `1.0-ALPHA21`, `1.0-ALPHA22`, `1.0-ALPHA23`, `1.0-ALPHA24`, `1.0-ALPHA26`, `1.0-ALPHA27`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`]
+1. `io.github.dailystruggle:RTP`  -> [`2.0.0-BETA01`, `2.0.0-BETA03`, `2.0.0-BETA04`, `2.0.0`]
+1. `io.github.happybavarian07:CoolStuffLib`  -> [`1.0.0`, `1.0.1`, `1.0.5`, `1.1.0`, `1.1.1`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`]
+1. `io.github.hshmaker:sooport`  -> [`0.1.0`]
+1. `io.github.rysefoxx:MineQuestNPC`  -> [`1.0`, `1.1`, `1.2`, `1.2.2.1`, `1.3`, `1.3.1`]
+1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`]
+1. `io.github.shmilyjxs:jdb-tool`  -> [`1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.11`, `1.20`, `1.21`, `1.22`, `1.23`, `1.26`, `1.28`, `1.29`, `1.30`, `1.31`, `1.33`, `1.34`]
+1. `io.github.takiviko.guide-generator:guide-generator`  -> [`1.0.0`]
+1. `io.github.takiviko:guide-generator`  -> [`1.1.0`]
+1. `io.github.wand555:richerconversation-api`  -> [`1.0.2`, `1.0.3`]
+1. `io.github.wand555:richerconversation-example`  -> [`1.0.2`, `1.0.3`]
+1. `io.streamthoughts:jikkou-cli`  -> [`0.26.0`, `0.27.0`, `0.29.0`, `0.30.0`, `0.31.0`]
+1. `io.trino:trino-ignite-patched`  -> [`434`, `435`, `436`, `437`, `438`]
+1. `lol.hyper:github-release-api`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
+1. `net.bonn2:ModularBot`  -> [`1.0.0-alpha.1`, `1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `net.crimsonmc:CrimsonAPI`  -> [`0.0.1`]
+1. `org.apache.iotdb:library-udf`  -> [`0.14.0-preview2`, `0.14.0-preview3`, `1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`]
+1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
+1. `org.bspfsystems.bungeeipc:bungeeipc-client-api`  -> [`3.0.1`, `3.0.2`, `3.0.3`]
+1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
+1. `org.bspfsystems.bungeeipc:bungeeipc-server-api`  -> [`3.0.1`, `3.0.2`, `3.0.3`]
+1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `2.0.0`]
+1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`]
+1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.3.1`, `1.3.2`]
+1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
+1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
+1. `org.tallison.tika:tika-langdetect-optimaize-shaded`  -> [`2.9.1.0`]
+1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`]
+1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
+
 ## lombok
 
 For example, at least 51 artifacts on Maven Central claim to be the module `lombok`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3011,63 +3069,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.projectlombok:lombok` 🧩 -> [`1.18.2`, `1.18.4`, `1.18.6`, `1.18.8`, `1.18.10`, `1.18.12`, `1.18.14`, `1.18.16`, `1.18.18`, `1.18.20`, `1.18.22`, `1.18.24`, `1.18.26`, `1.18.28`, `1.18.30`, `1.18.32`]
 1. `org.thermoweb.picocli:picocli-config-sqlite`  -> [`0.1`, `0.2`]
 1. `org.thermoweb.picocli:picocli-config`  -> [`0.1`, `0.2`]
-
-## org.jetbrains.annotations
-
-For example, at least 51 artifacts on Maven Central claim to be the module `org.jetbrains.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.jetbrains.annotations;`.
-
-1. `cn.afternode.mc:CustomWeaponAPI`  -> [`0.1.0`]
-1. `co.virtual-verse:HeavenLibrary-Spigot`  -> [`1.0.0`]
-1. `com.amazonaws:athena-aws-cmdb`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
-1. `com.amazonaws:athena-cloudwatch-metrics`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
-1. `com.amazonaws:athena-cloudwatch`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
-1. `com.amazonaws:athena-dynamodb`  -> [`2023.14.1`, `2023.15.1`, `2023.16.1`, `2023.16.2`, `2023.17.1`, `2023.18.1`, `2023.19.1`, `2023.20.1`, `2023.21.1`, `2023.23.1`, `2023.25.1`, `2023.29.1`, `2023.30.1`, `2023.35.1`, `2023.35.2`, `2023.37.1`, `2023.37.2`, `2023.38.1`, `2023.40.1`, `2023.42.1`, `2023.46.1`, `2023.46.2`, `2023.49.1`, `2023.49.2`, `2024.3.1`, `2024.3.2`, `2024.6.1`, `2024.7.1`, `2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
-1. `com.amazonaws:athena-jdbc`  -> [`2024.8.1`, `2024.10.1`, `2024.13.1`, `2024.15.1`, `2024.15.2`, `2024.16.1`, `2024.18.1`, `2024.18.2`, `2024.19.1`, `2024.20.1`, `2024.20.2`]
-1. `com.danielflower.apprunner:restabuild`  -> [`0.8.8`, `0.8.11`, `0.8.13`, `1.0.0`]
-1. `com.expediagroup:fraudpreventionv2-sdk`  -> [`1.0.0`, `1.1.0`, `2.0.0`, `3.0.0`, `3.1.0`, `3.2.0`, `3.3.0`, `3.4.0`, `3.5.0`, `3.6.0`, `3.6.1`, `3.7.0`, `3.8.0`, `4.0.0`, `4.0.1`, `4.0.2`]
-1. `com.expediagroup:rapid-sdk`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `2.0.0`, `3.0.0`, `3.1.0`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `4.0.0`, `4.1.0`, `4.1.1`]
-1. `com.github.alfonsoLeandro:MPUtils`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`]
-1. `com.kraftics:liberium-command`  -> [`1.1.1`]
-1. `com.kraftics:liberium-core`  -> [`1.1.1`]
-1. `com.kraftics:liberium-database`  -> [`1.1.1`]
-1. `com.kraftics:liberium-packet`  -> [`1.1.1`]
-1. `com.localhost22:rf`  -> [`1.0`]
-1. `com.qcloud.cos:goosefs-client`  -> [`1.4.7`]
-1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.6.0`]
-1. `de.uni-mannheim.informatik.dws.melt:matching-eval-client`  -> [`3.1`, `3.2`]
-1. `de.uni-mannheim.informatik.dws:jrdf2vec`  -> [`1.2`]
-1. `dev.dejvokep:boosted-yaml`  -> [`1.0`, `1.1`, `1.2`, `1.3`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
-1. `io.github.charles-grozny.pluginlib:bukkitpluginlib`  -> [`1.0.0`, `1.0.1`]
-1. `io.github.dailystruggle:CommandsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA04`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA08`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA13`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA19`, `1.0-ALPHA23`, `1.0-ALPHA26`, `1.0-ALPHA28`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA31`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`, `1.0-ALPHA36`, `1.0-ALPHA37`, `1.0-ALPHA38`, `1.0-ALPHA39`, `1.0-ALPHA40`, `1.0-ALPHA42`, `1.0-ALPHA44`, `1.0-ALPHA50`, `1.0-ALPHA53`, `1.0-ALPHA55`, `1.0-ALPHA56`]
-1. `io.github.dailystruggle:EffectsAPI`  -> [`1.0-ALPHA01`, `1.0-ALPHA02`, `1.0-ALPHA03`, `1.0-ALPHA05`, `1.0-ALPHA06`, `1.0-ALPHA10`, `1.0-ALPHA12`, `1.0-ALPHA14`, `1.0-ALPHA15`, `1.0-ALPHA16`, `1.0-ALPHA17`, `1.0-ALPHA20`, `1.0-ALPHA21`, `1.0-ALPHA22`, `1.0-ALPHA23`, `1.0-ALPHA24`, `1.0-ALPHA26`, `1.0-ALPHA27`, `1.0-ALPHA29`, `1.0-ALPHA30`, `1.0-ALPHA32`, `1.0-ALPHA33`, `1.0-ALPHA35`]
-1. `io.github.dailystruggle:RTP`  -> [`2.0.0-BETA01`, `2.0.0-BETA03`, `2.0.0-BETA04`, `2.0.0`]
-1. `io.github.happybavarian07:CoolStuffLib`  -> [`1.0.0`, `1.0.1`, `1.0.5`, `1.1.0`, `1.1.1`, `1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`]
-1. `io.github.hshmaker:sooport`  -> [`0.1.0`]
-1. `io.github.rysefoxx:MineQuestNPC`  -> [`1.0`, `1.1`, `1.2`, `1.2.2.1`, `1.3`, `1.3.1`]
-1. `io.github.rysefoxx:RyseInventory-Plugin`  -> [`1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.8`, `1.3.9`]
-1. `io.github.shmilyjxs:jdb-tool`  -> [`1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.11`, `1.20`, `1.21`, `1.22`, `1.23`, `1.26`, `1.28`, `1.29`, `1.30`, `1.31`, `1.33`, `1.34`]
-1. `io.github.takiviko.guide-generator:guide-generator`  -> [`1.0.0`]
-1. `io.github.wand555:richerconversation-api`  -> [`1.0.2`, `1.0.3`]
-1. `io.github.wand555:richerconversation-example`  -> [`1.0.2`, `1.0.3`]
-1. `io.streamthoughts:jikkou-cli`  -> [`0.26.0`, `0.27.0`, `0.29.0`, `0.30.0`, `0.31.0`]
-1. `io.trino:trino-ignite-patched`  -> [`434`, `435`, `436`, `437`, `438`]
-1. `lol.hyper:github-release-api`  -> [`1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`]
-1. `net.bonn2:ModularBot`  -> [`1.0.0-alpha.1`, `1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `net.crimsonmc:CrimsonAPI`  -> [`0.0.1`]
-1. `org.apache.iotdb:library-udf`  -> [`0.14.0-preview2`, `0.14.0-preview3`, `1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`]
-1. `org.bspfsystems.bungeeipc:bungeeipc-api`  -> [`1.0.1`, `1.0.2`, `1.0.3`]
-1. `org.bspfsystems.bungeeipc:bungeeipc-client-api`  -> [`3.0.1`, `3.0.2`, `3.0.3`]
-1. `org.bspfsystems.bungeeipc:bungeeipc-common-api`  -> [`2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
-1. `org.bspfsystems.bungeeipc:bungeeipc-server-api`  -> [`3.0.1`, `3.0.2`, `3.0.3`]
-1. `org.bspfsystems:basic-mojang-api`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `2.0.0`]
-1. `org.bspfsystems:simple-json`  -> [`1.0.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`]
-1. `org.bspfsystems:yamlconfiguration`  -> [`1.0.9`, `1.0.10`, `1.0.11`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.3.1`, `1.3.2`]
-1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
-1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
-1. `org.tallison.tika:tika-langdetect-optimaize-shaded`  -> [`2.9.1.0`]
-1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`]
-1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 
 ## com.fasterxml.jackson.jaxrs.json
 
@@ -3431,6 +3432,30 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`, `1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.30.0`, `1.30.1`, `1.30.2`]
 1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`, `1.21.0`, `1.21.2`, `1.21.3`, `1.21.4`, `1.21.5`, `1.21.6`]
 
+## com.google.errorprone.annotations
+
+For example, at least 18 artifacts on Maven Central claim to be the module `com.google.errorprone.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.errorprone.annotations;`.
+
+1. `com.google.appengine:runtime-impl-jetty12`  -> [`2.0.26`, `2.0.27`]
+1. `com.google.appengine:runtime-impl-jetty9`  -> [`2.0.26`, `2.0.27`]
+1. `com.google.auto.value:auto-value`  -> [`1.11.0`]
+1. `com.google.cloud.spark.bigtable:spark-bigtable_2.12`  -> [`0.1.0`]
+1. `com.google.errorprone:error_prone_annotations` 🧩 -> [`2.26.1`, `2.27.0`, `2.27.1`, `2.28.0`]
+1. `io.github.davidwhitlock.joy.original:airline`  -> [`2.0.0`, `2.1.0`]
+1. `io.github.davidwhitlock.joy.original:apptbook`  -> [`2.0.0`, `2.1.0`]
+1. `io.github.davidwhitlock.joy.original:kata`  -> [`2.0.0`, `2.1.0`]
+1. `io.github.davidwhitlock.joy.original:phonebill`  -> [`2.0.0`, `2.1.0`]
+1. `io.github.davidwhitlock.joy.original:student`  -> [`2.0.0`, `2.1.0`]
+1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.1.0`]
+1. `io.github.liveontologies:elk-ore-standalone`  -> [`0.6.0`]
+1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.36.0-alpha`]
+1. `io.zipkin.zipkin2:zipkin`  -> [`3.3.1`]
+1. `org.apache.spark:spark-connect_2.13`  -> [`4.0.0-preview1`]
+1. `org.checkerframework:checker`  -> [`3.43.0`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.19.4`]
+1. `org.opendaylight.netconf:websocket-client`  -> [`7.0.5`]
+
 ## org.apache.commons.pool2
 
 For example, at least 18 artifacts on Maven Central claim to be the module `org.apache.commons.pool2`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3477,29 +3502,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.pitest:pitest-aggregator`  -> [`1.16.1`]
 1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.6.0`, `2.6.1`, `2.6.2`]
-
-## com.google.errorprone.annotations
-
-For example, at least 17 artifacts on Maven Central claim to be the module `com.google.errorprone.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.errorprone.annotations;`.
-
-1. `com.google.appengine:runtime-impl-jetty12`  -> [`2.0.26`, `2.0.27`]
-1. `com.google.appengine:runtime-impl-jetty9`  -> [`2.0.26`, `2.0.27`]
-1. `com.google.auto.value:auto-value`  -> [`1.11.0`]
-1. `com.google.cloud.spark.bigtable:spark-bigtable_2.12`  -> [`0.1.0`]
-1. `com.google.errorprone:error_prone_annotations` 🧩 -> [`2.26.1`, `2.27.0`, `2.27.1`, `2.28.0`]
-1. `io.github.davidwhitlock.joy.original:airline`  -> [`2.0.0`, `2.1.0`]
-1. `io.github.davidwhitlock.joy.original:apptbook`  -> [`2.0.0`, `2.1.0`]
-1. `io.github.davidwhitlock.joy.original:kata`  -> [`2.0.0`, `2.1.0`]
-1. `io.github.davidwhitlock.joy.original:phonebill`  -> [`2.0.0`, `2.1.0`]
-1. `io.github.davidwhitlock.joy.original:student`  -> [`2.0.0`, `2.1.0`]
-1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.1.0`]
-1. `io.github.liveontologies:elk-ore-standalone`  -> [`0.6.0`]
-1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.36.0-alpha`]
-1. `io.zipkin.zipkin2:zipkin`  -> [`3.3.1`]
-1. `org.checkerframework:checker`  -> [`3.43.0`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.19.4`]
-1. `org.opendaylight.netconf:websocket-client`  -> [`7.0.5`]
 
 ## jakarta.activation
 
