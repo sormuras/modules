@@ -514,6 +514,16 @@ org.apereo.cas:cas-server-webapp-native:7.0.0-RC6 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
 org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:8.0.0 -> org.bonitasoft.bpm.plugin-dependencies
+org.cloudburstmc.fastutil.biglists:boolean-big-lists:8.5.13 -> fastutil.big-lists.booleans
+org.cloudburstmc.fastutil.biglists:byte-big-lists:8.5.13 -> fastutil.big-lists.bytes
+org.cloudburstmc.fastutil.biglists:char-big-lists:8.5.13 -> fastutil.big-lists.chars
+org.cloudburstmc.fastutil.biglists:double-big-lists:8.5.13 -> fastutil.big-lists.doubles
+org.cloudburstmc.fastutil.biglists:float-big-lists:8.5.13 -> fastutil.big-lists.floats
+org.cloudburstmc.fastutil.biglists:int-big-lists:8.5.13 -> fastutil.big-lists.ints
+org.cloudburstmc.fastutil.biglists:long-big-lists:8.5.13 -> fastutil.big-lists.longs
+org.cloudburstmc.fastutil.biglists:object-big-lists:8.5.13 -> fastutil.big-lists.objects
+org.cloudburstmc.fastutil.biglists:reference-big-lists:8.5.13 -> fastutil.big-lists.references
+org.cloudburstmc.fastutil.biglists:short-big-lists:8.5.13 -> fastutil.big-lists.shorts
 org.creekservice:creek-json-schema-gradle-plugin:0.4.1 -> creek-json-schema-gradle-plugin
 org.creekservice:creek-system-test-gradle-plugin:0.4.1 -> creek-system-test-gradle-plugin
 org.dashbuilder:dashbuilder-client-all:7.74.1.Final -> -
