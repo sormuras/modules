@@ -388,7 +388,7 @@ org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.
 org.apache.pekko:pekko-projection-durable-state_2.12:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.0.0 -> pekko.projection.durable-state
-org.apache.sshd:sshd-spring-sftp:2.13.0 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:2.13.1 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:10.0.0-M1 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:10.0.0-M1 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:10.0.0-M1 -> org.apache.tomee.bom.tomee-plume
