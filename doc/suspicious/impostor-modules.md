@@ -588,7 +588,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.hungvm90:gsonjavatime`  -> [`1.0.1`, `1.0.3`, `1.0.4`]
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.2`, `0.1.0`, `0.3.0`]
 1. `io.github.kolesnikovm:jmeter-prometheus-listener`  -> [`2.6.0`, `2.6.1`, `2.6.2`, `2.6.3`]
-1. `io.github.linyimin0812:spring-profiler-extension`  -> [`3.1.1`, `3.1.2`, `3.1.3`]
+1. `io.github.linyimin0812:spring-profiler-extension`  -> [`3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`]
 1. `io.github.marcperez06:link-checker`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
@@ -1463,7 +1463,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.kilmajster:keycloak-event-listener-slack`  -> [`0.0.1`]
 1. `io.github.kituin:ChatImageCode`  -> [`0.6.0`]
 1. `io.github.linyimin0812:java-profiler-core`  -> [`1.0.13`, `1.1.2`, `1.2.0`]
-1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`]
+1. `io.github.linyimin0812:spring-profiler-core`  -> [`2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`]
 1. `io.github.mkfl3x:json-delta`  -> [`0.1-beta`, `0.2-beta`, `0.3-beta`, `0.4-beta`, `0.5-beta`, `0.6-beta`, `0.7-beta`, `1.0`, `1.1`, `1.2`]
 1. `io.github.openfeign:feign-example-github-with-coroutine`  -> [`12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
 1. `io.github.portlek:patty`  -> [`1.1`]
@@ -2201,7 +2201,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.restheart:restheart`  -> [`5.0.0-RC2`, `5.0.0-RC3`, `5.0.0-RC4`, `5.0.0`, `5.0.1`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.3`, `5.1.4`, `5.1.5`, `5.1.6`, `5.1.7`, `5.2.0`, `5.3.0`, `5.3.1`, `5.3.2`, `5.3.3`, `5.3.4`, `5.3.5`, `6.0.0-RC1`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.1.0`]
 1. `org.treblereel.gwt.gwtproject.i18n:gwt-i18n-processor`  -> [`202203291`]
 1. `org.treblereel.gwt.gwtproject.validation:gwt-validation-processor`  -> [`202203291`]
-1. `org.treblereel.j2cl.processors:processors`  -> [`0.5`, `0.5.1`, `0.6`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`]
+1. `org.treblereel.j2cl.processors:processors`  -> [`0.5`, `0.5.1`, `0.6`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.7`]
 1. `software.amazon.glue:jsonschema-kafkaconnect-converter`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.18`, `1.1.19`, `1.1.20`]
 1. `software.amazon.glue:protobuf-kafkaconnect-converter`  -> [`1.1.18`, `1.1.19`, `1.1.20`]
 1. `software.amazon.glue:schema-registry-kafkaconnect-converter`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.18`, `1.1.19`, `1.1.20`]
@@ -3048,7 +3048,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.tallison.tika:tika-langdetect-optimaize-shaded`  -> [`2.9.1.0`]
-1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`, `2024.1.17`, `2024.1.18`, `2024.1.19`, `2024.1.20`, `2024.1.21`, `2024.1.22`]
+1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`, `2024.1.17`, `2024.1.18`, `2024.1.19`, `2024.1.20`, `2024.1.21`, `2024.1.22`, `2024.1.23`]
 1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 
 ## lombok
@@ -3474,8 +3474,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.gv2011.logback:logback-classic`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
 1. `com.optum.sourcehawk:sourcehawk-exec`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.3.0`, `0.4.0`, `0.4.2`, `0.4.3`, `0.4.4`]
 1. `de.quantummaid.tutorials.basic-tutorial:step4`  -> [`1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`]
-1. `io.flux-capacitor:proxy`  -> [`0.944.0`, `0.946.0`, `0.947.0`, `0.948.0`, `0.950.0`, `0.951.0`, `0.953.0`, `0.954.0`, `0.955.0`, `0.956.0`]
-1. `io.flux-capacitor:test-server`  -> [`0.944.0`, `0.946.0`, `0.947.0`, `0.948.0`, `0.950.0`, `0.951.0`, `0.953.0`, `0.954.0`, `0.955.0`, `0.956.0`]
+1. `io.flux-capacitor:proxy`  -> [`0.944.0`, `0.946.0`, `0.947.0`, `0.948.0`, `0.950.0`, `0.951.0`, `0.953.0`, `0.954.0`, `0.955.0`, `0.956.0`, `0.957.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.944.0`, `0.946.0`, `0.947.0`, `0.948.0`, `0.950.0`, `0.951.0`, `0.953.0`, `0.954.0`, `0.955.0`, `0.956.0`, `0.957.0`]
 1. `io.github.davidwhitlock.cs410J:grader`  -> [`2021.0.0`, `2021.0.1`, `2021.0.2`, `2021.1.0`, `2021.1.1`, `2021.2.0`, `2021.3.0`, `2021.4.0`, `2021.4.1`, `2022.0.0`, `2022.1.0`, `2022.3.0`, `2022.5.0`]
 1. `io.github.shuigedeng:taotao-cloud-starter-elk`  -> [`2021.8.1`]
 1. `io.grasscutter:grasscutter`  -> [`1.6.0`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`]
@@ -3488,7 +3488,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.errorprone.annotations
 
-For example, at least 19 artifacts on Maven Central claim to be the module `com.google.errorprone.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 20 artifacts on Maven Central claim to be the module `com.google.errorprone.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.errorprone.annotations;`.
 
 1. `com.google.appengine:runtime-impl-jetty12`  -> [`2.0.26`, `2.0.27`, `2.0.28`]
@@ -3505,6 +3505,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.liveontologies:elk-ore-standalone`  -> [`0.6.0`]
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.36.0-alpha`]
 1. `io.zipkin.zipkin2:zipkin`  -> [`3.3.1`]
+1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.6`]
 1. `org.apache.spark:spark-connect_2.13`  -> [`4.0.0-preview1`]
 1. `org.checkerframework:checker`  -> [`3.43.0`, `3.44.0`, `3.45.0`]
 1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.19.4`, `0.19.5`]
@@ -3577,7 +3578,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `it.vige.cities:cities-generator`  -> [`1.2.1`, `1.2.2`, `1.2.3`]
 1. `org.meyvn:meyvn`  -> [`1.6.8`, `1.6.9`]
 1. `org.slf4j:slf4j-simple` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
-1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`, `1.99.3`, `1.99.4`, `1.99.5`, `1.99.6`, `1.99.7`, `1.99.8`, `1.100.0`, `1.100.1`, `1.100.2`, `1.101.0`, `1.101.1`, `1.101.2`, `1.101.3`, `1.101.4`, `1.101.6`, `1.101.7`, `1.101.8`, `1.101.10`, `1.102.0`, `1.103.2`, `1.104.0`, `1.104.1`, `1.105.0`, `1.106.0`, `1.107.0`, `1.107.1`, `1.108.0`, `1.108.3`, `1.109.0`, `1.109.1`, `2.0.0`, `2.1.0`, `2.2.1`, `2.2.2`, `2.2.3`]
+1. `se.bjurr.gitchangelog:git-changelog-command-line`  -> [`1.53`, `1.54`, `1.55`, `1.58`, `1.59`, `1.60.1`, `1.61.0`, `1.62.0`, `1.63.0`, `1.65.0`, `1.67.0`, `1.69.0`, `1.72.0`, `1.74.0`, `1.75.0`, `1.76.0`, `1.77.0`, `1.78.0`, `1.80.0`, `1.81.0`, `1.82.0`, `1.83.0`, `1.84.0`, `1.85.0`, `1.85.1`, `1.85.2`, `1.86.0`, `1.87.0`, `1.88.0`, `1.89.0`, `1.92.0`, `1.93.0`, `1.94.0`, `1.95.0`, `1.96.0`, `1.96.2`, `1.96.6`, `1.97.0`, `1.97.1`, `1.97.3`, `1.98.0`, `1.99.0`, `1.99.1`, `1.99.2`, `1.99.3`, `1.99.4`, `1.99.5`, `1.99.6`, `1.99.7`, `1.99.8`, `1.100.0`, `1.100.1`, `1.100.2`, `1.101.0`, `1.101.1`, `1.101.2`, `1.101.3`, `1.101.4`, `1.101.6`, `1.101.7`, `1.101.8`, `1.101.10`, `1.102.0`, `1.103.2`, `1.104.0`, `1.104.1`, `1.105.0`, `1.106.0`, `1.107.0`, `1.107.1`, `1.108.0`, `1.108.3`, `1.109.0`, `1.109.1`, `2.0.0`, `2.1.0`, `2.2.1`, `2.2.2`, `2.2.3`, `2.3.0`]
 1. `se.bjurr.gradle:violations-command-line`  -> [`1.21.1`]
 1. `se.bjurr.openapitowiremock:openapi-to-wiremock`  -> [`0.0`]
 1. `se.bjurr.violations:violation-comments-to-bitbucket-cloud-command-line`  -> [`1.11`, `1.13`, `1.23.0`, `1.26.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.29.2`, `1.30.0`, `1.30.1`, `1.31.0`]
@@ -3837,6 +3838,24 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.openpreservation.jhove:jhove-apps`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`, `1.28.0`]
 1. `org.openpreservation.jhove:jhove-ext-modules`  -> [`1.24.2`, `1.24.9`, `1.26.0-RC2`, `1.26.0`, `1.26.1`, `1.28.0`]
 
+## org.xerial.sqlitejdbc
+
+For example, at least 12 artifacts on Maven Central claim to be the module `org.xerial.sqlitejdbc`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.xerial.sqlitejdbc;`.
+
+1. `app.cash.sqldelight:migration-env`  -> [`2.0.0-rc01`, `2.0.0-rc02`, `2.0.0`, `2.0.1`, `2.0.2`]
+1. `at.hugob.plugin.library:database`  -> [`1.0.0`]
+1. `co.virtual-verse:HeavenLibrary-Bungeecord`  -> [`1.1.1`]
+1. `co.virtual-verse:HeavenLibrary-Spigot`  -> [`1.1.1`]
+1. `co.virtual-verse:HeavenLibrary-common`  -> [`1.1.1`]
+1. `dev.aga.sqlite:sqlite-jdbc`  -> [`3.41.0.1`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`, `3.46.0.0`]
+1. `gq.bxteam:ndailyrewards`  -> [`1.5.6`, `1.5.7`]
+1. `io.github.willena:sqlite-jdbc`  -> [`3.40.0.0`, `3.40.1.0`]
+1. `io.synclite:synclite-logger-extended`  -> [`2024.07.07`]
+1. `io.synclite:synclite-logger`  -> [`2023.11.18`, `2023.11.20`, `2023.12.06`, `2023.12.14`, `2023.12.23`, `2024.01.01`, `2024.01.13`, `2024.01.23`, `2024.01.31`, `2024.02.05`, `2024.02.10`, `2024.02.19`, `2024.02.28`, `2024.03.12`, `2024.03.25`, `2024.04.04`, `2024.04.08`, `2024.04.30`, `2024.05.13`, `2024.05.22`, `2024.05.29`, `2024.06.05`, `2024.06.12`, `2024.07.07`]
+1. `io.toxicity.sqlite-mc:driver-jvm`  -> [`2.0.0-1.7.2-0-alpha01`, `2.0.0-1.7.2-0-beta01`, `2.0.0-1.7.2-0`, `2.0.1-1.8.2-0`, `2.0.1-1.8.3-0`, `2.0.2-1.8.4-0`, `2.0.2-1.8.5-0`, `2.0.2-1.8.6-0`]
+1. `org.xerial:sqlite-jdbc` 🧩 -> [`3.39.4.1`, `3.40.0.0`, `3.40.1.0`, `3.41.0.0`, `3.41.0.1`, `3.41.2.0`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`, `3.45.3.0`, `3.46.0.0`]
+
 ## com.fasterxml.jackson.dataformat.csv
 
 For example, at least 11 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.csv`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3904,23 +3923,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`]
 1. `org.soot-oss:sootup.java.bytecode`  -> [`1.0.0`]
 1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`]
-
-## org.xerial.sqlitejdbc
-
-For example, at least 11 artifacts on Maven Central claim to be the module `org.xerial.sqlitejdbc`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.xerial.sqlitejdbc;`.
-
-1. `app.cash.sqldelight:migration-env`  -> [`2.0.0-rc01`, `2.0.0-rc02`, `2.0.0`, `2.0.1`, `2.0.2`]
-1. `at.hugob.plugin.library:database`  -> [`1.0.0`]
-1. `co.virtual-verse:HeavenLibrary-Bungeecord`  -> [`1.1.1`]
-1. `co.virtual-verse:HeavenLibrary-Spigot`  -> [`1.1.1`]
-1. `co.virtual-verse:HeavenLibrary-common`  -> [`1.1.1`]
-1. `dev.aga.sqlite:sqlite-jdbc`  -> [`3.41.0.1`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`, `3.46.0.0`]
-1. `gq.bxteam:ndailyrewards`  -> [`1.5.6`, `1.5.7`]
-1. `io.github.willena:sqlite-jdbc`  -> [`3.40.0.0`, `3.40.1.0`]
-1. `io.synclite:synclite-logger`  -> [`2023.11.18`, `2023.11.20`, `2023.12.06`, `2023.12.14`, `2023.12.23`, `2024.01.01`, `2024.01.13`, `2024.01.23`, `2024.01.31`, `2024.02.05`, `2024.02.10`, `2024.02.19`, `2024.02.28`, `2024.03.12`, `2024.03.25`, `2024.04.04`, `2024.04.08`, `2024.04.30`, `2024.05.13`, `2024.05.22`, `2024.05.29`, `2024.06.05`, `2024.06.12`]
-1. `io.toxicity.sqlite-mc:driver-jvm`  -> [`2.0.0-1.7.2-0-alpha01`, `2.0.0-1.7.2-0-beta01`, `2.0.0-1.7.2-0`, `2.0.1-1.8.2-0`, `2.0.1-1.8.3-0`, `2.0.2-1.8.4-0`, `2.0.2-1.8.5-0`, `2.0.2-1.8.6-0`]
-1. `org.xerial:sqlite-jdbc` 🧩 -> [`3.39.4.1`, `3.40.0.0`, `3.40.1.0`, `3.41.0.0`, `3.41.0.1`, `3.41.2.0`, `3.41.2.1`, `3.41.2.2`, `3.42.0.0`, `3.42.0.1`, `3.43.0.0`, `3.43.2.0`, `3.43.2.1`, `3.43.2.2`, `3.44.0.0`, `3.44.1.0`, `3.45.0.0`, `3.45.1.0`, `3.45.2.0`, `3.45.3.0`, `3.46.0.0`]
 
 ## roaringbitmap
 
