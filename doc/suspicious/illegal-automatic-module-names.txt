@@ -518,7 +518,7 @@ org.apereo.cas:cas-server-documentation:6.0.0-RC1 -> cas-server-documentation
 org.apereo.cas:cas-server-documentation-swagger:6.2.0-RC3 -> cas-server-documentation-swagger
 org.apereo.cas:cas-server-support-bom:6.5.0-RC5 -> cas-server-support-bom
 org.apereo.cas:cas-server-support-configuration:6.0.0-RC3 -> cas-server-support-configuration
-org.apereo.cas:cas-server-support-native:7.1.0-RC4 -> cas.server.support.native
+org.apereo.cas:cas-server-support-native:7.1.0-RC5 -> cas.server.support.native
 org.apereo.cas:cas-server-webapp:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp-bootadmin-server
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
@@ -1763,7 +1763,7 @@ pro.projo:projo-template-configuration:1.5.6 -> pro.projo.projo-template-configu
 pro.projo:projo-template-generation:1.5.6 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.32.13 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.32.13 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.32.13 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.32.15 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.32.15 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.32.15 -> smithy-kotlin-codegen-testutils
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
