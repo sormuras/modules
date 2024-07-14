@@ -8,7 +8,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.google.gson` x347
 1. `com.fasterxml.jackson.databind` x329
 1. `org.apache.logging.log4j` x240
-1. `kotlin.stdlib.jdk8` x213
+1. `kotlin.stdlib.jdk8` x214
 1. `org.slf4j` x173
 1. `kotlin.stdlib` x135
 1. `net.bytebuddy` x108
@@ -573,7 +573,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.fitko.fitconnect.sdk:cli`  -> [`1.0.0`, `1.1.0-rc.0`]
 1. `dev.fitko.fitconnect.sdk:client`  -> [`1.0.0-rc.1`]
 1. `dev.redcoke:mcserverping`  -> [`0.1.4`, `0.1.5`]
-1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`, `0.22.2`, `0.23.0`, `0.23.1`, `0.23.2`, `0.24.0`]
+1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`, `0.22.2`, `0.23.0`, `0.23.1`, `0.23.2`, `0.24.0`, `0.24.1`]
 1. `dev.walgo:db2dto`  -> [`1.11.0`, `1.11.1`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC2`, `4.0.0-RC3`, `4.0.0-RC4`, `4.0.0-RC5`]
@@ -595,7 +595,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
 1. `io.github.padreati:rapaio-jupyter-kernel`  -> [`1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
-1. `io.github.panderior:minireal-annotation`  -> [`1.1.1`, `1.1.2`]
+1. `io.github.panderior:minireal-annotation`  -> [`1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`]
 1. `io.github.realmangorage:gradleutils`  -> [`3.0.2`, `3.0.2.build_lzih968r8b5ktmvtghtlegjw$_run_closure1@36e067c5`, `3.0.2.2033`, `3.0.2-beta2047`, `3.0.2-beta2049`, `3.0.2-beta2053`, `3.0.2-beta2060`, `3.0.2-beta2061`, `3.0.2-beta2068`, `3.0.2-beta2074`, `3.0.2-beta2078`, `3.0.2-beta2081`, `3.0.2-beta2082`, `3.0.2-beta2083`, `3.0.2-beta2086`, `3.0.2-beta2089`, `3.0.2-beta2093`, `3.0.2-beta2094`, `3.0.2-beta2100`, `3.0.2-beta2102`, `3.0.2-beta2103`, `3.0.2-beta2106`, `3.0.2-beta2108`, `3.0.2-beta2109`, `3.0.3`]
 1. `io.github.scalapb-json:protoc-lint-shaded_2.12`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`]
 1. `io.github.tzfun.jvmm:jvmm-server`  -> [`1.0.0`]
@@ -1070,8 +1070,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.openidentityplatform.commons.json-schema:cli`  -> [`2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`]
 1. `org.openidentityplatform.opendj:opendj-openidm-account-change-notification-handler`  -> [`4.5.2`, `4.5.3`, `4.5.4`, `4.5.5`, `4.5.6`, `4.5.7`, `4.5.8`, `4.5.9`, `4.6.1`, `4.6.2`, `4.6.3`, `4.6.4`]
 1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`]
-1. `org.projectnessie.nessie:nessie-cli`  -> [`0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`]
-1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`]
+1. `org.projectnessie.nessie:nessie-cli`  -> [`0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`, `0.92.1`]
+1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`, `0.92.1`]
 1. `org.projectnessie.nessie:nessie-versioned-persist-bench`  -> [`0.51.1`, `0.52.0`, `0.52.1`, `0.52.3`, `0.53.0`, `0.53.1`, `0.54.0`, `0.55.0`, `0.56.0`, `0.57.0`, `0.58.0`, `0.58.1`, `0.59.0`, `0.60.0`, `0.60.1`, `0.61.0`, `0.62.0`, `0.62.1`, `0.63.0`, `0.64.0`, `0.65.0`, `0.65.1`, `0.66.0`, `0.67.0`, `0.68.0`, `0.69.0`, `0.69.1`, `0.69.2`, `0.70.0`, `0.70.1`, `0.70.2`, `0.70.3`, `0.71.0`, `0.71.1`, `0.72.0`, `0.72.1`, `0.72.2`, `0.72.4`, `0.73.0`, `0.74.0`]
 1. `org.projectnessie:nessie-content-generator`  -> [`0.14.0`, `0.15.0`, `0.15.1`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`, `0.20.1`, `0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`, `0.23.0`, `0.23.1`, `0.24.0`, `0.25.0`, `0.26.0`, `0.27.0`, `0.28.0`, `0.29.0`, `0.30.0`, `0.40.2`, `0.40.3`, `0.41.0`, `0.42.0`, `0.43.0`, `0.44.0`, `0.45.0`, `0.46.0`, `0.46.2`, `0.46.3`, `0.46.5`, `0.46.7`, `0.47.0`, `0.47.1`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`]
 1. `org.projectnessie:nessie-gc-tool`  -> [`0.44.0`, `0.45.0`, `0.46.0`, `0.46.2`, `0.46.3`, `0.46.5`, `0.46.7`, `0.47.0`, `0.47.1`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`]
@@ -1280,8 +1280,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.0.0`]
 1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
 1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`, `1.2.0`]
-1. `org.apache.hudi:hudi-cli-bundle_2.11`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-cli-bundle_2.12`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
+1. `org.apache.hudi:hudi-cli-bundle_2.11`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-cli-bundle_2.12`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.hugegraph:computer-k8s-operator`  -> [`1.0.0`, `1.2.0`]
 1. `org.apache.inlong:sort-connector-tubemq`  -> [`1.3.0`, `1.4.0`, `1.5.0`, `1.6.0`, `1.7.0`, `1.9.0`]
 1. `org.apache.jena:jena-fuseki-fulljar`  -> [`3.15.0`, `3.16.0`, `3.17.0`, `4.0.0`, `4.1.0`, `4.2.0`]
@@ -1354,7 +1354,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 213 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 214 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `ai.tecton:java-client`  -> [`0.2.0`]
@@ -1510,27 +1510,28 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.mamoe:kotlin-jvm-blocking-bridge-compiler-embeddable`  -> [`1.10.3-dev-2`, `1.10.4`, `1.10.6`, `1.10.6-1530`, `1.10.6-1530.2`]
 1. `net.mbonnin.sqldelight:gradle-plugin`  -> [`1.5.5`, `1.5.6`]
 1. `net.nurigo:sdk`  -> [`4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`]
+1. `org.apache.hudi:hudi-examples-k8s`  -> [`1.0.0-beta2`]
 1. `org.apache.hudi:hudi-flink1.13-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-flink1.14-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-flink1.16-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-flink1.17-bundle`  -> [`0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-flink1.18-bundle`  -> [`1.0.0-beta1`]
-1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-kafka-connect-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark2.4-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark2.4-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
+1. `org.apache.hudi:hudi-flink1.14-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-flink1.16-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-flink1.17-bundle`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-flink1.18-bundle`  -> [`1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-kafka-connect-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark2.4-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark2.4-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`]
-1. `org.apache.hudi:hudi-spark3.0-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark3.1-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark3.2-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
+1. `org.apache.hudi:hudi-spark3.0-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.1-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.2-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`]
-1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-utilities-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-utilities-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-utilities-bundle_2.13`  -> [`0.15.0`]
+1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-utilities-bundle_2.11`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-utilities-bundle_2.12`  -> [`0.12.2`, `0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-utilities-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`]
 1. `org.apache.hudi:hudi-utilities-slim-bundle_2.11`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
 1. `org.apache.hudi:hudi-utilities-slim-bundle_2.12`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
 1. `org.apache.inlong:sort-connector-hudi-v1.15`  -> [`1.10.0`, `1.11.0`, `1.12.0`]
@@ -2003,7 +2004,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.thepavel:jpql-builder`  -> [`0.4.0`]
 1. `org.treblereel.gwt.gwtproject.resources:gwt-resources-processor`  -> [`202203291`]
 1. `pl.morgwai.base:servlet-scopes`  -> [`4.2-javax`, `5.0-javax`, `6.0-javax`, `6.1-javax`]
-1. `video.bug:unlogged-sdk`  -> [`0.0.27`, `0.0.29`, `0.1.1`, `0.1.2`, `0.1.46`, `0.1.47`, `0.1.48`, `0.1.49`, `0.1.50`, `0.1.51`, `0.1.52`, `0.1.53`, `0.1.54`, `0.1.55`, `0.1.56`, `0.1.57`, `0.1.58`, `0.1.59`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.3.9`, `0.3.10`, `0.3.10-jakarta-exlucded`, `0.3.11`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.7`, `0.4.8`, `0.4.10`, `0.4.11`, `0.4.12`, `0.4.13`, `0.4.14`, `0.4.17`, `0.4.18`, `0.4.19`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.4`, `0.5.6`, `0.5.7`, `0.5.8`, `0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.6.6`]
+1. `video.bug:unlogged-sdk`  -> [`0.0.27`, `0.0.29`, `0.1.1`, `0.1.2`, `0.1.46`, `0.1.47`, `0.1.48`, `0.1.49`, `0.1.50`, `0.1.51`, `0.1.52`, `0.1.53`, `0.1.54`, `0.1.55`, `0.1.56`, `0.1.57`, `0.1.58`, `0.1.59`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.3.5`, `0.3.6`, `0.3.7`, `0.3.8`, `0.3.9`, `0.3.10`, `0.3.10-jakarta-exlucded`, `0.3.11`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.7`, `0.4.8`, `0.4.10`, `0.4.11`, `0.4.12`, `0.4.13`, `0.4.14`, `0.4.17`, `0.4.18`, `0.4.19`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.4`, `0.5.6`, `0.5.7`, `0.5.8`, `0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.6.6`, `0.6.7`]
 
 ## org.bouncycastle.provider
 
@@ -2193,8 +2194,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.dominokit:domino-auto-processor`  -> [`1.0.2`]
 1. `org.eclipse.vorto:generator-lambda-executor`  -> [`1.0.0`]
 1. `org.eclipse.vorto:generator-lambda-plugininfo`  -> [`1.0.0`]
-1. `org.kie.j2cl.tools.di.ui:generator`  -> [`0.6`]
-1. `org.kie.j2cl.tools.di:processor`  -> [`0.6`]
+1. `org.kie.j2cl.tools.di.ui:generator`  -> [`0.6`, `0.7`]
+1. `org.kie.j2cl.tools.di:processor`  -> [`0.6`, `0.7`]
 1. `org.kie.j2cl.tools.processors:processors`  -> [`0.6.4`, `0.7.0`]
 1. `org.minijax:minijax-example-hello`  -> [`0.5.10`]
 1. `org.minijax:minijax-example-minitwit`  -> [`0.5.10`]
@@ -2465,11 +2466,11 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:spark-doris-connector-3.4_2.12`  -> [`1.3.1`, `1.3.2`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-doris`  -> [`3.1.0`, `3.1.1`]
 1. `org.apache.flink:flink-sql-connector-mongodb-cdc`  -> [`3.1.0`, `3.1.1`]
-1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark3.4-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`]
-1. `org.apache.hudi:hudi-spark3.5-bundle_2.12`  -> [`0.15.0`]
-1. `org.apache.hudi:hudi-spark3.5-bundle_2.13`  -> [`0.15.0`]
+1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.4-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.5-bundle_2.12`  -> [`0.15.0`, `1.0.0-beta2`]
+1. `org.apache.hudi:hudi-spark3.5-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`]
 1. `org.apache.iceberg:iceberg-azure-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `org.apache.iceberg:iceberg-spark-runtime-2.4`  -> [`1.2.0`, `1.2.1`]
 1. `org.apache.iceberg:iceberg-spark-runtime-3.1_2.12`  -> [`1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`]
@@ -2969,7 +2970,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `me.confuser.banmanager.BanManagerLibs:BanManagerLibs`  -> [`7.7.0`, `7.8.0`, `7.9.0`]
 1. `org.apache.flink:flink-sql-connector-db2-cdc`  -> [`3.1.0`, `3.1.1`]
 1. `org.apache.flink:flink-sql-connector-postgres-cdc`  -> [`3.1.0`, `3.1.1`]
-1. `org.apache.hudi:hudi-metaserver-server-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`]
+1. `org.apache.hudi:hudi-metaserver-server-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.inlong:sort-connector-mysql-cdc-v1.15`  -> [`1.10.0`, `1.11.0`, `1.12.0`]
 1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.3`, `2.3.4`, `2.3.5`]
 1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`]
@@ -3643,7 +3644,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-runners-flink-1.15-job-server`  -> [`2.40.0`, `2.41.0`]
 1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`]
 1. `org.pitest:pitest-aggregator`  -> [`1.16.1`]
-1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`]
+1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`, `0.92.1`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.6.0`, `2.6.1`, `2.6.2`]
 
 ## jakarta.activation
@@ -4324,6 +4325,16 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ru.cwcode:PaperCommands`  -> [`1.0`, `1.0.1`, `1.0.3`, `1.0.4`, `1.1.0`]
 1. `ru.cwcode:VelocityCommands`  -> [`1.0`, `1.0.1`, `1.0.3`, `1.0.4`, `1.1.0`]
 
+## org.apache.commons.fileupload2.jakarta.servlet6
+
+1. `cloud.piranha.dist:piranha-dist-servlet`  -> [`24.7.0`]
+1. `cloud.piranha.dist:piranha-dist-webprofile`  -> [`24.7.0`]
+1. `io.telicent.smart-caches.graph:scg-server`  -> [`0.80.1`]
+1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.0`, `1.2.1`]
+1. `org.apache.commons:commons-fileupload2-jakarta-servlet6` 🧩 -> [`2.0.0-M2`]
+1. `org.apache.jena:jena-fuseki-fulljar`  -> [`5.0.0`]
+1. `org.apache.jena:jena-fuseki-server`  -> [`5.0.0`]
+
 ## org.burningwave.core
 
 1. `ml.karmaconfigs:KarmaAPI-Bukkit`  -> [`1.3.2`]
@@ -4478,6 +4489,22 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.duracloud:account-management-monitor`  -> [`8.0.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-test-beatrix`  -> [`0.40.0`, `0.40.1`, `0.40.7`]
 
+## com.fasterxml.jackson.dataformat.smile
+
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-smile` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`]
+1. `io.acryl:datahub-auth-api`  -> [`0.11.0rc1`, `0.11.0`, `0.11.0-1rc1`, `0.11.0-1`, `0.11.0-2`, `0.11.0-3rc1`, `0.11.0-3rc2`, `0.11.0-3`, `0.11.0-4rc1`, `0.11.0-4`, `0.11.0-5rc2`, `0.11.0-5rc3`, `0.11.0-5rc4`, `0.11.0-5rc5`, `0.11.0-5rc6`, `0.11.0-5`, `0.11.0-6rc1`, `0.12.0rc1`, `0.12.0rc2`, `0.12.0`, `0.12.0-1rc1`, `0.12.0-1rc2`, `0.12.0-1`, `0.12.0-2`, `0.12.0-4rc1`, `0.12.0-4`, `0.12.0-5rc1`, `0.12.0-5rc2`, `0.12.0-5`, `0.12.1`, `0.12.1-1rc1`, `0.12.1-1rc2`, `0.12.1-1rc3`, `0.12.1-1`, `0.12.1-5rc1`, `0.12.1-5rc2`, `0.12.1-5rc3`, `0.12.1-5rc5`, `0.12.1-5`, `0.12.1-6rc1`, `0.12.1-6rc2`, `0.12.1-6rc3`, `0.12.1-6rc4`, `0.12.1-6rc5`, `0.12.1-6rc6`]
+1. `io.acryl:datahub-protobuf`  -> [`0.12.1-5rc1`, `0.12.1-5rc2`, `0.12.1-5rc3`, `0.12.1-5rc5`, `0.12.1-5`, `0.12.1-6rc1`, `0.12.1-6rc2`, `0.12.1-6rc3`, `0.12.1-6rc4`, `0.12.1-6rc5`, `0.12.1-6rc6`, `0.13.1-3rc14`, `0.13.1-3rc15`, `0.13.1-3rc16`, `0.13.1-3rc17`, `0.13.1-3`, `0.13.1-4rc1`, `0.13.1-4rc2`, `0.13.1-4rc3`, `0.13.1-4rc4`, `0.13.2`, `0.13.2-1rc1`, `0.13.2-1rc2`, `0.13.2-1rc3`, `0.13.2-1`, `0.13.2-2rc1`, `0.13.2-2rc2`, `0.13.2-2rc3`, `0.13.2-2`, `0.13.2-3rc1`, `0.13.2-3`, `0.13.2-4rc1`, `0.13.2-4rc2`, `0.13.2-4`, `0.13.2-5rc1`, `0.13.2-5rc2`, `0.13.3rc1`, `0.13.3rc3`, `0.13.3rc4`, `0.13.3rc5`, `0.13.3rc6`, `0.13.3rc7`, `0.13.3rc8`, `0.13.3rc9`, `0.13.3rc10`, `0.13.3rc11`, `0.13.3rc12`, `0.13.3rc13`, `0.13.3rc14`, `0.13.3rc15`, `0.13.3rc16`, `0.13.3rc17`, `0.13.3`, `0.13.3-1rc3`, `0.13.3-1rc4`, `0.13.3-1rc5`, `0.13.3-3rc3`, `0.13.3-3rc4`, `0.13.3-3`]
+1. `org.apache.hudi:hudi-datahub-sync-bundle`  -> [`1.0.0-beta2`]
+1. `org.elasticsearch:elasticsearch-x-content`  -> [`8.2.0`, `8.2.3`]
+
+## com.fasterxml.jackson.module.afterburner
+
+1. `com.fasterxml.jackson.module:jackson-module-afterburner` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`]
+1. `org.apache.hudi:hudi-cli-bundle_2.13`  -> [`1.0.0-beta2`]
+1. `org.apache.hudi:hudi-utilities-slim-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`]
+1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.2.0`]
+1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.2`, `0.40.3`, `0.40.4`]
+
 ## com.github.librepdf.openpdf
 
 1. `com.github.librepdf:openpdf` 🧩 -> [`1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.27`, `1.3.28`, `1.3.29`, `1.3.30`, `1.3.31`, `1.3.32`, `1.3.33`, `1.3.34`, `1.3.35`, `1.3.36`]
@@ -4582,14 +4609,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.pustike:commons-csv`  -> [`1.6.0`, `1.7.0`]
 1. `org.apache.commons:commons-csv` 🧩 -> [`1.11.0`]
 
-## org.apache.commons.fileupload2.jakarta.servlet6
-
-1. `io.telicent.smart-caches.graph:scg-server`  -> [`0.80.1`]
-1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.0`, `1.2.1`]
-1. `org.apache.commons:commons-fileupload2-jakarta-servlet6` 🧩 -> [`2.0.0-M2`]
-1. `org.apache.jena:jena-fuseki-fulljar`  -> [`5.0.0`]
-1. `org.apache.jena:jena-fuseki-server`  -> [`5.0.0`]
-
 ## org.apache.logging.log4j.api.scala
 
 1. `org.apache.logging.log4j:log4j-api-scala_2.10`  -> [`13.0.0`, `13.1.0`]
@@ -4667,26 +4686,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.62.0`, `1.64.0`]
 1. `org.apache.jackrabbit:oak-run`  -> [`1.62.0`, `1.64.0`]
 
-## com.fasterxml.jackson.dataformat.smile
-
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-smile` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`]
-1. `io.acryl:datahub-auth-api`  -> [`0.11.0rc1`, `0.11.0`, `0.11.0-1rc1`, `0.11.0-1`, `0.11.0-2`, `0.11.0-3rc1`, `0.11.0-3rc2`, `0.11.0-3`, `0.11.0-4rc1`, `0.11.0-4`, `0.11.0-5rc2`, `0.11.0-5rc3`, `0.11.0-5rc4`, `0.11.0-5rc5`, `0.11.0-5rc6`, `0.11.0-5`, `0.11.0-6rc1`, `0.12.0rc1`, `0.12.0rc2`, `0.12.0`, `0.12.0-1rc1`, `0.12.0-1rc2`, `0.12.0-1`, `0.12.0-2`, `0.12.0-4rc1`, `0.12.0-4`, `0.12.0-5rc1`, `0.12.0-5rc2`, `0.12.0-5`, `0.12.1`, `0.12.1-1rc1`, `0.12.1-1rc2`, `0.12.1-1rc3`, `0.12.1-1`, `0.12.1-5rc1`, `0.12.1-5rc2`, `0.12.1-5rc3`, `0.12.1-5rc5`, `0.12.1-5`, `0.12.1-6rc1`, `0.12.1-6rc2`, `0.12.1-6rc3`, `0.12.1-6rc4`, `0.12.1-6rc5`, `0.12.1-6rc6`]
-1. `io.acryl:datahub-protobuf`  -> [`0.12.1-5rc1`, `0.12.1-5rc2`, `0.12.1-5rc3`, `0.12.1-5rc5`, `0.12.1-5`, `0.12.1-6rc1`, `0.12.1-6rc2`, `0.12.1-6rc3`, `0.12.1-6rc4`, `0.12.1-6rc5`, `0.12.1-6rc6`, `0.13.1-3rc14`, `0.13.1-3rc15`, `0.13.1-3rc16`, `0.13.1-3rc17`, `0.13.1-3`, `0.13.1-4rc1`, `0.13.1-4rc2`, `0.13.1-4rc3`, `0.13.1-4rc4`, `0.13.2`, `0.13.2-1rc1`, `0.13.2-1rc2`, `0.13.2-1rc3`, `0.13.2-1`, `0.13.2-2rc1`, `0.13.2-2rc2`, `0.13.2-2rc3`, `0.13.2-2`, `0.13.2-3rc1`, `0.13.2-3`, `0.13.2-4rc1`, `0.13.2-4rc2`, `0.13.2-4`, `0.13.2-5rc1`, `0.13.2-5rc2`, `0.13.3rc1`, `0.13.3rc3`, `0.13.3rc4`, `0.13.3rc5`, `0.13.3rc6`, `0.13.3rc7`, `0.13.3rc8`, `0.13.3rc9`, `0.13.3rc10`, `0.13.3rc11`, `0.13.3rc12`, `0.13.3rc13`, `0.13.3rc14`, `0.13.3rc15`, `0.13.3rc16`, `0.13.3rc17`, `0.13.3`, `0.13.3-1rc3`, `0.13.3-1rc4`, `0.13.3-1rc5`, `0.13.3-3rc3`, `0.13.3-3rc4`, `0.13.3-3`]
-1. `org.elasticsearch:elasticsearch-x-content`  -> [`8.2.0`, `8.2.3`]
-
 ## com.fasterxml.jackson.kotlin
 
 1. `com.expediagroup.openworld.sdk:openworld-java-sdk-fraudprevention`  -> [`0.7.1`, `0.7.2`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.12.1`, `0.13.0`]
 1. `com.expediagroup.openworld.sdk:openworld-java-sdk-fraudpreventionv2`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`, `1.4.0`, `2.0.0`]
 1. `com.expediagroup.openworld.sdk:openworld-java-sdk-rapid`  -> [`1.0.0-snapshot`, `1.0.0`, `1.1.0`, `2.0.0`, `3.0.0`]
 1. `com.fasterxml.jackson.module:jackson-module-kotlin`  -> [`2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`]
-
-## com.fasterxml.jackson.module.afterburner
-
-1. `com.fasterxml.jackson.module:jackson-module-afterburner` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`]
-1. `org.apache.hudi:hudi-utilities-slim-bundle_2.13`  -> [`0.15.0`]
-1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.2.0`]
-1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.2`, `0.40.3`, `0.40.4`]
 
 ## com.github.benmanes.caffeine
 
