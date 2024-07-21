@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x330
 1. `org.apache.logging.log4j` x240
 1. `kotlin.stdlib.jdk8` x214
-1. `org.slf4j` x173
+1. `org.slf4j` x174
 1. `kotlin.stdlib` x136
 1. `net.bytebuddy` x108
 1. `org.bouncycastle.provider` x104
@@ -582,7 +582,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `fish.payara.security.connectors:security-connector-oidc-client`  -> [`3.0.alpha8`, `3.1`]
 1. `ga.palomox.lightrest:lightrest`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.2.10`, `1.2.11`]
 1. `hu.icellmobilsoft.coffee:coffee-grpc-protoc`  -> [`2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`, `2.6.0`, `2.7.0`]
-1. `io.deephaven:deephaven-oidc-authentication-provider`  -> [`0.35.0`]
+1. `io.deephaven:deephaven-oidc-authentication-provider`  -> [`0.35.0`, `0.35.1`]
 1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.12.16`  -> [`0.1.4`]
 1. `io.github.fehu:opentracing-scalac-implicits-jaeger_2.13.8`  -> [`0.1.4`]
 1. `io.github.gajendragusain:EmbeddedHttpServer`  -> [`0.1.2`, `0.1.3`]
@@ -594,7 +594,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
 1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
 1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`]
-1. `io.github.padreati:rapaio-jupyter-kernel`  -> [`1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`]
+1. `io.github.padreati:rapaio-jupyter-kernel`  -> [`1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `2.0.0`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
 1. `io.github.panderior:minireal-annotation`  -> [`1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`]
 1. `io.github.realmangorage:gradleutils`  -> [`3.0.2`, `3.0.2.build_lzih968r8b5ktmvtghtlegjw$_run_closure1@36e067c5`, `3.0.2.2033`, `3.0.2-beta2047`, `3.0.2-beta2049`, `3.0.2-beta2053`, `3.0.2-beta2060`, `3.0.2-beta2061`, `3.0.2-beta2068`, `3.0.2-beta2074`, `3.0.2-beta2078`, `3.0.2-beta2081`, `3.0.2-beta2082`, `3.0.2-beta2083`, `3.0.2-beta2086`, `3.0.2-beta2089`, `3.0.2-beta2093`, `3.0.2-beta2094`, `3.0.2-beta2100`, `3.0.2-beta2102`, `3.0.2-beta2103`, `3.0.2-beta2106`, `3.0.2-beta2108`, `3.0.2-beta2109`, `3.0.3`]
@@ -1577,7 +1577,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 173 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 174 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.12`]
@@ -1739,6 +1739,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.3`]
 1. `org.logevents:logevents-config-demo`  -> [`0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`, `0.5.5`]
 1. `org.logevents:logevents-smtp-demo`  -> [`0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.3.0`, `0.3.1`, `0.3.2`, `0.3.3`, `0.3.4`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.5.0`, `0.5.1`, `0.5.2`, `0.5.3`, `0.5.4`, `0.5.5`]
+1. `org.mustangproject:Mustang-CLI`  -> [`2.12.0`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.25`]
 1. `org.noear:luffy.executor.m.thymeleaf`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`]
 1. `org.noear:luffy.executor.m.velocity`  -> [`1.6.7`, `1.6.8`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.7.4`, `1.7.5`, `1.7.6`]
@@ -3125,7 +3126,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:commons-compress`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.heroku:heroku-jvm-application-deployer`  -> [`4.0.7`]
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.47.11-01`, `2.47.12-01`, `2.47.13-01`, `2.47.14-01`, `2.47.15-01`, `2.47.16-01`]
-1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`, `6.0.17`, `6.0.18`, `6.0.19`, `6.0.20`, `6.0.21`, `6.0.22`, `6.0.23`, `6.0.24`, `6.0.25`, `6.0.26`, `6.0.27`]
+1. `dev.monosoul.jooq:jooq-gradle-plugin`  -> [`5.0.9`, `5.0.10`, `5.0.11`, `6.0.0`, `6.0.1`, `6.0.2`, `6.0.3`, `6.0.4`, `6.0.5`, `6.0.6`, `6.0.7`, `6.0.8`, `6.0.9`, `6.0.10`, `6.0.11`, `6.0.12`, `6.0.13`, `6.0.14`, `6.0.15`, `6.0.16`, `6.0.17`, `6.0.18`, `6.0.19`, `6.0.20`, `6.0.21`, `6.0.22`, `6.0.23`, `6.0.24`, `6.0.25`, `6.0.26`, `6.0.27`, `6.0.28`]
 1. `io.acryl:datahub-auth-api`  -> [`0.13.1-3rc14`, `0.13.1-3rc15`, `0.13.1-3rc16`, `0.13.1-3rc17`, `0.13.1-3`, `0.13.1-4rc1`, `0.13.1-4rc2`, `0.13.1-4rc3`, `0.13.1-4rc4`, `0.13.2`, `0.13.2-1rc1`, `0.13.2-1rc2`, `0.13.2-1rc3`, `0.13.2-1`, `0.13.2-2rc1`, `0.13.2-2rc2`, `0.13.2-2rc3`, `0.13.2-2`, `0.13.2-3rc1`, `0.13.2-3`, `0.13.2-4rc1`, `0.13.2-4rc2`, `0.13.2-4`, `0.13.2-5rc1`, `0.13.2-5rc2`, `0.13.3rc1`, `0.13.3rc3`, `0.13.3rc4`, `0.13.3rc5`, `0.13.3rc6`, `0.13.3rc7`, `0.13.3rc8`, `0.13.3rc9`, `0.13.3rc10`, `0.13.3rc11`, `0.13.3rc12`, `0.13.3rc13`, `0.13.3rc14`, `0.13.3rc15`, `0.13.3rc16`, `0.13.3rc17`, `0.13.3`, `0.13.3-1rc3`, `0.13.3-1rc4`, `0.13.3-1rc5`, `0.13.3-3rc3`, `0.13.3-3rc4`, `0.13.3-3`, `0.13.3-4rc1`, `0.13.3-4rc3`]
 1. `io.bdeploy:api`  -> [`7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`, `7.1.4`, `7.1.5`]
 1. `io.github.1tchy.java9modular.org.apache.commons:commons-compress`  -> [`1.18.1`, `1.19.0`, `1.21.0`]
@@ -4553,7 +4554,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## com.github.luben.zstd_jni
 
 1. `ai.h2o:h2o-clustering`  -> [`3.46.0.2`, `3.46.0.3`, `3.46.0.4`]
-1. `com.github.luben:zstd-jni` 🧩 -> [`1.5.5-7`, `1.5.5-8`, `1.5.5-9`, `1.5.5-10`, `1.5.5-11`, `1.5.6-1`, `1.5.6-2`, `1.5.6-3`]
+1. `com.github.luben:zstd-jni` 🧩 -> [`1.5.5-7`, `1.5.5-8`, `1.5.5-9`, `1.5.5-10`, `1.5.5-11`, `1.5.6-1`, `1.5.6-2`, `1.5.6-3`, `1.5.6-4`]
 1. `com.guicedee.services:zstd-jni`  -> [`1.0.17.0-jre14`, `1.0.17.1-jre14`, `1.0.18.0-jre14`, `1.0.18.0-jre15`, `1.0.18.1-jre14`, `1.0.18.1-jre15`, `1.0.19.0-jre14`, `1.0.19.0-jre15`, `1.0.19.1-jre15`, `1.0.19.2-jre14`, `1.0.19.2-jre15`, `1.0.19.3-jre14`, `1.0.19.3-jre15`, `1.0.19.4-jre14`, `1.0.19.4-jre15`, `1.0.19.5-jre14`, `1.0.19.5-jre15`, `1.0.19.6-jre8`, `1.0.19.6-jre14`, `1.0.19.7-jre14`, `1.0.19.8-jre8`, `1.0.19.9-jre8`, `1.0.19.9-jre14`, `1.0.19.9-jre15`, `1.0.19.10-jre8`, `1.0.19.10-jre14`, `1.0.19.10-jre15`, `1.0.19.11-jre8`, `1.0.19.11-jre14`, `1.0.19.12-jre8`, `1.0.19.12-jre14`, `1.0.19.13-jre8`, `1.0.19.13-jre14`, `1.0.19.13-jre15`, `1.0.20.0-jre8`, `1.0.20.0-jre14`, `1.0.20.0-jre15`, `1.0.20.1-jre8`, `1.0.20.1-jre14`, `1.0.20.1-jre15`, `1.0.20.2-jre8`, `1.0.20.2-jre14`, `1.0.20.2-jre15`, `1.1.0.0-jre15`, `1.1.0.1-jre14`, `1.1.0.1-jre15`, `1.1.0.2-jre15`, `1.1.0.3-jre15`, `1.1.0.4-jre8`, `1.1.0.4-jre14`, `1.1.0.4-jre15`, `1.1.0.5-jre14`, `1.1.0.5-jre15`, `1.1.0.6-jre14`, `1.1.0.6-jre15`, `1.1.0.7-jre15`, `1.1.0.8-SNAPSHOT-jre14`, `1.1.1.0-SNAPSHOT-jre15`, `1.1.1.0-jre15`, `1.1.1.1-jre15-SP1`, `1.1.1.2-jre15`, `1.1.1.3-jre15`, `1.1.1.3-jre16`, `1.1.1.4-jre15`, `1.1.1.4-jre16`, `1.1.1.5-jre15`, `1.1.1.7-jre15`, `1.1.1.7-jre16`, `1.1.1.8-jre16`, `1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `org.chipsalliance:firtool-resolver_2.12`  -> [`2.0.0`]
 1. `org.chipsalliance:firtool-resolver_2.13`  -> [`2.0.0`]
@@ -5631,7 +5632,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.github.victools.jsonschema.generator
 
-1. `com.github.victools:jsonschema-generator` 🧩 -> [`4.29.0`, `4.30.0`, `4.31.0`, `4.31.1`, `4.32.0`, `4.33.0`, `4.33.1`, `4.34.0`, `4.35.0`]
+1. `com.github.victools:jsonschema-generator` 🧩 -> [`4.29.0`, `4.30.0`, `4.31.0`, `4.31.1`, `4.32.0`, `4.33.0`, `4.33.1`, `4.34.0`, `4.35.0`, `4.36.0`]
 1. `io.kestra:kestra`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.4`, `0.9.5`, `0.10.0`, `0.10.1`]
 1. `org.drools:drools-drlonyaml-schemagen`  -> [`8.39.0.Final`, `8.40.0.Final`, `8.41.0.Final`, `8.42.0.Final`, `9.42.0.Alpha`, `9.43.0.Alpha`, `9.44.0.Final`]
 
