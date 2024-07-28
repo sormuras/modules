@@ -714,7 +714,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.eclipse.californium:cf-plugtest-client`  -> [`3.5.0`, `3.6.0`, `3.7.0`]
 1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.0`, `0.0.1`, `0.0.2`]
 1. `org.glavo.hiper:u1`  -> [`1.2.5`, `1.2.6`, `1.2.8`]
-1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`]
+1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`, `3.5.8.250`]
 1. `org.glavo.hmcl:hmcl-stable`  -> [`3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`]
 1. `org.grpcmock:protoc-gen-java-optional`  -> [`1.9.0`, `1.10.0`]
 1. `org.iota:iota-client`  -> [`1.0.0-rc.1`]
@@ -2749,8 +2749,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 69 artifacts on Maven Central claim to be the module `org.yaml.snakeyaml`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.yaml.snakeyaml;`.
 
-1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.8.4`, `0.8.5`, `0.9.0`, `0.9.1`]
-1. `com.4paradigm.openmldb:openmldb-batchjob`  -> [`0.9.0`, `0.9.1`]
+1. `com.4paradigm.openmldb:openmldb-batch`  -> [`0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.8.4`, `0.8.5`, `0.9.0`, `0.9.1`, `0.9.2`]
+1. `com.4paradigm.openmldb:openmldb-batchjob`  -> [`0.9.0`, `0.9.1`, `0.9.2`]
 1. `com.appdynamics:appdynamics-injector`  -> [`23.4.1`, `23.6.0`, `23.7.1`, `23.7.2`, `24.1.0`, `24.4.0`, `24.4.1`]
 1. `com.arcmutate:base`  -> [`1.3.0`, `1.3.1`]
 1. `com.daml:codegen-jvm-main`  -> [`3.1.0-adhoc.20240527.13087.0.va0d93a12`, `3.1.0-adhoc.20240528.13090.0.v0ac55a50`, `3.1.0-adhoc.20240624.13151.0.vbad599d6`, `3.2.0-snapshot.20240722.13195.0.vd24c87ab`, `3.2.0-snapshot.20240723.13199.0.v2d43b886`, `3.2.0-snapshot.20240724.13201.0.v2357fdb4`, `3.2.0-snapshot.20240725.13204.0.vabe822d8`]
@@ -3065,7 +3065,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.jetbrains:annotations-java5` 🧩 -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.jetbrains:annotations`  -> [`21.0.0`, `21.0.1`, `22.0.0`, `23.0.0`, `23.1.0`, `24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.tallison.tika:tika-langdetect-optimaize-shaded`  -> [`2.9.1.0`]
-1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`, `2024.1.17`, `2024.1.18`, `2024.1.19`, `2024.1.20`, `2024.1.21`, `2024.1.22`, `2024.1.23`, `2024.1.25`, `2024.1.26`, `2024.1.27`, `2024.1.28`]
+1. `systems.manifold:manifold-all`  -> [`2023.1.18`, `2023.1.19`, `2023.1.20`, `2023.1.21`, `2023.1.22`, `2023.1.24`, `2023.1.25`, `2023.1.26`, `2023.1.27`, `2023.1.28`, `2023.1.29`, `2023.1.30`, `2023.1.31`, `2023.1.32`, `2023.1.33`, `2024.1.0`, `2024.1.1`, `2024.1.2`, `2024.1.3`, `2024.1.4`, `2024.1.5`, `2024.1.6`, `2024.1.7`, `2024.1.8`, `2024.1.9`, `2024.1.10`, `2024.1.11`, `2024.1.12`, `2024.1.13`, `2024.1.14`, `2024.1.15`, `2024.1.16`, `2024.1.17`, `2024.1.18`, `2024.1.19`, `2024.1.20`, `2024.1.21`, `2024.1.22`, `2024.1.23`, `2024.1.25`, `2024.1.26`, `2024.1.27`, `2024.1.28`, `2024.1.29`]
 1. `xyz.wasabicodes:matlib`  -> [`1.1.0`, `1.1.1`, `1.1.2`]
 
 ## lombok
@@ -3735,7 +3735,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.pravega:pravega-test-system`  -> [`0.9.0`, `0.9.1`]
 1. `jakarta.ws.rs:jakarta.ws.rs-api`  -> [`2.1.2`, `2.1.4`, `2.1.5`, `2.1.6`]
 1. `javax.ws.rs:javax.ws.rs-api`  -> [`2.1.1`]
-1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`, `2.0.43`, `2.0.44`, `2.0.45`, `2.0.46`, `2.0.47`, `2.0.48`, `2.0.49`]
+1. `net.oneandone.ioc-unit:ioc-unit-wf24-specs`  -> [`2.0.42`, `2.0.43`, `2.0.44`, `2.0.45`, `2.0.46`, `2.0.47`, `2.0.48`, `2.0.49`, `2.0.50`]
 1. `net.sf.ehcache.internal:ehcache-rest-agent`  -> [`2.10.9`, `2.10.9.2`]
 1. `net.sf.ehcache:ehcache`  -> [`2.10.8`, `2.10.9.2`]
 1. `org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec`  -> [`2.0.0.CR2`, `2.0.1.Final`, `2.0.2.Final`]
