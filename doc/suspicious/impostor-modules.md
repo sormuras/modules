@@ -18,7 +18,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `java.xml.bind` x84
 1. `com.fasterxml.jackson.datatype.jsr310` x79
 1. `com.fasterxml.jackson.annotation` x78
-1. `org.bouncycastle.pkix` x74
+1. `org.bouncycastle.pkix` x75
 1. `com.fasterxml.jackson.module.jaxb` x71
 1. `org.yaml.snakeyaml` x69
 1. `org.objectweb.asm` x63
@@ -2423,7 +2423,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 79 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
 
-1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`]
+1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`, `1.0.0-beta.4`]
 1. `com.datastrato.gravitino:client-java-runtime`  -> [`0.1.8`, `0.3.0`, `0.3.1`, `0.4.0`, `0.5.0`, `0.5.1`]
 1. `com.datastrato.gravitino:filesystem-hadoop3-runtime`  -> [`0.5.0`, `0.5.1`]
 1. `com.datastrato.gravitino:spark-connector-runtime`  -> [`0.5.0`]
@@ -2589,7 +2589,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.bouncycastle.pkix
 
-For example, at least 74 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 75 artifacts on Maven Central claim to be the module `org.bouncycastle.pkix`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.bouncycastle.pkix;`.
 
 1. `com.alibaba.ververica:ververica-connector-hudi`  -> [`1.13-vvr-4.0.15`, `1.15-vvr-6.0.2-3`, `1.17-vvr-8.0.8`]
@@ -2600,6 +2600,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.datastax.oss:pulsar-jms-all`  -> [`1.0.0-ALPHA`, `1.0.0`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`]
 1. `com.exasol:exasol-jdbc`  -> [`24.0.0`, `24.1.0`, `24.1.1`]
 1. `com.foilen:foilen-infra-plugins-core`  -> [`0.22.0`]
+1. `com.github.toolarium:toolarium-jwebserver`  -> [`1.2.0`]
 1. `com.github.toolarium:toolarium-network`  -> [`1.0.0`]
 1. `com.guicedee.services:bouncycastle`  -> [`1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `com.intuit.karate:karate-core`  -> [`1.2.0.RC2`, `1.2.0.RC3`, `1.2.0.RC4`]
@@ -3800,7 +3801,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `eu.kennytv.maintenance:maintenance-sponge`  -> [`4.2.1`]
 1. `eu.kennytv.maintenance:maintenance`  -> [`4.2.1`]
 1. `io.github.fisher2911:FishCore`  -> [`1.0.0`]
-1. `io.github.rysefoxx.inventory:RyseInventory-Plugin`  -> [`1.6.0`, `1.6.5.6-DEV`, `1.6.5.7-DEV`, `1.6.5.8-DEV`, `1.6.5.9-DEV`, `1.6.5.10-DEV`, `1.6.5.11-DEV`, `1.6.5.12-DEV`, `1.6.5.13-DEV`, `1.6.5.16-DEV`, `1.6.5.17-DEV`]
+1. `io.github.rysefoxx.inventory:RyseInventory-Plugin`  -> [`1.6.0`, `1.6.5.6-DEV`, `1.6.5.7-DEV`, `1.6.5.8-DEV`, `1.6.5.9-DEV`, `1.6.5.10-DEV`, `1.6.5.11-DEV`, `1.6.5.12-DEV`, `1.6.5.13-DEV`, `1.6.5.16-DEV`, `1.6.5.17-DEV`, `1.6.5.21-DEV`]
 1. `net.kyori:examination-string` 🧩 -> [`1.3.0`]
 1. `net.silthus.schat:schat-bukkit`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
 1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
@@ -3860,7 +3861,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-connector-hive`  -> [`1.9.0`, `1.10.0`, `1.11.0`, `1.12.0`]
 1. `org.apache.inlong:sort-connector-jdbc`  -> [`1.9.0`, `1.10.0`, `1.11.0`, `1.12.0`]
 1. `org.apache.inlong:sort-connector-kudu`  -> [`1.12.0`]
-1. `org.incenp:sssom-cli`  -> [`0.7.8`, `0.7.9`]
+1. `org.incenp:sssom-cli`  -> [`0.7.8`, `0.7.9`, `0.8.0`]
 1. `org.sonarsource.javascript:sonar-javascript-plugin`  -> [`10.7.0.22914`, `10.8.0.24207`, `10.9.0.24449`, `10.10.0.24774`, `10.11.0.25043`, `10.11.1.25225`, `10.12.0.25537`]
 1. `org.tukaani:xz` 🧩 -> [`1.9`]
 
@@ -4111,7 +4112,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.zuinnote:hiveserde`  -> [`1.6.0`]
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `io.kestra.plugin:plugin-serdes`  -> [`0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
-1. `io.luchta:forma4j`  -> [`1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`]
+1. `io.luchta:forma4j`  -> [`1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`8.16.0.Beta`, `8.16.1.Beta`, `8.17.0.Beta`, `8.18.0.Beta`, `8.19.0.Beta`, `8.20.0.Beta`, `8.21.0.Beta`, `8.22.0.Beta`, `8.22.1.Beta`, `8.23.0.Beta`, `8.24.0.Beta`, `8.29.0.Final`, `8.30.0.Final`, `8.31.0.Final`, `8.31.1.Final`, `8.32.0.Final`, `8.33.0.Final`, `8.34.0.Final`, `8.35.0.Final`, `8.36.0.Final`, `8.37.0.Final`, `8.38.0.Final`, `8.39.0.Final`, `9.43.0.Alpha`, `9.44.0.Final`]
 
