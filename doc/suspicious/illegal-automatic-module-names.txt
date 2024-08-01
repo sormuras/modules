@@ -329,7 +329,7 @@ io.github.yakovsirotkin:machamp-oracle-spring-boot-starter:0.0.26 -> io.github.y
 io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.github.yakovsirotkin:machamp-sqlserver-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
-io.qameta.allure:allure-junit5-assert:2.28.0 -> io.qameta.allure.junit5-assert
+io.qameta.allure:allure-junit5-assert:2.28.1 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.1 -> io.skullabs.apt.class-generator
 io.skullabs.injector:injector-core:1.5.3 -> io.skullabs.injector.injector-core
 io.skullabs.injector:injector-processor:1.5.3 -> io.skullabs.injector.injector-processor
@@ -418,7 +418,7 @@ org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.0 -> org.apache.mav
 org.apache.pekko:pekko-projection-durable-state_2.12:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.0.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.0.0 -> pekko.projection.durable-state
-org.apache.sshd:sshd-spring-sftp:2.13.1 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:2.13.2 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:10.0.0-M2 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:10.0.0-M2 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:10.0.0-M2 -> org.apache.tomee.bom.tomee-plume
@@ -1629,7 +1629,7 @@ org.linguafranca.pwdb:KeePassJava2-jaxb:2.2.1 -> org.linguafranca.pwdb.KeePassJa
 org.linguafranca.pwdb:KeePassJava2-kdb:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-kdb
 org.linguafranca.pwdb:KeePassJava2-kdbx:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-kdbx
 org.linguafranca.pwdb:KeePassJava2-simple:2.2.1 -> org.linguafranca.pwdb.KeePassJava2-simple
-org.logicng:logicng-parser-j8:2.5.0 -> logicng-parser-j8
+org.logicng:logicng-parser-j8:2.5.1 -> logicng-parser-j8
 org.mongodb.scala:mongo-scala-bson:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-bson
 org.mongodb.scala:mongo-scala-driver:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-driver
 org.natspal:nconsole-client-api:0.5.5 -> org.natspal.nconsole-client-api
