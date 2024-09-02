@@ -370,8 +370,8 @@ io.synadia:jnats-retrier:0.0.1 -> io.synadia.jnats-retrier
 name.remal:public-data:2020.9.18-180019 -> name.remal.public-data
 net.bzzt:reproducible-build:0.3 -> net.bzzt.reproducible-build
 net.corda:corda-class-info:5.0.0-DevPreview -> net.corda.class.info
-net.corda:corda-core-1.2:4.12 -> net.corda.core.1.2
-net.corda:corda-serialization-1.2:4.12 -> net.corda.serialization.1.2
+net.corda:corda-core-1.2:4.12.1 -> net.corda.core.1.2
+net.corda:corda-serialization-1.2:4.12.1 -> net.corda.serialization.1.2
 net.dreamlu:mica-plus-error-catch:1.2.2 -> mica.plus.error.catch
 net.java.truevfs:truevfs-profile-default:0.14.0 -> net.java.truevfs.profile.default
 net.java.truevfs:truevfs-profile-default_2.10:0.12.2 -> net.java.truevfs.profile.default
@@ -1637,7 +1637,9 @@ org.neo4j:neo4j-expressions-3.5:3.5.35 -> -
 org.neo4j:neo4j-parser-3.5:3.5.35 -> -
 org.neo4j:neo4j-rewriting-3.5:3.5.35 -> -
 org.optaplanner:optaplanner-docs:7.24.0.t043 -> -
-org.pfsw:pf-julea-log4j2:1.1.0 -> org.pfsw.julea-log4j2
+org.pfsw:pf-julea-core:1.0.0 -> org.pfsw.julea-core
+org.pfsw:pf-julea-log4j2:2.0.0 -> org.pfsw.julea-log4j2
+org.pfsw:pf-julea-logback:1.0.0 -> org.pfsw.julea-logback
 org.pharmgkb:vcf-parser:0.3.1 -> org.pharmgkb.vcf-parser
 org.queryman:queryman-builder:1.0.0 -> queryman-builder
 org.selenide:selenide-selenoid:6.15.0 -> org.selenide.selenide-selenoid
