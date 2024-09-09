@@ -808,8 +808,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-bitbucket-server-command-line`  -> [`1.40.0`, `1.40.2`, `1.41.0`, `1.41.1`, `2.0.0`, `2.1.0`, `2.1.1`]
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.24.0`, `1.25.0`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.31.0`, `1.32.0`, `1.32.1`, `1.32.2`, `1.33.0`, `1.34.0`]
-1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`, `1.22.4`, `1.22.5`, `1.22.6`, `1.22.7`, `1.22.8`, `1.22.9`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.3`, `1.25.0`, `1.25.1`, `1.25.2`, `1.25.3`, `2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`, `3.0.1`, `3.0.2`]
-1. `se.bjurr.violations:violations-git-lib`  -> [`1.47.0`, `1.47.1`, `1.47.2`, `1.47.3`, `1.47.4`, `1.47.5`, `1.47.6`, `1.47.7`, `1.48.0`, `1.49.0`, `1.49.1`, `1.49.2`, `1.49.3`, `1.49.4`, `2.0.0`, `2.1.0`, `2.1.1`]
+1. `se.bjurr.violations:violations-command-line`  -> [`1.22.0`, `1.22.1`, `1.22.3`, `1.22.4`, `1.22.5`, `1.22.6`, `1.22.7`, `1.22.8`, `1.22.9`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.3`, `1.25.0`, `1.25.1`, `1.25.2`, `1.25.3`, `2.0.0`, `2.1.0`, `2.1.1`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
+1. `se.bjurr.violations:violations-git-lib`  -> [`1.47.0`, `1.47.1`, `1.47.2`, `1.47.3`, `1.47.4`, `1.47.5`, `1.47.6`, `1.47.7`, `1.48.0`, `1.49.0`, `1.49.1`, `1.49.2`, `1.49.3`, `1.49.4`, `2.0.0`, `2.1.0`, `2.1.1`, `2.2.0`]
 1. `se.bjurr.violations:violations-lib`  -> [`1.150.0`, `1.151.0`, `1.152.0`, `1.153.0`, `1.153.2`, `1.154.1`, `1.155.0`, `1.155.1`, `1.155.2`, `1.155.3`, `1.155.4`, `1.155.5`, `1.155.6`, `1.155.7`, `1.155.8`, `1.156.0`, `1.156.1`, `1.156.2`, `1.156.3`, `1.156.4`, `1.156.5`, `1.156.6`, `1.156.7`, `1.156.8`, `1.157.0`, `1.157.1`, `1.157.2`, `1.157.3`]
 1. `software.amazon.smithy:smithy-language-server`  -> [`0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.3.0`]
 1. `tech.xigam:grasscutter`  -> [`1.0.0-dev`, `1.0.1-dev`, `1.0.2-dev`]
@@ -970,7 +970,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.landuo:l4d2-query`  -> [`0.0.1`, `0.0.2`, `0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`]
 1. `io.github.odalabasmaz.awsgenie:resource-terminator`  -> [`0.1.0`, `0.1.1`, `0.1.2`]
 1. `io.github.robin536180:expo-server-sdk`  -> [`1.1.0`]
-1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`, `1.13.0-rc.4`, `1.13.0`, `1.14.0-rc.0`, `1.14.0-rc.1`, `1.14.0-rc.2`, `1.14.0`, `1.15.0-rc.1`, `1.15.0-rc.2`, `1.15.0`, `1.16.0-rc.1`, `1.16.0`, `2.0.0-rc.1`, `2.0.0-rc.2`, `2.0.0-rc.3`, `2.0.0-rc.4`, `2.0.0-rc.5`]
+1. `io.github.serpro69:kotlin-faker`  -> [`1.13.0-rc.0`, `1.13.0-rc.1`, `1.13.0-rc.2`, `1.13.0-rc.3`, `1.13.0-rc.4`, `1.13.0`, `1.14.0-rc.0`, `1.14.0-rc.1`, `1.14.0-rc.2`, `1.14.0`, `1.15.0-rc.1`, `1.15.0-rc.2`, `1.15.0`, `1.16.0-rc.1`, `1.16.0`, `2.0.0-rc.1`, `2.0.0-rc.2`, `2.0.0-rc.3`, `2.0.0-rc.4`, `2.0.0-rc.5`, `2.0.0-rc.6`]
 1. `io.github.singlerr:DiscordBot`  -> [`1.5`, `1.6`, `1.7`, `1.8`]
 1. `io.kestra.plugin:plugin-aws`  -> [`0.2.0`]
 1. `io.kestra.plugin:plugin-cassandra`  -> [`0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
@@ -4761,7 +4761,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.slf4j.nop
 
 1. `com.heroku:heroku-jvm-application-deployer`  -> [`4.0.0-RC1`, `4.0.0-RC2`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`]
-1. `io.gitlab.arturbosch.detekt:detekt-formatting`  -> [`1.23.1`, `1.23.2`, `1.23.3`, `1.23.4`, `1.23.5`, `1.23.6`]
+1. `io.gitlab.arturbosch.detekt:detekt-formatting`  -> [`1.23.1`, `1.23.2`, `1.23.3`, `1.23.4`, `1.23.5`, `1.23.6`, `1.23.7`]
 1. `org.geepawhill:jltk-monitor`  -> [`0.0.14`]
 1. `org.meyvn:meyvn`  -> [`1.6.6`]
 1. `org.slf4j:slf4j-nop` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
@@ -4918,6 +4918,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcutil-debug-jdk18on` 🧩 -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.78.1`]
 1. `org.bouncycastle:bcutil-jdk15on`  -> [`1.69`, `1.70`]
 1. `org.bouncycastle:bcutil-jdk18on`  -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.78.1`]
+
+## org.checkerframework.checker.qual
+
+1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.7`]
+1. `org.checkerframework:checker-qual`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.checkerframework:dataflow-errorprone`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.checkerframework:dataflow-nullaway`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.checkerframework:dataflow-shaded` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
 
 ## org.joda.money
 
@@ -5678,13 +5686,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bytedeco:tensorflow-platform-python-gpu`  -> [`1.15.0-1.5.2`, `1.15.2-1.5.3`]
 1. `org.bytedeco:tensorflow-platform-python`  -> [`1.15.0-1.5.2`, `1.15.2-1.5.3`]
 1. `org.bytedeco:tensorflow-platform` 🧩 -> [`1.13.1-1.5`, `1.14.0-1.5.1`, `1.15.0-1.5.2`, `1.15.2-1.5.3`, `1.15.3-1.5.4`, `1.15.5-1.5.5`, `1.15.5-1.5.6`, `1.15.5-1.5.7`, `1.15.5-1.5.8`]
-
-## org.checkerframework.checker.qual
-
-1. `org.checkerframework:checker-qual`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
-1. `org.checkerframework:dataflow-errorprone`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
-1. `org.checkerframework:dataflow-nullaway`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
-1. `org.checkerframework:dataflow-shaded` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
 
 ## org.eclipse.jetty.server
 
