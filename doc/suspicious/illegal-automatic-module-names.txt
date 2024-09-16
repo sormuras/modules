@@ -92,8 +92,8 @@ com.github.albfernandez:jbpm-identity:3.2.19.ayg -> com.github.albfernandez.jbpm
 com.github.albfernandez:jbpm-jpdl:3.2.19.ayg -> com.github.albfernandez.jbpm-jpdl
 com.github.albfernandez:jbpm-simulation:3.2.19.ayg -> com.github.albfernandez.jbpm-simulation
 com.github.albfernandez:jbpm-tomcat:3.2.19.ayg -> com.github.albfernandez.jbpm-tomcat
-com.github.bbottema:clustered-object-pool:2.1.1 -> clustered-object-pool
-com.github.bbottema:generic-object-pool:2.2.1 -> generic-object-pool
+com.github.bbottema:clustered-object-pool:2.1.2 -> clustered-object-pool
+com.github.bbottema:generic-object-pool:2.2.2 -> generic-object-pool
 com.github.bbottema:java-reflection:4.1.0 -> java-reflection
 com.github.bbottema:java-socks-proxy-server:4.1.0 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
@@ -1648,7 +1648,7 @@ org.selenide:selenide-testng:1.0.0 -> org.selenide.selenide-testng
 org.seppiko.glf:glf-osgi:1.4.RELEASE -> glf-osgi
 org.simplejavamail:google-oauth2-provider:1.0.2 -> google-oauth2-provider
 org.simplejavamail:outlook-message-parser:1.14.1 -> outlook-message-parser
-org.simplejavamail:smtp-connection-pool:2.3.4 -> smtp-connection-pool
+org.simplejavamail:smtp-connection-pool:2.3.5 -> smtp-connection-pool
 org.simplejavamail:utils-mail-dkim:3.2.0 -> org.simplejavamail.java-utils-mail-dkim
 org.simplejavamail:utils-mail-smime:2.3.11 -> com.github.bbottema.java-utils-mail-smime
 org.spockframework:spock-groovy2-compat:2.4-M4-groovy-2.5 -> org.spockframework.groovy2-compat

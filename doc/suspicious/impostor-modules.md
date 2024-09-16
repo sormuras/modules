@@ -28,7 +28,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `lombok` x52
 1. `org.apache.commons.compress` x52
 1. `com.fasterxml.jackson.jaxrs.json` x46
-1. `com.google.errorprone.annotations` x44
+1. `org.apache.commons.io` x45
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
@@ -152,7 +152,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.xuelangcloud:suanpan-java-sdk`  -> [`2.1.3`]
 1. `de.charite.compbio:jannovar-cli`  -> [`0.33`, `0.34`, `0.35`, `0.36`, `0.37`, `0.38`, `0.39`, `0.40`, `0.41`]
 1. `de.fraunhofer.iosb.ilt.faaast:package-explorer-converter`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.3.1`, `0.4.0`]
-1. `de.m3y.libmobi:libmobi-standalone`  -> [`1.0.1`]
+1. `de.m3y.libmobi:libmobi-standalone`  -> [`1.0.1`, `1.0.2`]
 1. `de.uni-muenster:music2rdf`  -> [`1.3.8`]
 1. `dev.nicklasw:bankid-sdk`  -> [`0.13.0`]
 1. `eu.xenit.logging:json-logging-8`  -> [`0.0.11`]
@@ -3125,7 +3125,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.localhost22:rf`  -> [`1.0`]
 1. `com.qcloud.cos:goosefs-client`  -> [`1.4.7`, `1.4.7.1`, `1.4.7.2`]
 1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.6.0`]
-1. `de.jvstvshd.necrify:necrify-velocity`  -> [`1.2.0`]
+1. `de.jvstvshd.necrify:necrify-velocity`  -> [`1.2.0`, `1.2.1`]
 1. `de.uni-mannheim.informatik.dws.melt:matching-eval-client`  -> [`3.1`, `3.2`]
 1. `de.uni-mannheim.informatik.dws:jrdf2vec`  -> [`1.2`]
 1. `dev.dejvokep:boosted-yaml`  -> [`1.0`, `1.1`, `1.2`, `1.3`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
@@ -3388,6 +3388,57 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.tika:tika-server-core`  -> [`2.0.0-ALPHA`, `2.0.0-BETA`]
 1. `org.apache.tika:tika-server-standard`  -> [`2.0.0-BETA`]
 
+## org.apache.commons.io
+
+For example, at least 45 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.io;`.
+
+1. `cloud.piranha.dist:piranha-dist-micro`  -> [`23.11.0`, `23.12.0`, `24.1.0`, `24.2.0`, `24.3.0`]
+1. `com.github.spotbugs:sonar-findbugs-plugin`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`]
+1. `com.gradleup.shadow:shadow-gradle-plugin`  -> [`8.3.1`]
+1. `com.guicedee.services:commons-io`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.ibm.cloud:code-engine-examples`  -> [`4.2.0`, `4.8.0`]
+1. `com.ibm.cloud:continuous-delivery-examples`  -> [`1.2.0`, `1.3.0`]
+1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`1.3.0`, `1.3.1`]
+1. `com.ibm.cloud:is-examples`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
+1. `com.ibm.cloud:platform-services-examples`  -> [`0.43.1`, `0.44.2`, `0.45.0`, `0.45.1`, `0.46.0`, `0.46.1`, `0.47.0`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`, `0.50.1`, `0.50.2`, `0.51.0`, `0.52.0`, `0.53.0`, `0.53.1`, `0.53.2`, `0.53.3`, `0.53.4`, `0.53.5`, `0.53.6`, `0.54.0`, `0.54.2`, `0.55.0`, `0.56.0`, `0.57.0`]
+1. `com.jwebmp.jpms.commons:commons-io`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11:commons-io`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
+1. `com.jwebmp:commons-io`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `com.vaadin:license-checker-machineid`  -> [`1.12.13`, `1.12.14`]
+1. `commons-io:commons-io`  -> [`2.14.0`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`]
+1. `dev.galasa:galasa-boot`  -> [`0.34.0`, `0.36.0`]
+1. `io.swagger.codegen.v3:swagger-codegen-cli`  -> [`3.0.58`, `3.0.59`, `3.0.60`, `3.0.61`, `3.0.62`]
+1. `io.wcm.devops.maven:io.wcm.devops.maven.nodejs-proxy`  -> [`1.2.2`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.21`, `4.0.22`, `4.0.24`, `4.0.25`, `4.0.26`, `4.0.27`]
+1. `no.entur:schema2proto-lib`  -> [`1.88`, `1.90`, `1.92`, `1.93`, `1.94`, `1.95`, `1.96`, `1.97`]
+1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
+1. `org.apache.flink:flink-gs-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
+1. `org.apache.flink:flink-oss-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
+1. `org.apache.flink:flink-table-planner_2.12`  -> [`1.19.1`, `1.20.0`]
+1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-fulljar`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-server`  -> [`4.10.0`]
+1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.10.0`]
+1. `org.apache.maven.surefire:surefire-shadefire`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
+1. `org.apache.maven.surefire:surefire-shared-utils`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
+1. `org.apache.storm:blobstore-migrator`  -> [`2.6.2`]
+1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.2`, `2.6.4`]
+1. `org.apache.storm:storm-hive-examples`  -> [`2.6.4`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.6.2`, `2.6.4`]
+1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`]
+1. `org.apache.storm:storm-starter`  -> [`2.6.2`, `2.6.4`]
+1. `org.apache.tez:tez-aux-services`  -> [`0.10.4`]
+1. `org.apache.tika:tika-eval-app`  -> [`3.0.0-BETA2`]
+1. `org.dominokit:domino-aggregator-apt`  -> [`1.0.3`]
+1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.1.1`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.1`]
+1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.4`]
+1. `org.metadatacenter:cedar-model-validation-library`  -> [`2.6.54`, `2.6.57`, `2.6.58`]
+1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
+1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`]
+1. `org.vafer:jdependency`  -> [`2.10`]
+
 ## com.google.errorprone.annotations
 
 For example, at least 44 artifacts on Maven Central claim to be the module `com.google.errorprone.annotations`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3437,56 +3488,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.19.4`, `0.19.5`, `0.20.0`, `0.20.1`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.16.1`]
 1. `org.opendaylight.netconf:websocket-client`  -> [`7.0.5`, `7.0.6`, `7.0.7`, `7.0.8`, `7.0.9`]
-
-## org.apache.commons.io
-
-For example, at least 44 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.io;`.
-
-1. `cloud.piranha.dist:piranha-dist-micro`  -> [`23.11.0`, `23.12.0`, `24.1.0`, `24.2.0`, `24.3.0`]
-1. `com.github.spotbugs:sonar-findbugs-plugin`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`]
-1. `com.gradleup.shadow:shadow-gradle-plugin`  -> [`8.3.1`]
-1. `com.guicedee.services:commons-io`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.ibm.cloud:code-engine-examples`  -> [`4.2.0`, `4.8.0`]
-1. `com.ibm.cloud:continuous-delivery-examples`  -> [`1.2.0`, `1.3.0`]
-1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`1.3.0`, `1.3.1`]
-1. `com.ibm.cloud:is-examples`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
-1. `com.ibm.cloud:platform-services-examples`  -> [`0.43.1`, `0.44.2`, `0.45.0`, `0.45.1`, `0.46.0`, `0.46.1`, `0.47.0`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`, `0.50.1`, `0.50.2`, `0.51.0`, `0.52.0`, `0.53.0`, `0.53.1`, `0.53.2`, `0.53.3`, `0.53.4`, `0.53.5`, `0.53.6`, `0.54.0`, `0.54.2`, `0.55.0`, `0.56.0`, `0.57.0`]
-1. `com.jwebmp.jpms.commons:commons-io`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11:commons-io`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
-1. `com.jwebmp:commons-io`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.vaadin:license-checker-machineid`  -> [`1.12.13`, `1.12.14`]
-1. `commons-io:commons-io`  -> [`2.14.0`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`]
-1. `dev.galasa:galasa-boot`  -> [`0.34.0`, `0.36.0`]
-1. `io.swagger.codegen.v3:swagger-codegen-cli`  -> [`3.0.58`, `3.0.59`, `3.0.60`, `3.0.61`, `3.0.62`]
-1. `io.wcm.devops.maven:io.wcm.devops.maven.nodejs-proxy`  -> [`1.2.2`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.21`, `4.0.22`, `4.0.24`, `4.0.25`, `4.0.26`, `4.0.27`]
-1. `no.entur:schema2proto-lib`  -> [`1.88`, `1.90`, `1.92`, `1.93`, `1.94`, `1.95`, `1.96`, `1.97`]
-1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
-1. `org.apache.flink:flink-gs-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
-1. `org.apache.flink:flink-oss-fs-hadoop`  -> [`1.19.1`, `1.20.0`]
-1. `org.apache.flink:flink-table-planner_2.12`  -> [`1.19.1`, `1.20.0`]
-1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-fulljar`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-server`  -> [`4.10.0`]
-1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.10.0`]
-1. `org.apache.maven.surefire:surefire-shadefire`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
-1. `org.apache.maven.surefire:surefire-shared-utils`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
-1. `org.apache.storm:blobstore-migrator`  -> [`2.6.2`]
-1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.2`, `2.6.4`]
-1. `org.apache.storm:storm-hive-examples`  -> [`2.6.4`]
-1. `org.apache.storm:storm-loadgen`  -> [`2.6.2`, `2.6.4`]
-1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`]
-1. `org.apache.storm:storm-starter`  -> [`2.6.2`, `2.6.4`]
-1. `org.apache.tika:tika-eval-app`  -> [`3.0.0-BETA2`]
-1. `org.dominokit:domino-aggregator-apt`  -> [`1.0.3`]
-1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.1.1`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.1`]
-1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.4`]
-1. `org.metadatacenter:cedar-model-validation-library`  -> [`2.6.54`, `2.6.57`, `2.6.58`]
-1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
-1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`]
-1. `org.vafer:jdependency`  -> [`2.10`]
 
 ## com.fasterxml.jackson.datatype.jdk8
 
@@ -3594,7 +3595,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.signalfx.public:signalfx-yammer`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`]
 1. `de.fraunhofer.iosb.ilt.faaast.service:starter`  -> [`1.0.0`, `1.0.1`, `1.1.0`]
 1. `dev.hcf.ball:ball-tools-javadoc-jdk8`  -> [`3.1.15.20231224`, `3.1.16.20240605`, `3.1.17.20240628`]
-1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5.2`]
+1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5.2`, `0.6`]
 1. `io.github.shmilyjxs:jdb-tool`  -> [`1.35`, `1.36`, `1.37`]
 1. `io.inverno.tool:inverno-grpc-protoc-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`]
 1. `io.kestra.plugin:plugin-weaviate`  -> [`0.18.0`]
@@ -4921,7 +4922,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.nosqlbench:driver-cql-shaded`  -> [`4.15.93`, `4.15.94`]
 1. `io.nosqlbench:driver-cqld3-shaded`  -> [`4.15.93`, `4.15.94`]
 1. `io.nosqlbench:driver-dsegraph-shaded`  -> [`4.15.93`, `4.15.94`]
-1. `net.java.dev.jna:jna-jpms`  -> [`5.8.0`, `5.9.0`, `5.10.0`, `5.11.0`, `5.12.0`, `5.12.1`, `5.13.0`, `5.14.0`]
+1. `net.java.dev.jna:jna-jpms`  -> [`5.8.0`, `5.9.0`, `5.10.0`, `5.11.0`, `5.12.0`, `5.12.1`, `5.13.0`, `5.14.0`, `5.15.0`]
 
 ## dev.failsafe.core
 
