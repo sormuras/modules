@@ -95,6 +95,10 @@
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
 - ![module-name](https://img.shields.io/badge/module--name-org.junit.jupiter-green)
+## Version 5.11.1
+
+- ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
+- ![module-name](https://img.shields.io/badge/module--name-org.junit.jupiter-green)
 ## Version 5.7.0-M1
 
 - ![module-maturity](https://img.shields.io/badge/module--maturity-explicit-green)
