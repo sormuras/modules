@@ -1761,4 +1761,5 @@ ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.14 -> smithy-aws-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.14 -> smithy-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.14 -> smithy-kotlin-codegen-testutils
+tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
