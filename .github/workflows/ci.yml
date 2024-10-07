@@ -52,7 +52,7 @@ jobs:
           echo "size=$(echo ${SIZE})" >> $GITHUB_OUTPUT
       - name: 'Cache bucket'
         id: cache-bucket
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: bucket
           key: bucket-${{ steps.bucket.outputs.size }}
