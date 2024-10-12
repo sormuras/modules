@@ -4,12 +4,12 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x418
+1. `com.fasterxml.jackson.core` x419
 1. `com.google.gson` x369
 1. `com.fasterxml.jackson.databind` x348
 1. `org.apache.logging.log4j` x241
 1. `kotlin.stdlib.jdk8` x240
-1. `org.slf4j` x199
+1. `org.slf4j` x200
 1. `kotlin.stdlib` x144
 1. `net.bytebuddy` x109
 1. `org.bouncycastle.provider` x109
@@ -28,12 +28,12 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.commons.compress` x53
 1. `lombok` x52
 1. `com.google.errorprone.annotations` x50
-1. `org.apache.commons.io` x47
+1. `com.fasterxml.jackson.jaxrs.json` x47
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
 
-For example, at least 418 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 419 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -113,6 +113,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.linkedin.iceberg:iceberg-runtime`  -> [`0.14.1.1`, `0.14.1.2`, `0.14.1.3`, `0.14.1.4`, `1.0.0.1`, `1.0.0.2`, `1.0.0.3`, `1.0.0.4`, `1.0.0.5`]
 1. `com.linkedin.iceberg:iceberg-spark-runtime-2.4`  -> [`0.14.1.1`, `0.14.1.2`, `0.14.1.3`, `0.14.1.4`, `1.0.0.1`, `1.0.0.2`, `1.0.0.3`, `1.0.0.4`, `1.0.0.5`]
 1. `com.linkedin.iceberg:iceberg-spark-runtime-3.1_2.12`  -> [`0.14.1.1`, `0.14.1.2`, `0.14.1.3`, `0.14.1.4`, `1.0.0.1`, `1.0.0.2`, `1.0.0.3`, `1.0.0.4`, `1.0.0.5`]
+1. `com.microsoft.azure.hdinsight:hdi-oauth-token-utils-shaded`  -> [`1.0.2`]
 1. `com.microsoft.azure.kusto:kusto-spark_3.0_2.12`  -> [`5.2.2`, `5.2.3`]
 1. `com.microsoft.azure:azure-schemaregistry-kafka-avro`  -> [`1.0.0-beta.5`, `1.0.0-beta.6`, `1.0.0-beta.7`]
 1. `com.microsoft.azure:spark-cdm-connector`  -> [`0.10`, `0.12`, `0.13`, `0.14`, `0.15`, `0.16`, `0.17`, `0.18.1`, `0.19.0`, `0.19.1`]
@@ -192,7 +193,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.jaredpetersen:kafka-connect-arangodb`  -> [`1.0.6`, `1.0.7`]
 1. `io.github.marquezproject:marquez-spark`  -> [`0.12.0`, `0.12.1`, `0.12.2`, `0.14.0`, `0.14.1`, `0.14.2`, `0.15.0`, `0.15.1`, `0.15.2-rc.2`, `0.15.2`, `0.16.0-rc.1`, `0.16.0`, `0.16.1-rc.1`, `0.16.1`, `0.17.0`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.4`, `2.5`, `2.6`]
-1. `io.github.sinri:AiOnHttpMix`  -> [`1.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`]
+1. `io.github.sinri:AiOnHttpMix`  -> [`1.0`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`]
 1. `io.github.sinri:DryDock`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`, `1.1.3`, `1.1.4`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`, `1.2.6`, `1.2.7`, `1.2.8`, `1.2.9`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3.1`, `1.3.3.2`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`, `1.4.6`, `1.4.7`, `1.4.8`, `1.4.9`, `1.4.10`, `1.4.11`, `1.4.12`, `1.4.13`, `1.4.14`, `1.4.15`, `1.4.15.1`, `1.4.17`, `1.4.18`, `1.4.19`, `1.4.20`, `1.4.21`, `1.4.22`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.5.6`, `1.5.7`]
 1. `io.github.sinri:Keel`  -> [`1.0`, `1.1`, `1.3`, `1.4`, `1.5`, `1.6`, `1.8`, `1.9`, `1.10`, `1.11`, `1.12`, `1.13`, `2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.6`, `2.7`, `2.7.1`, `2.7.2`, `2.8`, `2.9`, `2.9.1`, `2.9.2`, `2.9.3`, `2.9.4`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`, `3.0.7`, `3.0.8`, `3.0.9`, `3.0.10`, `3.0.11`, `3.0.12`, `3.0.13`, `3.0.14`, `3.0.16`, `3.0.17`, `3.0.18`, `3.0.19`, `3.0.20`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.1.9.1`, `3.1.9.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.2.10`, `3.2.11`, `3.2.12`, `3.2.12.1`, `3.2.13`, `3.2.14`, `3.2.15`, `3.2.16`, `3.2.17`, `3.2.18`]
 1. `io.hetu.core:hetu-jdbc`  -> [`1.9.0`]
@@ -222,7 +223,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.trino.hive:hive-apache`  -> [`3.1.2-20`, `3.1.2-21`]
 1. `io.trino:trino-jdbc`  -> [`367`, `368`, `369`, `370`, `371`, `372`, `373`, `374`, `375`, `376`, `377`, `378`, `379`, `380`, `381`, `382`, `383`, `384`, `385`, `386`, `387`, `388`, `389`, `390`, `391`, `392`, `393`, `394`, `395`, `396`, `397`, `398`, `399`, `400`, `401`, `402`, `403`, `405`, `406`, `407`, `408`, `409`, `410`, `411`, `412`]
 1. `io.zipkin.dependencies:zipkin-dependencies`  -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.7.3`]
-1. `net.snowflake:snowflake-ingest-sdk`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.2.2`]
+1. `net.snowflake:snowflake-ingest-sdk`  -> [`1.1.2`, `1.1.3`, `1.1.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.1.0`, `2.1.1`, `2.1.2`, `2.2.0`, `2.2.1`, `2.2.2`, `2.3.0`]
 1. `nl.big-o:liqp`  -> [`0.8.4.0`, `0.8.5.0`, `0.8.5.1`, `0.8.5.2`]
 1. `nl.cwts:publicationclassificationlabeling`  -> [`1.0.0`]
 1. `no.nav.arbeidsgiver:altinn-rettigheter-proxy-klient`  -> [`0.0.6`, `0.0.7`, `0.1.0`, `0.1.1`, `0.1.3`, `1.0.0`, `1.1.2`, `2.0.0`, `2.0.1`]
@@ -357,9 +358,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:pulsar-client-kafka_0_8`  -> [`2.11.0`]
 1. `org.apache.pulsar:pulsar-client-kafka`  -> [`2.11.0`]
 1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`2.8.1`, `2.9.0`, `2.9.1`, `2.9.2`, `2.10.0`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
-1. `org.apache.seatunnel:connector-amazondynamodb`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-amazonsqs`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-cassandra`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
+1. `org.apache.seatunnel:connector-amazondynamodb`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-amazonsqs`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-cassandra`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
 1. `org.apache.seatunnel:connector-doris`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
 1. `org.apache.seatunnel:connector-file-cos`  -> [`2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
 1. `org.apache.seatunnel:connector-file-ftp`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`]
@@ -615,7 +616,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `dev.fitko.fitconnect.sdk:cli`  -> [`1.0.0`, `1.1.0-rc.0`]
 1. `dev.fitko.fitconnect.sdk:client`  -> [`1.0.0-rc.1`]
 1. `dev.redcoke:mcserverping`  -> [`0.1.4`, `0.1.5`, `0.1.5.1`]
-1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`, `0.22.2`, `0.23.0`, `0.23.1`, `0.23.2`, `0.24.0`, `0.24.1`, `0.24.2`, `0.24.3`, `0.24.4`]
+1. `dev.robocode.tankroyale:robocode-tankroyale-bot-api`  -> [`0.10.0`, `0.11.0`, `0.11.1`, `0.11.2`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.14.1`, `0.14.2`, `0.14.3`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.17.3`, `0.17.4`, `0.18.0`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`, `0.20.0`, `0.20.1`, `0.21.0`, `0.22.0`, `0.22.1`, `0.22.2`, `0.23.0`, `0.23.1`, `0.23.2`, `0.24.0`, `0.24.1`, `0.24.2`, `0.24.3`, `0.24.4`, `0.25.0`]
 1. `dev.walgo:db2dto`  -> [`1.11.0`, `1.11.1`]
 1. `dev.zacsweers:kgp-160-patcher`  -> [`1.0.0`]
 1. `eu.cloudnetservice.cloudnet:npcs`  -> [`4.0.0-RC2`, `4.0.0-RC3`, `4.0.0-RC4`, `4.0.0-RC5`]
@@ -1679,7 +1680,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 199 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 200 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.12`, `1.1.13`]
@@ -1721,6 +1722,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.fizzed:blaze-lite`  -> [`1.2.0`, `1.2.1`, `1.3.0`, `1.4.0`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `com.github.biyanwen:easycsv`  -> [`1.0.0`]
 1. `com.github.bld-commons:processor-jpa-servcie`  -> [`3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
+1. `com.github.bld-commons:processor-jpa-service`  -> [`3.0.5`]
 1. `com.github.cafapi:caf-utils`  -> [`3.0.0-549`, `3.1.0-596`]
 1. `com.github.tomcat-slf4j-logback:tomcat10-slf4j-logback`  -> [`10.0.0-M1`, `10.0.0-M3`, `10.0.0-M4`, `10.0.0-M5`, `10.0.0-M6`, `10.0.0-M7`, `10.0.0-M9`, `10.0.0`]
 1. `com.github.tomcat-slf4j-logback:tomcat7-slf4j-logback`  -> [`7.0.93`, `7.0.94`, `7.0.96`, `7.0.100`, `7.0.104`, `7.0.105`, `7.0.106`, `7.0.107`, `7.0.108`, `7.0.109`]
@@ -1780,8 +1782,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-databricks`  -> [`0.17.0`]
 1. `io.kestra.plugin:plugin-git`  -> [`0.18.0`, `0.18.1`, `0.19.0`]
 1. `io.kestra.plugin:plugin-notifications`  -> [`0.17.0`, `0.17.1`, `0.19.0`]
-1. `io.kestra.storage:storage-azure`  -> [`0.19.0`]
-1. `io.kestra.storage:storage-s3`  -> [`0.15.0`, `0.15.1`, `0.16.0`, `0.17.0`, `0.17.1`, `0.18.0`, `0.18.1`, `0.18.2`, `0.19.0`]
+1. `io.kestra.storage:storage-azure`  -> [`0.19.0`, `0.19.1`]
+1. `io.kestra.storage:storage-s3`  -> [`0.15.0`, `0.15.1`, `0.16.0`, `0.17.0`, `0.17.1`, `0.18.0`, `0.18.1`, `0.18.2`, `0.19.0`, `0.19.1`, `0.19.2`]
 1. `io.keyko:secret-store-client`  -> [`0.1.0`]
 1. `io.mosip.certify:mock-certify-plugin`  -> [`0.2.0`, `0.2.1`]
 1. `io.mosip.certify:mosip-identity-certify-plugin`  -> [`0.2.0`, `0.2.1`]
@@ -2010,7 +2012,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.didcommx.peerdid:peerdid`  -> [`0.1.0`]
 1. `org.didcommx:peerdid`  -> [`0.1.0`]
 1. `org.hl7.fhir.publisher:org.hl7.fhir.publisher.cli`  -> [`1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.26`]
-1. `org.jetbrains.bsp:bazel-bsp`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.0-20230325-dd7fc54-NIGHTLY`, `2.6.0-20230327-e355f4f-NIGHTLY`, `2.6.1`, `2.6.1-20230330-dc2d578-NIGHTLY`, `2.6.1-20230406-89b0ae0-NIGHTLY`, `2.6.1-20230407-f28fc8d-NIGHTLY`, `2.6.1-20230413-f692d85-NIGHTLY`, `2.6.1-20230415-44f12eb-NIGHTLY`, `2.6.1-20230420-d55b6af-NIGHTLY`, `2.6.1-20230426-3b9e5e7-NIGHTLY`, `2.6.1-20230509-7f7726c-NIGHTLY`, `2.6.1-20230510-f360c12-NIGHTLY`, `2.6.1-20230511-f0bcdaa-NIGHTLY`, `2.6.1-20230518-823ca31-NIGHTLY`, `2.7.0-20230524-7b15c3f-NIGHTLY`, `2.7.0-20230531-6d422e6-NIGHTLY`, `2.7.0-20230601-7bfec7d-NIGHTLY`, `2.7.0-20230602-257d6c7-NIGHTLY`, `2.7.0-20230607-8dfade9-NIGHTLY`, `2.7.1`, `2.7.1-20230608-bd55111-NIGHTLY`, `2.7.1-20230615-e6f4db8-NIGHTLY`, `2.7.1-20230616-af2dfb8-NIGHTLY`, `2.7.1-20230617-22b7951-NIGHTLY`, `2.7.2`, `2.7.2-20230620-22b4c01-NIGHTLY`, `2.7.2-20230622-5f29aa1-NIGHTLY`, `2.7.2-20230623-5eb42d2-NIGHTLY`, `2.7.2-20230627-0bd5b03-NIGHTLY`, `2.7.2-20230628-224c1ec-NIGHTLY`, `2.7.2-20230704-c1482bf-NIGHTLY`, `2.7.2-20230706-f4c9b25-NIGHTLY`, `2.7.2-20230707-f2423bb-NIGHTLY`, `2.7.2-20230708-6aa11e0-NIGHTLY`, `2.7.2-20230714-3360353-NIGHTLY`, `2.7.2-20230718-839e5dc-NIGHTLY`, `2.7.2-20230719-3605dbb-NIGHTLY`, `2.7.2-20230721-fc5383a-NIGHTLY`, `2.7.2-20230725-94c4056-NIGHTLY`, `2.7.2-20230726-21887d9-NIGHTLY`, `2.7.2-20230727-c01fb10-NIGHTLY`, `2.7.2-20230728-0314e75-NIGHTLY`, `2.7.2-20230729-2fd79f0-NIGHTLY`, `2.7.2-20230801-a13ff90-NIGHTLY`, `2.7.2-20230802-fee08de-NIGHTLY`, `2.7.2-20230803-9d5cd19-NIGHTLY`, `2.7.2-20230804-ba44564-NIGHTLY`, `2.7.2-20230805-9f8f3f3-NIGHTLY`, `2.7.2-20230808-956bc00-NIGHTLY`, `3.0.0`, `3.0.0-20230810-1fafd89-NIGHTLY`, `3.0.0-20230818-e5006bf-NIGHTLY`, `3.0.0-20230822-ed8ab21-NIGHTLY`, `3.0.0-20230823-3b4e1f7-NIGHTLY`, `3.0.0-20230825-a29c1da-NIGHTLY`, `3.0.0-20230826-637f0d9-NIGHTLY`, `3.0.0-20230829-6d11bde-NIGHTLY`, `3.0.0-20230830-2e17ea0-NIGHTLY`, `3.0.0-20230831-edcfd4b-NIGHTLY`, `3.0.0-20230901-f4fb71b-NIGHTLY`, `3.0.0-20230902-1716735-NIGHTLY`, `3.0.0-20230905-2b6f16d-NIGHTLY`, `3.0.0-20230907-3e4ccba-NIGHTLY`, `3.0.0-20230908-6d75757-NIGHTLY`, `3.0.0-20230909-6b45eb6-NIGHTLY`, `3.0.0-20230912-bb47e49-NIGHTLY`, `3.0.0-20230913-1c51f02-NIGHTLY`, `3.0.0-20230914-4de96f0-NIGHTLY`, `3.0.0-20230915-c03090d-NIGHTLY`, `3.1.0`, `3.1.0-20230919-eb06cec-NIGHTLY`, `3.1.0-20230920-4eade40-NIGHTLY`, `3.1.0-20230921-0827130-NIGHTLY`, `3.1.0-20230922-89706f8-NIGHTLY`, `3.1.0-20230926-119eb05-NIGHTLY`, `3.1.0-20231004-838ae95-NIGHTLY`, `3.1.0-20231010-a908bcf-NIGHTLY`, `3.1.0-20231017-e7faadc-NIGHTLY`, `3.1.0-20231019-84c4f9a-NIGHTLY`, `3.1.0-20231020-cd64dbb-NIGHTLY`, `3.1.0-20231021-242995b-NIGHTLY`, `3.1.0-20231025-ac05d50-NIGHTLY`, `3.1.0-20231026-654c01d-NIGHTLY`, `3.1.0-20231027-9ad762b-NIGHTLY`, `3.1.0-20231028-89beaf7-NIGHTLY`, `3.1.0-20231101-0a8b2b7-NIGHTLY`, `3.1.0-20231103-0634170-NIGHTLY`, `3.1.0-20231104-d3533ac-NIGHTLY`, `3.1.0-20231110-f3d490d-NIGHTLY`, `3.1.0-20231115-40c992d-NIGHTLY`, `3.1.0-20231115-3400084-NIGHTLY`, `3.1.0-20231116-0c942d9-NIGHTLY`, `3.1.0-20231118-209d0a6-NIGHTLY`, `3.1.0-20231122-aff8791-NIGHTLY`, `3.1.0-20231123-24aa30d-NIGHTLY`, `3.1.0-20231124-e38dd11-NIGHTLY`, `3.1.0-20231125-a10ecb0-NIGHTLY`, `3.1.0-20231128-e6ad2a0-NIGHTLY`, `3.1.0-20231129-9915acf-NIGHTLY`, `3.1.0-20231201-80ec82c-NIGHTLY`, `3.1.0-20231205-ec256a9-NIGHTLY`, `3.1.0-20231215-d43b8c9-NIGHTLY`, `3.1.0-20231216-ec66172-NIGHTLY`, `3.1.0-20231220-418393f-NIGHTLY`, `3.1.0-20231221-49a15d1-NIGHTLY`, `3.1.0-20231230-aeef2ca-NIGHTLY`, `3.1.0-20240103-c4aaf5e-NIGHTLY`, `3.1.0-20240104-2f86f1d-NIGHTLY`, `3.1.0-20240105-6423325-NIGHTLY`, `3.1.0-20240110-b6db163-NIGHTLY`, `3.1.0-20240111-cbd7bc4-NIGHTLY`, `3.1.0-20240111-8009bec-NIGHTLY`, `3.1.0-20240113-6ec65a8-NIGHTLY`, `3.1.0-20240114-13787f5-NIGHTLY`, `3.1.0-20240116-75f0a05-NIGHTLY`, `3.1.0-20240118-951e6c6-NIGHTLY`, `3.1.0-20240119-ba9dff9-NIGHTLY`, `3.1.0-20240126-744c464-NIGHTLY`, `3.1.0-20240127-5b90e20-NIGHTLY`, `3.1.0-20240130-33760f0-NIGHTLY`, `3.1.0-20240203-a15cdbe-NIGHTLY`, `3.1.0-20240206-81643e9-NIGHTLY`, `3.1.0-20240207-7439f14-NIGHTLY`, `3.1.0-20240209-0cc0014-NIGHTLY`, `3.1.0-20240210-2cb6200-NIGHTLY`, `3.1.0-20240212-1170bb0-NIGHTLY`, `3.1.0-20240214-578400f-NIGHTLY`, `3.1.0-20240215-fb81f40-NIGHTLY`, `3.1.0-20240222-ab5a89a-NIGHTLY`, `3.1.0-20240223-c13c02f-NIGHTLY`, `3.1.0-20240224-ec41697-NIGHTLY`, `3.1.0-20240228-10bab42-NIGHTLY`, `3.1.0-20240301-a4dc63c-NIGHTLY`, `3.1.0-20240305-689caef-NIGHTLY`, `3.1.0-20240306-3037649-NIGHTLY`, `3.1.0-20240309-86fd20b-NIGHTLY`, `3.1.0-20240311-1351c23-NIGHTLY`, `3.1.0-20240312-b9ac1e6-NIGHTLY`, `3.1.0-20240313-89141af-NIGHTLY`, `3.1.0-20240314-c3cc6a6-NIGHTLY`, `3.1.0-20240315-9b22b98-NIGHTLY`, `3.1.0-20240316-a85502b-NIGHTLY`, `3.1.0-20240319-ec691a3-NIGHTLY`, `3.1.0-20240320-8fac88f-NIGHTLY`, `3.1.0-20240321-c66358e-NIGHTLY`, `3.1.0-20240322-c5875e6-NIGHTLY`, `3.1.0-20240323-dc830f8-NIGHTLY`, `3.1.0-20240325-28797b6-NIGHTLY`, `3.1.0-20240327-9ec2d80-NIGHTLY`, `3.1.0-20240328-e62f321-NIGHTLY`, `3.1.0-20240329-73008c5-NIGHTLY`, `3.1.0-20240405-0a05fa1-NIGHTLY`, `3.1.0-20240406-5736d71-NIGHTLY`, `3.1.0-20240408-3f128ac-NIGHTLY`, `3.1.0-20240408-7571695-NIGHTLY`, `3.2.0`, `3.2.0-20240411-25a7b6f-NIGHTLY`, `3.2.0-20240412-a147792-NIGHTLY`, `3.2.0-20240413-ef43560-NIGHTLY`, `3.2.0-20240416-ac69b36-NIGHTLY`, `3.2.0-20240418-8d13b46-NIGHTLY`, `3.2.0-20240419-dc332df-NIGHTLY`, `3.2.0-20240420-b2b2ca0-NIGHTLY`, `3.2.0-20240424-80b0183-NIGHTLY`, `3.2.0-20240425-3f5b161-NIGHTLY`, `3.2.0-20240426-c620e64-NIGHTLY`, `3.2.0-20240427-974e951-NIGHTLY`, `3.2.0-20240430-6b1aaa4-NIGHTLY`, `3.2.0-20240503-99c1e44-NIGHTLY`, `3.2.0-20240507-b823c32-NIGHTLY`, `3.2.0-20240508-f3a81e7-NIGHTLY`, `3.2.0-20240509-23db868-NIGHTLY`, `3.2.0-20240511-8d615b6-NIGHTLY`, `3.2.0-20240514-d792eb7-NIGHTLY`, `3.2.0-20240515-5f8e0ae-NIGHTLY`, `3.2.0-20240517-768cbb3-NIGHTLY`, `3.2.0-20240521-22fe1b8-NIGHTLY`, `3.2.0-20240522-d8907a8-NIGHTLY`, `3.2.0-20240523-fed6c36-NIGHTLY`, `3.2.0-20240525-6952b62-NIGHTLY`, `3.2.0-20240528-0f08aa8-NIGHTLY`, `3.2.0-20240529-d54474f-NIGHTLY`, `3.2.0-20240530-fa0c606-NIGHTLY`, `3.2.0-20240604-0549f04-NIGHTLY`, `3.2.0-20240605-6baa77b-NIGHTLY`, `3.2.0-20240606-167e699-NIGHTLY`, `3.2.0-20240607-c38d4dc-NIGHTLY`, `3.2.0-20240612-9538ab2-NIGHTLY`, `3.2.0-20240614-8e9186b-NIGHTLY`, `3.2.0-20240617-21a03cd-NIGHTLY`, `3.2.0-20240618-cee82b2-NIGHTLY`, `3.2.0-20240619-8d3be01-NIGHTLY`, `3.2.0-20240620-880a0c5-NIGHTLY`, `3.2.0-20240621-df2dd2b-NIGHTLY`, `3.2.0-20240627-02fc9e4-NIGHTLY`, `3.2.0-20240628-d42ee4d-NIGHTLY`, `3.2.0-20240629-e3d8bdf-NIGHTLY`, `3.2.0-20240703-e9a8fdd-NIGHTLY`, `3.2.0-20240705-611cac7-NIGHTLY`, `3.2.0-20240709-9a5fd3d-NIGHTLY`, `3.2.0-20240710-c640799-NIGHTLY`, `3.2.0-20240713-1d6b016-NIGHTLY`, `3.2.0-20240717-caae145d-NIGHTLY`, `3.2.0-20240815-7701fa766-NIGHTLY`, `3.2.0-20240817-9e6d9b789-NIGHTLY`, `3.2.0-20240818-741c5999f-NIGHTLY`, `3.2.0-20240820-8cf16c05a-NIGHTLY`, `3.2.0-20240821-853333ed4-NIGHTLY`, `3.2.0-20240823-66b034c12-NIGHTLY`, `3.2.0-20240825-1227a5f7a-NIGHTLY`, `3.2.0-20240827-7afb934f5-NIGHTLY`, `3.2.0-20240828-2486758ec-NIGHTLY`, `3.2.0-20240829-fd286ccb7-NIGHTLY`, `3.2.0-20240830-c8744b005-NIGHTLY`, `3.2.0-20240831-551f9839d-NIGHTLY`, `3.2.0-20240901-4a942a9e8-NIGHTLY`, `3.2.0-20240903-5e6c23ed4-NIGHTLY`, `3.2.0-20240904-a65b1777f-NIGHTLY`, `3.2.0-20240905-fb3ed22b6-NIGHTLY`, `3.2.0-20240906-41f2a85bf-NIGHTLY`, `3.2.0-20240907-78f130cf3-NIGHTLY`, `3.2.0-20240910-6ecde4854-NIGHTLY`, `3.2.0-20240911-ac2acd5b7-NIGHTLY`, `3.2.0-20240912-4562ff604-NIGHTLY`, `3.2.0-20240913-7f77693c6-NIGHTLY`, `3.2.0-20240914-b29b8fb4d-NIGHTLY`, `3.2.0-20240915-3038b5535-NIGHTLY`, `3.2.0-20240917-1335773ca-NIGHTLY`, `3.2.0-20240918-fb8b26d0f-NIGHTLY`, `3.2.0-20240919-a84bbf722-NIGHTLY`, `3.2.0-20240920-401bf10c4-NIGHTLY`, `3.2.0-20240921-292ddcc47-NIGHTLY`, `3.2.0-20240925-2f71fc974-NIGHTLY`, `3.2.0-20240926-e09206595-NIGHTLY`, `3.2.0-20240927-4ab238eb2-NIGHTLY`, `3.2.0-20240928-dde878cee-NIGHTLY`, `3.2.0-20240928-01e69b8cf-NIGHTLY`, `3.2.0-20241001-a13b9641e-NIGHTLY`, `3.2.0-20241002-5e71bfcc6-NIGHTLY`, `3.2.0-20241004-cd47bad10-NIGHTLY`, `3.2.0-20241005-fa0b3c368-NIGHTLY`, `3.2.0-20241006-1aeb6729b-NIGHTLY`, `3.2.0-20241008-d7f0eb1ec-NIGHTLY`, `3.2.0-20241009-22614104d-NIGHTLY`, `3.2.0-20241010-4eb0525f9-NIGHTLY`, `3.2.0-20241011-abddcc62c-NIGHTLY`]
+1. `org.jetbrains.bsp:bazel-bsp`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`, `2.4.0`, `2.5.0`, `2.5.1`, `2.6.0`, `2.6.0-20230325-dd7fc54-NIGHTLY`, `2.6.0-20230327-e355f4f-NIGHTLY`, `2.6.1`, `2.6.1-20230330-dc2d578-NIGHTLY`, `2.6.1-20230406-89b0ae0-NIGHTLY`, `2.6.1-20230407-f28fc8d-NIGHTLY`, `2.6.1-20230413-f692d85-NIGHTLY`, `2.6.1-20230415-44f12eb-NIGHTLY`, `2.6.1-20230420-d55b6af-NIGHTLY`, `2.6.1-20230426-3b9e5e7-NIGHTLY`, `2.6.1-20230509-7f7726c-NIGHTLY`, `2.6.1-20230510-f360c12-NIGHTLY`, `2.6.1-20230511-f0bcdaa-NIGHTLY`, `2.6.1-20230518-823ca31-NIGHTLY`, `2.7.0-20230524-7b15c3f-NIGHTLY`, `2.7.0-20230531-6d422e6-NIGHTLY`, `2.7.0-20230601-7bfec7d-NIGHTLY`, `2.7.0-20230602-257d6c7-NIGHTLY`, `2.7.0-20230607-8dfade9-NIGHTLY`, `2.7.1`, `2.7.1-20230608-bd55111-NIGHTLY`, `2.7.1-20230615-e6f4db8-NIGHTLY`, `2.7.1-20230616-af2dfb8-NIGHTLY`, `2.7.1-20230617-22b7951-NIGHTLY`, `2.7.2`, `2.7.2-20230620-22b4c01-NIGHTLY`, `2.7.2-20230622-5f29aa1-NIGHTLY`, `2.7.2-20230623-5eb42d2-NIGHTLY`, `2.7.2-20230627-0bd5b03-NIGHTLY`, `2.7.2-20230628-224c1ec-NIGHTLY`, `2.7.2-20230704-c1482bf-NIGHTLY`, `2.7.2-20230706-f4c9b25-NIGHTLY`, `2.7.2-20230707-f2423bb-NIGHTLY`, `2.7.2-20230708-6aa11e0-NIGHTLY`, `2.7.2-20230714-3360353-NIGHTLY`, `2.7.2-20230718-839e5dc-NIGHTLY`, `2.7.2-20230719-3605dbb-NIGHTLY`, `2.7.2-20230721-fc5383a-NIGHTLY`, `2.7.2-20230725-94c4056-NIGHTLY`, `2.7.2-20230726-21887d9-NIGHTLY`, `2.7.2-20230727-c01fb10-NIGHTLY`, `2.7.2-20230728-0314e75-NIGHTLY`, `2.7.2-20230729-2fd79f0-NIGHTLY`, `2.7.2-20230801-a13ff90-NIGHTLY`, `2.7.2-20230802-fee08de-NIGHTLY`, `2.7.2-20230803-9d5cd19-NIGHTLY`, `2.7.2-20230804-ba44564-NIGHTLY`, `2.7.2-20230805-9f8f3f3-NIGHTLY`, `2.7.2-20230808-956bc00-NIGHTLY`, `3.0.0`, `3.0.0-20230810-1fafd89-NIGHTLY`, `3.0.0-20230818-e5006bf-NIGHTLY`, `3.0.0-20230822-ed8ab21-NIGHTLY`, `3.0.0-20230823-3b4e1f7-NIGHTLY`, `3.0.0-20230825-a29c1da-NIGHTLY`, `3.0.0-20230826-637f0d9-NIGHTLY`, `3.0.0-20230829-6d11bde-NIGHTLY`, `3.0.0-20230830-2e17ea0-NIGHTLY`, `3.0.0-20230831-edcfd4b-NIGHTLY`, `3.0.0-20230901-f4fb71b-NIGHTLY`, `3.0.0-20230902-1716735-NIGHTLY`, `3.0.0-20230905-2b6f16d-NIGHTLY`, `3.0.0-20230907-3e4ccba-NIGHTLY`, `3.0.0-20230908-6d75757-NIGHTLY`, `3.0.0-20230909-6b45eb6-NIGHTLY`, `3.0.0-20230912-bb47e49-NIGHTLY`, `3.0.0-20230913-1c51f02-NIGHTLY`, `3.0.0-20230914-4de96f0-NIGHTLY`, `3.0.0-20230915-c03090d-NIGHTLY`, `3.1.0`, `3.1.0-20230919-eb06cec-NIGHTLY`, `3.1.0-20230920-4eade40-NIGHTLY`, `3.1.0-20230921-0827130-NIGHTLY`, `3.1.0-20230922-89706f8-NIGHTLY`, `3.1.0-20230926-119eb05-NIGHTLY`, `3.1.0-20231004-838ae95-NIGHTLY`, `3.1.0-20231010-a908bcf-NIGHTLY`, `3.1.0-20231017-e7faadc-NIGHTLY`, `3.1.0-20231019-84c4f9a-NIGHTLY`, `3.1.0-20231020-cd64dbb-NIGHTLY`, `3.1.0-20231021-242995b-NIGHTLY`, `3.1.0-20231025-ac05d50-NIGHTLY`, `3.1.0-20231026-654c01d-NIGHTLY`, `3.1.0-20231027-9ad762b-NIGHTLY`, `3.1.0-20231028-89beaf7-NIGHTLY`, `3.1.0-20231101-0a8b2b7-NIGHTLY`, `3.1.0-20231103-0634170-NIGHTLY`, `3.1.0-20231104-d3533ac-NIGHTLY`, `3.1.0-20231110-f3d490d-NIGHTLY`, `3.1.0-20231115-40c992d-NIGHTLY`, `3.1.0-20231115-3400084-NIGHTLY`, `3.1.0-20231116-0c942d9-NIGHTLY`, `3.1.0-20231118-209d0a6-NIGHTLY`, `3.1.0-20231122-aff8791-NIGHTLY`, `3.1.0-20231123-24aa30d-NIGHTLY`, `3.1.0-20231124-e38dd11-NIGHTLY`, `3.1.0-20231125-a10ecb0-NIGHTLY`, `3.1.0-20231128-e6ad2a0-NIGHTLY`, `3.1.0-20231129-9915acf-NIGHTLY`, `3.1.0-20231201-80ec82c-NIGHTLY`, `3.1.0-20231205-ec256a9-NIGHTLY`, `3.1.0-20231215-d43b8c9-NIGHTLY`, `3.1.0-20231216-ec66172-NIGHTLY`, `3.1.0-20231220-418393f-NIGHTLY`, `3.1.0-20231221-49a15d1-NIGHTLY`, `3.1.0-20231230-aeef2ca-NIGHTLY`, `3.1.0-20240103-c4aaf5e-NIGHTLY`, `3.1.0-20240104-2f86f1d-NIGHTLY`, `3.1.0-20240105-6423325-NIGHTLY`, `3.1.0-20240110-b6db163-NIGHTLY`, `3.1.0-20240111-cbd7bc4-NIGHTLY`, `3.1.0-20240111-8009bec-NIGHTLY`, `3.1.0-20240113-6ec65a8-NIGHTLY`, `3.1.0-20240114-13787f5-NIGHTLY`, `3.1.0-20240116-75f0a05-NIGHTLY`, `3.1.0-20240118-951e6c6-NIGHTLY`, `3.1.0-20240119-ba9dff9-NIGHTLY`, `3.1.0-20240126-744c464-NIGHTLY`, `3.1.0-20240127-5b90e20-NIGHTLY`, `3.1.0-20240130-33760f0-NIGHTLY`, `3.1.0-20240203-a15cdbe-NIGHTLY`, `3.1.0-20240206-81643e9-NIGHTLY`, `3.1.0-20240207-7439f14-NIGHTLY`, `3.1.0-20240209-0cc0014-NIGHTLY`, `3.1.0-20240210-2cb6200-NIGHTLY`, `3.1.0-20240212-1170bb0-NIGHTLY`, `3.1.0-20240214-578400f-NIGHTLY`, `3.1.0-20240215-fb81f40-NIGHTLY`, `3.1.0-20240222-ab5a89a-NIGHTLY`, `3.1.0-20240223-c13c02f-NIGHTLY`, `3.1.0-20240224-ec41697-NIGHTLY`, `3.1.0-20240228-10bab42-NIGHTLY`, `3.1.0-20240301-a4dc63c-NIGHTLY`, `3.1.0-20240305-689caef-NIGHTLY`, `3.1.0-20240306-3037649-NIGHTLY`, `3.1.0-20240309-86fd20b-NIGHTLY`, `3.1.0-20240311-1351c23-NIGHTLY`, `3.1.0-20240312-b9ac1e6-NIGHTLY`, `3.1.0-20240313-89141af-NIGHTLY`, `3.1.0-20240314-c3cc6a6-NIGHTLY`, `3.1.0-20240315-9b22b98-NIGHTLY`, `3.1.0-20240316-a85502b-NIGHTLY`, `3.1.0-20240319-ec691a3-NIGHTLY`, `3.1.0-20240320-8fac88f-NIGHTLY`, `3.1.0-20240321-c66358e-NIGHTLY`, `3.1.0-20240322-c5875e6-NIGHTLY`, `3.1.0-20240323-dc830f8-NIGHTLY`, `3.1.0-20240325-28797b6-NIGHTLY`, `3.1.0-20240327-9ec2d80-NIGHTLY`, `3.1.0-20240328-e62f321-NIGHTLY`, `3.1.0-20240329-73008c5-NIGHTLY`, `3.1.0-20240405-0a05fa1-NIGHTLY`, `3.1.0-20240406-5736d71-NIGHTLY`, `3.1.0-20240408-3f128ac-NIGHTLY`, `3.1.0-20240408-7571695-NIGHTLY`, `3.2.0`, `3.2.0-20240411-25a7b6f-NIGHTLY`, `3.2.0-20240412-a147792-NIGHTLY`, `3.2.0-20240413-ef43560-NIGHTLY`, `3.2.0-20240416-ac69b36-NIGHTLY`, `3.2.0-20240418-8d13b46-NIGHTLY`, `3.2.0-20240419-dc332df-NIGHTLY`, `3.2.0-20240420-b2b2ca0-NIGHTLY`, `3.2.0-20240424-80b0183-NIGHTLY`, `3.2.0-20240425-3f5b161-NIGHTLY`, `3.2.0-20240426-c620e64-NIGHTLY`, `3.2.0-20240427-974e951-NIGHTLY`, `3.2.0-20240430-6b1aaa4-NIGHTLY`, `3.2.0-20240503-99c1e44-NIGHTLY`, `3.2.0-20240507-b823c32-NIGHTLY`, `3.2.0-20240508-f3a81e7-NIGHTLY`, `3.2.0-20240509-23db868-NIGHTLY`, `3.2.0-20240511-8d615b6-NIGHTLY`, `3.2.0-20240514-d792eb7-NIGHTLY`, `3.2.0-20240515-5f8e0ae-NIGHTLY`, `3.2.0-20240517-768cbb3-NIGHTLY`, `3.2.0-20240521-22fe1b8-NIGHTLY`, `3.2.0-20240522-d8907a8-NIGHTLY`, `3.2.0-20240523-fed6c36-NIGHTLY`, `3.2.0-20240525-6952b62-NIGHTLY`, `3.2.0-20240528-0f08aa8-NIGHTLY`, `3.2.0-20240529-d54474f-NIGHTLY`, `3.2.0-20240530-fa0c606-NIGHTLY`, `3.2.0-20240604-0549f04-NIGHTLY`, `3.2.0-20240605-6baa77b-NIGHTLY`, `3.2.0-20240606-167e699-NIGHTLY`, `3.2.0-20240607-c38d4dc-NIGHTLY`, `3.2.0-20240612-9538ab2-NIGHTLY`, `3.2.0-20240614-8e9186b-NIGHTLY`, `3.2.0-20240617-21a03cd-NIGHTLY`, `3.2.0-20240618-cee82b2-NIGHTLY`, `3.2.0-20240619-8d3be01-NIGHTLY`, `3.2.0-20240620-880a0c5-NIGHTLY`, `3.2.0-20240621-df2dd2b-NIGHTLY`, `3.2.0-20240627-02fc9e4-NIGHTLY`, `3.2.0-20240628-d42ee4d-NIGHTLY`, `3.2.0-20240629-e3d8bdf-NIGHTLY`, `3.2.0-20240703-e9a8fdd-NIGHTLY`, `3.2.0-20240705-611cac7-NIGHTLY`, `3.2.0-20240709-9a5fd3d-NIGHTLY`, `3.2.0-20240710-c640799-NIGHTLY`, `3.2.0-20240713-1d6b016-NIGHTLY`, `3.2.0-20240717-caae145d-NIGHTLY`, `3.2.0-20240815-7701fa766-NIGHTLY`, `3.2.0-20240817-9e6d9b789-NIGHTLY`, `3.2.0-20240818-741c5999f-NIGHTLY`, `3.2.0-20240820-8cf16c05a-NIGHTLY`, `3.2.0-20240821-853333ed4-NIGHTLY`, `3.2.0-20240823-66b034c12-NIGHTLY`, `3.2.0-20240825-1227a5f7a-NIGHTLY`, `3.2.0-20240827-7afb934f5-NIGHTLY`, `3.2.0-20240828-2486758ec-NIGHTLY`, `3.2.0-20240829-fd286ccb7-NIGHTLY`, `3.2.0-20240830-c8744b005-NIGHTLY`, `3.2.0-20240831-551f9839d-NIGHTLY`, `3.2.0-20240901-4a942a9e8-NIGHTLY`, `3.2.0-20240903-5e6c23ed4-NIGHTLY`, `3.2.0-20240904-a65b1777f-NIGHTLY`, `3.2.0-20240905-fb3ed22b6-NIGHTLY`, `3.2.0-20240906-41f2a85bf-NIGHTLY`, `3.2.0-20240907-78f130cf3-NIGHTLY`, `3.2.0-20240910-6ecde4854-NIGHTLY`, `3.2.0-20240911-ac2acd5b7-NIGHTLY`, `3.2.0-20240912-4562ff604-NIGHTLY`, `3.2.0-20240913-7f77693c6-NIGHTLY`, `3.2.0-20240914-b29b8fb4d-NIGHTLY`, `3.2.0-20240915-3038b5535-NIGHTLY`, `3.2.0-20240917-1335773ca-NIGHTLY`, `3.2.0-20240918-fb8b26d0f-NIGHTLY`, `3.2.0-20240919-a84bbf722-NIGHTLY`, `3.2.0-20240920-401bf10c4-NIGHTLY`, `3.2.0-20240921-292ddcc47-NIGHTLY`, `3.2.0-20240925-2f71fc974-NIGHTLY`, `3.2.0-20240926-e09206595-NIGHTLY`, `3.2.0-20240927-4ab238eb2-NIGHTLY`, `3.2.0-20240928-dde878cee-NIGHTLY`, `3.2.0-20240928-01e69b8cf-NIGHTLY`, `3.2.0-20241001-a13b9641e-NIGHTLY`, `3.2.0-20241002-5e71bfcc6-NIGHTLY`, `3.2.0-20241004-cd47bad10-NIGHTLY`, `3.2.0-20241005-fa0b3c368-NIGHTLY`, `3.2.0-20241006-1aeb6729b-NIGHTLY`, `3.2.0-20241008-d7f0eb1ec-NIGHTLY`, `3.2.0-20241009-22614104d-NIGHTLY`, `3.2.0-20241010-4eb0525f9-NIGHTLY`, `3.2.0-20241011-abddcc62c-NIGHTLY`, `3.2.0-20241011-559a358af-NIGHTLY`, `3.2.0-20241012-b628c08a0-NIGHTLY`]
 1. `org.jetbrains.kotlin:kotlin-lombok`  -> [`1.7.20-Beta`, `1.7.20-RC`, `1.7.20`, `1.7.21`]
 1. `org.jetbrains.kotlin:kotlin-noarg`  -> [`1.7.20-Beta`, `1.7.20-RC`, `1.7.20`, `1.7.21`]
 1. `org.jetbrains.kotlin:kotlin-osgi-bundle`  -> [`1.4.0`, `1.4.10`, `1.4.21`, `1.4.30`, `1.5.0-M2`, `1.5.20`, `1.5.30-M1`, `1.5.30-RC`, `1.5.30`, `1.5.31`, `1.6.0-M1`, `1.6.0-RC`, `1.6.0-RC2`, `1.6.0`, `1.6.10`, `1.6.20-M1`, `1.6.20-RC2`, `1.6.20`, `1.6.21`, `1.7.0-RC2`, `1.7.0`, `1.7.20-RC`, `1.8.0-RC`, `1.8.20-RC2`, `1.8.20`, `1.9.10`, `1.9.20-Beta2`, `1.9.20-RC`, `1.9.20-RC2`, `1.9.20`, `2.0.0-Beta1`, `2.0.0-Beta2`, `2.0.0-Beta4`, `2.0.0-Beta5`, `2.0.0-RC1`, `2.0.0-RC3`, `2.0.0`, `2.0.20-Beta2`, `2.0.20-RC`, `2.0.20-RC2`, `2.1.0-Beta1`]
@@ -2190,7 +2192,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.scalahub:demopaperwallet_2.12`  -> [`1.0`, `1.1`]
 1. `io.kestra.plugin:plugin-fs`  -> [`0.14.0`]
 1. `io.kestra.plugin:plugin-jdbc-snowflake`  -> [`0.4.1`, `0.4.2`]
-1. `io.kestra.storage:storage-minio`  -> [`0.3.0`, `0.3.1`, `0.4.0`, `0.18.0`, `0.19.0`]
+1. `io.kestra.storage:storage-minio`  -> [`0.3.0`, `0.3.1`, `0.4.0`, `0.18.0`, `0.19.0`, `0.19.1`]
 1. `io.mosip.kernel:kernel-auth-adapter`  -> [`1.2.0.1`]
 1. `io.mosip.registration:registration-libs`  -> [`1.1.2-rc2`, `1.1.2-rc3`, `1.1.2`, `1.1.3-rc1`, `1.1.3-rc2`, `1.1.3`, `1.1.4-rc1`, `1.1.4`, `1.1.5-rc1`, `1.1.5-rc2`, `1.1.5`, `1.1.5.1`, `1.1.5.2`, `1.1.5.3`, `1.1.5.4`, `1.2.0-rc1`]
 1. `io.pravega:pravega-connectors-flink-1.11_2.12`  -> [`0.10.1`]
@@ -2712,7 +2714,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.mantisrx:mantis-connector-iceberg`  -> [`1.2.11`, `1.2.12`, `1.2.13`, `1.2.14`, `1.2.15`, `1.2.16`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`, `1.3.52`, `1.3.53`, `1.3.54`, `1.3.55`, `1.4.0`, `1.4.1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
 1. `io.mantisrx:mantis-publish-netty`  -> [`1.3.2`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`, `1.3.52`, `1.3.53`, `1.3.54`, `1.3.55`, `1.4.0`, `1.4.1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
 1. `io.mantisrx:mantis-shaded`  -> [`1.2.56`, `1.2.57`, `1.2.58`, `1.2.59`, `1.2.60`, `1.2.62`, `1.2.63`, `1.3.3`, `1.3.5`, `1.3.6`, `1.3.7`, `1.3.9`, `1.3.13`, `1.3.14`, `1.3.16`, `1.3.17`, `1.3.18`, `1.3.19`, `1.3.20`, `1.3.21`, `1.3.22`, `1.3.23`, `1.3.24`, `1.3.25`, `1.3.26`, `1.3.33`, `1.3.35`, `1.3.36`, `1.3.37`, `1.3.38`, `1.3.39`, `1.3.40`, `1.3.41`, `1.3.42`, `1.3.43`, `1.3.45`, `1.3.46`, `1.3.48`, `1.3.49`, `1.3.50`, `1.3.51`, `1.3.52`, `1.3.53`, `1.3.54`, `1.3.55`, `1.4.0`, `1.4.1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`]
-1. `io.moderne:moderne-cli`  -> [`2.0.4`, `2.0.5`, `2.0.6`, `2.1.0`, `2.1.1`, `2.1.3`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`, `2.1.15`, `2.2.1`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.2.7`, `2.2.8`, `2.2.9`, `2.2.10`, `2.2.11`, `2.2.12`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`, `2.4.5`, `2.5.0`, `2.5.1`, `2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.5.6`, `2.5.7`, `2.5.8`, `2.5.9`, `2.5.10`, `2.5.11`, `2.5.12`, `2.5.13`, `2.5.14`, `2.5.15`, `2.5.16`, `2.5.17`, `2.5.18`, `2.5.19`, `2.5.20`, `2.6.0`, `2.7.0`, `2.7.1`, `2.7.3`, `2.7.4`, `2.7.5`, `2.7.6`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.8.11`, `2.8.12`, `2.8.13`, `2.8.14`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.2.0`, `3.2.1`, `3.2.2`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.4.1`, `3.4.2`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.7.4`, `3.7.5`, `3.7.6`, `3.7.7`, `3.7.8`, `3.7.9`, `3.7.10`, `3.8.0`, `3.9.2`, `3.10.0`, `3.10.1`, `3.10.2`, `3.10.3`, `3.10.4`, `3.10.5`, `3.10.6`, `3.10.7`, `3.10.8`, `3.10.9`, `3.10.10`, `3.10.11`, `3.11.0`, `3.11.1`, `3.11.2`, `3.11.3`, `3.12.0`, `3.12.1`, `3.12.2`, `3.12.3`, `3.13.0`, `3.13.1`, `3.13.2`, `3.13.3`, `3.13.4`, `3.13.5`, `3.13.6`, `3.13.7`, `3.13.8`, `3.14.0`, `3.14.1`, `3.14.2`, `3.15.0`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.16.4`, `3.16.5`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.18.2`, `3.18.3`, `3.18.4`, `3.18.5`, `3.18.6`, `3.18.7`, `3.18.8`, `3.19.0`, `3.19.1`, `3.19.2`, `3.19.3`, `3.19.4`, `3.19.5`, `3.20.0`, `3.20.1`, `3.20.2`, `3.20.3`, `3.20.4`, `3.20.5`, `3.20.6`, `3.20.7`, `3.20.8`, `3.20.9`, `3.20.10`, `3.20.11`, `3.20.12`, `3.20.13`, `3.21.0`, `3.21.1`, `3.21.2`, `3.22.0`, `3.22.1`, `3.22.2`, `3.22.3`, `3.22.4`, `3.22.5`, `3.22.6`, `3.23.0`, `3.24.0`, `3.24.1`]
+1. `io.moderne:moderne-cli`  -> [`2.0.4`, `2.0.5`, `2.0.6`, `2.1.0`, `2.1.1`, `2.1.3`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`, `2.1.10`, `2.1.11`, `2.1.12`, `2.1.13`, `2.1.14`, `2.1.15`, `2.2.1`, `2.2.3`, `2.2.4`, `2.2.5`, `2.2.6`, `2.2.7`, `2.2.8`, `2.2.9`, `2.2.10`, `2.2.11`, `2.2.12`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.4.1`, `2.4.2`, `2.4.3`, `2.4.4`, `2.4.5`, `2.5.0`, `2.5.1`, `2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.5.6`, `2.5.7`, `2.5.8`, `2.5.9`, `2.5.10`, `2.5.11`, `2.5.12`, `2.5.13`, `2.5.14`, `2.5.15`, `2.5.16`, `2.5.17`, `2.5.18`, `2.5.19`, `2.5.20`, `2.6.0`, `2.7.0`, `2.7.1`, `2.7.3`, `2.7.4`, `2.7.5`, `2.7.6`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.8.6`, `2.8.7`, `2.8.8`, `2.8.9`, `2.8.10`, `2.8.11`, `2.8.12`, `2.8.13`, `2.8.14`, `2.9.0`, `2.9.1`, `2.9.2`, `2.9.3`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.2.0`, `3.2.1`, `3.2.2`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.4.1`, `3.4.2`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.7.4`, `3.7.5`, `3.7.6`, `3.7.7`, `3.7.8`, `3.7.9`, `3.7.10`, `3.8.0`, `3.9.2`, `3.10.0`, `3.10.1`, `3.10.2`, `3.10.3`, `3.10.4`, `3.10.5`, `3.10.6`, `3.10.7`, `3.10.8`, `3.10.9`, `3.10.10`, `3.10.11`, `3.11.0`, `3.11.1`, `3.11.2`, `3.11.3`, `3.12.0`, `3.12.1`, `3.12.2`, `3.12.3`, `3.13.0`, `3.13.1`, `3.13.2`, `3.13.3`, `3.13.4`, `3.13.5`, `3.13.6`, `3.13.7`, `3.13.8`, `3.14.0`, `3.14.1`, `3.14.2`, `3.15.0`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.16.4`, `3.16.5`, `3.17.0`, `3.17.1`, `3.17.2`, `3.18.0`, `3.18.1`, `3.18.2`, `3.18.3`, `3.18.4`, `3.18.5`, `3.18.6`, `3.18.7`, `3.18.8`, `3.19.0`, `3.19.1`, `3.19.2`, `3.19.3`, `3.19.4`, `3.19.5`, `3.20.0`, `3.20.1`, `3.20.2`, `3.20.3`, `3.20.4`, `3.20.5`, `3.20.6`, `3.20.7`, `3.20.8`, `3.20.9`, `3.20.10`, `3.20.11`, `3.20.12`, `3.20.13`, `3.21.0`, `3.21.1`, `3.21.2`, `3.22.0`, `3.22.1`, `3.22.2`, `3.22.3`, `3.22.4`, `3.22.5`, `3.22.6`, `3.23.0`, `3.24.0`, `3.24.1`, `3.24.2`]
 1. `io.pravega:pravega-keycloak-client`  -> [`0.13.0`]
 1. `net.octopvp:Commander-JDA`  -> [`0.0.2-REL`, `0.0.3-REL`]
 1. `org.apache.beam:beam-runners-flink-1.10-job-server`  -> [`2.29.0`, `2.30.0`]
@@ -3418,13 +3420,66 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.6`]
 1. `no.entur:interface-protoc-plugin`  -> [`1.16`]
 1. `org.apache.spark:spark-connect_2.13`  -> [`4.0.0-preview1`, `4.0.0-preview2`]
-1. `org.checkerframework:checker`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`]
-1. `org.checkerframework:dataflow-errorprone`  -> [`3.48.0`]
-1. `org.checkerframework:dataflow-nullaway`  -> [`3.48.0`]
-1. `org.checkerframework:dataflow-shaded`  -> [`3.48.0`]
+1. `org.checkerframework:checker`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`, `3.48.1`]
+1. `org.checkerframework:dataflow-errorprone`  -> [`3.48.0`, `3.48.1`]
+1. `org.checkerframework:dataflow-nullaway`  -> [`3.48.0`, `3.48.1`]
+1. `org.checkerframework:dataflow-shaded`  -> [`3.48.0`, `3.48.1`]
 1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.19.4`, `0.19.5`, `0.20.0`, `0.20.1`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.16.1`, `1.17.0`]
 1. `org.opendaylight.netconf:websocket-client`  -> [`7.0.5`, `7.0.6`, `7.0.7`, `7.0.8`, `7.0.9`, `7.0.10`]
+
+## com.fasterxml.jackson.jaxrs.json
+
+For example, at least 47 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.jaxrs.json`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.jaxrs.json;`.
+
+1. `app.cash.backfila:service-lib`  -> [`0.1.3-20210805.0116-93702c4`]
+1. `com.alibaba.ververica:ververica-connector-db2`  -> [`1.13-vvr-4.0.15`]
+1. `com.alibaba.ververica:ververica-connector-sqlserver`  -> [`1.13-vvr-4.0.15`]
+1. `com.baidu.dev2:baiduads-sdk`  -> [`2022.0.0`, `2022.1.0`, `2022.2.0`, `2022.3.0`, `2022.4.0`, `2022.4.1`, `2023.0.0`, `2023.1.0`]
+1. `com.emc.ecs:object-client-bundle`  -> [`3.3.2`]
+1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`]
+1. `com.guicedee.services:jackson-jaxrs-json-provider`  -> [`0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.telenav.kivakit:kivakit-examples-lambda`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
+1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
+1. `com.ververica:flink-cdc-pipeline-connector-mysql`  -> [`3.0.0`, `3.0.1`]
+1. `com.ververica:flink-sql-connector-db2-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
+1. `com.ververica:flink-sql-connector-mysql-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
+1. `com.ververica:flink-sql-connector-oracle-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
+1. `com.ververica:flink-sql-connector-sqlserver-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
+1. `com.ververica:flink-sql-connector-vitess-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
+1. `io.github.marquezproject:marquez-api`  -> [`0.21.0`, `0.22.0`]
+1. `io.github.nur858:com-microsoft-osdu-api`  -> [`0.0.4`]
+1. `io.kestra.plugin:plugin-debezium-mysql`  -> [`0.4.0`, `0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
+1. `io.kestra.plugin:plugin-debezium-sqlserver`  -> [`0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
+1. `io.kestra.plugin:plugin-debezium`  -> [`0.4.0`, `0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
+1. `io.kestra.plugin:plugin-serdes`  -> [`0.5.0`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`]
+1. `io.kestra:kestra`  -> [`0.2.6`, `0.2.7`, `0.2.8`]
+1. `io.liftwizard:liftwizard-example`  -> [`0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`]
+1. `io.nflow:nflow-perf-test`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`, `7.3.1`, `7.4.0`]
+1. `io.nflow:nflow-tests`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`, `7.3.1`, `7.4.0`]
+1. `io.openlineage:openlineage-proxy`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`]
+1. `io.stargate.graphql:sgv2-graphqlapi`  -> [`2.0.0-ALPHA-7`, `2.0.0-ALPHA-8`, `2.0.0-ALPHA-9`, `2.0.0-ALPHA-10`, `2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`]
+1. `io.stargate.web:sgv2-rest-service`  -> [`2.0.0-ALPHA-1`, `2.0.0-ALPHA-2`, `2.0.0-ALPHA-3`, `2.0.0-ALPHA-4`, `2.0.0-ALPHA-5`, `2.0.0-ALPHA-6`, `2.0.0-ALPHA-7`, `2.0.0-ALPHA-8`, `2.0.0-ALPHA-9`, `2.0.0-ALPHA-10`]
+1. `io.stargate.web:sgv2-restapi`  -> [`2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`, `2.0.0-BETA-1`]
+1. `it.vige.cities:cities-generator`  -> [`1.2.0`]
+1. `org.apache.beam:beam-sdks-java-io-iceberg-hive`  -> [`2.59.0`]
+1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.19.0`, `1.20.0-hadoop2`]
+1. `org.apache.flink:flink-cdc-pipeline-connector-mysql`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
+1. `org.apache.flink:flink-sql-connector-mysql-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
+1. `org.apache.flink:flink-sql-connector-oracle-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
+1. `org.apache.flink:flink-sql-connector-sqlserver-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
+1. `org.apache.flink:flink-sql-connector-vitess-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`]
+1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-cdc-opengauss`  -> [`2.3.8`]
+1. `org.apache.seatunnel:connector-cdc-oracle`  -> [`2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-cdc-postgres`  -> [`2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:connector-cdc-sqlserver`  -> [`2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.tika:tika-server-classic`  -> [`2.0.0-ALPHA`]
+1. `org.apache.tika:tika-server-core`  -> [`2.0.0-ALPHA`, `2.0.0-BETA`]
+1. `org.apache.tika:tika-server-standard`  -> [`2.0.0-BETA`]
 
 ## org.apache.commons.io
 
@@ -3478,58 +3533,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
 1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`]
 1. `org.vafer:jdependency`  -> [`2.10`, `2.11`]
-
-## com.fasterxml.jackson.jaxrs.json
-
-For example, at least 46 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.jaxrs.json`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.jaxrs.json;`.
-
-1. `app.cash.backfila:service-lib`  -> [`0.1.3-20210805.0116-93702c4`]
-1. `com.alibaba.ververica:ververica-connector-db2`  -> [`1.13-vvr-4.0.15`]
-1. `com.alibaba.ververica:ververica-connector-sqlserver`  -> [`1.13-vvr-4.0.15`]
-1. `com.baidu.dev2:baiduads-sdk`  -> [`2022.0.0`, `2022.1.0`, `2022.2.0`, `2022.3.0`, `2022.4.0`, `2022.4.1`, `2023.0.0`, `2023.1.0`]
-1. `com.emc.ecs:object-client-bundle`  -> [`3.3.2`]
-1. `com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.2`, `2.10.2.1`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`]
-1. `com.guicedee.services:jackson-jaxrs-json-provider`  -> [`0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.telenav.kivakit:kivakit-examples-lambda`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
-1. `com.telenav.kivakit:kivakit-service-server`  -> [`1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.5.0`]
-1. `com.ververica:flink-cdc-pipeline-connector-mysql`  -> [`3.0.0`, `3.0.1`]
-1. `com.ververica:flink-sql-connector-db2-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
-1. `com.ververica:flink-sql-connector-mysql-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
-1. `com.ververica:flink-sql-connector-oracle-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
-1. `com.ververica:flink-sql-connector-sqlserver-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
-1. `com.ververica:flink-sql-connector-vitess-cdc`  -> [`2.4.0`, `2.4.1`, `2.4.2`, `3.0.0`, `3.0.1`]
-1. `io.github.marquezproject:marquez-api`  -> [`0.21.0`, `0.22.0`]
-1. `io.github.nur858:com-microsoft-osdu-api`  -> [`0.0.4`]
-1. `io.kestra.plugin:plugin-debezium-mysql`  -> [`0.4.0`, `0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
-1. `io.kestra.plugin:plugin-debezium-sqlserver`  -> [`0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
-1. `io.kestra.plugin:plugin-debezium`  -> [`0.4.0`, `0.4.1`, `0.5.0`, `0.6.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`]
-1. `io.kestra.plugin:plugin-serdes`  -> [`0.5.0`, `0.6.0`, `0.6.1`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`]
-1. `io.kestra:kestra`  -> [`0.2.6`, `0.2.7`, `0.2.8`]
-1. `io.liftwizard:liftwizard-example`  -> [`0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`]
-1. `io.nflow:nflow-perf-test`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`, `7.3.1`, `7.4.0`]
-1. `io.nflow:nflow-tests`  -> [`7.2.1`, `7.2.2`, `7.2.3`, `7.2.4`, `7.3.0`, `7.3.1`, `7.4.0`]
-1. `io.openlineage:openlineage-proxy`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`]
-1. `io.stargate.graphql:sgv2-graphqlapi`  -> [`2.0.0-ALPHA-7`, `2.0.0-ALPHA-8`, `2.0.0-ALPHA-9`, `2.0.0-ALPHA-10`, `2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`]
-1. `io.stargate.web:sgv2-rest-service`  -> [`2.0.0-ALPHA-1`, `2.0.0-ALPHA-2`, `2.0.0-ALPHA-3`, `2.0.0-ALPHA-4`, `2.0.0-ALPHA-5`, `2.0.0-ALPHA-6`, `2.0.0-ALPHA-7`, `2.0.0-ALPHA-8`, `2.0.0-ALPHA-9`, `2.0.0-ALPHA-10`]
-1. `io.stargate.web:sgv2-restapi`  -> [`2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`, `2.0.0-BETA-1`]
-1. `it.vige.cities:cities-generator`  -> [`1.2.0`]
-1. `org.apache.beam:beam-sdks-java-io-iceberg-hive`  -> [`2.59.0`]
-1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.19.0`, `1.20.0-hadoop2`]
-1. `org.apache.flink:flink-cdc-pipeline-connector-mysql`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
-1. `org.apache.flink:flink-sql-connector-mysql-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
-1. `org.apache.flink:flink-sql-connector-oracle-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
-1. `org.apache.flink:flink-sql-connector-sqlserver-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
-1. `org.apache.flink:flink-sql-connector-vitess-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`]
-1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-cdc-oracle`  -> [`2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-cdc-postgres`  -> [`2.3.6`, `2.3.7`]
-1. `org.apache.seatunnel:connector-cdc-sqlserver`  -> [`2.3.6`, `2.3.7`]
-1. `org.apache.tika:tika-server-classic`  -> [`2.0.0-ALPHA`]
-1. `org.apache.tika:tika-server-core`  -> [`2.0.0-ALPHA`, `2.0.0-BETA`]
-1. `org.apache.tika:tika-server-standard`  -> [`2.0.0-BETA`]
 
 ## com.fasterxml.jackson.datatype.jdk8
 
@@ -3626,9 +3629,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.lang3
 
-For example, at least 37 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 38 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
 
+1. `com.aerospike:avs-client-java`  -> [`1.0.0`]
 1. `com.guicedee.services:commons-lang3`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
@@ -3805,8 +3809,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.26`]
 1. `org.netbeans.external:org-apache-commons-codec`  -> [`RELEASE220`, `RELEASE230`]
 1. `org.springframework.cloud:spring-cloud-contract-shade`  -> [`4.1.2`, `4.1.3`, `4.1.4`]
-1. `software.amazon.awssdk:bundle-sdk`  -> [`2.26.25`, `2.26.26`, `2.26.27`, `2.26.28`, `2.26.29`, `2.26.30`, `2.26.31`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.27.7`, `2.27.8`, `2.27.9`, `2.27.10`, `2.27.11`, `2.27.12`, `2.27.13`, `2.27.14`, `2.27.15`, `2.27.16`, `2.27.17`, `2.27.18`, `2.27.19`, `2.27.20`, `2.27.21`, `2.27.22`, `2.27.23`, `2.27.24`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4`, `2.28.5`, `2.28.6`, `2.28.7`, `2.28.8`, `2.28.9`, `2.28.10`, `2.28.11`, `2.28.12`, `2.28.13`, `2.28.14`, `2.28.15`, `2.28.16`, `2.28.17`, `2.28.18`, `2.28.19`, `2.28.20`]
-1. `software.amazon.awssdk:bundle`  -> [`2.26.25`, `2.26.26`, `2.26.27`, `2.26.28`, `2.26.29`, `2.26.30`, `2.26.31`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.27.7`, `2.27.8`, `2.27.9`, `2.27.10`, `2.27.11`, `2.27.12`, `2.27.13`, `2.27.14`, `2.27.15`, `2.27.16`, `2.27.17`, `2.27.18`, `2.27.19`, `2.27.20`, `2.27.21`, `2.27.22`, `2.27.23`, `2.27.24`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4`, `2.28.5`, `2.28.6`, `2.28.7`, `2.28.8`, `2.28.9`, `2.28.10`, `2.28.11`, `2.28.12`, `2.28.13`, `2.28.14`, `2.28.15`, `2.28.16`, `2.28.17`, `2.28.18`, `2.28.19`, `2.28.20`]
+1. `software.amazon.awssdk:bundle-sdk`  -> [`2.26.25`, `2.26.26`, `2.26.27`, `2.26.28`, `2.26.29`, `2.26.30`, `2.26.31`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.27.7`, `2.27.8`, `2.27.9`, `2.27.10`, `2.27.11`, `2.27.12`, `2.27.13`, `2.27.14`, `2.27.15`, `2.27.16`, `2.27.17`, `2.27.18`, `2.27.19`, `2.27.20`, `2.27.21`, `2.27.22`, `2.27.23`, `2.27.24`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4`, `2.28.5`, `2.28.6`, `2.28.7`, `2.28.8`, `2.28.9`, `2.28.10`, `2.28.11`, `2.28.12`, `2.28.13`, `2.28.14`, `2.28.15`, `2.28.16`, `2.28.17`, `2.28.18`, `2.28.19`, `2.28.20`, `2.28.21`]
+1. `software.amazon.awssdk:bundle`  -> [`2.26.25`, `2.26.26`, `2.26.27`, `2.26.28`, `2.26.29`, `2.26.30`, `2.26.31`, `2.27.0`, `2.27.1`, `2.27.2`, `2.27.3`, `2.27.4`, `2.27.5`, `2.27.6`, `2.27.7`, `2.27.8`, `2.27.9`, `2.27.10`, `2.27.11`, `2.27.12`, `2.27.13`, `2.27.14`, `2.27.15`, `2.27.16`, `2.27.17`, `2.27.18`, `2.27.19`, `2.27.20`, `2.27.21`, `2.27.22`, `2.27.23`, `2.27.24`, `2.28.0`, `2.28.1`, `2.28.2`, `2.28.3`, `2.28.4`, `2.28.5`, `2.28.6`, `2.28.7`, `2.28.8`, `2.28.9`, `2.28.10`, `2.28.11`, `2.28.12`, `2.28.13`, `2.28.14`, `2.28.15`, `2.28.16`, `2.28.17`, `2.28.18`, `2.28.19`, `2.28.20`, `2.28.21`]
 
 ## net.bytebuddy.agent
 
@@ -3849,20 +3853,20 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.66.0`, `1.68.0`, `1.70.0`]
 1. `org.apache.jackrabbit:oak-run`  -> [`1.66.0`, `1.68.0`, `1.70.0`]
 1. `org.apache.storm:storm-redis-examples`  -> [`2.6.1`, `2.6.2`, `2.6.4`]
-1. `org.locationtech.geomesa:geomesa-accumulo-distributed-runtime_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-accumulo-distributed-runtime_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo20_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo20_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo21_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo21_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-fs-spark-runtime_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-fs-spark-runtime_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-gt-spark-runtime_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-gt-spark-runtime_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.13`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.12`  -> [`5.0.0`, `5.0.1`]
-1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.13`  -> [`5.0.0`, `5.0.1`]
+1. `org.locationtech.geomesa:geomesa-accumulo-distributed-runtime_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-accumulo-distributed-runtime_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo20_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo20_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo21_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-accumulo-spark-runtime-accumulo21_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-fs-spark-runtime_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-fs-spark-runtime_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-gt-spark-runtime_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-gt-spark-runtime_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-hbase-distributed-runtime-hbase2_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.12`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
+1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`]
 1. `org.noear:luffy.lock.redis`  -> [`1.8.1`, `1.9.0`]
 1. `org.noear:luffy.queue.redis`  -> [`1.8.1`, `1.9.0`]
 
@@ -5060,7 +5064,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.checkerframework.checker.qual
 
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.7`]
-1. `org.checkerframework:checker-qual` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`]
+1. `org.checkerframework:checker-qual` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`, `3.48.1`]
 1. `org.checkerframework:dataflow-errorprone`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
 1. `org.checkerframework:dataflow-nullaway`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
 1. `org.checkerframework:dataflow-shaded`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
@@ -5128,9 +5132,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## com.github.gv2011.http
 
 1. `com.github.gv2011:http`  -> [`0.6`, `0.7`, `0.8`]
-1. `com.github.gv2011:util-h2`  -> [`0.12`, `0.13`]
-1. `com.github.gv2011:util-http`  -> [`0.9`, `0.10`, `0.12`, `0.13`]
-1. `com.github.gv2011:util-tempfile` 🧩 -> [`0.12`, `0.13`]
+1. `com.github.gv2011:util-h2`  -> [`0.12`, `0.13`, `0.14`]
+1. `com.github.gv2011:util-http`  -> [`0.9`, `0.10`, `0.12`, `0.13`, `0.14`]
+1. `com.github.gv2011:util-tempfile` 🧩 -> [`0.12`, `0.13`, `0.14`]
 
 ## com.jwebmp.core
 
