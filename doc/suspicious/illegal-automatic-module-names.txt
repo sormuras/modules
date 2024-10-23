@@ -180,12 +180,11 @@ com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
 com.hcl.domino:domino-jnx-lsxbeshim:1.41.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:domino-jnx-lsxbeshim-r12:1.42.3 -> domino-jnx-lsxbeshim-r12
-com.hcl.domino:domino-jnx-lsxbeshim-r14:1.42.3 -> domino-jnx-lsxbeshim-r14
-com.hcl.domino:domino-jnx-lsxbeshim-r145:1.42.3 -> domino-jnx-lsxbeshim-r145
+com.hcl.domino:domino-jnx-lsxbeshim-r12:1.43.0 -> domino-jnx-lsxbeshim-r12
+com.hcl.domino:domino-jnx-lsxbeshim-r14:1.43.0 -> domino-jnx-lsxbeshim-r14
+com.hcl.domino:domino-jnx-lsxbeshim-r145:1.43.0 -> domino-jnx-lsxbeshim-r145
 com.hcl.domino:jnx-example-graalvm-native:1.41.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
-com.helger:en16931-cii2ubl:2.2.4 -> com.helger.en16931-cii2ubl
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-boot-starter:2.0.1.RELEASE -> -
 com.ifrabbit:spring-data-mybatis-core:2.0.1.RELEASE -> -
