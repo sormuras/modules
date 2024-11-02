@@ -406,9 +406,9 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.2 -> org.apache.maven.resolver.transport.jdk.11
+org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.3 -> org.apache.maven.resolver.transport.jdk.11
 org.apache.maven.resolver:maven-resolver-transport-jdk-21:2.0.0 -> org.apache.maven.resolver.transport.jdk.21
-org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.2 -> org.apache.maven.resolver.transport.jdk.8
+org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.3 -> org.apache.maven.resolver.transport.jdk.8
 org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.1.0-M1 -> pekko.projection.durable-state
@@ -531,7 +531,7 @@ org.apereo.cas:cas-server-documentation:6.0.0-RC1 -> cas-server-documentation
 org.apereo.cas:cas-server-documentation-swagger:6.2.0-RC3 -> cas-server-documentation-swagger
 org.apereo.cas:cas-server-support-bom:6.5.0-RC5 -> cas-server-support-bom
 org.apereo.cas:cas-server-support-configuration:6.0.0-RC3 -> cas-server-support-configuration
-org.apereo.cas:cas-server-support-native:7.2.0-RC1 -> cas.server.support.native
+org.apereo.cas:cas-server-support-native:7.2.0-RC2 -> cas.server.support.native
 org.apereo.cas:cas-server-webapp:6.1.0-RC4 -> cas-server-webapp
 org.apereo.cas:cas-server-webapp-bootadmin-server:6.1.0-RC4 -> cas-server-webapp-bootadmin-server
 org.apereo.cas:cas-server-webapp-config-server:6.1.0-RC4 -> cas-server-webapp-config-server
