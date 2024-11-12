@@ -96,9 +96,9 @@ com.caoccao.javet:javet-v8-windows-x86_64-i18n:4.0.0 -> com.caoccao.javet.v8-win
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
-com.connectrpc:connect-kotlin-google-java-ext:0.7.0 -> google-java-extensions
-com.connectrpc:connect-kotlin-google-javalite-ext:0.7.0 -> google-javalite-extensions
-com.connectrpc:protoc-gen-connect-kotlin:0.7.0 -> protoc-gen-connect-kotlin
+com.connectrpc:connect-kotlin-google-java-ext:0.7.1 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.7.1 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.7.1 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -270,7 +270,7 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-alpha.4 -> arrow.core-high-arity
+io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-beta.1 -> arrow.core-high-arity
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
