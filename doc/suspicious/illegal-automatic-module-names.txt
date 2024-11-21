@@ -1781,8 +1781,8 @@ ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-s
 ru.testit:testit-adapter-kotest:0.1.0 -> ru.testit.testit-adapter-kotest
 ru.testit:testit-kotlin-commons:0.1.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.23 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.23 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.23 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.24 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.24 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.24 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
