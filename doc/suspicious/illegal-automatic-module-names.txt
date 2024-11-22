@@ -714,8 +714,8 @@ org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
 org.jmonkeyengine:jme3-android-native:3.7.0-stable -> jme3.android.native
-org.jobrunr:jobrunr-spring-boot-2-starter:7.3.1 -> org.jobrunr.spring.boot-2.starter
-org.jobrunr:jobrunr-spring-boot-3-starter:7.3.1 -> org.jobrunr.spring.boot-3.starter
+org.jobrunr:jobrunr-spring-boot-2-starter:7.3.2 -> org.jobrunr.spring.boot-2.starter
+org.jobrunr:jobrunr-spring-boot-3-starter:7.3.2 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.7.18 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
@@ -1781,8 +1781,8 @@ ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-s
 ru.testit:testit-adapter-kotest:0.1.0 -> ru.testit.testit-adapter-kotest
 ru.testit:testit-kotlin-commons:0.1.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.24 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.24 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.24 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.25 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.25 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.25 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
