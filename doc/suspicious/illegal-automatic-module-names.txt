@@ -271,7 +271,7 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-beta.3 -> arrow.core-high-arity
+io.arrow-kt:arrow-core-high-arity-jvm:2.0.0-rc.1 -> arrow.core-high-arity
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
