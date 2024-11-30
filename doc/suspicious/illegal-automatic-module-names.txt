@@ -290,11 +290,11 @@ io.github.hylexus.jt:jt-1078-server-spring-boot-autoconfigure:2.2.0-beta5 -> jt.
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter:2.2.0-beta5 -> jt.1078.server.spring.boot.starter
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter-boot2:2.2.0-beta5 -> jt.1078.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-1078-server-support:2.2.0-beta5 -> jt.1078.server.support
-io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.1 -> jt.808.server.spring.boot.autoconfigure
-io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.1 -> jt.808.server.spring.boot.starter
-io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.1 -> jt.808.server.spring.boot.starter.boot2
+io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.2 -> jt.808.server.spring.boot.autoconfigure
+io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.2 -> jt.808.server.spring.boot.starter
+io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.2 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
-io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.1 -> jt.808.server.support
+io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.2 -> jt.808.server.support
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.mianalysis:MIA:1.2.9 -> io.github.mianalysis._
@@ -323,7 +323,7 @@ io.github.yakovsirotkin:machamp-oracle-spring-boot-starter:0.0.26 -> io.github.y
 io.github.yakovsirotkin:machamp-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.github.yakovsirotkin:machamp-sqlserver-spring-boot-starter:0.0.26 -> io.github.yakovsirotkin.machamp.spring-boot-starter
 io.opentelemetry:opentelemetry-sdk-metrics-testing:1.13.0-alpha -> io.opentelemetry.sdk.metrics-testing
-io.qameta.allure:allure-junit5-assert:2.29.0 -> io.qameta.allure.junit5-assert
+io.qameta.allure:allure-junit5-assert:2.29.1 -> io.qameta.allure.junit5-assert
 io.skullabs.apt:class-generator:0.4.1 -> io.skullabs.apt.class-generator
 io.skullabs.injector:injector-core:1.5.3 -> io.skullabs.injector.injector-core
 io.skullabs.injector:injector-processor:1.5.3 -> io.skullabs.injector.injector-processor
@@ -1779,8 +1779,8 @@ pro.projo:projo-template-annotation:1.5.7 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.5.7 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.5.7 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
-ru.testit:testit-adapter-kotest:0.1.1 -> ru.testit.testit-adapter-kotest
-ru.testit:testit-kotlin-commons:0.1.1 -> ru.testit.testit-kotlin-commons
+ru.testit:testit-adapter-kotest:0.2.0 -> ru.testit.testit-adapter-kotest
+ru.testit:testit-kotlin-commons:0.2.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.26 -> smithy-aws-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.26 -> smithy-kotlin-codegen
