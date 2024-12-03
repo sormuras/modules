@@ -119,7 +119,7 @@ com.github.bbottema:java-socks-proxy-server:4.1.2 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
 com.github.bbottema:rtf-to-html:1.1.1 -> rtf-to-html
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
-com.github.davidmoten:aws-lightweight-client-java:0.1.17 -> com.github.davidmoten.aws-lightweight-client-java
+com.github.davidmoten:aws-lightweight-client-java:0.1.18 -> com.github.davidmoten.aws-lightweight-client-java
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
 com.github.librepdf:pdf-xml:1.2.16 -> com.github.librepdf.pdf-xml
@@ -1784,8 +1784,8 @@ ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-s
 ru.testit:testit-adapter-kotest:0.2.0 -> ru.testit.testit-adapter-kotest
 ru.testit:testit-kotlin-commons:0.2.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.26 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.26 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.26 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.27 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.27 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.27 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
