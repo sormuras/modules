@@ -496,7 +496,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.aerospike:avs-client-java`  -> [`0.2.0`]
 1. `com.alibaba.csp:ahas-sentinel-client`  -> [`1.11.6-safe`, `1.11.6-safe-jdk8`]
 1. `com.alibaba.nacos:nacos-client`  -> [`2.1.1`, `2.1.2`, `2.2.0-BETA`, `2.2.0`, `2.2.1-RC`, `2.2.1`, `2.2.2`, `2.2.3`, `2.2.4`, `2.3.0-BETA`, `2.3.0`, `2.3.1`, `2.3.2`, `2.4.0-BETA`, `2.4.0`, `2.4.1`, `2.4.2`]
-1. `com.alibaba.polardbx:polardbx-connector-java`  -> [`2.1.1`]
+1. `com.alibaba.polardbx:polardbx-connector-java`  -> [`2.1.1`, `2.1.2`]
 1. `com.alipay.myjava:myjava-cli`  -> [`0.2.0`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`]
 1. `com.aliyun.openservices:ons-client`  -> [`2.0.4.Final`, `2.0.5.Final`, `2.0.6.Final`, `2.0.7.Final`]
 1. `com.aliyun.schedulerx:schedulerx2-worker`  -> [`1.9.2`, `1.9.3`, `1.10.0`, `1.10.1`, `1.10.2`, `1.10.3`, `1.10.4`, `1.10.5`, `1.10.6`, `1.10.7`, `1.10.8`, `1.10.9`, `1.10.10`, `1.10.11`, `1.10.12`, `1.10.13`, `1.10.14`, `1.11.0`, `1.11.1`, `1.11.2`, `1.11.3`, `1.11.4`, `1.11.5`, `1.11.6`, `1.12.0`, `1.12.1`, `1.12.2`]
@@ -1788,7 +1788,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`0.4.0`, `0.4.1`, `0.4.2`]
 1. `com.jd.live:joylive-logger-slf4j`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `com.labs64.netlicensing:netlicensing-client-demo`  -> [`2.9.7-jdk17`, `2.9.8-jdk17`]
-1. `com.lihaoyi:mill-dist`  -> [`0.12.2-50-b1f6be`, `0.12.2-51-12c666`, `0.12.2-55-2482ce`, `0.12.3`, `0.12.3-20-e793d3`, `0.12.3-22-41cc33`]
+1. `com.lihaoyi:mill-dist`  -> [`0.12.2-50-b1f6be`, `0.12.2-51-12c666`, `0.12.2-55-2482ce`, `0.12.3`, `0.12.3-20-e793d3`, `0.12.3-22-41cc33`, `0.12.3-41-d21946`]
 1. `com.mageddo.csv2jdbc:csv2jdbc`  -> [`0.2.0-snapshot`, `0.2.0`, `0.2.1`]
 1. `com.networknt:light-consumer-4j`  -> [`2.1.10`, `2.1.11`, `2.1.12`, `2.1.15`, `2.1.16`, `2.1.18`, `2.1.19`, `2.1.20`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`]
 1. `com.newrelic.agent.android:instrumentation`  -> [`6.11.0`, `7.0.0`, `7.1.0`, `7.2.0`, `7.2.1`, `7.3.0`, `7.3.1`, `7.4.0`, `7.4.1`, `7.5.0`, `7.5.1`, `7.6.0`, `7.6.1`, `7.6.2`]
@@ -5000,8 +5000,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `ch.qos.logback:logback-core` 🧩 -> [`1.3.0-alpha4`, `1.3.0-alpha5`, `1.3.0-alpha6`, `1.3.0-alpha7`, `1.3.0-alpha8`, `1.3.0-alpha9`, `1.3.0-alpha10`, `1.3.0-alpha11`, `1.3.0-alpha12`, `1.3.0-alpha13`, `1.3.0-alpha14`, `1.3.0-alpha15`, `1.3.0-alpha16`, `1.3.0-beta0`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.4.4`, `1.4.5`, `1.4.6`, `1.4.7`, `1.4.8`, `1.4.9`, `1.4.10`, `1.4.11`, `1.4.12`, `1.4.13`, `1.4.14`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.5.6`, `1.5.7`, `1.5.8`, `1.5.9`, `1.5.10`, `1.5.11`, `1.5.12`]
 1. `com.github.gv2011.logback:logback-core`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
 1. `com.guicedee.services:logback-core`  -> [`1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
-1. `io.flux-capacitor:proxy`  -> [`0.1045.0`, `0.1046.0`, `0.1047.0`, `0.1048.0`, `0.1049.0`, `0.1051.0`, `0.1052.0`, `0.1055.0`, `0.1056.0`, `0.1057.0`, `0.1059.0`]
-1. `io.flux-capacitor:test-server`  -> [`0.1045.0`, `0.1046.0`, `0.1047.0`, `0.1048.0`, `0.1049.0`, `0.1051.0`, `0.1052.0`, `0.1055.0`, `0.1056.0`, `0.1057.0`, `0.1059.0`]
+1. `io.flux-capacitor:proxy`  -> [`0.1045.0`, `0.1046.0`, `0.1047.0`, `0.1048.0`, `0.1049.0`, `0.1051.0`, `0.1052.0`, `0.1055.0`, `0.1056.0`, `0.1057.0`, `0.1059.0`, `0.1060.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.1045.0`, `0.1046.0`, `0.1047.0`, `0.1048.0`, `0.1049.0`, `0.1051.0`, `0.1052.0`, `0.1055.0`, `0.1056.0`, `0.1057.0`, `0.1059.0`, `0.1060.0`]
 1. `org.camunda.community.migration:backend-diagram-converter-cli`  -> [`0.10.2`]
 
 ## com.fasterxml.jackson.jakarta.rs.json
@@ -5066,6 +5066,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp:javax.inject`  -> [`1.1`]
 1. `dev.ikm.jpms:javax.inject`  -> [`1-r1`, `1-r2`, `1-r3`, `1-r4`]
 1. `io.avaje:javax.inject`  -> [`1.0`]
+
+## org.checkerframework.checker.qual
+
+1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.7`, `1.2024.8`]
+1. `org.checkerframework:checker-qual` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`, `3.48.1`, `3.48.2`, `3.48.3`]
+1. `org.checkerframework:dataflow-errorprone`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.checkerframework:dataflow-nullaway`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.checkerframework:dataflow-shaded`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
+1. `org.opendaylight.netconf:websocket-client`  -> [`7.0.11`]
 
 ## org.glassfish.java.json
 
@@ -5253,14 +5262,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.bouncycastle:bcutil-debug-jdk18on`  -> [`1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.78.1`, `1.79`]
 1. `org.bouncycastle:bcutil-jdk15on`  -> [`1.69`, `1.70`]
 1. `org.bouncycastle:bcutil-jdk18on` 🧩 -> [`1.71`, `1.71.1`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.78.1`, `1.79`]
-
-## org.checkerframework.checker.qual
-
-1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.7`, `1.2024.8`]
-1. `org.checkerframework:checker-qual` 🧩 -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`, `3.48.1`, `3.48.2`, `3.48.3`]
-1. `org.checkerframework:dataflow-errorprone`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
-1. `org.checkerframework:dataflow-nullaway`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
-1. `org.checkerframework:dataflow-shaded`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`]
 
 ## org.joda.money
 
