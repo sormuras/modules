@@ -119,7 +119,7 @@ com.github.bbottema:java-socks-proxy-server:4.1.2 -> java-socks-proxy-server
 com.github.bbottema:jetbrains-runtime-annotations:1.0.2 -> jetbrains-runtime-annotations
 com.github.bbottema:rtf-to-html:1.1.1 -> rtf-to-html
 com.github.celldynamics.quimp:QuimP_:19.04.02 -> -
-com.github.davidmoten:aws-lightweight-client-java:0.1.18 -> com.github.davidmoten.aws-lightweight-client-java
+com.github.davidmoten:aws-lightweight-client-java:0.1.19 -> com.github.davidmoten.aws-lightweight-client-java
 com.github.h908714124:bitmex-client:1.2.0 -> com.github.h908714124.bitmex-client
 com.github.librepdf:pdf-html:1.2.16 -> com.github.librepdf.pdf-html
 com.github.librepdf:pdf-xml:1.2.16 -> com.github.librepdf.pdf-xml
@@ -271,7 +271,7 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:2.0.0 -> arrow.core-high-arity
+io.arrow-kt:arrow-core-high-arity-jvm:2.0.1-alpha.1 -> arrow.core-high-arity
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
