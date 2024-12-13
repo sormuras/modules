@@ -1431,7 +1431,8 @@ org.linguafranca.pwdb:KeePassJava2-simple:2.2.2 -> org.linguafranca.pwdb.KeePass
 org.logicng:logicng-parser-j8:2.6.0 -> logicng-parser-j8
 org.mongodb.scala:mongo-scala-bson:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-bson
 org.mongodb.scala:mongo-scala-driver:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-driver
-org.natspal:nconsole-client-api:0.5.7 -> org.natspal.nconsole-client-api
+org.natspal:nconsole-client-api:0.5.8 -> org.natspal.nconsole-client-api
+org.natspal:nconsole-db:0.5.8 -> org.natspal.nconsole-db
 org.natspal:nconsole-graphdb:0.1.0 -> org.natspal.nconsole-graphdb
 org.neo4j:neo4j-ast-3.5:3.5.35 -> -
 org.neo4j:neo4j-expressions-3.5:3.5.35 -> -
@@ -1585,8 +1586,8 @@ ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-s
 ru.testit:testit-adapter-kotest:0.2.0 -> ru.testit.testit-adapter-kotest
 ru.testit:testit-kotlin-commons:0.2.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.28 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.28 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.28 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.29 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.29 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.29 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
