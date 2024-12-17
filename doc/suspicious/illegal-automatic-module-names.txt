@@ -409,9 +409,9 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.4 -> org.apache.maven.resolver.transport.jdk.11
+org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.5 -> org.apache.maven.resolver.transport.jdk.11
 org.apache.maven.resolver:maven-resolver-transport-jdk-21:2.0.0 -> org.apache.maven.resolver.transport.jdk.21
-org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.4 -> org.apache.maven.resolver.transport.jdk.8
+org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.5 -> org.apache.maven.resolver.transport.jdk.8
 org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.1.0-M1 -> pekko.projection.durable-state
@@ -1586,8 +1586,8 @@ ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-s
 ru.testit:testit-adapter-kotest:0.2.0 -> ru.testit.testit-adapter-kotest
 ru.testit:testit-kotlin-commons:0.2.0 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.29 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.29 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.29 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.33.30 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.33.30 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.33.30 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
