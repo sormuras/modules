@@ -133,3 +133,4 @@ jobs:
             out/total-requires.txt
             out/unknown-requires.txt
             out/jreleaser/trace.log
+            out/*.properties
