@@ -44,8 +44,8 @@ com.blazebit:blaze-domain-declarative-persistence:1.0.0-Alpha1 -> -
 com.blazebit:blaze-domain-documentation:1.0.14 -> -
 com.blazebit:blaze-domain-persistence:1.0.0-Alpha1 -> -
 com.blazebit:blaze-expression-documentation:1.0.0-Alpha18 -> -
-com.blazebit:blaze-job-checkstyle-rules:1.0.1 -> -
-com.blazebit:blaze-job-documentation:1.0.1 -> -
+com.blazebit:blaze-job-checkstyle-rules:1.0.2 -> -
+com.blazebit:blaze-job-documentation:1.0.2 -> -
 com.blazebit:blaze-notify-channel-memory:1.0.0-Alpha5 -> -
 com.blazebit:blaze-notify-channel-ses:1.0.0-Alpha5 -> -
 com.blazebit:blaze-notify-channel-slack:1.0.0-Alpha5 -> -
@@ -96,9 +96,9 @@ com.caoccao.javet:javet-v8-windows-x86_64-i18n:4.1.1 -> com.caoccao.javet.v8-win
 com.codeborne.assertlog:assertlog-core:0.1 -> com.codeborne.assertlog.assertlog-core
 com.codeborne.assertlog:assertlog-log4j-junit4:0.1 -> com.codeborne.assertlog.assertlog-log4j-junit4
 com.codeborne:nexus-repository-manager:1.0.1 -> com.codeborne.nexus-repository-manager
-com.connectrpc:connect-kotlin-google-java-ext:0.7.1 -> google-java-extensions
-com.connectrpc:connect-kotlin-google-javalite-ext:0.7.1 -> google-javalite-extensions
-com.connectrpc:protoc-gen-connect-kotlin:0.7.1 -> protoc-gen-connect-kotlin
+com.connectrpc:connect-kotlin-google-java-ext:0.7.2 -> google-java-extensions
+com.connectrpc:connect-kotlin-google-javalite-ext:0.7.2 -> google-javalite-extensions
+com.connectrpc:protoc-gen-connect-kotlin:0.7.2 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
 com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
@@ -632,10 +632,10 @@ org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.100:3.3.0 ->
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.200:3.3.0 -> org.eclipse.app4mc.amalthea.converters.200
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.210:3.3.0 -> org.eclipse.app4mc.amalthea.converters.210
 org.eclipse.app4mc.migration:org.eclipse.app4mc.amalthea.converters.300:3.3.0 -> org.eclipse.app4mc.amalthea.converters.300
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.46 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.46 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e:13.0.47 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc:13.0.47 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.doc
 org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls:9.0.0.033_Simrel_2019_12 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.nls
-org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.46 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
+org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui:13.0.47 -> org.eclipse.scout.sdk.s2e:org.eclipse.scout.sdk.s2e.ui
 org.ff-lang:camaro:1.4.8 -> org.ff-lang.camaro
 org.functionaljava:functionaljava-java-core:5.0 -> functionaljava.java-core
 org.graphfoundation.ongdb.community:algo-it:3.6.2 -> org.neo4j.community.algo-it
@@ -705,7 +705,7 @@ org.jbpm:jbpm-executor-ejb:7.74.1.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
-org.jmonkeyengine:jme3-android-native:3.8.0-alpha1 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.8.0-alpha2 -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:7.3.2 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:7.3.2 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
