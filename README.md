@@ -61,11 +61,19 @@ You'll find the following summary at the start of each overview.
 - ➖ denotes an unrelated artifact, like BOM, POM, and other non-JAR packaging types.
   It also denotes old JAR files, as the scan process can only evaluate artifacts that were deployed after mid August 2018.
 
-```
+``` 2024
     2019 2020 2021 2022 2023
 🧩  143  163  165  170  171 // Java modules (module descriptor with stable name and API)
 ⬜  205  262  278  310  312 // Automatic Java modules (name derived from JAR manifest)
 ```
+
+### 2025
+```
+    2019 2020 2021 2022 2023
+🧩  155  183  188  196  199 // Java modules (module descriptor with stable name and API)
+⬜  201  255  270  294  295 // Automatic Java modules (name derived from JAR manifest)
+```
+
 
 ### Top1000-2023
 
