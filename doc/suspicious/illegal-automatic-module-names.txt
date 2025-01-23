@@ -296,8 +296,8 @@ io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.3 -> jt.808.serv
 io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.3 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.3 -> jt.808.server.support
-io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-beta.11 -> jt.808.server.dashboard.spring.boot.starter.reactive
-io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-beta.11 -> jt.808.server.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-beta.12 -> jt.808.server.dashboard.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-beta.12 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.mianalysis:MIA:1.2.9 -> io.github.mianalysis._
