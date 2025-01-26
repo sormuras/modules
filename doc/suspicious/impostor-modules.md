@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x372
 1. `kotlin.stdlib.jdk8` x247
 1. `org.apache.logging.log4j` x243
-1. `org.slf4j` x214
+1. `org.slf4j` x224
 1. `kotlin.stdlib` x147
 1. `net.bytebuddy` x111
 1. `org.bouncycastle.provider` x110
@@ -262,7 +262,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:flink-doris-connector-1.16`  -> [`1.3.0`, `1.4.0`, `1.5.0`]
 1. `org.apache.doris:flink-doris-connector-1.17`  -> [`1.4.0`, `1.5.0`]
 1. `org.apache.doris:flink-doris-connector-1.18`  -> [`1.5.0`]
-1. `org.apache.doris:hive-catalog-shade`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.1.1`, `2.1.2`]
+1. `org.apache.doris:hive-catalog-shade`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`]
 1. `org.apache.drill.contrib.storage-hive:drill-hive-exec-shaded`  -> [`1.20.2`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-paimon`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`]
 1. `org.apache.flink:flink-connector-elasticsearch5_2.11`  -> [`1.14.5`, `1.14.6`]
@@ -770,7 +770,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:flink-doris-connector-1.20`  -> [`24.0.0`, `24.0.1`, `24.1.0`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-doris`  -> [`3.3.0`]
 1. `org.apache.flink:flink-python`  -> [`1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.20.0`, `2.0-preview1`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-gson`  -> [`4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-gson`  -> [`4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `org.apache.hbase:hbase-shaded-client-byo-hadoop`  -> [`3.0.0-alpha-4`, `3.0.0-beta-1`]
 1. `org.apache.hbase:hbase-shaded-client`  -> [`3.0.0-alpha-4`, `3.0.0-beta-1`]
 1. `org.apache.hbase:hbase-shaded-mapreduce`  -> [`3.0.0-alpha-4`, `3.0.0-beta-1`]
@@ -1760,7 +1760,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 214 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 224 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.12`, `1.1.13`, `1.1.14`]
@@ -1932,6 +1932,16 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.james:webadmin-cli`  -> [`3.7.2`, `3.7.3`, `3.7.4`]
 1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`5.0.0-rc1`, `5.0.0`, `5.1.0`]
 1. `org.apache.ratis:ratis-examples`  -> [`2.5.0`, `2.5.1`]
+1. `org.apache.storm:flux-core`  -> [`2.8.0`]
+1. `org.apache.storm:flux-examples`  -> [`2.8.0`]
+1. `org.apache.storm:storm-hdfs-examples`  -> [`2.8.0`]
+1. `org.apache.storm:storm-jdbc-examples`  -> [`2.8.0`]
+1. `org.apache.storm:storm-kafka-client-examples`  -> [`2.8.0`]
+1. `org.apache.storm:storm-kafka-migration`  -> [`2.8.0`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.8.0`]
+1. `org.apache.storm:storm-perf`  -> [`2.8.0`]
+1. `org.apache.storm:storm-redis-examples`  -> [`2.8.0`]
+1. `org.apache.storm:storm-starter`  -> [`2.8.0`]
 1. `org.apache.tika:tika-async-cli`  -> [`2.6.0`, `2.7.0`, `2.8.0`, `2.9.0`, `2.9.1`, `3.0.0-BETA`, `3.0.0-BETA2`, `3.0.0`]
 1. `org.apache.tika:tika-eval-app`  -> [`2.5.0`, `2.6.0`, `2.7.0`, `2.8.0`, `2.9.0`, `2.9.1`, `3.0.0-BETA`]
 1. `org.apache.tika:tika-server-client`  -> [`2.5.0`, `2.6.0`, `2.7.0`, `2.8.0`, `2.9.0`, `2.9.1`, `3.0.0-BETA`, `3.0.0-BETA2`, `3.0.0`]
@@ -3311,7 +3321,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.4`, `2.7.0`]
 1. `org.apache.storm:storm-loadgen`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
-1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
+1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`, `2.8.0`]
 1. `org.apache.storm:storm-starter`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
 1. `org.apache.tez:tez-aux-services`  -> [`0.10.4`]
 1. `org.apache.tika:tika-eval-app`  -> [`3.0.0-BETA2`, `3.0.0`]
@@ -3728,7 +3738,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-connector-oracle-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`]
 1. `org.apache.flink:flink-sql-connector-sqlserver-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`]
 1. `org.apache.flink:flink-sql-connector-vitess-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-jackson-jaxrs-json-provider`  -> [`4.1.0`, `4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`]
 1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`]
 1. `org.apache.seatunnel:connector-cdc-opengauss`  -> [`2.3.8`, `2.3.9`]
@@ -4173,7 +4183,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.5.0`, `4.5.1`, `4.5.2`, `4.5.3`, `4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`, `4.10.1`, `4.11.0`, `4.11.1`, `4.11.2`, `4.12.0`, `4.12.1`]
 1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.6.0`, `4.6.1`, `4.6.2`, `4.7.0`, `4.8.0`, `4.9.0`, `4.10.0`, `4.10.1`, `4.11.0`, `4.11.1`, `4.11.2`, `4.12.0`, `4.12.1`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-xml` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`]
-1. `com.github.nagyesta.file-barj:file-barj-job`  -> [`0.14.67`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.18`, `1.0.0`, `1.0.17`, `1.0.21`, `1.0.55`, `1.0.80`, `1.0.103`]
+1. `com.github.nagyesta.file-barj:file-barj-job`  -> [`0.14.67`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.18`, `1.0.0`, `1.0.17`, `1.0.21`, `1.0.55`, `1.0.80`, `1.0.103`, `1.0.126`]
 1. `com.marklogic:marklogic-spark-connector`  -> [`2.4.1`, `2.4.2`, `2.5.0`, `2.5.1`]
 1. `com.sonatype.clm:clm-maven-plugin`  -> [`2.30.6-01`, `2.30.7-01`, `2.30.8-01`, `2.30.9-01`, `2.31.0-01`, `2.31.1-01`, `2.32.0-01`, `2.33.0-01`, `2.34.0-01`, `2.35.0-01`, `2.36.0-01`, `2.37.0-01`, `2.38.0-01`, `2.39.0-01`, `2.40.0-01`, `2.41.0-02`, `2.42.0-01`, `2.43.0-01`, `2.44.0-01`, `2.45.0-01`, `2.46.0-01`, `2.47.0-01`, `2.47.1-01`, `2.47.2-01`, `2.47.3-01`, `2.47.5-01`, `2.47.6-01`, `2.47.7-01`, `2.47.8-01`, `2.47.9-01`, `2.47.10-01`]
 1. `io.github.shuigedeng:taotao-cloud-starter-common`  -> [`2021.8.1`]
@@ -4302,7 +4312,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
 1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`]
 1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
 1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
 1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
@@ -4733,7 +4743,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.storage:storage-azure`  -> [`0.20.0`, `0.20.1`]
 1. `io.netty:netty-tcnative-boringssl-static` 🧩 -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`]
 1. `io.netty:netty-tcnative`  -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`, `4.1.10`]
 
 ## org.bouncycastle.mail
 
@@ -6407,7 +6417,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.jcraft.jsch
 
-1. `com.github.mwiede:jsch`  -> [`0.1.65`, `0.1.66`, `0.1.67`, `0.1.68`, `0.1.69`, `0.1.70`, `0.1.71`, `0.1.72`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `0.2.20`, `0.2.21`, `0.2.22`]
+1. `com.github.mwiede:jsch`  -> [`0.1.65`, `0.1.66`, `0.1.67`, `0.1.68`, `0.1.69`, `0.1.70`, `0.1.71`, `0.1.72`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `0.2.20`, `0.2.21`, `0.2.22`, `0.2.23`]
 1. `io.kestra.plugin:plugin-fs`  -> [`0.16.0`, `0.16.1`, `0.17.0`, `0.18.0`, `0.18.1`, `0.18.2`, `0.18.3`, `0.19.0`, `0.20.0`]
 1. `org.netbeans.external:com-jcraft-jsch`  -> [`RELEASE140`, `RELEASE150`, `RELEASE160`, `RELEASE170`, `RELEASE180`, `RELEASE190`, `RELEASE200`, `RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`]
 
