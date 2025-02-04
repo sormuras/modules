@@ -182,9 +182,9 @@ com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
 com.hcl.domino:domino-jnx-lsxbeshim:1.41.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:domino-jnx-lsxbeshim-r12:1.44.0 -> domino-jnx-lsxbeshim-r12
-com.hcl.domino:domino-jnx-lsxbeshim-r14:1.44.0 -> domino-jnx-lsxbeshim-r14
-com.hcl.domino:domino-jnx-lsxbeshim-r145:1.44.0 -> domino-jnx-lsxbeshim-r145
+com.hcl.domino:domino-jnx-lsxbeshim-r12:1.45.0 -> domino-jnx-lsxbeshim-r12
+com.hcl.domino:domino-jnx-lsxbeshim-r14:1.45.0 -> domino-jnx-lsxbeshim-r14
+com.hcl.domino:domino-jnx-lsxbeshim-r145:1.45.0 -> domino-jnx-lsxbeshim-r145
 com.hcl.domino:jnx-example-graalvm-native:1.41.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -706,7 +706,7 @@ org.jbpm:jbpm-executor-ejb:7.74.1.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
-org.jmonkeyengine:jme3-android-native:3.8.0-alpha2 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.8.0-alpha3 -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:7.4.0 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:7.4.0 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
