@@ -364,6 +364,7 @@ io.skullabs.kos:kos-injector:0.8.8 -> io.skullabs.kos.kos-injector
 io.skullabs.kos:kos-logging-slf4j:0.5.1 -> io.skullabs.kos.kos-logging-slf4j
 io.skullabs.kos:kos-webapp:0.5.1 -> io.skullabs.kos.kos-webapp
 io.skullabs.kos:tests-report:0.8.8 -> io.skullabs.kos.tests-report
+io.synadia:direct-batch:0.1.0 -> io.synadia.direct-batch
 io.synadia:jnats-js-publish-extensions:0.3.0 -> io.synadia.jnats-js-publish-extensions
 io.synadia:jnats-retrier:0.0.1 -> io.synadia.jnats-retrier
 io.synadia:request-many:0.0.1 -> io.synadia.request-many
