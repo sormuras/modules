@@ -1593,8 +1593,8 @@ software.amazon.smithy.java:auth-api:0.0.1 -> software.amazon.smithy.java.auth-a
 software.amazon.smithy.java:aws-server-restjson:0.0.1 -> software.amazon.smithy.java.server-aws-rest-json1
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
 software.amazon.smithy.java:tracing-api:0.0.1 -> software.amazon.smithy.java.tracing-api
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.2 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.2 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.2 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.3 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.3 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.3 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
