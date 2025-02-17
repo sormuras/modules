@@ -266,7 +266,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:flink-doris-connector-1.16`  -> [`1.3.0`, `1.4.0`, `1.5.0`]
 1. `org.apache.doris:flink-doris-connector-1.17`  -> [`1.4.0`, `1.5.0`]
 1. `org.apache.doris:flink-doris-connector-1.18`  -> [`1.5.0`]
-1. `org.apache.doris:hive-catalog-shade`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`]
+1. `org.apache.doris:hive-catalog-shade`  -> [`1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `2.0.0`, `2.0.1`, `2.0.2`, `2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.1.4`]
 1. `org.apache.drill.contrib.storage-hive:drill-hive-exec-shaded`  -> [`1.20.2`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-paimon`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`]
 1. `org.apache.flink:flink-connector-elasticsearch5_2.11`  -> [`1.14.5`, `1.14.6`]
@@ -553,10 +553,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.chrislusf:seaweedfs-hadoop3-client`  -> [`3.30`, `3.33`, `3.55`, `3.59`]
 1. `com.github.flank:flank`  -> [`flank_snapshot`, `20.05.0`, `20.05.1`, `20.05.2`, `20.06.0`, `20.06.2`, `20.07.0`, `20.08.0`, `20.08.3`, `20.08.4`, `20.09.1`, `20.09.2`, `20.09.3`, `20.12.0`, `21.01.0`, `21.01.1`, `21.02.0`, `2131`]
 1. `com.github.gtriip.translation.opera:opera-translation`  -> [`1.0.4`, `1.0.5`, `1.0.5-2`, `1.0.5-3`, `1.0.5-4`, `1.0.5-5`, `1.0.5-6`, `1.0.5-7`, `1.0.5-8`, `1.0.5-9`, `1.0.5-10`, `1.0.5-11`, `1.0.5-12`, `1.0.5-13`, `1.0.5-14`, `1.0.5-15`, `1.0.5-16`, `1.0.5-17`, `1.0.5-18`]
-1. `com.github.jelmerk:hnswlib-spark_3_4_2.12`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`]
-1. `com.github.jelmerk:hnswlib-spark_3_4_2.13`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`]
-1. `com.github.jelmerk:hnswlib-spark_3_5_2.12`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`]
-1. `com.github.jelmerk:hnswlib-spark_3_5_2.13`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`]
+1. `com.github.jelmerk:hnswlib-spark_3_4_2.12`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`, `2.0.0-alpha.5`]
+1. `com.github.jelmerk:hnswlib-spark_3_4_2.13`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`, `2.0.0-alpha.5`]
+1. `com.github.jelmerk:hnswlib-spark_3_5_2.12`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`, `2.0.0-alpha.5`]
+1. `com.github.jelmerk:hnswlib-spark_3_5_2.13`  -> [`2.0.0-alpha.1`, `2.0.0-alpha.2`, `2.0.0-alpha.3`, `2.0.0-alpha.4`, `2.0.0-alpha.5`]
 1. `com.github.nalukit:malio-processor`  -> [`0.0.5-alpha`, `0.1.2-beta`, `0.2.0-beta`, `0.3.0-beta`, `0.4.1-beta`, `0.5.0-beta`, `1.0.0-rc1`, `1.0.0-rc2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.6`]
 1. `com.github.nalukit:nalu-processor`  -> [`2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.4`, `2.12.5`, `2.12.6`, `2.12.7`, `2.20.0`, `2.20.1`, `2.20.2`, `2.20.3`]
 1. `com.github.shynixn.blockball:blockball-bukkit-plugin`  -> [`6.15.0`, `6.16.0`, `6.17.0`, `6.18.0`, `6.19.0`, `6.20.0`, `6.20.1`, `6.21.0`, `6.22.0`, `6.22.1`]
@@ -818,7 +818,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.eclipse.californium:cf-plugtest-client`  -> [`3.5.0`, `3.6.0`, `3.7.0`]
 1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.0`, `0.0.1`, `0.0.2`, `0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.15.1`, `0.15.3`, `0.16.0`, `0.17.0`]
 1. `org.glavo.hiper:u1`  -> [`1.2.5`, `1.2.6`, `1.2.8`]
-1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`, `3.5.8.250`, `3.5.8.251`, `3.5.9.252`, `3.5.9.254`, `3.5.9.255`, `3.5.9.257`, `3.5.9.258`, `3.5.9.259`, `3.5.9.260`, `3.5.9.261`, `3.5.9.262`, `3.5.9.263`, `3.6.11.264`, `3.6.11.265`, `3.6.11.266`, `3.6.11.267`]
+1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`, `3.5.8.250`, `3.5.8.251`, `3.5.9.252`, `3.5.9.254`, `3.5.9.255`, `3.5.9.257`, `3.5.9.258`, `3.5.9.259`, `3.5.9.260`, `3.5.9.261`, `3.5.9.262`, `3.5.9.263`, `3.6.11.264`, `3.6.11.265`, `3.6.11.266`, `3.6.11.267`, `3.6.11.268`]
 1. `org.glavo.hmcl:hmcl-stable`  -> [`3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.5.10`, `3.6.11`]
 1. `org.grpcmock:protoc-gen-java-optional`  -> [`1.9.0`, `1.10.0`]
 1. `org.iota:iota-client`  -> [`1.0.0-rc.1`]
@@ -1941,7 +1941,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.ctakes:ctakes-ytex`  -> [`6.0.0`]
 1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.21.0`, `1.21.1`, `1.21.2`]
 1. `org.apache.iceberg:iceberg-hive3-orc-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`]
-1. `org.apache.iotdb:library-udf`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`]
+1. `org.apache.iotdb:library-udf`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `2.0.1-beta`]
 1. `org.apache.james:webadmin-cli`  -> [`3.7.2`, `3.7.3`, `3.7.4`]
 1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`5.0.0-rc1`, `5.0.0`, `5.1.0`]
 1. `org.apache.ratis:ratis-examples`  -> [`2.5.0`, `2.5.1`]
@@ -2679,7 +2679,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.quarkus:quarkus-grpc-cli`  -> [`3.14.0.CR1`, `3.14.0`, `3.14.1`, `3.14.2`, `3.15.0.CR1`, `3.15.0`, `3.15.1`, `3.16.0.CR1`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.17.4`, `3.17.5`, `3.17.6`, `3.18.0.CR1`, `3.18.0`, `3.18.1`, `3.18.2`, `3.19.0.CR1`]
 1. `io.quarkus:quarkus-tls-registry-cli`  -> [`3.14.0.CR1`, `3.14.0`, `3.14.1`, `3.14.2`, `3.15.0.CR1`, `3.15.0`, `3.15.1`, `3.16.0.CR1`, `3.16.0`, `3.16.1`, `3.16.2`, `3.17.4`, `3.17.5`, `3.17.6`, `3.18.0.CR1`, `3.18.0`, `3.18.1`, `3.18.2`, `3.19.0.CR1`]
 1. `io.sealights.on-premise.agents:sl-build-scanner`  -> [`3.0.1796`, `3.0.1812`, `3.1.1830`, `3.1.1863`, `3.1.1870`, `3.1.1892`, `3.1.1902`, `3.1.1910`, `3.1.1925`, `3.1.1932`, `3.1.1955`, `3.1.1956`, `3.1.1968`, `3.1.1993`, `3.1.1995`, `3.1.2024`, `3.1.2056`, `3.1.2065`, `3.1.2066`, `3.1.2070`, `3.1.2079`, `3.1.2083`, `3.1.2089`, `3.1.2090`, `3.1.2092`, `3.1.2093`, `3.1.2097`, `3.1.2099`, `3.1.2101`, `3.1.2119`, `3.1.2120`, `3.1.2121`]
-1. `net.neoforged.jst:jst-cli-bundle`  -> [`1.0.63`, `1.0.64`, `1.0.66`, `1.0.67`]
+1. `net.neoforged.jst:jst-cli-bundle`  -> [`1.0.63`, `1.0.64`, `1.0.66`, `1.0.67`, `1.0.69`]
 1. `org.apache.camel.karavan:karavan-cli`  -> [`3.21.0`]
 1. `org.apache.camel.karavan:karavan-installer`  -> [`4.0.0`, `4.1.0`, `4.3.0`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.1.0`]
@@ -3469,7 +3469,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.openlineage:transports-gcs`  -> [`1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`]
 1. `io.opentelemetry.contrib:opentelemetry-gcp-auth-extension`  -> [`1.43.0-alpha`]
 1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.36.0-alpha`]
-1. `io.zipkin.zipkin2:zipkin`  -> [`3.3.1`, `3.4.1`, `3.4.2`, `3.4.3`, `3.4.4`]
+1. `io.zipkin.zipkin2:zipkin`  -> [`3.3.1`, `3.4.1`, `3.4.2`, `3.4.3`, `3.4.4`, `3.5.0`]
 1. `net.sizovs:pipelinr`  -> [`0.9`]
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2024.6`]
 1. `no.entur:interface-protoc-plugin`  -> [`1.16`]
@@ -5074,6 +5074,17 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.nasdanika.core:exec-bundle`  -> [`2021.7.3-java-8-b`]
 1. `org.tango-controls:Pogo`  -> [`9.8.0`, `9.9.0`, `9.9.1`]
 
+## org.jspecify
+
+1. `at.hugob.plugin.library:command`  -> [`1.1.0`]
+1. `com.dua3.cabe:cabe-processor-all`  -> [`3.0-beta-1`, `3.0-beta-2`, `3.0-beta-3`, `3.0-beta-4`, `3.0-beta-7`, `3.0-beta-8`, `3.0-beta-9`, `3.0-beta-10`, `3.0-beta-11`, `3.0-rc`, `3.0.0`, `3.0.1`, `3.0.2`]
+1. `com.google.javascript:closure-compiler-unshaded`  -> [`v20220803`]
+1. `com.google.javascript:closure-compiler`  -> [`v20220803`, `v20220905`, `v20221004`, `v20221102`, `v20230103`, `v20230206`, `v20230228`, `v20230411`, `v20230502`, `v20230802`, `v20231112`, `v20240317`]
+1. `org.jspecify:jspecify` 🧩 -> [`0.2.0`, `0.3.0-alpha-1`, `0.3.0-alpha-2`, `0.3.0-alpha-3`, `0.3.0`, `1.0.0`]
+1. `org.kie.j2cl.tools.processors:processors`  -> [`0.8.0`, `0.8.1`]
+1. `org.treblereel.j2cl.processors:processors`  -> [`0.8`]
+1. `org.wiremock.extensions:wiremock-state-extension-standalone`  -> [`0.8.2`]
+
 ## org.neo4j.cypherdsl.core
 
 1. `net.cnri.cordra:cordra-neo4j-test`  -> [`1.0.0`]
@@ -5154,16 +5165,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.tika:tika-app`  -> [`3.1.0`]
 1. `org.jsoup:jsoup` 🧩 -> [`1.17.1`, `1.17.2`, `1.18.1`, `1.18.2`, `1.18.3`]
 1. `org.scala-sbt:librarymanagement-coursier_3`  -> [`2.0.0-M3`]
-
-## org.jspecify
-
-1. `at.hugob.plugin.library:command`  -> [`1.1.0`]
-1. `com.dua3.cabe:cabe-processor-all`  -> [`3.0-beta-1`, `3.0-beta-2`, `3.0-beta-3`, `3.0-beta-4`, `3.0-beta-7`, `3.0-beta-8`, `3.0-beta-9`, `3.0-beta-10`, `3.0-beta-11`, `3.0-rc`, `3.0.0`, `3.0.1`, `3.0.2`]
-1. `com.google.javascript:closure-compiler-unshaded`  -> [`v20220803`]
-1. `com.google.javascript:closure-compiler`  -> [`v20220803`, `v20220905`, `v20221004`, `v20221102`, `v20230103`, `v20230206`, `v20230228`, `v20230411`, `v20230502`, `v20230802`, `v20231112`, `v20240317`]
-1. `org.jspecify:jspecify` 🧩 -> [`0.2.0`, `0.3.0-alpha-1`, `0.3.0-alpha-2`, `0.3.0-alpha-3`, `0.3.0`, `1.0.0`]
-1. `org.kie.j2cl.tools.processors:processors`  -> [`0.8.0`, `0.8.1`]
-1. `org.treblereel.j2cl.processors:processors`  -> [`0.8`]
 
 ## org.objectweb.asm.tree
 
