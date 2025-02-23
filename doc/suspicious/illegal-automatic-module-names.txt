@@ -102,7 +102,6 @@ com.connectrpc:connect-kotlin-google-javalite-ext:0.7.2 -> google-javalite-exten
 com.connectrpc:protoc-gen-connect-kotlin:0.7.2 -> protoc-gen-connect-kotlin
 com.dorkbox:MinLog-SLF4J:2.0 -> MinLog-SLF4J
 com.github.albfernandez.richfaces.cdk.test:cdk-test-component:4.6.1.ayg -> org.jboss.seam.cdk-test-component
-com.github.albfernandez.richfaces.cdk:richfaces-cdk-maven-plugin:4.6.1.ayg -> org.jboss.seam.richfaces-cdk-maven-plugin
 com.github.albfernandez.richfaces:richfaces-a4j:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-a4j
 com.github.albfernandez.richfaces:richfaces-core:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-core
 com.github.albfernandez.richfaces:richfaces-page-fragments:4.6.21.ayg -> com.github.albfernandez.richfaces.richfaces-page-fragments
