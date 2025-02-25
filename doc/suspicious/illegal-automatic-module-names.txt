@@ -289,11 +289,11 @@ io.github.hylexus.jt:jt-1078-server-spring-boot-autoconfigure:2.2.0-beta5 -> jt.
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter:2.2.0-beta5 -> jt.1078.server.spring.boot.starter
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter-boot2:2.2.0-beta5 -> jt.1078.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-1078-server-support:2.2.0-beta5 -> jt.1078.server.support
-io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.3 -> jt.808.server.spring.boot.autoconfigure
-io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.3 -> jt.808.server.spring.boot.starter
-io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.3 -> jt.808.server.spring.boot.starter.boot2
+io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.4 -> jt.808.server.spring.boot.autoconfigure
+io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.4 -> jt.808.server.spring.boot.starter
+io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.4 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
-io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.3 -> jt.808.server.support
+io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.4 -> jt.808.server.support
 io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-beta.12 -> jt.808.server.dashboard.spring.boot.starter.reactive
 io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-beta.12 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
@@ -415,7 +415,7 @@ org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.6 -> org.apache.mav
 org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0-M1 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.1.0-M1 -> pekko.projection.durable-state
-org.apache.sshd:sshd-spring-sftp:2.14.0 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:2.15.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:10.0.0 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:10.0.0 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:10.0.0 -> org.apache.tomee.bom.tomee-plume
@@ -1591,8 +1591,8 @@ software.amazon.smithy.java:auth-api:0.0.1 -> software.amazon.smithy.java.auth-a
 software.amazon.smithy.java:aws-server-restjson:0.0.1 -> software.amazon.smithy.java.server-aws-rest-json1
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
 software.amazon.smithy.java:tracing-api:0.0.1 -> software.amazon.smithy.java.tracing-api
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.4 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.4 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.4 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.5 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.5 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.5 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
