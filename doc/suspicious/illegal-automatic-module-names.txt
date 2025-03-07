@@ -397,9 +397,9 @@ org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.
 org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.7 -> org.apache.maven.resolver.transport.jdk.11
 org.apache.maven.resolver:maven-resolver-transport-jdk-21:2.0.0 -> org.apache.maven.resolver.transport.jdk.21
 org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.7 -> org.apache.maven.resolver.transport.jdk.8
-org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0-M1 -> pekko.projection.durable-state
-org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0-M1 -> pekko.projection.durable-state
-org.apache.pekko:pekko-projection-durable-state_3:1.1.0-M1 -> pekko.projection.durable-state
+org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0 -> pekko.projection.durable-state
+org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0 -> pekko.projection.durable-state
+org.apache.pekko:pekko-projection-durable-state_3:1.1.0 -> pekko.projection.durable-state
 org.apache.sshd:sshd-spring-sftp:2.15.0 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:10.0.0 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:10.0.0 -> org.apache.tomee.bom.tomee-microprofile-api
@@ -1577,8 +1577,8 @@ software.amazon.smithy.java:auth-api:0.0.1 -> software.amazon.smithy.java.auth-a
 software.amazon.smithy.java:aws-server-restjson:0.0.1 -> software.amazon.smithy.java.server-aws-rest-json1
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
 software.amazon.smithy.java:tracing-api:0.0.1 -> software.amazon.smithy.java.tracing-api
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.9 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.9 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.9 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.10 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.10 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.10 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
