@@ -1562,7 +1562,7 @@ org.uberfire:uberfire-workbench-processors:7.74.1.Final -> -
 org.uberfire:uberfire-workbench-processors-tests:7.74.1.Final -> -
 org.uberfire:uberfire-workingset-api:7.74.1.Final -> -
 org.uberfire:uberfire-workingset-client:7.74.1.Final -> -
-org.wiremock.integrations:wiremock-spring-boot:3.8.2 -> org.wiremock.integrations.wiremock-spring-boot
+org.wiremock.integrations:wiremock-spring-boot:3.9.0 -> org.wiremock.integrations.wiremock-spring-boot
 pro.projo:projo-jackson:1.5.7 -> pro.projo.projo-jackson
 pro.projo:projo-jax-rs:1.5.7 -> pro.projo.projo-jax-rs
 pro.projo:projo-runtime-code-generation:1.5.7 -> pro.projo.projo-runtime-code-generation
