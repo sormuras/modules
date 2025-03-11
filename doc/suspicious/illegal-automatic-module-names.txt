@@ -279,8 +279,8 @@ io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.4 -> jt.808.serv
 io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.4 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.4 -> jt.808.server.support
-io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.1 -> jt.808.server.dashboard.spring.boot.starter.reactive
-io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.1 -> jt.808.server.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.2 -> jt.808.server.dashboard.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.2 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.mianalysis:MIA:1.2.9 -> io.github.mianalysis._
@@ -380,6 +380,7 @@ org.adoptopenjdk:jemmy-awt-input:2.0.0 -> org.adoptopenjdk.jemmy-awt-input
 org.adoptopenjdk:jemmy-browser:2.0.0 -> org.adoptopenjdk.jemmy-browser
 org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
+org.alloytools:org.alloytools.pardinus.native:6.2.0 -> org.alloytools.pardinus.native
 org.apache.geronimo.arthur:integration-test:1.0.9 -> org.apache.geronimo.arthur.integration-test
 org.apache.geronimo.specs:geronimo-activation_2.0_spec:1.0.0 -> geronimo-activation_2.0_spec
 org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.0 -> geronimo-mail_2.1_spec
