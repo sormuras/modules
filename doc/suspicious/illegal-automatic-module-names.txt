@@ -532,7 +532,7 @@ org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
 org.apereo.cas:cas-server-webapp-native:7.0.0-RC6 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
-org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:8.1.0 -> org.bonitasoft.bpm.plugin-dependencies
+org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:9.0.0 -> org.bonitasoft.bpm.plugin-dependencies
 org.cloudburstmc.fastutil.biglists:boolean-big-lists:8.5.15 -> fastutil.big-lists.booleans
 org.cloudburstmc.fastutil.biglists:byte-big-lists:8.5.15 -> fastutil.big-lists.bytes
 org.cloudburstmc.fastutil.biglists:char-big-lists:8.5.15 -> fastutil.big-lists.chars
@@ -1573,8 +1573,8 @@ pro.projo:projo-template-annotation:1.5.7 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.5.7 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.5.7 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
-ru.testit:testit-adapter-kotest:0.3.0 -> ru.testit.testit-adapter-kotest
-ru.testit:testit-kotlin-commons:0.3.0 -> ru.testit.testit-kotlin-commons
+ru.testit:testit-adapter-kotest:0.4.0-TMS-CLOUD -> ru.testit.testit-adapter-kotest
+ru.testit:testit-kotlin-commons:0.4.0-TMS-CLOUD -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 se.bjurr.gitchangelog:git-changelog-lib:2.6.0 -> se.bjurr.gitchangelog.git-changelog-lib
 software.amazon.smithy.java:auth-api:0.0.1 -> software.amazon.smithy.java.auth-api
