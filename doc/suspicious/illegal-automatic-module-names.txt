@@ -180,9 +180,9 @@ com.groupon.promise:promise:0.12.2 -> -
 com.groupon.vertx:vertx-utils:3.5.2 -> -
 com.hack23.cia:jms-broker:2018.11.16 -> com.hack23.cia.jms-broker
 com.hcl.domino:domino-jnx-lsxbeshim:1.41.0 -> domino-jnx-lsxbeshim
-com.hcl.domino:domino-jnx-lsxbeshim-r12:1.45.0 -> domino-jnx-lsxbeshim-r12
-com.hcl.domino:domino-jnx-lsxbeshim-r14:1.45.0 -> domino-jnx-lsxbeshim-r14
-com.hcl.domino:domino-jnx-lsxbeshim-r145:1.45.0 -> domino-jnx-lsxbeshim-r145
+com.hcl.domino:domino-jnx-lsxbeshim-r12:1.46.0 -> domino-jnx-lsxbeshim-r12
+com.hcl.domino:domino-jnx-lsxbeshim-r14:1.46.0 -> domino-jnx-lsxbeshim-r14
+com.hcl.domino:domino-jnx-lsxbeshim-r145:1.46.0 -> domino-jnx-lsxbeshim-r145
 com.hcl.domino:jnx-example-graalvm-native:1.41.0 -> jnx-example-graalvm-native
 com.hcl.domino:jnx-example-swt:1.0.36 -> jnx-example-swt
 com.ifrabbit:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -532,7 +532,7 @@ org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
 org.apereo.cas:cas-server-webapp-native:7.0.0-RC6 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
-org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:9.0.0 -> org.bonitasoft.bpm.plugin-dependencies
+org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:9.0.1 -> org.bonitasoft.bpm.plugin-dependencies
 org.cloudburstmc.fastutil.biglists:boolean-big-lists:8.5.15 -> fastutil.big-lists.booleans
 org.cloudburstmc.fastutil.biglists:byte-big-lists:8.5.15 -> fastutil.big-lists.bytes
 org.cloudburstmc.fastutil.biglists:char-big-lists:8.5.15 -> fastutil.big-lists.chars
