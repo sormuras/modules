@@ -37,7 +37,7 @@ For example, at least 455 artifacts on Maven Central claim to be the module `com
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
-1. `ca.ibodrov.concord:testcontainers-concord-shaded`  -> [`2.0.0`, `2.0.1`]
+1. `ca.ibodrov.concord:testcontainers-concord-shaded`  -> [`2.0.0`, `2.0.1`, `2.0.2`]
 1. `ch.dsivd.copper:copper`  -> [`1.2.0`]
 1. `ch.exense.step.library:step-library-kw-base`  -> [`1.0.21`]
 1. `ch.exense.step.library:step-library-kw-db`  -> [`1.0.21`]
@@ -459,7 +459,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.4.0`, `2.4.1`]
 1. `org.tallison.tika:tika-parsers-standard-package-shaded`  -> [`2.9.0.0`, `2.9.1.0`, `3.1.0.0`]
 1. `org.typesense:typesense-java`  -> [`0.0.9-beta6`, `0.0.9-beta7`, `0.0.9-beta8`, `0.0.9-beta9`]
-1. `org.wildfly.security:wildfly-elytron`  -> [`2.0.0.Beta2`, `2.0.0.Beta3`, `2.0.0.Final`, `2.1.0.Final`, `2.2.0.Final`, `2.2.1.Final`, `2.2.2.Final`, `2.2.3.Final`, `2.3.0.Final`, `2.3.1.Final`, `2.4.0.CR1`, `2.4.0.Final`, `2.4.1.Final`, `2.4.2.Final`, `2.5.0.CR1`, `2.5.0.Final`, `2.5.1.Final`, `2.5.2.Final`, `2.6.0.Final`, `2.6.1.Final`, `2.6.2.Final`]
+1. `org.wildfly.security:wildfly-elytron`  -> [`2.0.0.Beta2`, `2.0.0.Beta3`, `2.0.0.Final`, `2.1.0.Final`, `2.2.0.Final`, `2.2.1.Final`, `2.2.2.Final`, `2.2.3.Final`, `2.3.0.Final`, `2.3.1.Final`, `2.4.0.CR1`, `2.4.0.Final`, `2.4.1.Final`, `2.4.2.Final`, `2.5.0.CR1`, `2.5.0.Final`, `2.5.1.Final`, `2.5.2.Final`, `2.6.0.Final`, `2.6.1.Final`, `2.6.2.Final`, `2.6.3.Final`]
 1. `org.wso2.am.microgw:org.wso2.micro.gateway.cli`  -> [`3.2.5`, `3.2.6`, `3.2.7`, `3.2.9`]
 1. `org.wso2.msf4j.sample:das-tracing-feign-client`  -> [`2.8.7`, `2.8.8`, `2.8.10`, `2.8.11`]
 1. `org.wso2.msf4j.sample:zipkin-tracing-feign-client`  -> [`2.8.7`, `2.8.8`, `2.8.10`, `2.8.11`]
@@ -689,7 +689,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.github.linyimin0812:spring-profiler-extension`  -> [`3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`]
 1. `io.github.marcperez06:link-checker`  -> [`0.0.4`, `0.0.5`, `0.0.6`, `0.0.7`]
 1. `io.github.openfeign.experimental:feign-apt-test-generator`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`]
-1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`]
+1. `io.github.openfeign:feign-example-github`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`, `13.6`]
 1. `io.github.openfeign:feign-example-wikipedia`  -> [`11.3`, `11.4`, `11.5`, `11.6`, `11.7`, `11.8`, `11.9`, `11.9.1`, `11.10`, `12.0`, `12.1`, `12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`]
 1. `io.github.padreati:rapaio-jupyter-kernel`  -> [`1.0.1`, `1.1.0`, `1.2.0`, `1.2.1`, `1.2.2`, `1.3.0`, `1.4.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `io.github.palexdev:gson`  -> [`2.9.0`]
@@ -830,7 +830,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.eclipse.californium:cf-plugtest-client`  -> [`3.5.0`, `3.6.0`, `3.7.0`]
 1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.0`, `0.0.1`, `0.0.2`, `0.6.0`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.15.1`, `0.15.3`, `0.16.0`, `0.17.0`, `0.18.0`]
 1. `org.glavo.hiper:u1`  -> [`1.2.5`, `1.2.6`, `1.2.8`]
-1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`, `3.5.8.250`, `3.5.8.251`, `3.5.9.252`, `3.5.9.254`, `3.5.9.255`, `3.5.9.257`, `3.5.9.258`, `3.5.9.259`, `3.5.9.260`, `3.5.9.261`, `3.5.9.262`, `3.5.9.263`, `3.6.11.264`, `3.6.11.265`, `3.6.11.266`, `3.6.11.267`, `3.6.11.268`, `3.6.11.269`, `3.6.11.270`, `3.6.11.271`, `3.6.11.272`, `3.6.11.273`]
+1. `org.glavo.hmcl:hmcl-dev`  -> [`3.5.4.232`, `3.5.4.233`, `3.5.4.234`, `3.5.5.235`, `3.5.5.236`, `3.5.5.237`, `3.5.5.238`, `3.5.6.239`, `3.5.6.240`, `3.5.6.241`, `3.5.6.242`, `3.5.6.243`, `3.5.7.244`, `3.5.7.245`, `3.5.7.246`, `3.5.7.247`, `3.5.8.248`, `3.5.8.249`, `3.5.8.250`, `3.5.8.251`, `3.5.9.252`, `3.5.9.254`, `3.5.9.255`, `3.5.9.257`, `3.5.9.258`, `3.5.9.259`, `3.5.9.260`, `3.5.9.261`, `3.5.9.262`, `3.5.9.263`, `3.6.11.264`, `3.6.11.265`, `3.6.11.266`, `3.6.11.267`, `3.6.11.268`, `3.6.11.269`, `3.6.11.270`, `3.6.11.271`, `3.6.11.272`, `3.6.11.273`, `3.6.12.274`]
 1. `org.glavo.hmcl:hmcl-stable`  -> [`3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.5.10`, `3.6.11`, `3.6.12`]
 1. `org.grpcmock:protoc-gen-java-optional`  -> [`1.9.0`, `1.10.0`]
 1. `org.iota:iota-client`  -> [`1.0.0-rc.1`]
@@ -1263,7 +1263,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wiremock:wiremock-webhooks-extension`  -> [`2.32.0`, `2.33.0`, `2.33.1`, `2.33.2`, `2.34.0`, `2.35.0`, `3.0.0-beta-1`, `3.0.0-beta-2`, `3.0.0-beta-3`, `3.0.4`]
 1. `org.wso2.msf4j.example:stockquote-fatjar`  -> [`2.8.7`, `2.8.8`, `2.8.10`, `2.8.11`]
 1. `org.wyona.triton.client:java-api`  -> [`0.0.1`]
-1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`]
+1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`]
 1. `ru.cwcode.tkach.config:PaperConfig`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`, `2.4.0`]
 1. `ru.cwcode.tkach.config:Share`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`]
 1. `ru.cwcode.tkach.config:VelocityConfig`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`, `2.4.0`]
@@ -4926,7 +4926,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.networknt.schema
 
-1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`, `4.2.99`, `4.2.122`, `5.0.0`, `5.0.27`, `5.0.58`, `5.0.81`, `5.0.118`, `5.0.142`, `5.0.163`, `5.0.185`, `5.0.198`, `5.0.216`, `5.0.246`, `5.0.255`, `5.0.281`, `5.0.304`, `5.0.328`, `5.0.357`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.7`, `5.2.0`, `5.2.6`]
+1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.5.127`, `3.5.140`, `4.0.0`, `4.1.0`, `4.1.1`, `4.2.0`, `4.2.30`, `4.2.36`, `4.2.57`, `4.2.78`, `4.2.99`, `4.2.122`, `5.0.0`, `5.0.27`, `5.0.58`, `5.0.81`, `5.0.118`, `5.0.142`, `5.0.163`, `5.0.185`, `5.0.198`, `5.0.216`, `5.0.246`, `5.0.255`, `5.0.281`, `5.0.304`, `5.0.328`, `5.0.357`, `5.1.0`, `5.1.1`, `5.1.2`, `5.1.7`, `5.2.0`, `5.2.6`, `5.2.29`]
 1. `com.github.tomakehurst:wiremock-standalone`  -> [`3.0.0-beta-9`, `3.0.0-beta-10`]
 1. `com.networknt:json-schema-validator` 🧩 -> [`1.0.81`, `1.0.82`, `1.0.83`, `1.0.84`, `1.0.85`, `1.0.86`, `1.0.87`, `1.0.88`, `1.1.0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`, `1.5.3`, `1.5.4`, `1.5.5`, `1.5.6`]
 1. `org.sonarsource.text:sonar-text-plugin`  -> [`2.5.0.2293`, `2.6.1.1316`, `2.7.0.1366`, `2.7.1.1388`, `2.8.0.1635`, `2.9.0.2100`, `2.10.0.2188`, `2.11.0.2807`, `2.12.0.2889`, `2.12.1.2905`, `2.13.0.3515`, `2.14.0.3782`, `2.15.0.3845`, `2.16.0.4008`, `2.17.0.4070`, `2.18.0.4866`, `2.19.0.4883`, `2.20.0.5038`, `2.21.0.5225`, `2.21.1.5779`, `2.22.0.5855`]
@@ -5525,7 +5525,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cn.com.kingbase:KesDialect-for-hibernate6.2`  -> [`2.0.0`]
 1. `com.github.jxc454:udpmodels`  -> [`1.0.1`]
 1. `dev.redcoke:mcserverping`  -> [`0.1`, `0.1.1`, `0.1.2`, `0.1.3`]
-1. `org.codehaus.plexus:plexus-java` 🧩 -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.3.0`, `1.4.0`]
+1. `org.codehaus.plexus:plexus-java` 🧩 -> [`0.9.11`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.1.0`, `1.1.1`, `1.1.2`, `1.2.0`, `1.3.0`, `1.4.0`, `1.5.0`]
 
 ## org.joda.money
 
@@ -6827,7 +6827,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## feign.core
 
-1. `io.github.openfeign:feign-core` 🧩 -> [`12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`]
+1. `io.github.openfeign:feign-core` 🧩 -> [`12.2`, `12.3`, `12.4`, `12.5`, `13.0`, `13.1`, `13.2`, `13.2.1`, `13.3`, `13.4`, `13.5`, `13.6`]
 1. `io.github.sunny-chung:feign-core`  -> [`13.2.1-patch-1`]
 1. `org.octopusden.octopus.jira:jira-vcs-plugin`  -> [`2.0.2`]
 
