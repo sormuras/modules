@@ -1420,8 +1420,8 @@ org.linguafranca.pwdb:KeePassJava2-simple:2.2.4 -> org.linguafranca.pwdb.KeePass
 org.logicng:logicng-parser-j8:2.6.0 -> logicng-parser-j8
 org.mongodb.scala:mongo-scala-bson:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-bson
 org.mongodb.scala:mongo-scala-driver:4.0.0-beta1 -> org.mongodb.scala.mongo-scala-driver
-org.natspal:nconsole-client-api:0.6.1 -> org.natspal.nconsole-client-api
-org.natspal:nconsole-db:0.6.1 -> org.natspal.nconsole-db
+org.natspal:nconsole-client-api:0.6.2 -> org.natspal.nconsole-client-api
+org.natspal:nconsole-db:0.6.2 -> org.natspal.nconsole-db
 org.natspal:nconsole-graphdb:0.1.0 -> org.natspal.nconsole-graphdb
 org.neo4j:neo4j-ast-3.5:3.5.35 -> -
 org.neo4j:neo4j-expressions-3.5:3.5.35 -> -
