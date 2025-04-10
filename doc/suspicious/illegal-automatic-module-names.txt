@@ -1577,10 +1577,7 @@ ru.testit:testit-adapter-kotest:0.5.0-TMS-CLOUD -> ru.testit.testit-adapter-kote
 ru.testit:testit-kotlin-commons:0.5.0-TMS-CLOUD -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 se.bjurr.gitchangelog:git-changelog-lib:2.6.0 -> se.bjurr.gitchangelog.git-changelog-lib
-software.amazon.smithy.java:auth-api:0.0.1 -> software.amazon.smithy.java.auth-api
-software.amazon.smithy.java:aws-server-restjson:0.0.1 -> software.amazon.smithy.java.server-aws-rest-json1
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
-software.amazon.smithy.java:tracing-api:0.0.1 -> software.amazon.smithy.java.tracing-api
 software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.12 -> smithy-aws-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.12 -> smithy-kotlin-codegen
 software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.12 -> smithy-kotlin-codegen-testutils
