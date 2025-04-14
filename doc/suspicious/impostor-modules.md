@@ -198,8 +198,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.edurt.datacap:datacap-plugin-pinot`  -> [`2024.03.8`]
 1. `io.edurt.datacap:datacap-plugin-scylladb`  -> [`2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`]
 1. `io.firebolt:firebolt-jdbc`  -> [`2.4.6`, `3.0.1`]
-1. `io.flux-capacitor:proxy`  -> [`0.1107.0`, `0.1109.0`, `0.1110.0`, `0.1111.0`, `0.1112.0`, `0.1113.0`, `0.1114.0`, `0.1115.0`]
-1. `io.flux-capacitor:test-server`  -> [`0.1107.0`, `0.1109.0`, `0.1110.0`, `0.1111.0`, `0.1112.0`, `0.1113.0`, `0.1114.0`, `0.1115.0`]
+1. `io.flux-capacitor:proxy`  -> [`0.1107.0`, `0.1109.0`, `0.1110.0`, `0.1111.0`, `0.1112.0`, `0.1113.0`, `0.1114.0`, `0.1115.0`, `0.1116.0`]
+1. `io.flux-capacitor:test-server`  -> [`0.1107.0`, `0.1109.0`, `0.1110.0`, `0.1111.0`, `0.1112.0`, `0.1113.0`, `0.1114.0`, `0.1115.0`, `0.1116.0`]
 1. `io.github.9ins:chaosgraph`  -> [`2.1.2`]
 1. `io.github.AnLaVN:AL-Library_EN`  -> [`3.68.11`]
 1. `io.github.AnLaVN:AL-Library_VN`  -> [`3.68.11`]
@@ -2940,7 +2940,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.codeborne:jvm2dts`  -> [`1.2.3`, `1.2.4`]
 1. `com.daml:ledger-api-test-tool`  -> [`1.4.0-snapshot.20200722.4796.0.28ab504b`, `1.4.0-snapshot.20200722.4800.0.21a16eef`, `1.4.0-snapshot.20200724.4812.0.818a52b0`]
 1. `com.exasol:parquet-io-java`  -> [`1.0.0`, `1.0.1`]
-1. `com.fasterxml.jackson.core:jackson-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `3.0-rc1`, `3.0-rc2`]
+1. `com.fasterxml.jackson.core:jackson-annotations` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `3.0-rc1`, `3.0-rc2`, `3.0-rc3`]
 1. `com.free-now.sauron.plugins:dependency-checker`  -> [`0.0.32`, `0.0.33`, `0.0.34`, `0.0.35`, `0.0.36`, `0.0.38`, `0.0.39`, `0.0.40`, `0.0.41`, `0.0.42`, `0.0.43`, `0.0.45`, `0.0.46`, `0.0.47`, `0.0.48`, `0.0.49`, `0.0.50`, `0.0.51`, `0.0.52`, `0.0.53`, `0.0.54`, `0.0.55`, `0.0.56`, `0.0.57`, `0.0.58`, `0.0.59`, `0.0.62`, `0.0.63`, `0.0.64`, `0.0.65`]
 1. `com.github.fpopic:bigquery-schema-select_2.13`  -> [`0.2`, `0.3`, `0.4`]
 1. `com.github.nagyesta.abort-mission.reports:abort.flight-evaluation-report`  -> [`3.4.2`, `3.4.6`, `3.4.11`, `3.4.14`, `3.4.29`, `3.4.40`, `3.4.52`, `3.5.0`, `3.5.30`, `3.5.56`, `3.5.69`, `3.5.81`, `3.5.103`]
@@ -3539,7 +3539,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 57 artifacts on Maven Central claim to be the module `org.apache.commons.compress`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.compress;`.
 
-1. `cloud.piranha.dist:piranha-dist-micro`  -> [`24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`]
+1. `cloud.piranha.dist:piranha-dist-micro`  -> [`24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`, `25.4.0`]
 1. `com.alibaba.ververica:flink-connector-mongodb`  -> [`1.17-vvr-8.0.8`, `1.17-vvr-8.0.11-1`]
 1. `com.alibaba.ververica:ververica-connector-mongodb`  -> [`1.17-vvr-8.0.8`, `1.17-vvr-8.0.11-1`]
 1. `com.ascentstream.pulsar:kafka-connect-avro-converter-shaded`  -> [`2.10.6.9`, `2.10.6.10`, `2.10.7.1-SNAPSHOT-4670905`, `2.10.7.1`, `2.10.7.2-SNAPSHOT-86382c9`, `2.10.7.3`, `2.10.7.4-SNAPSHOT-35e64fa`, `2.10.7.4`]
@@ -5212,8 +5212,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.fileupload2.jakarta.servlet6
 
-1. `cloud.piranha.dist:piranha-dist-servlet`  -> [`24.7.0`, `24.8.0`, `24.9.0`, `24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`]
-1. `cloud.piranha.dist:piranha-dist-webprofile`  -> [`24.7.0`, `24.8.0`, `24.9.0`, `24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`]
+1. `cloud.piranha.dist:piranha-dist-servlet`  -> [`24.7.0`, `24.8.0`, `24.9.0`, `24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`, `25.4.0`]
+1. `cloud.piranha.dist:piranha-dist-webprofile`  -> [`24.7.0`, `24.8.0`, `24.9.0`, `24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`, `25.4.0`]
 1. `io.telicent.smart-caches.graph:scg-server`  -> [`0.80.1`, `0.81.0`, `0.81.1`, `0.81.2`, `0.81.3`, `0.81.4`, `0.81.5`, `0.81.6`, `0.81.7`, `0.81.8`, `0.82.0`, `0.82.1`, `0.82.2`, `0.82.3`, `0.82.4`, `0.82.5`, `0.82.6`, `0.82.7`, `0.82.8`, `0.82.9`, `0.82.10`, `0.82.11`, `0.82.12`, `0.82.13`, `0.82.14`]
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.0`, `1.2.1`]
 1. `org.apache.commons:commons-fileupload2-jakarta-servlet6` 🧩 -> [`2.0.0-M2`]
@@ -6185,8 +6185,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## io.javalin
 
-1. `io.javalin:javalin-osgi` 🧩 -> [`6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`]
-1. `io.javalin:javalin`  -> [`5.6.0`, `5.6.1`, `5.6.2`, `5.6.3`, `6.0.0-beta.1`, `6.0.0-beta.2`, `6.0.0-beta.3`, `6.0.0-beta.4`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.1.6`, `6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`]
+1. `io.javalin:javalin-osgi` 🧩 -> [`6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`, `6.6.0`]
+1. `io.javalin:javalin`  -> [`5.6.0`, `5.6.1`, `5.6.2`, `5.6.3`, `6.0.0-beta.1`, `6.0.0-beta.2`, `6.0.0-beta.3`, `6.0.0-beta.4`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.1.6`, `6.2.0`, `6.3.0`, `6.4.0`, `6.5.0`, `6.6.0`]
 1. `world.convex:convex-cli`  -> [`0.7.13`]
 1. `world.convex:convex-gui`  -> [`0.7.13`]
 
