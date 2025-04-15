@@ -348,7 +348,7 @@ io.skullabs.kos:kos-logging-slf4j:0.5.1 -> io.skullabs.kos.kos-logging-slf4j
 io.skullabs.kos:kos-webapp:0.5.1 -> io.skullabs.kos.kos-webapp
 io.skullabs.kos:tests-report:0.8.8 -> io.skullabs.kos.tests-report
 io.synadia:direct-batch:0.1.0 -> io.synadia.direct-batch
-io.synadia:jnats-js-publish-extensions:0.3.0 -> io.synadia.jnats-js-publish-extensions
+io.synadia:jnats-js-publish-extensions:0.4.0 -> io.synadia.jnats-js-publish-extensions
 io.synadia:jnats-retrier:0.0.1 -> io.synadia.jnats-retrier
 io.synadia:request-many:0.0.1 -> io.synadia.request-many
 name.remal:public-data:2020.9.18-180019 -> name.remal.public-data
@@ -532,7 +532,7 @@ org.apereo.cas:cas-server-webapp-jetty:6.1.0-RC4 -> cas-server-webapp-jetty
 org.apereo.cas:cas-server-webapp-native:7.0.0-RC6 -> cas.server.webapp.native
 org.apereo.cas:cas-server-webapp-tomcat:6.1.0-RC4 -> cas-server-webapp-tomcat
 org.apereo.cas:cas-server-webapp-undertow:6.1.0-RC4 -> cas-server-webapp-undertow
-org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:9.0.1 -> org.bonitasoft.bpm.plugin-dependencies
+org.bonitasoft.bpm:org.bonitasoft.bpm.plugin-dependencies:9.0.2 -> org.bonitasoft.bpm.plugin-dependencies
 org.cloudburstmc.fastutil.biglists:boolean-big-lists:8.5.15 -> fastutil.big-lists.booleans
 org.cloudburstmc.fastutil.biglists:byte-big-lists:8.5.15 -> fastutil.big-lists.bytes
 org.cloudburstmc.fastutil.biglists:char-big-lists:8.5.15 -> fastutil.big-lists.chars
@@ -694,8 +694,8 @@ org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
 org.jmonkeyengine:jme3-android-native:3.8.0-beta1 -> jme3.android.native
-org.jobrunr:jobrunr-spring-boot-2-starter:7.4.1 -> org.jobrunr.spring.boot-2.starter
-org.jobrunr:jobrunr-spring-boot-3-starter:7.4.1 -> org.jobrunr.spring.boot-3.starter
+org.jobrunr:jobrunr-spring-boot-2-starter:7.5.0 -> org.jobrunr.spring.boot-2.starter
+org.jobrunr:jobrunr-spring-boot-3-starter:7.5.0 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
 org.joinfaces:myfaces-next-spring-boot-starter:4.7.18 -> joinfaces.starter.myfaces-next
 org.kie.kogito.examples:acme-financial-service:1.25.0.Final -> -
