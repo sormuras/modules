@@ -274,11 +274,11 @@ io.github.hylexus.jt:jt-1078-server-spring-boot-autoconfigure:2.2.0-beta5 -> jt.
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter:2.2.0-beta5 -> jt.1078.server.spring.boot.starter
 io.github.hylexus.jt:jt-1078-server-spring-boot-starter-boot2:2.2.0-beta5 -> jt.1078.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-1078-server-support:2.2.0-beta5 -> jt.1078.server.support
-io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.4 -> jt.808.server.spring.boot.autoconfigure
-io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.4 -> jt.808.server.spring.boot.starter
-io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.4 -> jt.808.server.spring.boot.starter.boot2
+io.github.hylexus.jt:jt-808-server-spring-boot-autoconfigure:2.3.0-rc.5 -> jt.808.server.spring.boot.autoconfigure
+io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.5 -> jt.808.server.spring.boot.starter
+io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.5 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
-io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.4 -> jt.808.server.support
+io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.5 -> jt.808.server.support
 io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.2 -> jt.808.server.dashboard.spring.boot.starter.reactive
 io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.2 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
@@ -348,7 +348,7 @@ io.skullabs.kos:kos-logging-slf4j:0.5.1 -> io.skullabs.kos.kos-logging-slf4j
 io.skullabs.kos:kos-webapp:0.5.1 -> io.skullabs.kos.kos-webapp
 io.skullabs.kos:tests-report:0.8.8 -> io.skullabs.kos.tests-report
 io.synadia:direct-batch:0.1.0 -> io.synadia.direct-batch
-io.synadia:jnats-js-publish-extensions:0.4.0 -> io.synadia.jnats-js-publish-extensions
+io.synadia:jnats-js-publish-extensions:0.4.1 -> io.synadia.jnats-js-publish-extensions
 io.synadia:jnats-retrier:0.0.1 -> io.synadia.jnats-retrier
 io.synadia:request-many:0.0.1 -> io.synadia.request-many
 name.remal:public-data:2020.9.18-180019 -> name.remal.public-data
@@ -1573,8 +1573,8 @@ pro.projo:projo-template-annotation:1.5.7 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.5.7 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.5.7 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
-ru.testit:testit-adapter-kotest:0.5.0-TMS-CLOUD -> ru.testit.testit-adapter-kotest
-ru.testit:testit-kotlin-commons:0.5.0-TMS-CLOUD -> ru.testit.testit-kotlin-commons
+ru.testit:testit-adapter-kotest:0.5.1-TMS-5.3 -> ru.testit.testit-adapter-kotest
+ru.testit:testit-kotlin-commons:0.5.1-TMS-5.3 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 se.bjurr.gitchangelog:git-changelog-lib:2.6.0 -> se.bjurr.gitchangelog.git-changelog-lib
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
