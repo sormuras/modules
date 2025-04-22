@@ -255,7 +255,6 @@ hu.blackbelt.judo.eclipse.epp:hu.blackbelt.judo.eclipse.epp.package.common:4.23.
 in.jlibs:jlibs-apt:3.0.1 -> -
 in.jlibs:jlibs-examples:3.0.1 -> -
 info.solidsoft.mockito:mockito-java8:2.5.0 -> info.solidsoft.mockito.mockito-java8
-io.arrow-kt:arrow-core-high-arity-jvm:2.0.1 -> arrow.core-high-arity
 io.automatiko.quarkus:automatiko-quarkus-integration-test-hot-reload:0.5.0 -> -
 io.dropwizard.metrics5:metrics-logback:5.0.0 -> ${javaModuleName}
 io.easybest:spring-data-mybatis:2.0.1.RELEASE -> -
@@ -1578,8 +1577,8 @@ ru.testit:testit-kotlin-commons:0.5.1-TMS-5.3 -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 se.bjurr.gitchangelog:git-changelog-lib:2.6.0 -> se.bjurr.gitchangelog.git-changelog-lib
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
-software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.14 -> smithy-aws-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.14 -> smithy-kotlin-codegen
-software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.14 -> smithy-kotlin-codegen-testutils
+software.amazon.smithy.kotlin:smithy-aws-kotlin-codegen:0.34.15 -> smithy-aws-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen:0.34.15 -> smithy-kotlin-codegen
+software.amazon.smithy.kotlin:smithy-kotlin-codegen-testutils:0.34.15 -> smithy-kotlin-codegen-testutils
 tokyo.northside:jgit-gpg-signer:0.2.3 -> tokyo.northside.jgit.gpg-signer
 us.hebi.matlab.mat:mat-ejml:0.5 -> us.hebi.matlab.mat.mfl-ejml
