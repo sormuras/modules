@@ -727,7 +727,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-weaviate`  -> [`0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`]
 1. `io.kestra.plugin:plugin-zendesk`  -> [`0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`, `0.22.0`]
 1. `io.kestra.storage:storage-gcs`  -> [`0.6.0`, `0.8.0`, `0.9.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`, `0.20.1`]
-1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.2.5`]
+1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.2.5`, `0.14.3-demo`, `0.14.3-demo-1`]
 1. `io.lionweb.lioncore-java:lioncore-java-core-fat`  -> [`0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`]
 1. `io.logz.log4j2:logzio-log4j2-appender`  -> [`2.1.0`, `2.2.0`]
 1. `io.logz.logback:logzio-logback-appender`  -> [`2.1.0`, `2.2.0`, `2.3.0`]
@@ -1271,7 +1271,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wiremock:wiremock-webhooks-extension`  -> [`2.32.0`, `2.33.0`, `2.33.1`, `2.33.2`, `2.34.0`, `2.35.0`, `3.0.0-beta-1`, `3.0.0-beta-2`, `3.0.0-beta-3`, `3.0.4`]
 1. `org.wso2.msf4j.example:stockquote-fatjar`  -> [`2.8.7`, `2.8.8`, `2.8.10`, `2.8.11`]
 1. `org.wyona.triton.client:java-api`  -> [`0.0.1`]
-1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`]
+1. `org.zowe.client.java.sdk:zowe-client-java-sdk`  -> [`3.0.0-RC1`, `3.0.0-RC2`, `3.0.0`, `3.0.1`, `3.0.2`, `3.0.3`, `3.0.4`, `3.0.5`, `3.0.6`]
 1. `ru.cwcode.tkach.config:PaperConfig`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`, `2.4.0`]
 1. `ru.cwcode.tkach.config:Share`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`]
 1. `ru.cwcode.tkach.config:VelocityConfig`  -> [`2.0.0`, `2.0.1`, `2.1.0`, `2.1.5`, `2.1.6`, `2.3.0`, `2.4.0`]
@@ -3350,7 +3350,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonarsource.flex:sslr-flex-toolkit`  -> [`2.14.0.5032`]
 1. `org.sonarsource.python:sonar-python-plugin`  -> [`4.23.0.17664`, `4.24.0.18631`, `4.25.0.19056`, `4.26.0.19456`, `4.26.1.20337`, `5.0.0.20426`, `5.1.0.20567`, `5.2.0.20808`, `5.3.0.21704`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
-1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 1. `org.vafer:jdependency`  -> [`2.10`, `2.11`, `2.12`]
 
 ## org.apache.commons.lang3
@@ -3490,7 +3490,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.python:jython-standalone`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.python:jython`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
-1. `org.teavm:teavm-relocated-libs-asm`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-asm`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 1. `org.tomitribe.jkta:jkta`  -> [`0.4`, `0.5`, `0.6`, `0.7`]
 
 ## com.google.errorprone.annotations
@@ -4079,7 +4079,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.realityforge.shade:shade-cli`  -> [`2.0.0`]
 1. `org.tango-controls.pogo:Pogo`  -> [`9.7.5`, `9.7.6`]
 1. `org.tango-controls:Pogo`  -> [`9.8.1`, `9.8.2`, `9.8.4`]
-1. `org.teavm:teavm-relocated-libs-asm-commons`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-asm-commons`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 1. `software.amazon.disco:disco-java-agent`  -> [`0.10.0`, `0.11.0`, `0.12.0`]
 
 ## ch.qos.logback.classic
@@ -4462,7 +4462,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
 1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
 1. `org.apktool:apktool-cli`  -> [`2.10.0`, `2.11.0`, `2.11.1`]
-1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## com.alibaba.fastjson2.extension
 
@@ -4911,7 +4911,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.activecomponents.jadex:jadex-editor-bpmn`  -> [`4.0.244`, `4.0.249`, `4.0.250`, `4.0.252`, `4.0.254`, `4.0.255`, `4.0.256`, `4.0.257`, `4.0.258`, `4.0.260`, `4.0.261`, `4.0.262`, `4.0.263`, `4.0.264`, `4.0.265`, `4.0.266`, `4.0.267`]
 1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`]
 1. `org.soot-oss:sootup.java.bytecode`  -> [`1.0.0`]
-1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## roaringbitmap
 
@@ -5336,7 +5336,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.17.5`, `1.17.6`, `1.17.7`, `1.17.8`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`, `1.19.4`, `1.19.5`, `1.19.6`, `1.19.7`, `1.19.8`, `1.19.9`, `1.19.10`, `1.19.11`, `1.19.12`, `1.19.13`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.22.0`, `1.23.1`, `1.24.0`, `1.24.2`]
 1. `org.netbeans.external:asm-tree-7.2`  -> [`RELEASE113`]
 1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`]
-1. `org.teavm:teavm-relocated-libs-asm-tree`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-asm-tree`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## org.opentest4j
 
@@ -5631,7 +5631,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `fish.payara.extras:payara-embedded-web`  -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.6`, `5.2020.7`, `5.2021.1`, `5.2021.2`, `5.2021.3`, `5.2021.4`, `6.2021.1.Alpha1`, `6.2022.1.Alpha2`]
 1. `org.apache.felix:org.apache.felix.scr.bnd`  -> [`1.9.4`, `1.9.6`]
 1. `org.ow2.asm:asm-analysis` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`]
-1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`]
+1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## be.webtechie.piheaders
 
