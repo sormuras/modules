@@ -692,7 +692,7 @@ org.jbpm:jbpm-executor-ejb:7.74.1.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
-org.jmonkeyengine:jme3-android-native:3.8.0-stable -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.8.1-stable -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:7.5.1 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:7.5.1 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native
