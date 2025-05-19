@@ -278,8 +278,8 @@ io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.6 -> jt.808.serv
 io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.6 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.6 -> jt.808.server.support
-io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.4 -> jt.808.server.dashboard.spring.boot.starter.reactive
-io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.4 -> jt.808.server.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.5 -> jt.808.server.dashboard.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.5 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.mianalysis:MIA:1.2.9 -> io.github.mianalysis._
@@ -396,9 +396,9 @@ org.apache.isis.core:isis-core-plugins-jaxrs-resteasy-4:2.0.0-M2 -> org.apache.i
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-4:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-4
 org.apache.isis.core:isis-core-plugins-jdo-datanucleus-5:2.0.0-M2 -> org.apache.isis.plugins.jdo-datanucleus-5
 org.apache.isis.core:isis-core-unittestsupport-test:2.0.0-M1 -> org.apache.isis.core.unittestsupport-test
-org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.8 -> org.apache.maven.resolver.transport.jdk.11
+org.apache.maven.resolver:maven-resolver-transport-jdk-11:2.0.9 -> org.apache.maven.resolver.transport.jdk.11
 org.apache.maven.resolver:maven-resolver-transport-jdk-21:2.0.0 -> org.apache.maven.resolver.transport.jdk.21
-org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.8 -> org.apache.maven.resolver.transport.jdk.8
+org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.9 -> org.apache.maven.resolver.transport.jdk.8
 org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.1.0 -> pekko.projection.durable-state

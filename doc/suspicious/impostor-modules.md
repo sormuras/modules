@@ -735,7 +735,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-weaviate`  -> [`0.13.0`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`]
 1. `io.kestra.plugin:plugin-zendesk`  -> [`0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`, `0.22.0`]
 1. `io.kestra.storage:storage-gcs`  -> [`0.6.0`, `0.8.0`, `0.9.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.13.1`, `0.13.2`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`, `0.20.1`]
-1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.2.5`, `0.14.3-demo`, `0.14.3-demo-1`, `0.14.3-demo-2`, `0.14.3-demo-6`, `0.14.3-demo-8`, `0.14.3-demo-10`, `0.14.3-demo-12`, `0.14.3-demo-13`, `0.14.3-demo-14`, `0.14.3-demo-15`, `0.14.3-demo-16`, `0.15.0-demo-0`, `0.15.0-demo-2`, `0.15.0-demo-3`, `0.15.0-demo-4`, `0.15.0-demo-5`, `0.15.0-demo-8`, `0.15.0-demo-9`, `0.15.0-demo-11`, `0.15.0-demo-14`, `0.15.0-demo-18`, `0.15.0-demo-19`, `0.15.0-demo-20`, `0.15.0-demo-21`, `0.15.0-demo-22`, `0.15.0-support-emr-7.0.0-test`]
+1. `io.lakefs:hadoop-lakefs-assembly`  -> [`0.2.5`, `0.14.3-demo`, `0.14.3-demo-1`, `0.14.3-demo-2`, `0.14.3-demo-6`, `0.14.3-demo-8`, `0.14.3-demo-10`, `0.14.3-demo-12`, `0.14.3-demo-13`, `0.14.3-demo-14`, `0.14.3-demo-15`, `0.14.3-demo-16`, `0.15.0-demo-0`, `0.15.0-demo-2`, `0.15.0-demo-3`, `0.15.0-demo-4`, `0.15.0-demo-5`, `0.15.0-demo-8`, `0.15.0-demo-9`, `0.15.0-demo-11`, `0.15.0-demo-14`, `0.15.0-demo-18`, `0.15.0-demo-19`, `0.15.0-demo-20`, `0.15.0-demo-21`, `0.15.0-demo-22`, `0.15.0-support-emr-7.0.0-test`, `0.15.1-support-emr-7.0.0`]
 1. `io.lionweb.lioncore-java:lioncore-java-core-fat`  -> [`0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`]
 1. `io.logz.log4j2:logzio-log4j2-appender`  -> [`2.1.0`, `2.2.0`]
 1. `io.logz.logback:logzio-logback-appender`  -> [`2.1.0`, `2.2.0`, `2.3.0`]
@@ -3415,7 +3415,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.7.0.CR1`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.8.0.CR1`, `3.8.0`, `3.8.1`, `3.9.3`, `3.10.0.CR1`, `3.10.0`, `3.10.1`, `3.11.0.CR1`, `3.12.1`, `3.12.2`, `3.12.3`, `3.13.0.CR1`, `3.14.2`, `3.15.0.CR1`, `3.15.0`, `3.16.0.CR1`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.17.0.CR1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.17.3`, `3.17.4`, `3.17.5`, `3.22.1`, `3.22.2`, `3.22.3`, `3.23.0.CR1`]
 1. `io.reliza:versioning`  -> [`2023.07.21`, `2025.01.0`, `2025.01.1`, `2025.01.2`]
 1. `io.swagger.parser.v3:swagger-parser-cli`  -> [`2.1.20`, `2.1.21`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`, `4.1.13`, `4.1.14`, `4.1.15`, `4.1.17`, `4.1.20`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.2.13`, `4.2.14`, `4.2.15`, `4.2.16`, `4.2.17`, `4.2.19`, `4.2.20`, `4.2.21`, `4.2.22`, `4.2.23`, `4.2.24`, `4.2.25`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`, `4.1.13`, `4.1.14`, `4.1.15`, `4.1.17`, `4.1.20`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.2.13`, `4.2.14`, `4.2.15`, `4.2.16`, `4.2.17`, `4.2.19`, `4.2.20`, `4.2.21`, `4.2.22`, `4.2.23`, `4.2.24`, `4.2.25`, `4.2.26`]
 1. `nl.basjes.parse.httpdlog:httpdlog-parser`  -> [`5.11.0`]
 1. `no.entur:interface-protoc-plugin`  -> [`1.17`, `1.18`]
 1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`]
@@ -5193,14 +5193,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.github.stephengold.joltjni
 
-1. `com.github.stephengold:jolt-jni-Linux64_fma`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-Linux64`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-Linux_ARM32hf`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-Linux_ARM64`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-MacOSX64`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-MacOSX_ARM64`  -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-Windows64_avx2` 🧩 -> [`0.9.10`]
-1. `com.github.stephengold:jolt-jni-Windows64`  -> [`0.9.10`]
+1. `com.github.stephengold:jolt-jni-Linux64_fma`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-Linux64`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-Linux_ARM32hf`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-Linux_ARM64`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-MacOSX64`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-MacOSX_ARM64`  -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-Windows64_avx2` 🧩 -> [`0.9.10`, `1.0.0`]
+1. `com.github.stephengold:jolt-jni-Windows64`  -> [`0.9.10`, `1.0.0`]
 
 ## jakarta.json
 
