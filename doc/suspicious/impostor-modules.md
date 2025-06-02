@@ -4229,6 +4229,36 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:connector-aerospike`  -> [`2.3.11`]
 1. `org.smartboot.mqtt:smart-mqtt-data-persistence`  -> [`0.31`, `0.32`, `0.33`, `0.34`, `0.36`, `0.37`]
 
+## com.google.common
+
+For example, at least 24 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
+
+1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
+1. `com.guicedee.services:guava`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `dev.ikm.jpms:guava`  -> [`31.1-jre-r1`, `31.1-jre-r2`, `33.1.0-jre-r1`, `33.1.0-jre-r2`, `33.1.0-jre-r3`]
+1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.2.1`, `2.2.2`]
+1. `io.github.jbock-java:guava`  -> [`31.0.1.0`]
+1. `io.quarkus:quarkus-grpc-cli`  -> [`3.21.1`, `3.21.2`]
+1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
+1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`]
+1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-open-api`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.9.0`, `1.9.1`]
+1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`]
+1. `org.apache.jackrabbit:oak-run`  -> [`1.80`]
+1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`]
+1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`]
+1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
+1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`]
+
 ## org.apache.commons.pool2
 
 For example, at least 24 artifacts on Maven Central claim to be the module `org.apache.commons.pool2`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4258,35 +4288,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.locationtech.geomesa:geomesa-hbase-spark-runtime-hbase2_2.13`  -> [`5.0.0`, `5.0.1`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.3.0`]
 1. `org.noear:luffy.lock.redis`  -> [`1.8.1`, `1.9.0`, `1.9.2`]
 1. `org.noear:luffy.queue.redis`  -> [`1.8.1`, `1.9.0`, `1.9.2`]
-
-## com.google.common
-
-For example, at least 23 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
-
-1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
-1. `com.guicedee.services:guava`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `dev.ikm.jpms:guava`  -> [`31.1-jre-r1`, `31.1-jre-r2`, `33.1.0-jre-r1`, `33.1.0-jre-r2`, `33.1.0-jre-r3`]
-1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.2.1`, `2.2.2`]
-1. `io.github.jbock-java:guava`  -> [`31.0.1.0`]
-1. `io.quarkus:quarkus-grpc-cli`  -> [`3.21.1`, `3.21.2`]
-1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`]
-1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-open-api`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.9.0`, `1.9.1`]
-1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`]
-1. `org.apache.jackrabbit:oak-run`  -> [`1.80`]
-1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`]
-1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`]
-1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
-1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`]
 
 ## net.bytebuddy.agent
 
@@ -5383,8 +5384,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.jsoup
 
 1. `com.adobe.cq:core.email.components.core`  -> [`1.3.0`]
-1. `io.get-coursier:lm-coursier-shaded_2.12`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`]
-1. `io.get-coursier:lm-coursier-shaded_2.13`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`]
+1. `io.get-coursier:lm-coursier-shaded_2.12`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`]
+1. `io.get-coursier:lm-coursier-shaded_2.13`  -> [`2.1.4`, `2.1.5`, `2.1.6`, `2.1.7`, `2.1.8`, `2.1.9`]
 1. `io.github.algomaster99:classfile-fingerprint`  -> [`0.12.0`, `0.12.2`, `0.13.0`, `0.14.0`, `0.14.1`]
 1. `org.apache.tika:tika-app`  -> [`3.1.0`, `3.2.0`]
 1. `org.jsoup:jsoup` 🧩 -> [`1.17.1`, `1.17.2`, `1.18.1`, `1.18.2`, `1.18.3`, `1.19.1`, `1.20.1`]
