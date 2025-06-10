@@ -1572,8 +1572,8 @@ pro.projo:projo-template-annotation:1.5.7 -> pro.projo.projo-template-annotation
 pro.projo:projo-template-configuration:1.5.7 -> pro.projo.projo-template-configuration
 pro.projo:projo-template-generation:1.5.7 -> pro.projo.projo-template-generation
 ru.telamon:machamp-spring-boot-starter:0.0.6 -> ru.telamon.machamp.spring-boot-starter
-ru.testit:testit-adapter-kotest:0.5.1-TMS-5.3 -> ru.testit.testit-adapter-kotest
-ru.testit:testit-kotlin-commons:0.5.1-TMS-5.3 -> ru.testit.testit-kotlin-commons
+ru.testit:testit-adapter-kotest:0.6.0-TMS-CLOUD -> ru.testit.testit-adapter-kotest
+ru.testit:testit-kotlin-commons:0.6.0-TMS-CLOUD -> ru.testit.testit-kotlin-commons
 ru.vyarus:dropwizard-orient-server:3.0.0 -> ru.vyarus.dropwizard-orient-server
 se.bjurr.gitchangelog:git-changelog-lib:2.6.0 -> se.bjurr.gitchangelog.git-changelog-lib
 software.amazon.smithy.java:event-streams:0.0.1 -> software.amazon.smithy.java.aws.event-streams
