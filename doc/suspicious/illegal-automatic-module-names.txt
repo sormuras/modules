@@ -278,8 +278,8 @@ io.github.hylexus.jt:jt-808-server-spring-boot-starter:2.3.0-rc.6 -> jt.808.serv
 io.github.hylexus.jt:jt-808-server-spring-boot-starter-boot2:2.3.0-rc.6 -> jt.808.server.spring.boot.starter.boot2
 io.github.hylexus.jt:jt-808-server-spring-boot-stater:2.0.3-RELEASE -> jt.808.server.spring.boot.stater
 io.github.hylexus.jt:jt-808-server-support:2.3.0-rc.6 -> jt.808.server.support
-io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.5 -> jt.808.server.dashboard.spring.boot.starter.reactive
-io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.5 -> jt.808.server.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-dashboard-spring-boot-starter-reactive:0.0.1-rc.6 -> jt.808.server.dashboard.spring.boot.starter.reactive
+io.github.hylexus.xtream:jt-808-server-spring-boot-starter-reactive:0.0.1-rc.6 -> jt.808.server.spring.boot.starter.reactive
 io.github.hylexus.xtream:xtream-codec-ext-jt-808-server-spring-boot-starter:0.0.1-beta.5 -> xtream.codec.ext.jt.808.server.spring.boot.starter
 io.github.malteseduck.springframework.data:spring-data-marklogic:2.2.0.RELEASE -> -
 io.github.mianalysis:MIA:1.2.9 -> io.github.mianalysis._
@@ -692,7 +692,7 @@ org.jbpm:jbpm-executor-ejb:7.74.1.Final -> -
 org.jbpm:jbpm-task-assigning-core:7.33.0.Final -> -
 org.jbpm:jbpm-workitems-template-resources:7.74.1.Final -> -
 org.jbpm:jbpm-xes:7.74.1.Final -> -
-org.jmonkeyengine:jme3-android-native:3.9.0-alpha1 -> jme3.android.native
+org.jmonkeyengine:jme3-android-native:3.9.0-alpha2 -> jme3.android.native
 org.jobrunr:jobrunr-spring-boot-2-starter:8.0.0-beta.1 -> org.jobrunr.spring.boot-2.starter
 org.jobrunr:jobrunr-spring-boot-3-starter:8.0.0-beta.1 -> org.jobrunr.spring.boot-3.starter
 org.jobrunr:jobrunr-spring-boot-native:5.3.3 -> org.jobrunr.spring.boot.native

@@ -2938,7 +2938,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:bouncycastle`  -> [`1.1.1.9-jre16`, `1.2.0.0-jre16`, `1.2.0.1-jre16`, `1.2.0.2-jre16`, `1.2.0.3-jre17-rc1`, `1.2.1.1-jre17`, `1.2.1.2-jre17`, `1.2.2.1`, `1.2.2.1-jre17`]
 1. `com.intuit.karate:karate-core`  -> [`1.2.0.RC2`, `1.2.0.RC3`, `1.2.0.RC4`]
 1. `com.linecorp.armeria:armeria`  -> [`1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `1.13.1`, `1.13.2`, `1.13.3`, `1.13.4`, `1.14.0`, `1.14.1`, `1.15.0`, `1.16.0`, `1.17.0`, `1.17.1`, `1.17.2`, `1.18.0`, `1.19.0`, `1.20.0`, `1.20.1`, `1.20.2`, `1.20.3`, `1.21.0`, `1.22.0`, `1.22.1`, `1.23.0`, `1.23.1`, `1.24.0`, `1.24.1`, `1.24.2`, `1.24.3`, `1.25.0`, `1.25.1`, `1.25.2`, `1.26.0`, `1.26.1`, `1.26.2`, `1.26.3`, `1.26.4`, `1.27.0`, `1.27.1`, `1.27.2`, `1.27.3`, `1.29.0`, `1.29.1`, `1.29.2`]
-1. `com.nhn.gameanvil:gameanvil`  -> [`2.0.0-jdk21`]
+1. `com.nhn.gameanvil:gameanvil`  -> [`2.0.0-jdk21`, `2.1.0-jdk21`]
 1. `com.scalar-labs:scalardb-analytics-spark-all-3.4_2.12`  -> [`3.14.0`]
 1. `com.scalar-labs:scalardb-analytics-spark-all-3.4_2.13`  -> [`3.14.0`]
 1. `com.scalar-labs:scalardb-analytics-spark-all-3.5_2.12`  -> [`3.14.0`]
