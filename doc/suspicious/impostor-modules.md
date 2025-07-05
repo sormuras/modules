@@ -21,9 +21,9 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.annotation` x80
 1. `com.fasterxml.jackson.dataformat.yaml` x79
 1. `org.yaml.snakeyaml` x77
+1. `org.apache.commons.lang3` x76
 1. `com.fasterxml.jackson.module.jaxb` x74
-1. `org.apache.commons.io` x70
-1. `org.apache.commons.lang3` x69
+1. `org.apache.commons.io` x74
 1. `org.objectweb.asm` x64
 1. `com.google.errorprone.annotations` x60
 1. `org.apache.commons.compress` x59
@@ -3266,6 +3266,88 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
 1. `org.yaml:snakeyaml` 🧩 -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`]
 
+## org.apache.commons.lang3
+
+For example, at least 76 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
+
+1. `com.aerospike:avs-client-java`  -> [`1.0.0`, `1.1.0`]
+1. `com.cefriel:mapping-template`  -> [`2.6.1`]
+1. `com.guicedee.services:commons-lang3`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
+1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `com.liferay.portal:com.liferay.portal.test`  -> [`26.0.0`, `27.0.0`, `27.0.1`, `28.0.0`]
+1. `com.lihaoyi:mill-dist-native-linux-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.lihaoyi:mill-dist-native-linux-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.lihaoyi:mill-dist-native-mac-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.lihaoyi:mill-dist-native-mac-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.lihaoyi:mill-dist-native-windows-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.lihaoyi:mill-dist`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
+1. `com.limemojito.oss.aws:aws-cleaner`  -> [`6.0.0`]
+1. `com.signalfx.public:signalfx-codahale`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`]
+1. `com.signalfx.public:signalfx-java`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`, `1.0.44`, `1.0.45`, `1.0.46`, `1.0.47`, `1.0.48`, `1.0.49`]
+1. `com.signalfx.public:signalfx-yammer`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`]
+1. `com.vmlens:trace-agent-bootstrap-jdk9`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`]
+1. `de.fraunhofer.iosb.ilt.faaast.service:starter`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.2.0`]
+1. `de.knightsoft-net:gwt-commons-lang3`  -> [`3.17.0-1`]
+1. `dev.hcf.ball:ball-tools-javadoc-jdk8`  -> [`3.1.15.20231224`, `3.1.16.20240605`, `3.1.17.20240628`, `3.1.18.20240921`]
+1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.15`, `8.16`]
+1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5.2`, `0.6`]
+1. `io.github.novakov-alexey:flink-clients-scastie_2.13`  -> [`1.19.1`]
+1. `io.github.novakov-alexey:flink-clients-scastie_3`  -> [`1.19.1`]
+1. `io.github.shmilyjxs:jdb-tool`  -> [`1.35`, `1.36`, `1.37`]
+1. `io.inverno.tool:inverno-grpc-protoc-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.6.0`]
+1. `io.kestra.plugin:plugin-github`  -> [`0.23.0`]
+1. `io.kestra.plugin:plugin-weaviate`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
+1. `io.openlineage:openlineage-flink`  -> [`1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
+1. `io.openlineage:openlineage-spark_2.12`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
+1. `io.openlineage:openlineage-spark_2.13`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
+1. `io.openlineage:openlineage-sql-java`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
+1. `io.pushnode:apiclient`  -> [`1.0.1`, `1.0.3`]
+1. `io.quarkus:quarkus-ide-launcher`  -> [`3.7.0.CR1`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.8.0.CR1`, `3.8.0`, `3.8.1`, `3.9.3`, `3.10.0.CR1`, `3.10.0`, `3.10.1`, `3.11.0.CR1`, `3.12.1`, `3.12.2`, `3.12.3`, `3.13.0.CR1`, `3.14.2`, `3.15.0.CR1`, `3.15.0`, `3.16.0.CR1`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.17.0.CR1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.17.3`, `3.17.4`, `3.17.5`, `3.22.1`, `3.22.2`, `3.22.3`, `3.23.0.CR1`]
+1. `io.reliza:versioning`  -> [`2023.07.21`, `2025.01.0`, `2025.01.1`, `2025.01.2`]
+1. `io.swagger.parser.v3:swagger-parser-cli`  -> [`2.1.20`, `2.1.21`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`, `4.1.13`, `4.1.14`, `4.1.15`, `4.1.17`, `4.1.20`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.2.13`, `4.2.14`, `4.2.15`, `4.2.16`, `4.2.17`, `4.2.19`, `4.2.20`, `4.2.21`, `4.2.22`, `4.2.23`, `4.2.24`, `4.2.25`, `4.2.26`, `4.2.27`, `4.2.28`, `4.2.29`, `4.2.30`, `4.2.31`, `4.2.32`, `4.2.33`, `4.2.34`]
+1. `nl.basjes.parse.httpdlog:httpdlog-parser`  -> [`5.11.0`]
+1. `no.entur:interface-protoc-plugin`  -> [`1.17`, `1.18`]
+1. `org.apache.celeborn:celeborn-client-flink-1.16-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-flink-1.17-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-flink-1.18-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-flink-1.19-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-flink-1.20-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-flink-2.0-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-mr-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`]
+1. `org.apache.gravitino:gcp-bundle`  -> [`0.7.0-incubating`]
+1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-aliyun`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-aws`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
+1. `org.apache.pulsar:buildtools`  -> [`4.0.5`]
+1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
+1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
+1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
+1. `org.apache.tomee:openejb-lite`  -> [`10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`]
+1. `org.apache.zeppelin:launcher-k8s-standard`  -> [`0.12.0`]
+1. `org.apache.zeppelin:zeppelin-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
+1. `org.apache.zeppelin:zeppelin-jupyter-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
+1. `org.dominokit:domino-brix-processor`  -> [`1.0.0-RC1`]
+1. `org.dominokit:domino-jackson-processor`  -> [`1.0.3`, `1.0.4`, `1.0.5`]
+1. `org.dominokit:domino-rest-processor`  -> [`2.0.0-RC1`, `2.0.0-RC2`]
+1. `org.frankframework:frank-doc-doclet`  -> [`3.1`, `3.2`]
+1. `org.ibissource:frank-doc-doclet`  -> [`3.0`]
+1. `org.liquibase.io.ext:liquibase-io-runner`  -> [`0.1.30`]
+1. `org.openl.rules:openl2text`  -> [`5.27.5`, `5.27.6`, `5.27.7`]
+1. `org.polypheny:polypheny-jdbc-driver`  -> [`2.0`, `2.1`, `2.2`, `2.3`]
+1. `org.sonarsource.java:sonar-java-plugin`  -> [`8.6.0.37351`, `8.7.0.37452`, `8.8.0.37665`, `8.9.0.37768`, `8.10.0.38194`, `8.11.0.38440`, `8.12.0.38599`, `8.13.0.38826`, `8.14.0.39102`, `8.14.1.39293`, `8.15.0.39343`]
+1. `org.sonarsource.java:sonar-java-symbolic-execution-plugin`  -> [`8.6.0.37351`, `8.7.0.37452`, `8.8.0.37665`, `8.9.0.37768`, `8.10.0.38194`, `8.11.0.38440`, `8.12.0.38599`, `8.13.0.38826`, `8.14.0.39102`, `8.14.1.39293`]
+1. `org.sonarsource.php:sonar-php-plugin`  -> [`3.36.0.11813`, `3.37.0.12079`, `3.37.0.12086`, `3.38.0.12239`, `3.39.0.12526`, `3.40.0.12590`, `3.41.0.12692`, `3.42.0.12795`, `3.43.0.12862`, `3.44.0.12898`, `3.45.0.12991`, `3.46.0.13151`]
+
 ## com.fasterxml.jackson.module.jaxb
 
 For example, at least 74 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3348,7 +3430,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.io
 
-For example, at least 70 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 74 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.io;`.
 
 1. `cloud.piranha.dist:piranha-dist-micro`  -> [`23.11.0`, `23.12.0`, `24.1.0`, `24.2.0`, `24.3.0`]
@@ -3380,6 +3462,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.wcm.devops.maven:io.wcm.devops.maven.nodejs-proxy`  -> [`1.2.2`]
 1. `net.serenity-bdd:serenity-cli`  -> [`4.0.21`, `4.0.22`, `4.0.24`, `4.0.25`, `4.0.26`, `4.0.27`]
 1. `no.entur:schema2proto-lib`  -> [`1.88`, `1.90`, `1.92`, `1.93`, `1.94`, `1.95`, `1.96`, `1.97`, `1.98`]
+1. `org.apache.celeborn:celeborn-client-spark-2-shaded_2.11`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.12`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.13`  -> [`0.6.0`]
+1. `org.apache.celeborn:celeborn-client-spark-4-shaded_2.13`  -> [`0.6.0`]
 1. `org.apache.distributedlog:distributedlog-core-shaded`  -> [`4.17.2`]
 1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-maxcompute`  -> [`3.3.0`, `3.4.0`]
@@ -3421,81 +3507,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
 1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 1. `org.vafer:jdependency`  -> [`2.10`, `2.11`, `2.12`, `2.13`]
-
-## org.apache.commons.lang3
-
-For example, at least 69 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
-
-1. `com.aerospike:avs-client-java`  -> [`1.0.0`, `1.1.0`]
-1. `com.cefriel:mapping-template`  -> [`2.6.1`]
-1. `com.guicedee.services:commons-lang3`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
-1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.liferay.portal:com.liferay.portal.test`  -> [`26.0.0`, `27.0.0`, `27.0.1`, `28.0.0`]
-1. `com.lihaoyi:mill-dist-native-linux-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.lihaoyi:mill-dist-native-linux-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.lihaoyi:mill-dist-native-mac-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.lihaoyi:mill-dist-native-mac-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.lihaoyi:mill-dist-native-windows-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.lihaoyi:mill-dist`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
-1. `com.limemojito.oss.aws:aws-cleaner`  -> [`6.0.0`]
-1. `com.signalfx.public:signalfx-codahale`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`]
-1. `com.signalfx.public:signalfx-java`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`, `1.0.44`, `1.0.45`, `1.0.46`, `1.0.47`, `1.0.48`, `1.0.49`]
-1. `com.signalfx.public:signalfx-yammer`  -> [`1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`]
-1. `com.vmlens:trace-agent-bootstrap-jdk9`  -> [`1.2.0`, `1.2.1`, `1.2.2`, `1.2.3`, `1.2.4`, `1.2.5`]
-1. `de.fraunhofer.iosb.ilt.faaast.service:starter`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.2.0`]
-1. `de.knightsoft-net:gwt-commons-lang3`  -> [`3.17.0-1`]
-1. `dev.hcf.ball:ball-tools-javadoc-jdk8`  -> [`3.1.15.20231224`, `3.1.16.20240605`, `3.1.17.20240628`, `3.1.18.20240921`]
-1. `fr.pilato.elasticsearch.injector:injector`  -> [`8.15`, `8.16`]
-1. `io.github.multimachinebuilder:multimachinebuilder`  -> [`0.5.2`, `0.6`]
-1. `io.github.novakov-alexey:flink-clients-scastie_2.13`  -> [`1.19.1`]
-1. `io.github.novakov-alexey:flink-clients-scastie_3`  -> [`1.19.1`]
-1. `io.github.shmilyjxs:jdb-tool`  -> [`1.35`, `1.36`, `1.37`]
-1. `io.inverno.tool:inverno-grpc-protoc-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`, `1.6.0`]
-1. `io.kestra.plugin:plugin-github`  -> [`0.23.0`]
-1. `io.kestra.plugin:plugin-weaviate`  -> [`0.18.0`, `0.19.0`, `0.20.0`]
-1. `io.openlineage:openlineage-flink`  -> [`1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
-1. `io.openlineage:openlineage-spark_2.12`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
-1. `io.openlineage:openlineage-spark_2.13`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
-1. `io.openlineage:openlineage-sql-java`  -> [`1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.30.0`, `1.30.1`, `1.31.0`, `1.32.0`, `1.32.1`, `1.33.0`, `1.34.0`]
-1. `io.pushnode:apiclient`  -> [`1.0.1`, `1.0.3`]
-1. `io.quarkus:quarkus-ide-launcher`  -> [`3.7.0.CR1`, `3.7.0`, `3.7.1`, `3.7.2`, `3.7.3`, `3.8.0.CR1`, `3.8.0`, `3.8.1`, `3.9.3`, `3.10.0.CR1`, `3.10.0`, `3.10.1`, `3.11.0.CR1`, `3.12.1`, `3.12.2`, `3.12.3`, `3.13.0.CR1`, `3.14.2`, `3.15.0.CR1`, `3.15.0`, `3.16.0.CR1`, `3.16.0`, `3.16.1`, `3.16.2`, `3.16.3`, `3.17.0.CR1`, `3.17.0`, `3.17.1`, `3.17.2`, `3.17.3`, `3.17.4`, `3.17.5`, `3.22.1`, `3.22.2`, `3.22.3`, `3.23.0.CR1`]
-1. `io.reliza:versioning`  -> [`2023.07.21`, `2025.01.0`, `2025.01.1`, `2025.01.2`]
-1. `io.swagger.parser.v3:swagger-parser-cli`  -> [`2.1.20`, `2.1.21`, `2.1.22`, `2.1.23`, `2.1.24`, `2.1.25`, `2.1.26`, `2.1.27`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.28`, `4.0.29`, `4.0.30`, `4.0.31`, `4.0.36`, `4.0.40`, `4.0.43`, `4.0.44`, `4.0.45`, `4.0.46`, `4.0.48`, `4.1.0`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`, `4.1.13`, `4.1.14`, `4.1.15`, `4.1.17`, `4.1.20`, `4.2.0`, `4.2.1`, `4.2.2`, `4.2.3`, `4.2.4`, `4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`, `4.2.11`, `4.2.12`, `4.2.13`, `4.2.14`, `4.2.15`, `4.2.16`, `4.2.17`, `4.2.19`, `4.2.20`, `4.2.21`, `4.2.22`, `4.2.23`, `4.2.24`, `4.2.25`, `4.2.26`, `4.2.27`, `4.2.28`, `4.2.29`, `4.2.30`, `4.2.31`, `4.2.32`, `4.2.33`, `4.2.34`]
-1. `nl.basjes.parse.httpdlog:httpdlog-parser`  -> [`5.11.0`]
-1. `no.entur:interface-protoc-plugin`  -> [`1.17`, `1.18`]
-1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`]
-1. `org.apache.gravitino:gcp-bundle`  -> [`0.7.0-incubating`]
-1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-aliyun`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-aws`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`]
-1. `org.apache.pulsar:buildtools`  -> [`4.0.5`]
-1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
-1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
-1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
-1. `org.apache.tomee:openejb-lite`  -> [`10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`]
-1. `org.apache.zeppelin:launcher-k8s-standard`  -> [`0.12.0`]
-1. `org.apache.zeppelin:zeppelin-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
-1. `org.apache.zeppelin:zeppelin-jupyter-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
-1. `org.dominokit:domino-brix-processor`  -> [`1.0.0-RC1`]
-1. `org.dominokit:domino-jackson-processor`  -> [`1.0.3`, `1.0.4`, `1.0.5`]
-1. `org.dominokit:domino-rest-processor`  -> [`2.0.0-RC1`, `2.0.0-RC2`]
-1. `org.frankframework:frank-doc-doclet`  -> [`3.1`, `3.2`]
-1. `org.ibissource:frank-doc-doclet`  -> [`3.0`]
-1. `org.liquibase.io.ext:liquibase-io-runner`  -> [`0.1.30`]
-1. `org.openl.rules:openl2text`  -> [`5.27.5`, `5.27.6`, `5.27.7`]
-1. `org.polypheny:polypheny-jdbc-driver`  -> [`2.0`, `2.1`, `2.2`, `2.3`]
-1. `org.sonarsource.java:sonar-java-plugin`  -> [`8.6.0.37351`, `8.7.0.37452`, `8.8.0.37665`, `8.9.0.37768`, `8.10.0.38194`, `8.11.0.38440`, `8.12.0.38599`, `8.13.0.38826`, `8.14.0.39102`, `8.14.1.39293`, `8.15.0.39343`]
-1. `org.sonarsource.java:sonar-java-symbolic-execution-plugin`  -> [`8.6.0.37351`, `8.7.0.37452`, `8.8.0.37665`, `8.9.0.37768`, `8.10.0.38194`, `8.11.0.38440`, `8.12.0.38599`, `8.13.0.38826`, `8.14.0.39102`, `8.14.1.39293`]
-1. `org.sonarsource.php:sonar-php-plugin`  -> [`3.36.0.11813`, `3.37.0.12079`, `3.37.0.12086`, `3.38.0.12239`, `3.39.0.12526`, `3.40.0.12590`, `3.41.0.12692`, `3.42.0.12795`, `3.43.0.12862`, `3.44.0.12898`, `3.45.0.12991`, `3.46.0.13151`]
 
 ## org.objectweb.asm
 
@@ -5166,7 +5177,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `jakarta.servlet:jakarta.servlet-api` 🧩 -> [`6.0.0`, `6.1.0-M1`, `6.1.0-M2`, `6.1.0`]
 1. `org.apache.felix:org.apache.felix.http.servlet-api`  -> [`3.0.0`, `6.1.0`]
 1. `org.apache.myfaces.core:myfaces-bundle`  -> [`4.0.0-RC5`, `4.0.0`, `4.0.1`]
-1. `org.apache.tomcat:tomcat-servlet-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat:tomcat-servlet-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## java.measure
 
@@ -5327,7 +5338,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.talenteca:canoa-webapp-runner-main`  -> [`10.0.27`, `10.1.15`]
 1. `com.talenteca:canoa-webapp-runner`  -> [`10.0.27`, `10.1.15`]
 1. `io.github.crac.org.apache.tomcat.embed:tomcat-embed-core`  -> [`9.0.58`, `10.1.7`]
-1. `org.apache.tomcat.embed:tomcat-embed-core` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat.embed:tomcat-embed-core` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## org.beryx.awt.color
 
@@ -5723,7 +5734,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `de.mklinger.tomcat:tomcat-juli-slf4j`  -> [`9.0.38`]
 1. `io.snappydata:snappydata-jdbc_2.11`  -> [`1.3.0`, `1.3.1`]
 1. `io.snappydata:snappydata-spark-connector_2.11`  -> [`1.3.0`, `1.3.1-HF-1`]
-1. `org.apache.tomcat:tomcat-juli` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat:tomcat-juli` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 1. `org.apache.tomee:tomee-juli`  -> [`8.0.5`, `8.0.6`, `8.0.7`, `8.0.8`, `8.0.9`, `8.0.10`, `8.0.11`, `8.0.12`, `9.0.0-M8`, `9.0.0.RC1`, `9.0.0`, `9.1.0`, `9.1.1`, `9.1.2`, `10.0.0-M1`]
 
 ## org.codehaus.plexus.languages.java
@@ -6387,13 +6398,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.heroku:webapp-runner`  -> [`10.1.31.0`, `10.1.34.0`]
 1. `jakarta.annotation:jakarta.annotation-api` 🧩 -> [`2.0.0`, `2.1.0-B1`, `2.1.0`, `2.1.1`, `3.0.0-M1`, `3.0.0`]
 1. `one.gfw:jakarta.annotation-api`  -> [`2.1.1`]
-1. `org.apache.tomcat:tomcat-annotations-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat:tomcat-annotations-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## jakarta.el
 
 1. `com.heroku:webapp-runner-main`  -> [`10.1.23.0`, `10.1.34.0`]
 1. `jakarta.el:jakarta.el-api` 🧩 -> [`5.0.0-RC1`, `5.0.0`, `5.0.1`, `6.0.0-M1`, `6.0.0-M2`, `6.0.0-RC1`, `6.0.0`, `6.0.1`]
-1. `org.apache.tomcat:tomcat-el-api`  -> [`10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat:tomcat-el-api`  -> [`10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 1. `org.jboss.spec.jakarta.el:jboss-el-api_5.0_spec`  -> [`4.0.0.Alpha1`, `4.0.0.CR1`, `4.0.0.CR2`, `4.0.0.Final`, `4.0.1.Final`]
 
 ## jakarta.ws.rs
@@ -6478,7 +6489,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.heroku:webapp-runner-main`  -> [`10.1.28.0`]
 1. `io.edurt.datacap.client:datacap-client-cli`  -> [`1.4.0`, `1.5.0`]
 1. `io.edurt.datacap:datacap-client-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `1.14.0`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `2024.01.1`, `2024.02.1`, `2024.03.1`, `2024.03.2`, `2024.03.3`, `2024.03.4`, `2024.03.5`, `2024.03.6`, `2024.03.7`, `2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`, `2024.4.0`, `2024.4.1`, `2025.1.0`]
-1. `org.apache.tomcat.embed:tomcat-embed-el` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat.embed:tomcat-embed-el` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## org.apache.xmlbeans
 
@@ -7194,13 +7205,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.heroku:webapp-runner-main`  -> [`10.1.20.0`, `10.1.31.0`]
 1. `com.heroku:webapp-runner`  -> [`10.1.33.0`]
-1. `org.apache.tomcat.embed:tomcat-embed-jasper` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat.embed:tomcat-embed-jasper` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## org.apache.tomcat.jasper
 
 1. `com.heroku:webapp-runner-main`  -> [`10.1.25.0`, `10.1.36.0`]
 1. `com.heroku:webapp-runner`  -> [`10.1.23.0`, `10.1.36.0`]
-1. `org.apache.tomcat:tomcat-jasper` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`]
+1. `org.apache.tomcat:tomcat-jasper` 🧩 -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`]
 
 ## org.bouncycastle.fips.core
 
