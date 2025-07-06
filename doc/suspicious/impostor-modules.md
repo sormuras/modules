@@ -3277,7 +3277,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.jwebmp.jpms.commons:commons-lang3`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
 1. `com.jwebmp.jre11:commons-lang3`  -> [`0.63.0.12`, `0.63.0.13`, `0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
 1. `com.jwebmp:commons-lang3`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.liferay.portal:com.liferay.portal.test`  -> [`26.0.0`, `27.0.0`, `27.0.1`, `28.0.0`]
+1. `com.liferay.portal:com.liferay.portal.test`  -> [`26.0.0`, `27.0.0`, `27.0.1`, `28.0.0`, `29.0.0`]
 1. `com.lihaoyi:mill-dist-native-linux-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
 1. `com.lihaoyi:mill-dist-native-linux-amd64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
 1. `com.lihaoyi:mill-dist-native-mac-aarch64`  -> [`0.13.0-M1-17-0d25d2`, `0.13.0-M1-42-12ae00-DIRTYb430af9`, `0.13.0-M1-43-b217bc`, `0.13.0-M2`, `0.13.0-M2-19-7fbdc2`]
