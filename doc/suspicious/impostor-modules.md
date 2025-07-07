@@ -1165,7 +1165,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.27.0`, `2.28.0`]
 1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
 1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
-1. `org.apache.doris:doris-kafka-connector`  -> [`1.0.0`, `1.1.0`, `24.0.0`]
+1. `org.apache.doris:doris-kafka-connector`  -> [`1.0.0`, `1.1.0`, `24.0.0`, `25.0.0`]
 1. `org.apache.doris:spark-doris-connector-2.3_2.11`  -> [`1.1.0`]
 1. `org.apache.doris:spark-doris-connector-3.1_2.12`  -> [`1.1.0`]
 1. `org.apache.doris:spark-doris-connector-3.2_2.12`  -> [`1.1.0`]
