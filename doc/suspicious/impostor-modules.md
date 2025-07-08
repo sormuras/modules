@@ -308,7 +308,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-connector-aws-kinesis-firehose`  -> [`1.15.2`, `1.16.0`, `4.0.0-1.16`, `4.1.0-1.16`, `4.1.0-1.17`]
 1. `org.apache.flink:flink-sql-connector-dynamodb`  -> [`3.0.0-1.16`, `4.0.0-1.16`, `4.1.0-1.16`, `4.1.0-1.17`]
 1. `org.apache.flink:flink-sql-connector-hive-2.3.10_2.12`  -> [`1.20.0`, `3.0.0-1.20`]
-1. `org.apache.flink:flink-sql-connector-hive-2.3.9_2.12`  -> [`1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`]
+1. `org.apache.flink:flink-sql-connector-hive-2.3.9_2.12`  -> [`1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`]
 1. `org.apache.flink:flink-sql-connector-hive-3.1.3_2.12`  -> [`1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.20.0`, `3.0.0-1.20`]
 1. `org.apache.flink:flink-sql-connector-kinesis`  -> [`1.15.0`, `1.15.1`, `4.1.0-1.16`, `4.1.0-1.17`]
 1. `org.apache.flink:flink-sql-connector-oceanbase-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`]
@@ -4283,7 +4283,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.common
 
-For example, at least 25 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 26 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
 
 1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
@@ -4309,6 +4309,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`]
 1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`]
 1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`]
 1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
 1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
 
@@ -7260,6 +7261,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `app.peac:core`  -> [`0.0.1`]
 1. `org.controlsfx:controlsfx` 🧩 -> [`11.0.0-RC1`, `11.0.0-RC2`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.1.0`, `11.1.1`, `11.1.2`, `11.2.0`, `11.2.1`, `11.2.2`]
 1. `org.rationalityfrontline.workaround:controlsfx`  -> [`11.1.2`, `11.1.3`, `11.1.4`, `11.1.5`, `11.2.0`]
+
+## org.dnsjava
+
+1. `dnsjava:dnsjava`  -> [`3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`]
+1. `org.apache.kudu:kudu-backup-tools`  -> [`1.18.0`]
+1. `org.apache.kudu:kudu-subprocess`  -> [`1.18.0`]
 
 ## org.eclipse.parsson
 
