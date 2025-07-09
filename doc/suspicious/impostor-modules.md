@@ -2021,7 +2021,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.ctakes:ctakes-ytex`  -> [`6.0.0`]
 1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.21.0`, `1.21.1`, `1.21.2`, `1.22.0`]
 1. `org.apache.iceberg:iceberg-hive3-orc-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`]
-1. `org.apache.iotdb:library-udf`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `2.0.1-beta`, `2.0.2-1`, `2.0.3`]
+1. `org.apache.iotdb:library-udf`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `2.0.1-beta`, `2.0.2-1`, `2.0.3`, `2.0.4`]
 1. `org.apache.james:webadmin-cli`  -> [`3.7.2`, `3.7.3`, `3.7.4`]
 1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`5.0.0-rc1`, `5.0.0`, `5.1.0`]
 1. `org.apache.ratis:ratis-examples`  -> [`2.5.0`, `2.5.1`]
