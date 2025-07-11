@@ -3933,13 +3933,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:storm-redis-examples`  -> [`2.7.1`]
 1. `org.camunda.bpm.extension:camunda-platform-7-keycloak-all`  -> [`7.21.0`, `7.21.1`, `7.21.5`, `7.21.6`, `7.22.0`, `7.23.0`]
 1. `org.camunda.bpm.extension:camunda-platform-7-keycloak-run`  -> [`7.21.0`, `7.21.1`, `7.21.5`, `7.21.6`, `7.22.0`, `7.23.0`]
-1. `org.drools:drools-drlonyaml-cli`  -> [`10.0.0`]
+1. `org.drools:drools-drlonyaml-cli`  -> [`10.0.0`, `10.1.0`]
 1. `org.duracloud.mill:audit-task-generator`  -> [`5.1.1`]
 1. `org.duracloud.mill:taskreadertool`  -> [`5.1.1`]
 1. `org.grails:grails7-wrapper`  -> [`6.0.1`]
 1. `org.graylog.shaded:opensearch2-rest-client-sniffer`  -> [`2.14.0-1`, `2.15.0-1`, `2.19.0-1`]
 1. `org.htmlunit:htmlunit3-android`  -> [`4.3.0`]
-1. `org.kie:kie-dmn-ruleset2dmn-cli`  -> [`10.0.0`]
+1. `org.kie:kie-dmn-ruleset2dmn-cli`  -> [`10.0.0`, `10.1.0`]
 1. `org.liquibase:liquibase-commercial`  -> [`4.27.0`, `4.28.0`, `4.29.0`, `4.29.1`, `4.29.2`, `4.30.0`, `4.31.0`, `4.31.1`, `4.32.0`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.26`]
 1. `org.netbeans.external:org-apache-commons-codec`  -> [`RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`]
@@ -6768,7 +6768,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.victools:jsonschema-generator` 🧩 -> [`4.29.0`, `4.30.0`, `4.31.0`, `4.31.1`, `4.32.0`, `4.33.0`, `4.33.1`, `4.34.0`, `4.35.0`, `4.36.0`, `4.37.0`, `4.38.0`]
 1. `io.kestra:kestra`  -> [`0.9.0`, `0.9.1`, `0.9.2`, `0.9.4`, `0.9.5`, `0.10.0`, `0.10.1`]
-1. `org.drools:drools-drlonyaml-schemagen`  -> [`8.39.0.Final`, `8.40.0.Final`, `8.41.0.Final`, `8.42.0.Final`, `9.42.0.Alpha`, `9.43.0.Alpha`, `9.44.0.Final`, `10.0.0`]
+1. `org.drools:drools-drlonyaml-schemagen`  -> [`8.39.0.Final`, `8.40.0.Final`, `8.41.0.Final`, `8.42.0.Final`, `9.42.0.Alpha`, `9.43.0.Alpha`, `9.44.0.Final`, `10.0.0`, `10.1.0`]
 
 ## com.google.guice.extensions.persist
 
