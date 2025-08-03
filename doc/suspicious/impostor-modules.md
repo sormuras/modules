@@ -4563,7 +4563,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.0`  -> [`3.1.0`]
 1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.1`  -> [`3.1.0`]
 1. `com.ericsson.bss.cassandra.ecaudit:eclog_c5.0`  -> [`3.1.0`, `3.1.1`]
-1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`]
+1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`]
 1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.15.1`, `1.16.0`, `1.16.1`, `1.17.0`, `1.18.0`, `1.19.0`]
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.15.1`]
 1. `name.dmaus.schxslt:cli`  -> [`1.10`]
