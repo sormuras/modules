@@ -285,7 +285,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`]
 1. `org.apache.calcite.avatica:avatica`  -> [`1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`]
 1. `org.apache.cassandra:analytics-sidecar-vertx-client-all`  -> [`0.1.0`]
-1. `org.apache.cassandra:sidecar-vertx-client-all`  -> [`0.1.0-jdk8`]
+1. `org.apache.cassandra:sidecar-vertx-client-all`  -> [`0.1.0-jdk8`, `0.2.0-jdk8`]
 1. `org.apache.distributedlog:distributedlog-core-shaded`  -> [`4.15.0`, `4.15.1`, `4.15.2`, `4.15.3`, `4.15.4`, `4.16.0`, `4.16.1`, `4.16.2`, `4.16.3`, `4.16.4`, `4.16.5`, `4.17.0`, `4.17.1`]
 1. `org.apache.doris:flink-doris-connector-1.14_2.11`  -> [`1.1.0`, `1.1.1`]
 1. `org.apache.doris:flink-doris-connector-1.14_2.12`  -> [`1.1.0`, `1.1.1`]
