@@ -402,7 +402,7 @@ org.apache.maven.resolver:maven-resolver-transport-jdk-8:2.0.10 -> org.apache.ma
 org.apache.pekko:pekko-projection-durable-state_2.12:1.1.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_2.13:1.1.0 -> pekko.projection.durable-state
 org.apache.pekko:pekko-projection-durable-state_3:1.1.0 -> pekko.projection.durable-state
-org.apache.sshd:sshd-spring-sftp:2.16.0 -> org.apache.sshd.spring-sftp
+org.apache.sshd:sshd-spring-sftp:3.0.0-M1 -> org.apache.sshd.spring-sftp
 org.apache.tomee.bom:tomee-microprofile:10.1.1 -> org.apache.tomee.bom.tomee-microprofile
 org.apache.tomee.bom:tomee-microprofile-api:10.1.1 -> org.apache.tomee.bom.tomee-microprofile-api
 org.apache.tomee.bom:tomee-plume:10.1.1 -> org.apache.tomee.bom.tomee-plume
