@@ -4,11 +4,11 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x482
+1. `com.fasterxml.jackson.core` x485
 1. `com.google.gson` x403
 1. `com.fasterxml.jackson.databind` x397
-1. `kotlin.stdlib.jdk8` x250
-1. `org.apache.logging.log4j` x245
+1. `kotlin.stdlib.jdk8` x251
+1. `org.apache.logging.log4j` x246
 1. `org.slf4j` x244
 1. `kotlin.stdlib` x158
 1. `com.fasterxml.jackson.datatype.jsr310` x117
@@ -27,13 +27,13 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm` x64
 1. `com.google.errorprone.annotations` x60
 1. `org.apache.commons.compress` x59
-1. `com.zaxxer.hikari` x56
+1. `com.zaxxer.hikari` x58
 1. `org.jetbrains.annotations` x56
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
 
-For example, at least 482 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 485 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -416,30 +416,33 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`2.8.1`, `2.9.0`, `2.9.1`, `2.9.2`, `2.10.0`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`]
 1. `org.apache.seatunnel:connector-amazondynamodb`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
 1. `org.apache.seatunnel:connector-amazonsqs`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-cassandra`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-cassandra`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-base`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-databend`  -> [`2.3.12`]
 1. `org.apache.seatunnel:connector-doris`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
-1. `org.apache.seatunnel:connector-file-cos`  -> [`2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-ftp`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-hadoop`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-jindo-oss`  -> [`2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-local`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-obs`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-file-cos`  -> [`2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-ftp`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-hadoop`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-jindo-oss`  -> [`2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-local`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-obs`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:connector-file-oss-jindo`  -> [`2.3.0`, `2.3.1`, `2.3.2`]
-1. `org.apache.seatunnel:connector-file-oss`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-s3`  -> [`2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-file-sftp`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-google-sheets`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-hive`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-iceberg`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`]
+1. `org.apache.seatunnel:connector-file-oss`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-s3`  -> [`2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-file-sftp`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-google-sheets`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-hive`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-iceberg`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.12`]
 1. `org.apache.seatunnel:connector-paimon`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-s3-redshift`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-flink-13-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-flink-15-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-flink-starter-common`  -> [`2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-spark-2-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-spark-3-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-spark-starter-common`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:seatunnel-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-s3-redshift`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-flink-13-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-flink-15-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-flink-starter-common`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-spark-2-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-spark-3-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-spark-starter-common`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.0`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.0`]
 1. `org.apache.storm:storm-redis-examples`  -> [`2.6.0`]
@@ -839,8 +842,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.ratis:ratis-examples`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.2.0`]
 1. `org.apache.ratis:ratis-thirdparty-misc`  -> [`1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`]
 1. `org.apache.rocketmq:rocketmq-client-java`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`]
-1. `org.apache.seatunnel:connector-graphql`  -> [`2.3.11`]
-1. `org.apache.seatunnel:connector-qdrant`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-graphql`  -> [`2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-qdrant`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.shenyu:shenyu-admin-listener-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-registry-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-spring-boot-starter-sync-data-apollo`  -> [`2.6.1`]
@@ -1232,12 +1235,12 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:pulsar-client-2x-shaded`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
 1. `org.apache.pulsar:pulsar-client-all`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
 1. `org.apache.pulsar:pulsar-client`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
-1. `org.apache.seatunnel:connector-datahub`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-hudi`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-datahub`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-hudi`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:connector-iceberg`  -> [`2.3.4`, `2.3.11`]
-1. `org.apache.seatunnel:connector-kafka`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-pulsar`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-typesense`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-kafka`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-pulsar`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-typesense`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:datasource-hive`  -> [`1.0.2`]
 1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.4.0`]
 1. `org.apache.sedona:sedona-snowflake`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`]
@@ -1333,7 +1336,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## kotlin.stdlib.jdk8
 
-For example, at least 250 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 251 artifacts on Maven Central claim to be the module `kotlin.stdlib.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires kotlin.stdlib.jdk8;`.
 
 1. `ai.tecton:java-client`  -> [`0.2.0`]
@@ -1546,8 +1549,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-connector-hudi`  -> [`1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.apache.paimon:paimon-obs-impl`  -> [`1.2.0`]
 1. `org.apache.paimon:paimon-obs`  -> [`1.2.0`]
-1. `org.apache.seatunnel:connector-milvus`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-slack`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-influxdb`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-milvus`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-slack`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.biokotlin:biokotlin`  -> [`0.05`]
 1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.95`, `0.1.97`, `0.1.98`, `0.1.99`, `0.1.100`, `0.1.101`, `0.1.102`, `0.1.103`, `0.1.104`, `0.1.105`, `0.1.106`, `0.1.108`, `0.1.109`, `0.1.110`, `0.1.111`, `0.1.112`, `0.1.113`, `0.1.114`, `0.1.115`, `0.1.116`, `0.1.117`, `0.1.118`, `0.1.119`, `0.1.120`, `0.1.121`, `0.1.122`, `0.1.123`, `0.1.124`, `0.1.125`, `0.1.126`, `0.1.127`, `0.1.128`, `0.1.129`, `0.1.130`, `0.1.131`, `0.1.132`, `0.1.133`, `0.1.134`, `0.1.135`, `0.1.136`, `0.1.138`, `0.1.139`]
 1. `org.elasticflow:elasticflow`  -> [`6.0.5`]
@@ -1589,7 +1593,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.logging.log4j
 
-For example, at least 245 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 246 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -1783,6 +1787,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:seatunnel-flink-e2e`  -> [`2.1.1`]
 1. `org.apache.seatunnel:seatunnel-flink-examples`  -> [`2.1.1`]
 1. `org.apache.seatunnel:seatunnel-starter`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`]
+1. `org.apache.seatunnel:seatunnel-transforms-v2-udf`  -> [`2.3.12`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.poi`  -> [`5.2.2_1`, `5.2.2_2`, `5.2.2_3`]
 1. `org.apache.skywalking:apm-webapp`  -> [`9.3.0`]
 1. `org.apache.storm:blobstore-migrator`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`, `2.4.0`, `2.5.0`]
@@ -2220,7 +2225,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.onedaybeard.sift:cli`  -> [`0.1.0`, `0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.7.0`, `0.8.0`, `0.9.0`, `0.10.0`, `0.11.0`, `0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`]
 1. `no.entur:schema2proto-lib`  -> [`1.1`, `1.2`, `1.3`, `1.4`, `1.5`, `1.6`, `1.7`, `1.8`, `1.9`, `1.10`, `1.13`, `1.14`, `1.15`, `1.16`, `1.17`, `1.18`, `1.19`, `1.20`, `1.21`, `1.22`, `1.23`, `1.24`, `1.25`, `1.26`, `1.27`, `1.28`, `1.29`, `1.30`, `1.31`, `1.32`, `1.33`, `1.34`, `1.35`, `1.36`, `1.37`, `1.39`, `1.40`, `1.41`, `1.42`, `1.45`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.52`, `1.53`, `1.54`, `1.55`, `1.56`, `1.57`, `1.58`, `1.59`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`]
 1. `org.apache.paimon:paimon-core`  -> [`1.1.0`, `1.1.1`]
-1. `org.apache.seatunnel:connector-google-firestore`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-google-firestore`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:connector-influxdb`  -> [`2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
 1. `org.apache.seatunnel:seatunnel-connector-flink-influxdb`  -> [`2.1.0`, `2.1.1`, `2.1.2`, `2.1.3`, `2.2.0-beta`, `2.3.0-beta`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.azure-core-http-okhttp`  -> [`1.7.10_1`, `1.8.0_1`, `1.9.0_1`, `1.11.4_1`]
@@ -2563,7 +2568,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-dist`  -> [`0.10.0-incubating`, `0.11.0-incubating`]
 1. `org.apache.pulsar:pulsar-client-2x-shaded`  -> [`2.6.2`]
 1. `org.apache.pulsar:pulsar-client`  -> [`2.6.2`]
-1. `org.apache.seatunnel:connector-web3j`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-web3j`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.2`]
 1. `org.bouncycastle:bcprov-debug-jdk15on`  -> [`1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`]
 1. `org.bouncycastle:bcprov-debug-jdk18on`  -> [`1.71`, `1.72`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.78.1`, `1.79`]
@@ -3719,7 +3724,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.zaxxer.hikari
 
-For example, at least 56 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 58 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.zaxxer.hikari;`.
 
 1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`, `3.3.7`, `3.3.8`, `3.3.9`, `3.4.0`, `3.4.2`, `3.4.3`, `3.4.5`, `3.4.6`, `3.4.7`, `3.4.8`, `3.4.9`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`]
@@ -3756,11 +3761,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-connector-kudu`  -> [`2.2.0`]
 1. `org.apache.inlong:sort-connector-mysql-cdc-v1.15`  -> [`1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.apache.seatunnel:connector-cdc-mongodb`  -> [`2.3.3`, `2.3.4`, `2.3.5`]
-1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`]
-1. `org.apache.seatunnel:connector-cdc-oracle`  -> [`2.3.4`, `2.3.5`]
-1. `org.apache.seatunnel:connector-cdc-postgres`  -> [`2.3.4`, `2.3.5`]
-1. `org.apache.seatunnel:connector-cdc-sqlserver`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`]
-1. `org.apache.seatunnel:connector-jdbc`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-cdc-mysql`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-opengauss`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-oracle`  -> [`2.3.4`, `2.3.5`, `2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-postgres`  -> [`2.3.4`, `2.3.5`, `2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-sqlserver`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.12`]
+1. `org.apache.seatunnel:connector-cdc-tidb`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-jdbc`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.0`, `2.6.1`]
 1. `org.appops:appops-br-maven-plugin`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`]
 1. `org.appops:appops-br-service-base`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`, `1.0-RC-2`, `1.0-RC-5`]
@@ -4225,7 +4232,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.datasketches.memory
 
-For example, at least 28 artifacts on Maven Central claim to be the module `org.apache.datasketches.memory`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 29 artifacts on Maven Central claim to be the module `org.apache.datasketches.memory`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.datasketches.memory;`.
 
 1. `com.alibaba.fluss:fluss-lake-paimon`  -> [`0.7.0`]
@@ -4256,6 +4263,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.paimon:paimon-spark-common_2.12`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
 1. `org.apache.paimon:paimon-spark-common`  -> [`0.9.0`]
 1. `org.apache.paimon:paimon-spark3-common`  -> [`1.0.0`, `1.0.1`, `1.1.0`, `1.1.1`]
+1. `org.apache.seatunnel:connector-paimon`  -> [`2.3.12`]
 
 ## com.google.common
 
@@ -4319,7 +4327,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.taobao.arthas:native-agent`  -> [`4.0.3`, `4.0.4`, `4.0.5`]
 1. `com.yikuni.mc:remiriya-raffle`  -> [`1.0.0`, `1.1.2`]
 1. `io.github.linyimin0812:spring-profiler-extension`  -> [`2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `3.0.0`, `3.0.1`, `3.1.0`]
-1. `org.apache.seatunnel:connector-aerospike`  -> [`2.3.11`]
+1. `org.apache.seatunnel:connector-aerospike`  -> [`2.3.11`, `2.3.12`]
 1. `org.smartboot.mqtt:smart-mqtt-data-persistence`  -> [`0.31`, `0.32`, `0.33`, `0.34`, `0.36`, `0.37`]
 
 ## org.apache.commons.pool2
@@ -4882,6 +4890,24 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `za.co.absa:atum-examples-s3-sdk-extension_2.12`  -> [`3.6.0`, `3.7.0`]
 1. `za.co.absa:atum-examples_2.12`  -> [`3.6.0`, `3.7.0`]
 
+## com.fasterxml.jackson.dataformat.javaprop
+
+For example, at least 12 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.javaprop`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.dataformat.javaprop;`.
+
+1. `com.devappliance.ninjadoc:ninjadoc-openapi`  -> [`0.0.1`]
+1. `com.fasterxml.jackson.dataformat:jackson-dataformat-properties` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `2.19.0-rc2`, `2.19.0`]
+1. `io.github.priyanhsu10:minicore-parent`  -> [`1.0.2`]
+1. `org.apache.seatunnel:connector-kudu`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-maxcompute`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:connector-sensorsdata`  -> [`2.3.12`]
+1. `org.apache.seatunnel:connector-starrocks`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:seatunnel-datasource-client`  -> [`1.0.2`]
+1. `org.apache.seatunnel:seatunnel-flink-13-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:seatunnel-flink-15-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:seatunnel-flink-starter-common`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+1. `org.apache.seatunnel:seatunnel-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
+
 ## com.fasterxml.jackson.datatype.joda
 
 For example, at least 12 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.joda`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4987,23 +5013,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-extensions-sql-jdbc`  -> [`2.36.0`, `2.37.0`, `2.38.0`]
 1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`, `2.45.0`, `2.46.0`, `2.47.0`, `2.48.0`, `2.49.0`, `2.50.0`, `2.51.0`, `2.52.0`, `2.55.0`, `2.55.1`, `2.56.0`]
 1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`, `2.45.0`, `2.46.0`, `2.47.0`, `2.48.0`, `2.49.0`, `2.50.0`, `2.51.0`, `2.52.0`, `2.55.0`, `2.55.1`]
-
-## com.fasterxml.jackson.dataformat.javaprop
-
-For example, at least 11 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.javaprop`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.dataformat.javaprop;`.
-
-1. `com.devappliance.ninjadoc:ninjadoc-openapi`  -> [`0.0.1`]
-1. `com.fasterxml.jackson.dataformat:jackson-dataformat-properties` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `2.19.0-rc2`, `2.19.0`]
-1. `io.github.priyanhsu10:minicore-parent`  -> [`1.0.2`]
-1. `org.apache.seatunnel:connector-kudu`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-maxcompute`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
-1. `org.apache.seatunnel:connector-starrocks`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
-1. `org.apache.seatunnel:seatunnel-datasource-client`  -> [`1.0.2`]
-1. `org.apache.seatunnel:seatunnel-flink-13-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
-1. `org.apache.seatunnel:seatunnel-flink-15-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
-1. `org.apache.seatunnel:seatunnel-flink-starter-common`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
-1. `org.apache.seatunnel:seatunnel-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`]
 
 ## kotlinx.serialization.core
 
@@ -5536,7 +5545,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.rvesse:airline-examples`  -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.9.0`]
 1. `com.github.rvesse:airline` 🧩 -> [`2.7.0`, `2.7.1`, `2.7.2`, `2.8.0`, `2.8.1`, `2.8.2`, `2.8.3`, `2.8.4`, `2.8.5`, `2.9.0`, `3.0.0`]
 1. `io.stargate.starter:stargate-starter`  -> [`0.0.7`, `0.0.8`, `0.0.9`, `0.0.10`, `0.0.11`, `0.0.13`, `0.0.14`, `0.0.15`, `0.0.16`, `0.0.17`, `0.0.18`, `0.0.19`, `0.0.20`, `0.0.21`, `0.0.22`, `0.0.23`, `0.0.24`, `0.0.25`, `0.0.26`, `0.0.27`, `0.0.28`, `0.0.29`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`, `1.0.4`, `1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`, `1.0.11`, `1.0.12`, `1.0.13`, `1.0.14`, `1.0.15`, `1.0.16`, `1.0.17`, `1.0.18`, `1.0.19`, `1.0.21`, `1.0.22`, `1.0.23`, `1.0.24`, `1.0.25`, `1.0.26`, `1.0.27`, `1.0.28`, `1.0.29`, `1.0.30`, `1.0.31`, `1.0.32`, `1.0.33`, `1.0.34`, `1.0.35`, `1.0.36`, `1.0.37`, `1.0.38`, `1.0.39`, `1.0.40`, `1.0.41`, `1.0.42`, `1.0.43`, `1.0.44`, `1.0.45`, `1.0.46`, `1.0.47`, `1.0.48`, `2.0.0-ALPHA-1`, `2.0.0-ALPHA-2`, `2.0.0-ALPHA-3`, `2.0.0-ALPHA-4`, `2.0.0-ALPHA-5`, `2.0.0-ALPHA-6`, `2.0.0-ALPHA-7`, `2.0.0-ALPHA-8`, `2.0.0-ALPHA-9`, `2.0.0-ALPHA-10`, `2.0.0-ALPHA-11`, `2.0.0-ALPHA-12`, `2.0.0-ALPHA-13`, `2.0.0-ALPHA-14`, `2.0.0-ALPHA-15`, `2.0.0-ALPHA-16`, `2.0.0-ALPHA-17`, `2.0.0-BETA-1`, `2.0.0-BETA-2`, `2.0.0-BETA-3`, `2.0.0-BETA-4`, `2.0.0-BETA-5`, `2.0.0-RC-1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.6`, `2.0.7`, `2.0.8`, `2.0.9`, `2.0.10`, `2.0.11`, `2.0.12`, `2.0.13`, `2.0.14`, `2.0.15`, `2.0.16`, `2.1.0-ALPHA-1`, `2.1.0-ALPHA-2`, `2.1.0-ALPHA-3`, `2.1.0-ALPHA-4`, `2.1.0-ALPHA-5`, `2.1.0-ALPHA-6`, `2.1.0-ALPHA-7`, `2.1.0-ALPHA-8`, `2.1.0-ALPHA-9`, `2.1.0-ALPHA-10`, `2.1.0-ALPHA-11`, `2.1.0-BETA-1`, `2.1.0-BETA-2`, `2.1.0-BETA-3`, `2.1.0-BETA-4`, `2.1.0-BETA-5`, `2.1.0-BETA-6`, `2.1.0-BETA-7`, `2.1.0-BETA-8`, `2.1.0-BETA-9`, `2.1.0-BETA-10`, `2.1.0-BETA-11`, `2.1.0-BETA-12`, `2.1.0-BETA-13`, `2.1.0-BETA-14`, `2.1.0-BETA-15`, `2.1.0-BETA-16`, `2.1.0-BETA-17`, `2.1.0-BETA-18`]
-1. `org.apache.seatunnel:connector-druid`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-druid`  -> [`2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.reploop:json2-standalone`  -> [`0.20`]
 1. `org.reploop:json2bean-standalone`  -> [`0.19`]
 
@@ -6735,7 +6744,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.clickhouse:clickhouse-http-client` 🧩 -> [`0.3.2-test1`, `0.3.2-test2`, `0.3.2-test3`, `0.4.0`, `0.4.1`, `0.4.2`, `0.4.3`, `0.4.4`, `0.4.5`, `0.4.6`, `0.5.0`, `0.6.0`, `0.6.0-patch1`, `0.6.0-patch2`, `0.6.0-patch3`, `0.6.0-patch4`, `0.6.0-patch5`, `0.6.1`, `0.6.2`, `0.6.3`, `0.6.4`, `0.6.5`, `0.7.0`, `0.7.1`, `0.7.1-patch1`, `0.7.2`, `0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.8.4`, `0.8.5`, `0.8.6`, `0.9.0`]
 1. `io.kestra.plugin:plugin-jdbc-clickhouse`  -> [`0.20.0`, `0.20.1`, `0.20.2`, `0.21.0`, `0.21.1`, `0.21.2`, `0.21.3`, `0.21.4`, `0.21.5`, `0.21.6`, `0.22.0`, `0.22.1`, `0.22.2`, `0.22.3`, `0.23.0`]
-1. `org.apache.seatunnel:connector-clickhouse`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`]
+1. `org.apache.seatunnel:connector-clickhouse`  -> [`2.2.0-beta`, `2.3.0-beta`, `2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 
 ## com.fasterxml.jackson.dataformat.toml
 
