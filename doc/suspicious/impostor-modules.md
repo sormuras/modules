@@ -11,7 +11,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x246
 1. `org.slf4j` x244
 1. `kotlin.stdlib` x158
-1. `com.fasterxml.jackson.datatype.jsr310` x117
+1. `com.fasterxml.jackson.datatype.jsr310` x118
 1. `net.bytebuddy` x112
 1. `org.bouncycastle.provider` x110
 1. `io.github.classgraph` x104
@@ -847,7 +847,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.shenyu:shenyu-admin-listener-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-registry-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-spring-boot-starter-sync-data-apollo`  -> [`2.6.1`]
-1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`]
+1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`]
 1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`]
 1. `org.apache.storm:storm-hdfs-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.1`]
@@ -2259,7 +2259,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.datatype.jsr310
 
-For example, at least 117 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 118 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
 
 1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`, `1.0.0-beta.4`, `2.0.0`]
@@ -2344,14 +2344,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-connector-mongodb-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`]
 1. `org.apache.gravitino:client-java-runtime`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`]
 1. `org.apache.gravitino:filesystem-hadoop3-runtime`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`]
-1. `org.apache.gravitino:gravitino-client-java-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-filesystem-hadoop3-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-flink-connector-runtime-1.18_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
+1. `org.apache.gravitino:gravitino-client-java-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-filesystem-hadoop3-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-flink-connector-runtime-1.18_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.13`  -> [`1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.hudi:hudi-examples-k8s`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
 1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
@@ -3333,14 +3334,14 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`, `3.18.0`]
 1. `org.apache.druid.extensions:druid-protobuf-extensions`  -> [`34.0.0`]
 1. `org.apache.gravitino:gcp-bundle`  -> [`0.7.0-incubating`]
-1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-aliyun`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-aws`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
-1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
+1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-aliyun`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-aws`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.pulsar:buildtools`  -> [`4.0.5`, `4.0.6`, `4.1.0`]
 1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
@@ -4592,7 +4593,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `name.dmaus.schxslt:cli`  -> [`1.10`]
 1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
 1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
-1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`]
+1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
 1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
@@ -4674,7 +4675,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.github.cafapi:caf-utils`  -> [`2.0.0-425`, `2.0.1-450`]
 1. `com.hortonworks.registries:schema-registry-core`  -> [`0.8.1`]
 1. `com.liferay:org.glassfish.jaxb.runtime`  -> [`2.3.1.LIFERAY-PATCHED-2`]
-1. `com.sun.xml.bind:jaxb-impl` 🧩 -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`]
+1. `com.sun.xml.bind:jaxb-impl` 🧩 -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`]
 1. `eu.fbk.dh:KD-Runner`  -> [`0.1`]
 1. `io.github.azagniotov:stubby4j`  -> [`7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`, `7.2.0`, `7.3.0`, `7.3.1`, `7.3.2`, `7.3.3`, `7.4.0`, `7.5.0`, `7.5.1`, `7.5.2`]
 1. `io.pravega:pravega-test-system`  -> [`0.8.0`, `0.8.1`]
@@ -6386,7 +6387,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.shynixn:discordwebhook-ktl`  -> [`1.0`]
 1. `com.sun.xml.bind:jaxb-osgi`  -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`]
-1. `com.sun.xml.bind:jaxb-xjc`  -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`]
+1. `com.sun.xml.bind:jaxb-xjc`  -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`, `2.3.3-b01`, `2.3.3-b02`, `3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`]
 1. `org.glassfish.jaxb:jaxb-xjc`  -> [`2.4.0-b180725.0644`, `2.4.0-b180830.0438`, `2.4.0-b180830.0438`, `2.3.2`, `2.4.0-b180830.0438`]
 
 ## com.truthbean.logger.log4j2
@@ -7318,7 +7319,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.glassfish.jaxb.runtime
 
-1. `org.glassfish.jaxb:jaxb-runtime` 🧩 -> [`3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`]
+1. `org.glassfish.jaxb:jaxb-runtime` 🧩 -> [`3.0.0-M1`, `3.0.0-M2`, `3.0.0-M3`, `3.0.0-M4`, `3.0.0-M5`, `3.0.0`, `3.0.1`, `3.0.2-b01`, `3.0.2`, `4.0.0-M4`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`]
 1. `org.jboss.windup.web:windup-keycloak-tool`  -> [`5.5.0.Final`, `5.6.0.Final`, `5.7.0.Final`, `5.8.0.Final`, `5.9.0.Final`, `5.11.0.Final`]
 1. `org.mustangproject:Mustang-CLI`  -> [`2.1.0`, `2.1.1`, `2.2.0`, `2.2.1`, `2.3.0`, `2.3.1`]
 
