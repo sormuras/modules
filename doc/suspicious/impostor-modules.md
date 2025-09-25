@@ -3331,7 +3331,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.celeborn:celeborn-client-flink-1.20-shaded_2.12`  -> [`0.6.0`, `0.6.1`]
 1. `org.apache.celeborn:celeborn-client-flink-2.0-shaded_2.12`  -> [`0.6.0`, `0.6.1`]
 1. `org.apache.celeborn:celeborn-client-mr-shaded_2.12`  -> [`0.6.0`, `0.6.1`]
-1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`, `3.18.0`]
+1. `org.apache.commons:commons-lang3` 🧩 -> [`3.14.0`, `3.15.0`, `3.16.0`, `3.17.0`, `3.18.0`, `3.19.0`]
 1. `org.apache.druid.extensions:druid-protobuf-extensions`  -> [`34.0.0`]
 1. `org.apache.gravitino:gcp-bundle`  -> [`0.7.0-incubating`]
 1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
