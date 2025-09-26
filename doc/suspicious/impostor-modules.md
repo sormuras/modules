@@ -11,7 +11,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x246
 1. `org.slf4j` x244
 1. `kotlin.stdlib` x158
-1. `com.fasterxml.jackson.datatype.jsr310` x118
+1. `com.fasterxml.jackson.datatype.jsr310` x119
 1. `net.bytebuddy` x112
 1. `org.bouncycastle.provider` x110
 1. `io.github.classgraph` x104
@@ -852,8 +852,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:storm-hdfs-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.1`]
 1. `org.apache.storm:storm-perf`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
-1. `org.apache.uniffle:rss-client-spark2-shaded`  -> [`0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`]
-1. `org.apache.uniffle:rss-client-spark3-shaded`  -> [`0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`]
+1. `org.apache.uniffle:rss-client-spark2-shaded`  -> [`0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`]
+1. `org.apache.uniffle:rss-client-spark3-shaded`  -> [`0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`]
 1. `org.bdware.sc:cp`  -> [`1.7.1`, `1.8.0`, `1.8.1`, `1.8.2`, `1.8.3`, `1.8.4`, `1.8.5`, `1.8.6`, `1.8.7`, `1.8.8`, `1.8.9`, `1.8.91`, `1.9.0`, `1.9.1`, `1.9.2`, `1.9.3`, `1.9.4`, `1.9.5`, `1.9.6`, `1.9.7`, `1.9.9`, `1.9.91`, `1.9.95`, `1.9.96`, `1.10.1`]
 1. `org.biojava:biojava-protein-comparison-tool`  -> [`6.1.0`, `7.0.0`, `7.0.1`, `7.0.2`, `7.1.0`, `7.1.1`, `7.1.2`, `7.1.3`, `7.1.4`, `7.2.0`, `7.2.1`, `7.2.2`]
 1. `org.camunda.bpm.extension:camunda-platform-7-keycloak-all`  -> [`7.19.0`, `7.20.0`, `7.20.1`]
@@ -2259,7 +2259,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.datatype.jsr310
 
-For example, at least 118 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 119 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
 
 1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`, `1.0.0-beta.4`, `2.0.0`]
@@ -2373,6 +2373,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`]
 1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`]
 1. `org.apache.inlong:sort-connector-mongodb-cdc`  -> [`1.2.0-incubating`, `1.3.0`, `1.4.0`]
+1. `org.apache.knox:gateway-shell-release`  -> [`2.1.0`]
 1. `org.apache.seatunnel:connector-elasticsearch`  -> [`2.2.0-beta`, `2.3.0-beta`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.23`, `4.4.0.24`]
 1. `org.open-metadata:openmetadata-spark-agent`  -> [`1.0-beta`]
@@ -4159,7 +4160,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.sedona:sedona-spark-shaded-4.0_2.13`  -> [`1.8.0`]
 1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`, `2.8.2`]
 1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`]
 1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
 1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
