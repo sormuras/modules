@@ -373,7 +373,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`]
 1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.3.0`, `4.3.1`, `4.3.2`, `4.4.0`]
-1. `org.apache.kylin:kylin-jdbc`  -> [`5.0.0-alpha`, `5.0.0-beta`, `5.0.0`, `5.0.2`]
+1. `org.apache.kylin:kylin-jdbc`  -> [`5.0.0-alpha`, `5.0.0-beta`, `5.0.0`, `5.0.2`, `5.0.3`]
 1. `org.apache.kyuubi:kyuubi-hive-jdbc-shaded`  -> [`1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.8.0`, `1.8.1`, `1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`, `1.10.1`, `1.10.2`]
 1. `org.apache.paimon:paimon-api`  -> [`1.2.0`]
 1. `org.apache.paimon:paimon-bundle`  -> [`0.4.0-incubating`, `0.5.0-incubating`, `0.6.0-incubating`, `0.7.0-incubating`, `0.8.0`, `0.8.1`, `0.8.2`, `1.2.0`]
