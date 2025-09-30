@@ -849,7 +849,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.shenyu:shenyu-registry-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-spring-boot-starter-sync-data-apollo`  -> [`2.6.1`]
 1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`]
-1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`]
+1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`, `4.1.0-preview2`]
 1. `org.apache.storm:storm-hdfs-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
 1. `org.apache.storm:storm-hive-examples`  -> [`2.6.1`]
 1. `org.apache.storm:storm-perf`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
@@ -1170,8 +1170,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-harness`  -> [`2.20.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`]
 1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.27.0`, `2.28.0`]
-1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
-1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`]
+1. `org.apache.calcite.avatica:avatica-standalone-server`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`, `1.27.0`]
+1. `org.apache.calcite.avatica:avatica`  -> [`1.16.0`, `1.17.0`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`, `1.22.0`, `1.27.0`]
 1. `org.apache.doris:doris-kafka-connector`  -> [`1.0.0`, `1.1.0`, `24.0.0`, `25.0.0`]
 1. `org.apache.doris:spark-doris-connector-2.3_2.11`  -> [`1.1.0`]
 1. `org.apache.doris:spark-doris-connector-3.1_2.12`  -> [`1.1.0`]
@@ -1245,7 +1245,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:datasource-hive`  -> [`1.0.2`]
 1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.4.0`]
 1. `org.apache.sedona:sedona-snowflake`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`]
-1. `org.apache.spark:spark-streaming-kafka-0-10-assembly_2.13`  -> [`4.1.0-preview1`]
+1. `org.apache.spark:spark-streaming-kafka-0-10-assembly_2.13`  -> [`4.1.0-preview1`, `4.1.0-preview2`]
 1. `org.apache.storm:storm-kafka-client-examples`  -> [`2.6.0`, `2.6.1`, `2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:storm-kafka-migration`  -> [`2.6.0`, `2.6.1`, `2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.streampark:streampark-common_2.11`  -> [`2.0.0`]
@@ -3651,7 +3651,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.ozone:ozone-filesystem-shaded`  -> [`2.0.0`]
 1. `org.apache.seatunnel:datasource-elasticsearch`  -> [`1.0.2`]
 1. `org.apache.seatunnel:datasource-jdbc-db2`  -> [`1.0.2`]
-1. `org.apache.spark:spark-connect_2.13`  -> [`4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`]
+1. `org.apache.spark:spark-connect_2.13`  -> [`4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`, `4.1.0-preview2`]
 1. `org.checkerframework:checker`  -> [`3.43.0`, `3.44.0`, `3.45.0`, `3.46.0`, `3.47.0`, `3.48.0`, `3.48.1`, `3.48.2`, `3.48.3`, `3.48.4`, `3.49.0`, `3.49.1`, `3.49.2`, `3.49.3`, `3.49.4`, `3.49.5`]
 1. `org.checkerframework:dataflow-errorprone`  -> [`3.48.0`, `3.48.1`, `3.48.2`, `3.48.3`, `3.48.4`, `3.49.0`, `3.49.1`, `3.49.2`, `3.49.3`, `3.49.4`, `3.49.5`]
 1. `org.checkerframework:dataflow-nullaway`  -> [`3.48.0`, `3.48.1`, `3.48.2`, `3.48.3`, `3.48.4`, `3.49.0`, `3.49.1`, `3.49.2`, `3.49.3`, `3.49.4`, `3.49.5`]
@@ -4127,7 +4127,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.common
 
-For example, at least 37 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 38 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
 
 1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
@@ -4138,6 +4138,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.quarkus:quarkus-grpc-cli`  -> [`3.21.1`, `3.21.2`]
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`, `1.2025.4`]
+1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.27.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`, `4.1.12`]
 1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`, `1.9.2`]

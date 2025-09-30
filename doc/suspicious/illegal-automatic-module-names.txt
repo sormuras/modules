@@ -381,10 +381,10 @@ org.adoptopenjdk:jemmy-core:2.0.0 -> org.adoptopenjdk.jemmy-core
 org.adoptopenjdk:jemmy-swt:2.0.0 -> org.adoptopenjdk.jemmy-swt
 org.alloytools:org.alloytools.pardinus.native:6.2.0 -> org.alloytools.pardinus.native
 org.apache.geronimo.arthur:integration-test:1.0.9 -> org.apache.geronimo.arthur.integration-test
-org.apache.geronimo.mail:geronimo-mail_2.1_mail:1.0.1 -> geronimo-mail_2.1_mail
-org.apache.geronimo.mail:geronimo-mail_2.1_provider:1.0.1 -> geronimo-mail_2.1_provider
+org.apache.geronimo.mail:geronimo-mail_2.1_mail:1.0.2 -> geronimo-mail_2.1_mail
+org.apache.geronimo.mail:geronimo-mail_2.1_provider:1.0.2 -> geronimo-mail_2.1_provider
 org.apache.geronimo.specs:geronimo-activation_2.0_spec:1.0.0 -> geronimo-activation_2.0_spec
-org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.1 -> geronimo-mail_2.1_spec
+org.apache.geronimo.specs:geronimo-mail_2.1_spec:1.0.2 -> geronimo-mail_2.1_spec
 org.apache.isis.core:isis-core-detached-tests:2.0.0-M2 -> org.apache.isis.core.detached-tests
 org.apache.isis.core:isis-core-plugins-codegen-bytebuddy:2.0.0-M2 -> org.apache.isis.plugins.codegen-bytebuddy
 org.apache.isis.core:isis-core-plugins-codegen-javassist:2.0.0-M2 -> org.apache.isis.plugins.codegen-javassist
