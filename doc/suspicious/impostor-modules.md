@@ -1231,7 +1231,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.inlong:sort-connector-tubemq`  -> [`1.12.0`, `1.13.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.apache.inlong:sort-dist`  -> [`1.12.0`, `1.13.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.46.0`, `1.48.0`, `1.50.0`, `1.52.0`, `1.54.0`, `1.56.0`, `1.58.0`, `1.60.0`]
-1. `org.apache.james:webadmin-cli`  -> [`3.8.0`, `3.8.1`, `3.8.2`]
+1. `org.apache.james:webadmin-cli`  -> [`3.8.0`, `3.8.1`, `3.8.2`, `3.9.0`]
 1. `org.apache.pulsar:pulsar-broker-shaded`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.11.4`]
 1. `org.apache.pulsar:pulsar-client-2x-shaded`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
 1. `org.apache.pulsar:pulsar-client-all`  -> [`2.10.1`, `2.10.2`, `2.10.3`, `2.11.0`, `2.11.1`, `3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
@@ -4460,6 +4460,32 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`, `1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.30.0`, `1.30.1`, `1.30.2`]
 1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`, `1.21.0`, `1.21.2`, `1.21.3`, `1.21.4`, `1.21.5`, `1.21.6`]
 
+## org.apache.commons.cli
+
+For example, at least 20 artifacts on Maven Central claim to be the module `org.apache.commons.cli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.cli;`.
+
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c3.11`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.0`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.1`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c5.0`  -> [`3.1.0`, `3.1.1`]
+1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`]
+1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.15.1`, `1.16.0`, `1.16.1`, `1.17.0`, `1.18.0`, `1.19.0`]
+1. `io.quarkus:quarkus-ide-launcher`  -> [`3.15.1`]
+1. `name.dmaus.schxslt:cli`  -> [`1.10`]
+1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
+1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
+1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
+1. `org.apache.james:apache-james-mpt-app`  -> [`3.9.0`]
+1. `org.apache.phoenix:phoenix-client-lite-hbase-2.5`  -> [`5.3.0`]
+1. `org.apache.phoenix:phoenix-client-lite-hbase-2.6`  -> [`5.3.0`]
+1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
+1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
+1. `org.apktool:apktool-cli`  -> [`2.10.0`, `2.11.0`, `2.11.1`]
+1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
+
 ## org.xerial.sqlitejdbc
 
 For example, at least 20 artifacts on Maven Central claim to be the module `org.xerial.sqlitejdbc`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4510,31 +4536,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.pitest:pitest-aggregator`  -> [`1.16.1`, `1.16.2`, `1.16.3`, `1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.18.0`, `1.18.1`, `1.18.2`, `1.19.0`, `1.19.1`]
 1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`, `0.92.1`, `0.93.1`, `0.94.0`, `0.94.1`, `0.94.2`, `0.94.3`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.6.0`, `2.6.1`, `2.6.2`]
-
-## org.apache.commons.cli
-
-For example, at least 19 artifacts on Maven Central claim to be the module `org.apache.commons.cli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.cli;`.
-
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c3.11`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.0`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.1`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c5.0`  -> [`3.1.0`, `3.1.1`]
-1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`]
-1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.15.1`, `1.16.0`, `1.16.1`, `1.17.0`, `1.18.0`, `1.19.0`]
-1. `io.quarkus:quarkus-ide-launcher`  -> [`3.15.1`]
-1. `name.dmaus.schxslt:cli`  -> [`1.10`]
-1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
-1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
-1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
-1. `org.apache.phoenix:phoenix-client-lite-hbase-2.5`  -> [`5.3.0`]
-1. `org.apache.phoenix:phoenix-client-lite-hbase-2.6`  -> [`5.3.0`]
-1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
-1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
-1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
-1. `org.apktool:apktool-cli`  -> [`2.10.0`, `2.11.0`, `2.11.1`]
-1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## org.bouncycastle.pg
 
