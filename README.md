@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> The job providing updates of artifacts uploaded to Maven Central is slacking since summer 2025.
+> This comment will be removed once it starts to process correctly again.
+
 # sormuras/modules
 
 The main goal of this project is to collect [Unique Java Modules](#unique-java-modules).
