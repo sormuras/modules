@@ -4081,6 +4081,52 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.34.0`, `2.35.0`]
 1. `org.apache.grails:grails-cli`  -> [`7.0.0-M4`]
 
+## com.google.common
+
+For example, at least 40 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
+
+1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
+1. `com.guicedee.services:guava`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `dev.ikm.jpms:guava`  -> [`31.1-jre-r1`, `31.1-jre-r2`, `33.1.0-jre-r1`, `33.1.0-jre-r2`, `33.1.0-jre-r3`]
+1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.2.1`, `2.2.2`]
+1. `io.github.jbock-java:guava`  -> [`31.0.1.0`]
+1. `io.quarkus:quarkus-grpc-cli`  -> [`3.21.1`, `3.21.2`]
+1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
+1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`, `1.2025.4`]
+1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.27.0`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`, `4.1.12`]
+1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`, `1.9.2`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-2.0`  -> [`1.10.0`]
+1. `org.apache.iceberg:iceberg-open-api`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
+1. `org.apache.iceberg:iceberg-spark-runtime-4.0_2.13`  -> [`1.10.0`]
+1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
+1. `org.apache.jackrabbit:oak-run`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
+1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
+1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.86.0`]
+1. `org.apache.phoenix:phoenix-pherf`  -> [`5.3.0`]
+1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-snowflake`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-spark-shaded-3.4_2.12`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-spark-shaded-3.4_2.13`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-spark-shaded-3.5_2.12`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-spark-shaded-3.5_2.13`  -> [`1.8.0`]
+1. `org.apache.sedona:sedona-spark-shaded-4.0_2.13`  -> [`1.8.0`]
+1. `org.apache.sling:org.apache.sling.testing.sling-mock-oak`  -> [`4.1.0-1.86.0`]
+1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`, `2.8.2`]
+1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`]
+1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`]
+1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
+1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
+
 ## kotlin.reflect
 
 For example, at least 40 artifacts on Maven Central claim to be the module `kotlin.reflect`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4126,51 +4172,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonarsource.slang:sonar-kotlin-plugin`  -> [`1.8.0.1775`, `1.8.1.1804`, `1.8.2.1946`, `1.8.3.2219`]
 1. `se.bjurr.wiremockpact:wiremock-pact-model`  -> [`0.3.0`, `0.4.4`]
 1. `xyz.block:ftl-generator`  -> [`0.74.3`, `0.74.4`, `0.75.0`, `0.75.1`, `0.76.0`, `0.76.1`, `0.76.2`, `0.77.3`, `0.78.0`, `0.78.1`, `0.78.2`, `0.79.0`, `0.79.1`, `0.79.2`, `0.79.3`, `0.79.4`, `0.80.0`, `0.80.1`, `0.80.2`, `0.81.0`, `0.81.1`, `0.81.2`, `0.81.3`, `0.81.4`, `0.82.0`, `0.82.1`, `0.83.0`, `0.83.1`, `0.84.0`, `0.84.1`, `0.85.0`, `0.85.1`, `0.85.2`, `0.85.3`, `0.85.4`, `0.85.5`, `0.86.0`, `0.87.0`, `0.87.1`, `0.87.2`, `0.88.0`, `0.89.0`, `0.89.1`, `0.89.2`, `0.90.0`, `0.91.0`, `0.91.1`, `0.92.0`, `0.93.0`, `0.94.0`, `0.94.1`, `0.95.0`, `0.96.0`, `0.96.1`, `0.96.2`, `0.96.3`, `0.96.4`, `0.96.5`, `0.96.6`, `0.96.7`, `0.96.8`, `0.96.9`, `0.97.0`, `0.97.1`, `0.98.0`, `0.98.1`, `0.98.2`, `0.98.3`, `0.98.4`, `0.98.5`, `0.98.6`, `0.98.7`, `0.98.8`, `0.99.0`, `0.102.1`, `0.104.0`, `0.104.1`, `0.105.0`, `0.105.1`, `0.106.0`, `0.107.0`, `0.108.0`, `0.108.1`, `0.109.0`, `0.109.1`, `0.109.2`, `0.109.3`, `0.110.0`, `0.111.2`, `0.111.3`, `0.112.0`, `0.112.1`, `0.113.0`, `0.113.1`, `0.114.0`, `0.114.1`, `0.115.0`, `0.115.1`, `0.116.0`, `0.116.1`, `0.117.0`, `0.118.1`, `0.118.2`, `0.118.3`, `0.118.4`, `0.118.5`, `0.118.6`, `0.119.0`, `0.119.1`, `0.120.0`, `0.121.0`, `0.122.0`, `0.122.1`, `0.122.2`, `0.123.0`, `0.123.1`, `0.123.2`, `0.124.0`, `0.124.1`, `0.125.0`, `0.126.0`, `0.126.1`, `0.126.2`, `0.127.0`, `0.128.0`, `0.128.1`, `0.128.2`, `0.128.3`, `0.128.4`, `0.128.5`, `0.128.6`, `0.129.0`, `0.129.1`, `0.129.2`, `0.130.0`, `0.130.1`, `0.131.0`, `0.132.0`, `0.133.0`, `0.133.1`, `0.133.2`]
-
-## com.google.common
-
-For example, at least 39 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
-
-1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
-1. `com.guicedee.services:guava`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `dev.ikm.jpms:guava`  -> [`31.1-jre-r1`, `31.1-jre-r2`, `33.1.0-jre-r1`, `33.1.0-jre-r2`, `33.1.0-jre-r3`]
-1. `io.github.erroraway:sonar-erroraway-sonar-plugin`  -> [`2.2.1`, `2.2.2`]
-1. `io.github.jbock-java:guava`  -> [`31.0.1.0`]
-1. `io.quarkus:quarkus-grpc-cli`  -> [`3.21.1`, `3.21.2`]
-1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
-1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`, `1.2025.4`]
-1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.27.0`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`, `4.1.12`]
-1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`, `1.9.2`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-flink-runtime-2.0`  -> [`1.10.0`]
-1. `org.apache.iceberg:iceberg-open-api`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
-1. `org.apache.iceberg:iceberg-spark-runtime-4.0_2.13`  -> [`1.10.0`]
-1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-run`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.86.0`]
-1. `org.apache.phoenix:phoenix-pherf`  -> [`5.3.0`]
-1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-snowflake`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-spark-shaded-3.4_2.12`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-spark-shaded-3.4_2.13`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-spark-shaded-3.5_2.12`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-spark-shaded-3.5_2.13`  -> [`1.8.0`]
-1. `org.apache.sedona:sedona-spark-shaded-4.0_2.13`  -> [`1.8.0`]
-1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`, `2.8.2`]
-1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`]
-1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`]
-1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
-1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
 
 ## com.fasterxml.jackson.dataformat.cbor
 
