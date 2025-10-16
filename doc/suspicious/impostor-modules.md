@@ -4,9 +4,9 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x486
+1. `com.fasterxml.jackson.core` x489
 1. `com.google.gson` x403
-1. `com.fasterxml.jackson.databind` x399
+1. `com.fasterxml.jackson.databind` x400
 1. `kotlin.stdlib.jdk8` x251
 1. `org.apache.logging.log4j` x246
 1. `org.slf4j` x244
@@ -21,19 +21,19 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.annotation` x80
 1. `com.fasterxml.jackson.dataformat.yaml` x80
 1. `org.yaml.snakeyaml` x79
-1. `org.apache.commons.lang3` x77
+1. `org.apache.commons.lang3` x78
 1. `com.fasterxml.jackson.module.jaxb` x74
 1. `org.apache.commons.io` x74
 1. `org.objectweb.asm` x64
 1. `com.google.errorprone.annotations` x60
-1. `com.zaxxer.hikari` x59
+1. `com.zaxxer.hikari` x60
 1. `org.apache.commons.compress` x59
 1. `org.jetbrains.annotations` x56
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
 
-For example, at least 486 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 489 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -274,6 +274,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.amoro:amoro-mixed-format-spark-runtime-3.3`  -> [`0.7.0-incubating`, `0.7.1-incubating`]
 1. `org.apache.amoro:amoro-shade-jackson-2`  -> [`2.14.2-0.7.0-incubating`]
 1. `org.apache.amoro:amoro-shade-jackson-module-jsonSchema-2`  -> [`2.14.2-0.7.0-incubating`]
+1. `org.apache.avro:avro-perf`  -> [`1.12.1`]
 1. `org.apache.beam:beam-runners-spark-3-job-server`  -> [`2.29.0`]
 1. `org.apache.beam:beam-runners-spark-job-server`  -> [`2.29.0`]
 1. `org.apache.beam:beam-sdks-java-expansion-service-app`  -> [`2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`, `2.45.0`, `2.46.0`, `2.47.0`, `2.48.0`, `2.49.0`, `2.50.0`, `2.51.0`, `2.52.0`, `2.55.0`, `2.55.1`, `2.56.0`]
@@ -440,6 +441,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:seatunnel-flink-13-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:seatunnel-flink-15-starter`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:seatunnel-flink-starter-common`  -> [`2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-shade-arrow`  -> [`15.0.1-2.3.13`]
+1. `org.apache.seatunnel:seatunnel-shade-jackson`  -> [`2.13.3-2.3.13`]
 1. `org.apache.seatunnel:seatunnel-spark-2-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:seatunnel-spark-3-starter`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:seatunnel-spark-starter-common`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
@@ -934,7 +937,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 399 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 400 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -1154,7 +1157,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `nl.littlerobots.vcu:plugin`  -> [`0.6.0`, `0.6.1`, `0.7.0`, `0.8.0`, `0.8.1`, `0.8.2`, `0.8.3`, `0.8.4`, `0.8.5`, `1.0.0`]
 1. `org.alluxio:alluxio-shaded-client`  -> [`2.8.1`, `2.8.2`, `2.9.0`, `2.9.1`, `291-alpha`, `291-beta`, `291-gamma`, `294`, `295`, `300`, `301`, `302`]
 1. `org.alluxio:alluxio-shaded-hadoop3-client`  -> [`2.9.2`, `2.9.3`, `295`, `300`, `301`, `302`]
-1. `org.apache.avro:avro-tools`  -> [`1.11.2`, `1.11.3`, `1.12.0`]
+1. `org.apache.avro:avro-tools`  -> [`1.11.2`, `1.11.3`, `1.12.0`, `1.12.1`]
 1. `org.apache.beam:beam-runners-flink-1.10-job-server`  -> [`2.21.0`, `2.22.0`, `2.23.0`, `2.24.0`, `2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.apache.beam:beam-runners-flink-1.11-job-server`  -> [`2.25.0`, `2.26.0`, `2.27.0`, `2.28.0`]
 1. `org.apache.beam:beam-runners-flink-1.12-job-server`  -> [`2.27.0`, `2.28.0`]
@@ -1245,6 +1248,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:connector-pulsar`  -> [`2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:connector-typesense`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:datasource-hive`  -> [`1.0.2`]
+1. `org.apache.seatunnel:seatunnel-shade-hadoop3-uber`  -> [`3.1.4-2.3.13`]
 1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.4.0`]
 1. `org.apache.sedona:sedona-snowflake`  -> [`1.5.1`, `1.5.2`, `1.5.3`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`]
 1. `org.apache.spark:spark-streaming-kafka-0-10-assembly_2.13`  -> [`4.1.0-preview1`, `4.1.0-preview2`]
@@ -3285,7 +3289,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.lang3
 
-For example, at least 77 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 78 artifacts on Maven Central claim to be the module `org.apache.commons.lang3`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.lang3;`.
 
 1. `com.aerospike:avs-client-java`  -> [`1.0.0`, `1.1.0`]
@@ -3347,6 +3351,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.pulsar:buildtools`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`]
+1. `org.apache.seatunnel:seatunnel-shade-commons-lang3`  -> [`3.18.0-2.3.13`]
 1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
@@ -3664,7 +3669,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.zaxxer.hikari
 
-For example, at least 59 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 60 artifacts on Maven Central claim to be the module `com.zaxxer.hikari`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.zaxxer.hikari;`.
 
 1. `cn.handyplus.lib:HandyLib`  -> [`3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.1.4`, `3.1.5`, `3.1.6`, `3.1.7`, `3.1.8`, `3.1.9`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.2.4`, `3.2.5`, `3.2.6`, `3.2.7`, `3.2.8`, `3.2.9`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.3.6`, `3.3.7`, `3.3.8`, `3.3.9`, `3.4.0`, `3.4.2`, `3.4.3`, `3.4.5`, `3.4.6`, `3.4.7`, `3.4.8`, `3.4.9`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`, `3.5.9`, `3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`]
@@ -3709,6 +3714,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.seatunnel:connector-cdc-sqlserver`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.12`]
 1. `org.apache.seatunnel:connector-cdc-tidb`  -> [`2.3.12`]
 1. `org.apache.seatunnel:connector-jdbc`  -> [`2.3.4`, `2.3.5`, `2.3.6`, `2.3.7`, `2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
+1. `org.apache.seatunnel:seatunnel-shade-hikari`  -> [`4.0.3-2.3.13`]
 1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.0`, `2.6.1`]
 1. `org.appops:appops-br-maven-plugin`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`]
 1. `org.appops:appops-br-service-base`  -> [`0.3.0`, `0.4.0`, `0.5.0`, `0.7.0`, `0.9.0`, `1.0-RC-1`, `1.0-RC-2`, `1.0-RC-5`]
