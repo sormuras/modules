@@ -3508,7 +3508,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.10.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`4.10.0`]
 1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.10.0`]
-1. `org.apache.linkis:linkis-hadoop-hdfs-client-shade`  -> [`1.7.0`]
+1. `org.apache.linkis:linkis-hadoop-hdfs-client-shade`  -> [`1.7.0`, `1.8.0`]
 1. `org.apache.maven.surefire:surefire-shadefire`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
 1. `org.apache.maven.surefire:surefire-shared-utils`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
 1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.poi`  -> [`5.2.5_1`]
