@@ -4129,7 +4129,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`, `2.8.2`]
 1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
 1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`, `0.22.1`]
-1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`]
+1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`, `1.18.1`]
 1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
 1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
 
