@@ -4680,7 +4680,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.edurt.datacap:datacap-jdbc-ydb`  -> [`2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`]
 1. `io.edurt.datacap:datacap-shaded-ydb`  -> [`2024.03.1`, `2024.03.2`, `2024.03.3`, `2024.03.4`, `2024.03.5`, `2024.03.6`, `2024.03.7`, `2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`, `2024.4.0`, `2024.4.1`, `2025.1.0`]
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.4`, `1.2.5`]
-1. `org.apache.cassandra:java-driver-guava-shaded`  -> [`4.19.0`]
+1. `org.apache.cassandra:java-driver-guava-shaded`  -> [`4.19.0`, `4.19.1`]
 1. `org.liquibase.ext:liquibase-commercial-bigquery`  -> [`4.29.1`, `4.29.2`, `4.31.0`, `4.31.1`, `4.32.0`]
 
 ## com.sun.xml.bind
