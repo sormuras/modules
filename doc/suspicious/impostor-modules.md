@@ -4089,7 +4089,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.common
 
-For example, at least 40 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 41 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
 
 1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
@@ -4101,6 +4101,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`, `1.2025.4`]
 1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.27.0`]
+1. `org.apache.hadoop.thirdparty:hadoop-shaded-guava`  -> [`1.5.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`, `4.1.12`]
 1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.9.0`, `1.9.1`, `1.9.2`]
@@ -4113,10 +4114,10 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
 1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
 1. `org.apache.iceberg:iceberg-spark-runtime-4.0_2.13`  -> [`1.10.0`]
-1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-run`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`]
-1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.86.0`]
+1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`, `1.88.0`]
+1. `org.apache.jackrabbit:oak-run`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`, `1.88.0`]
+1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`, `1.88.0`]
+1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.86.0`, `1.88.0`]
 1. `org.apache.phoenix:phoenix-pherf`  -> [`5.3.0`]
 1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.8.0`]
 1. `org.apache.sedona:sedona-snowflake`  -> [`1.8.0`]
