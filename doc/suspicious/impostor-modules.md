@@ -2021,7 +2021,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.serenity-bdd:serenity-cli`  -> [`3.6.16`, `3.6.17`, `3.6.20`, `3.6.21`, `3.6.22`, `3.6.23`, `3.7.0`, `3.7.1`, `3.8.1`, `3.9.0`, `3.9.1`, `3.9.2`, `3.9.3`, `3.9.4`, `3.9.7`, `3.9.8`, `4.0.0-beta-1`, `4.0.0-beta-2`, `4.0.0-beta-3`, `4.0.0-beta-4`, `4.0.0-beta-5`, `4.0.0-beta-6`, `4.0.0-beta-7`, `4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.8`, `4.0.11`, `4.0.12`, `4.0.14`, `4.0.15`, `4.0.16`, `4.0.18`]
 1. `nl.basjes.parse.useragent:yauaa-commandline`  -> [`5.14`]
 1. `no.entur:schema2proto-lib`  -> [`1.79`, `1.80`, `1.81`, `1.82`, `1.83`, `1.84`, `1.85`, `1.86`, `1.87`]
-1. `org.apache.activemq:activemq-all`  -> [`5.18.0`, `5.18.1`, `5.18.2`, `5.18.3`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.1.5`, `6.1.6`, `6.1.7`, `6.1.8`]
+1. `org.apache.activemq:activemq-all`  -> [`5.18.0`, `5.18.1`, `5.18.2`, `5.18.3`, `6.0.0`, `6.0.1`, `6.1.0`, `6.1.1`, `6.1.2`, `6.1.3`, `6.1.4`, `6.1.5`, `6.1.6`, `6.1.7`, `6.1.8`, `6.2.0`]
 1. `org.apache.activemq:artemis-core-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
 1. `org.apache.activemq:artemis-jakarta-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
 1. `org.apache.activemq:artemis-jms-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
@@ -4794,6 +4794,26 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `net.silthus.schat:schat-bungeecord`  -> [`1.0.0-alpha.5`, `1.0.0`, `1.0.1`]
 1. `space.maxus:flare`  -> [`0.9.0`, `1.0.0`]
 
+## org.apache.commons.logging
+
+For example, at least 14 artifacts on Maven Central claim to be the module `org.apache.commons.logging`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.logging;`.
+
+1. `com.guicedee.services:commons-logging`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `commons-logging:commons-logging`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
+1. `io.github.stewseo:yelp-fusion-client`  -> [`1.0.63`, `1.0.63-fix`, `1.0.64`, `1.7.5`, `1.8.0`]
+1. `io.kestra.plugin:plugin-aws`  -> [`0.15.0`, `0.15.1`, `0.16.0`, `0.16.1`, `0.16.2`]
+1. `no.ssb.vtl:java-vtl-interpreter`  -> [`0.1.0`]
+1. `org.apache.karaf.decanter.alerting:org.apache.karaf.decanter.alerting.service`  -> [`2.12.0`]
+1. `org.beangle.sas:beangle-sas-juli`  -> [`0.12.8`, `0.12.9`, `0.12.10`, `0.12.11`]
+1. `org.camunda.bpm.extension.dmn:dmn-xlsx-cli`  -> [`0.4.0`]
+1. `org.camunda.bpm.extension.dmn:dmn-xlsx-process-engine-plugin`  -> [`0.4.0`]
+1. `org.netbeans.external:org-apache-commons-logging`  -> [`RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`]
+1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
+1. `org.springframework.cloud:spring-cloud-contract-shade`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`]
+1. `org.violetlib:vbuilder-ant-uber`  -> [`1`, `2`]
+1. `org.wildfly:wildfly-client-all`  -> [`28.0.0.Beta1`, `28.0.0.Final`, `28.0.1.Final`, `29.0.0.Alpha1`, `29.0.0.Beta1`, `29.0.0.Final`, `29.0.1.Final`, `30.0.0.Beta1`, `30.0.0.Final`, `30.0.1.Final`, `31.0.0.Beta1`, `31.0.0.Final`, `31.0.1.Final`, `32.0.0.Beta1`, `32.0.0.Final`, `32.0.1.Final`, `33.0.0.Beta1`, `33.0.0.Final`, `33.0.1.Final`, `33.0.2.Final`, `34.0.0.Beta1`, `34.0.0.Final`, `34.0.1.Final`, `35.0.0.Beta1`, `35.0.0.Final`, `35.0.1.Final`, `36.0.0.Beta1`, `36.0.0.Final`, `36.0.1.Final`]
+
 ## org.apache.commons.text
 
 For example, at least 14 artifacts on Maven Central claim to be the module `org.apache.commons.text`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4910,25 +4930,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.brightify.hyperdrive:plugin-impl-native`  -> [`0.1.140`]
 1. `org.danbrough.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.3`, `1.3.3a`, `1.4.1`, `1.5.0`]
 1. `org.jetbrains.kotlinx:kotlinx-serialization-json-jvm`  -> [`1.3.0-RC`, `1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.4.0-RC`, `1.4.0`, `1.4.1`, `1.5.0-RC`, `1.5.0`, `1.5.1`, `1.6.0-RC`, `1.6.0`, `1.6.1`, `1.6.2`, `1.6.3`, `1.7.0-RC`, `1.7.0`, `1.7.1`, `1.7.2`, `1.7.3`, `1.8.0-RC`, `1.8.0`, `1.8.1`, `1.9.0`]
-
-## org.apache.commons.logging
-
-For example, at least 13 artifacts on Maven Central claim to be the module `org.apache.commons.logging`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.logging;`.
-
-1. `com.guicedee.services:commons-logging`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `commons-logging:commons-logging`  -> [`1.3.0`, `1.3.1`, `1.3.2`, `1.3.3`, `1.3.4`, `1.3.5`]
-1. `io.github.stewseo:yelp-fusion-client`  -> [`1.0.63`, `1.0.63-fix`, `1.0.64`, `1.7.5`, `1.8.0`]
-1. `io.kestra.plugin:plugin-aws`  -> [`0.15.0`, `0.15.1`, `0.16.0`, `0.16.1`, `0.16.2`]
-1. `no.ssb.vtl:java-vtl-interpreter`  -> [`0.1.0`]
-1. `org.beangle.sas:beangle-sas-juli`  -> [`0.12.8`, `0.12.9`, `0.12.10`, `0.12.11`]
-1. `org.camunda.bpm.extension.dmn:dmn-xlsx-cli`  -> [`0.4.0`]
-1. `org.camunda.bpm.extension.dmn:dmn-xlsx-process-engine-plugin`  -> [`0.4.0`]
-1. `org.netbeans.external:org-apache-commons-logging`  -> [`RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`]
-1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
-1. `org.springframework.cloud:spring-cloud-contract-shade`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`]
-1. `org.violetlib:vbuilder-ant-uber`  -> [`1`, `2`]
-1. `org.wildfly:wildfly-client-all`  -> [`28.0.0.Beta1`, `28.0.0.Final`, `28.0.1.Final`, `29.0.0.Alpha1`, `29.0.0.Beta1`, `29.0.0.Final`, `29.0.1.Final`, `30.0.0.Beta1`, `30.0.0.Final`, `30.0.1.Final`, `31.0.0.Beta1`, `31.0.0.Final`, `31.0.1.Final`, `32.0.0.Beta1`, `32.0.0.Final`, `32.0.1.Final`, `33.0.0.Beta1`, `33.0.0.Final`, `33.0.1.Final`, `33.0.2.Final`, `34.0.0.Beta1`, `34.0.0.Final`, `34.0.1.Final`, `35.0.0.Beta1`, `35.0.0.Final`, `35.0.1.Final`, `36.0.0.Beta1`, `36.0.0.Final`, `36.0.1.Final`]
 
 ## org.joda.convert
 
