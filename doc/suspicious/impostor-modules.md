@@ -11,7 +11,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.apache.logging.log4j` x247
 1. `org.slf4j` x244
 1. `kotlin.stdlib` x158
-1. `com.fasterxml.jackson.datatype.jsr310` x126
+1. `com.fasterxml.jackson.datatype.jsr310` x127
 1. `net.bytebuddy` x112
 1. `org.bouncycastle.provider` x110
 1. `io.github.classgraph` x104
@@ -22,8 +22,8 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.annotation` x80
 1. `com.fasterxml.jackson.dataformat.yaml` x80
 1. `org.yaml.snakeyaml` x79
+1. `org.apache.commons.io` x75
 1. `com.fasterxml.jackson.module.jaxb` x74
-1. `org.apache.commons.io` x74
 1. `org.objectweb.asm` x64
 1. `com.zaxxer.hikari` x61
 1. `com.google.errorprone.annotations` x60
@@ -328,7 +328,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.fluss:fluss-shaded-jackson`  -> [`2.15.3-1.0-incubating`]
 1. `org.apache.hudi:hudi-aws-bundle`  -> [`0.14.0`, `1.0.0-beta1`]
 1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`0.12.1-rc2`, `0.12.1`]
-1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.12.0`, `0.12.1-rc2`, `0.12.1`, `0.12.2`, `0.13.0`, `1.0.0`, `1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.12.0`, `0.12.1-rc2`, `0.12.1`, `0.12.2`, `0.13.0`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
 1. `org.apache.hugegraph:hugegraph-spark-connector`  -> [`1.2.0`, `1.3.0`, `1.5.0`]
 1. `org.apache.iceberg:iceberg-aws-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `org.apache.iceberg:iceberg-azure-bundle`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`, `1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
@@ -847,7 +847,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.phoenix:phoenix-client-lite-hbase-2.5`  -> [`5.2.0`, `5.2.1`]
 1. `org.apache.phoenix:phoenix-client-lite-hbase-2.6`  -> [`5.2.1`]
 1. `org.apache.phoenix:phoenix-pherf`  -> [`5.1.3`, `5.2.0`]
-1. `org.apache.pulsar:jclouds-shaded`  -> [`3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`]
+1. `org.apache.pulsar:jclouds-shaded`  -> [`3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 1. `org.apache.ratis:ratis-examples`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.2.0`, `3.2.1`]
 1. `org.apache.ratis:ratis-thirdparty-misc`  -> [`1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`]
 1. `org.apache.rocketmq:rocketmq-client-java`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`, `5.1.0`]
@@ -1200,9 +1200,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.hbase:hbase-shaded-client`  -> [`3.0.0-alpha-3`]
 1. `org.apache.hbase:hbase-shaded-mapreduce`  -> [`3.0.0-alpha-3`]
 1. `org.apache.hbase:hbase-shaded-testing-util`  -> [`3.0.0-alpha-3`]
-1. `org.apache.hudi:hudi-hadoop-mr-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-hive-sync-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-kafka-connect-bundle`  -> [`1.0.2`]
+1. `org.apache.hudi:hudi-hadoop-mr-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-hive-sync-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-kafka-connect-bundle`  -> [`1.0.2`, `1.1.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.15`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.16`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.17`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`]
@@ -2272,7 +2272,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.datatype.jsr310
 
-For example, at least 126 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 127 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jsr310`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jsr310;`.
 
 1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`1.0.0-beta.1`, `1.0.0-beta.2`, `1.0.0-beta.3`, `1.0.0-beta.4`, `2.0.0`]
@@ -2366,14 +2366,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
-1. `org.apache.hudi:hudi-examples-k8s`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-spark3.4-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-spark3.5-bundle_2.12`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-spark3.5-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-utilities-bundle_2.12`  -> [`1.0.2`]
-1. `org.apache.hudi:hudi-utilities-bundle_2.13`  -> [`1.0.2`]
+1. `org.apache.hudi:hudi-examples-k8s`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark3.4-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark3.5-bundle_2.12`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark3.5-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-spark4.0-bundle_2.13`  -> [`1.1.0`]
+1. `org.apache.hudi:hudi-utilities-bundle_2.12`  -> [`1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-utilities-bundle_2.13`  -> [`1.0.2`, `1.1.0`]
 1. `org.apache.iceberg:iceberg-azure-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`, `1.5.0`, `1.5.1`, `1.5.2`, `1.6.1`]
 1. `org.apache.iceberg:iceberg-spark-runtime-2.4`  -> [`1.2.0`, `1.2.1`]
 1. `org.apache.iceberg:iceberg-spark-runtime-3.1_2.12`  -> [`1.2.0`, `1.2.1`, `1.3.0`, `1.3.1`]
@@ -3119,7 +3120,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
 1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`]
-1. `org.apache.pulsar:buildtools`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`]
+1. `org.apache.pulsar:buildtools`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 1. `org.apache.seatunnel:seatunnel-shade-commons-lang3`  -> [`3.18.0-2.3.13`]
 1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
@@ -3397,6 +3398,87 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.wso2.carbon.callhome:core`  -> [`1.0.16`]
 1. `org.yaml:snakeyaml` 🧩 -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`]
 
+## org.apache.commons.io
+
+For example, at least 75 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.io;`.
+
+1. `cloud.piranha.dist:piranha-dist-micro`  -> [`23.11.0`, `23.12.0`, `24.1.0`, `24.2.0`, `24.3.0`]
+1. `com.bytedance.btrace:rhea-trace-processor`  -> [`3.0.0`]
+1. `com.datarobot:mlops-agent`  -> [`10.2.0`]
+1. `com.epam.reportportal:plugin-slack`  -> [`1.0.1`]
+1. `com.epam.reportportal:plugin-telegram`  -> [`1.1.0`]
+1. `com.github.spotbugs:sonar-findbugs-plugin`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`]
+1. `com.gradleup.shadow:shadow-gradle-plugin`  -> [`8.3.1`]
+1. `com.guicedee.services:commons-io`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.ibm.cloud.eventstreams:adminrest-examples`  -> [`1.3.1`, `1.4.0`]
+1. `com.ibm.cloud:code-engine-examples`  -> [`4.2.0`, `4.8.0`]
+1. `com.ibm.cloud:continuous-delivery-examples`  -> [`1.2.0`, `1.3.0`]
+1. `com.ibm.cloud:dph-services-examples`  -> [`0.2.0`]
+1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`1.3.0`, `1.3.1`]
+1. `com.ibm.cloud:is-examples`  -> [`0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`]
+1. `com.ibm.cloud:platform-services-examples`  -> [`0.43.1`, `0.44.2`, `0.45.0`, `0.45.1`, `0.46.0`, `0.46.1`, `0.47.0`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`, `0.50.1`, `0.50.2`, `0.51.0`, `0.52.0`, `0.53.0`, `0.53.1`, `0.53.2`, `0.53.3`, `0.53.4`, `0.53.5`, `0.53.6`, `0.54.0`, `0.54.2`, `0.55.0`, `0.56.0`, `0.57.0`]
+1. `com.jwebmp.jpms.commons:commons-io`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `com.jwebmp.jre11:commons-io`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
+1. `com.jwebmp:commons-io`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
+1. `com.networknt:codegen-cli`  -> [`2.2.1`]
+1. `com.sqream:sqream-jdbc`  -> [`6.0.0`, `6.0.1`]
+1. `com.vaadin:license-checker-machineid`  -> [`1.12.13`, `1.12.14`, `1.13.0`, `1.13.2`, `1.13.3`, `1.13.4`]
+1. `commons-io:commons-io`  -> [`2.14.0`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`, `2.17.0`, `2.18.0`, `2.19.0`, `2.20.0`, `2.21.0`]
+1. `dev.galasa:galasa-boot`  -> [`0.34.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`]
+1. `io.edurt.datacap:datacap-jdbc-iotdb`  -> [`2024.3.10`, `2024.3.11`]
+1. `io.streamnative:distributedlog-core-shaded`  -> [`4.17.1.3`, `4.17.1.4`]
+1. `io.swagger.codegen.v3:swagger-codegen-cli`  -> [`3.0.58`, `3.0.59`, `3.0.60`, `3.0.61`, `3.0.62`, `3.0.63`, `3.0.64`, `3.0.65`, `3.0.66`, `3.0.67`, `3.0.68`]
+1. `io.wcm.devops.maven:io.wcm.devops.maven.nodejs-proxy`  -> [`1.2.2`]
+1. `net.serenity-bdd:serenity-cli`  -> [`4.0.21`, `4.0.22`, `4.0.24`, `4.0.25`, `4.0.26`, `4.0.27`]
+1. `no.entur:schema2proto-lib`  -> [`1.88`, `1.90`, `1.92`, `1.93`, `1.94`, `1.95`, `1.96`, `1.97`, `1.98`]
+1. `org.apache.celeborn:celeborn-client-spark-2-shaded_2.11`  -> [`0.6.0`, `0.6.1`]
+1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.12`  -> [`0.6.0`, `0.6.1`]
+1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.13`  -> [`0.6.0`, `0.6.1`]
+1. `org.apache.celeborn:celeborn-client-spark-4-shaded_2.13`  -> [`0.6.0`, `0.6.1`]
+1. `org.apache.distributedlog:distributedlog-core-shaded`  -> [`4.17.2`]
+1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
+1. `org.apache.flink:flink-cdc-pipeline-connector-maxcompute`  -> [`3.3.0`, `3.4.0`, `3.5.0`]
+1. `org.apache.flink:flink-gs-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
+1. `org.apache.flink:flink-oss-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
+1. `org.apache.flink:flink-table-planner_2.12`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
+1. `org.apache.hudi:hudi-aws-bundle`  -> [`1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-flink1.14-bundle`  -> [`1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-flink1.16-bundle`  -> [`1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-flink1.17-bundle`  -> [`1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-flink1.18-bundle`  -> [`1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-flink1.19-bundle`  -> [`1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-flink1.20-bundle`  -> [`1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-flink2.0-bundle`  -> [`1.1.0`]
+1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-fulljar`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.10.0`]
+1. `org.apache.jena:jena-fuseki-server`  -> [`4.10.0`]
+1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.10.0`]
+1. `org.apache.linkis:linkis-hadoop-hdfs-client-shade`  -> [`1.7.0`, `1.8.0`]
+1. `org.apache.maven.surefire:surefire-shadefire`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
+1. `org.apache.maven.surefire:surefire-shared-utils`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
+1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.poi`  -> [`5.2.5_1`]
+1. `org.apache.storm:blobstore-migrator`  -> [`2.6.2`]
+1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
+1. `org.apache.storm:storm-hive-examples`  -> [`2.6.4`, `2.7.0`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
+1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`, `2.8.0`]
+1. `org.apache.storm:storm-starter`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
+1. `org.apache.tez:tez-aux-services`  -> [`0.10.4`, `0.10.5`]
+1. `org.apache.tika:tika-eval-app`  -> [`3.0.0-BETA2`, `3.0.0`, `3.1.0`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
+1. `org.datakurator:kurator-ffdq`  -> [`3.0.0`, `3.1.0`, `3.2.0`]
+1. `org.dominokit:domino-aggregator-apt`  -> [`1.0.3`]
+1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.1.1`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.1`]
+1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.4`]
+1. `org.metadatacenter:cedar-model-validation-library`  -> [`2.6.54`, `2.6.57`, `2.6.58`, `2.7.4`]
+1. `org.sonarsource.flex:sslr-flex-toolkit`  -> [`2.14.0.5032`]
+1. `org.sonarsource.python:sonar-python-plugin`  -> [`4.23.0.17664`, `4.24.0.18631`, `4.25.0.19056`, `4.26.0.19456`, `4.26.1.20337`, `5.0.0.20426`, `5.1.0.20567`, `5.2.0.20808`, `5.3.0.21704`, `5.4.0.22255`, `5.5.0.23286`, `5.5.0.23291`]
+1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
+1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
+1. `org.vafer:jdependency`  -> [`2.10`, `2.11`, `2.12`, `2.13`]
+
 ## com.fasterxml.jackson.module.jaxb
 
 For example, at least 74 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.module.jaxb`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -3476,86 +3558,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.0.11`, `2.0.12`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`, `2.2.3`, `2.3.0`]
 1. `org.wso2.am.choreo.connect:org.wso2.choreo.connect.enforcer`  -> [`1.0.0-m3`, `1.0.0`]
 1. `org.wso2.choreo.connect:org.wso2.choreo.connect.enforcer`  -> [`1.0.0`, `1.1.0-m4`, `1.1.0`, `1.2.0-m1`]
-
-## org.apache.commons.io
-
-For example, at least 74 artifacts on Maven Central claim to be the module `org.apache.commons.io`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.io;`.
-
-1. `cloud.piranha.dist:piranha-dist-micro`  -> [`23.11.0`, `23.12.0`, `24.1.0`, `24.2.0`, `24.3.0`]
-1. `com.bytedance.btrace:rhea-trace-processor`  -> [`3.0.0`]
-1. `com.datarobot:mlops-agent`  -> [`10.2.0`]
-1. `com.epam.reportportal:plugin-slack`  -> [`1.0.1`]
-1. `com.epam.reportportal:plugin-telegram`  -> [`1.1.0`]
-1. `com.github.spotbugs:sonar-findbugs-plugin`  -> [`4.2.5`, `4.2.6`, `4.2.7`, `4.2.8`, `4.2.9`, `4.2.10`]
-1. `com.gradleup.shadow:shadow-gradle-plugin`  -> [`8.3.1`]
-1. `com.guicedee.services:commons-io`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.ibm.cloud.eventstreams:adminrest-examples`  -> [`1.3.1`, `1.4.0`]
-1. `com.ibm.cloud:code-engine-examples`  -> [`4.2.0`, `4.8.0`]
-1. `com.ibm.cloud:continuous-delivery-examples`  -> [`1.2.0`, `1.3.0`]
-1. `com.ibm.cloud:dph-services-examples`  -> [`0.2.0`]
-1. `com.ibm.cloud:ibm-analytics-engine-api-examples`  -> [`1.3.0`, `1.3.1`]
-1. `com.ibm.cloud:is-examples`  -> [`0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`]
-1. `com.ibm.cloud:platform-services-examples`  -> [`0.43.1`, `0.44.2`, `0.45.0`, `0.45.1`, `0.46.0`, `0.46.1`, `0.47.0`, `0.48.0`, `0.48.1`, `0.48.2`, `0.49.0`, `0.50.0`, `0.50.1`, `0.50.2`, `0.51.0`, `0.52.0`, `0.53.0`, `0.53.1`, `0.53.2`, `0.53.3`, `0.53.4`, `0.53.5`, `0.53.6`, `0.54.0`, `0.54.2`, `0.55.0`, `0.56.0`, `0.57.0`]
-1. `com.jwebmp.jpms.commons:commons-io`  -> [`0.67.0.1`, `0.67.0.2`, `0.67.0.3`, `0.67.0.4`, `0.67.0.5`, `0.67.0.7`, `0.67.0.9`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `com.jwebmp.jre11:commons-io`  -> [`0.63.0.14`, `0.63.0.16`, `0.63.0.17`, `0.63.0.19`]
-1. `com.jwebmp:commons-io`  -> [`0.63.0.54`, `0.63.0.60`, `0.63.0.61`, `0.65.0.2`, `0.65.0.3`, `0.66.0.1`]
-1. `com.networknt:codegen-cli`  -> [`2.2.1`]
-1. `com.sqream:sqream-jdbc`  -> [`6.0.0`, `6.0.1`]
-1. `com.vaadin:license-checker-machineid`  -> [`1.12.13`, `1.12.14`, `1.13.0`, `1.13.2`, `1.13.3`, `1.13.4`]
-1. `commons-io:commons-io`  -> [`2.14.0`, `2.15.0`, `2.15.1`, `2.16.0`, `2.16.1`, `2.17.0`, `2.18.0`, `2.19.0`, `2.20.0`, `2.21.0`]
-1. `dev.galasa:galasa-boot`  -> [`0.34.0`, `0.36.0`, `0.37.0`, `0.38.0`, `0.39.0`, `0.40.0`, `0.41.0`]
-1. `io.edurt.datacap:datacap-jdbc-iotdb`  -> [`2024.3.10`, `2024.3.11`]
-1. `io.streamnative:distributedlog-core-shaded`  -> [`4.17.1.3`, `4.17.1.4`]
-1. `io.swagger.codegen.v3:swagger-codegen-cli`  -> [`3.0.58`, `3.0.59`, `3.0.60`, `3.0.61`, `3.0.62`, `3.0.63`, `3.0.64`, `3.0.65`, `3.0.66`, `3.0.67`, `3.0.68`]
-1. `io.wcm.devops.maven:io.wcm.devops.maven.nodejs-proxy`  -> [`1.2.2`]
-1. `net.serenity-bdd:serenity-cli`  -> [`4.0.21`, `4.0.22`, `4.0.24`, `4.0.25`, `4.0.26`, `4.0.27`]
-1. `no.entur:schema2proto-lib`  -> [`1.88`, `1.90`, `1.92`, `1.93`, `1.94`, `1.95`, `1.96`, `1.97`, `1.98`]
-1. `org.apache.celeborn:celeborn-client-spark-2-shaded_2.11`  -> [`0.6.0`, `0.6.1`]
-1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.12`  -> [`0.6.0`, `0.6.1`]
-1. `org.apache.celeborn:celeborn-client-spark-3-shaded_2.13`  -> [`0.6.0`, `0.6.1`]
-1. `org.apache.celeborn:celeborn-client-spark-4-shaded_2.13`  -> [`0.6.0`, `0.6.1`]
-1. `org.apache.distributedlog:distributedlog-core-shaded`  -> [`4.17.2`]
-1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
-1. `org.apache.flink:flink-cdc-pipeline-connector-maxcompute`  -> [`3.3.0`, `3.4.0`, `3.5.0`]
-1. `org.apache.flink:flink-gs-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
-1. `org.apache.flink:flink-oss-fs-hadoop`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
-1. `org.apache.flink:flink-table-planner_2.12`  -> [`1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`]
-1. `org.apache.hudi:hudi-aws-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.14-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.16-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.17-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.18-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.19-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-flink1.20-bundle`  -> [`1.0.1`, `1.0.2`]
-1. `org.apache.jena:jena-benchmarks-shadedJena480`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-fulljar`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-geosparql`  -> [`4.10.0`]
-1. `org.apache.jena:jena-fuseki-server`  -> [`4.10.0`]
-1. `org.apache.jena:jena-jdbc-driver-bundle`  -> [`4.10.0`]
-1. `org.apache.linkis:linkis-hadoop-hdfs-client-shade`  -> [`1.7.0`, `1.8.0`]
-1. `org.apache.maven.surefire:surefire-shadefire`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
-1. `org.apache.maven.surefire:surefire-shared-utils`  -> [`3.2.3`, `3.2.5`, `3.3.0`, `3.3.1`, `3.4.0`, `3.5.0`]
-1. `org.apache.servicemix.bundles:org.apache.servicemix.bundles.poi`  -> [`5.2.5_1`]
-1. `org.apache.storm:blobstore-migrator`  -> [`2.6.2`]
-1. `org.apache.storm:storm-elasticsearch-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
-1. `org.apache.storm:storm-hive-examples`  -> [`2.6.4`, `2.7.0`]
-1. `org.apache.storm:storm-loadgen`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
-1. `org.apache.storm:storm-shaded-deps`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`, `2.8.0`]
-1. `org.apache.storm:storm-starter`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
-1. `org.apache.tez:tez-aux-services`  -> [`0.10.4`, `0.10.5`]
-1. `org.apache.tika:tika-eval-app`  -> [`3.0.0-BETA2`, `3.0.0`, `3.1.0`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
-1. `org.datakurator:kurator-ffdq`  -> [`3.0.0`, `3.1.0`, `3.2.0`]
-1. `org.dominokit:domino-aggregator-apt`  -> [`1.0.3`]
-1. `org.finos.legend.engine.ide.lsp:legend-engine-ide-lsp-server-shaded`  -> [`0.0.3`, `0.0.4`, `0.0.5`, `0.0.6`, `0.0.8`, `0.0.9`, `0.0.10`, `0.1.1`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.3.0`, `0.4.0`, `0.4.1`, `0.4.2`, `0.5.1`]
-1. `org.liquibase:liquibase-s3-extension`  -> [`1.1.4`]
-1. `org.metadatacenter:cedar-model-validation-library`  -> [`2.6.54`, `2.6.57`, `2.6.58`, `2.7.4`]
-1. `org.sonarsource.flex:sslr-flex-toolkit`  -> [`2.14.0.5032`]
-1. `org.sonarsource.python:sonar-python-plugin`  -> [`4.23.0.17664`, `4.24.0.18631`, `4.25.0.19056`, `4.26.0.19456`, `4.26.1.20337`, `5.0.0.20426`, `5.1.0.20567`, `5.2.0.20808`, `5.3.0.21704`, `5.4.0.22255`, `5.5.0.23286`, `5.5.0.23291`]
-1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.7.0`, `2.8.0`, `2.8.1`]
-1. `org.teavm:teavm-relocated-libs-commons-io`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
-1. `org.vafer:jdependency`  -> [`2.10`, `2.11`, `2.12`, `2.13`]
 
 ## org.objectweb.asm
 
@@ -3662,7 +3664,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-cdc-pipeline-connector-postgres`  -> [`3.5.0`]
 1. `org.apache.flink:flink-sql-connector-db2-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`, `3.5.0`]
 1. `org.apache.flink:flink-sql-connector-postgres-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`, `3.5.0`]
-1. `org.apache.hudi:hudi-metaserver-server-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-metaserver-server-bundle`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
 1. `org.apache.inlong:sort-connector-doris`  -> [`2.2.0`, `2.3.0`]
 1. `org.apache.inlong:sort-connector-kudu`  -> [`2.2.0`, `2.3.0`]
 1. `org.apache.inlong:sort-connector-mysql-cdc-v1.15`  -> [`1.10.0`, `1.11.0`, `1.12.0`, `1.13.0`, `2.0.0`, `2.1.0`, `2.2.0`, `2.3.0`]
@@ -4848,7 +4850,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.quarkus:quarkus-ide-launcher`  -> [`3.23.0`]
 1. `io.streamnative:pulsar-functions-runtime-all`  -> [`4.0.4.2`, `4.0.4.3`, `4.0.5.1`, `4.0.5.2`]
 1. `io.telicent.jena.graphql:graphql-server`  -> [`0.9.3`, `0.10.0`]
-1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`]
+1. `org.apache.pulsar:pulsar-functions-runtime-all`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 1. `org.jspecify:jspecify` 🧩 -> [`0.2.0`, `0.3.0-alpha-1`, `0.3.0-alpha-2`, `0.3.0-alpha-3`, `0.3.0`, `1.0.0`]
 1. `org.kie.j2cl.tools.processors:processors`  -> [`0.8.0`, `0.8.1`]
 1. `org.treblereel.j2cl.processors:processors`  -> [`0.8`]
@@ -4992,15 +4994,15 @@ For example, at least 12 artifacts on Maven Central claim to be the module `com.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.module.afterburner;`.
 
 1. `com.fasterxml.jackson.module:jackson-module-afterburner` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `2.19.0-rc2`, `2.19.0`]
-1. `org.apache.hudi:hudi-cli-bundle_2.12`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-cli-bundle_2.13`  -> [`1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-datahub-sync-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-gcp-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-presto-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-trino-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-utilities-slim-bundle_2.12`  -> [`1.0.0`, `1.0.1`, `1.0.2`]
-1. `org.apache.hudi:hudi-utilities-slim-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`]
+1. `org.apache.hudi:hudi-cli-bundle_2.12`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-cli-bundle_2.13`  -> [`1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-datahub-sync-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-gcp-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-presto-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-timeline-server-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-trino-bundle`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-utilities-slim-bundle_2.12`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
+1. `org.apache.hudi:hudi-utilities-slim-bundle_2.13`  -> [`0.15.0`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
 1. `org.kill-bill.billing.plugin.java:stripe-plugin`  -> [`7.2.0`]
 1. `org.kill-bill.billing:killbill-platform-osgi-bundles-logger`  -> [`0.40.2`, `0.40.3`, `0.40.4`]
 
@@ -5156,7 +5158,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.streamnative:pulsar-jms-cli`  -> [`6.1.1`]
 1. `io.streamnative:tck-executor`  -> [`6.1.1`]
 1. `org.apache.pulsar:pulsar-client-admin`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`]
-1. `org.apache.pulsar:pulsar-functions-local-runner`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`]
+1. `org.apache.pulsar:pulsar-functions-local-runner`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 
 ## org.apache.commons.csv
 
@@ -5255,7 +5257,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.hawt:hawtio-embedded`  -> [`4.0-M1`, `4.0-M2`]
 1. `jakarta.servlet:jakarta.servlet-api` 🧩 -> [`6.0.0`, `6.1.0-M1`, `6.1.0-M2`, `6.1.0`]
 1. `org.apache.felix:org.apache.felix.http.servlet-api`  -> [`3.0.0`, `6.1.0`]
-1. `org.apache.myfaces.core:myfaces-bundle`  -> [`4.0.0-RC5`, `4.0.0`, `4.0.1`]
+1. `org.apache.myfaces.core:myfaces-bundle`  -> [`4.0.0-RC5`, `4.0.0`, `4.0.1`, `4.1.2`]
 1. `org.apache.tomcat:tomcat-servlet-api`  -> [`10.0.0-M8`, `10.0.0-M9`, `10.0.0-M10`, `10.0.0`, `10.0.2`, `10.0.4`, `10.0.5`, `10.0.6`, `10.1.0-M1`, `10.1.0-M2`, `10.1.0-M4`, `10.1.0-M5`, `10.1.0-M6`, `10.1.0-M7`, `10.1.0-M8`, `10.1.0-M10`, `10.1.0-M11`, `10.1.0-M12`, `10.1.0-M14`, `10.1.0-M15`, `10.1.0-M16`, `10.1.0-M17`, `10.1.0`, `10.1.1`, `10.1.2`, `11.0.0-M1`, `11.0.0-M3`, `11.0.0-M4`, `11.0.0-M5`, `11.0.0-M6`, `11.0.0-M7`, `11.0.0-M9`, `11.0.0-M10`, `11.0.0-M11`, `11.0.0-M12`, `11.0.0-M13`, `11.0.0-M14`, `11.0.0-M15`, `11.0.0-M16`, `11.0.0-M17`, `11.0.0-M18`, `11.0.0-M19`, `11.0.0-M20`, `11.0.0-M21`, `11.0.0-M24`, `11.0.0-M25`, `11.0.0-M26`, `11.0.0`, `11.0.1`, `11.0.2`, `11.0.3`, `11.0.4`, `11.0.5`, `11.0.6`, `11.0.7`, `11.0.8`, `11.0.9`, `11.0.10`, `11.0.11`, `11.0.12`, `11.0.13`, `11.0.14`]
 
 ## java.measure
