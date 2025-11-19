@@ -4158,7 +4158,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.sling:org.apache.sling.testing.sling-mock-oak`  -> [`4.1.0-1.86.0`]
 1. `org.apache.storm:storm-shaded-deps`  -> [`2.8.1`, `2.8.2`, `2.8.3`]
 1. `org.codeforamerica.platform:form-flow`  -> [`1.6.25`, `1.6.26`, `1.6.27`, `1.6.28`, `1.6.29`, `1.6.30`, `1.6.31`, `1.6.32`, `1.6.33`]
-1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`, `0.22.1`, `0.22.2`]
+1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.21.0`, `0.21.1`, `0.21.2`, `0.22.0`, `0.22.1`, `0.22.2`, `0.22.3`]
 1. `org.opendaylight.jsonrpc:test-tool`  -> [`1.18.0`, `1.18.1`]
 1. `org.projectnessie.nessie:nessie-content-generator`  -> [`0.103.2`, `0.103.3`, `0.103.4`, `0.103.5`, `0.103.6`]
 1. `org.wiremock:wiremock-standalone`  -> [`4.0.0-beta.1`, `4.0.0-beta.2`, `4.0.0-beta.4`, `4.0.0-beta.6`, `4.0.0-beta.7`, `4.0.0-beta.8`, `4.0.0-beta.9`, `4.0.0-beta.10`]
@@ -4710,7 +4710,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.edurt.datacap:datacap-jdbc-ydb`  -> [`2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`]
 1. `io.edurt.datacap:datacap-shaded-ydb`  -> [`2024.03.1`, `2024.03.2`, `2024.03.3`, `2024.03.4`, `2024.03.5`, `2024.03.6`, `2024.03.7`, `2024.03.8`, `2024.3.9`, `2024.3.10`, `2024.3.11`, `2024.4.0`, `2024.4.1`, `2025.1.0`]
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.4`, `1.2.5`]
-1. `org.apache.cassandra:java-driver-guava-shaded`  -> [`4.19.0`, `4.19.1`]
+1. `org.apache.cassandra:java-driver-guava-shaded`  -> [`4.19.0`, `4.19.1`, `4.19.2`]
 1. `org.liquibase.ext:liquibase-commercial-bigquery`  -> [`4.29.1`, `4.29.2`, `4.31.0`, `4.31.1`, `4.32.0`]
 
 ## com.sun.xml.bind
