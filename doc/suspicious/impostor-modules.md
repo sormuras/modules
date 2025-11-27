@@ -6556,7 +6556,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.apache.commons.configuration2
 
 1. `com.databricks.labs:databricks-morph-plugin`  -> [`0.2.0`, `0.3.0`, `0.4.0`, `0.5.0`, `0.6.0`, `0.6.1`]
-1. `org.apache.commons:commons-configuration2` 🧩 -> [`2.10.0`, `2.10.1`, `2.11.0`, `2.12.0`]
+1. `org.apache.commons:commons-configuration2` 🧩 -> [`2.10.0`, `2.10.1`, `2.11.0`, `2.12.0`, `2.13.0`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.27`, `4.4.0.28`, `4.4.0.29`, `4.4.0.30`, `4.4.0.31`, `4.4.0.32`, `4.4.0.33`, `4.4.0.34`, `4.4.0.35`, `4.4.0.36`]
 1. `software.amazon.s3tables:s3-tables-catalog-for-iceberg-runtime`  -> [`0.1.3`, `0.1.4`, `0.1.5`, `0.1.6`]
 
