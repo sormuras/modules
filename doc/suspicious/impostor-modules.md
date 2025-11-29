@@ -329,7 +329,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.hudi:hudi-aws-bundle`  -> [`0.14.0`, `1.0.0-beta1`]
 1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`0.12.1-rc2`, `0.12.1`]
 1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.12.0`, `0.12.1-rc2`, `0.12.1`, `0.12.2`, `0.13.0`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
-1. `org.apache.hugegraph:hugegraph-spark-connector`  -> [`1.2.0`, `1.3.0`, `1.5.0`]
+1. `org.apache.hugegraph:hugegraph-spark-connector`  -> [`1.2.0`, `1.3.0`, `1.5.0`, `1.7.0`]
 1. `org.apache.iceberg:iceberg-aws-bundle`  -> [`1.4.0`, `1.4.1`, `1.4.2`, `1.4.3`]
 1. `org.apache.iceberg:iceberg-azure-bundle`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`, `1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
 1. `org.apache.iceberg:iceberg-flink-runtime-1.13`  -> [`0.14.0`, `0.14.1`, `1.0.0`]
@@ -4119,7 +4119,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.common
 
-For example, at least 42 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 43 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
 
 1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
@@ -4131,6 +4131,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.6`]
 1. `net.sourceforge.plantuml:plantuml-epl`  -> [`1.2025.3`, `1.2025.4`]
 1. `org.apache.calcite.avatica:avatica-tck`  -> [`1.27.0`]
+1. `org.apache.doris:hive-catalog-shade`  -> [`3.1.0`]
 1. `org.apache.hadoop.thirdparty:hadoop-shaded-guava`  -> [`1.5.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.11`, `4.1.12`]
 1. `org.apache.iceberg:iceberg-bundled-guava`  -> [`1.9.0`, `1.9.1`, `1.9.2`, `1.10.0`]
