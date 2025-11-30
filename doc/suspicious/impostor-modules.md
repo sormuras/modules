@@ -5650,6 +5650,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.glassfish.tyrus.bundles:tyrus-standalone-client`  -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0`, `2.0.1`]
 1. `org.glassfish.tyrus.ext:tyrus-client-cli`  -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0`, `2.0.1`]
 
+## java.activation
+
+1. `com.guicedee.services:javax.activation`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
+1. `com.jwebmp.thirdparty:javax.activation`  -> [`0.67.0.5`, `0.67.0.7`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
+1. `jakarta.tck.tools:sigtest-maven-plugin`  -> [`2.0`]
+1. `jakarta.tck:sigtest-maven-plugin`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`]
+1. `org.apache.netbeans.modules.jackpot30:tool`  -> [`28.0`]
+1. `org.glassfish.metro:helidon-activation`  -> [`2.0.0`, `2.0.1`]
+
 ## javax.inject
 
 1. `com.guicedee.services:javax.inject`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
@@ -5764,14 +5773,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.datanucleus:jakarta.persistence`  -> [`3.0.0`, `3.1.0`, `3.1.1`]
 1. `org.jboss.weld:weld-osgi-bundle`  -> [`4.0.0.Beta1`, `4.0.0.Beta2`]
 1. `org.liquibase.ext:liquibase-hibernate6`  -> [`4.25.0`]
-
-## java.activation
-
-1. `com.guicedee.services:javax.activation`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
-1. `com.jwebmp.thirdparty:javax.activation`  -> [`0.67.0.5`, `0.67.0.7`, `0.67.0.12`, `0.67.0.15`, `0.67.0.16`, `0.68.0.1`]
-1. `jakarta.tck.tools:sigtest-maven-plugin`  -> [`2.0`]
-1. `jakarta.tck:sigtest-maven-plugin`  -> [`2.0`, `2.1`, `2.2`, `2.3`, `2.4`, `2.5`, `2.6`]
-1. `org.glassfish.metro:helidon-activation`  -> [`2.0.0`, `2.0.1`]
 
 ## java.json.bind
 
