@@ -5107,7 +5107,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.crealytics:spark-excel_2.13`  -> [`3.5.0_0.20.1`, `3.5.0_0.20.2`, `3.5.0_0.20.3`, `3.5.1_0.20.4`]
 1. `com.eurodyn.qlack.extras:Qlack-Extras-TranslationsConverter`  -> [`1.7.5`]
 1. `io.github.mianalysis:mia-plugin`  -> [`1.5.0`, `1.5.1`, `1.5.2`]
-1. `org.apache.poi:poi` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`]
+1. `org.apache.poi:poi` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`, `5.5.1`]
 1. `org.apache.tika:tika-app`  -> [`2.3.0`]
 1. `org.datakurator:kurator-ffdq`  -> [`2.0.0`]
 1. `org.lucee:poi`  -> [`5.0.0`]
@@ -5296,7 +5296,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.guicedee.services:apache-poi-ooxml`  -> [`0.70.0.1-rc1`, `0.70.0.1-rc2`, `0.70.0.1-rc3`, `0.70.0.1-rc4`, `0.70.0.1-rc5`, `0.70.0.1-rc13`, `0.70.0.1-rc14`, `0.70.0.1-rc15`, `0.70.0.1`, `0.70.0.2`, `0.70.0.3`, `0.70.0.4`, `0.70.0.5`, `0.70.0.6`, `0.70.0.7`, `62`]
 1. `io.kestra.plugin:plugin-serdes`  -> [`0.13.0`, `0.13.1`, `0.13.2`, `0.13.3`, `0.13.4`, `0.14.0`, `0.15.0`, `0.16.0`, `0.17.0`, `0.17.1`, `0.18.0`, `0.18.1`, `0.19.0`, `0.20.0`, `0.21.0`, `0.22.0`, `0.22.1`, `0.22.2`, `0.23.0`, `0.23.1`]
 1. `io.luchta:forma4j`  -> [`1.5.1`, `1.6.0`, `1.6.1`, `1.7.0`, `1.7.1`, `1.7.2`, `1.8.0`]
-1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`]
+1. `org.apache.poi:poi-ooxml` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`, `5.5.1`]
 1. `org.kie:kie-dmn-xls2dmn-cli`  -> [`8.16.0.Beta`, `8.16.1.Beta`, `8.17.0.Beta`, `8.18.0.Beta`, `8.19.0.Beta`, `8.20.0.Beta`, `8.21.0.Beta`, `8.22.0.Beta`, `8.22.1.Beta`, `8.23.0.Beta`, `8.24.0.Beta`, `8.29.0.Final`, `8.30.0.Final`, `8.31.0.Final`, `8.31.1.Final`, `8.32.0.Final`, `8.33.0.Final`, `8.34.0.Final`, `8.35.0.Final`, `8.36.0.Final`, `8.37.0.Final`, `8.38.0.Final`, `8.39.0.Final`, `9.43.0.Alpha`, `9.44.0.Final`]
 
 ## org.assertj.core
@@ -7282,8 +7282,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.poi.ooxml.schemas
 
-1. `org.apache.poi:poi-ooxml-full`  -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`]
-1. `org.apache.poi:poi-ooxml-lite` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`]
+1. `org.apache.poi:poi-ooxml-full`  -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`, `5.5.1`]
+1. `org.apache.poi:poi-ooxml-lite` 🧩 -> [`5.0.0`, `5.1.0`, `5.2.0`, `5.2.1`, `5.2.2`, `5.2.3`, `5.2.4`, `5.2.5`, `5.3.0`, `5.4.0`, `5.4.1`, `5.5.1`]
 1. `org.lucee:poi-ooxml-lite`  -> [`5.0.0`]
 
 ## org.apache.tomcat.embed.jasper
