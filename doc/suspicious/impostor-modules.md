@@ -8,7 +8,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.google.gson` x404
 1. `com.fasterxml.jackson.databind` x400
 1. `kotlin.stdlib.jdk8` x251
-1. `org.apache.logging.log4j` x247
+1. `org.apache.logging.log4j` x248
 1. `org.slf4j` x244
 1. `kotlin.stdlib` x158
 1. `com.fasterxml.jackson.datatype.jsr310` x127
@@ -1606,7 +1606,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.logging.log4j
 
-For example, at least 247 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 248 artifacts on Maven Central claim to be the module `org.apache.logging.log4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.logging.log4j;`.
 
 1. `au.org.consumerdatastandards:codegen`  -> [`0.9.6`, `1.0.0-RC1`, `1.0.0-RC2`, `1.0.0-RC3`, `1.0.0-RC4`, `1.0.0-RC5`, `1.0.0-RC6`, `1.0.0`, `1.1.1`]
@@ -1778,8 +1778,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:statefun-ridesharing-example-simulator`  -> [`2.0.0`, `2.1.0`, `2.2.0`, `2.2.1`, `2.2.2`]
 1. `org.apache.fluss:fluss-dist`  -> [`0.8.0-incubating`]
 1. `org.apache.hadoop:hadoop-ozone-filesystem-shaded`  -> [`1.0.0`]
-1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`, `1.2.0`]
-1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`, `1.2.0`]
+1. `org.apache.hbase.operator.tools:hbase-hbck2`  -> [`1.0.0`, `1.1.0`, `1.2.0`, `1.3.0`]
+1. `org.apache.hbase.operator.tools:hbase-table-reporter`  -> [`1.3.0`]
+1. `org.apache.hbase.operator.tools:hbase-tools`  -> [`1.1.0`, `1.2.0`, `1.3.0`]
 1. `org.apache.hudi:hudi-cli-bundle_2.11`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.hudi:hudi-cli-bundle_2.12`  -> [`0.13.0`, `0.13.1`, `0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`]
 1. `org.apache.hugegraph:computer-k8s-operator`  -> [`1.0.0`, `1.2.0`, `1.5.0`]
