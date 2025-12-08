@@ -4834,7 +4834,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `fr.lirmm.graphik:brunner-vlog`  -> [`1.0.4`, `1.0.5`]
 1. `io.github.davidwhitlock.joy:grader`  -> [`1.2.0`, `1.3.1`]
 1. `io.github.mderevyankoaqa:jmeter-plugins-influxdb2-listener`  -> [`2.8`]
-1. `org.apache.commons:commons-text` 🧩 -> [`1.11.0`, `1.12.0`, `1.13.0`, `1.13.1`, `1.14.0`]
+1. `org.apache.commons:commons-text` 🧩 -> [`1.11.0`, `1.12.0`, `1.13.0`, `1.13.1`, `1.14.0`, `1.15.0`]
 1. `org.camunda.community.migration:backend-diagram-converter-cli`  -> [`0.8.0`, `0.8.1`]
 1. `org.neo4j:neosemantics`  -> [`5.15`, `5.17.0`, `5.18.0`]
 1. `org.opendaylight.aaa:aaa-cli-jar`  -> [`0.18.3`, `0.18.4`, `0.19.0`, `0.19.1`, `0.19.2`, `0.19.3`]
