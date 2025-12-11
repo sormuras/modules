@@ -4120,7 +4120,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.common
 
-For example, at least 43 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 44 artifacts on Maven Central claim to be the module `com.google.common`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.common;`.
 
 1. `com.google.guava:guava`  -> [`33.4.5-jre`, `33.4.6-jre`, `33.4.7-jre`, `33.4.8-jre`]
@@ -4150,6 +4150,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.jackrabbit:oak-run`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`, `1.88.0`]
 1. `org.apache.jackrabbit:oak-shaded-guava`  -> [`1.80`, `1.82.0`, `1.84.0`, `1.86.0`, `1.88.0`]
 1. `org.apache.jackrabbit:oak-upgrade`  -> [`1.86.0`, `1.88.0`]
+1. `org.apache.phoenix.thirdparty:phoenix-shaded-guava`  -> [`2.2.0`]
 1. `org.apache.phoenix:phoenix-pherf`  -> [`5.3.0`]
 1. `org.apache.sedona:sedona-flink-shaded_2.12`  -> [`1.8.0`]
 1. `org.apache.sedona:sedona-snowflake`  -> [`1.8.0`]
@@ -4218,7 +4219,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 For example, at least 33 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.dataformat.cbor`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.dataformat.cbor;`.
 
-1. `com.amazonaws:aws-java-sdk-bundle`  -> [`1.12.768`, `1.12.769`, `1.12.770`, `1.12.771`, `1.12.772`, `1.12.773`, `1.12.774`, `1.12.775`, `1.12.776`, `1.12.777`, `1.12.778`, `1.12.779`, `1.12.780`, `1.12.781`, `1.12.782`, `1.12.783`, `1.12.784`, `1.12.785`, `1.12.786`, `1.12.787`, `1.12.788`, `1.12.789`, `1.12.790`, `1.12.791`, `1.12.792`, `1.12.793`, `1.12.794`]
+1. `com.amazonaws:aws-java-sdk-bundle`  -> [`1.12.768`, `1.12.769`, `1.12.770`, `1.12.771`, `1.12.772`, `1.12.773`, `1.12.774`, `1.12.775`, `1.12.776`, `1.12.777`, `1.12.778`, `1.12.779`, `1.12.780`, `1.12.781`, `1.12.782`, `1.12.783`, `1.12.784`, `1.12.785`, `1.12.786`, `1.12.787`, `1.12.788`, `1.12.789`, `1.12.790`, `1.12.791`, `1.12.792`, `1.12.793`, `1.12.794`, `1.12.795`]
 1. `com.amazonaws:aws-xray-agent-plugin`  -> [`2.7.1`, `2.8.0`, `2.9.0`, `2.9.1`, `2.18.2`]
 1. `com.fasterxml.jackson.dataformat:jackson-dataformat-cbor` 🧩 -> [`2.10.0.pr1`, `2.10.0.pr2`, `2.10.0.pr3`, `2.10.1`, `2.10.2`, `2.10.3`, `2.11.0.rc1`, `2.11.0`, `2.11.1`, `2.11.2`, `2.11.3`, `2.12.0-rc1`, `2.12.0-rc2`, `2.12.0`, `2.12.1`, `2.12.2`, `2.12.3`, `2.12.4`, `2.13.0-rc1`, `2.13.0-rc2`, `2.13.0`, `2.13.1`, `2.13.2`, `2.13.3`, `2.13.4`, `2.14.0-rc1`, `2.14.0-rc2`, `2.14.0-rc3`, `2.14.0`, `2.14.1`, `2.14.2`, `2.15.0-rc1`, `2.15.0-rc2`, `2.15.0-rc3`, `2.15.0`, `2.15.1`, `2.15.2`, `2.15.3`, `2.16.0-rc1`, `2.16.0`, `2.16.1`, `2.17.0-rc1`, `2.17.0`, `2.17.1`, `2.17.2`, `2.18.0-rc1`, `2.18.0`, `2.18.1`, `2.18.2`, `2.18.3`, `2.19.0-rc2`, `2.19.0`]
 1. `com.liferay.portal:release.dxp.api`  -> [`7.4.13.u47`, `7.4.13.u83`, `7.4.13.u88`]
@@ -4449,6 +4450,33 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `software.amazon.disco:disco-java-agent-inject-api`  -> [`0.10.0`, `0.11.0`, `0.12.0`]
 1. `software.amazon.disco:disco-java-agent-instrumentation-preprocess`  -> [`0.12.0`]
 
+## org.apache.commons.cli
+
+For example, at least 21 artifacts on Maven Central claim to be the module `org.apache.commons.cli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.cli;`.
+
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c3.11`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.0`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.1`  -> [`3.1.0`]
+1. `com.ericsson.bss.cassandra.ecaudit:eclog_c5.0`  -> [`3.1.0`, `3.1.1`]
+1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`]
+1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.15.1`, `1.16.0`, `1.16.1`, `1.17.0`, `1.18.0`, `1.19.0`]
+1. `io.quarkus:quarkus-ide-launcher`  -> [`3.15.1`]
+1. `name.dmaus.schxslt:cli`  -> [`1.10`]
+1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
+1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
+1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
+1. `org.apache.james:apache-james-mpt-app`  -> [`3.9.0`]
+1. `org.apache.phoenix.thirdparty:phoenix-shaded-commons-cli`  -> [`2.2.0`]
+1. `org.apache.phoenix:phoenix-client-lite-hbase-2.5`  -> [`5.3.0`]
+1. `org.apache.phoenix:phoenix-client-lite-hbase-2.6`  -> [`5.3.0`]
+1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
+1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
+1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
+1. `org.apktool:apktool-cli`  -> [`2.10.0`, `2.11.0`, `2.11.1`]
+1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
+
 ## org.apiguardian.api
 
 For example, at least 21 artifacts on Maven Central claim to be the module `org.apiguardian.api`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4502,32 +4530,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `se.bjurr.violations:violation-comments-to-github-command-line`  -> [`1.9`, `1.10`, `1.19.0`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.21.6`, `1.21.7`, `1.22.0`, `1.23.0`, `1.23.1`, `1.23.2`]
 1. `se.bjurr.violations:violation-comments-to-gitlab-command-line`  -> [`1.11`, `1.17`, `1.23.0`, `1.24.0`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`, `1.29.0`, `1.29.1`, `1.30.0`, `1.30.1`, `1.30.2`]
 1. `se.bjurr.violations:violations-command-line`  -> [`1.5`, `1.7`, `1.15.0`, `1.16.0`, `1.17.0`, `1.18.0`, `1.18.1`, `1.19.0`, `1.20.4`, `1.20.5`, `1.20.6`, `1.21.0`, `1.21.2`, `1.21.3`, `1.21.4`, `1.21.5`, `1.21.6`]
-
-## org.apache.commons.cli
-
-For example, at least 20 artifacts on Maven Central claim to be the module `org.apache.commons.cli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.cli;`.
-
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c3.11`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.0`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c4.1`  -> [`3.1.0`]
-1. `com.ericsson.bss.cassandra.ecaudit:eclog_c5.0`  -> [`3.1.0`, `3.1.1`]
-1. `commons-cli:commons-cli`  -> [`1.6.0`, `1.7.0`, `1.8.0`, `1.9.0`, `1.10.0`, `1.11.0`]
-1. `dev.walgo:db2dto`  -> [`1.13.0`, `1.13.1`, `1.14.0`, `1.14.1`, `1.14.2`, `1.15.0`, `1.15.1`, `1.16.0`, `1.16.1`, `1.17.0`, `1.18.0`, `1.19.0`]
-1. `io.quarkus:quarkus-ide-launcher`  -> [`3.15.1`]
-1. `name.dmaus.schxslt:cli`  -> [`1.10`]
-1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
-1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
-1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
-1. `org.apache.james:apache-james-mpt-app`  -> [`3.9.0`]
-1. `org.apache.phoenix:phoenix-client-lite-hbase-2.5`  -> [`5.3.0`]
-1. `org.apache.phoenix:phoenix-client-lite-hbase-2.6`  -> [`5.3.0`]
-1. `org.apache.phoenix:phoenix-pherf`  -> [`5.2.1`]
-1. `org.apache.storm:storm-loadgen`  -> [`2.7.1`]
-1. `org.apache.storm:storm-starter`  -> [`2.7.1`]
-1. `org.apktool:apktool-cli`  -> [`2.10.0`, `2.11.0`, `2.11.1`]
-1. `org.teavm:teavm-relocated-libs-commons-cli`  -> [`0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## org.xerial.sqlitejdbc
 
