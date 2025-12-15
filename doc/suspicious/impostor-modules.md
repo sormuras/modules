@@ -3127,7 +3127,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.storm:flux-core`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:flux-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
 1. `org.apache.storm:storm-jdbc-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`, `2.7.1`]
-1. `org.apache.tomee:openejb-lite`  -> [`10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`, `10.1.1`, `10.1.2`]
+1. `org.apache.tomee:openejb-lite`  -> [`10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`, `10.1.1`, `10.1.2`, `10.1.3`]
 1. `org.apache.zeppelin:launcher-k8s-standard`  -> [`0.12.0`]
 1. `org.apache.zeppelin:zeppelin-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
 1. `org.apache.zeppelin:zeppelin-jupyter-interpreter-shaded`  -> [`0.11.2`, `0.12.0`]
@@ -6569,7 +6569,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `org.apache.commons:commons-dbcp2` 🧩 -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.13.0`]
 1. `org.apache.openjpa:openjpa-all`  -> [`4.0.1`, `4.1.0`, `4.1.1`]
-1. `org.apache.tomee:commons-dbcp2-shade`  -> [`9.1.2`, `10.0.0-M1`, `10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`, `10.1.1`, `10.1.2`]
+1. `org.apache.tomee:commons-dbcp2-shade`  -> [`9.1.2`, `10.0.0-M1`, `10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`, `10.1.1`, `10.1.2`, `10.1.3`]
 1. `org.ikasan:commons-dbcp2`  -> [`1.0.0`]
 
 ## org.apache.tomcat.embed.el
