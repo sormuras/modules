@@ -4,8 +4,8 @@ An impostor module is a Maven artifact that contains the `module-info.class` fil
 Some well known modules that were packaged as Maven artifacts by their authors, have been repackaged into dozens of other Maven artifacts by the maintainers of those other artifacts.
 This makes it look like there are dozens of modules with the same name in Maven Central -- all but one are impostor modules.
 
-1. `com.fasterxml.jackson.core` x494
-1. `com.google.gson` x404
+1. `com.fasterxml.jackson.core` x495
+1. `com.google.gson` x405
 1. `com.fasterxml.jackson.databind` x400
 1. `kotlin.stdlib.jdk8` x251
 1. `org.apache.logging.log4j` x248
@@ -27,13 +27,13 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `org.objectweb.asm` x64
 1. `com.zaxxer.hikari` x61
 1. `com.google.errorprone.annotations` x60
-1. `org.apache.commons.compress` x59
+1. `org.apache.commons.compress` x60
 1. `org.jetbrains.annotations` x56
 1. _... and some more._
 
 ## com.fasterxml.jackson.core
 
-For example, at least 494 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 495 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.core;`.
 
 1. `ai.granica:granica-java-sdk`  -> [`1.0.4`, `1.0.5`]
@@ -326,6 +326,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-table-store-spark`  -> [`0.2.0`, `0.2.1`, `0.3.0`]
 1. `org.apache.fluss:fluss-lake-paimon`  -> [`0.8.0-incubating`]
 1. `org.apache.fluss:fluss-shaded-jackson`  -> [`2.15.3-1.0-incubating`]
+1. `org.apache.gravitino:gravitino-iceberg-azure-bundle`  -> [`1.1.0`]
 1. `org.apache.hudi:hudi-aws-bundle`  -> [`0.14.0`, `1.0.0-beta1`]
 1. `org.apache.hudi:hudi-flink1.15-bundle`  -> [`0.12.1-rc2`, `0.12.1`]
 1. `org.apache.hudi:hudi-integ-test-bundle`  -> [`0.12.0`, `0.12.1-rc2`, `0.12.1`, `0.12.2`, `0.13.0`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
@@ -533,7 +534,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.google.gson
 
-For example, at least 404 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 405 artifacts on Maven Central claim to be the module `com.google.gson`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.google.gson;`.
 
 1. `ai.bareun.tagger:bareun`  -> [`1.1.40`, `1.2.0`, `1.3.0`, `1.3.9.1`]
@@ -829,6 +830,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:flink-doris-connector-1.20`  -> [`24.0.0`, `24.0.1`, `24.1.0`, `25.0.0`, `25.1.0`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-doris`  -> [`3.3.0`, `3.4.0`, `3.5.0`]
 1. `org.apache.flink:flink-python`  -> [`1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.20.0`, `2.0-preview1`, `2.1.0`, `2.1.1`, `2.2.0`]
+1. `org.apache.gravitino:gravitino-iceberg-aliyun-bundle`  -> [`1.1.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-gson`  -> [`4.1.1`, `4.1.2`, `4.1.3`, `4.1.4`, `4.1.5`, `4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
 1. `org.apache.hbase:hbase-shaded-client-byo-hadoop`  -> [`3.0.0-alpha-4`, `3.0.0-beta-1`]
 1. `org.apache.hbase:hbase-shaded-client`  -> [`3.0.0-alpha-4`, `3.0.0-beta-1`]
@@ -2359,15 +2361,15 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.flink:flink-sql-connector-mongodb-cdc`  -> [`3.1.0`, `3.1.1`, `3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`, `3.5.0`]
 1. `org.apache.gravitino:client-java-runtime`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`]
 1. `org.apache.gravitino:filesystem-hadoop3-runtime`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`]
-1. `org.apache.gravitino:gravitino-client-java-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-filesystem-hadoop3-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-flink-connector-runtime-1.18_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.13`  -> [`1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-client-java-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-filesystem-hadoop3-runtime`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-flink-connector-runtime-1.18_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.3_2.13`  -> [`1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.4_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.12`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
+1. `org.apache.gravitino:gravitino-spark-connector-runtime-3.5_2.13`  -> [`0.6.0-incubating`, `0.6.1-incubating`, `0.7.0-incubating`, `0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.hudi:hudi-examples-k8s`  -> [`1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
 1. `org.apache.hudi:hudi-spark3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
 1. `org.apache.hudi:hudi-spark3.3-bundle_2.12`  -> [`0.14.0`, `1.0.0-beta1`, `1.0.0-beta2`, `1.0.0`, `1.0.1`, `1.0.2`, `1.1.0`]
@@ -3114,13 +3116,13 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.fluss:fluss-lake-lance`  -> [`0.8.0-incubating`]
 1. `org.apache.fluss:fluss-server`  -> [`0.8.0-incubating`]
 1. `org.apache.gravitino:gcp-bundle`  -> [`0.7.0-incubating`]
-1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-aliyun-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.gravitino:gravitino-aliyun`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-aws-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.gravitino:gravitino-aws`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-azure-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.gravitino:gravitino-azure`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
-1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-gcp-bundle`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.gravitino:gravitino-gcp`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
 1. `org.apache.pulsar:buildtools`  -> [`4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 1. `org.apache.seatunnel:seatunnel-shade-commons-lang3`  -> [`3.18.0-2.3.13`]
@@ -3624,7 +3626,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.mini2Dx:artemis-odb-cli`  -> [`2.4.0`]
 1. `org.netbeans.external:asm-7.2`  -> [`RELEASE113`]
 1. `org.noear:solon.extend.jetty.jsp`  -> [`1.0.2`, `1.0.2.1`, `1.0.3`]
-1. `org.ow2.asm:asm` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`]
+1. `org.ow2.asm:asm` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`, `9.9.1`]
 1. `org.python:jython-standalone`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.python:jython`  -> [`2.7.2b2`, `2.7.2b3`, `2.7.2rc1`, `2.7.2`]
 1. `org.robotframework:robotframework`  -> [`3.2`, `3.2.1`, `3.2.2`, `4.0`, `4.0.1`, `4.0.3`, `4.1`]
@@ -3766,7 +3768,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.compress
 
-For example, at least 59 artifacts on Maven Central claim to be the module `org.apache.commons.compress`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 60 artifacts on Maven Central claim to be the module `org.apache.commons.compress`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.apache.commons.compress;`.
 
 1. `cloud.piranha.dist:piranha-dist-micro`  -> [`24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`, `25.4.0`, `25.5.0`, `25.6.0`]
@@ -3787,30 +3789,31 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.kestra.plugin:plugin-kubernetes`  -> [`0.12.0`, `0.13.0`, `0.14.0`, `0.15.0`, `0.15.1`, `0.15.2`, `0.15.3`, `0.16.0`, `0.16.1`, `0.17.0`, `0.18.0`, `0.19.0`, `0.20.0`, `0.21.0`, `0.22.0`, `0.23.0`, `0.23.1`]
 1. `io.kestra.plugin:plugin-script-python`  -> [`0.23.0`]
 1. `io.streamnative:kafka-connect-avro-converter-shaded`  -> [`2.11.3.3`, `2.11.3.4`, `2.11.4.1`, `2.11.4.2`, `2.11.4.3`, `2.11.4.3-22cb86`]
-1. `org.apache.beam:beam-examples-multi-language`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
+1. `org.apache.beam:beam-examples-multi-language`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
 1. `org.apache.beam:beam-it-common`  -> [`2.57.0`]
 1. `org.apache.beam:beam-it-testcontainers`  -> [`2.57.0`]
 1. `org.apache.beam:beam-it-truthmatchers`  -> [`2.57.0`]
-1. `org.apache.beam:beam-runners-direct-java`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
+1. `org.apache.beam:beam-runners-direct-java`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
 1. `org.apache.beam:beam-runners-flink-1.15-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`]
 1. `org.apache.beam:beam-runners-flink-1.16-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`]
-1. `org.apache.beam:beam-runners-flink-1.17-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-runners-flink-1.18-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-runners-flink-1.19-job-server`  -> [`2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-runners-samza-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-runners-spark-3-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-core`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-expansion-service-app`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-extensions-schemaio-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-extensions-sql-jdbc`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-io-amazon-web-services2-expansion-service`  -> [`2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
+1. `org.apache.beam:beam-runners-flink-1.17-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-runners-flink-1.18-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-runners-flink-1.19-job-server`  -> [`2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-runners-flink-1.20-job-server`  -> [`2.70.0`]
+1. `org.apache.beam:beam-runners-samza-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-runners-spark-3-job-server`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-core`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-expansion-service-app`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-extensions-schemaio-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-extensions-sql-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-extensions-sql-jdbc`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-io-amazon-web-services2-expansion-service`  -> [`2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-io-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-io-google-cloud-platform-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
 1. `org.apache.beam:beam-sdks-java-io-kinesis-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`]
-1. `org.apache.beam:beam-sdks-java-io-snowflake-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-transform-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
+1. `org.apache.beam:beam-sdks-java-io-snowflake-expansion-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-transform-service`  -> [`2.57.0`, `2.58.0`, `2.58.1`, `2.59.0`, `2.60.0`, `2.61.0`, `2.62.0`, `2.63.0`, `2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
 1. `org.apache.commons:commons-compress` 🧩 -> [`1.24.0`, `1.25.0`, `1.26.0`, `1.26.1`, `1.26.2`, `1.27.0`, `1.27.1`, `1.28.0`]
 1. `org.apache.druid.extensions:druid-protobuf-extensions`  -> [`29.0.0`, `30.0.0`, `30.0.1`, `31.0.0`, `31.0.1`, `32.0.0`, `32.0.1`, `33.0.0`, `35.0.0`, `35.0.1`]
 1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.19.0`]
@@ -4282,7 +4285,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.copper-engine:copper-performance-test`  -> [`5.0.0-SNAPHOT`]
 1. `org.javastro.vodsl:vodslparser`  -> [`0.4.0`, `0.4.2`, `0.4.3`]
 1. `org.netbeans.external:asm-commons-7.2`  -> [`RELEASE113`]
-1. `org.ow2.asm:asm-commons` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`]
+1. `org.ow2.asm:asm-commons` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`, `9.9.1`]
 1. `org.realityforge.shade:shade-cli`  -> [`2.0.0`]
 1. `org.tango-controls.pogo:Pogo`  -> [`9.7.5`, `9.7.6`]
 1. `org.tango-controls:Pogo`  -> [`9.8.1`, `9.8.2`, `9.8.4`]
@@ -4465,7 +4468,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `name.dmaus.schxslt:cli`  -> [`1.10`]
 1. `net.sourceforge.svg2ico:svg2ico`  -> [`1.37`, `1.39`, `1.40`, `1.41`, `1.44`, `1.46`, `1.47`, `1.48`, `1.49`, `1.50`, `1.51`, `1.55`, `1.56`, `1.57`, `1.58`, `1.60`, `1.61`, `1.62`, `1.63`, `1.64`, `1.65`, `1.66`, `1.67`, `1.68`, `1.69`, `1.70`, `1.71`, `1.73`, `1.74`, `1.75`, `1.76`, `1.77`, `1.78`, `1.79`, `1.80`, `1.82`, `1.83`, `1.85`, `1.86`, `1.87`, `1.89`, `1.90`, `1.91`, `1.92`, `1.93`, `1.94`]
 1. `net.thisptr:jackson-jq-cli`  -> [`1.0.0-preview.20240207`, `1.0.1`, `1.1.0`, `1.2.0`, `1.3.0`]
-1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`]
+1. `org.apache.gravitino:gravitino-cli`  -> [`0.8.0-incubating`, `0.9.0-incubating`, `0.9.1`, `1.0.0`, `1.0.1`, `1.1.0`]
 1. `org.apache.hbase.thirdparty:hbase-shaded-miscellaneous`  -> [`4.1.6`, `4.1.7`, `4.1.8`, `4.1.9`, `4.1.10`]
 1. `org.apache.james:apache-james-mpt-app`  -> [`3.9.0`]
 1. `org.apache.phoenix.thirdparty:phoenix-shaded-commons-cli`  -> [`2.2.0`]
@@ -4655,6 +4658,50 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.keycloak:kcinit`  -> [`9.0.0`, `9.0.2`, `9.0.3`]
 1. `org.lucee:ehcache`  -> [`2.10.9.2`]
 
+## dev.failsafe.core
+
+For example, at least 16 artifacts on Maven Central claim to be the module `dev.failsafe.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires dev.failsafe.core;`.
+
+1. `com.qcefast:openFast`  -> [`1.4.6`]
+1. `com.spotify.confidence:openfeature-provider`  -> [`0.0.11`]
+1. `com.spotify.confidence:sdk-java`  -> [`0.0.12`, `0.0.13`, `0.0.14`, `0.0.15`]
+1. `dev.failsafe:failsafe` 🧩 -> [`3.3.1`, `3.3.2`]
+1. `io.kestra.plugin:plugin-gcp`  -> [`0.17.0`, `0.17.1`, `0.17.2`, `0.17.3`, `0.18.0`, `0.18.1`, `0.18.2`, `0.19.0`, `0.20.0`]
+1. `org.apache.gravitino:gravitino-iceberg-aws-bundle`  -> [`1.1.0`]
+1. `org.apache.iceberg:iceberg-aws-bundle`  -> [`1.10.0`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
+
+## io.netty.internal.tcnative
+
+For example, at least 16 artifacts on Maven Central claim to be the module `io.netty.internal.tcnative`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires io.netty.internal.tcnative;`.
+
+1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`2.1.0`, `2.2.0`, `2.3.0`, `2.3.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-3_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-4_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-5_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `io.grpc:grpc-netty-shaded`  -> [`1.71.0`, `1.72.0`, `1.73.0`]
+1. `io.kestra.storage:storage-azure`  -> [`0.20.0`, `0.20.1`]
+1. `io.netty:netty-tcnative-boringssl-static` 🧩 -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
+1. `io.netty:netty-tcnative`  -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
+1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.45.0-alpha`, `1.46.0-alpha`]
+1. `org.apache.gravitino:gravitino-iceberg-gcp-bundle`  -> [`1.1.0`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
+1. `org.apache.iceberg:iceberg-gcp-bundle`  -> [`1.10.0`]
+1. `org.apache.tika:tika-grpc`  -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
+1. `ru.tinkoff.piapi:java-sdk-basic-example`  -> [`1.31`, `1.32`, `1.36`]
+
 ## org.tukaani.xz
 
 For example, at least 16 artifacts on Maven Central claim to be the module `org.tukaani.xz`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4739,48 +4786,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.icij.extract:extract-cli`  -> [`2.3.0`, `2.3.1`, `2.3.2`, `2.3.3`, `2.3.4`, `2.3.5`, `2.3.8`, `2.3.9`, `2.3.10`, `3.0.0`, `3.0.1`, `3.1.0`, `3.2.0`, `3.2.1`, `3.3.0`, `3.3.1`, `3.3.2`, `3.3.3`, `3.3.4`, `3.3.5`, `3.4.0`, `3.5.0`, `3.5.1`, `3.5.2`, `3.6.0`, `3.6.1`, `3.7.0`, `3.7.1`, `3.7.2`]
 1. `org.jboss.windup.web:windup-keycloak-tool`  -> [`5.2.0.Final`, `5.3.0.Final`, `5.4.0.Final`, `5.5.0.Alpha1`]
 1. `org.mustangproject:Mustang-CLI`  -> [`2.0.1`, `2.0.2`, `2.0.3`]
-
-## dev.failsafe.core
-
-For example, at least 15 artifacts on Maven Central claim to be the module `dev.failsafe.core`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires dev.failsafe.core;`.
-
-1. `com.qcefast:openFast`  -> [`1.4.6`]
-1. `com.spotify.confidence:openfeature-provider`  -> [`0.0.11`]
-1. `com.spotify.confidence:sdk-java`  -> [`0.0.12`, `0.0.13`, `0.0.14`, `0.0.15`]
-1. `dev.failsafe:failsafe` 🧩 -> [`3.3.1`, `3.3.2`]
-1. `io.kestra.plugin:plugin-gcp`  -> [`0.17.0`, `0.17.1`, `0.17.2`, `0.17.3`, `0.18.0`, `0.18.1`, `0.18.2`, `0.19.0`, `0.20.0`]
-1. `org.apache.iceberg:iceberg-aws-bundle`  -> [`1.10.0`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.18`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.19`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-flink-runtime-1.20`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.3_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.4_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.12`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-1. `org.apache.iceberg:iceberg-spark-runtime-3.5_2.13`  -> [`1.7.0`, `1.7.1`, `1.8.0`, `1.8.1`]
-
-## io.netty.internal.tcnative
-
-For example, at least 15 artifacts on Maven Central claim to be the module `io.netty.internal.tcnative`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires io.netty.internal.tcnative;`.
-
-1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`2.1.0`, `2.2.0`, `2.3.0`, `2.3.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-3_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-4_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-5_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `io.grpc:grpc-netty-shaded`  -> [`1.71.0`, `1.72.0`, `1.73.0`]
-1. `io.kestra.storage:storage-azure`  -> [`0.20.0`, `0.20.1`]
-1. `io.netty:netty-tcnative-boringssl-static` 🧩 -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
-1. `io.netty:netty-tcnative`  -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
-1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.45.0-alpha`, `1.46.0-alpha`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
-1. `org.apache.iceberg:iceberg-gcp-bundle`  -> [`1.10.0`]
-1. `org.apache.tika:tika-grpc`  -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
-1. `ru.tinkoff.piapi:java-sdk-basic-example`  -> [`1.31`, `1.32`, `1.36`]
 
 ## net.kyori.examination.string
 
@@ -5044,7 +5049,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.btrace:btrace-client`  -> [`2.2.0`, `2.2.2`, `2.2.3`, `2.2.4`]
 1. `io.jactl:jactl-repl`  -> [`1.1-0`, `1.2.0`, `1.3.0`, `1.3.1`, `1.4.0`, `2.0.0`, `2.1.0`, `2.2.0`]
 1. `org.activecomponents.jadex:jadex-editor-bpmn`  -> [`4.0.244`, `4.0.249`, `4.0.250`, `4.0.252`, `4.0.254`, `4.0.255`, `4.0.256`, `4.0.257`, `4.0.258`, `4.0.260`, `4.0.261`, `4.0.262`, `4.0.263`, `4.0.264`, `4.0.265`, `4.0.266`, `4.0.267`]
-1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`]
+1. `org.ow2.asm:asm-util` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`, `9.9.1`]
 1. `org.soot-oss:sootup.java.bytecode`  -> [`1.0.0`]
 1. `org.teavm:teavm-relocated-libs-asm-util`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
@@ -5559,7 +5564,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.uber.nullaway:jar-infer-cli`  -> [`0.7.6`, `0.7.7`, `0.7.8`, `0.7.9`, `0.7.10`, `0.8.0`, `0.9.0`, `0.9.1`, `0.9.2`, `0.9.3`, `0.9.4`, `0.9.5`, `0.9.6`, `0.9.7`, `0.9.8`, `0.9.9`, `0.9.10`, `0.10.0`, `0.10.1`, `0.10.2`, `0.10.3`, `0.10.4`, `0.10.5`, `0.10.6`, `0.10.7`, `0.10.8`, `0.10.9`, `0.10.10`]
 1. `io.joynr.tools.generator:joynr-generator-standalone`  -> [`1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.17.5`, `1.17.6`, `1.17.7`, `1.17.8`, `1.18.0`, `1.18.1`, `1.19.0`, `1.19.1`, `1.19.2`, `1.19.3`, `1.19.4`, `1.19.5`, `1.19.6`, `1.19.7`, `1.19.8`, `1.19.9`, `1.19.10`, `1.19.11`, `1.19.12`, `1.19.13`, `1.20.0`, `1.21.0`, `1.21.1`, `1.21.4`, `1.21.5`, `1.22.0`, `1.23.1`, `1.24.0`, `1.24.2`]
 1. `org.netbeans.external:asm-tree-7.2`  -> [`RELEASE113`]
-1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`]
+1. `org.ow2.asm:asm-tree` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`, `9.9.1`]
 1. `org.teavm:teavm-relocated-libs-asm-tree`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## org.opentest4j
@@ -5862,7 +5867,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `fish.payara.extras:payara-embedded-all`  -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.5`, `5.2020.6`, `5.2020.7`, `5.2021.1`, `5.2021.2`, `5.2021.3`, `5.2021.4`, `6.2021.1.Alpha1`, `6.2022.1.Alpha2`]
 1. `fish.payara.extras:payara-embedded-web`  -> [`5.194`, `5.201`, `5.2020.2`, `5.2020.3`, `5.2020.4`, `5.2020.6`, `5.2020.7`, `5.2021.1`, `5.2021.2`, `5.2021.3`, `5.2021.4`, `6.2021.1.Alpha1`, `6.2022.1.Alpha2`]
 1. `org.apache.felix:org.apache.felix.scr.bnd`  -> [`1.9.4`, `1.9.6`]
-1. `org.ow2.asm:asm-analysis` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`]
+1. `org.ow2.asm:asm-analysis` 🧩 -> [`6.2.1`, `7.0-beta`, `7.0`, `7.0`, `7.1`, `7.2-beta`, `7.2`, `7.3.1`, `8.0`, `8.0.1`, `9.0-beta`, `9.0`, `9.1`, `9.2`, `9.3`, `9.4`, `9.5`, `9.6`, `9.7`, `9.7.1`, `9.8`, `9.9`, `9.9.1`]
 1. `org.teavm:teavm-relocated-libs-asm-analysis`  -> [`0.8.0`, `0.8.1`, `0.9.0`, `0.9.1`, `0.9.2`, `0.10.0`, `0.10.1`, `0.10.2`, `0.11.0`, `0.12.0`]
 
 ## be.webtechie.piheaders
@@ -6567,7 +6572,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.apache.commons.dbcp2
 
-1. `org.apache.commons:commons-dbcp2` 🧩 -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.13.0`]
+1. `org.apache.commons:commons-dbcp2` 🧩 -> [`2.10.0`, `2.11.0`, `2.12.0`, `2.13.0`, `2.14.0`]
 1. `org.apache.openjpa:openjpa-all`  -> [`4.0.1`, `4.1.0`, `4.1.1`]
 1. `org.apache.tomee:commons-dbcp2-shade`  -> [`9.1.2`, `10.0.0-M1`, `10.0.0-M2`, `10.0.0-M3`, `10.0.0`, `10.0.1`, `10.1.0`, `10.1.1`, `10.1.2`, `10.1.3`]
 1. `org.ikasan:commons-dbcp2`  -> [`1.0.0`]
@@ -6659,8 +6664,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.slf4j.jul
 
 1. `com.exasol:project-keeper-cli`  -> [`2.9.2`, `2.9.3`]
-1. `org.apache.beam:beam-runners-google-cloud-dataflow-java-legacy-worker`  -> [`2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
-1. `org.apache.beam:beam-sdks-java-transform-service-app`  -> [`2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`]
+1. `org.apache.beam:beam-runners-google-cloud-dataflow-java-legacy-worker`  -> [`2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
+1. `org.apache.beam:beam-sdks-java-transform-service-app`  -> [`2.64.0`, `2.65.0`, `2.66.0`, `2.67.0`, `2.68.0`, `2.69.0`, `2.70.0`]
 1. `org.slf4j:slf4j-jdk14` 🧩 -> [`1.8.0-beta2`, `1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
 
 ## org.slf4j.zio
