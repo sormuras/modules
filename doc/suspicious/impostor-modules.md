@@ -7364,8 +7364,8 @@ If your project depends on the one true artifact and _any_ of the other artifact
 ## org.dnsjava
 
 1. `dnsjava:dnsjava`  -> [`3.6.0`, `3.6.1`, `3.6.2`, `3.6.3`]
-1. `org.apache.kudu:kudu-backup-tools`  -> [`1.18.0`]
-1. `org.apache.kudu:kudu-subprocess`  -> [`1.18.0`]
+1. `org.apache.kudu:kudu-backup-tools`  -> [`1.18.0`, `1.18.1`]
+1. `org.apache.kudu:kudu-subprocess`  -> [`1.18.0`, `1.18.1`]
 
 ## org.eclipse.parsson
 
