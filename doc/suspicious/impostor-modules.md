@@ -4407,7 +4407,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.redis:redis-spark-connector`  -> [`0.1.0`, `0.1.1`, `0.1.2`, `0.2.0`, `0.2.1`, `0.2.2`, `0.3.0`, `0.3.1`, `0.4.0`]
 1. `com.vlkan.log4j2:log4j2-redis-appender-fatjar`  -> [`0.14.0`, `0.15.0`, `0.16.0`]
-1. `org.apache.commons:commons-pool2` 🧩 -> [`2.12.0`, `2.12.1`, `2.13.0`]
+1. `org.apache.commons:commons-pool2` 🧩 -> [`2.12.0`, `2.12.1`, `2.13.0`, `2.13.1`]
 1. `org.apache.directory.api:api-ldap-client-all`  -> [`2.1.5`, `2.1.6`, `2.1.7`]
 1. `org.apache.druid.extensions.contrib:druid-redis-cache`  -> [`30.0.0`, `30.0.1`, `31.0.0`, `31.0.1`, `32.0.0`, `32.0.1`, `33.0.0`, `34.0.0`, `35.0.0`, `35.0.1`]
 1. `org.apache.jackrabbit:oak-run-elastic`  -> [`1.66.0`, `1.68.0`, `1.70.0`, `1.72.0`, `1.74.0`, `1.76.0`, `1.78.0`]
