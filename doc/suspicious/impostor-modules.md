@@ -858,7 +858,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.shenyu:shenyu-admin-listener-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-registry-apollo`  -> [`2.6.1`]
 1. `org.apache.shenyu:shenyu-spring-boot-starter-sync-data-apollo`  -> [`2.6.1`]
-1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`]
+1. `org.apache.spark:spark-connect-client-jvm_2.12`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `3.5.2`, `3.5.3`, `3.5.4`, `3.5.5`, `3.5.6`, `3.5.7`, `3.5.8`]
 1. `org.apache.spark:spark-connect-client-jvm_2.13`  -> [`3.4.0`, `3.4.1`, `3.5.0`, `3.5.1`, `4.0.0-preview1`, `4.0.0-preview2`, `4.1.0-preview1`, `4.1.0-preview2`, `4.1.0-preview3`, `4.1.0-preview4`]
 1. `org.apache.spark:spark-connect_2.13`  -> [`4.1.0-preview4`, `4.1.1`, `4.2.0-preview1`]
 1. `org.apache.storm:storm-hdfs-examples`  -> [`2.6.2`, `2.6.4`, `2.7.0`]
