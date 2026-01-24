@@ -9,7 +9,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 1. `com.fasterxml.jackson.databind` x400
 1. `kotlin.stdlib.jdk8` x251
 1. `org.apache.logging.log4j` x248
-1. `org.slf4j` x244
+1. `org.slf4j` x247
 1. `kotlin.stdlib` x158
 1. `com.fasterxml.jackson.datatype.jsr310` x127
 1. `net.bytebuddy` x112
@@ -1862,7 +1862,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## org.slf4j
 
-For example, at least 244 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 247 artifacts on Maven Central claim to be the module `org.slf4j`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires org.slf4j;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`1.1.1`, `1.1.3`, `1.1.5`, `1.1.6`, `1.1.7`, `1.1.8`, `1.1.9`, `1.1.10`, `1.1.12`, `1.1.13`, `1.1.14`, `1.1.15`, `1.1.16`, `1.1.17`, `1.1.18`]
@@ -2029,6 +2029,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.activemq:artemis-core-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
 1. `org.apache.activemq:artemis-jakarta-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
 1. `org.apache.activemq:artemis-jms-client-all`  -> [`2.32.0`, `2.33.0`, `2.34.0`, `2.35.0`, `2.36.0`, `2.37.0`, `2.38.0`, `2.39.0`, `2.40.0`, `2.41.0`, `2.42.0`, `2.43.0`, `2.44.0`]
+1. `org.apache.artemis:artemis-core-client-all`  -> [`2.50.0`]
+1. `org.apache.artemis:artemis-jakarta-client-all`  -> [`2.50.0`]
+1. `org.apache.artemis:artemis-jms-client-all`  -> [`2.50.0`]
 1. `org.apache.ctakes:ctakes-assertion`  -> [`6.0.0`]
 1. `org.apache.ctakes:ctakes-chunker`  -> [`6.0.0`]
 1. `org.apache.ctakes:ctakes-constituency-parser`  -> [`6.0.0`]
