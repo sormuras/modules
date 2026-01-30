@@ -4034,7 +4034,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `com.ibm.cloud:platform-services-examples`  -> [`0.57.1`, `0.58.0`, `0.58.1`, `0.58.2`, `0.59.0`, `0.60.0`, `0.60.2`, `0.61.0`, `0.61.1`, `0.62.0`, `0.63.0`, `0.63.1`, `0.64.0`, `0.65.0`, `0.66.0`, `0.66.1`]
 1. `com.ibm.cos:ibm-cos-java-sdk-bundle`  -> [`2.13.5`, `2.13.6`, `2.14.0`, `2.14.1`]
 1. `com.teamscale:impacted-test-engine`  -> [`33.1.0`, `33.1.1`, `33.1.2`, `33.2.0`, `33.3.0`, `33.3.1`, `33.3.2`, `33.3.3`, `34.0.0`, `34.0.1`, `34.0.2`, `34.1.0`, `34.1.1`, `34.2.0`]
-1. `commons-codec:commons-codec`  -> [`1.16.1`, `1.17.0`, `1.17.1`, `1.17.2`, `1.18.0`, `1.19.0`, `1.20.0`]
+1. `commons-codec:commons-codec`  -> [`1.16.1`, `1.17.0`, `1.17.1`, `1.17.2`, `1.18.0`, `1.19.0`, `1.20.0`, `1.21.0`]
 1. `de.knightsoft-net:gwt-commons-codec`  -> [`1.17.1-1`]
 1. `gov.nasa.pds:nucleus-tools`  -> [`0.0.26`]
 1. `io.bdeploy:api`  -> [`7.0.0`]
