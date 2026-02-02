@@ -852,7 +852,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.pulsar:jclouds-shaded`  -> [`3.2.3`, `3.3.0`, `3.3.1`, `4.0.0-preview.1`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.0.5`, `4.0.6`, `4.1.0`, `4.1.1`, `4.1.2`]
 1. `org.apache.ratis:ratis-examples`  -> [`3.0.0`, `3.0.1`, `3.1.0`, `3.1.1`, `3.1.2`, `3.1.3`, `3.2.0`, `3.2.1`]
 1. `org.apache.ratis:ratis-thirdparty-misc`  -> [`1.0.5`, `1.0.6`, `1.0.7`, `1.0.8`, `1.0.9`, `1.0.10`]
-1. `org.apache.rocketmq:rocketmq-client-java`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`, `5.1.0`]
+1. `org.apache.rocketmq:rocketmq-client-java`  -> [`5.0.0`, `5.0.1`, `5.0.2`, `5.0.3`, `5.0.4`, `5.0.5`, `5.0.6`, `5.0.7`, `5.0.8`, `5.1.0`, `5.2.0`]
 1. `org.apache.seatunnel:connector-graphql`  -> [`2.3.11`, `2.3.12`]
 1. `org.apache.seatunnel:connector-qdrant`  -> [`2.3.8`, `2.3.9`, `2.3.10`, `2.3.11`, `2.3.12`]
 1. `org.apache.shenyu:shenyu-admin-listener-apollo`  -> [`2.6.1`]
