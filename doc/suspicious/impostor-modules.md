@@ -6,7 +6,7 @@ This makes it look like there are dozens of modules with the same name in Maven 
 
 1. `com.fasterxml.jackson.core` x495
 1. `com.google.gson` x405
-1. `com.fasterxml.jackson.databind` x400
+1. `com.fasterxml.jackson.databind` x402
 1. `kotlin.stdlib.jdk8` x251
 1. `org.apache.logging.log4j` x248
 1. `org.slf4j` x247
@@ -945,7 +945,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.databind
 
-For example, at least 400 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 402 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.databind`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.databind;`.
 
 1. `ai.traceable.agent:javaagent`  -> [`0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `1.0.0`, `1.0.1`, `1.0.2`, `1.0.3`]
@@ -1189,7 +1189,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.apache.doris:spark-doris-connector-3.2_2.12`  -> [`1.1.0`]
 1. `org.apache.drill.exec:drill-jdbc-all`  -> [`1.20.2`]
 1. `org.apache.flink:flink-agents-agent-plan-compatibility-tests`  -> [`0.1.0`, `0.1.1`]
+1. `org.apache.flink:flink-agents-dist-flink-2.2`  -> [`0.2.0`]
 1. `org.apache.flink:flink-agents-dist`  -> [`0.1.0`, `0.1.1`]
+1. `org.apache.flink:flink-agents-end-to-end-tests-agent-plan-compatibility`  -> [`0.2.0`]
 1. `org.apache.flink:flink-azure-fs-hadoop`  -> [`1.15.0`, `1.15.1`, `1.15.2`, `1.16.0`, `1.16.1`, `1.17.0`, `1.17.1`, `1.18.0`, `1.18.1`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-elasticsearch`  -> [`3.2.0`, `3.2.1`, `3.3.0`, `3.4.0`, `3.5.0`]
 1. `org.apache.flink:flink-cdc-pipeline-connector-iceberg`  -> [`3.4.0`, `3.5.0`]
@@ -4134,7 +4136,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 ## com.fasterxml.jackson.datatype.jdk8
 
-For example, at least 44 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+For example, at least 47 artifacts on Maven Central claim to be the module `com.fasterxml.jackson.datatype.jdk8`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
 If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires com.fasterxml.jackson.datatype.jdk8;`.
 
 1. `com.airbyte:api`  -> [`0.0.6`, `0.0.7`, `0.1.1`, `0.2.0`, `0.2.1`, `0.5.2`, `0.5.3`, `0.12.1`]
@@ -4180,6 +4182,9 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `io.openlineage:openlineage-flink`  -> [`1.9.1`, `1.10.2`, `1.11.3`, `1.12.0`, `1.13.1`, `1.14.0`, `1.15.0`, `1.16.0`, `1.17.1`, `1.18.0`, `1.19.0`, `1.20.3`, `1.20.5`, `1.21.1`, `1.22.0`, `1.23.0`, `1.24.0`, `1.24.1`, `1.24.2`, `1.25.0`, `1.26.0`, `1.27.0`, `1.28.0`]
 1. `io.opentelemetry.javaagent:opentelemetry-testing-common`  -> [`2.4.0-alpha`, `2.7.0-alpha`]
 1. `org.apache.beam:beam-sdks-java-io-debezium-expansion-service`  -> [`2.34.0`, `2.35.0`]
+1. `org.apache.flink:flink-agents-dist-flink-1.20`  -> [`0.2.0`]
+1. `org.apache.flink:flink-agents-dist-flink-2.0`  -> [`0.2.0`]
+1. `org.apache.flink:flink-agents-dist-flink-2.1`  -> [`0.2.0`]
 1. `org.apache.grails:grails-cli`  -> [`7.0.0-M4`]
 
 ## kotlin.reflect
