@@ -5532,7 +5532,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `cloud.piranha.dist:piranha-dist-webprofile`  -> [`24.7.0`, `24.8.0`, `24.9.0`, `24.10.0`, `24.11.0`, `24.12.0`, `25.1.0`, `25.2.0`, `25.3.0`, `25.4.0`, `25.5.0`, `25.6.0`]
 1. `io.telicent.smart-caches.graph:scg-server`  -> [`0.80.1`, `0.81.0`, `0.81.1`, `0.81.2`, `0.81.3`, `0.81.4`, `0.81.5`, `0.81.6`, `0.81.7`, `0.81.8`, `0.82.0`, `0.82.1`, `0.82.2`, `0.82.3`, `0.82.4`, `0.82.5`, `0.82.6`, `0.82.7`, `0.82.8`, `0.82.9`, `0.82.10`, `0.82.11`, `0.82.12`, `0.82.13`, `0.82.14`]
 1. `io.telicent:rdf-abac-evaluator`  -> [`1.2.0`, `1.2.1`]
-1. `org.apache.commons:commons-fileupload2-jakarta-servlet6` 🧩 -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`]
+1. `org.apache.commons:commons-fileupload2-jakarta-servlet6` 🧩 -> [`2.0.0-M2`, `2.0.0-M3`, `2.0.0-M4`, `2.0.0-M5`]
 1. `org.apache.jena:jena-fuseki-fulljar`  -> [`5.0.0`, `5.1.0`]
 1. `org.apache.jena:jena-fuseki-server`  -> [`5.0.0`, `5.1.0`]
 
