@@ -4469,6 +4469,33 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `software.amazon.disco:disco-java-agent-inject-api`  -> [`0.10.0`, `0.11.0`, `0.12.0`]
 1. `software.amazon.disco:disco-java-agent-instrumentation-preprocess`  -> [`0.12.0`]
 
+## io.netty.internal.tcnative
+
+For example, at least 21 artifacts on Maven Central claim to be the module `io.netty.internal.tcnative`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
+If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires io.netty.internal.tcnative;`.
+
+1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`2.1.0`, `2.2.0`, `2.3.0`, `2.3.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-3_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-4_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `com.azure.cosmos.spark:azure-cosmos-spark_3-5_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
+1. `io.grpc:grpc-netty-shaded`  -> [`1.71.0`, `1.72.0`, `1.73.0`]
+1. `io.kestra.storage:storage-azure`  -> [`0.20.0`, `0.20.1`]
+1. `io.netty:netty-tcnative-boringssl-static` 🧩 -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
+1. `io.netty:netty-tcnative`  -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
+1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.45.0-alpha`, `1.46.0-alpha`]
+1. `org.apache.flink:flink-shaded-netty-tcnative-dynamic`  -> [`2.0.74.Final-21.0`]
+1. `org.apache.flink:flink-shaded-netty-tcnative-static`  -> [`2.0.74.Final-21.0`]
+1. `org.apache.gravitino:gravitino-iceberg-gcp-bundle`  -> [`1.1.0`]
+1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
+1. `org.apache.iceberg:iceberg-gcp-bundle`  -> [`1.10.0`, `1.10.1`]
+1. `org.apache.ozone:ozone-filesystem-shaded`  -> [`2.1.0`]
+1. `org.apache.skywalking:apm-agent-core`  -> [`9.6.0`]
+1. `org.apache.skywalking:apm-agent`  -> [`9.6.0`]
+1. `org.apache.tika:tika-grpc`  -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
+1. `ru.tinkoff.piapi:java-sdk-basic-example`  -> [`1.31`, `1.32`, `1.36`]
+
 ## org.apache.commons.cli
 
 For example, at least 21 artifacts on Maven Central claim to be the module `org.apache.commons.cli`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
@@ -4600,31 +4627,6 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.pitest:pitest-aggregator`  -> [`1.16.1`, `1.16.2`, `1.16.3`, `1.17.0`, `1.17.1`, `1.17.2`, `1.17.3`, `1.17.4`, `1.18.0`, `1.18.1`, `1.18.2`, `1.19.0`, `1.19.1`]
 1. `org.projectnessie.nessie-integrations:nessie-gc-tool`  -> [`0.74.0`, `0.75.0`, `0.76.0`, `0.76.1`, `0.76.2`, `0.76.3`, `0.76.4`, `0.76.5`, `0.76.6`, `0.77.0`, `0.77.1`, `0.78.0`, `0.79.0`, `0.80.0`, `0.81.0`, `0.81.1`, `0.82.0`, `0.83.0`, `0.83.1`, `0.83.2`, `0.90.1`, `0.90.2`, `0.90.4`, `0.91.0`, `0.91.1`, `0.91.2`, `0.91.3`, `0.92.0`, `0.92.1`, `0.93.1`, `0.94.0`, `0.94.1`, `0.94.2`, `0.94.3`]
 1. `org.sonatype.gradle.plugins:scan-gradle-plugin`  -> [`2.5.2`, `2.5.3`, `2.5.4`, `2.5.5`, `2.6.0`, `2.6.1`, `2.6.2`]
-
-## io.netty.internal.tcnative
-
-For example, at least 19 artifacts on Maven Central claim to be the module `io.netty.internal.tcnative`, but only one of those artifacts is the "real" (annotated with a 🧩 tag) module.
-If your project depends on the one true artifact and _any_ of the other artifacts, then you will experience problems when your module tries to say `requires io.netty.internal.tcnative;`.
-
-1. `com.azure.cosmos.kafka:azure-cosmos-kafka-connect`  -> [`2.1.0`, `2.2.0`, `2.3.0`, `2.3.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-1_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-2_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-3_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-4_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `com.azure.cosmos.spark:azure-cosmos-spark_3-5_2-12`  -> [`4.35.0`, `4.36.0`, `4.36.1`, `4.37.0`, `4.37.1`, `4.37.2`]
-1. `io.grpc:grpc-netty-shaded`  -> [`1.71.0`, `1.72.0`, `1.73.0`]
-1. `io.kestra.storage:storage-azure`  -> [`0.20.0`, `0.20.1`]
-1. `io.netty:netty-tcnative-boringssl-static` 🧩 -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
-1. `io.netty:netty-tcnative`  -> [`2.0.66.Final`, `2.0.67.Final`, `2.0.68.Final`, `2.0.69.Final`, `2.0.70.Final`, `2.0.71.Final`]
-1. `io.opentelemetry.contrib:opentelemetry-jmx-metrics`  -> [`1.45.0-alpha`, `1.46.0-alpha`]
-1. `org.apache.flink:flink-shaded-netty-tcnative-dynamic`  -> [`2.0.74.Final-21.0`]
-1. `org.apache.flink:flink-shaded-netty-tcnative-static`  -> [`2.0.74.Final-21.0`]
-1. `org.apache.gravitino:gravitino-iceberg-gcp-bundle`  -> [`1.1.0`]
-1. `org.apache.hbase.thirdparty:hbase-shaded-netty-tcnative`  -> [`4.1.9`, `4.1.10`, `4.1.11`, `4.1.12`]
-1. `org.apache.iceberg:iceberg-gcp-bundle`  -> [`1.10.0`, `1.10.1`]
-1. `org.apache.ozone:ozone-filesystem-shaded`  -> [`2.1.0`]
-1. `org.apache.tika:tika-grpc`  -> [`3.2.0`, `3.2.1`, `3.2.2`, `3.2.3`]
-1. `ru.tinkoff.piapi:java-sdk-basic-example`  -> [`1.31`, `1.32`, `1.36`]
 
 ## org.bouncycastle.pg
 
