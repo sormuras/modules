@@ -4067,7 +4067,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.kie:kie-dmn-ruleset2dmn-cli`  -> [`10.0.0`, `10.1.0`]
 1. `org.liquibase:liquibase-commercial`  -> [`4.27.0`, `4.28.0`, `4.29.0`, `4.29.1`, `4.29.2`, `4.30.0`, `4.31.0`, `4.31.1`, `4.32.0`]
 1. `org.neo4j.procedure:apoc`  -> [`4.4.0.26`]
-1. `org.netbeans.external:org-apache-commons-codec`  -> [`RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`]
+1. `org.netbeans.external:org-apache-commons-codec`  -> [`RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`, `RELEASE290`]
 1. `org.ops4j.pax.url:pax-url-aether`  -> [`2.6.15`, `2.6.16`, `3.0.0`]
 1. `org.sonarsource.go:sonar-go-plugin`  -> [`1.22.0.2135`, `1.22.1.2620`, `1.23.0.2815`, `1.23.1.2838`, `1.24.0.3049`]
 1. `org.sonarsource.slang:sonar-ruby-plugin`  -> [`1.19.0.471`]
@@ -4842,7 +4842,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 1. `org.beangle.sas:beangle-sas-juli`  -> [`0.12.8`, `0.12.9`, `0.12.10`, `0.12.11`]
 1. `org.camunda.bpm.extension.dmn:dmn-xlsx-cli`  -> [`0.4.0`]
 1. `org.camunda.bpm.extension.dmn:dmn-xlsx-process-engine-plugin`  -> [`0.4.0`]
-1. `org.netbeans.external:org-apache-commons-logging`  -> [`RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`]
+1. `org.netbeans.external:org-apache-commons-logging`  -> [`RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`, `RELEASE290`]
 1. `org.slf4j:jcl-over-slf4j`  -> [`1.8.0-beta2`, `1.8.0-beta2`, `1.8.0-beta4`, `2.0.0-alpha0`, `2.0.0-alpha1`, `2.0.0-alpha2`, `2.0.0-alpha3`, `2.0.0-alpha4`, `2.0.0-alpha5`, `2.0.0-alpha6`, `2.0.0-alpha7`, `2.0.0-beta0`, `2.0.0-beta1`, `2.0.0`, `2.0.1`, `2.0.2`, `2.0.3`, `2.0.4`, `2.0.5`, `2.0.7`, `2.0.8`, `2.0.9`, `2.1.0-alpha0`, `2.1.0-alpha1`]
 1. `org.springframework.cloud:spring-cloud-contract-shade`  -> [`4.0.0`, `4.0.1`, `4.0.2`, `4.0.3`, `4.0.4`, `4.1.0`, `4.1.1`]
 1. `org.violetlib:vbuilder-ant-uber`  -> [`1`, `2`]
@@ -6905,7 +6905,7 @@ If your project depends on the one true artifact and _any_ of the other artifact
 
 1. `com.github.mwiede:jsch`  -> [`0.1.65`, `0.1.66`, `0.1.67`, `0.1.68`, `0.1.69`, `0.1.70`, `0.1.71`, `0.1.72`, `0.2.0`, `0.2.1`, `0.2.2`, `0.2.3`, `0.2.4`, `0.2.5`, `0.2.6`, `0.2.7`, `0.2.8`, `0.2.9`, `0.2.10`, `0.2.11`, `0.2.12`, `0.2.13`, `0.2.14`, `0.2.15`, `0.2.16`, `0.2.17`, `0.2.18`, `0.2.19`, `0.2.20`, `0.2.21`, `0.2.22`, `0.2.23`, `0.2.24`, `0.2.25`]
 1. `io.kestra.plugin:plugin-fs`  -> [`0.16.0`, `0.16.1`, `0.17.0`, `0.18.0`, `0.18.1`, `0.18.2`, `0.18.3`, `0.19.0`, `0.20.0`, `0.21.0`, `0.21.1`]
-1. `org.netbeans.external:com-jcraft-jsch`  -> [`RELEASE140`, `RELEASE150`, `RELEASE160`, `RELEASE170`, `RELEASE180`, `RELEASE190`, `RELEASE200`, `RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`]
+1. `org.netbeans.external:com-jcraft-jsch`  -> [`RELEASE140`, `RELEASE150`, `RELEASE160`, `RELEASE170`, `RELEASE180`, `RELEASE190`, `RELEASE200`, `RELEASE210`, `RELEASE220`, `RELEASE230`, `RELEASE240`, `RELEASE250`, `RELEASE260`, `RELEASE270`, `RELEASE280`, `RELEASE290`]
 
 ## com.jwebmp.components.bootstrap.themes.sbadmin2
 
