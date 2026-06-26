@@ -1,6 +1,10 @@
 > [!IMPORTANT]  
 > The job providing updates of artifacts uploaded to Maven Central is slacking since summer 2025.
-> This comment will be removed once it starts to process correctly again.
+>
+> This project is superseded by https://github.com/raphw/jenesis-modules/
+>
+> Here is the current 🦄 [module-maven.properties](https://github.com/raphw/jenesis-modules/blob/main/data/module-maven.properties) file of unique modules.
+>
 
 # sormuras/modules
 
